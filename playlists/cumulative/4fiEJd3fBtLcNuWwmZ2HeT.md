@@ -4,7 +4,7 @@
 
 > Adicta a mi novia
 
-570 songs - 1 day 9 hr 23 min
+571 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Something more awesome than a ghost](https://open.spotify.com/track/47f3tIWTiD6wHB2AaCmkkp) | [null](https://open.spotify.com/artist/2uunASYD2lq4NEKTWE0O6V), [warabe](https://open.spotify.com/artist/6o7QGeizvqvNU5Aq2Okw13) | [Something more awesome than a ghost](https://open.spotify.com/album/49TixC2pbSlrKHpGZBntp1) | 3:10 | 2025-08-04 |  |
 | [Sorry it wasn't forever \(feat\. madoromi\)](https://open.spotify.com/track/69n0dLtJCBKeOb7m8HYE5G) | [わらべ](https://open.spotify.com/artist/1KUIs8lgefJSyknHFz1BOW), [madoromi](https://open.spotify.com/artist/2GdOkJywja5PHXZbdNzEzN) | [Sorry it wasn't forever \(feat\. madoromi\)](https://open.spotify.com/album/5cAnsvjLGJEj6wf4DIEAxe) | 2:19 | 2026-04-07 |  |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-14 |  |
+| [Splitter Girl](https://open.spotify.com/track/0kAQ0bGcee2YyzM4C3a3FV) | [weevildoing](https://open.spotify.com/artist/5zwqiROc7gBVY5Xx2sf2Tn), [SeeU](https://open.spotify.com/artist/1mao2cTeJSvu5ufNV2CtdR) | [Splitter Girl](https://open.spotify.com/album/2uocSKWR7VZhwbZx9BknfH) | 3:10 | 2026-11-16 |  |
 | [Spot Late](https://open.spotify.com/track/6FqWBvjXuDOI0wK7E2dPE3) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [Spot Late](https://open.spotify.com/album/6kRUDQ0A6l0pMGMO8cDdKE) | 3:03 | 2026-02-03 |  |
 | [Spotlight \(feat\. WaMi\)](https://open.spotify.com/track/2GwDA6KvANMLYETLsBj9SE) | [MOTTO MUSIC](https://open.spotify.com/artist/69eIvKHcfYigWsgnBSv1jW), [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks), [WaMi](https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol) | [Sweets.](https://open.spotify.com/album/2AoDCCx6szbKJp8yrZPzdL) | 4:04 | 2024-08-12 |  |
 | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/track/4UxpuTRGpbqUouLUQ0G0jY) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/album/54qjvu2FrHsLXR1YIb6SUv) | 1:41 | 2023-11-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKHXELrNhC0.md) - [plain]
 
 > This is Céline Dion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,401 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,413 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKHXELrNhC0.md) - [plain]
 | 43 | [If You Asked Me To](https://open.spotify.com/track/6vubJBI43jIr557lvNbzlH) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 3:54 |
 | 44 | [The Reason](https://open.spotify.com/track/4CiIB7eCQ7IVmrCFqvi7f9) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 5:00 |
 | 45 | [D'amour ou d'amitié](https://open.spotify.com/track/1wPxv9P0rfJ3ZwwxmLcLjb) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5CYySBXyzQRRls33R3nPxa) | 3:58 |
-| 46 | [If That's What It Takes](https://open.spotify.com/track/0VZpmCCcRhT3DC7T03Z2zX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 4:12 |
-| 47 | [Je sais pas](https://open.spotify.com/track/1NwJn3oKyyaEITEEfDek0N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'eux](https://open.spotify.com/album/4BBhjKBUJZxBGsmTCH4BHM) | 4:33 |
+| 46 | [Je sais pas](https://open.spotify.com/track/1NwJn3oKyyaEITEEfDek0N) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'eux](https://open.spotify.com/album/4BBhjKBUJZxBGsmTCH4BHM) | 4:33 |
+| 47 | [If That's What It Takes](https://open.spotify.com/track/0VZpmCCcRhT3DC7T03Z2zX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 4:12 |
 | 48 | [Where Does My Heart Beat Now](https://open.spotify.com/track/0S7Vv5am0xbAXgJ2RFQR8S) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Unison](https://open.spotify.com/album/2EYo2LYm6M9jEpiphoblYl) | 4:32 |
 | 49 | [Parler à mon père](https://open.spotify.com/track/26aA4zxAPhd7LVmI21BMfB) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Sans attendre](https://open.spotify.com/album/3YDSg55oekaXGxcoO8G9Bk) | 2:53 |
 | 50 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 |

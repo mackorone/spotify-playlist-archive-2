@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Bảo Anh
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,183 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,191 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [THẾ NÀO LÀ ĐÚNG? \(OST "CHỊ CHỊ EM EM 3"\)](https://open.spotify.com/track/3zLYevIPZQMpSPF5TOaWtt) | [Bảo Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [THẾ NÀO LÀ ĐÚNG? \(OST "CHỊ CHỊ EM EM 3"\)](https://open.spotify.com/album/5NS1o3MBKkwpTESMl4I491) | 3:53 |
+| 1 | [THẾ NÀO LÀ ĐÚNG? \("CHỊ CHỊ EM EM 3" ORIGINAL SOUNDTRACK\)](https://open.spotify.com/track/3zLYevIPZQMpSPF5TOaWtt) | [Bảo Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [THẾ NÀO LÀ ĐÚNG? \("CHỊ CHỊ EM EM 3" ORIGINAL SOUNDTRACK\)](https://open.spotify.com/album/5NS1o3MBKkwpTESMl4I491) | 3:53 |
 | 2 | [Đại Minh Tinh](https://open.spotify.com/track/48D6GbuJqsGLTkNm6QvYwl) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 4:07 |
 | 3 | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/track/3AWGEluq3VIBh4k4aIJN1p) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/album/7qkUMmrw7TNvqKZ12PCnxh) | 5:02 |
 | 4 | [Đi Giữa Trời Rực Rỡ \- From "Đi Giữa Trời Rực Rỡ"](https://open.spotify.com/track/62bwj2FZsr0ljcap1FEf8g) | [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Đi Giữa Trời Rực Rỡ \(From "Đi Giữa Trời Rực Rỡ"\)](https://open.spotify.com/album/3bbkxOcKHeyfk2UnZbXu5J) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 264 songs - 14 hr 12 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 267 songs - 14 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,5 +272,8 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 262 | [On se sait](https://open.spotify.com/track/77tyR0eQEbNglQPA0OxTsS) | [JANEREVA](https://open.spotify.com/artist/7J2WoLXgGpYTjnKiIZCN44) | [On se sait](https://open.spotify.com/album/6bt1zfR2cvJFd2Ouv30iSF) | 3:46 |
 | 263 | [Quand la vie est vide](https://open.spotify.com/track/3GIdXR8xerdTn33599qIgr) | [Djeïkeï](https://open.spotify.com/artist/7iLafw9GtisYxELUXgUP4Q) | [Quand la vie est vide](https://open.spotify.com/album/6N852oP7zIvARE3y4tJrAc) | 4:09 |
 | 264 | [Perception spirituelle](https://open.spotify.com/track/27mHz6qa3D5QugGToOToHV) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Magus](https://open.spotify.com/album/4dViPrbDf2sIFrnL3tffsW) | 3:44 |
+| 265 | [Ne baisse jamais les bras](https://open.spotify.com/track/2YjiYnZvI3VfTxubeUGaDC) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy), [SaintLouis](https://open.spotify.com/artist/7t8YDBSiYdJXRnCWjWC0tD) | [Soulitaire](https://open.spotify.com/album/0Yu63iTCPXTq825WvqWqDQ) | 4:18 |
+| 266 | [La nuit pour adresse](https://open.spotify.com/track/4gvFL12l3nmL4ynUJ82yyZ) | [Olive](https://open.spotify.com/artist/6vAVYxk3IayFetuFPhSuVw) | [OLIIVE](https://open.spotify.com/album/3fGq1NUKCuNW4sBcWJvceC) | 3:41 |
+| 267 | [LA MER](https://open.spotify.com/track/49Ka6WAH2WAoJ3MXanfSwf) | [Muermo](https://open.spotify.com/artist/1CYMpVs1QBgDrOFkC8AFzO) | [CT \#1](https://open.spotify.com/album/75tgk8xFzraJLyxbjVM7I5) | 2:27 |
 
-Snapshot ID: `AAABMqvKIRWDM4AQCybcI4oDckYx/3K7`
+Snapshot ID: `AAABNQXoY8EJDuy1C+NRGlw1ishcp87h`

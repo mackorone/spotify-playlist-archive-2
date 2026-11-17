@@ -4,7 +4,7 @@
 
 > This is Ho \- Kago Tea Time\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 11 min
+50 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [Fuwa Fuwa Time \- Ep\. 23 "Ho\-Kago!" Mix](https://open.spotify.com/track/4ODRsGI16zffK1S5xn0Iqb) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:30 | 2025-05-31 |  |
 | [Genius...!?](https://open.spotify.com/track/6kj8eDhov1Li8gCwIyHRG9) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Go! Go! Maniac \(From "K\-ON!!\)](https://open.spotify.com/album/2y7Bktloeww6fRNdXQz0iL) | 4:29 | 2025-05-30 | 2026-11-09 |
 | [Genius…!?](https://open.spotify.com/track/4y0nUHDbNeLFFlvOcNBLhV) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [GO! GO! MANIAC](https://open.spotify.com/album/0t5SvO8PbUct9yZLE38Fbl) | 4:29 | 2026-11-09 |  |
+| [Girls in Wonderland](https://open.spotify.com/track/0a3Q8MysSG7TiC8awyMoPo) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [No, Thank You ! \(From "K\-ON!!"\) \[Standard Edition\]](https://open.spotify.com/album/5Ffh9g3HHuFz7FVJSU8db1) | 3:34 | 2026-11-17 |  |
 | [Girls in Wonderland](https://open.spotify.com/track/2V69C3QpJcYOjxG7s9NMGy) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [No, Thank You! \(From "K\-On!!"\)](https://open.spotify.com/album/7wKX3P7DuEXguwsxq5B2ab) | 3:34 | 2025-05-30 | 2026-11-09 |
-| [Girls in Wonderland](https://open.spotify.com/track/7HUSmw2mmJO248tfV3kRgC) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [NO, Thank You!](https://open.spotify.com/album/3rPg0BGnBY0duoXkWlOUz0) | 3:34 | 2026-11-09 |  |
+| [Girls in Wonderland](https://open.spotify.com/track/7HUSmw2mmJO248tfV3kRgC) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [NO, Thank You!](https://open.spotify.com/album/3rPg0BGnBY0duoXkWlOUz0) | 3:34 | 2026-11-09 | 2026-11-17 |
 | [GO! GO! MANIAC](https://open.spotify.com/track/1wstHd1OmAsH1Sy9qcPhrk) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [GO! GO! MANIAC](https://open.spotify.com/album/0t5SvO8PbUct9yZLE38Fbl) | 4:11 | 2025-05-30 |  |
 | [Gohan Wa Okazu](https://open.spotify.com/track/1i8sVUbbbSaFqRDDb7GRSN) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 3:11 | 2025-05-30 |  |
 | [Honey Sweet Tea Time](https://open.spotify.com/track/3QorgDH1Ki58nQi2Y5trem) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:12 | 2026-01-24 | 2026-02-03 |
@@ -26,7 +27,8 @@
 | [Listen!!](https://open.spotify.com/track/4qwo5Am3GVR17Dx1lq9R8Z) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!!](https://open.spotify.com/album/6T1lz7BuuqQLntnnjAbAT8) | 3:47 | 2026-11-05 |  |
 | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/track/37WXM4pfUpz5uRzzukjnqS) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/album/5NHwuwLZ1p38Fq3Q6sGchl) | 3:47 | 2025-05-30 | 2026-11-05 |
 | [My Heart Is Shining](https://open.spotify.com/track/3nLoyZ222i1y9xCabWd75M) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/0wMNgEjMMy1M1ppAfqUiPo) | [Always Here for You](https://open.spotify.com/album/1mPj1VmKQzWyCZ0yyJ1bYM) | 2:32 | 2026-11-01 | 2026-11-02 |
-| [NO, Thank You!](https://open.spotify.com/track/2l7kjbDVtqivr8yMhOSWH4) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [NO, Thank You!](https://open.spotify.com/album/3rPg0BGnBY0duoXkWlOUz0) | 4:17 | 2026-11-06 |  |
+| [No, Thank You ! \- From "K \- On !!"](https://open.spotify.com/track/1xkOdZVDeRwM1Mo2c38EKl) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [No, Thank You ! \(From "K\-ON!!"\) \[Standard Edition\]](https://open.spotify.com/album/5Ffh9g3HHuFz7FVJSU8db1) | 4:17 | 2026-11-17 |  |
+| [NO, Thank You!](https://open.spotify.com/track/2l7kjbDVtqivr8yMhOSWH4) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [NO, Thank You!](https://open.spotify.com/album/3rPg0BGnBY0duoXkWlOUz0) | 4:17 | 2026-11-06 | 2026-11-17 |
 | [No, Thank You! \(From "K\-On!!"\)](https://open.spotify.com/track/73RtKhKwyw31Nk2XMXN4uQ) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [No, Thank You! \(From "K\-On!!"\)](https://open.spotify.com/album/7wKX3P7DuEXguwsxq5B2ab) | 4:17 | 2025-05-30 | 2026-11-06 |
 | [Ohayo, Mata Ashita](https://open.spotify.com/track/3ihQ79HKfH6WjekXjn95bf) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Singing ! \(Standard Edition\)](https://open.spotify.com/album/5iquB2OdwoxklXGmbv0LIv) | 4:55 | 2026-11-15 |  |
 | [Ohayou, Mata Ashita](https://open.spotify.com/track/3jD6EFk93cBAMwuWHTJhlF) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Singing! \(Standard Edition\)](https://open.spotify.com/album/5bCinByDAyOCePVoccduYa) | 4:55 | 2025-05-30 | 2026-11-14 |

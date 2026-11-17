@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover: HAON\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: Dynamicduo\)
 
-1,977 songs - 4 day 9 hr 26 min
+1,978 songs - 4 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,6 +698,7 @@
 | [High Fashion](https://open.spotify.com/track/1M8HfC4Ei6MlBtClnpLL9O) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [＋](https://open.spotify.com/album/6yd7PgSlEG6FC0D9XL3x8c) | 3:06 | 2024-10-10 | 2025-01-31 |
 | [HIGH RISK HIGH RETURN \(Feat\. Polodared\)](https://open.spotify.com/track/5MnjjRXp2huzCdVXkGpU2I) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:09 | 2022-08-17 | 2023-03-01 |
 | [HIGH TOP](https://open.spotify.com/track/4ctXm2YVJNMsDFKbupJ9f8) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [KC](https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f) | [2000 TAPE](https://open.spotify.com/album/0HhoqCRYpuH5sc9mlgCgrF) | 4:34 | 2026-07-31 | 2026-08-13 |
+| [Higher Than Rap](https://open.spotify.com/track/3jKKRNUPqqIT1gsHW1vWyq) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Higher Than Rap](https://open.spotify.com/album/0EEXc3X9pPozYwgAdThtHD) | 4:19 | 2026-11-16 |  |
 | [HiiPEBEAST](https://open.spotify.com/track/5mzrpo8EIHh5FxKu5eK7l3) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ) | [HiiPEBEAST](https://open.spotify.com/album/3qjPCDIl5DgVU5T200JIcq) | 2:32 | 2023-11-15 | 2024-03-09 |
 | [HIP HOP](https://open.spotify.com/track/49o0sIJucNKr8WzVJcFuBm) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [Behind you touch OST Part 1](https://open.spotify.com/album/3yl9LCPKeBrXhFwNO1uxoz) | 2:10 | 2023-08-16 | 2023-09-15 |
 | [Hip Hop Ⅱ \(Prod\. DJ Wegun\)](https://open.spotify.com/track/7rXUhPP3g3ke2GUID7lWv6) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [P.O.E.M\. Ⅲ](https://open.spotify.com/album/0MD5NHw7hr1J1uwkp9S16C) | 3:06 | 2021-12-21 | 2022-06-14 |
@@ -1930,7 +1931,7 @@
 | [YOU KNOW MY NAME](https://open.spotify.com/track/1V049KR2wTQtHp73svn76k) | [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ) | [MOODAE](https://open.spotify.com/album/7FToFhkZ22XqeuUEVjeuOL) | 2:40 | 2025-09-23 | 2025-12-10 |
 | [You make me crzy](https://open.spotify.com/track/3YSNoXuS7ZV4vpl9KIvA3p) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH) | [DIMOLLY](https://open.spotify.com/album/11IhqaVXyrWbOOGh0JbZBV) | 3:06 | 2026-02-11 | 2026-07-10 |
 | [You Think I Don't Know 2026](https://open.spotify.com/track/16f28nynL2BnxgbOiz0cDn) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF) | [You Think I Don't Know 2026](https://open.spotify.com/album/76VX4EjKmeKOiGXrQIQzZI) | 4:06 | 2026-01-30 | 2026-07-10 |
-| [You're So Fine](https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:47 | 2026-04-21 |  |
+| [You're So Fine](https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:47 | 2026-04-21 | 2026-11-17 |
 | [Young Boy \(Feat\. oygli\)](https://open.spotify.com/track/47QBxoKfR7WCXdJbkcGE2G) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [Trapstar Lifestyle](https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY) | 3:12 | 2023-03-13 | 2023-09-15 |
 | [YOUNG POSSE UP \(feat.Verbal Jint, NSW yoon, Token\)](https://open.spotify.com/track/19rwdftkfTj3oqqhRevov7) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [YOUNG POSSE UP \(feat.Verbal Jint, NSW yoon, Token\)](https://open.spotify.com/album/4bROg1lfsWUDyNtzmsMywC) | 3:20 | 2024-02-06 | 2024-06-05 |
 | [Your Instagram \(Feat\. Blueday\)](https://open.spotify.com/track/69eA4nwZmmAZy3dL1OglaJ) | [IOHBOY](https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Your Instagram](https://open.spotify.com/album/7bFHJASGNnV4PilM1ivDfz) | 2:29 | 2022-08-18 | 2022-10-30 |

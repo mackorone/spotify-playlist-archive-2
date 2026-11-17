@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 148564,
+  "num_followers": 148561,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
+        "name": "N\u00e3o Sou Mais Eu",
+        "url": "https://open.spotify.com/album/3MLgBydwGv53WSnkEbOFyx"
+      },
+      "artists": [
+        {
+          "name": "Resgate",
+          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
+        }
+      ],
+      "duration_ms": 287487,
+      "name": "N\u00e3o Sou Mais Eu",
+      "url": "https://open.spotify.com/track/0NANS67Rs3DifKlnYn0FNb"
+    },
+    {
+      "added_at": "2026-10-23 03:01:25",
+      "album": {
         "name": "A Est\u00e1tua",
         "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "N\u00e3o Sou Mais Eu",
-        "url": "https://open.spotify.com/album/3MLgBydwGv53WSnkEbOFyx"
-      },
-      "artists": [
-        {
-          "name": "Resgate",
-          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
-        }
-      ],
-      "duration_ms": 287487,
-      "name": "N\u00e3o Sou Mais Eu",
-      "url": "https://open.spotify.com/track/0NANS67Rs3DifKlnYn0FNb"
-    },
-    {
-      "added_at": "2026-10-23 03:01:25",
-      "album": {
         "name": "Palavrantiga Ao Vivo (Pt. 3)",
         "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 250600,
       "name": "Palavra Antiga - Ao Vivo",
       "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
-    },
-    {
-      "added_at": "2026-10-23 03:01:25",
-      "album": {
-        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 304556,
-      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -511,22 +495,18 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "Me Fez Vivo (feat. Fernandinho)",
-        "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
+        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
       },
       "artists": [
         {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 241088,
-      "name": "Me Fez Vivo (feat. Fernandinho)",
-      "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
+      "duration_ms": 304556,
+      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -543,6 +523,26 @@
       "duration_ms": 256390,
       "name": "Nas Chagas",
       "url": "https://open.spotify.com/track/1Dtc1417eHoEbMRsS4M0uE"
+    },
+    {
+      "added_at": "2026-10-23 03:01:25",
+      "album": {
+        "name": "Me Fez Vivo (feat. Fernandinho)",
+        "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 241088,
+      "name": "Me Fez Vivo (feat. Fernandinho)",
+      "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
+        "name": "Quebre as Correntes",
+        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
       },
       "artists": [
         {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
         }
       ],
-      "duration_ms": 251707,
-      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao vivo",
-      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
+      "duration_ms": 248348,
+      "name": "Quebre as Correntes",
+      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
     },
     {
       "added_at": "2026-10-23 03:01:25",
@@ -963,18 +963,18 @@
     {
       "added_at": "2026-10-23 03:01:25",
       "album": {
-        "name": "Quebre as Correntes",
-        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
+        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
       "artists": [
         {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
         }
       ],
-      "duration_ms": 248348,
-      "name": "Quebre as Correntes",
-      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
+      "duration_ms": 251707,
+      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao vivo",
+      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
     },
     {
       "added_at": "2026-10-23 03:01:25",

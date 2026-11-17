@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 197623,
+  "num_followers": 197640,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Champions",
-        "url": "https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05"
-      },
-      "artists": [
-        {
-          "name": "Whiskerman",
-          "url": "https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta"
-        }
-      ],
-      "duration_ms": 318826,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
         "name": "High School Gym",
         "url": "https://open.spotify.com/album/7eOiQEZJn0rl9DzcK7kATJ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 250253,
       "name": "High School Gym",
       "url": "https://open.spotify.com/track/27PWfmplymTZ5jEQdkhKYf"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
+        "name": "Champions",
+        "url": "https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05"
+      },
+      "artists": [
+        {
+          "name": "Whiskerman",
+          "url": "https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta"
+        }
+      ],
+      "duration_ms": 318826,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL"
     },
     {
       "added_at": "2026-09-18 04:00:59",

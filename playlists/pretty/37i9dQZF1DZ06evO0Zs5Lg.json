@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 32269,
+  "num_followers": 32283,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avZTAAAAAAAMzDguGi4zlQzmV0Q64NNM",
+  "snapshot_id": "avj2AAAAAADc8tbbhSIAl5cZtgWuOhRP",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lionhearted (with Kota the Friend)",
-        "url": "https://open.spotify.com/album/6TWwDgoMBw70v4n7aM6ixL"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "Lionhearted (with Kota the Friend)",
-      "url": "https://open.spotify.com/track/2ojvQ0lxiNgLn4sgaz7DzH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "errybody know",
         "url": "https://open.spotify.com/album/4IDFh7O0mNQN2oXIuCnpAc"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 140571,
       "name": "errybody know",
       "url": "https://open.spotify.com/track/5GU8vng4WQCrb2xe2oEzxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lionhearted (with Kota the Friend)",
+        "url": "https://open.spotify.com/album/6TWwDgoMBw70v4n7aM6ixL"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "Lionhearted (with Kota the Friend)",
+      "url": "https://open.spotify.com/track/2ojvQ0lxiNgLn4sgaz7DzH"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 208053,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/1NDvfh4tQgcXUTn033LtEe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Powderhorn Suites",
         "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 230906,
       "name": "Cousins",
       "url": "https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 208053,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/1NDvfh4tQgcXUTn033LtEe"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 180349,
-      "name": "Animal Patrol",
-      "url": "https://open.spotify.com/track/2vkjVKVzmpC14wEc3sb8vY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Butter (with Baby Tate)",
         "url": "https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 227555,
       "name": "Butter (with Baby Tate)",
       "url": "https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 180349,
+      "name": "Animal Patrol",
+      "url": "https://open.spotify.com/track/2vkjVKVzmpC14wEc3sb8vY"
     },
     {
       "added_at": null,

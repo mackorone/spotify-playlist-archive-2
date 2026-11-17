@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Maui
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,325 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,336 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 28 | [Outono](https://open.spotify.com/track/05oza8QKkRNfYg8177HKIF) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Antes Que A Terra Acabe](https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi) | 4:00 |
 | 29 | [Não mente pra mim](https://open.spotify.com/track/2yeomphV6ibKz3sYj1PJ5M) | [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [Não mente pra mim](https://open.spotify.com/album/5qsmxWdCeVCuPJtzs7NHxr) | 3:22 |
 | 30 | [Perigos&Macetes](https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Meio Feel](https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3) | [Muito Romântico](https://open.spotify.com/album/12huOOShCMRppercsnKCdS) | 2:28 |
-| 31 | [Nem Pensar](https://open.spotify.com/track/6716041U8Mo0R7ELV2fEfq) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Jones](https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [O Último Romântico](https://open.spotify.com/album/7vnAVhIGxgm7V2O6Fq3qTT) | 2:43 |
-| 32 | [Sem Ponto e Sem Vírgula](https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Sem Ponto e Sem Vírgula](https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU) | 3:21 |
+| 31 | [Sem Ponto e Sem Vírgula](https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Sem Ponto e Sem Vírgula](https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU) | 3:21 |
+| 32 | [Nem Pensar](https://open.spotify.com/track/6716041U8Mo0R7ELV2fEfq) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Jones](https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [O Último Romântico](https://open.spotify.com/album/7vnAVhIGxgm7V2O6Fq3qTT) | 2:43 |
 | 33 | [Ciúme](https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ciúme](https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy) | 3:20 |
 | 34 | [off](https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8) | [off](https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5) | 3:22 |
 | 35 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 | 75 | [Sobrenatural](https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Sobrenatural](https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a) | 2:47 |
 
-Snapshot ID: `AAAAAO3aah7msaZhiyaIxs0JyfeIjjkg`
+Snapshot ID: `AAAAAAQne/LF6/60CcHx511wZxRVZ7UD`

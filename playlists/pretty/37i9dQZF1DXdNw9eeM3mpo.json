@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 493561,
+  "num_followers": 493563,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "Pachuco (feat. \"Sax\" Maldita Vecindad - en Vivo en el Foro Sol - 17.11.17)",
         "url": "https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 236930,
       "name": "Pachuco - En Vivo en el Foro Sol - 17.11.17",
       "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Grita",
+      "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
         "name": "Dulces Mentiras",
         "url": "https://open.spotify.com/album/7jRUAaBU9KoMPQ0qnIoIBG"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+        "name": "Nunca Nos Compusimos",
+        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "La Parranda Magna",
+          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+      "duration_ms": 230573,
+      "name": "Envenenen a Mis Labios",
+      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1043,22 +1059,6 @@
       "duration_ms": 214081,
       "name": "La Ultima Carta - The Romaphonic Session",
       "url": "https://open.spotify.com/track/2JYxaBRpjSJ0WRUHYOKc5n"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
-        "name": "Nunca Nos Compusimos",
-        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
-      },
-      "artists": [
-        {
-          "name": "La Parranda Magna",
-          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Envenenen a Mis Labios",
-      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/3X48oyGndz1LUh9Usk0okO"
-      },
-      "artists": [
-        {
-          "name": "EXILIOS",
-          "url": "https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE"
-        }
-      ],
-      "duration_ms": 212627,
-      "name": "El Concierto",
-      "url": "https://open.spotify.com/track/5yyzzNNnJCTH8LpjHllzFA"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "Antih\u00e9roes",
         "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 199106,
       "name": "Criminales Sudamericanos",
       "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/3X48oyGndz1LUh9Usk0okO"
+      },
+      "artists": [
+        {
+          "name": "EXILIOS",
+          "url": "https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE"
+        }
+      ],
+      "duration_ms": 212627,
+      "name": "El Concierto",
+      "url": "https://open.spotify.com/track/5yyzzNNnJCTH8LpjHllzFA"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Siente El Movimiento",
-        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
-      },
-      "artists": [
-        {
-          "name": "La Sant\u00edsima Voladora",
-          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
-        }
-      ],
-      "duration_ms": 186175,
-      "name": "Siente El Movimiento",
-      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
-    },
-    {
-      "added_at": "2026-11-06 06:01:09",
-      "album": {
         "name": "La Ranchera",
         "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Baile Brutal",
-        "url": "https://open.spotify.com/album/3NAGIyBzlhoTP0XqMVj87Y"
+        "name": "Siente El Movimiento",
+        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
       },
       "artists": [
         {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+          "name": "La Sant\u00edsima Voladora",
+          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
         }
       ],
-      "duration_ms": 210056,
-      "name": "Baile Brutal",
-      "url": "https://open.spotify.com/track/7lA6jueW0G0hPlHnEJV4R2"
+      "duration_ms": 186175,
+      "name": "Siente El Movimiento",
+      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1667,6 +1651,22 @@
       "duration_ms": 199565,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
+    },
+    {
+      "added_at": "2026-11-06 06:01:09",
+      "album": {
+        "name": "Baile Brutal",
+        "url": "https://open.spotify.com/album/3NAGIyBzlhoTP0XqMVj87Y"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 210056,
+      "name": "Baile Brutal",
+      "url": "https://open.spotify.com/track/7lA6jueW0G0hPlHnEJV4R2"
     },
     {
       "added_at": "2026-11-06 06:01:09",
@@ -1719,18 +1719,22 @@
     {
       "added_at": "2026-11-06 06:01:09",
       "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/1pg5yljiBXe1hLQcdLQ2pS"
+        "name": "Todo Crazy",
+        "url": "https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a"
       },
       "artists": [
         {
-          "name": "Matamoska!",
-          "url": "https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe"
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        },
+        {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
         }
       ],
-      "duration_ms": 193226,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/7rHSFtfYEWp5RCfscECxFY"
+      "duration_ms": 175434,
+      "name": "Todo Crazy",
+      "url": "https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw"
     }
   ],
   "unique_name": "Ska Latino ",

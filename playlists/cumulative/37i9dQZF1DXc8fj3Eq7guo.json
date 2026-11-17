@@ -2165,6 +2165,28 @@
     },
     {
       "album": {
+        "name": "Welcome To Lagos",
+        "url": "https://open.spotify.com/album/65SHs9gGDOyXxFs4vHAcCZ"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Welcome To Lagos",
+      "url": "https://open.spotify.com/track/6q9AMhh5M1SiCCvrh94YVh"
+    },
+    {
+      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },

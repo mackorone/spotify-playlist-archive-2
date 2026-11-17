@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 74 | [VENDETTAS](https://open.spotify.com/track/6cdcUEiQE1rfqKeJS5S2FA) | [SuziWithAnUzi](https://open.spotify.com/artist/4iIcCz80dZo1cBHxdMbe9D) | [VENDETTAS](https://open.spotify.com/album/5Sl8vLxKHGY2WMtAHdr1ED) | 2:06 |
 | 75 | [PAIN](https://open.spotify.com/track/25Y67zPEMWvXTHtR62fNcL) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8) | [OMA](https://open.spotify.com/album/4yGaHOl9yRj36O5VSYEfJL) | 2:09 |
 | 76 | [Big Things](https://open.spotify.com/track/2K08mIndQivtEZEbPAYXqf) | [CalVin](https://open.spotify.com/artist/7rJxklCqe6KJGSK3duDt4Q) | [Talk My Shit Starr \(Deluxe\)](https://open.spotify.com/album/7dmXvkChLHyjuwKWmnHrmj) | 2:28 |
-| 77 | [Change](https://open.spotify.com/track/2Xxbnw5x0yCRSGR2tJca7l) | [Hudson East](https://open.spotify.com/artist/0DwPrw4Zd15m2cdnpbwGKq) | [Eastway](https://open.spotify.com/album/1l54zzRXrwYV9e2WowPu0D) | 3:49 |
-| 78 | [People Die Everyday](https://open.spotify.com/track/5ik4LwrrEvbmtxw7runtXW) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:45 |
+| 77 | [People Die Everyday](https://open.spotify.com/track/5ik4LwrrEvbmtxw7runtXW) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:45 |
+| 78 | [Change](https://open.spotify.com/track/2Xxbnw5x0yCRSGR2tJca7l) | [Hudson East](https://open.spotify.com/artist/0DwPrw4Zd15m2cdnpbwGKq) | [Eastway](https://open.spotify.com/album/1l54zzRXrwYV9e2WowPu0D) | 3:49 |
 | 79 | [25 & Whyln](https://open.spotify.com/track/5odinvHa3W2Vb2iBX1f6am) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 11:18 |
 | 80 | [BLACK SHEEP OUTRO](https://open.spotify.com/track/21MeIE8wuUyufRNJ9oSrBx) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/2YGdr1a5c3V6mpC6pxvEYU) | 3:56 |
 | 81 | [S.B.W](https://open.spotify.com/track/0ouqa582jNyX4B5Gvvjwh9) | [Chromazz](https://open.spotify.com/artist/3OhxI9yPQIh8L5uRPB1WG7) | [S.B.W](https://open.spotify.com/album/2qQkJlgbShVtQsbI9D03eS) | 2:57 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 114 | [Tings & Such](https://open.spotify.com/track/7aaRq2phqIWQoqZheplPtO) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Stolen George](https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS) | 1:52 |
 | 115 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AchxagAAAAAXiyjFruUyz77dVxtfKzxN`
+Snapshot ID: `Ach3ggAAAACsWOTWC2nFqkDBm3Q7Fdxz`

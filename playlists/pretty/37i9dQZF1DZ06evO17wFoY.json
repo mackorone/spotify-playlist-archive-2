@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 30319,
+  "num_followers": 30320,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avZTAAAAAAALnuTkfWhWv6zpSUfZg7b+",
+  "snapshot_id": "avj2AAAAAAD0oGCxXicxYLstuIvEW3j7",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Christian Petzold",
+          "url": "https://open.spotify.com/artist/0ulKqNZLNE7dg6eqG60Lzj"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 104874,
+      "name": "Minuet in G Major (Prev. Attrib. J.S. Bach as BWV Anh. 114)",
+      "url": "https://open.spotify.com/track/31OT71sADyqUXlW7ZKLn8R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
         "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
       },
@@ -491,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
       "artists": [
         {
-          "name": "Christian Petzold",
-          "url": "https://open.spotify.com/artist/0ulKqNZLNE7dg6eqG60Lzj"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 104874,
-      "name": "Minuet in G Major (Prev. Attrib. J.S. Bach as BWV Anh. 114)",
-      "url": "https://open.spotify.com/track/31OT71sADyqUXlW7ZKLn8R"
+      "duration_ms": 321066,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
     },
     {
       "added_at": null,
@@ -555,26 +575,6 @@
       "duration_ms": 120720,
       "name": "Oogway's Legacy",
       "url": "https://open.spotify.com/track/669yRYY5pluCp5dYOcDMDD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 321066,
-      "name": "Goldberg Variations, BWV 988: Aria",
-      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
     },
     {
       "added_at": null,
@@ -751,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lang Lang at Royal Albert Hall",
-        "url": "https://open.spotify.com/album/1SATY0ddfZt1ybNSeYBLp9"
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },
       "artists": [
         {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+          "name": "Tekla B\u0105darzewska-Baranowska",
+          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 174013,
-      "name": "Intermezzo No. 1 in E Minor",
-      "url": "https://open.spotify.com/track/150Bw3QbPjlFcjmfJojLLf"
+      "duration_ms": 266173,
+      "name": "The Maiden's Prayer, Op. 4",
+      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
     },
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+        "name": "We Don\u2019t Talk About Bruno (From \"Encanto\")",
+        "url": "https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB"
       },
       "artists": [
-        {
-          "name": "Tekla B\u0105darzewska-Baranowska",
-          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
-        },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 266173,
-      "name": "The Maiden's Prayer, Op. 4",
-      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
+      "duration_ms": 244311,
+      "name": "We Don\u2019t Talk About Bruno - From \"Encanto\"",
+      "url": "https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy"
     },
     {
       "added_at": null,
@@ -835,38 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Don\u2019t Talk About Bruno (From \"Encanto\")",
-        "url": "https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB"
+        "name": "Lang Lang at Royal Albert Hall",
+        "url": "https://open.spotify.com/album/1SATY0ddfZt1ybNSeYBLp9"
       },
       "artists": [
         {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 244311,
-      "name": "We Don\u2019t Talk About Bruno - From \"Encanto\"",
-      "url": "https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Part of Your World (Arr. Hamilton for Piano & Flute) [From \"The Little Mermaid\" (Feat. Cocomi)]",
-        "url": "https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
         },
         {
-          "name": "Cocomi",
-          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 344466,
-      "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
-      "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
+      "duration_ms": 174013,
+      "name": "Intermezzo No. 1 in E Minor",
+      "url": "https://open.spotify.com/track/150Bw3QbPjlFcjmfJojLLf"
     },
     {
       "added_at": null,
@@ -887,6 +867,26 @@
       "duration_ms": 102813,
       "name": "8 Memories in Watercolour, Op. 1: No. 6, Floating Clouds - Live",
       "url": "https://open.spotify.com/track/2oxkzU9hSyW9N3cdKWUeyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Part of Your World (Arr. Hamilton for Piano & Flute) [From \"The Little Mermaid\" (Feat. Cocomi)]",
+        "url": "https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+        }
+      ],
+      "duration_ms": 344466,
+      "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
+      "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
     },
     {
       "added_at": null,
@@ -951,54 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mozart Album",
-        "url": "https://open.spotify.com/album/0frnbBKctMDOscUIz5dAt4"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Nikolaus Harnoncourt",
-          "url": "https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO"
-        }
-      ],
-      "duration_ms": 592266,
-      "name": "Piano Concerto No. 24 in C Minor, K. 491: III. Allegretto",
-      "url": "https://open.spotify.com/track/7ymm83FDIZE8zVXffT9qa2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Carl Czerny",
-          "url": "https://open.spotify.com/artist/3gOIm6ckbGpE2x2Cl0XnsW"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 34840,
-      "name": "The School of Velocity, Op. 299: No. 1 in C Major. Presto",
-      "url": "https://open.spotify.com/track/4Fq2TXNaPkxnFnvLpl6zXk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Book 2 \u2013 Modern Encores",
         "url": "https://open.spotify.com/album/6WO1Aerb7wb4krg5Sni4YM"
       },
@@ -1023,6 +975,54 @@
       "duration_ms": 129266,
       "name": "Cornfield Chase (from \"Interstellar\")",
       "url": "https://open.spotify.com/track/0qO9jB10KLyxHlhdUp6e6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Carl Czerny",
+          "url": "https://open.spotify.com/artist/3gOIm6ckbGpE2x2Cl0XnsW"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 34840,
+      "name": "The School of Velocity, Op. 299: No. 1 in C Major. Presto",
+      "url": "https://open.spotify.com/track/4Fq2TXNaPkxnFnvLpl6zXk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mozart Album",
+        "url": "https://open.spotify.com/album/0frnbBKctMDOscUIz5dAt4"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Nikolaus Harnoncourt",
+          "url": "https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO"
+        }
+      ],
+      "duration_ms": 592266,
+      "name": "Piano Concerto No. 24 in C Minor, K. 491: III. Allegretto",
+      "url": "https://open.spotify.com/track/7ymm83FDIZE8zVXffT9qa2"
     },
     {
       "added_at": null,

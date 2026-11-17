@@ -2153,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "BAPTIZED II",
+        "url": "https://open.spotify.com/album/7MEYF4hJjHlGrJJcCW9lXM"
+      },
+      "artists": [
+        {
+          "name": "JoJo Worthington",
+          "url": "https://open.spotify.com/artist/6ML3M2WuSobnfx8Y0wEYGd"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199176,
+      "name": "Dig A Bone",
+      "url": "https://open.spotify.com/track/08rbnKhtDgHS6pQjZOKR9b"
+    },
+    {
+      "album": {
         "name": "Dig It To The Grave",
         "url": "https://open.spotify.com/album/4wj2VyvU4P8y0HTKp3rbZ5"
       },

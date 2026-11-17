@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 261173,
       "name": "A Christmas Carol Main Title",
       "url": "https://open.spotify.com/track/1swBDEKTSMyTbhNc3KVwSZ"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 173333,
       "name": "Ariel's Christmas Island",
       "url": "https://open.spotify.com/track/0aCVcGoCbdnfFowNu6IzvU"
@@ -309,6 +309,28 @@
     },
     {
       "album": {
+        "name": "Christmas Calls (From Hong Kong Disneyland Resort \"Mickey and Friends' Christmas Surprise\")",
+        "url": "https://open.spotify.com/album/4FvlbVrpLhx2Iw4VnXKDnK"
+      },
+      "artists": [
+        {
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+        },
+        {
+          "name": "Heather Snare",
+          "url": "https://open.spotify.com/artist/1JTjqgnZfVCibzfBBE5dBq"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145802,
+      "name": "Christmas Calls - From Hong Kong Disneyland Resort \"Mickey and Friends' Christmas Surprise\"",
+      "url": "https://open.spotify.com/track/39GGTb8dnI9Qdc47lKMTSD"
+    },
+    {
+      "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },
@@ -412,7 +434,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 57160,
       "name": "Christmas Morning",
       "url": "https://open.spotify.com/track/2L2PfoLfYE2a5ExqfymzLF"
@@ -448,7 +470,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 171000,
       "name": "Come December",
       "url": "https://open.spotify.com/track/0sgFXUqZUc8aULEbhY8bO5"
@@ -546,7 +568,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 158373,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/7bACqpSGu8DLSXsg2T85Ym"
@@ -586,7 +608,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 190840,
       "name": "Do You Want To Build A Snowman?",
       "url": "https://open.spotify.com/track/3okmTyVQzbCvy35O0qw8IS"
@@ -1010,7 +1032,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 151293,
       "name": "Holidays At Home",
       "url": "https://open.spotify.com/track/6FQSGMx4izRscahI2z0YVl"
@@ -1144,10 +1166,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 176826,
       "name": "I Love Christmas",
       "url": "https://open.spotify.com/track/39rTGk6MVeykS2Z8FJkYdl"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday: Falalalidays",
+        "url": "https://open.spotify.com/album/1Hop4fHbJkfNm3FofvLgZK"
+      },
+      "artists": [
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Laura Marano",
+          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "I Love Christmas",
+      "url": "https://open.spotify.com/track/0n3xYUguMs4M9vkk3DxnvL"
     },
     {
       "album": {
@@ -1264,7 +1308,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 162213,
       "name": "It Feels Like Christmas",
       "url": "https://open.spotify.com/track/1abiHuQJw6UZyFkekr7DDY"
@@ -1338,7 +1382,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 172693,
       "name": "It's The Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/3ttzw5DKv0aETbCw6mh12C"
@@ -1375,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Disney Princess Christmas Album",
+        "url": "https://open.spotify.com/album/6kysHgctYBp0HuIJqLYCTg"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/2Nd5zTQzOxz2UA4HDHc8Yi"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173466,
+      "name": "It's The Most Wonderful Time of the Year - Original Version",
+      "url": "https://open.spotify.com/track/3OKkl7xE65HDNuoHtjnoH1"
+    },
+    {
+      "album": {
         "name": "Disney's Family Christmas Collection",
         "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
       },
@@ -1390,6 +1452,28 @@
       "duration_ms": 131906,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/4IHPfrNW1DhFKmAxC0XkAD"
+    },
+    {
+      "album": {
+        "name": "Disney Holiday Magic",
+        "url": "https://open.spotify.com/album/3s3K3PpzvcW4RARpmUMZgy"
+      },
+      "artists": [
+        {
+          "name": "Pooh",
+          "url": "https://open.spotify.com/artist/69gez4HUdVVlrJWCDMsha6"
+        },
+        {
+          "name": "Tigger",
+          "url": "https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135333,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/4NCgBOjkAAVGTzLrQqUSd4"
     },
     {
       "album": {
@@ -1478,7 +1562,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 79096,
       "name": "Let It Glow - From \"Frozen Northern Lights\"",
       "url": "https://open.spotify.com/track/5fvrAgYWC8D63PYqJNh3tf"
@@ -1496,10 +1580,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 224386,
       "name": "Let It Go - From \"Frozen / Single Version",
       "url": "https://open.spotify.com/track/1A2PVHd6kWaMlaJVkMfXmz"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
     },
     {
       "album": {
@@ -1670,7 +1772,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 193200,
       "name": "Marley and Marley",
       "url": "https://open.spotify.com/track/65kJ7r3yumBXKRutWhfMLo"
@@ -1746,7 +1848,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 156213,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/2rB5qBiVYAbUGrglToUv7F"
@@ -1926,7 +2028,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 132626,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2NGLgIhdcuqAnEXlx7D82U"
@@ -1988,7 +2090,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 154466,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/35corN4vO44BQSS0VsbwwX"
@@ -2086,7 +2188,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 158820,
       "name": "Santa Claus Is Comin' to Town",
       "url": "https://open.spotify.com/track/4pGCKc4MukYDBypLyhXp99"
@@ -2108,7 +2210,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 172738,
       "name": "Santa Claus Is Comin' to Town",
       "url": "https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl"
@@ -2188,7 +2290,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 160966,
       "name": "Santa Never Sleeps",
       "url": "https://open.spotify.com/track/3e4yzleWWrq00WsnRrxml0"
@@ -2285,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184952,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7enVhl0fuHvQ4ErXvAXYIH"
+    },
+    {
+      "album": {
         "name": "Snow Angels (From \"ZOMBIES 4: Dawn of the Vampires\")",
         "url": "https://open.spotify.com/album/3teLuVRnC4Glg7RoK7emW1"
       },
@@ -2359,6 +2479,28 @@
     },
     {
       "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack/Season 2)",
+        "url": "https://open.spotify.com/album/5j8ccf2ePPuzngz8j1xcVM"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194519,
+      "name": "Something in the Air",
+      "url": "https://open.spotify.com/track/5Y2AijMWTlq5I7wgTvwHQq"
+    },
+    {
+      "album": {
         "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
         "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
       },
@@ -2374,7 +2516,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 196323,
       "name": "Something in the Air",
       "url": "https://open.spotify.com/track/7AxATDcRnvya38woe2Ro8w"
@@ -2708,10 +2850,28 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 160922,
       "name": "This Christmas (Hang All the Mistletoe)",
       "url": "https://open.spotify.com/track/1DJG5QEDHGMnVeOeBRKPTG"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday: Falalalidays",
+        "url": "https://open.spotify.com/album/1Hop4fHbJkfNm3FofvLgZK"
+      },
+      "artists": [
+        {
+          "name": "Sofia Wylie",
+          "url": "https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160922,
+      "name": "This Christmas (Hang All the Mistletoe) - From \"High School Musical: The Musical: The Holiday Special\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/78hfRPnAo29INrTill2nk3"
     },
     {
       "album": {
@@ -2806,7 +2966,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 104186,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/14qzig8cvFMvUVeCxbaO38"
@@ -2860,7 +3020,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 191932,
       "name": "What Christmas Means to Me",
       "url": "https://open.spotify.com/track/5FyrDkl5DAwI3HuxL6WcQJ"
@@ -2904,7 +3064,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 214109,
       "name": "What the Holidays Mean",
       "url": "https://open.spotify.com/track/6292YCl1JakpcgG7vKJRy2"
@@ -2940,7 +3100,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 111452,
       "name": "When I Am Older",
       "url": "https://open.spotify.com/track/1Tt7zr1yDbKbT8L4jzSZ74"
@@ -3024,7 +3184,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 150800,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/7yURtJ9ZInIE8nwVj8vJSM"

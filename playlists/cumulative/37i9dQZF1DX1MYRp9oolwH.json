@@ -9761,6 +9761,32 @@
     },
     {
       "album": {
+        "name": "Pichhi Premalo (From \"Alias Rukmini\")",
+        "url": "https://open.spotify.com/album/5I8Un81IGZfFlCLBmbO3OI"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226517,
+      "name": "Pichhi Premalo (From \"Alias Rukmini\")",
+      "url": "https://open.spotify.com/track/73AkUdGok62HheWsuood0t"
+    },
+    {
+      "album": {
         "name": "Dhandoraa",
         "url": "https://open.spotify.com/album/2ly9WvCufIHRh6TuJxDejG"
       },

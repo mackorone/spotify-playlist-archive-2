@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más fresh! Alleh en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,775 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,780 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 29 | [Si Tú Te Vas](https://open.spotify.com/track/3qh9SrScSV7wEzIccdECR8) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Si Tú Te Vas](https://open.spotify.com/album/1jxKltNf8xeT9pb1NmX8CV) | 3:13 |
 | 30 | [La Espina](https://open.spotify.com/track/0707sTVDEe4EjiNOlz9gO4) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [La Espina](https://open.spotify.com/album/1PxKetu6nc5xn1XtktKOLf) | 3:26 |
 | 31 | [ObsesionHada](https://open.spotify.com/track/5mwWrANiKqgLNf3fabdLz7) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [ObsesionHada](https://open.spotify.com/album/46PO600f8MWEJE6FiU0WH0) | 2:31 |
-| 32 | [Criminal](https://open.spotify.com/track/0fXICWku7upbu92G3KUURp) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Criminal](https://open.spotify.com/album/0flBtapIUqgzI4huY8BE5J) | 3:14 |
+| 32 | [La Limonada](https://open.spotify.com/track/6puekSoUFCRJO3KXRb2o9f) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [La Limonada](https://open.spotify.com/album/0ymOLrgHZ46f2REItckz7E) | 3:37 |
 | 33 | [Luna](https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Luna](https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2) | 2:52 |
 | 34 | [Palomitas en la muela](https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Palomitas en la muela](https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE) | 2:53 |
 | 35 | [Me Gusta](https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Gusta](https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg) | 2:37 |
 | 36 | [Bar de corazones rotos](https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amorío](https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm) | 3:26 |
-| 37 | [La Limonada](https://open.spotify.com/track/6puekSoUFCRJO3KXRb2o9f) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [La Limonada](https://open.spotify.com/album/0ymOLrgHZ46f2REItckz7E) | 3:37 |
+| 37 | [Criminal](https://open.spotify.com/track/0fXICWku7upbu92G3KUURp) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Criminal](https://open.spotify.com/album/0flBtapIUqgzI4huY8BE5J) | 3:14 |
 | 38 | [la del proceso](https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [la del proceso](https://open.spotify.com/album/5yvkLxj4WOM7PmG8p3cArY) | 2:35 |
 | 39 | [Tu Falta De Querer](https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Falta De Querer](https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW) | 3:13 |
 | 40 | [Chance](https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Chance](https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9) | 2:36 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 64 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
 | 65 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
 | 66 | [Paisajes](https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [Otra Vez \(Vol\. 1\)](https://open.spotify.com/album/0b4VElQYfmR48jOBIcsNeo) | 2:52 |
-| 67 | [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 |
-| 68 | [Ironía](https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [RRRomeo](https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F) | 5:15 |
-| 69 | [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 |
-| 70 | [Tulum Sin Ti](https://open.spotify.com/track/4RuYga5Aoo1veuznTsrnxW) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [Las Cosas Que Solo Se Hacen En La Noche](https://open.spotify.com/album/0bThS1beZOzlV7HrfrmL4C) | 3:01 |
+| 67 | [Ironía](https://open.spotify.com/track/7i9wOqXAvvzjvKH0NPdJWR) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [RRRomeo](https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F) | 5:15 |
+| 68 | [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 |
+| 69 | [Tulum Sin Ti](https://open.spotify.com/track/4RuYga5Aoo1veuznTsrnxW) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [Las Cosas Que Solo Se Hacen En La Noche](https://open.spotify.com/album/0bThS1beZOzlV7HrfrmL4C) | 3:01 |
+| 70 | [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 |
 
 Snapshot ID: `AAAAAHG1sg5mOoLRUh34vIHROCrBHV/5`

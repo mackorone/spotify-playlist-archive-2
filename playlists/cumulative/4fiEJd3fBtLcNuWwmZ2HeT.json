@@ -5827,6 +5827,28 @@
     },
     {
       "album": {
+        "name": "Splitter Girl",
+        "url": "https://open.spotify.com/album/2uocSKWR7VZhwbZx9BknfH"
+      },
+      "artists": [
+        {
+          "name": "weevildoing",
+          "url": "https://open.spotify.com/artist/5zwqiROc7gBVY5Xx2sf2Tn"
+        },
+        {
+          "name": "SeeU",
+          "url": "https://open.spotify.com/artist/1mao2cTeJSvu5ufNV2CtdR"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190123,
+      "name": "Splitter Girl",
+      "url": "https://open.spotify.com/track/0kAQ0bGcee2YyzM4C3a3FV"
+    },
+    {
+      "album": {
         "name": "Spot Late",
         "url": "https://open.spotify.com/album/6kRUDQ0A6l0pMGMO8cDdKE"
       },

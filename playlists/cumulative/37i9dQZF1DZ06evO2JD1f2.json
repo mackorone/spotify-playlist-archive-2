@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "Both Ways (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/4TFB8eqvPZtZmjXS9zir4z"
+      },
+      "artists": [
+        {
+          "name": "Montana 700",
+          "url": "https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115694,
+      "name": "Both Ways (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/6XMC4r1vWL9iqlYWWUGsfO"
+    },
+    {
+      "album": {
         "name": "Top 10 Trappers DOA",
         "url": "https://open.spotify.com/album/3iyEcyNBj7ZrniAgMzyqaK"
       },

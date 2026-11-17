@@ -2,9 +2,9 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> The best in Black music! Cover: <a href="spotify:artist:0Lf9qKpKwy6fJtfM7UWLV0">Jackie Hill Perry</a>
+> The best in Black music! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/spotify/p/Dfz\-UTFGVNP/?hl=en">Vic Mensa</a>
 
-6,566 songs - 13 day 21 hr 4 min
+6,567 songs - 13 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,7 +810,7 @@
 | [Boom \(feat\. Tokischa\)](https://open.spotify.com/track/0OCdChh8IoBCIm3kVGY3GN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Boom \(feat\. Tokischa\)](https://open.spotify.com/album/4Liw2H1qC6Nq3ojx8wQBOB) | 2:12 | 2024-08-02 | 2024-08-10 |
 | [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-23 | 2024-08-31 |
 | [Boom Boom \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0ccUI8Zs25jqWr6vhRGfeQ) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Boom Boom \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2mb4aeOU7TvbjgY86EEBqa) | 1:58 | 2022-03-11 | 2022-04-02 |
-| [Boots On](https://open.spotify.com/track/0MQVEBkmB1Prh8XBCKU8qH) | [The BoykinZ](https://open.spotify.com/artist/45yX0sqYmkP2IgBtKVJKSL) | [Boots On](https://open.spotify.com/album/0GrQ3LekozZX2IFQ9BSme6) | 2:19 | 2026-11-13 |  |
+| [Boots On](https://open.spotify.com/track/0MQVEBkmB1Prh8XBCKU8qH) | [The BoykinZ](https://open.spotify.com/artist/45yX0sqYmkP2IgBtKVJKSL) | [Boots On](https://open.spotify.com/album/0GrQ3LekozZX2IFQ9BSme6) | 2:19 | 2026-11-13 | 2026-11-17 |
 | [Boots on the Ground](https://open.spotify.com/track/3cycM517xaQKXyUhcCEuN6) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp) | [Boots on the Ground](https://open.spotify.com/album/0u6U3JM9VGWgXyz6mESTii) | 3:23 | 2025-05-23 | 2025-09-20 |
 | [Booty](https://open.spotify.com/track/6mLmySn4RT9PIO7e5V5woE) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [CORINIAN](https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW) | 2:23 | 2025-10-10 | 2025-11-07 |
 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 | 2022-06-10 | 2022-07-02 |
@@ -4228,6 +4228,7 @@
 | [Options](https://open.spotify.com/track/0DW2oDjvCpHYWAGPboo3jr) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [Options](https://open.spotify.com/album/2Q6KtlgZCwbUjvhLyylLs9) | 2:35 | 2025-11-21 | 2025-12-04 |
 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Options \(feat\. Lil Baby\)](https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR) | 2:32 | 2024-10-18 | 2024-10-26 |
 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 | 2024-09-06 | 2024-09-14 |
+| [Orange Soda](https://open.spotify.com/track/7zMB3GxMuDfunEHjv6nnpw) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [INNANETAPE](https://open.spotify.com/album/2U6KMmA26Koq3X6X9tHEjs) | 3:40 | 2026-11-16 |  |
 | [Orchestra](https://open.spotify.com/track/418sG9q8N3xPn5iuYd9ddi) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Orchestra](https://open.spotify.com/album/2HiQlXVhSGSG5TjEtt3Lzb) | 2:54 | 2025-10-10 | 2025-11-07 |
 | [Orisha](https://open.spotify.com/track/04w3skZGifat9oOpH7HCry) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Ronday](https://open.spotify.com/artist/5GaxCXUbEbeFzWEVk9r3sC), [WESTSIDE BOOGIE](https://open.spotify.com/artist/6kqC0ahDOOWBUGj93e6Nlt) | [Orisha](https://open.spotify.com/album/0y6DrrYbFqD2DYERNVyNjr) | 2:47 | 2025-07-25 | 2025-08-23 |
 | [orphan//](https://open.spotify.com/track/5HcayfPLtnptlYeD0lzdsP) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [orphan//](https://open.spotify.com/album/5Ihgx96DXe7oAYUXpQz08p) | 2:39 | 2025-08-08 | 2025-09-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,647 likes - 62 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,654 likes - 62 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 43 | [laundry song](https://open.spotify.com/track/10sPlfiV8ypVrORMksrXNK) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [laundry song](https://open.spotify.com/album/7p3w65F7Mm2IF8vOuEyM0W) | 3:47 |
 | 44 | [We'll Never Be This Young Again](https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [We'll Never Be This Young Again](https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl) | 2:21 |
 | 45 | [Covergirl](https://open.spotify.com/track/00i9FK4EX5YRmgGe9WRtKj) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Nature's Pill](https://open.spotify.com/album/2VeCYcmbUk083SQ6QZykQM) | 4:17 |
-| 46 | [Stalks](https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Stalks](https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC) | 2:47 |
-| 47 | [Knife](https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Sunshine](https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4) | 2:31 |
+| 46 | [Knife](https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Sunshine](https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4) | 2:31 |
+| 47 | [Stalks](https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Stalks](https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC) | 2:47 |
 | 48 | [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 |
-| 49 | [Beautiful Stranger](https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Believe You Me](https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8) | 2:38 |
-| 50 | [Can I Smoke In Here?](https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Can I Smoke In Here?](https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu) | 2:42 |
+| 49 | [Can I Smoke In Here?](https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Can I Smoke In Here?](https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu) | 2:42 |
+| 50 | [Beautiful Stranger](https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Believe You Me](https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8) | 2:38 |
 | 51 | [I am a Man](https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Pull of the Moon](https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z) | 3:22 |
 | 52 | [SUPERHERO](https://open.spotify.com/track/4IXKuIqYieftE5Qe8caNQp) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [FAITH OVER FAME](https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI) | 3:14 |
 | 53 | [potion](https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [come to mommy](https://open.spotify.com/album/1CyYAGOMbi7szTakqDtt6I) | 2:43 |

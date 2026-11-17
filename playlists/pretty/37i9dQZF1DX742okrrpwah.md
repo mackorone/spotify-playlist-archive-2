@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SDM, Joseph Kamel, U2 x Dolly Parton et Marine x Danyl au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,175 likes - 112 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,147 likes - 112 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 57 | [Sors de ma life](https://open.spotify.com/track/3LrWSd7L8buvWBKDgTtPvc) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [JEUDI](https://open.spotify.com/artist/6HZ8c7N6ysiZJf4HkGCszd) | [Sors de ma life](https://open.spotify.com/album/5XZGdDHkQxWEkhN8tZMY3o) | 3:27 |
 | 58 | [Elysium](https://open.spotify.com/track/6xLRubndwhUQ6sXGCQWqsn) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Elysium](https://open.spotify.com/album/4gb0ftHCGAlcWrknQ1jfKV) | 4:37 |
 | 59 | [Burn The Witch](https://open.spotify.com/track/3JHTGkpRXwCGaW3Hh0crug) | [Misfits Together](https://open.spotify.com/artist/4y3Ml1Bz1HWbUpVvaMGR50) | [Burn The Witch](https://open.spotify.com/album/20KFcc2YxcqOAFsrWLfwmC) | 3:19 |
-| 60 | [Vrai négro](https://open.spotify.com/track/7hYyBqrKu9dgKrtyVSFvrP) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [Vrai négro](https://open.spotify.com/album/4KuEitHOLt9U2G9olkcubY) | 2:01 |
+| 60 | [Vrai négro](https://open.spotify.com/track/7hYyBqrKu9dgKrtyVSFvrP) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [Vrai négro](https://open.spotify.com/album/4KuEitHOLt9U2G9olkcubY) | 2:10 |
 | 61 | [Ailleurs](https://open.spotify.com/track/3RTQFIpITuWmeh0N4DpcFc) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB), [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Ailleurs](https://open.spotify.com/album/4zn8kg7LmD3DZ7iOfeosoH) | 2:55 |
 | 62 | [Only Love \(feat\. Caroline Byrne\)](https://open.spotify.com/track/5Tn7lCNAsj7vSxPjoqB6Vd) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Aether](https://open.spotify.com/album/24jwW4VYmuqawdcBOG6qY4) | 3:26 |
 | 63 | [Différente](https://open.spotify.com/track/6PdhTgyjpI8aMpYmQSxJfG) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [La vie d'après](https://open.spotify.com/album/2vMcD3Au2syoHlfiMq3Izn) | 2:52 |

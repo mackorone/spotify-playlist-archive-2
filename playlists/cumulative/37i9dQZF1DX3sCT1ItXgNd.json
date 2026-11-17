@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Judeline",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lucho RK",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -2295,6 +2295,28 @@
     },
     {
       "album": {
+        "name": "Objetos Fr\u00e1giles en Ambientes Hostiles",
+        "url": "https://open.spotify.com/album/1s6n31eAycpCSbA4J5UyHP"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "Borracho Otra Vez",
+      "url": "https://open.spotify.com/track/3AMpOnSdrXqi87gaKjPxcl"
+    },
+    {
+      "album": {
         "name": "BORRACHO Y FINO",
         "url": "https://open.spotify.com/album/7EFaD2wOGonUpjvGBtUM2W"
       },
@@ -3090,7 +3112,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 229155,
       "name": "Claro de luna",
       "url": "https://open.spotify.com/track/2HUNn6EWHEV02ub9irhf2D"
@@ -6686,7 +6708,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 164542,
       "name": "escalofr\u00edos",
       "url": "https://open.spotify.com/track/1mKgK7wPrfLzD7gP0h9HD8"
@@ -7246,6 +7268,24 @@
       "duration_ms": 170360,
       "name": "favorita de la vida",
       "url": "https://open.spotify.com/track/3Ai6dySKDJj7M9D7oz1Yxx"
+    },
+    {
+      "album": {
+        "name": "#elni\u00f1o",
+        "url": "https://open.spotify.com/album/4f3MgNrIKJg1MCg3cV5pDR"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139787,
+      "name": "feat. c\u00e9sar",
+      "url": "https://open.spotify.com/track/6MQNRaOB5dSFeXhSoAJS9K"
     },
     {
       "album": {
@@ -8384,7 +8424,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 174462,
       "name": "Ignorantes",
       "url": "https://open.spotify.com/track/0CAfBjH7pebkNBuTljg7qF"
@@ -10930,7 +10970,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 108375,
       "name": "Malib\u00fa Con Pi\u00f1a",
       "url": "https://open.spotify.com/track/3rRX4QTJvGTBYjxmoduXJV"
@@ -13629,6 +13669,24 @@
     },
     {
       "album": {
+        "name": "Viaje de Vuelta a Casa",
+        "url": "https://open.spotify.com/album/3Oc5iG80viPjViQmvCA5cZ"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175599,
+      "name": "N\u00f3madas",
+      "url": "https://open.spotify.com/track/1bOlqOXr3zqKVDI6TDr3dR"
+    },
+    {
+      "album": {
         "name": "Oh Si Pudiera",
         "url": "https://open.spotify.com/album/4AHwnWyWPilase3JrctGjy"
       },
@@ -15842,7 +15900,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 143132,
       "name": "Qu\u00e9 casualidad",
       "url": "https://open.spotify.com/track/65MFtcVkwgair7JREankLu"
@@ -16396,6 +16454,24 @@
       "duration_ms": 213120,
       "name": "RUEDA",
       "url": "https://open.spotify.com/track/5oRbyHwMdgnCZhgqlubRiB"
+    },
+    {
+      "album": {
+        "name": "R\u00edo",
+        "url": "https://open.spotify.com/album/09gecWroBMpIr2CSsVIhBP"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169101,
+      "name": "R\u00edo",
+      "url": "https://open.spotify.com/track/7J2fYxmeM13rdTRcD0zOJR"
     },
     {
       "album": {
@@ -19137,6 +19213,28 @@
     },
     {
       "album": {
+        "name": "T\u00da SIN YO",
+        "url": "https://open.spotify.com/album/0nXSt89ulEI3AjZOrDIdLk"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "T\u00da SIN YO",
+      "url": "https://open.spotify.com/track/5AfQY75NZq66n15hw9TNVC"
+    },
+    {
+      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -19334,6 +19432,24 @@
       "duration_ms": 163505,
       "name": "Un Rato pa Siempre",
       "url": "https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL"
+    },
+    {
+      "album": {
+        "name": "Un Secreto y Una Postal",
+        "url": "https://open.spotify.com/album/7jr6cRngw0siBATEoXOsn0"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193393,
+      "name": "Un Secreto y Una Postal",
+      "url": "https://open.spotify.com/track/0LRPRll0Be08m9n167KYKG"
     },
     {
       "album": {
@@ -19726,7 +19842,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 152857,
       "name": "Valdevaqueros",
       "url": "https://open.spotify.com/track/6Lsvzwyp7wGOymnjvdp0tg"

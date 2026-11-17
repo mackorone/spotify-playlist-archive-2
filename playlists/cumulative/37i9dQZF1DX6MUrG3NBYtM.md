@@ -4,7 +4,7 @@
 
 > De beste indie tracks van nu\. Cover: Fontaines D.C.
 
-350 songs - 21 hr 22 min
+352 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Different Kind of Happiness](https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [A Different Kind of Happiness](https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP) | 4:06 | 2026-10-08 |  |
 | [a great escape](https://open.spotify.com/track/6FzaEGFfG3mVPPQCKBLkFU) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [a great escape](https://open.spotify.com/album/4qg53329LKLOYckoAyer2D) | 3:10 | 2024-09-26 | 2024-10-04 |
 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 | 2025-04-03 | 2025-12-05 |
+| [About You](https://open.spotify.com/track/4wx9D3H2DQ8uk2q5IYE3yg) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [About You](https://open.spotify.com/album/3UafDi7luptoJPUbDZwuzO) | 3:04 | 2026-11-16 |  |
 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 | 2025-01-06 | 2025-04-26 |
 | [All Gold](https://open.spotify.com/track/2QzKvSwXbc4vTTUMzT1GXS) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [All Gold](https://open.spotify.com/album/3hmbEGGc8lvW2GY5W3yYUh) | 3:07 | 2025-08-29 | 2026-09-29 |
 | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 | 2026-03-20 |  |
@@ -72,7 +73,7 @@
 | [Dizzy](https://open.spotify.com/track/4Vxl7MqmLnB1U6mCMdmIPG) | [Crybabies](https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8) | [Dizzy](https://open.spotify.com/album/17gxG3lYgvANFNR8FI7Frp) | 3:53 | 2026-01-30 | 2026-10-09 |
 | [Do My Thing](https://open.spotify.com/track/1YKcZG9wSH5XCnKCvrXOO9) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Do My Thing](https://open.spotify.com/album/3gzle32G3FvcaoNI957vYP) | 2:57 | 2025-04-25 | 2025-12-09 |
 | [Do No Harm \(feat\. Baby Rose\)](https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [22 Durnham Dew](https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n) | 3:15 | 2026-10-12 |  |
-| [Dog](https://open.spotify.com/track/3VHI9MP58SXN2NIJSGqCzR) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:09 | 2026-01-13 |  |
+| [Dog](https://open.spotify.com/track/3VHI9MP58SXN2NIJSGqCzR) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:09 | 2026-01-13 | 2026-11-17 |
 | [Don’t Say It’s Over](https://open.spotify.com/track/6PrOPwz8YdN4idSUwPffRh) | [Gaz Coombes](https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx) | [Don't Say It's Over](https://open.spotify.com/album/72yH1PXnzGt8Gs1OPPUVqx) | 3:46 | 2024-06-26 | 2024-07-12 |
 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 | 2024-06-26 | 2025-01-07 |
 | [Down The Rabbit Hole](https://open.spotify.com/track/23opA2C2jQS10uBL4DmQv4) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Down The Rabbit Hole](https://open.spotify.com/album/2cXmUukaT3vR1INZOajMTd) | 3:15 | 2024-06-26 | 2024-11-15 |
@@ -151,7 +152,7 @@
 | [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 | 2024-08-01 | 2025-01-24 |
 | [I’m Sorry Maria](https://open.spotify.com/track/4EjxI9RB9xRLkOxgBOD20x) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [I’m Sorry Maria](https://open.spotify.com/album/5Rs19PX4nhuHPuBSDquexn) | 3:48 | 2026-07-07 |  |
 | [Jaouad](https://open.spotify.com/track/7D5Qln7h4TYCjR37s8RyvB) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Jaouad](https://open.spotify.com/album/5ffS5umIscQePcvQf9ToCD) | 5:01 | 2025-02-06 | 2025-08-12 |
-| [Juice](https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Night Light](https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR) | 4:29 | 2026-01-13 |  |
+| [Juice](https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Night Light](https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR) | 4:29 | 2026-01-13 | 2026-11-17 |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2025-07-04 | 2026-07-08 |
 | [Just a Lie](https://open.spotify.com/track/2SzQR32JD57uxEBGXKGE6e) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Just a Lie](https://open.spotify.com/album/7HSzlsZUOBtYXkalrmDJrF) | 3:34 | 2025-12-08 | 2026-10-09 |
 | [Just All Heart, Flesh and Mind](https://open.spotify.com/track/5yadZjZdbyua5MJxtEl1yN) | [Mauro Pawlowski](https://open.spotify.com/artist/2PkKZewLFg57QduOcj97NQ) | [Just All Heart, Flesh and Mind](https://open.spotify.com/album/4NZe4BIIl1yyIrMLdZP76T) | 3:59 | 2025-04-25 | 2025-11-15 |
@@ -290,6 +291,7 @@
 | [Strawberry](https://open.spotify.com/track/6556dVFzfiI5MK1lb2PH5t) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Strawberry](https://open.spotify.com/album/3SbYi9fNBxoTSpaVrz4jFO) | 4:13 | 2024-10-18 | 2025-02-07 |
 | [Stripes](https://open.spotify.com/track/43tDMRNyjsM6c9tyCL9KYX) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Stripes](https://open.spotify.com/album/05cvErJulLUxNT1pixsT8p) | 3:11 | 2026-07-07 |  |
 | [Stronger](https://open.spotify.com/track/7wnZ0ccUMn79s9JMTPRkH1) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Stronger](https://open.spotify.com/album/7AicglcIa2LDkVNzhhFqTI) | 3:13 | 2025-08-29 | 2026-09-19 |
+| [Swarm](https://open.spotify.com/track/4UFPf8Q2Zpsk76b7BNwW4n) | [Tramhaus](https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB) | [Swarm](https://open.spotify.com/album/6IAqIdJyvJFPiI7Fp2d5US) | 3:15 | 2026-11-16 |  |
 | [Sweet Danger](https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sweet Danger](https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2) | 2:40 | 2025-04-25 | 2025-11-15 |
 | [SWEET HEROINE](https://open.spotify.com/track/3lHNSEUusB5mEbBHquFQ40) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [SWEET HEROINE](https://open.spotify.com/album/2MNZGcvSgCjAi9fuqqVXaW) | 4:08 | 2026-01-13 | 2026-10-09 |
 | [Sweet Love \(coconut\)](https://open.spotify.com/track/4klmKtdoQRFiUy81avReWA) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:42 | 2025-03-06 | 2025-10-22 |

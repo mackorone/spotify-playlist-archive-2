@@ -1,6 +1,6 @@
 {
   "description": "To everything there is a season so let these faith-filled songs be the soundtrack to your Fall!",
-  "num_followers": 34584,
+  "num_followers": 34593,
   "original_name": "Fall Spirit",
   "owner": {
     "name": "Spotify",
@@ -487,30 +487,6 @@
     {
       "added_at": "2025-11-16 03:48:58",
       "album": {
-        "name": "Something You Can Be Proud Of",
-        "url": "https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        },
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        },
-        {
-          "name": "Kaelob Mecum",
-          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
-        }
-      ],
-      "duration_ms": 208172,
-      "name": "Something You Can Be Proud Of",
-      "url": "https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc"
-    },
-    {
-      "added_at": "2025-11-16 03:48:58",
-      "album": {
         "name": "Every Good Thing",
         "url": "https://open.spotify.com/album/750SKuZ1H4oRSAWy987LT1"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 289013,
       "name": "Every Good Thing",
       "url": "https://open.spotify.com/track/5HoBbFCyFU7qDdjCK8FYY6"
+    },
+    {
+      "added_at": "2025-11-16 03:48:58",
+      "album": {
+        "name": "Something You Can Be Proud Of",
+        "url": "https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        },
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        },
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "duration_ms": 208172,
+      "name": "Something You Can Be Proud Of",
+      "url": "https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc"
     },
     {
       "added_at": "2025-11-16 03:48:58",

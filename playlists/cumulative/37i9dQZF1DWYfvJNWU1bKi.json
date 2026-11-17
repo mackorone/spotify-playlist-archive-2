@@ -3925,6 +3925,36 @@
     },
     {
       "album": {
+        "name": "Scene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yoZ4Wjz3ZDxUBT9cQ5aBz"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Kaber Vasuki",
+          "url": "https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159105,
+      "name": "Unakke Nizhalaanen",
+      "url": "https://open.spotify.com/track/7i2s8f611ie3mCrqLjH1Ww"
+    },
+    {
+      "album": {
         "name": "Unna Nenachu [From \"Psycho (Tamil)\"]",
         "url": "https://open.spotify.com/album/22B5z9zdXhj9z6j1ejTJ0F"
       },
@@ -4172,7 +4202,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 299146,
       "name": "Vaseegara",
       "url": "https://open.spotify.com/track/3vxy9D4qd7TO4j6Gi2zmXo"

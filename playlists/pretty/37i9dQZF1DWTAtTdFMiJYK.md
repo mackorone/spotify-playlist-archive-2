@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Niyam
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,621 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,728 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 51 | [Jee Na Paaye](https://open.spotify.com/track/1IGvo9KLLTHiW35zisOi8I) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Priyankit Jaiswal](https://open.spotify.com/artist/2m2eci1WqPBHVqrHyrpCsP), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc) | [Jee Na Paaye](https://open.spotify.com/album/7ddSBdRGiFibkVZsqEztuL) | 3:52 |
 | 52 | [Piya](https://open.spotify.com/track/067DbzLwQzTCkhz7Aw4GN8) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Haal\-e\-Dil](https://open.spotify.com/album/08MA1gXMtK4u5dmsyJEURe) | 2:21 |
 | 53 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 |
-| 54 | [Patang \(From "UR Debut"\)](https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Arav Dhawan](https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3) | [Patang \(From "UR Debut"\)](https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O) | 2:58 |
-| 55 | [telusa](https://open.spotify.com/track/5PQQmD4ZfM8hNuqIlcQHkQ) | [ananya](https://open.spotify.com/artist/44c9Q8uuQtb7BXQO4Um7Zc) | [telusa](https://open.spotify.com/album/0bWfpBPy796Tt50RL26Ewp) | 2:50 |
+| 54 | [telusa](https://open.spotify.com/track/5PQQmD4ZfM8hNuqIlcQHkQ) | [ananya](https://open.spotify.com/artist/44c9Q8uuQtb7BXQO4Um7Zc) | [telusa](https://open.spotify.com/album/0bWfpBPy796Tt50RL26Ewp) | 2:50 |
+| 55 | [Patang \(From "UR Debut"\)](https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Arav Dhawan](https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3) | [Patang \(From "UR Debut"\)](https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O) | 2:58 |
 | 56 | [Ab Na Laut Paayenge](https://open.spotify.com/track/5nBvkAMnwgWb2yUTNFkQfI) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:02 |
 | 57 | [Chandni](https://open.spotify.com/track/4TYSwFH0LcKo32RuWJiaao) | [Bharat Chandak](https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF) | [Chandni](https://open.spotify.com/album/0eXeInZLi8DMMtncmsk2w5) | 2:54 |
 | 58 | [Maahi Sun](https://open.spotify.com/track/51bYMhfwtD2oMdOIHXgkk9) | [Mukku](https://open.spotify.com/artist/6UONv04Z1hQqtQjskS0H0p), [Sumit Suryavanshi](https://open.spotify.com/artist/5jjnd8Evj29U1muE6QtFwM) | [Maahi Sun](https://open.spotify.com/album/1HMs9GeSGw7b5X7QlPv4P0) | 3:13 |

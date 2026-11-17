@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Alexisonfire
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,968 likes - 150 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,926 likes - 150 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 86 | [Somewhere I'd Like To Go](https://open.spotify.com/track/6SFfL6dV0wAdrJJe1TxwWR) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Keep Out Of The Storm \(Deluxe\)](https://open.spotify.com/album/17Y48BMWSDMyKj5j89jqxE) | 4:40 |
 | 87 | [choke](https://open.spotify.com/track/0BRC0VOO0zkGtxDSwgBOYu) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [choke](https://open.spotify.com/album/0xZVTOeGKxE2I0oxJMN6Ec) | 2:05 |
 | 88 | [I know](https://open.spotify.com/track/1dtdCmWxgKAPVxK22OQShC) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [I know](https://open.spotify.com/album/4vDMbZZODUPVWD6LsZg5h7) | 3:21 |
-| 89 | [Rote Zora\. “Resistance is Possible.” Emma, no\. 6, June 1984, pp\. 39\-41.](https://open.spotify.com/track/70i4CalEjZ9K5GqzUKJXKa) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [Rote Zora\. “Resistance is Possible.” Emma, no\. 6, June 1984, pp\. 39\-41.](https://open.spotify.com/album/2fxtknDHds2Kaaw0hx4S2b) | 2:54 |
+| 89 | [Rote Zora\. "Resistance is Possible." Interview, June 1984.](https://open.spotify.com/track/70i4CalEjZ9K5GqzUKJXKa) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [Rote Zora\. "Resistance is Possible." Interview, June 1984.](https://open.spotify.com/album/2fxtknDHds2Kaaw0hx4S2b) | 2:54 |
 | 90 | [Sex & Drugs](https://open.spotify.com/track/7CsXW2mwJHmItiGJuxwjwW) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Sex & Drugs](https://open.spotify.com/album/09X99K8sYoPQZ0n8nYhrUv) | 3:15 |
 | 91 | [Blood On The Dashboard](https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [IF HEAVEN EXISTS, THIS MIGHT BE IT](https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi) | 3:24 |
 | 92 | [TABLE42](https://open.spotify.com/track/6U8rVPVwSjUQesLPKtQro7) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [TABLE42](https://open.spotify.com/album/3evX4yXG7j4nYetDFkIb0A) | 3:26 |

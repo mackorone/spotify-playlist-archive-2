@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Cade Cunningham
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Ja'Marr Chase
 
 963 songs - 2 day 0 hr 41 min
 

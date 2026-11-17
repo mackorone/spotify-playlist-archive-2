@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 182179,
+  "num_followers": 182207,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avekgAAAAADGmoTwKXmXRlHuumz3HgCY",
+  "snapshot_id": "avj2AAAAAAAa6tFvcfmvG216b4hSd3+I",
   "tracks": [
     {
       "added_at": null,
@@ -463,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+        "name": "Radical Dude!",
+        "url": "https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz"
       },
       "artists": [
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        },
         {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 150678,
-      "name": "Lies Came Out My Mouth",
-      "url": "https://open.spotify.com/track/6AAURjeIX1qMn36jFLbCru"
+      "duration_ms": 212631,
+      "name": "Forget It (feat. Oliver Tree)",
+      "url": "https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy"
     },
     {
       "added_at": null,
@@ -495,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radical Dude!",
-        "url": "https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz"
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
       "artists": [
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        },
         {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 212631,
-      "name": "Forget It (feat. Oliver Tree)",
-      "url": "https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy"
+      "duration_ms": 150678,
+      "name": "Lies Came Out My Mouth",
+      "url": "https://open.spotify.com/track/6AAURjeIX1qMn36jFLbCru"
     },
     {
       "added_at": null,

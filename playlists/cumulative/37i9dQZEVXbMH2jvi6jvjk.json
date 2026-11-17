@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -7350,7 +7350,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 360530,
       "name": "BELE",
       "url": "https://open.spotify.com/track/6oEHhZnufw9TNzvpACNGId"
@@ -10352,7 +10352,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
@@ -11090,7 +11090,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 283582,
       "name": "Chocolate Gaga",
       "url": "https://open.spotify.com/track/0sz5lMk2ifLqcbqHTFVLeC"
@@ -11952,7 +11952,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 252652,
       "name": "Commander",
       "url": "https://open.spotify.com/track/6PETjry7SA70CzGLjy9ePR"
@@ -12996,7 +12996,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -26182,7 +26182,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 178337,
       "name": "Ingqondo",
       "url": "https://open.spotify.com/track/6ntPv9yehYDuN6vRJM3tzl"
@@ -27910,7 +27910,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 401461,
       "name": "iXesha (feat. JAZZWRLD)",
       "url": "https://open.spotify.com/track/3a9kF4yH9sXhGdwjR5pbJf"
@@ -29760,7 +29760,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 398593,
       "name": "Katalia",
       "url": "https://open.spotify.com/track/7sigUKE9A7iY1kydds6QG9"
@@ -31463,6 +31463,28 @@
     },
     {
       "album": {
+        "name": "Ng'funa intozami",
+        "url": "https://open.spotify.com/album/5hXdv6EKkrLBoK0diMQwT6"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        },
+        {
+          "name": "Londeka Shangase",
+          "url": "https://open.spotify.com/artist/6vmfqTLy0CzNoEi2QrPfgS"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356742,
+      "name": "Kwenzakalani?",
+      "url": "https://open.spotify.com/track/1AXrAezcvAlZVfawwo28rE"
+    },
+    {
+      "album": {
         "name": "Kwenzekile",
         "url": "https://open.spotify.com/album/5c7Pf0109qPClzjeVClEqE"
       },
@@ -32840,7 +32862,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -36960,7 +36982,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 535310,
       "name": "Methodist Medley",
       "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
@@ -47392,7 +47414,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -50130,7 +50152,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 286944,
       "name": "Seanamarena (feat. Prince Benza)",
       "url": "https://open.spotify.com/track/1zwQBlIxyYhBCfNEyfb5i6"
@@ -50790,7 +50812,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 359000,
       "name": "Setla",
       "url": "https://open.spotify.com/track/56q4H7jJ1vYxfvmH2GkQRJ"
@@ -54846,7 +54868,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -55648,7 +55670,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -56590,7 +56612,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 220264,
       "name": "Thando lwathola kabi (feat. KaMaphanga & Yolokazi)",
       "url": "https://open.spotify.com/track/3YsFaC4312p9Zu3CoRg2Eo"
@@ -63792,7 +63814,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 277629,
       "name": "Vuma",
       "url": "https://open.spotify.com/track/7csqXkDbGhTXVNqGFmbwUa"
@@ -67482,7 +67504,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 269583,
       "name": "Yimi umaqondana",
       "url": "https://open.spotify.com/track/7N1xuoaI37vpWuGXXUEqDI"

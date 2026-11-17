@@ -8257,6 +8257,24 @@
     },
     {
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0Tlix2iHVTioeO7iYDiaNO"
+      },
+      "artists": [
+        {
+          "name": "Mark Hegan",
+          "url": "https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5o4VGkvimE846wxSzWIWUa"
+    },
+    {
+      "album": {
         "name": "Lab Raps",
         "url": "https://open.spotify.com/album/3XLtGJwNwsFBrGSCVBnOlA"
       },

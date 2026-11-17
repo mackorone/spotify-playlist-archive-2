@@ -6503,6 +6503,24 @@
     },
     {
       "album": {
+        "name": "K-Pop ON! Video Podcast",
+        "url": "https://open.spotify.com/album/35ltzomNTBi2lqCtoL4Drt"
+      },
+      "artists": [
+        {
+          "name": "K-Pop ON! Video Podcast",
+          "url": "https://open.spotify.com/show/35ltzomNTBi2lqCtoL4Drt"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 689898,
+      "name": "LNGSHOT\uacfc\uc758 \uc601\ud1b5 \uc778\ud130\ubdf0\u3163RADAR with LNGSHOT",
+      "url": "https://open.spotify.com/episode/4JoXTZx55WhxtyZhU5R050"
+    },
+    {
+      "album": {
         "name": "Locked On",
         "url": "https://open.spotify.com/album/2KOyXfulQ7w35Ok4KYtxBw"
       },

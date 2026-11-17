@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 115195,
+  "num_followers": 115258,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avZTAAAAAAAxVSi0IFu1ZL/QF/8/9D4B",
+  "snapshot_id": "avj2AAAAAAChY+PX4Kah8iPdQe+bovFY",
   "tracks": [
     {
       "added_at": null,
@@ -315,30 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "F**K SONGS",
-        "url": "https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi"
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
       },
       "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
         }
       ],
-      "duration_ms": 200586,
-      "name": "T\u00c1 TARDE",
-      "url": "https://open.spotify.com/track/0dyJ7rDk995cRo1ktfVmkP"
+      "duration_ms": 194478,
+      "name": "Amores, V\u00edcios e Obsess\u00f5es",
+      "url": "https://open.spotify.com/track/4peu9YxoCAmkS52XNZV1mT"
     },
     {
       "added_at": null,
@@ -387,22 +379,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+        "name": "F**K SONGS",
+        "url": "https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi"
       },
       "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
         }
       ],
-      "duration_ms": 194478,
-      "name": "Amores, V\u00edcios e Obsess\u00f5es",
-      "url": "https://open.spotify.com/track/4peu9YxoCAmkS52XNZV1mT"
+      "duration_ms": 200586,
+      "name": "T\u00c1 TARDE",
+      "url": "https://open.spotify.com/track/0dyJ7rDk995cRo1ktfVmkP"
     },
     {
       "added_at": null,

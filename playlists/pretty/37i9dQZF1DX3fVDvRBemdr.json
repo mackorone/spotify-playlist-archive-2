@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop. Cover: Senna & Monique Smit",
-  "num_followers": 156611,
+  "num_followers": 156602,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALC72+T0FHyNusCwarqIx0Mo6qNl",
+  "snapshot_id": "AAAAAMPatO6uAZgCoEL+4/qE1YfU316t",
   "tracks": [
     {
       "added_at": "2026-11-12 23:01:14",
@@ -27,6 +27,82 @@
       "duration_ms": 141374,
       "name": "Hey Poes",
       "url": "https://open.spotify.com/track/3or3wODEzHipOyhbn9GBZp"
+    },
+    {
+      "added_at": "2026-11-12 23:01:14",
+      "album": {
+        "name": "100 Keer Gebeld",
+        "url": "https://open.spotify.com/album/5kMTkRu0KV94z7m4Ux5iS4"
+      },
+      "artists": [
+        {
+          "name": "Mike Versteeg",
+          "url": "https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB"
+        },
+        {
+          "name": "Martijn Leopardi",
+          "url": "https://open.spotify.com/artist/0dNvb29pd5miS7r3ti22OO"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "100 Keer Gebeld",
+      "url": "https://open.spotify.com/track/3xeTZ8ojNqFUj1K2L4QH1F"
+    },
+    {
+      "added_at": "2026-11-12 23:01:14",
+      "album": {
+        "name": "Kom Wat Dichterbij",
+        "url": "https://open.spotify.com/album/1Fdb8kr7ugnZrYk0U9Ec5t"
+      },
+      "artists": [
+        {
+          "name": "Rinus Werrens",
+          "url": "https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU"
+        },
+        {
+          "name": "Donny Duardo",
+          "url": "https://open.spotify.com/artist/7nJk84xGJhAl4HJ9ib0hQa"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        }
+      ],
+      "duration_ms": 173213,
+      "name": "Kom Wat Dichterbij",
+      "url": "https://open.spotify.com/track/3XncYQxQNxfd9XYVgw5at7"
+    },
+    {
+      "added_at": "2026-11-12 23:01:14",
+      "album": {
+        "name": "Als De Morgen Niet Bestaat",
+        "url": "https://open.spotify.com/album/0uWuYD4VkwaUEq0o045ObB"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "duration_ms": 182387,
+      "name": "Als De Morgen Niet Bestaat",
+      "url": "https://open.spotify.com/track/5RZZKaOwxVD78IRwnZztHr"
+    },
+    {
+      "added_at": "2026-11-12 23:01:14",
+      "album": {
+        "name": "Waar Ben Jij",
+        "url": "https://open.spotify.com/album/1oaWbAqd6MMkVmYXTer7a5"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "Waar Ben Jij",
+      "url": "https://open.spotify.com/track/3urXPhe8sZOz3yVAr3Z1H4"
     },
     {
       "added_at": "2026-11-12 23:01:14",
@@ -63,22 +139,6 @@
     {
       "added_at": "2026-11-12 23:01:14",
       "album": {
-        "name": "Waar Ben Jij",
-        "url": "https://open.spotify.com/album/1oaWbAqd6MMkVmYXTer7a5"
-      },
-      "artists": [
-        {
-          "name": "Rutger van Barneveld",
-          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
-        }
-      ],
-      "duration_ms": 180333,
-      "name": "Waar Ben Jij",
-      "url": "https://open.spotify.com/track/3urXPhe8sZOz3yVAr3Z1H4"
-    },
-    {
-      "added_at": "2026-11-12 23:01:14",
-      "album": {
         "name": "Onderweg",
         "url": "https://open.spotify.com/album/2u5c3GvKrTaEoWAr9XmKSH"
       },
@@ -95,42 +155,6 @@
     {
       "added_at": "2026-11-12 23:01:14",
       "album": {
-        "name": "Als De Morgen Niet Bestaat",
-        "url": "https://open.spotify.com/album/0uWuYD4VkwaUEq0o045ObB"
-      },
-      "artists": [
-        {
-          "name": "Quido van de Graaf",
-          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
-        }
-      ],
-      "duration_ms": 182387,
-      "name": "Als De Morgen Niet Bestaat",
-      "url": "https://open.spotify.com/track/5RZZKaOwxVD78IRwnZztHr"
-    },
-    {
-      "added_at": "2026-11-12 23:01:14",
-      "album": {
-        "name": "100 Keer Gebeld",
-        "url": "https://open.spotify.com/album/5kMTkRu0KV94z7m4Ux5iS4"
-      },
-      "artists": [
-        {
-          "name": "Mike Versteeg",
-          "url": "https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB"
-        },
-        {
-          "name": "Martijn Leopardi",
-          "url": "https://open.spotify.com/artist/0dNvb29pd5miS7r3ti22OO"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "100 Keer Gebeld",
-      "url": "https://open.spotify.com/track/3xeTZ8ojNqFUj1K2L4QH1F"
-    },
-    {
-      "added_at": "2026-11-12 23:01:14",
-      "album": {
         "name": "Fout & Stout",
         "url": "https://open.spotify.com/album/4bTO6aBV8HT7H1a6YgscWW"
       },
@@ -143,22 +167,6 @@
       "duration_ms": 135833,
       "name": "Fout & Stout",
       "url": "https://open.spotify.com/track/2mujYhFncM9ZKjMICIg7e7"
-    },
-    {
-      "added_at": "2026-11-12 23:01:14",
-      "album": {
-        "name": "Een 10",
-        "url": "https://open.spotify.com/album/6RYXkuJUDG9SxmWeXn3zfX"
-      },
-      "artists": [
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        }
-      ],
-      "duration_ms": 162755,
-      "name": "Een 10",
-      "url": "https://open.spotify.com/track/2AJ2Zrn6xpdlBXX0bSnKmK"
     },
     {
       "added_at": "2026-11-12 23:01:14",
@@ -183,6 +191,38 @@
       "duration_ms": 187263,
       "name": "Onderweg Naar Jou",
       "url": "https://open.spotify.com/track/6aymBfPvCnwI3roMDFbUFK"
+    },
+    {
+      "added_at": "2026-11-12 23:01:14",
+      "album": {
+        "name": "We Leven Nu",
+        "url": "https://open.spotify.com/album/3fesxYwu5kTqlJSugmcl8t"
+      },
+      "artists": [
+        {
+          "name": "Martijn Kerstens",
+          "url": "https://open.spotify.com/artist/3Kruszlg3KjU1pwpSymIRo"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "We Leven Nu",
+      "url": "https://open.spotify.com/track/4ccQXzAjVQ0DGpWiWTVT2J"
+    },
+    {
+      "added_at": "2026-11-12 23:01:14",
+      "album": {
+        "name": "Een 10",
+        "url": "https://open.spotify.com/album/6RYXkuJUDG9SxmWeXn3zfX"
+      },
+      "artists": [
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        }
+      ],
+      "duration_ms": 162755,
+      "name": "Een 10",
+      "url": "https://open.spotify.com/track/2AJ2Zrn6xpdlBXX0bSnKmK"
     },
     {
       "added_at": "2026-11-12 23:01:14",
@@ -219,30 +259,6 @@
     {
       "added_at": "2026-11-12 23:01:14",
       "album": {
-        "name": "Kom Wat Dichterbij",
-        "url": "https://open.spotify.com/album/1Fdb8kr7ugnZrYk0U9Ec5t"
-      },
-      "artists": [
-        {
-          "name": "Rinus Werrens",
-          "url": "https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU"
-        },
-        {
-          "name": "Donny Duardo",
-          "url": "https://open.spotify.com/artist/7nJk84xGJhAl4HJ9ib0hQa"
-        },
-        {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
-        }
-      ],
-      "duration_ms": 173213,
-      "name": "Kom Wat Dichterbij",
-      "url": "https://open.spotify.com/track/3XncYQxQNxfd9XYVgw5at7"
-    },
-    {
-      "added_at": "2026-11-12 23:01:14",
-      "album": {
         "name": "Wees Voorzichtig Met Mijn Hart",
         "url": "https://open.spotify.com/album/7n2kmd04Cvy0v5fW3K7gAW"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 215682,
       "name": "Ik Bid Nu Tot God",
       "url": "https://open.spotify.com/track/5uppUSsYBpad6cFgtFQY6c"
-    },
-    {
-      "added_at": "2026-11-12 23:01:14",
-      "album": {
-        "name": "We Leven Nu",
-        "url": "https://open.spotify.com/album/3fesxYwu5kTqlJSugmcl8t"
-      },
-      "artists": [
-        {
-          "name": "Martijn Kerstens",
-          "url": "https://open.spotify.com/artist/3Kruszlg3KjU1pwpSymIRo"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "We Leven Nu",
-      "url": "https://open.spotify.com/track/4ccQXzAjVQ0DGpWiWTVT2J"
     },
     {
       "added_at": "2026-11-12 23:01:14",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-11-12 23:01:14",
       "album": {
+        "name": "Alles Wat Ik Zocht",
+        "url": "https://open.spotify.com/album/5AGJtJk38H5fOpiUHEKCcJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Verkooyen",
+          "url": "https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G"
+        }
+      ],
+      "duration_ms": 174310,
+      "name": "Alles Wat Ik Zocht",
+      "url": "https://open.spotify.com/track/7nWkh4euucX6Eb4ZHjuJyH"
+    },
+    {
+      "added_at": "2026-11-12 23:01:14",
+      "album": {
         "name": "Tijdmachine",
         "url": "https://open.spotify.com/album/2wkR4izGobDdty3PAHOn2f"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 169377,
       "name": "Mijn Jongen",
       "url": "https://open.spotify.com/track/4U7VKqY43DgWwSC00tGjUk"
-    },
-    {
-      "added_at": "2026-11-12 23:01:14",
-      "album": {
-        "name": "Alles Wat Ik Zocht",
-        "url": "https://open.spotify.com/album/5AGJtJk38H5fOpiUHEKCcJ"
-      },
-      "artists": [
-        {
-          "name": "Frank Verkooyen",
-          "url": "https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G"
-        }
-      ],
-      "duration_ms": 174310,
-      "name": "Alles Wat Ik Zocht",
-      "url": "https://open.spotify.com/track/7nWkh4euucX6Eb4ZHjuJyH"
     },
     {
       "added_at": "2026-11-12 23:01:14",

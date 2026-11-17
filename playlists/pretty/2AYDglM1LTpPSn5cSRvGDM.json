@@ -1,12 +1,12 @@
 {
   "description": "The best Progressive House in the scene. <a href=\"https://ffm.link/9o81evb/\">Instagram</a>, <a href=\"https://ffm.link/xjgmb7\">Website, </a><a href=\"https://ffm.link/bknqm1j\">Merch</a>",
-  "num_followers": 112068,
+  "num_followers": 112093,
   "original_name": "Progressive House 2026",
   "owner": {
     "name": "Enhanced Music",
     "url": "https://open.spotify.com/user/enhanced_music"
   },
-  "snapshot_id": "AABBOcbEhabqljPY7NtJO/JJQdew4mYf",
+  "snapshot_id": "AABBOjG90ZS/y4K5gTTBIT7FlSdZyAVE",
   "tracks": [
     {
       "added_at": "2026-10-09 12:07:25",
@@ -27,6 +27,26 @@
       "duration_ms": 220781,
       "name": "Around You",
       "url": "https://open.spotify.com/track/6oox0upuGz8JH5XqDShOjS"
+    },
+    {
+      "added_at": "2026-11-04 11:58:03",
+      "album": {
+        "name": "You Don't Think I Love You",
+        "url": "https://open.spotify.com/album/7bPfZoU7xH2oa5oimyQolw"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Elmar",
+          "url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom"
+        }
+      ],
+      "duration_ms": 198928,
+      "name": "You Don't Think I Love You",
+      "url": "https://open.spotify.com/track/24mUCh7Tvj7kSV3Mxh2kLV"
     },
     {
       "added_at": "2026-10-30 00:04:27",
@@ -111,26 +131,6 @@
       "duration_ms": 176619,
       "name": "7 Miles High - Alex Adair Remix",
       "url": "https://open.spotify.com/track/6Ebc4VvnhTT0ybFavZrhs0"
-    },
-    {
-      "added_at": "2026-11-04 11:58:03",
-      "album": {
-        "name": "You Don't Think I Love You",
-        "url": "https://open.spotify.com/album/7bPfZoU7xH2oa5oimyQolw"
-      },
-      "artists": [
-        {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        },
-        {
-          "name": "Elmar",
-          "url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom"
-        }
-      ],
-      "duration_ms": 198928,
-      "name": "You Don't Think I Love You",
-      "url": "https://open.spotify.com/track/24mUCh7Tvj7kSV3Mxh2kLV"
     },
     {
       "added_at": "2026-10-30 00:04:30",

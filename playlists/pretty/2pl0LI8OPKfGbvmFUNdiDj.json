@@ -6,7 +6,7 @@
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEstdynDC3D8kGQjuTwU0+4V0Bq140",
+  "snapshot_id": "AAAEs+xtTe9Ml8I5Szy4y6mkbUCs5vSa",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1175,6 +1175,26 @@
       "duration_ms": 236962,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/24q4l4i4XrTMIEVT63cT0J"
+    },
+    {
+      "added_at": "2026-11-16 22:23:14",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/6Ipsfviteblf4qjAgFCCYk"
+      },
+      "artists": [
+        {
+          "name": "John Da Lemon",
+          "url": "https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE"
+        },
+        {
+          "name": "Skiii",
+          "url": "https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/7yrwz7QkYtNkntwUc0ei8q"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

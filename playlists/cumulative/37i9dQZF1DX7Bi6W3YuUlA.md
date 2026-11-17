@@ -2,9 +2,9 @@
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip\-hop\. Cover: Skilla Baby
+> Inspirational hip\-hop\. Cover: Fivio Foreign
 
-567 songs - 1 day 4 hr 32 min
+568 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Caught Up](https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Caught Up](https://open.spotify.com/album/1FaaYcLCHwBf0EkHSN7xnl) | 2:20 | 2022-05-28 | 2022-07-27 |
 | [CECE](https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [CECE](https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH) | 2:22 | 2022-05-28 | 2026-04-25 |
 | [Change The Channel](https://open.spotify.com/track/5CSmjkOlfKgu2TfTkAKm0D) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Change the Channel](https://open.spotify.com/album/7BsU7piQMlUAv8MZ6IvaiW) | 4:30 | 2021-12-11 | 2022-07-29 |
-| [Chasin](https://open.spotify.com/track/77fXMuOnjHNFIJk3nB1y6B) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Fire Choir](https://open.spotify.com/artist/1XFGDYQzhYgGCUToGJe6Tn) | [Chasin](https://open.spotify.com/album/4rGXyN5SaRm1XJcYr7wUOk) | 3:18 | 2026-08-11 |  |
+| [Chasin](https://open.spotify.com/track/77fXMuOnjHNFIJk3nB1y6B) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Fire Choir](https://open.spotify.com/artist/1XFGDYQzhYgGCUToGJe6Tn) | [Chasin](https://open.spotify.com/album/4rGXyN5SaRm1XJcYr7wUOk) | 3:18 | 2026-08-11 | 2026-11-17 |
 | [Chasing\_\(Demo\)](https://open.spotify.com/track/4f80SteKqaB6M2JytEUrwT) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Mikayla Sippel](https://open.spotify.com/artist/4XRSNOy4w4E4euNeu3aIfr) | [Chasing\_\(Demo\)](https://open.spotify.com/album/1wo8JeDRslm23n6rqpb3jk) | 3:01 | 2021-12-11 | 2022-04-16 |
 | [CHECK!](https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [CHECK!](https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4) | 2:26 | 2024-06-25 | 2024-06-29 |
 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 | 2023-02-18 | 2026-07-04 |
@@ -571,6 +571,7 @@
 | [You Can Make It](https://open.spotify.com/track/7j0Ttn6PMv8Av5558jTdWa) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [You Can Make It](https://open.spotify.com/album/2mrBixGpvGSWnNGqf46RLo) | 3:40 | 2024-08-26 | 2024-10-05 |
 | [You Can't Cancel Me](https://open.spotify.com/track/0otyDvqVZaXc5BjEcfzxVQ) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [War](https://open.spotify.com/album/3hPlEX0M46IoVV1PxyIfnS) | 1:56 | 2025-07-25 | 2026-04-25 |
 | [You Know the Drill](https://open.spotify.com/track/7gdNfIqpKzAiCnclGvk07a) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Wordsplayed](https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO), [Magic & Bird](https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:17 | 2021-12-11 | 2024-06-26 |
+| [You Make Me](https://open.spotify.com/track/7AYRT3hADPDQX5v4dXd6Nh) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Fire Choir](https://open.spotify.com/artist/1XFGDYQzhYgGCUToGJe6Tn) | [You Make Me](https://open.spotify.com/album/58X6r78Vbiy8zUzGZ1nCUN) | 2:21 | 2026-11-16 |  |
 | [youngboy vandross](https://open.spotify.com/track/4YCIbh9hwCbAOe05FQidoJ) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [young underdog](https://open.spotify.com/album/2ytoMsYnx8AGYTUH5Wz0XF) | 1:53 | 2021-12-11 | 2022-05-20 |
 | [Your Way](https://open.spotify.com/track/4SFF3yfErafpFtVVfjkXTk) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [SURRENDERED](https://open.spotify.com/album/2FRDkqCwSbcRskNQMW9U8H) | 2:33 | 2021-12-11 | 2022-07-29 |
 | [Your Word My Mind](https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Your Word My Mind](https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6) | 2:29 | 2022-11-18 | 2024-06-26 |

@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Middle Child",
-        "url": "https://open.spotify.com/album/7AzyqKHf7oW9chRiizoLDA"
-      },
-      "artists": [
-        {
-          "name": "Blockwork",
-          "url": "https://open.spotify.com/artist/16Ne2S96l791xLUXKov8hE"
-        }
-      ],
-      "duration_ms": 155061,
-      "name": "Comeback Home",
-      "url": "https://open.spotify.com/track/1cokJPmPTVwUrewmhZWOB3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strings Attached",
         "url": "https://open.spotify.com/album/7xVrnsfXIbVF5NikvzdiGZ"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 107716,
       "name": "Strings Attached (feat. TopOppGen)",
       "url": "https://open.spotify.com/track/7GHiehPcW6YJ892iZA92ga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Middle Child",
+        "url": "https://open.spotify.com/album/7AzyqKHf7oW9chRiizoLDA"
+      },
+      "artists": [
+        {
+          "name": "Blockwork",
+          "url": "https://open.spotify.com/artist/16Ne2S96l791xLUXKov8hE"
+        }
+      ],
+      "duration_ms": 155061,
+      "name": "Comeback Home",
+      "url": "https://open.spotify.com/track/1cokJPmPTVwUrewmhZWOB3"
     },
     {
       "added_at": null,
@@ -175,30 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "idm",
-        "url": "https://open.spotify.com/album/5bbtt3Fxv0lzNr7zG516Zx"
-      },
-      "artists": [
-        {
-          "name": "Corbwtf",
-          "url": "https://open.spotify.com/artist/2aJYZdIWiiM8ACcWi08hRp"
-        },
-        {
-          "name": "ayerp",
-          "url": "https://open.spotify.com/artist/2SZYtMPDP304h1y7fMlAkC"
-        },
-        {
-          "name": "kantstressk",
-          "url": "https://open.spotify.com/artist/6Ls6tuzIJ7325qcMcPRmxU"
-        }
-      ],
-      "duration_ms": 142718,
-      "name": "idm",
-      "url": "https://open.spotify.com/track/0idGfkfDjVtLwRv4mWDIgW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spanglish",
         "url": "https://open.spotify.com/album/0XLRt7IitLolNkwQkZtHSg"
       },
@@ -227,6 +203,30 @@
       "duration_ms": 205752,
       "name": "american idol",
       "url": "https://open.spotify.com/track/2aQAToAJxqCC8i1dcXSLcm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "idm",
+        "url": "https://open.spotify.com/album/5bbtt3Fxv0lzNr7zG516Zx"
+      },
+      "artists": [
+        {
+          "name": "Corbwtf",
+          "url": "https://open.spotify.com/artist/2aJYZdIWiiM8ACcWi08hRp"
+        },
+        {
+          "name": "ayerp",
+          "url": "https://open.spotify.com/artist/2SZYtMPDP304h1y7fMlAkC"
+        },
+        {
+          "name": "kantstressk",
+          "url": "https://open.spotify.com/artist/6Ls6tuzIJ7325qcMcPRmxU"
+        }
+      ],
+      "duration_ms": 142718,
+      "name": "idm",
+      "url": "https://open.spotify.com/track/0idGfkfDjVtLwRv4mWDIgW"
     },
     {
       "added_at": null,
@@ -263,18 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sexiest Man Alive",
-        "url": "https://open.spotify.com/album/6cxiMShncARBAZ72ydEXkT"
+        "name": "Me & Mine, Pt. 1",
+        "url": "https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono"
       },
       "artists": [
         {
-          "name": "Jaybexo",
-          "url": "https://open.spotify.com/artist/2EiZrhJaUqMPjo8qlVC93L"
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
         }
       ],
-      "duration_ms": 117937,
-      "name": "Black Trucks (dirty souf)",
-      "url": "https://open.spotify.com/track/0kdwZawCRqIZjKHEXRO8aX"
+      "duration_ms": 198149,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/3zls854dRathxLF4aoMJm2"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
       "duration_ms": 106533,
       "name": "Yale",
       "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me & Mine, Pt. 1",
-        "url": "https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        }
-      ],
-      "duration_ms": 198149,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/3zls854dRathxLF4aoMJm2"
     },
     {
       "added_at": null,
@@ -343,18 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
+        "name": "Sexiest Man Alive",
+        "url": "https://open.spotify.com/album/6cxiMShncARBAZ72ydEXkT"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Jaybexo",
+          "url": "https://open.spotify.com/artist/2EiZrhJaUqMPjo8qlVC93L"
         }
       ],
-      "duration_ms": 160052,
-      "name": "Mon\u00eby so big",
-      "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
+      "duration_ms": 117937,
+      "name": "Black Trucks (dirty souf)",
+      "url": "https://open.spotify.com/track/0kdwZawCRqIZjKHEXRO8aX"
     },
     {
       "added_at": null,
@@ -371,6 +355,22 @@
       "duration_ms": 149508,
       "name": "Switchin Sides",
       "url": "https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Mon\u00eby so big",
+      "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
     },
     {
       "added_at": null,
@@ -423,30 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "havin",
-        "url": "https://open.spotify.com/album/3BhlxsEpeLYBYlD3oUJ7xb"
+        "name": "LO NE LY",
+        "url": "https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS"
       },
       "artists": [
         {
-          "name": "Slump Audios",
-          "url": "https://open.spotify.com/artist/0kV5IPIp3Q8eksQ5R9q3hE"
-        },
-        {
-          "name": "pink6",
-          "url": "https://open.spotify.com/artist/22WZWH3ID3iUnZ9lAZkkVv"
-        },
-        {
-          "name": "DJ BANNED",
-          "url": "https://open.spotify.com/artist/24rC9TDYDGRHBDIVuAiKCd"
-        },
-        {
-          "name": "Chris Finesse Exclusives",
-          "url": "https://open.spotify.com/artist/62lb86Gp3XI8HWkTdiOmjI"
+          "name": "Khalil?",
+          "url": "https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz"
         }
       ],
-      "duration_ms": 115356,
-      "name": "havin",
-      "url": "https://open.spotify.com/track/31TmrpMSlfEb7B07RvF8it"
+      "duration_ms": 143520,
+      "name": "LO NE LY",
+      "url": "https://open.spotify.com/track/4WLxfQq7p0iyvaoOQLTYyO"
     },
     {
       "added_at": null,
@@ -483,54 +471,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "LO NE LY",
-        "url": "https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS"
+        "name": "havin",
+        "url": "https://open.spotify.com/album/3BhlxsEpeLYBYlD3oUJ7xb"
       },
       "artists": [
         {
-          "name": "Khalil?",
-          "url": "https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "LO NE LY",
-      "url": "https://open.spotify.com/track/4WLxfQq7p0iyvaoOQLTYyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rude Babi",
-        "url": "https://open.spotify.com/album/58zlK7ulZAvWBCj0aHCDyX"
-      },
-      "artists": [
-        {
-          "name": "Atl Smook",
-          "url": "https://open.spotify.com/artist/00VLi51B5wjgE5jg3lmOKB"
-        }
-      ],
-      "duration_ms": 132203,
-      "name": "Peppermint Coupe",
-      "url": "https://open.spotify.com/track/3p464l3rlgsoRygtrysnfS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boy (with Young Thug)",
-        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Slump Audios",
+          "url": "https://open.spotify.com/artist/0kV5IPIp3Q8eksQ5R9q3hE"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "pink6",
+          "url": "https://open.spotify.com/artist/22WZWH3ID3iUnZ9lAZkkVv"
+        },
+        {
+          "name": "DJ BANNED",
+          "url": "https://open.spotify.com/artist/24rC9TDYDGRHBDIVuAiKCd"
+        },
+        {
+          "name": "Chris Finesse Exclusives",
+          "url": "https://open.spotify.com/artist/62lb86Gp3XI8HWkTdiOmjI"
         }
       ],
-      "duration_ms": 157355,
-      "name": "Bad Boy (with Young Thug)",
-      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
+      "duration_ms": 115356,
+      "name": "havin",
+      "url": "https://open.spotify.com/track/31TmrpMSlfEb7B07RvF8it"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loving Again",
+        "url": "https://open.spotify.com/album/1Jd9J0YhdJb3ApJkl2Vf8D"
+      },
+      "artists": [
+        {
+          "name": "Prada Archive",
+          "url": "https://open.spotify.com/artist/1buyiTMOm3YOoPMJHnLZ3c"
+        }
+      ],
+      "duration_ms": 105498,
+      "name": "Loving Again",
+      "url": "https://open.spotify.com/track/4sUzmuV30kAb7hFWaNn8Bu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escape To Reality",
+        "url": "https://open.spotify.com/album/2qNhyQkaR3QvnH23eERztA"
+      },
+      "artists": [
+        {
+          "name": "Favo",
+          "url": "https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe"
+        },
+        {
+          "name": "Prod Drxcoo!",
+          "url": "https://open.spotify.com/artist/61ycBiMZrMcwMysnRZYJSy"
+        }
+      ],
+      "duration_ms": 99869,
+      "name": "I don't get it",
+      "url": "https://open.spotify.com/track/5WmRLIz7olkTKtrVosyZQG"
     },
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Boy (with Young Thug)",
+        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 157355,
+      "name": "Bad Boy (with Young Thug)",
+      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2high",
         "url": "https://open.spotify.com/album/2ILSr2xQkOORnjsZgUjcJ6"
       },
@@ -575,22 +595,6 @@
       "duration_ms": 192040,
       "name": "Been Off (feat. Yeat)",
       "url": "https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fire in my heart",
-        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
-      },
-      "artists": [
-        {
-          "name": "1400 Vault",
-          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
-        }
-      ],
-      "duration_ms": 229738,
-      "name": "Fire in my heart",
-      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
     },
     {
       "added_at": null,
@@ -627,18 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All 4 Bop",
-        "url": "https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb"
+        "name": "Fire in my heart",
+        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
       },
       "artists": [
         {
-          "name": "Curry B",
-          "url": "https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF"
+          "name": "1400 Vault",
+          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
         }
       ],
-      "duration_ms": 145841,
-      "name": "Telephones",
-      "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
+      "duration_ms": 229738,
+      "name": "Fire in my heart",
+      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
     },
     {
       "added_at": null,
@@ -675,18 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
+        "name": "Gravity center",
+        "url": "https://open.spotify.com/album/0VAHDhWfySZfbkHTKmaEWz"
       },
       "artists": [
         {
-          "name": "Rayy Dubb",
-          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
+          "name": "Datboi bubba",
+          "url": "https://open.spotify.com/artist/5AG3Jm3s3j48CoCZBQtJdf"
         }
       ],
-      "duration_ms": 165575,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
+      "duration_ms": 166370,
+      "name": "Gravity center",
+      "url": "https://open.spotify.com/track/0UfPVC6VhhOTKytJmDO792"
     },
     {
       "added_at": null,
@@ -707,26 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG 3",
-        "url": "https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu"
+        "name": "Rude Babi",
+        "url": "https://open.spotify.com/album/58zlK7ulZAvWBCj0aHCDyX"
       },
       "artists": [
         {
-          "name": "Bloodhound Lil Jeff",
-          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
-        },
-        {
-          "name": "BloodHound Q50",
-          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
-        },
-        {
-          "name": "Slimeto",
-          "url": "https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4"
+          "name": "Atl Smook",
+          "url": "https://open.spotify.com/artist/00VLi51B5wjgE5jg3lmOKB"
         }
       ],
-      "duration_ms": 122483,
-      "name": "BIG 3",
-      "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
+      "duration_ms": 132203,
+      "name": "Peppermint Coupe",
+      "url": "https://open.spotify.com/track/3p464l3rlgsoRygtrysnfS"
     },
     {
       "added_at": null,
@@ -763,6 +759,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIG 3",
+        "url": "https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        },
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+        },
+        {
+          "name": "Slimeto",
+          "url": "https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4"
+        }
+      ],
+      "duration_ms": 122483,
+      "name": "BIG 3",
+      "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Futuristic",
         "url": "https://open.spotify.com/album/0aBXI8IsNfs9y258CrRWQO"
       },
@@ -779,58 +799,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "LORD",
-        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
       },
       "artists": [
         {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+          "name": "Rayy Dubb",
+          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
         }
       ],
-      "duration_ms": 143112,
-      "name": "Which 1 / Klueless",
-      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
+      "duration_ms": 165575,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4KxbbFVMTy3id6jbjhL6G7"
+        "name": "Spanglish Session",
+        "url": "https://open.spotify.com/album/2hu1eZmAyvaP2AcZCkjdTw"
       },
       "artists": [
         {
-          "name": "svizex",
-          "url": "https://open.spotify.com/artist/7a0nRqi6ZqKHvNPp6wnWTx"
-        },
-        {
-          "name": "twizzynose",
-          "url": "https://open.spotify.com/artist/7MJ41d3urLVVrTcr1EdjZ8"
-        },
-        {
-          "name": "miney",
-          "url": "https://open.spotify.com/artist/3PT5Hi8UIwqHo6SmvpkEcx"
+          "name": "takemeback",
+          "url": "https://open.spotify.com/artist/4paXfz4X44FEgQ4l6zVL4C"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Fuck Shyt",
-      "url": "https://open.spotify.com/track/09tkDWfjVkCLgpCeMKx0HF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loving Again",
-        "url": "https://open.spotify.com/album/1Jd9J0YhdJb3ApJkl2Vf8D"
-      },
-      "artists": [
-        {
-          "name": "Prada Archive",
-          "url": "https://open.spotify.com/artist/1buyiTMOm3YOoPMJHnLZ3c"
-        }
-      ],
-      "duration_ms": 105498,
-      "name": "Loving Again",
-      "url": "https://open.spotify.com/track/4sUzmuV30kAb7hFWaNn8Bu"
+      "duration_ms": 212926,
+      "name": "Spanglish Session",
+      "url": "https://open.spotify.com/track/4MWf8JsRrxeN3sPIVzal7y"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avekgAAAAABDjLuuH7Ty92DS+i/zapc4",
+  "snapshot_id": "avj2AAAAAAAh4GCyA9bwmOdZvzh3SQKc",
   "tracks": [
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yossarian",
-        "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
+        "name": "ReWiggled: The Classics",
+        "url": "https://open.spotify.com/album/3bMUfA7L5ixLdo86uCyvtq"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 191395,
-      "name": "Yossarian",
-      "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
+      "duration_ms": 81016,
+      "name": "The Shimmie Shake",
+      "url": "https://open.spotify.com/track/6LZx6rOHE8s2oHC7Fb6jpG"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yossarian",
+        "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Yossarian",
+      "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loose Threads",
         "url": "https://open.spotify.com/album/1icrFP0zNoQmzukq41iea0"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 180229,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/52GXxByzG2G6fpo9b2zvpY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ReWiggled: The Classics",
-        "url": "https://open.spotify.com/album/3bMUfA7L5ixLdo86uCyvtq"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 81016,
-      "name": "The Shimmie Shake",
-      "url": "https://open.spotify.com/track/6LZx6rOHE8s2oHC7Fb6jpG"
     }
   ],
   "unique_name": "This Is Luca Brasi",

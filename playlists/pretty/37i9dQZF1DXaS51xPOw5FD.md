@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,371 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,375 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 64 | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/track/3hwCsbpzgjOXlE4gdnkjbg) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [On My Way \(feat\. Children of Zeus\)](https://open.spotify.com/album/5hizQdvILZTWrTLp1AUzIj) | 3:25 |
 | 65 | [Inbetween](https://open.spotify.com/track/258dZAUO52hG9gC6MNIg8s) | [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Inbetween](https://open.spotify.com/album/4cQoJVXYcZ9xpjpqUEK5Ds) | 2:14 |
 | 66 | [Right Now](https://open.spotify.com/track/1k8XXzYfFYfFYpH7roV0na) | [Mia Kirkland](https://open.spotify.com/artist/4hfw8XD3PTSsBAKj3Zx3fD), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Right Now](https://open.spotify.com/album/5OoEgzQw9LsTwJYnyrDkLF) | 3:11 |
-| 67 | [Favela](https://open.spotify.com/track/2ijL261X405FDR88YzpmIv) | [Harriet Jaxxon](https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu) | [Favela](https://open.spotify.com/album/2BPl2kILbhjnb4VKJQnyDT) | 2:41 |
-| 68 | [Alive Again](https://open.spotify.com/track/42lBoreMgKdUW9ugLVDvgg) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Alive Again](https://open.spotify.com/album/1YD4pEVOFng1bTLwNLwN3c) | 3:13 |
+| 67 | [Alive Again](https://open.spotify.com/track/42lBoreMgKdUW9ugLVDvgg) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Alive Again](https://open.spotify.com/album/1YD4pEVOFng1bTLwNLwN3c) | 3:13 |
+| 68 | [Favela](https://open.spotify.com/track/2ijL261X405FDR88YzpmIv) | [Harriet Jaxxon](https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu) | [Favela](https://open.spotify.com/album/2BPl2kILbhjnb4VKJQnyDT) | 2:41 |
 | 69 | [Owe It All To You](https://open.spotify.com/track/4rnQDR4LkCVeTN85wiPByY) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Owe It All To You](https://open.spotify.com/album/31D5KFyavZz9dMCF08ARJl) | 2:42 |
 | 70 | [Enemies](https://open.spotify.com/track/6TpoVBaYIfJ1wx57gNoJuA) | [Brookes Brothers](https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6), [Mia Kirkland](https://open.spotify.com/artist/4hfw8XD3PTSsBAKj3Zx3fD) | [Enemies](https://open.spotify.com/album/25cVfr0hdtNY6IayDhR1d8) | 3:26 |
 | 71 | [Mario Underground DnB](https://open.spotify.com/track/4vB5WszFVjXQ8lffE8rVVm) | [Ed Solo](https://open.spotify.com/artist/7jnJgk7LLLdpPhXrOOZXCa) | [Mario Underground DnB](https://open.spotify.com/album/0EuN7NcT7fwQUqprVfmnF4) | 2:13 |

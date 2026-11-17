@@ -1,6 +1,6 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 254615,
+  "num_followers": 254700,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "On Giacometti",
+        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 353200,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "Modulations: EP2",
         "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 115133,
       "name": "The North Wind - Daigo Hanada Re-work",
       "url": "https://open.spotify.com/track/3oM82Zz63KrnYQ0ZaTTQ9l"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "On Giacometti",
-        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 353200,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "d\u00e9sert (deluxe)",
-        "url": "https://open.spotify.com/album/1f7x902zGxfTGfkV59gkV9"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        },
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 171434,
-      "name": "passage",
-      "url": "https://open.spotify.com/track/4gjLAjmcgMoa1CCOkpF3NH"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Delicately",
         "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 123251,
       "name": "Delicately",
       "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "d\u00e9sert (deluxe)",
+        "url": "https://open.spotify.com/album/1f7x902zGxfTGfkV59gkV9"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        },
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 171434,
+      "name": "passage",
+      "url": "https://open.spotify.com/track/4gjLAjmcgMoa1CCOkpF3NH"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1415,22 +1415,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Footsteps",
-        "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7J7EcsbN5jmvnoZHF4mDnN"
       },
       "artists": [
         {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
         },
         {
-          "name": "Anna De Bruin",
-          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
         }
       ],
-      "duration_ms": 189026,
-      "name": "Footsteps",
-      "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
+      "duration_ms": 214080,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/3QHtOPzh9pZVLa00qd9pWe"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7J7EcsbN5jmvnoZHF4mDnN"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        },
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/3QHtOPzh9pZVLa00qd9pWe"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "instead",
         "url": "https://open.spotify.com/album/3yquYFDUSDni0ZADpSkKyi"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 211448,
       "name": "instead",
       "url": "https://open.spotify.com/track/3GTPunixb7sqIF3D20TrvQ"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Footsteps",
+        "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Anna De Bruin",
+          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Footsteps",
+      "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Tramlines",
-        "url": "https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r"
-      },
-      "artists": [
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
-        }
-      ],
-      "duration_ms": 226669,
-      "name": "Tramlines",
-      "url": "https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Meant To Be",
         "url": "https://open.spotify.com/album/1zGNymSjtn37rA11ua8bcQ"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 235000,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/7oTmFx6P6v6ul1vemi20Ng"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Tramlines",
+        "url": "https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 226669,
+      "name": "Tramlines",
+      "url": "https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Br\u00e5ddjup",
-        "url": "https://open.spotify.com/album/09X4bKe4wtQzL420dXtNay"
-      },
-      "artists": [
-        {
-          "name": "Patrik Berg Almkvisth",
-          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
-        },
-        {
-          "name": "LUCHS",
-          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
-        }
-      ],
-      "duration_ms": 184347,
-      "name": "Br\u00e5ddjup",
-      "url": "https://open.spotify.com/track/72X3TNw4gupUSI1BVC1fp9"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Candle Flickers",
         "url": "https://open.spotify.com/album/4gAaXS2qlVgp3AqFY8ajgq"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 164320,
       "name": "Candle Flickers (feat. Peter Gregson) - Adagio",
       "url": "https://open.spotify.com/track/7H1jV49w6b5xTPT6LojVOw"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Br\u00e5ddjup",
+        "url": "https://open.spotify.com/album/09X4bKe4wtQzL420dXtNay"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg Almkvisth",
+          "url": "https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo"
+        },
+        {
+          "name": "LUCHS",
+          "url": "https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe"
+        }
+      ],
+      "duration_ms": 184347,
+      "name": "Br\u00e5ddjup",
+      "url": "https://open.spotify.com/track/72X3TNw4gupUSI1BVC1fp9"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "A Collective Destiny",
-        "url": "https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL"
-      },
-      "artists": [
-        {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "A Collective Destiny",
-      "url": "https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Solos",
         "url": "https://open.spotify.com/album/2OZZ7yK2YNyeiRTEg97Tal"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 221133,
       "name": "Song for Octave",
       "url": "https://open.spotify.com/track/0a1V9soqYkcKEzSqjfLf3W"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "A Collective Destiny",
+        "url": "https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "A Collective Destiny",
+      "url": "https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "Town of Widows (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56Wl1Ce2jRBfFQjrwKBMTx"
+      },
+      "artists": [
+        {
+          "name": "Rob McAllister",
+          "url": "https://open.spotify.com/artist/3Sr2vN8SYHGGuMFG14Bvlg"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Persist and Persevere",
+      "url": "https://open.spotify.com/track/7tZAIFDdk4mTpxyjCmeyR7"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "Elusive Scent",
         "url": "https://open.spotify.com/album/2YmL8ONiVXVJVXWL3ovQLk"
       },
@@ -2259,46 +2275,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Town of Widows (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/56Wl1Ce2jRBfFQjrwKBMTx"
-      },
-      "artists": [
-        {
-          "name": "Rob McAllister",
-          "url": "https://open.spotify.com/artist/3Sr2vN8SYHGGuMFG14Bvlg"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Persist and Persevere",
-      "url": "https://open.spotify.com/track/7tZAIFDdk4mTpxyjCmeyR7"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "is this really it?",
-        "url": "https://open.spotify.com/album/0iAe8b0UeOxLbQHsippL5M"
-      },
-      "artists": [
-        {
-          "name": "The Field Tapes",
-          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
-        },
-        {
-          "name": "Jon Notar",
-          "url": "https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX"
-        },
-        {
-          "name": "Async Ross",
-          "url": "https://open.spotify.com/artist/7yePXFsl8Y7GORfnIGlbFS"
-        }
-      ],
-      "duration_ms": 172716,
-      "name": "is this really it?",
-      "url": "https://open.spotify.com/track/2A8n9X3Jvw2oh7DH8OozPu"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Fredag",
         "url": "https://open.spotify.com/album/1o3P9viqum7MErNHVLhjk2"
       },
@@ -2327,6 +2303,30 @@
       "duration_ms": 180250,
       "name": "LYR",
       "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "is this really it?",
+        "url": "https://open.spotify.com/album/0iAe8b0UeOxLbQHsippL5M"
+      },
+      "artists": [
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "Jon Notar",
+          "url": "https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX"
+        },
+        {
+          "name": "Async Ross",
+          "url": "https://open.spotify.com/artist/7yePXFsl8Y7GORfnIGlbFS"
+        }
+      ],
+      "duration_ms": 172716,
+      "name": "is this really it?",
+      "url": "https://open.spotify.com/track/2A8n9X3Jvw2oh7DH8OozPu"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2511,6 +2511,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "Upstream Dream",
+        "url": "https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 256005,
+      "name": "Upstream Dream",
+      "url": "https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "Entering",
         "url": "https://open.spotify.com/album/2CrnxM71QY8LE7tYdMAmjE"
       },
@@ -2527,22 +2543,6 @@
       "duration_ms": 90285,
       "name": "Entering",
       "url": "https://open.spotify.com/track/5Gvgr1O5vJFM0pG9VMZF7N"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "Upstream Dream",
-        "url": "https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 256005,
-      "name": "Upstream Dream",
-      "url": "https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2675,22 +2675,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Redivider",
-        "url": "https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi"
-      },
-      "artists": [
-        {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "We Were Landed, We Were Landing Gently We Landed (uncut)",
-      "url": "https://open.spotify.com/track/1RenBfXqWZiCElrTQVKwTl"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/2PkwLM9JNzXPVwQxyizrZC"
       },
@@ -2707,6 +2691,22 @@
       "duration_ms": 234293,
       "name": "Reconnaissance Without End",
       "url": "https://open.spotify.com/track/7JIFJgMkEHvrasSXjoHBie"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Redivider",
+        "url": "https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi"
+      },
+      "artists": [
+        {
+          "name": "VLMV",
+          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "We Were Landed, We Were Landing Gently We Landed (uncut)",
+      "url": "https://open.spotify.com/track/1RenBfXqWZiCElrTQVKwTl"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2735,6 +2735,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "To Ourselves",
+        "url": "https://open.spotify.com/album/4etqTS2Mu9WRjjaWvWJBFA"
+      },
+      "artists": [
+        {
+          "name": "Jon Notar",
+          "url": "https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX"
+        }
+      ],
+      "duration_ms": 268983,
+      "name": "To Ourselves",
+      "url": "https://open.spotify.com/track/4K1LYV02moMXdlsp63IxI8"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "2 M\u00e9lodies, Op. 46: No. 2 \"Clair de lune\" (Arr. for Piano by Mel Bonis)",
         "url": "https://open.spotify.com/album/1gvNzitZpoRatMWHiqn4GS"
       },
@@ -2751,22 +2767,6 @@
       "duration_ms": 175330,
       "name": "2 M\u00e9lodies, Op. 46: No. 2 \"Clair de lune\" (Arr. for Piano by Mel Bonis)",
       "url": "https://open.spotify.com/track/3JtVGhfSRwWnUnocqMrUyJ"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "To Ourselves",
-        "url": "https://open.spotify.com/album/4etqTS2Mu9WRjjaWvWJBFA"
-      },
-      "artists": [
-        {
-          "name": "Jon Notar",
-          "url": "https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX"
-        }
-      ],
-      "duration_ms": 268983,
-      "name": "To Ourselves",
-      "url": "https://open.spotify.com/track/4K1LYV02moMXdlsp63IxI8"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2807,22 +2807,6 @@
       "duration_ms": 201000,
       "name": "When the Earth Yelled Back at Me",
       "url": "https://open.spotify.com/track/0wZFrHQjS0gSBXwFHkk0XC"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "Slow Movements",
-        "url": "https://open.spotify.com/album/1LNKPZxgIyoiFy92HgCR60"
-      },
-      "artists": [
-        {
-          "name": "Jack Page",
-          "url": "https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs"
-        }
-      ],
-      "duration_ms": 349247,
-      "name": "Movement Three",
-      "url": "https://open.spotify.com/track/1KumVKho3oL0uRIKLvLtvu"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2875,6 +2859,22 @@
       "duration_ms": 241390,
       "name": "Step Step Step",
       "url": "https://open.spotify.com/track/0IVVjhVDmwhH0utEnVetFl"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Slow Movements",
+        "url": "https://open.spotify.com/album/1LNKPZxgIyoiFy92HgCR60"
+      },
+      "artists": [
+        {
+          "name": "Jack Page",
+          "url": "https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs"
+        }
+      ],
+      "duration_ms": 349247,
+      "name": "Movement Three",
+      "url": "https://open.spotify.com/track/1KumVKho3oL0uRIKLvLtvu"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2947,18 +2947,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Wayfare",
-        "url": "https://open.spotify.com/album/1RvcDkk20RZH6DnMV7X7pj"
+        "name": "Somersault",
+        "url": "https://open.spotify.com/album/63LVsprZWfyUhv7rUQE5Rw"
       },
       "artists": [
         {
-          "name": "Variant Sea",
-          "url": "https://open.spotify.com/artist/6ye2pfPUpBi6b3mnalp9uH"
+          "name": "Suntapes",
+          "url": "https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6"
+        },
+        {
+          "name": "Tomas Johan Kristian",
+          "url": "https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Wayfare",
-      "url": "https://open.spotify.com/track/4d6uIeiv5alKW5I0vb72uT"
+      "duration_ms": 156000,
+      "name": "Somersault",
+      "url": "https://open.spotify.com/track/4Tjsng3a8esls6YG4F5stt"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2979,22 +2983,18 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Somersault",
-        "url": "https://open.spotify.com/album/63LVsprZWfyUhv7rUQE5Rw"
+        "name": "Wayfare",
+        "url": "https://open.spotify.com/album/1RvcDkk20RZH6DnMV7X7pj"
       },
       "artists": [
         {
-          "name": "Suntapes",
-          "url": "https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6"
-        },
-        {
-          "name": "Tomas Johan Kristian",
-          "url": "https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ"
+          "name": "Variant Sea",
+          "url": "https://open.spotify.com/artist/6ye2pfPUpBi6b3mnalp9uH"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Somersault",
-      "url": "https://open.spotify.com/track/4Tjsng3a8esls6YG4F5stt"
+      "duration_ms": 288000,
+      "name": "Wayfare",
+      "url": "https://open.spotify.com/track/4d6uIeiv5alKW5I0vb72uT"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3139,22 +3139,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Apr\u00e8s la fourche des jardins",
-        "url": "https://open.spotify.com/album/2nTMfsVWeJ5JPPCTbjqZEZ"
-      },
-      "artists": [
-        {
-          "name": "Biba Dupont",
-          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
-        }
-      ],
-      "duration_ms": 121481,
-      "name": "Apr\u00e8s la fourche des jardins",
-      "url": "https://open.spotify.com/track/6LRiV5yxxxFpWtfbkABaTX"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Nostalgi",
         "url": "https://open.spotify.com/album/65HFrbOPleregv8K8Pq3fu"
       },
@@ -3167,6 +3151,22 @@
       "duration_ms": 192000,
       "name": "Nostalgi",
       "url": "https://open.spotify.com/track/0BzLmawcOxJz0FhCWoGXHT"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Apr\u00e8s la fourche des jardins",
+        "url": "https://open.spotify.com/album/2nTMfsVWeJ5JPPCTbjqZEZ"
+      },
+      "artists": [
+        {
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+        }
+      ],
+      "duration_ms": 121481,
+      "name": "Apr\u00e8s la fourche des jardins",
+      "url": "https://open.spotify.com/track/6LRiV5yxxxFpWtfbkABaTX"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3191,22 +3191,6 @@
       "duration_ms": 216833,
       "name": "Saari",
       "url": "https://open.spotify.com/track/0o2qBgw2VIwxTgWO3oGCqL"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "Systems: The London Underground (Late Evening)",
-        "url": "https://open.spotify.com/album/09Bfyy8MiraNABmyzS9XP4"
-      },
-      "artists": [
-        {
-          "name": "Matthew Wilcock",
-          "url": "https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Systems: The London Underground (Late Evening)",
-      "url": "https://open.spotify.com/track/00LGN0mMCWxs8NHqSfL7kl"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3247,6 +3231,22 @@
       "duration_ms": 143924,
       "name": "Reimagined",
       "url": "https://open.spotify.com/track/3U5OsSVGeZo3C5QUEbEiMP"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Systems: The London Underground (Late Evening)",
+        "url": "https://open.spotify.com/album/09Bfyy8MiraNABmyzS9XP4"
+      },
+      "artists": [
+        {
+          "name": "Matthew Wilcock",
+          "url": "https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Systems: The London Underground (Late Evening)",
+      "url": "https://open.spotify.com/track/00LGN0mMCWxs8NHqSfL7kl"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3423,6 +3423,26 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "Vernacular: Jlin, David Longstreth, Philip Glass",
+        "url": "https://open.spotify.com/album/0baf5ab40M7yJL1FZtKBI7"
+      },
+      "artists": [
+        {
+          "name": "Third Coast Percussion",
+          "url": "https://open.spotify.com/artist/7aQZO27ByZmD9uWUgA1lJA"
+        },
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        }
+      ],
+      "duration_ms": 287160,
+      "name": "Premonition",
+      "url": "https://open.spotify.com/track/5KyZ8b2p8tlogS1jFd9bcI"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "Hoover",
         "url": "https://open.spotify.com/album/2ROBgbg8qM9LX0HqwE6RGZ"
       },
@@ -3435,6 +3455,22 @@
       "duration_ms": 340218,
       "name": "Hoover",
       "url": "https://open.spotify.com/track/06nFOtNdgdWVbYZvVzJnmw"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Eagles Flight",
+        "url": "https://open.spotify.com/album/62mVwJekp8RwY5QFLpLgx0"
+      },
+      "artists": [
+        {
+          "name": "Blurstem",
+          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+        }
+      ],
+      "duration_ms": 279466,
+      "name": "Eagles Flight",
+      "url": "https://open.spotify.com/track/6UksCv4F5AqNeyLI69f3lW"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3459,42 +3495,6 @@
       "duration_ms": 178927,
       "name": "Forest Mystique (Woodland Passage)",
       "url": "https://open.spotify.com/track/2fh5QC6JG70vALfIA9ltUC"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "Eagles Flight",
-        "url": "https://open.spotify.com/album/62mVwJekp8RwY5QFLpLgx0"
-      },
-      "artists": [
-        {
-          "name": "Blurstem",
-          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
-        }
-      ],
-      "duration_ms": 279466,
-      "name": "Eagles Flight",
-      "url": "https://open.spotify.com/track/6UksCv4F5AqNeyLI69f3lW"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "Vernacular: Jlin, David Longstreth, Philip Glass",
-        "url": "https://open.spotify.com/album/0baf5ab40M7yJL1FZtKBI7"
-      },
-      "artists": [
-        {
-          "name": "Third Coast Percussion",
-          "url": "https://open.spotify.com/artist/7aQZO27ByZmD9uWUgA1lJA"
-        },
-        {
-          "name": "Jlin",
-          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
-        }
-      ],
-      "duration_ms": 287160,
-      "name": "Premonition",
-      "url": "https://open.spotify.com/track/5KyZ8b2p8tlogS1jFd9bcI"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3543,22 +3543,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Fantasia Opening",
-        "url": "https://open.spotify.com/album/5RW9pH0BR7dPyPNaa2O9yX"
-      },
-      "artists": [
-        {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "Fantasia Opening",
-      "url": "https://open.spotify.com/track/2OMUMfeWT6ilTcVcet56n3"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/1No9s0CqX1i0Ic9W1dpo9W"
       },
@@ -3571,6 +3555,22 @@
       "duration_ms": 225155,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/6vLmtliG9VEbJDKjasnxF8"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Fantasia Opening",
+        "url": "https://open.spotify.com/album/5RW9pH0BR7dPyPNaa2O9yX"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "Fantasia Opening",
+      "url": "https://open.spotify.com/track/2OMUMfeWT6ilTcVcet56n3"
     },
     {
       "added_at": "2026-11-06 04:00:48",

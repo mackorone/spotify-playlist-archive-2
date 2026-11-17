@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-920 songs - 2 day 1 hr 26 min
+921 songs - 2 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -910,6 +910,7 @@
 | [Winter City](https://open.spotify.com/track/6pdvuLmF736BybOwSYEXeg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Winter City](https://open.spotify.com/album/3MUZrFCwm6v0aUQaawLcFG) | 2:41 | 2020-12-11 | 2025-08-27 |
 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/album/6xStUI10NrOYMx3sKoIfBq) | 2:55 | 2022-08-19 | 2025-08-27 |
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-08-07 | 2025-08-27 |
+| [Without My Strings](https://open.spotify.com/track/32oNxFi2dBftVTPKsMJcpc) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Without My Strings](https://open.spotify.com/album/75ICiuYySDUpwRAU6I9h3E) | 3:10 | 2026-11-17 |  |
 | [Witness](https://open.spotify.com/track/5M5EBLfvEqME293O0xchWX) | [Client Liaison](https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ) | [Divine Intervention](https://open.spotify.com/album/78DTvdE1hoKG6Dm7qA7sFS) | 4:15 | 2021-10-02 | 2025-07-17 |
 | [Worth It](https://open.spotify.com/track/7MRoIVZ0QuVy3xDu9Z6Thu) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [RAGE](https://open.spotify.com/album/5oxMfD3pBDCVsRKjpgVXTb) | 3:23 | 2026-06-30 |  |
 | [Write It Down](https://open.spotify.com/track/0kPIrtp3youhat1nkmPACX) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Write It Down](https://open.spotify.com/album/04QYg0Crlk7ZQDEtUuR6zi) | 3:35 | 2019-11-01 | 2020-04-06 |

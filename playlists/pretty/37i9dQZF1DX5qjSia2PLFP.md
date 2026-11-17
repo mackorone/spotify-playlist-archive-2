@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:7oHPIc7BYAIUhYFF6hSggI">Belly Gang Kushington<br/><br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,107 likes - 25 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,118 likes - 25 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

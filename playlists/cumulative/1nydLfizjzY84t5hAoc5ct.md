@@ -4,7 +4,7 @@
 
 > OffAxisTours.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-480 songs - 1 day 4 hr 54 min
+481 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Top \(I can see for miles\)](https://open.spotify.com/track/0kNruf2wYPoJHAzBiZIJT7) | [Delirium](https://open.spotify.com/artist/3OYzwHHHkiMSRo0bwhx8pO) | [Delirium \(home recordings\)](https://open.spotify.com/album/7KmenobD65pgvvV07IhcPl) | 4:48 | 2025-11-16 | 2025-11-24 |
 | [tragic](https://open.spotify.com/track/3mVcvTtFSuvUUR23ZOBv9J) | [I'm Geist](https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy) | [tragic](https://open.spotify.com/album/3NXsB3CWcqQwbrbwT8QxPZ) | 2:41 | 2026-09-03 | 2026-09-28 |
 | [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 | 2026-01-25 | 2026-02-01 |
+| [Trouble](https://open.spotify.com/track/5o4VGkvimE846wxSzWIWUa) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [Trouble](https://open.spotify.com/album/0Tlix2iHVTioeO7iYDiaNO) | 1:48 | 2026-11-16 |  |
 | [TURN AROUND](https://open.spotify.com/track/3uUP0YYjP04xMBIRJ2dtrp) | [MOG](https://open.spotify.com/artist/1PeU4PsYtNaksLeuMOJM6n), [Roo Geddes](https://open.spotify.com/artist/6XDO2rklQELJT2IVlbVMO5), [Neil Sutcliffe](https://open.spotify.com/artist/6jX2zm5LaKgwIaWyjoxpVp), [Ewan Hastie](https://open.spotify.com/artist/03ajVwie49KhJaWvSg17ES) | [Lab Raps](https://open.spotify.com/album/3XLtGJwNwsFBrGSCVBnOlA) | 3:15 | 2025-12-28 | 2026-02-03 |
 | [Tus Latidos](https://open.spotify.com/track/7yKVHxYCRMIDDGBQ7zQTTT) | [Taiki](https://open.spotify.com/artist/5reg1fgjPsjD6lp553hI9v) | [Tus Latidos](https://open.spotify.com/album/1RMFwT5xZyo9d57uM1NHl8) | 2:21 | 2026-08-25 | 2026-09-04 |
 | [Twisted](https://open.spotify.com/track/3lnjiEMyKpAPtOEZR6Heyb) | [Anna Marx](https://open.spotify.com/artist/0uVaLTYvT29QKgp1NIkPp8) | [Twisted](https://open.spotify.com/album/1PKXY8u4zqwEuOfAJbFPkG) | 2:22 | 2026-09-03 |  |

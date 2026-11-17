@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Thorsteinn Einarsson, Ella Langley og m\u00f6rgum fleirum!",
-  "num_followers": 9737,
+  "num_followers": 9736,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -130,6 +130,10 @@
         {
           "name": "Vill",
           "url": "https://open.spotify.com/artist/2EXsJCD7H2MI8IgBgYpuLz"
+        },
+        {
+          "name": "H\u00f6gna",
+          "url": "https://open.spotify.com/artist/3au8MzMJzltG3Y9srytjXl"
         }
       ],
       "duration_ms": 345516,
@@ -327,22 +331,6 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
-        "name": "Take What You Need",
-        "url": "https://open.spotify.com/album/6mKaexnVCCwdcaK2gGRxjX"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 164123,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/06Fg5OKkRBN4HxzTzT0uLt"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
         "name": "GMFU",
         "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
       },
@@ -363,6 +351,22 @@
       "duration_ms": 169759,
       "name": "Why Not? (feat. Quavo & Loe Shimmy)",
       "url": "https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
+        "name": "Take What You Need",
+        "url": "https://open.spotify.com/album/6mKaexnVCCwdcaK2gGRxjX"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 164123,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/06Fg5OKkRBN4HxzTzT0uLt"
     },
     {
       "added_at": "2026-11-13 00:00:58",
@@ -431,22 +435,6 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
-        "name": "Guts",
-        "url": "https://open.spotify.com/album/5BVWDl6DMXN7IgbzTqnFud"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 172039,
-      "name": "Guts",
-      "url": "https://open.spotify.com/track/7CcsXTN6c7DOkF2JOmdC71"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
         "name": "Weight Of The Feather",
         "url": "https://open.spotify.com/album/2Uu75DHRs4yiEleO5vt02o"
       },
@@ -459,6 +447,22 @@
       "duration_ms": 153780,
       "name": "Weight Of The Feather",
       "url": "https://open.spotify.com/track/2uGTpK30J70bJWI69P5ddK"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
+        "name": "Guts",
+        "url": "https://open.spotify.com/album/5BVWDl6DMXN7IgbzTqnFud"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 172039,
+      "name": "Guts",
+      "url": "https://open.spotify.com/track/7CcsXTN6c7DOkF2JOmdC71"
     },
     {
       "added_at": "2026-11-13 00:00:58",
@@ -535,22 +539,6 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
-        "name": "REBECCA",
-        "url": "https://open.spotify.com/album/4hCwXvKTdnhUUsoSgVA6Ia"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 165451,
-      "name": "tie me d^wn",
-      "url": "https://open.spotify.com/track/5H2sF8TtiDMYKQyWz7uu4l"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l"
       },
@@ -563,6 +551,22 @@
       "duration_ms": 188229,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
+        "name": "REBECCA",
+        "url": "https://open.spotify.com/album/4hCwXvKTdnhUUsoSgVA6Ia"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 165451,
+      "name": "tie me d^wn",
+      "url": "https://open.spotify.com/track/5H2sF8TtiDMYKQyWz7uu4l"
     },
     {
       "added_at": "2026-11-13 00:00:58",
@@ -603,22 +607,6 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
-        "name": "Superbloom (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2EJYUIinC3NXtlsFbJtCXX"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Middle Of The Night",
-      "url": "https://open.spotify.com/track/2CTiUfh0kMF5znU84IdjtP"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
         "name": "YES",
         "url": "https://open.spotify.com/album/0FiarOgpwaZ18ZvTy7dlXc"
       },
@@ -631,6 +619,22 @@
       "duration_ms": 190285,
       "name": "YES",
       "url": "https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
+        "name": "Superbloom (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2EJYUIinC3NXtlsFbJtCXX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Middle Of The Night",
+      "url": "https://open.spotify.com/track/2CTiUfh0kMF5znU84IdjtP"
     },
     {
       "added_at": "2026-11-13 00:00:58",
@@ -671,22 +675,6 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
-        "name": "wotless",
-        "url": "https://open.spotify.com/album/4IDXbFID1H7ol56BdzbUqI"
-      },
-      "artists": [
-        {
-          "name": "Dean Blunt",
-          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
-        }
-      ],
-      "duration_ms": 88046,
-      "name": "wotless",
-      "url": "https://open.spotify.com/track/49wa3CofaXUTuhaNGkoYQf"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/7DCS0Edb6mJp36uJOoh9gP"
       },
@@ -699,26 +687,6 @@
       "duration_ms": 184590,
       "name": "Gone",
       "url": "https://open.spotify.com/track/5auaK9IRKn6ayXwoTdJEPr"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
-        "name": "Modern Dystopia",
-        "url": "https://open.spotify.com/album/3rVmNlXzEkRlsXa8l4jAU1"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Peter Xan",
-          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
-        }
-      ],
-      "duration_ms": 203637,
-      "name": "Modern Dystopia",
-      "url": "https://open.spotify.com/track/6IqHpduxivldFZLl346XkU"
     },
     {
       "added_at": "2026-11-13 00:00:58",
@@ -739,6 +707,22 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
+        "name": "wotless",
+        "url": "https://open.spotify.com/album/4IDXbFID1H7ol56BdzbUqI"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        }
+      ],
+      "duration_ms": 88046,
+      "name": "wotless",
+      "url": "https://open.spotify.com/track/49wa3CofaXUTuhaNGkoYQf"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
         "name": "Aether",
         "url": "https://open.spotify.com/album/24jwW4VYmuqawdcBOG6qY4"
       },
@@ -755,6 +739,26 @@
       "duration_ms": 252574,
       "name": "Everything Started Changing (feat. CLOVES)",
       "url": "https://open.spotify.com/track/4ZRvdi2lE8YHtkOuIL9doO"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
+        "name": "Modern Dystopia",
+        "url": "https://open.spotify.com/album/3rVmNlXzEkRlsXa8l4jAU1"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "duration_ms": 203637,
+      "name": "Modern Dystopia",
+      "url": "https://open.spotify.com/track/6IqHpduxivldFZLl346XkU"
     },
     {
       "added_at": "2026-11-13 00:00:58",
@@ -919,6 +923,22 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/5ixLrST22xz2PcqTsHb6zu"
+      },
+      "artists": [
+        {
+          "name": "Brimheim",
+          "url": "https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/42TZ8v1FCmjONt811taDFA"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
         "name": "Shout It Out",
         "url": "https://open.spotify.com/album/6HcAHna5KPSpESNXFbBxRB"
       },
@@ -951,38 +971,6 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/5ixLrST22xz2PcqTsHb6zu"
-      },
-      "artists": [
-        {
-          "name": "Brimheim",
-          "url": "https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/42TZ8v1FCmjONt811taDFA"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
-        "name": "A dying source",
-        "url": "https://open.spotify.com/album/5FtNLcMLndyRVJtgMgWary"
-      },
-      "artists": [
-        {
-          "name": "RIVER",
-          "url": "https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV"
-        }
-      ],
-      "duration_ms": 287186,
-      "name": "My dog",
-      "url": "https://open.spotify.com/track/0l2wSY2Wi8gwFIh2QL3xUh"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
         "name": "My Lovin",
         "url": "https://open.spotify.com/album/1AGq4iiDDP4Jrb5J1i0ZYJ"
       },
@@ -1003,6 +991,22 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
+        "name": "A dying source",
+        "url": "https://open.spotify.com/album/5FtNLcMLndyRVJtgMgWary"
+      },
+      "artists": [
+        {
+          "name": "RIVER",
+          "url": "https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV"
+        }
+      ],
+      "duration_ms": 287186,
+      "name": "My dog",
+      "url": "https://open.spotify.com/track/0l2wSY2Wi8gwFIh2QL3xUh"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
         "name": "So It Goes\u2026",
         "url": "https://open.spotify.com/album/4y9h0gHnbeVFpdMEGVHjz1"
       },
@@ -1019,22 +1023,6 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
-        "name": "Give Me a Break",
-        "url": "https://open.spotify.com/album/0joEKXZr0GHzDmfVhfE31m"
-      },
-      "artists": [
-        {
-          "name": "tigerstate",
-          "url": "https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1"
-        }
-      ],
-      "duration_ms": 191375,
-      "name": "Give Me a Break",
-      "url": "https://open.spotify.com/track/6kPNEqgPqiWMfD0fWzZ2Mk"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
         "name": "Computer Man",
         "url": "https://open.spotify.com/album/0p0bBKPoAjc0kTuD14jBRu"
       },
@@ -1047,6 +1035,22 @@
       "duration_ms": 212528,
       "name": "Computer Man",
       "url": "https://open.spotify.com/track/5KIionr34SPGRT1yZsoeZG"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
+        "name": "Give Me a Break",
+        "url": "https://open.spotify.com/album/0joEKXZr0GHzDmfVhfE31m"
+      },
+      "artists": [
+        {
+          "name": "tigerstate",
+          "url": "https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1"
+        }
+      ],
+      "duration_ms": 191375,
+      "name": "Give Me a Break",
+      "url": "https://open.spotify.com/track/6kPNEqgPqiWMfD0fWzZ2Mk"
     },
     {
       "added_at": "2026-11-13 00:00:58",
@@ -1179,22 +1183,6 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/7lxvMk7KdEPpUsE6mO7u0Q"
-      },
-      "artists": [
-        {
-          "name": "MOON",
-          "url": "https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp"
-        }
-      ],
-      "duration_ms": 157065,
-      "name": "Same Fire",
-      "url": "https://open.spotify.com/track/1ZLRPVGn7PcdTlCPNJdvhY"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
         "name": "housedog",
         "url": "https://open.spotify.com/album/6QteE58nxhCvpRX4HAoXV5"
       },
@@ -1211,18 +1199,50 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
-        "name": "if I could",
-        "url": "https://open.spotify.com/album/0ZjMhGSnR5LPTX1SKvnmyb"
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/7lxvMk7KdEPpUsE6mO7u0Q"
       },
       "artists": [
         {
-          "name": "tetteris",
-          "url": "https://open.spotify.com/artist/1ESDypoYXnCyOoQrItdFwr"
+          "name": "MOON",
+          "url": "https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp"
         }
       ],
-      "duration_ms": 176931,
-      "name": "if I could",
-      "url": "https://open.spotify.com/track/4Hk4dp7jzwBbmxJO3RJN69"
+      "duration_ms": 157065,
+      "name": "Same Fire",
+      "url": "https://open.spotify.com/track/1ZLRPVGn7PcdTlCPNJdvhY"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/2CQBlpJfhNxdLVgHHerAxd"
+      },
+      "artists": [
+        {
+          "name": "EIRLYS",
+          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
+        }
+      ],
+      "duration_ms": 183581,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/5JOgo04rQlNJSn5osaBOD0"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
+        "name": "This Heavy Load",
+        "url": "https://open.spotify.com/album/5O1qI1qXNGdiaPpM4dYJ7t"
+      },
+      "artists": [
+        {
+          "name": "Svaerd",
+          "url": "https://open.spotify.com/artist/3ZnYXVEfLZhnGugJRAzXAE"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "MacGyver",
+      "url": "https://open.spotify.com/track/0arbz7QeANiWMaEDFwUZTl"
     },
     {
       "added_at": "2026-11-13 00:00:58",
@@ -1247,6 +1267,22 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
+        "name": "if I could",
+        "url": "https://open.spotify.com/album/0ZjMhGSnR5LPTX1SKvnmyb"
+      },
+      "artists": [
+        {
+          "name": "tetteris",
+          "url": "https://open.spotify.com/artist/1ESDypoYXnCyOoQrItdFwr"
+        }
+      ],
+      "duration_ms": 176931,
+      "name": "if I could",
+      "url": "https://open.spotify.com/track/4Hk4dp7jzwBbmxJO3RJN69"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
         "name": "We Go On To The Other Side",
         "url": "https://open.spotify.com/album/4KdsvmPYA6xQjNpgY9GwY0"
       },
@@ -1259,22 +1295,6 @@
       "duration_ms": 200497,
       "name": "We Go On To The Other Side",
       "url": "https://open.spotify.com/track/3Vx0mrGiPDX2VclVWRY3wi"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
-        "name": "This Heavy Load",
-        "url": "https://open.spotify.com/album/5O1qI1qXNGdiaPpM4dYJ7t"
-      },
-      "artists": [
-        {
-          "name": "Svaerd",
-          "url": "https://open.spotify.com/artist/3ZnYXVEfLZhnGugJRAzXAE"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "MacGyver",
-      "url": "https://open.spotify.com/track/0arbz7QeANiWMaEDFwUZTl"
     },
     {
       "added_at": "2026-11-13 00:00:58",
@@ -1299,22 +1319,6 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/2CQBlpJfhNxdLVgHHerAxd"
-      },
-      "artists": [
-        {
-          "name": "EIRLYS",
-          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
-        }
-      ],
-      "duration_ms": 183581,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/5JOgo04rQlNJSn5osaBOD0"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
         "name": "\u00dea\u00f0 eru j\u00f3l og hjarta\u00f0 ver\u00f0ur hl\u00fdtt",
         "url": "https://open.spotify.com/album/40920fDbY2J0PJrQaJxIv2"
       },
@@ -1335,22 +1339,6 @@
     {
       "added_at": "2026-11-13 00:00:58",
       "album": {
-        "name": "I Know How You Feel",
-        "url": "https://open.spotify.com/album/0dPSh7vIUlVFYDnMJPGO97"
-      },
-      "artists": [
-        {
-          "name": "Les Poissons",
-          "url": "https://open.spotify.com/artist/7KwOEm0raHThiwz9sW0XwQ"
-        }
-      ],
-      "duration_ms": 221908,
-      "name": "I Know How You Feel",
-      "url": "https://open.spotify.com/track/0b3TySeKxdu5L7bq4HTRkX"
-    },
-    {
-      "added_at": "2026-11-13 00:00:58",
-      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/7gXxnZ3h9eb2kG2pThhBoq"
       },
@@ -1363,6 +1351,22 @@
       "duration_ms": 173571,
       "name": "Judge & Jury",
       "url": "https://open.spotify.com/track/0aWpUlyzmCQ4VK6ON8EM0S"
+    },
+    {
+      "added_at": "2026-11-13 00:00:58",
+      "album": {
+        "name": "I Know How You Feel",
+        "url": "https://open.spotify.com/album/0dPSh7vIUlVFYDnMJPGO97"
+      },
+      "artists": [
+        {
+          "name": "Les Poissons",
+          "url": "https://open.spotify.com/artist/7KwOEm0raHThiwz9sW0XwQ"
+        }
+      ],
+      "duration_ms": 221908,
+      "name": "I Know How You Feel",
+      "url": "https://open.spotify.com/track/0b3TySeKxdu5L7bq4HTRkX"
     }
   ],
   "unique_name": "New Music Friday Iceland",

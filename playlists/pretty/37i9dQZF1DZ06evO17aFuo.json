@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 325325,
+  "num_followers": 325358,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avZTAAAAAAARrWkJSQhjGLzkzq9Qa7iw",
+  "snapshot_id": "avj2AAAAAACUzGgL18JoQVJNi7yVqG0u",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: Back To The Start",
-        "url": "https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4"
+        "name": "So Far, So Good...So What!",
+        "url": "https://open.spotify.com/album/4rW8n1hOkavPGIxPvEnT18"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Kill The King",
-      "url": "https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK"
+      "duration_ms": 376826,
+      "name": "In My Darkest Hour",
+      "url": "https://open.spotify.com/track/423EZWcCxPBVuWgejCwUWF"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Far, So Good...So What!",
-        "url": "https://open.spotify.com/album/4rW8n1hOkavPGIxPvEnT18"
+        "name": "Greatest Hits: Back To The Start",
+        "url": "https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 376826,
-      "name": "In My Darkest Hour",
-      "url": "https://open.spotify.com/track/423EZWcCxPBVuWgejCwUWF"
+      "duration_ms": 222840,
+      "name": "Kill The King",
+      "url": "https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK"
     },
     {
       "added_at": null,

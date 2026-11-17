@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kayla Shyx, panicbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,474 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,451 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Schnee Engel](https://open.spotify.com/track/0orTySS5mdbRIYBJ9AdexB) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA), [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Schnee Engel](https://open.spotify.com/album/7jDuKEsHfd4Xv7L5OnU9rW) | 2:16 |
-| 2 | [Hey Gott](https://open.spotify.com/track/3lUbjwTTaHkb7KfP0K8qkY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Please Hold The Line II](https://open.spotify.com/album/4Z5oHM6S51waGwhIuZPte0) | 2:45 |
-| 3 | [Eines Tages](https://open.spotify.com/track/4WmLIItdA3c9WZdyJMc3ZZ) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a) | [Eines Tages](https://open.spotify.com/album/5NS31GNoaqa6GSCu6uAb0l) | 2:51 |
+| 2 | [Eines Tages](https://open.spotify.com/track/4WmLIItdA3c9WZdyJMc3ZZ) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a) | [Eines Tages](https://open.spotify.com/album/5NS31GNoaqa6GSCu6uAb0l) | 2:51 |
+| 3 | [Synergie](https://open.spotify.com/track/594ax4nEGWzdtfzznqNvfj) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Mittendrin Tape](https://open.spotify.com/album/5iCSzftYkin35G0Enk4TzM) | 2:58 |
 | 4 | [Interstellar](https://open.spotify.com/track/3KIlA1aIgUsekPYrFf3ZZQ) | [Julie](https://open.spotify.com/artist/5oauHSnziOzOh8jYhHs8Oi), [Pablo Rochat](https://open.spotify.com/artist/1jrRHAXkOac4wogkGnWubr) | [Interstellar](https://open.spotify.com/album/4WUUcr6ql3vSAJVgDHcbO3) | 2:56 |
-| 5 | [Kintopp](https://open.spotify.com/track/27UdudwLWIVsVbVPTzAZ7e) | [Pavelo & Schnell](https://open.spotify.com/artist/5oVoWoqOwASa3ln6kTdnD4) | [Kintopp](https://open.spotify.com/album/0ejuzEYg4cfBREAyCDg63X) | 2:49 |
-| 6 | [Synergie](https://open.spotify.com/track/594ax4nEGWzdtfzznqNvfj) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Mittendrin Tape](https://open.spotify.com/album/5iCSzftYkin35G0Enk4TzM) | 2:58 |
-| 7 | [wie du lachst](https://open.spotify.com/track/4c7K6XPBcG1DEDav64fE38) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wie du lachst](https://open.spotify.com/album/5cskznnPkSgFUpYCyLZMnd) | 2:42 |
-| 8 | [Rande der Welt](https://open.spotify.com/track/510pG1x5yUac4HHKu8ux4D) | [Marie Hummel](https://open.spotify.com/artist/43Dj8MwpUVGB7WKzG1Vn92) | [Rande der Welt](https://open.spotify.com/album/4FTTtsWos86R25WR0edHQq) | 2:30 |
-| 9 | [Countrysong](https://open.spotify.com/track/4y0phObRg4w3BceS1BNNFf) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Countrysong](https://open.spotify.com/album/3xaMJ5hWYW32vF6IlNg9Mv) | 2:57 |
-| 10 | [Oma](https://open.spotify.com/track/0Wfm6PcaIxuSQj5mjx4YDW) | [GroßKind](https://open.spotify.com/artist/7mo1NcmfdlXRh3GCLNCJp7) | [Kummerkiste](https://open.spotify.com/album/3RUDsBtKeYcF1SfQCh9DVi) | 2:57 |
-| 11 | [GLÜCKLICH](https://open.spotify.com/track/1btpQH1Drooqqmn2fZpvQ7) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [GLÜCKLICH](https://open.spotify.com/album/1nsEHWrwiV7CU59OYAKtyi) | 2:07 |
-| 12 | [bis zur sehne](https://open.spotify.com/track/6kHiiT7SsGf8YSVjP91HvJ) | [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [bis zur sehne](https://open.spotify.com/album/72P1oJgcqPHWBLrcKQi8be) | 2:50 |
-| 13 | [Anders](https://open.spotify.com/track/3qfrRwgjq4qyb0bywkTWOR) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Anders](https://open.spotify.com/album/6i0YLIOMabvS8sjunavN3i) | 3:02 |
+| 5 | [Countrysong](https://open.spotify.com/track/4y0phObRg4w3BceS1BNNFf) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Countrysong](https://open.spotify.com/album/3xaMJ5hWYW32vF6IlNg9Mv) | 2:57 |
+| 6 | [Hey Gott](https://open.spotify.com/track/3lUbjwTTaHkb7KfP0K8qkY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Please Hold The Line II](https://open.spotify.com/album/4Z5oHM6S51waGwhIuZPte0) | 2:45 |
+| 7 | [Oma](https://open.spotify.com/track/0Wfm6PcaIxuSQj5mjx4YDW) | [GroßKind](https://open.spotify.com/artist/7mo1NcmfdlXRh3GCLNCJp7) | [Kummerkiste](https://open.spotify.com/album/3RUDsBtKeYcF1SfQCh9DVi) | 2:57 |
+| 8 | [Kintopp](https://open.spotify.com/track/27UdudwLWIVsVbVPTzAZ7e) | [Pavelo & Schnell](https://open.spotify.com/artist/5oVoWoqOwASa3ln6kTdnD4) | [Kintopp](https://open.spotify.com/album/0ejuzEYg4cfBREAyCDg63X) | 2:49 |
+| 9 | [GLÜCKLICH](https://open.spotify.com/track/1btpQH1Drooqqmn2fZpvQ7) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [GLÜCKLICH](https://open.spotify.com/album/1nsEHWrwiV7CU59OYAKtyi) | 2:07 |
+| 10 | [wie du lachst](https://open.spotify.com/track/4c7K6XPBcG1DEDav64fE38) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wie du lachst](https://open.spotify.com/album/5cskznnPkSgFUpYCyLZMnd) | 2:42 |
+| 11 | [Anders](https://open.spotify.com/track/3qfrRwgjq4qyb0bywkTWOR) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Anders](https://open.spotify.com/album/6i0YLIOMabvS8sjunavN3i) | 3:02 |
+| 12 | [Rande der Welt](https://open.spotify.com/track/510pG1x5yUac4HHKu8ux4D) | [Marie Hummel](https://open.spotify.com/artist/43Dj8MwpUVGB7WKzG1Vn92) | [Rande der Welt](https://open.spotify.com/album/4FTTtsWos86R25WR0edHQq) | 2:30 |
+| 13 | [bis zur sehne](https://open.spotify.com/track/6kHiiT7SsGf8YSVjP91HvJ) | [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [bis zur sehne](https://open.spotify.com/album/72P1oJgcqPHWBLrcKQi8be) | 2:50 |
 | 14 | [Sehenhörensagen](https://open.spotify.com/track/3gUEzJ0pC47MdeRIrizA0P) | [TEMMIS](https://open.spotify.com/artist/0zJI6wuVa9gi4ir8zlU6Km) | [Sehenhörensagen](https://open.spotify.com/album/0cQk8hqkbVZh0ClBUGTMRM) | 3:32 |
 | 15 | [Dieses Jahr](https://open.spotify.com/track/0UgFcDkE0UrfKcNSh8VMIo) | [HEADJET](https://open.spotify.com/artist/3nd26anufTmTLliNgafe32) | [CAPPUCCINO PUNKS](https://open.spotify.com/album/5isge6xhBr9Zuc62qbOCZR) | 1:42 |
 | 16 | [Meine Freunde haben Angst](https://open.spotify.com/track/08DB4EqP86GlnKUePmRgO5) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Meine Freunde haben Angst](https://open.spotify.com/album/3RGzoFIBA5JIOW5CCVgYjr) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wunderkind](https://open.spotify.com/track/4jpUlXn1ttb3cnMItmie3J) | [Anderswo](https://open.spotify.com/artist/5h3y3xLjFKmB8LcL5sM74H) | [schwarzweiss](https://open.spotify.com/album/49HiJJPS2Z9Z81Zh4gxH3X) | 4:16 |
 | 75 | [immer so](https://open.spotify.com/track/70Vrru7QKWFj21pmKMgXRS) | [doss](https://open.spotify.com/artist/5GlfABPVozsdDtqLfaNgGK) | [mehr als?](https://open.spotify.com/album/0jyIvgzAdV5l0YPJr37qRf) | 1:51 |
 
-Snapshot ID: `AAAAAC5UKbgNM6l1rtbm52H1SyDMp1hw`
+Snapshot ID: `AAAAAJpnUbBJNFSjtzU32i7I26M2RFUG`

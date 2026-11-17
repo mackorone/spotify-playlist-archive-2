@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-1,107 songs - 1 day 14 hr 26 min
+1,108 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -902,6 +902,7 @@
 | [stay with you](https://open.spotify.com/track/4jO1g4tchhoTrf3C2hTP2d) | [ohhdeer](https://open.spotify.com/artist/422PA7Nujo7hN8HVbUUl2x), [c152](https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB) | [stay with you](https://open.spotify.com/album/3LJaVU3hpCitlteNIyFIKZ) | 1:30 | 2026-05-16 |  |
 | [stereo love](https://open.spotify.com/track/0ERYks3C58vtkhh9cNubd7) | [Inan](https://open.spotify.com/artist/4oI5YoRw5Brc56oaK0JYAG) | [stereo love](https://open.spotify.com/album/7g7Hhpexl78ZUNbBHMwwIU) | 1:24 | 2026-06-19 |  |
 | [still alive](https://open.spotify.com/track/5Av4iy3GQCgdIpnAEz2z6q) | [ihatemyjob](https://open.spotify.com/artist/56FljFqP7tSmnd0jx4lpzO), [Fujiwara](https://open.spotify.com/artist/2Cr0utmWeACahVtcJwnwVX) | [still alive](https://open.spotify.com/album/0imv1sa0OByGNRLgR5xAFU) | 1:08 | 2026-07-18 |  |
+| [still thinking of you](https://open.spotify.com/track/2HCau0HGFTCbQzT00OIBHo) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [still thinking of you](https://open.spotify.com/album/6qGKyENcJjDB9s0SfGYfiB) | 2:44 | 2026-11-16 |  |
 | [still waiting](https://open.spotify.com/track/3i8xoIOPRSZwHwjKZ1l9o0) | [Shomamick.](https://open.spotify.com/artist/5cBBiwYlrrXcMDHPAMKIep) | [still waiting](https://open.spotify.com/album/5XlInR43ifMCAbIKenm0aQ) | 1:27 | 2025-08-29 | 2026-01-03 |
 | [still, it glows](https://open.spotify.com/track/3tuieCQsr5iQz6DvVVbTGB) | [.alome](https://open.spotify.com/artist/7l8WUITypiUQguHHdstdoR), [Unknown Melodiez](https://open.spotify.com/artist/6VN5ir5EJQgUIC5uz3pcmU) | [still, it glows](https://open.spotify.com/album/6aY7LqPNbkdzFuMfZW0d2S) | 2:49 | 2025-11-21 | 2026-01-03 |
 | [strangeness](https://open.spotify.com/track/4LfxCt09Njfbs8mLLyVqoC) | [akisedd](https://open.spotify.com/artist/4mVKNFbBM8BeceTpINLINN), [INVX](https://open.spotify.com/artist/3ABrDV45ovYHTaq69xRgBg) | [strangeness](https://open.spotify.com/album/77YiQwYtz8JrpZSq8lvJyu) | 1:12 | 2025-05-02 |  |

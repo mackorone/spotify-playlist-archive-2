@@ -15744,7 +15744,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 204827,
       "name": "dop\u00f3ki si\u0119 nie zn\u00fcdzisz",
       "url": "https://open.spotify.com/track/6JK4DeLPHmdpwP8uuKeu4r"
@@ -15910,7 +15910,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 165335,
       "name": "Dr. Traphouse (feat. Belmondo)",
       "url": "https://open.spotify.com/track/4oTxydt59qd2UO9BcFLU9e"
@@ -21734,7 +21734,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 133135,
       "name": "Grand Soir",
       "url": "https://open.spotify.com/track/2f0FwXZmT9DyD0Lsdyri6x"
@@ -27902,7 +27902,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 188750,
       "name": "Kalinka",
       "url": "https://open.spotify.com/track/3P2qFkM8UwAXSzvylWQuXn"
@@ -34638,7 +34638,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 164575,
       "name": "Marlon Brando",
       "url": "https://open.spotify.com/track/0HLsmQwypPzjrjyguJpm8n"
@@ -37594,6 +37594,24 @@
       "duration_ms": 197817,
       "name": "My Man on Willpower",
       "url": "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
     },
     {
       "album": {
@@ -52972,7 +52990,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 164615,
       "name": "Saudi",
       "url": "https://open.spotify.com/track/2Fwd5lTA2HqUg4xqzX5EOM"
@@ -61044,7 +61062,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 162843,
       "name": "TROFEA",
       "url": "https://open.spotify.com/track/2dwCMsJ90AyXEtqP8iYh7G"
@@ -63168,7 +63186,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "W Miesi\u0105c",
       "url": "https://open.spotify.com/track/6L1HSKQXQMSX62p913tcVc"
@@ -67416,7 +67434,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 190104,
       "name": "Zakochany kundel",
       "url": "https://open.spotify.com/track/2S0tIyYwk80XvzJzYqMiNV"

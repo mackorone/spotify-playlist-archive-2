@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of soul & jazz.
 
-409 songs - 1 day 2 hr 2 min
+410 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Changes Rising](https://open.spotify.com/track/2jxyhYMmPCGtc5E656GRIW) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tyber](https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT) | 3:16 | 2026-09-28 |  |
 | [Chi Ave/A Love Letter To Salvador](https://open.spotify.com/track/1LWMeSQAQwxQMU5iliTVWc) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [Chi Ave/A Love Letter To Salvador](https://open.spotify.com/album/2i4B2yQ4EOv0xjjNAwNUww) | 4:41 | 2026-05-26 |  |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2025-04-04 |  |
+| [Circles](https://open.spotify.com/track/17vG79LxykaZanTAeKer87) | [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol), [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Circles](https://open.spotify.com/album/3o4Lc01lB5HAGgy5nnt8kg) | 3:46 | 2026-11-16 |  |
 | [Closer To Me \- edit](https://open.spotify.com/track/4E8hQ27gkecDsvl9sropEM) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Closer To Me](https://open.spotify.com/album/0Ee564wJB77RPEtpur1p1C) | 3:42 | 2025-08-08 | 2025-09-21 |
 | [Cold](https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Cold](https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j) | 3:57 | 2024-06-28 | 2025-07-05 |
 | [Coltrane](https://open.spotify.com/track/5bkI4gJhfKheZ5WwgjvN5c) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Renascence](https://open.spotify.com/album/0jHsTZnD9lsOWvZBkVtNDY) | 4:51 | 2025-06-02 |  |
@@ -181,7 +182,7 @@
 | [In Your River](https://open.spotify.com/track/4lQc6sLF9a6SWeDpdQ7CSv) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/2yZlo1UzbQDfiokZooVfaF) | 3:54 | 2022-10-10 | 2022-12-03 |
 | [Indecision \- Jungle Remix](https://open.spotify.com/track/2BOgqUaNFikA7RAT0MUpQ4) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Indecision \(Jungle Remix\)](https://open.spotify.com/album/7qnBAGQH7VjWorsnYe8Aec) | 3:20 | 2021-12-13 | 2022-01-11 |
 | [Inside You](https://open.spotify.com/track/0fEcztdrrEaiBpEVkfggd2) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Heritage \(Reissue\)](https://open.spotify.com/album/2BtLI4D4seuSwWDaAu8L9z) | 4:52 | 2021-12-13 | 2023-10-04 |
-| [Invitation Unknown](https://open.spotify.com/track/3lkTij6xN5ojKYDmDtzi39) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Nick Marks](https://open.spotify.com/artist/24oDE0vaH0JH83VNAQ7pGL) | [Third Island Suite](https://open.spotify.com/album/2oGfo84fTjj5gskLBtUGB4) | 3:47 | 2025-05-19 |  |
+| [Invitation Unknown](https://open.spotify.com/track/3lkTij6xN5ojKYDmDtzi39) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Nick Marks](https://open.spotify.com/artist/24oDE0vaH0JH83VNAQ7pGL) | [Third Island Suite](https://open.spotify.com/album/2oGfo84fTjj5gskLBtUGB4) | 3:47 | 2025-05-19 | 2026-11-17 |
 | [Island Letter](https://open.spotify.com/track/2yqG9SRCbQf1c6d5hwmfKJ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [INSPIRATION INFORMATION](https://open.spotify.com/album/5EvsfavFbWpzcg3VNLQEOF) | 4:41 | 2024-04-11 | 2024-10-26 |
 | [Island Letter](https://open.spotify.com/track/2sTqZHdxovxCVa0w6qfDws) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:43 | 2024-03-07 | 2024-04-19 |
 | [It's Alright](https://open.spotify.com/track/4xcljUwIz4plmVI0q5dyb9) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [It's Alright](https://open.spotify.com/album/2Z0bubZCNHf5RBhAK0sUwb) | 3:56 | 2024-11-14 | 2025-07-05 |

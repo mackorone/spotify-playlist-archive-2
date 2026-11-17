@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hand-picked releases from the new wave in soul. Cover: Mara Mandeau",
+  "description": "Hand-picked releases from the new wave in soul. Cover: IFULKI",
   "name": "Soul Currents",
   "tracks": [
     {
@@ -1673,6 +1673,28 @@
     },
     {
       "album": {
+        "name": "BRGY",
+        "url": "https://open.spotify.com/album/0qa5fwH6SqV8XunS2iDrNy"
+      },
+      "artists": [
+        {
+          "name": "ZYHH",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "Call Me Up 'N Drive",
+      "url": "https://open.spotify.com/track/2FbaKicprIHWLzEddqrk37"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/43xnjyeAd0PNhpZjl3BdAX"
       },
@@ -2316,6 +2338,28 @@
       "duration_ms": 197036,
       "name": "Cigars (feat. Alfie Neale & Jarki Monno)",
       "url": "https://open.spotify.com/track/0RVJGI35nVNlRqJMlIYOe4"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/3o4Lc01lB5HAGgy5nnt8kg"
+      },
+      "artists": [
+        {
+          "name": "SMANDEM.",
+          "url": "https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol"
+        },
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226813,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/17vG79LxykaZanTAeKer87"
     },
     {
       "album": {
@@ -3328,7 +3372,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 192882,
       "name": "Eyes On The Prize",
       "url": "https://open.spotify.com/track/1aVtm49BlMKcpOwaZM1FkX"
@@ -3408,7 +3452,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 260810,
       "name": "Fallen Angels",
       "url": "https://open.spotify.com/track/3BlYetXXRSqm5ncpxSsm4R"
@@ -3570,7 +3614,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 194452,
       "name": "Feeling Blue",
       "url": "https://open.spotify.com/track/58CHDPWwZOaHi6YqNxNvnu"
@@ -4298,6 +4342,32 @@
       "duration_ms": 240701,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/3159fLoJc7neVqMUchcCin"
+    },
+    {
+      "album": {
+        "name": "Give It Light",
+        "url": "https://open.spotify.com/album/4Yv3P78OfUu51rmItEdCfx"
+      },
+      "artists": [
+        {
+          "name": "Osamu Fukuzawa",
+          "url": "https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Give It Light",
+      "url": "https://open.spotify.com/track/7pNqQ7rE07uMmvs17jIAfi"
     },
     {
       "album": {
@@ -7943,6 +8013,24 @@
     },
     {
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/6U8GwqXwPNTQ969nLfDZZU"
+      },
+      "artists": [
+        {
+          "name": "IFULKI",
+          "url": "https://open.spotify.com/artist/5R4QEGd2PqiDdBQjcsaR0T"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195068,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/20eth2UwZL2p2m7zWu33tb"
+    },
+    {
+      "album": {
         "name": "Mood Right",
         "url": "https://open.spotify.com/album/5B4oxR73Yss8t4dcgOezUI"
       },
@@ -11066,7 +11154,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 156750,
       "name": "SOAP",
       "url": "https://open.spotify.com/track/0SsQlBx10cCgIZIV2SH9wq"
@@ -13664,7 +13752,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 240000,
       "name": "Watchu Say",
       "url": "https://open.spotify.com/track/3MU4fOC3qVJqDGbjomnyDm"

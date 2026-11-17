@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 143766,
+  "num_followers": 143807,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-10-16 06:36:48",
       "album": {
-        "name": "Malo",
-        "url": "https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo"
-      },
-      "artists": [
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB"
-        }
-      ],
-      "duration_ms": 395200,
-      "name": "Suavecito",
-      "url": "https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl"
-    },
-    {
-      "added_at": "2026-10-16 06:36:48",
-      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 240466,
       "name": "Natural High",
       "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
+    },
+    {
+      "added_at": "2026-10-16 06:36:48",
+      "album": {
+        "name": "Malo",
+        "url": "https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo"
+      },
+      "artists": [
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB"
+        }
+      ],
+      "duration_ms": 395200,
+      "name": "Suavecito",
+      "url": "https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl"
     },
     {
       "added_at": "2026-10-16 06:36:48",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-10-16 06:36:48",
       "album": {
-        "name": "Bump City",
-        "url": "https://open.spotify.com/album/4LXDYSJXbPftFYawbEMMLI"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 337040,
-      "name": "You're Still a Young Man",
-      "url": "https://open.spotify.com/track/0LDauNxnqI5nsyCa2Xsc5W"
-    },
-    {
-      "added_at": "2026-10-16 06:36:48",
-      "album": {
         "name": "I'm On The Outside (Looking In)",
         "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 192066,
       "name": "I'm On The Outside (Looking In)",
       "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
+    },
+    {
+      "added_at": "2026-10-16 06:36:48",
+      "album": {
+        "name": "Bump City",
+        "url": "https://open.spotify.com/album/4LXDYSJXbPftFYawbEMMLI"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 337040,
+      "name": "You're Still a Young Man",
+      "url": "https://open.spotify.com/track/0LDauNxnqI5nsyCa2Xsc5W"
     },
     {
       "added_at": "2026-10-16 06:36:48",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-10-16 06:36:48",
       "album": {
+        "name": "Smash Hits Of '62",
+        "url": "https://open.spotify.com/album/1SGTPYNrkXswEcQTuuVQKh"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 143546,
+      "name": "The One Who Really Loves You - Album Version / Mono",
+      "url": "https://open.spotify.com/track/3NmHNVe0vfbkmD6a8OlxEr"
+    },
+    {
+      "added_at": "2026-10-16 06:36:48",
+      "album": {
         "name": "The Complete Motown Singles Vol. 10: 1970",
         "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2026-10-16 06:36:48",
       "album": {
-        "name": "Smash Hits Of '62",
-        "url": "https://open.spotify.com/album/1SGTPYNrkXswEcQTuuVQKh"
+        "name": "Let's Fall In Love",
+        "url": "https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU"
       },
       "artists": [
         {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
         }
       ],
-      "duration_ms": 143546,
-      "name": "The One Who Really Loves You - Album Version / Mono",
-      "url": "https://open.spotify.com/track/3NmHNVe0vfbkmD6a8OlxEr"
+      "duration_ms": 156702,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/774ZoGBhlMSZd7nI2zojbc"
     },
     {
       "added_at": "2026-10-16 06:36:48",
@@ -1595,22 +1611,6 @@
       "duration_ms": 231360,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml"
-    },
-    {
-      "added_at": "2026-10-16 06:36:48",
-      "album": {
-        "name": "Let's Fall In Love",
-        "url": "https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU"
-      },
-      "artists": [
-        {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
-        }
-      ],
-      "duration_ms": 156702,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/774ZoGBhlMSZd7nI2zojbc"
     },
     {
       "added_at": "2026-10-16 06:36:48",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2026-10-16 06:36:48",
       "album": {
+        "name": "The Essential Delfonics",
+        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 125386,
+      "name": "Going Out of My Head - Remastered",
+      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
+    },
+    {
+      "added_at": "2026-10-16 06:36:48",
+      "album": {
         "name": "Truth & Soul presents Lee Fields (The 45 Mixes)",
         "url": "https://open.spotify.com/album/2h3yXwznsQpZjcT8nTXtZg"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 200600,
       "name": "Honey Dove (OG Version)",
       "url": "https://open.spotify.com/track/4sqdUr8Jc9soAIcMNE7DEW"
-    },
-    {
-      "added_at": "2026-10-16 06:36:48",
-      "album": {
-        "name": "The Essential Delfonics",
-        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 125386,
-      "name": "Going Out of My Head - Remastered",
-      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
     },
     {
       "added_at": "2026-10-16 06:36:48",

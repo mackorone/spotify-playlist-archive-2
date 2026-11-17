@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Adriaan Persons
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,992 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,977 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Een Laatste Dans](https://open.spotify.com/track/5PJuE9ArAHb5kwavASpbcP) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Dromen In Blauw](https://open.spotify.com/album/0ShIebiswEZeg16I1mX2WN) | 3:01 |
-| 2 | [Vaders & Moeders](https://open.spotify.com/track/77Q36rQQxPruhT2npadwgr) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 3:26 |
+| 2 | [Alleen](https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 2:10 |
 | 3 | [Kleine onmacht](https://open.spotify.com/track/4JzWl4iUetvYWbCZpduX2B) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Kleine onmacht](https://open.spotify.com/album/1hYapLcwriUcWcbwocDxbT) | 3:56 |
 | 4 | [Je hebt me](https://open.spotify.com/track/32LxKBhSYH47khNom8oJ86) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [DWARS](https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S) | 2:05 |
 | 5 | [Ik Hoop Dat Je Huilt](https://open.spotify.com/track/2DnBJyg8Ta31f3z64tPKX4) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Ik Hoop Dat Je Huilt](https://open.spotify.com/album/4osclViPcBznV8Me9vJ9lq) | 2:53 |
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 7 | [Onomatopee](https://open.spotify.com/track/3p0A7P4I51QZLubwxv8nzb) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Onomatopee](https://open.spotify.com/album/5QFY6N5NZf7vWCHHEc2Xmr) | 2:51 |
 | 8 | [Is Dit Nu Later](https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX) | [Thijs Pot](https://open.spotify.com/artist/3nxJAqo44XhsDnBZBXeuvP), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Sing With Me \(Aflevering 1\)](https://open.spotify.com/album/1BrpGunw8hzjbp6cRQzRSB) | 2:31 |
 | 9 | [Spijt Komt Later](https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Meisje Van Het Noorden](https://open.spotify.com/album/59Htiw60K0NE276cUSguCw) | 2:49 |
-| 10 | [Pas Als Het Over Is](https://open.spotify.com/track/6Jicl5TWPfZkrS0ovGJG0G) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Pas Als Het Over Is](https://open.spotify.com/album/7j9VVBUogZZmyW2v2jJmiS) | 3:15 |
-| 11 | [Andiamo Tiziano](https://open.spotify.com/track/7i9AQYYY4oIIi2VhKP2aUg) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Andiamo Tiziano](https://open.spotify.com/album/7E4NQBCDu76ExrMZo5mvv8) | 3:04 |
-| 12 | [Karma](https://open.spotify.com/track/4iLk5iLSNkdUNtEfezfIhS) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Karma](https://open.spotify.com/album/6Gs0vdXD7eSA78AKOEr9vT) | 3:16 |
-| 13 | [Voorbestemde Wegen](https://open.spotify.com/track/3d0ORih3jwKq6dGdFKKMu2) | [Ralph Moerman](https://open.spotify.com/artist/1KnT4e4f38872CbGkEo3UR) | [Voorbestemde Wegen](https://open.spotify.com/album/2aMTTK0moioPgS12ZGSsgn) | 3:58 |
-| 14 | [Als De Wereld Tegen Ons Is](https://open.spotify.com/track/74j4iu6nWjg91mQYn5MjeB) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Als De Wereld Tegen Ons Is](https://open.spotify.com/album/18z7wVRfSypc0Vt3QMdOdv) | 2:46 |
-| 15 | [Roze](https://open.spotify.com/track/5qwIUc2vAc4uub3Iut7iaQ) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Roze](https://open.spotify.com/album/3lGXWWtE3mzjuvkBHDS09k) | 2:33 |
-| 16 | [Alleen](https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 2:10 |
-| 17 | [Als Je Wil !](https://open.spotify.com/track/3I7DwpzJv4Rlh9tUCeWHjO) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Plannen Gewijzigd](https://open.spotify.com/album/7y7Q2FR23iHqEUvQlVkzzd) | 2:24 |
-| 18 | [Kom Naar Huis](https://open.spotify.com/track/0AiV3GOzUgApmygZJNbw3z) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Kom Naar Huis](https://open.spotify.com/album/6FHcWEqkMZf3sGWyB6YvMl) | 2:47 |
-| 19 | [Pépé Chand](https://open.spotify.com/track/5GalJ2yP97tcdyXjkooBgH) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Pépé Chand](https://open.spotify.com/album/1aYE3fwe9XIFuc0Znp4AVL) | 3:25 |
+| 10 | [Vaders & Moeders](https://open.spotify.com/track/77Q36rQQxPruhT2npadwgr) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 3:26 |
+| 11 | [Pas Als Het Over Is](https://open.spotify.com/track/6Jicl5TWPfZkrS0ovGJG0G) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Pas Als Het Over Is](https://open.spotify.com/album/7j9VVBUogZZmyW2v2jJmiS) | 3:15 |
+| 12 | [Pépé Chand](https://open.spotify.com/track/5GalJ2yP97tcdyXjkooBgH) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Pépé Chand](https://open.spotify.com/album/1aYE3fwe9XIFuc0Znp4AVL) | 3:25 |
+| 13 | [Als De Wereld Tegen Ons Is](https://open.spotify.com/track/74j4iu6nWjg91mQYn5MjeB) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Als De Wereld Tegen Ons Is](https://open.spotify.com/album/18z7wVRfSypc0Vt3QMdOdv) | 2:46 |
+| 14 | [Andiamo Tiziano](https://open.spotify.com/track/7i9AQYYY4oIIi2VhKP2aUg) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Andiamo Tiziano](https://open.spotify.com/album/7E4NQBCDu76ExrMZo5mvv8) | 3:04 |
+| 15 | [Karma](https://open.spotify.com/track/4iLk5iLSNkdUNtEfezfIhS) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Karma](https://open.spotify.com/album/6Gs0vdXD7eSA78AKOEr9vT) | 3:16 |
+| 16 | [Voorbestemde Wegen](https://open.spotify.com/track/3d0ORih3jwKq6dGdFKKMu2) | [Ralph Moerman](https://open.spotify.com/artist/1KnT4e4f38872CbGkEo3UR) | [Voorbestemde Wegen](https://open.spotify.com/album/2aMTTK0moioPgS12ZGSsgn) | 3:58 |
+| 17 | [Roze](https://open.spotify.com/track/5qwIUc2vAc4uub3Iut7iaQ) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Roze](https://open.spotify.com/album/3lGXWWtE3mzjuvkBHDS09k) | 2:33 |
+| 18 | [Als Je Wil !](https://open.spotify.com/track/3I7DwpzJv4Rlh9tUCeWHjO) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Plannen Gewijzigd](https://open.spotify.com/album/7y7Q2FR23iHqEUvQlVkzzd) | 2:24 |
+| 19 | [Kom Naar Huis](https://open.spotify.com/track/0AiV3GOzUgApmygZJNbw3z) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Kom Naar Huis](https://open.spotify.com/album/6FHcWEqkMZf3sGWyB6YvMl) | 2:47 |
 | 20 | [Wees Voorzichtig Met Mijn Hart](https://open.spotify.com/track/7gKc80RPemdMXkjvMW6bUc) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Wees Voorzichtig Met Mijn Hart](https://open.spotify.com/album/7n2kmd04Cvy0v5fW3K7gAW) | 3:08 |
 | 21 | [Helikopterpiloot](https://open.spotify.com/track/1ZZztoTXn9uU4fQyKSJ7kU) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [DWARS](https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S) | 3:59 |
 | 22 | [Alles Wat Ik Wil](https://open.spotify.com/track/3BhRPtVVQ4LMcpbnRZGBQi) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Alles Wat Ik Wil](https://open.spotify.com/album/34n69oaIPTCbl4KjYugNC6) | 3:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Stuurloos](https://open.spotify.com/track/5bCciSSJvPmdosIEFI3rIi) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Stuurloos](https://open.spotify.com/album/4sLqs1mbLHANb0OGiMAVO1) | 2:40 |
 | 80 | [Jij](https://open.spotify.com/track/5eNFNNZwywwe1jOoUxjYo2) | [Déon](https://open.spotify.com/artist/07JmpwuHsFUhLMKM4cLW1r) | [Jij](https://open.spotify.com/album/331eZ0z317dghOY7eMJBLw) | 3:00 |
 
-Snapshot ID: `AAAAAKK0ZBBI5JzsnE6WRyq5Yz7VlRMY`
+Snapshot ID: `AAAAABmNbGVwEWhPIgdP9mX9sN+XZkv7`

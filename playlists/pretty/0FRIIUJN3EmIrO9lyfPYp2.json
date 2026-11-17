@@ -1,13 +1,29 @@
 {
   "description": "updated with new <a href=\"https://youtube.com/c/dreamscapeyt\">youtube uploads</a>...",
-  "num_followers": 14872,
+  "num_followers": 14873,
   "original_name": "dreamscape uploads",
   "owner": {
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACtx6iXcfZoGRNvNdlSYUOiU+/BOnE",
+  "snapshot_id": "AAACuKKREm1tmCk5V8Fojbcd/EYbPbt3",
   "tracks": [
+    {
+      "added_at": "2026-11-16 16:58:53",
+      "album": {
+        "name": "still thinking of you",
+        "url": "https://open.spotify.com/album/6qGKyENcJjDB9s0SfGYfiB"
+      },
+      "artists": [
+        {
+          "name": "CYREX",
+          "url": "https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy"
+        }
+      ],
+      "duration_ms": 164390,
+      "name": "still thinking of you",
+      "url": "https://open.spotify.com/track/2HCau0HGFTCbQzT00OIBHo"
+    },
     {
       "added_at": "2026-11-14 00:44:42",
       "album": {

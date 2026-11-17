@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,623 likes - 299 songs - 15 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,622 likes - 299 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 18 | [puckish](https://open.spotify.com/track/3nBwmJTqjaZ6XICqSP6Tlv) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [puckish](https://open.spotify.com/album/6EyX2kB0uKXk1D2RQEu6Ka) | 1:33 |
 | 19 | [NOT YOUR MAN](https://open.spotify.com/track/2Y5AvklDqieQ3mPg5H6vnc) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [JEDSOUL](https://open.spotify.com/album/7wYPOORBi3uxPh7NCGN1WV) | 3:01 |
 | 20 | [Ain't Moved](https://open.spotify.com/track/2DQXp4LnomzAY0UWqroSDF) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Ain't Moved](https://open.spotify.com/album/2ZXdELhW3C4djmnzoOK6Ms) | 2:40 |
-| 21 | [Love Calls \- The Alkemy Session](https://open.spotify.com/track/60dfZfxdxMC4D0430JIM8N) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Love Calls \(The Alkemy Session\)](https://open.spotify.com/album/2niY2FjTAdaq3AjP8CNQig) | 7:37 |
+| 21 | [Love Calls \- The Alkemy Session](https://open.spotify.com/track/60dfZfxdxMC4D0430JIM8N) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Love Calls \(The Alkemy Session\)](https://open.spotify.com/album/2niY2FjTAdaq3AjP8CNQig) | 7:37 |
 | 22 | [Fight For This Love](https://open.spotify.com/track/1HtKGqTOqJ7T0gWfuY6v0J) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Fight For This Love](https://open.spotify.com/album/443PogehD7eaxsfoaLq4tg) | 3:24 |
 | 23 | [Vibing In The Corner](https://open.spotify.com/track/12CNxQMup0oxwTdvhSJDci) | [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Vibing In The Corner](https://open.spotify.com/album/2EfyELStbtugJB71ucMUHc) | 3:20 |
 | 24 | [Love Is On The Line](https://open.spotify.com/track/5Er50XhyFEapUAwV1Uvapa) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Love Is On The Line](https://open.spotify.com/album/7au8nCs39msCAFUdYSrhOb) | 2:51 |

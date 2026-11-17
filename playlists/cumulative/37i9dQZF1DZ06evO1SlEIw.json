@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326906,
+      "name": "14\u6587\u5b57\u306e\u4f1d\u8a00",
+      "url": "https://open.spotify.com/track/51KOh74s70nSlT3DWhiwpP"
+    },
+    {
+      "album": {
         "name": "Rakuen Eno Shingeki",
         "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
       },
@@ -106,10 +124,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 310680,
       "name": "Guren no Yumiya",
       "url": "https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310680,
+      "name": "Guren no Yumiya",
+      "url": "https://open.spotify.com/track/7khzhR511XIZbIPQzSKHoj"
     },
     {
       "album": {
@@ -348,6 +384,24 @@
     {
       "album": {
         "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327040,
+      "name": "Nikagetsugo no Kimi e",
+      "url": "https://open.spotify.com/track/5GxwRF2jpMsccK71KsJopV"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
         "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
       },
       "artists": [
@@ -455,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328506,
+      "name": "Saigo no Senka",
+      "url": "https://open.spotify.com/track/22JQgQBLIJoz8Be59B6IG1"
+    },
+    {
+      "album": {
         "name": "Seishun wa Hanabi no Youni",
         "url": "https://open.spotify.com/album/76tpMWNeqUtVOLIh8K5IZH"
       },
@@ -492,6 +564,24 @@
     {
       "album": {
         "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341413,
+      "name": "Shinzo wo Sasageyo !",
+      "url": "https://open.spotify.com/track/3PLevnzVw3p1PnE1NrRQn4"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
         "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
       },
       "artists": [
@@ -502,7 +592,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 341413,
       "name": "Shinzo wo Sasageyo !",
       "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
@@ -581,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Rakuen e no Shingeki",
+        "url": "https://open.spotify.com/album/6BbKferT8KWdpKvm8WxvGl"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "Tasogare no Rakuen",
+      "url": "https://open.spotify.com/track/0796AlQNQdc2pxYOITNRRI"
+    },
+    {
+      "album": {
         "name": "Rakuen Eno Shingeki",
         "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
       },
@@ -592,7 +700,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 236173,
       "name": "Tasogare no Rakuen",
       "url": "https://open.spotify.com/track/75S5vWZUfeTs1Bf6P6yXei"

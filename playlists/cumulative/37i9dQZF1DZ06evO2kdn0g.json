@@ -488,6 +488,24 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151613,
+      "name": "Marbles",
+      "url": "https://open.spotify.com/track/7lmc2aV9A0vvHJKIflWPne"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -724,7 +742,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 179160,
       "name": "Songhai",
       "url": "https://open.spotify.com/track/62KBtIONedcc5dzCocY6VZ"

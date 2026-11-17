@@ -1,12 +1,12 @@
 {
   "description": "The best new indie music, indie folk &amp; rock discoveries. Fresh songs for your daily chill, focus and road trips. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists. Updated daily with new releases \u2014 hit save to stay tuned!",
-  "num_followers": 1337,
+  "num_followers": 1338,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAZtkvfi5n2uGfBJ9YBwHR5Eu90BAR3",
+  "snapshot_id": "AAAZwUX71OaHfRFwsf86ZBtCagZj8e3T",
   "tracks": [
     {
       "added_at": "2026-09-19 10:09:33",
@@ -1811,6 +1811,182 @@
       "duration_ms": 163855,
       "name": "You Know",
       "url": "https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC"
+    },
+    {
+      "added_at": "2026-11-16 09:11:22",
+      "album": {
+        "name": "Al otro lado del espejo",
+        "url": "https://open.spotify.com/album/5VW4XBMKYv3mmPD10FhQ4n"
+      },
+      "artists": [
+        {
+          "name": "JuanMi Vall\u00e9s",
+          "url": "https://open.spotify.com/artist/6nnF1HYOyW61QHOY8OGDtn"
+        }
+      ],
+      "duration_ms": 302826,
+      "name": "Al otro lado del espejo",
+      "url": "https://open.spotify.com/track/5dshwzapelVWq1c9RgI876"
+    },
+    {
+      "added_at": "2026-11-16 09:11:26",
+      "album": {
+        "name": "Cerdik",
+        "url": "https://open.spotify.com/album/2e1TIGkwHWJ9b7tdKuiJNU"
+      },
+      "artists": [
+        {
+          "name": "A. Findra",
+          "url": "https://open.spotify.com/artist/1jBPMgJc4jeHv7rz2GgurA"
+        }
+      ],
+      "duration_ms": 292577,
+      "name": "Cerdik",
+      "url": "https://open.spotify.com/track/7D9I9YQr5ImxF5il6dR3v6"
+    },
+    {
+      "added_at": "2026-11-16 09:11:35",
+      "album": {
+        "name": "GTA (Growth, Trust & Affection)",
+        "url": "https://open.spotify.com/album/5AmotIpxQ42TDzWYj1IIMR"
+      },
+      "artists": [
+        {
+          "name": "CTRL FREQS",
+          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
+        }
+      ],
+      "duration_ms": 202798,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/38gfJPnFAq36WxHQJzGlc3"
+    },
+    {
+      "added_at": "2026-11-16 09:11:36",
+      "album": {
+        "name": "Magdalene",
+        "url": "https://open.spotify.com/album/28oH0GfFJYbhCvvJn6LcxQ"
+      },
+      "artists": [
+        {
+          "name": "Urban Psalm",
+          "url": "https://open.spotify.com/artist/5ljCY9HMtCo072z28PCuHK"
+        }
+      ],
+      "duration_ms": 228320,
+      "name": "Magdalene",
+      "url": "https://open.spotify.com/track/4JNWR20A1jGAg8NI54qHp8"
+    },
+    {
+      "added_at": "2026-11-17 07:30:53",
+      "album": {
+        "name": "Left Unsaid",
+        "url": "https://open.spotify.com/album/6vDpk2yhPFF86LzZsjzeLb"
+      },
+      "artists": [
+        {
+          "name": "Sandy Malo",
+          "url": "https://open.spotify.com/artist/3ZKaJVpBXEXiAyHm5nrCYG"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "Left Unsaid",
+      "url": "https://open.spotify.com/track/7Ief8QkusJGyIlxzj3Kf8e"
+    },
+    {
+      "added_at": "2026-11-17 07:30:57",
+      "album": {
+        "name": "we fell in love in october",
+        "url": "https://open.spotify.com/album/3fNXvKXbLLB0NJhbcGViWJ"
+      },
+      "artists": [
+        {
+          "name": "REIVEN",
+          "url": "https://open.spotify.com/artist/4Fwo4QvaDDRtYMMRX0oIVW"
+        }
+      ],
+      "duration_ms": 188239,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/4dypby4Vd2fggpXJSRPdbx"
+    },
+    {
+      "added_at": "2026-11-17 07:31:12",
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/2s9H1pccxcYjAY1e4lvPMq"
+      },
+      "artists": [
+        {
+          "name": "ZenBerry",
+          "url": "https://open.spotify.com/artist/1Z42oEbFolbfSLs2sBHXzZ"
+        }
+      ],
+      "duration_ms": 212884,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/45sv67E4EKL5hcA2zrMujB"
+    },
+    {
+      "added_at": "2026-11-17 07:31:24",
+      "album": {
+        "name": "\u03a0\u03c1\u03ce\u03b9\u03bc\u03bf",
+        "url": "https://open.spotify.com/album/1qXUj4BLLYqzBFr8gBKyyt"
+      },
+      "artists": [
+        {
+          "name": "Yorgos El\u00e0son",
+          "url": "https://open.spotify.com/artist/3AjfYrZ3fe4kbcPl5Ne3B1"
+        }
+      ],
+      "duration_ms": 252857,
+      "name": "\u03a0\u03c1\u03ce\u03b9\u03bc\u03bf",
+      "url": "https://open.spotify.com/track/6TjJMOUyEIkbaonTLVhNuQ"
+    },
+    {
+      "added_at": "2026-11-17 07:31:24",
+      "album": {
+        "name": "Dans le noir",
+        "url": "https://open.spotify.com/album/4d74eRxCrxrk7naUe2ozRs"
+      },
+      "artists": [
+        {
+          "name": "Ted Elemiah",
+          "url": "https://open.spotify.com/artist/2oiaXAexlxP7mwR2AUGPMF"
+        }
+      ],
+      "duration_ms": 182354,
+      "name": "Dans le noir",
+      "url": "https://open.spotify.com/track/0fA5gZz5va2WQuZwL7eSTa"
+    },
+    {
+      "added_at": "2026-11-17 07:31:25",
+      "album": {
+        "name": "\u00c9toile filante",
+        "url": "https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH"
+      },
+      "artists": [
+        {
+          "name": "Naghmeh",
+          "url": "https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a"
+        }
+      ],
+      "duration_ms": 327943,
+      "name": "\u00c9toile filante",
+      "url": "https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7"
+    },
+    {
+      "added_at": "2026-11-17 07:31:43",
+      "album": {
+        "name": "Baavra",
+        "url": "https://open.spotify.com/album/4ZJggP5hQ8NP22MqapAXig"
+      },
+      "artists": [
+        {
+          "name": "Samaksh",
+          "url": "https://open.spotify.com/artist/1JvSsV27Zvlivwd0j6AtGn"
+        }
+      ],
+      "duration_ms": 330456,
+      "name": "Baavra",
+      "url": "https://open.spotify.com/track/6yUbQdKaqgbsDPh3G6gyDX"
     }
   ],
   "unique_name": "New Indie Music",

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Krúbi
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: VINI
 
-273 songs - 13 hr 25 min
+275 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [BULLSHIT](https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [BULLSHIT](https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW) | 2:18 | 2026-02-03 | 2026-09-15 |
 | [Bulvár](https://open.spotify.com/track/5qUR1466s8i5FvQnVD0oUy) | [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Bulvár](https://open.spotify.com/album/06MpMOPmdvq4tlu8JzXxkn) | 2:08 | 2026-09-07 |  |
 | [businessman](https://open.spotify.com/track/5yOsWdGuLzogeI78Dx2k4O) | [szvory](https://open.spotify.com/artist/16dJ6E9brgXIBbi4cBFaTX), [brendy](https://open.spotify.com/artist/6ofIpCNtWgB6xFNV84CM1Q) | [businessman](https://open.spotify.com/album/4ormZlOj0ttALx6rnB7Pzu) | 2:21 | 2026-08-24 |  |
-| [CAPPUCCINO](https://open.spotify.com/track/6xEzlmoC3xDE3ZSpOxp7Sk) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [CAPPUCCINO](https://open.spotify.com/album/1aYidTk0RGUIiMQ1b1NTW0) | 2:14 | 2026-10-19 |  |
+| [CAPPUCCINO](https://open.spotify.com/track/6xEzlmoC3xDE3ZSpOxp7Sk) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [CAPPUCCINO](https://open.spotify.com/album/1aYidTk0RGUIiMQ1b1NTW0) | 2:14 | 2026-10-19 | 2026-11-17 |
 | [CARTIER](https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:30 | 2024-07-01 | 2025-04-01 |
 | [CIA](https://open.spotify.com/track/2uWdrP4brpE5wYmoOb7NzV) | [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [DZSINDZSER](https://open.spotify.com/artist/21KbSlLTB46SibVsHzOMp7) | [FUEGO](https://open.spotify.com/album/12kqycJcuxD5hnRsCiBhjG) | 3:00 | 2026-09-28 |  |
 | [Cigány\-ügy](https://open.spotify.com/track/4fzbwV7qglR3mPit64hXse) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI), [Érdi Baba](https://open.spotify.com/artist/5CPKLSKScYKTRdr491KCJu) | [Cigány\-ügy](https://open.spotify.com/album/4wsF3ZBcwC74KWDMiWFjui) | 3:39 | 2024-07-01 | 2024-08-14 |
@@ -100,6 +100,7 @@
 | [Gyerekek](https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2) | [Halott Pénz](https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h) | [Gyerekek](https://open.spotify.com/album/0oOywwZrjosDWVG95s9GBE) | 2:36 | 2026-03-31 | 2026-11-03 |
 | [GÁZ](https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo) | [GÁZ](https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp) | 3:05 | 2024-07-01 | 2024-10-29 |
 | [Ha bukok](https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Ha bukok](https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd) | 2:19 | 2026-07-13 | 2026-08-25 |
+| [Ha valami bánt](https://open.spotify.com/track/6xGC6iuuoAfGbBf5qx8Fjd) | [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [Ha valami bánt](https://open.spotify.com/album/2LNnh6zw3sOD0kqK27zhAz) | 2:25 | 2026-11-16 |  |
 | [HELLO HELLO](https://open.spotify.com/track/6CRJvqQ7iItbT7911f1x0H) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [HELLO HELLO](https://open.spotify.com/album/1ilIuSiYwecV5UArPziG1z) | 2:31 | 2026-09-07 |  |
 | [HENN \(SANDELA\)](https://open.spotify.com/track/70EqnZ68XyFO16FkSEidUJ) | [Bazsi](https://open.spotify.com/artist/7IvNSZxcwOVm9Sn8z4y1k4) | [HENN \(SANDELA\)](https://open.spotify.com/album/4AKT0vHVHrEJwLizOVJkps) | 2:57 | 2024-07-01 | 2024-11-19 |
 | [Hol voltál?](https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5) | [bongor](https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD), [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [EXTÁZIS](https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5) | 2:22 | 2025-11-17 | 2026-03-10 |
@@ -237,6 +238,7 @@
 | [Szép](https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [BEATó](https://open.spotify.com/artist/3m410ob9E6v6HxcrpeSUqn) | [Spontán Kollabok](https://open.spotify.com/album/58pRsBtv0Sf4VRp3R70mXp) | 3:12 | 2025-03-24 | 2025-07-29 |
 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 | 2024-07-01 | 2025-11-11 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-04 | 2025-03-25 |
+| [SÍROK:SÍRSZ](https://open.spotify.com/track/3MsHDheGyi9m4ir5o9nx71) | [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0), [Blaize](https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD) | [SÍROK:SÍRSZ](https://open.spotify.com/album/7y1M2tn8U0y4kvDtXXwkVQ) | 3:35 | 2026-11-16 |  |
 | [SÖTÉT](https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [SÖTÉT](https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z) | 2:24 | 2025-05-19 | 2026-03-03 |
 | [TAKE YOUR TIME](https://open.spotify.com/track/1CcSopy8wvVOyKexbS0gyU) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [TAKE YOUR TIME](https://open.spotify.com/album/6o33CmUr6BfidP0VL59yot) | 2:21 | 2026-03-09 |  |
 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 | 2025-05-12 | 2025-12-16 |
@@ -254,7 +256,7 @@
 | [TITANIK](https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [GHO$TY](https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX) | [TITANIK](https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP) | 2:43 | 2026-05-04 | 2026-09-08 |
 | [tokio](https://open.spotify.com/track/052xnp9xQg6FZyUEoXC5P7) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [civil](https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N) | 3:07 | 2026-07-13 |  |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-07-01 | 2024-09-17 |
-| [TOP TIER \- SPACCONE](https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [TOP TIER \(SPACCONE\)](https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx) | 2:02 | 2026-01-05 |  |
+| [TOP TIER \- SPACCONE](https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [TOP TIER \(SPACCONE\)](https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx) | 2:02 | 2026-01-05 | 2026-11-17 |
 | [TRÉFA](https://open.spotify.com/track/3nidcwzm6ik5ZIwzudGXhn) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [TRÉFA](https://open.spotify.com/album/43D1btG0DbLCDJrgQug8KK) | 2:34 | 2026-09-07 |  |
 | [Tíz Lány](https://open.spotify.com/track/0ylIgpSA6lCBd8CfTzWb7h) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Tíz Lány](https://open.spotify.com/album/5lEKZfmEpTPsxbM74smaws) | 2:45 | 2026-11-02 |  |
 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 | 2025-05-05 | 2025-08-26 |

@@ -890,7 +890,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 229880,
       "name": "All In",
       "url": "https://open.spotify.com/track/0UkKJc0FoD6Q93HF2N3sM2"
@@ -9665,6 +9665,24 @@
     },
     {
       "album": {
+        "name": "Dying Castles",
+        "url": "https://open.spotify.com/album/1psgQVFVk8Dv5OrmAinVl5"
+      },
+      "artists": [
+        {
+          "name": "Forever 505",
+          "url": "https://open.spotify.com/artist/7fME7Ho0SJGU60mkLy2G0Z"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182972,
+      "name": "Dying Castles",
+      "url": "https://open.spotify.com/track/1QdiNGrhuYy9yLshUOwd8j"
+    },
+    {
+      "album": {
         "name": "D\u00e9j\u00e0 Vu",
         "url": "https://open.spotify.com/album/0sD7sPAmoL8UctHpJYedUc"
       },
@@ -10434,7 +10452,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 210360,
       "name": "Everybody Likes Red",
       "url": "https://open.spotify.com/track/7gpkRDBxFPnf7YNsNnviql"
@@ -16145,6 +16163,24 @@
     },
     {
       "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/36FUhD9tHWl99OasDdvHz8"
+      },
+      "artists": [
+        {
+          "name": "Luckiest Man Alive",
+          "url": "https://open.spotify.com/artist/5Ub2WPMjNeSZg7JDRl0H2M"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "How Have You Been?",
+      "url": "https://open.spotify.com/track/7xsIwxf8AojSA4YDnhJDmk"
+    },
+    {
+      "album": {
         "name": "How She Move\u00b4s (feat. Michael Jo)",
         "url": "https://open.spotify.com/album/4SkvmNjBjdUFX19YpxgPYY"
       },
@@ -16216,6 +16252,24 @@
       "duration_ms": 150072,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/48B3FbaoxaYKbZo5uIHoBU"
+    },
+    {
+      "album": {
+        "name": "Hungry Souls",
+        "url": "https://open.spotify.com/album/1cEL4JlBemDqrS7DrE8oeV"
+      },
+      "artists": [
+        {
+          "name": "Ro Cornell",
+          "url": "https://open.spotify.com/artist/6na8YqdC5uChWsDWJu0SbB"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332709,
+      "name": "Hungry Souls",
+      "url": "https://open.spotify.com/track/4etprirGbTfkvfIzzp7OLZ"
     },
     {
       "album": {
@@ -16652,7 +16706,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 183106,
       "name": "I Got a Problem (I Wonder...) - Stan Medley Remix",
       "url": "https://open.spotify.com/track/6yWlnj5yLWrx5rP3HaX8Ex"
@@ -21554,7 +21608,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 254750,
       "name": "Love and War",
       "url": "https://open.spotify.com/track/1wAYa6pwPiofA9B4rCbBtW"
@@ -25872,7 +25926,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 215000,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/6xFnHUEHk50CW0CxLoBeOZ"
@@ -27804,7 +27858,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 211348,
       "name": "Promise to Be Brave",
       "url": "https://open.spotify.com/track/1454cxC6U2Vrf2wOPMh8uE"
@@ -31274,7 +31328,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 206276,
       "name": "So Am I",
       "url": "https://open.spotify.com/track/4WxyEnmAq8iF46Xu0T535f"
@@ -31898,6 +31952,24 @@
       "duration_ms": 137058,
       "name": "sorry",
       "url": "https://open.spotify.com/track/2ZQSWCZ0xs0JQiGiHr9Zg6"
+    },
+    {
+      "album": {
+        "name": "Soul Remembrance",
+        "url": "https://open.spotify.com/album/51fDeDAPYNEnzbf6i9ewRa"
+      },
+      "artists": [
+        {
+          "name": "Maddie Rae Stone",
+          "url": "https://open.spotify.com/artist/1epxi543pyef1z75Ni5OQr"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286520,
+      "name": "Soul Remembrance",
+      "url": "https://open.spotify.com/track/147yh7iktaabxmIFctsG4J"
     },
     {
       "album": {

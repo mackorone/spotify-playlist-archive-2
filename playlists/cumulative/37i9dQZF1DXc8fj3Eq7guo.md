@@ -4,7 +4,7 @@
 
 > 50 stops, one continent, grab your pass
 
-112 songs - 6 hr 55 min
+113 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Tanzania \(feat\. Sino Msolo and Boibizza\)](https://open.spotify.com/track/4qm0rzVQA3kqQ0yA7LkuFK) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Tanzania \(feat\. Sino Msolo and Boibizza\)](https://open.spotify.com/album/4Clh4Zi1rvftlZsgXa0FSF) | 6:16 | 2024-03-15 | 2024-04-19 |
 | [Ugandan Girl](https://open.spotify.com/track/1F2GvDPgcGDSY2vpMU2aHt) | [Peter Rhymer](https://open.spotify.com/artist/45RRDt2C7hWV0c4MqemmBq), [Laxzy Mover](https://open.spotify.com/artist/1LQDdqSrOOVblPnopOL8zI) | [Ugandan Girl](https://open.spotify.com/album/3MemuIRsWm2NnO7LSDSmGh) | 3:45 | 2023-09-08 | 2024-07-13 |
 | [Ukunda](https://open.spotify.com/track/40OIs7h6ycp9tVl9YJ6CgI) | [Bakhita](https://open.spotify.com/artist/1YC7oOze3tqAKiPk5aNWIy) | [Purge](https://open.spotify.com/album/6aHCku9sNDp37hKfHxdHRW) | 4:21 | 2023-09-08 | 2023-10-10 |
+| [Welcome To Lagos](https://open.spotify.com/track/6q9AMhh5M1SiCCvrh94YVh) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Welcome To Lagos](https://open.spotify.com/album/65SHs9gGDOyXxFs4vHAcCZ) | 3:03 | 2026-11-16 |  |
 | [Worldwide](https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:02 | 2024-08-08 |  |
 | [Zaire](https://open.spotify.com/track/0yXya1lxf4ATYUAfr7arf1) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [J\-Tek](https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj) | [Dark Moon Flower](https://open.spotify.com/album/2wbHOXGXPVKp9vezeglRD4) | 3:28 | 2023-09-08 | 2025-07-04 |
 | [Zanzibar](https://open.spotify.com/track/6jyP0bAfuUmrVlHvQLXil6) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:09 | 2026-07-31 |  |

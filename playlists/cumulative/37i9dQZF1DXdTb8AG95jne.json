@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "PULSE I",
+        "url": "https://open.spotify.com/album/3pmNtBDQRwE0CC9ksVzTOm"
+      },
+      "artists": [
+        {
+          "name": "CHANMIN",
+          "url": "https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258892,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7EHVfrNfWm6TEWGzCMqVkG"
+    },
+    {
+      "album": {
         "name": "Annie",
         "url": "https://open.spotify.com/album/2SQtjYXd0phPc8rUERwIVD"
       },
@@ -13496,7 +13514,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 245517,
       "name": "Luminous overflows",
       "url": "https://open.spotify.com/track/6HPBd0rVrcUuPB0ZZB9zX5"

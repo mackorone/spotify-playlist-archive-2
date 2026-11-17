@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,567 songs - 12 day 23 hr 15 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,573 songs - 12 day 23 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5575,5 +5575,11 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5565 | [Love & Hate](https://open.spotify.com/track/1BWO0H2dWosBTTCmKEQW23) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Love & Hate](https://open.spotify.com/album/4gjZ87DTCkoZ7qlkGGoRdv) | 3:07 |
 | 5566 | [Our last summer together](https://open.spotify.com/track/1P9JNOUO0GqQ2RmN80XH3V) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The end of Summer](https://open.spotify.com/album/2kTwZSU8hZNmAbpFkY77PD) | 4:54 |
 | 5567 | [Autumn leavs](https://open.spotify.com/track/0DFG9MNGSKcoZSbZvqcOuS) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The end of Summer](https://open.spotify.com/album/2kTwZSU8hZNmAbpFkY77PD) | 4:58 |
+| 5568 | [부산 전망](https://open.spotify.com/track/2oV9BQlOKZeYp89ryBBNN3) | [Love me machine!](https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f) | [부산 전망](https://open.spotify.com/album/7InPLEOoKiE2W6eqkK8CgF) | 3:13 |
+| 5569 | [Death by Hangin' \(World War II\)](https://open.spotify.com/track/7geLdlBvFZY2KuhmOiwuAM) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:01 |
+| 5570 | [IN THE NAME OF LOVE \- Country Version](https://open.spotify.com/track/6yF7GUEKE5AVoDH9b7jdJd) | [Omega Vox](https://open.spotify.com/artist/5vLz5esl2pqzVt2LBB9eRh) | [IN THE NAME OF LOVE \(Country Version\)](https://open.spotify.com/album/4GP1CVNvALKHJeQIfumd71) | 2:37 |
+| 5571 | [HIGHLAND ECHOES](https://open.spotify.com/track/4TcvJMDyD2zIhmsEBsZDNs) | [Omega Horizon](https://open.spotify.com/artist/1bqspJKjaQkVdVG5LD04QA) | [HIGHLAND ECHOES](https://open.spotify.com/album/5yXOGZzGVpgfLQNXIYarhr) | 3:21 |
+| 5572 | [ANGELICA E MEDORO](https://open.spotify.com/track/4K05C0HaeGbG0FAEPoQQIY) | [Omega Horizon](https://open.spotify.com/artist/1bqspJKjaQkVdVG5LD04QA) | [ANGELICA E MEDORO](https://open.spotify.com/album/4yCTOiGHi39v3gQ8AZnjQS) | 3:57 |
+| 5573 | [IN MY LIFE \- Piano Version](https://open.spotify.com/track/5cMr4IjST242S6zQUSnkeo) | [Omega Horizon](https://open.spotify.com/artist/1bqspJKjaQkVdVG5LD04QA) | [IN MY LIFE \(Piano Version\)](https://open.spotify.com/album/4j5dIJqWxhkqE1fwGWxKFy) | 3:24 |
 
-Snapshot ID: `AAALCxvhkwPPr/h7ChM0S0alwFWO6QkL`
+Snapshot ID: `AAALEYzQBUnHMvO0ljT+pIcztvxAbk+4`

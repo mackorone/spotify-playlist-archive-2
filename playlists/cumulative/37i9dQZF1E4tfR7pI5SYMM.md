@@ -2,7 +2,7 @@
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With Sanguine, Bad Scullianz, Moonvale and more
+> With Sanguine, The Datsuns, Gene Dante and more
 
 1,232 songs - 3 day 10 hr 42 min
 

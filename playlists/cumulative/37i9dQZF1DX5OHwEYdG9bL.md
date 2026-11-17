@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: Mark Lee\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: TOMORROW X TOGETHER\) \(Enjoy  songs that support music video features!\)
 
-298 songs - 16 hr 10 min
+299 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [After You](https://open.spotify.com/track/0Mso1JXNiWR8VEU6Lwjz59) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [After You](https://open.spotify.com/album/5jwDenl4rtNL4SM0TPGj23) | 3:02 | 2026-08-25 |  |
 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/24xU2Ua8cjyz2wKziFOtnE) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/6uC7j4x0xXgQkVhAg3YElC) | 3:02 | 2026-05-11 |  |
 | [All My Poetry](https://open.spotify.com/track/0xqSbnjCNg0QBw3Jt3jBai) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [All My Poetry](https://open.spotify.com/album/2OFHzxTlpEhToP5S7FKrXn) | 4:24 | 2025-07-15 | 2026-09-09 |
+| [Angel Bite](https://open.spotify.com/track/62pmQMfcm1leFyeKRfSaDq) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [PERFECT STORM](https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ) | 2:33 | 2026-11-16 |  |
 | [APT.](https://open.spotify.com/track/04h58ACw3A2hC6xKsZOkST) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/5sSwBYZvbca0i7G6yUCVXA) | 2:52 | 2025-07-15 | 2025-08-20 |
 | [ASAP](https://open.spotify.com/track/1zhULUXEKRUis8u4umC4TO) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [ASAP](https://open.spotify.com/album/2UaodruL7eqPlQ1UrwtCEN) | 2:51 | 2025-07-15 | 2025-08-20 |
 | [Atmos](https://open.spotify.com/track/5X0YteLMOVzyio80vivuns) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos](https://open.spotify.com/album/07Cr3FTh0iRlF1DZv47iPF) | 3:22 | 2026-06-12 |  |

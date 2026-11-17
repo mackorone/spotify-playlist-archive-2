@@ -4984,7 +4984,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 192679,
       "name": "nie wierz\u0119 w bajki",
       "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
@@ -6518,6 +6518,24 @@
       "duration_ms": 193500,
       "name": "Serce",
       "url": "https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v"
+    },
+    {
+      "album": {
+        "name": "Serce z wosku",
+        "url": "https://open.spotify.com/album/2Boo6XvXersbCc8Cgry0aX"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152337,
+      "name": "Serce z wosku",
+      "url": "https://open.spotify.com/track/6rgF0ql0Gg200aoW0vp5X6"
     },
     {
       "album": {

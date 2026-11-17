@@ -1,12 +1,12 @@
 {
   "description": "This is Dario Marianelli. The essential tracks, all in one playlist.",
-  "num_followers": 5115,
+  "num_followers": 5116,
   "original_name": "This Is Dario Marianelli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avZTAAAAAAB3ii8O+DCKqlliVl3iWZNt",
+  "snapshot_id": "avj2AAAAAADFvY0E+jKOAtNjZC+1SBJq",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP"
+        "name": "Paddington 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0I02Py2xStavRaa5vG0KmS"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
         }
       ],
-      "duration_ms": 178306,
-      "name": "Last Words",
-      "url": "https://open.spotify.com/track/4St6fcntR7xnt010lLUnnA"
+      "duration_ms": 89706,
+      "name": "The Pop-Up Book",
+      "url": "https://open.spotify.com/track/6CLncfsxo0cZWhy2nONFlH"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paddington 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0I02Py2xStavRaa5vG0KmS"
+        "name": "Everest (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
         }
       ],
-      "duration_ms": 89706,
-      "name": "The Pop-Up Book",
-      "url": "https://open.spotify.com/track/6CLncfsxo0cZWhy2nONFlH"
+      "duration_ms": 178306,
+      "name": "Last Words",
+      "url": "https://open.spotify.com/track/4St6fcntR7xnt010lLUnnA"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kubo and the Two Strings (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7dOhWd2mzAxFogccMQWAg0"
+      },
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        }
+      ],
+      "duration_ms": 127866,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/7Cfih44vlpcFAFzKdHmv0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everest (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP"
       },
@@ -587,18 +603,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kubo and the Two Strings (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7dOhWd2mzAxFogccMQWAg0"
+        "name": "Atonement OST",
+        "url": "https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ"
       },
       "artists": [
         {
           "name": "Dario Marianelli",
           "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        },
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         }
       ],
-      "duration_ms": 127866,
-      "name": "Ancestors",
-      "url": "https://open.spotify.com/track/7Cfih44vlpcFAFzKdHmv0Y"
+      "duration_ms": 212413,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/2vlafA2ljFvjZmBkn4VYac"
     },
     {
       "added_at": null,

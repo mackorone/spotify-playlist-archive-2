@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 143909,
+  "num_followers": 143918,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avZTAAAAAADnvCZnX65eQ1BT5HwT33yL",
+  "snapshot_id": "avj2AAAAAAAPjcktDOzgLr9GhlCjS/ba",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectral Eyes",
-        "url": "https://open.spotify.com/album/0KoJgvW1kOgVy48U087nBM"
+        "name": "Atomic",
+        "url": "https://open.spotify.com/album/7GIYvXj0WMNJ73Nvim7yVt"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 249360,
-      "name": "Spectral Eyes",
-      "url": "https://open.spotify.com/track/5uagx4o8QQLVZVm29ffdFn"
+      "duration_ms": 229800,
+      "name": "Atomic",
+      "url": "https://open.spotify.com/track/1agoWz2axt0R9alvenDXB0"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atomic",
-        "url": "https://open.spotify.com/album/7GIYvXj0WMNJ73Nvim7yVt"
+        "name": "Spectral Eyes",
+        "url": "https://open.spotify.com/album/0KoJgvW1kOgVy48U087nBM"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 229800,
-      "name": "Atomic",
-      "url": "https://open.spotify.com/track/1agoWz2axt0R9alvenDXB0"
+      "duration_ms": 249360,
+      "name": "Spectral Eyes",
+      "url": "https://open.spotify.com/track/5uagx4o8QQLVZVm29ffdFn"
     },
     {
       "added_at": null,

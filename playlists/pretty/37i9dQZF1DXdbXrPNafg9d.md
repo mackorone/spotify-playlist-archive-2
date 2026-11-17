@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: KatzPascale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,354 likes - 200 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,288 likes - 200 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

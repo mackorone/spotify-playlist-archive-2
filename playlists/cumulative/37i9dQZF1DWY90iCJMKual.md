@@ -4,7 +4,7 @@
 
 > PH vibin' cover: brei
 
-545 songs - 1 day 5 hr 37 min
+546 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [dawn](https://open.spotify.com/track/5qfetWn53xemg40aT5CXIp) | [rk jlln](https://open.spotify.com/artist/7f4T4dXPTpsY3NARZXkFBC) | [dawn](https://open.spotify.com/album/4cmN8MWGer0BH45wZSnkFO) | 1:40 | 2024-08-09 | 2025-03-22 |
 | [Dazed](https://open.spotify.com/track/6gPB7r1NuSNfiC4GSnARcz) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Dazed](https://open.spotify.com/album/5XVE9feP9gPeaEnYDzHMaB) | 4:00 | 2022-10-12 | 2022-12-15 |
 | [Delusyon](https://open.spotify.com/track/2cCDHJUUC9NmxPPr7JkP3R) | [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e), [Ken Manguiat](https://open.spotify.com/artist/5X0lDO3wabgkXnCyXZpXKz) | [Delusyon](https://open.spotify.com/album/2u4i2jr1X6AdlQrvKlAXZ2) | 3:12 | 2025-02-27 | 2026-01-17 |
-| [Depende](https://open.spotify.com/track/1sMuds6T60xhLtmdKikp6Z) | [Kiervy](https://open.spotify.com/artist/4XKd64nj9QAK4OfyhLgbTl), [Ram Millr](https://open.spotify.com/artist/6tbDwyyKJSKhpNpmRfpbiX), [iHATEMONDAYS](https://open.spotify.com/artist/09pellVEfvf6ifLsjSDmLP) | [Depende](https://open.spotify.com/album/7cIX8Xu7U062ZRYLb3qEL1) | 3:30 | 2026-05-22 |  |
+| [Depende](https://open.spotify.com/track/1sMuds6T60xhLtmdKikp6Z) | [Kiervy](https://open.spotify.com/artist/4XKd64nj9QAK4OfyhLgbTl), [Ram Millr](https://open.spotify.com/artist/6tbDwyyKJSKhpNpmRfpbiX), [iHATEMONDAYS](https://open.spotify.com/artist/09pellVEfvf6ifLsjSDmLP) | [Depende](https://open.spotify.com/album/7cIX8Xu7U062ZRYLb3qEL1) | 3:30 | 2026-05-22 | 2026-11-17 |
 | [DESPERADO](https://open.spotify.com/track/5OhOlK3n9t6vCsDjNQvdOc) | [ARDEE](https://open.spotify.com/artist/5KyAtSiun66X0W4l9azY1J), [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB), [aust\|nn](https://open.spotify.com/artist/02qicH9o3fQf9RhfhzGgKm) | [DESPERADO](https://open.spotify.com/album/0zpdy5QT4W1S138ntxeywQ) | 4:57 | 2022-10-12 | 2023-05-18 |
 | [DI KA TINATAGO](https://open.spotify.com/track/47x7PUKNetyiUpuBn1CmgO) | [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU) | [DI KA TINATAGO](https://open.spotify.com/album/29wHM4AZleZWXw3Av8w6iY) | 3:45 | 2026-02-16 | 2026-06-16 |
 | [Di kita trip](https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Di kita trip](https://open.spotify.com/album/3iYWYMFX37PfR3w4n1Z3fa) | 2:54 | 2024-02-28 | 2024-07-13 |
@@ -253,6 +253,7 @@
 | [Katabi](https://open.spotify.com/track/3Ey3JBGEBcGFc7zbnSZwji) | [a.v.d.i](https://open.spotify.com/artist/5PWqgLVse2O4ANi7UDk3nV) | [Katabi](https://open.spotify.com/album/2HfhCh4lth0Z4tjZv7iqI2) | 3:44 | 2022-10-12 | 2023-07-29 |
 | [Katangi\-Tangi](https://open.spotify.com/track/3cDYK7J6rWFVTcyJLzA48A) | [Joshua Mari](https://open.spotify.com/artist/4nU731batyNix2m7FFDdPd) | [Katangi\-Tangi](https://open.spotify.com/album/0hmUXqYL68NBPPXK4Tbdkn) | 3:24 | 2026-01-16 | 2026-05-02 |
 | [kaya kaya](https://open.spotify.com/track/2sN1luMYIaywC0IwaoZAtL) | [Jiji](https://open.spotify.com/artist/0lnA5vYJqi9LAdOcmpmmw3) | [kaya kaya](https://open.spotify.com/album/1B0ZgJZhWMPFcwWgfDmy9m) | 3:09 | 2024-10-11 | 2026-02-17 |
+| [Keep It On The Low](https://open.spotify.com/track/0qoSYIny8bQlG6HJgOckQ8) | [Avery Leon](https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3) | [Keep It On The Low](https://open.spotify.com/album/6Ps19moiA1oLtV0tIaFE5G) | 3:57 | 2026-11-16 |  |
 | [Kuhang\-kuha](https://open.spotify.com/track/3FzXMyxc0liTGcajQLVMtb) | [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [Kuhang\-kuha](https://open.spotify.com/album/5y2ojx3eChTA3TqYAdC6qs) | 3:37 | 2024-07-17 | 2024-11-09 |
 | [Kulang](https://open.spotify.com/track/6uGRcwf0z3FV9CGC5jOrxX) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kulang](https://open.spotify.com/album/43yikgeYnQWXUzMfqN4j9i) | 4:00 | 2022-12-14 | 2023-08-31 |
 | [Kung Di Mo Alam](https://open.spotify.com/track/73lcuoa9ZIRQhXNVRo81Kc) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Kung Di Mo Alam](https://open.spotify.com/album/1DRvYTu2nZlcKKixTQ7iIQ) | 2:57 | 2025-09-26 | 2025-12-04 |

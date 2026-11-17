@@ -8896,7 +8896,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 165415,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
@@ -9652,7 +9652,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 225244,
       "name": "Honest",
       "url": "https://open.spotify.com/track/5436XVgvMBSa2qMhZHrOvG"
@@ -11538,6 +11538,24 @@
       "duration_ms": 178861,
       "name": "J\u00f3",
       "url": "https://open.spotify.com/track/60iZfOsrls9EXquR0MK2Q2"
+    },
+    {
+      "album": {
+        "name": "J\u00d4NZEMI",
+        "url": "https://open.spotify.com/album/1wUxIwN2t9VHtLN5FD1ZkD"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f4rkk",
+          "url": "https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136919,
+      "name": "J\u00d4NZEMI",
+      "url": "https://open.spotify.com/track/1X8hpkIEIXnaidSxc87O3l"
     },
     {
       "album": {
@@ -24032,7 +24050,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 179368,
       "name": "WEEKEND",
       "url": "https://open.spotify.com/track/5QFN7CeUL5B3a8gioAELdV"

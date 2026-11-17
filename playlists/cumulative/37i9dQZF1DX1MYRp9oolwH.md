@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Alias Rukmini
 
-501 songs - 1 day 8 hr 11 min
+502 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Paruvama Paruvama \(From "Deadline"\)](https://open.spotify.com/track/64OZL5C1gAhrv7POFKmfnJ) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Paruvama Paruvama \(From "Deadline"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1ehTDoyXEg1a221vJyXp7V) | 4:29 | 2023-01-30 | 2023-03-28 |
 | [Pataas Pilla](https://open.spotify.com/track/7ox1JFNmfgRtUBY1kx2aIj) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [DJ Tillu](https://open.spotify.com/album/4XKcUnvMK746NIs78WjnU7) | 3:22 | 2022-01-24 | 2023-02-21 |
 | [Pedavula Thadi](https://open.spotify.com/track/1NbOhm7n5yj64qkfV6Tzk3) | [Smaran Sai](https://open.spotify.com/artist/4a2IYROZslBQ4GcT6KXgua), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Purna Chari](https://open.spotify.com/artist/1gptpszQ2MyQpd7yZEFpm7) | [Virgin Boys](https://open.spotify.com/album/4GUQngMuNg8bDfrwIXH2sM) | 2:52 | 2025-06-03 | 2026-02-25 |
+| [Pichhi Premalo \(From "Alias Rukmini"\)](https://open.spotify.com/track/73AkUdGok62HheWsuood0t) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Pichhi Premalo \(From "Alias Rukmini"\)](https://open.spotify.com/album/5I8Un81IGZfFlCLBmbO3OI) | 3:46 | 2026-11-16 |  |
 | [Pilla](https://open.spotify.com/track/5UvisOGEf4Qsq808jcMMXD) | [Mark K Robin](https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Purnachary](https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j) | [Dhandoraa](https://open.spotify.com/album/2ly9WvCufIHRh6TuJxDejG) | 3:06 | 2026-01-05 | 2026-03-31 |
 | [Pilla Padesaave](https://open.spotify.com/track/4veuanALTmuopcDBoYsoLI) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Love Today \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4F9lI7xMQSG7BVM3dOC41U) | 3:57 | 2022-11-22 | 2023-08-17 |
 | [Pilla Pilla \(From "Missing Meghana"\)](https://open.spotify.com/track/0xJoYP8CdnduBgBmhN0CKZ) | [RR Dhruvan](https://open.spotify.com/artist/0u8CV5hMxYiKctbYRZy1aW), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Pilla Pilla \(From "Missing Meghana"\)](https://open.spotify.com/album/7DLLsptJ1oTkUtyxEiK4vr) | 3:30 | 2026-08-14 |  |

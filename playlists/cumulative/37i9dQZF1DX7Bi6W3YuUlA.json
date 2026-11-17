@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Inspirational hip-hop. Cover: Skilla Baby",
+  "description": "Inspirational hip-hop. Cover: Fivio Foreign",
   "name": "High Lights",
   "tracks": [
     {
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 198000,
       "name": "Chasin",
       "url": "https://open.spotify.com/track/77fXMuOnjHNFIJk3nB1y6B"
@@ -12128,6 +12128,28 @@
       "duration_ms": 197519,
       "name": "You Know the Drill",
       "url": "https://open.spotify.com/track/7gdNfIqpKzAiCnclGvk07a"
+    },
+    {
+      "album": {
+        "name": "You Make Me",
+        "url": "https://open.spotify.com/album/58X6r78Vbiy8zUzGZ1nCUN"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "The Fire Choir",
+          "url": "https://open.spotify.com/artist/1XFGDYQzhYgGCUToGJe6Tn"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "You Make Me",
+      "url": "https://open.spotify.com/track/7AYRT3hADPDQX5v4dXd6Nh"
     },
     {
       "album": {

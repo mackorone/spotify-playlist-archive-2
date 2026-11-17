@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,356 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,382 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Make It Make Sense \(feat\. Sule, Flames Dot Malik\)](https://open.spotify.com/track/5Pd2jMGCHc1ajzJpXSn23d) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Fuego Base](https://open.spotify.com/artist/03JNNveCVBRkLGvhmJfxPO), [Sule](https://open.spotify.com/artist/2uukp6np78iK1wYKFF9R8m), [Flames Dot Malik](https://open.spotify.com/artist/3fTdETUtESGiSOh95gOQeI) | [A Friend of Ours 2](https://open.spotify.com/album/2oFTmdKaO1UZxdX6lGdggx) | 4:26 |
-| 2 | [DON PISTOLA](https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELMATIC](https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0) | 3:24 |
+| 2 | [DON PISTOLA](https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [HEELMATIC](https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0) | 3:24 |
 | 3 | [Brolic](https://open.spotify.com/track/6dRYsxmtk5bjOVGBvuzQ8g) | [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Cormega](https://open.spotify.com/artist/4vQLu6vYK0hp8k0fsAzsU8) | [Black Samson: The Saga Continues](https://open.spotify.com/album/07yS4BsrVFX4fwmH5XeYwp) | 3:46 |
 | 4 | [reincarnated](https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:35 |
 | 5 | [Stakes Is High \- J Dilla Remix](https://open.spotify.com/track/3yDdwh1Iuyh1nAFBJLvzuL) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Truth Enola](https://open.spotify.com/artist/25PBb7uSJlvQ0meRfDVnIu), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Stakes Is High \(30th Anniversary\)](https://open.spotify.com/album/1VTEE6z34aENJ0kpfnDYHu) | 4:48 |

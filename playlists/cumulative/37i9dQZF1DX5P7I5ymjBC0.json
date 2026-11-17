@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Fusion music for the soul. ",
+  "description": "Fusion music for the soul. Cover - Shillong Chamber Choir",
   "name": "Fusion Finds",
   "tracks": [
     {
@@ -2131,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "Uncle Neil - Our songs, our story",
+        "url": "https://open.spotify.com/album/4wMq9w8bQOyNj6iQ6rsoAE"
+      },
+      "artists": [
+        {
+          "name": "Shillong Chamber Choir",
+          "url": "https://open.spotify.com/artist/7gkmvNNfD8KJXAwePUNpDU"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196607,
+      "name": "Lahoo Puh Lyngkha",
+      "url": "https://open.spotify.com/track/2hEw67QicKoJLyNJnlVfN8"
+    },
+    {
+      "album": {
         "name": "Classical Unwind",
         "url": "https://open.spotify.com/album/3hcXAorBQYX3IALCKfYOi8"
       },
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 387000,
       "name": "Mere Suron Mein",
       "url": "https://open.spotify.com/track/5CNbIAKBV1kEdObKnqgIwX"
@@ -3704,7 +3722,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 276030,
       "name": "Safar",
       "url": "https://open.spotify.com/track/17PQNiQynwG4iCGwPglRuL"
@@ -4672,6 +4690,24 @@
       "duration_ms": 432893,
       "name": "Zariya",
       "url": "https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81"
+    },
+    {
+      "album": {
+        "name": "Uncle Neil - Our songs, our story",
+        "url": "https://open.spotify.com/album/4wMq9w8bQOyNj6iQ6rsoAE"
+      },
+      "artists": [
+        {
+          "name": "Shillong Chamber Choir",
+          "url": "https://open.spotify.com/artist/7gkmvNNfD8KJXAwePUNpDU"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274537,
+      "name": "\u0d28\u0d40\u0d32\u0d3e\u0d02\u0d2c\u0d30\u0d3f (Neelambari)",
+      "url": "https://open.spotify.com/track/3uCjW02dXUOVmFRCK990DZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5P7I5ymjBC0"

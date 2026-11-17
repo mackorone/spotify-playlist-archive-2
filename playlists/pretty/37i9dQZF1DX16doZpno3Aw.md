@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,339 likes - 122 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,578 likes - 122 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Marigold](https://open.spotify.com/track/13OTraPhzJbHsAPG8g1KaQ) | [Kevin McLellan](https://open.spotify.com/artist/2iNh6zl5KFuTYlHZadWmo1) | [Marigold](https://open.spotify.com/album/5wVD5PXo9rVHZzjgzbZHHr) | 1:17 |
-| 2 | [SPILL YOUR TIME \- LIVE](https://open.spotify.com/track/4T2vNXosMs13zsMZFJvFkD) | [KatzPascale](https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H) | [SPILL YOUR TIME \(LIVE\)](https://open.spotify.com/album/7f5P5notRUfUyvKZ7lIMty) | 5:35 |
-| 3 | [All I Need](https://open.spotify.com/track/0FLFE8mxBn1yWAX8s2L8ru) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 3:44 |
-| 4 | [Le Carrousel](https://open.spotify.com/track/3ymiJSBhhDQd5qa3ULJT2H) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [Le Carrousel](https://open.spotify.com/album/06Wctde7XvxhijJKZ2EdsX) | 1:56 |
-| 5 | [As Time Flies \- Special Version](https://open.spotify.com/track/54exqUrspFH5VHHE5ng8G2) | [Ty's Music](https://open.spotify.com/artist/4cz9uR9ZbiB9GjgFMVO5Ob) | [As Time Flies \(Special Version\)](https://open.spotify.com/album/6Cvxse8WxU9CaOnC4R9eQR) | 1:00 |
-| 6 | [do i clench my fists? \- slowed + reverb](https://open.spotify.com/track/3ycsREUFKVaITePsyBGJ2L) | [ridgeclub](https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1) | [do i clench my fists? \(slowed + reverb\)](https://open.spotify.com/album/4h6DDGxjNKQzZqbJP1YPzG) | 2:52 |
-| 7 | [Je te laisserai des mots \(Piano\)](https://open.spotify.com/track/2GxYPCRTP6J9d4j6u4jvtd) | [noel.smt](https://open.spotify.com/artist/0ohCDowh0UVXpybpH34WQe) | [Je te laisserai des mots \(Piano\)](https://open.spotify.com/album/5c7fPel6XcJpiaMOg11aFS) | 2:02 |
-| 8 | [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 |
-| 9 | [biting bullets](https://open.spotify.com/track/4hYS8vHVaCOK2TCIswCWHX) | [ridgeclub](https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1) | [biting bullets](https://open.spotify.com/album/2s0E97PJAsApNJuDHwoXCP) | 2:29 |
-| 10 | [Champagne Coast \- Piano](https://open.spotify.com/track/1Ysj4X2y81kk74q0OMU98Q) | [Valentino Coleman](https://open.spotify.com/artist/5Xypfk554REYzztwPzO5RL) | [Champagne Coast \(Piano\)](https://open.spotify.com/album/08ygSSxmnk1TaU28lOAz29) | 1:40 |
-| 11 | [7 Weeks 3 Days \- Backrooms Version](https://open.spotify.com/track/0DZhMSnPpyjc8OZXK8y8YB) | [DJ Kartier](https://open.spotify.com/artist/3mjcSdIONxBG1CyS3GGzjZ) | [7 Weeks 3 Days \(Luigi Version\)](https://open.spotify.com/album/5BVnaESYYg173fU6wjxHyV) | 2:46 |
+| 1 | [do i clench my fists? \- slowed + reverb](https://open.spotify.com/track/3ycsREUFKVaITePsyBGJ2L) | [ridgeclub](https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1) | [do i clench my fists? \(slowed + reverb\)](https://open.spotify.com/album/4h6DDGxjNKQzZqbJP1YPzG) | 2:52 |
+| 2 | [As Time Flies \- Special Version](https://open.spotify.com/track/54exqUrspFH5VHHE5ng8G2) | [Ty's Music](https://open.spotify.com/artist/4cz9uR9ZbiB9GjgFMVO5Ob) | [As Time Flies \(Special Version\)](https://open.spotify.com/album/6Cvxse8WxU9CaOnC4R9eQR) | 1:00 |
+| 3 | [7 Weeks 3 Days \- Backrooms Version](https://open.spotify.com/track/0DZhMSnPpyjc8OZXK8y8YB) | [DJ Kartier](https://open.spotify.com/artist/3mjcSdIONxBG1CyS3GGzjZ) | [7 Weeks 3 Days \(Luigi Version\)](https://open.spotify.com/album/5BVnaESYYg173fU6wjxHyV) | 2:46 |
+| 4 | [Marigold](https://open.spotify.com/track/13OTraPhzJbHsAPG8g1KaQ) | [Kevin McLellan](https://open.spotify.com/artist/2iNh6zl5KFuTYlHZadWmo1) | [Marigold](https://open.spotify.com/album/5wVD5PXo9rVHZzjgzbZHHr) | 1:17 |
+| 5 | [SPILL YOUR TIME \- LIVE](https://open.spotify.com/track/4T2vNXosMs13zsMZFJvFkD) | [KatzPascale](https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H) | [SPILL YOUR TIME \(LIVE\)](https://open.spotify.com/album/7f5P5notRUfUyvKZ7lIMty) | 5:35 |
+| 6 | [All I Need](https://open.spotify.com/track/0FLFE8mxBn1yWAX8s2L8ru) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 3:44 |
+| 7 | [Le Carrousel](https://open.spotify.com/track/3ymiJSBhhDQd5qa3ULJT2H) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [Le Carrousel](https://open.spotify.com/album/06Wctde7XvxhijJKZ2EdsX) | 1:56 |
+| 8 | [Je te laisserai des mots \(Piano\)](https://open.spotify.com/track/2GxYPCRTP6J9d4j6u4jvtd) | [noel.smt](https://open.spotify.com/artist/0ohCDowh0UVXpybpH34WQe) | [Je te laisserai des mots \(Piano\)](https://open.spotify.com/album/5c7fPel6XcJpiaMOg11aFS) | 2:02 |
+| 9 | [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 |
+| 10 | [biting bullets](https://open.spotify.com/track/4hYS8vHVaCOK2TCIswCWHX) | [ridgeclub](https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1) | [biting bullets](https://open.spotify.com/album/2s0E97PJAsApNJuDHwoXCP) | 2:29 |
+| 11 | [Champagne Coast \- Piano](https://open.spotify.com/track/1Ysj4X2y81kk74q0OMU98Q) | [Valentino Coleman](https://open.spotify.com/artist/5Xypfk554REYzztwPzO5RL) | [Champagne Coast \(Piano\)](https://open.spotify.com/album/08ygSSxmnk1TaU28lOAz29) | 1:40 |
 | 12 | [Camaraderie at arms length](https://open.spotify.com/track/3GspPTCvxLffApefWWhRFh) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [An empty bliss beyond this World](https://open.spotify.com/album/0VDB8LxXpOS8qQeiab3LqG) | 4:45 |
 | 13 | [Gymnopédie No\. 1](https://open.spotify.com/track/5OPT7l9b5SMwfTQgLPoNl7) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Philippe Entremont](https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO) | [Entremont Plays Satie](https://open.spotify.com/album/2Kye14Lc1A3aBrf4GxfwAf) | 3:25 |
 | 14 | [On a Mission](https://open.spotify.com/track/7JRdTSDQeAe7UGRmBAln24) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [III](https://open.spotify.com/album/6MgysPzNhSQlDl91cWqbw8) | 3:12 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 121 | [Open up](https://open.spotify.com/track/732AeYEiilADr0WSHFV9of) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 1:26 |
 | 122 | [Angelpoise](https://open.spotify.com/track/166zClVf5F2M9yX0etaDXR) | [Thatone](https://open.spotify.com/artist/4gYp1H6SThmNR4aMAYVOpM) | [Angelpoise](https://open.spotify.com/album/1y3ZtigWhu0CpWEAxNBD4v) | 3:12 |
 
-Snapshot ID: `AAAAANiQQRdRe+AMpjf5+ibSgwlbcTFL`
+Snapshot ID: `AAAAAJxfdduBzVzs+wrpqdPaXWAiDjcX`

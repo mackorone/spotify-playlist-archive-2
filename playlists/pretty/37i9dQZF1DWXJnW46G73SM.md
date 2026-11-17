@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > شجّع المنتَج المحلي\. الغلاف: ندى نادر
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,679 likes - 97 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,698 likes - 97 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [meen ana](https://open.spotify.com/track/5oCdNcYbYu8vFtaEBm2SDd) | [Nada Nader](https://open.spotify.com/artist/5LGQwjfTimjVhHHWCVP6Lz) | [3end nehayet elhelm](https://open.spotify.com/album/7ihfJ98bl0dCxsIwOyOr0I) | 2:36 |
 | 2 | [3ala Mahlak](https://open.spotify.com/track/6a6Ix8Nq6mVo4bXOGhk4cX) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [3ala Mahlak](https://open.spotify.com/album/6cNsgDgHCHPZQ5Li4tA1XC) | 3:08 |
 | 3 | [Ro7eelo / روحيله](https://open.spotify.com/track/5P51mHvljeTLA7HbWo4r9a) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw), [Kurro](https://open.spotify.com/artist/2JVl8pw8mhvFCwjbucRIV2) | [Ro7eelo / روحيله](https://open.spotify.com/album/3M4RMxDhiWTo7sJYC9MOTD) | 3:25 |
-| 4 | [MESH SAME3 \- مش سامع](https://open.spotify.com/track/1jGgbWTCRhtCiFGXSJjyjO) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP) | [MESH SAME3 \- مش سامع](https://open.spotify.com/album/6V1NjxxKNXhlFHuhvqSPU2) | 2:22 |
+| 4 | [MESH SAME3 \- مش سامع](https://open.spotify.com/track/1jGgbWTCRhtCiFGXSJjyjO) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP), [Shodzoo](https://open.spotify.com/artist/6aDqeSZwA4Pjsjfjp1b8CU) | [MESH SAME3 \- مش سامع](https://open.spotify.com/album/6V1NjxxKNXhlFHuhvqSPU2) | 2:22 |
 | 5 | [ZEKRA](https://open.spotify.com/track/32is7x8ALfhlgd04BUBbmV) | [Khaled Ali](https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1), [Ahmed Diaa](https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy) | [ZEKRA](https://open.spotify.com/album/1SNBCKKs6CNPi7P9LyUvUG) | 3:16 |
 | 6 | [باندورا](https://open.spotify.com/track/4Ia4qgihy9KAgvt9W3H8ke) | [Yulyo](https://open.spotify.com/artist/6EiHFsxnn99AATJ0bpLPK9) | [باندورا](https://open.spotify.com/album/1mAMrYu1t2olcnCPlmHbOt) | 2:33 |
 | 7 | [العالم غيرني](https://open.spotify.com/track/2FsGLhBCe91ENmpaDosGAv) | [JUNIOR](https://open.spotify.com/artist/4gS38VxzflJMo9yt0wrlfv) | [العالم غيرني](https://open.spotify.com/album/2m0vSw0gFkw0tiA35RY2Bo) | 3:34 |

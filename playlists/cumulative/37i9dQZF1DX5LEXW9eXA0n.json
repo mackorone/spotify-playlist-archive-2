@@ -25021,6 +25021,24 @@
     },
     {
       "album": {
+        "name": "Still, I Love You",
+        "url": "https://open.spotify.com/album/5r6OAnhx5Z74RGy6kyAmUm"
+      },
+      "artists": [
+        {
+          "name": "YOON JI HWAN",
+          "url": "https://open.spotify.com/artist/6zWAOib8XIaq1ttDw7u2j4"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247224,
+      "name": "Still, I Love You",
+      "url": "https://open.spotify.com/track/79uptta5BemfvgLIQ9Y2yR"
+    },
+    {
+      "album": {
         "name": "Stitch",
         "url": "https://open.spotify.com/album/49l21eblkkpfozaTjlpphW"
       },

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,846 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,849 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Why Not? \(feat\. Quavo & Loe Shimmy\)](https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [GMFU](https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp) | 2:49 |
 | 2 | [Party With The Boys](https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Party With The Boys](https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf) | 2:35 |
-| 3 | [DON PISTOLA](https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELMATIC](https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0) | 3:24 |
+| 3 | [DON PISTOLA](https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [HEELMATIC](https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0) | 3:24 |
 | 4 | [I LIKE IT \(feat\. Loe Shimmy\)](https://open.spotify.com/track/27OOVdqE1aZI6scIxeES0T) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [BETTER OVER TIME](https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA) | 2:03 |
 | 5 | [Currency](https://open.spotify.com/track/2nVP6HXSfFSD5ISwQmaQ8w) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [The Fork and Knife](https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc) | 3:37 |
 | 6 | [Love 4 Me](https://open.spotify.com/track/3WRG5hoYRu6NpOLC4pOBbd) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Unfuckwitable 2](https://open.spotify.com/album/2yjJbrMWRKoYUVLaMbQH7g) | 3:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,337 likes - 110 songs - 6 hr 30 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,338 likes - 121 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,5 +118,16 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 108 | [Ça nous ressemblait pas](https://open.spotify.com/track/2n7bL6Ccdq1OkOOAqwT8Ki) | [M3TIN](https://open.spotify.com/artist/5EsbNZGa7akRt7aPw3IFDw) | [Ça nous ressemblait pas](https://open.spotify.com/album/5I8ilEuS8n80UMdnamOfQg) | 4:00 |
 | 109 | [Petali](https://open.spotify.com/track/7edv8TCszqSqjkOxJEd2AC) | [Piede Sinistro](https://open.spotify.com/artist/4Hhfi2Z1ix6ZilrrwBDwZC) | [Petali](https://open.spotify.com/album/4piBiaskMrcGbkiWvpp0jL) | 6:40 |
 | 110 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 |
+| 111 | [Al otro lado del espejo](https://open.spotify.com/track/5dshwzapelVWq1c9RgI876) | [JuanMi Vallés](https://open.spotify.com/artist/6nnF1HYOyW61QHOY8OGDtn) | [Al otro lado del espejo](https://open.spotify.com/album/5VW4XBMKYv3mmPD10FhQ4n) | 5:02 |
+| 112 | [Cerdik](https://open.spotify.com/track/7D9I9YQr5ImxF5il6dR3v6) | [A\. Findra](https://open.spotify.com/artist/1jBPMgJc4jeHv7rz2GgurA) | [Cerdik](https://open.spotify.com/album/2e1TIGkwHWJ9b7tdKuiJNU) | 4:52 |
+| 113 | [Something Real](https://open.spotify.com/track/38gfJPnFAq36WxHQJzGlc3) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [GTA \(Growth, Trust & Affection\)](https://open.spotify.com/album/5AmotIpxQ42TDzWYj1IIMR) | 3:22 |
+| 114 | [Magdalene](https://open.spotify.com/track/4JNWR20A1jGAg8NI54qHp8) | [Urban Psalm](https://open.spotify.com/artist/5ljCY9HMtCo072z28PCuHK) | [Magdalene](https://open.spotify.com/album/28oH0GfFJYbhCvvJn6LcxQ) | 3:48 |
+| 115 | [Left Unsaid](https://open.spotify.com/track/7Ief8QkusJGyIlxzj3Kf8e) | [Sandy Malo](https://open.spotify.com/artist/3ZKaJVpBXEXiAyHm5nrCYG) | [Left Unsaid](https://open.spotify.com/album/6vDpk2yhPFF86LzZsjzeLb) | 3:17 |
+| 116 | [we fell in love in october](https://open.spotify.com/track/4dypby4Vd2fggpXJSRPdbx) | [REIVEN](https://open.spotify.com/artist/4Fwo4QvaDDRtYMMRX0oIVW) | [we fell in love in october](https://open.spotify.com/album/3fNXvKXbLLB0NJhbcGViWJ) | 3:08 |
+| 117 | [Snow](https://open.spotify.com/track/45sv67E4EKL5hcA2zrMujB) | [ZenBerry](https://open.spotify.com/artist/1Z42oEbFolbfSLs2sBHXzZ) | [Snow](https://open.spotify.com/album/2s9H1pccxcYjAY1e4lvPMq) | 3:32 |
+| 118 | [Πρώιμο](https://open.spotify.com/track/6TjJMOUyEIkbaonTLVhNuQ) | [Yorgos Elàson](https://open.spotify.com/artist/3AjfYrZ3fe4kbcPl5Ne3B1) | [Πρώιμο](https://open.spotify.com/album/1qXUj4BLLYqzBFr8gBKyyt) | 4:12 |
+| 119 | [Dans le noir](https://open.spotify.com/track/0fA5gZz5va2WQuZwL7eSTa) | [Ted Elemiah](https://open.spotify.com/artist/2oiaXAexlxP7mwR2AUGPMF) | [Dans le noir](https://open.spotify.com/album/4d74eRxCrxrk7naUe2ozRs) | 3:02 |
+| 120 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 |
+| 121 | [Baavra](https://open.spotify.com/track/6yUbQdKaqgbsDPh3G6gyDX) | [Samaksh](https://open.spotify.com/artist/1JvSsV27Zvlivwd0j6AtGn) | [Baavra](https://open.spotify.com/album/4ZJggP5hQ8NP22MqapAXig) | 5:30 |
 
-Snapshot ID: `AAAZtkvfi5n2uGfBJ9YBwHR5Eu90BAR3`
+Snapshot ID: `AAAZwUX71OaHfRFwsf86ZBtCagZj8e3T`

@@ -515,6 +515,28 @@
     },
     {
       "album": {
+        "name": "Aao Na",
+        "url": "https://open.spotify.com/album/7v4ZkkxzCraO5I0E6XAZsg"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282818,
+      "name": "Aao Na",
+      "url": "https://open.spotify.com/track/4Pm9I5aZhWNiCIfYAFL12n"
+    },
+    {
+      "album": {
         "name": "Aasmani",
         "url": "https://open.spotify.com/album/24HEKKPyHEu5fbcctSMBKN"
       },
@@ -530,6 +552,32 @@
       "duration_ms": 340835,
       "name": "Aao Na",
       "url": "https://open.spotify.com/track/3E5paqQcR3TyAhvVxdnWqo"
+    },
+    {
+      "album": {
+        "name": "Aao Ri Chirraiya (From \"Mysaa\")",
+        "url": "https://open.spotify.com/album/1r4C1eYeYeyvjVjTWK3WHj"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Neha Sandeep Shitole",
+          "url": "https://open.spotify.com/artist/0UJwlxklrskcLYszxg1EEb"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273030,
+      "name": "Aao Ri Chirraiya (From \"Mysaa\")",
+      "url": "https://open.spotify.com/track/5uTqLQK0Rci6B7ZXvGYuPB"
     },
     {
       "album": {
@@ -1874,7 +1922,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 249333,
       "name": "Awadhiya Ke Raja - From \"Nayyi Navelli\"",
       "url": "https://open.spotify.com/track/3IbXIJ3FWNIktylmvmtM6Z"
@@ -3553,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Bewafa",
+        "url": "https://open.spotify.com/album/2U0ueP4iJvqukyDbfvcS1W"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Bewafa",
+      "url": "https://open.spotify.com/track/7cGW8WJd0UurTXanpuAmfp"
+    },
+    {
+      "album": {
         "name": "Bewafa (From\"Ilzaam 2.0\")",
         "url": "https://open.spotify.com/album/73ahWMm2g5hpwYijQUPgg0"
       },
@@ -4022,7 +4088,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 163902,
       "name": "Bin Kasoor",
       "url": "https://open.spotify.com/track/5SYjJ36ILSAqqz4YD5c43j"
@@ -5064,7 +5130,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 217764,
       "name": "Chann (From \"Udta Teer\")",
       "url": "https://open.spotify.com/track/2oxJR1QaLRhLMDVZGhf2y2"
@@ -11980,7 +12046,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 387753,
       "name": "Jai Hind (From \"Maatrubhumi: May War Rest in Peace\")",
       "url": "https://open.spotify.com/track/7McPlwe5VNGQmVhfhvoYiq"
@@ -17074,7 +17140,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 164745,
       "name": "Mastiyaan",
       "url": "https://open.spotify.com/track/6xsx7YNjn1um2UHGMw9Yn7"
@@ -18094,6 +18160,28 @@
       "duration_ms": 224769,
       "name": "Mujhe Rok Lo",
       "url": "https://open.spotify.com/track/5q68Sjztv6bnxgbj9bwHll"
+    },
+    {
+      "album": {
+        "name": "Taara",
+        "url": "https://open.spotify.com/album/1uuQoHhkbq1qP1WOqSdgXn"
+      },
+      "artists": [
+        {
+          "name": "Romil Hoskere",
+          "url": "https://open.spotify.com/artist/1MEWj32B3K4sToK5Csnxjj"
+        },
+        {
+          "name": "Anwesha Sinha",
+          "url": "https://open.spotify.com/artist/6xmlbOu5Iuxz6Wew7fGst0"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Mulaqaat",
+      "url": "https://open.spotify.com/track/29HhCs6K5n4HA3aPyQNvJX"
     },
     {
       "album": {
@@ -19356,7 +19444,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 194171,
       "name": "O Re Sawariya (From \"Laagi Chhoote Na\")",
       "url": "https://open.spotify.com/track/6PhXG9hkBKkZ1zQQFJkt5l"
@@ -20361,6 +20449,36 @@
     },
     {
       "album": {
+        "name": "Campus Diaries - Season 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1mjLuwDsRojw60HOzDL2p5"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Arpit Mehta",
+          "url": "https://open.spotify.com/artist/6ows1S9jtvoxZKn570pcqD"
+        },
+        {
+          "name": "Simran Hora",
+          "url": "https://open.spotify.com/artist/6QzuF3b0JP9EW2gPItQjFv"
+        },
+        {
+          "name": "Abhishek Yadav",
+          "url": "https://open.spotify.com/artist/4d6cKkIYG9IamN3uzs1op8"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168463,
+      "name": "Pinjra (From \"Campus Diaries - Season 2\")",
+      "url": "https://open.spotify.com/track/3AFolmPIA8dZ0B3rpTV2WB"
+    },
+    {
+      "album": {
         "name": "Piya",
         "url": "https://open.spotify.com/album/14Uo1N2RTUkcdAiRXE7woa"
       },
@@ -20726,6 +20844,28 @@
       "duration_ms": 221021,
       "name": "Purane Din",
       "url": "https://open.spotify.com/track/3gqea65hpdOFJ4YFkUEKLb"
+    },
+    {
+      "album": {
+        "name": "Pyaar Hai",
+        "url": "https://open.spotify.com/album/3R9hmXYFlUffTfLwd3QfzP"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Khushi Pareek",
+          "url": "https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Pyaar Hai",
+      "url": "https://open.spotify.com/track/3vGX44imSXAzS6xHPUlYLa"
     },
     {
       "album": {
@@ -21665,6 +21805,28 @@
     },
     {
       "album": {
+        "name": "Ram Raja Bhi Hain Aur Tapasvi Bhi Hain (From \"Ramayana\")",
+        "url": "https://open.spotify.com/album/79IzakRT9J7bQOSdkghSLY"
+      },
+      "artists": [
+        {
+          "name": "Kumar Vishwas",
+          "url": "https://open.spotify.com/artist/2LjhQ08HU3jmWljGsf5Z0Y"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305034,
+      "name": "Ram Raja Bhi Hain Aur Tapasvi Bhi Hain (From \"Ramayana\")",
+      "url": "https://open.spotify.com/track/05QJM1RiQ4W4WWbpXfSVwp"
+    },
+    {
+      "album": {
         "name": "Rang",
         "url": "https://open.spotify.com/album/7pdUkV9d3V07MlUUzTjpKa"
       },
@@ -22264,7 +22426,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 164705,
       "name": "RUDE",
       "url": "https://open.spotify.com/track/1myezJ7Cty6YVRPa96penu"
@@ -22948,7 +23110,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 225976,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/6oT2z7fLePSR3kwQ2PEMyr"
@@ -24789,6 +24951,24 @@
     },
     {
       "album": {
+        "name": "Taara",
+        "url": "https://open.spotify.com/album/1uuQoHhkbq1qP1WOqSdgXn"
+      },
+      "artists": [
+        {
+          "name": "Romil Hoskere",
+          "url": "https://open.spotify.com/artist/1MEWj32B3K4sToK5Csnxjj"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227132,
+      "name": "Taara",
+      "url": "https://open.spotify.com/track/71WxzyyZ8io4D4cgenBhMv"
+    },
+    {
+      "album": {
         "name": "Taare",
         "url": "https://open.spotify.com/album/5q2sil8JDxEPVhjF79hMo3"
       },
@@ -26030,6 +26210,28 @@
       "duration_ms": 287073,
       "name": "Teri Adaa (Sar-e-Shaam - Mehfilz with Papon) (From The Living Room)",
       "url": "https://open.spotify.com/track/3yp8vscdlRw20aCTMHEUO2"
+    },
+    {
+      "album": {
+        "name": "Teri Akhiyaan",
+        "url": "https://open.spotify.com/album/0jCfwh0piFGuykcUnx5igQ"
+      },
+      "artists": [
+        {
+          "name": "Mohshin Raza",
+          "url": "https://open.spotify.com/artist/2GPmBEKL2DzmsM7yiOwyZc"
+        },
+        {
+          "name": "Dj AYnik",
+          "url": "https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150223,
+      "name": "Teri Akhiyaan",
+      "url": "https://open.spotify.com/track/2C4Qg0ePCtamX73osyfwmJ"
     },
     {
       "album": {
@@ -27822,7 +28024,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 157043,
       "name": "Tum Se Tum Tak",
       "url": "https://open.spotify.com/track/4uAQEXmgvtEDKQgeyYrlUd"

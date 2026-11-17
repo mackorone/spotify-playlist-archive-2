@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 801 songs - 2 day 3 hr 50 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 801 songs - 2 day 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -806,8 +806,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 796 | [Begin Now!](https://open.spotify.com/track/0j7HViAeH0Z1tMk5SDYaXw) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [The Same Place](https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat) | 2:15 |
 | 797 | [Alyse](https://open.spotify.com/track/2D2ForDZ3hTmpvVawDDjxX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:51 |
 | 798 | [Magical Dream](https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Ninety](https://open.spotify.com/album/46z1u29jqg6fZA6mAO2E8Y) | 3:52 |
-| 799 | [Swedish Death Cleaning](https://open.spotify.com/track/3Fkh5lCPxZ0n7ojKApo7Zv) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Trouble Mountain](https://open.spotify.com/album/0Fta5KudJiX6HpDWApUu8y) | 2:19 |
-| 800 | [Candy Shoppe](https://open.spotify.com/track/3arqQGuSd3iOva7BH6jLqm) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Does It Look Like I'm Here?](https://open.spotify.com/album/69mR7YiwQTw7nvlFKBOp7Y) | 4:43 |
-| 801 | [Paraguaya](https://open.spotify.com/track/6BFpuCx0Hq9ZK2bZmo7l8v) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Halo](https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL) | 3:43 |
+| 799 | [Candy Shoppe](https://open.spotify.com/track/3arqQGuSd3iOva7BH6jLqm) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Does It Look Like I'm Here?](https://open.spotify.com/album/69mR7YiwQTw7nvlFKBOp7Y) | 4:43 |
+| 800 | [Terrified .](https://open.spotify.com/track/2sfq2lv27cmsH4XvXAsiZp) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Terrified .](https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ) | 1:31 |
+| 801 | [Travels Broaden the Mind](https://open.spotify.com/track/4rjszJJHKOs7cZErfG8x31) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V), [Kasai Allstars](https://open.spotify.com/artist/391GEzsFayFVG5aGEBkrtq) | [Tradi\-Mods Vs Rockers \(Alternative Takes on Congotronics\) \[Vol\. 1\]](https://open.spotify.com/album/1Knr1iRIoV572fSJqkMltN) | 3:19 |
 
-Snapshot ID: `AAAJ9KoefKqHdJaA/Nh+q68q09ko3axt`
+Snapshot ID: `AAAJ+F5sNeRazMhgmdBNX4wenqcz/n6w`

@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-188 songs - 10 hr 44 min
+189 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Next Level](https://open.spotify.com/track/39y9vvZsd4I3elEkKhbM0S) | [CESAR ART](https://open.spotify.com/artist/2KHwAkBQ5KXlRmZ05iL5wR), [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Next Level](https://open.spotify.com/album/1SpbVuKOPPWfiJFriqC5u2) | 6:41 | 2025-12-18 |  |
 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 | 2024-02-24 | 2024-10-30 |
 | [Nouveau Riche](https://open.spotify.com/track/2VcyehrwqaIcLx1Urq7HFs) | [DAK](https://open.spotify.com/artist/0ijMujujEFjjkBPJcCtI9u) | [Nouveau Riche](https://open.spotify.com/album/30z0Kw1N8iRCGyh44wgs3o) | 3:13 | 2024-02-24 | 2025-06-21 |
-| [Nsit Noum](https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 2:53 | 2024-11-07 |  |
+| [Nsit Noum](https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 2:53 | 2024-11-07 | 2026-11-17 |
 | [Ntir B3id](https://open.spotify.com/track/5LxeJ3R89aHSDzRBIwfUtE) | [DefAtiJam](https://open.spotify.com/artist/404Fvjzc9WqsFnsYmIznPn) | [Ntir B3id](https://open.spotify.com/album/2YnfqCqmIYoIpfkYQRez3g) | 3:10 | 2025-12-18 | 2026-01-15 |
 | [OKHTOOBOOT](https://open.spotify.com/track/1bcrgO5rwQXotNG8jopDNJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 2:53 | 2026-01-15 |  |
 | [OLA MAMACITA](https://open.spotify.com/track/177S2XhyAhcxsk3hakffJN) | [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N), [$MXTI](https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO) | [OLA MAMACITA](https://open.spotify.com/album/5HaMYk2wii197932giANzQ) | 2:17 | 2026-07-16 | 2026-08-07 |
@@ -178,6 +178,7 @@
 | [Tfadhel](https://open.spotify.com/track/7EBgYjGG0ZXOZh3PraqIhj) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Tfadhel](https://open.spotify.com/album/7iQs5yLhszxjg5SItzjqGu) | 3:12 | 2025-03-12 |  |
 | [THANNA](https://open.spotify.com/track/6ByC9ct1jz0yUnqWa4SRdz) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:58 | 2025-03-12 |  |
 | [Ti Amo](https://open.spotify.com/track/7a2d5nTzGM6SfQwMk6lzM3) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Ti Amo](https://open.spotify.com/album/0fNoucZFlVIsQhJiZYsL1p) | 3:00 | 2024-05-29 | 2025-10-20 |
+| [TOUS LES SOIRS](https://open.spotify.com/track/08DeS2FykJWSCkHWAjlzBW) | [CBA CHAHINE](https://open.spotify.com/artist/633tTIqeVZQY1qwF7g2ea9) | [TOUS LES SOIRS](https://open.spotify.com/album/5DS2Ca4k3tvLiKODCzJG0E) | 3:40 | 2026-11-16 |  |
 | [True Story](https://open.spotify.com/track/3QBl9rRztpkwjve94I72NE) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [True Story](https://open.spotify.com/album/6G5UR76sE94A126vA5cj22) | 3:06 | 2025-02-07 | 2025-02-18 |
 | [Vision](https://open.spotify.com/track/6lv8cTrryrBTXlI8ur5cBS) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Vision](https://open.spotify.com/album/6iWH0XxDrU4ByDuguQXYIU) | 2:44 | 2025-02-01 |  |
 | [Wahda x2](https://open.spotify.com/track/5vZXSl3qJro0cieaZ0xFYt) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Wahda x2](https://open.spotify.com/album/4xGvwM9WS9Fp8UjQHJ8lue) | 3:27 | 2024-02-24 | 2025-02-18 |

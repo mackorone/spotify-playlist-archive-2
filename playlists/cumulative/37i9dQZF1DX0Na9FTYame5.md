@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Mucco
 
-426 songs - 19 hr 15 min
+427 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [2k16 \(weisst du noch?\)](https://open.spotify.com/track/2ZZslwE85qLLvtZWODRcVD) | [CAMO23](https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C), [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs) | [2k16 \(weisst du noch?\)](https://open.spotify.com/album/6hLoNsUVECPm8QadaRfwpm) | 2:00 | 2026-01-23 | 2026-02-16 |
 | [2x](https://open.spotify.com/track/6gY7aUuZ2vcWEB8ZLrrLrX) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs) | [2x](https://open.spotify.com/album/26k2itHEXCVgUnO38aFbz1) | 1:41 | 2026-06-11 | 2026-07-27 |
 | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS) | 2:46 | 2024-06-28 |  |
+| [365](https://open.spotify.com/track/2puYoLAcArVFbFUceFYlYX) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [365](https://open.spotify.com/album/3JCoyTgwaB67uFXXDZKiDD) | 2:05 | 2026-11-16 |  |
 | [4:30](https://open.spotify.com/track/2jzNTyPpenfoZ6qeQzhn9d) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [4:30](https://open.spotify.com/album/1LWzvRKoiXyUAzmbA9IUQy) | 2:50 | 2025-12-19 | 2026-01-31 |
 | [6 Kugeln](https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [6 Kugeln](https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T) | 3:04 | 2025-08-28 |  |
 | [6 Minuten](https://open.spotify.com/track/2yCA2pTaO6RaU8r9o8CpnI) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Alice Stark](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [6 Minuten](https://open.spotify.com/album/28KN9ZvJ3YMKhMKqht0wZ0) | 2:54 | 2024-06-28 |  |
@@ -291,7 +292,7 @@
 | [Nur die Nacht](https://open.spotify.com/track/3tnjLb6fuGMX8TupeAZUFp) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Nur die Nacht](https://open.spotify.com/album/3RCctNgHRIN53VyRkOrLeV) | 3:07 | 2025-02-03 | 2025-10-17 |
 | [Nur Du](https://open.spotify.com/track/4O8cfDg1j2N0RnHkePORhM) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Nur Du](https://open.spotify.com/album/4oFnxFvcUhYzJCz2pQkvDk) | 2:16 | 2025-05-15 | 2025-11-14 |
 | [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 | 2024-06-28 | 2025-08-18 |
-| [nur für dich](https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [nur für dich](https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT) | 2:27 | 2026-04-30 |  |
+| [nur für dich](https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [nur für dich](https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT) | 2:27 | 2026-04-30 | 2026-11-17 |
 | [Nur Mailbox](https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Nur Mailbox](https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU) | 2:36 | 2026-02-12 |  |
 | [Ohne Dach](https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [PECH](https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK) | 2:19 | 2026-04-30 | 2026-08-10 |
 | [Ohne dich](https://open.spotify.com/track/3b3Dj7FMFkqUQLSxKjixkS) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Ohne dich](https://open.spotify.com/album/0pUX6myx7NWjdx2j7hgvs2) | 2:17 | 2025-04-17 | 2025-07-06 |

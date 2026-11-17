@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-213 songs - 16 hr 20 min
+216 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Hanggang Ngayon, Hanggang Dito](https://open.spotify.com/track/5zrtiQ9t4lPRh8ux3yBHMn) | [Fratres!](https://open.spotify.com/artist/6v366y0jK7nbUnAKIPuR4u), [Santisimo Rosario Parish Youth Choir](https://open.spotify.com/artist/0zLfF1XrH8J4IMt7SLzHGE) | [Hanggang Ngayon, Hanggang Dito](https://open.spotify.com/album/5VpMU6ypFMoxj4l4kQB03s) | 3:58 | 2024-10-24 |  |
 | [Have All Of Me \- Live](https://open.spotify.com/track/5dPe8ahss4C7NvjP1iiXOI) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Wonderstruck](https://open.spotify.com/album/6KfDaZrJx94lkY1mBgxXmH) | 7:56 | 2024-03-19 |  |
 | [Here](https://open.spotify.com/track/4kMA31fDbWXxbIO7A5Zd13) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Together – EP](https://open.spotify.com/album/54CX7lXUMplryuXFTCjkbM) | 5:46 | 2022-04-15 |  |
+| [Hesus Sa Ngalan Mo \- Radio Version \(Jesus Be The Name Tagalog Radio Version\)](https://open.spotify.com/track/3144sdBL5vvSiC8IZPV26y) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Tagalog Version Worship Volume 04](https://open.spotify.com/album/7keqZVPnc59Vh1F7mymg9A) | 3:43 | 2026-11-16 |  |
 | [Holy](https://open.spotify.com/track/295zxNbaRxYp7cKmFEdwqG) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2) | [Soul Talk](https://open.spotify.com/album/4UxkhShMYwiB0klDme6XD5) | 2:59 | 2024-03-19 | 2024-04-19 |
 | [Holy](https://open.spotify.com/track/56W2qptuhftndvAooq7vuE) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2) | [Holy](https://open.spotify.com/album/2Ga8mVx2VZc3gxiYKSbMkn) | 2:59 | 2024-03-19 | 2024-04-01 |
 | [Holy](https://open.spotify.com/track/3brUbKvNipUN7T6Nl8Wbbj) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2) | [Holy](https://open.spotify.com/album/6TJwvt9HrcnOLQXx8OOq7X) | 3:00 | 2024-03-19 |  |
@@ -178,6 +179,7 @@
 | [Song of Freedom](https://open.spotify.com/track/3KuxuZqks50WAxMivImeBq) | [Mansville Worship](https://open.spotify.com/artist/0QEPHzdypXwFJStRnhHau0), [Ann Castro](https://open.spotify.com/artist/72DpgjafpMYZ3Wu1FYMPYE) | [Song of Freedom](https://open.spotify.com/album/1XPhZB0bje8woprQRWUcU0) | 4:25 | 2022-04-15 |  |
 | [Stronger](https://open.spotify.com/track/2I0Dvi7ujFSb7kirlAG5mF) | [Hope Music PH](https://open.spotify.com/artist/6O01ivbiwFip0rVDBubs3B) | [Stronger](https://open.spotify.com/album/2pAe1NvEYYCXlQanspdD17) | 5:10 | 2024-03-19 |  |
 | [SUMASALANGIT](https://open.spotify.com/track/5SUO3VivayfBeZ4lxOFtBJ) | [Judah Vibar](https://open.spotify.com/artist/027cRwJWoGBJ54pT7yMZ9Q) | [SUMASALANGIT](https://open.spotify.com/album/0gbnXnnrDu85LXuMZcXp5o) | 5:27 | 2023-03-31 |  |
+| [Sweeter Than Honey](https://open.spotify.com/track/2pQkWXWIfAvr4YhpFuSDP2) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Sweeter Than Honey](https://open.spotify.com/album/29bFmjxqjJXl9IcA1W9N7w) | 2:33 | 2026-11-16 |  |
 | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD) | 2:56 | 2024-03-19 | 2024-10-25 |
 | [The Good God](https://open.spotify.com/track/13yRKcO7grILliLJxcGqDb) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [The Good God](https://open.spotify.com/album/2NT0QHJDsW8lupjeCBluL6) | 4:32 | 2022-04-15 |  |
 | [The Good God](https://open.spotify.com/track/5W2lmvNODzxh8HWKIKGuWt) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [The Good God](https://open.spotify.com/album/7BLeAdJsjIz2aRiM3jLvch) | 4:32 | 2023-05-05 | 2024-04-19 |
@@ -216,6 +218,7 @@
 | [Why So Restless](https://open.spotify.com/track/19Iong3AVfJecoZzwgIpgB) | [Living Hope](https://open.spotify.com/artist/3G8NoFvD2M9zGEZFq3EfV3) | [There Is More](https://open.spotify.com/album/0xOWA1rEotFtNPxlj8RDiR) | 4:56 | 2024-03-19 | 2024-10-25 |
 | [Wonderstruck](https://open.spotify.com/track/66kjME9bCPZyk8mL6cgEys) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Wonderstruck](https://open.spotify.com/album/0CpE0Qa69lByhqnOSYHsC0) | 4:38 | 2023-03-29 | 2024-10-25 |
 | [YAHWEH TANGGULAN](https://open.spotify.com/track/12FR83IoY0xRRrR55GjFvM) | [Dana Algabre](https://open.spotify.com/artist/7EYaEnqT2sCKWRwB18KIAi) | [YAHWEH TANGGULAN](https://open.spotify.com/album/0qQCr9DmiDfDiksWhZNGKE) | 5:24 | 2024-03-19 |  |
+| [Yakap](https://open.spotify.com/track/6qUiZa7WPecQlP9z4qDLxC) | [Fred Engay](https://open.spotify.com/artist/007MmXwT1HwcXwuyROgNJb) | [Yakap](https://open.spotify.com/album/5uvWzZKx71c8xXPtLn2nNT) | 4:13 | 2026-11-16 |  |
 | [yet \(don't give up\)](https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq) | [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [yet \(don't give up\)](https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft) | 5:02 | 2024-03-19 |  |
 | [You Are Good](https://open.spotify.com/track/3Sm9RiZX3E5ENZNqMuhE2q) | [Biyaya at Papuri](https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS) | [You Are Good](https://open.spotify.com/album/4F0528pvPbAsCswccCm57R) | 5:11 | 2022-04-15 |  |
 | [You Are Good](https://open.spotify.com/track/3e09OboYspPxZ4OOrAUXss) | [Living Hope](https://open.spotify.com/artist/3G8NoFvD2M9zGEZFq3EfV3) | [There Is More](https://open.spotify.com/album/0xOWA1rEotFtNPxlj8RDiR) | 4:48 | 2024-03-19 |  |

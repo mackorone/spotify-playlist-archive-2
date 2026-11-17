@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22338,
+  "num_followers": 22342,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -73,22 +73,6 @@
       "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
     },
     {
-      "added_at": "2025-06-06 00:01:27",
-      "album": {
-        "name": "Counting My Blessings",
-        "url": "https://open.spotify.com/album/5GJhEpZBXUSYQLgok38ZEK"
-      },
-      "artists": [
-        {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        }
-      ],
-      "duration_ms": 210464,
-      "name": "Counting My Blessings",
-      "url": "https://open.spotify.com/track/73VCobZbLNTAwCxKKBtztO"
-    },
-    {
       "added_at": "2025-12-12 00:01:22",
       "album": {
         "name": "Good God",
@@ -107,6 +91,22 @@
       "duration_ms": 889180,
       "name": "Good God",
       "url": "https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq"
+    },
+    {
+      "added_at": "2025-06-06 00:01:27",
+      "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/5GJhEpZBXUSYQLgok38ZEK"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "duration_ms": 210464,
+      "name": "Counting My Blessings",
+      "url": "https://open.spotify.com/track/73VCobZbLNTAwCxKKBtztO"
     },
     {
       "added_at": "2025-06-06 00:01:27",
@@ -785,6 +785,26 @@
       "url": "https://open.spotify.com/track/1eQcRsCGoDTiRmTLPzPbae"
     },
     {
+      "added_at": "2026-11-06 00:02:01",
+      "album": {
+        "name": "Super Power",
+        "url": "https://open.spotify.com/album/6UHntVvDLLfbBcDDPT87qU"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "duration_ms": 167045,
+      "name": "Super Power",
+      "url": "https://open.spotify.com/track/1qiAIdLOqqKQ6INFbJnNim"
+    },
+    {
       "added_at": "2026-08-07 00:01:10",
       "album": {
         "name": "Many",
@@ -815,26 +835,6 @@
       "duration_ms": 258741,
       "name": "Ogbon Mi O Gbe",
       "url": "https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt"
-    },
-    {
-      "added_at": "2026-11-06 00:02:01",
-      "album": {
-        "name": "Super Power",
-        "url": "https://open.spotify.com/album/6UHntVvDLLfbBcDDPT87qU"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Banky W.",
-          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
-        }
-      ],
-      "duration_ms": 167045,
-      "name": "Super Power",
-      "url": "https://open.spotify.com/track/1qiAIdLOqqKQ6INFbJnNim"
     },
     {
       "added_at": "2026-07-31 00:01:30",
@@ -873,20 +873,20 @@
       "url": "https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck"
     },
     {
-      "added_at": "2026-05-22 00:01:37",
+      "added_at": "2026-08-21 00:01:32",
       "album": {
-        "name": "Want to Grow",
-        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
+        "name": "Reign Jesus",
+        "url": "https://open.spotify.com/album/4vsstCcMsyok7uakh0qBs1"
       },
       "artists": [
         {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+          "name": "Evans Ighodalo",
+          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
         }
       ],
-      "duration_ms": 189557,
-      "name": "Want to Grow",
-      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
+      "duration_ms": 186318,
+      "name": "Reign Jesus",
+      "url": "https://open.spotify.com/track/4QHPE3bbVO88z8hVlezd0f"
     },
     {
       "added_at": "2026-07-17 00:01:08",
@@ -905,20 +905,20 @@
       "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
     },
     {
-      "added_at": "2026-08-21 00:01:32",
+      "added_at": "2026-05-22 00:01:37",
       "album": {
-        "name": "Reign Jesus",
-        "url": "https://open.spotify.com/album/4vsstCcMsyok7uakh0qBs1"
+        "name": "Want to Grow",
+        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
       },
       "artists": [
         {
-          "name": "Evans Ighodalo",
-          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
         }
       ],
-      "duration_ms": 186318,
-      "name": "Reign Jesus",
-      "url": "https://open.spotify.com/track/4QHPE3bbVO88z8hVlezd0f"
+      "duration_ms": 189557,
+      "name": "Want to Grow",
+      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
       "added_at": "2026-01-23 00:01:16",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/1GypIZsEmGFqTbmUzkoEf4"
     },
     {
-      "added_at": "2026-08-14 00:01:28",
-      "album": {
-        "name": "God Is Cooking",
-        "url": "https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Oruko",
-      "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
-    },
-    {
       "added_at": "2026-10-30 00:01:06",
       "album": {
         "name": "God's Got Me",
@@ -1027,6 +1011,22 @@
       "duration_ms": 186428,
       "name": "God's Got Me",
       "url": "https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY"
+    },
+    {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "God Is Cooking",
+        "url": "https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Oruko",
+      "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
     },
     {
       "added_at": "2026-05-01 00:02:08",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
     },
     {
-      "added_at": "2026-08-14 00:01:28",
-      "album": {
-        "name": "Eze Mo (Live)",
-        "url": "https://open.spotify.com/album/0odnu4b4TXbJbUaEmD3yjX"
-      },
-      "artists": [
-        {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
-        }
-      ],
-      "duration_ms": 530000,
-      "name": "Eze Mo (Live)",
-      "url": "https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D"
-    },
-    {
       "added_at": "2026-05-22 00:01:37",
       "album": {
         "name": "ABBA FATHER (raw)",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2026-08-14 00:01:28",
       "album": {
+        "name": "Eze Mo (Live)",
+        "url": "https://open.spotify.com/album/0odnu4b4TXbJbUaEmD3yjX"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "duration_ms": 530000,
+      "name": "Eze Mo (Live)",
+      "url": "https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D"
+    },
+    {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 442538,
       "name": "My Story",
       "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
+    },
+    {
+      "added_at": "2026-11-06 00:02:01",
+      "album": {
+        "name": "Time And Time Again",
+        "url": "https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Time And Time Again",
+      "url": "https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE"
     },
     {
       "added_at": "2025-12-05 00:01:10",
@@ -1193,22 +1209,6 @@
       "url": "https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33"
     },
     {
-      "added_at": "2026-11-06 00:02:01",
-      "album": {
-        "name": "Time And Time Again",
-        "url": "https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Time And Time Again",
-      "url": "https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE"
-    },
-    {
       "added_at": "2026-07-10 00:01:15",
       "album": {
         "name": "K'OSENI",
@@ -1249,26 +1249,6 @@
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
     },
     {
-      "added_at": "2026-07-17 00:01:08",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/1DuFxJroz9nlmVRxqVoAmw"
-      },
-      "artists": [
-        {
-          "name": "Younggod Supreme",
-          "url": "https://open.spotify.com/artist/0pg7CWNeRHMdplKLwlKD31"
-        },
-        {
-          "name": "Kelar Thrillz",
-          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
-        }
-      ],
-      "duration_ms": 196271,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
-    },
-    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Ifunanya",
@@ -1287,6 +1267,26 @@
       "duration_ms": 314013,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
+    },
+    {
+      "added_at": "2026-07-17 00:01:08",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/1DuFxJroz9nlmVRxqVoAmw"
+      },
+      "artists": [
+        {
+          "name": "Younggod Supreme",
+          "url": "https://open.spotify.com/artist/0pg7CWNeRHMdplKLwlKD31"
+        },
+        {
+          "name": "Kelar Thrillz",
+          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
+        }
+      ],
+      "duration_ms": 196271,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
     },
     {
       "added_at": "2026-06-26 00:01:41",
@@ -1381,24 +1381,20 @@
       "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
     },
     {
-      "added_at": "2026-10-09 00:01:36",
+      "added_at": "2026-11-13 00:01:42",
       "album": {
-        "name": "Tinotenda",
-        "url": "https://open.spotify.com/album/20woI0LvjJaZPMq2EX1I8P"
+        "name": "Ego Ole (Live)",
+        "url": "https://open.spotify.com/album/1lWEQZSMeiE4dFvpUE6NNZ"
       },
       "artists": [
         {
-          "name": "Joseph Briggs",
-          "url": "https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP"
-        },
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
         }
       ],
-      "duration_ms": 190865,
-      "name": "Tinotenda",
-      "url": "https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM"
+      "duration_ms": 537464,
+      "name": "Ego Ole",
+      "url": "https://open.spotify.com/track/0gPmTJ0QcBRa2aGO4jzsAm"
     },
     {
       "added_at": "2026-11-06 00:02:01",
@@ -1421,6 +1417,58 @@
       "url": "https://open.spotify.com/track/4oRAFhEZxc9j3uXjTxkgJC"
     },
     {
+      "added_at": "2026-10-09 00:01:36",
+      "album": {
+        "name": "Tinotenda",
+        "url": "https://open.spotify.com/album/20woI0LvjJaZPMq2EX1I8P"
+      },
+      "artists": [
+        {
+          "name": "Joseph Briggs",
+          "url": "https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 190865,
+      "name": "Tinotenda",
+      "url": "https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM"
+    },
+    {
+      "added_at": "2026-03-27 00:01:13",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6"
+      },
+      "artists": [
+        {
+          "name": "Oge Stan",
+          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
+        }
+      ],
+      "duration_ms": 271699,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
+    },
+    {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "The Address",
+        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "duration_ms": 223966,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
+    },
+    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "DO",
@@ -1439,22 +1487,6 @@
       "duration_ms": 145531,
       "name": "DO",
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
-    },
-    {
-      "added_at": "2026-08-14 00:01:28",
-      "album": {
-        "name": "The Address",
-        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
-      },
-      "artists": [
-        {
-          "name": "Chris Morgan",
-          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
-        }
-      ],
-      "duration_ms": 223966,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
     },
     {
       "added_at": "2026-10-09 00:01:36",
@@ -1477,22 +1509,6 @@
       "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
     },
     {
-      "added_at": "2026-03-27 00:01:13",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6"
-      },
-      "artists": [
-        {
-          "name": "Oge Stan",
-          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
-        }
-      ],
-      "duration_ms": 271699,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "Ifeoma",
@@ -1513,40 +1529,24 @@
       "url": "https://open.spotify.com/track/2A8SuOIgP42ZeJbw3lyUj1"
     },
     {
-      "added_at": "2026-09-18 00:01:36",
+      "added_at": "2026-10-30 00:01:06",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0sivoWhfoOZLiXQwqZKPLR"
+        "name": "Those Who Belong (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/7kuEekKDBcoPYKoBI1ChtW"
       },
       "artists": [
         {
-          "name": "Awinnah",
-          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
-        }
-      ],
-      "duration_ms": 164696,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7AAVNwpxVjSysgKs0St8bX"
-    },
-    {
-      "added_at": "2026-02-20 00:01:25",
-      "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm"
-      },
-      "artists": [
-        {
-          "name": "Yinka Okeleye",
-          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
         },
         {
-          "name": "Olamiji Rasheed",
-          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
         }
       ],
-      "duration_ms": 381970,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
+      "duration_ms": 1023500,
+      "name": "Those Who Belong (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/4tK6DZ79o9u2jz6UcsmymR"
     }
   ],
   "unique_name": "Blessed",

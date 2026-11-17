@@ -3313,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Ego Ole (Live)",
+        "url": "https://open.spotify.com/album/1lWEQZSMeiE4dFvpUE6NNZ"
+      },
+      "artists": [
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537464,
+      "name": "Ego Ole",
+      "url": "https://open.spotify.com/track/0gPmTJ0QcBRa2aGO4jzsAm"
+    },
+    {
+      "album": {
         "name": "Ekwueme to the World Project",
         "url": "https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ"
       },
@@ -10640,7 +10658,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 164696,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7AAVNwpxVjSysgKs0St8bX"
@@ -12900,7 +12918,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 1023500,
       "name": "Those Who Belong (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/4tK6DZ79o9u2jz6UcsmymR"
@@ -14208,7 +14226,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 381970,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"

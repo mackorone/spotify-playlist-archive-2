@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Suena",
-  "num_followers": 51874,
+  "num_followers": 51872,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-11-10 23:00:18",
       "album": {
-        "name": "GL\u00dcCKLICH",
-        "url": "https://open.spotify.com/album/1nsEHWrwiV7CU59OYAKtyi"
-      },
-      "artists": [
-        {
-          "name": "CARLI",
-          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
-        }
-      ],
-      "duration_ms": 127173,
-      "name": "GL\u00dcCKLICH",
-      "url": "https://open.spotify.com/track/1btpQH1Drooqqmn2fZpvQ7"
-    },
-    {
-      "added_at": "2026-11-10 23:00:18",
-      "album": {
         "name": "Somebody Like You",
         "url": "https://open.spotify.com/album/0krzNT0R7oicchWQZotbvq"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 152704,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/3bs4l5CqCmFnSTZsicJHSX"
+    },
+    {
+      "added_at": "2026-11-10 23:00:18",
+      "album": {
+        "name": "GL\u00dcCKLICH",
+        "url": "https://open.spotify.com/album/1nsEHWrwiV7CU59OYAKtyi"
+      },
+      "artists": [
+        {
+          "name": "CARLI",
+          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
+        }
+      ],
+      "duration_ms": 127173,
+      "name": "GL\u00dcCKLICH",
+      "url": "https://open.spotify.com/track/1btpQH1Drooqqmn2fZpvQ7"
     },
     {
       "added_at": "2026-11-10 23:00:18",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-11-10 23:00:18",
       "album": {
-        "name": "Twisted Heart",
-        "url": "https://open.spotify.com/album/2Wr9U1QGmFWz4oa4MbYAo2"
+        "name": "Goodwife",
+        "url": "https://open.spotify.com/album/35e4s1PKAh8iwiRWmqg978"
       },
       "artists": [
         {
-          "name": "Blush Davis",
-          "url": "https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE"
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
         }
       ],
-      "duration_ms": 200226,
-      "name": "Twisted Heart",
-      "url": "https://open.spotify.com/track/0XBZOhS88pujsPJX1NfDEE"
+      "duration_ms": 250360,
+      "name": "Goodwife",
+      "url": "https://open.spotify.com/track/7eWj1RD9as5EZjjevoxSXg"
     },
     {
       "added_at": "2026-11-10 23:00:18",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-11-10 23:00:18",
       "album": {
-        "name": "Goodwife",
-        "url": "https://open.spotify.com/album/35e4s1PKAh8iwiRWmqg978"
+        "name": "Twisted Heart",
+        "url": "https://open.spotify.com/album/2Wr9U1QGmFWz4oa4MbYAo2"
       },
       "artists": [
         {
-          "name": "Friedberg",
-          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+          "name": "Blush Davis",
+          "url": "https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE"
         }
       ],
-      "duration_ms": 250360,
-      "name": "Goodwife",
-      "url": "https://open.spotify.com/track/7eWj1RD9as5EZjjevoxSXg"
+      "duration_ms": 200226,
+      "name": "Twisted Heart",
+      "url": "https://open.spotify.com/track/0XBZOhS88pujsPJX1NfDEE"
     },
     {
       "added_at": "2026-11-10 23:00:18",

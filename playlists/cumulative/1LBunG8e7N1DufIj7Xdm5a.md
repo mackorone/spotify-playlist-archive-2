@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,510 songs - 12 day 20 hr 13 min
+5,516 songs - 12 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [ANGEL & DEMON](https://open.spotify.com/track/3pIaj56RifnnWS14Lft6XV) | [IRONMICH](https://open.spotify.com/artist/3gKMnHwmuwaNLzmbAGvt7O) | [ANGEL & DEMON](https://open.spotify.com/album/0x6JTimZnPKRUjFL37PyCm) | 1:46 | 2025-06-20 |  |
 | [Angel o Demonio](https://open.spotify.com/track/2WB7oIzoI9eM9O9wSc32Gy) | [El Bardo](https://open.spotify.com/artist/6eljOiTOJ80xq0cTLxWHWO) | [Angel o Demonio](https://open.spotify.com/album/6f7jcF88aFAtdRsW5JbXND) | 3:52 | 2026-11-08 |  |
 | [Angeles del Cielo](https://open.spotify.com/track/6bukfUZ6IJhL9xJh5kmUf7) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Angeles del Cielo](https://open.spotify.com/album/6h7ix4uWHMWmacVIezPbzq) | 5:41 | 2026-11-03 |  |
+| [ANGELICA E MEDORO](https://open.spotify.com/track/4K05C0HaeGbG0FAEPoQQIY) | [Omega Horizon](https://open.spotify.com/artist/1bqspJKjaQkVdVG5LD04QA) | [ANGELICA E MEDORO](https://open.spotify.com/album/4yCTOiGHi39v3gQ8AZnjQS) | 3:57 | 2026-11-16 |  |
 | [Angelita de mi Corazón](https://open.spotify.com/track/1B02C8zKZooIzlfCCBbADV) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Angelita de mi Corazón](https://open.spotify.com/album/782FxWdu9P8cKHv8zgVfI3) | 4:24 | 2026-11-03 |  |
 | [Angelita mi Amor](https://open.spotify.com/track/3OzUMPvbR4UczDX1oo1h2s) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Angelita mi Amor](https://open.spotify.com/album/4mDIw8WF8FC4wgyUf5BO9T) | 5:34 | 2026-11-03 |  |
 | [Angels Only Pick Sunflowers](https://open.spotify.com/track/5wn1mUP4JIQLLjm2HNZ5Fc) | [End Credits](https://open.spotify.com/artist/6oLfpsrrNYAlkCIhB6Qafs) | [Angels Only Pick Sunflowers](https://open.spotify.com/album/4jJ5ssQOVXd4RndCi140kA) | 3:37 | 2025-07-12 |  |
@@ -1149,6 +1150,7 @@
 | [Dead Oceans](https://open.spotify.com/track/24MJFUueNHVGnyTiCzKBx7) | [Ural Mountains](https://open.spotify.com/artist/2UfM6MW4B1ruqon7xmQwf3) | [Dead Oceans](https://open.spotify.com/album/2V5VrVlhZXp6WYOO6dSYSC) | 3:58 | 2025-01-29 |  |
 | [Deadly Addiction \#Music \#NewMusic \#Viral](https://open.spotify.com/track/1YMf8qAuhK3EJqor4xc9bS) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 2:47 | 2025-09-15 |  |
 | [Deadly Paradise](https://open.spotify.com/track/1vcrlldIQ36dZoZcXOnAf4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:18 | 2025-09-16 |  |
+| [Death by Hangin' \(World War II\)](https://open.spotify.com/track/7geLdlBvFZY2KuhmOiwuAM) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:01 | 2026-11-16 |  |
 | [Death To The Fleshless](https://open.spotify.com/track/6aD20EMBpgClg8icXxzBiD) | [Glitch Kill](https://open.spotify.com/artist/50oWkslmqWWcUrVxKOfL4m) | [Death To The Fleshless](https://open.spotify.com/album/3QwkBQWWndUuBo6GoctMVA) | 4:37 | 2026-07-16 |  |
 | [Decay for silence](https://open.spotify.com/track/0fCmyg0l2VDo57tCzzjCiH) | [アニングスドラゴン](https://open.spotify.com/artist/0nbrD5mGsTeWQFyXKBSx3r) | [約束の地](https://open.spotify.com/album/5f7HkfplGdBOXjlCQlJDos) | 5:55 | 2026-08-03 |  |
 | [Decay of Era](https://open.spotify.com/track/6rFwkf3W1kJoo0yFbLu6E4) | [PostPunker](https://open.spotify.com/artist/0ZhbCxd91s0SK56JnAH6K8) | [Decay of Era](https://open.spotify.com/album/2F6bMFjnlnB5DHZSvmyDP0) | 3:27 | 2026-02-13 |  |
@@ -2173,6 +2175,7 @@
 | [Higher and Higher](https://open.spotify.com/track/7e0jPkeWTsHpEi5LSPp4PD) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Higher and Higher](https://open.spotify.com/album/5LeMrFCGY0wxDZUY5l6II0) | 4:01 | 2025-10-04 |  |
 | [Higher Ground](https://open.spotify.com/track/7Hdbt9S9QKJv7OpnHOJyjM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 2:32 | 2025-09-19 |  |
 | [Higher Ground \(another\)](https://open.spotify.com/track/1GKqt5QKXqyKio5oe9MOHr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 2:44 | 2025-09-19 |  |
+| [HIGHLAND ECHOES](https://open.spotify.com/track/4TcvJMDyD2zIhmsEBsZDNs) | [Omega Horizon](https://open.spotify.com/artist/1bqspJKjaQkVdVG5LD04QA) | [HIGHLAND ECHOES](https://open.spotify.com/album/5yXOGZzGVpgfLQNXIYarhr) | 3:21 | 2026-11-16 |  |
 | [Highway](https://open.spotify.com/track/3O8CRnWL0y9PM48HDOaWpf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:33 | 2025-09-17 |  |
 | [Highway](https://open.spotify.com/track/0N6o7WTDcs4XjCvrA61TZF) | [Delavega](https://open.spotify.com/artist/2rmgUqBejFXRd0tSwMVKqI) | [Highway](https://open.spotify.com/album/3U8LxSWOu2vMPjLjW96TgT) | 2:50 | 2025-06-12 |  |
 | [Highway \(another\)](https://open.spotify.com/track/4OcOh1GnHHfo4BFQyxYDZe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 4:44 | 2025-09-17 |  |
@@ -2355,12 +2358,14 @@
 | [In a Room](https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [In a Room](https://open.spotify.com/album/0hrL4GILIgeWKuFlmgY9me) | 3:46 | 2026-06-29 |  |
 | [In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF) | [smokedope2016](https://open.spotify.com/artist/3hGJ4nHdF99Vs0gQdXz5Nw) | [THE PEAK](https://open.spotify.com/album/41JwTf1V6YTn4adggC7sxN) | 2:21 | 2025-07-28 |  |
 | [In fondo al mondo](https://open.spotify.com/track/7vfDeck07Yq9N8fRqurXmx) | [Pietro Contenti \(Montecristo\)](https://open.spotify.com/artist/1hElnwNn7P1EbfblsN7SWA) | [In fondo al mondo](https://open.spotify.com/album/2zGdDkU1WRTy1pxrfiOGe5) | 3:05 | 2026-02-13 |  |
+| [IN MY LIFE \- Piano Version](https://open.spotify.com/track/5cMr4IjST242S6zQUSnkeo) | [Omega Horizon](https://open.spotify.com/artist/1bqspJKjaQkVdVG5LD04QA) | [IN MY LIFE \(Piano Version\)](https://open.spotify.com/album/4j5dIJqWxhkqE1fwGWxKFy) | 3:24 | 2026-11-16 |  |
 | [In ogni cosa di buono](https://open.spotify.com/track/54QzBeGwcSPQOJLS7gBlq9) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [In ogni cosa di buono](https://open.spotify.com/album/1lxihRPr7maVHUy9XlRR44) | 4:44 | 2026-08-28 |  |
 | [In punta di mani \(domani\)](https://open.spotify.com/track/721H7OLyVCXjcHov1XsEeY) | [Mannerdogs](https://open.spotify.com/artist/4YuMVFtgou6wWvx2dVEVj3) | [In punta di mani \(domani\)](https://open.spotify.com/album/1eC7il0qCMBFlmDuUujZdm) | 2:52 | 2025-03-16 |  |
 | [In the Air](https://open.spotify.com/track/0o51SFZkj5CAdCNg4qfFs3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:03 | 2025-09-17 |  |
 | [In the Air \(another\)](https://open.spotify.com/track/1Tsoup85qct2BxEM8cNg5X) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:44 | 2025-09-17 |  |
 | [In the grain](https://open.spotify.com/track/7GXy6iC4hzJuLa9G7HGUF3) | [The Sunday Static](https://open.spotify.com/artist/36ru1AAdGSsjN5Uzr3CrHd) | [Under the hiss](https://open.spotify.com/album/3ei3vWOjhGdACXB5GBFfh9) | 4:14 | 2026-07-07 |  |
 | [In the Great Stories](https://open.spotify.com/track/3LDTyBYEExmyYYLBcSjYaa) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:32 | 2025-12-10 |  |
+| [IN THE NAME OF LOVE \- Country Version](https://open.spotify.com/track/6yF7GUEKE5AVoDH9b7jdJd) | [Omega Vox](https://open.spotify.com/artist/5vLz5esl2pqzVt2LBB9eRh) | [IN THE NAME OF LOVE \(Country Version\)](https://open.spotify.com/album/4GP1CVNvALKHJeQIfumd71) | 2:37 | 2026-11-16 |  |
 | [In the rain](https://open.spotify.com/track/6wEdQ3tq7D7VbAX8qjc1yw) | [Flint Gun](https://open.spotify.com/artist/0nFSX6ZMek8s4Adewf1B3F) | [In the rain](https://open.spotify.com/album/0kMllBMTHHKlLa6AvswTwm) | 4:10 | 2025-10-15 |  |
 | [In the Shadows of My Mind](https://open.spotify.com/track/1GOxuHkx3MfygKtwbuUbsN) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [In the Shadows of My Mind](https://open.spotify.com/album/2Is6SvBaNoeQyfqoJob24m) | 2:50 | 2026-08-15 |  |
 | [In un mondo dopo il mondo](https://open.spotify.com/track/0T3v3wLYR85rDTWWI8GhOG) | [Massimo Volume](https://open.spotify.com/artist/24GE8PrrmxG6XocV1UQPmP) | [Cattive abitudini](https://open.spotify.com/album/24wUrxEOINZfcfJF2eJ6O2) | 5:09 | 2025-11-12 |  |
@@ -5518,5 +5523,6 @@
 | [梦的翅膀 \(Wings of Dreams\)](https://open.spotify.com/track/2AZy5ILoXfbaQ7mJC9zUAg) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Chinese pop](https://open.spotify.com/album/4MkiXf4mBvJbxE3zZtwrqn) | 3:29 | 2025-09-15 |  |
 | [梦的翅膀 \(Wings of Dreams\) \(another\)](https://open.spotify.com/track/0CXQM6uxUpQDxh1OxUUDNs) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Chinese pop](https://open.spotify.com/album/4MkiXf4mBvJbxE3zZtwrqn) | 3:13 | 2025-09-10 |  |
 | [证明我真的活着入门票一个](https://open.spotify.com/track/5Ui2iclOehI6HjZozdorOK) | [陶铭西](https://open.spotify.com/artist/7jUnGkOKbLiiaoat6VXIMW) | [证明我真的活着入门票一个](https://open.spotify.com/album/55ni3VEWMtNnJ4cabLqeP0) | 3:16 | 2026-05-24 |  |
+| [부산 전망](https://open.spotify.com/track/2oV9BQlOKZeYp89ryBBNN3) | [Love me machine!](https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f) | [부산 전망](https://open.spotify.com/album/7InPLEOoKiE2W6eqkK8CgF) | 3:13 | 2026-11-16 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

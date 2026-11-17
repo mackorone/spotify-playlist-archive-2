@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Parisalexa
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,602 likes - 215 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,613 likes - 215 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 129 | [Body](https://open.spotify.com/track/6qoZAmXo12RLxqy829tiJm) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [DUMBCRAZYSTUPID \(Deluxe\)](https://open.spotify.com/album/4nxDOlPHCqcgrIvYksn12N) | 2:42 |
 | 130 | [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 |
 | 131 | [REVENGE](https://open.spotify.com/track/6WFUjFm7cUN44fWrcHQpaN) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90) | [THE NAIJAMERICAN DREAM](https://open.spotify.com/album/4RsrgQml0MbefvMQN6r35I) | 3:02 |
-| 132 | [SETTLE](https://open.spotify.com/track/7ulFPy4VMUEYnC0c2vYlZm) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94), [Jordan Patrick](https://open.spotify.com/artist/6RNwpkHO4dnMjaqz4F2Fkt) | [RHYTHM & MELODY](https://open.spotify.com/album/5pNI5yBir20ciWubOiQlDK) | 4:38 |
+| 132 | [SETTLE](https://open.spotify.com/track/7ulFPy4VMUEYnC0c2vYlZm) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [RHYTHM & MELODY](https://open.spotify.com/album/5pNI5yBir20ciWubOiQlDK) | 4:38 |
 | 133 | [COMMUNICATION](https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a) | [Khal!l](https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe) | [COMMUNICATION](https://open.spotify.com/album/3a25myZiwOQD2QsWJvbMni) | 2:57 |
 | 134 | [could it be love](https://open.spotify.com/track/6dlariohKh4NweeHkENvOF) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [could it be love](https://open.spotify.com/album/0JSVXcSdWayVI2iZ2M2RBB) | 4:38 |
 | 135 | [Tit 4 Tat](https://open.spotify.com/track/1A51S6aWOo0yjkU8U7RwzO) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Tit 4 Tat](https://open.spotify.com/album/39xXEZ6T8Tcl2bsnd92MMR) | 2:53 |

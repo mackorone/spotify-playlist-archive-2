@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Tohji, Tove Lo, U2, Ella Langley, Fall Out Boy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,549 likes - 82 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,536 likes - 82 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 73 | [No Veo la Hora](https://open.spotify.com/track/36Y7IuGJS6AKCYSKTornq4) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [No Veo la Hora](https://open.spotify.com/album/60WjhSulSkPsI9FmI7iMWK) | 3:23 |
 | 74 | [Summer All Year](https://open.spotify.com/track/2MiehCKowb5f3iOZ9GLfpZ) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Cool](https://open.spotify.com/album/62vOhQo4OJwUNlEVPQ1owK) | 2:34 |
 | 75 | [Sad Face \(feat\. Davido\)](https://open.spotify.com/track/52i9czkU3qXyxUNGitkahr) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [STILL SLEEP ??](https://open.spotify.com/album/2Viod36wE7KWkL2FME0plW) | 2:36 |
-| 76 | [DON PISTOLA](https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELMATIC](https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0) | 3:24 |
+| 76 | [DON PISTOLA](https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [HEELMATIC](https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0) | 3:24 |
 | 77 | [Love 4 Me](https://open.spotify.com/track/3WRG5hoYRu6NpOLC4pOBbd) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Unfuckwitable 2](https://open.spotify.com/album/2yjJbrMWRKoYUVLaMbQH7g) | 3:25 |
 | 78 | [Supernova](https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 2:51 |
 | 79 | [A Scorpio Affair](https://open.spotify.com/track/3y7yzGfRJ2uFmhzfAqnXY8) | [Yufu](https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj) | [A Scorpio Affair](https://open.spotify.com/album/4tnYg45aPO561e6HxnLDuN) | 3:32 |

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip\-hop\. Cover: Skilla Baby
+> Inspirational hip\-hop\. Cover: Fivio Foreign
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,077 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,079 likes - 76 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Price of Fame](https://open.spotify.com/track/3yCdBX4Jkhu6BPiZ7aEWHM) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [The Price Of Fame](https://open.spotify.com/album/0UuuyZegkH3v9USYWSiCbu) | 3:13 |
-| 2 | [Chasin](https://open.spotify.com/track/77fXMuOnjHNFIJk3nB1y6B) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Fire Choir](https://open.spotify.com/artist/1XFGDYQzhYgGCUToGJe6Tn) | [Chasin](https://open.spotify.com/album/4rGXyN5SaRm1XJcYr7wUOk) | 3:18 |
+| 1 | [You Make Me](https://open.spotify.com/track/7AYRT3hADPDQX5v4dXd6Nh) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Fire Choir](https://open.spotify.com/artist/1XFGDYQzhYgGCUToGJe6Tn) | [You Make Me](https://open.spotify.com/album/58X6r78Vbiy8zUzGZ1nCUN) | 2:21 |
+| 2 | [The Price of Fame](https://open.spotify.com/track/3yCdBX4Jkhu6BPiZ7aEWHM) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [The Price Of Fame](https://open.spotify.com/album/0UuuyZegkH3v9USYWSiCbu) | 3:13 |
 | 3 | [Thug Elevation](https://open.spotify.com/track/18LQzgebCiLEOXdm6bRj3k) | [Caam1k](https://open.spotify.com/artist/7jmrwYVgLNcjdhwBH6DxPz) | [Thug Elevation](https://open.spotify.com/album/27HQPULoFISwRxhgtrJdTR) | 2:13 |
 | 4 | [Headphones](https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 3:41 |
 | 5 | [Man Up Above](https://open.spotify.com/track/0C9B7SpULk3KlkOz3MhTEb) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:58 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 75 | [Save The Hero](https://open.spotify.com/track/3swS83NB42wHWMLg78XvM7) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z) | [Save The Hero](https://open.spotify.com/album/1HtLjUfm2eLtEw23Xm11Yv) | 2:47 |
 | 76 | [Most High](https://open.spotify.com/track/7qOVK5VN6pBKUG9CIxtTrS) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Most High](https://open.spotify.com/album/00YnXipkL78slCKdSkkdkf) | 1:54 |
 
-Snapshot ID: `AAAAAMH4/8V4Iiz2VDgiaZR2jasloXUj`
+Snapshot ID: `AAAAAI4mHeUJ+HKoMlTC9tRd9Ry2D90v`

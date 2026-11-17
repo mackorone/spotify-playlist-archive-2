@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-209 songs - 2 day 1 hr 57 min
+210 songs - 2 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Ong Namo \(Wisdom\)](https://open.spotify.com/track/0edFHoTkMCh2gzsk11kCDM) | [Snatam Kaur](https://open.spotify.com/artist/6NvMFz8onERoCM6bKjTASJ) | [Mantras for Divine Grace](https://open.spotify.com/album/0YtJffc8FISzmdKptIVei7) | 10:02 | 2023-05-23 | 2024-09-30 |
 | [Pran Sutra: Dhan Dhan Ram Das Gur](https://open.spotify.com/track/1zIQf4PoAGoL48ZhUdaye0) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:12 | 2022-01-24 | 2024-02-16 |
 | [Pranayaam Mantra](https://open.spotify.com/track/5hOkUTeiG7SDMBWuTy58ez) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX) | [Mantras To Start the Day](https://open.spotify.com/album/6x7FhEL7eSa4Ld0kHu24oL) | 0:38 | 2022-01-24 | 2023-06-21 |
+| [Radha Gayatri Mantra](https://open.spotify.com/track/4bEFprglnmUAU8cvrZMTv6) | [Madhura Kumbhar](https://open.spotify.com/artist/3q0ggfvzCytxP87t7iQ5kt) | [Radha Gayatri Mantra](https://open.spotify.com/album/1YclhxXl0KxiRirfCpe0XC) | 24:18 | 2026-11-17 |  |
 | [Radhe Shyam](https://open.spotify.com/track/3VU0WCmwe5HVVzPzzCvjHh) | [Dj Mausam](https://open.spotify.com/artist/11ikrZ9WL7bio1G7novcaW) | [Radhe Shyam](https://open.spotify.com/album/0iFm6TvOUhNVmhloTUn8dU) | 2:13 | 2023-04-10 | 2023-05-24 |
 | [Raghunandan](https://open.spotify.com/track/1QaAXfq7b3p7q8oNC1jtcT) | [Agam Aggarwal](https://open.spotify.com/artist/0ivZyfIHsCjQGS5OqHt3hA), [Siddharth Sharma](https://open.spotify.com/artist/4mzzax24RTTB4kUEHkgaDo), [Narci](https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ) | [Raghunandan](https://open.spotify.com/album/7mNbiAGZySBw1nFFe0bZAi) | 5:24 | 2023-05-23 | 2023-08-29 |
 | [Raghunandana \(From "HanuMan"\) \[Hindi\]](https://open.spotify.com/track/3OwMeSa4IU0qd5xfI19xSc) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU), [Lokeshwar Edara](https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8), [Harshavardhan Chavali](https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G), [Tripuraneni Kalyanachakravarthy](https://open.spotify.com/artist/3QU7NHOvtC18LUDZAzxcuh) | [Raghunandhana \(From "HanuMan"\) \[Hindi\]](https://open.spotify.com/album/1sKnPpjhlYSqk2qxmbQHT6) | 2:31 | 2024-02-27 |  |
@@ -176,7 +177,7 @@
 | [Shanti Mantra \(For Inner and Outer Peace\)](https://open.spotify.com/track/2k0UyMqa4FbwMZiHgYJzfA) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 6:58 | 2023-05-23 | 2024-02-23 |
 | [Shiv Gayatri Mantra](https://open.spotify.com/track/517LGCx1efHiGyZpYlW2bI) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Shiv Gayatri Mantra](https://open.spotify.com/album/3W6cZZ15Zt7EPReYFHOloS) | 5:36 | 2025-04-07 | 2025-10-07 |
 | [Shiv Mahimna Stotra](https://open.spotify.com/track/12hZYt5gpkfP7UzpYYJHxd) | [Ashit Desai](https://open.spotify.com/artist/5tF1NFJk94pRxMjqMVGjIW), [Hema Desai](https://open.spotify.com/artist/2oKrQNVX1h5pXjDK5dNjln), [Alap Desai](https://open.spotify.com/artist/56Z4uEVUQTmYESTHyrPECN) | [Shiv Mahimna Stotra](https://open.spotify.com/album/2bjbfBm4rgKJDehmzayF8O) | 23:49 | 2025-02-07 | 2025-02-13 |
-| [Shiv Shakti Kundalini Mantra \- Slowed & Reverbed](https://open.spotify.com/track/6VWpmWW5lIozL44wbzvkRJ) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Shiv Shakti Kundalini Mantra \(Slowed & Reverbed\)](https://open.spotify.com/album/3Pn2U4NoJsaaVrNWNPRz1V) | 5:59 | 2026-10-19 |  |
+| [Shiv Shakti Kundalini Mantra \- Slowed & Reverbed](https://open.spotify.com/track/6VWpmWW5lIozL44wbzvkRJ) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Shiv Shakti Kundalini Mantra \(Slowed & Reverbed\)](https://open.spotify.com/album/3Pn2U4NoJsaaVrNWNPRz1V) | 5:59 | 2026-10-19 | 2026-11-17 |
 | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn) | [Om Voices](https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK) | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF) | 6:20 | 2023-08-10 |  |
 | [Shiv Tandav Stotram](https://open.spotify.com/track/6NFAlpTFpLrYBrsFuiloH3) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Shiv Tandav Stotram](https://open.spotify.com/album/5L89HjLOUHzhYLsrncv5pv) | 9:13 | 2026-01-18 |  |
 | [Shiv Tandav Strotram](https://open.spotify.com/track/4Vp6ajyPyG5onrrzMOql6p) | [akashworldwide](https://open.spotify.com/artist/7aDBhDrZS0RXtMDmQQNwDE) | [Shiv Tandav Strotram](https://open.spotify.com/album/23gj0ztuhpH7H2l2d4hT3J) | 3:18 | 2023-12-26 | 2024-02-16 |

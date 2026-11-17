@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: daine
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Kings Elliot
 
-1,947 songs - 4 day 9 hr 29 min
+1,948 songs - 4 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1106,6 +1106,7 @@
 | [MEET YOUR MAKER](https://open.spotify.com/track/7Fa0E1nYx3ITMQvV63BMQT) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [MEET YOUR MAKER](https://open.spotify.com/album/53j2x3GQ7yAmdfCKQI07lw) | 2:31 | 2025-03-18 | 2025-04-09 |
 | [Mente Pra Mim](https://open.spotify.com/track/4HbdogzFpLI45J5l4IYXS0) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:38 | 2023-06-01 | 2023-07-12 |
 | [Met Him Last Night \(feat\. Ariana Grande\)](https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dancing With The Devil…The Art of Starting Over](https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd) | 3:24 | 2021-12-17 | 2022-01-29 |
+| [METEOR FROM MARS](https://open.spotify.com/track/3rTgH2EMFDihuk4rueiGsq) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [METEOR FROM MARS](https://open.spotify.com/album/1okmmIBOw3JsTikajOV45i) | 3:28 | 2026-11-17 |  |
 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2025-09-09 | 2025-12-04 |
 | [mi ami davvero?](https://open.spotify.com/track/0zfY0EORigBVMK5Y8VXbbp) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [mi ami davvero?](https://open.spotify.com/album/6rdzzMFUBmZRgraYqE2NrI) | 3:25 | 2023-03-07 | 2023-04-01 |
 | [Mi cama huele a ti](https://open.spotify.com/track/4s5kWwIvjdGROkGS2kQ38V) | [La Dani](https://open.spotify.com/artist/3TJq3RpStgVuYfSyZ1jQJS), [936](https://open.spotify.com/artist/4zbUEP4kM8M21YqMtWbP0v) | [Mi cama huele a ti](https://open.spotify.com/album/2PqaGm3QH7uXQfWs3nB0pt) | 2:07 | 2023-01-24 | 2023-03-08 |
@@ -1254,7 +1255,7 @@
 | [On A Sunday](https://open.spotify.com/track/60rQJYQNEMITI8HtDbE0Pk) | [Autumn Nicholas](https://open.spotify.com/artist/4WBJACqzmZ1BkWHyyPbRJ6) | [On A Sunday](https://open.spotify.com/album/6KmgFInosSY8ZVVOOWiF49) | 5:13 | 2023-05-23 | 2023-06-02 |
 | [On My Mind](https://open.spotify.com/track/7700T9tYeO5NdTBnLNlGEI) | [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [On My Mind](https://open.spotify.com/album/06l4Kfsm6hDRVGbHseECRv) | 3:17 | 2022-01-07 | 2022-01-17 |
 | [On My Mind \- Pride Edit](https://open.spotify.com/track/505pKYmmekm1gBQ0vschO6) | [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [On My Mind \(Pride Edit\)](https://open.spotify.com/album/2SiHQSDH4L2hVFXeRzVlga) | 3:23 | 2021-12-17 | 2022-01-11 |
-| [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 | 2026-06-08 |  |
+| [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 | 2026-06-08 | 2026-11-17 |
 | [On The Way Down](https://open.spotify.com/track/4AL5dpsq6yJ7J57Ki9TFrt) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes](https://open.spotify.com/album/2GsledOrcsMKdanswVrWDp) | 3:35 | 2023-06-01 | 2023-07-12 |
 | [One](https://open.spotify.com/track/7G8xhYHnKiRu4KWTy5pBqO) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [One](https://open.spotify.com/album/2Xr00m7HTZsvKVuuFxq2ZE) | 4:37 | 2022-05-27 | 2022-06-09 |
 | [One Family](https://open.spotify.com/track/5PrgFbvr1PCc9LqgR7Xwba) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Fiesta'23](https://open.spotify.com/album/2CyfPASgWOgA8WMJXopZjV) | 2:40 | 2023-11-29 | 2024-01-11 |

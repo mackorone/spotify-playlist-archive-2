@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-882 songs - 2 day 6 hr 53 min
+883 songs - 2 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -833,6 +833,7 @@
 | [Weather Girl](https://open.spotify.com/track/34ZINOLIRBp9QHgaHzkeim) | [Jesse Matthew Long](https://open.spotify.com/artist/38vER1abYC7JkSKCvqsFRW) | [Weather Girl](https://open.spotify.com/album/2yFaAJl3gkiA7hTB6EHDGx) | 3:14 | 2026-05-31 | 2026-06-18 |
 | [Web of Oblivion](https://open.spotify.com/track/2BCS1WfPZda3Y2aFk2LtYx) | [Secretcult](https://open.spotify.com/artist/5MGpbkSOVye0NSTQf6P37f) | [Web of Oblivion](https://open.spotify.com/album/3H40kVo2FuLbPKLPCG6olT) | 2:47 | 2026-09-07 | 2026-09-20 |
 | [Weird Kid](https://open.spotify.com/track/28P1Zn2MA2Af5L0MIa8fQx) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Weird Kid](https://open.spotify.com/album/3J1FrMBOBnoDjin6Xg0JIi) | 2:25 | 2026-07-19 | 2026-08-01 |
+| [Welcome to My City](https://open.spotify.com/track/3wBZKau5aaDLttKXMSnnZC) | [Tony Z](https://open.spotify.com/artist/44OiXiN2wAuOyUcC4pKJv3) | [Welcome to My City](https://open.spotify.com/album/5JUBn93wyBqH0X99WYNvQe) | 3:57 | 2026-11-16 |  |
 | [Werewolves of London](https://open.spotify.com/track/0zYtpXjgqkKKQOpsl3y9qE) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [Werewolves of London](https://open.spotify.com/album/3hKZcu4BOd9ZP8knghvahJ) | 4:24 | 2025-11-06 | 2025-12-17 |
 | [What have you learned? \- Ancora imparo](https://open.spotify.com/track/0rH7yGpzDSqTKwRZtya789) | [Indra Sandinirwan](https://open.spotify.com/artist/07JS7fmt01zeq703z44SJd) | [What have you learned? \(Ancora imparo\)](https://open.spotify.com/album/012JKVrVUXgSHOHqWv85NY) | 2:10 | 2026-07-07 | 2026-08-01 |
 | [What I Need](https://open.spotify.com/track/4Pyo1AIDTHsEXJnyDc5Ew1) | [The Fading Wish](https://open.spotify.com/artist/5sy66wBuZP3PpDgArbuItr) | [What I Need](https://open.spotify.com/album/6D24DlYbh2JJUPrxbKPaMo) | 2:42 | 2025-11-26 | 2025-12-17 |

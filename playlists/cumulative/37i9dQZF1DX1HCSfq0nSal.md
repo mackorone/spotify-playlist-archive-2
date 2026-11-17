@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Myke Towers
 
-1,037 songs - 2 day 9 hr 4 min
+1,038 songs - 2 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,7 +581,7 @@
 | [Mi Luz \(ft\. Rels B\)](https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 2:48 | 2022-01-28 | 2022-10-11 |
 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 | 2023-03-28 | 2023-06-08 |
 | [miau](https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [miau](https://open.spotify.com/album/71I1bBOFoP9ootc5n4LPjg) | 3:05 | 2025-01-07 | 2025-02-21 |
-| [Milko Freestyle](https://open.spotify.com/track/6qP0OSXyS6vMS7Ib4waLHt) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Agorazein](https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP) | [Milko Freestyle](https://open.spotify.com/album/07EUOM05hnrPJhP2WtNNv6) | 2:07 | 2026-11-10 |  |
+| [Milko Freestyle](https://open.spotify.com/track/6qP0OSXyS6vMS7Ib4waLHt) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Agorazein](https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP) | [Milko Freestyle](https://open.spotify.com/album/07EUOM05hnrPJhP2WtNNv6) | 2:07 | 2026-11-10 | 2026-11-17 |
 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 | 2022-11-07 | 2023-01-27 |
 | [MIONCA AL BLOQUE](https://open.spotify.com/track/0mIFOa5E7widNaQ76voSN1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 2:52 | 2022-02-14 | 2022-02-26 |
 | [MIRAME REMIX](https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [MIRAME REMIX](https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK) | 3:58 | 2024-12-16 | 2025-02-07 |
@@ -1042,6 +1042,7 @@
 | [YSL](https://open.spotify.com/track/2f9KKPKgASUYZqo1JBJuFO) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [yyy891](https://open.spotify.com/artist/5eBluOvPk819K9BZB1XV9v), [JOHNNYFUU](https://open.spotify.com/artist/4qvOXukEJTWZG6jjlUQFEu) | [YSL](https://open.spotify.com/album/23qlqZnWlSa7LF1wp1naCx) | 3:40 | 2026-01-14 | 2026-02-06 |
 | [Zendaya](https://open.spotify.com/track/7zZZjSsDfiiMeZHKO0WgiF) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Zendaya](https://open.spotify.com/album/6UtvT0ykAvHbGIg940gNKF) | 2:32 | 2023-08-29 | 2024-03-09 |
 | [ZIZI](https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ZIZI](https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ) | 4:02 | 2026-08-10 |  |
+| [Últimamente \- W Sound 11](https://open.spotify.com/track/4JHDGUA2KSuqCNYtxQj44s) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Últimamente \(W Sound 11\)](https://open.spotify.com/album/6MZHIyPHLsTxQs0SqM3ipK) | 3:39 | 2026-11-16 |  |
 | [Única](https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Única](https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM) | 2:24 | 2025-11-24 | 2025-12-02 |
 | [⁠En el Ritz](https://open.spotify.com/track/1Ul0TcIqDRguYzr0A8Vz75) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 2:49 | 2025-11-11 | 2025-11-15 |
 | [⁠LUCES DE COLORES](https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:36 | 2025-08-05 | 2025-10-10 |

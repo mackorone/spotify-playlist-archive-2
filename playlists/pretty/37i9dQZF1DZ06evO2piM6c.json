@@ -1,12 +1,12 @@
 {
   "description": "This is Sade. The essential tracks, all in one playlist.",
-  "num_followers": 508649,
+  "num_followers": 508800,
   "original_name": "This Is Sade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avZTAAAAAAD9ZA3zsLkIhrVws1mM4s82",
+  "snapshot_id": "avj2AAAAAABqJr3hMT8XD/Vx+PfdzzwM",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 332133,
-      "name": "Cherish the Day",
-      "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
+      "duration_ms": 273226,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/4J7s7j5ulwElPG7HaGQDXR"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 273226,
-      "name": "Pearls",
-      "url": "https://open.spotify.com/track/4J7s7j5ulwElPG7HaGQDXR"
+      "duration_ms": 332133,
+      "name": "Cherish the Day",
+      "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
     },
     {
       "added_at": null,

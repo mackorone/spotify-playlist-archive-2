@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop. Cover: Adriaan Persons",
-  "num_followers": 245992,
+  "num_followers": 245977,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKK0ZBBI5JzsnE6WRyq5Yz7VlRMY",
+  "snapshot_id": "AAAAABmNbGVwEWhPIgdP9mX9sN+XZkv7",
   "tracks": [
     {
       "added_at": "2026-11-12 23:01:04",
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 206938,
-      "name": "Vaders & Moeders",
-      "url": "https://open.spotify.com/track/77Q36rQQxPruhT2npadwgr"
+      "duration_ms": 130666,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g"
     },
     {
       "added_at": "2026-11-12 23:01:04",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-11-12 23:01:04",
       "album": {
+        "name": "Pijnstiller",
+        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 206938,
+      "name": "Vaders & Moeders",
+      "url": "https://open.spotify.com/track/77Q36rQQxPruhT2npadwgr"
+    },
+    {
+      "added_at": "2026-11-12 23:01:04",
+      "album": {
         "name": "Pas Als Het Over Is",
         "url": "https://open.spotify.com/album/7j9VVBUogZZmyW2v2jJmiS"
       },
@@ -183,6 +199,38 @@
       "duration_ms": 195329,
       "name": "Pas Als Het Over Is",
       "url": "https://open.spotify.com/track/6Jicl5TWPfZkrS0ovGJG0G"
+    },
+    {
+      "added_at": "2026-11-12 23:01:04",
+      "album": {
+        "name": "P\u00e9p\u00e9 Chand",
+        "url": "https://open.spotify.com/album/1aYE3fwe9XIFuc0Znp4AVL"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Domingos",
+          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
+        }
+      ],
+      "duration_ms": 205555,
+      "name": "P\u00e9p\u00e9 Chand",
+      "url": "https://open.spotify.com/track/5GalJ2yP97tcdyXjkooBgH"
+    },
+    {
+      "added_at": "2026-11-12 23:01:04",
+      "album": {
+        "name": "Als De Wereld Tegen Ons Is",
+        "url": "https://open.spotify.com/album/18z7wVRfSypc0Vt3QMdOdv"
+      },
+      "artists": [
+        {
+          "name": "Jasmijn Torrico",
+          "url": "https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ"
+        }
+      ],
+      "duration_ms": 166700,
+      "name": "Als De Wereld Tegen Ons Is",
+      "url": "https://open.spotify.com/track/74j4iu6nWjg91mQYn5MjeB"
     },
     {
       "added_at": "2026-11-12 23:01:04",
@@ -235,22 +283,6 @@
     {
       "added_at": "2026-11-12 23:01:04",
       "album": {
-        "name": "Als De Wereld Tegen Ons Is",
-        "url": "https://open.spotify.com/album/18z7wVRfSypc0Vt3QMdOdv"
-      },
-      "artists": [
-        {
-          "name": "Jasmijn Torrico",
-          "url": "https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ"
-        }
-      ],
-      "duration_ms": 166700,
-      "name": "Als De Wereld Tegen Ons Is",
-      "url": "https://open.spotify.com/track/74j4iu6nWjg91mQYn5MjeB"
-    },
-    {
-      "added_at": "2026-11-12 23:01:04",
-      "album": {
         "name": "Roze",
         "url": "https://open.spotify.com/album/3lGXWWtE3mzjuvkBHDS09k"
       },
@@ -263,22 +295,6 @@
       "duration_ms": 153500,
       "name": "Roze",
       "url": "https://open.spotify.com/track/5qwIUc2vAc4uub3Iut7iaQ"
-    },
-    {
-      "added_at": "2026-11-12 23:01:04",
-      "album": {
-        "name": "Pijnstiller",
-        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Alleen",
-      "url": "https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g"
     },
     {
       "added_at": "2026-11-12 23:01:04",
@@ -311,22 +327,6 @@
       "duration_ms": 167890,
       "name": "Kom Naar Huis",
       "url": "https://open.spotify.com/track/0AiV3GOzUgApmygZJNbw3z"
-    },
-    {
-      "added_at": "2026-11-12 23:01:04",
-      "album": {
-        "name": "P\u00e9p\u00e9 Chand",
-        "url": "https://open.spotify.com/album/1aYE3fwe9XIFuc0Znp4AVL"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00ebl Domingos",
-          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
-        }
-      ],
-      "duration_ms": 205555,
-      "name": "P\u00e9p\u00e9 Chand",
-      "url": "https://open.spotify.com/track/5GalJ2yP97tcdyXjkooBgH"
     },
     {
       "added_at": "2026-11-12 23:01:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  DJ Tunez, Solana, Patoranking, Wande Coal,  Sarkodie, Zlatan,  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,435 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,499 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 53 | [Torn \(feat\. Dolly Parton\)](https://open.spotify.com/track/28voksbZPIhS2dJV6iLS1h) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Carnaval De Luz](https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0) | 4:30 |
 | 54 | [Balcony](https://open.spotify.com/track/1JA0rEw4t0xKotSVJPTpBe) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Balcony](https://open.spotify.com/album/7um76kaVTA4001Soogzgyv) | 1:56 |
 | 55 | [Inhlawulo](https://open.spotify.com/track/2VIHMyKE1cyMG1jAH4qRH9) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [INHLAWULO](https://open.spotify.com/album/2riuu9A3fmVezUYkvm6XMs) | 4:56 |
-| 56 | [Golide \(feat\. Smaki 08\)](https://open.spotify.com/track/4DeN5qXfo94NLLHGOVnNV5) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [Mangoli](https://open.spotify.com/artist/1nRxeLH4E3xrXwEuaULvIn), [Smaki 08](https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ) | [Groovinhos Kitchen 2](https://open.spotify.com/album/3dfGsaImuSGUgHfk7EBZ7k) | 6:22 |
+| 56 | [Golide \(feat\. Smaki 08 & Sino Msolo\)](https://open.spotify.com/track/4DeN5qXfo94NLLHGOVnNV5) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [Mangoli](https://open.spotify.com/artist/1nRxeLH4E3xrXwEuaULvIn), [Smaki 08](https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Groovinhos Kitchen 2](https://open.spotify.com/album/3dfGsaImuSGUgHfk7EBZ7k) | 6:22 |
 | 57 | [Around You](https://open.spotify.com/track/3tTGaPYwzirwlwjmUgQP34) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Around You](https://open.spotify.com/album/2eGHwaamCReFCTP9iL5F0y) | 2:04 |
 | 58 | [Ntariana](https://open.spotify.com/track/6SIsp9mIKzsNf8vVgp2vTB) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Ntariana](https://open.spotify.com/album/2P38PPBp6wBQkN1hslpuic) | 3:36 |
 | 59 | [Ngek'silale \(feat\. Dlala Thukzin\)](https://open.spotify.com/track/6AOPaVi0ZjSeJp71KPMe4Y) | [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Ngek'silale \(feat\. Dlala Thukzin\)](https://open.spotify.com/album/03y2IgYbaKIeGF1jHfqd4b) | 5:33 |

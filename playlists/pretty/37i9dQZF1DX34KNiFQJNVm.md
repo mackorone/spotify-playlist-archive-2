@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem  L7NNON, U2, Veigh, Kaique e Felipe, Simaria, Don Toliver e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,320,481 likes - 92 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,320,143 likes - 92 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

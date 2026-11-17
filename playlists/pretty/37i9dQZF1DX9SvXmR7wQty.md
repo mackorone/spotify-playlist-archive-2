@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Arpin Lépine, Lost, Les Louanges, Katrine Sansregret, King Melrose, Souldia, Cupidon et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,357 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,353 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 15 | [Planète](https://open.spotify.com/track/10DYluClumolBBnWNvw6xK) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Planète](https://open.spotify.com/album/4veCJvC1IqIrAwfe4WBwqO) | 2:40 |
 | 16 | [90 JOURS...](https://open.spotify.com/track/7jI6DxyjLjOYZgLVc5hfDW) | [La Rumeur](https://open.spotify.com/artist/0sX9shkpi9yYK65nZCeeiW), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [90 JOURS...](https://open.spotify.com/album/0rY03iI53cUcdEKbc2Jksf) | 3:11 |
 | 17 | [J'ai perdu mes AirPods](https://open.spotify.com/track/4ec2xTgZJXGi4is3z839Yp) | [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [KOUL](https://open.spotify.com/album/5X9CeM2KOYzQS5rdQsNfx0) | 3:03 |
-| 18 | [AMA](https://open.spotify.com/track/1CoxL7VHuwSOK9zLDWX04n) | [Ultra Stellaire](https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI), [AÏSSS](https://open.spotify.com/artist/4nlOI773uzutrPjm8IRoe4), [10.10](https://open.spotify.com/artist/2ENHtWWAdo7yayG5MOCxKX) | [AMA](https://open.spotify.com/album/4n4V2UU2hQf2ObphZsHdX0) | 2:17 |
+| 18 | [AMA](https://open.spotify.com/track/1CoxL7VHuwSOK9zLDWX04n) | [Ultra Stellaire](https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI), [10.10](https://open.spotify.com/artist/2ENHtWWAdo7yayG5MOCxKX) | [AMA](https://open.spotify.com/album/4n4V2UU2hQf2ObphZsHdX0) | 1:45 |
 | 19 | [Trop cher](https://open.spotify.com/track/5xY3jwHwFm18fYNQlnw6tf) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Trop cher](https://open.spotify.com/album/5jMCsH6hG3ku90q4wDQhpm) | 1:58 |
 | 20 | [ADVIENNE QUE POURRA](https://open.spotify.com/track/1YW51VEV6FlzxNPmpN0lnR) | [Slim Tony](https://open.spotify.com/artist/3IkO9xp9IuK0iQhMjuPf0J) | [ADVIENNE QUE POURRA](https://open.spotify.com/album/6Hb1cDr8f0QhixPK6FHQLF) | 3:00 |
 | 21 | [À sec](https://open.spotify.com/track/4WgNsQdtEEmhwuWZgjDMo2) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [À sec](https://open.spotify.com/album/3IpZMfLg9PBjvIBXHssLZ7) | 3:28 |

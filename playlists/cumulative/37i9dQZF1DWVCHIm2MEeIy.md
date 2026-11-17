@@ -4,7 +4,7 @@
 
 > The party has arrived! 🪩  Cover: Solomun
 
-730 songs - 2 day 9 hr 46 min
+731 songs - 2 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Not the One](https://open.spotify.com/track/0wVsELktNqS9JISQAwN79y) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [Not the One](https://open.spotify.com/album/1Zh1eAZLuGy4YPMMBMlxdp) | 5:42 | 2024-09-27 | 2024-10-11 |
 | [nothin lasts 4ever](https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [nothin lasts 4ever](https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o) | 2:41 | 2026-04-09 |  |
 | [Nothing That I Need](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Nothing That I Need](https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo) | 3:18 | 2024-08-08 | 2024-10-11 |
+| [Notorious Thugs \(Solomun Remix\)](https://open.spotify.com/track/3MbTgMRqMf7vHMvegoyAjy) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Notorious Thugs \(Solomun Remix\)](https://open.spotify.com/album/278H2vPwRurZocliiFluqy) | 3:56 | 2026-11-16 |  |
 | [Nova Two](https://open.spotify.com/track/2Pc744GTIafPnZrNGNdPUJ) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Nova Two](https://open.spotify.com/album/7zeYcIdbaDuYYjiAmYCNjz) | 5:26 | 2022-04-15 | 2023-11-05 |
 | [Now Or Never \(feat\. IVERSON\)](https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [IVERSON](https://open.spotify.com/artist/37Ta8OzT2wEZDyTaCYqzEo) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:59 | 2024-04-05 |  |
 | [Numb \- Joris Voorn Remix, Edit](https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Numb \(Joris Voorn Remix\)](https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF) | 3:57 | 2022-04-15 | 2022-06-24 |
@@ -586,7 +587,7 @@
 | [Simulate](https://open.spotify.com/track/0QBerdsjOmIdSCAKgKr5HP) | [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV) | [Simulate](https://open.spotify.com/album/6oFid8H74EyjAOslgduKtx) | 3:20 | 2026-04-09 | 2026-05-15 |
 | [Singularity](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:01 | 2024-02-22 |  |
 | [Siren \- Original Mix](https://open.spotify.com/track/49iFrXYyyHFvWC1gKnfZcR) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Siren](https://open.spotify.com/album/7m68B9yIJCdhW9nL6sVCeS) | 6:51 | 2022-04-15 | 2022-11-26 |
-| [Siren Echoes](https://open.spotify.com/track/1KDDSHJgm29pRPjKY4cAXZ) | [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX) | [Siren Echoes](https://open.spotify.com/album/5WxGxTFzuomhNgW56XDnxI) | 5:32 | 2026-10-23 |  |
+| [Siren Echoes](https://open.spotify.com/track/1KDDSHJgm29pRPjKY4cAXZ) | [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX) | [Siren Echoes](https://open.spotify.com/album/5WxGxTFzuomhNgW56XDnxI) | 5:32 | 2026-10-23 | 2026-11-17 |
 | [Sirens](https://open.spotify.com/track/7r1SZaJhXDTod2cXakbAJ5) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Sirens](https://open.spotify.com/album/4QGu7AvOfVauFWqzfywklJ) | 3:26 | 2026-04-23 | 2026-05-01 |
 | [Sirius](https://open.spotify.com/track/6i1KuFzLkMNKmGrWU0GVDL) | [Oësha](https://open.spotify.com/artist/0dGuG2AkKMD5paqtUPKVTF) | [The Journey](https://open.spotify.com/album/4Xadd8XQbQ3B8G5ouOoMg7) | 6:53 | 2022-11-15 | 2022-11-26 |
 | [Skywalker](https://open.spotify.com/track/4sxkaAZO7V1dQUHocFgJBL) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Skywalker](https://open.spotify.com/album/0IXJ3NO7MWJOGMSV8PWS0i) | 6:46 | 2022-06-17 | 2022-07-27 |

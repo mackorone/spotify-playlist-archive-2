@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Munan\) \(Meet the emerging talents of Korea!\)
 
-1,721 songs - 4 day 0 hr 25 min
+1,722 songs - 4 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [5min to heartbreak](https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [5min to heartbreak](https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa) | 3:20 | 2023-05-01 | 2023-06-02 |
 | [7](https://open.spotify.com/track/1veW8BJjIDwb4WDdAvGcHV) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [7](https://open.spotify.com/album/58eqERmaDpAYto7aHFOmw8) | 3:49 | 2022-04-20 | 2022-06-10 |
 | [777](https://open.spotify.com/track/24KjqxHU4SnvCgzfftXarS) | [MUL](https://open.spotify.com/artist/1qcXWnZo8tZaPPhRcaBVPo), [feelDa](https://open.spotify.com/artist/6ztSjX9SryuExgK0SPr5Ps), [H:SEAN](https://open.spotify.com/artist/5unaicO0SRNINwxV4jnq18) | [777+52](https://open.spotify.com/album/6q2EAWJkQRNcIHFSZjFQI2) | 3:23 | 2022-04-20 | 2022-06-10 |
-| [90s](https://open.spotify.com/track/7IVGLhH6xnEJisC9k429sc) | [Potatoi](https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf) | [90s](https://open.spotify.com/album/2BDunOX2dRefNaCQAVxt7n) | 3:30 | 2026-03-03 |  |
+| [90s](https://open.spotify.com/track/7IVGLhH6xnEJisC9k429sc) | [Potatoi](https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf) | [90s](https://open.spotify.com/album/2BDunOX2dRefNaCQAVxt7n) | 3:30 | 2026-03-03 | 2026-11-17 |
 | [@rollsroycecars \(Prod\. imeanseoul, Wylo\)](https://open.spotify.com/track/7G5yu6BmXx85xogvsE9Y7i) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [www.instagram.com/rollingloud/viceversartist](https://open.spotify.com/album/65iSrqbqW6EmtC9FeqdEfr) | 2:50 | 2022-06-09 | 2022-07-05 |
 | [A Child](https://open.spotify.com/track/5s96uDVOva3V5PSDXmCiFE) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [White](https://open.spotify.com/album/1cyBVcVvvXhaqz4aYudB4l) | 3:11 | 2024-01-08 | 2025-01-21 |
 | [A Cold Night](https://open.spotify.com/track/12TfJVZmwu87on2lNUfVGn) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [A COLD NIGHT](https://open.spotify.com/album/2eGlMWhKrkJ5pwZlzf0G8H) | 3:32 | 2024-09-24 | 2025-02-28 |
@@ -310,7 +310,7 @@
 | [Creaminal \(feat\. Nah\)](https://open.spotify.com/track/258Np0aWF4TzwHRgh3y5Ki) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2), [Nah](https://open.spotify.com/artist/7e5LW1fZXdujOwwKLIwn9Q) | [FRUTO](https://open.spotify.com/album/0Nm70H9uLXdftq0aqXZ2t3) | 3:00 | 2025-02-28 | 2025-06-13 |
 | [Crossroad \(Prod\. TII\)](https://open.spotify.com/track/41kobftscgCdRBcMaa2DjG) | [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX), [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Monthly AP \- July, 2024](https://open.spotify.com/album/5BCngzkElUQIXCYhDT4qhY) | 3:21 | 2024-08-02 | 2025-02-04 |
 | [Crosswalk \(Feat\. Hyun Su Seo\)](https://open.spotify.com/track/3MKBK9XxTYJqPMjCewlhJt) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Hyun Su Seo](https://open.spotify.com/artist/7njYoh6FLntRGHeTOcDdv8) | [Olive](https://open.spotify.com/album/6zFG2xmMmnDLr1MroJ3ue3) | 4:22 | 2021-12-02 | 2022-01-11 |
-| [CRUSH](https://open.spotify.com/track/3pvv80CFNW04bi7rl8X9md) | [SUNNYKEY](https://open.spotify.com/artist/38twyPwqbqcbrHKV98enW8) | [CRUSH](https://open.spotify.com/album/7fbRsuyaMGurlxNzmBevXN) | 2:27 | 2026-04-02 |  |
+| [CRUSH](https://open.spotify.com/track/3pvv80CFNW04bi7rl8X9md) | [SUNNYKEY](https://open.spotify.com/artist/38twyPwqbqcbrHKV98enW8) | [CRUSH](https://open.spotify.com/album/7fbRsuyaMGurlxNzmBevXN) | 2:27 | 2026-04-02 | 2026-11-17 |
 | [Crush On You](https://open.spotify.com/track/63sCrgGEARzM9p4sW6AOHw) | [Rosmile](https://open.spotify.com/artist/4DvqmImfZ6X91aOtIeOTcg) | [Crush On You](https://open.spotify.com/album/4Qq6IFLtAnchs77YLIJ79j) | 3:22 | 2022-07-14 | 2022-09-06 |
 | [Cue Sign](https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Cue Sign](https://open.spotify.com/album/4VWFmbeJULZek7Pmyg0bTO) | 3:36 | 2023-02-15 | 2023-05-02 |
 | [Curling Field \(feat\. Juicelover\)](https://open.spotify.com/track/5eRHUqFh42n2udXatalFuy) | [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [Juicelover](https://open.spotify.com/artist/25zt0fnFASic9db8SoGnFL) | [Curling Field \(feat\. Juicelover\)](https://open.spotify.com/album/47BWmB2pJt774yrb0cdPK7) | 3:38 | 2022-03-02 | 2022-03-24 |
@@ -554,7 +554,7 @@
 | [Ghost](https://open.spotify.com/track/0qzqb9nibxhCxICYlRoqBK) | [Lim Ha Ram](https://open.spotify.com/artist/5p6Mh4sfmGYFGE4BwNVBrO) | [Ghost](https://open.spotify.com/album/4AmYveZNBWWuQzfHTafJCW) | 3:25 | 2023-10-30 | 2024-04-04 |
 | [Ghosts are bored](https://open.spotify.com/track/1K6nBNor4v00S991benfnd) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Ghosts are bored](https://open.spotify.com/album/3nA0fcHv2gyB1f4IKJqOQn) | 3:47 | 2022-01-10 | 2023-01-12 |
 | [Girl, River \(feat\. Tamiz\)](https://open.spotify.com/track/1mVOSArJrcBS0ruOaHVMqK) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE), [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f) | [Girl, River \(feat\. Tamiz\)](https://open.spotify.com/album/4mUhnVHvEaTwu3yVfX7ede) | 3:19 | 2022-06-20 | 2022-08-13 |
-| [Girls \(feat\. Kid Milli\)](https://open.spotify.com/track/1lLBCFBp6mQo2t1iY1kEGf) | [Purynn](https://open.spotify.com/artist/5FrtaYX5rFPBLU66OAMzAh), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [\[LOadinG \. .\]](https://open.spotify.com/album/0Qw90aAuoD9SzhcSADwIYv) | 3:14 | 2026-03-03 |  |
+| [Girls \(feat\. Kid Milli\)](https://open.spotify.com/track/1lLBCFBp6mQo2t1iY1kEGf) | [Purynn](https://open.spotify.com/artist/5FrtaYX5rFPBLU66OAMzAh), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [\[LOadinG \. .\]](https://open.spotify.com/album/0Qw90aAuoD9SzhcSADwIYv) | 3:14 | 2026-03-03 | 2026-11-17 |
 | [Give me more than your body Ft\. Griffy](https://open.spotify.com/track/2CVK4i4QqyuJrbwqlHoCAt) | [OV](https://open.spotify.com/artist/4KcgbqjaXrAyWnwFoVdhmA), [Griffy](https://open.spotify.com/artist/5MilSw46kL5Z2pUS5p0kSP) | [Another Me Vol.1](https://open.spotify.com/album/1ZNWku0lzCwMEHu7WBbQtT) | 3:19 | 2021-12-02 | 2022-01-11 |
 | [Glass](https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [Glass](https://open.spotify.com/album/4rbNo5Zm3TLpKKZ4CawxLJ) | 3:56 | 2023-02-15 | 2023-05-02 |
 | [glow](https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [glow](https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo) | 2:58 | 2025-07-25 | 2026-01-15 |
@@ -1543,6 +1543,7 @@
 | [Way to the Sea](https://open.spotify.com/track/2upwtv2Ws7Usg8p5Ijqkgt) | [Uyeon](https://open.spotify.com/artist/5kWXcQClcPLU6G1TPW4tXM) | [Way to the Sea](https://open.spotify.com/album/6GkqqwjvterO5q682S698V) | 3:13 | 2022-04-07 | 2022-06-10 |
 | [We Fail NOT](https://open.spotify.com/track/4vpdGq2H8yHaZDzEcdpjtw) | [CeREELs](https://open.spotify.com/artist/11AGEmp0TVKTT5nODvHSqV) | [Take a Chance](https://open.spotify.com/album/34ZSlKzznTWfq8gLwr16wO) | 3:50 | 2023-01-30 | 2023-04-01 |
 | [we have changed](https://open.spotify.com/track/6yN4a5vgEMayJWmlYnWx8T) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [we have changed](https://open.spotify.com/album/3gtbcrdH0MkiGGTpur0YUe) | 3:21 | 2022-09-05 | 2022-11-08 |
+| [We Have No Time](https://open.spotify.com/track/6yFyW89xM3JGwiiEOjy01t) | [Hangsung](https://open.spotify.com/artist/7s2auzTJqfLyxtzExY9xrh) | [We Have No Time](https://open.spotify.com/album/367GzIhFpAccv7ydtZHw99) | 2:54 | 2026-11-16 |  |
 | [We LUV](https://open.spotify.com/track/5mUYCjHCuWWbVaXOsBc45u) | [TONE](https://open.spotify.com/artist/2R4B49CdrjImBVWuLYhsXR) | [We LUV](https://open.spotify.com/album/2vUUKMO81S3kgSXvlcmsEc) | 3:06 | 2022-03-02 | 2022-03-24 |
 | [We Shine at Night](https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/5cZ58w2i6LfpgP0HN46ca5) | 6:27 | 2023-01-30 | 2023-02-09 |
 | [We Talk](https://open.spotify.com/track/3dAo93NPkYNZcrVTYQN3PN) | [Band Minha](https://open.spotify.com/artist/18lZ5mKgExa7KKLBHoDMrJ) | [We Talk](https://open.spotify.com/album/2lWLxM3pYeILU3PTWqoEVQ) | 3:26 | 2022-08-18 | 2022-09-30 |

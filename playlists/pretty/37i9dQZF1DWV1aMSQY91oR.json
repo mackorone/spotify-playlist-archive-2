@@ -1,6 +1,6 @@
 {
   "description": "The latest in hip-hop, refreshed weekly. Cover: Don Toliver",
-  "num_followers": 24212,
+  "num_followers": 24202,
   "original_name": "New Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -322,6 +322,14 @@
         {
           "name": "Westside Gunn",
           "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         }
       ],
       "duration_ms": 204126,

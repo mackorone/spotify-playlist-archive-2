@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-473 songs - 1 day 1 hr 11 min
+474 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Bring It Hardcore](https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [Bring It Hardcore](https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc) | 4:44 | 2023-09-01 | 2024-12-13 |
 | [Bring The Hammer Down](https://open.spotify.com/track/2zjlS4UQAgZaxtJCDB79Mt) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Bring The Hammer Down](https://open.spotify.com/album/6dvA9ZepS0SFnVXkKi9E1F) | 2:20 | 2026-03-30 |  |
 | [Broken Inside](https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Broken Inside](https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8) | 3:25 | 2022-12-08 | 2023-09-02 |
+| [Brutal 13.0](https://open.spotify.com/track/0rvMz8uazYw3DePHtrXBPF) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Brutal 13.0](https://open.spotify.com/album/54CuCcKwVYu56wiuSA3fms) | 1:45 | 2026-11-16 |  |
 | [Buried Alive](https://open.spotify.com/track/6En1mnKQHujsveLdnkPRon) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Buried Alive](https://open.spotify.com/album/7kH4AAUjyQYDmmCeohXyxa) | 3:15 | 2022-12-08 | 2023-04-14 |
 | [Burn](https://open.spotify.com/track/1RZw5ReZ2prm5qYxia8ANN) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Karun](https://open.spotify.com/artist/7bVe2RwXjq3ClgXaMLsEmg) | [Burn](https://open.spotify.com/album/0MnAzPohStGYOnAODeo205) | 2:50 | 2024-05-02 | 2024-11-09 |
 | [Burn](https://open.spotify.com/track/0ZXq43rBFfRBAhynZeVChZ) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Burn](https://open.spotify.com/album/2f3JjQYimC9ZWI7KwJVZrN) | 2:36 | 2025-03-20 | 2025-09-02 |
@@ -244,7 +245,7 @@
 | [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 | 2025-10-13 | 2026-02-27 |
 | [Lose My Mind](https://open.spotify.com/track/5LMqNwIFZBPwTh2buKaHix) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Lose My Mind](https://open.spotify.com/album/5NK6a73PWXffL6PzUeMNIf) | 3:02 | 2026-03-20 | 2026-06-02 |
 | [LOSE STRESS](https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LOSE STRESS](https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ) | 2:48 | 2022-12-08 | 2023-12-22 |
-| [Love me again](https://open.spotify.com/track/601Ve74IypElO6ptmCvr9C) | [Jordanx](https://open.spotify.com/artist/4BLx1tjsJATdjBdkvl3m1p) | [Love me again](https://open.spotify.com/album/2SbFIaFMdkSR3TMAw2QpbI) | 2:00 | 2026-09-15 |  |
+| [Love me again](https://open.spotify.com/track/601Ve74IypElO6ptmCvr9C) | [Jordanx](https://open.spotify.com/artist/4BLx1tjsJATdjBdkvl3m1p) | [Love me again](https://open.spotify.com/album/2SbFIaFMdkSR3TMAw2QpbI) | 2:00 | 2026-09-15 | 2026-11-17 |
 | [Love The Way You Lie](https://open.spotify.com/track/6DD7Ko5QhfNMmqmYPUhJNn) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [Sickddellz](https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz) | [Love The Way You Lie](https://open.spotify.com/album/5oJIJpryAfPfyyc52olHAv) | 3:39 | 2026-09-07 | 2026-10-16 |
 | [Loyal to the Game](https://open.spotify.com/track/7wIuIs7P8QOPaASnFhnxt0) | [Tensor & Re\-Direction](https://open.spotify.com/artist/2M1ImrPjIvIYkPqnupYXHP), [Dj Ron](https://open.spotify.com/artist/4K7cOE9EnsUMPclHZt8VlN), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Loyal to the Game](https://open.spotify.com/album/6sPZpaF8IZRxdmDnSFTweN) | 3:01 | 2026-03-06 | 2026-03-31 |
 | [M.D.E.](https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [M.D.E.](https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM) | 2:32 | 2022-12-08 | 2023-12-22 |

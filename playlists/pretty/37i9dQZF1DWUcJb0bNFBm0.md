@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Leaveourtears \(Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,602 likes - 74 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,617 likes - 74 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

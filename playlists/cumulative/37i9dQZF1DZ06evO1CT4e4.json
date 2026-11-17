@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 195760,
       "name": "Hymn to a Great City for 2 Pianos",
       "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
@@ -1937,6 +1937,40 @@
     },
     {
       "album": {
+        "name": "Pages of a Biography",
+        "url": "https://open.spotify.com/album/7y8Frqs7ynCha6fpp3Y9pc"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Geneva Lewis",
+          "url": "https://open.spotify.com/artist/62RVu9bBwlW3wQMu3TqOIH"
+        },
+        {
+          "name": "Andrei Pushkarev",
+          "url": "https://open.spotify.com/artist/3U6kv439aTb2ce6pCgsen3"
+        },
+        {
+          "name": "Kremerata Baltica",
+          "url": "https://open.spotify.com/artist/0ect9tEgQI3kYRdAshny5a"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277029,
+      "name": "Passacaglia",
+      "url": "https://open.spotify.com/track/3GYNPTUMUR1apD6zKrZMGg"
+    },
+    {
+      "album": {
         "name": "P\u00e4rt: Passacaglia",
         "url": "https://open.spotify.com/album/4eB08qgfzPIpGQqQEpXQOX"
       },
@@ -1964,7 +1998,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 277029,
       "name": "Passacaglia",
       "url": "https://open.spotify.com/track/4xLZnZ2uewP67g0cOvu1iZ"
@@ -2060,7 +2094,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 148946,
       "name": "P\u00e4rt: F\u00fcr Alina",
       "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"

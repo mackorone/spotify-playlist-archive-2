@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Dove Cameron
 
-1,653 songs - 3 day 13 hr 3 min
+1,655 songs - 3 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,7 +616,7 @@
 | [Heartless](https://open.spotify.com/track/1OKcjiHEQK5ZAlI8XtAWOg) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Lovesick](https://open.spotify.com/album/6tXhwhNRi6rtIvbdvofSsD) | 2:50 | 2026-10-15 |  |
 | [heat](https://open.spotify.com/track/0qB6vfLUW11bMGjz8SHvtt) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [heat](https://open.spotify.com/album/7N1nx9qGHk0KpDDgJNtG6z) | 3:06 | 2024-02-15 | 2024-04-26 |
 | [Heat](https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Heat](https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik) | 2:51 | 2025-06-05 | 2025-08-08 |
-| [HEAVEN](https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel](https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx) | 3:06 | 2026-08-27 |  |
+| [HEAVEN](https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel](https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx) | 3:06 | 2026-08-27 | 2026-11-17 |
 | [Heaven](https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Heaven](https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp) | 3:10 | 2026-06-18 | 2026-09-26 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-24 | 2023-05-26 |
 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 | 2026-08-13 | 2026-10-30 |
@@ -630,6 +630,7 @@
 | [Here](https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Here](https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ) | 3:15 | 2023-02-24 | 2023-04-07 |
 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 | 2025-09-11 | 2025-10-11 |
 | [Here In My Arms](https://open.spotify.com/track/7oXHQAuntd25CnfAHXjGyP) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V), [Madeline Roose](https://open.spotify.com/artist/7dwsb0995sc3kkztIcKMOZ) | [Here In My Arms](https://open.spotify.com/album/2lC5JK5LRUqwNqLIX0P2ZD) | 3:47 | 2025-03-20 | 2025-05-30 |
+| [Here Then We're Gone](https://open.spotify.com/track/2StTTNEWsqY0hp9D3wKUay) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L) | 4:06 | 2026-11-16 |  |
 | [Here To Stay](https://open.spotify.com/track/47nDxKt2bTRH1CtU8fgKnu) | [Christophe Verholle](https://open.spotify.com/artist/5cqOALIWK5xoaqHXwikfis) | [Here To Stay](https://open.spotify.com/album/6Qun7KN1zgB4W2tCMv8mBx) | 3:11 | 2024-07-25 | 2024-11-08 |
 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 | 2026-10-29 |  |
 | [HERicane](https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55) | 3:47 | 2024-07-08 | 2024-07-27 |
@@ -762,7 +763,7 @@
 | [Iconique](https://open.spotify.com/track/2AwHfYNiI0aDqs51eA3KUr) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Iconique](https://open.spotify.com/album/7ombOGgLGSWIwT07NmcR6W) | 2:32 | 2024-02-29 | 2024-05-17 |
 | [IDK How To Be Fun](https://open.spotify.com/track/0c47RWAiqmztFGsbR5b4tU) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [IDK How To Be Fun](https://open.spotify.com/album/4wLMDLhv6GrnoIjhhZdoQK) | 3:02 | 2023-02-24 | 2023-04-07 |
 | [Idolizer](https://open.spotify.com/track/5Pz4jZa5Yw984sUrVXGetO) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Idolizer](https://open.spotify.com/album/7CbXgHy1fPBb3gGarFMABD) | 3:11 | 2024-11-07 | 2025-01-24 |
-| [If He's Anything Like You, He'll Be Alright](https://open.spotify.com/track/06AT4b7MAnuHDhwbLgfbLI) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [If He's Anything Like You, He'll Be Alright](https://open.spotify.com/album/5hMrXSNHTdpGCrnNrGmSPf) | 3:03 | 2026-09-03 |  |
+| [If He's Anything Like You, He'll Be Alright](https://open.spotify.com/track/06AT4b7MAnuHDhwbLgfbLI) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [If He's Anything Like You, He'll Be Alright](https://open.spotify.com/album/5hMrXSNHTdpGCrnNrGmSPf) | 3:03 | 2026-09-03 | 2026-11-17 |
 | [If I Weren't Me](https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [If I Weren't Me](https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7) | 2:31 | 2023-03-24 | 2023-06-16 |
 | [If Not Now Then When](https://open.spotify.com/track/4bVs6e8fpoS9sVPDHp7oo9) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [If Not Now Then When](https://open.spotify.com/album/4BK0XMjnJQfMWgQWgyii8b) | 3:20 | 2025-11-13 | 2026-02-20 |
 | [If The Sky Falls Down](https://open.spotify.com/track/3gK1L9oldj1nVfx3AxAbeO) | [Nick Klyne](https://open.spotify.com/artist/3kykBEXWnTbBOYRKv78GyU) | [If The Sky Falls Down](https://open.spotify.com/album/4T5ovqNfPP0vhkEHJpAT1M) | 2:48 | 2023-05-04 | 2023-08-04 |
@@ -1615,6 +1616,7 @@
 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-01-09 | 2025-03-07 |
 | [With You](https://open.spotify.com/track/0fy5enlfWgIP2ojLZjUcwA) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [With You](https://open.spotify.com/album/42tGduNh3nIT5NGsUDqcKY) | 2:50 | 2026-01-09 | 2026-03-27 |
 | [With You \(with Sofia Camara\)](https://open.spotify.com/track/6UPK99uGkoFmEhHLe1Dx67) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [With You \(with Sofia Camara\)](https://open.spotify.com/album/703OfuxHtlcsnrdZvAjkan) | 3:08 | 2025-03-06 | 2025-05-16 |
+| [Without My Strings](https://open.spotify.com/track/32oNxFi2dBftVTPKsMJcpc) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Without My Strings](https://open.spotify.com/album/75ICiuYySDUpwRAU6I9h3E) | 3:10 | 2026-11-16 |  |
 | [Woman I Am](https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Woman I Am](https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70) | 3:31 | 2026-04-09 | 2026-06-26 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/0EE51Hoaw12rSNWYMBnkDg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD EP](https://open.spotify.com/album/6zSIkJTqQm06zGCunKbmaR) | 2:43 | 2024-07-18 | 2024-09-27 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-15 | 2024-07-21 |

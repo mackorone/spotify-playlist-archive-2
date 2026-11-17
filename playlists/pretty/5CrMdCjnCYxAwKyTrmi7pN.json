@@ -1,12 +1,12 @@
 {
   "description": "Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...",
-  "num_followers": 130612,
+  "num_followers": 130605,
   "original_name": "HERFST 2026",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA+i4OPH0blhFAiBv3egDHuBRDlpgE8",
+  "snapshot_id": "AAA+jdPzkoRCckpNKi4rXyLTgm0o2jiQ",
   "tracks": [
     {
       "added_at": "2026-11-13 08:24:13",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-11-13 08:24:13",
       "album": {
-        "name": "Incredible",
-        "url": "https://open.spotify.com/album/3GSt8EeN0cZ9hjssIowCeA"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "So Incredible",
-      "url": "https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq"
-    },
-    {
-      "added_at": "2026-11-13 08:24:13",
-      "album": {
         "name": "Adem Uit Adem In",
         "url": "https://open.spotify.com/album/6ccEehFu4iu3Omesd2OwAj"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+    },
+    {
+      "added_at": "2026-11-16 09:23:43",
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
     },
     {
       "added_at": "2026-11-13 08:24:13",
@@ -287,6 +287,22 @@
       "duration_ms": 178186,
       "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-11-13 08:24:13",
+      "album": {
+        "name": "Incredible",
+        "url": "https://open.spotify.com/album/3GSt8EeN0cZ9hjssIowCeA"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "So Incredible",
+      "url": "https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq"
     },
     {
       "added_at": "2026-11-13 08:24:13",

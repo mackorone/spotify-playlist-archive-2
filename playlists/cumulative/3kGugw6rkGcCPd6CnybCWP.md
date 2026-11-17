@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-554 songs - 1 day 8 hr 4 min
+555 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Didn't We](https://open.spotify.com/track/188DpOR3zw1dHkMPUugNGT) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Didn't We](https://open.spotify.com/album/5ElhS1qIyu9EQL4Wf3MJw1) | 3:41 | 2026-01-08 | 2026-02-20 |
 | [Didsbury Dozen](https://open.spotify.com/track/5ze0tk0ZLfW2vBAuabcNsV) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Didsbury Dozen](https://open.spotify.com/album/6b1TM8wYvhk08kXdn2JZ9e) | 3:59 | 2026-06-30 | 2026-08-18 |
 | [Different Way Home](https://open.spotify.com/track/6eGTAZZz8DC0ZXDpK0ub87) | [The Casbahs](https://open.spotify.com/artist/41Op3ON8O72S14pbBEJ6bd) | [Different Way Home](https://open.spotify.com/album/6yZz5dt5wZDrdE4QtXsqy0) | 3:21 | 2025-12-12 | 2026-02-07 |
+| [Dig A Bone](https://open.spotify.com/track/08rbnKhtDgHS6pQjZOKR9b) | [JoJo Worthington](https://open.spotify.com/artist/6ML3M2WuSobnfx8Y0wEYGd) | [BAPTIZED II](https://open.spotify.com/album/7MEYF4hJjHlGrJJcCW9lXM) | 3:19 | 2026-11-16 |  |
 | [Dig It To The Grave](https://open.spotify.com/track/5lDGOi92xSkz905rpTZT4L) | [MAGNUS BERG](https://open.spotify.com/artist/2MqQsfiXjKmpwSMqzc1BHj) | [Dig It To The Grave](https://open.spotify.com/album/4wj2VyvU4P8y0HTKp3rbZ5) | 4:26 | 2026-03-31 | 2026-05-06 |
 | [Dirty Soul](https://open.spotify.com/track/3yHiEP169PW8FQVLOBn0Ph) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Dirty Soul](https://open.spotify.com/album/0VcUcURCY02Tv33uTlfgTd) | 5:04 | 2026-02-23 | 2026-04-16 |
 | [Disappear \(Velvet Night\)](https://open.spotify.com/track/0GRSqkJDkXJt58ltaSr2Ot) | [Kalen](https://open.spotify.com/artist/2QZLDt6D9mNK26oqp2xRuK) | [Velvet Night](https://open.spotify.com/album/3JGuvzVSBOdQ0MHXDJXQ7M) | 5:11 | 2026-07-01 | 2026-08-18 |

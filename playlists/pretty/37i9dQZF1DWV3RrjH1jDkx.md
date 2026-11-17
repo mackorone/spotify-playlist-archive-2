@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. Ella Langley, Erlend Ropstad, Martin Hazy, og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,825 likes - 106 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,829 likes - 106 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 56 | [Leave You \(Never\)](https://open.spotify.com/track/3e3CdVMNH7gIvjKrzO63b7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leave You \(Never\)](https://open.spotify.com/album/719K239D6kQI3oi3Bw8rbJ) | 2:48 |
 | 57 | [Never Said Goodbye \(feat\. Lil Yachty\)](https://open.spotify.com/track/02A4v0xP7mt78UdPtypvcp) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Never Said Goodbye \(feat\. Lil Yachty\)](https://open.spotify.com/album/3J1YFYlZ2LZkTTxgzW44n6) | 3:57 |
 | 58 | [Guts](https://open.spotify.com/track/7CcsXTN6c7DOkF2JOmdC71) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Guts](https://open.spotify.com/album/5BVWDl6DMXN7IgbzTqnFud) | 2:52 |
-| 59 | [Anything can happen](https://open.spotify.com/track/5oxEyCNnZ1SdLyUawD4qig) | [Kacper](https://open.spotify.com/artist/6V7Y2lvsEbWx1DitjPjtHY), [Kaoroo](https://open.spotify.com/artist/3CvCpt8lUeZRf1OnYs252b) | [Anything can happen](https://open.spotify.com/album/1qeFu8ZglmfiOm6NS9OLkL) | 2:21 |
+| 59 | [Anything can happen](https://open.spotify.com/track/5oxEyCNnZ1SdLyUawD4qig) | [Kacper](https://open.spotify.com/artist/6V7Y2lvsEbWx1DitjPjtHY), [Kaoroo](https://open.spotify.com/artist/3CvCpt8lUeZRf1OnYs252b) | [Anything can happen](https://open.spotify.com/album/1qeFu8ZglmfiOm6NS9OLkL) | 2:22 |
 | 60 | [ÖL](https://open.spotify.com/track/4AuPuiCeT4bmwCmlRGmTiy) | [Sikkerhetsproffen](https://open.spotify.com/artist/01Nl8dhJLGs2meORN2K5rf), [EpaKongen](https://open.spotify.com/artist/0Ak3fHyAjNlhqOb0tLyq3b), [EpaQueen](https://open.spotify.com/artist/1oh6dcghw4Z23EJVsic6OD) | [ÖL](https://open.spotify.com/album/5saMxS99JIBrFbKq9xO3pF) | 2:16 |
 | 61 | [XTC](https://open.spotify.com/track/2dO4TpAwbXCxHaIEZdNpBB) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [XTC](https://open.spotify.com/album/7CQrnHtKFr5mrPpebfvx1K) | 3:40 |
 | 62 | [Dangerous](https://open.spotify.com/track/15tGq1xOOer8QZ268uBNxG) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Dangerous](https://open.spotify.com/album/4xM6LyAQYiLa73XcJuD0kU) | 4:46 |

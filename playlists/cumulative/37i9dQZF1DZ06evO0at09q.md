@@ -4,7 +4,7 @@
 
 > This is Qlank\. The essential tracks, all in one playlist.
 
-116 songs - 7 hr 8 min
+117 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,10 @@
 | [DGAF](https://open.spotify.com/track/06Z345gYT6n333z9XYXsiY) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [New Times EP](https://open.spotify.com/album/4eRgsarMzUN0FQX1FWzwl0) | 4:17 | 2024-01-03 | 2026-07-01 |
 | [Dimensions](https://open.spotify.com/track/6HIoWv3bdIih39MoMwop4z) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dimensions](https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM) | 3:52 | 2024-01-24 | 2026-09-03 |
 | [Dip](https://open.spotify.com/track/3PGf14hxHUHQR38Yqxd80m) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 4:21 | 2024-01-07 | 2026-11-06 |
+| [Disco](https://open.spotify.com/track/4MPNLzBxJg4dX5AkzFASkd) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [The Boat House & Gold Digger Present Buried Treasure](https://open.spotify.com/album/4xRiaVUpL2H6bowL5060ho) | 3:52 | 2026-11-17 |  |
 | [Dollar Stack](https://open.spotify.com/track/2KE6SIDlHjWBdKrnfZ3e9B) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dollar Stack](https://open.spotify.com/album/23jIIMZiOL1ajReCPEYvMe) | 2:31 | 2024-04-21 |  |
-| [Don't Stop](https://open.spotify.com/track/3SJNXg8LaOLTbIbSXofFcM) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Dance Again](https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6) | 3:54 | 2024-01-03 |  |
-| [Drip](https://open.spotify.com/track/67fa0QW9YqkasFEzzDRf04) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 3:50 | 2024-01-27 | 2026-06-14 |
+| [Don't Stop](https://open.spotify.com/track/3SJNXg8LaOLTbIbSXofFcM) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Dance Again](https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6) | 3:54 | 2024-01-03 | 2026-11-17 |
+| [Drip](https://open.spotify.com/track/67fa0QW9YqkasFEzzDRf04) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 3:50 | 2024-01-27 |  |
 | [Drunk](https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 4:03 | 2024-01-03 |  |
 | [Elise](https://open.spotify.com/track/7aoPqIaW8W1hwsiaSrNFks) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Elise](https://open.spotify.com/album/1l4tCggsaDZ8s0bjSymMz8) | 3:05 | 2024-01-03 |  |
 | [Fast Beats](https://open.spotify.com/track/7c79srksl4pd0AX1dbSuzT) | [Kendoll](https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Jauz Presents: This Is Off The Deep End](https://open.spotify.com/album/76WlRA8IoM6lYCzyEp9LRl) | 4:03 | 2024-01-03 | 2024-04-01 |
@@ -92,7 +93,7 @@
 | [Ponder](https://open.spotify.com/track/6yDnJlt2M0ZwsIadgT6Asf) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Cataclysm](https://open.spotify.com/album/4nO2S5OtrkI9YVPZ7dbWAT) | 2:30 | 2025-05-30 | 2026-10-10 |
 | [Pop \- Original Mix](https://open.spotify.com/track/5SaqN8fWIBuWxLSNLbF2J9) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [The Boat House 2019 Sampler](https://open.spotify.com/album/15eiIsoLMskLCzWZZT0gjh) | 3:50 | 2024-11-26 | 2026-10-30 |
 | [Pounds](https://open.spotify.com/track/5dQVPuHELxBTKCHeZ22YuA) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Fish Scale](https://open.spotify.com/artist/6wtqdTPU9yu2s9i2KpDSMK) | [Gold Digger Deluxe Edition, Vol\. 5](https://open.spotify.com/album/0airIGQ0K4X7INjO4wHUfh) | 4:24 | 2025-11-03 | 2026-11-07 |
-| [Pretty Deep](https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 3:18 | 2024-01-03 |  |
+| [Pretty Deep](https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 3:18 | 2024-01-03 | 2026-11-17 |
 | [Problem](https://open.spotify.com/track/4E9enYOmhzIld9ezlik57W) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Problem](https://open.spotify.com/album/4SU1oWWE8KK62aRXiitiG6) | 3:50 | 2024-01-03 | 2026-05-29 |
 | [Questions](https://open.spotify.com/track/0u4YBL97IRfISyZfhto6is) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Questions](https://open.spotify.com/album/7qp05PQkgvp4iKheQD6yCR) | 3:49 | 2024-02-19 | 2026-09-24 |
 | [Ride](https://open.spotify.com/track/2DlUdLUNs9MHEM8bSeESQz) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Ride](https://open.spotify.com/album/5KKng455l20mSzsuF4oLPx) | 4:19 | 2025-08-29 | 2026-09-01 |

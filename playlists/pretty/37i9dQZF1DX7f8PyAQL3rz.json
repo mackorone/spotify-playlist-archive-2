@@ -1,6 +1,6 @@
 {
   "description": "mesmos bairros, mesmos pr\u00e9dios - e boa\u00b2",
-  "num_followers": 1425593,
+  "num_followers": 1425432,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,30 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
+        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
+        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "duration_ms": 136170,
+      "name": "COMO Q OFUSCA O BRILHO?",
+      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
         "name": "GLA",
         "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 201904,
       "name": "GLA",
       "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
-        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
-        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 136170,
-      "name": "COMO Q OFUSCA O BRILHO?",
-      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
     },
     {
       "added_at": "2026-11-09 19:53:26",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
-        "name": "Sol Na Lata",
-        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
-      },
-      "artists": [
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "Dj TC",
-          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
-        },
-        {
-          "name": "DJ PEPI",
-          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sol Na Lata",
-      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
         "name": "MUSICAS PARA ELEVADOR",
         "url": "https://open.spotify.com/album/1jFa66HKY5ddl2UGR9Y1pG"
       },
@@ -1191,6 +1167,30 @@
       "duration_ms": 161856,
       "name": "MARTINA",
       "url": "https://open.spotify.com/track/2QOxeIlhFvLyIwQvkoeznG"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
+        "name": "Sol Na Lata",
+        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Dj TC",
+          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
+        },
+        {
+          "name": "DJ PEPI",
+          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sol Na Lata",
+      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
     },
     {
       "added_at": "2026-11-09 19:53:26",
@@ -1383,34 +1383,6 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
-        "name": "DIXAVANDO",
-        "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
-      },
-      "artists": [
-        {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "Analogic",
-          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "DIXAVANDO",
-      "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
         "name": "BAILA IGUAL VINI",
         "url": "https://open.spotify.com/album/2dq5BaKXGJDum1p169N8vM"
       },
@@ -1435,6 +1407,34 @@
       "duration_ms": 160718,
       "name": "BAILA IGUAL VINI",
       "url": "https://open.spotify.com/track/4GNQdhAwDz6Qv1Wa8Lx6zH"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
+        "name": "DIXAVANDO",
+        "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
+      },
+      "artists": [
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "Analogic",
+          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "DIXAVANDO",
+      "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
     },
     {
       "added_at": "2026-11-09 19:53:26",

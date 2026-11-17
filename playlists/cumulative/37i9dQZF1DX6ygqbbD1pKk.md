@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-163 songs - 8 hr 17 min
+164 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [El Mundo es mi Familia](https://open.spotify.com/track/0W4UPlbJs8lgX1bAKxzavM) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 0:50 | 2023-09-15 |  |
 | [El Reino de Rosas](https://open.spotify.com/track/7rG7na8ZzhhopBlbirpxuZ) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Elenco de Wish](https://open.spotify.com/artist/3cIjHsZRKDs0AiZbd462y6) | [Wish \(Banda Sonora Original en Español\)](https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0) | 2:27 | 2024-04-30 | 2024-09-12 |
 | [El Reporte De Hoy](https://open.spotify.com/track/4h9nt7QsqBHYmS4B0wpLNU) | [Eduardo Tejedo](https://open.spotify.com/artist/6ibB3taX7MxloM6rg3gMne), [Héctor Lama](https://open.spotify.com/artist/1eTdVPfRP70mS5KFZNxnMn), [Alan Piz Morán](https://open.spotify.com/artist/12lPP3QOiBaHqT9IPpdBO8) | [El Rey Leon \(Edición Especial\)](https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD) | 1:35 | 2024-09-11 | 2025-11-08 |
+| [Ella es el Hechizo \- De "Hechizo: Bienvenidos a Hexe"](https://open.spotify.com/track/1jiVKjIHGCgh2vcuP3onKI) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [Ella es el Hechizo \(De "Hechizo: Bienvenidos a Hexe"\)](https://open.spotify.com/album/27xSUw3x8kREK6TiBZi3WR) | 2:47 | 2026-11-16 |  |
 | [En lo profundo/Peso](https://open.spotify.com/track/4mEIqavz99DpHXxi3wK46I) | [Sugey Torres](https://open.spotify.com/artist/1ND1UzX6EmIrVxfsRowxIc) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:22 | 2024-04-30 |  |
 | [En Mi Corazón Estarás](https://open.spotify.com/track/4OIp3u67j4xFlsTRlDmpKf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp), [Merche Macaria](https://open.spotify.com/artist/3EpcaEm4CiGeEAhHymp7TV) | [Tarzan \(Banda Sonora Original\)](https://open.spotify.com/album/7wU1QpssLayUhbh9AO6lkm) | 1:39 | 2023-09-15 |  |
 | [Eres](https://open.spotify.com/track/3sZFupNtxsH1HmVun5Bt0b) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l) | [Soy Luna](https://open.spotify.com/album/1LG389RayU0XbgirX9GV8u) | 2:29 | 2025-11-07 |  |

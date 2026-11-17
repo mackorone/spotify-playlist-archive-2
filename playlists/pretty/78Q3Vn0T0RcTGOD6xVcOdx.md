@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 ### [Top Hits 2026 🔥 Best Songs Right Now, Chart Hits, Pop & R&B Hits](https://open.spotify.com/playlist/78Q3Vn0T0RcTGOD6xVcOdx)
 
-> www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
+> Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 548 likes - 55 songs - 3 hr 10 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 550 likes - 67 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,17 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 53 | [Oro e Argento](https://open.spotify.com/track/4aaZkRpRoEni1QFDOUsAkw) | [Enrico Lotterini](https://open.spotify.com/artist/1Th8kg6pWPBM4FwWxCVWMT) | [Lòrico](https://open.spotify.com/album/3oIOcV8EUyZ9cOerOqAzLD) | 3:51 |
 | 54 | [2K](https://open.spotify.com/track/3rjhhaW7LJDm89QSVYllm9) | [Djcoco](https://open.spotify.com/artist/3S93elFkdnyzRxMVrexWNY) | [2K](https://open.spotify.com/album/6PKujXeSxhINs9eGi1R7cv) | 3:07 |
 | 55 | [By All Means](https://open.spotify.com/track/6ZlwOKl1epw066iFNjilEh) | [Birgitte And The Dusty Trails](https://open.spotify.com/artist/6VfH4YCvgDclCiYLJhk8zc), [Emma Birgitte Ovlien](https://open.spotify.com/artist/10ooU0BJqSyHNTaW49tCfE) | [By All Means](https://open.spotify.com/album/19QJO68vLhLR2Jm0fl58Qj) | 3:21 |
+| 56 | [AIN'T PUTTING ON NO SHOW](https://open.spotify.com/track/4Uo6ryrx9VhoVeee52ZFfF) | [Prissy Young](https://open.spotify.com/artist/6KarQ55OChQitzSyA7Q94d) | [AIN'T PUTTING ON NO SHOW](https://open.spotify.com/album/1e8oJU7lydM3x4bd3YrdBm) | 3:26 |
+| 57 | [Child with Molly](https://open.spotify.com/track/2XWzQSloG4Lw7E2anr8pej) | [Ocean p](https://open.spotify.com/artist/1nuyYINzDs0PaWYfCL6Sab) | [Child with Molly](https://open.spotify.com/album/4IcWsnFAGYgkCSdicEB4su) | 2:24 |
+| 58 | [One God](https://open.spotify.com/track/5FvWm2s8Jt5r0MK8gBo8ka) | [Liolizzy](https://open.spotify.com/artist/4UmhUI6RL512u1kTE2XoNS) | [One God](https://open.spotify.com/album/1XUiOxasli3TRZIigL8wT9) | 2:54 |
+| 59 | [Focus](https://open.spotify.com/track/5qjKnnMT6wIJzKTAUjJIq1) | [Ruleboy Jmc](https://open.spotify.com/artist/1rQGnAPeE4CSAJxErTjUwG), [Melodic Jigger](https://open.spotify.com/artist/2gw7NBdQapezgmKhgKahuw), [King Doublestar](https://open.spotify.com/artist/3d4w0k8GdUeyLJwkCinhWv) | [Focus](https://open.spotify.com/album/3ijdS47DZZ19QNwOpBxuIb) | 2:02 |
+| 60 | [Silence](https://open.spotify.com/track/22G4l622bTQvI2cXCWukEh) | [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Silence](https://open.spotify.com/album/281QRwB2V26Emhe54lVsYg) | 3:07 |
+| 61 | [WATIMAGBO](https://open.spotify.com/track/5EuErnwjFlkcBwl4UhWQgz) | [Ade s kay](https://open.spotify.com/artist/6FfBy7k1UXoc9GRrbkLv94) | [WATIMAGBO](https://open.spotify.com/album/3g0wQ9hzpCU5rr81L8N0Nv) | 2:19 |
+| 62 | [Nothing \- Reworked](https://open.spotify.com/track/35iK3y5yqC8xKJHiKIzLEy) | [Philippa](https://open.spotify.com/artist/6uDsHBWnieot7YLed6WKxH) | [Nothing \(Reworked\)](https://open.spotify.com/album/3tgWZJuv3GzAo4zBOc0Ryf) | 4:39 |
+| 63 | [Jesus Our Evidence](https://open.spotify.com/track/2HNAUdse8wWWginG2G9JEx) | [Grace Untold](https://open.spotify.com/artist/4e5aNTea63sajZGriOcQUd) | [Jesus Our Evidence](https://open.spotify.com/album/2xb5UQA0UerQSICFRBPs2k) | 2:45 |
+| 64 | [Slow & Steady](https://open.spotify.com/track/3TsIIkIwTBbRBuihmgKPGa) | [Ella Campbell](https://open.spotify.com/artist/0I2UoCR3WntpFizGgGdymv) | [Slow & Steady](https://open.spotify.com/album/6mw7RvplKcPAllJj029QYA) | 3:27 |
+| 65 | [Trouble](https://open.spotify.com/track/2q0QGLGq7ffjwGSDP1ZtvQ) | [XB](https://open.spotify.com/artist/28IjAxX693wcxTsuHlQKP5) | [Unspoken](https://open.spotify.com/album/2ZOCC7mM21LYQxCJbRUGGE) | 2:48 |
+| 66 | [Only You](https://open.spotify.com/track/1to598ncuGEkEMBGNjRgNH) | [Nextwiz](https://open.spotify.com/artist/2gGbRpLBJdowgabVseT8T6) | [Only You](https://open.spotify.com/album/4L81XMSjIghfPIKWKyBUcL) | 2:24 |
+| 67 | [Aroma](https://open.spotify.com/track/2N0aP05rGVpXqclBZLkR3P) | [Surepass](https://open.spotify.com/artist/0Uq97aadinVaT4T9xuGJiJ) | [Aroma](https://open.spotify.com/album/1oVWhSfmNE436JCCyYI3kI) | 4:14 |
 
-Snapshot ID: `AAACmfghoPj5/tJCNRJeQTCd05DQZNt+`
+Snapshot ID: `AAACpu6lEb3yCdH8ZnPbINyLSqdk3rSU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > AUMEX takes over the playlist, spotlighting the music, artists and cultural energy of the 2026 Summit\. Cover: Anna Makula
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,616 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,638 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

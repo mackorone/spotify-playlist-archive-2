@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Ating Panahon",
+        "url": "https://open.spotify.com/album/3eLIaoG4yf8sJyUbBXVdt4"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248613,
+      "name": "Ating Panahon",
+      "url": "https://open.spotify.com/track/0drQHJ1k4Ski9KKwbY6T62"
+    },
+    {
+      "album": {
         "name": "Ayaw Mo Na",
         "url": "https://open.spotify.com/album/4LbpIb8PsbtsYjZgvE03tg"
       },
@@ -900,6 +918,24 @@
       "duration_ms": 205724,
       "name": "Burning Blue",
       "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
+    },
+    {
+      "album": {
+        "name": "alas tres, muli",
+        "url": "https://open.spotify.com/album/3aMlEjfXBTD7hgYzgs2gWn"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1h5eRSFTxtcqvv04uKU2kz"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266285,
+      "name": "buwan/ulan",
+      "url": "https://open.spotify.com/track/7AvZmNwqS32H2a8yatuZEC"
     },
     {
       "album": {
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -2696,7 +2732,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 251666,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
@@ -2916,7 +2952,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 186013,
       "name": "indie film",
       "url": "https://open.spotify.com/track/3LVK461v4j5peYIo9qq4Fj"
@@ -2988,7 +3024,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 182586,
       "name": "IS THIS THE END?",
       "url": "https://open.spotify.com/track/6DroHr4E3vTuRGJhPpqb9F"
@@ -3042,7 +3078,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 249750,
       "name": "Isip",
       "url": "https://open.spotify.com/track/4do0DDPsoFE0TsOdtc8RHF"
@@ -3118,7 +3154,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 208004,
       "name": "Kalendaryo",
       "url": "https://open.spotify.com/track/3979LHIoFI5gBUdLFn1e3T"
@@ -3154,7 +3190,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 192500,
       "name": "Kapag Kapiling Ka",
       "url": "https://open.spotify.com/track/7oZqo2Ix1BrI9IYik02tfo"
@@ -4078,7 +4114,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 222191,
       "name": "My First Time",
       "url": "https://open.spotify.com/track/41eSXYnHiAkD7PKCprJDsa"
@@ -4936,7 +4972,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 213690,
       "name": "Perfect Man",
       "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
@@ -5196,7 +5232,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
@@ -5521,6 +5557,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/0zLetJtRIO7sIzlfWrbcO1"
+      },
+      "artists": [
+        {
+          "name": "Celedonio",
+          "url": "https://open.spotify.com/artist/1O46BpQWGFtEcQpFUYgYRt"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255416,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/46EAEAKrKHzcqJ0fV5oEzO"
+    },
+    {
+      "album": {
         "name": "Virgin",
         "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
       },
@@ -5684,7 +5738,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
@@ -5828,7 +5882,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 151647,
       "name": "Staying",
       "url": "https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5"
@@ -6116,7 +6170,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 362821,
       "name": "Tenchu",
       "url": "https://open.spotify.com/track/16E9xFP8csyjHwFhKmpGMj"
@@ -6200,6 +6254,24 @@
       "duration_ms": 175750,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
+    },
+    {
+      "album": {
+        "name": "The Ocean",
+        "url": "https://open.spotify.com/album/78urQf4fyRWRXNoladKnD7"
+      },
+      "artists": [
+        {
+          "name": "Gabe Watkins",
+          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/1yIZukgM5hBDsLafnMMbO8"
     },
     {
       "album": {
@@ -6946,7 +7018,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 194103,
       "name": "Write Me A Letter",
       "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"

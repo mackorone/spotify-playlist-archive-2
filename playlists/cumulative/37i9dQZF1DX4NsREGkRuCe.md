@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,310 songs - 2 day 15 hr 45 min
+1,311 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,7 +641,7 @@
 | [Jump & Pass \(feat\. Ajebo Hustlers\)](https://open.spotify.com/track/4qavezhcLIshH7HGvA4Nan) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [THE RETURN \(Eze Onyịkọ\)](https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH) | 3:24 | 2026-05-15 | 2026-05-22 |
 | [Jump Up Skirt](https://open.spotify.com/track/5h5owfuUP5Te0LFGJQPBHk) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Jump Up Skirt](https://open.spotify.com/album/4fc7TNhO0DWeE9eosCps7D) | 1:58 | 2024-03-22 | 2024-04-05 |
 | [JUNGLE](https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [JUNGLE](https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4) | 2:40 | 2024-09-27 | 2024-10-05 |
-| [Jungle](https://open.spotify.com/track/5cSaHJEB56sgxLURr9WFzF) | [Delamore](https://open.spotify.com/artist/7qYJQSvaLyLOFvxGEdjw79), [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Jungle](https://open.spotify.com/album/2CAzG4F35WKFURnVWvwAlg) | 2:49 | 2026-08-19 |  |
+| [Jungle](https://open.spotify.com/track/5cSaHJEB56sgxLURr9WFzF) | [Delamore](https://open.spotify.com/artist/7qYJQSvaLyLOFvxGEdjw79), [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Jungle](https://open.spotify.com/album/2CAzG4F35WKFURnVWvwAlg) | 2:49 | 2026-08-19 | 2026-11-17 |
 | [just like me](https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:51 | 2024-01-12 | 2024-04-04 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-20 | 2023-09-29 |
 | [Kala \(Feat\. PsychoYP\)](https://open.spotify.com/track/7c6WGOlZUEPv67P5jseUMx) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:33 | 2025-03-31 | 2025-04-12 |
@@ -1002,6 +1002,7 @@
 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 | 2025-05-23 | 2026-07-19 |
 | [Pressure \(feat\. Leon Thomas\)](https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:24 | 2026-08-14 | 2026-09-26 |
 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-13 | 2023-11-17 |
+| [Pretty Girls](https://open.spotify.com/track/59DqgKpSKsyCc2VE8h1SvD) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Pretty Girls](https://open.spotify.com/album/6qzU45BjfmPKlGK0KH5nxW) | 2:16 | 2026-11-13 |  |
 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 | 2023-06-09 | 2023-10-13 |
 | [Princess Treatment](https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Love & Hustle](https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7) | 3:00 | 2025-03-31 | 2025-05-30 |
 | [Problem Choke \(feat\. Qing Madi\)](https://open.spotify.com/track/10iusab53B2DZKevX5s4XB) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Problem Choke \(feat\. Qing Madi\)](https://open.spotify.com/album/1cWgzr9PJ3Dy8UJv3hsIIM) | 2:36 | 2024-04-26 | 2024-05-03 |

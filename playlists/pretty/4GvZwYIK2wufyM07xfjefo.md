@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4GvZwYIK2wufyM07xfjefo.md) - [plain]
 
 > KARENTレーベルで配信中の楽曲の中から、お家でのんびり聴きたい癒し系ボカロ曲を選曲。毎週更新。
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 269 likes - 40 songs - 2 hr 20 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 269 likes - 36 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,6 @@ pretty - [cumulative](/playlists/cumulative/4GvZwYIK2wufyM07xfjefo.md) - [plain]
 | 33 | [Rush Life \(feat\. 巡音ルカ\)](https://open.spotify.com/track/6cL5FN4A7c5De5uQm0SRju) | [Chiquewa \- ぱんだっち](https://open.spotify.com/artist/3dGJZgmwiip1ZaaGIZcgf3), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [Transitions](https://open.spotify.com/album/0ttdxGq7HgWyQf42VlnKL4) | 4:25 |
 | 34 | [ココロノート \(feat\. 初音ミク\)](https://open.spotify.com/track/4H13q3URX6g9bTGrNSelcN) | [うどんタイマーP](https://open.spotify.com/artist/4ta5vqvsNmN0wFUultQHdJ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ココロノート](https://open.spotify.com/album/6CDXB2W3g6dUEGHXcWNVuV) | 5:05 |
 | 35 | [深夜ラジオにおいでよ](https://open.spotify.com/track/5QMNZvvdkdDnIgWZqvqfgy) | [TOKOTOKO](https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH) | [地球の音楽家](https://open.spotify.com/album/3qqJPlnLeBdzJHwGVIzmGT) | 2:49 |
-| 36 | [ウール・テレパシー \(feat\. 初音ミク\)](https://open.spotify.com/track/3WzNkUw9Mynoy0XBzW9ZnR) | [YUZY](https://open.spotify.com/artist/7ddYo20mqfV4Xxzn81fmiw), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ミュゲとタジェット](https://open.spotify.com/album/5KB69YygNWM4e3MFljFix9) | 3:05 |
-| 37 | [Lie and Confession](https://open.spotify.com/track/4wPOBaDgDBONbveqNwiltW) | [BCNO](https://open.spotify.com/artist/24phm8J2V68m162CRCIw7b) | [COLLAGE](https://open.spotify.com/album/7E2fnsMK2TQvEDMHuVEWxF) | 3:31 |
-| 38 | [シガーキス \(feat\. KAITO\)](https://open.spotify.com/track/0SRyRSYZn7aNEmrZAi3EtU) | [Re:nG](https://open.spotify.com/artist/5Ua6rqltTYOracDNoMsg3L), [KAITO](https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2) | [アンサング・ラブソング](https://open.spotify.com/album/2RKlkQRW1kIKbxj7IbP0cd) | 4:21 |
-| 39 | [リリュージョン \(feat\. 初音ミク\)](https://open.spotify.com/track/5Dz76jslkLu9sahKuAOf2b) | [せきこみごはん](https://open.spotify.com/artist/0Ob20i2XjAOSyVQGdJP0IS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [リリュージョン](https://open.spotify.com/album/2XZSbEW84nQ3fIr2GWSBs4) | 3:21 |
-| 40 | [ぼくたちのうたいかた、 \(feat\. 初音ミク\)](https://open.spotify.com/track/35goD89aMzDaEjHbFiOqRv) | [海風太陽](https://open.spotify.com/artist/3C6YK9PmwFy9SGXTW3uC2i), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ぼくたちのうたいかた、](https://open.spotify.com/album/2sSCPIizHobZSrvJpM3ISu) | 2:26 |
+| 36 | [ピエロプレイ（original ver） \(feat\. MEIKO\)](https://open.spotify.com/track/0F6XRwxBHUfb39jV7AaFdM) | [No.D](https://open.spotify.com/artist/66f1Bt9HrVpwNOPZvm2ysl), [MEIKO](https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp) | [Garakuta Archives vol.4](https://open.spotify.com/album/6mUJDR9Xn22iGcAjq8exPb) | 4:09 |
 
-Snapshot ID: `AAAHwjSo95zzkkYzYlwvMSpTSMX3FqOT`
+Snapshot ID: `AAAHyF1uw+xUP6MSmfvKh+/V3V9wUKG1`

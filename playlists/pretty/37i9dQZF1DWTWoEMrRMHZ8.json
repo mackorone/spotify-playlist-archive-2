@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Ala\u00edde Costa, Emicida",
-  "num_followers": 352820,
+  "num_followers": 352812,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Dez Vidas",
-        "url": "https://open.spotify.com/album/6d4sMgo6fDkPxnDPuj2fX5"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 189668,
-      "name": "N\u00e3o Importa",
-      "url": "https://open.spotify.com/track/24wejC7yyV0EjHoeJeGtZw"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Perfei\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Dez Vidas",
+        "url": "https://open.spotify.com/album/6d4sMgo6fDkPxnDPuj2fX5"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 189668,
+      "name": "N\u00e3o Importa",
+      "url": "https://open.spotify.com/track/24wejC7yyV0EjHoeJeGtZw"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "ContraTempo",
         "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 192519,
       "name": "Sinto",
       "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "Uirapuru",
-        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        }
-      ],
-      "duration_ms": 102143,
-      "name": "Uirapuru",
-      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -643,6 +627,22 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Uirapuru",
+        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        }
+      ],
+      "duration_ms": 102143,
+      "name": "Uirapuru",
+      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "Caf\u00e9",
         "url": "https://open.spotify.com/album/2gjoYpivdKaMgyqfZMrAIg"
       },
@@ -659,6 +659,30 @@
       "duration_ms": 183641,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/6FF73EidnkO6TvgnUsZNHB"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
+        "url": "https://open.spotify.com/album/55NNE6eRfjnatWPLa0aKx6"
+      },
+      "artists": [
+        {
+          "name": "Carol Fazu",
+          "url": "https://open.spotify.com/artist/5c6ugniglmJAisZw252uwS"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Liminha",
+          "url": "https://open.spotify.com/artist/7Bgh4WtG88t1VQsGKzszH7"
+        }
+      ],
+      "duration_ms": 277858,
+      "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
+      "url": "https://open.spotify.com/track/67xifhsKAR6BpUc0zuGZW5"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -735,30 +759,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
-        "url": "https://open.spotify.com/album/55NNE6eRfjnatWPLa0aKx6"
-      },
-      "artists": [
-        {
-          "name": "Carol Fazu",
-          "url": "https://open.spotify.com/artist/5c6ugniglmJAisZw252uwS"
-        },
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Liminha",
-          "url": "https://open.spotify.com/artist/7Bgh4WtG88t1VQsGKzszH7"
-        }
-      ],
-      "duration_ms": 277858,
-      "name": "Fa\u00e7a Chuva Ou Fa\u00e7a Sol",
-      "url": "https://open.spotify.com/track/67xifhsKAR6BpUc0zuGZW5"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
         "url": "https://open.spotify.com/album/4MsrnDkwgg0GCZfp1OjRJh"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Por Onde Deus Sorri",
+        "url": "https://open.spotify.com/album/45IsMZdwiag4G3I6OHvSct"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
+        }
+      ],
+      "duration_ms": 161944,
+      "name": "Por Onde Deus Sorri",
+      "url": "https://open.spotify.com/track/5QdrveW2rl2WTrhjuca317"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
         "url": "https://open.spotify.com/album/2gz25YLpqxjbkZhpcMiquh"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 191792,
       "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
       "url": "https://open.spotify.com/track/5bCXKLqLtAsXuBwnlfRt70"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "Por Onde Deus Sorri",
-        "url": "https://open.spotify.com/album/45IsMZdwiag4G3I6OHvSct"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        }
-      ],
-      "duration_ms": 161944,
-      "name": "Por Onde Deus Sorri",
-      "url": "https://open.spotify.com/track/5QdrveW2rl2WTrhjuca317"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Odisseu",
+        "url": "https://open.spotify.com/album/39UmJTD7Ej6FHjNWkSeQqf"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Rodrigo Bittencourt",
+          "url": "https://open.spotify.com/artist/2IlBhuwIzNLOvExaplv0tj"
+        }
+      ],
+      "duration_ms": 137564,
+      "name": "Odisseu",
+      "url": "https://open.spotify.com/track/3mdem1BGKgYecijYHTUO3n"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "A Paz",
         "url": "https://open.spotify.com/album/7bplnsf0SiATd2ttUgTaxo"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 179029,
       "name": "N\u00e3o Sento \u00e0 Mesa",
       "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "Odisseu",
-        "url": "https://open.spotify.com/album/39UmJTD7Ej6FHjNWkSeQqf"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Rodrigo Bittencourt",
-          "url": "https://open.spotify.com/artist/2IlBhuwIzNLOvExaplv0tj"
-        }
-      ],
-      "duration_ms": 137564,
-      "name": "Odisseu",
-      "url": "https://open.spotify.com/track/3mdem1BGKgYecijYHTUO3n"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Flor",
-        "url": "https://open.spotify.com/album/4CpygNo6hhtstE5OKqXJBt"
-      },
-      "artists": [
-        {
-          "name": "Ananda Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/2S298D55M4nMNNWJZxRf2D"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
         "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 139250,
       "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
       "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "Flor",
+        "url": "https://open.spotify.com/album/4CpygNo6hhtstE5OKqXJBt"
+      },
+      "artists": [
+        {
+          "name": "Ananda Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/2S298D55M4nMNNWJZxRf2D"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Flor de Maracuj\u00e1",
+        "url": "https://open.spotify.com/album/6y6BalfQYIoT8Mx6Qc5bnr"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 204537,
+      "name": "Flor de Maracuj\u00e1",
+      "url": "https://open.spotify.com/track/08bxoA6X4I7fdxWN0IW6DY"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "Gol de Quem? (Ao Vivo)",
         "url": "https://open.spotify.com/album/4jqMI0S8Nwgpzs36a3D3S8"
       },
@@ -1203,22 +1223,22 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Flor de Maracuj\u00e1",
-        "url": "https://open.spotify.com/album/6y6BalfQYIoT8Mx6Qc5bnr"
+        "name": "Melodia, Letra E M\u00fasica",
+        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
         },
         {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
         }
       ],
-      "duration_ms": 204537,
-      "name": "Flor de Maracuj\u00e1",
-      "url": "https://open.spotify.com/track/08bxoA6X4I7fdxWN0IW6DY"
+      "duration_ms": 234262,
+      "name": "Brasil Zerado",
+      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1263,42 +1283,6 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
-        "name": "Melodia, Letra E M\u00fasica",
-        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 234262,
-      "name": "Brasil Zerado",
-      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "Salvador",
-        "url": "https://open.spotify.com/album/5nus9ry9wWPu7I8Kz2mtVr"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Salvador",
-      "url": "https://open.spotify.com/track/563tt8KfkDb3FFhPCSl4em"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
         "name": "N\u00e3o Resisto",
         "url": "https://open.spotify.com/album/11UAPwO6V0XwUxs0cd5Dhm"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 241097,
       "name": "N\u00e3o Resisto",
       "url": "https://open.spotify.com/track/2H2GJZLJokgrgvtYKTSMbv"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
+        "name": "Salvador",
+        "url": "https://open.spotify.com/album/5nus9ry9wWPu7I8Kz2mtVr"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Salvador",
+      "url": "https://open.spotify.com/track/563tt8KfkDb3FFhPCSl4em"
     },
     {
       "added_at": "2026-11-13 03:00:37",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "Os Incont\u00e1veis Desdobramentos de um Efeito Borboleta",
+        "url": "https://open.spotify.com/album/5ls38bcgo7nGTJobyRayAO"
+      },
+      "artists": [
+        {
+          "name": "Escarc\u00e9u",
+          "url": "https://open.spotify.com/artist/3QxbKAKyItPOyMosEJpG0f"
+        }
+      ],
+      "duration_ms": 138875,
+      "name": "PIOR EM TUDO",
+      "url": "https://open.spotify.com/track/6VJSeqMRawJ5OKavnBZCvT"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "romance",
         "url": "https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa"
       },
@@ -1467,6 +1483,22 @@
     {
       "added_at": "2026-11-13 03:00:37",
       "album": {
+        "name": "NOVELA",
+        "url": "https://open.spotify.com/album/4jFFc377bqxLx1rrnDfJuh"
+      },
+      "artists": [
+        {
+          "name": "PP",
+          "url": "https://open.spotify.com/artist/69hIKin4Uhp9JkiruaTNeJ"
+        }
+      ],
+      "duration_ms": 150113,
+      "name": "Adeus",
+      "url": "https://open.spotify.com/track/03WHUsleXqD4BPfmMWM7py"
+    },
+    {
+      "added_at": "2026-11-13 03:00:37",
+      "album": {
         "name": "Previs\u00e3o do Tempo",
         "url": "https://open.spotify.com/album/5eekF7SFmTLlFA0oP0CeIX"
       },
@@ -1483,38 +1515,6 @@
       "duration_ms": 213157,
       "name": "Previs\u00e3o do Tempo",
       "url": "https://open.spotify.com/track/6WhTPX1PJdBWE2deYUnEpc"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "Os Incont\u00e1veis Desdobramentos de um Efeito Borboleta",
-        "url": "https://open.spotify.com/album/5ls38bcgo7nGTJobyRayAO"
-      },
-      "artists": [
-        {
-          "name": "Escarc\u00e9u",
-          "url": "https://open.spotify.com/artist/3QxbKAKyItPOyMosEJpG0f"
-        }
-      ],
-      "duration_ms": 138875,
-      "name": "PIOR EM TUDO",
-      "url": "https://open.spotify.com/track/6VJSeqMRawJ5OKavnBZCvT"
-    },
-    {
-      "added_at": "2026-11-13 03:00:37",
-      "album": {
-        "name": "NOVELA",
-        "url": "https://open.spotify.com/album/4jFFc377bqxLx1rrnDfJuh"
-      },
-      "artists": [
-        {
-          "name": "PP",
-          "url": "https://open.spotify.com/artist/69hIKin4Uhp9JkiruaTNeJ"
-        }
-      ],
-      "duration_ms": 150113,
-      "name": "Adeus",
-      "url": "https://open.spotify.com/track/03WHUsleXqD4BPfmMWM7py"
     },
     {
       "added_at": "2026-11-13 03:00:37",

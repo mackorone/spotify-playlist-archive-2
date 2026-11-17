@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,719 songs - 15 day 16 hr 7 min
+6,721 songs - 15 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2484,6 +2484,7 @@
 | [Healing](https://open.spotify.com/track/5kv8fMjVwkpgQiLjytquOG) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Healing](https://open.spotify.com/album/48zdH5sIOkqKLScGN6oo0M) | 2:53 | 2024-12-13 | 2024-12-25 |
 | [Healing](https://open.spotify.com/track/2FBCT9y4LNqGjOV52SRB28) | [Eli Ryp](https://open.spotify.com/artist/2nFJdWFJHpn3h10ZX3mVFV) | [Healing](https://open.spotify.com/album/6XrnhocDDTE0KlukllQxZa) | 5:36 | 2023-12-29 | 2024-01-16 |
 | [Hear me bleed](https://open.spotify.com/track/3lpsj91bLDb3Uuegqv9Xch) | [Syndel](https://open.spotify.com/artist/3nKXP8BNMcvMOHBBw1mQxo) | [Hear me bleed](https://open.spotify.com/album/3B6hLF2W3l5ojCP7chaTXy) | 2:58 | 2024-03-17 | 2024-03-29 |
+| [Hear Me Out](https://open.spotify.com/track/2tnagCE8D1NaVotpICHIQZ) | [Caleb Kunle](https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY) | [ADSM](https://open.spotify.com/album/5Bs4TetlDnKGQekReP4AWL) | 3:05 | 2026-11-16 |  |
 | [Heart Breaker](https://open.spotify.com/track/213LP7YIi0KpRkBYXQJRfs) | [Acebergtm](https://open.spotify.com/artist/1haw3TISdJj2DGIKzm1DW4) | [Heart Breaker](https://open.spotify.com/album/7mFHMPuInS5xSdI44ysXaG) | 3:06 | 2021-05-08 | 2021-05-23 |
 | [Heart is a Fire](https://open.spotify.com/track/4F95pvr4rRr7uVDIrW7eZ6) | [KASIA](https://open.spotify.com/artist/2lU88iOnkMlPPy6hAhkXr0) | [Great \(or Happy\) / Heart is a Fire](https://open.spotify.com/album/3UlvKdNdyyU0tsEqWdnZUE) | 4:54 | 2022-11-23 | 2022-12-21 |
 | [Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(50th Anniversary Edition\)](https://open.spotify.com/album/2LOpi63tYGh0Suy8eLJDVQ) | 3:07 | 2026-07-30 |  |
@@ -5349,6 +5350,7 @@
 | [Stars](https://open.spotify.com/track/0Y5todJ3IZUePS1nMqBAyC) | [2nd Brightest Object](https://open.spotify.com/artist/0aPb07sJWsxglm6mKBtu2Q) | [Stars](https://open.spotify.com/album/5K1uT2dCoaUoki69kPzKVP) | 3:04 | 2022-09-23 | 2022-10-09 |
 | [Stars \- Remix](https://open.spotify.com/track/2j3eqFYIW4AJdjpa94KQFR) | [Stephen.wav](https://open.spotify.com/artist/7p1gE2TuOlSnM9ZYikcT10), [Rehsa](https://open.spotify.com/artist/4LAzTlAerez2KIQhodG2Po) | [Stars \(Remix\)](https://open.spotify.com/album/5thaMAXiikA2N2eLDsLVE4) | 3:03 | 2025-09-18 | 2025-10-01 |
 | [Stars Past the Milky Way](https://open.spotify.com/track/7oBuvCFdtabS6ZhqPQEiCu) | [James Judson](https://open.spotify.com/artist/4eAzxyeCCpO7J3OwZhLEjz) | [Songs of My Dreams](https://open.spotify.com/album/6HKOX5Jsx1dwe40qWdzcqT) | 2:46 | 2026-02-17 | 2026-03-01 |
+| [Start of the End](https://open.spotify.com/track/2lHV8vwLWZxbKHEAopRLAQ) | [Kaylee Rawson](https://open.spotify.com/artist/3idGOqCH48UJKaz576frjL) | [Start of the End](https://open.spotify.com/album/4IRU2lAfpI00EsW44ztdBl) | 2:51 | 2026-11-16 |  |
 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 | 2021-07-12 | 2021-11-19 |
 | [State of Mind](https://open.spotify.com/track/3o1jyNd2Yn4Bdwh0ykCpl6) | [Leo Veinz](https://open.spotify.com/artist/3Hb7jkBSVrRwdwZLkfRttT) | [State of Mind](https://open.spotify.com/album/3ibVBw7qZ2ZcGU664sbnow) | 2:38 | 2026-06-18 | 2026-07-02 |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-04-14 | 2026-07-31 |

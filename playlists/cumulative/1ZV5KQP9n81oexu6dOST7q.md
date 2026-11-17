@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-191 songs - 9 hr 42 min
+192 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 | 2025-07-04 |  |
 | [make u mine](https://open.spotify.com/track/37SVIAV3BnSkAbNPkM1l76) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [make u mine](https://open.spotify.com/album/05XidhkBUM8o0T8Paq5rW8) | 2:40 | 2026-10-16 |  |
 | [Maladie](https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3) | 3:12 | 2026-10-05 | 2026-10-13 |
+| [MALADIE](https://open.spotify.com/track/67zoAaWh0Z0iDbMfvQbEsl) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Latin Hype](https://open.spotify.com/artist/25u6anMFftwmtXiMLuyQlo) | [MALADIE](https://open.spotify.com/album/02fcFwmPIlN0Bq1P5fWsNs) | 3:44 | 2026-11-16 |  |
 | [Mandjou](https://open.spotify.com/track/1TQrMNDH29GjOnQa528bm6) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Feki Station](https://open.spotify.com/artist/2LMUZc4VeAVjEG2BNMuL2L), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mandjou](https://open.spotify.com/album/6HBmnZQbAddEaKfOFlf11K) | 4:34 | 2026-07-27 |  |
 | [Marido Dansa](https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Marido Dansa EP](https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p) | 2:34 | 2026-10-12 |  |
 | [Matcha Coco](https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Matcha Coco](https://open.spotify.com/album/70jZhmkexGwpMunmQj3TLs) | 2:57 | 2025-07-04 | 2025-09-12 |

@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Ella es el Hechizo (De \"Hechizo: Bienvenidos a Hexe\")",
+        "url": "https://open.spotify.com/album/27xSUw3x8kREK6TiBZi3WR"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167486,
+      "name": "Ella es el Hechizo - De \"Hechizo: Bienvenidos a Hexe\"",
+      "url": "https://open.spotify.com/track/1jiVKjIHGCgh2vcuP3onKI"
+    },
+    {
+      "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
       },

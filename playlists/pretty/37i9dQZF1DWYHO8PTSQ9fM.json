@@ -1,15 +1,67 @@
 {
   "description": "The hottest hits right now. ",
-  "num_followers": 680113,
+  "num_followers": 680106,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPniizqZK2wGcQWA31V8fxzhD9BV",
+  "snapshot_id": "AAAAAA5rT9GNCKVJe+HRiwcwlz8efuH4",
   "tracks": [
     {
-      "added_at": "2026-10-30 18:15:29",
+      "added_at": "2026-11-16 06:28:28",
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
+    },
+    {
+      "added_at": "2026-11-16 06:28:28",
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
+    },
+    {
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "DESPERADO",
         "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
@@ -29,7 +81,7 @@
       "url": "https://open.spotify.com/track/2GhQn93HtnDhHnQOkH2rhG"
     },
     {
-      "added_at": "2026-10-30 18:15:29",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "7OLM KBIR",
         "url": "https://open.spotify.com/album/4F5dSFiJDgTcsLXxQbHulF"
@@ -45,7 +97,7 @@
       "url": "https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "WA3RA",
         "url": "https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8"
@@ -61,51 +113,23 @@
       "url": "https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY"
     },
     {
-      "added_at": "2026-10-30 18:15:29",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
-        "name": "Mi Chico (Official - Jason Derulo x Melody)",
-        "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
+        "name": "L'undertaker, Pt.2",
+        "url": "https://open.spotify.com/album/2nagKdXmlO5QLpvjA27dxQ"
       },
       "artists": [
         {
-          "name": "DJ Goja",
-          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
         }
       ],
-      "duration_ms": 125357,
-      "name": "Mi Chico - Official - Jason Derulo x Melody",
-      "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
+      "duration_ms": 168716,
+      "name": "12",
+      "url": "https://open.spotify.com/track/7C6qjGYDI7h28Nh4lQWYDo"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
-      "album": {
-        "name": "UFUL",
-        "url": "https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        },
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        }
-      ],
-      "duration_ms": 185663,
-      "name": "Couci Couca",
-      "url": "https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe"
-    },
-    {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
@@ -129,47 +153,87 @@
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
-      "added_at": "2026-10-29 09:37:30",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
-        "name": "Risala",
-        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
+        "name": "Mi Chico (Official - Jason Derulo x Melody)",
+        "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
       },
       "artists": [
         {
-          "name": "Kira7",
-          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+          "name": "DJ Goja",
+          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
         },
         {
-          "name": "FRIZZY",
-          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Risala",
-      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
+      "duration_ms": 125357,
+      "name": "Mi Chico - Official - Jason Derulo x Melody",
+      "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
     },
     {
-      "added_at": "2026-10-29 09:37:30",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
-        "name": "Sabor",
-        "url": "https://open.spotify.com/album/3alWcWRQJzK8fpodvbPMQU"
+        "name": "UFUL",
+        "url": "https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3"
       },
       "artists": [
         {
-          "name": "Gustavo 51",
-          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
         },
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
         }
       ],
-      "duration_ms": 228769,
-      "name": "Sabor",
-      "url": "https://open.spotify.com/track/6ao9bWBTMbQbQ5LYcZs8Fh"
+      "duration_ms": 185663,
+      "name": "Couci Couca",
+      "url": "https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe"
     },
     {
-      "added_at": "2026-10-30 18:15:29",
+      "added_at": "2026-11-16 06:28:28",
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 158792,
+      "name": "Heaven Baby (feat. ZAYN)",
+      "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
+    },
+    {
+      "added_at": "2026-11-16 06:28:28",
+      "album": {
+        "name": "Keddab",
+        "url": "https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL"
+      },
+      "artists": [
+        {
+          "name": "ASSIA",
+          "url": "https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Keddab",
+      "url": "https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP"
+    },
+    {
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
@@ -189,7 +253,47 @@
       "url": "https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
+      "album": {
+        "name": "Risala",
+        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
+      },
+      "artists": [
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        },
+        {
+          "name": "FRIZZY",
+          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Risala",
+      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
+    },
+    {
+      "added_at": "2026-11-16 06:28:28",
+      "album": {
+        "name": "Sabor",
+        "url": "https://open.spotify.com/album/3alWcWRQJzK8fpodvbPMQU"
+      },
+      "artists": [
+        {
+          "name": "Gustavo 51",
+          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 228769,
+      "name": "Sabor",
+      "url": "https://open.spotify.com/track/6ao9bWBTMbQbQ5LYcZs8Fh"
+    },
+    {
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "L'undertaker, Pt.1",
         "url": "https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa"
@@ -205,7 +309,7 @@
       "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
     },
     {
-      "added_at": "2026-10-19 08:10:34",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Sabran",
         "url": "https://open.spotify.com/album/3d0L7KfTJenTUiOQsrqcv4"
@@ -221,7 +325,7 @@
       "url": "https://open.spotify.com/track/5iQPZCQR5SBP3moPvnO8S5"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Fille \u00e0 Papa",
         "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
@@ -241,7 +345,7 @@
       "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Talk To You (ft. 54 Ultra)",
         "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
@@ -261,7 +365,7 @@
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "PILLAVE",
         "url": "https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6"
@@ -277,7 +381,7 @@
       "url": "https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Sexy Nana",
         "url": "https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30"
@@ -297,7 +401,7 @@
       "url": "https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "A MAN WITH A GUN",
         "url": "https://open.spotify.com/album/1fPQXsgkWCQIvcLMgOeztV"
@@ -317,23 +421,23 @@
       "url": "https://open.spotify.com/track/04oqFPC9D6wBX00Mm2ozR4"
     },
     {
-      "added_at": "2026-10-29 09:37:30",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
-        "name": "MAWALI",
-        "url": "https://open.spotify.com/album/04LTdusuEPGKOta19W7PAT"
+        "name": "J'en ai marre",
+        "url": "https://open.spotify.com/album/6g5QAGRcNpbBohDuirDkIx"
       },
       "artists": [
         {
-          "name": "NORDO",
-          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
         }
       ],
-      "duration_ms": 238030,
-      "name": "MAWALI",
-      "url": "https://open.spotify.com/track/08JmEOwdYsgqGIIHdHYFQW"
+      "duration_ms": 216000,
+      "name": "J'en ai marre",
+      "url": "https://open.spotify.com/track/2RL4lGgnvpJzZg4lfTvrPo"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "AFLAM",
         "url": "https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz"
@@ -353,27 +457,7 @@
       "url": "https://open.spotify.com/track/2evEgI8mF6pghXh7Vh7lhj"
     },
     {
-      "added_at": "2026-10-30 18:15:29",
-      "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
-    },
-    {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "SALGOAT (Vol. 2 - Extension)",
         "url": "https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g"
@@ -393,7 +477,7 @@
       "url": "https://open.spotify.com/track/5JSDLfkAEYMm0DeYNqQd5e"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "TITIZ A KHAY",
         "url": "https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb"
@@ -413,7 +497,7 @@
       "url": "https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W"
     },
     {
-      "added_at": "2026-10-30 18:15:29",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -429,7 +513,7 @@
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2026-10-30 18:15:29",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Grand Gar\u00e7on",
         "url": "https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr"
@@ -445,7 +529,7 @@
       "url": "https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "DEMMI MARROKI",
         "url": "https://open.spotify.com/album/4AFycsh0gHON9Z6tZztAUp"
@@ -469,7 +553,7 @@
       "url": "https://open.spotify.com/track/5hXEWgtPJU7Mb4Pxyy1I78"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Cheraniya",
         "url": "https://open.spotify.com/album/2C0dO2uVSXLigLwcdxOErk"
@@ -485,7 +569,7 @@
       "url": "https://open.spotify.com/track/3EwiqimqS7nPvWExYo3jx1"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "ZOMBIE",
         "url": "https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa"
@@ -501,7 +585,7 @@
       "url": "https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P"
     },
     {
-      "added_at": "2026-10-26 07:00:45",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "C'est Pas Facile",
         "url": "https://open.spotify.com/album/1NOlrWyYjYNKK2H42R8DsW"
@@ -517,7 +601,7 @@
       "url": "https://open.spotify.com/track/5UtkkA4Rw0CWHeyqFn0Bzq"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "GENDARMIA",
         "url": "https://open.spotify.com/album/1DNqeO3UCKB4ly2mtvQHtR"
@@ -549,7 +633,7 @@
       "url": "https://open.spotify.com/track/0Ue7OnQYG5r3S8Q3o0HF2L"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "MANZAKINE x FID\u00c8LE",
         "url": "https://open.spotify.com/album/0hTLU8ZZhkjnXC1hPRawDm"
@@ -569,7 +653,7 @@
       "url": "https://open.spotify.com/track/1ExnYU3XbOW7mEIfaNeKX0"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "FALLEN ANGEL",
         "url": "https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4"
@@ -589,7 +673,7 @@
       "url": "https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "DESPERADO",
         "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
@@ -609,7 +693,7 @@
       "url": "https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo"
     },
     {
-      "added_at": "2026-10-19 08:10:34",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Ach khellah Yetfakarni",
         "url": "https://open.spotify.com/album/3783OvbEPlHQVwToBsrirf"
@@ -625,7 +709,7 @@
       "url": "https://open.spotify.com/track/3H54lEEiew66nSG4NyatEF"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Kakalika",
         "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
@@ -641,7 +725,7 @@
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "AGOGO",
         "url": "https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl"
@@ -657,23 +741,7 @@
       "url": "https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
-      "album": {
-        "name": "KALIMAT",
-        "url": "https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        }
-      ],
-      "duration_ms": 192415,
-      "name": "KALIMAT",
-      "url": "https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp"
-    },
-    {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "M\u00e9lo D\u00e9cal\u00e9",
         "url": "https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc"
@@ -689,7 +757,7 @@
       "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "LALLAMOULATI",
         "url": "https://open.spotify.com/album/0FvCxvIwXzYXOwkxOThhkx"
@@ -709,7 +777,7 @@
       "url": "https://open.spotify.com/track/4POLmYRdKueIekaWLPZsEu"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Sensa",
         "url": "https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW"
@@ -733,27 +801,7 @@
       "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
-      "album": {
-        "name": "Jamaican (Bam Bam)",
-        "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 156393,
-      "name": "Jamaican (Bam Bam)",
-      "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
-    },
-    {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "PER LA VITA",
         "url": "https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z"
@@ -769,7 +817,7 @@
       "url": "https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "SALGOAT (Vol. 2 - Extension)",
         "url": "https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g"
@@ -785,7 +833,7 @@
       "url": "https://open.spotify.com/track/6fyDZpCwS630m6moYg5FkV"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "SPLIT",
         "url": "https://open.spotify.com/album/4geWx0ghzLQHdWCvkxkc1e"
@@ -805,7 +853,7 @@
       "url": "https://open.spotify.com/track/5lC39yQlbwLlJyKswUV9yt"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Maladie",
         "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
@@ -821,7 +869,7 @@
       "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "SALGOAT (Vol. 2)",
         "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
@@ -841,7 +889,7 @@
       "url": "https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Dorororo",
         "url": "https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br"
@@ -857,7 +905,7 @@
       "url": "https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/07EP0dTPYrapBsjRkzZrr0"
@@ -885,7 +933,7 @@
       "url": "https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "Houwa 2",
         "url": "https://open.spotify.com/album/427UfB1VcqxF7EaQkFRAan"
@@ -901,7 +949,7 @@
       "url": "https://open.spotify.com/track/5X6apZSO77oz98QahNlVG3"
     },
     {
-      "added_at": "2026-10-12 05:59:32",
+      "added_at": "2026-11-16 06:28:28",
       "album": {
         "name": "NGHAMER",
         "url": "https://open.spotify.com/album/1YB96TRIXzeKObuCicLpsX"
@@ -923,42 +971,6 @@
       "duration_ms": 179368,
       "name": "NGHAMER",
       "url": "https://open.spotify.com/track/0hPCO6nihXwnUyn14kzqQd"
-    },
-    {
-      "added_at": "2026-10-30 18:15:29",
-      "album": {
-        "name": "WOR$T GIRL IN AMERICA",
-        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 287055,
-      "name": "DANCE...",
-      "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
-    },
-    {
-      "added_at": "2026-10-12 05:59:32",
-      "album": {
-        "name": "D\u00e9g\u00e2t",
-        "url": "https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 145512,
-      "name": "Tout donner",
-      "url": "https://open.spotify.com/track/6a5pKXuDODMRubAW7aXYOO"
     }
   ],
   "unique_name": "Hot Hits Morocco",

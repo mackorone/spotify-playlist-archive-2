@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: KYUHYUN\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,823 songs - 4 day 22 hr 24 min
+1,824 songs - 4 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1362,6 +1362,7 @@
 | [Still Thinking of You](https://open.spotify.com/track/4erPuFgudlE4jrUdjZepcy) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Still Thinking of You](https://open.spotify.com/album/14b8fmAs21v5wumPzoQbga) | 4:40 | 2026-03-18 | 2026-09-30 |
 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 | 2023-07-17 | 2023-11-16 |
 | [Still, I Like You](https://open.spotify.com/track/5psJ44acTdUgdQFdNd3mmT) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [Still, I Like You](https://open.spotify.com/album/3kMsExLPq6z8zFJmY8sRSq) | 3:24 | 2025-08-18 | 2025-12-03 |
+| [Still, I Love You](https://open.spotify.com/track/79uptta5BemfvgLIQ9Y2yR) | [YOON JI HWAN](https://open.spotify.com/artist/6zWAOib8XIaq1ttDw7u2j4) | [Still, I Love You](https://open.spotify.com/album/5r6OAnhx5Z74RGy6kyAmUm) | 4:07 | 2026-11-16 |  |
 | [Stitching](https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Stitch](https://open.spotify.com/album/49l21eblkkpfozaTjlpphW) | 2:56 | 2024-11-20 | 2025-07-29 |
 | [Stranger](https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Stranger](https://open.spotify.com/album/1XOdt7of67I6i0m3UNHaEF) | 2:49 | 2024-01-25 | 2024-06-18 |
 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 | 2023-12-08 | 2024-05-18 |

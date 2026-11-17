@@ -16275,6 +16275,24 @@
     },
     {
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/0nBVZ3iNAx0FVpfLQ9Nd8Q"
+      },
+      "artists": [
+        {
+          "name": "RA MAJOR",
+          "url": "https://open.spotify.com/artist/4R017zXb6MjKJwJ6numWFj"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/18BeGWuQ2FcBw8V995CDIg"
+    },
+    {
+      "album": {
         "name": "Fallen For You",
         "url": "https://open.spotify.com/album/6N0zejW7UYrCX6liPpZaAh"
       },
@@ -19330,6 +19348,24 @@
       "duration_ms": 197122,
       "name": "Get U Off (My Mind)",
       "url": "https://open.spotify.com/track/5an45YlzEsBOoVipPDBnnS"
+    },
+    {
+      "album": {
+        "name": "Get up on Your Feet",
+        "url": "https://open.spotify.com/album/6Ns9h4hxtV23HcBtga3uFP"
+      },
+      "artists": [
+        {
+          "name": "Beau Audio",
+          "url": "https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Get up on Your Feet",
+      "url": "https://open.spotify.com/track/4VLGjzt1wVmO9EUGzEODcC"
     },
     {
       "album": {
@@ -22727,6 +22763,24 @@
     },
     {
       "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4op6Nl5hv2BaOwzbFzTulo"
+      },
+      "artists": [
+        {
+          "name": "Mila Sidhu",
+          "url": "https://open.spotify.com/artist/20oJy3JgS9UN5oX9Muirwk"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197288,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/74Y2v89upUXQ1AKmTxaSXv"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2vnVqoOG7YRfircDeGmChB"
       },
@@ -24474,6 +24528,24 @@
       "duration_ms": 274999,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/19MxKNPnsLOvgV0KzGE7Bm"
+    },
+    {
+      "album": {
+        "name": "I Shouldn't Want It",
+        "url": "https://open.spotify.com/album/4D4T9rH3mKjkx9TDOl3VPH"
+      },
+      "artists": [
+        {
+          "name": "Kayla Josephs",
+          "url": "https://open.spotify.com/artist/1fwb6x6xXKRblPR0QoSkKl"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174117,
+      "name": "I Shouldn't Want It",
+      "url": "https://open.spotify.com/track/7LvFVh1FFyOlDmaTgGeEq8"
     },
     {
       "album": {
@@ -40319,6 +40391,28 @@
     },
     {
       "album": {
+        "name": "Posters on the Ceiling",
+        "url": "https://open.spotify.com/album/7coB7gzbdypVl6MRByErvD"
+      },
+      "artists": [
+        {
+          "name": "Funk Lazarus",
+          "url": "https://open.spotify.com/artist/27Lj5gvLs9RK7jYpd3q5Cf"
+        },
+        {
+          "name": "Stasis Core",
+          "url": "https://open.spotify.com/artist/7jGouNuqGNIPzU3TBguRPj"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95600,
+      "name": "Posters on the Ceiling",
+      "url": "https://open.spotify.com/track/3znPWbeRDJchK1i6hCrkzQ"
+    },
+    {
+      "album": {
         "name": "Potato Chips",
         "url": "https://open.spotify.com/album/1zams8MFahF0YcH3eyuR2N"
       },
@@ -55098,6 +55192,32 @@
       "duration_ms": 230883,
       "name": "Vem de Dentro",
       "url": "https://open.spotify.com/track/2jPxH3nhPJLjfj9raTAXqu"
+    },
+    {
+      "album": {
+        "name": "Vennus",
+        "url": "https://open.spotify.com/album/3j5FkBJuojOJcWpnHIlgCX"
+      },
+      "artists": [
+        {
+          "name": "HollowFate",
+          "url": "https://open.spotify.com/artist/4nm9EHccDfzo5IhnVvIrsQ"
+        },
+        {
+          "name": "VAYAH",
+          "url": "https://open.spotify.com/artist/11l5vRu2yo22EkE1QaCEgD"
+        },
+        {
+          "name": "BLVNK",
+          "url": "https://open.spotify.com/artist/6c7tA5Gql6ocusMF8DPc5z"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128546,
+      "name": "Vennus",
+      "url": "https://open.spotify.com/track/72Ce3ogkPzCzbFLxLvtwQO"
     },
     {
       "album": {

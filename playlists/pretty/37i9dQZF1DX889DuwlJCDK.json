@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30bb\u30d6\u30f3\u30b9\u30fb\u30d9\u30ac",
-  "num_followers": 23291,
+  "num_followers": 23292,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-11-10 15:08:06",
       "album": {
-        "name": "SWEET AND SOUR",
-        "url": "https://open.spotify.com/album/27qRVeCalrcCi8BQHrSBLm"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "SWEET AND SOUR",
-      "url": "https://open.spotify.com/track/7as2oLEK0etzCt2d3hXpUD"
-    },
-    {
-      "added_at": "2026-11-10 15:08:06",
-      "album": {
         "name": "AMANO-JAKU?",
         "url": "https://open.spotify.com/album/2x13fvNwgTlaV6vjIH7efT"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 264759,
       "name": "AMANO-JAKU?",
       "url": "https://open.spotify.com/track/6VJhmMpFarGlye7JgHmGO5"
+    },
+    {
+      "added_at": "2026-11-10 15:08:06",
+      "album": {
+        "name": "SWEET AND SOUR",
+        "url": "https://open.spotify.com/album/27qRVeCalrcCi8BQHrSBLm"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "SWEET AND SOUR",
+      "url": "https://open.spotify.com/track/7as2oLEK0etzCt2d3hXpUD"
     },
     {
       "added_at": "2026-11-10 15:08:06",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-11-10 15:08:06",
       "album": {
+        "name": "\u4e0d\u5b89\u93e1\u4eba",
+        "url": "https://open.spotify.com/album/35yCkfrQJg6Mo0FMihWxRn"
+      },
+      "artists": [
+        {
+          "name": "NAME.O",
+          "url": "https://open.spotify.com/artist/3MTuaPQH5wgzIGkPQMBqRL"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "\u4e0d\u5b89\u93e1\u4eba",
+      "url": "https://open.spotify.com/track/5s07RQzNslJ9IbpVDtrGFS"
+    },
+    {
+      "added_at": "2026-11-10 15:08:06",
+      "album": {
         "name": "B612",
         "url": "https://open.spotify.com/album/4T4ITdzwImSVt8rZKygoe1"
       },
@@ -891,58 +907,6 @@
     {
       "added_at": "2026-11-10 15:08:06",
       "album": {
-        "name": "\u4e0d\u5b89\u93e1\u4eba",
-        "url": "https://open.spotify.com/album/35yCkfrQJg6Mo0FMihWxRn"
-      },
-      "artists": [
-        {
-          "name": "NAME.O",
-          "url": "https://open.spotify.com/artist/3MTuaPQH5wgzIGkPQMBqRL"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "\u4e0d\u5b89\u93e1\u4eba",
-      "url": "https://open.spotify.com/track/5s07RQzNslJ9IbpVDtrGFS"
-    },
-    {
-      "added_at": "2026-11-10 15:08:06",
-      "album": {
-        "name": "\u79c1\u96e8\u306b\u590f\u306e\u706f\u3092\u77e5\u308b",
-        "url": "https://open.spotify.com/album/6FlrlZM9CuVlztVnO8x6xL"
-      },
-      "artists": [
-        {
-          "name": "Atarayo",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        },
-        {
-          "name": "TOMONARI SORA\t",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
-        }
-      ],
-      "duration_ms": 226938,
-      "name": "\u6dbc\u98a8 - feat. \u53cb\u6210\u7a7a",
-      "url": "https://open.spotify.com/track/1dHoORp875dv0CJrqZ4kVF"
-    },
-    {
-      "added_at": "2026-11-10 15:08:06",
-      "album": {
-        "name": "\u30af\u30e9\u30a4\u30cd",
-        "url": "https://open.spotify.com/album/421WIl1p0uKTKel9ZSOlvj"
-      },
-      "artists": [
-        {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "\u30af\u30e9\u30a4\u30cd",
-      "url": "https://open.spotify.com/track/4GnrPXsMALWfu1Bp7URyYq"
-    },
-    {
-      "added_at": "2026-11-10 15:08:06",
-      "album": {
         "name": "HONESTY",
         "url": "https://open.spotify.com/album/2xwWbCf58OBsquGkrmRxlg"
       },
@@ -975,6 +939,42 @@
     {
       "added_at": "2026-11-10 15:08:06",
       "album": {
+        "name": "\u30af\u30e9\u30a4\u30cd",
+        "url": "https://open.spotify.com/album/421WIl1p0uKTKel9ZSOlvj"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "\u30af\u30e9\u30a4\u30cd",
+      "url": "https://open.spotify.com/track/4GnrPXsMALWfu1Bp7URyYq"
+    },
+    {
+      "added_at": "2026-11-10 15:08:06",
+      "album": {
+        "name": "\u79c1\u96e8\u306b\u590f\u306e\u706f\u3092\u77e5\u308b",
+        "url": "https://open.spotify.com/album/6FlrlZM9CuVlztVnO8x6xL"
+      },
+      "artists": [
+        {
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        },
+        {
+          "name": "TOMONARI SORA\t",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "duration_ms": 226938,
+      "name": "\u6dbc\u98a8 - feat. \u53cb\u6210\u7a7a",
+      "url": "https://open.spotify.com/track/1dHoORp875dv0CJrqZ4kVF"
+    },
+    {
+      "added_at": "2026-11-10 15:08:06",
+      "album": {
         "name": "\u6771\u4eac\u30b7\u30e7\u30fc\u30c8\u30b9\u30ea\u30fc\u30d1\u30fc",
         "url": "https://open.spotify.com/album/1dYjt6GxQJmMpJxHK9s1eR"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 154386,
       "name": "\u6771\u4eac\u30b7\u30e7\u30fc\u30c8\u30b9\u30ea\u30fc\u30d1\u30fc",
       "url": "https://open.spotify.com/track/3bAWqORaLmBzYiwqPaWAJT"
+    },
+    {
+      "added_at": "2026-11-10 15:08:06",
+      "album": {
+        "name": "\u7121\u82b1\u679c",
+        "url": "https://open.spotify.com/album/28pLgFhi7pTzRKFbdBoXzB"
+      },
+      "artists": [
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "\u7121\u82b1\u679c",
+      "url": "https://open.spotify.com/track/0cRQm7cakITTEtdl9FEAYJ"
     },
     {
       "added_at": "2026-11-10 15:08:06",
@@ -1019,22 +1035,6 @@
       "duration_ms": 205833,
       "name": "Capretto",
       "url": "https://open.spotify.com/track/1oM4DM6i6AGGe3KVGmqrqD"
-    },
-    {
-      "added_at": "2026-11-10 15:08:06",
-      "album": {
-        "name": "\u7121\u82b1\u679c",
-        "url": "https://open.spotify.com/album/28pLgFhi7pTzRKFbdBoXzB"
-      },
-      "artists": [
-        {
-          "name": "CLAN QUEEN",
-          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "\u7121\u82b1\u679c",
-      "url": "https://open.spotify.com/track/0cRQm7cakITTEtdl9FEAYJ"
     },
     {
       "added_at": "2026-11-10 15:08:06",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2026-11-10 15:08:06",
       "album": {
-        "name": "\u3042\u306a\u305f\u307f\u305f\u3044\u306b",
-        "url": "https://open.spotify.com/album/7y9SR6c2dUYL1K6uA2qkay"
+        "name": "Greedy!!",
+        "url": "https://open.spotify.com/album/4tFQ0Z0lMpqFxDT686LEWy"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG"
         }
       ],
-      "duration_ms": 271000,
-      "name": "\u3042\u306a\u305f\u307f\u305f\u3044\u306b",
-      "url": "https://open.spotify.com/track/76kneM60KmAZRmm8yUXT0G"
+      "duration_ms": 217533,
+      "name": "Greedy!!",
+      "url": "https://open.spotify.com/track/5wcuIVeXEFUb8uDIKIr8CA"
     },
     {
       "added_at": "2026-11-10 15:08:06",
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2026-11-10 15:08:06",
       "album": {
-        "name": "Greedy!!",
-        "url": "https://open.spotify.com/album/4tFQ0Z0lMpqFxDT686LEWy"
+        "name": "\u3042\u306a\u305f\u307f\u305f\u3044\u306b",
+        "url": "https://open.spotify.com/album/7y9SR6c2dUYL1K6uA2qkay"
       },
       "artists": [
         {
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG"
         }
       ],
-      "duration_ms": 217533,
-      "name": "Greedy!!",
-      "url": "https://open.spotify.com/track/5wcuIVeXEFUb8uDIKIr8CA"
+      "duration_ms": 271000,
+      "name": "\u3042\u306a\u305f\u307f\u305f\u3044\u306b",
+      "url": "https://open.spotify.com/track/76kneM60KmAZRmm8yUXT0G"
     },
     {
       "added_at": "2026-11-10 15:08:06",
@@ -1455,18 +1455,34 @@
     {
       "added_at": "2026-11-10 15:08:06",
       "album": {
-        "name": "Yomigaeri",
-        "url": "https://open.spotify.com/album/1IzZXSFT7zuD2Dkxklij4Z"
+        "name": "\u3042\u306a\u305f\u306e\u58f0\u306b\u306a\u308c\u305f\u3089",
+        "url": "https://open.spotify.com/album/41Y25lYRhcRf1p1OkhX4FK"
       },
       "artists": [
         {
-          "name": "OddRe:",
-          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
+          "name": "Sakurashimeji",
+          "url": "https://open.spotify.com/artist/4GEJn9D9CbxI4UV8zQHxCY"
         }
       ],
-      "duration_ms": 232102,
-      "name": "Yomigaeri",
-      "url": "https://open.spotify.com/track/4RgwLcidaKCOwJeM6gS8rV"
+      "duration_ms": 207400,
+      "name": "\u307e\u305f\u4eca\u5ea6",
+      "url": "https://open.spotify.com/track/3WYV05AYeETywxUrsrT6sg"
+    },
+    {
+      "added_at": "2026-11-10 15:08:06",
+      "album": {
+        "name": "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9\u30fb\u30b3\u30a2",
+        "url": "https://open.spotify.com/album/5AUG0yOZZvyioH2IUn8KjR"
+      },
+      "artists": [
+        {
+          "name": "Blooming Bungei",
+          "url": "https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1"
+        }
+      ],
+      "duration_ms": 186139,
+      "name": "\u304b\u304c\u3084\u304d",
+      "url": "https://open.spotify.com/track/0YXktRXAL9jVJeHETbUUdl"
     },
     {
       "added_at": "2026-11-10 15:08:06",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2026-11-10 15:08:06",
       "album": {
-        "name": "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9\u30fb\u30b3\u30a2",
-        "url": "https://open.spotify.com/album/5AUG0yOZZvyioH2IUn8KjR"
+        "name": "Yomigaeri",
+        "url": "https://open.spotify.com/album/1IzZXSFT7zuD2Dkxklij4Z"
       },
       "artists": [
         {
-          "name": "Blooming Bungei",
-          "url": "https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1"
+          "name": "OddRe:",
+          "url": "https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr"
         }
       ],
-      "duration_ms": 186139,
-      "name": "\u304b\u304c\u3084\u304d",
-      "url": "https://open.spotify.com/track/0YXktRXAL9jVJeHETbUUdl"
+      "duration_ms": 232102,
+      "name": "Yomigaeri",
+      "url": "https://open.spotify.com/track/4RgwLcidaKCOwJeM6gS8rV"
     },
     {
       "added_at": "2026-11-10 15:08:06",
@@ -1531,22 +1547,6 @@
       "duration_ms": 214026,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/6y64BIoQhoo7DaybxPKxir"
-    },
-    {
-      "added_at": "2026-11-10 15:08:06",
-      "album": {
-        "name": "\u3042\u306a\u305f\u306e\u58f0\u306b\u306a\u308c\u305f\u3089",
-        "url": "https://open.spotify.com/album/41Y25lYRhcRf1p1OkhX4FK"
-      },
-      "artists": [
-        {
-          "name": "Sakurashimeji",
-          "url": "https://open.spotify.com/artist/4GEJn9D9CbxI4UV8zQHxCY"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "\u307e\u305f\u4eca\u5ea6",
-      "url": "https://open.spotify.com/track/3WYV05AYeETywxUrsrT6sg"
     },
     {
       "added_at": "2026-11-10 15:08:06",

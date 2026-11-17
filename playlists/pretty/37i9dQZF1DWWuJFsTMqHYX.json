@@ -1,15 +1,31 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 480308,
+  "num_followers": 480365,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALXmT387qu66fWwVsjvawfOwf48x",
+  "snapshot_id": "AAAAAI40eeOxcflClb7m/O+Fx4QgN1Ma",
   "tracks": [
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
+      "album": {
+        "name": "Ghazali (Part I)",
+        "url": "https://open.spotify.com/album/48t5uBGJucx2rRiS7HKWR6"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 191296,
+      "name": "Imarhan",
+      "url": "https://open.spotify.com/track/5ScKUp0kVX0VGNbWI772Xd"
+    },
+    {
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Gandadiko",
         "url": "https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/1YQmUOQUxVeHebdKBX6m71"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
+      "album": {
+        "name": "Assikel",
+        "url": "https://open.spotify.com/album/6ZVvh872HSROeYs41a1CR4"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "duration_ms": 285280,
+      "name": "Imanin",
+      "url": "https://open.spotify.com/track/4okvb3qzpL7PSb8vcHtnKd"
+    },
+    {
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
@@ -45,39 +77,7 @@
       "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
     },
     {
-      "added_at": "2026-06-11 09:20:44",
-      "album": {
-        "name": "Assikel",
-        "url": "https://open.spotify.com/album/6ZVvh872HSROeYs41a1CR4"
-      },
-      "artists": [
-        {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
-        }
-      ],
-      "duration_ms": 285280,
-      "name": "Imanin",
-      "url": "https://open.spotify.com/track/4okvb3qzpL7PSb8vcHtnKd"
-    },
-    {
-      "added_at": "2026-03-12 18:21:09",
-      "album": {
-        "name": "Moune\u00efssa",
-        "url": "https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa"
-      },
-      "artists": [
-        {
-          "name": "Rokia Traor\u00e9",
-          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Laidu",
-      "url": "https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W"
-    },
-    {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Sou Ni Tile",
         "url": "https://open.spotify.com/album/3YkgbENywpHkRQlzT2y3aR"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/53AU0RJlfFTofiu0uZZSIf"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Achinkad",
         "url": "https://open.spotify.com/album/18mh747W9C4QbHRDhSZUjr"
@@ -109,7 +109,39 @@
       "url": "https://open.spotify.com/track/3HsUImLYZkBYmCLAtvRFVl"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
+      "album": {
+        "name": "Moune\u00efssa",
+        "url": "https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa"
+      },
+      "artists": [
+        {
+          "name": "Rokia Traor\u00e9",
+          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
+        }
+      ],
+      "duration_ms": 386973,
+      "name": "Laidu",
+      "url": "https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W"
+    },
+    {
+      "added_at": "2026-11-16 06:51:29",
+      "album": {
+        "name": "Hoggar",
+        "url": "https://open.spotify.com/album/2gqUcbYA8djTbahHOE7hjx"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Erghad Afewo",
+      "url": "https://open.spotify.com/track/2356DCJaegEGZ9qPTRrojb"
+    },
+    {
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Lamomali",
         "url": "https://open.spotify.com/album/3jY3nT2vkn0Fk7w7rtXVR4"
@@ -141,23 +173,7 @@
       "url": "https://open.spotify.com/track/40sgwuGnpN1XQ3AbE9exPD"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
-      "album": {
-        "name": "Hoggar",
-        "url": "https://open.spotify.com/album/2gqUcbYA8djTbahHOE7hjx"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Erghad Afewo",
-      "url": "https://open.spotify.com/track/2356DCJaegEGZ9qPTRrojb"
-    },
-    {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Kulu",
         "url": "https://open.spotify.com/album/1vGI90FqQestc7Zw6SCVg1"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/4Z1SwrQ2E9mOrXDTuP1bTD"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Fasiya",
         "url": "https://open.spotify.com/album/7h7MgG54nO4RvaPj01CEX6"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/520tnSeFL0qGLxD7I7YsxQ"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Victor D\u00e9m\u00e9",
         "url": "https://open.spotify.com/album/4psXSB62XvHZ0c3fg2udob"
@@ -205,23 +221,7 @@
       "url": "https://open.spotify.com/track/2JlQOgJZdvQ5YJrVxY13wQ"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
-      "album": {
-        "name": "Mogoya",
-        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
-      },
-      "artists": [
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Mogoya",
-      "url": "https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv"
-    },
-    {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Emmaar",
         "url": "https://open.spotify.com/album/7BHJjxuGHgU4aFpBFCjFsw"
@@ -237,7 +237,23 @@
       "url": "https://open.spotify.com/track/3911Bzzv8FHgbitJzXFjxh"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
+      "album": {
+        "name": "Mogoya",
+        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
+      },
+      "artists": [
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Mogoya",
+      "url": "https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv"
+    },
+    {
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "St Germain",
         "url": "https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/4W3W4cbErPT3JCW60IxKKj"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Albala",
         "url": "https://open.spotify.com/album/2ATFSmZ538NkNHgLM95YFH"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "The Tel Aviv Session",
         "url": "https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Amidinine",
         "url": "https://open.spotify.com/album/45rSglMAjMobDFFbWbDcAU"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/2ISu36NpmL9Uirpn0ubbQ4"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Natt",
         "url": "https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Chatma",
         "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Bedia",
         "url": "https://open.spotify.com/album/0kYFx3FSDDd4igHJ0ZGdWd"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/2PdCpqwqkFbGB0dJXFMsvu"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Kel Tamasheq (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Eylel",
         "url": "https://open.spotify.com/album/1A14W8j3lCfImsotyGSUiT"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/0SEiSDYckOwK8PJ4tY8PLc"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Ak\u00f6",
         "url": "https://open.spotify.com/album/3u7FAwHspJFXJMgAfrFsmx"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/795HmjjJWGQUMfL3foScIr"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Degg Gui",
         "url": "https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Chatma",
         "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Mbalimaou",
         "url": "https://open.spotify.com/album/58jcdCnplCcyrBUU1lfmXG"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/4iYvyAFkX9jdLe7X7o2p4V"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Amoudou",
         "url": "https://open.spotify.com/album/12OPu793Jldrmt0fMkXpby"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/1QnWVnnt2AOT7psq22mO5I"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Tin Hinane",
         "url": "https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Azizdeg",
         "url": "https://open.spotify.com/album/1oV2PusQ9T05cJb2Keubpr"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/12j2cxm2cUNt2EqynA7302"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Music In Exile",
         "url": "https://open.spotify.com/album/0DVAsW7CZkaUg8zv0FinJI"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/0ww5hcdJB78pFq3sH2Fucn"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Macir\u00e9 (Kar Kar)",
         "url": "https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Motherland - The Score",
         "url": "https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Kidal",
         "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Alwan",
         "url": "https://open.spotify.com/album/32ZjBN4YiB8MBUa5AltVjh"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/6xSRAG0RwyuQGrg0VSiuR4"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Aratan n Azawad",
         "url": "https://open.spotify.com/album/0MnMc9NEsJcHjsUv2GXqb9"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/2CGi0kPFzrErHlYjzQpLAh"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Derhan N'Oulhine",
         "url": "https://open.spotify.com/album/35IE4uxHlCa73J9DBZdbzS"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/0EY3h4xFDtRkHA8dGED9qR"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Soutak",
         "url": "https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "The Routes of Slavery",
         "url": "https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/1ASQZ8acmZj1IOFoXggUf9"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Taryet",
         "url": "https://open.spotify.com/album/0hkzlHUqNYoMrdRcTFllJf"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/3mVFTZGjfus9XbxQhNai4y"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Akh Issudar",
         "url": "https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Rainy Season Blues",
         "url": "https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Abbar el Hamada",
         "url": "https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Egharmenw",
         "url": "https://open.spotify.com/album/0kWLXcsPvATAWq9XCEORTn"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/5MXzZkpE5nsFE3opObETpZ"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Idrache (Traces Of The Past)",
         "url": "https://open.spotify.com/album/7jb5uGv2a578i7xRM063ZZ"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/2PY1sEINloyS5qE2c8pZ9M"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Sequana",
         "url": "https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Samba",
         "url": "https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "The Routes of Slavery",
         "url": "https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp"
@@ -893,7 +909,7 @@
       "url": "https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY"
     },
     {
-      "added_at": "2026-03-12 18:21:09",
+      "added_at": "2026-11-16 06:51:29",
       "album": {
         "name": "Tartit: Amankor / The Exile",
         "url": "https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw"
@@ -907,22 +923,6 @@
       "duration_ms": 192000,
       "name": "Afous Dafous",
       "url": "https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1"
-    },
-    {
-      "added_at": "2026-03-12 18:21:09",
-      "album": {
-        "name": "Mariama",
-        "url": "https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb"
-      },
-      "artists": [
-        {
-          "name": "Boubacar Traor\u00e9",
-          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
-        }
-      ],
-      "duration_ms": 338933,
-      "name": "Mariama Kaba",
-      "url": "https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM"
     }
   ],
   "unique_name": "Sahara",

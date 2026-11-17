@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With post\-punk'er, Captain Margaret, David Von Beahm and more
+> With Black Doldrums, post\-punk'er, Captain Margaret and more
 
 1,467 songs - 3 day 22 hr 44 min
 

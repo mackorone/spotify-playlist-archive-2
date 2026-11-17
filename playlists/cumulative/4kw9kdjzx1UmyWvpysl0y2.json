@@ -21479,6 +21479,32 @@
     },
     {
       "album": {
+        "name": "Monstercat Instinct Selections 04",
+        "url": "https://open.spotify.com/album/4g6Ket9aLHnL4d7XfTyIND"
+      },
+      "artists": [
+        {
+          "name": "CLV",
+          "url": "https://open.spotify.com/artist/5H5wUF8cjtn3erNzcUZUbC"
+        },
+        {
+          "name": "Oscar Yuan",
+          "url": "https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv"
+        },
+        {
+          "name": "luminate",
+          "url": "https://open.spotify.com/artist/4tYnunRmw2jHIA863S9Vqv"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255790,
+      "name": "Signal Code",
+      "url": "https://open.spotify.com/track/2yQlWbBnFoNiLeRfCLy57v"
+    },
+    {
+      "album": {
         "name": "Silk Road",
         "url": "https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman"
       },

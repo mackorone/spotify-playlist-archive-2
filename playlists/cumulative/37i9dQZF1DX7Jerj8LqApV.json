@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Ating Panahon",
+        "url": "https://open.spotify.com/album/3eLIaoG4yf8sJyUbBXVdt4"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248613,
+      "name": "Ating Panahon",
+      "url": "https://open.spotify.com/track/0drQHJ1k4Ski9KKwbY6T62"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs"
       },
@@ -915,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Baka Sakali",
+        "url": "https://open.spotify.com/album/6dkiifYuZaYUrs6aNeykvZ"
+      },
+      "artists": [
+        {
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Baka Sakali",
+      "url": "https://open.spotify.com/track/0QjT1Y2qToHnkD6bATP9OF"
+    },
+    {
+      "album": {
         "name": "Bakit?",
         "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
       },
@@ -944,7 +980,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 252900,
       "name": "balang araw",
       "url": "https://open.spotify.com/track/3HjbuZbrNMnK8h4dBChuhq"
@@ -1002,7 +1038,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 251074,
       "name": "Bawat Segundo",
       "url": "https://open.spotify.com/track/4vOjN6LKp4jCpoqVoOkZnp"
@@ -3060,7 +3096,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 148141,
       "name": "ikaw",
       "url": "https://open.spotify.com/track/58b443Cif2xysQK1WoH2RE"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 186013,
       "name": "indie film",
       "url": "https://open.spotify.com/track/3LVK461v4j5peYIo9qq4Fj"
@@ -3450,7 +3486,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 242285,
       "name": "Kahit Na Umulan",
       "url": "https://open.spotify.com/track/43AjF7Xceu7Jr8hH2vriS1"
@@ -3580,7 +3616,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 208004,
       "name": "Kalendaryo",
       "url": "https://open.spotify.com/track/3979LHIoFI5gBUdLFn1e3T"
@@ -3948,7 +3984,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 231074,
       "name": "Kung Ayaw Mo",
       "url": "https://open.spotify.com/track/3Ol9MEAAsXaOjnyBNBFyOQ"
@@ -4132,7 +4168,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 199903,
       "name": "Lalim",
       "url": "https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd"
@@ -4244,7 +4280,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 171527,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW"
@@ -4280,7 +4316,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 246346,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
@@ -5364,7 +5400,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 198588,
       "name": "Nahuhulog Nanaman Sa'yo",
       "url": "https://open.spotify.com/track/2NVJNM6UtvVhsz335h4Rk3"
@@ -5894,7 +5930,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 252275,
       "name": "Oo",
       "url": "https://open.spotify.com/track/7707SbyEaOHVfS85rNCUoi"
@@ -6278,7 +6314,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 237504,
       "name": "Palaisipan",
       "url": "https://open.spotify.com/track/4Z7hKDpGq5bMmQ98fdwDOt"
@@ -6668,7 +6704,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 262972,
       "name": "Para Sa Sarili",
       "url": "https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e"
@@ -7604,7 +7640,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 294000,
       "name": "Sabik",
       "url": "https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz"
@@ -7835,6 +7871,28 @@
     },
     {
       "album": {
+        "name": "Sarah (feat. John Roa)",
+        "url": "https://open.spotify.com/album/3TyD8VNfjNrFE5FOR8q4VU"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Sarah (feat. John Roa)",
+      "url": "https://open.spotify.com/track/5pGakYfgEiE29pBEeUUbyB"
+    },
+    {
+      "album": {
         "name": "Sasabay",
         "url": "https://open.spotify.com/album/3uy5RyIOkqaFhAK0dnkaXh"
       },
@@ -7904,6 +7962,24 @@
       "duration_ms": 197500,
       "name": "SENYALES",
       "url": "https://open.spotify.com/track/0QWFQZ1pL31dkyNnSJ53zY"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/0zLetJtRIO7sIzlfWrbcO1"
+      },
+      "artists": [
+        {
+          "name": "Celedonio",
+          "url": "https://open.spotify.com/artist/1O46BpQWGFtEcQpFUYgYRt"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255416,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/46EAEAKrKHzcqJ0fV5oEzO"
     },
     {
       "album": {
@@ -8428,6 +8504,24 @@
       "duration_ms": 240400,
       "name": "surreal",
       "url": "https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz"
+    },
+    {
+      "album": {
+        "name": "Susundan",
+        "url": "https://open.spotify.com/album/7bldiRBl0ZqRO2mNMp8ZUL"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171120,
+      "name": "Susundan",
+      "url": "https://open.spotify.com/track/2FQGKVBZ58hhCG8aiFApq9"
     },
     {
       "album": {

@@ -657,6 +657,32 @@
     },
     {
       "album": {
+        "name": "Dance The Night Away (Cross Mix)",
+        "url": "https://open.spotify.com/album/0CZoR4lMOCFVKC2rTV1q0t"
+      },
+      "artists": [
+        {
+          "name": "AtellaGali",
+          "url": "https://open.spotify.com/artist/64kJmYlYPeykl8UgCGLbFp"
+        },
+        {
+          "name": "Amanda Renee",
+          "url": "https://open.spotify.com/artist/2JzUs8Q17CMTfP24SFCYd1"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Dance The Night Away - Cross MIx",
+      "url": "https://open.spotify.com/track/64DfgImKmWZnLyISCWCLSg"
+    },
+    {
+      "album": {
         "name": "Los D\u00fao 3",
         "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
       },
@@ -2970,7 +2996,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 137413,
       "name": "Viaje A La Luz",
       "url": "https://open.spotify.com/track/22cnE0Ul5mYg8xeQUnj88Z"

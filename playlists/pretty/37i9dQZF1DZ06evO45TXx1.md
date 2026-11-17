@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,361 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,361 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 40 | [Set da Menorzinha 1.0](https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO) | [Mc Menorzinha](https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ), [MC Marcelly](https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set da Menorzinha 1.0](https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz) | 5:24 |
 | 41 | [Seu Particular](https://open.spotify.com/track/0ooMUK7RvS1L74XFbZd8qy) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/6OFfysBJenNRYfO66nDfVX) | 3:19 |
 | 42 | [Ainda Sinto Muito](https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:52 |
-| 43 | [Twerk](https://open.spotify.com/track/6eg1dOiLsxnFbvhM9Z6Egg) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [IRREFREÁVEL \(EPÍLOGO\)](https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0) | 2:06 |
+| 43 | [Tipo de Mulher](https://open.spotify.com/track/6PkgAOe7vrRpklLoi4sMQZ) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk) | [IRREFREÁVEL \(EPÍLOGO\)](https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0) | 2:45 |
 | 44 | [Diaba](https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk) | [Cachorro Sincero](https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc) | 2:17 |
 | 45 | [Jogo](https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:48 |
 | 46 | [Atacante](https://open.spotify.com/track/1sPnEamR8ZmrYYCjRR0uRd) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Jayp](https://open.spotify.com/artist/4B89qqZfta5V4f2tV0JS7O) | [44](https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna) | 1:46 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 48 | [Intriga](https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [Essa Minha Vida Bandida](https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH) | 2:32 |
 | 49 | [Mundo das Espertas](https://open.spotify.com/track/65PfSR01GTeObr5iapDNT3) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 4:02 |
 
-Snapshot ID: `avekgAAAAADbWgAzrm4X7qGGNQUbDXcw`
+Snapshot ID: `avj2AAAAAAC1k9WtJd4mGc7IcqYdGjnd`

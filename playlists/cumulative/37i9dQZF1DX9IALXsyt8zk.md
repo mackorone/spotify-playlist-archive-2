@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: LNGSHOT\)
 
-731 songs - 1 day 14 hr 33 min
+732 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2022-01-27 | 2023-01-12 |
 | [LIP GLOSS](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.1 Christmas In August](https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY) | 3:32 | 2023-08-23 | 2023-10-30 |
 | [LIT RIGHT NOW](https://open.spotify.com/track/6t0CGD8in1sJ2WUCyN6jM1) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV) | 2:34 | 2025-05-12 | 2025-06-11 |
+| [LNGSHOT과의 영통 인터뷰ㅣRADAR with LNGSHOT](https://open.spotify.com/episode/4JoXTZx55WhxtyZhU5R050) | [K\-Pop ON! Video Podcast](https://open.spotify.com/show/35ltzomNTBi2lqCtoL4Drt) | [K\-Pop ON! Video Podcast](https://open.spotify.com/album/35ltzomNTBi2lqCtoL4Drt) | 11:29 | 2026-11-16 |  |
 | [Locked On](https://open.spotify.com/track/1jRru0uo655c4HPGkVihOe) | [VVUP](https://open.spotify.com/artist/2zy0MxCWDb4XOziNuyEHtb) | [Locked On](https://open.spotify.com/album/2KOyXfulQ7w35Ok4KYtxBw) | 3:09 | 2024-04-04 | 2025-01-21 |
 | [Look into eyes say it](https://open.spotify.com/track/47KIdFLacEnfEzVNCxs80H) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Again,Star \#2](https://open.spotify.com/album/4BqNdozu75WCs9C07CjPl0) | 3:56 | 2023-09-14 | 2023-11-16 |
 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-05-30 | 2024-08-02 |

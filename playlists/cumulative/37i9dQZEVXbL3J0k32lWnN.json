@@ -12418,7 +12418,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
@@ -12690,7 +12690,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-28",
+      "date_removed": null,
       "duration_ms": 258533,
       "name": "Dr\u00f8mte Mig En Lille Dr\u00f8m - Fra julekalenderen 'Absalons Hemmelighed'",
       "url": "https://open.spotify.com/track/3WcK48G0JoYgyasnFbmgZ3"
@@ -15322,7 +15322,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 184451,
       "name": "Falder Fra M\u00e5nen",
       "url": "https://open.spotify.com/track/19JSG4O2wKnhBXCkfg0ZIH"
@@ -16498,7 +16498,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 224812,
       "name": "Flue i et spind",
       "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
@@ -20432,7 +20432,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 190248,
       "name": "Har Du M\u00e6rket Dig Selv?",
       "url": "https://open.spotify.com/track/2nBgC1YA1LjpqyNkbeaXUA"
@@ -29186,7 +29186,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 173866,
       "name": "Larger Than Life ft. Benjamin Hav",
       "url": "https://open.spotify.com/track/5oz5hbrPeOH7HUPdy1YP8x"
@@ -33320,7 +33320,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
@@ -33338,7 +33338,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -45062,7 +45062,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 212472,
       "name": "Stolt (feat. Lamin)",
       "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
@@ -46222,7 +46222,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 219802,
       "name": "Tag Mig Med - Fra julekalenderen 'Theo og Den Magiske Talisman'",
       "url": "https://open.spotify.com/track/1fhLYVIe9s7pwYHxtbdiZ1"
@@ -47774,6 +47774,24 @@
       "duration_ms": 232478,
       "name": "Tidsrejsen",
       "url": "https://open.spotify.com/track/106mOdxiy7lcU1CCsMpwom"
+    },
+    {
+      "album": {
+        "name": "Som Julen Er",
+        "url": "https://open.spotify.com/album/1SpESmEGsHPrpkzIwfFaRD"
+      },
+      "artists": [
+        {
+          "name": "Caroline Castell",
+          "url": "https://open.spotify.com/artist/4vRpu2xRHEtlmBoI5nsK7P"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232478,
+      "name": "Tidsrejsen",
+      "url": "https://open.spotify.com/track/31M30uDWC6d4oaP1j1eC4E"
     },
     {
       "album": {
@@ -50184,7 +50202,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 181507,
       "name": "Valdes Jul",
       "url": "https://open.spotify.com/track/6oQ5FpZJlBPPwNsYkAmx9V"

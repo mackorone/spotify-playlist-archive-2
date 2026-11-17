@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,982 likes - 227 songs - 14 hr 17 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,985 likes - 228 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,6 +234,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 224 | [Central Park](https://open.spotify.com/track/2fBodXDJPkxHUFm1sJpVYZ) | [FADED](https://open.spotify.com/artist/60g0Lh476VUxWoXsLexU9W) | [Central Park](https://open.spotify.com/album/090XzHeLD5gzIJVVMBz0z8) | 4:03 |
 | 225 | [Get up on Your Feet](https://open.spotify.com/track/54QamBb8HwxpfeiTFNwaKZ) | [Jangle Wave](https://open.spotify.com/artist/46IbeWIF6yDPAZ1Me3Mrqv) | [Get up on Your Feet](https://open.spotify.com/album/3VGwnfhp3TtamNolKFcFvd) | 3:34 |
 | 226 | [Legacy](https://open.spotify.com/track/3bV9CSt3icMdmTcReRJ5ZY) | [Larry Read](https://open.spotify.com/artist/5mBDsF7X25Gcd4AEBKI7Qk) | [Legacy](https://open.spotify.com/album/3lkSY6GAeZJRjCutg306k8) | 3:44 |
-| 227 | [LONGER](https://open.spotify.com/track/0FG3QSysPCDH2r4GY4wCTS) | [Nash / Russell](https://open.spotify.com/artist/7vd8lBK1CIwSTDmcQTzKfq) | [LONGER](https://open.spotify.com/album/2o8B8SEzSH8BAbmNO93wA6) | 3:00 |
+| 227 | [Welcome to My City](https://open.spotify.com/track/3wBZKau5aaDLttKXMSnnZC) | [Tony Z](https://open.spotify.com/artist/44OiXiN2wAuOyUcC4pKJv3) | [Welcome to My City](https://open.spotify.com/album/5JUBn93wyBqH0X99WYNvQe) | 3:57 |
+| 228 | [LONGER](https://open.spotify.com/track/0FG3QSysPCDH2r4GY4wCTS) | [Nash / Russell](https://open.spotify.com/artist/7vd8lBK1CIwSTDmcQTzKfq) | [LONGER](https://open.spotify.com/album/2o8B8SEzSH8BAbmNO93wA6) | 3:00 |
 
-Snapshot ID: `AAANEMhqc3vv2WK35AK9soc5aynQMuUi`
+Snapshot ID: `AAANEWu6xi4rXR6N1ZfSWv/uRgB0e7wK`

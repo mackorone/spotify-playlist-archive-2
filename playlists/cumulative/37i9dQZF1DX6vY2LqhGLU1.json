@@ -4469,28 +4469,6 @@
     },
     {
       "album": {
-        "name": "Come Behold (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7JcxtFaa7QGYiLAMFEEfIb"
-      },
-      "artists": [
-        {
-          "name": "Celtic Worship",
-          "url": "https://open.spotify.com/artist/0h2AQKpVBEEXQQ03KGf7ep"
-        },
-        {
-          "name": "Zerua Music",
-          "url": "https://open.spotify.com/artist/0s7V4D5Pze7tmFl991No8G"
-        }
-      ],
-      "date_added": "2026-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 287806,
-      "name": "Prince of Peace",
-      "url": "https://open.spotify.com/track/3EsFWsRElXU0ic8NgL4qJG"
-    },
-    {
-      "album": {
         "name": "Advent: Here Now",
         "url": "https://open.spotify.com/album/6GC8erhaX8WtwXaROtsuan"
       },
@@ -4510,6 +4488,28 @@
       "duration_ms": 259946,
       "name": "Prince of Peace",
       "url": "https://open.spotify.com/track/62XXY4qeQMOhpakL3dtM5s"
+    },
+    {
+      "album": {
+        "name": "Come Behold (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7JcxtFaa7QGYiLAMFEEfIb"
+      },
+      "artists": [
+        {
+          "name": "Celtic Worship",
+          "url": "https://open.spotify.com/artist/0h2AQKpVBEEXQQ03KGf7ep"
+        },
+        {
+          "name": "Zerua Music",
+          "url": "https://open.spotify.com/artist/0s7V4D5Pze7tmFl991No8G"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287806,
+      "name": "Prince of Peace - Gospel Version",
+      "url": "https://open.spotify.com/track/3EsFWsRElXU0ic8NgL4qJG"
     },
     {
       "album": {

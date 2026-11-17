@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Everytime We",
+        "url": "https://open.spotify.com/album/4Mj87rwOvMgboVTM8wL0rg"
+      },
+      "artists": [
+        {
+          "name": "Jom",
+          "url": "https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146288,
+      "name": "Everytime We",
+      "url": "https://open.spotify.com/track/2GH8UXbz8JKiHdjn54JkwT"
+    },
+    {
+      "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 269571,
       "name": "Monday Afternoon",
       "url": "https://open.spotify.com/track/3CTcje8vXcClKwy7xVOZwu"
@@ -2087,6 +2105,28 @@
     },
     {
       "album": {
+        "name": "Sarah (feat. John Roa)",
+        "url": "https://open.spotify.com/album/3TyD8VNfjNrFE5FOR8q4VU"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Sarah (feat. John Roa)",
+      "url": "https://open.spotify.com/track/5pGakYfgEiE29pBEeUUbyB"
+    },
+    {
+      "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
       },
@@ -2214,7 +2254,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 182003,
       "name": "Silip",
       "url": "https://open.spotify.com/track/3nHfwCmcwmt1eJX3rqn8xC"
@@ -2344,7 +2384,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 214438,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
@@ -2684,6 +2724,24 @@
       "duration_ms": 241466,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/2Vq4bs08YppE2hqA2vpEcr"
+    },
+    {
+      "album": {
+        "name": "The Ocean",
+        "url": "https://open.spotify.com/album/78urQf4fyRWRXNoladKnD7"
+      },
+      "artists": [
+        {
+          "name": "Gabe Watkins",
+          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/1yIZukgM5hBDsLafnMMbO8"
     },
     {
       "album": {

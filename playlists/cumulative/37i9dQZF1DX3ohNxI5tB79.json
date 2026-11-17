@@ -1263,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/3o4Lc01lB5HAGgy5nnt8kg"
+      },
+      "artists": [
+        {
+          "name": "SMANDEM.",
+          "url": "https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol"
+        },
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226813,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/17vG79LxykaZanTAeKer87"
+    },
+    {
+      "album": {
         "name": "Closer To Me",
         "url": "https://open.spotify.com/album/0Ee564wJB77RPEtpur1p1C"
       },
@@ -3454,7 +3476,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 227306,
       "name": "Invitation Unknown",
       "url": "https://open.spotify.com/track/3lkTij6xN5ojKYDmDtzi39"

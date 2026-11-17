@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,212 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,202 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 12 | [Situation \(feat\. Big Sean, Erykah Badu & Aasher Saintt\)](https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Aasher Saintt](https://open.spotify.com/artist/2GcRjXO2JMqFNNRcwEI0iR) | [Situation \(feat\. Big Sean, Erykah Badu, & Aasher Saintt\)](https://open.spotify.com/album/4SlPNDEOnbbfPxq72hvwMt) | 2:38 |
 | 13 | [Make It Make Sense \(feat\. Sule, Flames Dot Malik\)](https://open.spotify.com/track/5Pd2jMGCHc1ajzJpXSn23d) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Fuego Base](https://open.spotify.com/artist/03JNNveCVBRkLGvhmJfxPO), [Sule](https://open.spotify.com/artist/2uukp6np78iK1wYKFF9R8m), [Flames Dot Malik](https://open.spotify.com/artist/3fTdETUtESGiSOh95gOQeI) | [A Friend of Ours 2](https://open.spotify.com/album/2oFTmdKaO1UZxdX6lGdggx) | 4:26 |
 | 14 | [WELCOME \(feat\. Eminem\)](https://open.spotify.com/track/5xYS6MQKWWdMYg63hrwIiM) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [WELCOME \(feat\. Eminem\)](https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd) | 2:42 |
-| 15 | [DON PISTOLA](https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELMATIC](https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0) | 3:24 |
+| 15 | [DON PISTOLA](https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [HEELMATIC](https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0) | 3:24 |
 | 16 | [Keeper](https://open.spotify.com/track/58l7AtNOamVs2JWDXLvnyE) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Keeper](https://open.spotify.com/album/1IVtwaOi0441aa5xlrKVtf) | 2:37 |
 | 17 | [Bad Habits](https://open.spotify.com/track/6kUS0ZagdQj7HdB2VNJObe) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Bad Habits](https://open.spotify.com/album/5aAo7f0ZI88sesbhlHZu8H) | 2:18 |
 | 18 | [Payback](https://open.spotify.com/track/4ipIIq24CRJ5aOl5Ov16Fa) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Payback](https://open.spotify.com/album/0cDNFxG3wv1wBIuT1DX1iC) | 2:22 |

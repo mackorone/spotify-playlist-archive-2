@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-190 songs - 8 hr 24 min
+191 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blood](https://open.spotify.com/track/2mcunJucOjUZfPzfBwXal6) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:34 | 2022-12-07 | 2024-12-18 |
 | [BLOW UP](https://open.spotify.com/track/7CDH96fjwqsXE8rzeE10Fc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BLOW UP](https://open.spotify.com/album/0pTuyqcgOjQHJQBliY2k2T) | 2:33 | 2023-01-31 | 2023-03-31 |
 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 | 2022-11-08 | 2023-03-18 |
+| [Both Ways \(feat\. EST Gee\)](https://open.spotify.com/track/6XMC4r1vWL9iqlYWWUGsfO) | [Montana 700](https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Both Ways \(feat\. EST Gee\)](https://open.spotify.com/album/4TFB8eqvPZtZmjXS9zir4z) | 1:55 | 2026-11-17 |  |
 | [Bottom of the Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/track/6PlWlDkvdyfiy9R5C52C3F) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Top 10 Trappers DOA](https://open.spotify.com/album/3iyEcyNBj7ZrniAgMzyqaK) | 2:54 | 2022-11-25 | 2023-03-20 |
 | [Bottom Of The Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/track/0Btz9n7eympYOWBp6ICg1P) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bottom Of The Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/album/3rQTz3HJ5wWoW43TE2Uugb) | 2:59 | 2022-10-28 | 2022-11-26 |
 | [Break Check](https://open.spotify.com/track/0QCiSgw7uR6D9Xq0N2pIMb) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 2:45 | 2024-12-06 | 2026-09-05 |

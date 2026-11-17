@@ -532,7 +532,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 144069,
       "name": "AFTERPARTY - Bruno",
       "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
@@ -3850,7 +3850,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 187280,
       "name": "FIRESTARTER",
       "url": "https://open.spotify.com/track/6UeSC8jEhf9XmUL8EX2rni"
@@ -5236,7 +5236,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 142856,
       "name": "Hol volt\u00e1l?",
       "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
@@ -6120,6 +6120,24 @@
       "duration_ms": 166736,
       "name": "kapu",
       "url": "https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu"
+    },
+    {
+      "album": {
+        "name": "Kapufornia",
+        "url": "https://open.spotify.com/album/1dL0yVjHI6OD8TVRNVlOsY"
+      },
+      "artists": [
+        {
+          "name": "Essemm",
+          "url": "https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Kapufornia",
+      "url": "https://open.spotify.com/track/3DWPDWSBAGazIzWu0jkmfh"
     },
     {
       "album": {
@@ -8027,6 +8045,28 @@
     },
     {
       "album": {
+        "name": "NEMELVAGYUNK? II.",
+        "url": "https://open.spotify.com/album/6pgg8ZnFlRtrrVsVy5FrsR"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120109,
+      "name": "MOVE IT",
+      "url": "https://open.spotify.com/track/0r4Alb0zn6ttEUgaTv25A8"
+    },
+    {
+      "album": {
         "name": "Movin' To The Sun",
         "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
       },
@@ -8108,7 +8148,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 225000,
       "name": "M\u00e1jusi h\u00f3",
       "url": "https://open.spotify.com/track/6N0LRBBz7bZsSquJcjHumD"
@@ -10384,7 +10424,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 174222,
       "name": "RMB (Ring My Bell)",
       "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"
@@ -10939,6 +10979,24 @@
     },
     {
       "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
+    },
+    {
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -10954,7 +11012,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -13438,6 +13496,24 @@
       "duration_ms": 164146,
       "name": "V\u00e9ge van, kicsi",
       "url": "https://open.spotify.com/track/3w4hvqUiJtbU02VPqD97Z4"
+    },
+    {
+      "album": {
+        "name": "V\u00c9G\u00c1LLOM\u00c1S",
+        "url": "https://open.spotify.com/album/78mYOhHSBALNE810pRU6GC"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128275,
+      "name": "V\u00c9G\u00c1LLOM\u00c1S",
+      "url": "https://open.spotify.com/track/1ZKFMC1mSbMK2ByPlrwsGV"
     },
     {
       "album": {

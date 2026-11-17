@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-1,134 songs - 2 day 12 hr 25 min
+1,135 songs - 2 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,6 +650,7 @@
 | [My Friends \(Alex Adair Remix\)](https://open.spotify.com/track/2mLtJ1YHEXooZ2FxMnVsHe) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [My Friends \(Alex Adair Remix\)](https://open.spotify.com/album/0P8gcmEsMyniBuoFn5mxVL) | 2:59 | 2023-11-09 | 2024-01-06 |
 | [My Friends \- Alex Adair Remix](https://open.spotify.com/track/1drLea3bewCVr3VyGephpe) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [My Friends \(Alex Adair Remix\)](https://open.spotify.com/album/4MHuyEDp32uAArppwn5dpu) | 2:59 | 2023-11-09 | 2023-11-11 |
 | [My Heart, I](https://open.spotify.com/track/6vBacdRphfZMMRRBaPdOi6) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [My Heart, I](https://open.spotify.com/album/5rtc5Y4RBd1VDsrpLOBVK8) | 2:46 | 2025-02-13 | 2025-08-13 |
+| [My Life Got Better](https://open.spotify.com/track/0ZKbwnTxHT6k5XykIwsUs1) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [My Life Got Better](https://open.spotify.com/album/1g8Cj6JNp8dG6tZTkbgQbZ) | 2:51 | 2026-11-16 |  |
 | [My Love \(feat\. Ayra Starr\) \- BUNT\. Remix](https://open.spotify.com/track/5w1FBbKnlwQaLRv4BqzawB) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [My Love \(feat\. Ayra Starr\) \[Remixes\]](https://open.spotify.com/album/098hyxuLtCjLSY0UkmGVfu) | 2:50 | 2023-11-09 | 2025-08-13 |
 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 | 2023-04-13 | 2025-08-13 |
 | [My Oh My \(with Bebe Rexha & Tove Lo\) \- Franklin Remix](https://open.spotify.com/track/6WIuyJlCP7NxGc2Af7S6Bf) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [My Oh My \(with Bebe Rexha & Tove Lo\) \[The Remixes\]](https://open.spotify.com/album/1tHvSDsO066A9Y61owl2d1) | 3:21 | 2024-07-25 | 2025-08-13 |
@@ -1129,7 +1130,7 @@
 | [You and I](https://open.spotify.com/track/4H1DoZHBeRPGT9wr3JHDty) | [Mark Woods](https://open.spotify.com/artist/22TkEVEsCfzLLmQTuQouRQ) | [You and I](https://open.spotify.com/album/0ydBx0BfUiFujAvA0tf2tr) | 2:48 | 2024-02-29 | 2024-04-05 |
 | [You Don't Get That](https://open.spotify.com/track/3CxH2LyvDzK9RIbObU4yx7) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf) | [You Don't Get That](https://open.spotify.com/album/5Fl1fiWipozX23QTIi0hmd) | 2:15 | 2026-02-19 | 2026-07-18 |
 | [You Don’t Even Miss Me](https://open.spotify.com/track/3KSpl46KfuW4dUeXgbNaZZ) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [You Don’t Even Miss Me](https://open.spotify.com/album/5slrDcVCU84EvhtxphtLOT) | 2:21 | 2025-04-24 | 2026-08-28 |
-| [You got me](https://open.spotify.com/track/6oHF418YOsgEd6qjlRP1Dn) | [Sam Atlast](https://open.spotify.com/artist/7qKmJ2FhmHqqRlEpWuhlfz), [Lowbrain](https://open.spotify.com/artist/3GPYxTFTrtFQPS8MzJVhek) | [You got me](https://open.spotify.com/album/2kCRESbT1g2fiC2RymaLIL) | 3:01 | 2026-01-29 |  |
+| [You got me](https://open.spotify.com/track/6oHF418YOsgEd6qjlRP1Dn) | [Sam Atlast](https://open.spotify.com/artist/7qKmJ2FhmHqqRlEpWuhlfz), [Lowbrain](https://open.spotify.com/artist/3GPYxTFTrtFQPS8MzJVhek) | [You got me](https://open.spotify.com/album/2kCRESbT1g2fiC2RymaLIL) | 3:01 | 2026-01-29 | 2026-11-17 |
 | [You Gotta Let It Go](https://open.spotify.com/track/2sBFRbfJv4cAXhHSAaOF6d) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [You Gotta Let It Go](https://open.spotify.com/album/23Y6ZHIMRlnoUWT1afU298) | 2:13 | 2024-03-07 | 2024-04-05 |
 | [You Lose My Mind](https://open.spotify.com/track/5jLUdcjO2z7jvYoKnkGPY9) | [Apotech](https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec) | [You Lose My Mind](https://open.spotify.com/album/5MkmqaIBzITzqEpvhd3zvu) | 3:59 | 2023-06-08 | 2025-08-13 |
 | [you'll come back](https://open.spotify.com/track/12AUL8xZVqnq75tvmZs085) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [you'll come back](https://open.spotify.com/album/6bnRPsX8Q4Vvx4bBGZi3IH) | 2:04 | 2024-01-11 | 2025-08-13 |

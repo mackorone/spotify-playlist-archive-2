@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: IDIOTAPE\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,419 songs - 3 day 14 hr 1 min
+1,420 songs - 3 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 | 2024-10-31 | 2025-01-16 |
 | [AMEN](https://open.spotify.com/track/1b32HPWdqHd2Io2KazkQmX) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [AMEN](https://open.spotify.com/album/4dwIdY0b2fBND9ozn1t7ui) | 2:17 | 2021-12-21 | 2022-04-16 |
 | [An Empiricist](https://open.spotify.com/track/1jjfnYIMlvmzna7yZmXgGx) | [JAE BEE POP KEY](https://open.spotify.com/artist/4FBZVYeGQnd6OWH8hPdioM) | [We](https://open.spotify.com/album/4nmgB5pSZhxKsLEoSrI9Gf) | 3:04 | 2022-03-21 | 2022-04-11 |
+| [Angel](https://open.spotify.com/track/7EHVfrNfWm6TEWGzCMqVkG) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [PULSE I](https://open.spotify.com/album/3pmNtBDQRwE0CC9ksVzTOm) | 4:18 | 2026-11-16 |  |
 | [Annie](https://open.spotify.com/track/4cr0ygULVC2CQdz4lnNoim) | [diego](https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn) | [Annie](https://open.spotify.com/album/2SQtjYXd0phPc8rUERwIVD) | 3:44 | 2025-08-18 | 2025-09-26 |
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-05-03 | 2024-05-15 |
 | [apocalyptic serenade](https://open.spotify.com/track/11MEiPi0ktNXIFctbcYNar) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [apocalyptic serenade](https://open.spotify.com/album/0LozFO673nlo2eaRgSrr9B) | 4:28 | 2025-05-13 | 2025-05-23 |
@@ -728,7 +729,7 @@
 | [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 | 2023-01-25 | 2023-02-15 |
 | [Lucky \(feat\. Wonstein\)](https://open.spotify.com/track/4SuCrpZUlyOskt1mYpmDyx) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Hip Hop Retreat](https://open.spotify.com/album/7qmHNI4WN9SjpJjJzKpxql) | 6:44 | 2025-03-04 | 2025-04-11 |
 | [Lullaby](https://open.spotify.com/track/0OV5CZKs1CNsavPmV9gZzg) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM), [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b) | [Lullaby](https://open.spotify.com/album/56LUm3jvcWdgNeHKrtEjGl) | 4:03 | 2021-12-21 | 2022-07-29 |
-| [Luminous overflows](https://open.spotify.com/track/6HPBd0rVrcUuPB0ZZB9zX5) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Luminous overflows](https://open.spotify.com/album/3SWzKLuQ3qYYnSxG0L34Do) | 4:05 | 2026-07-03 |  |
+| [Luminous overflows](https://open.spotify.com/track/6HPBd0rVrcUuPB0ZZB9zX5) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Luminous overflows](https://open.spotify.com/album/3SWzKLuQ3qYYnSxG0L34Do) | 4:05 | 2026-07-03 | 2026-11-17 |
 | [Luna](https://open.spotify.com/track/6sYj7Rr3Flt4ejqTyHs3nV) | [HEO](https://open.spotify.com/artist/6PM8wQDAn64tXjj3Ip2Yun) | [Structure](https://open.spotify.com/album/6ySOkQ1FYhLPGISzXDIiZN) | 5:08 | 2025-07-23 | 2025-08-05 |
 | [Lunch Time 점심시간](https://open.spotify.com/track/44dmYTBkcvpNxWjCwpiKgc) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Lunch Time 점심시간](https://open.spotify.com/album/3NphZwsDlKagZk5IGyUWNp) | 4:36 | 2022-03-31 | 2022-04-05 |
 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 | 2022-08-04 | 2024-04-19 |

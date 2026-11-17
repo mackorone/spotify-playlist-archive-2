@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine",
-  "num_followers": 253197,
+  "num_followers": 253219,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,26 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
+        "name": "\u00daltima L\u00e1grima",
+        "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
+      },
+      "artists": [
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        },
+        {
+          "name": "Biig Star",
+          "url": "https://open.spotify.com/artist/1TS8DXgkRBOeoVfTuD9e0i"
+        }
+      ],
+      "duration_ms": 242608,
+      "name": "\u00daltima L\u00e1grima",
+      "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
         "name": "Pegou",
         "url": "https://open.spotify.com/album/0LOCdxBKEKZvAqx8sU9Scz"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 154000,
       "name": "Pegou",
       "url": "https://open.spotify.com/track/3X44bKurIArYAgcXMiOk0V"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
-        "name": "\u00daltima L\u00e1grima",
-        "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
-      },
-      "artists": [
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        },
-        {
-          "name": "Biig Star",
-          "url": "https://open.spotify.com/artist/1TS8DXgkRBOeoVfTuD9e0i"
-        }
-      ],
-      "duration_ms": 242608,
-      "name": "\u00daltima L\u00e1grima",
-      "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Eu e Tu",
-        "url": "https://open.spotify.com/album/1TC18ldQyGPVTIG7QGXBaA"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 202186,
-      "name": "Eu e Tu",
-      "url": "https://open.spotify.com/track/0oHKoCQ1n52RLWbX9wT8Ww"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Voc\u00ea Prometeu",
         "url": "https://open.spotify.com/album/5nS7Ja5m7XfBnT7FIlM02F"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 195436,
       "name": "Mais um Caso",
       "url": "https://open.spotify.com/track/74vJ2796jQqnf0tiopPnde"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Eu e Tu",
+        "url": "https://open.spotify.com/album/1TC18ldQyGPVTIG7QGXBaA"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 202186,
+      "name": "Eu e Tu",
+      "url": "https://open.spotify.com/track/0oHKoCQ1n52RLWbX9wT8Ww"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Vem Relaxar",
-        "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 172962,
-      "name": "Vem Relaxar",
-      "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Evo\u00e9",
         "url": "https://open.spotify.com/album/4Jt0ifiTsa9N3VMDsXvEns"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 241475,
       "name": "Evo\u00e9",
       "url": "https://open.spotify.com/track/3wEPQktMJVlkhSs5nrqh0J"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Vem Relaxar",
+        "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 172962,
+      "name": "Vem Relaxar",
+      "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
+        "name": "O Plano Dela",
+        "url": "https://open.spotify.com/album/66PW2HQtsJ4z3Q5NeZcD7m"
+      },
+      "artists": [
+        {
+          "name": "Tamyris Moiane",
+          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
+        }
+      ],
+      "duration_ms": 193697,
+      "name": "O Plano Dela",
+      "url": "https://open.spotify.com/track/3PcRy6tTYur7uqryvuHYQ9"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
         "name": "TU E A LUA",
         "url": "https://open.spotify.com/album/1RB4xQYnHkcZZjyu3vYxkS"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 198799,
       "name": "Fica longi bo",
       "url": "https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
-        "name": "O Plano Dela",
-        "url": "https://open.spotify.com/album/66PW2HQtsJ4z3Q5NeZcD7m"
-      },
-      "artists": [
-        {
-          "name": "Tamyris Moiane",
-          "url": "https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g"
-        }
-      ],
-      "duration_ms": 193697,
-      "name": "O Plano Dela",
-      "url": "https://open.spotify.com/track/3PcRy6tTYur7uqryvuHYQ9"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
+        "name": "Simbiose",
+        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Simbiose",
+      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
         "name": "Estou Louco",
         "url": "https://open.spotify.com/album/1e5HvmOXC3GNOOS3WUDA5A"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 228919,
       "name": "Estou Louco",
       "url": "https://open.spotify.com/track/3RCZjlaSFsZUijfEfJARZB"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
-        "name": "Simbiose",
-        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Simbiose",
-      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Otu Padaz",
-        "url": "https://open.spotify.com/album/4dYpEAF4MYTVArbvo2B0cw"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 205301,
-      "name": "Otu Padaz",
-      "url": "https://open.spotify.com/track/7KRzYyu3vBMSGF03Ez3Dru"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "Inveja",
         "url": "https://open.spotify.com/album/3lfVIqbMPtJdS2bU3Vbbc3"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 217265,
       "name": "Inveja",
       "url": "https://open.spotify.com/track/0Z0mQyMYYex69RfaBoCs4L"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "Otu Padaz",
+        "url": "https://open.spotify.com/album/4dYpEAF4MYTVArbvo2B0cw"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 205301,
+      "name": "Otu Padaz",
+      "url": "https://open.spotify.com/track/7KRzYyu3vBMSGF03Ez3Dru"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "Libra",
-        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 157419,
-      "name": "Quero Mais",
-      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
-    },
-    {
-      "added_at": "2026-11-06 00:00:56",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/2EhWvwxCdHOLcIZbrylw8o"
       },
@@ -1843,18 +1827,18 @@
     {
       "added_at": "2026-11-06 00:00:56",
       "album": {
-        "name": "AROMA INSANO",
-        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
       },
       "artists": [
         {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 150000,
-      "name": "AROMA INSANO",
-      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
+      "duration_ms": 157419,
+      "name": "Quero Mais",
+      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
     },
     {
       "added_at": "2026-11-06 00:00:56",
@@ -1871,6 +1855,22 @@
       "duration_ms": 208468,
       "name": "Lebam",
       "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
+    },
+    {
+      "added_at": "2026-11-06 00:00:56",
+      "album": {
+        "name": "AROMA INSANO",
+        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "AROMA INSANO",
+      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
     },
     {
       "added_at": "2026-11-06 00:00:56",

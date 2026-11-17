@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83c\udf00 featuring Andruss & Juos",
-  "num_followers": 123418,
+  "num_followers": 123441,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-11-13 05:00:48",
       "album": {
+        "name": "AY PAPI",
+        "url": "https://open.spotify.com/album/7KdMNPTMaLudQUbqRvJPSw"
+      },
+      "artists": [
+        {
+          "name": "ACID HARRY",
+          "url": "https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW"
+        }
+      ],
+      "duration_ms": 171124,
+      "name": "AY PAPI",
+      "url": "https://open.spotify.com/track/4XEVZUHC2KfSA2IhS3EjWk"
+    },
+    {
+      "added_at": "2026-11-13 05:00:48",
+      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 218813,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
-    },
-    {
-      "added_at": "2026-11-13 05:00:48",
-      "album": {
-        "name": "AY PAPI",
-        "url": "https://open.spotify.com/album/7KdMNPTMaLudQUbqRvJPSw"
-      },
-      "artists": [
-        {
-          "name": "ACID HARRY",
-          "url": "https://open.spotify.com/artist/0Xv8xXnOJ9v8qOIiqyR7FW"
-        }
-      ],
-      "duration_ms": 171124,
-      "name": "AY PAPI",
-      "url": "https://open.spotify.com/track/4XEVZUHC2KfSA2IhS3EjWk"
     },
     {
       "added_at": "2026-11-13 05:00:48",
@@ -1975,26 +1975,22 @@
     {
       "added_at": "2026-11-13 05:00:48",
       "album": {
-        "name": "Chimba",
-        "url": "https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp"
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
       "artists": [
         {
-          "name": "Mark Di Meo",
-          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         },
         {
-          "name": "Pensi\u00f3n",
-          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
-        },
-        {
-          "name": "BIG KAPOH",
-          "url": "https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8"
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
         }
       ],
-      "duration_ms": 207804,
-      "name": "Chimba",
-      "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     }
   ],
   "unique_name": "Latin House",

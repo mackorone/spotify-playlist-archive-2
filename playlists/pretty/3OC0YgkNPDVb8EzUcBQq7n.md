@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3OC0YgkNPDVb8EzUcBQq7n.md) - [plain]
 
 > Best of  the pop girl era!  Listen to all your favourite female artists here.
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 41,550 likes - 111 songs - 6 hr 5 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 41,544 likes - 111 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2641960,
+  "num_followers": 2641952,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,22 @@
     {
       "added_at": "2026-11-13 05:00:55",
       "album": {
-        "name": "I Could Be Madonna",
-        "url": "https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3"
+        "name": "You Are My High",
+        "url": "https://open.spotify.com/album/5s2iFBMZSNVZLodUvlJMKk"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
         },
         {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
         }
       ],
-      "duration_ms": 195942,
-      "name": "I Could Be Madonna",
-      "url": "https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6"
+      "duration_ms": 164000,
+      "name": "You Are My High",
+      "url": "https://open.spotify.com/track/5casx9bgvIoxPJ4jN6cLfX"
     },
     {
       "added_at": "2026-11-13 05:00:55",
@@ -739,22 +739,22 @@
     {
       "added_at": "2026-11-13 05:00:55",
       "album": {
-        "name": "You Are My High",
-        "url": "https://open.spotify.com/album/5s2iFBMZSNVZLodUvlJMKk"
+        "name": "I Could Be Madonna",
+        "url": "https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3"
       },
       "artists": [
         {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         },
         {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 164000,
-      "name": "You Are My High",
-      "url": "https://open.spotify.com/track/5casx9bgvIoxPJ4jN6cLfX"
+      "duration_ms": 195942,
+      "name": "I Could Be Madonna",
+      "url": "https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6"
     },
     {
       "added_at": "2026-11-13 05:00:55",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2026-11-13 05:00:55",
       "album": {
-        "name": "Better Times",
-        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "Better Times",
-      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
-    },
-    {
-      "added_at": "2026-11-13 05:00:55",
-      "album": {
         "name": "Next To You (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
+    },
+    {
+      "added_at": "2026-11-13 05:00:55",
+      "album": {
+        "name": "Better Times",
+        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 199015,
+      "name": "Better Times",
+      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
     },
     {
       "added_at": "2026-11-13 05:00:55",
@@ -2287,6 +2287,26 @@
     {
       "added_at": "2026-11-13 05:00:55",
       "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/0pKY3pw8isHCSs2rZujmEc"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "TIMID.",
+          "url": "https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg"
+        }
+      ],
+      "duration_ms": 191025,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/0q51UzsjGbXC33tKugzA1Q"
+    },
+    {
+      "added_at": "2026-11-13 05:00:55",
+      "album": {
         "name": "I LUV U (Sunny)",
         "url": "https://open.spotify.com/album/3TT7K751J6hjcElJckpc9J"
       },
@@ -2387,26 +2407,6 @@
       "duration_ms": 180120,
       "name": "Tu Coraz\u00f3n (Your Heart)",
       "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-11-13 05:00:55",
-      "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/0pKY3pw8isHCSs2rZujmEc"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "TIMID.",
-          "url": "https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg"
-        }
-      ],
-      "duration_ms": 191025,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/0q51UzsjGbXC33tKugzA1Q"
     },
     {
       "added_at": "2026-11-13 05:00:55",
@@ -2643,22 +2643,6 @@
     {
       "added_at": "2026-11-13 05:00:55",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
-    },
-    {
-      "added_at": "2026-11-13 05:00:55",
-      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
       },
@@ -2671,6 +2655,22 @@
       "duration_ms": 172867,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
+    },
+    {
+      "added_at": "2026-11-13 05:00:55",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2026-11-13 05:00:55",
@@ -2735,22 +2735,6 @@
     {
       "added_at": "2026-11-13 05:00:55",
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/0weLliC8lL49CoiBpc6ieC"
-      },
-      "artists": [
-        {
-          "name": "Beau Cruz",
-          "url": "https://open.spotify.com/artist/5rKzRUYK7yX3lrWNsm2nbS"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9"
-    },
-    {
-      "added_at": "2026-11-13 05:00:55",
-      "album": {
         "name": "Magic With You",
         "url": "https://open.spotify.com/album/0Icms8qDgPxre5SIr3GUDW"
       },
@@ -2771,6 +2755,22 @@
       "duration_ms": 156923,
       "name": "Magic With You",
       "url": "https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv"
+    },
+    {
+      "added_at": "2026-11-13 05:00:55",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0weLliC8lL49CoiBpc6ieC"
+      },
+      "artists": [
+        {
+          "name": "Beau Cruz",
+          "url": "https://open.spotify.com/artist/5rKzRUYK7yX3lrWNsm2nbS"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9"
     },
     {
       "added_at": "2026-11-13 05:00:55",
@@ -2895,26 +2895,6 @@
     {
       "added_at": "2026-11-13 05:00:55",
       "album": {
-        "name": "SYW (feat. Cecile Believe)",
-        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "SYW (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
-    },
-    {
-      "added_at": "2026-11-13 05:00:55",
-      "album": {
         "name": "Future Renaissance",
         "url": "https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri"
       },
@@ -2931,6 +2911,26 @@
       "duration_ms": 163834,
       "name": "Believing In Us",
       "url": "https://open.spotify.com/track/6WljWthiqncq6ad3FiDM8r"
+    },
+    {
+      "added_at": "2026-11-13 05:00:55",
+      "album": {
+        "name": "SYW (feat. Cecile Believe)",
+        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "SYW (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
     },
     {
       "added_at": "2026-11-13 05:00:55",

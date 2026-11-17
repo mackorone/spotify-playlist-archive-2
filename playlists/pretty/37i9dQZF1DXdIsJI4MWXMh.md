@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,278 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,299 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 23 | [Bonita](https://open.spotify.com/track/2iRkJXUqorBOvYCdmOWI1J) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Bonita](https://open.spotify.com/album/56MEOEdo5TBKqXqhRwONW7) | 3:05 |
 | 24 | [Dime Quién Es](https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w) | [Líderes de Chile](https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Escribiendo Nuestra Historia](https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb) | 5:37 |
 | 25 | [La Ultima Granada](https://open.spotify.com/track/5pxqqimSThgFxpLJywZ5WU) | [Benja Duarte](https://open.spotify.com/artist/6wKWDl7Gh8rKyDWk7O1P1t) | [La Ultima Granada](https://open.spotify.com/album/2EHRSifbFayruTaspm9lRf) | 3:06 |
-| 26 | [Se Olvidó](https://open.spotify.com/track/6OPiaQPgi2Sj5gNibn5fY9) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [Se Olvidó](https://open.spotify.com/album/75PFbJlFjdsTvNddapPTZD) | 3:23 |
-| 27 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/2CdxmSPq2YLHWemapVnw7j) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/album/0LtVrgVbR0Q9SP2Zj1Bx8z) | 3:39 |
+| 26 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/2CdxmSPq2YLHWemapVnw7j) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/album/0LtVrgVbR0Q9SP2Zj1Bx8z) | 3:39 |
+| 27 | [Se Olvidó](https://open.spotify.com/track/6OPiaQPgi2Sj5gNibn5fY9) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [Se Olvidó](https://open.spotify.com/album/75PFbJlFjdsTvNddapPTZD) | 3:23 |
 | 28 | [Dos Monedas](https://open.spotify.com/track/6N1ykx2KOySjEXcVgrZ42J) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [De Padre Desconocido](https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW) | 4:42 |
 | 29 | [YO TE CUIDARÉ](https://open.spotify.com/track/1pfWuXWCfa8r6BQwBN4iit) | [Ignacio Ormazábal](https://open.spotify.com/artist/1ON2OvVHfEwUM9KZg3N0oT), [Alanys Lagos](https://open.spotify.com/artist/7zYKWRlWkeaKjRLAeEsJzS) | [AMORES DE CAMPO 2](https://open.spotify.com/album/5xxTZuXauHpsomQvneYw9n) | 3:38 |
 | 30 | [Mataste el Amor](https://open.spotify.com/track/4IdXuWenT9CuwQJZVqH1Uy) | [Grupo Disparo](https://open.spotify.com/artist/2ebfwnFBy7LnU8m14ZfHvU), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Mataste el Amor](https://open.spotify.com/album/4e5PGukYUPsQ0xyevSv9yN) | 3:24 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 54 | [La Carta N°3 \- 1986 Digital Remaster](https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Carta N° 3](https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3) | 3:01 |
 | 55 | [La Bella y la Bestia](https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1) | [Los Rancheros de Quilleco](https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx) | [La Bella y la Bestia](https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe) | 3:49 |
 | 56 | [Amor Traicionero](https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Amor Traicionero](https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei) | 4:16 |
-| 57 | [Sin Coronas Ni Reinas](https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Para Nuestra Gente](https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK) | 3:20 |
-| 58 | [Vuelvo a las Cantinas](https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 4:18 |
+| 57 | [Vuelvo a las Cantinas](https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 4:18 |
+| 58 | [Sin Coronas Ni Reinas](https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Para Nuestra Gente](https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK) | 3:20 |
 | 59 | [Los Vampiros](https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Camino al Éxito](https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR) | 3:31 |
 | 60 | [La Mesa 20](https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Por una Yegua No Se para la Trilla](https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm) | 3:13 |
 | 61 | [Volveré](https://open.spotify.com/track/10JXQH7W7OzK5kqeLTnpmV) | [El Llanero del Lago Villarrica](https://open.spotify.com/artist/1ETTzSKxOD9LBXp1hyYzzf), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Volveré](https://open.spotify.com/album/1cRSqJ1LSMCCOf4NIBc0WU) | 4:16 |

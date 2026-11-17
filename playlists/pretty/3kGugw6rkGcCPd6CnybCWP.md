@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,158 likes - 109 songs - 6 hr 15 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,158 likes - 110 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 107 | [Pink Lady](https://open.spotify.com/track/3qlOS0epFb3BeMunquhT5f) | [Chandler Kosterman](https://open.spotify.com/artist/1VAdxgSgTeKEZ5pZY3EHpw) | [Pink Lady](https://open.spotify.com/album/2HZ7UWFGI1eSU5TLlYzln5) | 2:54 |
 | 108 | [Dancing In My Mind](https://open.spotify.com/track/5akaXPb2Mkf5fhpNCGflZE) | [Just Passing Through](https://open.spotify.com/artist/5RQczrs9bNSuwSgwACYNm6) | [Dancing In My Mind](https://open.spotify.com/album/1u0BMhgwFa6Nhtn0EfmHoG) | 3:08 |
 | 109 | [Tussen de Rode Lijnen](https://open.spotify.com/track/0hQKCD6PH7umQiEdgG4xfu) | [HAITZE](https://open.spotify.com/artist/6xWBsH2UxwLqHi5eftzdZ1) | [Tussen de Rode Lijnen](https://open.spotify.com/album/18jkEgxt7VYs5bHxvBHP5i) | 2:56 |
+| 110 | [Dig A Bone](https://open.spotify.com/track/08rbnKhtDgHS6pQjZOKR9b) | [JoJo Worthington](https://open.spotify.com/artist/6ML3M2WuSobnfx8Y0wEYGd) | [BAPTIZED II](https://open.spotify.com/album/7MEYF4hJjHlGrJJcCW9lXM) | 3:19 |
 
-Snapshot ID: `AAAQUVl0GswSwIFz9E1tMjJkVAbXLHrB`
+Snapshot ID: `AAAQUjNUW+9FbO+NWQSt5v+fUhuUmPm1`

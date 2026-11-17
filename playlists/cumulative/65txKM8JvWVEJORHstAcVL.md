@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(8/11/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(15/11/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-319 songs - 16 hr 9 min
+320 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-02-09 | 2025-06-26 |
 | [El club de la sisena hora](https://open.spotify.com/track/7a5RpWYAhhn2tzEa58aA4b) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [El club de la sisena hora](https://open.spotify.com/album/0DQYzvlS4d7DmuLBtkqo3V) | 2:26 | 2024-11-03 | 2025-02-03 |
 | [El Far del Sud 40](https://open.spotify.com/track/5bkZzfXgA6zMrbUiRrGAjc) | [Sopa De Cabra](https://open.spotify.com/artist/1qNkvcsEC2Hry31JWkYO3D), [Jordi Stone](https://open.spotify.com/artist/42LbGTI3jOJjOtGH1ncNSV) | [El Far del Sud 40](https://open.spotify.com/album/77Dq1ni9vymBpp9hCW9B2k) | 3:03 | 2026-08-10 |  |
-| [El ventilador](https://open.spotify.com/track/5MCycgUlsY56qp50wjnBte) | [Banda Neon](https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU), [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Mon DJ](https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U) | [El ventilador](https://open.spotify.com/album/07TZGbKjn8xqDPHA0VJbWD) | 2:18 | 2026-07-06 |  |
+| [El ventilador](https://open.spotify.com/track/5MCycgUlsY56qp50wjnBte) | [Banda Neon](https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU), [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Mon DJ](https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U) | [El ventilador](https://open.spotify.com/album/07TZGbKjn8xqDPHA0VJbWD) | 2:18 | 2026-07-06 | 2026-11-17 |
 | [Els passos prohibits](https://open.spotify.com/track/010jwtvX8ITfPpGNnTz6PV) | [Banda Neon](https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU) | [Els passos prohibits](https://open.spotify.com/album/1W04oFzsDyWU0WmIkZISgm) | 2:21 | 2026-04-27 | 2026-07-07 |
 | [Els teus ulls](https://open.spotify.com/track/6cPe7rorhofISE335CqPmH) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Els teus ulls](https://open.spotify.com/album/3D68fVBSVoz7QvrkysKjPq) | 2:31 | 2023-11-05 | 2024-08-19 |
 | [Els ulls que et mirin](https://open.spotify.com/track/3QMHVZiRo6PKSTY8bAqH6t) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [Els ulls que et mirin](https://open.spotify.com/album/1XsnXQGHn8w6GFfLFd5fUn) | 2:42 | 2026-02-23 | 2026-05-27 |
@@ -244,6 +244,7 @@
 | [Rapsòdia del teu cos](https://open.spotify.com/track/0J2kQXNmZBLNUu7UmjFufw) | [Diana Murr](https://open.spotify.com/artist/4qhEWD7O6ccYc5qARJmNXe) | [Rapsòdia del teu cos](https://open.spotify.com/album/5P72lMQxkOUTg7kk0Fm4Tt) | 3:09 | 2026-03-23 | 2026-05-06 |
 | [Rayos de Sol \(feat\. Jose De Rico\) \- Remix](https://open.spotify.com/track/5mTdH9qtGmem11SmHYjBuS) | [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [José de Rico](https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m) | [Rayos de Sol \(feat\. Jose De Rico\) \[Remix\]](https://open.spotify.com/album/72GhozLLOSZssWN4JUUYiy) | 2:53 | 2026-08-17 | 2026-10-14 |
 | [REBOBINAR](https://open.spotify.com/track/45r6wchHonMxHst9NwAnze) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [REBOBINAR](https://open.spotify.com/album/2ATBzg2TsEwMwETy0tXsFZ) | 2:54 | 2024-12-15 | 2025-03-31 |
+| [Rema](https://open.spotify.com/track/2Fk3pLcV5DsogayX0AaNSW) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Rema](https://open.spotify.com/album/6rrmWCJTMHw6myt300RdgI) | 2:38 | 2026-11-16 |  |
 | [Rikiti](https://open.spotify.com/track/5Hrnz90iQgcU3qTG20FW0o) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Rikiti](https://open.spotify.com/album/1suSSaPoQLN8CufLXvEdVF) | 2:26 | 2023-09-10 | 2024-04-29 |
 | [Rumba catalana](https://open.spotify.com/track/3bGAxzfcWxeHhnAWrDBSDo) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Rumba catalana](https://open.spotify.com/album/7zbpWINUVBuj2qbaP0Zg5e) | 3:19 | 2024-10-27 | 2025-05-27 |
 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 | 2026-05-19 | 2026-09-08 |

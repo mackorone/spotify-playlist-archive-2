@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Wavves
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,948 likes - 111 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,933 likes - 111 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 91 | [Hysteria](https://open.spotify.com/track/0bIpDIXEcFefn9dmKoAxNy) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Hysteria](https://open.spotify.com/album/1C9mEJJHUKBwdujuDpRjdY) | 2:48 |
 | 92 | [Resuscitate](https://open.spotify.com/track/72IQ4ulGN7L9e2WA92SXdK) | [Light Years](https://open.spotify.com/artist/0WtKAc6wgVpiqQZekFdFgJ) | [Resuscitate](https://open.spotify.com/album/3dGbExijwdYk5AjKQnH0SW) | 3:06 |
 | 93 | [Farewell of the Century](https://open.spotify.com/track/6uH8W17ox6JiElDvpXmEuW) | [Buried In Spring](https://open.spotify.com/artist/1YaEAdCYXZQEJoo8VkxbMY) | [Buried In Spring](https://open.spotify.com/album/0mrjFNe8nS7u39pwGX1OJ5) | 3:26 |
-| 94 | [Rote Zora\. "Resistance is Possible." Emma, no\. 6, June 1984, pp\. 39\-41.](https://open.spotify.com/track/3g7Z7sKCS2dnihluo3ZMT6) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [Rote Zora\. "Resistance is Possible." Emma, no\. 6, June 1984, pp\. 39\-41.](https://open.spotify.com/album/6oqUgxNHrpmxRZuFuNTHSN) | 2:54 |
+| 94 | [Rote Zora\. "Resistance is Possible." Interview, June 1984.](https://open.spotify.com/track/3g7Z7sKCS2dnihluo3ZMT6) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [Rote Zora\. "Resistance is Possible." Interview, June 1984.](https://open.spotify.com/album/6oqUgxNHrpmxRZuFuNTHSN) | 2:54 |
 | 95 | [Cato](https://open.spotify.com/track/5WgopDiOmWvO3flQjWvZ5n) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Sue Tompkins](https://open.spotify.com/artist/1a9FKVeSjLYGWLwWqzflOO) | [The Demise Of Planet X \(Deluxe\)](https://open.spotify.com/album/1jC6TfQBhGoNRVM6Tq8Vbf) | 2:43 |
 | 96 | [Quick Learner](https://open.spotify.com/track/6zDs4ehH7tMuDxUu4lIOau) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [A Match In Your Garden](https://open.spotify.com/album/5ydUWedsEytqmyroSL6Yiv) | 2:59 |
 | 97 | [Trust Chaos](https://open.spotify.com/track/2RpYesEFrBhYMv5rmwnFHB) | [The Number Twelve Looks Like You](https://open.spotify.com/artist/72kTuWmVMzkRDkP1pgc8Hr) | [Trust Chaos](https://open.spotify.com/album/4bCaESxo4LmcBsISxdbfcU) | 1:54 |

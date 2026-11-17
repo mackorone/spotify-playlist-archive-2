@@ -1981,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "Badtrip!",
+        "url": "https://open.spotify.com/album/0bBowfpzrqaqft4KjOI3YU"
+      },
+      "artists": [
+        {
+          "name": "CHNDTR",
+          "url": "https://open.spotify.com/artist/2mDBfW8JQxZS6GYAAQRnFO"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215117,
+      "name": "Badtrip!",
+      "url": "https://open.spotify.com/track/7fSKN7vXvp40ow47RFHFwV"
+    },
+    {
+      "album": {
         "name": "Baggages",
         "url": "https://open.spotify.com/album/0HARzAL7EzcvJ3d5AV5ks7"
       },
@@ -3127,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "alas tres, muli",
+        "url": "https://open.spotify.com/album/3aMlEjfXBTD7hgYzgs2gWn"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1h5eRSFTxtcqvv04uKU2kz"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266285,
+      "name": "buwan/ulan",
+      "url": "https://open.spotify.com/track/7AvZmNwqS32H2a8yatuZEC"
+    },
+    {
+      "album": {
         "name": "BWAN",
         "url": "https://open.spotify.com/album/1k9pcb0pZIDlUbXRRxBSF0"
       },
@@ -4150,6 +4186,24 @@
       "duration_ms": 247413,
       "name": "Di Na",
       "url": "https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF"
+    },
+    {
+      "album": {
+        "name": "Di Na Babalik",
+        "url": "https://open.spotify.com/album/3XVhSQG0pEcachuSUG6pzZ"
+      },
+      "artists": [
+        {
+          "name": "6cyclemind",
+          "url": "https://open.spotify.com/artist/3nZa8vRD64ueq3d0JNYTsl"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272271,
+      "name": "Di Na Babalik",
+      "url": "https://open.spotify.com/track/5s26sVY96RMeCDnjJCDKjU"
     },
     {
       "album": {
@@ -7294,7 +7348,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 148141,
       "name": "ikaw",
       "url": "https://open.spotify.com/track/58b443Cif2xysQK1WoH2RE"
@@ -7652,7 +7706,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 186013,
       "name": "indie film",
       "url": "https://open.spotify.com/track/3LVK461v4j5peYIo9qq4Fj"
@@ -7894,7 +7948,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 249750,
       "name": "Isip",
       "url": "https://open.spotify.com/track/4do0DDPsoFE0TsOdtc8RHF"
@@ -8602,7 +8656,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 192500,
       "name": "Kapag Kapiling Ka",
       "url": "https://open.spotify.com/track/7oZqo2Ix1BrI9IYik02tfo"
@@ -8928,6 +8982,24 @@
       "duration_ms": 171145,
       "name": "KAYA",
       "url": "https://open.spotify.com/track/5FhNzod32Hwp6xrdVtAWcD"
+    },
+    {
+      "album": {
+        "name": "Keep It On The Low",
+        "url": "https://open.spotify.com/album/6Ps19moiA1oLtV0tIaFE5G"
+      },
+      "artists": [
+        {
+          "name": "Avery Leon",
+          "url": "https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237296,
+      "name": "Keep It On The Low",
+      "url": "https://open.spotify.com/track/0qoSYIny8bQlG6HJgOckQ8"
     },
     {
       "album": {
@@ -14152,7 +14224,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 237504,
       "name": "Palaisipan",
       "url": "https://open.spotify.com/track/4Z7hKDpGq5bMmQ98fdwDOt"
@@ -21046,6 +21118,24 @@
       "duration_ms": 154399,
       "name": "Wag Ka Munang Umuwi",
       "url": "https://open.spotify.com/track/4fod6UOecSaa15XKHSJjtI"
+    },
+    {
+      "album": {
+        "name": "Wag Mag-Alala",
+        "url": "https://open.spotify.com/album/2aisBptdbNKPwCxbTQcnlQ"
+      },
+      "artists": [
+        {
+          "name": "Saikyoutopia",
+          "url": "https://open.spotify.com/artist/14zovZ2sy4yjEaNUq0xXbU"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220941,
+      "name": "Wag Mag-Alala",
+      "url": "https://open.spotify.com/track/2FXQggZaghOwKFX800eJ55"
     },
     {
       "album": {

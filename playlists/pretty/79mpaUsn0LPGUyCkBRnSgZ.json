@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJ9KoefKqHdJaA/Nh+q68q09ko3axt",
+  "snapshot_id": "AAAJ+F5sNeRazMhgmdBNX4wenqcz/n6w",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -13345,26 +13345,6 @@
       "url": "https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf"
     },
     {
-      "added_at": "2026-11-14 01:07:13",
-      "album": {
-        "name": "Trouble Mountain",
-        "url": "https://open.spotify.com/album/0Fta5KudJiX6HpDWApUu8y"
-      },
-      "artists": [
-        {
-          "name": "Aesop Rock",
-          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
-        },
-        {
-          "name": "Blockhead",
-          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
-        }
-      ],
-      "duration_ms": 139920,
-      "name": "Swedish Death Cleaning",
-      "url": "https://open.spotify.com/track/3Fkh5lCPxZ0n7ojKApo7Zv"
-    },
-    {
       "added_at": "2026-11-15 19:18:44",
       "album": {
         "name": "Does It Look Like I'm Here?",
@@ -13381,20 +13361,40 @@
       "url": "https://open.spotify.com/track/3arqQGuSd3iOva7BH6jLqm"
     },
     {
-      "added_at": "2026-11-16 03:44:45",
+      "added_at": "2026-11-16 19:52:33",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL"
+        "name": "Terrified .",
+        "url": "https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ"
       },
       "artists": [
         {
-          "name": "Juana Molina",
-          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
         }
       ],
-      "duration_ms": 223700,
-      "name": "Paraguaya",
-      "url": "https://open.spotify.com/track/6BFpuCx0Hq9ZK2bZmo7l8v"
+      "duration_ms": 91000,
+      "name": "Terrified .",
+      "url": "https://open.spotify.com/track/2sfq2lv27cmsH4XvXAsiZp"
+    },
+    {
+      "added_at": "2026-11-17 00:49:47",
+      "album": {
+        "name": "Tradi-Mods Vs Rockers (Alternative Takes on Congotronics) [Vol. 1]",
+        "url": "https://open.spotify.com/album/1Knr1iRIoV572fSJqkMltN"
+      },
+      "artists": [
+        {
+          "name": "Deerhoof",
+          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+        },
+        {
+          "name": "Kasai Allstars",
+          "url": "https://open.spotify.com/artist/391GEzsFayFVG5aGEBkrtq"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Travels Broaden the Mind",
+      "url": "https://open.spotify.com/track/4rjszJJHKOs7cZErfG8x31"
     }
   ],
   "unique_name": "Zacklog",

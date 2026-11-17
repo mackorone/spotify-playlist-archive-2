@@ -1,13 +1,29 @@
 {
-  "description": "Celebrate and honor Pride with songs from LGBTQIA+ artists. Cover: daine",
-  "num_followers": 1065083,
+  "description": "Celebrate and honor Pride with songs from LGBTQIA+ artists. Cover: Kings Elliot",
+  "num_followers": 1065010,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHd9By72ckFYxDqofZdpwGtHL6ey",
+  "snapshot_id": "AAAAAHzBCRlEnYZKxk60Xa1gb4UT/7tT",
   "tracks": [
+    {
+      "added_at": "2026-11-17 06:21:51",
+      "album": {
+        "name": "METEOR FROM MARS",
+        "url": "https://open.spotify.com/album/1okmmIBOw3JsTikajOV45i"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 208676,
+      "name": "METEOR FROM MARS",
+      "url": "https://open.spotify.com/track/3rTgH2EMFDihuk4rueiGsq"
+    },
     {
       "added_at": "2026-11-10 05:00:29",
       "album": {
@@ -707,22 +723,6 @@
       "duration_ms": 193454,
       "name": "Why Does This Always Happen To Me?",
       "url": "https://open.spotify.com/track/5b7gY6VlwwLJgvoOWZQ4r5"
-    },
-    {
-      "added_at": "2026-11-10 05:00:29",
-      "album": {
-        "name": "Set My Heart On Fire Immediately",
-        "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 303600,
-      "name": "On the Floor",
-      "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
     },
     {
       "added_at": "2026-11-10 05:00:29",

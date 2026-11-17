@@ -1,6 +1,6 @@
 {
   "description": "chill christmas beats to keep you cozy and focused",
-  "num_followers": 22078,
+  "num_followers": 22103,
   "original_name": "lofi christmas study\ud83c\udf84\ud83d\udcda",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
+        "name": "O Christmas Tree",
+        "url": "https://open.spotify.com/album/4iC0Hgk8o4I5Y218lT40AS"
+      },
+      "artists": [
+        {
+          "name": "lunarisma",
+          "url": "https://open.spotify.com/artist/4xuOru0IJGd5Y0R4dPaUv9"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "O Christmas Tree (Lofi Version)",
+      "url": "https://open.spotify.com/track/1zFy9hH95iBCSO7b4tMral"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
         "name": "Peaceful Memory",
         "url": "https://open.spotify.com/album/6JBwVgqGvEzfxVCaTicBZi"
       },
@@ -251,6 +267,22 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
+        "name": "Deck The Hall",
+        "url": "https://open.spotify.com/album/621zfWt6BTdSX2xljkoRPD"
+      },
+      "artists": [
+        {
+          "name": "Chris Anthony",
+          "url": "https://open.spotify.com/artist/426idHqgmcWv0y5wfMeYKK"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Deck The Hall",
+      "url": "https://open.spotify.com/track/2NEHNIg6ye54F759KxOQtx"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
         "name": "Holiday Hustle",
         "url": "https://open.spotify.com/album/4nWDxRMiJuKx5BCsPFbK0S"
       },
@@ -271,18 +303,18 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "O Christmas Tree",
-        "url": "https://open.spotify.com/album/4iC0Hgk8o4I5Y218lT40AS"
+        "name": "Spiced Cider",
+        "url": "https://open.spotify.com/album/4NCQKzsgYo2vJxJjpuhtXo"
       },
       "artists": [
         {
-          "name": "lunarisma",
-          "url": "https://open.spotify.com/artist/4xuOru0IJGd5Y0R4dPaUv9"
+          "name": "nate2timez",
+          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
         }
       ],
-      "duration_ms": 139672,
-      "name": "O Christmas Tree (Lofi Version)",
-      "url": "https://open.spotify.com/track/1zFy9hH95iBCSO7b4tMral"
+      "duration_ms": 136666,
+      "name": "Spiced Cider",
+      "url": "https://open.spotify.com/track/1gnY6i00HmpEhVjKv8xqN7"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -319,22 +351,6 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "Ding Dong",
-        "url": "https://open.spotify.com/album/07CMcqWZZJbiUNJ6HU6SXY"
-      },
-      "artists": [
-        {
-          "name": "Chillow Pillow",
-          "url": "https://open.spotify.com/artist/7C4rbCsfUBLM9oen3ZLdHp"
-        }
-      ],
-      "duration_ms": 126888,
-      "name": "Ding Dong",
-      "url": "https://open.spotify.com/track/18GnuKmxuA0baUvfyf1UrP"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
         "name": "Snow Fall",
         "url": "https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz"
       },
@@ -351,34 +367,18 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "Deck The Hall",
-        "url": "https://open.spotify.com/album/621zfWt6BTdSX2xljkoRPD"
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/album/07CMcqWZZJbiUNJ6HU6SXY"
       },
       "artists": [
         {
-          "name": "Chris Anthony",
-          "url": "https://open.spotify.com/artist/426idHqgmcWv0y5wfMeYKK"
+          "name": "Chillow Pillow",
+          "url": "https://open.spotify.com/artist/7C4rbCsfUBLM9oen3ZLdHp"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Deck The Hall",
-      "url": "https://open.spotify.com/track/2NEHNIg6ye54F759KxOQtx"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
-        "name": "Spiced Cider",
-        "url": "https://open.spotify.com/album/4NCQKzsgYo2vJxJjpuhtXo"
-      },
-      "artists": [
-        {
-          "name": "nate2timez",
-          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Spiced Cider",
-      "url": "https://open.spotify.com/track/1gnY6i00HmpEhVjKv8xqN7"
+      "duration_ms": 126888,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/18GnuKmxuA0baUvfyf1UrP"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -399,18 +399,18 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "Angels From the Realms of Glory",
-        "url": "https://open.spotify.com/album/1fPgTkdFB9Hx3KlO6YcgXu"
+        "name": "dear santa",
+        "url": "https://open.spotify.com/album/00mAfjFK33PpWWbAKQElmt"
       },
       "artists": [
         {
-          "name": "humble hugo",
-          "url": "https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W"
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
         }
       ],
-      "duration_ms": 133500,
-      "name": "Angels From the Realms of Glory",
-      "url": "https://open.spotify.com/track/4mzy2PQeLfXanVsrnvjBoC"
+      "duration_ms": 129280,
+      "name": "dear santa",
+      "url": "https://open.spotify.com/track/2905ZizvPx4tLTXU32arLp"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
+        "name": "Angels From the Realms of Glory",
+        "url": "https://open.spotify.com/album/1fPgTkdFB9Hx3KlO6YcgXu"
+      },
+      "artists": [
+        {
+          "name": "humble hugo",
+          "url": "https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "Angels From the Realms of Glory",
+      "url": "https://open.spotify.com/track/4mzy2PQeLfXanVsrnvjBoC"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
         "name": "candles and xmas",
         "url": "https://open.spotify.com/album/3SuobeLAn8dQST6bg1eg0J"
       },
@@ -447,6 +463,22 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
+        "name": "Holiday FM",
+        "url": "https://open.spotify.com/album/52223hvVT4sGSOKjycs7a4"
+      },
+      "artists": [
+        {
+          "name": "Hallucination Orbit",
+          "url": "https://open.spotify.com/artist/2TsrJ8aEu8sWhKWlv8AMEO"
+        }
+      ],
+      "duration_ms": 144230,
+      "name": "Alone on Christmas",
+      "url": "https://open.spotify.com/track/53OKEBPBDSi7KIciW95GXt"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
         "name": "all i want for christmas is you",
         "url": "https://open.spotify.com/album/5aOjU3qM5OTjAdYHSemefq"
       },
@@ -459,22 +491,6 @@
       "duration_ms": 152836,
       "name": "all i want for christmas is you",
       "url": "https://open.spotify.com/track/4P9eg12prbMxyI1OsU8hyD"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
-        "name": "dear santa",
-        "url": "https://open.spotify.com/album/00mAfjFK33PpWWbAKQElmt"
-      },
-      "artists": [
-        {
-          "name": "mellow fox",
-          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
-        }
-      ],
-      "duration_ms": 129280,
-      "name": "dear santa",
-      "url": "https://open.spotify.com/track/2905ZizvPx4tLTXU32arLp"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -507,22 +523,6 @@
       "duration_ms": 125000,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/2e2k2BOVoEqvMRVj7B6tFE"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
-        "name": "Holiday FM",
-        "url": "https://open.spotify.com/album/52223hvVT4sGSOKjycs7a4"
-      },
-      "artists": [
-        {
-          "name": "Hallucination Orbit",
-          "url": "https://open.spotify.com/artist/2TsrJ8aEu8sWhKWlv8AMEO"
-        }
-      ],
-      "duration_ms": 144230,
-      "name": "Alone on Christmas",
-      "url": "https://open.spotify.com/track/53OKEBPBDSi7KIciW95GXt"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "xmas feels",
-        "url": "https://open.spotify.com/album/5VIjYaI1DNQI8ZyRPfsoFX"
-      },
-      "artists": [
-        {
-          "name": "ARSD",
-          "url": "https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "xmas feels",
-      "url": "https://open.spotify.com/track/07IHhrnbEmES2SWwSSmfRL"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
         "name": "Silver bells",
         "url": "https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 148624,
       "name": "Silver bells",
       "url": "https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
+        "name": "xmas feels",
+        "url": "https://open.spotify.com/album/5VIjYaI1DNQI8ZyRPfsoFX"
+      },
+      "artists": [
+        {
+          "name": "ARSD",
+          "url": "https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "xmas feels",
+      "url": "https://open.spotify.com/track/07IHhrnbEmES2SWwSSmfRL"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/4lWv5w3qgxaw1eV7bP2EYg"
+      },
+      "artists": [
+        {
+          "name": "ddrreeaamm",
+          "url": "https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr"
+        }
+      ],
+      "duration_ms": 115687,
+      "name": "WINTER",
+      "url": "https://open.spotify.com/track/0RUtIX5IX91i5lHWC9agsr"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
         "name": "Santa's Lowrider",
         "url": "https://open.spotify.com/album/1O425Y5KoYPsLKClZ6ptdC"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 132154,
       "name": "Santas Coming",
       "url": "https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/4lWv5w3qgxaw1eV7bP2EYg"
-      },
-      "artists": [
-        {
-          "name": "ddrreeaamm",
-          "url": "https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr"
-        }
-      ],
-      "duration_ms": 115687,
-      "name": "WINTER",
-      "url": "https://open.spotify.com/track/0RUtIX5IX91i5lHWC9agsr"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/5ZnyA6A9KQ6TQMPleWR4i6"
-      },
-      "artists": [
-        {
-          "name": "Holiday Beats",
-          "url": "https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3"
-        }
-      ],
-      "duration_ms": 146224,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/4uakClJG3d1mGaZSPHvR2e"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
         "name": "Xmas In My Heart",
         "url": "https://open.spotify.com/album/3JjTtv9g7oNQkiz3eXv6n6"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 132194,
       "name": "It's Still Christmas",
       "url": "https://open.spotify.com/track/6S2IIsjOIe45GgnsClwzgB"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
+        "name": "The First Noel (Lofi Version)",
+        "url": "https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2"
+      },
+      "artists": [
+        {
+          "name": "Matt Large",
+          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
+        }
+      ],
+      "duration_ms": 187723,
+      "name": "Angels We Have Heard on High (Lofi Version)",
+      "url": "https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "The First Noel (Lofi Version)",
-        "url": "https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2"
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/5ZnyA6A9KQ6TQMPleWR4i6"
       },
       "artists": [
         {
-          "name": "Matt Large",
-          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
+          "name": "Holiday Beats",
+          "url": "https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3"
         }
       ],
-      "duration_ms": 187723,
-      "name": "Angels We Have Heard on High (Lofi Version)",
-      "url": "https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM"
+      "duration_ms": 146224,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4uakClJG3d1mGaZSPHvR2e"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "Coming Home To You",
-        "url": "https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP"
+        "name": "Upside Down Snowglobe",
+        "url": "https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw"
       },
       "artists": [
         {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+          "name": "DJ DENZ The Rooster",
+          "url": "https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd"
         }
       ],
-      "duration_ms": 126857,
-      "name": "Coming Home To You",
-      "url": "https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7"
+      "duration_ms": 185976,
+      "name": "Christmas in Las Vegas",
+      "url": "https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "Upside Down Snowglobe",
-        "url": "https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw"
+        "name": "Coming Home To You",
+        "url": "https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP"
       },
       "artists": [
         {
-          "name": "DJ DENZ The Rooster",
-          "url": "https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd"
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
         }
       ],
-      "duration_ms": 185976,
-      "name": "Christmas in Las Vegas",
-      "url": "https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z"
+      "duration_ms": 126857,
+      "name": "Coming Home To You",
+      "url": "https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "We Wish You a Merry Christmas",
-        "url": "https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU"
-      },
-      "artists": [
-        {
-          "name": "Timothy Infinite",
-          "url": "https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX"
-        }
-      ],
-      "duration_ms": 141165,
-      "name": "Joy to the World (Lofi Version)",
-      "url": "https://open.spotify.com/track/0Spcvt226L8x9kasv3nV2P"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
         "name": "Hark! The Herald Angels Sing",
         "url": "https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 160166,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/0bgcp8ZKgJg2pqCwegbw1M"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
+        "name": "We Wish You a Merry Christmas",
+        "url": "https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU"
+      },
+      "artists": [
+        {
+          "name": "Timothy Infinite",
+          "url": "https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX"
+        }
+      ],
+      "duration_ms": 141165,
+      "name": "Joy to the World (Lofi Version)",
+      "url": "https://open.spotify.com/track/0Spcvt226L8x9kasv3nV2P"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
+        "name": "O holy night",
+        "url": "https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5"
+      },
+      "artists": [
+        {
+          "name": "muni.",
+          "url": "https://open.spotify.com/artist/0rCtkH6uwwmKN8XotEwo5u"
+        }
+      ],
+      "duration_ms": 147677,
+      "name": "O holy night",
+      "url": "https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
         "name": "All I Want For Xmas",
         "url": "https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 129000,
       "name": "wrap up warm",
       "url": "https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
-        "name": "O holy night",
-        "url": "https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5"
-      },
-      "artists": [
-        {
-          "name": "muni.",
-          "url": "https://open.spotify.com/artist/0rCtkH6uwwmKN8XotEwo5u"
-        }
-      ],
-      "duration_ms": 147677,
-      "name": "O holy night",
-      "url": "https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/4btW84uwKxLPx96n35337s"
-      },
-      "artists": [
-        {
-          "name": "barry straw",
-          "url": "https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E"
-        }
-      ],
-      "duration_ms": 94273,
-      "name": "Snow Angel",
-      "url": "https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
         "name": "The Lonely Elf",
         "url": "https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT"
       },
@@ -1503,22 +1487,6 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
         "name": "christmas in prague",
         "url": "https://open.spotify.com/album/4ZczbP017oKAexAR4jMQaS"
       },
@@ -1535,18 +1503,34 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/33Me4g9n924cJ6ezfiOAXg"
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe"
       },
       "artists": [
         {
-          "name": "Max Mix",
-          "url": "https://open.spotify.com/artist/2f8IL6GQhmOI1Of2fMHqka"
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
         }
       ],
-      "duration_ms": 189196,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C"
+      "duration_ms": 145426,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/4btW84uwKxLPx96n35337s"
+      },
+      "artists": [
+        {
+          "name": "barry straw",
+          "url": "https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E"
+        }
+      ],
+      "duration_ms": 94273,
+      "name": "Snow Angel",
+      "url": "https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD"
     },
     {
       "added_at": "2026-11-09 09:52:29",
@@ -1567,22 +1551,6 @@
     {
       "added_at": "2026-11-09 09:52:29",
       "album": {
-        "name": "Portal De Belen",
-        "url": "https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh"
-      },
-      "artists": [
-        {
-          "name": "Antiguos Hop",
-          "url": "https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "Portal De Belen",
-      "url": "https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3"
-    },
-    {
-      "added_at": "2026-11-09 09:52:29",
-      "album": {
         "name": "The Night Before",
         "url": "https://open.spotify.com/album/1yITIVwWWZxjIXufJ6Vxkp"
       },
@@ -1595,6 +1563,38 @@
       "duration_ms": 111166,
       "name": "The Night Before",
       "url": "https://open.spotify.com/track/5ZIU60WNqPE6tJxhzJio4f"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/33Me4g9n924cJ6ezfiOAXg"
+      },
+      "artists": [
+        {
+          "name": "Max Mix",
+          "url": "https://open.spotify.com/artist/2f8IL6GQhmOI1Of2fMHqka"
+        }
+      ],
+      "duration_ms": 189196,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C"
+    },
+    {
+      "added_at": "2026-11-09 09:52:29",
+      "album": {
+        "name": "Portal De Belen",
+        "url": "https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh"
+      },
+      "artists": [
+        {
+          "name": "Antiguos Hop",
+          "url": "https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "Portal De Belen",
+      "url": "https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3"
     },
     {
       "added_at": "2026-11-09 09:52:29",

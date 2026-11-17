@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-262 songs - 14 hr 4 min
+265 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,8 +128,10 @@
 | [KODAK](https://open.spotify.com/track/4fGxG2rFV9j7oMBAYqFX3M) | [ONHA](https://open.spotify.com/artist/7EWs0gioQTozs7jZ00m4WM), [ROCCO TAVU](https://open.spotify.com/artist/5Z8xoDp0a6OT9QPf2qzZOA) | [OPALE](https://open.spotify.com/album/4Eyo4m8rK7Uj5c5IMps8E4) | 3:01 | 2024-06-15 |  |
 | [konnichiwa](https://open.spotify.com/track/4T3sGjwYapQCyIc1lwYcI2) | [Tom Harker](https://open.spotify.com/artist/2J4ZN6l8QFSXyh7blXyWvs) | [konnichiwa](https://open.spotify.com/album/3zmeR9kc7xLx0m1mgCcz5G) | 2:52 | 2025-06-26 |  |
 | [La fin du film](https://open.spotify.com/track/75olv131UvV2jmqdWvEF0t) | [Clé](https://open.spotify.com/artist/6ngMTk9g830xvD6sl48tmQ) | [La fin du film](https://open.spotify.com/album/1pXdTQjV2DUYXZHZGyg5Pw) | 3:04 | 2025-03-15 |  |
+| [LA MER](https://open.spotify.com/track/49Ka6WAH2WAoJ3MXanfSwf) | [Muermo](https://open.spotify.com/artist/1CYMpVs1QBgDrOFkC8AFzO) | [CT \#1](https://open.spotify.com/album/75tgk8xFzraJLyxbjVM7I5) | 2:27 | 2026-11-17 |  |
 | [La Nuit](https://open.spotify.com/track/21tJYf8GxZ2nbMOu2i2aVg) | [Mike Moonnight](https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf) | [La Nuit](https://open.spotify.com/album/6SBT3l51BiLME0uhMwUUuU) | 2:47 | 2026-06-25 |  |
 | [La Nuit n'a pas Sommeil](https://open.spotify.com/track/6VMyovpmPXZrKQHAM6nsH9) | [Jeremy Laroch](https://open.spotify.com/artist/0KC8MXn0i9tjZNf4txHmKJ), [Christianne Braspenning](https://open.spotify.com/artist/4Dw0rwTMGywJ3WPAWEGO58) | [La Nuit n'a pas Sommeil](https://open.spotify.com/album/1TimoJpAjnHtAVqV2NZHo1) | 2:47 | 2024-12-04 |  |
+| [La nuit pour adresse](https://open.spotify.com/track/4gvFL12l3nmL4ynUJ82yyZ) | [Olive](https://open.spotify.com/artist/6vAVYxk3IayFetuFPhSuVw) | [OLIIVE](https://open.spotify.com/album/3fGq1NUKCuNW4sBcWJvceC) | 3:41 | 2026-11-16 |  |
 | [La Paye](https://open.spotify.com/track/7eCwjQQvoe4k3iMUUjwHaC) | [Seroan](https://open.spotify.com/artist/0ES16jKLCbea3NsA9utjis) | [La Paye](https://open.spotify.com/album/0wgcFjReyuWvjcxZKpTvYi) | 2:45 | 2023-10-24 |  |
 | [la pluie sur un sourire](https://open.spotify.com/track/7EPM28iVOgUqfDc8mcssz5) | [Indécis](https://open.spotify.com/artist/2Ob8Sw8cUGdNE1t1ZtFFDC) | [la pluie sur un sourire](https://open.spotify.com/album/62DYJajnXXjqOHP4oEzVWm) | 2:29 | 2026-09-22 |  |
 | [Laisse filer](https://open.spotify.com/track/40SuTRwcXhStcIKm5s5wZd) | [Hub30](https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0) | [Laisse filer](https://open.spotify.com/album/3P3QbHcKoWht4IraOk7EPH) | 3:16 | 2024-05-28 |  |
@@ -171,6 +173,7 @@
 | [my biggest heartbreak](https://open.spotify.com/track/2HTUKBDOVNN2m6cwNyhHgF) | [Dirty Mike](https://open.spotify.com/artist/2VXzFKVdDHJhkCgTUgaUwZ), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [hellbound](https://open.spotify.com/album/1uroUw8vZCXXpBtclRlwEX) | 1:53 | 2023-10-02 |  |
 | [Mélodie](https://open.spotify.com/track/4j19mpAt8Z3c1snqWGmnks) | [Sulayman](https://open.spotify.com/artist/7JnGbfllZBuIFA8HB5Q4u4) | [Mélodie](https://open.spotify.com/album/5vdox6AwRuIQiNEhLZIpbu) | 3:11 | 2024-10-25 |  |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2023-01-11 |  |
+| [Ne baisse jamais les bras](https://open.spotify.com/track/2YjiYnZvI3VfTxubeUGaDC) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy), [SaintLouis](https://open.spotify.com/artist/7t8YDBSiYdJXRnCWjWC0tD) | [Soulitaire](https://open.spotify.com/album/0Yu63iTCPXTq825WvqWqDQ) | 4:18 | 2026-11-16 |  |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2023-01-11 |  |
 | [Não Pares Não](https://open.spotify.com/track/01Sh7eF5AvaQ7upTpKV2IT) | [Marcelo Santos](https://open.spotify.com/artist/5DUXqH2QvET0Sutw98BRoZ) | [12:06](https://open.spotify.com/album/0C5Y8NfrqgUD5ayPpyK5a7) | 3:11 | 2023-12-06 |  |
 | [O Problema Sou Eu?](https://open.spotify.com/track/43dNtMuZQ0btqI1q9gOLHO) | [Marcelo Santos](https://open.spotify.com/artist/5DUXqH2QvET0Sutw98BRoZ) | [12:06](https://open.spotify.com/album/0C5Y8NfrqgUD5ayPpyK5a7) | 2:44 | 2023-12-06 |  |

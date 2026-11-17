@@ -459,18 +459,18 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "KOMOREBI",
-        "url": "https://open.spotify.com/album/2fWlmQJhqLXdd3e9cOndKG"
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
       },
       "artists": [
         {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 266913,
-      "name": "Kids Return",
-      "url": "https://open.spotify.com/track/0BmbgguZiYGf7FmuFwGp4o"
+      "duration_ms": 198866,
+      "name": "DEPEND ON YOU",
+      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -507,18 +507,18 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+        "name": "KOMOREBI",
+        "url": "https://open.spotify.com/album/2fWlmQJhqLXdd3e9cOndKG"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         }
       ],
-      "duration_ms": 198866,
-      "name": "DEPEND ON YOU",
-      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
+      "duration_ms": 266913,
+      "name": "Kids Return",
+      "url": "https://open.spotify.com/track/0BmbgguZiYGf7FmuFwGp4o"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "FRR",
-        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "ANYWHERE ANYTIME",
-      "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
     },
     {
       "added_at": "2026-11-03 06:24:03",

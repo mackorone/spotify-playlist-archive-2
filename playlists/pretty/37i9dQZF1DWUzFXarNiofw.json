@@ -1,6 +1,6 @@
 {
   "description": "The newest r&b drops, every week. Cover: Leon Thomas",
-  "num_followers": 1121623,
+  "num_followers": 1121622,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
@@ -386,6 +386,10 @@
         {
           "name": "Kem",
           "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         }
       ],
       "duration_ms": 457097,

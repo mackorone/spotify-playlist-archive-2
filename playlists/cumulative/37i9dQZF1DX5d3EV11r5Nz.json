@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Unto Jerusalem on High (Live)",
+        "url": "https://open.spotify.com/album/0rsXSRqhgReZaPa6VSY6tC"
+      },
+      "artists": [
+        {
+          "name": "Sons of Antioch",
+          "url": "https://open.spotify.com/artist/494EUzLm2WG8ZdIIixJlm6"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259368,
+      "name": "1st Stasis of the Lamentations (Encomia) - Live",
+      "url": "https://open.spotify.com/track/5rzyd9ZUrJItmhezL3dXRk"
+    },
+    {
+      "album": {
         "name": "Vyzantini Mousiki: Otan I Anatoli Synanta Ti Dysi",
         "url": "https://open.spotify.com/album/0ajgots5DukhY4mlW7UMxV"
       },
@@ -434,7 +452,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 372533,
       "name": "Govori, Gospode",
       "url": "https://open.spotify.com/track/1nMqkoV0n2BZLqE3yVpglE"
@@ -711,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Marijo slavna",
+        "url": "https://open.spotify.com/album/2cadvLR0A4QA8q19EIOQTJ"
+      },
+      "artists": [
+        {
+          "name": "Danica Crnogor\u010devi\u0107",
+          "url": "https://open.spotify.com/artist/10yHqtr12jvkAD5ZXKAll5"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309041,
+      "name": "Marijo slavna",
+      "url": "https://open.spotify.com/track/1kgDdmPMqkx5RyODuca5OZ"
+    },
+    {
+      "album": {
         "name": "Georgian Orthodox Chants",
         "url": "https://open.spotify.com/album/0YazciqFSGMaKfUkC4hAQd"
       },
@@ -928,6 +964,50 @@
       "duration_ms": 194946,
       "name": "Psalm 103",
       "url": "https://open.spotify.com/track/7EQqAaE0iUKLJjRzOl83Cl"
+    },
+    {
+      "album": {
+        "name": "Psalms",
+        "url": "https://open.spotify.com/album/4GJnfTzvz6MOUTF97G6InT"
+      },
+      "artists": [
+        {
+          "name": "Father Nicolas Malek",
+          "url": "https://open.spotify.com/artist/5sfjOnjH7SCDjwrG3nEvOZ"
+        },
+        {
+          "name": "The Choir of Eparchy of Tripoli",
+          "url": "https://open.spotify.com/artist/4qDtZOaZ88GIwj3vXX0KgX"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313240,
+      "name": "Psalm 135, Tone: 1, Nishambour, 8",
+      "url": "https://open.spotify.com/track/5S6VCD9JiM8ZVMjbjrQPHZ"
+    },
+    {
+      "album": {
+        "name": "Psalms",
+        "url": "https://open.spotify.com/album/4GJnfTzvz6MOUTF97G6InT"
+      },
+      "artists": [
+        {
+          "name": "Father Nicolas Malek",
+          "url": "https://open.spotify.com/artist/5sfjOnjH7SCDjwrG3nEvOZ"
+        },
+        {
+          "name": "The Choir of Eparchy of Tripoli",
+          "url": "https://open.spotify.com/artist/4qDtZOaZ88GIwj3vXX0KgX"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234573,
+      "name": "Psalm 137, Tone 6",
+      "url": "https://open.spotify.com/track/5jEYSrDM63REs8USjFcf6R"
     },
     {
       "album": {
@@ -1253,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "Treasury of Blessings",
+        "url": "https://open.spotify.com/album/3fPsZt1fJ90gOKMSZt3aTa"
+      },
+      "artists": [
+        {
+          "name": "St Cyril of Jerusalem Orthodox Church Choir",
+          "url": "https://open.spotify.com/artist/7Bg47rxbXRgcUDOl0FidFf"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "Trisagion Hymn (M. Berezovsky)",
+      "url": "https://open.spotify.com/track/5WcVbEGpam7CU1BBX9mSNM"
+    },
+    {
+      "album": {
         "name": "Memory Eternal: An Orthodox Christian Requiem",
         "url": "https://open.spotify.com/album/0R1bEIx6XYTniBbG19ZLkv"
       },
@@ -1298,6 +1396,24 @@
       "duration_ms": 524172,
       "name": "Tropaires de la 1\u00e8re et de la 3\u00e8me Ode & M\u00e9galynaires du canon de la Grande Paracl\u00e8se",
       "url": "https://open.spotify.com/track/0VfyuuwbncHBp7qsO0giPA"
+    },
+    {
+      "album": {
+        "name": "Treasury of Blessings",
+        "url": "https://open.spotify.com/album/3fPsZt1fJ90gOKMSZt3aTa"
+      },
+      "artists": [
+        {
+          "name": "St Cyril of Jerusalem Orthodox Church Choir",
+          "url": "https://open.spotify.com/artist/7Bg47rxbXRgcUDOl0FidFf"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193466,
+      "name": "Troparion and Kontakion of the Nativity (T. Heckman)",
+      "url": "https://open.spotify.com/track/3Jc3MZCWk4FUi2hvJkNaxJ"
     },
     {
       "album": {

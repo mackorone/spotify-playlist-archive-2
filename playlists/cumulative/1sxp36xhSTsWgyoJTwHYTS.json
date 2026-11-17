@@ -2301,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "CT #1",
+        "url": "https://open.spotify.com/album/75tgk8xFzraJLyxbjVM7I5"
+      },
+      "artists": [
+        {
+          "name": "Muermo",
+          "url": "https://open.spotify.com/artist/1CYMpVs1QBgDrOFkC8AFzO"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147842,
+      "name": "LA MER",
+      "url": "https://open.spotify.com/track/49Ka6WAH2WAoJ3MXanfSwf"
+    },
+    {
+      "album": {
         "name": "La Nuit",
         "url": "https://open.spotify.com/album/6SBT3l51BiLME0uhMwUUuU"
       },
@@ -2338,6 +2356,24 @@
       "duration_ms": 167496,
       "name": "La Nuit n'a pas Sommeil",
       "url": "https://open.spotify.com/track/6VMyovpmPXZrKQHAM6nsH9"
+    },
+    {
+      "album": {
+        "name": "OLIIVE",
+        "url": "https://open.spotify.com/album/3fGq1NUKCuNW4sBcWJvceC"
+      },
+      "artists": [
+        {
+          "name": "Olive",
+          "url": "https://open.spotify.com/artist/6vAVYxk3IayFetuFPhSuVw"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "La nuit pour adresse",
+      "url": "https://open.spotify.com/track/4gvFL12l3nmL4ynUJ82yyZ"
     },
     {
       "album": {
@@ -3092,6 +3128,32 @@
       "duration_ms": 140240,
       "name": "M\u00e9lodie (Tatami)",
       "url": "https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7"
+    },
+    {
+      "album": {
+        "name": "Soulitaire",
+        "url": "https://open.spotify.com/album/0Yu63iTCPXTq825WvqWqDQ"
+      },
+      "artists": [
+        {
+          "name": "Colossale",
+          "url": "https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x"
+        },
+        {
+          "name": "og cyrus",
+          "url": "https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy"
+        },
+        {
+          "name": "SaintLouis",
+          "url": "https://open.spotify.com/artist/7t8YDBSiYdJXRnCWjWC0tD"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258449,
+      "name": "Ne baisse jamais les bras",
+      "url": "https://open.spotify.com/track/2YjiYnZvI3VfTxubeUGaDC"
     },
     {
       "album": {

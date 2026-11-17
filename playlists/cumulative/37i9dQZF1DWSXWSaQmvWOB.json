@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-03-25",
-  "description": "New soul-infused music! Cover: Yas Mayou",
+  "description": "New soul-infused music! Cover: Bruno Mars",
   "name": "Soul 'n' the City",
   "tracks": [
     {
@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "All Okay",
+        "url": "https://open.spotify.com/album/3TybNP0JDEg1wsCblw2hB0"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sopacuwa",
+          "url": "https://open.spotify.com/artist/6DsCVmUQa4qFrh86EaMpzH"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146803,
+      "name": "All Okay",
+      "url": "https://open.spotify.com/track/5gZwT7zUt45ouvt8dBtSJn"
+    },
+    {
+      "album": {
         "name": "All The Things I Couldn't Say To You",
         "url": "https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK"
       },
@@ -1442,6 +1460,24 @@
       "duration_ms": 271399,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/3Pko6euCnCPuwGy4TVK7o3"
+    },
+    {
+      "album": {
+        "name": "Back To Your Love",
+        "url": "https://open.spotify.com/album/4r2cZYysI3aVNch96S6hnn"
+      },
+      "artists": [
+        {
+          "name": "Jared Grant",
+          "url": "https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187095,
+      "name": "Back To Your Love",
+      "url": "https://open.spotify.com/track/1z6gWUCWSgpHdyTg6UGQqf"
     },
     {
       "album": {
@@ -2622,7 +2658,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 204444,
       "name": "Bring Me Back To Life",
       "url": "https://open.spotify.com/track/08S4kt4ZCBSjASw7rRaD1j"
@@ -4199,6 +4235,24 @@
     },
     {
       "album": {
+        "name": "Come Up For Air",
+        "url": "https://open.spotify.com/album/7bOuKsVLKl8Y7lVmoYTuIu"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189741,
+      "name": "Come Up For Air",
+      "url": "https://open.spotify.com/track/6ckPMA2SS46oOY48Bo0oTk"
+    },
+    {
+      "album": {
         "name": "A Little Something",
         "url": "https://open.spotify.com/album/7fCnC3hvrz399ruuyUVNvB"
       },
@@ -4707,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219287,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK"
+    },
+    {
+      "album": {
         "name": "Dancin Like a Fool",
         "url": "https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G"
       },
@@ -5060,7 +5132,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 185116,
       "name": "Did I Say That Loud Enough?",
       "url": "https://open.spotify.com/track/09KEOIPPWXSxFVuy0vEyzZ"
@@ -5278,7 +5350,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 200573,
       "name": "Doctrine of Love",
       "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
@@ -5990,7 +6062,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 226052,
       "name": "End of Time",
       "url": "https://open.spotify.com/track/2ue3TmvamovoPGDywzzYSj"
@@ -6074,6 +6146,24 @@
       "duration_ms": 198321,
       "name": "Eon",
       "url": "https://open.spotify.com/track/3rIJKLPUqpXQGWmldbgbxH"
+    },
+    {
+      "album": {
+        "name": "Love Is The Key",
+        "url": "https://open.spotify.com/album/6Q7PWcT2dd6MVhdpcVCJQ2"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Sharkey",
+          "url": "https://open.spotify.com/artist/0kp0swievR0bFFY3zRoETY"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235032,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/0wLFHKLoSMHlMcIBIntMSs"
     },
     {
       "album": {
@@ -7161,6 +7251,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/1iO9xpMJZCDojDdc6XUAcF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Fay",
+          "url": "https://open.spotify.com/artist/7hY4dgbAHtGCphIIGRQExJ"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283040,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1McWZJ0x5KNtK3gdc8PeSc"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/670iJZp3uBCVMUvsxuhRsJ"
       },
@@ -7656,7 +7764,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 154325,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/2U7XYpBBM8UoI1owH0q32D"
@@ -9028,7 +9136,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 196413,
       "name": "Hardest Yards",
       "url": "https://open.spotify.com/track/3r2ZYYvlY5p51LgpjFLf3Z"
@@ -9492,6 +9600,32 @@
       "duration_ms": 209904,
       "name": "Higher Levels",
       "url": "https://open.spotify.com/track/2dBZk3EXFu4uUJidPzoT1H"
+    },
+    {
+      "album": {
+        "name": "Highway Of Life",
+        "url": "https://open.spotify.com/album/1UZKBCytyBWlHnB9SBs6lU"
+      },
+      "artists": [
+        {
+          "name": "LIKEMINDS",
+          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266667,
+      "name": "Highway Of Life",
+      "url": "https://open.spotify.com/track/0fJ3WrUPXdhp0DGmyOftdj"
     },
     {
       "album": {
@@ -12610,7 +12744,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 223981,
       "name": "Let's Take Our Time",
       "url": "https://open.spotify.com/track/2C5G7y3CVchaQZDmCluKpG"
@@ -13592,6 +13726,24 @@
       "duration_ms": 225461,
       "name": "Love Will Work It Out",
       "url": "https://open.spotify.com/track/4bQhGIHwo1ZpixP9MudUbV"
+    },
+    {
+      "album": {
+        "name": "Love You (Everyday)",
+        "url": "https://open.spotify.com/album/3TYRdSbMMVmVR6OKHRWaJ0"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243826,
+      "name": "Love You (Everyday)",
+      "url": "https://open.spotify.com/track/0FgriCUuLeX4Coxp5oTdVm"
     },
     {
       "album": {
@@ -15030,7 +15182,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 167960,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/6U0LFxNdqo8F2oXgGDgR2E"
@@ -16549,6 +16701,24 @@
     },
     {
       "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/3qCOUaXCTrQO1clDhqV39C"
+      },
+      "artists": [
+        {
+          "name": "Mara Mandeau",
+          "url": "https://open.spotify.com/artist/2mpPr7r7njJQ7bC66bghCp"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176976,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/0s3Czbu8IxpmIgmKe3GGBE"
+    },
+    {
+      "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
@@ -17955,6 +18125,28 @@
     },
     {
       "album": {
+        "name": "Love Is The Key",
+        "url": "https://open.spotify.com/album/6Q7PWcT2dd6MVhdpcVCJQ2"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Sharkey",
+          "url": "https://open.spotify.com/artist/0kp0swievR0bFFY3zRoETY"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318593,
+      "name": "Psychomajesticcomalikelove",
+      "url": "https://open.spotify.com/track/3QfaJZkp4tOhcofOZpy5JC"
+    },
+    {
+      "album": {
         "name": "Pure Gold",
         "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
       },
@@ -18390,7 +18582,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 186416,
       "name": "Reclusive",
       "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
@@ -18739,6 +18931,32 @@
     },
     {
       "album": {
+        "name": "Pieces Of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/10qechH0IyuzRMXC25Ad2p"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        },
+        {
+          "name": "Sam Pounds",
+          "url": "https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1"
+        },
+        {
+          "name": "Shea Givens",
+          "url": "https://open.spotify.com/artist/3JrKj7XoBT5EbFJB4exFKB"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225419,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/3X1a4hcEb7Tfek7dkoCtCU"
+    },
+    {
+      "album": {
         "name": "Ringing With Love",
         "url": "https://open.spotify.com/album/3yAEUE3qdYhA2qqoA1GULk"
       },
@@ -18874,7 +19092,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 351625,
       "name": "Rising to the Top",
       "url": "https://open.spotify.com/track/1u59v3OY0AnVdaPnZKBNd7"
@@ -19954,7 +20172,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 204632,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9"
@@ -21984,7 +22202,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 181512,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/5hdnDc3NnVwyIoi7nNlvIR"
@@ -22006,6 +22224,24 @@
       "duration_ms": 171866,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/1Mog4RV9ViEiPBErvSW1Rq"
+    },
+    {
+      "album": {
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171813,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR"
     },
     {
       "album": {
@@ -23728,7 +23964,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 245900,
       "name": "Thrilled by the Lie",
       "url": "https://open.spotify.com/track/5dTEEWQAWBPQc7byleI3pF"
@@ -23942,7 +24178,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 270833,
       "name": "To B Honest",
       "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
@@ -23978,7 +24214,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 225011,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/00XRL8YKioCRcSb088xivh"
@@ -24772,7 +25008,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 177813,
       "name": "Until My Last Breath",
       "url": "https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1"
@@ -25806,7 +26042,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 210076,
       "name": "WHEN THE WORLD'S ON FIRE",
       "url": "https://open.spotify.com/track/1ExPF6iBWsudERYt8Ijki0"

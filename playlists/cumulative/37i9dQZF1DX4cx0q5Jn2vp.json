@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Baka Sakali",
+        "url": "https://open.spotify.com/album/6dkiifYuZaYUrs6aNeykvZ"
+      },
+      "artists": [
+        {
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Baka Sakali",
+      "url": "https://open.spotify.com/track/0QjT1Y2qToHnkD6bATP9OF"
+    },
+    {
+      "album": {
         "name": "Baliw",
         "url": "https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 251074,
       "name": "Bawat Segundo",
       "url": "https://open.spotify.com/track/4vOjN6LKp4jCpoqVoOkZnp"
@@ -1418,6 +1436,24 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
+        "name": "Everytime We",
+        "url": "https://open.spotify.com/album/4Mj87rwOvMgboVTM8wL0rg"
+      },
+      "artists": [
+        {
+          "name": "Jom",
+          "url": "https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146288,
+      "name": "Everytime We",
+      "url": "https://open.spotify.com/track/2GH8UXbz8JKiHdjn54JkwT"
     },
     {
       "album": {
@@ -2809,6 +2845,42 @@
     },
     {
       "album": {
+        "name": "Keep It On The Low",
+        "url": "https://open.spotify.com/album/6Ps19moiA1oLtV0tIaFE5G"
+      },
+      "artists": [
+        {
+          "name": "Avery Leon",
+          "url": "https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237296,
+      "name": "Keep It On The Low",
+      "url": "https://open.spotify.com/track/0qoSYIny8bQlG6HJgOckQ8"
+    },
+    {
+      "album": {
+        "name": "Cruel World\u2026So It Ends",
+        "url": "https://open.spotify.com/album/0Q6uk8wBcCwONqiYROLo8U"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203021,
+      "name": "Killing The Mood",
+      "url": "https://open.spotify.com/track/23aN2ayUPGtpoox5n3eeyG"
+    },
+    {
+      "album": {
         "name": "Kisame",
         "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
       },
@@ -2896,7 +2968,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 229687,
       "name": "Kumusta Ka Sinta",
       "url": "https://open.spotify.com/track/2chNvlhOcSZtfgc4bBCoaa"
@@ -3222,7 +3294,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 168277,
       "name": "Lipgloss",
       "url": "https://open.spotify.com/track/6oAQWAZf1PNxRSrbKoY0SI"
@@ -3996,7 +4068,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 198588,
       "name": "Nahuhulog Nanaman Sa'yo",
       "url": "https://open.spotify.com/track/2NVJNM6UtvVhsz335h4Rk3"
@@ -4278,7 +4350,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 252275,
       "name": "Oo",
       "url": "https://open.spotify.com/track/7707SbyEaOHVfS85rNCUoi"
@@ -4947,6 +5019,28 @@
     },
     {
       "album": {
+        "name": "Sarah (feat. John Roa)",
+        "url": "https://open.spotify.com/album/3TyD8VNfjNrFE5FOR8q4VU"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Sarah (feat. John Roa)",
+      "url": "https://open.spotify.com/track/5pGakYfgEiE29pBEeUUbyB"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -5016,7 +5110,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
@@ -5168,6 +5262,24 @@
       "duration_ms": 234204,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/7bH0QVI7g7kxRN7jN20NyE"
+    },
+    {
+      "album": {
+        "name": "Susundan",
+        "url": "https://open.spotify.com/album/7bldiRBl0ZqRO2mNMp8ZUL"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171120,
+      "name": "Susundan",
+      "url": "https://open.spotify.com/track/2FQGKVBZ58hhCG8aiFApq9"
     },
     {
       "album": {
@@ -5647,6 +5759,24 @@
     },
     {
       "album": {
+        "name": "Wag Mag-Alala",
+        "url": "https://open.spotify.com/album/2aisBptdbNKPwCxbTQcnlQ"
+      },
+      "artists": [
+        {
+          "name": "Saikyoutopia",
+          "url": "https://open.spotify.com/artist/14zovZ2sy4yjEaNUq0xXbU"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220941,
+      "name": "Wag Mag-Alala",
+      "url": "https://open.spotify.com/track/2FXQggZaghOwKFX800eJ55"
+    },
+    {
+      "album": {
         "name": "Walang Aminan",
         "url": "https://open.spotify.com/album/2vJjKU0dCcpILifHOCfTq9"
       },
@@ -5694,7 +5824,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 212333,
       "name": "waste my time",
       "url": "https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy"

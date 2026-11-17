@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry, Alt8
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,961 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,263 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 45 | [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 |
 | 46 | [10.000 Flores](https://open.spotify.com/track/543rnl651yHWLNP41A5D1t) | [AEREA](https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA) | [10.000 Flores](https://open.spotify.com/album/3ELIXvH1tbobCKO3skL9sV) | 4:23 |
 | 47 | [Dopamin](https://open.spotify.com/track/1SXKHT4MP8OjHqBjb1vDZS) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Dopamin](https://open.spotify.com/album/3cf02iCcXJRAZDLk7kkR8b) | 3:28 |
-| 48 | [Get High](https://open.spotify.com/track/3cCaThaCDh36KtTR64QWrv) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Get High](https://open.spotify.com/album/1inNSojfp9GpD1UjNsQqSP) | 2:26 |
-| 49 | [303 101](https://open.spotify.com/track/7eu6tCiOMEmtuAKcN5WqtK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [303 101](https://open.spotify.com/album/6HCtACAngzFc9Take9cXNt) | 3:04 |
+| 48 | [303 101](https://open.spotify.com/track/7eu6tCiOMEmtuAKcN5WqtK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [303 101](https://open.spotify.com/album/6HCtACAngzFc9Take9cXNt) | 3:04 |
+| 49 | [Get High](https://open.spotify.com/track/3cCaThaCDh36KtTR64QWrv) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Get High](https://open.spotify.com/album/1inNSojfp9GpD1UjNsQqSP) | 2:26 |
 | 50 | [You Make Me Horny](https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Laren](https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS) | [You Make Me Horny](https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv) | 4:54 |
 | 51 | [MINDCONTROLLER 2K26](https://open.spotify.com/track/6mPN16xNQrhofQVjLUOZOf) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Ruffneck](https://open.spotify.com/artist/4k7hlWQNcJiWSfjkr6g0mg), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [MINDCONTROLLER 2K26](https://open.spotify.com/album/6bCW8FMSTndSVRbR46FOww) | 2:47 |
 | 52 | [Bassline Slut](https://open.spotify.com/track/65KTsqXbjSr9k8K6X65CIa) | [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Bassline Slut](https://open.spotify.com/album/6PVUkdViXIPjlmfrX0AzBX) | 2:17 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 89 | [DRONE \- LESSSS EDIT](https://open.spotify.com/track/0Ns77ZocJgmY9dSHGesXij) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [Train Fantôme](https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg) | [DRONE \(LESSSS EDIT\)](https://open.spotify.com/album/4v5GFSdaDlbNItNJgO3qrE) | 2:52 |
 | 90 | [Get Ready](https://open.spotify.com/track/50VU7qfIoUAqG1tzJwtmzh) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Father 808](https://open.spotify.com/artist/6sggmB5DTVWDcShHGMqYi6) | [Get Ready](https://open.spotify.com/album/2afAHCgfm4r4unfH8lI7kR) | 2:14 |
 | 91 | [Hype Boy](https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hype Boy](https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2) | 3:16 |
-| 92 | [HÖLLE IM HERZ](https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN) | [Michael Klotz](https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh) | [HÖLLE IM HERZ](https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6) | 2:30 |
-| 93 | [No Escape](https://open.spotify.com/track/6e3F1pz262XJ9n74DArbt4) | [AZYR](https://open.spotify.com/artist/1Ujj9Jh1Z4tDJ4j6qGRml8) | [No Escape](https://open.spotify.com/album/0pnDi9VBfDa51K9aHN9rAx) | 2:40 |
+| 92 | [No Escape](https://open.spotify.com/track/6e3F1pz262XJ9n74DArbt4) | [AZYR](https://open.spotify.com/artist/1Ujj9Jh1Z4tDJ4j6qGRml8) | [No Escape](https://open.spotify.com/album/0pnDi9VBfDa51K9aHN9rAx) | 2:40 |
+| 93 | [HÖLLE IM HERZ](https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN) | [Michael Klotz](https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh) | [HÖLLE IM HERZ](https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6) | 2:30 |
 | 94 | [Medication](https://open.spotify.com/track/5xiIzjYM9C7zM40Q4jB6Wm) | [DØMINA](https://open.spotify.com/artist/2SaPpXmlY9agJpvlEbLMKD) | [Medication](https://open.spotify.com/album/1IdQJt6AVL8VJ5J3yIb8XL) | 3:58 |
 | 95 | [Venezia](https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Venezia](https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy) | 3:52 |
-| 96 | [Weisse Nase](https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Weisse Nase](https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc) | 3:03 |
-| 97 | [Kann es sein… \(dass Du dumm bist?\)](https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw) | [Teknoclash](https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb) | [Kann es sein… \(dass Du dumm bist?\)](https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx) | 2:19 |
+| 96 | [Kann es sein… \(dass Du dumm bist?\)](https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw) | [Teknoclash](https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb) | [Kann es sein… \(dass Du dumm bist?\)](https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx) | 2:19 |
+| 97 | [Weisse Nase](https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Weisse Nase](https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc) | 3:03 |
 | 98 | [TUTU](https://open.spotify.com/track/5J9zv1zII2LyICvUe3jyo0) | [KX CHR](https://open.spotify.com/artist/6q4BufN5u0ChOMqqxzPgGU) | [TUTU](https://open.spotify.com/album/1smTJCY58D39nQZjW5NHgf) | 2:33 |
-| 99 | [Desespera](https://open.spotify.com/track/1SpXr3vWKOTYfV8BNeNTP7) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Desespera](https://open.spotify.com/album/48xgfMVN4wbsiH10Amgnf1) | 5:26 |
-| 100 | [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 |
+| 99 | [Kick That Bass](https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Kick That Bass](https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW) | 1:56 |
+| 100 | [Desespera](https://open.spotify.com/track/1SpXr3vWKOTYfV8BNeNTP7) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Desespera](https://open.spotify.com/album/48xgfMVN4wbsiH10Amgnf1) | 5:26 |
 
 Snapshot ID: `AAAAAIzVSLCcldarAJ0snEOpbocHS5wJ`

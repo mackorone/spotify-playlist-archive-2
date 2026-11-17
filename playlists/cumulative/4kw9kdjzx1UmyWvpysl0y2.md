@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,338 songs - 3 day 2 hr 7 min
+1,339 songs - 3 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1035,6 +1035,7 @@
 | [Should've Known Better](https://open.spotify.com/track/6xC8SOWsbewQ7c7NRMsrje) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [KENNEDY](https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R) | [Should've Known Better](https://open.spotify.com/album/3VWWyCDqXWHxWwfyhEQBqy) | 2:22 | 2026-04-23 | 2026-07-31 |
 | [Show Me!](https://open.spotify.com/track/2dXeTLbQO9pzYMXnRAzMMJ) | [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ), [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Show Me!](https://open.spotify.com/album/5JuSjDOYp2huFAToRSDTYi) | 2:47 | 2025-02-10 | 2025-05-03 |
 | [SICKO](https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 1:45 | 2022-10-20 | 2023-01-07 |
+| [Signal Code](https://open.spotify.com/track/2yQlWbBnFoNiLeRfCLy57v) | [CLV](https://open.spotify.com/artist/5H5wUF8cjtn3erNzcUZUbC), [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv), [luminate](https://open.spotify.com/artist/4tYnunRmw2jHIA863S9Vqv) | [Monstercat Instinct Selections 04](https://open.spotify.com/album/4g6Ket9aLHnL4d7XfTyIND) | 4:15 | 2026-11-16 |  |
 | [Silk Road](https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Silk Road](https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman) | 3:49 | 2022-04-27 | 2022-07-08 |
 | [Sinner](https://open.spotify.com/track/0GXj9WInusangBhti5jOwK) | [LUKE ALEXANDER](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Sinner](https://open.spotify.com/album/4MbuAILD2gfxF1OzD2mhIX) | 2:30 | 2026-08-20 |  |
 | [Sip On This](https://open.spotify.com/track/1mH6LCjX9SiM6rJEEz8jz4) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Sip On This](https://open.spotify.com/album/1hSSCKGzuuNbn9IZk8MN8k) | 3:20 | 2024-06-14 | 2024-09-07 |

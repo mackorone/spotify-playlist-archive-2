@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,364 likes - 71 songs - 3 hr 57 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,364 likes - 72 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 69 | [Nights Like These](https://open.spotify.com/track/4VA5EXvQ8AXhszTsAuZFPe) | [Lex Bauman](https://open.spotify.com/artist/0z0QAReD9ZD9jFugcn0G2g) | [The Dangerous Game](https://open.spotify.com/album/54X4nQApX8hqmZo0fAli56) | 3:55 |
 | 70 | [Father Time](https://open.spotify.com/track/6yG2tmhMQ1bUyPV55urRoq) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Father Time](https://open.spotify.com/album/1Pjg1qTNDTwtDUuSNNfraK) | 7:42 |
 | 71 | [Dreams](https://open.spotify.com/track/24q4l4i4XrTMIEVT63cT0J) | [NellyNellz](https://open.spotify.com/artist/1VznLVOSmnn2FVyXYnRcSl) | [Dreams](https://open.spotify.com/album/7F13TAN6q6AnupJv2x0QEh) | 3:56 |
+| 72 | [Indigo](https://open.spotify.com/track/7yrwz7QkYtNkntwUc0ei8q) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Indigo](https://open.spotify.com/album/6Ipsfviteblf4qjAgFCCYk) | 3:26 |
 
-Snapshot ID: `AAAEstdynDC3D8kGQjuTwU0+4V0Bq140`
+Snapshot ID: `AAAEs+xtTe9Ml8I5Szy4y6mkbUCs5vSa`

@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 52958,
+  "num_followers": 52964,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avZTAAAAAAD3/4sJCqKNXB0SPpxKh/dI",
+  "snapshot_id": "avj2AAAAAABQ2wLocKywSTPRJKpBSa90",
   "tracks": [
     {
       "added_at": null,
@@ -542,11 +542,15 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "David Barber",
+          "url": "https://open.spotify.com/artist/1QHNRO6583iWucRIG2QB1i"
         }
       ],
-      "duration_ms": 105820,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/1jj6Je2MpB2vZ6cfoK4nMl"
+      "duration_ms": 184377,
+      "name": "Pirates",
+      "url": "https://open.spotify.com/track/3i5jaJvdnzLOolMFYbOTqu"
     },
     {
       "added_at": null,

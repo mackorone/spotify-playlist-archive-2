@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO11PTZ7.md) - [plain]
 
 > This is Sick Of It All\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,213 likes - 50 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,214 likes - 50 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO11PTZ7.md) - [plain]
 | 12 | [Us vs\. Them](https://open.spotify.com/track/12fvraVs9OX2w9pRboYLYd) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Built to Last](https://open.spotify.com/album/6plWnkOqYLKAcildPicG7k) | 3:04 |
 | 13 | [District](https://open.spotify.com/track/6vwk2JVvchaqoKXXaDyMf0) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Yours Truly](https://open.spotify.com/album/31k142dr62jiftXxOnjmfF) | 3:26 |
 | 14 | [Die Alone](https://open.spotify.com/track/4aEnzfYLyYXNPCYnhGRiW4) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Death To Tyrants](https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg) | 2:33 |
-| 15 | [Call to Arms](https://open.spotify.com/track/5VeaXLqDmSM1WcmVLBBn6M) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Call to Arms](https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU) | 1:48 |
+| 15 | [Goatless](https://open.spotify.com/track/1vO83H2MAKuKaisSk8P9UP) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 1:20 |
 | 16 | [Burn 'Em Down](https://open.spotify.com/track/5rxvKN55LZEH44wrLOICSr) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Built to Last](https://open.spotify.com/album/6plWnkOqYLKAcildPicG7k) | 2:55 |
-| 17 | [Goatless](https://open.spotify.com/track/1vO83H2MAKuKaisSk8P9UP) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 1:20 |
+| 17 | [Call to Arms](https://open.spotify.com/track/5VeaXLqDmSM1WcmVLBBn6M) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Call to Arms](https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU) | 1:48 |
 | 18 | [America](https://open.spotify.com/track/6ObOBjkmMjYUa9SybDUVMD) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Yours Truly](https://open.spotify.com/album/31k142dr62jiftXxOnjmfF) | 2:14 |
 | 19 | [Sanctuary](https://open.spotify.com/track/3TPcpHQ0LWUdP7x2ZIQCzZ) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 1:54 |
 | 20 | [Busted](https://open.spotify.com/track/2eqBvPN3stocNp4IPcKOMd) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Built to Last](https://open.spotify.com/album/6plWnkOqYLKAcildPicG7k) | 1:37 |
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO11PTZ7.md) - [plain]
 | 28 | [Inner Vision](https://open.spotify.com/track/1TsHbUg7QB71VUx8hbyg79) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Wake The Sleeping Dragon!](https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv) | 1:54 |
 | 29 | [G\. I\. Joe Headstomp](https://open.spotify.com/track/33wj2515UqBaZdLuRP2CJG) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Blood, Sweat & No Tears](https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0) | 1:19 |
 | 30 | [No Cure](https://open.spotify.com/track/5s2Z5o4780r1nFQ9gmpfhF) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 2:58 |
-| 31 | [Death Or Jail](https://open.spotify.com/track/1UKnxebB3vbl2amZs3Y4vv) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Based On A True Story](https://open.spotify.com/album/0j5btQuKiIItbfTJ7ZECy3) | 2:51 |
+| 31 | [Potential for a Fall](https://open.spotify.com/track/5g6A50hVooexlUrhanaLWY) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Call to Arms](https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU) | 2:28 |
 | 32 | [That Crazy White Boy Shit](https://open.spotify.com/track/2XtbO6Tm7vSC4JWXYQ4iLy) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Wake The Sleeping Dragon!](https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv) | 2:05 |
-| 33 | [Breeders of Hate](https://open.spotify.com/track/3NhIHP6C9fp7STYbpFwkPL) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Blood, Sweat & No Tears](https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0) | 1:55 |
-| 34 | [It's Clobberin' Time](https://open.spotify.com/track/157CCj9ID91CGvG2hy0XQE) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Sick Of It All](https://open.spotify.com/album/6A77TL9MlqLZtpoaE8j48R) | 0:45 |
-| 35 | [Potential for a Fall](https://open.spotify.com/track/5g6A50hVooexlUrhanaLWY) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Call to Arms](https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU) | 2:28 |
+| 33 | [Death Or Jail](https://open.spotify.com/track/1UKnxebB3vbl2amZs3Y4vv) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Based On A True Story](https://open.spotify.com/album/0j5btQuKiIItbfTJ7ZECy3) | 2:51 |
+| 34 | [Breeders of Hate](https://open.spotify.com/track/3NhIHP6C9fp7STYbpFwkPL) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Blood, Sweat & No Tears](https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0) | 1:55 |
+| 35 | [It's Clobberin' Time](https://open.spotify.com/track/157CCj9ID91CGvG2hy0XQE) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Sick Of It All](https://open.spotify.com/album/6A77TL9MlqLZtpoaE8j48R) | 0:45 |
 | 36 | [Self Important Shithead](https://open.spotify.com/track/3ULS41Bx8vkzKz1lbB69jJ) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Wake The Sleeping Dragon!](https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv) | 0:58 |
 | 37 | [Machete](https://open.spotify.com/track/5hTFZOModIYTJpyZZvVO7H) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Death To Tyrants](https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg) | 2:03 |
-| 38 | [N.S./My Revenge](https://open.spotify.com/track/6MxlzQlmyJqQmzkeFt83Wn) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Sick Of It All](https://open.spotify.com/album/6A77TL9MlqLZtpoaE8j48R) | 1:13 |
-| 39 | [Pass the Buck](https://open.spotify.com/track/39nxkNV9hkVUjpMmBp9HG4) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Call to Arms](https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU) | 1:27 |
+| 38 | [Pass the Buck](https://open.spotify.com/track/39nxkNV9hkVUjpMmBp9HG4) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Call to Arms](https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU) | 1:27 |
+| 39 | [The Shield](https://open.spotify.com/track/5lvwWeseoP8J62xwRx4pug) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Just Look Around](https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74) | 2:36 |
 | 40 | [To the Wolves](https://open.spotify.com/track/5XoMAlcT3hfacpbGofD9v8) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Wake The Sleeping Dragon!](https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv) | 1:39 |
-| 41 | [Make A Mark](https://open.spotify.com/track/6eCxi8qQmJT89kWMyAOMmi) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Death To Tyrants](https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg) | 3:11 |
-| 42 | [The Shield](https://open.spotify.com/track/5lvwWeseoP8J62xwRx4pug) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Just Look Around](https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74) | 2:36 |
+| 41 | [N.S./My Revenge](https://open.spotify.com/track/6MxlzQlmyJqQmzkeFt83Wn) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Sick Of It All](https://open.spotify.com/album/6A77TL9MlqLZtpoaE8j48R) | 1:13 |
+| 42 | [Make A Mark](https://open.spotify.com/track/6eCxi8qQmJT89kWMyAOMmi) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Death To Tyrants](https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg) | 3:11 |
 | 43 | [The Blood & the Sweat](https://open.spotify.com/track/3AWvQrVVaxFQuUEGHwXWcM) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Blood, Sweat & No Tears](https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0) | 1:50 |
 | 44 | [Clobberin' Time](https://open.spotify.com/track/7AIqWpo3KRHEGA2ECSF3FH) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 1:09 |
 | 45 | [The Snake \(Break Free\)](https://open.spotify.com/track/6kRNaX6HOrnGgK5PwHlZDy) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Wake The Sleeping Dragon!](https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO11PTZ7.md) - [plain]
 | 49 | [Bull's Anthem](https://open.spotify.com/track/1qzGGIgnLipNXsmLK8kq2h) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Wake The Sleeping Dragon!](https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv) | 2:02 |
 | 50 | [We Want the Truth](https://open.spotify.com/track/1K1xNI1q9eEV6v4m9El29v) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Just Look Around](https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74) | 2:55 |
 
-Snapshot ID: `avZTAAAAAAA8tT32QSPxLP6MnYrAZD1r`
+Snapshot ID: `avj2AAAAAACpn7V6THHmTfIVvr97aMGo`

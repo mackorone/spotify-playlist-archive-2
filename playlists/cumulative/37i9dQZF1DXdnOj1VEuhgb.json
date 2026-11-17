@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Ati242",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Lil Zey",
   "name": "NKVT",
   "tracks": [
     {
@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 151483,
       "name": "70'lik",
       "url": "https://open.spotify.com/track/57nmhwF2m4de6U9SK6SEC2"
@@ -7076,7 +7076,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 164655,
       "name": "En G\u00fczel Tesad\u00fcf\u00fcm",
       "url": "https://open.spotify.com/track/3iuSeG95MAFwUSFazfOKVs"
@@ -11452,7 +11452,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 152053,
       "name": "KAFA RAHAT",
       "url": "https://open.spotify.com/track/4rjqYVD8N7neJxcv5rLfiM"
@@ -16013,6 +16013,24 @@
     },
     {
       "album": {
+        "name": "nejat_isler.mp3",
+        "url": "https://open.spotify.com/album/3MJLZJGTpeka9vaJqhHkDA"
+      },
+      "artists": [
+        {
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159039,
+      "name": "nejat_isler.mp3",
+      "url": "https://open.spotify.com/track/2urHLFjmUIdPDJM5vPioxH"
+    },
+    {
+      "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8"
       },
@@ -16224,6 +16242,24 @@
       "duration_ms": 129295,
       "name": "Neyi Kaybetti\u011fine Bak",
       "url": "https://open.spotify.com/track/7tU6rxMYoa5jsDmkhaBozh"
+    },
+    {
+      "album": {
+        "name": "Niagara",
+        "url": "https://open.spotify.com/album/2dJUV6RN5RndBgUfAORbv6"
+      },
+      "artists": [
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Niagara",
+      "url": "https://open.spotify.com/track/5JHs22bNc4G90VySWKgH9j"
     },
     {
       "album": {
@@ -18949,6 +18985,28 @@
     },
     {
       "album": {
+        "name": "sapsabit",
+        "url": "https://open.spotify.com/album/08YX2mgujlIcY8Na2TgAQb"
+      },
+      "artists": [
+        {
+          "name": "Yung Ouzo",
+          "url": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+        },
+        {
+          "name": "Tanerman",
+          "url": "https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138701,
+      "name": "sapsabit",
+      "url": "https://open.spotify.com/track/5ltYxG7vYAXQSI90rlrz8w"
+    },
+    {
+      "album": {
         "name": "Sar\u0131\u015f\u0131nlar \u00c7at \u00c7at",
         "url": "https://open.spotify.com/album/3F66bYgyr9QSt6FRteHj2Y"
       },
@@ -19064,6 +19122,24 @@
       "duration_ms": 160266,
       "name": "SAYFA",
       "url": "https://open.spotify.com/track/3ow9cjEgde9AHCOVuiXbMR"
+    },
+    {
+      "album": {
+        "name": "Sa\u011f Kal\u0131r \u0130nsan",
+        "url": "https://open.spotify.com/album/4ju6dBV7E0Kg7G1jQaFIkT"
+      },
+      "artists": [
+        {
+          "name": "\u015ean\u0131\u015fer",
+          "url": "https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "Sa\u011f Kal\u0131r \u0130nsan",
+      "url": "https://open.spotify.com/track/6RapOhysgYrNZp7ATuNkRr"
     },
     {
       "album": {
@@ -20354,7 +20430,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 141754,
       "name": "SORMA",
       "url": "https://open.spotify.com/track/71bphSlBo2ikDZvC9hyjQX"
@@ -22613,6 +22689,28 @@
     },
     {
       "album": {
+        "name": "ANARKYEVENHIGHER",
+        "url": "https://open.spotify.com/album/2OGbZ19I5XObjM8Lv12hnp"
+      },
+      "artists": [
+        {
+          "name": "13 Killoki",
+          "url": "https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK"
+        },
+        {
+          "name": "TAI",
+          "url": "https://open.spotify.com/artist/5dFeNfQoaHSqzgS8tyXVKR"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109333,
+      "name": "XNXX",
+      "url": "https://open.spotify.com/track/3PMpAu1h0dgiS5RiwOvbip"
+    },
+    {
+      "album": {
         "name": "XTRA",
         "url": "https://open.spotify.com/album/3BbLdzKhuqjxLDS2mOGN6O"
       },
@@ -22804,7 +22902,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 204781,
       "name": "Yalan D\u00fcnya",
       "url": "https://open.spotify.com/track/13N2PpYdj9Xkox0RXPwKHc"
@@ -24581,6 +24679,24 @@
     },
     {
       "album": {
+        "name": "\u00d6MERHAYYAM",
+        "url": "https://open.spotify.com/album/6nS0Cf1kM2pubtgcwHVAi3"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "\u00d6MERHAYYAM",
+      "url": "https://open.spotify.com/track/0MCEEI8LCEUJKi4apujvff"
+    },
+    {
+      "album": {
         "name": "\u00d6nemi Yok",
         "url": "https://open.spotify.com/album/2mQIXoB47tJoCpVvW0gbQY"
       },
@@ -24892,7 +25008,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 184421,
       "name": "\u015eile Yolunda Daire",
       "url": "https://open.spotify.com/track/7HT50cBQDnxq4IrTAkOqbO"

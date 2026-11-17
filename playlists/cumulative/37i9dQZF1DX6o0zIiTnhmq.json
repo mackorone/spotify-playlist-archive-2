@@ -2769,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "Radha Gayatri Mantra",
+        "url": "https://open.spotify.com/album/1YclhxXl0KxiRirfCpe0XC"
+      },
+      "artists": [
+        {
+          "name": "Madhura Kumbhar",
+          "url": "https://open.spotify.com/artist/3q0ggfvzCytxP87t7iQ5kt"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1458206,
+      "name": "Radha Gayatri Mantra",
+      "url": "https://open.spotify.com/track/4bEFprglnmUAU8cvrZMTv6"
+    },
+    {
+      "album": {
         "name": "Radhe Shyam",
         "url": "https://open.spotify.com/album/0iFm6TvOUhNVmhloTUn8dU"
       },
@@ -3376,7 +3394,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 359243,
       "name": "Shiv Shakti Kundalini Mantra - Slowed & Reverbed",
       "url": "https://open.spotify.com/track/6VWpmWW5lIozL44wbzvkRJ"

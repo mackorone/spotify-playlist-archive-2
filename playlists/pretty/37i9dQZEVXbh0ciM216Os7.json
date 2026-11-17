@@ -11,22 +11,6 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "Seidh",
-        "url": "https://open.spotify.com/album/6A1eYYVopPe3y3NShpQGGU"
-      },
-      "artists": [
-        {
-          "name": "Heilung",
-          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
-        }
-      ],
-      "duration_ms": 305719,
-      "name": "Seidh",
-      "url": "https://open.spotify.com/track/1thXUA4u2yyIDgdNjcsQSe"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
         "name": "WELCOME (feat. Eminem)",
         "url": "https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd"
       },
@@ -51,18 +35,18 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "Horseback (Special Edition)",
-        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
+        "name": "Seidh",
+        "url": "https://open.spotify.com/album/6A1eYYVopPe3y3NShpQGGU"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Heilung",
+          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
         }
       ],
-      "duration_ms": 167373,
-      "name": "Horseback - Special Edition",
-      "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
+      "duration_ms": 305719,
+      "name": "Seidh",
+      "url": "https://open.spotify.com/track/1thXUA4u2yyIDgdNjcsQSe"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -91,6 +75,38 @@
       "duration_ms": 158879,
       "name": "Situation (feat. Big Sean, Erykah Badu & Aasher Saintt)",
       "url": "https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "Horseback (Special Edition)",
+        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "Horseback - Special Edition",
+      "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "Covers Only, Vol. 2",
+        "url": "https://open.spotify.com/album/5Szf71kDHknomrPw3ehvU0"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 222219,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/0YU9XmRMEyLoU51stMLFkj"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -143,38 +159,6 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "Some Wings",
-        "url": "https://open.spotify.com/album/10EezPc3G2D5da6IHkxLPO"
-      },
-      "artists": [
-        {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "Some Wings",
-      "url": "https://open.spotify.com/track/0G73gznZiHZAvUFZKA14Ep"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "Covers Only, Vol. 2",
-        "url": "https://open.spotify.com/album/5Szf71kDHknomrPw3ehvU0"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 222219,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/0YU9XmRMEyLoU51stMLFkj"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
         "name": "No Gas",
         "url": "https://open.spotify.com/album/5z9QdvSbQ5zZ59SFaM0Vbr"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 143744,
       "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\") (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3SgiN73hnVnb9KSs4Z4iL2"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "Some Wings",
+        "url": "https://open.spotify.com/album/10EezPc3G2D5da6IHkxLPO"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "Some Wings",
+      "url": "https://open.spotify.com/track/0G73gznZiHZAvUFZKA14Ep"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -404,17 +404,21 @@
           "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
         },
         {
-          "name": "Rome Streetz",
-          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         },
         {
-          "name": "Cormega",
-          "url": "https://open.spotify.com/artist/4vQLu6vYK0hp8k0fsAzsU8"
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        },
+        {
+          "name": "Kyah Baby",
+          "url": "https://open.spotify.com/artist/7Fkz3rPi9NU6jw2f5yxzWY"
         }
       ],
-      "duration_ms": 226447,
-      "name": "Brolic",
-      "url": "https://open.spotify.com/track/6dRYsxmtk5bjOVGBvuzQ8g"
+      "duration_ms": 167363,
+      "name": "Dominant Confidence",
+      "url": "https://open.spotify.com/track/1gLCXfNCSYOCHkfxxBMlpX"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -619,26 +623,6 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "Tesra for Piano",
-        "url": "https://open.spotify.com/album/5eCWDrftZDQF0izeoMmVfZ"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Maki Namekawa",
-          "url": "https://open.spotify.com/artist/6htuRIPptVcECBt22n7MGo"
-        }
-      ],
-      "duration_ms": 171330,
-      "name": "Tesra for Piano",
-      "url": "https://open.spotify.com/track/3NG22KKplOm5AjObTLluIW"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
         "name": "Expensive Taste",
         "url": "https://open.spotify.com/album/4jvsbpZLM4wzJ9dpeDZeSu"
       },
@@ -663,6 +647,26 @@
       "duration_ms": 193170,
       "name": "Generational",
       "url": "https://open.spotify.com/track/4ar4rrNUCp7GaVCkRH6KhU"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "Tesra for Piano",
+        "url": "https://open.spotify.com/album/5eCWDrftZDQF0izeoMmVfZ"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Maki Namekawa",
+          "url": "https://open.spotify.com/artist/6htuRIPptVcECBt22n7MGo"
+        }
+      ],
+      "duration_ms": 171330,
+      "name": "Tesra for Piano",
+      "url": "https://open.spotify.com/track/3NG22KKplOm5AjObTLluIW"
     },
     {
       "added_at": "2026-11-13 05:00:00",

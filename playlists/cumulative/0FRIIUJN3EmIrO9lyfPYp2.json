@@ -17349,6 +17349,24 @@
     },
     {
       "album": {
+        "name": "still thinking of you",
+        "url": "https://open.spotify.com/album/6qGKyENcJjDB9s0SfGYfiB"
+      },
+      "artists": [
+        {
+          "name": "CYREX",
+          "url": "https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164390,
+      "name": "still thinking of you",
+      "url": "https://open.spotify.com/track/2HCau0HGFTCbQzT00OIBHo"
+    },
+    {
+      "album": {
         "name": "still waiting",
         "url": "https://open.spotify.com/album/5XlInR43ifMCAbIKenm0aQ"
       },

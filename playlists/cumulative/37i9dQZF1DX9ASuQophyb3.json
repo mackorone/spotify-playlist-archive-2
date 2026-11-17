@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Emre Altu\u011f",
+  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Dedubl\u00fcman, Aleyna Tilki",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 204827,
       "name": "A\u015fk U\u011framad\u0131 Bize",
       "url": "https://open.spotify.com/track/3Ua6m1etprbHwoMKn8RBZq"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 160389,
       "name": "Bir Dakika Dur",
       "url": "https://open.spotify.com/track/0IvwU5QR2fM3lXlVPuzM1r"
@@ -5289,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "Emrindeyim",
+        "url": "https://open.spotify.com/album/3n8ttoxQVAHmfXERaOC4VI"
+      },
+      "artists": [
+        {
+          "name": "Bahad\u0131r Tatl\u0131\u00f6z",
+          "url": "https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Emrindeyim",
+      "url": "https://open.spotify.com/track/1DnQAOS8H6PtnhpAFCFa1a"
+    },
+    {
+      "album": {
         "name": "En Ger\u00e7e\u011fi",
         "url": "https://open.spotify.com/album/3ZyL4YPZzCVWaDXY4ZajV3"
       },
@@ -5732,10 +5750,32 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 207500,
       "name": "Gayr\u0131 Sevme",
       "url": "https://open.spotify.com/track/1VqJ1whwAiyclnO9fOCfRY"
+    },
+    {
+      "album": {
+        "name": "gece lambas\u0131",
+        "url": "https://open.spotify.com/album/6rGtSUjuQzFROqxDtaFWjw"
+      },
+      "artists": [
+        {
+          "name": "Canozan",
+          "url": "https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC"
+        },
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154268,
+      "name": "gece lambas\u0131",
+      "url": "https://open.spotify.com/track/0uV7yyR4chmf0Fy8nMtt4X"
     },
     {
       "album": {
@@ -6844,7 +6884,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 222000,
       "name": "Hasretler Ayr\u0131l\u0131kla Ba\u015flar",
       "url": "https://open.spotify.com/track/3L6hId4jhaNznx49prfqcZ"
@@ -11799,6 +11839,24 @@
     },
     {
       "album": {
+        "name": "Sana Ben Yak\u0131\u015f\u0131r\u0131m",
+        "url": "https://open.spotify.com/album/1CnOpk2cw0n5u5ELmYIA65"
+      },
+      "artists": [
+        {
+          "name": "Hande Mehan",
+          "url": "https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165785,
+      "name": "Sat\u0131r Sat\u0131r",
+      "url": "https://open.spotify.com/track/4V3xmqWfBCb3aCGETTcM88"
+    },
+    {
+      "album": {
         "name": "SAVA\u015eAMAM",
         "url": "https://open.spotify.com/album/3zaFYoZctt1xryeAFmGm1l"
       },
@@ -13411,6 +13469,24 @@
     },
     {
       "album": {
+        "name": "Tam \u0130sabet",
+        "url": "https://open.spotify.com/album/44erMVYiJB1JQ18xgvb60U"
+      },
+      "artists": [
+        {
+          "name": "Ziynet Sali",
+          "url": "https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183124,
+      "name": "Tam \u0130sabet",
+      "url": "https://open.spotify.com/track/31ANKd7kgf36vbgRdx7ApL"
+    },
+    {
+      "album": {
         "name": "Tamam A\u015fk\u0131m",
         "url": "https://open.spotify.com/album/1o6gC3VfDsfka9kI871t5J"
       },
@@ -14637,6 +14713,28 @@
     },
     {
       "album": {
+        "name": "Yanar (Dedub Sessions II)",
+        "url": "https://open.spotify.com/album/1DmcdJDrMN6kqAUFTY3sZc"
+      },
+      "artists": [
+        {
+          "name": "Dedubl\u00fcman",
+          "url": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
+        },
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160045,
+      "name": "Yanar - Dedub Sessions II",
+      "url": "https://open.spotify.com/track/6TXH41wtFj3o1dMOp7lKHM"
+    },
+    {
+      "album": {
         "name": "Yand\u0131m",
         "url": "https://open.spotify.com/album/0wIv0XSJjDwOTTxHXjQqD2"
       },
@@ -14872,7 +14970,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 142877,
       "name": "Yan\u0131nday\u0131m",
       "url": "https://open.spotify.com/track/37LArA4sGgQ4MaHZcyMtbW"

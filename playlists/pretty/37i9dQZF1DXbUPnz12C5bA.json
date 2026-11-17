@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 236372,
+  "num_followers": 236487,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+        }
+      ],
+      "duration_ms": 297746,
+      "name": "Como duele el frio",
+      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
         "name": "Volver a Triunfar",
         "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 297413,
       "name": "Quiero Saber de Ti",
       "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Martin Elias & Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones para Amarte",
-      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
     },
     {
       "added_at": "2026-05-04 04:59:11",
@@ -831,18 +831,22 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Vallenatos Bonitos Bonitos",
-        "url": "https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn"
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
       "artists": [
         {
-          "name": "Erick Escobar Nayo Quintero Y La Decision Vallenata",
-          "url": "https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO"
+          "name": "Franco Arg\u00fcelles",
+          "url": "https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q"
+        },
+        {
+          "name": "Ivan Villazon",
+          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
         }
       ],
-      "duration_ms": 235235,
-      "name": "No Pude Quitarte las Espinas",
-      "url": "https://open.spotify.com/track/0kboeujB0vMltPld2uhRPR"
+      "duration_ms": 276970,
+      "name": "Acabaste con mi vida",
+      "url": "https://open.spotify.com/track/006XqpyoXDUhdJ15PiX4AS"
     },
     {
       "added_at": "2026-05-04 04:59:11",
@@ -863,34 +867,34 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Grandes \u00c9xitos - Luis Mateus y David Rend\u00f3n",
-        "url": "https://open.spotify.com/album/7nfMoMwDa68qYPOKjjM7tU"
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
       },
       "artists": [
         {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+          "name": "El Gran Martin Elias & Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
         }
       ],
-      "duration_ms": 259015,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/5aRkqvho3gUvxrljEbpnTT"
+      "duration_ms": 315862,
+      "name": "10 Razones para Amarte",
+      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
     },
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+        "name": "Vallenatos Bonitos Bonitos",
+        "url": "https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn"
       },
       "artists": [
         {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+          "name": "Erick Escobar Nayo Quintero Y La Decision Vallenata",
+          "url": "https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO"
         }
       ],
-      "duration_ms": 297746,
-      "name": "Como duele el frio",
-      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+      "duration_ms": 235235,
+      "name": "No Pude Quitarte las Espinas",
+      "url": "https://open.spotify.com/track/0kboeujB0vMltPld2uhRPR"
     },
     {
       "added_at": "2026-05-04 04:59:11",

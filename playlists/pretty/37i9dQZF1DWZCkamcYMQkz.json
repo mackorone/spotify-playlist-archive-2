@@ -1,12 +1,12 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 547968,
+  "num_followers": 548101,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO+foqFy13drOAXenxta2fS5Gx69",
+  "snapshot_id": "AAAAAFN7yip2V4LNsqtmvTKBlw3O4uZd",
   "tracks": [
     {
       "added_at": "2026-11-06 09:56:37",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
+        "name": "Chris Connor",
+        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 156493,
       "name": "Straighten Up And Fly Right",
       "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
-        "name": "Chris Connor",
-        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "How Love Begins (Extended Edition)",
-        "url": "https://open.spotify.com/album/7sOSStvEboV0UZOvHO4iHb"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zuraitis",
-          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
-        },
-        {
-          "name": "David Cook",
-          "url": "https://open.spotify.com/artist/1kTlMFv8G550JogQHA7Jq6"
-        }
-      ],
-      "duration_ms": 316987,
-      "name": "Two Fish - Alt Take",
-      "url": "https://open.spotify.com/track/6kD5DLbXoFVTy4owuDqn3T"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 179200,
       "name": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
       "url": "https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
+        "name": "How Love Begins (Extended Edition)",
+        "url": "https://open.spotify.com/album/7sOSStvEboV0UZOvHO4iHb"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zuraitis",
+          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
+        },
+        {
+          "name": "David Cook",
+          "url": "https://open.spotify.com/artist/1kTlMFv8G550JogQHA7Jq6"
+        }
+      ],
+      "duration_ms": 316987,
+      "name": "Two Fish - Alt Take",
+      "url": "https://open.spotify.com/track/6kD5DLbXoFVTy4owuDqn3T"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1323,6 +1323,34 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/7cYYXhyJAKIFzDHFrwwh6a"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        },
+        {
+          "name": "Monty Alexander",
+          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Steve Jordan",
+          "url": "https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC"
+        }
+      ],
+      "duration_ms": 325652,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5FHDoWLGGHpjmbs5uMfdqI"
+    },
+    {
+      "added_at": "2026-11-06 09:56:37",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/0aGNp8GjnQQYnbbTHGwYMR"
       },
@@ -1351,34 +1379,6 @@
       "duration_ms": 205373,
       "name": "Central Park Swing",
       "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
-    },
-    {
-      "added_at": "2026-11-06 09:56:37",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/7cYYXhyJAKIFzDHFrwwh6a"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        },
-        {
-          "name": "Monty Alexander",
-          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Steve Jordan",
-          "url": "https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC"
-        }
-      ],
-      "duration_ms": 325652,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5FHDoWLGGHpjmbs5uMfdqI"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Singin' a Melody",
-        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+        "name": "Markham Sunrise",
+        "url": "https://open.spotify.com/album/0rgY5ot2AlZrAwXJhVyChZ"
       },
       "artists": [
         {
-          "name": "Paul Callander",
-          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
         }
       ],
-      "duration_ms": 224786,
-      "name": "Singin' a Melody",
-      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
+      "duration_ms": 193373,
+      "name": "Markham Sunrise",
+      "url": "https://open.spotify.com/track/7u9obPhFU5UqeWBksk56lP"
     },
     {
       "added_at": "2026-11-06 09:56:37",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2026-11-06 09:56:37",
       "album": {
-        "name": "Markham Sunrise",
-        "url": "https://open.spotify.com/album/0rgY5ot2AlZrAwXJhVyChZ"
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
       },
       "artists": [
         {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+          "name": "Paul Callander",
+          "url": "https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq"
         }
       ],
-      "duration_ms": 193373,
-      "name": "Markham Sunrise",
-      "url": "https://open.spotify.com/track/7u9obPhFU5UqeWBksk56lP"
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
       "added_at": "2026-11-06 09:56:37",

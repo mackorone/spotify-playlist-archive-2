@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Karnamereka, Lavora
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,373 likes - 129 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,477 likes - 129 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

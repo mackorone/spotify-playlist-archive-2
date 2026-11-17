@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,000 likes - 192 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,037 likes - 192 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 3 | [she \(still\) \- solo piano](https://open.spotify.com/track/2xTZYeS9Rx54c1Zhe2tYEw) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [she \(still\)](https://open.spotify.com/album/5LgIZnYLK6WJTyjiN90a9M) | 2:16 |
 | 4 | [Sleep Spiral](https://open.spotify.com/track/3oRu4U9c9pRVQfMsvM3qcg) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Sleep Spiral](https://open.spotify.com/album/3EuaCwg2cuCbxPek2zVWJ4) | 5:40 |
 | 5 | [A Daydream In Camelot](https://open.spotify.com/track/4V0E9NmULQ2oI3G12WnYFr) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [A Daydream In Camelot](https://open.spotify.com/album/7ufuRbKKVBbqwkeqxVlX55) | 2:38 |
-| 6 | [Warming \(Mvt\. 5\)](https://open.spotify.com/track/4JdtTdug3Hr19bPtdSUzgS) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Warming \(Mvt\. 5\)](https://open.spotify.com/album/1YXbHHjbdli6iP2T158h6M) | 4:34 |
+| 6 | [Warming \(Mvt\. 5\) \- Performance Video](https://open.spotify.com/track/4JdtTdug3Hr19bPtdSUzgS) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Warming \(Mvt\. 5\) \[Performance Video\]](https://open.spotify.com/album/1YXbHHjbdli6iP2T158h6M) | 4:34 |
 | 7 | [Adagio \(Ravel\)](https://open.spotify.com/track/64qeNInhPT3TKPCc6eKyy3) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Ravel \(Encores\)](https://open.spotify.com/album/4enKowMiwzVBUqTLYb6CHh) | 2:47 |
 | 8 | [Echoes of Colors](https://open.spotify.com/track/2iK2iWYwUGp19nevOXCzdk) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Echoes of Colors](https://open.spotify.com/album/0RsZUNP73u5mPVm3sABojG) | 2:25 |
 | 9 | [Always Know](https://open.spotify.com/track/2suwcmJtyWrVOTI7o0x144) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Always Know](https://open.spotify.com/album/3dMZmG47IGKlzmzHw8Aixc) | 3:43 |

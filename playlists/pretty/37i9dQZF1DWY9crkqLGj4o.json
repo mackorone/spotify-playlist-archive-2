@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 452916,
+  "num_followers": 452947,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Andando na Luz",
+        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 348499,
+      "name": "H\u00e1 um Lugar",
+      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Enche-me (Ao Vivo)",
         "url": "https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 450560,
       "name": "Enche-me - Ao Vivo",
       "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Andando na Luz",
-        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
-      },
-      "artists": [
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
-        }
-      ],
-      "duration_ms": 348499,
-      "name": "H\u00e1 um Lugar",
-      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+        "name": "Renascer Praise 13: A Colheita",
+        "url": "https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1"
       },
       "artists": [
         {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+          "name": "Renascer Praise",
+          "url": "https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR"
         }
       ],
-      "duration_ms": 347434,
-      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
+      "duration_ms": 372826,
+      "name": "Eu Me Rendo",
+      "url": "https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -855,34 +855,18 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Renascer Praise 13: A Colheita",
-        "url": "https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1"
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
       },
       "artists": [
         {
-          "name": "Renascer Praise",
-          "url": "https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR"
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
         }
       ],
-      "duration_ms": 372826,
-      "name": "Eu Me Rendo",
-      "url": "https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "At\u00e9 Transbordar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 436613,
-      "name": "Teu Santo Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh"
+      "duration_ms": 347434,
+      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -899,6 +883,22 @@
       "duration_ms": 266664,
       "name": "Pra te Ferir",
       "url": "https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
+        "name": "At\u00e9 Transbordar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 436613,
+      "name": "Teu Santo Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Noites Trai\u00e7oeiras",
+        "url": "https://open.spotify.com/album/4e4BIYWvAWGKdgI5bFxz8s"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 252063,
+      "name": "Noites Trai\u00e7oeiras",
+      "url": "https://open.spotify.com/track/0jcqQIp3hjuSAtYsQmTCcx"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Meu Mestre (Ao Vivo)",
         "url": "https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Noites Trai\u00e7oeiras",
-        "url": "https://open.spotify.com/album/4e4BIYWvAWGKdgI5bFxz8s"
+        "name": "No Caminho do Milagre - Ao Vivo",
+        "url": "https://open.spotify.com/album/4b76pdbnjJ6Ur7x7VDOxmZ"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
         }
       ],
-      "duration_ms": 252063,
-      "name": "Noites Trai\u00e7oeiras",
-      "url": "https://open.spotify.com/track/0jcqQIp3hjuSAtYsQmTCcx"
+      "duration_ms": 365706,
+      "name": "No Caminho do Milagre",
+      "url": "https://open.spotify.com/track/2PA760uz4zfHLhmbwpcArL"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -1095,22 +1111,6 @@
       "duration_ms": 220066,
       "name": "Tu \u00c9s Santo",
       "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "No Caminho do Milagre - Ao Vivo",
-        "url": "https://open.spotify.com/album/4b76pdbnjJ6Ur7x7VDOxmZ"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        }
-      ],
-      "duration_ms": 365706,
-      "name": "No Caminho do Milagre",
-      "url": "https://open.spotify.com/track/2PA760uz4zfHLhmbwpcArL"
     },
     {
       "added_at": "2026-01-30 13:05:09",

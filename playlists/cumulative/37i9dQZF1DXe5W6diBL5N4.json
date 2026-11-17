@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: Mark Lee) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: TOMORROW X TOGETHER) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 148000,
       "name": "12 o'clock",
       "url": "https://open.spotify.com/track/1dp1GI9YcKDoxrKBpp0u9F"
@@ -13980,7 +13980,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 203000,
       "name": "All Of My Life",
       "url": "https://open.spotify.com/track/7xTisLCTs1DLqgDiZVoxpF"
@@ -16393,6 +16393,24 @@
     },
     {
       "album": {
+        "name": "PULSE I",
+        "url": "https://open.spotify.com/album/3pmNtBDQRwE0CC9ksVzTOm"
+      },
+      "artists": [
+        {
+          "name": "CHANMIN",
+          "url": "https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258892,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7EHVfrNfWm6TEWGzCMqVkG"
+    },
+    {
+      "album": {
         "name": "ANGEL",
         "url": "https://open.spotify.com/album/0lW0a6xUeJwNWWcMKcpGPy"
       },
@@ -16452,6 +16470,24 @@
       "duration_ms": 192000,
       "name": "Angel (feat. twlv)",
       "url": "https://open.spotify.com/track/0CXg4fpEBKlGGxRI1cYhBs"
+    },
+    {
+      "album": {
+        "name": "PERFECT STORM",
+        "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Angel Bite",
+      "url": "https://open.spotify.com/track/62pmQMfcm1leFyeKRfSaDq"
     },
     {
       "album": {
@@ -17318,7 +17354,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 196600,
       "name": "anxiety",
       "url": "https://open.spotify.com/track/2KdRiiEgMKq5MKiYqMq7NS"
@@ -21174,7 +21210,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 166000,
       "name": "B.B.B",
       "url": "https://open.spotify.com/track/6WuxhUmAYWWNDat5REzgee"
@@ -23394,7 +23430,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 190000,
       "name": "BAD HABITS TONITE",
       "url": "https://open.spotify.com/track/2nX1nKma4JpfOfh3kbWrlC"
@@ -31524,7 +31560,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 200000,
       "name": "Birthday Wish",
       "url": "https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b"
@@ -33890,7 +33926,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 197500,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5d0qzUtSK47dJ1NWaa8u5q"
@@ -47720,7 +47756,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 182413,
       "name": "CHOP!",
       "url": "https://open.spotify.com/track/6YXwcmV3Uyo2pseUwEBGHI"
@@ -48592,7 +48628,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 242785,
       "name": "Circle",
       "url": "https://open.spotify.com/track/6uETHhrTHZfxtIdkjAlYAx"
@@ -52096,7 +52132,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 204018,
       "name": "Come into my world!",
       "url": "https://open.spotify.com/track/5zacvTOytsVSZneiZT5J7u"
@@ -67426,7 +67462,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 232059,
       "name": "Don't Say Love (feat. BEAUTY SCHOOL DROPOUT)",
       "url": "https://open.spotify.com/track/1MelYP2XYmBn97CnsevKAo"
@@ -74192,7 +74228,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 233550,
       "name": "EGERO",
       "url": "https://open.spotify.com/track/4SDrNjs1in5RAL5GdCr3bZ"
@@ -86518,7 +86554,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 187280,
       "name": "FIRESTARTER",
       "url": "https://open.spotify.com/track/1PS9KaNbnSggKcR1TelUHA"
@@ -95420,7 +95456,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 180000,
       "name": "Garden of Dreams",
       "url": "https://open.spotify.com/track/21UERm32vNa9mXy7t9lIRw"
@@ -100064,7 +100100,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 232000,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/3D69kUD60sHbAtaWRTjqpB"
@@ -105307,6 +105343,24 @@
     },
     {
       "album": {
+        "name": "HAH!",
+        "url": "https://open.spotify.com/album/6Vw6sygKgdyPYyQ1ZJvUSJ"
+      },
+      "artists": [
+        {
+          "name": "Keyveatz",
+          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "HAH!",
+      "url": "https://open.spotify.com/track/1rXl5SyffoRrpG2q97iQyo"
+    },
+    {
+      "album": {
         "name": "HAHAHA",
         "url": "https://open.spotify.com/album/7xO0UrIineX4jvc2VkRkSM"
       },
@@ -110335,6 +110389,24 @@
     },
     {
       "album": {
+        "name": "from.",
+        "url": "https://open.spotify.com/album/0vofZH4JYymfDCx5R0JHhs"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248582,
+      "name": "hero? hero!",
+      "url": "https://open.spotify.com/track/3oVgXy5z54cbieLGpGVq41"
+    },
+    {
+      "album": {
         "name": "SILKY : Episode 2",
         "url": "https://open.spotify.com/album/01I31BgwIWwaHm4ZzKeK3t"
       },
@@ -111836,6 +111908,24 @@
       "duration_ms": 213943,
       "name": "Higher - Acoustic",
       "url": "https://open.spotify.com/track/0AJiqRbCAgHclJZEaU83sW"
+    },
+    {
+      "album": {
+        "name": "Higher Than Rap",
+        "url": "https://open.spotify.com/album/0EEXc3X9pPozYwgAdThtHD"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259090,
+      "name": "Higher Than Rap",
+      "url": "https://open.spotify.com/track/3jKKRNUPqqIT1gsHW1vWyq"
     },
     {
       "album": {
@@ -125142,7 +125232,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 185000,
       "name": "I SPY",
       "url": "https://open.spotify.com/track/3kcGkOmFXtaFjVdz7ge1WL"
@@ -131729,6 +131819,24 @@
     },
     {
       "album": {
+        "name": "If You Love",
+        "url": "https://open.spotify.com/album/0xPEaiuRn5rjyUM0gNwjGH"
+      },
+      "artists": [
+        {
+          "name": "KCM",
+          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "If You Love",
+      "url": "https://open.spotify.com/track/3Z6N5tnBhbIOdbJaxfSRDx"
+    },
+    {
+      "album": {
         "name": "Would You Marry Me?, Pt. 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7gi0kRiZQicfrD97qWyJv6"
       },
@@ -132306,7 +132414,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 157000,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/6BWxQgYLrm70Vo6XDsMONU"
@@ -136342,7 +136450,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 211626,
       "name": "Island",
       "url": "https://open.spotify.com/track/31YoFGgL0FiuPhvqOE76by"
@@ -157518,7 +157626,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 195559,
       "name": "Looks Can Kill",
       "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
@@ -159558,7 +159666,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 184565,
       "name": "Love and Hate",
       "url": "https://open.spotify.com/track/7F515yJo3yCcHtF1TRW5hk"
@@ -169734,7 +169842,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 169714,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b"
@@ -184070,7 +184178,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 174886,
       "name": "My Youth",
       "url": "https://open.spotify.com/track/1lk4BA7QjRdRLIu7ZuoRz8"
@@ -187256,7 +187364,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 169000,
       "name": "Next Chapter",
       "url": "https://open.spotify.com/track/0eTzMGetnDvA6G3QpQc2d4"
@@ -219672,7 +219780,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 187333,
       "name": "retro era",
       "url": "https://open.spotify.com/track/6PIRmbzai5rsRluZMieNSG"
@@ -230218,7 +230326,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 181000,
       "name": "seesaw (Feat. IU)",
       "url": "https://open.spotify.com/track/3lTdjfpGVeYLeHfrczXw1a"
@@ -250296,7 +250404,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 267804,
       "name": "Still in My Heart",
       "url": "https://open.spotify.com/track/2Ncf7nhmW0qwxanGLolaBT"
@@ -250858,7 +250966,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 207000,
       "name": "Still the Sun, Still the Moon",
       "url": "https://open.spotify.com/track/2m9i4uppST6AWl7GyV4zPB"
@@ -252838,7 +252946,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 163667,
       "name": "Subtle",
       "url": "https://open.spotify.com/track/4W3g45VRB0S6U8Ab5BDaq0"
@@ -266208,7 +266316,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 191781,
       "name": "The Last Monster",
       "url": "https://open.spotify.com/track/16Tj4m3z0UsHMtiMZo4YO8"
@@ -282922,7 +283030,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 209577,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/5kogY792zz6wrRueimdmIA"
@@ -287884,7 +287992,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 179076,
       "name": "Wah",
       "url": "https://open.spotify.com/track/3PMJELrAlnHhx7BRNGymqj"
@@ -292059,6 +292167,24 @@
     },
     {
       "album": {
+        "name": "We Have No Time",
+        "url": "https://open.spotify.com/album/367GzIhFpAccv7ydtZHw99"
+      },
+      "artists": [
+        {
+          "name": "Hangsung",
+          "url": "https://open.spotify.com/artist/7s2auzTJqfLyxtzExY9xrh"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174700,
+      "name": "We Have No Time",
+      "url": "https://open.spotify.com/track/6yFyW89xM3JGwiiEOjy01t"
+    },
+    {
+      "album": {
         "name": "Poong, the Joseon Psychiatrist2 (Original Television Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/7MnZ9H7oqFVQuY613fZaV8"
       },
@@ -294542,7 +294668,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 196467,
       "name": "What If",
       "url": "https://open.spotify.com/track/64oQSsRzvZqguFx1iBtqE2"
@@ -311654,7 +311780,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 216254,
       "name": "YOUNGONE (01)",
       "url": "https://open.spotify.com/track/2BNurMQrF2MUdnXmBmShfS"
@@ -313226,7 +313352,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 193043,
       "name": "Yuranga",
       "url": "https://open.spotify.com/track/6FZrgH1QpFqrnbZPWf1oZ5"

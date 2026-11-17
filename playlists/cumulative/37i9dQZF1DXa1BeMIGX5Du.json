@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 155774,
       "name": "Afterlight",
       "url": "https://open.spotify.com/track/3jChBg7p7eTv79tABlKKKk"
@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Border Town",
+        "url": "https://open.spotify.com/album/3eNuMCNAlCLk9QpAeGYGRe"
+      },
+      "artists": [
+        {
+          "name": "Georgia van Etten",
+          "url": "https://open.spotify.com/artist/0EEft10ZtOgEHmqKFRxXRY"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246780,
+      "name": "Border Town",
+      "url": "https://open.spotify.com/track/0UBzs0jNzpIYA5dSnuK7GW"
+    },
+    {
+      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -1394,6 +1412,24 @@
       "duration_ms": 162091,
       "name": "cold coffee",
       "url": "https://open.spotify.com/track/2dVpNc9y0Sx4uVLhf22Vs9"
+    },
+    {
+      "album": {
+        "name": "colour burns",
+        "url": "https://open.spotify.com/album/5qEu81t88PNB9f5bI0C7J2"
+      },
+      "artists": [
+        {
+          "name": "Heath Lancaster",
+          "url": "https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180961,
+      "name": "colour burns",
+      "url": "https://open.spotify.com/track/6FCZGJDRaEYAPYRCho9LYW"
     },
     {
       "album": {
@@ -2104,7 +2140,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 169484,
       "name": "easier to stare",
       "url": "https://open.spotify.com/track/2x4DdNTxdZBHs0ceMpucXN"
@@ -2530,7 +2566,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 173522,
       "name": "Fleeting",
       "url": "https://open.spotify.com/track/14Dbj4bqFTu3AfIACMaf4V"
@@ -8056,7 +8092,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 249493,
       "name": "think about it",
       "url": "https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW"
@@ -8677,6 +8713,32 @@
     },
     {
       "album": {
+        "name": "Watermelon Juice",
+        "url": "https://open.spotify.com/album/5LrXqtxA439xJpbxDeBW8r"
+      },
+      "artists": [
+        {
+          "name": "Solomon Crook",
+          "url": "https://open.spotify.com/artist/5B5cUiibtKjZKaXgQdV3G1"
+        },
+        {
+          "name": "Marianne Wren",
+          "url": "https://open.spotify.com/artist/4IOMcJE9Y7LZ7rc7CazwH6"
+        },
+        {
+          "name": "My Name is June",
+          "url": "https://open.spotify.com/artist/4ms5gCDbXY8sHX1SkV8qH2"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220682,
+      "name": "Watermelon Juice",
+      "url": "https://open.spotify.com/track/50B1WW8SChPEpnu8JWoQBj"
+    },
+    {
+      "album": {
         "name": "Way to the Sun",
         "url": "https://open.spotify.com/album/0sml7LIIhYWYNxFXrT6QTc"
       },
@@ -9032,6 +9094,24 @@
       "duration_ms": 252253,
       "name": "Wicked Game - Acoustic",
       "url": "https://open.spotify.com/track/3Gb3RPg5FT3cCn0q1oizZp"
+    },
+    {
+      "album": {
+        "name": "Wild Love",
+        "url": "https://open.spotify.com/album/2t2kNA7bPj0AtHC8ZjizKu"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221786,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/1I0sZGVFzmh4OgrpMNHEZP"
     },
     {
       "album": {

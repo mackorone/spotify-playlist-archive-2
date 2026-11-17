@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 88271,
+  "num_followers": 88335,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Spirit Chant",
-        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 610103,
-      "name": "Spirit Chant",
-      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "To Yahweh's Delight",
         "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 552855,
       "name": "Obinigwe",
       "url": "https://open.spotify.com/track/0fs6Iaw6Dze7VzT2sHDpkD"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Spirit Chant",
+        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 610103,
+      "name": "Spirit Chant",
+      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Agbara Olorun po",
-        "url": "https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA"
-      },
-      "artists": [
-        {
-          "name": "Clement whyte",
-          "url": "https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT"
-        }
-      ],
-      "duration_ms": 301141,
-      "name": "Agbara Olorun po",
-      "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Lara George",
         "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 269113,
       "name": "Ko Ma Si/ Nobody Like You",
       "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Agbara Olorun po",
+        "url": "https://open.spotify.com/album/7ruTymGcJDzgnveU9ZOAsA"
+      },
+      "artists": [
+        {
+          "name": "Clement whyte",
+          "url": "https://open.spotify.com/artist/4UuoX5tY9U0Qf9dO66EStT"
+        }
+      ],
+      "duration_ms": 301141,
+      "name": "Agbara Olorun po",
+      "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/5splIOrU4UvxMrOYvMQGw0"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "Alignment Chant",
-        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 810956,
-      "name": "Alignment Chant - EP",
-      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "In His Presence, Vol. 2",
@@ -543,6 +527,22 @@
       "duration_ms": 527200,
       "name": "There Is a Place",
       "url": "https://open.spotify.com/track/1kYq99JJMTYdGDtsaG3ZPR"
+    },
+    {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "Alignment Chant",
+        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 810956,
+      "name": "Alignment Chant - EP",
+      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Strings of Glory (Prayer Chant)",
+        "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Into the Deep (Prayer Chant)",
+      "url": "https://open.spotify.com/track/1Lz5z1VShC93fUV6GsB3DO"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Adua Ke (Cover)",
         "url": "https://open.spotify.com/album/4ERejtj6c9RXkAZxExOWif"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 300816,
       "name": "Adua Ke (Cover)",
       "url": "https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Strings of Glory (Prayer Chant)",
-        "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
-      },
-      "artists": [
-        {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Into the Deep (Prayer Chant)",
-      "url": "https://open.spotify.com/track/1Lz5z1VShC93fUV6GsB3DO"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Shift (Awakening)",
+        "url": "https://open.spotify.com/album/4eBjA7nICogcfibf6xuGAz"
+      },
+      "artists": [
+        {
+          "name": "Eddie James",
+          "url": "https://open.spotify.com/artist/69LsPQEcmyMBXbdMKWT6Yq"
+        },
+        {
+          "name": "Jayna Cullens",
+          "url": "https://open.spotify.com/artist/49UDs5Mtq1PYQeL5n9bqL0"
+        }
+      ],
+      "duration_ms": 479506,
+      "name": "House of Prayer (feat. Jayna Cullens)",
+      "url": "https://open.spotify.com/track/386uNqsMRVtiKDulq2P16T"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "My Altar Is Calling You",
         "url": "https://open.spotify.com/album/7GeZxUpzniRCXgvdg4GCcG"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 400979,
       "name": "My Altar Is Calling You",
       "url": "https://open.spotify.com/track/0yVKmHilBXbDZgC3dT7zy5"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Shift (Awakening)",
-        "url": "https://open.spotify.com/album/4eBjA7nICogcfibf6xuGAz"
-      },
-      "artists": [
-        {
-          "name": "Eddie James",
-          "url": "https://open.spotify.com/artist/69LsPQEcmyMBXbdMKWT6Yq"
-        },
-        {
-          "name": "Jayna Cullens",
-          "url": "https://open.spotify.com/artist/49UDs5Mtq1PYQeL5n9bqL0"
-        }
-      ],
-      "duration_ms": 479506,
-      "name": "House of Prayer (feat. Jayna Cullens)",
-      "url": "https://open.spotify.com/track/386uNqsMRVtiKDulq2P16T"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "God Can Live Ministration",
-        "url": "https://open.spotify.com/album/1kiiYGJtDNVezSCFYTGR1P"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 530000,
-      "name": "Prayer Call (Chants) - Live",
-      "url": "https://open.spotify.com/track/1pmdxkKQ63owY4oSjBmqnj"
-    },
-    {
       "added_at": "2025-08-29 00:01:17",
       "album": {
         "name": "Joy Chant",
@@ -879,6 +863,22 @@
       "duration_ms": 531724,
       "name": "Joy Chant",
       "url": "https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "God Can Live Ministration",
+        "url": "https://open.spotify.com/album/1kiiYGJtDNVezSCFYTGR1P"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 530000,
+      "name": "Prayer Call (Chants) - Live",
+      "url": "https://open.spotify.com/track/1pmdxkKQ63owY4oSjBmqnj"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Song of Answers (Spirits Must Obey)",
+        "url": "https://open.spotify.com/album/6iLpI8vsGEnpCyEzTYRAuV"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "duration_ms": 668238,
+      "name": "Song of Answers (Spirits Must Obey)",
+      "url": "https://open.spotify.com/track/47TMxkW5qIPFTEKqbFWh0i"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Revelation Album",
         "url": "https://open.spotify.com/album/3UfVHu4IjvLbkyVljDTNy4"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 595315,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6HGO5S83wWMNxszS28zx8x"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Song of Answers (Spirits Must Obey)",
-        "url": "https://open.spotify.com/album/6iLpI8vsGEnpCyEzTYRAuV"
-      },
-      "artists": [
-        {
-          "name": "Mr M & Revelation",
-          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
-        }
-      ],
-      "duration_ms": 668238,
-      "name": "Song of Answers (Spirits Must Obey)",
-      "url": "https://open.spotify.com/track/47TMxkW5qIPFTEKqbFWh0i"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "The Gospel of the Kingdom",
-        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 536024,
-      "name": "At All Cost",
-      "url": "https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Eze Mmuo",
         "url": "https://open.spotify.com/album/6HYR6TCB7BypDFHryf87Kn"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 333740,
       "name": "Eze Mmuo",
       "url": "https://open.spotify.com/track/4Ja1oWQdJqXZ35ZZ1GAdua"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "The Gospel of the Kingdom",
+        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 536024,
+      "name": "At All Cost",
+      "url": "https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1129,26 +1129,6 @@
       "url": "https://open.spotify.com/track/5RpLdELXXOHsXHAp4ayLQ9"
     },
     {
-      "added_at": "2026-09-18 00:01:33",
-      "album": {
-        "name": "More Than Life (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a"
-      },
-      "artists": [
-        {
-          "name": "Tomi Favored",
-          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
-        },
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
-        }
-      ],
-      "duration_ms": 404749,
-      "name": "More Than Life (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "We Are Fire",
@@ -1171,6 +1151,26 @@
       "duration_ms": 380123,
       "name": "Awake",
       "url": "https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y"
+    },
+    {
+      "added_at": "2026-09-18 00:01:33",
+      "album": {
+        "name": "More Than Life (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 404749,
+      "name": "More Than Life (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Aye Ole",
-        "url": "https://open.spotify.com/album/2U0IrWZICHozN3wdBzaPqy"
-      },
-      "artists": [
-        {
-          "name": "Ucious Music",
-          "url": "https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa"
-        },
-        {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
-        }
-      ],
-      "duration_ms": 1380000,
-      "name": "Aye Ole",
-      "url": "https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "HEAVEN HAS COME",
         "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 378071,
       "name": "Kabiyesi",
       "url": "https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Aye Ole",
+        "url": "https://open.spotify.com/album/2U0IrWZICHozN3wdBzaPqy"
+      },
+      "artists": [
+        {
+          "name": "Ucious Music",
+          "url": "https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa"
+        },
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        }
+      ],
+      "duration_ms": 1380000,
+      "name": "Aye Ole",
+      "url": "https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1369,6 +1369,22 @@
       "url": "https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU"
     },
     {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Midnight Cry, Vol. 5 (Time-Out Of Fellowship)",
+        "url": "https://open.spotify.com/album/13PR6EewIISf4zGx9nuf48"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 2830889,
+      "name": "Midnight Cry, Vol. 5 (Time-Out Of Fellowship)",
+      "url": "https://open.spotify.com/track/7ikJDPDH1IDfxC3uroUw6k"
+    },
+    {
       "added_at": "2026-09-25 00:01:15",
       "album": {
         "name": "FIRE",
@@ -1387,34 +1403,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Midnight Cry, Vol. 5 (Time-Out Of Fellowship)",
-        "url": "https://open.spotify.com/album/13PR6EewIISf4zGx9nuf48"
+        "name": "Strings of Glory (Prayer Chant)",
+        "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
       },
       "artists": [
         {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
         }
       ],
-      "duration_ms": 2830889,
-      "name": "Midnight Cry, Vol. 5 (Time-Out Of Fellowship)",
-      "url": "https://open.spotify.com/track/7ikJDPDH1IDfxC3uroUw6k"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Deep Wells",
-        "url": "https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z"
-      },
-      "artists": [
-        {
-          "name": "Patience Adjei",
-          "url": "https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Elohim Adonai (Live)",
-      "url": "https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX"
+      "duration_ms": 320000,
+      "name": "I'm Available (Prayer Chant)",
+      "url": "https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u"
     }
   ],
   "unique_name": "Worship Chants",

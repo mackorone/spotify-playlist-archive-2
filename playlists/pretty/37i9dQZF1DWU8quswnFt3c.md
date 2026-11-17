@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with mindfreakk! from Thailand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,067 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,981 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [Almohada](https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Almohada](https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw) | 3:42 |
 | 29 | [隱痛](https://open.spotify.com/track/6U2ZB5NZTr5qHfVTSouaXD) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [重寫第一章](https://open.spotify.com/album/15RnFD9jAQj0z3ZFKBZzM6) | 3:32 |
 | 30 | [Danger](https://open.spotify.com/track/397C7dN58u7bEUBG7jD5JM) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Danger](https://open.spotify.com/album/1SUlBk5BgGheoAkEQIsgWF) | 3:28 |
-| 31 | [Aayi Teri Baat Mein](https://open.spotify.com/track/5QmM1gtD8wHYQuBFOUcrGy) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Aayi Teri Baat Mein](https://open.spotify.com/album/6UjCMR7x2WcwXK4ominJcN) | 3:04 |
+| 31 | [Keddab](https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Keddab](https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL) | 2:46 |
 | 32 | [December Forever](https://open.spotify.com/track/1lV0KkH0yn4nxdfxQUlOoy) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Everyday, Everything Is At Stake](https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj) | 2:38 |
 | 33 | [RUDE](https://open.spotify.com/track/1myezJ7Cty6YVRPa96penu) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [RUDE](https://open.spotify.com/album/6XfoImzNgOYzcLVp7ybzCz) | 2:44 |
-| 34 | [Keddab](https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Keddab](https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL) | 2:46 |
+| 34 | [Aayi Teri Baat Mein](https://open.spotify.com/track/5QmM1gtD8wHYQuBFOUcrGy) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Aayi Teri Baat Mein](https://open.spotify.com/album/6UjCMR7x2WcwXK4ominJcN) | 3:04 |
 | 35 | [Every Aching Minute](https://open.spotify.com/track/1mxFh0yxb2lZzqdy8jFseo) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartsong](https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G) | 4:51 |
 | 36 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
 | 37 | [Smoke](https://open.spotify.com/track/5IGQIUoXm7ZsMXUkHRIsMg) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Doves Came Home](https://open.spotify.com/album/6stW0BEOqA6F0Gi7inuzLS) | 4:37 |

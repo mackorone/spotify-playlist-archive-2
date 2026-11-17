@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-629 songs - 1 day 11 hr 43 min
+630 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [In My Life](https://open.spotify.com/track/2gGcCQt9wtPhaNHQi20hm5) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [In My Life](https://open.spotify.com/album/5oZEd7DEOSHVlLqvrZurla) | 1:56 | 2026-05-31 | 2026-07-02 |
 | [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 | 2025-12-01 | 2026-01-05 |
 | [In the Zone](https://open.spotify.com/track/4GQCB31mUj7IWjZWa2xyU6) | [Zoë Evans](https://open.spotify.com/artist/22WSFLmJCcJ6YvkfCaXWBo) | [In the Zone](https://open.spotify.com/album/5y5SUzLfH5GFst6dPosrZj) | 2:38 | 2026-02-08 |  |
+| [Indigo](https://open.spotify.com/track/7yrwz7QkYtNkntwUc0ei8q) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Indigo](https://open.spotify.com/album/6Ipsfviteblf4qjAgFCCYk) | 3:26 | 2026-11-16 |  |
 | [Infinity](https://open.spotify.com/track/6pPe9uz0EzSQ2bLeNyXimB) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Infinity](https://open.spotify.com/album/79hfXejPfxPxshntSaHAvA) | 3:10 | 2026-10-21 |  |
 | [Insolvent Love](https://open.spotify.com/track/5TMBHV3UPXiuaSA1oy2vxz) | [BONAHORA](https://open.spotify.com/artist/7iPRlF2QA4RRVLYWSArhbu), [Melisa Chao](https://open.spotify.com/artist/4l8Lziz8oaVTHc1v08gsTK) | [Insolvent Love](https://open.spotify.com/album/0OkCXDp010u6owuApBMxOt) | 4:04 | 2026-10-27 |  |
 | [Intenté Olvidarte](https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Intenté Olvidarte](https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje) | 3:47 | 2026-08-04 | 2026-10-14 |

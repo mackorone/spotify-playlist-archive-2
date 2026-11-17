@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 71414,
+  "num_followers": 71506,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avZTAAAAAAAIKSSI/Yq5qVPSUhDnLuCd",
+  "snapshot_id": "avj2AAAAAAAONcMol7NunacoMIobQOkO",
   "tracks": [
     {
       "added_at": null,
@@ -60,9 +60,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 277486,
-      "name": "Un Rayo De Luz",
-      "url": "https://open.spotify.com/track/4FglsPNvL4avF0MWJIeZm8"
+      "duration_ms": 220084,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0tTDmG5WqLVc1CPuvuL22Z"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 220084,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0tTDmG5WqLVc1CPuvuL22Z"
+      "duration_ms": 277486,
+      "name": "Un Rayo De Luz",
+      "url": "https://open.spotify.com/track/4FglsPNvL4avF0MWJIeZm8"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HABLAR DE TI (...)",
-        "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
+        "name": "ORO",
+        "url": "https://open.spotify.com/album/7a4RBuWd9xhAnrBAI2UJwB"
       },
       "artists": [
         {
@@ -305,8 +305,8 @@
         }
       ],
       "duration_ms": 218190,
-      "name": "HABLAR DE TI (...)",
-      "url": "https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf"
+      "name": "HABLAR DE TI (\u2026)",
+      "url": "https://open.spotify.com/track/24422mndvOz8pjeBfS7oh4"
     },
     {
       "added_at": null,

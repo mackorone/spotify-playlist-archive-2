@@ -3003,6 +3003,24 @@
     },
     {
       "album": {
+        "name": "Right To Let Me Go",
+        "url": "https://open.spotify.com/album/7x6X4BSq64zHYwB5IByaMq"
+      },
+      "artists": [
+        {
+          "name": "Fernando Daniel",
+          "url": "https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187899,
+      "name": "Right To Let Me Go",
+      "url": "https://open.spotify.com/track/2Ig5KPSdZInSEp8oji6OBn"
+    },
+    {
+      "album": {
         "name": "Son Of Spergy",
         "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
       },

@@ -4,7 +4,7 @@
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : DC
 
-249 songs - 7 hr 41 min
+250 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Ghost Unmasked \- Background Score](https://open.spotify.com/track/0wgOTeDbMblOxncPcXLCvf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:14 | 2022-07-08 | 2025-12-05 |
 | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/track/3yW4gZOr48Fy1DvGKDz2wj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/album/5RfVPpQcw0qYFS6I93s9gF) | 0:40 | 2023-08-04 | 2026-11-07 |
 | [Glimpse of Garudan](https://open.spotify.com/track/6IJ1L1EEsgLuRSa39DaAyc) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Garudan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5znc6AjRR30yU7gS55tWAl) | 2:04 | 2024-06-07 | 2024-11-08 |
-| [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/track/622DShHXxhC32wnAHbVpuK) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/album/4XnpLZbKAaScKfvFlRouQ1) | 0:42 | 2023-08-18 |  |
+| [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/track/622DShHXxhC32wnAHbVpuK) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/album/4XnpLZbKAaScKfvFlRouQ1) | 0:42 | 2023-08-18 | 2026-11-17 |
 | [Gumthalakadi Gala Gala](https://open.spotify.com/track/3CaQ7uPo5xOIFLXpL1HZLg) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Dragon \(Original Score\)](https://open.spotify.com/album/4J53sSdhRl5wA2qfw5AWy2) | 1:59 | 2025-03-24 |  |
 | [Hands Up](https://open.spotify.com/track/4odPneosxWn3w3XwuH6xpZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vettaiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Xw7XAQQwpsy9KfUnJTrHz) | 1:09 | 2024-10-14 |  |
 | [Harmony of Hearts \(From "Star"\)](https://open.spotify.com/track/5KAmIfKkq29SkMc9xw000b) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Harmony of Hearts \(From "Star"\)](https://open.spotify.com/album/2f6TZNRDwoCUT7e1wJbSfo) | 1:56 | 2023-12-11 | 2024-01-09 |
@@ -124,6 +124,7 @@
 | [Kaththi Theme… The Sword of Destiny](https://open.spotify.com/track/2oG1MFvSidBvZlMl4xnlVy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73reIsXqZ6MXQ0YrO8B983) | 1:01 | 2021-11-01 | 2023-03-12 |
 | [Kick Theme](https://open.spotify.com/track/2BFT2jy8PM6hJuegIg1CO2) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Kick Theme \(From "Kick"\)](https://open.spotify.com/album/2FwI9IJfPgZJynjvTwtCt5) | 2:36 | 2023-01-18 | 2023-01-21 |
 | [Kick Theme \(From "Kick"\)](https://open.spotify.com/track/1bts9A6cTbCvvWTzx5VS8h) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Kick Theme \(From "Kick"\) \- Single](https://open.spotify.com/album/5hPEWmXTxssIDurSN2lC8j) | 2:36 | 2023-01-18 | 2023-02-07 |
+| [Killin' 'em](https://open.spotify.com/track/1JVd8ynGbXhueJDT3admb0) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Scene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yoZ4Wjz3ZDxUBT9cQ5aBz) | 1:34 | 2026-11-16 |  |
 | [Kingpin Simon](https://open.spotify.com/track/4ad56VgrPjGQWoOFCGDQSe) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Coolie \(Original Background Score\)](https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8) | 1:18 | 2025-09-10 |  |
 | [Kokkarako](https://open.spotify.com/track/1jdestcFzmrUNefnpH1UaZ) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda DoubleX \(Original Score\)](https://open.spotify.com/album/5mOvkOWuNDJ4knaJFMHgRo) | 1:44 | 2024-05-15 | 2024-06-08 |
 | [Leader Stroke \- Instrumental](https://open.spotify.com/track/670fC877bDFyFRXnVcJiAj) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vLQ6c6JqndLdiUngPhNVe) | 2:23 | 2026-03-31 | 2026-06-25 |

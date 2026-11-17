@@ -604,7 +604,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 141426,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B"
@@ -802,6 +802,28 @@
       "duration_ms": 152400,
       "name": "Blah Blah Blah - Zany Remix",
       "url": "https://open.spotify.com/track/6Q9tqkD827DTEsAySwW0og"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/4A0fZSUurYT9tSooCCEw4B"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        },
+        {
+          "name": "Refold",
+          "url": "https://open.spotify.com/artist/02oOp0dwF69I6v2scWE7uY"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178875,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1t3mYXwkwewpaQDUAYT8xU"
     },
     {
       "album": {
@@ -3742,7 +3764,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 163776,
       "name": "Love Generation",
       "url": "https://open.spotify.com/track/3kxH84wDmwYJQQIs9e6bCN"
@@ -5369,6 +5391,28 @@
     },
     {
       "album": {
+        "name": "Tainted Love",
+        "url": "https://open.spotify.com/album/5JyJ1D03s6nOukcA73eeJ6"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Dougal",
+          "url": "https://open.spotify.com/artist/4Dn8TwLoOeWtznIg0LLWFL"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/4Tz0wC60raMVAbRpXVByvA"
+    },
+    {
+      "album": {
         "name": "TAKE CONTROL",
         "url": "https://open.spotify.com/album/4uJSudgTRYbyjEyeqMp3CV"
       },
@@ -5902,7 +5946,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 188129,
       "name": "Watching Me",
       "url": "https://open.spotify.com/track/7oPrKHrhiQ97K8ro81Mzne"
@@ -6148,6 +6192,28 @@
       "duration_ms": 165000,
       "name": "Wonderful Days - Hardstyle Edit",
       "url": "https://open.spotify.com/track/6LrgA0g5A9jjRJFH6nKRnn"
+    },
+    {
+      "album": {
+        "name": "WORK!",
+        "url": "https://open.spotify.com/album/0qgkOLybvh0tiGxyEz0TX3"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "WORK!",
+      "url": "https://open.spotify.com/track/1PEnlGgCV27weSdrCubadg"
     },
     {
       "album": {

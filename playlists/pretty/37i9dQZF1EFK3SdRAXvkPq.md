@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 128 | [CÓDIGOS](https://open.spotify.com/track/273PsBfvMreiD2TXyKOR06) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 2:58 |
 | 129 | [El Pin](https://open.spotify.com/track/0yr5n9BiA7QoibcCx7eJj8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:00 |
 | 130 | [Se De y Se Da](https://open.spotify.com/track/25NbsKV6Dgx29NF4j0pvLk) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:11 |
-| 131 | [A.B.C.](https://open.spotify.com/track/7uhjKlTO93EQa3JRLD46Kx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 2:23 |
-| 132 | [QUE TALENTO](https://open.spotify.com/track/2b8UJ7l0lF2vQrWwPO8eFM) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Farruko: RESURGE](https://open.spotify.com/album/2V63kYKFsaIVIVsi99TgGL) | 2:59 |
+| 131 | [QUE TALENTO](https://open.spotify.com/track/2b8UJ7l0lF2vQrWwPO8eFM) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Farruko: RESURGE](https://open.spotify.com/album/2V63kYKFsaIVIVsi99TgGL) | 2:59 |
+| 132 | [A.B.C.](https://open.spotify.com/track/7uhjKlTO93EQa3JRLD46Kx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 2:23 |
 | 133 | [La Glock Remix \(feat\. Yandel\)](https://open.spotify.com/track/2vkP9YxIShIv2BnpxWeK09) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Rapeton Approved](https://open.spotify.com/artist/2Tdsb1uIuHJrG5SllTLyCw), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Glock Remix \(feat\. Yandel\)](https://open.spotify.com/album/5ICLoIxxGde3n3lvyAqoQx) | 3:19 |
 | 134 | [PALOMINO](https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [PALOMINO](https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ) | 2:14 |
 | 135 | [Borracho Y Loco](https://open.spotify.com/track/2R7sqvdlpFDH3Lm1JMjvQ2) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Borracho Y Loco](https://open.spotify.com/album/47pLgGfLbJiQUSwvPlxD8q) | 3:10 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 182 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 | 183 | [Bby Wow](https://open.spotify.com/track/3Spvhpwuve2sQVtNMwZKSU) | [Facu Sanchez](https://open.spotify.com/artist/06ZoIY0fIJCba5QICxblJG) | [Bby Wow](https://open.spotify.com/album/6OXQ6XF2mBdL7gyg9wHh94) | 2:15 |
 
-Snapshot ID: `AchxYAAAAABw56Wml6IFQOZybCSdTPkV`
+Snapshot ID: `Ach3eAAAAACVgcLAOC8Rx6IEE0I9P/6h`

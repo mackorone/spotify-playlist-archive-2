@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Original Banda El Lim\u00f3n De Salvador Liz\u00e1rraga \ud83d\udcf8",
-  "num_followers": 1296526,
+  "num_followers": 1296515,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -631,18 +631,22 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Para Morir Iguales",
-        "url": "https://open.spotify.com/album/5s2tw7VtMErMhiH7alRDBl"
+        "name": "La M\u00e1quina del Tiempo",
+        "url": "https://open.spotify.com/album/0aLytLEELAi75gqvjsynmA"
       },
       "artists": [
         {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
         }
       ],
-      "duration_ms": 161666,
-      "name": "Para Morir Iguales",
-      "url": "https://open.spotify.com/track/2ITg39ACpx9PBgzEAEjznQ"
+      "duration_ms": 186021,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/6sGbcuvaz15btt3RupkRCO"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -687,22 +691,18 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "La M\u00e1quina del Tiempo",
-        "url": "https://open.spotify.com/album/0aLytLEELAi75gqvjsynmA"
+        "name": "Para Morir Iguales",
+        "url": "https://open.spotify.com/album/5s2tw7VtMErMhiH7alRDBl"
       },
       "artists": [
         {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        },
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
         }
       ],
-      "duration_ms": 186021,
-      "name": "Ya Es Muy Tarde",
-      "url": "https://open.spotify.com/track/6sGbcuvaz15btt3RupkRCO"
+      "duration_ms": 161666,
+      "name": "Para Morir Iguales",
+      "url": "https://open.spotify.com/track/2ITg39ACpx9PBgzEAEjznQ"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Creen?",
-        "url": "https://open.spotify.com/album/77EGKu0NGf5aZOeWZoNLou"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 179705,
-      "name": "\u00bfY Qu\u00e9 Creen?",
-      "url": "https://open.spotify.com/track/4Rh03mcGdtsRZxizPAYUGE"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Puras Pa Pistear Con La Clave De Oro",
         "url": "https://open.spotify.com/album/59kZC16MCEVPCmF4SGBcgi"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 202666,
       "name": "El Cholo",
       "url": "https://open.spotify.com/track/4htxL7Hm8JhzHf2ZFXijRR"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Creen?",
+        "url": "https://open.spotify.com/album/77EGKu0NGf5aZOeWZoNLou"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 179705,
+      "name": "\u00bfY Qu\u00e9 Creen?",
+      "url": "https://open.spotify.com/track/4Rh03mcGdtsRZxizPAYUGE"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Coraz\u00f3n De Piedra",
-        "url": "https://open.spotify.com/album/5ZjZuZ3vysQ0Poax9NZzeC"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 222910,
-      "name": "Coraz\u00f3n De Piedra",
-      "url": "https://open.spotify.com/track/1LQvFiQcst4HSUeeaqgVxW"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Rancheras Bonitas",
         "url": "https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "El Regreso",
-        "url": "https://open.spotify.com/album/5qXGEEfjISmUrpo8LQu1Z1"
+        "name": "Coraz\u00f3n De Piedra",
+        "url": "https://open.spotify.com/album/5ZjZuZ3vysQ0Poax9NZzeC"
       },
       "artists": [
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
         }
       ],
-      "duration_ms": 154411,
-      "name": "Besame",
-      "url": "https://open.spotify.com/track/3VlRPRxPMJTL7wCHYB3j0X"
+      "duration_ms": 222910,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/1LQvFiQcst4HSUeeaqgVxW"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -999,6 +983,22 @@
       "duration_ms": 177062,
       "name": "Ella Jura",
       "url": "https://open.spotify.com/track/0upr9VmKhkxzdKZhYzQBzS"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "El Regreso",
+        "url": "https://open.spotify.com/album/5qXGEEfjISmUrpo8LQu1Z1"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 154411,
+      "name": "Besame",
+      "url": "https://open.spotify.com/track/3VlRPRxPMJTL7wCHYB3j0X"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "La Tendr\u00e9 Que Olvidar",
-        "url": "https://open.spotify.com/album/2gSjwvm8bv3dtuSjndOYec"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 241584,
-      "name": "La Tendr\u00e9 Que Olvidar",
-      "url": "https://open.spotify.com/track/3lvWyePXS1f6gCaWWr2S8m"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "El Mentecato",
         "url": "https://open.spotify.com/album/7rszyGkJC8ZIu1Rk0JqD84"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 160560,
       "name": "El Mentecato",
       "url": "https://open.spotify.com/track/32BdLx75D0ktRkpHDTHfD2"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "La Tendr\u00e9 Que Olvidar",
+        "url": "https://open.spotify.com/album/2gSjwvm8bv3dtuSjndOYec"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 241584,
+      "name": "La Tendr\u00e9 Que Olvidar",
+      "url": "https://open.spotify.com/track/3lvWyePXS1f6gCaWWr2S8m"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Me Vas a Perder",
-        "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "Me Vas a Perder",
-      "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "\u00a1Que Viva Antonio Aguilar!",
         "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 176481,
       "name": "Que Se Te Quite Ese Orgullo (4 Meses)",
       "url": "https://open.spotify.com/track/5kpSQO55qQkAcq244ciORm"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "Me Vas a Perder",
+        "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "Me Vas a Perder",
+      "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Se Alquila Un Borracho",
-        "url": "https://open.spotify.com/album/6vUpynaVlNRZE0VksDkdDH"
-      },
-      "artists": [
-        {
-          "name": "Banda Todo Terreno",
-          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
-        }
-      ],
-      "duration_ms": 234771,
-      "name": "Se Alquila Un Borracho",
-      "url": "https://open.spotify.com/track/152lLev3LvXuyprG2OCwzm"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Las Reglas Del Juego",
         "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 171886,
       "name": "Quisiera Rozar Tu Piel",
       "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "Se Alquila Un Borracho",
+        "url": "https://open.spotify.com/album/6vUpynaVlNRZE0VksDkdDH"
+      },
+      "artists": [
+        {
+          "name": "Banda Todo Terreno",
+          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+        }
+      ],
+      "duration_ms": 234771,
+      "name": "Se Alquila Un Borracho",
+      "url": "https://open.spotify.com/track/152lLev3LvXuyprG2OCwzm"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Solo Yo y Mi Almohada",
-        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
-      },
-      "artists": [
-        {
-          "name": "Banda Todo Terreno",
-          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
-        }
-      ],
-      "duration_ms": 215609,
-      "name": "Solo Yo y Mi Almohada",
-      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "\u00bfC\u00f3mo Se Te Ocurre?",
         "url": "https://open.spotify.com/album/2DesGVtJPsyBhk2fhk8Ich"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 219922,
       "name": "\u00bfC\u00f3mo Se Te Ocurre?",
       "url": "https://open.spotify.com/track/0DFEiu7V6q0Z4mYAOtkN8v"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "Solo Yo y Mi Almohada",
+        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
+      },
+      "artists": [
+        {
+          "name": "Banda Todo Terreno",
+          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+        }
+      ],
+      "duration_ms": 215609,
+      "name": "Solo Yo y Mi Almohada",
+      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/5xND24q3iBRRPfKcMcW7P8"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        }
-      ],
-      "duration_ms": 176576,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/6uPh0uR7u8Fsyy60YGp6RO"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Cari\u00f1ito (Live)",
         "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 230933,
       "name": "Cari\u00f1ito - Live",
       "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/5xND24q3iBRRPfKcMcW7P8"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 176576,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/6uPh0uR7u8Fsyy60YGp6RO"
     },
     {
       "added_at": "2026-11-13 23:25:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102 likes - 87 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 103 likes - 87 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 86 | [Hotter](https://open.spotify.com/track/7o6Qh6jSlHDRmV4eBj5Y4j) | [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs) | [The Guest Room](https://open.spotify.com/album/374DcR4mOsUutxymdtqySx) | 2:55 |
 | 87 | [Shut Up & Ride](https://open.spotify.com/track/1SDGjWhZlW3hcv6XY5bwxd) | [Heartland Cast](https://open.spotify.com/artist/4Y45fGW9ShnqqJiKltapow), [Heart Sisters](https://open.spotify.com/artist/2nC9b7wRpXYykitNPnWSdI) | [Heartland \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0Tt6NOXCCk16UP4Yqj0GiL) | 3:02 |
 
-Snapshot ID: `AchxagAAAABbIxXcQUhTOoKtPw1vkQHY`
+Snapshot ID: `Ach3ggAAAABKViclDW/OcGxwPF8uruJO`

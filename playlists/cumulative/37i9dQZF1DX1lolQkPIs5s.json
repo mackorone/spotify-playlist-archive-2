@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 171040,
       "name": "How Far I'll Go - From \"Moana\"/Japanese Soundtrack Version",
       "url": "https://open.spotify.com/track/3xncn9sZJWHskFtx2MG012"
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 135093,
       "name": "Jamboree Mickey! Evolution - from \"Dockside Splash Remix\"",
       "url": "https://open.spotify.com/track/7HfIHcB2W3TZawUdR2rlqp"
@@ -4443,6 +4443,24 @@
     },
     {
       "album": {
+        "name": "Start of Something New (Lilas Version)",
+        "url": "https://open.spotify.com/album/6r3mDthp0p2tGb8hK3jX1m"
+      },
+      "artists": [
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101532,
+      "name": "Start of Something New - Lilas Version",
+      "url": "https://open.spotify.com/track/7bFLr8QfQuSG1wVIt0QHVO"
+    },
+    {
+      "album": {
         "name": "Starting Now",
         "url": "https://open.spotify.com/album/2kn84J3BO4wj96uMaWKAnN"
       },
@@ -5162,7 +5180,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 86419,
       "name": "Toys Wondrous Christmas! - Edited Version",
       "url": "https://open.spotify.com/track/6coxrkwb9w65GeSwrQYPKW"
@@ -5704,10 +5722,28 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 265946,
       "name": "Welcome to Christmas - 2024",
       "url": "https://open.spotify.com/track/4efuWaI8TXsKdDDEN85iwc"
+    },
+    {
+      "album": {
+        "name": "Kaho Shimada sings Disney",
+        "url": "https://open.spotify.com/album/541VSuFD3uKr3rfZ3cJQH2"
+      },
+      "artists": [
+        {
+          "name": "Kaho Shimada",
+          "url": "https://open.spotify.com/artist/5f3bK61MPrJ94WSj4RrRHi"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264880,
+      "name": "Welcome to Christmas - Japanese Version/from \"Candlelight Reflections\"",
+      "url": "https://open.spotify.com/track/1D2rcAdB753MufUujNukRI"
     },
     {
       "album": {

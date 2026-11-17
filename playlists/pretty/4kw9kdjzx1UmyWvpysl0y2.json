@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122102,
+  "num_followers": 122099,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV6rX+jpUbUkj13AXQVgRIdRl0lC0c",
+  "snapshot_id": "AAAV603SSV1ld9JqgeSW2UTBRxS008r/",
   "tracks": [
+    {
+      "added_at": "2026-11-16 15:52:26",
+      "album": {
+        "name": "Monstercat Instinct Selections 04",
+        "url": "https://open.spotify.com/album/4g6Ket9aLHnL4d7XfTyIND"
+      },
+      "artists": [
+        {
+          "name": "CLV",
+          "url": "https://open.spotify.com/artist/5H5wUF8cjtn3erNzcUZUbC"
+        },
+        {
+          "name": "Oscar Yuan",
+          "url": "https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv"
+        },
+        {
+          "name": "luminate",
+          "url": "https://open.spotify.com/artist/4tYnunRmw2jHIA863S9Vqv"
+        }
+      ],
+      "duration_ms": 255790,
+      "name": "Signal Code",
+      "url": "https://open.spotify.com/track/2yQlWbBnFoNiLeRfCLy57v"
+    },
     {
       "added_at": "2026-11-13 14:56:40",
       "album": {

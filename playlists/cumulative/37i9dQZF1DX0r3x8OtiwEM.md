@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-816 songs - 3 day 3 hr 12 min
+817 songs - 3 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Not in Love](https://open.spotify.com/track/0nM9bf0YOtYcBeUtwEp68x) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Not in Love](https://open.spotify.com/album/2ElxofAJV6GfNY2UWYqiuv) | 5:43 | 2019-09-27 | 2022-01-08 |
 | [Nothing \(feat\. Adna\)](https://open.spotify.com/track/4egeaqqFbTFm8heiYXbsLn) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [Until We Meet Again](https://open.spotify.com/album/0BHheZxTmxC2fZh6mbCVx2) | 2:58 | 2026-01-26 | 2026-03-31 |
 | [Nothing Matters](https://open.spotify.com/track/1qhGOIQnycI2sYkLEa4Bhl) | [Jiggler](https://open.spotify.com/artist/36N6pddt92f5CEbbbNGqAE) | [Escape](https://open.spotify.com/album/65CqZqsPIOTeP8Qh6SboVI) | 5:54 | 2019-08-06\* | 2020-05-30 |
+| [Notorious Thugs \(Solomun Remix\)](https://open.spotify.com/track/3MbTgMRqMf7vHMvegoyAjy) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Notorious Thugs \(Solomun Remix\)](https://open.spotify.com/album/278H2vPwRurZocliiFluqy) | 3:56 | 2026-11-13 |  |
 | [Nova](https://open.spotify.com/track/2ZNAmdQfr8yDjoHJOUxFte) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Nova](https://open.spotify.com/album/1zoiCco8YMpb9AeIuJWo4c) | 4:00 | 2019-09-13 | 2020-06-05 |
 | [Now Here No Where](https://open.spotify.com/track/6RghttTzB1OsbSEDuNfvSW) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [While Waiting For Something To Care About / Now Here No Where](https://open.spotify.com/album/0CNv7rjS4MtaFWrCUtgDaU) | 5:46 | 2020-09-11 | 2022-04-19 |
 | [Oblivion](https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Thermal / Oblivion](https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl) | 3:49 | 2021-06-06 | 2023-04-29 |
@@ -589,7 +590,7 @@
 | [Revelations \- Dub Mix](https://open.spotify.com/track/3OEq4bTpC8lakFEwQhKhGa) | [Stan Kolev](https://open.spotify.com/artist/6MzHMxgYcbj6ue5w9pbNp9), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [Revelations](https://open.spotify.com/album/3qmNkcdFtEfqfMVS7oaEvw) | 7:32 | 2019-09-06 | 2020-01-04 |
 | [Revived](https://open.spotify.com/track/20LhXKgCy3ymdrPwwx27AY) | [IRA \(GER\)](https://open.spotify.com/artist/0Cw433VO1ZEaD8Jmq5lZwk) | [Revived](https://open.spotify.com/album/5T712jvqP0OB6e8GMHErCD) | 6:09 | 2021-06-24 | 2022-07-22 |
 | [Rhy](https://open.spotify.com/track/21kTLPrFYH8KuxdJvmvYXK) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Rhy](https://open.spotify.com/album/1LhOlDYuQtBpIffK1DT7Mm) | 7:20 | 2019-11-10 | 2020-10-21 |
-| [Ride](https://open.spotify.com/track/2DimMk00BsDm19bbxTzY03) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Petrichor](https://open.spotify.com/album/2lti3xxEJ9Yta59kUAq0Eg) | 3:46 | 2025-11-14 |  |
+| [Ride](https://open.spotify.com/track/2DimMk00BsDm19bbxTzY03) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Petrichor](https://open.spotify.com/album/2lti3xxEJ9Yta59kUAq0Eg) | 3:46 | 2025-11-14 | 2026-11-17 |
 | [Rise](https://open.spotify.com/track/2T6HSzlpifC3xI3KrGH5qW) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Rise](https://open.spotify.com/album/70DoinQcYKdnaWSIxpQP3F) | 6:40 | 2020-04-15 | 2020-08-08 |
 | [Risky Business](https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Risky Business](https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k) | 5:20 | 2020-10-03 | 2022-10-01 |
 | [Rivers and Homes Retake](https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ) | [Rivers and Homes Retake](https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD) | 4:25 | 2026-05-01 | 2026-10-28 |

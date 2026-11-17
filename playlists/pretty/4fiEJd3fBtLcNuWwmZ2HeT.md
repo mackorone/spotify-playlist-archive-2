@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Adicta a mi novia
 
-[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 527 songs - 1 day 6 hr 20 min
+[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 528 songs - 1 day 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -535,5 +535,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 525 | [『Madly in Love』](https://open.spotify.com/track/5R0swKDPxyCmTsRSNqZQrR) | [DaTuRa\-ダチュラ\-](https://open.spotify.com/artist/7uSLBKFHe2lShA2ywLyKoB) | [『Grimm’s Garden』](https://open.spotify.com/album/29jMGw1ZHzedANQBXyjoZU) | 2:11 |
 | 526 | [エル・タンゴ・エゴイスタ \(feat\. 巡音ルカ&KAITO\)](https://open.spotify.com/track/1iuuQSwjFKveKI8mFGIRkA) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I), [KAITO](https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2) | [カドワナルカ＝ドロップゾンデ](https://open.spotify.com/album/4oBaHiA1TJxv9fmZ1kjZyI) | 3:15 |
 | 527 | [LOSTRUST \(feat\. Yi Xi\)](https://open.spotify.com/track/1kkdsilbjUuuHZMHqUvn5o) | [GGPRM](https://open.spotify.com/artist/6veKk0BLOtQRlTArMf247p), [Yi Xi](https://open.spotify.com/artist/0wMM1e0cn0HAMWeVxkQc9T) | [LOSTRUST \(feat\. Yi Xi\)](https://open.spotify.com/album/5hu3eJlZVZL7zhN4YEqgDh) | 1:32 |
+| 528 | [Splitter Girl](https://open.spotify.com/track/0kAQ0bGcee2YyzM4C3a3FV) | [weevildoing](https://open.spotify.com/artist/5zwqiROc7gBVY5Xx2sf2Tn), [SeeU](https://open.spotify.com/artist/1mao2cTeJSvu5ufNV2CtdR) | [Splitter Girl](https://open.spotify.com/album/2uocSKWR7VZhwbZx9BknfH) | 3:10 |
 
-Snapshot ID: `AAAKjJ/KnQYbUJRq9oq0HhMUsCsP+SbJ`
+Snapshot ID: `AAAKjaG86cO0mSFyVAfSWGQzQ2CE2pxG`

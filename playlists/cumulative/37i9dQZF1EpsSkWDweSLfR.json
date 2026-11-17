@@ -638,7 +638,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
@@ -1000,6 +1000,28 @@
       "duration_ms": 220306,
       "name": "Better Than Revenge (Taylor's Version)",
       "url": "https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58"
+    },
+    {
+      "album": {
+        "name": "BFF4L",
+        "url": "https://open.spotify.com/album/6B5342B1G89XZDE5SHtifl"
+      },
+      "artists": [
+        {
+          "name": "holottacheese",
+          "url": "https://open.spotify.com/artist/37Nev24TbRvZdcymARiXwh"
+        },
+        {
+          "name": "MULA",
+          "url": "https://open.spotify.com/artist/1UngQ5c1KLpmiCtAsytimG"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93544,
+      "name": "BFF4L",
+      "url": "https://open.spotify.com/track/4X5ehjVxyaUhdt3dYEldDK"
     },
     {
       "album": {
@@ -5156,7 +5178,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-17",
       "duration_ms": 348333,
       "name": "Holding Out for a Hero - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9"

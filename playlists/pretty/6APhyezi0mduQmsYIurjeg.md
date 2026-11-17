@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 618 songs - 1 day 13 hr 27 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 628 songs - 1 day 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -626,5 +626,15 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 616 | [Como Yo No Hay 2](https://open.spotify.com/track/3K5TOXm4QzeFXVgkkllvMq) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn), [Yaiza San Martín](https://open.spotify.com/artist/6QipDbAuBORy8OPNzjI8tE) | [Como Yo No Hay 2](https://open.spotify.com/album/7f6EWxdmRQfsv3WJFgUHEr) | 3:52 |
 | 617 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 |
 | 618 | [Say](https://open.spotify.com/track/3CHCkuE8GGQnvMv7rELd0e) | [Oliver Ycaro](https://open.spotify.com/artist/5W6ObMrqK1vr0O5sgooyIs) | [Say](https://open.spotify.com/album/4ufVm71zH8Z2apbGe3mvKP) | 3:08 |
+| 619 | [All and More](https://open.spotify.com/track/1ngiHL22pGr1hxckcrRRnt) | [The New Black Diamonds](https://open.spotify.com/artist/3n2wigIgJwLFRgfP3ipE67) | [All and More](https://open.spotify.com/album/5jcPWRUedaw9e7mbUF40HH) | 3:48 |
+| 620 | [ハイウェイ \- Mega Man X Highway Vocal Version](https://open.spotify.com/track/1Mqk9XNrbhmPF9TERthRRO) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [ハイウェイ \(Mega Man X Highway Vocal Version\)](https://open.spotify.com/album/5fATz88iOKhMOwQcysyPH1) | 3:48 |
+| 621 | [Death by Hangin' \(World War II\)](https://open.spotify.com/track/7geLdlBvFZY2KuhmOiwuAM) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:01 |
+| 622 | [Sucks To Be You](https://open.spotify.com/track/69wZ2R4xDAfuYnjUxLo3Wa) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Cancon Classics](https://open.spotify.com/album/1nC2gULeRguFzujVRH8IUG) | 3:13 |
+| 623 | [Damnation](https://open.spotify.com/track/6qngy0jHZBM489p6WIYFJq) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Hail Saturn / Damnation](https://open.spotify.com/album/2b2T6BtljYWoiPKhtfPEiD) | 2:36 |
+| 624 | [Rise Up](https://open.spotify.com/track/1QHT7qRWUUvmlmTPdJt3nM) | [Afonso](https://open.spotify.com/artist/01H25BZ63LTbniabPgRvx3) | [Rise Up](https://open.spotify.com/album/3sLSAcYpcDJ9mafMoQzABN) | 4:21 |
+| 625 | [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 |
+| 626 | [Ochenta Veinte](https://open.spotify.com/track/3YQdsZ4SudtJpSBPqDegVd) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 4:14 |
+| 627 | [Long Walk Home](https://open.spotify.com/track/0THpAKif54ZY03WA93YQHe) | [Colider](https://open.spotify.com/artist/69s9BHfKknFYjpRwml8BAf) | [Long Walk Home](https://open.spotify.com/album/0axMqYmSod8cxl64QQoBHE) | 3:38 |
+| 628 | [Cold Little Feelings](https://open.spotify.com/track/2Nc5TocmZjZU4RwnfUEauE) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Cold Little Feelings](https://open.spotify.com/album/484muB9x6pL29ETmDnYXXL) | 4:05 |
 
-Snapshot ID: `AAADABduf6gVdMg63UQ2PFxDOq95Nwh5`
+Snapshot ID: `AAADCnUyfdwKqJmrDFtr86qhfMW6/zS6`

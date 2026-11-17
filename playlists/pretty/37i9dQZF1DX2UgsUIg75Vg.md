@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: LAYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,364,344 likes - 260 songs - 13 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364,308 likes - 260 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 146 | [Because Of You](https://open.spotify.com/track/28fPjkRsnNktx2qbJxkLPe) | [REMI](https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2) | [Fade To BLUE](https://open.spotify.com/album/3eIxifbzVKzLqJRdNAbTrJ) | 2:18 |
 | 147 | [Always Be Mine \(feat\. Jordan Ward\)](https://open.spotify.com/track/1lOZSJPpreVaSCmP5M4ZjW) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Beard](https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB) | 3:42 |
 | 148 | [Homegrown \(feat\. Blxst\)](https://open.spotify.com/track/4s0tZBDviWiawHu8XlYXcJ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Homegrown \(feat\. Blxst\)](https://open.spotify.com/album/2JTsVy8S2Tdk9YB82nF7RN) | 2:51 |
-| 149 | [SETTLE](https://open.spotify.com/track/7ulFPy4VMUEYnC0c2vYlZm) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94), [Jordan Patrick](https://open.spotify.com/artist/6RNwpkHO4dnMjaqz4F2Fkt) | [RHYTHM & MELODY](https://open.spotify.com/album/5pNI5yBir20ciWubOiQlDK) | 4:38 |
+| 149 | [SETTLE](https://open.spotify.com/track/7ulFPy4VMUEYnC0c2vYlZm) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [RHYTHM & MELODY](https://open.spotify.com/album/5pNI5yBir20ciWubOiQlDK) | 4:38 |
 | 150 | [Sweet n’ Sour](https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Sweet n’ Sour](https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh) | 2:37 |
 | 151 | [Endlessly Waiting](https://open.spotify.com/track/1EnFnuMg7nRXdQYqnkOpNe) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Endlessly Waiting / The Reason](https://open.spotify.com/album/5ffrJDdRb2XjsphU3OxZRH) | 4:40 |
 | 152 | [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [is it cool? \(feat\. SZA\)](https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW) | 2:54 |

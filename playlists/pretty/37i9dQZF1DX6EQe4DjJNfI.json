@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Maui",
-  "num_followers": 192325,
+  "num_followers": 192336,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO3aah7msaZhiyaIxs0JyfeIjjkg",
+  "snapshot_id": "AAAAAAQne/LF6/60CcHx511wZxRVZ7UD",
   "tracks": [
     {
       "added_at": "2026-11-06 16:01:03",
@@ -607,6 +607,26 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Sem Ponto e Sem V\u00edrgula",
+        "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 201532,
+      "name": "Sem Ponto e Sem V\u00edrgula",
+      "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/7vnAVhIGxgm7V2O6Fq3qTT"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 163213,
       "name": "Nem Pensar",
       "url": "https://open.spotify.com/track/6716041U8Mo0R7ELV2fEfq"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Sem Ponto e Sem V\u00edrgula",
-        "url": "https://open.spotify.com/album/0KZyWSZV39Lv7VMcopSyuU"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 201532,
-      "name": "Sem Ponto e Sem V\u00edrgula",
-      "url": "https://open.spotify.com/track/6meqR7kOgsmVnkTXkfcl63"
     },
     {
       "added_at": "2026-11-06 16:01:03",
