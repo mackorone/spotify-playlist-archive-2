@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  DJ Tunez, Solana, Patoranking, Wande Coal,  Sarkodie, Zlatan,  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,499 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,550 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 70 | [WINDOW II](https://open.spotify.com/track/58ifIpt51DsJgzDxYk1857) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [OctobersRich](https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WINDOW II](https://open.spotify.com/album/1RHRDyu428st4zevEeD2tM) | 1:56 |
 | 71 | [One Round](https://open.spotify.com/track/0WykFoS1kA2oMy5ygrjQGN) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Premium Emf](https://open.spotify.com/artist/5BmZir5tPxJuSDc0QkfaPa) | [One Round](https://open.spotify.com/album/090CD06EIVp8hqDW8tcas7) | 1:59 |
 | 72 | [Go Krazy](https://open.spotify.com/track/5EzzKne9DGHSGo4b2UCiA5) | [Boi Chase](https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb) | [Go Krazy](https://open.spotify.com/album/5pFai5HjHTlqjUOFjpdAbE) | 2:49 |
-| 73 | [IGBAYI](https://open.spotify.com/track/3sc1nMuxW7RxK57OrcV3u2) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q) | [IGBAYI](https://open.spotify.com/album/0w6JJVva2k8WqIY1FaUxCm) | 2:29 |
+| 73 | [IGBAYI](https://open.spotify.com/track/3sc1nMuxW7RxK57OrcV3u2) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q) | [IGBAYI](https://open.spotify.com/album/0w6JJVva2k8WqIY1FaUxCm) | 2:31 |
 | 74 | [Nwanyi](https://open.spotify.com/track/1Wzj9mYYwg3XQX9m9UF6o4) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR), [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Nwanyi](https://open.spotify.com/album/3RPnwuesCPf2V72CzxaQwx) | 3:06 |
 | 75 | [Banike \(Don Julio\)](https://open.spotify.com/track/1q5eE3iytjgJ2r7iYfywhz) | [Kya Lami](https://open.spotify.com/artist/4mp84zJLb1WRBqnfwMWigU), [De confident Dj](https://open.spotify.com/artist/5CfFtopS86r2liZuR8CLX6), [Thembiie Dee](https://open.spotify.com/artist/0UCohZIFo8OzEoysxr5K6Z), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Banike \(Don Julio\)](https://open.spotify.com/album/1BEutY5dFlan407Zk4Pq7H) | 2:32 |
 
-Snapshot ID: `AAAAADX4NiG0sE2JjC+p9jo1UsrJlD8c`
+Snapshot ID: `AAAAAMIDVoenyFWjePWxTjE4egeNqVYM`

@@ -3963,6 +3963,28 @@
     },
     {
       "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
+      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/0G2lKjGTYpcPlhnrRKK6R2"
       },
@@ -5150,6 +5172,24 @@
       "duration_ms": 202390,
       "name": "FYI",
       "url": "https://open.spotify.com/track/5Px94nagQ9C6WrklMCxVk1"
+    },
+    {
+      "album": {
+        "name": "Gentle",
+        "url": "https://open.spotify.com/album/4pCBag45vcTq2CEqC9OiWY"
+      },
+      "artists": [
+        {
+          "name": "Marnix Emanuel",
+          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205855,
+      "name": "Gentle",
+      "url": "https://open.spotify.com/track/6LIJrLuXNtZ8KRTJwpH3MQ"
     },
     {
       "album": {
@@ -12488,7 +12528,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 193766,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/1rPiYTqwFEgpIw9F1Anu0d"
@@ -15184,7 +15224,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 249049,
       "name": "The Brightest",
       "url": "https://open.spotify.com/track/76kuiwPVPJLlw2glwy5RvR"
@@ -16370,6 +16410,28 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "album": {
+        "name": "Carnaval De Luz",
+        "url": "https://open.spotify.com/album/07Q9bUJarYrFjhxofoenM0"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270285,
+      "name": "Torn (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/28voksbZPIhS2dJV6iLS1h"
     },
     {
       "album": {
@@ -18024,7 +18086,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 217319,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2uH4hNfqHqz9KqligJwQ66"

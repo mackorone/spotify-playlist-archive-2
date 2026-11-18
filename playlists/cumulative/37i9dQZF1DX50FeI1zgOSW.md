@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Prashob
 
-905 songs - 2 day 3 hr 5 min
+907 songs - 2 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Mama](https://open.spotify.com/track/1kBRm822ev9Vz8GWPlp2Jl) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv) | [Mama](https://open.spotify.com/album/66RmVpnMXxZoAvS60lje0i) | 3:26 | 2024-01-30 | 2024-05-21 |
 | [Mama Balayya \(ReinKarnation\)](https://open.spotify.com/track/3qr1r1ftRJB254AbJuVFKS) | [Kaushik Iyer](https://open.spotify.com/artist/0tcz5e3MX0tze3AN4S6rdq) | [Mama Balayya \(ReinKarnation\)](https://open.spotify.com/album/7zaP6r79WKwASV0AJUWnCC) | 2:24 | 2026-09-11 |  |
 | [Maman Ponnu](https://open.spotify.com/track/0v8a07HBZk9PbmHT8ztBGc) | [Anthakudi Ilayaraja](https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d), [Kumuthini Paandiyan](https://open.spotify.com/artist/1VsoLUjQgncpBJl8uC9aBD) | [Maman Ponnu](https://open.spotify.com/album/2UEz3g4j97gsxZZfm5Q6Xs) | 4:17 | 2026-08-04 | 2026-10-07 |
+| [MANADHAI MAYAKKUM MALARE](https://open.spotify.com/track/7n4Jk0v9qdxkhCP6CWEOio) | [Hari Raveendran](https://open.spotify.com/artist/5MSdNXVCcgwMAaUaopu6Kc), [Jim Jacob](https://open.spotify.com/artist/5v8uA2qLwl0591m6yJrgDc) | [MANADHAI MAYAKKUM MALARE](https://open.spotify.com/album/1lRxX3ZrlxIqWJNxrwcb9f) | 3:11 | 2026-11-17 |  |
 | [Manam](https://open.spotify.com/track/3kwDKXEkeK5ZwoYi83Svxa) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren \(From "Think Indie"\)](https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr) | 2:31 | 2025-09-17 | 2025-11-25 |
 | [Manam](https://open.spotify.com/track/78aq6l0X3srW5K7kHkrUrK) | [Sandhya Chari](https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X) | [Manam](https://open.spotify.com/album/1PjbUFaXW8HFuvYGwIwtdd) | 4:00 | 2023-09-01 | 2024-05-04 |
 | [Maname](https://open.spotify.com/track/1dhe3PICallkMWr9098yzp) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Maname](https://open.spotify.com/album/7ekJRzvF4WcSUNddETbXjm) | 2:26 | 2026-03-02 | 2026-05-10 |
@@ -794,6 +795,7 @@
 | [Unmai Kaadhale](https://open.spotify.com/track/5E9GzGPdM6ce16LEa3rE5C) | [Akash Justin](https://open.spotify.com/artist/5w4yb5ve75X4sQmDYDRp4r) | [Unmai Kaadhale](https://open.spotify.com/album/3UVQ9PpPogmEnJ0L0bI1wj) | 3:15 | 2025-07-22 | 2025-08-26 |
 | [Unna Paatha Naa](https://open.spotify.com/track/5Hymn39VBqYksIsd3mwtZX) | [Ritin Samuel](https://open.spotify.com/artist/2nL8a1g4WhOGOVkZtTWMEr), [Serene Thabita](https://open.spotify.com/artist/3aQDxrRtzFMMO8AJWXr8KW) | [Unna Paatha Naa](https://open.spotify.com/album/1sFYocQAHVa1IAs1tiHGxp) | 3:38 | 2026-03-14 | 2026-06-13 |
 | [Unna Pathen](https://open.spotify.com/track/1vzMSXTwhOSU8yTAPAhL53) | [Kutty](https://open.spotify.com/artist/4lGjzD05gTyFyYees76463) | [Unna Pathen](https://open.spotify.com/album/4uyzAqjOakQt6IZhc0l4uH) | 2:45 | 2024-09-13 | 2024-10-19 |
+| [Unnaale](https://open.spotify.com/track/3nBxIMK1Fhxc1sy2hQFBXG) | [Yohaan Manu](https://open.spotify.com/artist/50p9i74Tt33VevyIVyD0fO), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Unnaale](https://open.spotify.com/album/3qBVnm4r6PMQ2R3fob0pvS) | 3:22 | 2026-11-17 |  |
 | [Unnaaleyy](https://open.spotify.com/track/0y8gXXNL3aB1w8d3RCKae9) | [Saurav Srisan](https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup) | [Unnaaleyy](https://open.spotify.com/album/6cYhWi22Cq8svdToXnlBXl) | 2:23 | 2026-09-24 |  |
 | [Unnai Arindhen](https://open.spotify.com/track/0Ftrt53lcsdxMuEpKBOqUE) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Rashmi Anand](https://open.spotify.com/artist/3fiP4MnI0ghnBS61q1VK7T) | [Unnai Arindhen](https://open.spotify.com/album/3q0Hlndf5sExAByNRrMruK) | 3:01 | 2023-10-17 | 2023-12-12 |
 | [Unnale Nenjam](https://open.spotify.com/track/1wEtNow5yRDSDlAK9SRNrk) | [Surabhi Vimala](https://open.spotify.com/artist/03W0fDGDp3NuAgNUXjm6pT), [Hemanth Kumar MHD](https://open.spotify.com/artist/0FdT37rY4wTmIF4B8kPjpV) | [Unnale Nenjam](https://open.spotify.com/album/1KK8mV64cr5vxDTEl3Sp9t) | 4:16 | 2025-12-01 | 2025-12-04 |

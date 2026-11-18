@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[Nuvora](https://open.spotify.com/user/11141650175) - 550 likes - 67 songs - 3 hr 46 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 550 likes - 68 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,6 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 65 | [Trouble](https://open.spotify.com/track/2q0QGLGq7ffjwGSDP1ZtvQ) | [XB](https://open.spotify.com/artist/28IjAxX693wcxTsuHlQKP5) | [Unspoken](https://open.spotify.com/album/2ZOCC7mM21LYQxCJbRUGGE) | 2:48 |
 | 66 | [Only You](https://open.spotify.com/track/1to598ncuGEkEMBGNjRgNH) | [Nextwiz](https://open.spotify.com/artist/2gGbRpLBJdowgabVseT8T6) | [Only You](https://open.spotify.com/album/4L81XMSjIghfPIKWKyBUcL) | 2:24 |
 | 67 | [Aroma](https://open.spotify.com/track/2N0aP05rGVpXqclBZLkR3P) | [Surepass](https://open.spotify.com/artist/0Uq97aadinVaT4T9xuGJiJ) | [Aroma](https://open.spotify.com/album/1oVWhSfmNE436JCCyYI3kI) | 4:14 |
+| 68 | [Clean Lead](https://open.spotify.com/track/1ryD9G6qt5KWPcdhGGS691) | [Daniel Joseph Chiasson](https://open.spotify.com/artist/75rcoZN43VsmGiFeqewZnK) | [Clean Lead](https://open.spotify.com/album/4PP7j2VfZwT5Pwh5l4UVBW) | 2:19 |
 
-Snapshot ID: `AAACpu6lEb3yCdH8ZnPbINyLSqdk3rSU`
+Snapshot ID: `AAACp1pU9GYIRRHjCdaVrVTp1As7inKJ`

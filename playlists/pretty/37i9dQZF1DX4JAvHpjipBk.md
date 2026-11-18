@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Don Toliver, Fall Out Boy, 2hollis, Ella Langley, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,656,389 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,655,995 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Tulips](https://open.spotify.com/track/4DBuOW3dsfxnky8KqLKdRm) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [Tulips](https://open.spotify.com/album/3YMgvKKKeyS17ZYRWmu0u8) | 3:13 |
 | 100 | [Backseat](https://open.spotify.com/track/31KsU3qjA8eQ5Kh9YQ9Cqt) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [It all feels the same from afar](https://open.spotify.com/album/0Wj5EYtvHmqW0OC8gKtoVC) | 2:14 |
 
-Snapshot ID: `AAAAADntjn4b5LhbGPKGRN9iwqtywZHE`
+Snapshot ID: `AAAAANUsU92hFyWQvJWg6O2QKaKs2lVG`

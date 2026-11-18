@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Senna & Monique Smit
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,602 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,607 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [De Liefde Die blijft](https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh) | [José Sep](https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv) | [De Liefde Die blijft](https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8) | 2:52 |
 | 100 | [Hoef Niet Te Weten](https://open.spotify.com/track/6SyHRSC7vcJBljdt7iUGMP) | [Mike Oskam](https://open.spotify.com/artist/4h0EhiZy6kumY4jKmqWjBc) | [Hoef Niet Te Weten](https://open.spotify.com/album/6RAM0lEfcvVsTXar9BjEsX) | 2:51 |
 
-Snapshot ID: `AAAAAMPatO6uAZgCoEL+4/qE1YfU316t`
+Snapshot ID: `AAAAAAMGzPe/o0kqln4pN0WWmxufEAV3`

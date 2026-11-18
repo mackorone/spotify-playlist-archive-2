@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1933967,
+  "num_followers": 1934113,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJbl9i6wdj49ZalK7ZfLcmGWG++z",
+  "snapshot_id": "AAAAAHhxiN+Bczomk7E06U6eV1ndtGbu",
   "tracks": [
     {
       "added_at": "2026-11-04 21:33:49",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-11-04 21:33:49",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "The Artist In The Ambulance",
-      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
-    },
-    {
-      "added_at": "2026-11-04 21:33:49",
-      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 217524,
       "name": "Voices",
       "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
+    },
+    {
+      "added_at": "2026-11-04 21:33:49",
+      "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "The Artist In The Ambulance",
+      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
     },
     {
       "added_at": "2026-11-04 21:33:49",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-11-04 21:33:49",
       "album": {
-        "name": "Fast Times At Barrington High",
-        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
-      },
-      "artists": [
-        {
-          "name": "The Academy Is...",
-          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "About a Girl",
-      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
-    },
-    {
-      "added_at": "2026-11-04 21:33:49",
-      "album": {
         "name": "Never Hungover Again",
         "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 65000,
       "name": "Catalina Fight Song",
       "url": "https://open.spotify.com/track/2TqfK2N1kFoX7OySPCB7pQ"
+    },
+    {
+      "added_at": "2026-11-04 21:33:49",
+      "album": {
+        "name": "Fast Times At Barrington High",
+        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
+      },
+      "artists": [
+        {
+          "name": "The Academy Is...",
+          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "About a Girl",
+      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
     },
     {
       "added_at": "2026-11-04 21:33:49",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-11-04 21:33:49",
       "album": {
-        "name": "No Really, I'm Fine (Standard Version)",
-        "url": "https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj"
-      },
-      "artists": [
-        {
-          "name": "The Spill Canvas",
-          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "All over You",
-      "url": "https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6"
-    },
-    {
-      "added_at": "2026-11-04 21:33:49",
-      "album": {
         "name": "Never Hungover Again",
         "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 148120,
       "name": "Falling in Love Again",
       "url": "https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3"
+    },
+    {
+      "added_at": "2026-11-04 21:33:49",
+      "album": {
+        "name": "No Really, I'm Fine (Standard Version)",
+        "url": "https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj"
+      },
+      "artists": [
+        {
+          "name": "The Spill Canvas",
+          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "All over You",
+      "url": "https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6"
     },
     {
       "added_at": "2026-11-04 21:33:49",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-11-04 21:33:49",
       "album": {
-        "name": "Menos El Oso",
-        "url": "https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H"
-      },
-      "artists": [
-        {
-          "name": "Minus the Bear",
-          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
-        }
-      ],
-      "duration_ms": 215373,
-      "name": "Pachuca Sunrise",
-      "url": "https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO"
-    },
-    {
-      "added_at": "2026-11-04 21:33:49",
-      "album": {
         "name": "Scary Kids Scaring Kids",
         "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 261240,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
+    },
+    {
+      "added_at": "2026-11-04 21:33:49",
+      "album": {
+        "name": "Menos El Oso",
+        "url": "https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H"
+      },
+      "artists": [
+        {
+          "name": "Minus the Bear",
+          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
+        }
+      ],
+      "duration_ms": 215373,
+      "name": "Pachuca Sunrise",
+      "url": "https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO"
     },
     {
       "added_at": "2026-11-04 21:33:49",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-11-04 21:33:49",
       "album": {
-        "name": "Mean Everything To Nothing",
-        "url": "https://open.spotify.com/album/5piFSrg34mjWz2mprT1a4s"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 311440,
-      "name": "Shake It Out",
-      "url": "https://open.spotify.com/track/4oS1UEAjl1Fs2nCpOAbp9Q"
-    },
-    {
-      "added_at": "2026-11-04 21:33:49",
-      "album": {
         "name": "Forget What You Know",
         "url": "https://open.spotify.com/album/0kzHDUWg9XKx5ianlRedvu"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 219840,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/15VojnPQuAQleWQCBkcS5i"
+    },
+    {
+      "added_at": "2026-11-04 21:33:49",
+      "album": {
+        "name": "Mean Everything To Nothing",
+        "url": "https://open.spotify.com/album/5piFSrg34mjWz2mprT1a4s"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 311440,
+      "name": "Shake It Out",
+      "url": "https://open.spotify.com/track/4oS1UEAjl1Fs2nCpOAbp9Q"
     },
     {
       "added_at": "2026-11-04 21:33:49",

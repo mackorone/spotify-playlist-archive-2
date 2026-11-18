@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Vitor Kley
 
-1,020 songs - 2 day 3 hr 19 min
+1,021 songs - 2 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Baianidade Nagô](https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Baianidade Nagô](https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj) | 3:42 | 2024-07-19 | 2024-10-26 |
 | [Baila Comigo](https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Baila Comigo](https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H) | 3:06 | 2024-09-20 | 2025-06-28 |
 | [Balada do Amor Inabalável](https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Balada do Amor Inabalável](https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE) | 2:22 | 2024-02-02 | 2025-05-17 |
-| [BALANÇO](https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [BALANÇO](https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx) | 2:16 | 2026-03-27 |  |
+| [BALANÇO](https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [BALANÇO](https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx) | 2:16 | 2026-03-27 | 2026-11-18 |
 | [Barco de Papel](https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv), [Breno Duarte](https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG) | [Maré Alta](https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR) | 3:06 | 2025-07-11 | 2026-07-28 |
 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 | 2022-08-26 | 2023-01-28 |
 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
@@ -578,6 +578,7 @@
 | [Na Proa da Saudade](https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Gérbera + Na Proa da Saudade](https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH) | 3:36 | 2025-01-17 | 2026-04-11 |
 | [nada do que você falou](https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc) | [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [nada do que você falou](https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU) | 2:33 | 2024-05-31 | 2026-01-24 |
 | [Nada vai ser como antes](https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Tudo que deu pra fazer em um ano](https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I) | 2:11 | 2025-12-12 |  |
+| [Navio](https://open.spotify.com/track/7qzbZOrOhXz3V0H5uXFL8P) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [Navio](https://open.spotify.com/album/3uTPn1oRVyrY4aLFm9yCgg) | 3:02 | 2026-11-13 |  |
 | [Nem disse adeus](https://open.spotify.com/track/6zmHiJ4dRd98zrJMa4SQNK) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR), [bel cortez](https://open.spotify.com/artist/2cN632fv7idMPULWMs4hk9) | [Nem disse adeus](https://open.spotify.com/album/6YKViKUIrDHRzCEPvXQ0lc) | 2:19 | 2025-01-24 | 2025-02-01 |
 | [Nem Eu Me Entendo](https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Múltipla](https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2) | 2:41 | 2023-08-04 | 2023-11-25 |
 | [nem gosto tanto assim de você](https://open.spotify.com/track/7yYgj6JpLLCRhGzwSTpC00) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [nem gosto tanto assim de você](https://open.spotify.com/album/0CftRPVAJRuz5SQhliCvBd) | 3:07 | 2023-04-28 | 2023-07-08 |

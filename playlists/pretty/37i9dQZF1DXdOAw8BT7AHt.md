@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: PISS
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,002 likes - 127 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,018 likes - 127 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 126 | [Heel](https://open.spotify.com/track/06V7nGqOlvFBmmTiWiWKSV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD), [Puddle Splasher](https://open.spotify.com/artist/3fb4gi3qlazKZgBvm58fVS) | [Step Inside](https://open.spotify.com/album/7CewGXl8EQuJ1pHD3WpcSA) | 4:03 |
 | 127 | [Secret Weapon](https://open.spotify.com/track/2AZ2g4WyPEndkpx13dVf3X) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Secret Weapon](https://open.spotify.com/album/2aBfMRt4VzSIEUhMLkRd2b) | 2:52 |
 
-Snapshot ID: `AAAAAKt9FEPa4us39CGLXnhR3TgesEY4`
+Snapshot ID: `AAAAAKdXf2khr74DvtBTkotzx2xNqkHW`

@@ -1,12 +1,12 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: King Melrose",
-  "num_followers": 70819,
+  "num_followers": 70816,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAA23VOw1XQoj2yvy06TlWXfiiEW",
+  "snapshot_id": "AAAAAG+NYRXny4fHvOPNMP44D8/cTPY6",
   "tracks": [
     {
       "added_at": "2026-11-13 05:02:58",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "I Know A Garden",
-        "url": "https://open.spotify.com/album/5m48ZpXDMCaEYBIUlkEkmb"
-      },
-      "artists": [
-        {
-          "name": "Edwin Raphael",
-          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
-        }
-      ],
-      "duration_ms": 190757,
-      "name": "Mosaic in the Sun",
-      "url": "https://open.spotify.com/track/2iitUrUOfO8Mj5fdLUNGj1"
-    },
-    {
-      "added_at": "2026-11-13 05:02:58",
-      "album": {
         "name": "Journal d'un Loup-Garou",
         "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 309760,
       "name": "Dis-moi dis-moi dis-moi",
       "url": "https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu"
+    },
+    {
+      "added_at": "2026-11-13 05:02:58",
+      "album": {
+        "name": "I Know A Garden",
+        "url": "https://open.spotify.com/album/5m48ZpXDMCaEYBIUlkEkmb"
+      },
+      "artists": [
+        {
+          "name": "Edwin Raphael",
+          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
+        }
+      ],
+      "duration_ms": 190757,
+      "name": "Mosaic in the Sun",
+      "url": "https://open.spotify.com/track/2iitUrUOfO8Mj5fdLUNGj1"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -471,18 +471,18 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Qu'acoustis-je Qu'ou\u00efs-je Qu'entends-je",
-        "url": "https://open.spotify.com/album/5TLDAGC0vjuDSg1GCuRfPq"
+        "name": "Sinnatuumakka (Dreams)",
+        "url": "https://open.spotify.com/album/04Rry2QpYeSmdRt50ZIuLX"
       },
       "artists": [
         {
-          "name": "Qu\u00e9bec Redneck Bluegrass Project",
-          "url": "https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 395784,
-      "name": "J'te watch",
-      "url": "https://open.spotify.com/track/1RiD2S34QymVfz3VlOti37"
+      "duration_ms": 264960,
+      "name": "Sinnatuumakka (Dreams)",
+      "url": "https://open.spotify.com/track/2bZeUpwhBk8skDqgHMWpqi"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Sinnatuumakka (Dreams)",
-        "url": "https://open.spotify.com/album/04Rry2QpYeSmdRt50ZIuLX"
+        "name": "Qu'acoustis-je Qu'ou\u00efs-je Qu'entends-je",
+        "url": "https://open.spotify.com/album/5TLDAGC0vjuDSg1GCuRfPq"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Qu\u00e9bec Redneck Bluegrass Project",
+          "url": "https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz"
         }
       ],
-      "duration_ms": 264960,
-      "name": "Sinnatuumakka (Dreams)",
-      "url": "https://open.spotify.com/track/2bZeUpwhBk8skDqgHMWpqi"
+      "duration_ms": 395784,
+      "name": "J'te watch",
+      "url": "https://open.spotify.com/track/1RiD2S34QymVfz3VlOti37"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -615,22 +615,18 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "J'y crois encore",
-        "url": "https://open.spotify.com/album/0CrimEx2EQaG7ogzNcqAzO"
+        "name": "Inuktitut",
+        "url": "https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2"
       },
       "artists": [
         {
-          "name": "Sarcass",
-          "url": "https://open.spotify.com/artist/48tVSe8bX8VQqQoZcfvjKT"
-        },
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 161724,
-      "name": "J'y crois encore",
-      "url": "https://open.spotify.com/track/2oG5zzMtDMuzVa2B6BkiYJ"
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -651,18 +647,22 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Inuktitut",
-        "url": "https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2"
+        "name": "J'y crois encore",
+        "url": "https://open.spotify.com/album/0CrimEx2EQaG7ogzNcqAzO"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Sarcass",
+          "url": "https://open.spotify.com/artist/48tVSe8bX8VQqQoZcfvjKT"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
         }
       ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd"
+      "duration_ms": 161724,
+      "name": "J'y crois encore",
+      "url": "https://open.spotify.com/track/2oG5zzMtDMuzVa2B6BkiYJ"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Ce soir",
-        "url": "https://open.spotify.com/album/1NV4AgVoAjgKfWpQwhYA7S"
-      },
-      "artists": [
-        {
-          "name": "Justin Roy",
-          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
-        }
-      ],
-      "duration_ms": 113110,
-      "name": "Ce soir",
-      "url": "https://open.spotify.com/track/6ERxoACVyeHr3Y5yhSpcM3"
-    },
-    {
-      "added_at": "2026-11-13 05:02:58",
-      "album": {
         "name": "Natalie (40 Seasons Later)",
         "url": "https://open.spotify.com/album/1E2IiNX98czYyc2R5T0vk1"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 332293,
       "name": "Natalie (40 Seasons Later)",
       "url": "https://open.spotify.com/track/1bsLzTJRbc3uUm8PNJV5vM"
+    },
+    {
+      "added_at": "2026-11-13 05:02:58",
+      "album": {
+        "name": "Ce soir",
+        "url": "https://open.spotify.com/album/1NV4AgVoAjgKfWpQwhYA7S"
+      },
+      "artists": [
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        }
+      ],
+      "duration_ms": 113110,
+      "name": "Ce soir",
+      "url": "https://open.spotify.com/track/6ERxoACVyeHr3Y5yhSpcM3"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Your Name",
-        "url": "https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH"
-      },
-      "artists": [
-        {
-          "name": "Marianne Beaulieu",
-          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Your Name",
-      "url": "https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1"
-    },
-    {
-      "added_at": "2026-11-13 05:02:58",
-      "album": {
         "name": "Jardin",
         "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
       },
@@ -811,18 +795,34 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U"
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/7c2k7DMQJAIYHjswxdkgsH"
       },
       "artists": [
         {
-          "name": "Fine Food Market",
-          "url": "https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET"
+          "name": "Marianne Beaulieu",
+          "url": "https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV"
         }
       ],
-      "duration_ms": 235735,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3"
+      "duration_ms": 192746,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/4loIbVnRg7dZ7bOFEMrHk1"
+    },
+    {
+      "added_at": "2026-11-13 05:02:58",
+      "album": {
+        "name": "Postcard",
+        "url": "https://open.spotify.com/album/2sd2am38eV9C5aKSnmZpAg"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "Postcard",
+      "url": "https://open.spotify.com/track/4WQ8w6jr2ZPZ021iUm2J1D"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U"
+      },
+      "artists": [
+        {
+          "name": "Fine Food Market",
+          "url": "https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET"
+        }
+      ],
+      "duration_ms": 235735,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3"
+    },
+    {
+      "added_at": "2026-11-13 05:02:58",
+      "album": {
         "name": "pauvre pomme",
         "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 237253,
       "name": "pauvre pomme",
       "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
-    },
-    {
-      "added_at": "2026-11-13 05:02:58",
-      "album": {
-        "name": "Postcard",
-        "url": "https://open.spotify.com/album/2sd2am38eV9C5aKSnmZpAg"
-      },
-      "artists": [
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "Postcard",
-      "url": "https://open.spotify.com/track/4WQ8w6jr2ZPZ021iUm2J1D"
     },
     {
       "added_at": "2026-11-13 05:02:58",

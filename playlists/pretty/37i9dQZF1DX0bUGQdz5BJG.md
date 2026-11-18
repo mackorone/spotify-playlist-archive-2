@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Greylan James
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,014 likes - 200 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,068 likes - 200 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Where I'll Be](https://open.spotify.com/track/3fcii5KEVvQx4BFVpWdjiH) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Where I'll Be](https://open.spotify.com/album/6lW1CxK4d6sdLHHqZjDHBH) | 2:41 |
 | 200 | [Young Dumb and Reckless](https://open.spotify.com/track/0DAe1OQHxuQyNx5uC9euei) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [Young Dumb and Reckless](https://open.spotify.com/album/51uhC1ysVl2zGNiAIe7gqp) | 3:51 |
 
-Snapshot ID: `AAAAADmdYCz65SnviqjVu7MrMmUV3Rz5`
+Snapshot ID: `AAAAAHvdD+3f7BphpJxwYTbk3usp132V`

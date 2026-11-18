@@ -4,7 +4,7 @@
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-383 songs - 22 hr 21 min
+384 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2026-10-07 |  |
 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 | 2026-10-07 |  |
 | [Ciudad de Sombras](https://open.spotify.com/track/0OczzHxfaIWh8VQ0u1KV8b) | [SANGRE ÁCIDA](https://open.spotify.com/artist/5jnpAyC3qAfR6KfzZQNAtY) | [Cuervos en el Final](https://open.spotify.com/album/3EKDwbHDJCqeI6g57hFy00) | 4:27 | 2025-05-26 | 2026-04-06 |
+| [Clean Lead](https://open.spotify.com/track/1ryD9G6qt5KWPcdhGGS691) | [Daniel Joseph Chiasson](https://open.spotify.com/artist/75rcoZN43VsmGiFeqewZnK) | [Clean Lead](https://open.spotify.com/album/4PP7j2VfZwT5Pwh5l4UVBW) | 2:19 | 2026-11-17 |  |
 | [Closer](https://open.spotify.com/track/0N7jP6VYLVkfeHACeON91e) | [Ocean Miller](https://open.spotify.com/artist/7ckr41RXHCnMadX6yumf7e) | [Closer](https://open.spotify.com/album/5PsKk740Cm62xWkJoWrnE6) | 3:13 | 2025-01-26 | 2026-06-12 |
 | [Codigos de Calle](https://open.spotify.com/track/3nUXbKuldWBNqoUp4Dxw9p) | [Yonblok Music](https://open.spotify.com/artist/7MZHN1U8dptbA645QA9Qku) | [Codigos de Calle](https://open.spotify.com/album/4BOL5NfhGUfYMo322XWSKO) | 3:14 | 2026-06-14 |  |
 | [Cold Bloom](https://open.spotify.com/track/68HZsZ6IKqhuMdnLbVAXd7) | [Nøia](https://open.spotify.com/artist/609UsRFCK90ch1N8OS8Hkc) | [Fading Lights](https://open.spotify.com/album/6mA6bJQdfHQycTIbVDJ9U5) | 3:48 | 2026-06-13 | 2026-10-08 |

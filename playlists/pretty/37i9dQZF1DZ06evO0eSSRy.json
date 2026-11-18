@@ -1,12 +1,12 @@
 {
   "description": "This is P\u00c6RISH. The essential tracks, all in one playlist.",
-  "num_followers": 723,
+  "num_followers": 722,
   "original_name": "This Is P\u00c6RISH",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAADFur2RD3KQ9LRfB9xNbntP",
+  "snapshot_id": "avpHgAAAAAD16sIgMrVxDiIjzD3U8nCc",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+        "name": "Know",
+        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 223946,
-      "name": "Semi Finalists",
-      "url": "https://open.spotify.com/track/6Qu0iz1FNYPaCMaR8iBPTO"
+      "duration_ms": 233965,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 190866,
-      "name": "Crashing In Circles",
-      "url": "https://open.spotify.com/track/0wRD55qpmEqTTDMr2Kjemo"
+      "duration_ms": 259087,
+      "name": "Hurry Slowly",
+      "url": "https://open.spotify.com/track/7plPrRlkbzd47xyWjDn6Xv"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know",
-        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 233965,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
+      "duration_ms": 223946,
+      "name": "Semi Finalists",
+      "url": "https://open.spotify.com/track/6Qu0iz1FNYPaCMaR8iBPTO"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 180736,
-      "name": "7-57",
-      "url": "https://open.spotify.com/track/0mARjWxyuauPTUBC1G8s9f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marcel and the Prince",
         "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
       },
@@ -452,9 +436,25 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 211274,
-      "name": "I got Punched in the Face, What's your Excuse",
-      "url": "https://open.spotify.com/track/0KDFtrVZ3Wv4Tw3YQKkgBe"
+      "duration_ms": 180736,
+      "name": "7-57",
+      "url": "https://open.spotify.com/track/0mARjWxyuauPTUBC1G8s9f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 254528,
+      "name": "Winona Ryder",
+      "url": "https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY"
     }
   ],
   "unique_name": "This Is P\u00c6RISH",

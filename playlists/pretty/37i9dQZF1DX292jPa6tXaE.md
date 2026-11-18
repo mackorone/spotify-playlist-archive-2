@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Sunil Mattu
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,369 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,386 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 48 | [Lovestay](https://open.spotify.com/track/3X8XI7fJ6U5BVWjDoXtxc5) | [SP Randhawa](https://open.spotify.com/artist/74IOpkzhkmxlzQYwCFCwdT), [TYH](https://open.spotify.com/artist/3WEJTLY9OZTVGnvetqCo5D) | [Lovestay](https://open.spotify.com/album/03t8UMDX7C1HGZO58LncJt) | 3:38 |
 | 49 | [Gap](https://open.spotify.com/track/2TAyMR914sWCaHT4FSeO0Y) | [Vincent Boral](https://open.spotify.com/artist/0ZWcvDl5x0q79wjTREH2IH) | [Gap](https://open.spotify.com/album/3hVt8oOcrwm2ns4bRebPsZ) | 1:17 |
 
-Snapshot ID: `AAAAACU1CwARkbKRn+BvfOHrVoyW2aIF`
+Snapshot ID: `AAAAAAe+RYRDIRJBz2Tpn0ahYciye3mI`

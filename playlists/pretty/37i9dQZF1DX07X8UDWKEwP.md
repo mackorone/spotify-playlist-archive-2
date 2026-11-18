@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Dale Pututi & Nesty y Micro TDH
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,667 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,596 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 59 | [Pa' Él](https://open.spotify.com/track/0AT4SvaQ7yEBvPhhHBNUXf) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Pa' Él](https://open.spotify.com/album/5BlhVCj1nOt9XxwjAV4XDo) | 2:55 |
 | 60 | [Qué Andas Haciendo](https://open.spotify.com/track/2Pv1g4OMtsdeQw3QF5v1it) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Qué Andas Haciendo](https://open.spotify.com/album/5aglfekM0ZJCRb83xKQ2Re) | 3:19 |
 
-Snapshot ID: `AAAAAKmhcFenP6W/ks9S4ieKslhMbav2`
+Snapshot ID: `AAAAAI8EGJ5nEm/49ZnUNkaMFJL4JkAA`

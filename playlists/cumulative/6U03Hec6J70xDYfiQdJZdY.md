@@ -4,7 +4,7 @@
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-98 songs - 5 hr 10 min
+99 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [The Earth Cries](https://open.spotify.com/track/3kFkE1ZgjbTibr8RdwzuCH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [The Earth Cries](https://open.spotify.com/album/0bMMczD8dDDD4RdH9yTqfh) | 2:06 | 2025-10-16 |  |
 | [The youth in me](https://open.spotify.com/track/11mQ8chWxC1fIbtFw8uxgi) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [The youth in me](https://open.spotify.com/album/4OjN9UkitFZyAy9vIf6Ene) | 2:22 | 2025-10-16 | 2026-04-03 |
 | [There Was A Time](https://open.spotify.com/track/1cHLcBlrBUbV1xrkz5s2Fc) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [There Was A Time](https://open.spotify.com/album/67iET3sxFlFwtKSAHFuYij) | 1:58 | 2026-11-13 |  |
+| [to be part of something greater](https://open.spotify.com/track/7cfkPAhDGVnb0qZGDQMx3V) | [Anselme](https://open.spotify.com/artist/5EQmwvm94wjPvDPC6R71Om) | [FISH](https://open.spotify.com/album/5o7nBFdN9LV8p7xNBG8UkR) | 1:44 | 2026-11-18 |  |
 | [Today Is Enough](https://open.spotify.com/track/5wMVbKzxli5cq0myZbBPrS) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm) | [Today Is Enough](https://open.spotify.com/album/4lSAqj1PhA2xKVHvEjSi8z) | 2:36 | 2026-07-02 |  |
 | [Together Tonight \- Prelude](https://open.spotify.com/track/7FS4Jmt8UlDeRnktrdX5Q4) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Nice & Slow](https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM) | 0:36 | 2026-07-02 |  |
 | [Truth And Context](https://open.spotify.com/track/1OQUnqwqgYCLVloQM1XqNG) | [Michel Haspeslagh](https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl) | [Truth And Context](https://open.spotify.com/album/20IbKSpf5XNPuNmEyKlSbZ) | 2:18 | 2025-10-16 |  |

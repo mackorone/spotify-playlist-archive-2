@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Kweku Flick
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,745 likes - 86 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,758 likes - 86 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 85 | [Won't Be Here Forever](https://open.spotify.com/track/6cBnyv4GsGl9VJx2tW2oP5) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [How Did We Get Here](https://open.spotify.com/album/0EqCL0NBywUAAVFuPrUHK8) | 3:05 |
 | 86 | [News at 7](https://open.spotify.com/track/0BmV1Ke3e4dfuKNzNWrsXv) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [News at 7](https://open.spotify.com/album/0QL33TwFCQGAF9prvHW3Wt) | 2:46 |
 
-Snapshot ID: `AAAAALHbCLOseyBFYQu6yBlbvvyZ64BM`
+Snapshot ID: `AAAAAA44ceoM1NYiTECAbQXRv3d6rXqu`

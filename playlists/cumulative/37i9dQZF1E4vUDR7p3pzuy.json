@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Black Doldrums, post-punk'er, Captain Margaret and more",
+  "description": "With JUST LIZZY, David Von Beahm, The Poor Toms and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -604,7 +604,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 242993,
       "name": "Absence Of Ligth",
       "url": "https://open.spotify.com/track/59y49qm2IHGDhTYyQrOrLq"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 258235,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/1YMQT3sNntgjqFJQObtRre"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 314210,
       "name": "All The Lovers",
       "url": "https://open.spotify.com/track/4WXNi3vDKyiOiuwz7JvkDf"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 278108,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/1XkFICmCusitYkiiAFREeG"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 143693,
       "name": "bingeboy",
       "url": "https://open.spotify.com/track/5pD3iiofjwpwUjuAkqkHwd"
@@ -4430,7 +4430,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 372625,
       "name": "Collide",
       "url": "https://open.spotify.com/track/3UcSyWDgN2dT2BW0D9Qu66"
@@ -5180,7 +5180,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 247093,
       "name": "Cruelty of the beast",
       "url": "https://open.spotify.com/track/4SQeLISqXhoXPNkfEZfWjy"
@@ -6140,7 +6140,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 346000,
       "name": "Destiny - Extended",
       "url": "https://open.spotify.com/track/3umS0zJJU7lyQ81TvqlzdI"
@@ -6828,7 +6828,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 234881,
       "name": "Drive Me Far",
       "url": "https://open.spotify.com/track/3xITmk4oLCcSV2iOWmEXHy"
@@ -7394,7 +7394,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 276166,
       "name": "End of the Rope",
       "url": "https://open.spotify.com/track/7vXek6Cvm35qLY5NDXMgrD"
@@ -8084,7 +8084,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -10820,7 +10820,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 216318,
       "name": "I Don't Want Your Love",
       "url": "https://open.spotify.com/track/06Dnvm34UTR57hwvb5fwMx"
@@ -12397,6 +12397,24 @@
     },
     {
       "album": {
+        "name": "Janey's Got a Blow Tourch",
+        "url": "https://open.spotify.com/album/6eZawrBYiURkdkOtbOhwBd"
+      },
+      "artists": [
+        {
+          "name": "Medicine Beard",
+          "url": "https://open.spotify.com/artist/5N241nOKWee57HvlLjkfOw"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Janey's Got a Blow Tourch",
+      "url": "https://open.spotify.com/track/0pXNKelloRpMBOMaH0VVTz"
+    },
+    {
+      "album": {
         "name": "On the Moon",
         "url": "https://open.spotify.com/album/2aKyXsHVopm3JUQ7enG78D"
       },
@@ -12776,7 +12794,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 216774,
       "name": "Keep The Light On",
       "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
@@ -13094,7 +13112,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 298000,
       "name": "Land's End",
       "url": "https://open.spotify.com/track/2nO4PF4VbPVtS6ZvKTZr63"
@@ -13152,7 +13170,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -14296,7 +14314,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 307078,
       "name": "Man With The X-Ray Eyes",
       "url": "https://open.spotify.com/track/2wofyBPVUPUk0jvpZag9FG"
@@ -14458,7 +14476,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 212423,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6DHvP8Wblrg9XRyNXrsQNi"
@@ -15846,7 +15864,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 228813,
       "name": "NewGod - Radio Edit",
       "url": "https://open.spotify.com/track/455H8GXsSpy0H6BssIHUVs"
@@ -16030,7 +16048,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 132021,
       "name": "No One's Talking To Me",
       "url": "https://open.spotify.com/track/4AgXvxFvfrBNZpDpkWywTV"
@@ -16102,7 +16120,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 312776,
       "name": "No Words Can't Lie",
       "url": "https://open.spotify.com/track/0mLZiulnX2slEctwSWfK71"
@@ -16322,7 +16340,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Nutshell",
       "url": "https://open.spotify.com/track/4EF8NlnszTLtmk2t1GIGNl"
@@ -16614,7 +16632,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 154008,
       "name": "Onyx Melange Stranded On The Coast",
       "url": "https://open.spotify.com/track/7dkXudKfSok9rSmaKemLZA"
@@ -17402,7 +17420,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -18106,7 +18124,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 308189,
       "name": "Requiem for My Memories",
       "url": "https://open.spotify.com/track/3yFsLOkdfCpXRzMWH2NLsZ"
@@ -18272,7 +18290,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 356642,
       "name": "River Of Silence",
       "url": "https://open.spotify.com/track/5wrgBaF0lOfWndYlKiXh3x"
@@ -18366,6 +18384,24 @@
       "duration_ms": 328977,
       "name": "Rooms to Let",
       "url": "https://open.spotify.com/track/2byVjjlobezg8U1db70IIM"
+    },
+    {
+      "album": {
+        "name": "Human Coil",
+        "url": "https://open.spotify.com/album/1elf8fLst30uJZ2JqaGume"
+      },
+      "artists": [
+        {
+          "name": "INLEGION",
+          "url": "https://open.spotify.com/artist/3uTISJ4t9NgYeNipenoFxY"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284548,
+      "name": "Rorschach Rotorbabe",
+      "url": "https://open.spotify.com/track/6oZvalL5v3elCyzvDC5WND"
     },
     {
       "album": {
@@ -21958,7 +21994,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 152000,
       "name": "Takin' Out The Trash",
       "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
@@ -22302,6 +22338,24 @@
       "duration_ms": 192000,
       "name": "The Answers",
       "url": "https://open.spotify.com/track/25Cd0bLNJTVkIlbwP57EgS"
+    },
+    {
+      "album": {
+        "name": "The Axe",
+        "url": "https://open.spotify.com/album/0NJRFTz9GgZmu6WW1XaqSZ"
+      },
+      "artists": [
+        {
+          "name": "BE/HOLD",
+          "url": "https://open.spotify.com/artist/4ZNyRDoM6JnxoB0oAWataL"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218076,
+      "name": "The Axe",
+      "url": "https://open.spotify.com/track/1hNe73GiOT09efx1usYZcp"
     },
     {
       "album": {
@@ -22983,6 +23037,24 @@
     },
     {
       "album": {
+        "name": "Chapters: The Best Of (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/38K83LdiI0LQqiAJGiRfSk"
+      },
+      "artists": [
+        {
+          "name": "Midge Ure",
+          "url": "https://open.spotify.com/artist/2N4isf5pypyuDVpBofqEN8"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467998,
+      "name": "The Man Who Sold The World - Midge Ure 2026 Remix",
+      "url": "https://open.spotify.com/track/6faUEKFjIDFUJQWof4GjoH"
+    },
+    {
+      "album": {
         "name": "THE MESS",
         "url": "https://open.spotify.com/album/1RPKQlBm0MrW2epZU0ukH6"
       },
@@ -23308,7 +23380,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 218349,
       "name": "The Uncanny",
       "url": "https://open.spotify.com/track/0hmDsEeeUQ3To80nyvxTJ1"
@@ -23795,6 +23867,24 @@
     },
     {
       "album": {
+        "name": "This War Is Wrong",
+        "url": "https://open.spotify.com/album/7vAArpS50gijUYAWOeJWvl"
+      },
+      "artists": [
+        {
+          "name": "Radio Everything",
+          "url": "https://open.spotify.com/artist/3PBXt8DvUaotN2ovRyqnVa"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230259,
+      "name": "This War Is Wrong",
+      "url": "https://open.spotify.com/track/0UjVPxJDB5rTpUB8zydF2W"
+    },
+    {
+      "album": {
         "name": "Bridge To Resolution",
         "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
       },
@@ -23868,6 +23958,28 @@
       "duration_ms": 174000,
       "name": "Thrive",
       "url": "https://open.spotify.com/track/4GUZCVqPJAcH0qDkkAWEoT"
+    },
+    {
+      "album": {
+        "name": "things we've remixed",
+        "url": "https://open.spotify.com/album/3fuS3CwFcnJwlw7xqApv9H"
+      },
+      "artists": [
+        {
+          "name": "SoftWave",
+          "url": "https://open.spotify.com/artist/5wo2L2BtVUYsopJnWAo8Z6"
+        },
+        {
+          "name": "Black Nail Cabaret",
+          "url": "https://open.spotify.com/artist/1PT6vR9L8YA8qKymXfAnRl"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "Through Open Eyes - Black Nail Cabaret Remix",
+      "url": "https://open.spotify.com/track/1XsRnSw2VQqTcmd5XgXeo0"
     },
     {
       "album": {
@@ -24340,7 +24452,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 262280,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5ojTnhj24LeKKAEinAbOdS"
@@ -24473,6 +24585,24 @@
     },
     {
       "album": {
+        "name": "Trust Fall",
+        "url": "https://open.spotify.com/album/7gtOHdMCbb7fmL84Teg9Vw"
+      },
+      "artists": [
+        {
+          "name": "Hate at First Sight",
+          "url": "https://open.spotify.com/artist/6CP07a9dYqDTeCiOEgiZwr"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197549,
+      "name": "Trust Fall",
+      "url": "https://open.spotify.com/track/7EhVKTqGb7BSIJLm1O5uB8"
+    },
+    {
+      "album": {
         "name": "Commemorate",
         "url": "https://open.spotify.com/album/2MBYk2ZANUFYsexjD0hs6i"
       },
@@ -24596,7 +24726,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 141473,
       "name": "Turning Of The Tide",
       "url": "https://open.spotify.com/track/02rAWyVWYXO04CJj4xxigU"
@@ -25036,7 +25166,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 185510,
       "name": "Vampire Desire",
       "url": "https://open.spotify.com/track/7G4G4Dmpok1ptnbXRGSMKq"
@@ -26580,7 +26710,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"

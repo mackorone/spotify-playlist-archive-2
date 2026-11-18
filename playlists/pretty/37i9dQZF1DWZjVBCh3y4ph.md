@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : DJ Kawest x Oswald
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,532 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,558 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Magic Gouyad \#14](https://open.spotify.com/track/2JIOyhvQvc7SMx1x6Rw5cD) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m), [Tamaryo](https://open.spotify.com/artist/7ioMggRkKixyLcyg4WmOeX) | [Magic Gouyad \#14](https://open.spotify.com/album/1hg34jThqPqzZNyg1bbV2e) | 4:20 |
 | 40 | [Bye Bye](https://open.spotify.com/track/1wqPny15dwjxU5f0C4KXpZ) | [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje), [Teddy Hashtag](https://open.spotify.com/artist/08IitAuzTfomRsaSf8YLnh) | [Bye Bye](https://open.spotify.com/album/3YVWQUpEJkBwZ4nQV6P05T) | 4:40 |
 
-Snapshot ID: `AAAAACzTxt18616dSbZoZbu4XXQDDGIf`
+Snapshot ID: `AAAAAJRMktxgs+hd4O+w9NUN5ZsRDvcv`

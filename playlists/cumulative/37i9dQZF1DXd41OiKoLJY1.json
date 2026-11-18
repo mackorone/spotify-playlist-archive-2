@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Saint Cooper. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Gloryen. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -35764,7 +35764,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 293401,
       "name": "Kay Ganda",
       "url": "https://open.spotify.com/track/6Y76T8I3skKZYYn8ZIzMyA"
@@ -35920,6 +35920,24 @@
       "duration_ms": 211200,
       "name": "Keep It Honest",
       "url": "https://open.spotify.com/track/1M33bqChlyBy3tALHZX5ma"
+    },
+    {
+      "album": {
+        "name": "Keep It On The Low",
+        "url": "https://open.spotify.com/album/6Ps19moiA1oLtV0tIaFE5G"
+      },
+      "artists": [
+        {
+          "name": "Avery Leon",
+          "url": "https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237296,
+      "name": "Keep It On The Low",
+      "url": "https://open.spotify.com/track/0qoSYIny8bQlG6HJgOckQ8"
     },
     {
       "album": {
@@ -71332,7 +71350,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 96003,
       "name": "thrift shop",
       "url": "https://open.spotify.com/track/4shctApMVAPyraAAd0fsfX"
@@ -71752,7 +71770,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 219094,
       "name": "Tinitingala",
       "url": "https://open.spotify.com/track/1RA17YewD7DgfgfYAbsHZW"
@@ -74139,6 +74157,24 @@
     },
     {
       "album": {
+        "name": "Unfaithful",
+        "url": "https://open.spotify.com/album/3NRUY8TsbIfYag37HWCdoT"
+      },
+      "artists": [
+        {
+          "name": "Gloryen",
+          "url": "https://open.spotify.com/artist/1ADf5He5TcWVOU2NLIuBbU"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164552,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/2MUBtfrIQwN4Y8pBrcliw2"
+    },
+    {
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/45g1mjNmqOUrR9hlnrr9gr"
       },
@@ -75346,6 +75382,24 @@
       "duration_ms": 232802,
       "name": "WAG KANG MAG TAMPO",
       "url": "https://open.spotify.com/track/5ryB5TuxP2g1pYx989I40n"
+    },
+    {
+      "album": {
+        "name": "Wag Mag-Alala",
+        "url": "https://open.spotify.com/album/2aisBptdbNKPwCxbTQcnlQ"
+      },
+      "artists": [
+        {
+          "name": "Saikyoutopia",
+          "url": "https://open.spotify.com/artist/14zovZ2sy4yjEaNUq0xXbU"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220941,
+      "name": "Wag Mag-Alala",
+      "url": "https://open.spotify.com/track/2FXQggZaghOwKFX800eJ55"
     },
     {
       "album": {

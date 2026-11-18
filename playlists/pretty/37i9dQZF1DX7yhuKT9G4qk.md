@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 
 > Perfect dinner playlist \| soulful music
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,292 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,295 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 | 99 | [Let's Stay Together](https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:02 |
 | 100 | [Mutual](https://open.spotify.com/track/6kUkosakHtJ9bsNE2bxJnq) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Mutual](https://open.spotify.com/album/7KBZC4RaCdSsSpShWVa6Ki) | 3:31 |
 
-Snapshot ID: `AAAAAAGuzmJTQQmJKpsPeFE2uWZHTlpL`
+Snapshot ID: `AAAAAAgEQ2C9TV4DWS7WqRq2GqABPlmx`

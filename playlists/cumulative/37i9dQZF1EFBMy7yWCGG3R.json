@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Blue Bayou",
+        "url": "https://open.spotify.com/album/3SBdUPAKbNZ30WpHsAekFX"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197621,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/19aThwvapI5lEEWO0FICXE"
+    },
+    {
+      "album": {
         "name": "Inner Monologue Part 2",
         "url": "https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe"
       },
@@ -3418,7 +3436,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 209493,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/4bp5G6x1SXMQW4X9DbCCCp"

@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNoDyBeDgSK.md) - [plain]
 | 58 | [祓魔師強奏曲　第四楽章: D＋T](https://open.spotify.com/track/6ne0NAPeulldjsVLbs0I6l) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 4:52 |
 | 59 | [BLUE](https://open.spotify.com/track/7F1qu0e6hEdQGvUPB3zxeD) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 3:57 |
 
-Snapshot ID: `AAAAABkCcPKPRRzRcfWQEQCNtuB3jj7c`
+Snapshot ID: `AAAAAGOSkzB3ztLrJesBFZg7kRdXQogr`

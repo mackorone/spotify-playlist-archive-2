@@ -3113,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "No Sentimento em Bras\u00edlia Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2MFNkulSNsrtxRWwBBvFdj"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168485,
+      "name": "Eu Me Rendo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hxXNu9FBZwcGQ6FnECOVH"
+    },
+    {
+      "album": {
         "name": "Dia 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3DoENvroX8Qc4CrazIJXq5"
       },
@@ -5918,7 +5936,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 145491,
       "name": "OLHO MARROM - Ao Vivo em Lisboa",
       "url": "https://open.spotify.com/track/1I6TdHxz61Kf9EFje0dQvg"
@@ -5962,6 +5980,28 @@
       "duration_ms": 165231,
       "name": "OR\u00c7AMENTO - Ao Vivo",
       "url": "https://open.spotify.com/track/79MxbO0fmeREiSUdODnqaq"
+    },
+    {
+      "album": {
+        "name": "OS CARA MEXE",
+        "url": "https://open.spotify.com/album/1CCeIkFtX3PQtfLiP1QjGx"
+      },
+      "artists": [
+        {
+          "name": "Pedro e Benicio",
+          "url": "https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131008,
+      "name": "OS CARA MEXE",
+      "url": "https://open.spotify.com/track/7zDs8FbSIEdpy1rv13P6EP"
     },
     {
       "album": {
@@ -6894,7 +6934,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 145177,
       "name": "Resumindo - Ao Vivo",
       "url": "https://open.spotify.com/track/6vGZfODFI1FxMImSUbdJhz"

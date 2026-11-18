@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: A2O SOUL\)
+> Future K\-Pop hits! \(Cover: AMPERS&ONE\)
 
-1,829 songs - 4 day 1 hr 26 min
+1,830 songs - 4 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,6 +867,7 @@
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-01 | 2022-03-03 |
 | [KING KONG](https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [KING KONG](https://open.spotify.com/album/43R91w6pa9rmQVPVjcPFTT) | 3:16 | 2024-05-28 | 2024-08-03 |
 | [KINGDOM COME](https://open.spotify.com/track/10BJxp4qvLLBEHtsY72piK) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:45 | 2021-06-09 | 2021-08-05 |
+| [King’s Way](https://open.spotify.com/track/4ZVcpE2rxJIPZ4rW2MKbEd) | [AMPERS&ONE](https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg) | [PATHFINDER](https://open.spotify.com/album/0rjYMWjSR1G70FETUVHNw2) | 2:40 | 2026-11-17 |  |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-08-12 | 2022-09-25 |
 | [KISS OR DEATH](https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/5gTlYqPbpzwB1pkIQWmL5H) | 3:27 | 2021-07-28 | 2021-09-07 |
 | [KNOCK](https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Over The Moon](https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3) | 2:53 | 2023-04-13 | 2023-12-02 |
@@ -1454,7 +1455,7 @@
 | [Spring Snow](https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Lovely Runner, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1) | 3:21 | 2024-05-21 | 2024-10-23 |
 | [SQUEEZY](https://open.spotify.com/track/4gGUin61QnBYP0Rfy96OaT) | [OURBIRTHDAY](https://open.spotify.com/artist/1mXRWMer8YDbBPbj872tmo) | [Our Birthday](https://open.spotify.com/album/7ayu16CcnYO7PiKCwIIigc) | 2:30 | 2026-08-20 |  |
 | [SSAK \(Feat\. Loco\) \(Prod\. By GRAY\)](https://open.spotify.com/track/0FOReGSXypVBP1q3CLEbfN) | [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [MASON HOME](https://open.spotify.com/artist/6fUWivVaWaEgN2G0m7c0Wa), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Foggyatthebottom](https://open.spotify.com/artist/3fXHHmLxAY43pSTlWnbYd7), [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Show Me The Money 12 Episode 1](https://open.spotify.com/album/67ieVVFQxypYAvx3FirGoG) | 4:30 | 2026-03-09 | 2026-04-21 |
-| [Stagefright](https://open.spotify.com/track/4RGe2TF6AdEGtf2ejkktbu) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [\[8.X\]](https://open.spotify.com/album/3b4jk8OaXFFLVTEBEK3J93) | 2:40 | 2026-07-23 |  |
+| [Stagefright](https://open.spotify.com/track/4RGe2TF6AdEGtf2ejkktbu) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [\[8.X\]](https://open.spotify.com/album/3b4jk8OaXFFLVTEBEK3J93) | 2:40 | 2026-07-23 | 2026-11-18 |
 | [STALKER](https://open.spotify.com/track/4WCg4g0lMTZxyFC19W0DHF) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [STALKER](https://open.spotify.com/album/4fzdBEYv8M4d0p6QcDSgn3) | 3:48 | 2021-04-22 | 2021-06-25 |
 | [Stand Out](https://open.spotify.com/track/1jQbHZEM4Qoes0hAbMmAF9) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Stand Out](https://open.spotify.com/album/4ec8gp20EwMyersWF7Ewx5) | 2:52 | 2024-09-05 | 2024-11-26 |
 | [STAR](https://open.spotify.com/track/4wdUuQQ32Pcrzln7NaZCFk) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [STAR](https://open.spotify.com/album/3vzL4zqeWqJ7stqWpX5bfD) | 4:09 | 2021-11-27 | 2022-01-04 |

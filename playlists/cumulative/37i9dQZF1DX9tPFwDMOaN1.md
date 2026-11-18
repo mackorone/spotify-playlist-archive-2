@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> The new & hottest K\-Pop is here! \(Cover: ATEEZ\)
+> The new & hottest K\-Pop is here! \(Cover: TOMORROW X TOGETHER\)
 
 961 songs - 2 day 1 hr 26 min
 

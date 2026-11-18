@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-01-01",
-  "description": "\u65e5\u672c\u72ec\u81ea\u306e\u30dd\u30c3\u30d7\u30ab\u30eb\u30c1\u30e3\u30fc=\u30a2\u30a4\u30c9\u30eb\u3002\"\u697d\u66f2\u63a8\u3057\"\u3067\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Hey! Say! JUMP",
+  "description": "\u65e5\u672c\u72ec\u81ea\u306e\u30dd\u30c3\u30d7\u30ab\u30eb\u30c1\u30e3\u30fc=\u30a2\u30a4\u30c9\u30eb\u3002\"\u697d\u66f2\u63a8\u3057\"\u3067\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Travis Japan",
   "name": "\u30a2\u30a4\u30c9\u30eb\u30dd\u30c3\u30d7\uff01",
   "tracks": [
     {
@@ -882,7 +882,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 209333,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/1YFtb030rTxFG3L2d7JJqa"
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 180836,
       "name": "CRUSH ON YOU",
       "url": "https://open.spotify.com/track/15WbQ55RaSmd7WbJP1mzr9"
@@ -2070,6 +2070,24 @@
       "duration_ms": 232333,
       "name": "Daydreamers",
       "url": "https://open.spotify.com/track/5ZLpUUxnObw0NjCN1Q8a0A"
+    },
+    {
+      "album": {
+        "name": "\u7121\u9650\u5927LOVE!!!",
+        "url": "https://open.spotify.com/album/0aPc3wJ3rfdMOPwUBZK0ZE"
+      },
+      "artists": [
+        {
+          "name": "BUDDiiS",
+          "url": "https://open.spotify.com/artist/68hd7ONzgN98uAZDWMlmAQ"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203993,
+      "name": "DAYS",
+      "url": "https://open.spotify.com/track/5djxFXtT3piqwFFvnaa9gR"
     },
     {
       "album": {
@@ -2347,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "Drip Drop",
+        "url": "https://open.spotify.com/album/1SpLkHjJHRwyoCZ5UTV22r"
+      },
+      "artists": [
+        {
+          "name": "ONE N' ONLY",
+          "url": "https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172100,
+      "name": "Drip Drop",
+      "url": "https://open.spotify.com/track/6stEg9AiJWVQtfhFneoxKq"
+    },
+    {
+      "album": {
         "name": "Thumbs up!!",
         "url": "https://open.spotify.com/album/7DqTgiJov1U4zEwzHcM45c"
       },
@@ -2412,7 +2448,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 200666,
       "name": "EGO",
       "url": "https://open.spotify.com/track/5503SbOjsHoAF12iwW4eS4"
@@ -5381,6 +5417,24 @@
     },
     {
       "album": {
+        "name": "Jewelry Basket",
+        "url": "https://open.spotify.com/album/5wF2Y36OookYhbf3lJwRDx"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275213,
+      "name": "POP STAR",
+      "url": "https://open.spotify.com/track/32zDDPZtHGpxQKmvpmF8O7"
+    },
+    {
+      "album": {
         "name": "\u30ae\u30e9\u30ae\u30e9",
         "url": "https://open.spotify.com/album/6HF6hOoOXpbgyhu59WZfzS"
       },
@@ -7844,7 +7898,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 145702,
       "name": "WILDCARD",
       "url": "https://open.spotify.com/track/3ZM8JeIZrWiujHqzJN08AV"
@@ -10085,6 +10139,24 @@
     },
     {
       "album": {
+        "name": "\u50d5\u306f\u5473\u65b9\u3060 (Special Edition)",
+        "url": "https://open.spotify.com/album/5O4ykYteepUIpoAUmSmi81"
+      },
+      "artists": [
+        {
+          "name": "BOKUAO",
+          "url": "https://open.spotify.com/artist/0ZJdQMcIGWJn4Oh1O5Gku5"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261900,
+      "name": "\u3067\u3063\u304b\u3044\u5922",
+      "url": "https://open.spotify.com/track/3u5oJYcJgAvo2LHDsDHQUK"
+    },
+    {
+      "album": {
         "name": "\u3068\u304d\u3081\u304d\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/3GOIB1485nEVKt0N6fZgBf"
       },
@@ -12135,6 +12207,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30b8\u30bd\u30f3\u306b\u30c0\u30a4\u30e4",
+        "url": "https://open.spotify.com/album/2PHXzJRERkywKc1HyUjlxw"
+      },
+      "artists": [
+        {
+          "name": "Devil ANTHEM.",
+          "url": "https://open.spotify.com/artist/5BaSe1vuqlHeP074o7N7jh"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165872,
+      "name": "\u30a8\u30b8\u30bd\u30f3\u306b\u30c0\u30a4\u30e4",
+      "url": "https://open.spotify.com/track/4KdbRAyRHqU2IMEWuH3I9W"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30c8\u30e9\u30f3\u30b9\u30fb\u30d5\u30a3\u30fc\u30d0\u30fc",
         "url": "https://open.spotify.com/album/2LjGzqUESmhs5Y2v01kU5a"
       },
@@ -12576,7 +12666,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 232760,
       "name": "\u30ad\u30df\u306f\u90fd\u5e02\u4f1d\u8aac",
       "url": "https://open.spotify.com/track/2J8WhG02HsaePfltct0xKN"
@@ -20271,6 +20361,24 @@
     },
     {
       "album": {
+        "name": "A World in Our Colors",
+        "url": "https://open.spotify.com/album/4bWQOLzJ2RXGVhwvf4wht7"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5dba\u306e\u306a\u3067\u3057\u3053",
+          "url": "https://open.spotify.com/artist/4pPKLWtUwFk3RKIGuVZtcQ"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235400,
+      "name": "\u6211\u6b66\u8005\u7f85",
+      "url": "https://open.spotify.com/track/1VoIfHVC6Ow3wZmB6AImjo"
+    },
+    {
+      "album": {
         "name": "\u6234\u51a0",
         "url": "https://open.spotify.com/album/4biCBW22qFdVqUin2jC5m8"
       },
@@ -22016,7 +22124,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 206999,
       "name": "\u7d04\u675f",
       "url": "https://open.spotify.com/track/7evuwF8PwnhFT2T9dFH4cM"
@@ -22668,6 +22776,24 @@
       "duration_ms": 230675,
       "name": "\u8abf",
       "url": "https://open.spotify.com/track/4x7uJpovApdH2nKXsxLiul"
+    },
+    {
+      "album": {
+        "name": "\u8d85\u2606HENSHIN",
+        "url": "https://open.spotify.com/album/3zrMHSXrT0wRx7ZYQSz4xc"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187093,
+      "name": "\u8d85\u2606HENSHIN",
+      "url": "https://open.spotify.com/track/5JLDiK31hsnmGBb8ctoozm"
     },
     {
       "album": {
@@ -23388,7 +23514,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 182906,
       "name": "\u9b3c\u4e8b",
       "url": "https://open.spotify.com/track/6Uc5ngO19BTPDs2vV9CBVw"

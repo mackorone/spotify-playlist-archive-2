@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,968 likes - 75 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,993 likes - 75 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 4 | [Aane Wala Star](https://open.spotify.com/track/34520Ev0rl6reqiIKSr2eK) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Dholu bholu](https://open.spotify.com/artist/3P1t2nnqpPMD8auDRSSZy6) | [Aane Wala Star](https://open.spotify.com/album/6oh1KtCCDzeuzdFbZV1AW5) | 2:12 |
 | 5 | [Bum Baa Diga Diga](https://open.spotify.com/track/7sNHxjkI4mzpmz6ZVS6TF7) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [DC \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ) | 3:25 |
 | 6 | [Jailer 2 Theme](https://open.spotify.com/track/22I7j5EFoP2bC8q8QUQHFQ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Jailer 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr) | 1:47 |
-| 7 | [The Wild Theme \(From "OM Chapter 1: Udhiram \- The Blood Wood"\)](https://open.spotify.com/track/0uExLQym0YauTNhuLJGcps) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [The Wild Theme \(From "OM Chapter 1: Udhiram \- The Blood Wood"\)](https://open.spotify.com/album/6X2IEDUBAssbCb3CGHDWht) | 1:45 |
+| 7 | [The Wild Theme \(From "O.M: Operation Mole"\)](https://open.spotify.com/track/0uExLQym0YauTNhuLJGcps) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [The Wild Theme \(From "O.M: Operation Mole"\)](https://open.spotify.com/album/6X2IEDUBAssbCb3CGHDWht) | 1:45 |
 | 8 | [Tiger Muthuvel Pandian \(From "Jailer 2"\)](https://open.spotify.com/track/1CaBSMCroZxJRWrkjfvqEs) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Tiger Muthuvel Pandian \(From "Jailer 2"\)](https://open.spotify.com/album/6DCoyEtk9wWyOat7GwgZSt) | 3:17 |
 | 9 | [Killin' 'em](https://open.spotify.com/track/1JVd8ynGbXhueJDT3admb0) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Scene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yoZ4Wjz3ZDxUBT9cQ5aBz) | 1:34 |
 | 10 | [Mankatha Theme Music](https://open.spotify.com/track/1A1YlVucS5hugYaeWXfCA8) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Mankatha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SV5Wjj3CH23kMOg4VrO33) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 74 | [Vidaamuyarchi Theme \(From "Vidaamuyarchi"\)](https://open.spotify.com/track/79E8OWqnXS94tghoQH4xtz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vidaamuyarchi Theme \(From "Vidaamuyarchi"\)](https://open.spotify.com/album/5wvo1WUmTzaIOOBuErUNq5) | 1:36 |
 | 75 | [The Maari Swag](https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 0:30 |
 
-Snapshot ID: `AAAAAD7e7tqmdkT/AZ/1TjgoNbdyQJag`
+Snapshot ID: `AAAAADVdRNtzkrVgfBjn2ariqXBm4jlR`

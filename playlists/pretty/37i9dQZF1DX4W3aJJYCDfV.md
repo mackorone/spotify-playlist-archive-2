@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from U2, FLO, Chris Stassy & Interplanetary Criminal and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,722 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,627 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 100 | [Willow Garden](https://open.spotify.com/track/7oEQpN5Ueu3YtnZKv4VACE) | [Radie Peat](https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji) | [Willow Garden](https://open.spotify.com/album/4AgmQX26NU12CTsmEuEiZG) | 6:11 |
 | 101 | [Easier](https://open.spotify.com/track/4AE6SCY54w8TphRcVG8E4Q) | [Jesse June](https://open.spotify.com/artist/1jTbHx4wIRpp5mbVc35lLu) | [Easier](https://open.spotify.com/album/3VdSM6FvZfM8cNTtmQh60w) | 3:04 |
 
-Snapshot ID: `AAAAAAkZkzY+La0nZuoFuSd8P+HhlSOu`
+Snapshot ID: `AAAAAB0D5hKXrkoTWdng0D4k/YsMgb5b`

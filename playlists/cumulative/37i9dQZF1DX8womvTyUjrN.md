@@ -4,10 +4,11 @@
 
 > The new wave of Latin pop 🌊 Cover: Lasso
 
-1,358 songs - 2 day 19 hr 32 min
+1,358 songs - 2 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 0:00 | 2026-11-06 |  |
 | [\(ENAMORADA\)](https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(enamorada\)](https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7) | 4:01 | 2026-04-17 | 2026-08-01 |
 | [\(favorito\)](https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(favorito\)](https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh) | 2:37 | 2026-01-23 | 2026-04-04 |
 | [\(feliz por ti\)](https://open.spotify.com/track/4qIl21nevhNOHOu8bC8vuj) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(feliz por ti\)](https://open.spotify.com/album/6pBNf9iRUQh0oh6qR4cKNM) | 3:14 | 2025-12-05 | 2026-03-14 |
@@ -1008,7 +1009,6 @@
 | [principiante](https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [principiante](https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU) | 3:25 | 2026-07-24 | 2026-09-19 |
 | [Prisionero](https://open.spotify.com/track/6BvLxVbjHqWgDqjhVRbTaZ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Prisionero](https://open.spotify.com/album/3NxfSFXY3AXan2AQ6e6PMq) | 3:55 | 2023-04-21 | 2023-06-18 |
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-06-12 | 2022-10-29 |
-| [PROFUNDA](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 2:34 | 2026-11-06 |  |
 | [PROTAGONISTAS](https://open.spotify.com/track/3EAKy7Tc7ZuUg9Q8APgYDa) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [NOREH \| A film by la vida real](https://open.spotify.com/album/7cdhgwZrFOv93Z1KInRdqv) | 2:55 | 2025-05-23 | 2025-07-12 |
 | [Proyecto ambicioso](https://open.spotify.com/track/2YYA4h7znUiXJJmlz0QHui) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Proyecto ambicioso](https://open.spotify.com/album/3HE05CxbvAJCkBO8T4kK45) | 3:41 | 2026-11-06 |  |
 | [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 | 2026-10-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17887,
+  "num_followers": 17883,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAAA8ySpEUBK87o1oxTzYI8jU",
+  "snapshot_id": "avpHgAAAAAAM0dssmxMAAEAO13/y24rt",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FREAK",
-        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 229489,
-      "name": "DEAR GOD",
-      "url": "https://open.spotify.com/track/3bSOODQdlqvcGUA7yqJCFd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERDUE",
         "url": "https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 161052,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/2nDmt51NZoiDMCpoRdr00I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 229489,
+      "name": "DEAR GOD",
+      "url": "https://open.spotify.com/track/3bSOODQdlqvcGUA7yqJCFd"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 156333,
-      "name": "Blanche",
-      "url": "https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FREAK",
         "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 129090,
       "name": "1-900-XXX-XXXX",
       "url": "https://open.spotify.com/track/1JceTxHqLMrs7yLJ4yybnp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 213336,
+      "name": "IS IT A CRIME",
+      "url": "https://open.spotify.com/track/3nJCuoX4WeSbQXGxF93ec7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/1Ha2M1Be1iDXtWOfAPBxhp"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 187086,
       "name": "Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/6hMU7eUsEX5HWVRLTIGw6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FREAK",
-        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 213336,
-      "name": "IS IT A CRIME",
-      "url": "https://open.spotify.com/track/3nJCuoX4WeSbQXGxF93ec7"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/47DegVvp3qZCPIs6952aa6"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 212784,
-      "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/52zR5zo8AYk8j6NuXEQpTg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FREAK",
         "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
       },
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 42535,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/3aZRZTCUJW6xmyKu2xXLQo"
+      "duration_ms": 143265,
+      "name": "SEXX",
+      "url": "https://open.spotify.com/track/6xTiGLyxogKgMRwdXKYJF4"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/47DegVvp3qZCPIs6952aa6"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 212784,
+      "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/52zR5zo8AYk8j6NuXEQpTg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MENTAL",
         "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
       },
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 42535,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/3aZRZTCUJW6xmyKu2xXLQo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BRUT",
         "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 213601,
       "name": "BB",
       "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FREAK",
-        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 143265,
-      "name": "SEXX",
-      "url": "https://open.spotify.com/track/6xTiGLyxogKgMRwdXKYJF4"
     },
     {
       "added_at": null,

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: GeezyDee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,313 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,325 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MoonWalkin](https://open.spotify.com/track/5mDiMtJXViQWCYaQ1M4ZDC) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [MoonWalkin](https://open.spotify.com/album/4Nq2hr1B4yOCjzEefuOmhj) | 2:50 |
+| 1 | [MoonWalkin](https://open.spotify.com/track/5mDiMtJXViQWCYaQ1M4ZDC) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Zor Beats](https://open.spotify.com/artist/4PRnYjyIiHXm9sQz1bFYen) | [MoonWalkin](https://open.spotify.com/album/4Nq2hr1B4yOCjzEefuOmhj) | 2:50 |
 | 2 | [Peli De Terror](https://open.spotify.com/track/0JJHZJCLquYTulx3unxiUH) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [Peli De Terror](https://open.spotify.com/album/5cTvoMY9dAjNe6GuGQfdNJ) | 2:42 |
 | 3 | [Chiruza](https://open.spotify.com/track/4EWVEbbiVXuOljV0CFfDJP) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei) | [Chiruza](https://open.spotify.com/album/337NlF1ItBzcf05f1ynkpK) | 2:50 |
 | 4 | [GANAS REMIX](https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [GANAS REMIX](https://open.spotify.com/album/51ZB7xmzN8RVLJfCeXJmOH) | 5:26 |

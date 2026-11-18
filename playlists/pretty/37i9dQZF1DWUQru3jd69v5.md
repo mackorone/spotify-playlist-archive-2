@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > R£d in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,340 likes - 65 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,335 likes - 65 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 6 | [pelliccia di giaguaro](https://open.spotify.com/track/3a0qysReY8rJhCgUPlewPv) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw) | [pelliccia di giaguaro](https://open.spotify.com/album/2MYVpW1NzZliK0zqc0fxdm) | 3:18 |
 | 7 | [IL NECESSARIO \(feat\. LILCR\)](https://open.spotify.com/track/02oCXv6y35fkdDH1HBKeyX) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [LUSSO E FANGO](https://open.spotify.com/album/5dhEOnOZQVyiqDgc1Cey6Q) | 2:36 |
 | 8 | [tiki tiki \*\_\_\_\*](https://open.spotify.com/track/2aY5G9EyxzPVy2z4gkpiRC) | [RIRI2K](https://open.spotify.com/artist/14QMCAaOdrpr30PrA2tvid) | [tiki tiki \*\_\_\_\*](https://open.spotify.com/album/3es8aG8NvrEHzOSQlz2OFO) | 2:34 |
-| 9 | [Badgyal \(feat\. Giovane Drago\)](https://open.spotify.com/track/3e5iSZTVWlmSba7qVscnMN) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR), [Giovane Drago](https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg) | [OASI, EDEN](https://open.spotify.com/album/3TPN16UVNiiDfsfZ0HuEh0) | 2:33 |
+| 9 | [Badgyal \(feat\. Giovane Drago\)](https://open.spotify.com/track/3e5iSZTVWlmSba7qVscnMN) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR), [Giovane Drago](https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg), [Scien](https://open.spotify.com/artist/6sJBjn9GZbhu93KnaVlwCR), [EyoJasper](https://open.spotify.com/artist/15Zh6kkBGw9ckIRquYpWLn) | [OASI, EDEN](https://open.spotify.com/album/3TPN16UVNiiDfsfZ0HuEh0) | 2:33 |
 | 10 | [NEL PANICO](https://open.spotify.com/track/5kS7ffw0QbJLfB2FU0VMS4) | [LeeZo](https://open.spotify.com/artist/6hifLfYY0cuT5LXjnV3xkj), [Coche](https://open.spotify.com/artist/486QQMJgZEn5lRL4FRlvQy) | [NEL PANICO](https://open.spotify.com/album/2GNvnnrFvzir6wHTwf5F6m) | 2:25 |
 | 11 | ['O CAVALLO 'E RITORNO](https://open.spotify.com/track/5JbtzpMcZrOzSHLfGbWFFz) | [BATTISTA](https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN) | ['O CAVALLO 'E RITORNO](https://open.spotify.com/album/1fqpPjMNan0Sd1dcWGuUtb) | 4:20 |
 | 12 | [ALLA FINE](https://open.spotify.com/track/51exmtZgvJDmxdzW8dCXdQ) | [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [ALLA FINE](https://open.spotify.com/album/6h4pCM54abtHOMwp0mmb7Q) | 3:15 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 64 | [scogliera](https://open.spotify.com/track/6WDD2wfmJbs1NLMpgaQGqy) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw) | [scogliera](https://open.spotify.com/album/2AWpWs09BOOY5l1QBm4Ym1) | 2:23 |
 | 65 | [DROGA NELLE BUSTE](https://open.spotify.com/track/4X0lKUiFeayRVTkr6sr9zi) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [YP](https://open.spotify.com/artist/0lOsqFULVrXmx9BYe7rP3A) | [DROGA NELLE BUSTE](https://open.spotify.com/album/4BQFwMVPCVORHPk0mxuPsx) | 2:20 |
 
-Snapshot ID: `AAAAABcR3eHnh9BZYsepbUfjuTLSY2XQ`
+Snapshot ID: `AAAAAMA7XEZnA9nx88F/T+ycYNLtOdm9`

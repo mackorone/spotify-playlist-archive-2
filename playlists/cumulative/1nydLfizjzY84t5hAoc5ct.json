@@ -3663,6 +3663,24 @@
     },
     {
       "album": {
+        "name": "American Optimism",
+        "url": "https://open.spotify.com/album/60b37qh19UV8AkFLFm1Xe9"
+      },
+      "artists": [
+        {
+          "name": "Junior VP",
+          "url": "https://open.spotify.com/artist/7o31xxostTHPy8fpRMPDD7"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "Head Full of Sadness",
+      "url": "https://open.spotify.com/track/4K8GBI9S9YHB5GeXPlgZb7"
+    },
+    {
+      "album": {
         "name": "HeadTurner",
         "url": "https://open.spotify.com/album/3LZwnezbK0aINpq4l47dNk"
       },

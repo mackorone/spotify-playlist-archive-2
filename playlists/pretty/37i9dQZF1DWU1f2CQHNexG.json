@@ -1,6 +1,6 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 225534,
+  "num_followers": 225588,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 257866,
-      "name": "The Things That Dreams Are Made Of - Remaster 2002",
-      "url": "https://open.spotify.com/track/5GLYtND9tYHCEdIQ1i1JH3"
+      "duration_ms": 246973,
+      "name": "The Sound Of The Crowd - Remastered 2002",
+      "url": "https://open.spotify.com/track/44ZIKFdQNivuldITWWDsM5"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/3rZuJ5oWUJGLmJLpvILp1B"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        }
+      ],
+      "duration_ms": 330960,
+      "name": "Wishing (If I Had a Photograph of You)",
+      "url": "https://open.spotify.com/track/6bJhaEuaDpObzFOrsOejlJ"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
         "name": "Into The Gap",
         "url": "https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 218933,
       "name": "Always Something There to Remind Me",
       "url": "https://open.spotify.com/track/0KlJjhnfwAnPacNd7EH45J"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/3rZuJ5oWUJGLmJLpvILp1B"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 330960,
-      "name": "Wishing (If I Had a Photograph of You)",
-      "url": "https://open.spotify.com/track/6bJhaEuaDpObzFOrsOejlJ"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 246973,
-      "name": "The Sound Of The Crowd - Remastered 2002",
-      "url": "https://open.spotify.com/track/44ZIKFdQNivuldITWWDsM5"
+      "duration_ms": 257866,
+      "name": "The Things That Dreams Are Made Of - Remaster 2002",
+      "url": "https://open.spotify.com/track/5GLYtND9tYHCEdIQ1i1JH3"
     },
     {
       "added_at": "2024-07-09 02:45:34",

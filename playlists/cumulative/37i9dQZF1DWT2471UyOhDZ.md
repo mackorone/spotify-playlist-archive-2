@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Kings of Leon
 
-555 songs - 1 day 11 hr 40 min
+556 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Always Some MF](https://open.spotify.com/track/1DPycGNFfBveTyk51nG9VG) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Always Some MF](https://open.spotify.com/album/7kySkdJL5cB48aMcxNdEIc) | 4:38 | 2025-02-28 | 2025-04-30 |
 | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0) | 4:16 | 2026-01-12 | 2026-06-26 |
 | [AMAMA](https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:10 | 2024-06-14 | 2025-10-24 |
-| [Amber](https://open.spotify.com/track/0gzGERYI7A4ORxxMIYM8ol) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Amber](https://open.spotify.com/album/5pheavpnjvGXl4yAWGIRhl) | 2:27 | 2026-07-23 | 2026-11-02 |
+| [Amber](https://open.spotify.com/track/0gzGERYI7A4ORxxMIYM8ol) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Amber](https://open.spotify.com/album/5pheavpnjvGXl4yAWGIRhl) | 2:27 | 2026-07-23 |  |
 | [An Artist Is An Artist](https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [An Artist Is An Artist](https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ) | 3:11 | 2025-02-07 | 2026-03-10 |
 | [Ankles](https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/4wsg5JXL6d2ZG6siAKYizP) | 3:11 | 2025-01-17 | 2025-02-08 |
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-02-07 | 2025-06-04 |
@@ -296,7 +296,7 @@
 | [Long Throes](https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [All Hell](https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c) | 4:19 | 2024-07-18 | 2025-01-31 |
 | [Loose Talk](https://open.spotify.com/track/34y46kIPGCkh120SPNqtoi) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [Soft Control](https://open.spotify.com/album/5fRHlDzwhKI3KaGQKWrNPC) | 3:25 | 2026-08-20 | 2026-10-10 |
 | [Lose All Your Friends](https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Lose All Your Friends](https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS) | 5:01 | 2026-08-28 |  |
-| [Loser's Prize](https://open.spotify.com/track/4D0rf55hqEL8PjxHJuDCo2) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Loser's Prize](https://open.spotify.com/album/6fqTyj0rpCM3oUd7IafzZl) | 4:42 | 2026-10-01 |  |
+| [Loser's Prize](https://open.spotify.com/track/4D0rf55hqEL8PjxHJuDCo2) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Loser's Prize](https://open.spotify.com/album/6fqTyj0rpCM3oUd7IafzZl) | 4:42 | 2026-10-01 | 2026-11-18 |
 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 | 2024-06-14 | 2025-03-22 |
 | [Lost and Found](https://open.spotify.com/track/7BzfqlcZzFr2bjTbLfxx1a) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Lost and Found](https://open.spotify.com/album/7y2bMzJ7K5qgtnEIJeyat7) | 4:15 | 2025-05-08 | 2025-06-28 |
 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 | 2026-06-25 |  |
@@ -331,12 +331,13 @@
 | [Mild To Moderate Pain](https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Mild To Moderate Pain](https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3) | 3:15 | 2025-03-21 | 2025-05-24 |
 | [Misery](https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Altar](https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f) | 3:38 | 2025-10-02 | 2026-08-13 |
 | [Mockingjay](https://open.spotify.com/track/22hjpM2j5KWg7zNyve4T1g) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Mockingjay](https://open.spotify.com/album/2vuLW3TUCDbcikyzgITy6o) | 3:01 | 2025-09-11 | 2025-10-03 |
-| [Monroe](https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Monroe](https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ) | 3:40 | 2026-06-25 |  |
+| [Monroe](https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Monroe](https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ) | 3:40 | 2026-06-25 | 2026-11-18 |
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-14 | 2025-02-25 |
 | [More Than Life](https://open.spotify.com/track/4MDDmR04IUFyHS1VEVhvQW) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [More than Life](https://open.spotify.com/album/0LSpjM0q2oTaH0pnaQSsO7) | 5:33 | 2025-01-17 | 2025-05-04 |
 | [mother\-of\-pearl](https://open.spotify.com/track/2wLvZ92HRFS410a00f96Hk) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 3:43 | 2026-06-18 | 2026-08-28 |
 | [Mothers of Riches](https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Michelangelo Dying](https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho) | 4:34 | 2025-10-02 | 2026-03-06 |
 | [Mountain out of a Molehill](https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Mountain out of a Molehill](https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j) | 3:25 | 2024-10-06 | 2025-01-30 |
+| [Mountain Song](https://open.spotify.com/track/4KwT7gvLuYKE6nWCiABfbi) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Mountain Song](https://open.spotify.com/album/2aulNOoAUoqim7nBiMPANC) | 2:36 | 2026-11-06 |  |
 | [Moving Target](https://open.spotify.com/track/4AE2XU5eDmnXzQGhO3IZDt) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Moving Target](https://open.spotify.com/album/4CBGWqdfWqIKs8WvfjWn8z) | 3:15 | 2026-10-01 |  |
 | [Mr Midnight](https://open.spotify.com/track/0FnYKWgJSf220kZ3XEM26Z) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Miles Kane & The Evils](https://open.spotify.com/album/5wBjDGheSVDEB9OKVtP5ee) | 1:37 | 2024-06-14 | 2024-10-07 |
 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 | 2025-02-07 | 2026-06-19 |

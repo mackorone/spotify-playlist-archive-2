@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 182807,
+  "num_followers": 182852,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAAD65sTgzDzC6dXOctI+7W0r",
+  "snapshot_id": "avpHgAAAAABqfVCd8zuFvR7LK/4qvvAL",
   "tracks": [
     {
       "added_at": null,
@@ -560,17 +560,25 @@
       "added_at": null,
       "album": {
         "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
+        "url": "https://open.spotify.com/album/03SZKPbwKhT0EOZtIh9OwZ"
       },
       "artists": [
         {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        },
+        {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 172337,
-      "name": "DEEPER",
-      "url": "https://open.spotify.com/track/6uiUu8lf4zPULWU3m5jh6i"
+      "duration_ms": 118153,
+      "name": "PIMMIE'S DILEMMA",
+      "url": "https://open.spotify.com/track/5b0957OUHcG5XXeFcxM0ws"
     },
     {
       "added_at": null,
@@ -632,25 +640,17 @@
       "added_at": null,
       "album": {
         "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/03SZKPbwKhT0EOZtIh9OwZ"
+        "url": "https://open.spotify.com/album/4wEwKRE95Hk3ljcsj8PTOy"
       },
       "artists": [
         {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
-        },
-        {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 118153,
-      "name": "PIMMIE'S DILEMMA",
-      "url": "https://open.spotify.com/track/5b0957OUHcG5XXeFcxM0ws"
+      "duration_ms": 172337,
+      "name": "DEEPER",
+      "url": "https://open.spotify.com/track/6uiUu8lf4zPULWU3m5jh6i"
     },
     {
       "added_at": null,

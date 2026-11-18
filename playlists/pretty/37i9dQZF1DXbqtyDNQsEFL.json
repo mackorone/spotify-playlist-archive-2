@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor",
-  "num_followers": 121942,
+  "num_followers": 121953,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKeqeP/yhZWpjVngR3mEvvOUwFdR",
+  "snapshot_id": "AAAAAO338SijJYQvfGq7vh4cQLsUw2K8",
   "tracks": [
     {
       "added_at": "2025-09-05 00:01:24",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/1Bht3V5sKOb11mUdSX8KEl"
     },
     {
-      "added_at": "2026-01-30 00:01:24",
-      "album": {
-        "name": "Walk On Water (Live)",
-        "url": "https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW"
-      },
-      "artists": [
-        {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
-        }
-      ],
-      "duration_ms": 538235,
-      "name": "Walk On Water - Live",
-      "url": "https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX"
-    },
-    {
       "added_at": "2026-02-27 00:01:20",
       "album": {
         "name": "NEVER BOW TO BAAL",
@@ -1351,6 +1335,22 @@
       "duration_ms": 538000,
       "name": "NEVER BOW TO BAAL",
       "url": "https://open.spotify.com/track/4bL7qOqEwsqhQsDZzah3Yd"
+    },
+    {
+      "added_at": "2026-01-30 00:01:24",
+      "album": {
+        "name": "Walk On Water (Live)",
+        "url": "https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 538235,
+      "name": "Walk On Water - Live",
+      "url": "https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
-      "added_at": "2026-10-16 00:01:33",
-      "album": {
-        "name": "pilgrim",
-        "url": "https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV"
-      },
-      "artists": [
-        {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        }
-      ],
-      "duration_ms": 221116,
-      "name": "freefall",
-      "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
-    },
-    {
       "added_at": "2025-01-07 00:01:28",
       "album": {
         "name": "This Year (Remix)",
@@ -1527,6 +1511,22 @@
       "duration_ms": 162782,
       "name": "This Year - Remix",
       "url": "https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7"
+    },
+    {
+      "added_at": "2026-10-16 00:01:33",
+      "album": {
+        "name": "pilgrim",
+        "url": "https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 221116,
+      "name": "freefall",
+      "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
     },
     {
       "added_at": "2023-12-15 00:01:00",

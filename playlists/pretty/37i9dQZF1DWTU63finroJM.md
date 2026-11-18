@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: JAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,564 likes - 25 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,568 likes - 25 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 16 | [Non sono lei](https://open.spotify.com/track/4pod9adi7EYyk2Asi8HcHf) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Non sono lei](https://open.spotify.com/album/2QEGkfbqwSgY9h4X5hj57Q) | 2:45 |
 | 17 | [Saisons](https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Saisons](https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk) | 3:11 |
 | 18 | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/track/1QQ8zcJLMyO7ti83nM1d9g) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:25 |
-| 19 | [Ishaare](https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Ishaare](https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9) | 2:22 |
-| 20 | [คนเดิม \(stay with me\)](https://open.spotify.com/track/3XHZDEytvJUol6TqAaoI0W) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [AFTERIMAGE](https://open.spotify.com/album/6kTDUHLS6OxhPd9L4Xy2OT) | 3:11 |
+| 19 | [คนเดิม \(stay with me\)](https://open.spotify.com/track/3XHZDEytvJUol6TqAaoI0W) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [AFTERIMAGE](https://open.spotify.com/album/6kTDUHLS6OxhPd9L4Xy2OT) | 3:11 |
+| 20 | [Ishaare](https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Ishaare](https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9) | 2:22 |
 | 21 | [Hard Rock](https://open.spotify.com/track/3vlHkohkAGM9BpisshPbrI) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [New Entertainment](https://open.spotify.com/album/1nNZEWRU7yPKzcspP9EWAL) | 3:20 |
 | 22 | [Atypical](https://open.spotify.com/track/3xFP682GYjttVzx4gL79T5) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [allie](https://open.spotify.com/artist/7JPsWnynfZxpOE77M22LdC) | [Numbskull](https://open.spotify.com/album/4FwRkmPT4WoxrBAerMhIPy) | 2:32 |
 | 23 | [Ain't so Kind](https://open.spotify.com/track/1kkV6v4xKGnQg1I31wafnK) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [I Just Wanna Make My Daddy Proud](https://open.spotify.com/album/0NL0Tl9jSVm6pO5cm8GsYX) | 3:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: CHRIS STASSY, Interplanetary Criminal
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,975 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,962 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [making out](https://open.spotify.com/track/5SQWCnd28UO4FrMwUYpQN5) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [making out](https://open.spotify.com/album/2kVA2DXxldHD7H9HNs0ah0) | 3:28 |
 | 99 | [It's Love](https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Cavi](https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK) | [It's Love](https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX) | 3:15 |
 
-Snapshot ID: `AAAAAKGdUtE/brKzX33FeSr13vVlRalr`
+Snapshot ID: `AAAAAHvSX1R3yAOIEUq2ATBdqDQtfT5C`

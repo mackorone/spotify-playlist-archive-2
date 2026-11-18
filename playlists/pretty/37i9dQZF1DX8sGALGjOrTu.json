@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 541149,
+  "num_followers": 541183,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABWaQJlFPuFLDB88do3xFzz1Z3U+",
+  "snapshot_id": "AAAAAI00oekDU/CjqaBXb/Fj8MNGs4Si",
   "tracks": [
     {
       "added_at": "2025-11-24 12:49:27",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "The Artist In The Ambulance",
-      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Saosin",
         "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 217524,
       "name": "Voices",
       "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "The Artist In The Ambulance",
+      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "What It Is To Burn",
-        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Letters To You",
-      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "His Last Walk",
         "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 235640,
       "name": "Guys Like You Make Us Look Bad",
       "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Letters To You",
+      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Try This With Your Eyes Closed",
-        "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
-      },
-      "artists": [
-        {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
-        }
-      ],
-      "duration_ms": 249613,
-      "name": "Apology",
-      "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Louder Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 171831,
       "name": "Error Operator",
       "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Try This With Your Eyes Closed",
+        "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 249613,
+      "name": "Apology",
+      "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Wires...And The Concept Of Breathing",
-        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "I'm Not A Thief, I'm A Treasure Hunter",
-      "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "I Am Hollywood",
         "url": "https://open.spotify.com/album/6tooAA6e8rMEkgbMrsdo3r"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "There For Tomorrow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZRygrECnzHvuOjRXnQtkd"
+        "name": "Wires...And The Concept Of Breathing",
+        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
       },
       "artists": [
         {
-          "name": "There For Tomorrow",
-          "url": "https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM"
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
         }
       ],
-      "duration_ms": 211933,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/1xJULOj0c01wovNn42lOsC"
+      "duration_ms": 198693,
+      "name": "I'm Not A Thief, I'm A Treasure Hunter",
+      "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
+        "name": "There For Tomorrow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZRygrECnzHvuOjRXnQtkd"
+      },
+      "artists": [
+        {
+          "name": "There For Tomorrow",
+          "url": "https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/1xJULOj0c01wovNn42lOsC"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
         "name": "A Static Lullaby",
         "url": "https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 239000,
       "name": "Hang 'Em High",
       "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
-        "name": "Wires...And The Concept Of Breathing",
-        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "All It Takes For Your Dreams To Come True",
-      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1599,18 +1583,34 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Grey Britain",
-        "url": "https://open.spotify.com/album/0e4COGZAatnQJgjuEA99Wk"
+        "name": "Wires...And The Concept Of Breathing",
+        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
       },
       "artists": [
         {
-          "name": "Gallows",
-          "url": "https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu"
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
         }
       ],
-      "duration_ms": 191066,
-      "name": "London Is the Reason",
-      "url": "https://open.spotify.com/track/10dmrl943UpZLn61i2NyzK"
+      "duration_ms": 194906,
+      "name": "All It Takes For Your Dreams To Come True",
+      "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Until There's Nothing Left Of Us",
+        "url": "https://open.spotify.com/album/12mFu80RyP4ciSEnB4gcFo"
+      },
+      "artists": [
+        {
+          "name": "Kill Hannah",
+          "url": "https://open.spotify.com/artist/3s6SVwL2W0JLnIlwkjnU55"
+        }
+      ],
+      "duration_ms": 223693,
+      "name": "Lips Like Morphine",
+      "url": "https://open.spotify.com/track/6T91rdmNG5oPQmI4bu00dy"
     }
   ],
   "unique_name": "Chaos Anthems",

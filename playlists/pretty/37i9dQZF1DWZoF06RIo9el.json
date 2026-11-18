@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de octubre 2026. Cover: Judeline",
-  "num_followers": 1538766,
+  "num_followers": 1538536,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "milveces",
+        "url": "https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "milveces",
+      "url": "https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "No es tu estilo",
         "url": "https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 151624,
       "name": "si",
       "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "milveces",
-        "url": "https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk"
-      },
-      "artists": [
-        {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "milveces",
-      "url": "https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br"
     },
     {
       "added_at": "2026-10-21 21:02:34",

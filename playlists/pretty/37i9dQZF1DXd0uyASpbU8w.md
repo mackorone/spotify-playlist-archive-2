@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Mlindo The Vocalist, Internet Girl, Solana, Shakes & Les,  Ggoldie & Chlé and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,334 likes - 90 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,414 likes - 90 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 89 | [Wide Eyes](https://open.spotify.com/track/20lF0XlycmE6BQgPKCfvK1) | [Tyler Linkman](https://open.spotify.com/artist/7ucMQHGfqFQCBYDgzxgHoO) | [Wide Eyes](https://open.spotify.com/album/18ZUEjbGwQwAVEroeyRvi6) | 2:45 |
 | 90 | [Mpumelelo \- Radio Version](https://open.spotify.com/track/1tIacL3j10eVzaaubscCpu) | [Onset Music Group](https://open.spotify.com/artist/191W2veGxkx4OXrhyN89RI), [Pretty Keys](https://open.spotify.com/artist/3tZarjqGDu7V79Fg3vN0ZG) | [Mpumelelo \(Radio Version\)](https://open.spotify.com/album/0caF3XViY5ue8mUPF7iXrr) | 4:55 |
 
-Snapshot ID: `AAAAAChNyLjc4+nJfXpp1wLWy9kZyPJr`
+Snapshot ID: `AAAAAL1pYnylgP2SSQPpU/avYyWCHpCp`

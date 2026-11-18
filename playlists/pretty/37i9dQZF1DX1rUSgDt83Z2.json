@@ -1,12 +1,12 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 82168,
+  "num_followers": 82170,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG4DFblMhWECp/533CJYos/7582P",
+  "snapshot_id": "AAAAADyFI+oX77uB9YXtr/LWWild+8/W",
   "tracks": [
     {
       "added_at": "2026-11-05 23:00:22",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
+        "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
+        "url": "https://open.spotify.com/album/5kgoAHKiaOk2YsJe6HATxX"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 150475,
+      "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
+      "url": "https://open.spotify.com/track/2uA8dEMA61IBCXGz4lA3GD"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
         "name": "Hoe hou ik dit vast",
         "url": "https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 218898,
       "name": "Hoe hou ik dit vast",
       "url": "https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
-        "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
-        "url": "https://open.spotify.com/album/5kgoAHKiaOk2YsJe6HATxX"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        }
-      ],
-      "duration_ms": 150475,
-      "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
-      "url": "https://open.spotify.com/track/2uA8dEMA61IBCXGz4lA3GD"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "DWARS",
-        "url": "https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Helikopterpiloot",
-      "url": "https://open.spotify.com/track/1ZZztoTXn9uU4fQyKSJ7kU"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Glas",
         "url": "https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 215585,
       "name": "Glas",
       "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "DWARS",
+        "url": "https://open.spotify.com/album/3D89VeRqTfJzaFXRxnNT3S"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Helikopterpiloot",
+      "url": "https://open.spotify.com/track/1ZZztoTXn9uU4fQyKSJ7kU"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Ik doe het weer",
-        "url": "https://open.spotify.com/album/3tgYZD8sQAi7FMtIcuOuMN"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "Ik doe het weer",
-      "url": "https://open.spotify.com/track/5kfer9g13z90S33DUd6DU2"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Mijn Liefste",
         "url": "https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 190086,
       "name": "Mijn Liefste",
       "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "Ik doe het weer",
+        "url": "https://open.spotify.com/album/3tgYZD8sQAi7FMtIcuOuMN"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "Ik doe het weer",
+      "url": "https://open.spotify.com/track/5kfer9g13z90S33DUd6DU2"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
-        "name": "Niets Doen",
-        "url": "https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 183041,
-      "name": "File Lied",
-      "url": "https://open.spotify.com/track/1Pzpr4nl7apUt2pXMSQr3E"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
         "name": "Nu Jij Hier Niet Meer Bent",
         "url": "https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 250269,
       "name": "Nu Jij Hier Niet Meer Bent",
       "url": "https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
+        "name": "Niets Doen",
+        "url": "https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 183041,
+      "name": "File Lied",
+      "url": "https://open.spotify.com/track/1Pzpr4nl7apUt2pXMSQr3E"
     },
     {
       "added_at": "2026-11-05 23:00:22",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-11-05 23:00:22",
       "album": {
+        "name": "Een Andere Jij - Akoestisch",
+        "url": "https://open.spotify.com/album/0ApIodL4hUXlRbh1A7H2nf"
+      },
+      "artists": [
+        {
+          "name": "Adriaan Persons",
+          "url": "https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg"
+        }
+      ],
+      "duration_ms": 165608,
+      "name": "Een Andere Jij - Akoestisch",
+      "url": "https://open.spotify.com/track/0VJp4AxKemC3pmhbERavxn"
+    },
+    {
+      "added_at": "2026-11-05 23:00:22",
+      "album": {
         "name": "Er wordt altijd ergens gedanst",
         "url": "https://open.spotify.com/album/70wylgcdsrBAxacZfFkDru"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 177086,
       "name": "Zuidas Jimmy",
       "url": "https://open.spotify.com/track/3YqsML7aILH28qx53cMJvQ"
-    },
-    {
-      "added_at": "2026-11-05 23:00:22",
-      "album": {
-        "name": "Een Andere Jij - Akoestisch",
-        "url": "https://open.spotify.com/album/0ApIodL4hUXlRbh1A7H2nf"
-      },
-      "artists": [
-        {
-          "name": "Adriaan Persons",
-          "url": "https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg"
-        }
-      ],
-      "duration_ms": 165608,
-      "name": "Een Andere Jij - Akoestisch",
-      "url": "https://open.spotify.com/track/0VJp4AxKemC3pmhbERavxn"
     },
     {
       "added_at": "2026-11-05 23:00:22",

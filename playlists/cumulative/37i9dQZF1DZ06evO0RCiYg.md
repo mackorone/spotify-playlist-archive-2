@@ -4,7 +4,7 @@
 
 > This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
-93 songs - 6 hr 14 min
+94 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [CELEBRATE](https://open.spotify.com/track/4MV3y1rxojIWLDLMqf6D5d) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:39 | 2024-05-25 | 2024-07-24 |
 | [Don't Lie](https://open.spotify.com/track/6tp27J7xy18DQiQXut3GsF) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 3:39 | 2023-07-28 |  |
 | [Don't Phunk With My Heart](https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 3:59 | 2023-07-28 |  |
+| [Don't Phunk With My Heart \- Chicago House Remix Version](https://open.spotify.com/track/3evwGzFk7pDC5AizLL08Ai) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Keith Harris](https://open.spotify.com/artist/1xCzIWADhHc3qmVesDX7Gp) | [Monkey Business \(20th Anniversary Edition\)](https://open.spotify.com/album/2jCgqL6qRRF8yuQhc21qVQ) | 3:46 | 2026-11-18 |  |
 | [DON'T YOU WORRY](https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY](https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb) | 3:16 | 2023-07-28 |  |
 | [Don’t Stop The Party](https://open.spotify.com/track/61s24wRVyG7NP9m7EjdDKL) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning](https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy) | 6:07 | 2023-07-28 |  |
 | [DOPENESS \(feat\. CL\)](https://open.spotify.com/track/1LYuXxdooUiWRNMPEPleqX) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 4:38 | 2024-05-11 | 2024-07-24 |
@@ -63,7 +64,7 @@
 | [MUEVELO](https://open.spotify.com/track/6r0bDGDS8JJShneQkMAzj1) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [MUEVELO](https://open.spotify.com/album/1JviwowNAeoLx0kQJ2A2h4) | 4:14 | 2023-07-28 |  |
 | [My Humps](https://open.spotify.com/track/20jYtEun4dUdYZ9foaOC48) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 5:26 | 2023-07-28 |  |
 | [My Humps \- JBroadway Remix](https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m) | [JBroadway](https://open.spotify.com/artist/6WdccSPsTJcEHFoSdWpYvh), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps \(JBroadway Remix\)](https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw) | 2:15 | 2025-07-16 |  |
-| [My Humps \- Single Version](https://open.spotify.com/track/4ThCFbTzk1ghQ3zcUUswtE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps](https://open.spotify.com/album/5gYvt08iJYSGmRnBRpXvUZ) | 4:10 | 2023-07-28 |  |
+| [My Humps \- Single Version](https://open.spotify.com/track/4ThCFbTzk1ghQ3zcUUswtE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps](https://open.spotify.com/album/5gYvt08iJYSGmRnBRpXvUZ) | 4:10 | 2023-07-28 | 2026-11-18 |
 | [My Style](https://open.spotify.com/track/4X76j1maXUPutHtrb9cGnL) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 4:28 | 2026-08-26 | 2026-08-27 |
 | [NO MAÑANA](https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:41 | 2023-07-28 | 2026-05-22 |
 | [Party All The Time](https://open.spotify.com/track/6HEOkR22W4pJuKNpDwnSFC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:43 | 2024-05-25 |  |

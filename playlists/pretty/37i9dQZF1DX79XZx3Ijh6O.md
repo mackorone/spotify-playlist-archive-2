@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: Настя Гонцул
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,223 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,233 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 49 | [лише для нас](https://open.spotify.com/track/3RhyRbKIZ612WLI2OXrzEp) | [kedrova](https://open.spotify.com/artist/5HnrXbE5dYA9wdMS6eerh0) | [\#2](https://open.spotify.com/album/1a3B9lMPWT8zChxZDuOocu) | 3:38 |
 | 50 | [справжньому](https://open.spotify.com/track/6e8sRs0DcN5YCMCCmIprLb) | [OGGIAMA](https://open.spotify.com/artist/0pxEqYpr2RKLLRVhQ8hY0N) | [справжньому](https://open.spotify.com/album/1g3NqMz7umKyDYDaNGYbCw) | 2:51 |
 
-Snapshot ID: `AAAAAHivd5oJSn3GbKSOqpbL9ijazvI1`
+Snapshot ID: `AAAAAAUQ3oPs+PQz8Nglh/nJLelclEwO`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: Maria Kim) \uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "All about Korean Jazz hits & new (Cover: YUJIN KIM) (\uc0c8\ub86d\uace0 \ud56b\ud55c \uad6d\ub0b4 \uc7ac\uc988 \uc74c\uc545\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -432,6 +432,32 @@
       "duration_ms": 262402,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/75IjhFxQkIvCzP16IyR5Ob"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/6J0QVRhNoM4AaOGtdOwOMu"
+      },
+      "artists": [
+        {
+          "name": "YUJIN KIM",
+          "url": "https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb"
+        },
+        {
+          "name": "JISU",
+          "url": "https://open.spotify.com/artist/1QUxcni0biHr4HFdN44QE9"
+        },
+        {
+          "name": "Seoin Lee",
+          "url": "https://open.spotify.com/artist/6oPVVCTanIJ4FPlnpCdnkd"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167812,
+      "name": "Bed",
+      "url": "https://open.spotify.com/track/25QywadzhRSB3COQljUTe3"
     },
     {
       "album": {

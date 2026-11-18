@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Grumpys.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: antimorbo.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -15635,6 +15635,24 @@
     },
     {
       "album": {
+        "name": "Ahora Que El Mundo Termina",
+        "url": "https://open.spotify.com/album/68kIW278tRqp2Xwfbt32iq"
+      },
+      "artists": [
+        {
+          "name": "PRENDA",
+          "url": "https://open.spotify.com/artist/4CZAm9Ahn8YEemHClytQKk"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191800,
+      "name": "Azul, Rosa y Amarillo",
+      "url": "https://open.spotify.com/track/2zLTz6tIWQ7vPN5FQVOTnf"
+    },
+    {
+      "album": {
         "name": "C.R.I.N.G.E.",
         "url": "https://open.spotify.com/album/3wvLfPw8jvEUl9xSY8qSVA"
       },
@@ -21626,7 +21644,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 139857,
       "name": "Cada vez mejor",
       "url": "https://open.spotify.com/track/5kJOBbDS0mlcoLnDJb34NT"
@@ -23900,7 +23918,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 173000,
       "name": "Car Crasha Sorotiko Bidien",
       "url": "https://open.spotify.com/track/0kH9o1cax1nz7TOqOnuPrV"
@@ -32326,6 +32344,24 @@
       "duration_ms": 148000,
       "name": "Corriendo palante",
       "url": "https://open.spotify.com/track/4AmoO9wqRTStnsRZfpbBMN"
+    },
+    {
+      "album": {
+        "name": "CORRIENDO POR LA VIDA",
+        "url": "https://open.spotify.com/album/67Qutzf4ZLmd1iAWNCTe4T"
+      },
+      "artists": [
+        {
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "CORRIENDO POR LA VIDA",
+      "url": "https://open.spotify.com/track/07S2GP2SFPU47Ljkej4Lqo"
     },
     {
       "album": {
@@ -46402,7 +46438,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 205854,
       "name": "El kiosko de mi barrio",
       "url": "https://open.spotify.com/track/6yLiTan9Lw1BYcwrDbyVzQ"
@@ -53642,7 +53678,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 297978,
       "name": "Esta Vez",
       "url": "https://open.spotify.com/track/2p22KrvlImycl0OkAQWbQk"
@@ -72185,6 +72221,24 @@
     },
     {
       "album": {
+        "name": "La Crucifixi\u00f3n Rosa",
+        "url": "https://open.spotify.com/album/4DU8G36gXMM76smc3rGCA1"
+      },
+      "artists": [
+        {
+          "name": "Billman",
+          "url": "https://open.spotify.com/artist/5eqPoXuCfFE6WFiDMNrUjc"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202663,
+      "name": "La Crucifixi\u00f3n Rosa",
+      "url": "https://open.spotify.com/track/4KYVEmMmxkMZrB5zGBDgu4"
+    },
+    {
+      "album": {
         "name": "La Cuerda / Ceniza",
         "url": "https://open.spotify.com/album/1JE7pJC3aOSNWSsjWvK9zR"
       },
@@ -74948,7 +75002,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 248530,
       "name": "La pel\u00edcula que he visto m\u00e1s veces",
       "url": "https://open.spotify.com/track/3qC3EdL4AiVOvO9X83ioRp"
@@ -88315,6 +88369,24 @@
     },
     {
       "album": {
+        "name": "Una nueva esperanza",
+        "url": "https://open.spotify.com/album/2AnUfW3JSqhf6rvrtW2tmU"
+      },
+      "artists": [
+        {
+          "name": "Salvar Do\u00f1ana",
+          "url": "https://open.spotify.com/artist/526ywrSIP4dMcygQven5RL"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163508,
+      "name": "Ma\u00f1anas de domingo",
+      "url": "https://open.spotify.com/track/31U2HH0rZED6GKsf52yGnf"
+    },
+    {
+      "album": {
         "name": "Ma\u00f1aneo",
         "url": "https://open.spotify.com/album/4yb6K36BxYyDB6vUHi4qgd"
       },
@@ -100346,7 +100418,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 259971,
       "name": "Ni Lugar Ni Manera",
       "url": "https://open.spotify.com/track/6FkhKpzAydTDW3VXcf4157"
@@ -105980,6 +106052,24 @@
       "duration_ms": 183176,
       "name": "NO TODO VALE",
       "url": "https://open.spotify.com/track/4YvGHyaWdHa8liRpwH9uP6"
+    },
+    {
+      "album": {
+        "name": "Pilot (o) Autom\u00e0tic (o)",
+        "url": "https://open.spotify.com/album/4CZ4fSX2PbBKWFdyUJMFtY"
+      },
+      "artists": [
+        {
+          "name": "Tura Sala",
+          "url": "https://open.spotify.com/artist/6ToRxr9Rri0tJpgKO2a3Kc"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202918,
+      "name": "no tot va de tu",
+      "url": "https://open.spotify.com/track/6TFkVwcilCITkuO9I67CnN"
     },
     {
       "album": {
@@ -116892,7 +116982,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 171920,
       "name": "picapica",
       "url": "https://open.spotify.com/track/2lznEMeaRokkckjzzKk7uu"
@@ -121970,7 +122060,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 218379,
       "name": "P\u00e1jaro negro",
       "url": "https://open.spotify.com/track/0lniIExoAGW5DClFcqK5Y6"
@@ -128268,6 +128358,24 @@
       "duration_ms": 196071,
       "name": "Romancero Propio",
       "url": "https://open.spotify.com/track/3O1GoifSo01SPqbl1JUQgd"
+    },
+    {
+      "album": {
+        "name": "ROMANTICIDIO",
+        "url": "https://open.spotify.com/album/7c9n1qxVd5rVx92ylLALuH"
+      },
+      "artists": [
+        {
+          "name": "Atomic Lemons",
+          "url": "https://open.spotify.com/artist/71Gzjz9NF7NeA8VrLKVehu"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217791,
+      "name": "ROMANTICIDIO",
+      "url": "https://open.spotify.com/track/4Ig44U29QbhUbLnPTd3bLC"
     },
     {
       "album": {
@@ -142568,6 +142676,24 @@
       "duration_ms": 111543,
       "name": "Te echo en falta",
       "url": "https://open.spotify.com/track/5Zd4BY2crLTMwDFJlLfSGK"
+    },
+    {
+      "album": {
+        "name": "Te Elijo",
+        "url": "https://open.spotify.com/album/1DS1qcr5rgUqyRCuY7Ukxu"
+      },
+      "artists": [
+        {
+          "name": "Elem",
+          "url": "https://open.spotify.com/artist/4Ld1TuG5yea5RoYMLBNOVT"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166627,
+      "name": "Te Elijo",
+      "url": "https://open.spotify.com/track/6NcBKIgVk1M7k2sIxBU82X"
     },
     {
       "album": {

@@ -32758,7 +32758,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 260609,
       "name": "\u3053\u306e\u5fc3\u81d3\u306b\u82b1\u675f\u3092",
       "url": "https://open.spotify.com/track/5KQJgsLQFQiTUfFcuLd4eQ"
@@ -45643,6 +45643,24 @@
     },
     {
       "album": {
+        "name": "\u65e5\u3005\u3092\u8d8a\u3048\u3066",
+        "url": "https://open.spotify.com/album/3lfITVglirdj8SQIHBjvP7"
+      },
+      "artists": [
+        {
+          "name": "\u660e\u304f\u308b\u591c\u306e\u7f8a",
+          "url": "https://open.spotify.com/artist/0a6W3KiBwHJQwCbh5blGwi"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "\u541b\u306b\u3001\u3044\u3064\u304b\u3002",
+      "url": "https://open.spotify.com/track/6NMMNtnSkkA4pODjnsUoDs"
+    },
+    {
+      "album": {
         "name": "\u541b\u306b\u3075\u3055\u308f\u3057\u3044\u5947\u8de1",
         "url": "https://open.spotify.com/album/4kZGVeA4MGbqHlHsAbvjPH"
       },
@@ -51934,7 +51952,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 230154,
       "name": "\u79d8\u5bc6\u306e\u30d1\u30ce\u30e9\u30de",
       "url": "https://open.spotify.com/track/3tCiwcbtprnj4NzMxNTgNf"
@@ -53488,6 +53506,24 @@
       "duration_ms": 277341,
       "name": "\u8cb8\u3057\u3063\u3071\u306a\u3057\u30c7\u30b9\u30c6\u30a3\u30cb\u30fc",
       "url": "https://open.spotify.com/track/71xlmmNpMLE6tlnR8sWHdv"
+    },
+    {
+      "album": {
+        "name": "\u8cfd",
+        "url": "https://open.spotify.com/album/0iG6PBaek9i1CqzENiA8K2"
+      },
+      "artists": [
+        {
+          "name": "LIL LEAGUE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "\u8cfd",
+      "url": "https://open.spotify.com/track/2ZzN1oocqTeqzwIdio9N3Z"
     },
     {
       "album": {

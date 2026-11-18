@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,124 likes - 219 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,126 likes - 219 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 70 | [Everything We Need](https://open.spotify.com/track/3169losYvbf5XYLSWA4yIy) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [You're Welcome](https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i) | 3:05 |
 | 71 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
 | 72 | [Stuck With Me](https://open.spotify.com/track/6Ej6WtjqLbro72mF4Y1Xdb) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:52 |
-| 73 | [Run Wild](https://open.spotify.com/track/0FsGUPoOMHzHnViGBKbBLX) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Definition](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC) | 3:12 |
-| 74 | [The Banjo Song](https://open.spotify.com/track/6sqUnjIySqur2BocQgFQKP) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:49 |
+| 73 | [The Banjo Song](https://open.spotify.com/track/6sqUnjIySqur2BocQgFQKP) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:49 |
+| 74 | [Run Wild](https://open.spotify.com/track/0FsGUPoOMHzHnViGBKbBLX) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Definition](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC) | 3:12 |
 | 75 | [Life Must Go On](https://open.spotify.com/track/3vmsnZF4KPLjbDgZEqwTdL) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [From Michigan With Love](https://open.spotify.com/album/7zGPSFi3LOIC1L5Dj0oEBx) | 3:05 |
 | 76 | [Holy \- Acoustic](https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy \(Acoustic\)](https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU) | 3:25 |
 | 77 | [Kingdom Come](https://open.spotify.com/track/2TpZlmChocrfeL5J6ed70t) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 2:19 |
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 152 | [Halloween](https://open.spotify.com/track/03RNpvzwMGViDHvZKfbNIo) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 2:46 |
 | 153 | [NewYorkSoul](https://open.spotify.com/track/6ohJSdVEIrNnHMKJWKM9vz) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 2:33 |
 | 154 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 |
-| 155 | [How To Live Alone](https://open.spotify.com/track/1ekYi0cXpPWegN8YZ6Gpe7) | [Evan Ross](https://open.spotify.com/artist/2DJndwwEpPtnmQn48NPBUM), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [How To Live Alone](https://open.spotify.com/album/6GLU0bIY8a32bPuYfvzJ0X) | 3:51 |
-| 156 | [Whistle While I Work It](https://open.spotify.com/track/2u3FkqjDD3yexZhbAq43cI) | [Chester See](https://open.spotify.com/artist/2iTiSaR023IikZDaOfEIRR), [Wayne Brady](https://open.spotify.com/artist/1wLJTOL6Mz0AOni5EcH4v3), [Toby Turner](https://open.spotify.com/artist/6uwKFlZFf71RsICMeiRuEy), [Jason Evigan](https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj), [Mitch Allan](https://open.spotify.com/artist/4FyVOf6dKtcx6tIXdxqOMB) | [Whistle While I Work It](https://open.spotify.com/album/2XnGJqLCNxv31x3UjHh2HY) | 4:06 |
+| 155 | [Whistle While I Work It](https://open.spotify.com/track/2u3FkqjDD3yexZhbAq43cI) | [Chester See](https://open.spotify.com/artist/2iTiSaR023IikZDaOfEIRR), [Wayne Brady](https://open.spotify.com/artist/1wLJTOL6Mz0AOni5EcH4v3), [Toby Turner](https://open.spotify.com/artist/6uwKFlZFf71RsICMeiRuEy), [Jason Evigan](https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj), [Mitch Allan](https://open.spotify.com/artist/4FyVOf6dKtcx6tIXdxqOMB) | [Whistle While I Work It](https://open.spotify.com/album/2XnGJqLCNxv31x3UjHh2HY) | 4:06 |
+| 156 | [How To Live Alone](https://open.spotify.com/track/1ekYi0cXpPWegN8YZ6Gpe7) | [Evan Ross](https://open.spotify.com/artist/2DJndwwEpPtnmQn48NPBUM), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [How To Live Alone](https://open.spotify.com/album/6GLU0bIY8a32bPuYfvzJ0X) | 3:51 |
 | 157 | [shelter](https://open.spotify.com/track/6ZX1PCq8GsEkjoDPiw800u) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:51 |
 | 158 | [Superman, The Gift And The Curse](https://open.spotify.com/track/0NaL5rj4VAuEYEuQsk7thM) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 3:05 |
 | 159 | [Obsession \(25/7\) \(feat\. Jon Bellion & Kyle\)](https://open.spotify.com/track/4lfLXOwkXU6nGQ0xqjDugX) | [Vice](https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Obsession \(25/7\) \[feat\. Jon Bellion & Kyle\]](https://open.spotify.com/album/5XnbTUrsJkmN7JRjDdNLB2) | 4:00 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 218 | [Break These Walls](https://open.spotify.com/track/36Z2l0DlYqChUzYMjNqt9s) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/1ewpID3ekASORuzC28Lh3K) | 4:00 |
 | 219 | [High Horse](https://open.spotify.com/track/7GMgbF87l9dj8XWLMlehdz) | [The Laissez Fairs](https://open.spotify.com/artist/1J4rwIayXHw7S6oEYBiiuP) | [Empire of Mars](https://open.spotify.com/album/6ukHxOWQZSt7Z2osTmKAGt) | 3:33 |
 
-Snapshot ID: `Ach3UAAAAAAO1AbHvDoqZsx+jbQiSMpm`
+Snapshot ID: `Ach88AAAAAC20Ed3dlGwlM25JrVy80Ar`

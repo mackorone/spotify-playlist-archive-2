@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 106233,
+  "num_followers": 106243,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAACwGGvkVSWOT5w+gYb0Cqhp",
+  "snapshot_id": "avpHgAAAAACBhmDl0N1PEh1eWRdz55jQ",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niemand",
-        "url": "https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 229779,
-      "name": "Niemand",
-      "url": "https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pijnstiller",
         "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 130666,
       "name": "Alleen",
       "url": "https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 229779,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ken Je Dat Gevoel",
-        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Ken Je Dat Gevoel",
-      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pijnstiller",
         "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 165645,
       "name": "Wie Anders",
       "url": "https://open.spotify.com/track/6Ls19nMcXyvxP3sw4N4mWh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ken Je Dat Gevoel",
+        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Ken Je Dat Gevoel",
+      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 176166,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pijnstiller",
         "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 161904,
       "name": "Alles Is Even Goed",
       "url": "https://open.spotify.com/track/0B5p9XLxlDpQf9SQQ41TGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 176166,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gedeeld Door Ons",
-        "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Deze Is Voor Mij",
-      "url": "https://open.spotify.com/track/3eDGSll7NmfGQ8C5hen4gf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pijnstiller",
         "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 139862,
       "name": "Wat Nou Als Het Lukt?",
       "url": "https://open.spotify.com/track/3QYKg3RR5qQcf8rlcRbgYR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gedeeld Door Ons",
+        "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Deze Is Voor Mij",
+      "url": "https://open.spotify.com/track/3eDGSll7NmfGQ8C5hen4gf"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slapeloosheid",
-        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Slapeloosheid",
-      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pijnstiller",
         "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 212472,
       "name": "Papa Had Gelijk",
       "url": "https://open.spotify.com/track/6S5nYtwN9h0SK6FrOoyCTr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slapeloosheid",
+        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Slapeloosheid",
+      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
     },
     {
       "added_at": null,

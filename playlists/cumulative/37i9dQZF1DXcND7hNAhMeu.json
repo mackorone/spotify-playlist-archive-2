@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Ge\u00e7ti Y\u0131llar",
+        "url": "https://open.spotify.com/album/3nx5ZHAYdxpvODGtJeY8Vg"
+      },
+      "artists": [
+        {
+          "name": "Maya Perest",
+          "url": "https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Ge\u00e7ti Y\u0131llar",
+      "url": "https://open.spotify.com/track/459JjKp0RH7A4k9b3QEVnx"
+    },
+    {
+      "album": {
         "name": "Gitti\u011finden Beri",
         "url": "https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7"
       },
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 147169,
       "name": "Yana Yana",
       "url": "https://open.spotify.com/track/372o63OFKXAni65PUS3IOu"

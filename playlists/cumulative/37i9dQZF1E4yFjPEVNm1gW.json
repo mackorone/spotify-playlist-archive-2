@@ -698,7 +698,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 117937,
       "name": "Black Trucks (dirty souf)",
       "url": "https://open.spotify.com/track/0kdwZawCRqIZjKHEXRO8aX"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 120913,
       "name": "cake batter",
       "url": "https://open.spotify.com/track/6CcKcOxXq2BD3k9M9CLOHc"
@@ -3277,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "#FIVE",
+        "url": "https://open.spotify.com/album/5PIoIGCrxnZHprptD8Ga8V"
+      },
+      "artists": [
+        {
+          "name": "BRAT",
+          "url": "https://open.spotify.com/artist/52tFcBHReMmYK13DsgoDzo"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114352,
+      "name": "INGEN EMPATI",
+      "url": "https://open.spotify.com/track/55Sky4Ays2XOfgT9y9RWBI"
+    },
+    {
+      "album": {
         "name": "Fleh",
         "url": "https://open.spotify.com/album/1IKMMQ91MJaGlWEEk6cc3M"
       },
@@ -3476,7 +3494,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 163062,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
@@ -5225,7 +5243,7 @@
       "artists": [
         {
           "name": "JR",
-          "url": "https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN"
+          "url": "https://open.spotify.com/artist/7kimVItP8cnqaaZNXmBfAc"
         }
       ],
       "date_added": "2026-11-11",
@@ -6521,6 +6539,28 @@
     },
     {
       "album": {
+        "name": "They Tryna Be Cray (Pissy Pamper Freestyle)",
+        "url": "https://open.spotify.com/album/7ncQehzRXlmEvK2mPHttIB"
+      },
+      "artists": [
+        {
+          "name": "Cartier Pineiro",
+          "url": "https://open.spotify.com/artist/6uXU4ippcbsDiS5jmz6fpK"
+        },
+        {
+          "name": "Big Mishen",
+          "url": "https://open.spotify.com/artist/2A84ILR56FuJZdpel84pHh"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128134,
+      "name": "They Tryna Be Cray (Pissy Pamper Freestyle)",
+      "url": "https://open.spotify.com/track/0r85vScIQIDyiPT8UwzmFa"
+    },
+    {
+      "album": {
         "name": "Unfakeable",
         "url": "https://open.spotify.com/album/6hhl9IdszW2BNYyJH01y2w"
       },
@@ -7256,7 +7296,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 138814,
       "name": "Ya Ya",
       "url": "https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0"

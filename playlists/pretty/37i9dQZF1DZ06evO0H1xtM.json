@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 384011,
+  "num_followers": 384062,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAABaQQApgMiwB/DwJhEQ1x70",
+  "snapshot_id": "avpHgAAAAADY3f6urg5h3Xeo9Y9QEHCp",
   "tracks": [
     {
       "added_at": null,
@@ -71,22 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 186758,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cero Miedo",
         "url": "https://open.spotify.com/album/3VSPApAscAKQvMYgdGBzJK"
       },
@@ -103,6 +87,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186758,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/5QHkQIUSlHrdunxUefdVYd"
       },
@@ -115,6 +115,22 @@
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/0c8Jj4m8nORPaOSpcr5gx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 234734,
+      "name": "El Doctor",
+      "url": "https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw"
     },
     {
       "added_at": null,
@@ -139,22 +155,6 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 234734,
-      "name": "El Doctor",
-      "url": "https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw"
     },
     {
       "added_at": null,
@@ -220,16 +220,16 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         },
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
           "name": "La Ventaja",
           "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
         },
         {
           "name": "C\u00f3digo FN",
           "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
       "duration_ms": 191355,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pasado Pisado (En Vivo)",
-        "url": "https://open.spotify.com/album/6JXeoZRPoTaa58ESqnEQdz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 156597,
-      "name": "Pasado Pisado - En Vivo",
-      "url": "https://open.spotify.com/track/0UOC6WyT7l1hFAj3J8iliN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wonka",
         "url": "https://open.spotify.com/album/6P0DPtdLfLRQcb2Q6HGnDE"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 190960,
       "name": "Wonka",
       "url": "https://open.spotify.com/track/0FmQBKd4WTCbUuiQjYhVhM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pasado Pisado (En Vivo)",
+        "url": "https://open.spotify.com/album/6JXeoZRPoTaa58ESqnEQdz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 156597,
+      "name": "Pasado Pisado - En Vivo",
+      "url": "https://open.spotify.com/track/0UOC6WyT7l1hFAj3J8iliN"
     },
     {
       "added_at": null,

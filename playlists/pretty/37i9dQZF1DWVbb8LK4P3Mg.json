@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: aespa, Eartha Kitt)",
-  "num_followers": 152260,
+  "num_followers": 152305,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "Winter Glow",
-        "url": "https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "When You Say My Name",
-      "url": "https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "Shin Wooseok's Urban Fairy Tale EP.1 'The Christmas Song'",
         "url": "https://open.spotify.com/album/7MJZs2gPJpAkFdtXQRszOI"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 296000,
       "name": "THE CHRISTMAS SONG",
       "url": "https://open.spotify.com/track/3uelQTzMtqO2wP8CALVYGS"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "Winter Glow",
+        "url": "https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "When You Say My Name",
+      "url": "https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "\ud654\uc774\ud2b8 (White)",
-        "url": "https://open.spotify.com/album/6XC2Ye4NSWrU3jD78gle0g"
-      },
-      "artists": [
-        {
-          "name": "ISEGYE IDOL",
-          "url": "https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\ud654\uc774\ud2b8 (White)",
-      "url": "https://open.spotify.com/track/7mM9TUk0UaqMegqgc3H4y9"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "Merry-Chri",
         "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 332666,
       "name": "Merry-Chri",
       "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "\ud654\uc774\ud2b8 (White)",
+        "url": "https://open.spotify.com/album/6XC2Ye4NSWrU3jD78gle0g"
+      },
+      "artists": [
+        {
+          "name": "ISEGYE IDOL",
+          "url": "https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\ud654\uc774\ud2b8 (White)",
+      "url": "https://open.spotify.com/track/7mM9TUk0UaqMegqgc3H4y9"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -811,18 +811,54 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "The Road : Celebration - The 11th Album Vol.2",
-        "url": "https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny"
+        "name": "STARSHIP PLANET 2018",
+        "url": "https://open.spotify.com/album/6UPvFQ3Lhi5x6W7vCq0Zaq"
       },
       "artists": [
         {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        },
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        },
+        {
+          "name": "BOYFRIEND",
+          "url": "https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd"
+        },
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        },
+        {
+          "name": "YOO SEUNGWOO",
+          "url": "https://open.spotify.com/artist/6pR1ySndn2rTiCX0izqJU9"
+        },
+        {
+          "name": "BrotherSu",
+          "url": "https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB"
+        },
+        {
+          "name": "MIND U",
+          "url": "https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN"
+        },
+        {
+          "name": "DUETTO",
+          "url": "https://open.spotify.com/artist/6PvXDvysAc002NKTISIYBV"
+        },
+        {
+          "name": "JEONG SEWOON",
+          "url": "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
         }
       ],
-      "duration_ms": 213280,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK"
+      "duration_ms": 241550,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/0vDKTkWeDQETxVlr23XkkC"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -879,54 +915,34 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "STARSHIP PLANET 2018",
-        "url": "https://open.spotify.com/album/6UPvFQ3Lhi5x6W7vCq0Zaq"
+        "name": "The Road : Celebration - The 11th Album Vol.2",
+        "url": "https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny"
       },
       "artists": [
         {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        },
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        },
-        {
-          "name": "BOYFRIEND",
-          "url": "https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd"
-        },
-        {
-          "name": "MONSTA X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        },
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        },
-        {
-          "name": "YOO SEUNGWOO",
-          "url": "https://open.spotify.com/artist/6pR1ySndn2rTiCX0izqJU9"
-        },
-        {
-          "name": "BrotherSu",
-          "url": "https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB"
-        },
-        {
-          "name": "MIND U",
-          "url": "https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN"
-        },
-        {
-          "name": "DUETTO",
-          "url": "https://open.spotify.com/artist/6PvXDvysAc002NKTISIYBV"
-        },
-        {
-          "name": "JEONG SEWOON",
-          "url": "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
         }
       ],
-      "duration_ms": 241550,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/0vDKTkWeDQETxVlr23XkkC"
+      "duration_ms": 213280,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "Christmas Promises",
+        "url": "https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Sleigh",
+      "url": "https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -967,22 +983,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "Christmas Promises",
-        "url": "https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Sleigh",
-      "url": "https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "[Hwa Sa Show Vol.2] Grey Christmas",
         "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 208293,
       "name": "Grey Christmas",
       "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
-        "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
-        "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 206439,
-      "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
-      "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1051,6 +1035,22 @@
       "duration_ms": 199266,
       "name": "Mr. Santa",
       "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
+        "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 206439,
+      "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
+      "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "Will You Be My Home",
-        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
+        "name": "5 Christmas Languages",
+        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 210653,
-      "name": "Will You Be My Home",
-      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
+      "duration_ms": 204906,
+      "name": "5 Christmas Languages",
+      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "5 Christmas Languages",
-        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
+        "name": "Will You Be My Home",
+        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
       },
       "artists": [
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
-      "duration_ms": 204906,
-      "name": "5 Christmas Languages",
-      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
+      "duration_ms": 210653,
+      "name": "Will You Be My Home",
+      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "The Present",
-        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "A miracle 3days ago",
-      "url": "https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "Home Alone",
         "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
       },
@@ -1275,6 +1259,38 @@
       "duration_ms": 190973,
       "name": "Winter Theater",
       "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "Letters to Santa",
+        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "I Still Believe in Santa",
+      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "A miracle 3days ago",
+      "url": "https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "Letters to Santa",
-        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
-      },
-      "artists": [
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "I Still Believe in Santa",
-      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "KIIRASMAS",
         "url": "https://open.spotify.com/album/59Bz9tbhqzqj5IgQP0x5kV"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "The Present",
-        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "PRESENT",
-      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "Christmas Promises: Again",
         "url": "https://open.spotify.com/album/4PvAlkoDM29aJSfx2BLcpu"
       },
@@ -1359,42 +1343,6 @@
       "duration_ms": 154000,
       "name": "Christmas Again",
       "url": "https://open.spotify.com/track/2XPu6hAfHuQO1dVyIlACVb"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
-        "name": "STARSHIP PLANET 2016",
-        "url": "https://open.spotify.com/album/5MBIaQm8sMwMdZRw61fJJl"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        },
-        {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
-        },
-        {
-          "name": "Yu Seung Woo",
-          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
-        },
-        {
-          "name": "BrotherSu",
-          "url": "https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB"
-        },
-        {
-          "name": "Hyunseong",
-          "url": "https://open.spotify.com/artist/77RShpcU6y1y3qy2UyEnU8"
-        },
-        {
-          "name": "KIHYUN",
-          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
-        }
-      ],
-      "duration_ms": 222160,
-      "name": "Love Wishes",
-      "url": "https://open.spotify.com/track/7rHnD8s71BcgDebwESWAKG"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1439,18 +1387,54 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
       },
       "artists": [
         {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
         }
       ],
-      "duration_ms": 206493,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S"
+      "duration_ms": 222560,
+      "name": "PRESENT",
+      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "STARSHIP PLANET 2016",
+        "url": "https://open.spotify.com/album/5MBIaQm8sMwMdZRw61fJJl"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        },
+        {
+          "name": "Yu Seung Woo",
+          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+        },
+        {
+          "name": "BrotherSu",
+          "url": "https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB"
+        },
+        {
+          "name": "Hyunseong",
+          "url": "https://open.spotify.com/artist/77RShpcU6y1y3qy2UyEnU8"
+        },
+        {
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "Love Wishes",
+      "url": "https://open.spotify.com/track/7rHnD8s71BcgDebwESWAKG"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1475,6 +1459,22 @@
       "duration_ms": 206520,
       "name": "Christmas is Coming (feat. Kelsey Kuan & prettyhappy)",
       "url": "https://open.spotify.com/track/2CiRzMXe6uk1RmDHLADsOx"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
+        "name": "christmas recipe",
+        "url": "https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF"
+      },
+      "artists": [
+        {
+          "name": "Stupinuts",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        },
+        {
+          "name": "16",
+          "url": "https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "christmas recipe (feat. 16)",
+      "url": "https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
         "name": "Christmas Rose",
         "url": "https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o"
       },
@@ -1647,42 +1667,6 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "christmas recipe",
-        "url": "https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF"
-      },
-      "artists": [
-        {
-          "name": "Stupinuts",
-          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
-        },
-        {
-          "name": "16",
-          "url": "https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "christmas recipe (feat. 16)",
-      "url": "https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/6naCRqrE036Uojfz7Jk64c"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "After LIKE (Holiday Remix)",
-      "url": "https://open.spotify.com/track/5ZzFww6qXDJZIhObXrJ8E2"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
         "name": "APRIL 3rd Mini Album 'Prelude'",
         "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
       },
@@ -1695,22 +1679,6 @@
       "duration_ms": 185354,
       "name": "Snowman (Special Ver.)",
       "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
-    },
-    {
-      "added_at": "2026-11-13 05:15:19",
-      "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/2iiAglDTCM1gUDjdPwpXFA"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/3ctivX3Mw4AbJe7CVMXCAh"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1731,34 +1699,34 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "SECRET SANTA",
-        "url": "https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH"
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/2iiAglDTCM1gUDjdPwpXFA"
       },
       "artists": [
         {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
         }
       ],
-      "duration_ms": 228933,
-      "name": "WE X MAS",
-      "url": "https://open.spotify.com/track/0TiyQwSeqLubY97007Adg4"
+      "duration_ms": 230253,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/3ctivX3Mw4AbJe7CVMXCAh"
     },
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "\u30e1\u30ea\u30af\u30ea",
-        "url": "https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT"
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/6naCRqrE036Uojfz7Jk64c"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 310833,
-      "name": "THE CHRISTMAS SONG",
-      "url": "https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ"
+      "duration_ms": 172400,
+      "name": "After LIKE (Holiday Remix)",
+      "url": "https://open.spotify.com/track/5ZzFww6qXDJZIhObXrJ8E2"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1795,18 +1763,34 @@
     {
       "added_at": "2026-11-13 05:15:19",
       "album": {
-        "name": "Christmas Love",
-        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
+        "name": "SECRET SANTA",
+        "url": "https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH"
       },
       "artists": [
         {
-          "name": "A.C.E",
-          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
         }
       ],
-      "duration_ms": 192533,
-      "name": "Christmas Love",
-      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
+      "duration_ms": 228933,
+      "name": "WE X MAS",
+      "url": "https://open.spotify.com/track/0TiyQwSeqLubY97007Adg4"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "\u30e1\u30ea\u30af\u30ea",
+        "url": "https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 310833,
+      "name": "THE CHRISTMAS SONG",
+      "url": "https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ"
     },
     {
       "added_at": "2026-11-13 05:15:19",
@@ -1831,6 +1815,22 @@
       "duration_ms": 227460,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O"
+    },
+    {
+      "added_at": "2026-11-13 05:15:19",
+      "album": {
+        "name": "Christmas Love",
+        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
+      },
+      "artists": [
+        {
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
     }
   ],
   "unique_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",

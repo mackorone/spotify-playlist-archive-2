@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6CE2zMLrX6hyJy2MXbbe9J?si=7a5275cad4e74555">Emly</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ?si=acbc57ddd3694154">Altair Saïd</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,307 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,333 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hold Me](https://open.spotify.com/track/5Ge1O6vILBeYD8NxpC9KDz) | [Emly](https://open.spotify.com/artist/6CE2zMLrX6hyJy2MXbbe9J) | [When love gives you lemons](https://open.spotify.com/album/0ynlIgZ1tXGymlNeCgJsYm) | 2:41 |
+| 1 | [So Easy](https://open.spotify.com/track/4unXuG8HGFJeZoaI8KTSs6) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Only For A While](https://open.spotify.com/album/5d649NfmfBEFL1flx5pPEs) | 3:20 |
 | 2 | [Eyes on You](https://open.spotify.com/track/4vFQcA68Uni3vDxaA1iPaa) | [RUVA](https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3), [D3NZL](https://open.spotify.com/artist/2bipRR8Pu3mAzrZ1n3o4HW) | [Eyes on You](https://open.spotify.com/album/6HhFuMZHSp5zNf9vvIDHPa) | 4:10 |
-| 3 | [So Easy](https://open.spotify.com/track/4unXuG8HGFJeZoaI8KTSs6) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Only For A While](https://open.spotify.com/album/5d649NfmfBEFL1flx5pPEs) | 3:20 |
-| 4 | [I Love Myself](https://open.spotify.com/track/2cILEFccOhQ2hzLwYaOpve) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [DIOS](https://open.spotify.com/album/427NsWyWGIK3J558nJtcNy) | 2:05 |
+| 3 | [I Love Myself](https://open.spotify.com/track/2cILEFccOhQ2hzLwYaOpve) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [DIOS](https://open.spotify.com/album/427NsWyWGIK3J558nJtcNy) | 2:05 |
+| 4 | [Hold Me](https://open.spotify.com/track/5Ge1O6vILBeYD8NxpC9KDz) | [Emly](https://open.spotify.com/artist/6CE2zMLrX6hyJy2MXbbe9J) | [When love gives you lemons](https://open.spotify.com/album/0ynlIgZ1tXGymlNeCgJsYm) | 2:41 |
 | 5 | [Obvious](https://open.spotify.com/track/1vKMcJR4WYmZWbl716ckfC) | [KLA](https://open.spotify.com/artist/1LUV99kWKMrRaP1bViUquo), [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3) | [Here I Go Again](https://open.spotify.com/album/1plTKl8NLgovl2mrFAlrCO) | 3:48 |
 | 6 | [ameva](https://open.spotify.com/track/4kXp628ztFFmZ4fdt595PM) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [there are mirrors everywhere](https://open.spotify.com/album/1kESAdt1UaileXb6PFGsEY) | 5:49 |
 | 7 | [Straight up](https://open.spotify.com/track/2wpEkn9Pb9Kw6kpzsywFLu) | [Love, Tumi](https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD), [tylerwrldwide](https://open.spotify.com/artist/5dnCOehLIFKY10S6MbtXKU) | [Straight up](https://open.spotify.com/album/4aupCAqI8biy26PFMcHx4S) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Vaseline \(On Your Collar\)](https://open.spotify.com/track/61Kcp90iGQWiZL6NIWzYhd) | [Zwonaka](https://open.spotify.com/artist/5oD2IgsstX9I592DVC5gQi) | [Vaseline \(On Your Collar\)](https://open.spotify.com/album/1Zr7Pu4Qp5crWXb4fMth3F) | 2:47 |
 | 50 | [Mantra](https://open.spotify.com/track/4akPOkvKplg1sYtLYHfN9G) | [Operation Khataza](https://open.spotify.com/artist/3YjcXnnF0A6ep6maq4es90) | [Mantra](https://open.spotify.com/album/6cNcYQ6z20VSVzFObvc3wz) | 6:09 |
 
-Snapshot ID: `AAAAAGJqBpGm3oux8Na7tWX0b7uOkMqs`
+Snapshot ID: `AAAAAA4Nruoyc6HsTIQjkToTGvtVtide`

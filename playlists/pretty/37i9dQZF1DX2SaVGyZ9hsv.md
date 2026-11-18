@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain]
 
 > Congratulations to all the artists nominated for Best New Artist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,671 likes - 16 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,258 likes - 16 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: DJ HEARTSTRING
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,894 likes - 74 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,896 likes - 74 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [Who We Let Go](https://open.spotify.com/track/5gs8UpBVGVwCDiYlCdKdzO) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Who We Let Go](https://open.spotify.com/album/6beKM841260rcwBAYGoT4U) | 3:56 |
 | 74 | [Heartbreak](https://open.spotify.com/track/0T5GoFBNze40ZGFkTx2SL2) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1) | [Heartbreak](https://open.spotify.com/album/4wKGB3EbCOi8ESTr5MOwfK) | 2:09 |
 
-Snapshot ID: `AAAAAE1pWa0TwXzQyTZbaPL16XIxbrOI`
+Snapshot ID: `AAAAAP2htmzBY5vxsvvaanJOWl855SZx`

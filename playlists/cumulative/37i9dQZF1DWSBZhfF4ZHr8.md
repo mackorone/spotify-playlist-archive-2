@@ -619,6 +619,6 @@
 | [Ça va \(quand même\) \(feat\. Soprano\)](https://open.spotify.com/track/28pSl3TSdBUHY1vIrjVD4T) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Naufragé](https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf) | 2:48 | 2025-09-25 | 2026-01-16 |
 | [Éclipse](https://open.spotify.com/track/5gU2ECk7MScaV90WACzux7) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Éclipse](https://open.spotify.com/album/2tryf1NNnBazdfajfCu8CW) | 2:29 | 2025-01-16 | 2025-02-21 |
 | [Égaré](https://open.spotify.com/track/0cfxcc6fEDeafzlO5yNUV4) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ADRÉNALINE, LA RÉÉDITION](https://open.spotify.com/album/1eOxvVovDuEtlCBDjdte9W) | 2:47 | 2025-11-27 | 2026-11-06 |
-| [Être moi \(déguisé en fleur\)](https://open.spotify.com/track/2ctJxIV3dpToTzoJvgPiNW) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [Être moi \(déguisé en fleur\)](https://open.spotify.com/album/3M9PFUZ8HhWoZeR0YGO02s) | 3:09 | 2026-11-12 |  |
+| [Être moi \(déguisé·e en fleur\)](https://open.spotify.com/track/2ctJxIV3dpToTzoJvgPiNW) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [Être moi \(déguisé·e en fleur\)](https://open.spotify.com/album/3M9PFUZ8HhWoZeR0YGO02s) | 3:09 | 2026-11-12 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

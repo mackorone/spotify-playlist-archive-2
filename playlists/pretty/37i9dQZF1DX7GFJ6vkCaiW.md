@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GFJ6vkCaiW.md) - [plain]
 
 > Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Dongker
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,844 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,852 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GFJ6vkCaiW.md) - [plain]
 | 39 | [Still Show Up In My Dreams](https://open.spotify.com/track/7IRpzzB50WVSaNgPto8J8X) | [Novascotia](https://open.spotify.com/artist/66k4IwKEoPu01TMuaQf8mT) | [Still Show Up In My Dreams](https://open.spotify.com/album/10cUjLMfzIiW04wbkjY5HJ) | 3:01 |
 | 40 | [Ada titik\-titik di ujung doa](https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 5:05 |
 | 41 | [Masih Ada Cahaya](https://open.spotify.com/track/060z6NmZPv7YJWpQYYKTcs) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Berusaha di Bawah Hujan](https://open.spotify.com/album/2D2escw6RwZriL7Ia8EB05) | 3:54 |
-| 42 | [akankah aku sampai kesana?](https://open.spotify.com/track/1DSAGMCAHhKihNoge4QlCX) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [kira](https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX) | 3:14 |
+| 42 | [akankah aku sampai kesana?](https://open.spotify.com/track/1DSAGMCAHhKihNoge4QlCX) | [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC) | [kira](https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX) | 3:14 |
 | 43 | [Masa ini, Nanti, dan Masa Indah Lainnya](https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [EUNOIA](https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB) | 4:35 |
 | 44 | [Teganya Kau](https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Teganya Kau](https://open.spotify.com/album/2MNxWXky396sx7AEf71fsE) | 3:27 |
 | 45 | [Pulanglah](https://open.spotify.com/track/2Vi3r6oDAGkuWRpFAGKVda) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Pulanglah](https://open.spotify.com/album/5nIq4Y5uugZtiVUM9nBVoL) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GFJ6vkCaiW.md) - [plain]
 | 99 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 |
 | 100 | [Janji Setia](https://open.spotify.com/track/1AoBdDIOp6RFjAbzcPbWi8) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 4:21 |
 
-Snapshot ID: `AAAAACpFNuGbpAEHs6hcBLJnfdsDNBGF`
+Snapshot ID: `AAAAABWTN4YY9nJBEeNML/98dXZYL60+`

@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,181 songs - 3 day 7 hr 6 min
+1,182 songs - 3 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,7 +551,7 @@
 | [Jugular Jugular](https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Jugular Jugular](https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn) | 4:35 | 2025-08-29 |  |
 | [Just You](https://open.spotify.com/track/2ghGLcS8krHourSLkOFbe3) | [Essence Natay](https://open.spotify.com/artist/6CBOrBHVUHNz4sMFic0Tux), [Yourboywonder](https://open.spotify.com/artist/1oL00CcMtIfyR8MqrPv8L0), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0) | [Just You](https://open.spotify.com/album/7DfkuMLO5Ht0fZnEJmruSx) | 3:39 | 2025-07-18 | 2025-11-14 |
 | [K'OSENI](https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP) | [Teninlanimi](https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ) | [K'OSENI](https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq) | 3:07 | 2026-07-10 | 2026-08-07 |
-| [Ka Anyi Kelee Aha Ya](https://open.spotify.com/track/7ryNOQ0MMTRys5vDvPnvCb) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [Ka Anyi Kelee Aha Ya](https://open.spotify.com/album/5JMv2eKERNwoyaEq9Y3JMS) | 13:01 | 2026-10-02 |  |
+| [Ka Anyi Kelee Aha Ya](https://open.spotify.com/track/7ryNOQ0MMTRys5vDvPnvCb) | [Minister Prudence](https://open.spotify.com/artist/1nyFNgSDFMVOez6h1v8Ya5) | [Ka Anyi Kelee Aha Ya](https://open.spotify.com/album/5JMv2eKERNwoyaEq9Y3JMS) | 13:01 | 2026-10-02 | 2026-11-18 |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2023-04-06 | 2025-09-26 |
 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 | 2024-04-12 | 2025-03-14 |
 | [Kaniona](https://open.spotify.com/track/4tozSiv1PmsJQxIauen2dL) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Akida](https://open.spotify.com/album/2T9r4gMpKXsGpfwHN2u3k2) | 5:26 | 2025-03-28 | 2025-05-09 |
@@ -567,6 +567,7 @@
 | [Know God, Know Peace \(No God, No Peace\)](https://open.spotify.com/track/74JjzBrsXKydhUCTST32VG) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kingzkid](https://open.spotify.com/artist/1diRu0YCEDsV4uvsw4IFHi) | [Know God, Know Peace \(No God, No Peace\)](https://open.spotify.com/album/6BTdEbP5OZl5N9iRmWnExn) | 2:27 | 2024-11-22 | 2025-03-14 |
 | [Know Jesus, Know Road \- Live](https://open.spotify.com/track/7ifOnQtBchzbIuA9DN8YLJ) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Know Jesus, Know Road \(Live\)](https://open.spotify.com/album/2DvdNBFHbRq772GynhQJj8) | 4:12 | 2025-05-16 | 2025-09-12 |
 | [Know You More](https://open.spotify.com/track/1cb2KCLmAucfQD6d2hZmsQ) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j) | [Know You More](https://open.spotify.com/album/7uzRlprq4pWJekjD1dAZnt) | 2:04 | 2025-01-17 | 2025-02-28 |
+| [KOLEBAJE](https://open.spotify.com/track/33A0BDZtzIvmjQcOWKjqRg) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Oludemi](https://open.spotify.com/artist/25ZyjnErx4Eb84RLxQg7WS) | [KOLEBAJE](https://open.spotify.com/album/2qCyc5Wb4WtXVwdtdA0rIi) | 2:59 | 2026-11-13 |  |
 | [Kosi \- Live](https://open.spotify.com/track/7b4wNaxJi4hcEoR4A78f23) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [RANSOMED \(Live\)](https://open.spotify.com/album/2Rb3oh0CwTFIWRjCGbP36N) | 7:32 | 2026-02-27 | 2026-03-20 |
 | [Kount Ur Blessings](https://open.spotify.com/track/0b0k27TpN4tU3yfc43uHJm) | [KarlaGod](https://open.spotify.com/artist/2QlFgME9RwrC4SToTWKAse) | [Kount Ur Blessings](https://open.spotify.com/album/1VuaD4rhuwn35s02W9zoOF) | 1:40 | 2025-07-25 | 2025-11-14 |
 | [Kulu My Heart](https://open.spotify.com/track/1tViX5JT9vr4bqhCfPfTlz) | [Zogreo](https://open.spotify.com/artist/1474AL1Ljab0T5R0kIbp4V) | [Kulu My Heart](https://open.spotify.com/album/0VKyQWrCBd08wJh688gbwT) | 2:06 | 2026-07-17 | 2026-09-25 |

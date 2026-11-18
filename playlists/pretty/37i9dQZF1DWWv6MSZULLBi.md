@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Hans Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,714 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,707 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 149 | [Never Held One](https://open.spotify.com/track/2Bi9giuRwJmZ5NCFKbYxwT) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4) | [Never Held One](https://open.spotify.com/album/3vmzoxUtE1ziqS4cwjTge9) | 4:16 |
 | 150 | [Failing](https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Reunion](https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF) | 3:13 |
 
-Snapshot ID: `AAAAANCFPIySRvu09AYp9utpkEIdruMz`
+Snapshot ID: `AAAAALfYHoL2JTUm3GvlVNdeMiR4xcYt`

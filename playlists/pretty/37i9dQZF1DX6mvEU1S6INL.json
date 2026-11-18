@@ -1,12 +1,12 @@
 {
   "description": "It's just us.",
-  "num_followers": 1141882,
+  "num_followers": 1141887,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANmn2LuPrJX3i5J+XCSGKrd6FM5o",
+  "snapshot_id": "AAAAAOAPkQnokb/sNszUdGH7qpS6b/Sf",
   "tracks": [
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Songs for Dads",
+        "url": "https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 265613,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Songs for Dads",
-        "url": "https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "I Love You So",
-      "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Equatorial Ultravox EP",
+        "url": "https://open.spotify.com/album/2vXASNgxhjWSV5cGkJc28o"
+      },
+      "artists": [
+        {
+          "name": "Chad Valley",
+          "url": "https://open.spotify.com/artist/1rzpgMqxYjRQo4UmWZimFc"
+        }
+      ],
+      "duration_ms": 262213,
+      "name": "Shell Suite",
+      "url": "https://open.spotify.com/track/1TlB3z3e5D8OaqYXQAVIcj"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Emergency Contact",
         "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 260413,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6nT4NFFH5nbXleO1FiJNhu"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 109735,
-      "name": "Flowers in Your Hair",
-      "url": "https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh"
     }
   ],
   "unique_name": "You & Me",

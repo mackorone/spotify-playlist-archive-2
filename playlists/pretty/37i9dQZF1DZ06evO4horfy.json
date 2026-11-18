@@ -1,12 +1,12 @@
 {
   "description": "This is Kinderen voor Kinderen. The essential tracks, all in one playlist.",
-  "num_followers": 45866,
+  "num_followers": 45868,
   "original_name": "This Is Kinderen voor Kinderen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAABUH4xeybFMX1g1VvbqYU/P",
+  "snapshot_id": "avpHgAAAAAAB+PZvPpUSIPOlxvfIClfq",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZiggZagg",
-        "url": "https://open.spotify.com/album/0ubDajCOt6N3FRP2ZXyWeG"
+        "name": "Geen kind alleen",
+        "url": "https://open.spotify.com/album/1jAswSNcQDmlSf0kCHIjHK"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
         }
       ],
-      "duration_ms": 184227,
-      "name": "ZiggZagg",
-      "url": "https://open.spotify.com/track/0wdw86kxFxu0IGz2JxnbfN"
+      "duration_ms": 180249,
+      "name": "Geen kind alleen",
+      "url": "https://open.spotify.com/track/0KCvN5nu4t5DrlDLIux2x0"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Geen kind alleen",
-        "url": "https://open.spotify.com/album/1jAswSNcQDmlSf0kCHIjHK"
+        "name": "ZiggZagg",
+        "url": "https://open.spotify.com/album/0ubDajCOt6N3FRP2ZXyWeG"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
         }
       ],
-      "duration_ms": 180249,
-      "name": "Geen kind alleen",
-      "url": "https://open.spotify.com/track/0KCvN5nu4t5DrlDLIux2x0"
+      "duration_ms": 184227,
+      "name": "ZiggZagg",
+      "url": "https://open.spotify.com/track/0wdw86kxFxu0IGz2JxnbfN"
     },
     {
       "added_at": null,

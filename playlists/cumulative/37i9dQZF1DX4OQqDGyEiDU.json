@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: Giga",
+  "description": "Explore the current wave of VOCALOID culture. Cover: TAK",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 130770,
       "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
       "url": "https://open.spotify.com/track/5nODPwKJIZ9gY8aBKN43zW"
@@ -4968,7 +4968,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 122482,
       "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
       "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
@@ -8364,6 +8364,28 @@
       "duration_ms": 195822,
       "name": "\u30c8\u30f3\u30c7\u30e2\u30ef\u30f3\u30c0\u30fc\u30ba",
       "url": "https://open.spotify.com/track/3jmQnsr4YxDIrCJ7GbE7vM"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30da\u30c8\u30ea\u30b3\u30fc\u30eb (feat. \u97f3\u8857\u30a6\u30ca)",
+        "url": "https://open.spotify.com/album/0mFi98zkalwpfJk9gGagQ4"
+      },
+      "artists": [
+        {
+          "name": "\u96e8\u826f Amala",
+          "url": "https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl"
+        },
+        {
+          "name": "Una Otomachi",
+          "url": "https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225151,
+      "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30da\u30c8\u30ea\u30b3\u30fc\u30eb (feat. \u97f3\u8857\u30a6\u30ca)",
+      "url": "https://open.spotify.com/track/15qZJpI2XfMQ4V1xo5ohwG"
     },
     {
       "album": {
@@ -13048,7 +13070,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 211892,
       "name": "\u6b63\u89e3 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/2oiylllT3beeY5RsyDbJwF"

@@ -1,13 +1,29 @@
 {
-  "description": "The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Owen Riegling",
-  "num_followers": 11187,
+  "description": "The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Josh Ross",
+  "num_followers": 11276,
   "original_name": "2026 COUNTRY BANGERS \ud83e\udd20\ud83d\udd25",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAnww3kTpixcOhUsWXQ8xdTT6p8h7cS",
+  "snapshot_id": "AAAnxS8KAPX7Wo5nARVItgXK2jaQ5WzW",
   "tracks": [
+    {
+      "added_at": "2026-11-13 15:57:48",
+      "album": {
+        "name": "Drink Things Through",
+        "url": "https://open.spotify.com/album/5c99X6OCf482Ltytfiz6tj"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 193242,
+      "name": "Drink Things Through",
+      "url": "https://open.spotify.com/track/12GA1vVDSCMEZ1MmpeeMeu"
+    },
     {
       "added_at": "2026-11-13 15:57:48",
       "album": {
@@ -87,22 +103,6 @@
       "duration_ms": 223332,
       "name": "Mexico Honey",
       "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
-    },
-    {
-      "added_at": "2026-11-13 15:57:48",
-      "album": {
-        "name": "Drink Things Through",
-        "url": "https://open.spotify.com/album/5c99X6OCf482Ltytfiz6tj"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 193242,
-      "name": "Drink Things Through",
-      "url": "https://open.spotify.com/track/12GA1vVDSCMEZ1MmpeeMeu"
     },
     {
       "added_at": "2026-11-13 15:57:48",

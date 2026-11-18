@@ -4,7 +4,7 @@
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: دنيا وائل
 
-584 songs - 1 day 10 hr 15 min
+586 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [SALAM](https://open.spotify.com/track/5W1c8vIpCZbeJlhrXh0oKM) | [Khaled Ali](https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1), [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [SALAM](https://open.spotify.com/album/1JZ5aFx7qMrDJ7QLWVpIs1) | 3:30 | 2026-07-06 | 2026-07-23 |
 | [SAMARA](https://open.spotify.com/track/2ttqOWC7r5wIxbcYsEaNky) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [SAMARA](https://open.spotify.com/album/3IAvXD8j3JXhE3RTfop4VB) | 2:53 | 2026-08-27 | 2026-10-02 |
 | [Sayed Alaqareb Intro](https://open.spotify.com/track/3Yhes3SPh9D70CMNA76y9I) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Sayed Alaqareb Intro](https://open.spotify.com/album/5WeNZAlFYcfNiVywGQWzMz) | 3:49 | 2024-03-19 | 2024-07-30 |
+| [Sa’at](https://open.spotify.com/track/1wVco5kefL9WdGQpeOBUyW) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Markeba II](https://open.spotify.com/album/5jK8KULEO5g2m2XmU0JIQg) | 3:04 | 2026-11-17 |  |
 | [Sbabi](https://open.spotify.com/track/7ptXsiOZ38WKdOiWjj4Va6) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Sbabi](https://open.spotify.com/album/4tunxQYd61Q41HQjo0qbc3) | 3:14 | 2023-09-08 | 2024-02-10 |
 | [Sebooh](https://open.spotify.com/track/6aelrywDmMzedMN0FSa3s8) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Sebooh](https://open.spotify.com/album/2fhRFoAFIXCI3RFNZQh5dY) | 3:11 | 2022-10-24 | 2023-07-12 |
 | [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 | 2026-04-15 | 2026-07-07 |
@@ -335,6 +336,7 @@
 | [Subeh Wleil](https://open.spotify.com/track/4jklijPtfB2bWPsfGjC4TO) | [Manos](https://open.spotify.com/artist/25ujNYEb1uz1lja1YZJ9Gg) | [Subeh Wleil](https://open.spotify.com/album/5ZdsuCpAGvAvZUeHfNimej) | 2:24 | 2026-07-13 | 2026-08-28 |
 | [Sukar](https://open.spotify.com/track/64jmDPPjHxrv2uvT2Q8kZD) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Sukar](https://open.spotify.com/album/5WEQISx8MQ5sBgomay7bc1) | 3:09 | 2023-02-15 | 2023-05-18 |
 | [Ta'lan](https://open.spotify.com/track/4ELuH56Piqzxkuz23pbBUq) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Ta'lan](https://open.spotify.com/album/4a8SJ5uy1axuUEarsnqEV7) | 3:34 | 2023-08-01 | 2024-02-07 |
+| [Tabban](https://open.spotify.com/track/3NYCgK4zbDG1cO9nSLgr1O) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Maza w Law](https://open.spotify.com/album/43FBjXKWQRwTgXKOmHEQp9) | 3:14 | 2026-11-17 |  |
 | [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:29 | 2026-04-08 | 2026-07-07 |
 | [Tamanyaty](https://open.spotify.com/track/4c9cPDSlFYCU3k1TLhuzEk) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:16 | 2026-07-22 |  |
 | [Tamer Hosny Haytna](https://open.spotify.com/track/05DURibuW9rLPy7Ix8ahuA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Tamer Hosny Haytna](https://open.spotify.com/album/3expu7zhDu0OcrDgwKEm4v) | 4:51 | 2022-09-26 | 2022-10-21 |

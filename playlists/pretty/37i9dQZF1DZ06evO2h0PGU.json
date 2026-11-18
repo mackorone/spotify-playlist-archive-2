@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 55841,
+  "num_followers": 55850,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAAD6x6pZxdy+0WEEaAwOF0mo",
+  "snapshot_id": "avpHgAAAAAA8/0pTiuaniyESLOWE8Z1t",
   "tracks": [
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 249746,
-      "name": "Warrior - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/7LmTkCp8eyN3yphDffRsCp"
+      "duration_ms": 246146,
+      "name": "Slave",
+      "url": "https://open.spotify.com/track/3KDNP1qeCGZRlExpJUPlzi"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mosquito (Deluxe)",
-        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 246146,
-      "name": "Slave",
-      "url": "https://open.spotify.com/track/3KDNP1qeCGZRlExpJUPlzi"
+      "duration_ms": 249746,
+      "name": "Warrior - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/7LmTkCp8eyN3yphDffRsCp"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 124466,
-      "name": "Isis - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/2f97EMDsF42qDVDuAyGDHX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hidden in Pieces: Live",
         "url": "https://open.spotify.com/album/33RxgeDivyHENGrw5RvHV3"
       },
@@ -627,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
-        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fever To Tell",
         "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
       },
@@ -655,6 +623,38 @@
       "duration_ms": 184126,
       "name": "Poor Song",
       "url": "https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 124466,
+      "name": "Isis - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/2f97EMDsF42qDVDuAyGDHX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
+        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
     },
     {
       "added_at": null,

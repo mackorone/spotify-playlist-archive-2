@@ -4,7 +4,7 @@
 
 > 
 
-3,261 songs - 6 day 23 hr 33 min
+3,262 songs - 6 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3030,6 +3030,7 @@
 | [Ur End](https://open.spotify.com/track/2qiESu0R2AWgGs6SmaUyjM) | [Bright Visions](https://open.spotify.com/artist/0emNN1sdeedFWTl0dY9FHw), [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [collab\_ep\_2.wav](https://open.spotify.com/album/2e6mdjeU18oC0GEJxKJt3m) | 2:54 | 2024-08-25 |  |
 | [Us Against the World](https://open.spotify.com/track/3IqPQnW8wOXFcVvaYSVLGc) | [Ephoric](https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y) | [Us Against the World](https://open.spotify.com/album/0J59eTTDlOWLJtXeK5AZ5K) | 2:41 | 2026-02-09 |  |
 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 | 2023-03-06 |  |
+| [Used & Abused \- Amnesia Mix](https://open.spotify.com/track/1oZFFYpIE8F6URSSmH6vQZ) | [Party Animals](https://open.spotify.com/artist/0vMVgeMxck5F8aUExad9GW) | [Good Vibrations](https://open.spotify.com/album/2ndClzvQ8QjawIGHqPASyv) | 5:19 | 2026-11-17 |  |
 | [Utopia](https://open.spotify.com/track/6OfBDwczRKT2wMj1s0YqBJ) | [Vexxed](https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY) | [Utopia](https://open.spotify.com/album/14YvDsN7BmpKDqpAXhjGba) | 3:23 | 2025-01-20 |  |
 | [UwU](https://open.spotify.com/track/1VuKkCYSgPnOXQRGUrHTaX) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [UwU](https://open.spotify.com/album/0jHp6fH7kjS1STG0Bw7mse) | 2:27 | 2026-01-30 |  |
 | [Veilinghallen](https://open.spotify.com/track/2n33B7iUh4oRF37trcSq3M) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Defqon.1 2022](https://open.spotify.com/album/0IIZiAU8DR9Jk586zHolw2) | 3:29 | 2022-09-06 |  |

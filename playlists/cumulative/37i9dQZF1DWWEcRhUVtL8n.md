@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Quiet Light
 
-2,574 songs - 5 day 17 hr 23 min
+2,575 songs - 5 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2006,7 +2006,7 @@
 | [Sixteen](https://open.spotify.com/track/6wCowLIXN3MVgJcUwvr9Ph) | [Tess Clare](https://open.spotify.com/artist/0w3V7iEOBeQUDg8xm6NB6L) | [Sixteen](https://open.spotify.com/album/2OQTIknCPX400GUeWiwXrG) | 3:38 | 2022-04-15 | 2022-04-17 |
 | [skeletons](https://open.spotify.com/track/6hrCEU7RtgvQKRDxukLD5F) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [skeletons](https://open.spotify.com/album/61YKFkCUysIWPtZPXWgzQv) | 2:58 | 2021-05-03 | 2021-05-28 |
 | [Skeletons](https://open.spotify.com/track/2aXZUCQVKEh26ggTKWdYOC) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Skeletons](https://open.spotify.com/album/2uPdua4FhGD2HrZQgbeEEM) | 3:17 | 2021-03-08 | 2021-05-28 |
-| [skin&skin](https://open.spotify.com/track/2bciYPaUeA8MhwRUjbad6L) | [Orca](https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854) | [skin&skin](https://open.spotify.com/album/4bVJDY7C2qddGv5STUxGw0) | 3:37 | 2026-10-09 |  |
+| [skin&skin](https://open.spotify.com/track/2bciYPaUeA8MhwRUjbad6L) | [Orca](https://open.spotify.com/artist/3c2nSvBJwDuvmxFBKlc854) | [skin&skin](https://open.spotify.com/album/4bVJDY7C2qddGv5STUxGw0) | 3:37 | 2026-10-09 | 2026-11-18 |
 | [Sleep Tight \- Edit](https://open.spotify.com/track/0RbE1ZbqtX6Y3aMBwmcT5Q) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:03 | 2022-04-29 | 2022-07-28 |
 | [Sleeping Dogs](https://open.spotify.com/track/1AXf936Ys3VSuGQMvCFQvD) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Sleeping Dogs](https://open.spotify.com/album/2HupVyLf54am3GFxjFZWnn) | 3:34 | 2026-02-20 | 2026-03-07 |
 | [Sleeping Pills](https://open.spotify.com/track/5UKptzBq9mvNonV7RW0HtB) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Sleeping Pills](https://open.spotify.com/album/3T62dfS9AVfEyyHIh16w0N) | 3:03 | 2026-05-25 | 2026-06-17 |
@@ -2243,6 +2243,7 @@
 | [teeth](https://open.spotify.com/track/7sPPN3NNDLhQY1Eu6Ot0Da) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [\(my world is an\) oyster](https://open.spotify.com/album/5KmSOOkB1iNgd3ZBhMgmB2) | 2:58 | 2025-12-05 | 2026-02-08 |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-05-20 | 2022-11-26 |
 | [TELESCOPE](https://open.spotify.com/track/0hSF71xjBaLyh4c7cV60hX) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [papichuloteej](https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq), [Sintoria](https://open.spotify.com/artist/5obN8rH8vcZiPJprUDj46p) | [TELESCOPE](https://open.spotify.com/album/68Ewq04LRD81Bbx60eXIBg) | 3:03 | 2020-11-20 | 2021-01-23 |
+| [Tell Him](https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Tell Him](https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH) | 2:37 | 2026-11-13 |  |
 | [Tell Me Why](https://open.spotify.com/track/4W3XltRy0SU91Dv4wUCuaD) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers Continued](https://open.spotify.com/album/7zZokVmJqbuBVc0drwjtx1) | 3:42 | 2026-02-03 | 2026-02-27 |
 | [telly](https://open.spotify.com/track/01YqF3Nhfu3nsiQnZONpqT) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [telly](https://open.spotify.com/album/2ANxpNOc4tI3yi8baY5q8J) | 2:14 | 2021-05-10 | 2021-06-04 |
 | [Tenpin Haven](https://open.spotify.com/track/037GCaGsFkiqvMRRszTMrk) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Tenpin Haven](https://open.spotify.com/album/1wfIsPr3ixULfzSpqIt5cv) | 4:07 | 2026-02-06 | 2026-02-23 |

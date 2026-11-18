@@ -2513,6 +2513,24 @@
     },
     {
       "album": {
+        "name": "Stars To Read (Live 1995)",
+        "url": "https://open.spotify.com/album/3XHz5ghlwpJnDWcmdWztuX"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258601,
+      "name": "Happiness Is The Best Face-Lift - Live 1995",
+      "url": "https://open.spotify.com/track/4MLUuD06wcAh7qhY7nbeaf"
+    },
+    {
+      "album": {
         "name": "Taming the Tiger",
         "url": "https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO"
       },

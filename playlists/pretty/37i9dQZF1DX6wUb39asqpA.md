@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wUb39asqpA.md) - [plain]
 
 > 몰입감을 더하는 드라마 대사와 함께  작품의 사운드 트랙을 감상해보세요\. \(Immerse into the soundtracks alongside iconic lines from the drama.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 202 likes - 27 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 204 likes - 27 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wUb39asqpA.md) - [plain]
 | 26 | [Grin of the Underworld \(Agent Kim Reactivated : Original Television Soundtrack\)](https://open.spotify.com/track/6iIZORFtzCyM9PuyJdYRHL) | [KIM SUNG YOUL](https://open.spotify.com/artist/6lcONQyZpEpDwQVsNWvcUY) | [Agent Kim Reactivated Special All Track \(Original Soundtrack\)](https://open.spotify.com/album/73guIwUXIuBlr3FQWkzy4X) | 2:01 |
 | 27 | [Undercover Salaryman \(Agent Kim Reactivated : Original Television Soundtrack\)](https://open.spotify.com/track/0ZSS0Q2AAxHydWHCqrMifl) | [Daniel Lee](https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj) | [Agent Kim Reactivated Special All Track \(Original Soundtrack\)](https://open.spotify.com/album/73guIwUXIuBlr3FQWkzy4X) | 3:39 |
 
-Snapshot ID: `AAAAAPCaQRganx81FJmqQz5fR9a3bc3l`
+Snapshot ID: `AAAAADWp4NC7KesHQ12VzeTnsHGaaLTF`

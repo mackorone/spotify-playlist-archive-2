@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJ+F5sNeRazMhgmdBNX4wenqcz/n6w",
+  "snapshot_id": "AAAJ+Yjlo4kRsIt6+wijla5+RYe74G64",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -13395,6 +13395,26 @@
       "duration_ms": 199426,
       "name": "Travels Broaden the Mind",
       "url": "https://open.spotify.com/track/4rjszJJHKOs7cZErfG8x31"
+    },
+    {
+      "added_at": "2026-11-18 02:01:56",
+      "album": {
+        "name": "The Dealer Wins",
+        "url": "https://open.spotify.com/album/3IyApBbOXEVp23l3kyFKfV"
+      },
+      "artists": [
+        {
+          "name": "Bruiser Wolf",
+          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        }
+      ],
+      "duration_ms": 105131,
+      "name": "Payday",
+      "url": "https://open.spotify.com/track/1IEzC26lkBRUN3AxQ91U3M"
     }
   ],
   "unique_name": "Zacklog",

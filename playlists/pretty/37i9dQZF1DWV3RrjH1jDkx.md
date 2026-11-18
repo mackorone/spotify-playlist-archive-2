@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. Ella Langley, Erlend Ropstad, Martin Hazy, og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,829 likes - 106 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,813 likes - 106 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 105 | [Benny's Video](https://open.spotify.com/track/5N4sQdc3npLGzNfjg8kxlY) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Benny's Video](https://open.spotify.com/album/6c3Ol8A3dtGWvo3fa9jun2) | 5:18 |
 | 106 | [MacGyver](https://open.spotify.com/track/0arbz7QeANiWMaEDFwUZTl) | [Svaerd](https://open.spotify.com/artist/3ZnYXVEfLZhnGugJRAzXAE) | [This Heavy Load](https://open.spotify.com/album/5O1qI1qXNGdiaPpM4dYJ7t) | 2:55 |
 
-Snapshot ID: `AAAAAEeMU458PqPXFICBUx+jpfQqEbwn`
+Snapshot ID: `AAAAAE+NEFUX2clvbz6u7rbssZ00hmmR`

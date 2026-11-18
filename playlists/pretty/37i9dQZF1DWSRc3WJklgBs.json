@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1250347,
+  "num_followers": 1250309,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-11-13 05:00:36",
       "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "R\u00d8AM",
-          "url": "https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC"
-        }
-      ],
-      "duration_ms": 165616,
-      "name": "Nothing Lasts Forever",
-      "url": "https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt"
-    },
-    {
-      "added_at": "2026-11-13 05:00:36",
-      "album": {
         "name": "CTRL ESCAPE",
         "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 203076,
       "name": "SHADES OF BLUE",
       "url": "https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf"
+    },
+    {
+      "added_at": "2026-11-13 05:00:36",
+      "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "R\u00d8AM",
+          "url": "https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC"
+        }
+      ],
+      "duration_ms": 165616,
+      "name": "Nothing Lasts Forever",
+      "url": "https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt"
     },
     {
       "added_at": "2026-11-13 05:00:36",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-11-13 05:00:36",
       "album": {
+        "name": "Around You",
+        "url": "https://open.spotify.com/album/2eGHwaamCReFCTP9iL5F0y"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        }
+      ],
+      "duration_ms": 124207,
+      "name": "Around You",
+      "url": "https://open.spotify.com/track/3tTGaPYwzirwlwjmUgQP34"
+    },
+    {
+      "added_at": "2026-11-13 05:00:36",
+      "album": {
         "name": "In My Arms",
         "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 213161,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/5Rt6sNo8sARFYCUQSgflPm"
-    },
-    {
-      "added_at": "2026-11-13 05:00:36",
-      "album": {
-        "name": "Around You",
-        "url": "https://open.spotify.com/album/2eGHwaamCReFCTP9iL5F0y"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        }
-      ],
-      "duration_ms": 124207,
-      "name": "Around You",
-      "url": "https://open.spotify.com/track/3tTGaPYwzirwlwjmUgQP34"
     },
     {
       "added_at": "2026-11-13 05:00:36",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-11-13 05:00:36",
       "album": {
-        "name": "What I Came For",
-        "url": "https://open.spotify.com/album/7GAWqY9vCQ37OCDo2TFzS7"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 183636,
-      "name": "What I Came For",
-      "url": "https://open.spotify.com/track/4KUvFYXZftOZQaVa3Hxato"
-    },
-    {
-      "added_at": "2026-11-13 05:00:36",
-      "album": {
         "name": "AFTERWORK",
         "url": "https://open.spotify.com/album/6tD3xGS1B0BM3HbtRzVoG4"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 174404,
       "name": "WHEN IT COMES TO YOU",
       "url": "https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"
+    },
+    {
+      "added_at": "2026-11-13 05:00:36",
+      "album": {
+        "name": "What I Came For",
+        "url": "https://open.spotify.com/album/7GAWqY9vCQ37OCDo2TFzS7"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 183636,
+      "name": "What I Came For",
+      "url": "https://open.spotify.com/track/4KUvFYXZftOZQaVa3Hxato"
     },
     {
       "added_at": "2026-11-13 05:00:36",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-11-13 05:00:36",
       "album": {
-        "name": "Home In You",
-        "url": "https://open.spotify.com/album/0fs8P8DYeSKbWSHRsWVcF5"
-      },
-      "artists": [
-        {
-          "name": "Falden",
-          "url": "https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Home In You",
-      "url": "https://open.spotify.com/track/2QOZeqFUMYHqFhVArYH8dA"
-    },
-    {
-      "added_at": "2026-11-13 05:00:36",
-      "album": {
         "name": "Telos",
         "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
       },
@@ -1635,22 +1615,22 @@
     {
       "added_at": "2026-11-13 05:00:36",
       "album": {
-        "name": "Refuge / Ur Alive",
-        "url": "https://open.spotify.com/album/3Hymehl5lIAtEiLctZu9xJ"
+        "name": "Home In You",
+        "url": "https://open.spotify.com/album/0fs8P8DYeSKbWSHRsWVcF5"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Falden",
+          "url": "https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo"
         },
         {
-          "name": "WYLDE",
-          "url": "https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep"
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Ur Alive",
-      "url": "https://open.spotify.com/track/0uPeets140UXoDJ7JowkNy"
+      "duration_ms": 224262,
+      "name": "Home In You",
+      "url": "https://open.spotify.com/track/2QOZeqFUMYHqFhVArYH8dA"
     },
     {
       "added_at": "2026-11-13 05:00:36",
@@ -1671,6 +1651,46 @@
       "duration_ms": 259480,
       "name": "Return to Ojai",
       "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
+    },
+    {
+      "added_at": "2026-11-13 05:00:36",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0a8aICi3QOfsOBqx7wNBaj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 171923,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2zP5hJzCCtzK7ebOdn8UyD"
+    },
+    {
+      "added_at": "2026-11-13 05:00:36",
+      "album": {
+        "name": "Refuge / Ur Alive",
+        "url": "https://open.spotify.com/album/3Hymehl5lIAtEiLctZu9xJ"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "WYLDE",
+          "url": "https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Ur Alive",
+      "url": "https://open.spotify.com/track/0uPeets140UXoDJ7JowkNy"
     },
     {
       "added_at": "2026-11-13 05:00:36",
@@ -1851,26 +1871,6 @@
     {
       "added_at": "2026-11-13 05:00:36",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/0a8aICi3QOfsOBqx7wNBaj"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 171923,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/2zP5hJzCCtzK7ebOdn8UyD"
-    },
-    {
-      "added_at": "2026-11-13 05:00:36",
-      "album": {
         "name": "Moonshine",
         "url": "https://open.spotify.com/album/55Fa0cZIY6FI7TQYyQE4TN"
       },
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2026-11-13 05:00:36",
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/2CAqfURefaNTa30NzA3xTm"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/43qdfB0n3XkfpwASYPHB7J"
+    },
+    {
+      "added_at": "2026-11-13 05:00:36",
+      "album": {
         "name": "SYW (feat. Cecile Believe)",
         "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 192500,
       "name": "Sentimental Ultra",
       "url": "https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk"
-    },
-    {
-      "added_at": "2026-11-13 05:00:36",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/2CAqfURefaNTa30NzA3xTm"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/43qdfB0n3XkfpwASYPHB7J"
     },
     {
       "added_at": "2026-11-13 05:00:36",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2026-11-13 05:00:36",
       "album": {
+        "name": "Love You All Over",
+        "url": "https://open.spotify.com/album/3kfLFFQWRyugkTnsmOiyOe"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 186141,
+      "name": "Love You All Over",
+      "url": "https://open.spotify.com/track/60xmKBhLhBLmuD4RBo72oO"
+    },
+    {
+      "added_at": "2026-11-13 05:00:36",
+      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/7q301yxHP0Ct6EmfRO88FK"
       },
@@ -2415,22 +2431,6 @@
     {
       "added_at": "2026-11-13 05:00:36",
       "album": {
-        "name": "Love You All Over",
-        "url": "https://open.spotify.com/album/3kfLFFQWRyugkTnsmOiyOe"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 186141,
-      "name": "Love You All Over",
-      "url": "https://open.spotify.com/track/60xmKBhLhBLmuD4RBo72oO"
-    },
-    {
-      "added_at": "2026-11-13 05:00:36",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/5lGxKoO5OJLcV7ZgKvuv1G"
       },
@@ -2451,26 +2451,6 @@
     {
       "added_at": "2026-11-13 05:00:36",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/3Fb9wQ7cRCBow2BOlcQ02H"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6vYpybZoGKDk5b7HVkJQ8p"
-    },
-    {
-      "added_at": "2026-11-13 05:00:36",
-      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/73urlObxlJLyIPJwwnikJ2"
       },
@@ -2487,6 +2467,26 @@
       "duration_ms": 155210,
       "name": "Confession",
       "url": "https://open.spotify.com/track/0djKAYbFaMG539SuVAS6Ad"
+    },
+    {
+      "added_at": "2026-11-13 05:00:36",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/3Fb9wQ7cRCBow2BOlcQ02H"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6vYpybZoGKDk5b7HVkJQ8p"
     },
     {
       "added_at": "2026-11-13 05:00:36",

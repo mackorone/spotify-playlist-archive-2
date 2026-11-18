@@ -16242,7 +16242,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -20886,7 +20886,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 216806,
       "name": "Nano",
       "url": "https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW"
@@ -22926,7 +22926,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
@@ -22944,7 +22944,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
@@ -28288,7 +28288,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 199460,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
@@ -29246,7 +29246,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 229040,
       "name": "Tayeh Fel Amaken",
       "url": "https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d"
@@ -35189,6 +35189,24 @@
     },
     {
       "album": {
+        "name": "\u062b\u0645\u0627\u0646 \u0627\u0644\u0627\u0645",
+        "url": "https://open.spotify.com/album/5GlYWKPu1cOykbSRzXOkGG"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291083,
+      "name": "\u0627\u0644\u0645\u0633\u0627\u0641\u0629",
+      "url": "https://open.spotify.com/track/7EBYxiuXZHqi73bCqO8G8T"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u0645\u0647\u0632\u0644\u0629",
         "url": "https://open.spotify.com/album/1CMx0HAUHaV8fQjA7IyfLc"
       },
@@ -36294,7 +36312,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 199500,
       "name": "\u062d\u064a\u0631\u062a\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/52gRLI94ODvSGNuVlpCfK2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,560 likes - 45 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,554 likes - 45 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 44 | [Leave Me Alone](https://open.spotify.com/track/4cU229v61MuKAp6HvaP6w5) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [B4YFLA](https://open.spotify.com/album/10DFSfy2T71Qday96KfQF6) | 2:44 |
 | 45 | [MY PEOPLE](https://open.spotify.com/track/5o4xxhY17mfqFhIqO4WeQf) | [ICXN](https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [TENKI](https://open.spotify.com/album/2XadlUi76KaqpMdolmqqbV) | 3:19 |
 
-Snapshot ID: `AAAAANT4Km6SquYy+9KgiFHkIF9Sb3/g`
+Snapshot ID: `AAAAAEGC6Z7101PLLtQCpjwbKDTwmKgY`

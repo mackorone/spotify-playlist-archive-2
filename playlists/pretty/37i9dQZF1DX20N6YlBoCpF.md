@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Zaan Sonnekus, Brendan Peyper, Ivan Roux, Marno van der Merwe, Ichnus meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,002 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,994 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 79 | [Sonder Jou Is Sonde](https://open.spotify.com/track/7kuYKjFU4ClKn4EQ9Y8uQg) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Sonder Jou Is Sonde](https://open.spotify.com/album/3b5rhpvkAp2o3MBgk7bacR) | 2:32 |
 | 80 | [Elke Hond](https://open.spotify.com/track/0WUhFgI2gLLMx9WUpAKdia) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Elke Hond](https://open.spotify.com/album/51x6S9zPimujoEDgqqCxV7) | 3:02 |
 
-Snapshot ID: `AAAAANWtnFTMMknVZjIpTLYirvtWJQSJ`
+Snapshot ID: `AAAAADR8MyNUtoTSTZ69zza2TyKKjo9l`

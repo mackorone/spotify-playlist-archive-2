@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,656 likes - 100 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,677 likes - 100 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Ingoma](https://open.spotify.com/track/3mtMlm1meJtVVL2GGiYliC) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Ingoma](https://open.spotify.com/album/5HKL6I7wz52Q60jEzUzuyW) | 5:18 |
 | 100 | [Uyalalela \- Live](https://open.spotify.com/track/0EXa43pAwb2RrqVoGLcRnm) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Uyalalela \(Live\)](https://open.spotify.com/album/7hP10amvzadvsSXDc19vdG) | 10:30 |
 
-Snapshot ID: `AAAAAIYA94uWFXu6GK5G1OxS9RloeGJE`
+Snapshot ID: `AAAAAMpwGuRscRjyef2+P80/0GpAybMD`

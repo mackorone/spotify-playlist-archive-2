@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover:  Sheku Kanneh\-Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,628 likes - 80 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,641 likes - 80 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 79 | [Cello Sonata in B Minor: I\. Allegro](https://open.spotify.com/track/4WYX97GU6HiIESLnGQzSkP) | [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I), [Vasily Stepanov](https://open.spotify.com/artist/5iyBB4AuvqCN4C7MZ4BdR3), [Stanislav Korchagin](https://open.spotify.com/artist/5W2q87TDSJ79cmRp3VZKo9) | [Russian Cello Sonata](https://open.spotify.com/album/64SmeIykXZ68XtJdwneZgh) | 8:37 |
 | 80 | [9 Preludes, Op\. 1 No\. 5 in D Minor: Allegro molto \- Impetuoso](https://open.spotify.com/track/5JjRGmS6N28Wf5auGQcThy) | [Karol Szymanowski](https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal), [Beata Szalwinska](https://open.spotify.com/artist/4b5GjxVKMRX2A5HGeNwFn4) | [Szymanowski: 9 Preludes, Op\. 1](https://open.spotify.com/album/7oDx5k4ibkDX5oIXaOTRoI) | 1:13 |
 
-Snapshot ID: `AAAAAPI0ZXW50oz4WH2pevpJpmLAPq+r`
+Snapshot ID: `AAAAAFZ4+KcXSNHfG0JI4n3JGiuy5wTV`

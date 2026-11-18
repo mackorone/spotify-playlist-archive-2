@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,005 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,004 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 30 | [Dobra](https://open.spotify.com/track/1RalfDqd1uLsCPSuetbVIY) | [MOMO RECORDS](https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo) | [Dobra](https://open.spotify.com/album/7BlGEx5ELPOMDL3pFbIlPB) | 2:57 |
 | 31 | [Bolnitsa](https://open.spotify.com/track/2FNPFo76QS9NXtMITSgMp3) | [KSIOR](https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6), [Diona](https://open.spotify.com/artist/5OyVwBuWRLl5npoif9l5sJ) | [Bolnitsa](https://open.spotify.com/album/5JYQBJEOH0H4vX6VnpM3jz) | 2:42 |
 | 32 | [Vreme e](https://open.spotify.com/track/3JOJCNsWThMKEeWBXWDgxI) | [Boni](https://open.spotify.com/artist/5XJiplMBIs5bkRy3Spyrgl) | [Vreme e](https://open.spotify.com/album/01Xo8UbUjEmcZyB32XDgC5) | 3:23 |
-| 33 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 |
+| 33 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
 | 34 | [RIKOSHET](https://open.spotify.com/track/02zX0wgHupX29Nhq8RAEoy) | [Menfis](https://open.spotify.com/artist/1MHSqUazy7BjU8NytnUl0Q), [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW) | [RIKOSHET](https://open.spotify.com/album/4IdW4HOsCpKTuBPO35w1sw) | 2:49 |
 | 35 | [Mutsuna](https://open.spotify.com/track/1AZk3XywowE0xQvHOVU6NB) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Mutsuna](https://open.spotify.com/album/4FTs7rrwjPManpg3KZM0SX) | 3:36 |
 | 36 | [Reflections](https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
 | 50 | [Лакомия](https://open.spotify.com/track/5S0qs9IQPsBkT9VO9n4lCk) | [Diona](https://open.spotify.com/artist/5OyVwBuWRLl5npoif9l5sJ), [Bo](https://open.spotify.com/artist/7hlTtVz10Vlmp9oDPHwjUE), [Stella](https://open.spotify.com/artist/002oyMRzxTzEsBRLzACi8d), [Simona](https://open.spotify.com/artist/46FAr44jS3tCDAdSWzA2Ou) | [Лакомия](https://open.spotify.com/album/0bbUdlIg1G3WktpH845sim) | 2:21 |
 
-Snapshot ID: `Mo6p4AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mo/yAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

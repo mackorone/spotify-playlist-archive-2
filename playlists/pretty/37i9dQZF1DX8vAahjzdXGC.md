@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari MALIQ & D'Essentials, Bernadya, Bunga Citra Lestari, NCT Dream dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,583 likes - 105 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,556 likes - 105 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 104 | [The Ocean](https://open.spotify.com/track/1yIZukgM5hBDsLafnMMbO8) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [The Ocean](https://open.spotify.com/album/78urQf4fyRWRXNoladKnD7) | 3:33 |
 | 105 | [If u say so](https://open.spotify.com/track/00cgFrRwcsMU0u3QTvdedb) | [Roypim](https://open.spotify.com/artist/2eYm3DvV9tmZipL51cfnzb) | [GHOST](https://open.spotify.com/album/7fH7dnSJTf3JmqzhVwDZXz) | 4:07 |
 
-Snapshot ID: `AAAAAKatdxtYKSktRbUN1l/UAZ57QZxP`
+Snapshot ID: `AAAAAFJFShhJwuCQuWQaOng3FEdxe7Qv`

@@ -4,11 +4,12 @@
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-89 songs - 5 hr 17 min
+90 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Moi\-même](https://open.spotify.com/track/78FoiGR1ca78sN0KeQvYvq) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Parmi Eux](https://open.spotify.com/album/4hTfu8ttvLuVzVaJ41EU4a) | 2:10 | 2022-10-14 | 2024-04-16 |
+| [100ème étage](https://open.spotify.com/track/3i6ihEM4WReGBgqWt37nC4) | [Vegastar](https://open.spotify.com/artist/6fSUhUQeYqS6VUFA3Pv8ox) | [Un nouvel orage](https://open.spotify.com/album/6o9M7uzvmnjiGiOzsDOKVE) | 3:36 | 2025-11-13 |  |
 | [A Tout Moment La Rue](https://open.spotify.com/track/2JRM4lfA094lLCfv2cYcPP) | [Eiffel](https://open.spotify.com/artist/5IiWXFMbz2luGGkdzSBNhJ) | [A Tout Moment](https://open.spotify.com/album/4fZ1VIBKVbaAZNSI9uBhPi) | 4:29 | 2022-10-14 | 2024-06-25 |
 | [A Tout Moment La Rue](https://open.spotify.com/track/65RRCKcgs4QDZGrsl3ZeUb) | [Eiffel](https://open.spotify.com/artist/5IiWXFMbz2luGGkdzSBNhJ) | [A tout moment](https://open.spotify.com/album/7Ew87764lK3jKB96EYQCgp) | 4:29 | 2022-10-14 | 2024-04-19 |
 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:30 | 2022-10-14 | 2025-11-24 |
@@ -88,7 +89,7 @@
 | [Sur la planche 2013](https://open.spotify.com/track/1su9FWmWVgf71pqY78k5Ib) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Psycho Tropical Berlin](https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp) | 3:49 | 2022-10-14 | 2024-04-19 |
 | [Sur un volcan](https://open.spotify.com/track/5w8bF2RGgf9PkXEoEl8SSN) | [La Maison Tellier](https://open.spotify.com/artist/41EfC0kQmOWfbW2FBGttze) | [Beauté pour tous](https://open.spotify.com/album/5Aqi0GvOzJuVGjiqQqorlH) | 3:05 | 2022-10-14 | 2024-04-19 |
 | [Tchi Cum Bah](https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aeromusical](https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF) | 2:23 | 2022-10-14 |  |
-| [Te revoir](https://open.spotify.com/track/1IG7yiK7vAUD1bg5wfMmEO) | [Eiffel](https://open.spotify.com/artist/5IiWXFMbz2luGGkdzSBNhJ) | [Abricotine](https://open.spotify.com/album/49A5xZlHxQq92tl58EAAlC) | 5:06 | 2024-06-24 |  |
+| [Te revoir](https://open.spotify.com/track/1IG7yiK7vAUD1bg5wfMmEO) | [Eiffel](https://open.spotify.com/artist/5IiWXFMbz2luGGkdzSBNhJ) | [Abricotine](https://open.spotify.com/album/49A5xZlHxQq92tl58EAAlC) | 5:06 | 2024-06-24 | 2026-11-18 |
 | [Ton invitation](https://open.spotify.com/track/0xHLq3Ko1jt86yrcf1M04E) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/6ASu7ufzcJkzZ9lLfiTyMN) | 2:39 | 2022-10-14 | 2024-06-25 |
 | [Ton invitation](https://open.spotify.com/track/1xsRqL4cvEaOQ5TbXpqaAV) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 2:39 | 2022-10-14 | 2024-04-19 |
 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 | 2022-10-14 |  |

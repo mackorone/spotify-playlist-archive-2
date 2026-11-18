@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [לילה לבן](https://open.spotify.com/track/6l3X7le3OXz2bb0fdkvyfx) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [לילה לבן](https://open.spotify.com/album/4Q73NiIGItaCaVwrIVV3SN) | 2:48 |
 | 50 | [סטלה של עצב](https://open.spotify.com/track/25xNKqfiDgt71y7dB7OPAZ) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [22](https://open.spotify.com/album/6qksIvKRkilcpniBiIQmRv) | 2:49 |
 
-Snapshot ID: `AAAAAAFvY69oMA6HRsMQkXYU6fPQcJsm`
+Snapshot ID: `AAAAALzx4jjgbRM15pSKa1eniI38+WFE`

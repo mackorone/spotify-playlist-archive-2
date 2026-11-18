@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Ralphie Choo, Hijos de la Ruina con Morad, SFDK, MARLENA y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,974 likes - 84 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,960 likes - 84 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 83 | [YES](https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [YES](https://open.spotify.com/album/0FiarOgpwaZ18ZvTy7dlXc) | 3:10 |
 | 84 | [Set Me Free](https://open.spotify.com/track/4GjIE0VYM6rBtBIJemRzww) | [Adiel](https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw) | [Set Me Free](https://open.spotify.com/album/6H69i1PwbYdTsX31bGgq7f) | 5:00 |
 
-Snapshot ID: `AAAAADzJmXiLfhowITU/RzBaPHmdgHOc`
+Snapshot ID: `AAAAAAbif82j+Y/5VbAjHxVrRvA6+eGw`

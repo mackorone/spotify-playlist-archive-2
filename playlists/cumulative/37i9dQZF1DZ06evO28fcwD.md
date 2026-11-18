@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-199 songs - 13 hr 23 min
+200 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Amazing Grace](https://open.spotify.com/track/0bA7InqHdTe6uwta4HNwOM) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Favourites \(Special Edition\)](https://open.spotify.com/album/3T8BcKcFCzyeMRft0Yeglt) | 3:29 | 2022-10-10 | 2023-07-21 |
 | [Amen](https://open.spotify.com/track/6AeCDWexqzKoNhfYt1GS7N) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Always With Us](https://open.spotify.com/album/0NP4VoQSMcTYoUxjl7SKJe) | 3:41 | 2021-12-28 | 2024-05-02 |
 | [ANCESTRAL CALL](https://open.spotify.com/track/5HowYlbTc3sSkpqj1mhcZ7) | [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [ANCESTRAL CALL](https://open.spotify.com/album/3HFjhGuXbIuZIML0Q49h0l) | 2:46 | 2023-09-18 | 2024-04-06 |
+| [Asibavikele](https://open.spotify.com/track/4lEjHdkamKjUg8dLw7F9lL) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Asibavikele](https://open.spotify.com/album/2Yxy7jPbQh19Dg2evsVp98) | 5:04 | 2026-11-18 |  |
 | [Awu Wemadoda](https://open.spotify.com/track/1xitjCzTxasyA9WBZMuKV9) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 3:22 | 2021-12-28 | 2024-05-17 |
-| [Awu Wemadoda \- Club Mix](https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Awu Wemadoda](https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5) | 3:55 | 2023-08-03 |  |
+| [Awu Wemadoda \- Club Mix](https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Awu Wemadoda](https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5) | 3:55 | 2023-08-03 | 2026-11-18 |
 | [Ayikh' Indaw' Enjengekhaya \(Henrik Schwarz Rework\)](https://open.spotify.com/track/5GmYZKs60MPyyVySv6yQKF) | [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Ayikh' Indaw' Enjengekhaya \(Henrik Schwarz Rework\)](https://open.spotify.com/album/2uGCLaCAJ7EuKCrPZVxf8X) | 6:41 | 2022-07-02 | 2024-03-24 |
 | [Ayikh’ Indaw’ Enjengekhaya](https://open.spotify.com/track/4gjiWULubKgWGUWWeFIOGj) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ikhaya Nothando](https://open.spotify.com/album/2FROh0s0wCaWvJ4yM2Ym3V) | 3:34 | 2022-10-04 | 2022-10-13 |
 | [Bamnqobile](https://open.spotify.com/track/3FTyDZ9W072Lqq31ZM8zys) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezinkulu](https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh) | 4:51 | 2024-09-09 |  |

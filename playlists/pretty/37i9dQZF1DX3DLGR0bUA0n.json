@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. La Dinast\u00eda de Tuzantla Michoac\u00e1n en portada. ",
-  "num_followers": 99406,
+  "num_followers": 99424,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFQ9lBUIKgyKSKZvWcM6TbwG+B18",
+  "snapshot_id": "AAAAAGJ6TnPq6vphK5dD7YQlsZVj9WkV",
   "tracks": [
     {
       "added_at": "2026-11-13 06:00:52",
@@ -599,6 +599,38 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
+        "name": "El Campesino y el Sol",
+        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
+      },
+      "artists": [
+        {
+          "name": "La Dinastia de Tuzantla, Mich.",
+          "url": "https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "El Campesino Y El Sol",
+      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Eres Mi \u00c1ngel",
+        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Hermosa Tierra Caliente",
+      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
         "name": "Gente de Rancho",
         "url": "https://open.spotify.com/album/7u7SM8hdzFWNs2vhdoEQFG"
       },
@@ -631,38 +663,6 @@
       "duration_ms": 160128,
       "name": "Gente de Rancho",
       "url": "https://open.spotify.com/track/2d0jmxWeeqL4ywfgCZalmf"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
-        "name": "Eres Mi \u00c1ngel",
-        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Hermosa Tierra Caliente",
-      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
-        "name": "El Campesino y el Sol",
-        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
-      },
-      "artists": [
-        {
-          "name": "La Dinastia de Tuzantla, Mich.",
-          "url": "https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "El Campesino Y El Sol",
-      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -815,8 +815,8 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Quiero Que Seas para M\u00ed",
-        "url": "https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv"
+        "name": "Kilos de Polvo",
+        "url": "https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
         }
       ],
-      "duration_ms": 228733,
-      "name": "Entre Copa y Copa",
-      "url": "https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4"
+      "duration_ms": 329160,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -895,8 +895,8 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Kilos de Polvo",
-        "url": "https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk"
+        "name": "Quiero Que Seas para M\u00ed",
+        "url": "https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv"
       },
       "artists": [
         {
@@ -904,25 +904,9 @@
           "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
         }
       ],
-      "duration_ms": 329160,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
-        "name": "El Nike",
-        "url": "https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 242850,
-      "name": "El Nike",
-      "url": "https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu"
+      "duration_ms": 228733,
+      "name": "Entre Copa y Copa",
+      "url": "https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -939,6 +923,22 @@
       "duration_ms": 144682,
       "name": "Lo Que Empieza Acaba",
       "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "El Nike",
+        "url": "https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 242850,
+      "name": "El Nike",
+      "url": "https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Homenaje al Rey Pobre",
-        "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
-      },
-      "artists": [
-        {
-          "name": "Raul Garcia Y Su Grupo Kabildo",
-          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
-        },
-        {
-          "name": "La Dinastia de Tuzantla Mich",
-          "url": "https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "Carta de Luto",
-      "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
         "name": "Los De Tierra Caliente (En Vivo)",
         "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 1191237,
       "name": "Flor De Lim\u00f3n / Te Llegar\u00e1 Mi Olvido / Pobre Bohemio / Beso A Beso / Tierra Mala / El Caminante - En Vivo",
       "url": "https://open.spotify.com/track/0rvBiev8PnkB3lwnFLmRuI"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Homenaje al Rey Pobre",
+        "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
+      },
+      "artists": [
+        {
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
+        },
+        {
+          "name": "La Dinastia de Tuzantla Mich",
+          "url": "https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "Carta de Luto",
+      "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "La Luz de Tus Ojos / Cuesti\u00f3n Olvidada",
-        "url": "https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK"
-      },
-      "artists": [
-        {
-          "name": "Banda los Coste\u00f1os de Zir\u00e1ndaro Guerrero",
-          "url": "https://open.spotify.com/artist/0cVRVkZyKQmKRcYLgiKphe"
-        },
-        {
-          "name": "Los Monarcas De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/6sIEMWaLmoLFkhc1O2bjBo"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "La Luz de Tus Ojos / Cuesti\u00f3n Olvidada",
-      "url": "https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
         "name": "Los De Tierra Caliente (En Vivo)",
         "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
       },
@@ -1103,6 +1083,26 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
+        "name": "La Luz de Tus Ojos / Cuesti\u00f3n Olvidada",
+        "url": "https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK"
+      },
+      "artists": [
+        {
+          "name": "Banda los Coste\u00f1os de Zir\u00e1ndaro Guerrero",
+          "url": "https://open.spotify.com/artist/0cVRVkZyKQmKRcYLgiKphe"
+        },
+        {
+          "name": "Los Monarcas De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/6sIEMWaLmoLFkhc1O2bjBo"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "La Luz de Tus Ojos / Cuesti\u00f3n Olvidada",
+      "url": "https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
         "name": "El Amor de Tu Vida",
         "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
       },
@@ -1115,38 +1115,6 @@
       "duration_ms": 205333,
       "name": "Dile",
       "url": "https://open.spotify.com/track/0RZ352rB5tBZ0Oepsu7ubJ"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
-        "name": "Le\u00f1a De Pirul",
-        "url": "https://open.spotify.com/album/5Yr2KAdhp8yfmqk6PvPq3f"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 166900,
-      "name": "Le\u00f1a De Pirul",
-      "url": "https://open.spotify.com/track/7wj70qg5GF8jj2bpZiNC2Y"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
-        "name": "De California Te Escribo",
-        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
-      },
-      "artists": [
-        {
-          "name": "Raul Garcia Y Su Grupo Kabildo",
-          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "El Rey Pobre",
-      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -1167,6 +1135,22 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
+        "name": "De California Te Escribo",
+        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
+      },
+      "artists": [
+        {
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "El Rey Pobre",
+      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
         "name": "Los De Tierra Caliente (En Vivo)",
         "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 580430,
       "name": "Ser\u00e1 Mi Castigo / La Silla Vac\u00eda / Somos Ajenos - En Vivo",
       "url": "https://open.spotify.com/track/3cOKczNlW5tZp8BfDnsInE"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Le\u00f1a De Pirul",
+        "url": "https://open.spotify.com/album/5Yr2KAdhp8yfmqk6PvPq3f"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 166900,
+      "name": "Le\u00f1a De Pirul",
+      "url": "https://open.spotify.com/track/7wj70qg5GF8jj2bpZiNC2Y"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
         "name": "El Potosino y El Cocho",
         "url": "https://open.spotify.com/album/6Fmej7TWDGwwtQG3fFHYg5"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 168120,
       "name": "Mal Amor",
       "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
-      },
-      "artists": [
-        {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Con Cartitas y Palabras",
-        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
+        "name": "El Arroyito (Los Creadores del Sacadito)",
+        "url": "https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5"
       },
       "artists": [
         {
-          "name": "Gabino y su Banda Chica",
-          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
         }
       ],
-      "duration_ms": 145124,
-      "name": "Con Cartitas y Palabras",
-      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
+      "duration_ms": 174400,
+      "name": "Ya Est\u00e1n Cantando los Gallos",
+      "url": "https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "El Arroyito (Los Creadores del Sacadito)",
-        "url": "https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5"
+        "name": "Con Cartitas y Palabras",
+        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
       },
       "artists": [
         {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+          "name": "Gabino y su Banda Chica",
+          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
         }
       ],
-      "duration_ms": 174400,
-      "name": "Ya Est\u00e1n Cantando los Gallos",
-      "url": "https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg"
+      "duration_ms": 145124,
+      "name": "Con Cartitas y Palabras",
+      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
     },
     {
       "added_at": "2026-11-13 06:00:52",

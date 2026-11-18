@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/57M3aLfH5sByoAb0ovZhgm.md) - [plain]
 
 > cookin&\#x27;
 
-[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 1 like - 123 songs - 7 hr 31 min
+[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 1 like - 124 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,5 +131,6 @@ pretty - [cumulative](/playlists/cumulative/57M3aLfH5sByoAb0ovZhgm.md) - [plain]
 | 121 | [Miss You \(with Major Lazer & Tory Lanez\)](https://open.spotify.com/track/7HdZY9UJTylIiNcSDFyUDc) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Miss You \(with Major Lazer & Tory Lanez\)](https://open.spotify.com/album/5Q44tz5m4c6y4pG7VPjfj6) | 3:06 |
 | 122 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
 | 123 | [Grizzly Bear](https://open.spotify.com/track/0IJ1ijo3uoJzy6ZE5wxJio) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone \(Deluxe\)](https://open.spotify.com/album/4DnMkBr1AH6IMP5wORp7Ag) | 4:08 |
+| 124 | [Ajib Dastan Hai Yeh](https://open.spotify.com/track/6Rl4eDKFpvntiRKtPn8d5V) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Dil Apna Aur Preet Parai](https://open.spotify.com/album/17R7D9hwGGT7XCyB6JDGuU) | 5:15 |
 
-Snapshot ID: `AAAAoc4ZaWI447IwAzB7EWv3hFYlo7CI`
+Snapshot ID: `AAAAooE59zG51VeARrlBFNL3uG2XZ4Rq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Munan\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,765 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,760 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 51 | [Wish You Knew](https://open.spotify.com/track/4YaZmlnaguWNgdxAHRB9hM) | [Hong Taeyeon](https://open.spotify.com/artist/4EMsihpNXYdhVAm3oCNbVp) | [Wish You Knew](https://open.spotify.com/album/1OWEK5LX0SjM8k2tFbUKL4) | 3:52 |
 | 52 | [undefined](https://open.spotify.com/track/6kkBsWMqkyqe3RtSYUuUGl) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [undefined](https://open.spotify.com/album/4b8VZ8cCzAXecskgIwyTE4) | 3:42 |
 
-Snapshot ID: `AAAAANJduAyZbJecMo4NU2/wO9lkW/E9`
+Snapshot ID: `AAAAAPFZ2O65dkX9Fv8prpK5nJL/oe7b`

@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2987,
+  "num_followers": 2989,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAAAfsjsLkTUfF4yaV69YVOjW",
+  "snapshot_id": "avpHgAAAAACYHXF9oISlHo4M2GkEE/JD",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Malibu Drift",
+        "url": "https://open.spotify.com/album/7pwucSLMR3Er8o8b7NuOyx"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 123681,
+      "name": "Trillion$ (feat. Bludnymph)",
+      "url": "https://open.spotify.com/track/5rqfWwOFBERp4uK0OzGq3a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "6izarre RAVE (with 6arelyhuman)",
         "url": "https://open.spotify.com/album/1sivAzc3StL99nZrQ89oTq"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 168000,
       "name": "6izarre RAVE (with 6arelyhuman)",
       "url": "https://open.spotify.com/track/7zy9giuWVVJPCalGuWciBf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malibu Drift",
-        "url": "https://open.spotify.com/album/7pwucSLMR3Er8o8b7NuOyx"
-      },
-      "artists": [
-        {
-          "name": "Malibu Babie",
-          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 123681,
-      "name": "Trillion$ (feat. Bludnymph)",
-      "url": "https://open.spotify.com/track/5rqfWwOFBERp4uK0OzGq3a"
     },
     {
       "added_at": null,

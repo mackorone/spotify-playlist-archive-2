@@ -2521,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "SKYLINE",
+        "url": "https://open.spotify.com/album/6qNm5lOlxahuz4d3eSVINP"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165992,
+      "name": "sympathy",
+      "url": "https://open.spotify.com/track/1KNt9MiKG3J70UtFkIt5ug"
+    },
+    {
+      "album": {
         "name": "d\u00f6(d) f\u00f6r mig",
         "url": "https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU"
       },
@@ -2590,6 +2608,24 @@
       "duration_ms": 164986,
       "name": "Thanks a lot now I can\u2019t smile",
       "url": "https://open.spotify.com/track/04yovA3Awq1PhEuSRgPXFi"
+    },
+    {
+      "album": {
+        "name": "SKYLINE",
+        "url": "https://open.spotify.com/album/6qNm5lOlxahuz4d3eSVINP"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245526,
+      "name": "that stupid t-shirt",
+      "url": "https://open.spotify.com/track/2A16u6EztU1s33TH40WMY9"
     },
     {
       "album": {

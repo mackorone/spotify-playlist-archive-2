@@ -5773,6 +5773,24 @@
     },
     {
       "album": {
+        "name": "La Lista",
+        "url": "https://open.spotify.com/album/7i18zxTnzHqmGjs7P0edKQ"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280273,
+      "name": "La Mar\u00eda",
+      "url": "https://open.spotify.com/track/5dVQEKtoLnuUAaA0bCyNqZ"
+    },
+    {
+      "album": {
         "name": "Laced Up",
         "url": "https://open.spotify.com/album/6az1CCt62V1JJWnVxMPrQS"
       },

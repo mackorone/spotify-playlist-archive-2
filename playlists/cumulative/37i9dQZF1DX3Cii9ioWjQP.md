@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Maria Kim\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: YUJIN KIM\) \(새롭고 핫한 국내 재즈 음악들을 만나보세요.\)
 
-288 songs - 19 hr 59 min
+289 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Autumn Leaves](https://open.spotify.com/track/4MYcqL8XKOQ9BM2F3z3FgI) | [Haewon Moon](https://open.spotify.com/artist/5vRXwK3TSQ2mZgw9ZLIS7q), [Tsuyoshi Yamamoto](https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5) | [Holiday gift from MOON](https://open.spotify.com/album/69y8tMlfVNtZKE45phqDHF) | 4:30 | 2025-04-03 |  |
 | [Baila, Baila](https://open.spotify.com/track/2splcDjHiK8dj39ZLn6Rrm) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Baila, Baila](https://open.spotify.com/album/7jBDLRqPdmSQM0w8j8xbaP) | 3:08 | 2025-09-09 |  |
 | [Bambi](https://open.spotify.com/track/75IjhFxQkIvCzP16IyR5Ob) | [정수연](https://open.spotify.com/artist/7az0Pd2sKjDBXMxPxhd6Qn) | [Bambi](https://open.spotify.com/album/0qKGgiSj0etZBTFrqMwPZ7) | 4:22 | 2022-05-03 | 2023-10-05 |
+| [Bed](https://open.spotify.com/track/25QywadzhRSB3COQljUTe3) | [YUJIN KIM](https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb), [JISU](https://open.spotify.com/artist/1QUxcni0biHr4HFdN44QE9), [Seoin Lee](https://open.spotify.com/artist/6oPVVCTanIJ4FPlnpCdnkd) | [Three](https://open.spotify.com/album/6J0QVRhNoM4AaOGtdOwOMu) | 2:47 | 2026-11-17 |  |
 | [Behind](https://open.spotify.com/track/6HvtI4dnFqS2YHxQxSRN5R) | [Hyena Park](https://open.spotify.com/artist/1FPKbjt3JFJCUL0Tjo4V4E) | [JAZZ DIVA](https://open.spotify.com/album/46RpUdfLtkuprdnQh69cPb) | 5:21 | 2022-05-03 | 2023-10-05 |
 | [Being](https://open.spotify.com/track/6eJX1JLQJe7VcPCz7enWgJ) | [Jo Esther](https://open.spotify.com/artist/1wMZi9Tu0zEWhR5npdwG65) | [Being](https://open.spotify.com/album/1GzPpe2LvhN0PrY83KYtG8) | 5:12 | 2023-10-04 | 2024-11-07 |
 | [Best Friend](https://open.spotify.com/track/32bStQb6gjhmWLoiAAYSno) | [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Retrospect](https://open.spotify.com/album/4Eb1dLsvOh15opaO5bVCru) | 2:47 | 2023-01-05 | 2024-11-07 |

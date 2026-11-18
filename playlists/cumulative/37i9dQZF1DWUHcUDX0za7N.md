@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: 6uff
 
-847 songs - 1 day 15 hr 32 min
+848 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [I DEY ABUJA](https://open.spotify.com/track/6AAKc2ijypXA3aAGvL40i7) | [Toocoldbaby](https://open.spotify.com/artist/7IsbSKYoGSIWo0NMqxjOCM) | [I DEY ABUJA](https://open.spotify.com/album/1B3he5xpzSAlAsUevQ2P2V) | 1:51 | 2026-02-27 | 2026-03-13 |
 | [I Don't Care \(feat\. Bella Shmurda & Vector\)](https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Bella Shmurda](https://open.spotify.com/artist/4OBeWqpDm9s3hfaoVAj1Ni), [Vector](https://open.spotify.com/artist/0VIRUXHBdO0Uo2U6MbVOmn) | [Better Days](https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf) | 2:52 | 2024-03-22 | 2024-11-22 |
 | [I knoww](https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Star Jay](https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D) | [I knoww](https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq) | 1:22 | 2026-05-29 | 2026-06-19 |
-| [I Knoww II](https://open.spotify.com/track/0DlXEJiBF5RsnbiYqKndsV) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [I Knoww II](https://open.spotify.com/album/28pWV27QnlP2Mwe1nhEiN7) | 2:15 | 2026-09-11 |  |
+| [I Knoww II](https://open.spotify.com/track/0DlXEJiBF5RsnbiYqKndsV) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [I Knoww II](https://open.spotify.com/album/28pWV27QnlP2Mwe1nhEiN7) | 2:15 | 2026-09-11 | 2026-11-18 |
 | [I LOOK GOOD](https://open.spotify.com/track/5hSiM6ctEOTsQAMBjidq2r) | [Eva Alordiah](https://open.spotify.com/artist/3Fys2rzPCbp6tDzQ7YO3Pq) | [I LOOK GOOD](https://open.spotify.com/album/3LaVxJ3gAcD59h3piZ5kAM) | 2:25 | 2024-02-16 | 2024-02-23 |
 | [I LOVE THIS \(feat\. Igwe Aka\)](https://open.spotify.com/track/6sS4CHgGx63QMYmxdxd06n) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI) | [NOMADINHO: 4TH PRIME](https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3) | 2:24 | 2026-10-16 |  |
 | [I Met Nas in a Dream](https://open.spotify.com/track/53ji2kOnMFVz81RblzTCSc) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Tonee C](https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8) | [I Met Nas in a Dream](https://open.spotify.com/album/0RLi8gzE8HYWZly3iMoVIT) | 2:42 | 2024-11-22 | 2024-11-30 |
@@ -827,6 +827,7 @@
 | [Wicked Bitch of the South](https://open.spotify.com/track/0J5QpTl2bQZz14hankIpzn) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Outside II](https://open.spotify.com/album/1yE4tyZV5U53xd8eSRMbA1) | 0:53 | 2022-10-07 | 2022-11-25 |
 | [Wild Side](https://open.spotify.com/track/6jplKm9eFCulH6CQZKeDhd) | [Freq Motif](https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK), [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [Wild Side](https://open.spotify.com/album/1IP7a8gdy3PtSoRw1gLG5K) | 2:03 | 2023-03-18 | 2023-03-25 |
 | [Will Be](https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS) | [Michealz](https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB) | [Will Be](https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R) | 3:55 | 2024-02-16 | 2024-11-22 |
+| [WINDOW II](https://open.spotify.com/track/58ifIpt51DsJgzDxYk1857) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [OctobersRich](https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WINDOW II](https://open.spotify.com/album/1RHRDyu428st4zevEeD2tM) | 1:56 | 2026-11-13 |  |
 | [WOE$KII](https://open.spotify.com/track/0n9bLhbejFfR54AehIevMU) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [GBED$$$](https://open.spotify.com/album/4EglvXBZ5ofjhhRAv0qygO) | 2:37 | 2026-06-19 | 2026-09-11 |
 | [Woman of Virtue \(feat\. Ajebo Hustlers\)](https://open.spotify.com/track/3dL9z0AKrbYD17VH4owfXH) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:31 | 2024-05-17 | 2025-04-08 |
 | [Women Of My Time](https://open.spotify.com/track/0GOq7F8RpXhcwFUsEWE2JY) | [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BLACK SHEEPIZEN \(THE 13th DISCIPLE\)](https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR) | 3:36 | 2026-03-16 | 2026-08-28 |

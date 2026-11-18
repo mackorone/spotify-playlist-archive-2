@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Amrit Maan, Sultaan, Shubh and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,605 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,616 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Manhood](https://open.spotify.com/track/6MkYloohhH1yfoIlwT6Bub) | [Mannie Sandhu](https://open.spotify.com/artist/4DszqtbNH0tazElX9xSE7U) | [Manhood](https://open.spotify.com/album/6Kx7kMwyfVrrYVcVgig4IY) | 2:43 |
 | 75 | [Folk & Flow](https://open.spotify.com/track/08zKg8AMQYpjnv4O2OLdrv) | [G Amrit](https://open.spotify.com/artist/0tOokEXLtOKfUh61gn8pWk) | [Folk & Flow](https://open.spotify.com/album/3EpRGjYdXSkF25k55S2JzP) | 2:35 |
 
-Snapshot ID: `AAAAAN17inMTlNp7lvVwsOjKqOtMYK6g`
+Snapshot ID: `AAAAACrYEtD/RPU5ktZbvzp2p3YJ52Cr`

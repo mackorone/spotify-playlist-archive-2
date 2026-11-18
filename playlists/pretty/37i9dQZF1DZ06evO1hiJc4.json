@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 158148,
+  "num_followers": 158160,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAADl/MqLC18VWMfge201XKfz",
+  "snapshot_id": "avpHgAAAAACJ7iFzqxJdefZbUNmu6rNK",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Want to Know What Love Is (Lab Edition)",
+        "url": "https://open.spotify.com/album/6MB8OonnULWOmlcIgUZyMv"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "I Want to Know What Love Is - Lab Edition",
+      "url": "https://open.spotify.com/track/45GBS4shUWBo3V8qkK73LD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tyber",
         "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 248372,
       "name": "Little Little Voice",
       "url": "https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Want to Know What Love Is (Lab Edition)",
-        "url": "https://open.spotify.com/album/6MB8OonnULWOmlcIgUZyMv"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "I Want to Know What Love Is - Lab Edition",
-      "url": "https://open.spotify.com/track/45GBS4shUWBo3V8qkK73LD"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2owFZLBkylLGR6J98BDoWi"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0GYHg6N2p70SppBvjTKihd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2owFZLBkylLGR6J98BDoWi"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/0GYHg6N2p70SppBvjTKihd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ordinary",
         "url": "https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 310626,
-      "name": "Studio",
-      "url": "https://open.spotify.com/track/1PcPmfBJZymQgE1yZtBF4q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disc-Overy",
         "url": "https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr"
       },
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
       },
       "artists": [
         {
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 150790,
-      "name": "See You Assholes Later",
-      "url": "https://open.spotify.com/track/7A3sMtS3oLdYq9GZlDYzF9"
+      "duration_ms": 310626,
+      "name": "Studio",
+      "url": "https://open.spotify.com/track/1PcPmfBJZymQgE1yZtBF4q"
     },
     {
       "added_at": null,
@@ -603,6 +587,38 @@
       "duration_ms": 195746,
       "name": "Heaven Can Wait (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 150790,
+      "name": "See You Assholes Later",
+      "url": "https://open.spotify.com/track/7A3sMtS3oLdYq9GZlDYzF9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 153890,
+      "name": "Nate Growing Up (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 153890,
-      "name": "Nate Growing Up (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Goes",
         "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 284271,
       "name": "Love Goes (feat. Labrinth)",
       "url": "https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You&I",
-        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "Sleek Noir",
-      "url": "https://open.spotify.com/track/4cR5p0fwhIGdp9e0l083aX"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You&I",
+        "url": "https://open.spotify.com/album/2yRy6535k5n7AZMb0BUqE8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Sleek Noir",
+      "url": "https://open.spotify.com/track/4cR5p0fwhIGdp9e0l083aX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 150222,
       "name": "Power Couple",
       "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 171049,
+      "name": "WTF Are We Talking For (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
       "duration_ms": 199516,
       "name": "ALL OR NOTHING",
       "url": "https://open.spotify.com/track/4QDvm7aauRy7sFLaBnhzHf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 171049,
-      "name": "WTF Are We Talking For (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 53353,
-      "name": "What Would You Want Me To Be",
-      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COSMIC OPERA ACT II",
         "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 168266,
       "name": "THE LIVING",
       "url": "https://open.spotify.com/track/3gIavfUyAj6UxVyreaoJCp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 53353,
+      "name": "What Would You Want Me To Be",
+      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
     },
     {
       "added_at": null,

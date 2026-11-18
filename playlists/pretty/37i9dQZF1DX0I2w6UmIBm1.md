@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Josiah Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,365 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,398 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 79 | [Live Live Live](https://open.spotify.com/track/5hcfahTIx1YOyPqaDPgw1A) | [Ivan Theva](https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg) | [Ain't It Beautiful](https://open.spotify.com/album/3mS0nZMNLG6tlfIbcWi0xO) | 3:08 |
 | 80 | [Visions](https://open.spotify.com/track/3WeWmxVQDN7VHm5yu9fKhh) | [Ivan Castro](https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14) | [Visions](https://open.spotify.com/album/7gb8rVHzoK2r0FChlQ2mnH) | 4:06 |
 
-Snapshot ID: `AAAAADXlykQV2A7T3CS3nQBeotxBC6tp`
+Snapshot ID: `AAAAAON41cHaBWx8R11PZLyQVxG8Up0h`

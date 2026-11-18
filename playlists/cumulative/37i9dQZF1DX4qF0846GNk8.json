@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": " \u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631! \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0635\u0627\u0645 \u0635\u0627\u0635\u0627  ",
+  "description": " \u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631! \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a  ",
   "name": "\u0623\u0642\u0648\u0649 \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a",
   "tracks": [
     {
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 197143,
       "name": "\u0628\u062e \u0628\u062e \u0628\u062e \u0639\u0648",
       "url": "https://open.spotify.com/track/3dI0cktG5q4hgDmdO1icnI"
@@ -3602,6 +3602,24 @@
       "duration_ms": 240094,
       "name": "\u062d\u0628\u0643 \u0634\u064a \u062a\u0648\u0645\u0627\u062a\u064a\u0643\u0649 ( \u0627\u0646\u062a \u0642\u0627\u0639\u062f \u0628\u062a\u062d\u0628 \u0648\u0647\u064a\u0627 \u0628\u062a\u0634\u0631\u0628 \u0641\u064a\u0628 )",
       "url": "https://open.spotify.com/track/1YtVLyJ1ooGChjUPPoJ0AA"
+    },
+    {
+      "album": {
+        "name": "\u062d\u0628\u064a\u0628\u0649 \u0627\u0645\u0633\u062a\u0645\u0639",
+        "url": "https://open.spotify.com/album/4ZR6gRE3AaiDw4VshqFXrB"
+      },
+      "artists": [
+        {
+          "name": "\u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
+          "url": "https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136489,
+      "name": "\u062d\u0628\u064a\u0628\u0649 \u0627\u0645\u0633\u062a\u0645\u0639",
+      "url": "https://open.spotify.com/track/6QtKXncn0ryWEea5JxoaJb"
     },
     {
       "album": {

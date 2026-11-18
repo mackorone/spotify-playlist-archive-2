@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: TOMORROW X TOGETHER\) \(Enjoy  songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,222 likes - 224 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,276 likes - 224 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

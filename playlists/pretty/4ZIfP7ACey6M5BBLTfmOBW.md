@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > Strictly the freshest and finest hip\-hop heats\. No skips\. Cover: Snotty Nose Rez Kids.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,086 likes - 97 songs - 4 hr 40 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,084 likes - 97 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

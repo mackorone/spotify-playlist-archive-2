@@ -1,12 +1,12 @@
 {
   "description": "This is Yo-Yo Ma. The essential tracks, all in one playlist.",
-  "num_followers": 104203,
+  "num_followers": 104218,
   "original_name": "This Is Yo-Yo Ma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAABgOFxhbo8l0Pdws4zaxG6V",
+  "snapshot_id": "avpHgAAAAADNzVu2M3DoOkMg0FlUYUfR",
   "tracks": [
     {
       "added_at": null,
@@ -1259,34 +1259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Goat Rodeo Sessions",
-        "url": "https://open.spotify.com/album/3P7xbl4YB4T73vWRHgcHMa"
-      },
-      "artists": [
-        {
-          "name": "Stuart Duncan",
-          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 341855,
-      "name": "Attaboy",
-      "url": "https://open.spotify.com/track/2Y0tFR4iYR57EnBK4mf34l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivaldi's Cello",
         "url": "https://open.spotify.com/album/6WFCQU65XzVnQThVceeuqb"
       },
@@ -1315,6 +1287,34 @@
       "duration_ms": 199320,
       "name": "Concerto in G Minor for 2 Cellos, Strings and Basso continuo, RV 531: I. Allegro",
       "url": "https://open.spotify.com/track/6sbBnPHG4PgfoX46CPboOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Goat Rodeo Sessions",
+        "url": "https://open.spotify.com/album/3P7xbl4YB4T73vWRHgcHMa"
+      },
+      "artists": [
+        {
+          "name": "Stuart Duncan",
+          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 341855,
+      "name": "Attaboy",
+      "url": "https://open.spotify.com/track/2Y0tFR4iYR57EnBK4mf34l"
     }
   ],
   "unique_name": "This Is Yo-Yo Ma",

@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 17521,
+  "num_followers": 17524,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKovIC+HTuyNInVOiZSV86lUK06",
+  "snapshot_id": "AAAAACYLX9Ktyc3mVKkZBClCSLq7wP9u",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -441,20 +441,20 @@
       "url": "https://open.spotify.com/track/0oshIsMu5i5E2wTBIj9NxF"
     },
     {
-      "added_at": "2023-01-25 02:05:47",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -477,20 +477,20 @@
       "url": "https://open.spotify.com/track/2gWT8m0KpmVVboR2MzdneA"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-01-25 02:05:47",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus"
     },
     {
-      "added_at": "2022-03-04 01:55:34",
-      "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Final Weapon",
-      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "La D\u00fcsseldorf",
@@ -1035,6 +1019,22 @@
       "duration_ms": 482773,
       "name": "Silver Cloud",
       "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
+    },
+    {
+      "added_at": "2022-03-04 01:55:34",
+      "album": {
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Final Weapon",
+      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "F\u00fcr mich",
-        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dinger",
-          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
-        }
-      ],
-      "duration_ms": 566520,
-      "name": "F\u00fcr Dich",
-      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Minami Deutsch",
         "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 546500,
       "name": "Futsu Ni Ikirenai",
       "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "F\u00fcr mich",
+        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dinger",
+          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+        }
+      ],
+      "duration_ms": 566520,
+      "name": "F\u00fcr Dich",
+      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
     },
     {
       "added_at": "2022-01-20 20:59:43",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT"
     },
     {
-      "added_at": "2023-02-17 02:03:26",
-      "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 333240,
-      "name": "Tamagnocchi",
-      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
-    },
-    {
       "added_at": "2023-09-04 19:37:16",
       "album": {
         "name": "Bang",
@@ -1211,6 +1195,22 @@
       "duration_ms": 310093,
       "name": "Bang",
       "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
+    },
+    {
+      "added_at": "2023-02-17 02:03:26",
+      "album": {
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 333240,
+      "name": "Tamagnocchi",
+      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Third",
+        "url": "https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 387786,
+      "name": "We Carry On",
+      "url": "https://open.spotify.com/track/1wp2yT7sSjfRmHJbLsinOB"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Blood-Drums",
         "url": "https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 386173,
       "name": "Sandtrommel",
       "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 387786,
-      "name": "We Carry On",
-      "url": "https://open.spotify.com/track/1wp2yT7sSjfRmHJbLsinOB"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Plank!",
-        "url": "https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ"
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
       },
       "artists": [
         {
-          "name": "Plank!",
-          "url": "https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH"
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 276026,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
+      "duration_ms": 787133,
+      "name": "Die lange Gerade",
+      "url": "https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+        "name": "Plank!",
+        "url": "https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ"
       },
       "artists": [
         {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+          "name": "Plank!",
+          "url": "https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH"
         }
       ],
-      "duration_ms": 787133,
-      "name": "Die lange Gerade",
-      "url": "https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU"
+      "duration_ms": 276026,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Vol. One",
-        "url": "https://open.spotify.com/album/3oTHbe3UsgjOdI2QTpfQhw"
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
       },
       "artists": [
         {
-          "name": "Echoboy",
-          "url": "https://open.spotify.com/artist/1dW6E3Ffnkng9MJjKlwhk6"
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 304173,
-      "name": "Kit and Holly",
-      "url": "https://open.spotify.com/track/76trKReLczdWPVRfKsJIcb"
+      "duration_ms": 392320,
+      "name": "Tonband Laufspur",
+      "url": "https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1575,34 +1575,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+        "name": "Vol. One",
+        "url": "https://open.spotify.com/album/3oTHbe3UsgjOdI2QTpfQhw"
       },
       "artists": [
         {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+          "name": "Echoboy",
+          "url": "https://open.spotify.com/artist/1dW6E3Ffnkng9MJjKlwhk6"
         }
       ],
-      "duration_ms": 392320,
-      "name": "Tonband Laufspur",
-      "url": "https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Songs of Love and Revolution",
-        "url": "https://open.spotify.com/album/696w66r6e8uJcPYPUh5JrU"
-      },
-      "artists": [
-        {
-          "name": "The Telescopes",
-          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Strange Waves",
-      "url": "https://open.spotify.com/track/3cYrfhx1aOlUXQGPQGRqxg"
+      "duration_ms": 304173,
+      "name": "Kit and Holly",
+      "url": "https://open.spotify.com/track/76trKReLczdWPVRfKsJIcb"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1619,6 +1603,22 @@
       "duration_ms": 183866,
       "name": "Scubaplus",
       "url": "https://open.spotify.com/track/3vimjIcDxpTBDs3Q1ONJH6"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Songs of Love and Revolution",
+        "url": "https://open.spotify.com/album/696w66r6e8uJcPYPUh5JrU"
+      },
+      "artists": [
+        {
+          "name": "The Telescopes",
+          "url": "https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Strange Waves",
+      "url": "https://open.spotify.com/track/3cYrfhx1aOlUXQGPQGRqxg"
     }
   ],
   "unique_name": "Krautrock",

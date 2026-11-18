@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Belly Gang Kushington, Offset, Don Toliver and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,027 likes - 74 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,096 likes - 74 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 73 | [KaioX10](https://open.spotify.com/track/7AXbuO48IT3rKW06be1okP) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77) | [Dump Gawd: Hyperbolic Time Chamber Rap 8](https://open.spotify.com/album/6jrTRR6fqaEWSUiUuZgJKG) | 2:13 |
 | 74 | [Run The World](https://open.spotify.com/track/6Y4cMZSJVYi0X2T5yeJrTY) | [AMXXR](https://open.spotify.com/artist/1agA5fqFnuIeibCsM2t4iR), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Run The World](https://open.spotify.com/album/1HSHxUxMZs8pN9AWBTJM8u) | 4:12 |
 
-Snapshot ID: `AAAAAIt4ZX3CzYFxRi8o3MUur7S7QS00`
+Snapshot ID: `AAAAALoiVQPTsZ3vVuxuKCmbEpaDnKCo`

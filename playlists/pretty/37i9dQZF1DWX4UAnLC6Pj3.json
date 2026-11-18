@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Original Banda El Lim\u00f3n De Salvador Liz\u00e1rraga \ud83d\udcf8",
-  "num_followers": 1296515,
+  "num_followers": 1296501,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
+        "name": "Una de 1500",
+        "url": "https://open.spotify.com/album/0TihxKcv6t62OvU7lENT3D"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 189701,
+      "name": "Una de 1500",
+      "url": "https://open.spotify.com/track/6Ilsczlw22dSA0EcdNqZro"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
         "name": "T\u00fa Ni En Cuenta",
         "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 203801,
       "name": "T\u00fa Ni En Cuenta",
       "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
-        "name": "Una de 1500",
-        "url": "https://open.spotify.com/album/0TihxKcv6t62OvU7lENT3D"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 189701,
-      "name": "Una de 1500",
-      "url": "https://open.spotify.com/track/6Ilsczlw22dSA0EcdNqZro"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "De Vez En Cuando",
-        "url": "https://open.spotify.com/album/0G7YY6UdNn7qd6ECZHYBfH"
-      },
-      "artists": [
-        {
-          "name": "Cristian Ciriaco",
-          "url": "https://open.spotify.com/artist/6JJmg75Q8I8xtB1cwFS55p"
-        }
-      ],
-      "duration_ms": 212787,
-      "name": "De Vez En Cuando",
-      "url": "https://open.spotify.com/track/7KngwRNlSATQh1c3fClDsu"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Ahorita No",
         "url": "https://open.spotify.com/album/4Nx5wEqETGizgDjmzhk3ET"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 175925,
       "name": "Ahorita No",
       "url": "https://open.spotify.com/track/290x0tNmVqBlnlfrlky8fz"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "De Vez En Cuando",
+        "url": "https://open.spotify.com/album/0G7YY6UdNn7qd6ECZHYBfH"
+      },
+      "artists": [
+        {
+          "name": "Cristian Ciriaco",
+          "url": "https://open.spotify.com/artist/6JJmg75Q8I8xtB1cwFS55p"
+        }
+      ],
+      "duration_ms": 212787,
+      "name": "De Vez En Cuando",
+      "url": "https://open.spotify.com/track/7KngwRNlSATQh1c3fClDsu"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Coraz\u00f3n De Piedra",
-        "url": "https://open.spotify.com/album/5ZjZuZ3vysQ0Poax9NZzeC"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 222910,
-      "name": "Coraz\u00f3n De Piedra",
-      "url": "https://open.spotify.com/track/1LQvFiQcst4HSUeeaqgVxW"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Ella Jura",
         "url": "https://open.spotify.com/album/655gOHBv3Ublhcrw6WS9gd"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 177062,
       "name": "Ella Jura",
       "url": "https://open.spotify.com/track/0upr9VmKhkxzdKZhYzQBzS"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "Coraz\u00f3n De Piedra",
+        "url": "https://open.spotify.com/album/5ZjZuZ3vysQ0Poax9NZzeC"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 222910,
+      "name": "Coraz\u00f3n De Piedra",
+      "url": "https://open.spotify.com/track/1LQvFiQcst4HSUeeaqgVxW"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Apoco",
-        "url": "https://open.spotify.com/album/67ShWOKPHYlSZjuGTmOMvO"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 206634,
-      "name": "Apoco",
-      "url": "https://open.spotify.com/track/3SSEE7X6M7PZ7QGTg0D6Bq"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "El Mentecato",
         "url": "https://open.spotify.com/album/7rszyGkJC8ZIu1Rk0JqD84"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 160560,
       "name": "El Mentecato",
       "url": "https://open.spotify.com/track/32BdLx75D0ktRkpHDTHfD2"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "Apoco",
+        "url": "https://open.spotify.com/album/67ShWOKPHYlSZjuGTmOMvO"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 206634,
+      "name": "Apoco",
+      "url": "https://open.spotify.com/track/3SSEE7X6M7PZ7QGTg0D6Bq"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Que Nadie Sepa Mi Sufrir",
-        "url": "https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Aunque me duela",
         "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 228017,
       "name": "Aunque me duela",
       "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "Que Nadie Sepa Mi Sufrir",
+        "url": "https://open.spotify.com/album/384a4ev8c7I0fGqW6VMmtU"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/1eAgunk8m2L5OCujomTDfj"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Vete, Vete",
-        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Vete, Vete",
-      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Ya Se Muri\u00f3",
         "url": "https://open.spotify.com/album/5llKBTyQq7WOAuqbEr2IAJ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 235091,
       "name": "Ya Se Muri\u00f3",
       "url": "https://open.spotify.com/track/6VEg4MhQufQOIVJVbiMGVm"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "Vete, Vete",
+        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Vete, Vete",
+      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Legado Coleccion 1 Regrabado",
         "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 230965,
       "name": "Mil Heridas",
       "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
+        "name": "Lo Reconozco",
+        "url": "https://open.spotify.com/album/4Dl3bJg6rgReO32iwBXYLt"
+      },
+      "artists": [
+        {
+          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
+          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
+        }
+      ],
+      "duration_ms": 190482,
+      "name": "Lo Reconozco",
+      "url": "https://open.spotify.com/track/4AbhpA9whsYU3Z9uaUSw62"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
         "name": "Ya Se Acab\u00f3",
         "url": "https://open.spotify.com/album/6WcUmiYRpqhlP0l3Nq83sw"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Lo Reconozco",
-        "url": "https://open.spotify.com/album/4Dl3bJg6rgReO32iwBXYLt"
-      },
-      "artists": [
-        {
-          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
-          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
-        }
-      ],
-      "duration_ms": 190482,
-      "name": "Lo Reconozco",
-      "url": "https://open.spotify.com/track/4AbhpA9whsYU3Z9uaUSw62"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Las Reglas Del Juego",
         "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
       },
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Se Alquila Un Borracho",
-        "url": "https://open.spotify.com/album/6vUpynaVlNRZE0VksDkdDH"
+        "name": "Solo Yo y Mi Almohada",
+        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
         }
       ],
-      "duration_ms": 234771,
-      "name": "Se Alquila Un Borracho",
-      "url": "https://open.spotify.com/track/152lLev3LvXuyprG2OCwzm"
+      "duration_ms": 215609,
+      "name": "Solo Yo y Mi Almohada",
+      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1447,8 +1447,8 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Solo Yo y Mi Almohada",
-        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
+        "name": "Se Alquila Un Borracho",
+        "url": "https://open.spotify.com/album/6vUpynaVlNRZE0VksDkdDH"
       },
       "artists": [
         {
@@ -1456,9 +1456,9 @@
           "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
         }
       ],
-      "duration_ms": 215609,
-      "name": "Solo Yo y Mi Almohada",
-      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
+      "duration_ms": 234771,
+      "name": "Se Alquila Un Borracho",
+      "url": "https://open.spotify.com/track/152lLev3LvXuyprG2OCwzm"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/5xND24q3iBRRPfKcMcW7P8"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        }
-      ],
-      "duration_ms": 176576,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/6uPh0uR7u8Fsyy60YGp6RO"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "El Corrido De Zacatecas",
         "url": "https://open.spotify.com/album/77Ly1dS1mi8GS1SIUz3ckO"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 174892,
       "name": "El Corrido De Zacatecas",
       "url": "https://open.spotify.com/track/0eS7olHK2jMzJXHMRJ9whx"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/5xND24q3iBRRPfKcMcW7P8"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 176576,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/6uPh0uR7u8Fsyy60YGp6RO"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "Mi Segunda Vida",
-        "url": "https://open.spotify.com/album/4FvnPvfjao9mzHm9T0euBP"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 161384,
-      "name": "Mi Segunda Vida",
-      "url": "https://open.spotify.com/track/2w6fPJcnlh5eT2QQuhPVL9"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Pura Rolita De 500 En Vivo",
         "url": "https://open.spotify.com/album/42jqtgBQAlORDTVQT0BqMv"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 158293,
       "name": "En Los Puritos Huesos",
       "url": "https://open.spotify.com/track/33w6MMIgoZ5IaGUfrkXROU"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "Mi Segunda Vida",
+        "url": "https://open.spotify.com/album/4FvnPvfjao9mzHm9T0euBP"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 161384,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/2w6fPJcnlh5eT2QQuhPVL9"
     },
     {
       "added_at": "2026-11-13 23:25:30",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-11-13 23:25:30",
       "album": {
-        "name": "No Me Vuelvo Enamorar",
-        "url": "https://open.spotify.com/album/7wv0ffO2H9J6ojJqmqOrhu"
-      },
-      "artists": [
-        {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
-        }
-      ],
-      "duration_ms": 156590,
-      "name": "No Me Vuelvo Enamorar",
-      "url": "https://open.spotify.com/track/6j2II0KPzTzM9IRxMfb9e0"
-    },
-    {
-      "added_at": "2026-11-13 23:25:30",
-      "album": {
         "name": "Mi Gallo",
         "url": "https://open.spotify.com/album/6EqlKXCCjePHSPgCnZnF1z"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 208833,
       "name": "Mi Gallo",
       "url": "https://open.spotify.com/track/2QI9b2TU9qCRBTSYkGyCEi"
+    },
+    {
+      "added_at": "2026-11-13 23:25:30",
+      "album": {
+        "name": "No Me Vuelvo Enamorar",
+        "url": "https://open.spotify.com/album/7wv0ffO2H9J6ojJqmqOrhu"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "duration_ms": 156590,
+      "name": "No Me Vuelvo Enamorar",
+      "url": "https://open.spotify.com/track/6j2II0KPzTzM9IRxMfb9e0"
     },
     {
       "added_at": "2026-11-13 23:25:30",

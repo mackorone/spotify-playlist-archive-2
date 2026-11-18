@@ -4,7 +4,7 @@
 
 > Geleceğin seslerini dinle! Kapak: Mert Çodur
 
-120 songs - 5 hr 50 min
+121 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Gece ve Gündüz](https://open.spotify.com/track/00s2Nz4xvmwCMczsGtOyuW) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gece ve Gündüz](https://open.spotify.com/album/2PEskqdd9Sp16mdNnqd4VW) | 3:11 | 2026-08-13 |  |
 | [Geceyi Dinle](https://open.spotify.com/track/6OokxHeZQqk33sncJ3Lhsu) | [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Geceyi Dinle](https://open.spotify.com/album/3vynHAUsyF7cMt5WftRELn) | 3:21 | 2024-06-20 | 2024-10-24 |
 | [Geri Ver](https://open.spotify.com/track/4pCEueB6H48Ge1vPEecj3b) | [Furkan Halıcı](https://open.spotify.com/artist/6W1El4pLfVxwgMnAqfX4O7) | [Geri Ver](https://open.spotify.com/album/1JUJFvRGs0GJhFOsudsP2W) | 2:59 | 2024-06-20 | 2026-08-14 |
+| [Geçti Yıllar](https://open.spotify.com/track/459JjKp0RH7A4k9b3QEVnx) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Geçti Yıllar](https://open.spotify.com/album/3nx5ZHAYdxpvODGtJeY8Vg) | 3:48 | 2026-11-17 |  |
 | [Gittiğinden Beri](https://open.spotify.com/track/7Ku9AxEP7ASDRWhu8U32wB) | [Bade](https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz) | [Gittiğinden Beri](https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7) | 2:46 | 2024-10-23 |  |
 | [Gözyaşında Sakla Beni](https://open.spotify.com/track/76WCSXEisEykLYINetFA4k) | [Beyza Başak](https://open.spotify.com/artist/38awyHzw1soCVVfDYjLevO) | [Gözyaşında Sakla Beni](https://open.spotify.com/album/32ZhjWIZoo1kVRj1i5HW80) | 2:47 | 2024-10-23 |  |
 | [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 | 2024-10-23 | 2026-10-05 |
@@ -108,7 +109,7 @@
 | [Yalandan Sevemem](https://open.spotify.com/track/5W4yjjsGVu9BloXJ7b0gaN) | [Ali Beykant](https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ) | [Yalandan Sevemem](https://open.spotify.com/album/0WMj5EYi2ywnVgR5xMejAM) | 2:38 | 2024-06-20 | 2024-10-24 |
 | [Yalnızlık Bana Kalan](https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Büyüklere Ninniler](https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T) | 3:17 | 2024-06-20 | 2024-10-24 |
 | [Yan](https://open.spotify.com/track/41c2gJ18n7v8STRgPl19x4) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Yan](https://open.spotify.com/album/73OiuhV8bIHNsSbdBMAF4A) | 3:10 | 2025-10-09 |  |
-| [Yana Yana](https://open.spotify.com/track/372o63OFKXAni65PUS3IOu) | [Polen](https://open.spotify.com/artist/3l78tHbr4raiOhKaZffRyl) | [Yana Yana](https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW) | 2:27 | 2024-06-20 |  |
+| [Yana Yana](https://open.spotify.com/track/372o63OFKXAni65PUS3IOu) | [Polen](https://open.spotify.com/artist/3l78tHbr4raiOhKaZffRyl) | [Yana Yana](https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW) | 2:27 | 2024-06-20 | 2026-11-18 |
 | [Yanlışım Olma](https://open.spotify.com/track/3uwIKbE9iyhrmkzejA5gjT) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Yanlışım Olma](https://open.spotify.com/album/64TzwFTOjHjsgXiq6f5wJA) | 3:26 | 2024-06-20 | 2026-10-05 |
 | [YARINIMIZ OLMAYACAK](https://open.spotify.com/track/3cbMUX9OhGmAFeLybYcaMn) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [YARINIMIZ OLMAYACAK](https://open.spotify.com/album/3vVSHVhbyBvY9TdlnFGt1b) | 2:34 | 2026-05-01 |  |
 | [Yaz](https://open.spotify.com/track/6A1NmcZ8iAphXYwN7Tl0PQ) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Yaz](https://open.spotify.com/album/364wiw9JbgcKX5FQMTcAqK) | 2:33 | 2024-06-20 | 2024-10-24 |

@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-354 songs - 19 hr 51 min
+355 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [o sabiá e a lua](https://open.spotify.com/track/0dEaMNjKjyLxY17M4lG1b9) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [alma doce](https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW) | 2:49 | 2023-10-02 | 2023-10-14 |
 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ney Matogrosso Interpreta Cartola](https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z) | 4:10 | 2022-04-01 |  |
 | [Olha Só, Moreno](https://open.spotify.com/track/4asPMA0CIoAntrgzIusmSx) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Pitanga](https://open.spotify.com/album/2IUVCuvyfKf3W4emTGExqs) | 3:13 | 2022-04-01 | 2022-04-19 |
+| [Ontem Sonhei Com Você](https://open.spotify.com/track/77BLShAlboRvoKHFaDRwVl) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Ontem Sonhei Com Você](https://open.spotify.com/album/3dRVv3CeulwBj8HHgG3lGC) | 3:56 | 2026-11-13 |  |
 | [Outono](https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:24 | 2022-02-18 |  |
 | [Outro Alguém \- Ao Vivo](https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [LAGUM AO VIVO](https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch) | 2:38 | 2025-07-18 | 2026-08-15 |
 | [PALCO](https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [PALCO](https://open.spotify.com/album/11D3RPdsEaovaCBPks0908) | 4:38 | 2025-01-02 | 2025-12-20 |
@@ -277,7 +278,7 @@
 | [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 | 2022-02-18 |  |
 | [Robô \- Spotify Singles](https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Robô \- Spotify Singles](https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi) | 3:49 | 2024-09-27 | 2025-02-01 |
 | [Romã](https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Romã](https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR) | 3:14 | 2023-12-11 | 2024-01-13 |
-| [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 | 2026-04-24 |  |
+| [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 | 2026-04-24 | 2026-11-18 |
 | [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-09-22 | 2023-10-24 |
 | [Sangue no Meu Jeans](https://open.spotify.com/track/3MB0m2jaeXa64pgWs6uW92) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Super Crônico](https://open.spotify.com/album/6yCySIzI3Y6VUILLmck07D) | 3:13 | 2026-09-25 |  |
 | [Saudade](https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Saudade](https://open.spotify.com/album/3GGUhsGGdHx4LFSJRNEFK8) | 3:56 | 2026-05-22 | 2026-09-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,420 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,430 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [Ik Haat Je](https://open.spotify.com/track/5rYG8gLRdHOyy5BZg8jPBP) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Qlassiek](https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt) | 2:14 |
 | 50 | [FF TERUG](https://open.spotify.com/track/0KxUxkxhBwFJaPSZxQkOB1) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [FF TERUG](https://open.spotify.com/album/3OvaKp5a4jLDpIt9pGseaT) | 4:12 |
 
-Snapshot ID: `Mo6p4AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mo/yAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

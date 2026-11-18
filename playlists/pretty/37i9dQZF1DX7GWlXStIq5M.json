@@ -1,6 +1,6 @@
 {
   "description": "Hits e novidades do pop experimental no mesmo palco! Foto: GIANA",
-  "num_followers": 353669,
+  "num_followers": 353612,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -295,18 +295,22 @@
     {
       "added_at": "2026-11-13 14:12:09",
       "album": {
-        "name": "Te Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/6xwdyB2q5EsStdMYQgYX40"
+        "name": "VITA'S HOUSE",
+        "url": "https://open.spotify.com/album/5D6uIJOGZdsBvlbejGbdFr"
       },
       "artists": [
         {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+        },
+        {
+          "name": "wBoy",
+          "url": "https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI"
         }
       ],
-      "duration_ms": 204002,
-      "name": "Te Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/7CABuMnMFXtRHsJfIjSvye"
+      "duration_ms": 131000,
+      "name": "CASA DOS MACHO",
+      "url": "https://open.spotify.com/track/5OIIiSxRc6UwGLSbt96Jcz"
     },
     {
       "added_at": "2026-11-13 14:12:09",
@@ -347,22 +351,18 @@
     {
       "added_at": "2026-11-13 14:12:09",
       "album": {
-        "name": "VITA'S HOUSE",
-        "url": "https://open.spotify.com/album/5D6uIJOGZdsBvlbejGbdFr"
+        "name": "Te Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/6xwdyB2q5EsStdMYQgYX40"
       },
       "artists": [
         {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
-        },
-        {
-          "name": "wBoy",
-          "url": "https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI"
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
         }
       ],
-      "duration_ms": 131000,
-      "name": "CASA DOS MACHO",
-      "url": "https://open.spotify.com/track/5OIIiSxRc6UwGLSbt96Jcz"
+      "duration_ms": 204002,
+      "name": "Te Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/7CABuMnMFXtRHsJfIjSvye"
     },
     {
       "added_at": "2026-11-13 14:12:09",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-11-13 14:12:09",
       "album": {
+        "name": "Fuleragem",
+        "url": "https://open.spotify.com/album/6yM3HKN6TnSYbGqrJZaqWO"
+      },
+      "artists": [
+        {
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "LEOA",
+          "url": "https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Fuleragem",
+      "url": "https://open.spotify.com/track/2iSk3s78PDwMbtZ5aeOYy0"
+    },
+    {
+      "added_at": "2026-11-13 14:12:09",
+      "album": {
         "name": "NUVEM NEGRA",
         "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 162532,
       "name": "Vers\u00e3o dos Fatos",
       "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
-    },
-    {
-      "added_at": "2026-11-13 14:12:09",
-      "album": {
-        "name": "Fuleragem",
-        "url": "https://open.spotify.com/album/6yM3HKN6TnSYbGqrJZaqWO"
-      },
-      "artists": [
-        {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "LEOA",
-          "url": "https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Fuleragem",
-      "url": "https://open.spotify.com/track/2iSk3s78PDwMbtZ5aeOYy0"
     },
     {
       "added_at": "2026-11-13 14:12:09",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-11-13 14:12:09",
       "album": {
+        "name": "G\u00eanio",
+        "url": "https://open.spotify.com/album/0iwp9Ge5EGGULTP6lTJbbW"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Lopes",
+          "url": "https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy"
+        }
+      ],
+      "duration_ms": 146207,
+      "name": "G\u00eanio",
+      "url": "https://open.spotify.com/track/1AXd6Stc35X0Es2a9xapwB"
+    },
+    {
+      "added_at": "2026-11-13 14:12:09",
+      "album": {
         "name": "Alfazema e Sal Grosso",
         "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
       },
@@ -783,6 +799,22 @@
       "duration_ms": 178285,
       "name": "Alfazema e Sal Grosso",
       "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
+    },
+    {
+      "added_at": "2026-11-13 14:12:09",
+      "album": {
+        "name": "=P (Melissa Loss Remix)",
+        "url": "https://open.spotify.com/album/4EmNJgCQzBGjuWCwgTxC2g"
+      },
+      "artists": [
+        {
+          "name": "loopcinema",
+          "url": "https://open.spotify.com/artist/2aT35mZ8iiTlWtSXAv1p0h"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "DANCE!",
+      "url": "https://open.spotify.com/track/4q7cHdFobEd0QJh4VdwEIt"
     },
     {
       "added_at": "2026-11-13 14:12:09",
@@ -807,22 +839,6 @@
       "duration_ms": 163110,
       "name": "Mar\u00e9 De Sorte - Remix",
       "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
-    },
-    {
-      "added_at": "2026-11-13 14:12:09",
-      "album": {
-        "name": "=P (Melissa Loss Remix)",
-        "url": "https://open.spotify.com/album/4EmNJgCQzBGjuWCwgTxC2g"
-      },
-      "artists": [
-        {
-          "name": "loopcinema",
-          "url": "https://open.spotify.com/artist/2aT35mZ8iiTlWtSXAv1p0h"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "DANCE!",
-      "url": "https://open.spotify.com/track/4q7cHdFobEd0QJh4VdwEIt"
     },
     {
       "added_at": "2026-11-13 14:12:09",
@@ -903,6 +919,22 @@
     {
       "added_at": "2026-11-13 14:12:09",
       "album": {
+        "name": "Barrastar",
+        "url": "https://open.spotify.com/album/1OcaUgzPpjjRzxZ6VgUx5E"
+      },
+      "artists": [
+        {
+          "name": "Camaleoa",
+          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
+        }
+      ],
+      "duration_ms": 158406,
+      "name": "Barrastar",
+      "url": "https://open.spotify.com/track/4Jx1jOwgcTtJkVj1bd1ZuQ"
+    },
+    {
+      "added_at": "2026-11-13 14:12:09",
+      "album": {
         "name": "a1",
         "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
       },
@@ -915,26 +947,6 @@
       "duration_ms": 183210,
       "name": "a1",
       "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
-    },
-    {
-      "added_at": "2026-11-13 14:12:09",
-      "album": {
-        "name": "GRAZI",
-        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
-      },
-      "artists": [
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "NAVII",
-          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "L\u00c1 DE CIMA (1999)",
-      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
     },
     {
       "added_at": "2026-11-13 14:12:09",
@@ -955,18 +967,22 @@
     {
       "added_at": "2026-11-13 14:12:09",
       "album": {
-        "name": "Barrastar",
-        "url": "https://open.spotify.com/album/1OcaUgzPpjjRzxZ6VgUx5E"
+        "name": "GRAZI",
+        "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
       },
       "artists": [
         {
-          "name": "Camaleoa",
-          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
         }
       ],
-      "duration_ms": 158406,
-      "name": "Barrastar",
-      "url": "https://open.spotify.com/track/4Jx1jOwgcTtJkVj1bd1ZuQ"
+      "duration_ms": 171428,
+      "name": "L\u00c1 DE CIMA (1999)",
+      "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
     },
     {
       "added_at": "2026-11-13 14:12:09",
@@ -1003,22 +1019,6 @@
       "duration_ms": 164494,
       "name": "Agarradinho - Spotify Singles",
       "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
-    },
-    {
-      "added_at": "2026-11-13 14:12:09",
-      "album": {
-        "name": "G\u00eanio",
-        "url": "https://open.spotify.com/album/0iwp9Ge5EGGULTP6lTJbbW"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Lopes",
-          "url": "https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy"
-        }
-      ],
-      "duration_ms": 146207,
-      "name": "G\u00eanio",
-      "url": "https://open.spotify.com/track/1AXd6Stc35X0Es2a9xapwB"
     },
     {
       "added_at": "2026-11-13 14:12:09",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-11-13 14:12:09",
       "album": {
+        "name": "Deixa Eu Te Amar",
+        "url": "https://open.spotify.com/album/4LK8RiByhQv0Jh8XEGbTwI"
+      },
+      "artists": [
+        {
+          "name": "Sofia Oliveira",
+          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+        }
+      ],
+      "duration_ms": 153765,
+      "name": "Deixa Eu Te Amar",
+      "url": "https://open.spotify.com/track/3OgUROJuhlVT1Sa8KQAcMd"
+    },
+    {
+      "added_at": "2026-11-13 14:12:09",
+      "album": {
         "name": "Tudo Pelo Show",
         "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
       },
@@ -1119,26 +1135,6 @@
     {
       "added_at": "2026-11-13 14:12:09",
       "album": {
-        "name": "Outras Vezes",
-        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
-      },
-      "artists": [
-        {
-          "name": "Lulina",
-          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
-        },
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Outras Vezes",
-      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
-    },
-    {
-      "added_at": "2026-11-13 14:12:09",
-      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/49MCYvyMPIhbV2UAMMfCXw"
       },
@@ -1155,6 +1151,26 @@
       "duration_ms": 122628,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/3XYGPewnZIG4dc3LkCLXNp"
+    },
+    {
+      "added_at": "2026-11-13 14:12:09",
+      "album": {
+        "name": "Outras Vezes",
+        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
+      },
+      "artists": [
+        {
+          "name": "Lulina",
+          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Outras Vezes",
+      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
     },
     {
       "added_at": "2026-11-13 14:12:09",
@@ -1191,22 +1207,6 @@
       "duration_ms": 161088,
       "name": "COVARDIA",
       "url": "https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn"
-    },
-    {
-      "added_at": "2026-11-13 14:12:09",
-      "album": {
-        "name": "Deixa Eu Te Amar",
-        "url": "https://open.spotify.com/album/4LK8RiByhQv0Jh8XEGbTwI"
-      },
-      "artists": [
-        {
-          "name": "Sofia Oliveira",
-          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
-        }
-      ],
-      "duration_ms": 153765,
-      "name": "Deixa Eu Te Amar",
-      "url": "https://open.spotify.com/track/3OgUROJuhlVT1Sa8KQAcMd"
     },
     {
       "added_at": "2026-11-13 14:12:09",

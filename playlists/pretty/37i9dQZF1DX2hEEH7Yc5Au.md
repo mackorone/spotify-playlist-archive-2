@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 59 | [QQ](https://open.spotify.com/track/66Y5wGE5AtMwQ5fGPETVVS) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [QQ](https://open.spotify.com/album/4lMqoOb0oLgNtYnDpe66cw) | 3:02 |
 | 60 | [請圍著火焰保護我](https://open.spotify.com/track/2R7crW2wgXJwSKPfKplHlT) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [請圍著火焰保護我](https://open.spotify.com/album/1SkojqzU2AQIPpSrmei9y3) | 2:45 |
 
-Snapshot ID: `AAAAAAEvbYRWkbam7zvqcsGPs926gkBA`
+Snapshot ID: `AAAAAI1RaMPudzXw3prLh7Tcje9V67wT`

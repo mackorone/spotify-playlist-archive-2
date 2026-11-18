@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 624329,
+  "num_followers": 624389,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAABEZVVLmr5QUVvxMApDvQnU",
+  "snapshot_id": "avpHgAAAAABxevjMNg2VECAIGzy25wET",
   "tracks": [
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 283880,
-      "name": "Last Dance - Remastered",
-      "url": "https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL"
+      "duration_ms": 258346,
+      "name": "Closedown - Remastered 2010",
+      "url": "https://open.spotify.com/track/0WVwKob5LPld3ywrxcHJnE"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 258346,
-      "name": "Closedown - Remastered 2010",
-      "url": "https://open.spotify.com/track/0WVwKob5LPld3ywrxcHJnE"
+      "duration_ms": 283880,
+      "name": "Last Dance - Remastered",
+      "url": "https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL"
     },
     {
       "added_at": null,

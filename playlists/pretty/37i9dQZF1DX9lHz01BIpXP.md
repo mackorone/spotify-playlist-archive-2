@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,731 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,732 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 9 | [Tittewyt](https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Tittewyt](https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx) | 3:38 |
 | 10 | [Disi makliki](https://open.spotify.com/track/1u9wr82dUyErwH9DJ1xc7d) | [Daxter Deedz](https://open.spotify.com/artist/0Jkf0tswAE3lh41WNW1ZOG) | [Disi makliki](https://open.spotify.com/album/3Kql6vrQQxt3OSTyL4IZJc) | 2:59 |
 | 11 | [Sticks & Stones](https://open.spotify.com/track/5mRHAvmfuSyHznrY42X1Au) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [Sticks & Stones](https://open.spotify.com/album/5KmSW8dMnFIcb8oWaAf3qK) | 2:46 |
-| 12 | [First Day Out](https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f) | [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [First Day Out](https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM) | 3:06 |
+| 12 | [Nooit Genoeg](https://open.spotify.com/track/67CunmsSJA1YRTYE2M9FUS) | [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Nooit Genoeg](https://open.spotify.com/album/6qwo9jR60ylpjrajOfxqAF) | 3:11 |
 | 13 | [By Dit.](https://open.spotify.com/track/7KX1JpTYQnz5DM6VKAzPix) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH), [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B) | [By Dit.](https://open.spotify.com/album/35OERO7CicxDTR2pk6k3Og) | 2:25 |
-| 14 | [Nooit Genoeg](https://open.spotify.com/track/67CunmsSJA1YRTYE2M9FUS) | [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Nooit Genoeg](https://open.spotify.com/album/6qwo9jR60ylpjrajOfxqAF) | 3:11 |
+| 14 | [First Day Out](https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f) | [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [First Day Out](https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM) | 3:06 |
 | 15 | [21](https://open.spotify.com/track/5fzZbTbuIHKMKs0oYZmmIQ) | [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq), [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [21](https://open.spotify.com/album/6GpUXf9o6gHt2pGekeSe7q) | 3:07 |
 | 16 | [Slat Los](https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Slat Los](https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg) | 2:56 |
 | 17 | [BIETJIE](https://open.spotify.com/track/6uDb3okEXCoz4UQlwf8b2Q) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ), [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC), [Lu\-Win](https://open.spotify.com/artist/28HXIVa5PdKjSUdz1rqu1A) | [BIETJIE](https://open.spotify.com/album/16dnqt6Ze8RqQBSCKxtPpS) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 49 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
 | 50 | [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 |
 
-Snapshot ID: `AAAAACaxWlya3tlxtPNQR6J9rqf7yfD/`
+Snapshot ID: `AAAAAHSFxm+gZFO72Z/8aGc4hpy2Utiq`

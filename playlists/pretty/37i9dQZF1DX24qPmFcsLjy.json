@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 147824,
+  "num_followers": 147839,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADrjbe7Sh7Gex11QbDtVYRViYBZQ",
+  "snapshot_id": "AAAAAO/QnUvXj5drlAf7KTk4qkNR8w6a",
   "tracks": [
     {
       "added_at": "2024-07-09 16:44:07",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Best Of Anita Meyer",
-        "url": "https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV"
-      },
-      "artists": [
-        {
-          "name": "Anita Meyer",
-          "url": "https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Why Tell Me Why",
-      "url": "https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Belgie",
         "url": "https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 360706,
       "name": "Belgie ... (Is Er Leven Op Pluto ...)",
       "url": "https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Best Of Anita Meyer",
+        "url": "https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV"
+      },
+      "artists": [
+        {
+          "name": "Anita Meyer",
+          "url": "https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Why Tell Me Why",
+      "url": "https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5KqK05b9TO7a5rmDnKX2da"
-      },
-      "artists": [
-        {
-          "name": "Time Bandits",
-          "url": "https://open.spotify.com/artist/23DeFeMRFRhnfMfawvqFne"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "I'm Specialized in You",
-      "url": "https://open.spotify.com/track/2ZFePG6kPGYaKXj3aMzbXV"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Doe Maar - De Singles (Het Complete Singles Overzicht)",
         "url": "https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 228540,
       "name": "Doris Day",
       "url": "https://open.spotify.com/track/2ePX2r2elB35PhEE0jCQUb"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5KqK05b9TO7a5rmDnKX2da"
+      },
+      "artists": [
+        {
+          "name": "Time Bandits",
+          "url": "https://open.spotify.com/artist/23DeFeMRFRhnfMfawvqFne"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "I'm Specialized in You",
+      "url": "https://open.spotify.com/track/2ZFePG6kPGYaKXj3aMzbXV"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Best Of Bzn",
-        "url": "https://open.spotify.com/album/1RpZLWCTg891sLear2kA7J"
-      },
-      "artists": [
-        {
-          "name": "BZN",
-          "url": "https://open.spotify.com/artist/1tF9HtIFX8fJfBo64FIJ8S"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Rockin' The Trolls",
-      "url": "https://open.spotify.com/track/091S7IqNRQoxuaK3bjs7yp"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Best Of Spargo",
         "url": "https://open.spotify.com/album/2E3d2X5BE1Yrdw48S390kE"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 254160,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0kcrcREnZcfEjz5aVk34Wj"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Best Of Bzn",
+        "url": "https://open.spotify.com/album/1RpZLWCTg891sLear2kA7J"
+      },
+      "artists": [
+        {
+          "name": "BZN",
+          "url": "https://open.spotify.com/artist/1tF9HtIFX8fJfBo64FIJ8S"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Rockin' The Trolls",
+      "url": "https://open.spotify.com/track/091S7IqNRQoxuaK3bjs7yp"
     },
     {
       "added_at": "2024-07-09 16:44:07",

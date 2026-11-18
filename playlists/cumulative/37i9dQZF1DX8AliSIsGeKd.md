@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Marcel Dettmann
 
-7,882 songs - 26 day 9 hr 19 min
+7,882 songs - 26 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2062,7 +2062,7 @@
 | [End of Line](https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB) | [oddchapters](https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc) | [End of Line](https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3) | 4:00 | 2023-10-12 | 2023-10-27 |
 | [End Of Time](https://open.spotify.com/track/4qKDlDUsRS1w80Gg33jE9I) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [End Of Time](https://open.spotify.com/album/00d7o12w5eerl37YNqrD0I) | 3:21 | 2025-09-25 | 2025-10-24 |
 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 | 2023-06-16 | 2023-07-07 |
-| [Endless](https://open.spotify.com/track/2YuPUhXV8pEjCOEUbCXj1N) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Endless / Purge](https://open.spotify.com/album/0JeUjQ3it2kp7kajrYpuwM) | 6:17 | 2026-11-12 |  |
+| [Endless](https://open.spotify.com/track/2YuPUhXV8pEjCOEUbCXj1N) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Endless / Purge](https://open.spotify.com/album/0JeUjQ3it2kp7kajrYpuwM) | 8:08 | 2026-11-12 |  |
 | [Endless \- Gerd Janson Remix](https://open.spotify.com/track/2wGezw7NM61Qmz5amIuaEs) | [Budakid](https://open.spotify.com/artist/2MNTXvxPuFuHRYSMN7EEFL), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Endless \(Gerd Janson Remix\)](https://open.spotify.com/album/3af5zH4tWcyYg6WsU5t3Eo) | 6:45 | 2026-09-24 | 2026-10-02 |
 | [Endless Climb](https://open.spotify.com/track/4swlhubrIbSC2H4PNngT3Y) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Gravitation](https://open.spotify.com/album/7fZyLVtIfTjbDIPxtFtdfS) | 6:44 | 2023-12-01 | 2023-12-22 |
 | [Endless Nights](https://open.spotify.com/track/1ZWyPPye3BUmtxwEOxQA9v) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Endless Nights](https://open.spotify.com/album/7zL1rbXjcjS8DRbIlSICTC) | 3:09 | 2024-06-20 | 2024-07-12 |

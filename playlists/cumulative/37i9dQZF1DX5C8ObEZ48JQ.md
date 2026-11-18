@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6CE2zMLrX6hyJy2MXbbe9J?si=7a5275cad4e74555">Emly</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ?si=acbc57ddd3694154">Altair Saïd</a>\. Artwork: Isu Kim.
 
 1,551 songs - 3 day 5 hr 45 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1635655,
+  "num_followers": 1635631,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAADhPCiYeQW3myIw5RDuvwOm",
+  "snapshot_id": "avpHgAAAAADVIQHsOIlDbl9Q10XMta9X",
   "tracks": [
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 192111,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INDIAN SUMMER",
         "url": "https://open.spotify.com/album/3EquYPRLoMWqXy12Ad28lR"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 198511,
       "name": "INDIAN SUMMER",
       "url": "https://open.spotify.com/track/3fhPTs8YgkwC1a6gV2TTtx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 192111,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/0sA97FnZUu5OtYRtN8fZIy"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 158798,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/2cxjLvJ5U7rTAyG14aebDX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(MORE) Unsponsored Content",
         "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 152214,
       "name": "PS5",
       "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/0sA97FnZUu5OtYRtN8fZIy"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 158798,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2cxjLvJ5U7rTAyG14aebDX"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Walker, Season One: Rise of the Drones",
-        "url": "https://open.spotify.com/album/4ZPFShjjY5bGsyvn9aiqrd"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/1TEWG0GEdHI97khSkcj7rX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld 2.0",
         "url": "https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R"
       },
@@ -995,30 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space Melody (Edward Artemyev) (feat. Leony)",
-        "url": "https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K"
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/4ZPFShjjY5bGsyvn9aiqrd"
       },
       "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Edward Artemyev",
-          "url": "https://open.spotify.com/artist/097u8n1F4JjTzmOR9VUVEK"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Space Melody (Edward Artemyev) (feat. Leony)",
-      "url": "https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR"
+      "duration_ms": 173000,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/1TEWG0GEdHI97khSkcj7rX"
     },
     {
       "added_at": null,
@@ -1047,6 +1019,34 @@
       "duration_ms": 190926,
       "name": "Old Habits (From Delta Force Game)",
       "url": "https://open.spotify.com/track/3jY6QX2VfE7ovrmtrHCgXR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space Melody (Edward Artemyev) (feat. Leony)",
+        "url": "https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Edward Artemyev",
+          "url": "https://open.spotify.com/artist/097u8n1F4JjTzmOR9VUVEK"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Space Melody (Edward Artemyev) (feat. Leony)",
+      "url": "https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR"
     },
     {
       "added_at": null,

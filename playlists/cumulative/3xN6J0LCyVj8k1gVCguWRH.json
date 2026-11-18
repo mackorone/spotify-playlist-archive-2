@@ -9044,7 +9044,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 169283,
       "name": "Back to the Country",
       "url": "https://open.spotify.com/track/3Y9booTNB3UsndGTJmajwo"
@@ -31876,7 +31876,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 177253,
       "name": "D\u00e9jala",
       "url": "https://open.spotify.com/track/09ybqo2HOs4LOgj2vrnWZ8"
@@ -61620,6 +61620,24 @@
       "duration_ms": 258000,
       "name": "Leave You for Him",
       "url": "https://open.spotify.com/track/1mKvgJO7a6t65Vp7TEfleR"
+    },
+    {
+      "album": {
+        "name": "Leave You Keh",
+        "url": "https://open.spotify.com/album/4eg77Wj5uCClisZ6zr2qmb"
+      },
+      "artists": [
+        {
+          "name": "Joechriz",
+          "url": "https://open.spotify.com/artist/7xDqHe77Cg5LqHH0UufDET"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Leave You Keh",
+      "url": "https://open.spotify.com/track/7bQTj0Rq3NU1Yg5YH4utYu"
     },
     {
       "album": {
@@ -121424,6 +121442,24 @@
       "duration_ms": 229666,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/5hZMRif9diTeQ1jKr8Gus9"
+    },
+    {
+      "album": {
+        "name": "Peace Grooves",
+        "url": "https://open.spotify.com/album/6zGuSBbaGOCeY0eJbfRSQN"
+      },
+      "artists": [
+        {
+          "name": "Crazy Mary",
+          "url": "https://open.spotify.com/artist/19WLicxrTnELYJovZowewT"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "What You Say",
+      "url": "https://open.spotify.com/track/1j5ujGZL4GcH5Yva5y3lUR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > the glorious sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond 🌞 featuring Bård Berg
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,431 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,473 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 99 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 |
 | 100 | [The Road is Long](https://open.spotify.com/track/6QZPF2qAWRlKcvWksumlZh) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg), [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8) | [The Road is Long](https://open.spotify.com/album/0gHCl3TDVNHxR1FA6FPq5t) | 7:29 |
 
-Snapshot ID: `AAAAAI48wlgb1HKsYmHNrTNTchVCArmX`
+Snapshot ID: `AAAAAMhCwMJ8PgV73pd2L6ivBMnfB27j`

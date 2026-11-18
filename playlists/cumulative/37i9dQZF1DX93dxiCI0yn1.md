@@ -4,7 +4,7 @@
 
 > 【サイファー音源を公開！】ABEMA「RAPSTAR 2026」公式プレイリスト。審査員や番組内で活躍したアーティスト、昨年活躍したアーティストの楽曲を毎週水曜日に更新。 マイライブラリに保存して毎週チェックしよう。
 
-452 songs - 21 hr 56 min
+456 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [DAISOUSA](https://open.spotify.com/track/6f7YVYvULG8tqxuHsyX1fn) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R), [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [XEONWORLDVIEW DELUXE](https://open.spotify.com/album/4STcpyi6XeFKNhYoDPXVVz) | 3:06 | 2023-10-24 | 2024-04-19 |
 | [DAMN](https://open.spotify.com/track/2hLxyBcqDdppsetomB0PrX) | [SAFUJI](https://open.spotify.com/artist/58vNN6IQ13NzNenmjn6jGm) | [DAMN](https://open.spotify.com/album/5xrFG3Y8bKfcuiGpaSOWuJ) | 2:08 | 2026-11-10 |  |
 | [DANCELIXIR](https://open.spotify.com/track/5wZiqGMAbx6prjliENRYmb) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [DANCELIXIR](https://open.spotify.com/album/4xB7elCmGdQG1Srf9srUgz) | 2:58 | 2026-10-06 |  |
+| [Dando](https://open.spotify.com/track/2qeqV965uPxg3FV23J2MEv) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw), [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW) | [Dando](https://open.spotify.com/album/5WXp2gzKiZnljdUubowEJE) | 3:18 | 2026-11-17 |  |
 | [dash](https://open.spotify.com/track/0BytPL473CzQkUnRzmQtDW) | [MARU](https://open.spotify.com/artist/44pQBOVQgORTILhqi1RXXI), [Newera](https://open.spotify.com/artist/3LBpiM7XMp8NTxTOnKZjpc) | [dash](https://open.spotify.com/album/1iuq3nsI6hBhnUlmWMMHfO) | 2:06 | 2024-07-04 | 2026-10-07 |
 | [DAVID.](https://open.spotify.com/track/0DTP7qSLHNTjnFLvsAGce2) | [Fisong](https://open.spotify.com/artist/2qIegodrHjmTpuAsJ6vbcW) | [WE COULDN'T BE HOPE](https://open.spotify.com/album/53UNYwWFSKfY4Xuih7ZYgm) | 2:08 | 2026-10-06 | 2026-11-04 |
 | [dear summer](https://open.spotify.com/track/4fB0KvqCUedFZxJx5qmtOO) | [YOUNG GAGA GG DIOR](https://open.spotify.com/artist/14prIQmzeWu0jB21VSrSOd) | [dear summer](https://open.spotify.com/album/3VNc5JJJVbjuRLiwrBsBTo) | 2:01 | 2026-10-06 | 2026-11-04 |
@@ -204,6 +205,7 @@
 | [King Swan](https://open.spotify.com/track/0BbMxYuqIgZoxV0j5RYvXV) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [King Swan](https://open.spotify.com/album/6zuRwB9JBnBbKbMLgc6SfI) | 2:42 | 2024-01-23 | 2026-10-07 |
 | [King Swan](https://open.spotify.com/track/1cWeCO7Fc9Z6z3BDQz2Vwm) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [King Swan](https://open.spotify.com/album/77GgZFHFDGoopROjsv2Udk) | 2:42 | 2024-01-23 | 2024-04-19 |
 | [King Vibes \(feat\. trrry\)](https://open.spotify.com/track/65YNcquyhDgoY3syWOqeVS) | [nanasi](https://open.spotify.com/artist/4KLVIZQz0CdWuwsAqomGud), [Creeper](https://open.spotify.com/artist/1kq0jdio0NyecfM9uONLlh), [trrry](https://open.spotify.com/artist/3WWstFmlEemReI1idGkyAd) | [Bias](https://open.spotify.com/album/5PfixWgGeXn8YGo7iLPbR1) | 2:23 | 2026-10-06 | 2026-11-04 |
+| [kouken](https://open.spotify.com/track/1UjX1nYh8EUB65cqIYqd10) | [Saggypants Shimba](https://open.spotify.com/artist/75R2U62H9bf08CifLZqTSG) | [kouken](https://open.spotify.com/album/4oiKvoGCf9wkbiDDF0Yi94) | 2:08 | 2026-11-17 |  |
 | [KURAMA](https://open.spotify.com/track/4Ugcyaem0ODdXVMkqMYGRx) | [KSK](https://open.spotify.com/artist/216rDNprqHvwgkYC8Ao9u9) | [KURAMA](https://open.spotify.com/album/68n2pEgzssrVoVHXLp8QF9) | 2:11 | 2024-07-04 | 2026-10-07 |
 | [LEAD](https://open.spotify.com/track/7LeYWbIiGruTyxr2VfMTBP) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/4pmDFVR4ofQ5jOXfjVlHM9) | 3:52 | 2024-07-04 | 2026-10-07 |
 | [Legacy](https://open.spotify.com/track/1L9fjmUGmXfq6CGmP5B3ZW) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [Legacy](https://open.spotify.com/album/6wixAf7ZaAXIqf9MD5ry3p) | 2:47 | 2024-02-27 | 2026-10-07 |
@@ -405,6 +407,7 @@
 | [へいき](https://open.spotify.com/track/2Gx6tFoIcftiSv6clpXcbf) | [wood pure luvheart](https://open.spotify.com/artist/30RL8eEQZ4jNfEkuBsElvx), [Yoyou](https://open.spotify.com/artist/217ChH8bJDq7t6NiqMK2dF) | [へいき](https://open.spotify.com/album/0upaF3EMRq07CQVZnyrzQN) | 1:58 | 2026-11-10 |  |
 | [まずアリ](https://open.spotify.com/track/4SkCy3uGrv5QbnRP6quUrA) | [ENEL](https://open.spotify.com/artist/5UyerN25hRt7bD2tnAvxdg) | [MAXIM](https://open.spotify.com/album/4dTlhdO9j0yRuw6rQ587ZG) | 1:54 | 2026-10-06 | 2026-11-04 |
 | [やばい](https://open.spotify.com/track/0UqLwuRjGQxe07brfWsbaR) | [GOLDEN ZEEZY](https://open.spotify.com/artist/2texBVdcl8IjaayxF4QPeL), [MARU](https://open.spotify.com/artist/44pQBOVQgORTILhqi1RXXI), [Newera](https://open.spotify.com/artist/3LBpiM7XMp8NTxTOnKZjpc) | [やばい](https://open.spotify.com/album/1wgrf7ioSuk4VuOj6YcLMx) | 3:29 | 2024-07-04 | 2026-10-07 |
+| [イケメン](https://open.spotify.com/track/5p3jhk43IPaeNJFqukz4tn) | [TAKEKO420](https://open.spotify.com/artist/2FtjPnppfeem0hu0wteHr0), [Filix王](https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC) | [イケメン](https://open.spotify.com/album/1nxEU4hVfjYLwq0zwOMQnb) | 3:11 | 2026-11-17 |  |
 | [サモトラケのニケ \(feat\. Jairo nark\)](https://open.spotify.com/track/4ta2XrA6eAvC5iTiZGHi5U) | [TAKEKO420](https://open.spotify.com/artist/2FtjPnppfeem0hu0wteHr0), [Jairo nark](https://open.spotify.com/artist/1lmUrNTjONM6jJsBpyBULM) | [サモトラケのニケ \(feat\. Jairo nark\)](https://open.spotify.com/album/2x4dmUXLzw8ytiXTpVqgxL) | 3:07 | 2026-11-04 |  |
 | [セルフフライデー](https://open.spotify.com/track/444mX7Tw6Jfa3daYJ9ipgm) | [VERRY SMoL](https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9) | [セルフフライデー](https://open.spotify.com/album/4MNMIkw8dwTOeqORsWUObv) | 2:14 | 2026-10-06 |  |
 | [セレブレイト](https://open.spotify.com/track/5HXKGQW6TeTsAijubKERwI) | [SEISA](https://open.spotify.com/artist/2SKIyJAgsW4mKWYRwM4xcN) | [セレブレイト](https://open.spotify.com/album/5EKDaL28kYRySZ9sNnUIpD) | 3:10 | 2026-10-20 | 2026-10-23 |
@@ -460,5 +463,6 @@
 | [雨上がり](https://open.spotify.com/track/6kl4SIzq9FpGatZ5lCEEz8) | [VERRY SMoL](https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9) | [雨上がり](https://open.spotify.com/album/6PoPER9ZsESUqenriNHW89) | 1:52 | 2026-10-06 |  |
 | [首都高 \(feat\. Masato Hayashi\)](https://open.spotify.com/track/2xB3jRKrwlMClTLV50lnmP) | [Need a Flex](https://open.spotify.com/artist/3ZcQbdZsBGBSRICDFtAtaA), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [R.E.A.L](https://open.spotify.com/album/3SG6CEvH72FlhPf8lDuTii) | 3:12 | 2026-10-06 | 2026-11-04 |
 | [黄色 \(feat\. R\-指定\)](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [黄色 \(feat\. R\-指定\)](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 | 2024-07-04 | 2026-10-07 |
+| [黙れ](https://open.spotify.com/track/1XPhwNV73H5mYuo0VKv6WD) | [Jairo nark](https://open.spotify.com/artist/1lmUrNTjONM6jJsBpyBULM) | [J nark MIC performance](https://open.spotify.com/album/6vz4LGp6QzGHGs6zlXQZE4) | 3:02 | 2026-11-17 |  |
 
 \*This playlist was first scraped on 2023-11-02. Prior content cannot be recovered.

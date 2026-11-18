@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: João Só, Tiago Nogueira
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,610 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,607 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 74 | [na minha MIND](https://open.spotify.com/track/78jXijkbbJKMaGSVG58KCx) | [Lucas Ortet](https://open.spotify.com/artist/5ijrRGEu9hPfvoY1rm57AK) | [na minha MIND](https://open.spotify.com/album/1nJ8ElyfQqcSFeprZ8d569) | 2:54 |
 | 75 | [Luz Acesa](https://open.spotify.com/track/7GElIJqRUf48bkl9FsECcW) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Luz Acesa](https://open.spotify.com/album/0xZdpfUlVm9dsuKzBbQGhL) | 2:37 |
 
-Snapshot ID: `AAAAABRjjoxnf0yLyHbCOUqG0japO+GE`
+Snapshot ID: `AAAAAPvpsAby7aeiO5Vt7SFMUlv7X4Ys`

@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: O3ohn\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: WISUE\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-705 songs - 1 day 17 hr 27 min
+706 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Headache](https://open.spotify.com/track/6R4Lv4Bx0qhyVlVwurGzdf) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Headache](https://open.spotify.com/album/14uWodFImRHWXjSm5bQITQ) | 3:33 | 2021-12-10 | 2022-07-19 |
 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(Original Television Soundtrack\) \(O′PENing\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 | 2022-07-04 | 2022-08-10 |
 | [Hello, goodbye.](https://open.spotify.com/track/6QSkLzLRAwPMaYnesYdqdX) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Hello, goodbye.](https://open.spotify.com/album/5MTTOYSuCUp7Wz6P57lAja) | 3:06 | 2025-11-13 |  |
+| [hero? hero!](https://open.spotify.com/track/3oVgXy5z54cbieLGpGVq41) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [from.](https://open.spotify.com/album/0vofZH4JYymfDCx5R0JHhs) | 4:08 | 2026-11-17 |  |
 | [Hide and Seek](https://open.spotify.com/track/4dv1Ygd62DuZEjzqVivgKE) | [Park Seo Ryoung](https://open.spotify.com/artist/3feVktwro8QoXPKQqe20gy) | [Hide and Seek](https://open.spotify.com/album/1QgeqdZEcBZXSUqykXvyDZ) | 3:06 | 2022-05-03 | 2022-06-19 |
 | [Hide And Seek](https://open.spotify.com/track/6kgbXxqe6gDKMYrjNL3zqD) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Jumpin'](https://open.spotify.com/album/5zIcY1Rd64xth4HmCwmYwu) | 2:57 | 2022-03-31 | 2022-04-16 |
 | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp), [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG) | 3:44 | 2026-03-06 | 2026-04-02 |
@@ -671,7 +672,7 @@
 | [YOUR SONG](https://open.spotify.com/track/6XshUdxavknBQlcnu72LpD) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [MY NAME IS SAM](https://open.spotify.com/album/6GUiTUgcpkhKlCZMTLLMI3) | 4:18 | 2021-12-10 | 2022-07-29 |
 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 | 2022-08-09 | 2024-04-16 |
 | [your voice\(acoustic\)](https://open.spotify.com/track/5ZJybAI37PVMbeEQwfkk3J) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [your voice\(acoustic\)](https://open.spotify.com/album/6zAiZBYCwmblKjIO3yJF0l) | 5:18 | 2022-03-07 | 2022-07-20 |
-| [Yours Sincerely](https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:02 | 2025-06-13 |  |
+| [Yours Sincerely](https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:02 | 2025-06-13 | 2026-11-18 |
 | [겨울이 온 것처럼 말이지 \- From 'Hidden Track No.V' Vol.4](https://open.spotify.com/track/0w3kQmZr2nNZNNWBSI8lE2) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [겨울이 온 것처럼 말이지 \(From 'Hidden Track No.V' Vol.4\)](https://open.spotify.com/album/2ORxTBs669Atoz1MJinBLy) | 2:53 | 2022-03-31 | 2022-04-19 |
 | [계절은 핑계 Season is an excuse](https://open.spotify.com/track/4b3Ts1tvSUNBQ3oThWYduD) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [계절은 핑계 Season is an excuse](https://open.spotify.com/album/3KoQlMZ9ECns52XeGCfmur) | 3:11 | 2023-01-11 | 2023-01-26 |
 | [그날에 우리 My Love](https://open.spotify.com/track/37ato9JpxggrmZsqaXa3qN) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [01](https://open.spotify.com/album/7gUFQ9ulk9EbbSz8U52xTp) | 3:53 | 2022-02-18 | 2022-06-19 |

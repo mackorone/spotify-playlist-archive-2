@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > Emma Ogier season <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new substack ft Lizzy McAlpine & Mackeeper here\~</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,845 likes - 159 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,875 likes - 159 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

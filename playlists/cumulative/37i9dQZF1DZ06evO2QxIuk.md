@@ -4,12 +4,12 @@
 
 > This is Earth, Wind & Fire\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 56 min
+66 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 | 2026-06-11 |  |
-| [All About Love \(First Impression\)](https://open.spotify.com/track/0G00ZDkQ8a80JOhQHtWPOs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 6:35 | 2026-06-11 |  |
+| [All About Love \(First Impression\)](https://open.spotify.com/track/0G00ZDkQ8a80JOhQHtWPOs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 6:35 | 2026-06-11 | 2026-11-18 |
 | [And Love Goes On](https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Faces](https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6) | 4:05 | 2026-06-11 |  |
 | [Be Ever Wonderful](https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 5:08 | 2026-06-11 |  |
 | [Beijo \(Interlude\)](https://open.spotify.com/track/2RaN7kGPxuT3wvpdw9dyND) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 1:20 | 2026-06-11 |  |
@@ -38,6 +38,7 @@
 | [Jupiter](https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:11 | 2026-06-11 | 2026-09-07 |
 | [Kalimba Story](https://open.spotify.com/track/3q5TBh31wXDJAUfEZ4Duon) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Greatest Hits](https://open.spotify.com/album/52sC6oWMYjYcxxqVmaZ1TN) | 4:00 | 2026-08-26 | 2026-08-27 |
 | [Keep Your Head to the Sky](https://open.spotify.com/track/0iPy1MWCrOT7SjGs14zSSv) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Head To The Sky](https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB) | 5:11 | 2026-06-11 |  |
+| [Let's Go Dumb Crasy](https://open.spotify.com/track/44xXX5Z6CiaAjx4Yd4EZh6) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Let's Go Dumb Crasy](https://open.spotify.com/album/3nmPYcTH2TvFFnxgeCB0MF) | 2:12 | 2026-11-18 |  |
 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 | 2026-06-11 |  |
 | [Liberation](https://open.spotify.com/track/3Qq6qNTgv36SMQAhCZjwdS) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Illumination](https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY) | 5:23 | 2026-08-26 | 2026-08-27 |
 | [Love Music](https://open.spotify.com/track/4a5aC5C4MAfqHPGgVZhSrr) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:55 | 2026-06-11 |  |

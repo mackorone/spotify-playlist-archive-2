@@ -1,12 +1,12 @@
 {
   "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Magdalene. Artwork by Paola Saliby",
-  "num_followers": 245784,
+  "num_followers": 245806,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOh7X6Y/QiTU7cp4tvGlzV099Dk4",
+  "snapshot_id": "AAAAADzbvYgen6PBPk0iJdI+MRhBdH3H",
   "tracks": [
     {
       "added_at": "2026-11-11 05:00:20",
@@ -25,38 +25,6 @@
       "url": "https://open.spotify.com/track/6a15Ks2J4xCqtyhSJ2gIxK"
     },
     {
-      "added_at": "2026-11-11 05:00:20",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/1VB2M1pSePzXNR1qXPnLAs"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 229148,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD"
-    },
-    {
-      "added_at": "2026-11-11 05:00:20",
-      "album": {
-        "name": "Mine! Mine! Mine!",
-        "url": "https://open.spotify.com/album/53uCkkYON7O6tJsvvSfmfD"
-      },
-      "artists": [
-        {
-          "name": "Surely Shirley",
-          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
-        }
-      ],
-      "duration_ms": 185991,
-      "name": "Mine! Mine! Mine!",
-      "url": "https://open.spotify.com/track/2iYDREZOOuXBrFkRimaRZ0"
-    },
-    {
       "added_at": "2026-11-13 05:02:22",
       "album": {
         "name": "POS",
@@ -71,6 +39,22 @@
       "duration_ms": 203243,
       "name": "POS",
       "url": "https://open.spotify.com/track/4JZN0ox5209m96xs5Awbet"
+    },
+    {
+      "added_at": "2026-11-11 05:00:20",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/1VB2M1pSePzXNR1qXPnLAs"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 229148,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD"
     },
     {
       "added_at": "2026-11-11 05:00:20",
@@ -105,10 +89,10 @@
       "url": "https://open.spotify.com/track/0BxQnrSYH2kqwkyjfPmRo0"
     },
     {
-      "added_at": "2026-11-04 08:15:00",
+      "added_at": "2026-11-18 05:00:35",
       "album": {
-        "name": "Union Square",
-        "url": "https://open.spotify.com/album/2j5q0Eh7Kzje63puRKjyFr"
+        "name": "New to the City",
+        "url": "https://open.spotify.com/album/4CzT8kDhShsf7cJuC3QwXV"
       },
       "artists": [
         {
@@ -116,9 +100,137 @@
           "url": "https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN"
         }
       ],
-      "duration_ms": 214856,
-      "name": "Union Square",
-      "url": "https://open.spotify.com/track/7FfEz5HwiUKjW2r5pp29u5"
+      "duration_ms": 212501,
+      "name": "I Want to Push You in Front of the Subway",
+      "url": "https://open.spotify.com/track/0dl7gKsFn8eb78zJ0Pghi9"
+    },
+    {
+      "added_at": "2026-11-18 05:00:35",
+      "album": {
+        "name": "get me",
+        "url": "https://open.spotify.com/album/7HLaXAPiaUU5L74xJeit0d"
+      },
+      "artists": [
+        {
+          "name": "yeerly",
+          "url": "https://open.spotify.com/artist/3GPaynCstiMOnlUuPpkWzJ"
+        }
+      ],
+      "duration_ms": 184198,
+      "name": "get me",
+      "url": "https://open.spotify.com/track/7q0X5hhe27axMwopuwYBsg"
+    },
+    {
+      "added_at": "2026-10-14 13:27:59",
+      "album": {
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/3GqB9ZrCDNHN0HnDu39mJU"
+      },
+      "artists": [
+        {
+          "name": "frau",
+          "url": "https://open.spotify.com/artist/14E6albdtD5YWzbat5lWKo"
+        }
+      ],
+      "duration_ms": 204109,
+      "name": "pupilla",
+      "url": "https://open.spotify.com/track/5lhTKOq2xE39xHL2YSUCnG"
+    },
+    {
+      "added_at": "2026-11-18 05:00:35",
+      "album": {
+        "name": "Deep Diving",
+        "url": "https://open.spotify.com/album/1Z31T4E40z2rPhfzWnHHBU"
+      },
+      "artists": [
+        {
+          "name": "Hallie",
+          "url": "https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW"
+        }
+      ],
+      "duration_ms": 177502,
+      "name": "Deep Diving",
+      "url": "https://open.spotify.com/track/15ZV3mhEX7dccnnMnfcdb4"
+    },
+    {
+      "added_at": "2026-11-18 05:00:35",
+      "album": {
+        "name": "You Like Ugly, Don't You Babe? (Deluxe)",
+        "url": "https://open.spotify.com/album/4CaJEZI5gAp45tABSNOSdY"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "duration_ms": 166542,
+      "name": "I Thought About You",
+      "url": "https://open.spotify.com/track/76Q5RyaQzwkLoMyU4FenWl"
+    },
+    {
+      "added_at": "2026-11-04 08:15:00",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6j3DZwJdPt6gWFFkxX2tep"
+      },
+      "artists": [
+        {
+          "name": "Ryann Barnes",
+          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/6c560xJ2Atta0gFeTDjFuZ"
+    },
+    {
+      "added_at": "2026-11-13 05:02:22",
+      "album": {
+        "name": "Tulips",
+        "url": "https://open.spotify.com/album/3YMgvKKKeyS17ZYRWmu0u8"
+      },
+      "artists": [
+        {
+          "name": "Karly Bowman",
+          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
+        }
+      ],
+      "duration_ms": 193550,
+      "name": "Tulips",
+      "url": "https://open.spotify.com/track/4DBuOW3dsfxnky8KqLKdRm"
+    },
+    {
+      "added_at": "2026-11-18 05:00:35",
+      "album": {
+        "name": "Pretty Intelligent Girl",
+        "url": "https://open.spotify.com/album/5nS9QkWoTC7aHi1IqLMsB4"
+      },
+      "artists": [
+        {
+          "name": "Clancy",
+          "url": "https://open.spotify.com/artist/2n5IPXv8ZXji01o0eQK7SL"
+        }
+      ],
+      "duration_ms": 261517,
+      "name": "Woman Like You",
+      "url": "https://open.spotify.com/track/5HNx31oDFj2zcGKra73DvV"
+    },
+    {
+      "added_at": "2026-11-11 05:00:20",
+      "album": {
+        "name": "Mine! Mine! Mine!",
+        "url": "https://open.spotify.com/album/53uCkkYON7O6tJsvvSfmfD"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "duration_ms": 185991,
+      "name": "Mine! Mine! Mine!",
+      "url": "https://open.spotify.com/track/2iYDREZOOuXBrFkRimaRZ0"
     },
     {
       "added_at": "2026-11-11 05:00:20",
@@ -153,38 +265,6 @@
       "url": "https://open.spotify.com/track/6Ipixw6iQzmX7LKZSAJc4U"
     },
     {
-      "added_at": "2026-11-13 05:02:22",
-      "album": {
-        "name": "Tulips",
-        "url": "https://open.spotify.com/album/3YMgvKKKeyS17ZYRWmu0u8"
-      },
-      "artists": [
-        {
-          "name": "Karly Bowman",
-          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
-        }
-      ],
-      "duration_ms": 193550,
-      "name": "Tulips",
-      "url": "https://open.spotify.com/track/4DBuOW3dsfxnky8KqLKdRm"
-    },
-    {
-      "added_at": "2026-10-14 13:27:59",
-      "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/3GqB9ZrCDNHN0HnDu39mJU"
-      },
-      "artists": [
-        {
-          "name": "frau",
-          "url": "https://open.spotify.com/artist/14E6albdtD5YWzbat5lWKo"
-        }
-      ],
-      "duration_ms": 204109,
-      "name": "pupilla",
-      "url": "https://open.spotify.com/track/5lhTKOq2xE39xHL2YSUCnG"
-    },
-    {
       "added_at": "2026-11-04 08:15:00",
       "album": {
         "name": "Stevie",
@@ -215,22 +295,6 @@
       "duration_ms": 198391,
       "name": "give it up",
       "url": "https://open.spotify.com/track/6YhXYZYBhG6hMC2CgaLR2s"
-    },
-    {
-      "added_at": "2026-11-04 08:15:00",
-      "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6j3DZwJdPt6gWFFkxX2tep"
-      },
-      "artists": [
-        {
-          "name": "Ryann Barnes",
-          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/6c560xJ2Atta0gFeTDjFuZ"
     },
     {
       "added_at": "2026-10-30 04:01:41",
@@ -375,22 +439,6 @@
       "duration_ms": 197874,
       "name": "The Good Part",
       "url": "https://open.spotify.com/track/18SNjuwqgQlLYWCPjYzNN2"
-    },
-    {
-      "added_at": "2026-10-28 04:00:07",
-      "album": {
-        "name": "Mess Like Mine",
-        "url": "https://open.spotify.com/album/4kpljS5dfnZdR5BMyhiBsX"
-      },
-      "artists": [
-        {
-          "name": "Blair Davie",
-          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
-        }
-      ],
-      "duration_ms": 148228,
-      "name": "Mess Like Mine",
-      "url": "https://open.spotify.com/track/05iS20Z4HCIEJvjdz6ocIz"
     },
     {
       "added_at": "2026-10-28 04:00:07",
@@ -555,22 +603,6 @@
     {
       "added_at": "2026-10-21 04:00:15",
       "album": {
-        "name": "Leap",
-        "url": "https://open.spotify.com/album/5L0UdEERU935VXMzq8pGyH"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Leap",
-      "url": "https://open.spotify.com/track/1wQO7RFvhGSWPkDvU5981J"
-    },
-    {
-      "added_at": "2026-10-21 04:00:15",
-      "album": {
         "name": "Anatomy",
         "url": "https://open.spotify.com/album/2ZIc6tvyijr65hSRMgCN3g"
       },
@@ -615,22 +647,6 @@
       "duration_ms": 191893,
       "name": "Give a Little",
       "url": "https://open.spotify.com/track/4MjXZqLHPOHefLJ1CGgBqc"
-    },
-    {
-      "added_at": "2026-10-14 13:27:59",
-      "album": {
-        "name": "Break The Habit",
-        "url": "https://open.spotify.com/album/6ENIVIwvnlqcf5lFSGgCjA"
-      },
-      "artists": [
-        {
-          "name": "ARI LEE",
-          "url": "https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7"
-        }
-      ],
-      "duration_ms": 181833,
-      "name": "Break The Habit",
-      "url": "https://open.spotify.com/track/32SMJKVThDZuGpK2qeQXPr"
     },
     {
       "added_at": "2026-10-14 13:27:59",
@@ -1175,22 +1191,6 @@
       "duration_ms": 202880,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo"
-    },
-    {
-      "added_at": "2026-08-12 04:00:21",
-      "album": {
-        "name": "aries baby",
-        "url": "https://open.spotify.com/album/1YCbcLx3eScz9BGs7camuS"
-      },
-      "artists": [
-        {
-          "name": "Ami Cheon",
-          "url": "https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb"
-        }
-      ],
-      "duration_ms": 152014,
-      "name": "aries baby",
-      "url": "https://open.spotify.com/track/6j6NzyRcYOQBHl4ZXNEYyP"
     },
     {
       "added_at": "2026-08-05 04:00:03",

@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-541 songs - 1 day 9 hr 42 min
+542 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [How Can I Help A Friend](https://open.spotify.com/track/7Dgm0SACIBvF9XQzpe5l8a) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [How Can I Help A Friend](https://open.spotify.com/album/2DQKbOewFwgxFCQLL5n7Yo) | 4:17 | 2026-03-23 |  |
 | [How Great is Our God \- Acoustic](https://open.spotify.com/track/2v8YmXgiTgNeGQMW8K3fvY) | [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Acoustic Worship Sessions](https://open.spotify.com/album/0BUuYmINh8t3dXQxqwV7Cz) | 4:22 | 2026-07-29 |  |
 | [how great thou art](https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4) | [25th floor of a reservation casino](https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF) | 4:32 | 2023-07-28 | 2025-10-11 |
+| [human](https://open.spotify.com/track/7IsRX80drqVO7TPdNHTUnI) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [green](https://open.spotify.com/album/7KqxY6kXilzCr1fOIwBGYl) | 3:59 | 2026-07-29 |  |
 | [Humbled Heart \- Acoustic](https://open.spotify.com/track/6jhF7v0Un40091J17aLKeL) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Humbled Heart \(Acoustic\)](https://open.spotify.com/album/1aoY7Mo3qjETHzoMcrEvkl) | 4:28 | 2025-08-06 | 2026-07-30 |
 | [I can always find You](https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I can always find You](https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge) | 3:46 | 2023-07-28 | 2026-04-18 |
 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/4wXh7qz12O9DiMQHGATKv1) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 3:56 | 2023-07-28 | 2024-04-19 |
@@ -266,7 +267,7 @@
 | [King of Eternity](https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde) | [LW Music](https://open.spotify.com/artist/3ZdJUwiDYcaTuQLfNyFfiG), [Garett Serban](https://open.spotify.com/artist/1rz9mPKs2EP0o8R8lbubqj), [Nixaide Lopez](https://open.spotify.com/artist/4hVgOOca8r8vQaYtrX0JMx) | [King of Eternity](https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq) | 6:48 | 2020-08-31 | 2025-10-11 |
 | [King Of Kings \- Live](https://open.spotify.com/track/5fShaoGs6VDmBOE7YVbS39) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings \(Live\)](https://open.spotify.com/album/56szTr38sq2s6lfDseP3jm) | 4:51 | 2020-08-31 | 2023-07-13 |
 | [KMFTF](https://open.spotify.com/track/2A6tZQNqhjNXu6adGokOut) | [Austin Koukal](https://open.spotify.com/artist/47e5G9UHhlQ2O39lG7aBJy), [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1) | [KMFTF](https://open.spotify.com/album/0shzlmMAakU3u2PBfJkCVX) | 4:40 | 2024-06-23 | 2024-08-03 |
-| [Know Me God](https://open.spotify.com/track/51NTYD2gSPR3CLOsgnTBYE) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Know Me God](https://open.spotify.com/album/4oGfZseuQG3WCQBe6JdirW) | 3:20 | 2026-07-29 |  |
+| [Know Me God](https://open.spotify.com/track/51NTYD2gSPR3CLOsgnTBYE) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Know Me God](https://open.spotify.com/album/4oGfZseuQG3WCQBe6JdirW) | 3:20 | 2026-07-29 | 2026-11-18 |
 | [KNOWN](https://open.spotify.com/track/1h58D20BA2O5WIXmpRGGvH) | [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [KNOWN](https://open.spotify.com/album/1rhLqLdT3MO4dQGRgmaqiS) | 3:48 | 2026-04-17 |  |
 | [KOKORO](https://open.spotify.com/track/3Pln8paCZTrsAAWzt91R0Z) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Eben](https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1) | [KOKORO](https://open.spotify.com/album/4efSUE9hlWysKFjH3fnO2E) | 2:53 | 2026-03-23 | 2026-07-30 |
 | [L E P E R S](https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5), [Atmos One](https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu) | [L E P E R S](https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg) | 4:10 | 2020-08-31 | 2025-10-11 |

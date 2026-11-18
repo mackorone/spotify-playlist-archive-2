@@ -1,12 +1,12 @@
 {
   "description": "Alternative / Indie / Folk cuts from Africa and diaspora to dive into. Cover: Mishy Kope",
-  "num_followers": 4260,
+  "num_followers": 4270,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAKtuaG8eqZBb4lpPGJcCyQUwdR1",
+  "snapshot_id": "AAAAAPky3Y+Orlx/1gSM/EFi+T9T2NLT",
   "tracks": [
     {
       "added_at": "2026-11-06 12:51:28",
@@ -443,26 +443,18 @@
     {
       "added_at": "2026-11-06 12:51:28",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O"
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW"
       },
       "artists": [
         {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        },
-        {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        },
-        {
-          "name": "Tatum Tides",
-          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
+          "name": "David Derman",
+          "url": "https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A"
         }
       ],
-      "duration_ms": 140952,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP"
+      "duration_ms": 189176,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg"
     },
     {
       "added_at": "2026-11-06 12:51:28",
@@ -483,18 +475,26 @@
     {
       "added_at": "2026-11-06 12:51:28",
       "album": {
-        "name": "Old Friend",
-        "url": "https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O"
       },
       "artists": [
         {
-          "name": "David Derman",
-          "url": "https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A"
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        },
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        },
+        {
+          "name": "Tatum Tides",
+          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
         }
       ],
-      "duration_ms": 189176,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg"
+      "duration_ms": 140952,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP"
     },
     {
       "added_at": "2026-11-06 12:51:28",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-11-06 12:51:28",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc"
-      },
-      "artists": [
-        {
-          "name": "Kwartengg",
-          "url": "https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE"
-        }
-      ],
-      "duration_ms": 165782,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
-    },
-    {
-      "added_at": "2026-11-06 12:51:28",
-      "album": {
         "name": "Day Dreamer",
         "url": "https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 192174,
       "name": "Day Dreamer",
       "url": "https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv"
+    },
+    {
+      "added_at": "2026-11-06 12:51:28",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc"
+      },
+      "artists": [
+        {
+          "name": "Kwartengg",
+          "url": "https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE"
+        }
+      ],
+      "duration_ms": 165782,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
     },
     {
       "added_at": "2026-11-06 12:51:28",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-11-06 12:51:28",
       "album": {
+        "name": "Duality Pt 2 Peace",
+        "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
+      },
+      "artists": [
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "Let Love Be",
+      "url": "https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV"
+    },
+    {
+      "added_at": "2026-11-06 12:51:28",
+      "album": {
         "name": "The Coffee Song",
         "url": "https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2026-11-06 12:51:28",
       "album": {
-        "name": "Duality Pt 2 Peace",
-        "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
-      },
-      "artists": [
-        {
-          "name": "DemiMa",
-          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
-        }
-      ],
-      "duration_ms": 265480,
-      "name": "Let Love Be",
-      "url": "https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV"
-    },
-    {
-      "added_at": "2026-11-06 12:51:28",
-      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7"
       },
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-11-06 12:51:28",
       "album": {
+        "name": "WATSHO",
+        "url": "https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy"
+      },
+      "artists": [
+        {
+          "name": "Mishy Kope",
+          "url": "https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "WATSHO",
+      "url": "https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak"
+    },
+    {
+      "added_at": "2026-11-06 12:51:28",
+      "album": {
         "name": "Adwuma",
         "url": "https://open.spotify.com/album/0aG6AoazPMX1PL8mCIVHCs"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 210040,
       "name": "Adwuma",
       "url": "https://open.spotify.com/track/3dGJ23oxQnLpSoboXe8IYj"
-    },
-    {
-      "added_at": "2026-11-06 12:51:28",
-      "album": {
-        "name": "WATSHO",
-        "url": "https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy"
-      },
-      "artists": [
-        {
-          "name": "Mishy Kope",
-          "url": "https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "WATSHO",
-      "url": "https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak"
     },
     {
       "added_at": "2026-11-06 12:51:28",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-11-06 12:51:28",
       "album": {
-        "name": "LUCKY UU",
-        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+        "name": "take it & leave",
+        "url": "https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc"
       },
       "artists": [
         {
-          "name": "LUUKHANYO",
-          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+          "name": "Sishii",
+          "url": "https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG"
         }
       ],
-      "duration_ms": 186818,
-      "name": "The Midnight Wanderer",
-      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+      "duration_ms": 248000,
+      "name": "take it & leave",
+      "url": "https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY"
     }
   ],
   "unique_name": "Afro Indie",

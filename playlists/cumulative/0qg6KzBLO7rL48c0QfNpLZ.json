@@ -7675,6 +7675,24 @@
     },
     {
       "album": {
+        "name": "David and Goliath",
+        "url": "https://open.spotify.com/album/0X4XOPQVg5d774oAxXNpBP"
+      },
+      "artists": [
+        {
+          "name": "Julian Tcherassi",
+          "url": "https://open.spotify.com/artist/3C6dRTqSH6Q1t2AVis1RBR"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348359,
+      "name": "David and Goliath",
+      "url": "https://open.spotify.com/track/4xyOHaMwTokENsS6IanrwZ"
+    },
+    {
+      "album": {
         "name": "Day Dream",
         "url": "https://open.spotify.com/album/5kOmAzJKIKabzrl9sYXw3W"
       },
@@ -8216,7 +8234,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 238900,
       "name": "dirty little secret",
       "url": "https://open.spotify.com/track/3yulYGK5E5ApYOLlp8WI7f"
@@ -12222,7 +12240,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 227480,
       "name": "Fly High Magical Pixie",
       "url": "https://open.spotify.com/track/51uRzrh6wiJ9KOB3HWkQAV"
@@ -25130,7 +25148,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 170189,
       "name": "No Second Chances",
       "url": "https://open.spotify.com/track/0XoAXd5I9YgRbIBUS2ZrPb"
@@ -27720,7 +27738,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 179973,
       "name": "Po\u00e8mes et Chansons",
       "url": "https://open.spotify.com/track/3XVPacvl2MXov0PAnFoiyX"
@@ -28688,7 +28706,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 233000,
       "name": "Remember Why",
       "url": "https://open.spotify.com/track/3ZzzKJgFYgMUA6IrDFQCAS"
@@ -33416,6 +33434,24 @@
       "duration_ms": 138688,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/2d6bwIQykrN8PR6q5TRVlO"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/0HnH3hLihaRxOfonbq2UKx"
+      },
+      "artists": [
+        {
+          "name": "Gary Louca",
+          "url": "https://open.spotify.com/artist/1ulDDlWDgD5Hd0O80A80KM"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141994,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4LspC5EHjUvdPHTeibJtkV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Perel
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,174 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,139 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Raise Your Head](https://open.spotify.com/track/7fmUvqFBNYezql82zYANQJ) | [Leon Blane](https://open.spotify.com/artist/2TG1F0M1xO9SkvnjeQkzgu) | [Raise Your Head](https://open.spotify.com/album/7Ju5p0MMMSnEUl3JUvu5C1) | 2:47 |
 | 75 | [Actress](https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Actress](https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC) | 2:34 |
 
-Snapshot ID: `AAAAAK3WpqESQDevTIHhBDpdsLC3ACQK`
+Snapshot ID: `AAAAACLOUvuH4Bulvm50PmUSwhBeZEOR`

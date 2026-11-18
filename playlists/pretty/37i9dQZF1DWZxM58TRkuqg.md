@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,367 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,351 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 99 | [dear pisces girlies…](https://open.spotify.com/track/1WcmgwbdOxaozMuSMJzhdm) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [The Love Cycle](https://open.spotify.com/album/3lGn8BRwD8pTxQ63cmOpqn) | 3:14 |
 | 100 | [Timpang](https://open.spotify.com/track/1aIJBWbvDQePI6YOwKMeel) | [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Blue.](https://open.spotify.com/album/10F8PeC10SDFw1ve8S6aDZ) | 4:15 |
 
-Snapshot ID: `AAAAAOrgtilvWmILPbr8Z0JNmGJJ8F4Z`
+Snapshot ID: `AAAAABrfRYnoQbg96CoouuyCVHfw35tM`

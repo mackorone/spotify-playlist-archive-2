@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Dydy Yeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,079 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,133 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Ripapa](https://open.spotify.com/track/2y0fuyMt2jFQFZGVB0Ru4e) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Meilleur Joueur](https://open.spotify.com/album/4aRRGfxiiOP6FbkRGXlb5p) | 2:08 |
 | 40 | [David Fofana](https://open.spotify.com/track/1sYgGGP9aOTpoWjZOJAeyC) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [David Fofana](https://open.spotify.com/album/4hICyNZfHx1LgA1QmRbdsp) | 3:17 |
 
-Snapshot ID: `AAAAAE+r4AzRim5NNIdGV4zcFPDtL9/k`
+Snapshot ID: `AAAAAJDnHOwv5V4t5avKJEBW6s8gcW99`

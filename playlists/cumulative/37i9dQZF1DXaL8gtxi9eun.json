@@ -5777,6 +5777,24 @@
     },
     {
       "album": {
+        "name": "Markeba II",
+        "url": "https://open.spotify.com/album/5jK8KULEO5g2m2XmU0JIQg"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184528,
+      "name": "Sa\u2019at",
+      "url": "https://open.spotify.com/track/1wVco5kefL9WdGQpeOBUyW"
+    },
+    {
+      "album": {
         "name": "Sbabi",
         "url": "https://open.spotify.com/album/4tunxQYd61Q41HQjo0qbc3"
       },
@@ -6088,6 +6106,24 @@
       "duration_ms": 214080,
       "name": "Ta'lan",
       "url": "https://open.spotify.com/track/4ELuH56Piqzxkuz23pbBUq"
+    },
+    {
+      "album": {
+        "name": "Maza w Law",
+        "url": "https://open.spotify.com/album/43FBjXKWQRwTgXKOmHEQp9"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194068,
+      "name": "Tabban",
+      "url": "https://open.spotify.com/track/3NYCgK4zbDG1cO9nSLgr1O"
     },
     {
       "album": {

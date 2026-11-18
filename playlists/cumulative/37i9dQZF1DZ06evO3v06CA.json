@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "It Always Will Be",
+        "url": "https://open.spotify.com/album/4Qw9sHdDJ895wC6tiILJ2U"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "It Always Will Be",
+      "url": "https://open.spotify.com/track/1GD9E5AKfQvEvmwePCQLFd"
+    },
+    {
+      "album": {
         "name": "I\u2019ll Fly Away (Radio Edit)",
         "url": "https://open.spotify.com/album/6vv93qUT1oAPb8YdqVQC00"
       },
@@ -1950,7 +1968,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 199160,
       "name": "Nothing I Can Do About It Now",
       "url": "https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo"

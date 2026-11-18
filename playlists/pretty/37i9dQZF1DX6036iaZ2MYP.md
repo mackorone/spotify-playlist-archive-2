@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Zlatan x Peruzzi x Shoday
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,487 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,547 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Jolie](https://open.spotify.com/track/5CZ3BckdPom7YA3YitodvQ) | [MVP](https://open.spotify.com/artist/7x7WK8fEpPoOXn1rMWbcyl), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Jolie](https://open.spotify.com/album/1um9w05EtYwdveXaLG6dZc) | 2:58 |
 | 49 | [Bilingual Baddie\(BB\)](https://open.spotify.com/track/5OhIiYqDiGngTojSmC11ZP) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Bilingual Baddie\(BB\)](https://open.spotify.com/album/5w9mCgHkFdDDrHVzTmuToU) | 1:58 |
 
-Snapshot ID: `AAAAAJeJgfpEUUWq8DRtJ6ubMw/c38e7`
+Snapshot ID: `AAAAACvAtxymvUCgDHkwOJ4qnRURWJOG`

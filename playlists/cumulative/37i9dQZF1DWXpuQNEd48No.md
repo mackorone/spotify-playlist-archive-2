@@ -4,7 +4,7 @@
 
 > Best of Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-732 songs - 1 day 12 hr 3 min
+733 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Farishtey](https://open.spotify.com/track/4fSsIfi3B5iaIxkuqc5o4L) | [Saaba](https://open.spotify.com/artist/1IYtQx00jWkGZcUb92vslE), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Farishtey](https://open.spotify.com/album/2DYyLv76d0su54WSRaOuYS) | 1:40 | 2025-08-05 | 2025-12-13 |
 | [Fearless](https://open.spotify.com/track/4ZRaZBEzEyYp5DqE7WvGzR) | [Yogi Aulakh](https://open.spotify.com/artist/5J2xmfWX1pR9OgoGb4Zuaz) | [Fearless](https://open.spotify.com/album/1GhFjVBMSz7PVuWcMCuzgp) | 2:59 | 2025-08-22 | 2025-11-29 |
 | [Few](https://open.spotify.com/track/51Kyb1MRMYvAcH6VgiOz1b) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Exhibition](https://open.spotify.com/album/3qaP1e96sP9YJUW1QTYrIu) | 2:23 | 2025-01-24 | 2025-02-01 |
+| [Filam](https://open.spotify.com/track/6bCuGyX5h5f1gr5Ugdd1c2) | [Duryodhan Rana](https://open.spotify.com/artist/0nwH3VdpmJakhuISQ0i9jX), [Jaiveer Thakur](https://open.spotify.com/artist/2Vmf5DEq86fJlbk9piZ19g), [Prodbysoundscape](https://open.spotify.com/artist/43ttS6rFRzusm2okv9LDqX) | [Filam](https://open.spotify.com/album/5SR7vvLbGcOZfUXrZY9xZO) | 1:46 | 2026-11-17 |  |
 | [Filmy](https://open.spotify.com/track/0jgxORc5sXcjLbnAsvpVRV) | [Mr\. Maxxx](https://open.spotify.com/artist/75ucqdtR9YBhCl1RR9nbpX) | [Legacy Chapter 1, Vol\. 3](https://open.spotify.com/album/192058Y5p7hlyGRYuqhDwJ) | 2:37 | 2026-07-24 | 2026-10-24 |
 | [Fire Dabey](https://open.spotify.com/track/1kNaWZ2bskms40GY2IX8cS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [Muzik Amy](https://open.spotify.com/artist/5ksHS8iRqki2cehxR7lJbK), [Ravish Khanna](https://open.spotify.com/artist/33PxISTUOjYQUH3hmo63MT) | [Fire Dabey](https://open.spotify.com/album/5jQKtKpPJlwMTDmDB2yhcT) | 2:52 | 2025-01-31 | 2025-08-06 |
 | [Fire Spit](https://open.spotify.com/track/2zJx7a2mnrXAyExxm5WmYe) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [3rd Eye](https://open.spotify.com/artist/318a6U8piaVqh1qyTD5sqZ) | [F1](https://open.spotify.com/album/3AqhupPmnUNCvvNEx0F61s) | 2:40 | 2025-02-28 | 2026-07-04 |
@@ -406,7 +407,7 @@
 | [Kill EM \- Mafioso Chapter 1](https://open.spotify.com/track/4KNLzEVSubSB7I9d86ZVYo) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Kill EM \(Mafioso Chapter 1\)](https://open.spotify.com/album/1vFbokZeCyfA010NKbO88U) | 2:52 | 2023-03-28 | 2023-06-17 |
 | [Kill Love](https://open.spotify.com/track/5AZptd2m2uVIGILEtFTfJu) | [Saaaj Tomar](https://open.spotify.com/artist/3Y7nPioCRQYii5bAFVbOMl) | [Kill Love](https://open.spotify.com/album/0cKcmHsfxybfDu7MFmg8h2) | 2:44 | 2024-09-30 | 2024-10-22 |
 | [Killer Flow](https://open.spotify.com/track/5spZP1hjkR3BXFNJ8X2xTQ) | [Stag Boy](https://open.spotify.com/artist/0BmzkGyTR9SJyEJ3tbCKwj) | [Killer Flow](https://open.spotify.com/album/1jTodKbDBvufX6mIfXR8vB) | 3:00 | 2025-06-21 | 2025-07-05 |
-| [Kimme Ni](https://open.spotify.com/track/0FxOPIQroGYqQbZTLHxXcj) | [Kuhad](https://open.spotify.com/artist/2YusRqnuLAKGIS4IwFUqin), [T\-Raj](https://open.spotify.com/artist/1uLfLI0SaOga2AjuaC6tQW) | [Kimme Ni](https://open.spotify.com/album/2fzy6mM7XJfiovyuV4jFRh) | 2:38 | 2026-04-28 |  |
+| [Kimme Ni](https://open.spotify.com/track/0FxOPIQroGYqQbZTLHxXcj) | [Kuhad](https://open.spotify.com/artist/2YusRqnuLAKGIS4IwFUqin), [T\-Raj](https://open.spotify.com/artist/1uLfLI0SaOga2AjuaC6tQW) | [Kimme Ni](https://open.spotify.com/album/2fzy6mM7XJfiovyuV4jFRh) | 2:38 | 2026-04-28 | 2026-11-18 |
 | [King In The North](https://open.spotify.com/track/0MYd8A1gDPJf9uCm2Zcd8P) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [KING IN THE NORTH](https://open.spotify.com/album/17j95vZcDXP95NTwVBZ77s) | 2:46 | 2025-08-05 | 2026-03-21 |
 | [Kiso Toyo](https://open.spotify.com/track/66PMnbtXRgMwx2WvlsYfIW) | [DONNI£](https://open.spotify.com/artist/4pT4uhS01avUmbvVTJzybq), [Rohit Maan](https://open.spotify.com/artist/4LOzNO0TMGuwQDEs3tc83n), [Nyn Music](https://open.spotify.com/artist/1mdpuEMzGFix1xdvjOma0t) | [Kiso Toyo](https://open.spotify.com/album/2yYHukHv5fcTIKeKFNfG0O) | 3:44 | 2025-04-15 | 2025-06-25 |
 | [KMJ](https://open.spotify.com/track/3qXtnNJRMUyPO7Q53VIgs5) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Reloaded KD](https://open.spotify.com/album/2DN31KgkAg2qGGOFDWA054) | 4:05 | 2025-02-28 | 2026-04-04 |

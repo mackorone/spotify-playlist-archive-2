@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 2980,
+  "num_followers": 2988,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALreAQ07II/Jg3T3GtaFv60kOu7L",
+  "snapshot_id": "AAAAABKyAh00Vg0nRBeSuNh4eZFl/kff",
   "tracks": [
     {
       "added_at": "2026-11-01 04:01:35",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "redstar",
-        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
+        "name": "For Seasons: Love in a Time of War",
+        "url": "https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy"
       },
       "artists": [
         {
-          "name": "Hockitay",
-          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+          "name": "Merna",
+          "url": "https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK"
         }
       ],
-      "duration_ms": 256651,
-      "name": "redstar",
-      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
+      "duration_ms": 267250,
+      "name": "Four Seasons",
+      "url": "https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -439,18 +439,18 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "For Seasons: Love in a Time of War",
-        "url": "https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy"
+        "name": "redstar",
+        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
       },
       "artists": [
         {
-          "name": "Merna",
-          "url": "https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK"
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
         }
       ],
-      "duration_ms": 267250,
-      "name": "Four Seasons",
-      "url": "https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J"
+      "duration_ms": 256651,
+      "name": "redstar",
+      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
     },
     {
       "added_at": "2026-11-01 04:01:35",

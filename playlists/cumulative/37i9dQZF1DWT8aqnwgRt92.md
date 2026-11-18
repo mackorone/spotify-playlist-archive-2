@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,928 songs - 7 day 12 hr 27 min
+2,930 songs - 7 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1729,7 +1729,7 @@
 | [けっかおーらい \- Kekka Orai](https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [けっかおーらい \- Kekka Orai \- My Hero Academia: Vigilantes Opening Theme Song](https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0) | 2:52 | 2025-04-07 | 2025-07-11 |
 | [こいのうた](https://open.spotify.com/track/0vZcAOkeoTQqBdL928g3KE) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [こいのうた（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/6hKvK1eBPSlpY4MOGPPrKd) | 3:57 | 2024-09-06 | 2024-09-11 |
 | [ここにある約束](https://open.spotify.com/track/0APwmGFaMz1i7yJzB7RNJj) | [であいもん\(ayaho+曽我淳一\)](https://open.spotify.com/artist/5Fb3qOyeKFVcSsbxzPLkdK) | [TVアニメ「であいもん」エンディングテーマ ここにある約束](https://open.spotify.com/album/0gO3GOODkLfILLTQGuVgHQ) | 3:46 | 2022-05-28 | 2022-06-15 |
-| [この心臓に花束を](https://open.spotify.com/track/5KQJgsLQFQiTUfFcuLd4eQ) | [心梅](https://open.spotify.com/artist/0q4U7TZGWUHr5yO47wSivP) | [この心臓に花束を](https://open.spotify.com/album/3tEdQ9mjImN98JTkz1WSUr) | 4:20 | 2026-11-03 |  |
+| [この心臓に花束を](https://open.spotify.com/track/5KQJgsLQFQiTUfFcuLd4eQ) | [心梅](https://open.spotify.com/artist/0q4U7TZGWUHr5yO47wSivP) | [この心臓に花束を](https://open.spotify.com/album/3tEdQ9mjImN98JTkz1WSUr) | 4:20 | 2026-11-03 | 2026-11-18 |
 | [この愛に敵うもんはない](https://open.spotify.com/track/3oaqQczgoSVRK8NPvNL6i4) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [この愛に敵うもんはない](https://open.spotify.com/album/5FCwuMphmpu2sJf1Ctom42) | 3:24 | 2024-01-22 | 2024-04-11 |
 | [この星でよかった](https://open.spotify.com/track/56YOAMm972cN9UQDP9NhFB) | [OKINI☆PARTY'S](https://open.spotify.com/artist/1QZLCJM6LGBnGBtWMfa22V), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx) | [この星でよかった](https://open.spotify.com/album/3ZdBpZh8AFbjew07xq8qd8) | 3:19 | 2026-09-08 | 2026-09-16 |
 | [この蒼き闇と光](https://open.spotify.com/track/2f9IHIuwU2XqExsYjxADqi) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [この蒼き闇と光](https://open.spotify.com/album/0C1hyWKsJmt2Z41HDXt5bR) | 3:46 | 2026-09-15 | 2026-10-14 |
@@ -2405,6 +2405,7 @@
 | [君がくれたもの](https://open.spotify.com/track/67Mp5KEtqshjg2k8pUyPlN) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [君がくれたもの](https://open.spotify.com/album/1WfM9Ij6F3f8KM7aV01FeV) | 2:47 | 2025-07-08 | 2025-07-23 |
 | [君だったから](https://open.spotify.com/track/1vSxweCMkArMEraHCaXz50) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [君だったから](https://open.spotify.com/album/4i2NZmRDdr9V046aAAFutI) | 4:33 | 2024-04-16 | 2024-06-05 |
 | [君としか恋しない](https://open.spotify.com/track/6I0Qnz8OcGAKGakHVkAdYJ) | [Jun Fukuyama](https://open.spotify.com/artist/3bC4NPA8Vfw2FXjiuY8Tzx) | [Reflection](https://open.spotify.com/album/2al7vtwQqmqLuH8K0mdCdW) | 3:48 | 2025-02-04 | 2025-02-14 |
+| [君に、いつか。](https://open.spotify.com/track/6NMMNtnSkkA4pODjnsUoDs) | [明くる夜の羊](https://open.spotify.com/artist/0a6W3KiBwHJQwCbh5blGwi) | [日々を越えて](https://open.spotify.com/album/3lfITVglirdj8SQIHBjvP7) | 3:13 | 2026-11-17 |  |
 | [君にふさわしい奇跡](https://open.spotify.com/track/7deWG2guXYz3L1K6kqYmPC) | [日曜日のメゾンデ](https://open.spotify.com/artist/1z9KPkfdTIPaq33rlWH5n3), [礼衣](https://open.spotify.com/artist/12w8ow0SohGy8imyEIFjfl), [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [君にふさわしい奇跡](https://open.spotify.com/album/4kZGVeA4MGbqHlHsAbvjPH) | 3:03 | 2025-07-10 | 2025-08-06 |
 | [君のせいで愛してる](https://open.spotify.com/track/07uIelDCQyg8Pmzbwjwloc) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [君のせいで愛してる](https://open.spotify.com/album/4eUCmpDRq2bu9O62BTKoPk) | 3:45 | 2026-04-14 | 2026-07-08 |
 | [君の知らない物語 \- from CrosSing](https://open.spotify.com/track/3pSJglKtcxEpbmoVP3Q7jX) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [君の知らない物語 \- from CrosSing](https://open.spotify.com/album/3GTdxviF6BBIIF7VbRtDca) | 5:42 | 2022-05-31 | 2022-07-08 |
@@ -2737,7 +2738,7 @@
 | [秘密](https://open.spotify.com/track/1sY7Loshp5UXmBioLDC0nq) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [秘密](https://open.spotify.com/album/7mgvVMjKAxuLAMbbPFqCHP) | 3:27 | 2023-10-03 | 2023-10-05 |
 | [秘密♡Melody](https://open.spotify.com/track/1AFesvFxEKLQdz1D7UdkM6) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [秘密♡Melody](https://open.spotify.com/album/0jLmxBVe6NwDuJ4o2Oxdvt) | 4:11 | 2023-04-06 | 2023-04-20 |
 | [秘密♡Melody](https://open.spotify.com/track/3FdxmFAty5QZTihGD7vy9g) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [秘密♡Melody](https://open.spotify.com/album/5jyTwJEmfqqrUM3CtWeXpi) | 4:11 | 2023-04-18 | 2023-05-12 |
-| [秘密のパノラマ](https://open.spotify.com/track/3tCiwcbtprnj4NzMxNTgNf) | [PURPLE BUBBLE](https://open.spotify.com/artist/7ucP21XEjkdgwydBjpbaQI) | [秘密のパノラマ](https://open.spotify.com/album/1CrgYqJsoHxi5yBB5YaWIe) | 3:50 | 2026-10-06 |  |
+| [秘密のパノラマ](https://open.spotify.com/track/3tCiwcbtprnj4NzMxNTgNf) | [PURPLE BUBBLE](https://open.spotify.com/artist/7ucP21XEjkdgwydBjpbaQI) | [秘密のパノラマ](https://open.spotify.com/album/1CrgYqJsoHxi5yBB5YaWIe) | 3:50 | 2026-10-06 | 2026-11-18 |
 | [秘密の庭のふたり](https://open.spotify.com/track/0drkpiibrRIpUc5tSubX2J) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [秘密の庭のふたり](https://open.spotify.com/album/3pVwRnFsKMjOwkpAWddA54) | 4:05 | 2022-08-16 | 2022-10-05 |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-05-28 | 2022-07-01 |
 | [空と約束](https://open.spotify.com/track/0ZZo4obqW3KbgjXl9c2Tsi) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ), [倉本千奈](https://open.spotify.com/artist/5ziidtfez7ZP5x9nU7Ytsv) | [空と約束](https://open.spotify.com/album/4BXlVNBL3Kn5MSzMfHdtxv) | 4:54 | 2025-10-21 | 2025-11-05 |
@@ -2821,6 +2822,7 @@
 | [誰我為](https://open.spotify.com/track/3vwgJifwUJHSy7BsvY6puE) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [誰我為](https://open.spotify.com/album/5De5i2XAiq6RXg8UxEZ9Qf) | 4:29 | 2024-05-05 | 2024-07-17 |
 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 | 2023-07-06 | 2023-10-11 |
 | [貸しっぱなしデスティニー](https://open.spotify.com/track/71xlmmNpMLE6tlnR8sWHdv) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [貸しっぱなしデスティニー/また帰ってきたケロッ！とマーチ](https://open.spotify.com/album/7khgjyRAoZsoOGC16CUDqJ) | 4:37 | 2026-06-02 | 2026-09-30 |
+| [賽](https://open.spotify.com/track/2ZzN1oocqTeqzwIdio9N3Z) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [賽](https://open.spotify.com/album/0iG6PBaek9i1CqzENiA8K2) | 3:37 | 2026-11-17 |  |
 | [贅沢な匙](https://open.spotify.com/track/5ej7gjtseTV4h2avqPGff0) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [贅沢な匙](https://open.spotify.com/album/1pWpjPxdiV4wYyjxBiZzsN) | 3:58 | 2023-01-17 | 2023-01-19 |
 | [贖罪](https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [贖罪](https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f) | 3:57 | 2024-04-11 | 2024-06-13 |
 | [赤ちょうちん](https://open.spotify.com/track/2VdYwvMWSg7s6HrboJbgEU) | [Koichi Yamadera](https://open.spotify.com/artist/0lo8UTi4CnnajMXlavxCDo), [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [赤ちょうちん](https://open.spotify.com/album/2JYd821NDT79sxRU5YgHYb) | 4:13 | 2026-07-08 | 2026-07-29 |

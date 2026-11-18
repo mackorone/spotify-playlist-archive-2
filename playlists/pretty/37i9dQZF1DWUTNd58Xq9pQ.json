@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEX2ivb8uipccmi3l2g/4rjxJPJY",
+  "snapshot_id": "AAAAAJ4tqnfqJlFnfAEeeSsepiS+BI0x",
   "tracks": [
     {
       "added_at": "2026-08-13 11:11:48",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-08-13 11:11:48",
       "album": {
+        "name": "Perfect Picture",
+        "url": "https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Affirmations",
+      "url": "https://open.spotify.com/track/6kTxmVtwFSqOLatUYH57FH"
+    },
+    {
+      "added_at": "2026-08-13 11:11:48",
+      "album": {
         "name": "MADELINE (Remixes)",
         "url": "https://open.spotify.com/album/7kbuL98bYaEhxX3q69p5lE"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 205502,
       "name": "MADELINE - Sam Girling Remix",
       "url": "https://open.spotify.com/track/53Az0orgzVQOMQHsjribTZ"
-    },
-    {
-      "added_at": "2026-08-13 11:11:48",
-      "album": {
-        "name": "Perfect Picture",
-        "url": "https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P"
-      },
-      "artists": [
-        {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Affirmations",
-      "url": "https://open.spotify.com/track/6kTxmVtwFSqOLatUYH57FH"
     },
     {
       "added_at": "2026-08-13 11:11:48",

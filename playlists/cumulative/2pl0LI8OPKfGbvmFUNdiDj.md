@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-630 songs - 1 day 11 hr 47 min
+632 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-20 | 2026-01-15 |
 | [Bowerbird](https://open.spotify.com/track/3bqgRiOCd9ymGlaNO4S9h6) | [Perfect Weather for Humans](https://open.spotify.com/artist/1f2FYrOXGLghWMIcjrBwFD) | [Bowerbird](https://open.spotify.com/album/52YSSNofyjjtLsZcPAdvEL) | 5:15 | 2026-01-06 | 2026-02-21 |
 | [Boîte Magique](https://open.spotify.com/track/04GosWc3UkHFGxivdwVbmY) | [Nathalie Weider](https://open.spotify.com/artist/3Yxh2UfFmtitygOFD1eizB) | [Boîte Magique](https://open.spotify.com/album/2ScT2BrgRbnIiIaPVd0jj9) | 4:34 | 2025-12-25 | 2026-01-15 |
+| [Break the Walls](https://open.spotify.com/track/5fM2U7gWzsjwNkGC8r1bS5) | [Eyewonder](https://open.spotify.com/artist/382fgUv3X5FVJYa4tlBHsu) | [Break the Walls](https://open.spotify.com/album/1r8zL7koKiba4nWkhZAOjW) | 3:09 | 2026-11-17 |  |
 | [Break These Chains](https://open.spotify.com/track/6UXMNP2WDg7RhYpanEkSOL) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Break These Chains](https://open.spotify.com/album/5x59iPEINkuzJY35NV7hbf) | 3:24 | 2026-05-13 | 2026-06-14 |
 | [Break These Chains](https://open.spotify.com/track/3axpdtLJYG1k7lIXCTBWzK) | [Mícheál Hillen](https://open.spotify.com/artist/7fMUnhujgqoUxpLolw4uhG) | [Break These Chains](https://open.spotify.com/album/1ardTUvHlmUNtTOgApTwog) | 2:59 | 2025-11-05 | 2025-12-01 |
 | [Breathe](https://open.spotify.com/track/2gSkYHCtONOOIX4ukgAYx0) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:25 | 2026-07-17 |  |
@@ -612,6 +613,7 @@
 | [WITHOUT A RUSH](https://open.spotify.com/track/5wERfkI6PVJx5TNLBHD9Gj) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [WITHOUT A RUSH](https://open.spotify.com/album/3mlm8T34g8ulynQ4JPbnok) | 4:24 | 2026-04-27 | 2026-10-14 |
 | [WITHOUT A RUSH](https://open.spotify.com/track/6ZBbGUG2MtXgcWzfLX2KPX) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [IS IT STILL IN ME?](https://open.spotify.com/album/1CnOt3j4Oxhu2Iy81TrpXJ) | 4:24 | 2026-07-13 | 2026-08-08 |
 | [Without The Kiss](https://open.spotify.com/track/415RGDjNwmsNR7RgUE8VOC) | [Crimson Crow](https://open.spotify.com/artist/7mFL33QnjafnM1J1456vsX) | [Reflection](https://open.spotify.com/album/51Z96Q16vCgmoPsic84Ewf) | 4:46 | 2026-03-01 | 2026-05-26 |
+| [Without You \- Remastered](https://open.spotify.com/track/0BbpZV48cEyJRF0iYxat8v) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Without You \(Remastered\)](https://open.spotify.com/album/2GZufVLjCj95lWq9OrWpaR) | 3:55 | 2026-11-17 |  |
 | [Witness](https://open.spotify.com/track/2uBliRj3NSX0Hn55p6gVbO) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Witness](https://open.spotify.com/album/5eFVRyXq0Oi7GVoAjZb2k8) | 2:20 | 2026-05-19 | 2026-06-14 |
 | [Wolves \(Instrumental Version\)](https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Danny Bourgeois](https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:07 | 2025-11-03 | 2025-12-01 |
 | [WORK](https://open.spotify.com/track/1oq5IzU37F61XVioGL0DC4) | [Todd & Karen](https://open.spotify.com/artist/2HpxTC13Na9jP0L9z8PneH) | [WORK](https://open.spotify.com/album/25RS5VNu5tyuusZN8stDpE) | 5:03 | 2025-11-08 | 2025-12-01 |

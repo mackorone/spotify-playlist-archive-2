@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Caloncho y Jaze.",
-  "num_followers": 1355157,
+  "num_followers": 1355029,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "Mantis",
-        "url": "https://open.spotify.com/album/6YtFYvsLVJpOSLDJdQ5bdK"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 254740,
-      "name": "Mantis",
-      "url": "https://open.spotify.com/track/6ImCkOkytyhBDWDU3a26iL"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "JuanesTeban",
         "url": "https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 185658,
       "name": "Timelapse de Sol",
       "url": "https://open.spotify.com/track/2kUA7nwy2cSFygzs43ngMu"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
+        "name": "Mantis",
+        "url": "https://open.spotify.com/album/6YtFYvsLVJpOSLDJdQ5bdK"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 254740,
+      "name": "Mantis",
+      "url": "https://open.spotify.com/track/6ImCkOkytyhBDWDU3a26iL"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
+        "name": "C\u00f3mo Te Hago Entender",
+        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "C\u00f3mo Te Hago Entender",
+      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
         "name": "Despegamos",
         "url": "https://open.spotify.com/album/1pCyxb0Apd2OnPknDc2KcM"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 173877,
       "name": "Despegamos",
       "url": "https://open.spotify.com/track/7jM7bIVRbiRRXY2QhkndK9"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
-        "name": "C\u00f3mo Te Hago Entender",
-        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "C\u00f3mo Te Hago Entender",
-      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
     },
     {
       "added_at": "2026-09-11 04:59:18",

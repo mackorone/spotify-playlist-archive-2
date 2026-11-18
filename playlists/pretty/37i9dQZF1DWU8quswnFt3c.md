@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with mindfreakk! from Thailand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,981 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,866 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,27 +36,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 26 | [Whale Call](https://open.spotify.com/track/5sAktOKPSU85r1AeXoZcrl) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Nocturne](https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC) | 4:19 |
 | 27 | [I'm Going Back to Lebanon](https://open.spotify.com/track/5YDkE7W72iz7iN4tHi32SZ) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Everyday, Everything Is At Stake](https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj) | 2:45 |
 | 28 | [Almohada](https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Almohada](https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw) | 3:42 |
-| 29 | [隱痛](https://open.spotify.com/track/6U2ZB5NZTr5qHfVTSouaXD) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [重寫第一章](https://open.spotify.com/album/15RnFD9jAQj0z3ZFKBZzM6) | 3:32 |
-| 30 | [Danger](https://open.spotify.com/track/397C7dN58u7bEUBG7jD5JM) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Danger](https://open.spotify.com/album/1SUlBk5BgGheoAkEQIsgWF) | 3:28 |
-| 31 | [Keddab](https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Keddab](https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL) | 2:46 |
+| 29 | [Keddab](https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Keddab](https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL) | 2:46 |
+| 30 | [隱痛](https://open.spotify.com/track/6U2ZB5NZTr5qHfVTSouaXD) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [重寫第一章](https://open.spotify.com/album/15RnFD9jAQj0z3ZFKBZzM6) | 3:32 |
+| 31 | [Danger](https://open.spotify.com/track/397C7dN58u7bEUBG7jD5JM) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Danger](https://open.spotify.com/album/1SUlBk5BgGheoAkEQIsgWF) | 3:28 |
 | 32 | [December Forever](https://open.spotify.com/track/1lV0KkH0yn4nxdfxQUlOoy) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Everyday, Everything Is At Stake](https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj) | 2:38 |
 | 33 | [RUDE](https://open.spotify.com/track/1myezJ7Cty6YVRPa96penu) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [RUDE](https://open.spotify.com/album/6XfoImzNgOYzcLVp7ybzCz) | 2:44 |
 | 34 | [Aayi Teri Baat Mein](https://open.spotify.com/track/5QmM1gtD8wHYQuBFOUcrGy) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Aayi Teri Baat Mein](https://open.spotify.com/album/6UjCMR7x2WcwXK4ominJcN) | 3:04 |
 | 35 | [Every Aching Minute](https://open.spotify.com/track/1mxFh0yxb2lZzqdy8jFseo) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartsong](https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G) | 4:51 |
-| 36 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
-| 37 | [Smoke](https://open.spotify.com/track/5IGQIUoXm7ZsMXUkHRIsMg) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Doves Came Home](https://open.spotify.com/album/6stW0BEOqA6F0Gi7inuzLS) | 4:37 |
+| 36 | [Smoke](https://open.spotify.com/track/5IGQIUoXm7ZsMXUkHRIsMg) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Doves Came Home](https://open.spotify.com/album/6stW0BEOqA6F0Gi7inuzLS) | 4:37 |
+| 37 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
 | 38 | [Aray ko Salikaka](https://open.spotify.com/track/0InYOQQHeBIIMySjQJbxCv) | [Usay Panan](https://open.spotify.com/artist/5m9BR9opWunqBhvL7j3Bg9) | [Aray ko Salikaka](https://open.spotify.com/album/40B63bA8qzo6lrmQ29rEjg) | 3:01 |
 | 39 | [aftertears](https://open.spotify.com/track/7lyewi26KwzRM9XNB7Sl6y) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [aftertears](https://open.spotify.com/album/0qtTQO2tmH6a03Dey9zeaz) | 6:27 |
 | 40 | [Dust U Off](https://open.spotify.com/track/1MjkvZOLEgJqSShFr1Ixui) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [BULLSEYE](https://open.spotify.com/album/6cBdLtktEMZP9m3e0jKytE) | 3:59 |
 | 41 | [SKIN AFROPATY](https://open.spotify.com/track/4ThjZY42ya58WehhodPAdx) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:52 |
 | 42 | [Victoria](https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:23 |
 | 43 | [winters gonna come](https://open.spotify.com/track/3OoJRP74QttUB17tTe5gwm) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [winters gonna come](https://open.spotify.com/album/6qr5fMgyonax6366SQHTfy) | 4:12 |
-| 44 | [CMYM](https://open.spotify.com/track/364BqG2nRU9idqWNxJiBUy) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [CMYM](https://open.spotify.com/album/6jkyxYY3m1JwJ2N2sIQ5rb) | 4:02 |
-| 45 | [lazy](https://open.spotify.com/track/2liHqyTSLnswtC0LBd5T8Z) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [society \| lazy](https://open.spotify.com/album/6SqzOoFdO4S4NDl0sBMJxW) | 2:11 |
+| 44 | [lazy](https://open.spotify.com/track/2liHqyTSLnswtC0LBd5T8Z) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [society \| lazy](https://open.spotify.com/album/6SqzOoFdO4S4NDl0sBMJxW) | 2:11 |
+| 45 | [CMYM](https://open.spotify.com/track/364BqG2nRU9idqWNxJiBUy) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [CMYM](https://open.spotify.com/album/6jkyxYY3m1JwJ2N2sIQ5rb) | 4:02 |
 | 46 | [Oceany](https://open.spotify.com/track/0mEBiQh0MJ6YRQYwWCempf) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oceany](https://open.spotify.com/album/77O6RrxTwQ6YhQLbkVv5PP) | 2:46 |
 | 47 | [dear pisces girlies…](https://open.spotify.com/track/1WcmgwbdOxaozMuSMJzhdm) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [The Love Cycle](https://open.spotify.com/album/3lGn8BRwD8pTxQ63cmOpqn) | 3:14 |
 | 48 | [Invisible Wounds](https://open.spotify.com/track/718dkyj9wPUtDmP0cWkaxz) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 4:59 |
 | 49 | [Douter](https://open.spotify.com/track/005qFe7U4oVqJteXYYEWLQ) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Vie d'Adulte](https://open.spotify.com/album/6UV0hiYkNMcqLKITtj6JIP) | 2:47 |
 | 50 | [Snail Song](https://open.spotify.com/track/4IwVHxOmdbcTM5ThqQwu6T) | [Goodmorning Pancake](https://open.spotify.com/artist/7Bezyy4h6Ftw2pjtq8NcbE), [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Snail Song](https://open.spotify.com/album/6CeaDxEmRXTCTZZJMXgFJG) | 3:32 |
 
-Snapshot ID: `AAAAANi/K+63M8OSBBgJCyAgtbZkeIJm`
+Snapshot ID: `AAAAAMaTCLiKmUkd+2F3gUqyiQrLmVBw`

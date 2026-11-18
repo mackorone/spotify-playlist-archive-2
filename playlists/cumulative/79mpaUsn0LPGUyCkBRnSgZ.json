@@ -15011,6 +15011,28 @@
     },
     {
       "album": {
+        "name": "The Dealer Wins",
+        "url": "https://open.spotify.com/album/3IyApBbOXEVp23l3kyFKfV"
+      },
+      "artists": [
+        {
+          "name": "Bruiser Wolf",
+          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105131,
+      "name": "Payday",
+      "url": "https://open.spotify.com/track/1IEzC26lkBRUN3AxQ91U3M"
+    },
+    {
+      "album": {
         "name": "UR FUN",
         "url": "https://open.spotify.com/album/0PvImlnEVBSPGeaCQhjkZH"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: aiai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,637 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,646 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Rest Stop \(feat\. Gist, JUNE\)](https://open.spotify.com/track/59zW0xXCeITloNERL3ELB4) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Rest Stop \(feat\. Gist, JUNE\)](https://open.spotify.com/album/5biZ0WAzvOhF3dCOxHmAoy) | 3:09 |
 | 50 | [summer border](https://open.spotify.com/track/4Soxu2ZhWrQR82RRYTglfB) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [summer border](https://open.spotify.com/album/3GTHzjJXhjSG2JV4nPcu3W) | 2:25 |
 
-Snapshot ID: `AAAAAG0nEfFllfWodKtTR8YzaDLDxfZ5`
+Snapshot ID: `AAAAAHWzIEX/Va1C3GSw6FQQ+6RKhXrB`

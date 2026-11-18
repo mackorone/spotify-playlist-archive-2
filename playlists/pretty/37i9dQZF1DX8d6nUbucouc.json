@@ -1,12 +1,12 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 68156,
+  "num_followers": 68164,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKI8mO/t+Zr2EW7ERG8YBjxXxYo",
+  "snapshot_id": "AAAAAK9zMeFDwiwRgDNhw7p+pkQ09C3+",
   "tracks": [
     {
       "added_at": "2024-09-09 11:56:35",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "De Ark De Triomf",
-        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
-      },
-      "artists": [
-        {
-          "name": "Jiggy Dj\u00e9",
-          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
-        },
-        {
-          "name": "Pete Philly",
-          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Ik Heb Je",
-      "url": "https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Du Zoon",
         "url": "https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU"
       },
@@ -971,6 +951,26 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "De Ark De Triomf",
+        "url": "https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Dj\u00e9",
+          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
+        },
+        {
+          "name": "Pete Philly",
+          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Ik Heb Je",
+      "url": "https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Bliksemschicht",
         "url": "https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp"
       },
@@ -983,6 +983,46 @@
       "duration_ms": 259240,
       "name": "Vanaf Nu/Rauwe Hop",
       "url": "https://open.spotify.com/track/4QflCpkH3K3A64KYiZS2df"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        },
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        },
+        {
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+        }
+      ],
+      "duration_ms": 315826,
+      "name": "Duivelszoon",
+      "url": "https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Du Zoon",
+        "url": "https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU"
+      },
+      "artists": [
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        }
+      ],
+      "duration_ms": 290906,
+      "name": "Wakker In Du Cel",
+      "url": "https://open.spotify.com/track/4CD7S5MjBQMTOZWEPMCqnd"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1015,46 +1055,6 @@
       "duration_ms": 203800,
       "name": "De Kleren Van De Keyser",
       "url": "https://open.spotify.com/track/2eABN9qCm4iAUQgedUxrCP"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Du Zoon",
-        "url": "https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU"
-      },
-      "artists": [
-        {
-          "name": "Kempi",
-          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
-        }
-      ],
-      "duration_ms": 290906,
-      "name": "Wakker In Du Cel",
-      "url": "https://open.spotify.com/track/4CD7S5MjBQMTOZWEPMCqnd"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
-        },
-        {
-          "name": "Big2",
-          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
-        },
-        {
-          "name": "Sjaak",
-          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
-        }
-      ],
-      "duration_ms": 315826,
-      "name": "Duivelszoon",
-      "url": "https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Mijn Manier",
-        "url": "https://open.spotify.com/album/0hBGB9cgria5UdV15puxAJ"
+        "name": "Klokkenluiders Van Amsterdam",
+        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
       },
       "artists": [
         {
-          "name": "Brainpower",
-          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+          "name": "Spookrijders",
+          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Mijn Manier",
-      "url": "https://open.spotify.com/track/6YmDH07CvDvrJPQC68OeK2"
+      "duration_ms": 289200,
+      "name": "Ik Ben De Man",
+      "url": "https://open.spotify.com/track/5bLa3DBGxcOIQEQYnt5NFz"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Klokkenluiders Van Amsterdam",
-        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
+        "name": "Mijn Manier",
+        "url": "https://open.spotify.com/album/0hBGB9cgria5UdV15puxAJ"
       },
       "artists": [
         {
-          "name": "Spookrijders",
-          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
+          "name": "Brainpower",
+          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Ik Ben De Man",
-      "url": "https://open.spotify.com/track/5bLa3DBGxcOIQEQYnt5NFz"
+      "duration_ms": 258146,
+      "name": "Mijn Manier",
+      "url": "https://open.spotify.com/track/6YmDH07CvDvrJPQC68OeK2"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Thuis (feat. Per.verz)",
-        "url": "https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0"
-      },
-      "artists": [
-        {
-          "name": "Engel & Just",
-          "url": "https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM"
-        }
-      ],
-      "duration_ms": 244089,
-      "name": "Thuis (feat. Per.verz)",
-      "url": "https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Kleine Jongen (feat. Diggy Dex, Def P & Jiggy Dje)",
         "url": "https://open.spotify.com/album/2IE9K1EraYA3Vo7TaAeAEq"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 207266,
       "name": "Kleine Jongen (feat. Def P, Jiggy Dje & Diggy Dex)",
       "url": "https://open.spotify.com/track/42gIzFKsrPhWfcbeSpQ7KL"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Thuis (feat. Per.verz)",
+        "url": "https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0"
+      },
+      "artists": [
+        {
+          "name": "Engel & Just",
+          "url": "https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM"
+        }
+      ],
+      "duration_ms": 244089,
+      "name": "Thuis (feat. Per.verz)",
+      "url": "https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC"
     },
     {
       "added_at": "2024-09-09 11:56:35",

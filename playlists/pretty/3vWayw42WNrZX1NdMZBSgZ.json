@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Emilia",
-  "num_followers": 50219,
+  "num_followers": 50207,
   "original_name": "LATIN POP HITS 2026 - \u00c9xitos del Pop Latino",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAWETv+SLcycx/6bLKkhPZewoWkfq/4",
+  "snapshot_id": "AAAWE5PyqAj9nq+ktq/22dFmuFbUASEx",
   "tracks": [
     {
       "added_at": "2026-10-30 10:47:23",
@@ -279,6 +279,30 @@
       "duration_ms": 156493,
       "name": "Pa' Bailar",
       "url": "https://open.spotify.com/track/62EHKz3dRbYol2F0epVQ0Z"
+    },
+    {
+      "added_at": "2026-11-17 16:46:03",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/4666SViPubDIsqw5300oiR"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 154502,
+      "name": "BAILAR O MORIR",
+      "url": "https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y"
     },
     {
       "added_at": "2026-08-07 01:23:55",

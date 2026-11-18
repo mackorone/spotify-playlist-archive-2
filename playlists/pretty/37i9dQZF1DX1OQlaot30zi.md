@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di MV Killa, Junior K, Rkomi, R£d, Latrelle e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,389 likes - 95 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,393 likes - 95 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 15 | [DA SOLO](https://open.spotify.com/track/41ZBDcmHhLozhsTxrUAhXT) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [DA SOLO](https://open.spotify.com/album/1X2aLN9bYbYLwKjy8woTo1) | 2:39 |
 | 16 | [POCO TEMPO](https://open.spotify.com/track/4GLUD6KtQNMUEqdZQ6Of7v) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [POCO TEMPO](https://open.spotify.com/album/3oRLtHsRf8cwzokzjxusot) | 2:43 |
 | 17 | [Immortale \(feat\. Guè\)](https://open.spotify.com/track/6NM4nbYWbtPLKpezayiC1X) | [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [St Luca Spenish](https://open.spotify.com/artist/3uPB5v8cgvDpoFySvjyMAx), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Immortale \(feat\. Guè\)](https://open.spotify.com/album/7D3xtJo59AGLXSfQUItrXb) | 2:25 |
-| 18 | [Badgyal \(feat\. Giovane Drago\)](https://open.spotify.com/track/3e5iSZTVWlmSba7qVscnMN) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR), [Giovane Drago](https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg) | [OASI, EDEN](https://open.spotify.com/album/3TPN16UVNiiDfsfZ0HuEh0) | 2:33 |
+| 18 | [Badgyal \(feat\. Giovane Drago\)](https://open.spotify.com/track/3e5iSZTVWlmSba7qVscnMN) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR), [Giovane Drago](https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg), [Scien](https://open.spotify.com/artist/6sJBjn9GZbhu93KnaVlwCR), [EyoJasper](https://open.spotify.com/artist/15Zh6kkBGw9ckIRquYpWLn) | [OASI, EDEN](https://open.spotify.com/album/3TPN16UVNiiDfsfZ0HuEh0) | 2:33 |
 | 19 | [CALVAIRATE CALIFORNIA \(con Tedua\)](https://open.spotify.com/track/2HYurlQNGvVZdiyxMPiL1Y) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [A MILANO](https://open.spotify.com/album/35gdrKl5CajqPsMpjo2Q95) | 2:16 |
 | 20 | [MONEY \(feat\. Artie 5ive\)](https://open.spotify.com/track/5J8Bk70gqe0eQryVXePyR9) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LOCKED IN \(EUROLUXE\)](https://open.spotify.com/album/2AaIiX1EeyiFR8ayOtVOfZ) | 2:39 |
 | 21 | [TRE RAVER \(feat\. Pitta & Macello\)](https://open.spotify.com/track/6Dz2HTbnieFWlLcoBdvlwV) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7) | [TRE RAVER \(feat\. Pitta & Macello\)](https://open.spotify.com/album/18oR96XWj2u7rEQUrrrwUM) | 3:06 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 94 | [SCARED](https://open.spotify.com/track/58q6acHoOfzPGgrLIEOq03) | [Medho Laine](https://open.spotify.com/artist/1FPlZpA48XK8WvFJ3vHvrm), [Viuma](https://open.spotify.com/artist/75M6wKATRkDtyaViTQcw5n) | [SCARED](https://open.spotify.com/album/1Rmo7bp5SYllpXXKIUxlRS) | 2:58 |
 | 95 | [CADERE in 2 è MEGLIO](https://open.spotify.com/track/2ZqRqfyRT6KUuHcfTVTIQ3) | [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k) | [VEMOD2021](https://open.spotify.com/album/4Cr6qTjiNHfbKWMVDharzy) | 2:46 |
 
-Snapshot ID: `AAAAAEeFYRPWI057dYajHuOGmShP2Lp9`
+Snapshot ID: `AAAAAHuivn+OmCNStQIU6YoN3VrU5119`

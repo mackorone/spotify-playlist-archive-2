@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,667 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,689 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 27 | [Singular \(feat\. El Chojin\)](https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 4:36 |
 | 28 | [La Ansiedad y Yo](https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La Ansiedad y Yo](https://open.spotify.com/album/1wLi7L3eS7OnfktZoyIj4n) | 3:14 |
 | 29 | [Origen](https://open.spotify.com/track/293p8igLtACWCeDhXohcnC) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Origen](https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO) | 5:47 |
-| 30 | [Espacio](https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [Espacio](https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs) | 4:35 |
-| 31 | [Afirmativo](https://open.spotify.com/track/51wBfbujPBrOsovd65uysU) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Señor Marrano](https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG) | [Umami](https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m) | 3:10 |
+| 30 | [Afirmativo](https://open.spotify.com/track/51wBfbujPBrOsovd65uysU) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Señor Marrano](https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG) | [Umami](https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m) | 3:10 |
+| 31 | [Espacio](https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [Espacio](https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs) | 4:35 |
 | 32 | [MALDITO](https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [LACOSTA](https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc) | 4:08 |
 | 33 | [Dolor](https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Dolor](https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8) | 4:25 |
 | 34 | [Tantas Veces](https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj) | [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO), [Oblivion's Mighty Trash](https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH), [Dj Peche](https://open.spotify.com/artist/2A8QxDqnIx1tyMtCvfgm0s), [Barbatos Beats](https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh), [Diavlitx](https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g) | [Tantas Veces](https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM) | 2:29 |
-| 35 | [NueveOnce](https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt) | [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD) | [Punchline City, Vol\. 1](https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz) | 1:16 |
-| 36 | [La teoría de la evolución](https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [La teoría de la evolución](https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy) | 2:53 |
+| 35 | [La teoría de la evolución](https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [La teoría de la evolución](https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy) | 2:53 |
+| 36 | [NueveOnce](https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt) | [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD) | [Punchline City, Vol\. 1](https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz) | 1:16 |
 | 37 | [Más & Menos](https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Más & Menos](https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus) | 4:29 |
 | 38 | [Esto Es México](https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m), [Sinful](https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2) | [Tiempos Muertos](https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV) | 4:46 |
 | 39 | [Intraterreno](https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Intraterreno](https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 99 | [Merced](https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 2:53 |
 | 100 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
 
-Snapshot ID: `AAAAAA9sN/wTmmVJvOaYWvjrqCQtw0GX`
+Snapshot ID: `AAAAADsLaAzJbCWSf5rG3OszvPnXobV2`

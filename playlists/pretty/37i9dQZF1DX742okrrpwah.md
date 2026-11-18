@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SDM, Joseph Kamel, U2 x Dolly Parton et Marine x Danyl au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,147 likes - 112 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,097 likes - 112 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 71 | [What Are You Missing](https://open.spotify.com/track/2qXsUYCQW4L7apzhxj5Zt2) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w), [Talulah Ruby](https://open.spotify.com/artist/2TNbAqw8Vycd0xtFz7RWzZ) | [What Are You Missing](https://open.spotify.com/album/3H1YG7JWmsKev7MCvQ1j9L) | 2:42 |
 | 72 | [J'ai perdu mes AirPods](https://open.spotify.com/track/4ec2xTgZJXGi4is3z839Yp) | [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [KOUL](https://open.spotify.com/album/5X9CeM2KOYzQS5rdQsNfx0) | 3:03 |
 | 73 | [Prelude to Diaspora](https://open.spotify.com/track/3aRf5fSDWRyRNwWJC6gHky) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Lost Ballads Part I](https://open.spotify.com/album/3EQ8fiTI4ZQMxaFxhSPAoG) | 4:37 |
-| 74 | [Être moi \(déguisé en fleur\)](https://open.spotify.com/track/2ctJxIV3dpToTzoJvgPiNW) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [Être moi \(déguisé en fleur\)](https://open.spotify.com/album/3M9PFUZ8HhWoZeR0YGO02s) | 3:09 |
+| 74 | [Être moi \(déguisé·e en fleur\)](https://open.spotify.com/track/2ctJxIV3dpToTzoJvgPiNW) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [Être moi \(déguisé·e en fleur\)](https://open.spotify.com/album/3M9PFUZ8HhWoZeR0YGO02s) | 3:09 |
 | 75 | [SOMEONE](https://open.spotify.com/track/09fUaRstwYYgN3Rc23G9Wd) | [Rutra](https://open.spotify.com/artist/5hI84HYhcGssAsmgO3dFaJ) | [SOMEONE](https://open.spotify.com/album/4U0Wl8mIPYrwpQ4NYq9RxJ) | 2:40 |
 | 76 | [FOLIE](https://open.spotify.com/track/1SJEWoizaTUfaRpRgsn0AZ) | [Guizmo](https://open.spotify.com/artist/6sYR8JTRUUUzSD9IydLhfG), [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [La Tanière 2.0](https://open.spotify.com/album/1EuvEMBGdupHjjP7fSDBCu) | 2:44 |
 | 77 | [L'amour est un oiseau rebelle](https://open.spotify.com/track/4r2JlihwhLiF4n9RkWBQYK) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Sofia Morgavi](https://open.spotify.com/artist/6lfHKtn8RUhzF5QtoVDVbl) | [L'amour est un oiseau rebelle \(Yann Muller Version\)](https://open.spotify.com/album/28SzLDf3WnJgcZbJwjW90R) | 3:22 |

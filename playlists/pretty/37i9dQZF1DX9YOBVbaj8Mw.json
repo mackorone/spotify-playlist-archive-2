@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20399,
+  "num_followers": 20400,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPVtmBSc+m10+BAAKrXNq0nZ3UIN",
+  "snapshot_id": "AAAAAAzY2L6gPrIUQEGdRg64FdD+GxpO",
   "tracks": [
     {
       "added_at": "2026-05-26 09:05:26",
@@ -431,26 +431,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
-        "url": "https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1"
-      },
-      "artists": [
-        {
-          "name": "Quebonafide",
-          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
-        },
-        {
-          "name": "JIMEK",
-          "url": "https://open.spotify.com/artist/0ij2PQYebfZF0UuitRTeyh"
-        }
-      ],
-      "duration_ms": 301461,
-      "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
-      "url": "https://open.spotify.com/track/4QTSoHVlCjAp0DWUYUZ3Ok"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "POLOT",
         "url": "https://open.spotify.com/album/3kufOEFkqCrE0lMaDTasjR"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 156000,
       "name": "tom i jerry",
       "url": "https://open.spotify.com/track/5Ce7f1EBFE7QNZ9XaEYj5W"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
+        "url": "https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1"
+      },
+      "artists": [
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "JIMEK",
+          "url": "https://open.spotify.com/artist/0ij2PQYebfZF0UuitRTeyh"
+        }
+      ],
+      "duration_ms": 301461,
+      "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
+      "url": "https://open.spotify.com/track/4QTSoHVlCjAp0DWUYUZ3Ok"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Coma Live Pol'and'Rock Festival 2024",
+        "url": "https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7"
+      },
+      "artists": [
+        {
+          "name": "Coma",
+          "url": "https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17"
+        }
+      ],
+      "duration_ms": 855093,
+      "name": "Zaprzepaszczone si\u0142y wielkiej armii \u015bwi\u0119tych znak\u00f3w - Live",
+      "url": "https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "1670: Sezon 2 (Muzyka z Serialu Netflix)",
         "url": "https://open.spotify.com/album/3CMTk1ouyaaKtNjH9sLFH1"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Coma Live Pol'and'Rock Festival 2024",
-        "url": "https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7"
+        "name": "Tematy i wariacje",
+        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
       },
       "artists": [
         {
-          "name": "Coma",
-          "url": "https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17"
+          "name": "Walu\u015bKraksaKryzys",
+          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
         }
       ],
-      "duration_ms": 855093,
-      "name": "Zaprzepaszczone si\u0142y wielkiej armii \u015bwi\u0119tych znak\u00f3w - Live",
-      "url": "https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8"
+      "duration_ms": 293906,
+      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
+      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -703,22 +719,6 @@
       "duration_ms": 336773,
       "name": "The Shit Ov God",
       "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Tematy i wariacje",
-        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
-      },
-      "artists": [
-        {
-          "name": "Walu\u015bKraksaKryzys",
-          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
-      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+      },
+      "artists": [
+        {
+          "name": "Nene Heroine",
+          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+        }
+      ],
+      "duration_ms": 444560,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Homage",
         "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 251514,
       "name": "Love in the Garden",
       "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
-      },
-      "artists": [
-        {
-          "name": "Nene Heroine",
-          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
-        }
-      ],
-      "duration_ms": 444560,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Fly High-Fi!",
+        "url": "https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF"
+      },
+      "artists": [
+        {
+          "name": "Vavamuffin",
+          "url": "https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD"
+        }
+      ],
+      "duration_ms": 230124,
+      "name": "Dubbrat",
+      "url": "https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Uno Lovis Party",
         "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 313226,
       "name": "KREW Z KRWI",
       "url": "https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Fly High-Fi!",
-        "url": "https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF"
-      },
-      "artists": [
-        {
-          "name": "Vavamuffin",
-          "url": "https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD"
-        }
-      ],
-      "duration_ms": 230124,
-      "name": "Dubbrat",
-      "url": "https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Pami\u0119tam twoje oczy",
-        "url": "https://open.spotify.com/album/3dDdRaotev2wwa1UzS98Tx"
-      },
-      "artists": [
-        {
-          "name": "Warszawskie Combo Taneczne",
-          "url": "https://open.spotify.com/artist/40gaR2GqGc39aBRhGwUtHk"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Pami\u0119tam twoje oczy",
-      "url": "https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Pianorizon",
         "url": "https://open.spotify.com/album/3wAHEPL9ZlVZ1ru4jUtHa1"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 165376,
       "name": "Song Without Words",
       "url": "https://open.spotify.com/track/3jy4CgcQrdkju4htINevNG"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Pami\u0119tam twoje oczy",
+        "url": "https://open.spotify.com/album/3dDdRaotev2wwa1UzS98Tx"
+      },
+      "artists": [
+        {
+          "name": "Warszawskie Combo Taneczne",
+          "url": "https://open.spotify.com/artist/40gaR2GqGc39aBRhGwUtHk"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Pami\u0119tam twoje oczy",
+      "url": "https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1483,34 +1483,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Through The Hourglass (Acoustic)",
-        "url": "https://open.spotify.com/album/776qd7dIOzM2n4x9jO6IqE"
+        "name": "Looking Ahead",
+        "url": "https://open.spotify.com/album/60txM9aYiGsMyhNvIIOdB9"
       },
       "artists": [
         {
-          "name": "Grzegorz Mas\u0142owski",
-          "url": "https://open.spotify.com/artist/0Niiwq7pOtjOiLHWgazzFf"
-        },
-        {
-          "name": "Marcin Kaletka",
-          "url": "https://open.spotify.com/artist/3Nt9qGuEE62mfXix1olw8T"
-        },
-        {
-          "name": "Jaros\u0142aw Bothur",
-          "url": "https://open.spotify.com/artist/27py90o2nVmbxES4ZRD0G0"
-        },
-        {
-          "name": "Mateusz Pa\u0142ka",
-          "url": "https://open.spotify.com/artist/6xP0Vou9vkHkmiblCpoLgo"
-        },
-        {
-          "name": "Piotr Po\u0142udniak",
-          "url": "https://open.spotify.com/artist/5crOp7ea1g8f6YHiqzL8UH"
+          "name": "Alan Balcerowski Quintet",
+          "url": "https://open.spotify.com/artist/3HaJFX15XfR5A076i6H2ug"
         }
       ],
-      "duration_ms": 550813,
-      "name": "Through The Hourglass",
-      "url": "https://open.spotify.com/track/1qK1QaIsVwDGtpoEZO1nku"
+      "duration_ms": 426280,
+      "name": "Give It a Rest",
+      "url": "https://open.spotify.com/track/1z2mOmCdvmLRkdBpj5QWVZ"
     }
   ],
   "unique_name": "Fryderyk 2026",

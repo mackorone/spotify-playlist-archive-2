@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 25271,
+  "num_followers": 25270,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAACFYe8Ukfuv08O1KlCp46eq",
+  "snapshot_id": "avpHgAAAAABsWgNv7kkejKfBn5IABKZd",
   "tracks": [
     {
       "added_at": null,
@@ -495,54 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Pienses en Volver (Versi\u00f3n Cumbia- Salsa)",
-        "url": "https://open.spotify.com/album/3fk92m0deWHsUlkDeySzTa"
+        "name": "Amazonas (Uncut)",
+        "url": "https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy"
       },
       "artists": [
         {
-          "name": "Tony Succar",
-          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
-        },
-        {
-          "name": "Guillermo Bussinger",
-          "url": "https://open.spotify.com/artist/6RikhFPOTZtU9sDL55VQn3"
-        },
-        {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        },
-        {
-          "name": "Ezio Oliva",
-          "url": "https://open.spotify.com/artist/13VQn367NHwGWe1vQbDawm"
-        },
-        {
-          "name": "Lucho Quequezana",
-          "url": "https://open.spotify.com/artist/6RZw6Uxm1JgLuI293XA2Y7"
-        },
-        {
-          "name": "Sonia Morales",
-          "url": "https://open.spotify.com/artist/2Ygsf1reW7mIhmiO0X2I0y"
-        },
-        {
-          "name": "Bartola",
-          "url": "https://open.spotify.com/artist/2IGcePH75Tnvk4TDVsQq2A"
-        },
-        {
-          "name": "Christian Yaip\u00e9n",
-          "url": "https://open.spotify.com/artist/68h9Hwsl5HjA62EAPjZ4pw"
-        },
-        {
-          "name": "Renata Flores",
-          "url": "https://open.spotify.com/artist/1EAJb8brwi1kaoOkIwvrLJ"
-        },
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
         }
       ],
-      "duration_ms": 252133,
-      "name": "Cuando Pienses en Volver - Versi\u00f3n Cumbia- Salsa",
-      "url": "https://open.spotify.com/track/7wAVxo1CSjGlxWSXAp53OM"
+      "duration_ms": 251026,
+      "name": "Tema del Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj"
     },
     {
       "added_at": null,
@@ -595,18 +559,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas (Uncut)",
-        "url": "https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy"
+        "name": "Cuando Pienses en Volver (Versi\u00f3n Cumbia- Salsa)",
+        "url": "https://open.spotify.com/album/3fk92m0deWHsUlkDeySzTa"
       },
       "artists": [
         {
+          "name": "Tony Succar",
+          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
+        },
+        {
+          "name": "Guillermo Bussinger",
+          "url": "https://open.spotify.com/artist/6RikhFPOTZtU9sDL55VQn3"
+        },
+        {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        },
+        {
+          "name": "Ezio Oliva",
+          "url": "https://open.spotify.com/artist/13VQn367NHwGWe1vQbDawm"
+        },
+        {
+          "name": "Lucho Quequezana",
+          "url": "https://open.spotify.com/artist/6RZw6Uxm1JgLuI293XA2Y7"
+        },
+        {
+          "name": "Sonia Morales",
+          "url": "https://open.spotify.com/artist/2Ygsf1reW7mIhmiO0X2I0y"
+        },
+        {
+          "name": "Bartola",
+          "url": "https://open.spotify.com/artist/2IGcePH75Tnvk4TDVsQq2A"
+        },
+        {
+          "name": "Christian Yaip\u00e9n",
+          "url": "https://open.spotify.com/artist/68h9Hwsl5HjA62EAPjZ4pw"
+        },
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/1EAJb8brwi1kaoOkIwvrLJ"
+        },
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
         }
       ],
-      "duration_ms": 251026,
-      "name": "Tema del Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj"
+      "duration_ms": 252133,
+      "name": "Cuando Pienses en Volver - Versi\u00f3n Cumbia- Salsa",
+      "url": "https://open.spotify.com/track/7wAVxo1CSjGlxWSXAp53OM"
     },
     {
       "added_at": null,

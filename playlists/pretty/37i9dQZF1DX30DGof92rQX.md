@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Alan Walker, Hamza Malik, Zain Zohaib, James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,511 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,526 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 99 | [stay away](https://open.spotify.com/track/0ZFDZDX4Z67uoMXYRgBUjh) | [Arshman Khan](https://open.spotify.com/artist/7Gg4O0kIXEu2DYgycQrz8x) | [stay away](https://open.spotify.com/album/5XPw4B0NuZh3BbfzEEiXtw) | 3:29 |
 | 100 | [Pablo](https://open.spotify.com/track/1PLT6v3VhugzzLarvG76Ko) | [Hania Aamir](https://open.spotify.com/artist/0Mqyon2f1de1y9AcGbb1Jf) | [Pablo](https://open.spotify.com/album/41WcjlLxGl5uI9J325Ffyz) | 2:06 |
 
-Snapshot ID: `AAAAAEO/jtfrwKAGeSoGRDbuboIOFSP/`
+Snapshot ID: `AAAAAEItWNlxRb6Vb8P869vjqMRx87SP`

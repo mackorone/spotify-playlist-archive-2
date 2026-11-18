@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Hasnaa. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Alshaikh. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -544,6 +544,24 @@
       "duration_ms": 223240,
       "name": "Akhir mra andwi 3lik",
       "url": "https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ"
+    },
+    {
+      "album": {
+        "name": "Al Jannani - \u0627\u0644\u062c\u0646\u0646\u064a",
+        "url": "https://open.spotify.com/album/6kSO4H7WtuGk5jmPFJ5DrK"
+      },
+      "artists": [
+        {
+          "name": "Jafar amin",
+          "url": "https://open.spotify.com/artist/5K2jz523RQaW8D6JpSqNLI"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Al Jannani - \u0627\u0644\u062c\u0646\u0646\u064a",
+      "url": "https://open.spotify.com/track/0CcFczsg4S3X8zliQ6wulw"
     },
     {
       "album": {
@@ -7281,6 +7299,24 @@
     },
     {
       "album": {
+        "name": "RONALDO",
+        "url": "https://open.spotify.com/album/7KSLKF4rd4OQJZu4BxHr5r"
+      },
+      "artists": [
+        {
+          "name": "Alshaikh",
+          "url": "https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168423,
+      "name": "RONALDO",
+      "url": "https://open.spotify.com/track/31MCc2B0eHOCKLjjoiCVE6"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/0QLX3k01xXv49q31TXZqlL"
       },
@@ -8426,7 +8462,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 258000,
       "name": "TESHREEN",
       "url": "https://open.spotify.com/track/2kgaek3dqjuciNFMgSwxde"
@@ -8862,6 +8898,24 @@
       "duration_ms": 91854,
       "name": "waht if_6",
       "url": "https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6"
+    },
+    {
+      "album": {
+        "name": "Wain Sareh",
+        "url": "https://open.spotify.com/album/5gpiNHrwZdrxHpJftCIuAS"
+      },
+      "artists": [
+        {
+          "name": "Kenzy",
+          "url": "https://open.spotify.com/artist/4k4AUw8J0vdCD8k2qKq7rd"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292260,
+      "name": "Wain Sareh",
+      "url": "https://open.spotify.com/track/5AUuSnz0uHQCW4REisiMhJ"
     },
     {
       "album": {
@@ -9516,7 +9570,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 184695,
       "name": "ZI",
       "url": "https://open.spotify.com/track/15B5pkBRRFluY6s34CVBTh"
@@ -10270,7 +10324,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 182450,
       "name": "\u0645\u0627\u0644\u064a \u0648\u0625\u0646 \u0623\u063a\u0645\u0636\u062a \u0639\u064a\u0646\u064a - Mali",
       "url": "https://open.spotify.com/track/19Gu2pNDq4D6C18AEwUWTP"

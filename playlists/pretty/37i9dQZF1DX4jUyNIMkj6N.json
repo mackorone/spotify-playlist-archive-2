@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 226018,
+  "num_followers": 226026,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMHf2fB6FaMWACBsWd0+YjBtRYhR",
+  "snapshot_id": "AAAAAFBgQeFNvAeH8t+pCZrcEbrevD0p",
   "tracks": [
     {
       "added_at": "2026-11-12 23:00:23",
@@ -591,18 +591,18 @@
     {
       "added_at": "2026-11-12 23:00:23",
       "album": {
-        "name": "Lonely Cowboy",
-        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
+        "name": "Deadline",
+        "url": "https://open.spotify.com/album/4CqcV7Ci1YEKqDppaa2SVO"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Simen Mitlid",
+          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
         }
       ],
-      "duration_ms": 203235,
-      "name": "Lonely Cowboy - Radio Edit",
-      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+      "duration_ms": 243000,
+      "name": "Deadline",
+      "url": "https://open.spotify.com/track/1SOM6upNBqbWhkJ0mSiDCI"
     },
     {
       "added_at": "2026-11-12 23:00:23",
@@ -623,18 +623,18 @@
     {
       "added_at": "2026-11-12 23:00:23",
       "album": {
-        "name": "Deadline",
-        "url": "https://open.spotify.com/album/4CqcV7Ci1YEKqDppaa2SVO"
+        "name": "Lonely Cowboy",
+        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
       "artists": [
         {
-          "name": "Simen Mitlid",
-          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Deadline",
-      "url": "https://open.spotify.com/track/1SOM6upNBqbWhkJ0mSiDCI"
+      "duration_ms": 203235,
+      "name": "Lonely Cowboy - Radio Edit",
+      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
     },
     {
       "added_at": "2026-11-12 23:00:23",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-11-12 23:00:23",
       "album": {
-        "name": "Evergreen In Your Mind",
-        "url": "https://open.spotify.com/album/2bwZckPIXlpLmPCrs83RK2"
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
       },
       "artists": [
         {
-          "name": "Juni Habel",
-          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 258783,
-      "name": "I'd Like To See It",
-      "url": "https://open.spotify.com/track/6oiT5eBtHPQc3FeCMTJMzU"
+      "duration_ms": 180364,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
     },
     {
       "added_at": "2026-11-12 23:00:23",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-11-12 23:00:23",
       "album": {
+        "name": "Evergreen In Your Mind",
+        "url": "https://open.spotify.com/album/2bwZckPIXlpLmPCrs83RK2"
+      },
+      "artists": [
+        {
+          "name": "Juni Habel",
+          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
+        }
+      ],
+      "duration_ms": 258783,
+      "name": "I'd Like To See It",
+      "url": "https://open.spotify.com/track/6oiT5eBtHPQc3FeCMTJMzU"
+    },
+    {
+      "added_at": "2026-11-12 23:00:23",
+      "album": {
         "name": "Never Gonna Last",
         "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 234000,
       "name": "Never Gonna Last - Radio Edit",
       "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
-    },
-    {
-      "added_at": "2026-11-12 23:00:23",
-      "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 180364,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
     },
     {
       "added_at": "2026-11-12 23:00:23",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-11-12 23:00:23",
       "album": {
-        "name": "GUTWORK",
-        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+        "name": "A Dangerous Thing",
+        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
       },
       "artists": [
         {
-          "name": "Winnie Raeder",
-          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Nights Like These",
-      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
     },
     {
       "added_at": "2026-11-12 23:00:23",
@@ -783,34 +783,18 @@
     {
       "added_at": "2026-11-12 23:00:23",
       "album": {
-        "name": "A Dangerous Thing",
-        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
+        "name": "GUTWORK",
+        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
         }
       ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
-    },
-    {
-      "added_at": "2026-11-12 23:00:23",
-      "album": {
-        "name": "The Man Who Lost it All",
-        "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 199712,
-      "name": "The Man Who Lost it All",
-      "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
+      "duration_ms": 203373,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
     },
     {
       "added_at": "2026-11-12 23:00:23",
@@ -831,18 +815,18 @@
     {
       "added_at": "2026-11-12 23:00:23",
       "album": {
-        "name": "A Chosen Family",
-        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
+        "name": "The Man Who Lost it All",
+        "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
         }
       ],
-      "duration_ms": 235392,
-      "name": "I Let the Good Ones Go",
-      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
+      "duration_ms": 199712,
+      "name": "The Man Who Lost it All",
+      "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
     },
     {
       "added_at": "2026-11-12 23:00:23",
@@ -859,6 +843,22 @@
       "duration_ms": 133613,
       "name": "forever, for a while",
       "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
+    },
+    {
+      "added_at": "2026-11-12 23:00:23",
+      "album": {
+        "name": "A Chosen Family",
+        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 235392,
+      "name": "I Let the Good Ones Go",
+      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
     },
     {
       "added_at": "2026-11-12 23:00:23",

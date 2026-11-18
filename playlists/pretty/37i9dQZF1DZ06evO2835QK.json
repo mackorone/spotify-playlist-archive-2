@@ -1,12 +1,12 @@
 {
   "description": "This is Cleo Sol. The essential tracks, all in one playlist.",
-  "num_followers": 47008,
+  "num_followers": 47022,
   "original_name": "This Is Cleo Sol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAAA6iJpj0nw1t1FBi69ubXZ6",
+  "snapshot_id": "avpHgAAAAADcP12gXt+71EAA4SUAlFHh",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 256424,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/2vvrIcVEnafeo0EeqoUdsz"
+      "duration_ms": 162767,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 162767,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b"
+      "duration_ms": 256424,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/2vvrIcVEnafeo0EeqoUdsz"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
       "duration_ms": 226810,
       "name": "Rose in the Dark",
       "url": "https://open.spotify.com/track/1x6MXwyxf4R0V0Cdy4MnYl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 207239,
+      "name": "Golden Child (Jealous)",
+      "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 207239,
-      "name": "Golden Child (Jealous)",
-      "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Winter Songs",
         "url": "https://open.spotify.com/album/11LdEagZ3xjPLIceUEIHRq"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Try and You Try",
-        "url": "https://open.spotify.com/album/6j2kbJ5izF0jN0z5fVOWKY"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 298141,
-      "name": "Try and You Try",
-      "url": "https://open.spotify.com/track/1rL0CJe38sZ9fQCe6n4xUq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 240277,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Try and You Try",
+        "url": "https://open.spotify.com/album/6j2kbJ5izF0jN0z5fVOWKY"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 298141,
+      "name": "Try and You Try",
+      "url": "https://open.spotify.com/track/1rL0CJe38sZ9fQCe6n4xUq"
     },
     {
       "added_at": null,

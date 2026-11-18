@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Mauvais djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045,736 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045,774 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [NZELA](https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [NZELA](https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s) | 3:11 |
 | 50 | [Dorotine](https://open.spotify.com/track/2jwkkiu6kaTLmVFUWeHnQt) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [Dorotine](https://open.spotify.com/album/5hRojhRgszzrarX6HIFfoP) | 2:28 |
 
-Snapshot ID: `AAAAAEKFTsvV+dac8Sb5Zsqq9U/dcTbT`
+Snapshot ID: `AAAAABpvlJjrza++wcy++EYC6WHQ2PX2`

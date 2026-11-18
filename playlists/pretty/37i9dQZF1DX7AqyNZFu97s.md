@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Amahla
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,899 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,904 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 49 | [animal](https://open.spotify.com/track/7Bc1B6UheBQpCaO5HfIdfe) | [Josie Oliver](https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan) | [animal](https://open.spotify.com/album/39JZEVlJ6VQKs2YQSsRHR1) | 3:00 |
 | 50 | [Love You Better](https://open.spotify.com/track/0OAZvY29RSoHwzfUuSHrvv) | [pyncher](https://open.spotify.com/artist/66NBYDmR4OTIL8AuMvKTK7), [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love You Better](https://open.spotify.com/album/0wnJblklxv7hIgSNpYyS5f) | 3:20 |
 
-Snapshot ID: `AAAAANO6ur2rVUqXDJXBsE8zyRungyEJ`
+Snapshot ID: `AAAAAFf3qDppTENYhaWF/a4/TmiYFVxf`

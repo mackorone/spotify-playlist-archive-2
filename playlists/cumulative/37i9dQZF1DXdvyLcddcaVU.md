@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,256 songs - 2 day 16 hr 52 min
+1,257 songs - 2 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-21 | 2023-11-11 |
 | [DE AQUI PA YA](https://open.spotify.com/track/1CZMFyxYnAnIHD3nwLP95E) | [The Plug](https://open.spotify.com/artist/5r3fI2q1YU3QyVP7oncOQ9), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [DE AQUI PA YA](https://open.spotify.com/album/5Qvw5IWMbqBVH7WgGFewa2) | 2:44 | 2023-10-06 | 2023-12-15 |
 | [De L'or](https://open.spotify.com/track/4qPG283BKeRxtbkUhkd3Ym) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [De L'or](https://open.spotify.com/album/6GzEyBteKPGAUhAqWaVk5i) | 2:34 | 2024-09-13 | 2024-11-16 |
+| [Dedans](https://open.spotify.com/track/76afFB8dlUYFhW1INRfi01) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [FAST LIFE](https://open.spotify.com/album/6veJjIj238yfsTg137hv4C) | 2:53 | 2026-11-17 |  |
 | [Deliciosa](https://open.spotify.com/track/17QCWlVhlMWt5VVwale5nS) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Deliciosa](https://open.spotify.com/album/2yQEjpmi32nlH7DLUl62cd) | 2:45 | 2026-09-24 |  |
 | [Demain \(Sped up version\)](https://open.spotify.com/track/1H4LfB2sUsoJ1x0zfGBcXU) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Biggie\-Jo](https://open.spotify.com/artist/5D7sERhp1Zl3fZ31tWbLc7) | [Demain \(Sped up version\)](https://open.spotify.com/album/0N5BM7gNz7AMbG2yZhHIPP) | 2:52 | 2023-08-18 | 2023-12-15 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-01-17 | 2025-02-22 |
@@ -812,7 +813,7 @@
 | [Nena Moxita](https://open.spotify.com/track/7gG2xMiojQrsTUGa7qeQoo) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 3:37 | 2024-12-13 | 2025-02-15 |
 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 3:54 | 2024-01-12 | 2024-03-30 |
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-01-12 | 2024-05-04 |
-| [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-10-01 |  |
+| [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-10-01 | 2026-11-18 |
 | [Nikki](https://open.spotify.com/track/5yWthlFYMiTdL5l80OpqV1) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [TONIGHT](https://open.spotify.com/album/1OTfJFoGv5Rl6O67eiN6M0) | 2:41 | 2026-11-12 |  |
 | [NINA](https://open.spotify.com/track/5CLE8nqBC2HLuFqLjoFzYw) | [BOBYTO](https://open.spotify.com/artist/1dO89yKJPu6QSrAZzDQrbb) | [NINA](https://open.spotify.com/album/2AZb9w8mOIBFdjyNnTbPKp) | 2:48 | 2023-03-24 | 2023-10-02 |
 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 | 2025-03-07 | 2025-05-23 |

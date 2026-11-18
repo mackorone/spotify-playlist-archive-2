@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of soul & jazz.
 
-410 songs - 1 day 2 hr 6 min
+411 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Package Delivered by Tomorrow](https://open.spotify.com/track/0x5CkJPcSu3uTQe0g1JnJW) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [Package Delivered by Tomorrow](https://open.spotify.com/album/45LOYek1e737i64Bq8LipC) | 3:48 | 2025-07-04 |  |
 | [Paradox](https://open.spotify.com/track/6XSQwisZPSsvumchd6u56q) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Paradox](https://open.spotify.com/album/5mbJr9jfnfqPN8Vf9OKsIY) | 2:37 | 2022-02-22 | 2024-06-29 |
 | [Paris, Texas](https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Now, You Know](https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR) | 3:03 | 2022-09-30 | 2025-02-11 |
+| [patience](https://open.spotify.com/track/1xolmS4DY3KOe4sGmqhmST) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [sleeping with the lights on \(the first nights\)](https://open.spotify.com/album/4mqA0shfAULmUa8Lnnt5dC) | 2:15 | 2026-11-17 |  |
 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 | 2025-04-08 | 2026-05-27 |
 | [Perspective](https://open.spotify.com/track/5mc98yTbpJAwgpCGRRlB0l) | [Sy Smith](https://open.spotify.com/artist/4vGS9mc7YHh5Mpfd51X8MF) | [Sometimes a Rose Will Grow in Concrete](https://open.spotify.com/album/3chmdwfbZAG2YxZTtoTv6f) | 4:07 | 2021-12-13 | 2022-10-01 |
 | [Pineapple](https://open.spotify.com/track/40TMWT4FHQKrbb6NgfWAJ5) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Pineapple](https://open.spotify.com/album/3mNHIoFeYbiEHNnMjrcRQF) | 3:16 | 2021-12-13 | 2022-10-31 |
@@ -301,7 +302,7 @@
 | [Shaquille Sama](https://open.spotify.com/track/5lBSxxvADqvpKTvbCi8ETo) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [ORCHIDEA](https://open.spotify.com/album/1x2TVjnEoSS2TBZdH2E0Bo) | 3:20 | 2022-06-16 | 2025-01-11 |
 | [Shine On Me](https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Shine On Me](https://open.spotify.com/album/4AhjruKGfgNYnmPVzl1SRa) | 3:34 | 2025-04-04 |  |
 | [SHOULD'VE BEEN YOU](https://open.spotify.com/track/6XbfAA4NymHlQ52zeMitGK) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Tallulah Rose](https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ) | [SHOULD'VE BEEN YOU](https://open.spotify.com/album/3dlAyZb5RjxYAirDWSREwW) | 3:14 | 2023-12-01 | 2025-05-23 |
-| [Show Me Your Love](https://open.spotify.com/track/378Q2WXtvtDmb7oprRr4ag) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Big People Music](https://open.spotify.com/album/3MjerRn7EY92nuRtsNHtVf) | 2:31 | 2025-05-19 |  |
+| [Show Me Your Love](https://open.spotify.com/track/378Q2WXtvtDmb7oprRr4ag) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Big People Music](https://open.spotify.com/album/3MjerRn7EY92nuRtsNHtVf) | 2:31 | 2025-05-19 | 2026-11-18 |
 | [Side by Side](https://open.spotify.com/track/032JVeAfSSc7XK3bTZqK0z) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Side by Side](https://open.spotify.com/album/5ckS8CEIF5eye3dcnfbd4Y) | 2:23 | 2021-12-13 | 2024-02-24 |
 | [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-12-13 | 2022-06-17 |
 | [Silver Tongue](https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Silver Tongue](https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS) | 4:22 | 2025-02-10 | 2026-01-15 |

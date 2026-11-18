@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 169263,
       "name": "Awesome Things",
       "url": "https://open.spotify.com/track/17FiSdQ9GISHOhnVOkdTxZ"
@@ -5324,6 +5324,28 @@
       "duration_ms": 192031,
       "name": "f.u.",
       "url": "https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu"
+    },
+    {
+      "album": {
+        "name": "Fa ye Ope le",
+        "url": "https://open.spotify.com/album/5wML2aVhLdxJB3hOsgzZ7a"
+      },
+      "artists": [
+        {
+          "name": "Rii",
+          "url": "https://open.spotify.com/artist/7qUIE0IFXYbRganFGgTvzT"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186792,
+      "name": "Fa ye Ope le",
+      "url": "https://open.spotify.com/track/3S1KdfyONSHDNkr4maEg2a"
     },
     {
       "album": {

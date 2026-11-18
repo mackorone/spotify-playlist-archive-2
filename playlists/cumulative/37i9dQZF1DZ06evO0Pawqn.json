@@ -497,6 +497,28 @@
     },
     {
       "album": {
+        "name": "De La Tierra Al Cielo (feat. Los Tiranos del Norte)",
+        "url": "https://open.spotify.com/album/0ErjSiMLtu4psX8opMrKr4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        },
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157559,
+      "name": "De La Tierra Al Cielo (feat. Los Tiranos del Norte)",
+      "url": "https://open.spotify.com/track/1pW70YKjBvnMeDASziXU0m"
+    },
+    {
+      "album": {
         "name": "30 Exitos",
         "url": "https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9"
       },
@@ -876,7 +898,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 209000,
       "name": "Hasta La Miel Amarga",
       "url": "https://open.spotify.com/track/4NFMdFJa9j2hWlzrnQqtGF"

@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n. Pehuenche, Renee Mooi en portada. ",
-  "num_followers": 626034,
+  "num_followers": 626008,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGafFVb8l7nROEZUdS3nme5zhMWY",
+  "snapshot_id": "AAAAAPDbRx1sKAI807hzlHzXZ4f0qegN",
   "tracks": [
     {
       "added_at": "2026-11-06 06:00:06",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
-        "name": "Exoplanetas",
-        "url": "https://open.spotify.com/album/3kNJ7FXRkaqXI6xuwmLQBx"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        }
-      ],
-      "duration_ms": 246251,
-      "name": "Exoplanetas",
-      "url": "https://open.spotify.com/track/4EWQrvtnn6a5GfqHTF6rnU"
-    },
-    {
-      "added_at": "2026-11-06 06:00:06",
-      "album": {
         "name": "Duerme En Paz",
         "url": "https://open.spotify.com/album/63RkToY6nto4dKQDxqgMrG"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 184760,
       "name": "Duerme En Paz",
       "url": "https://open.spotify.com/track/7cWBIjCBlHSC8q6OND9GUz"
+    },
+    {
+      "added_at": "2026-11-06 06:00:06",
+      "album": {
+        "name": "Exoplanetas",
+        "url": "https://open.spotify.com/album/3kNJ7FXRkaqXI6xuwmLQBx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "duration_ms": 246251,
+      "name": "Exoplanetas",
+      "url": "https://open.spotify.com/track/4EWQrvtnn6a5GfqHTF6rnU"
     },
     {
       "added_at": "2026-11-06 06:00:06",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/7kIG2qcC1fEiIi4bOjF3qE"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "duration_ms": 226018,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/47yunkbH5ZSaT7zcRX2UZX"
+    },
+    {
+      "added_at": "2026-11-06 06:00:06",
+      "album": {
         "name": "Otros Colores",
         "url": "https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
-    },
-    {
-      "added_at": "2026-11-06 06:00:06",
-      "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/7kIG2qcC1fEiIi4bOjF3qE"
-      },
-      "artists": [
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        }
-      ],
-      "duration_ms": 226018,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/47yunkbH5ZSaT7zcRX2UZX"
     },
     {
       "added_at": "2026-11-06 06:00:06",

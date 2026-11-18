@@ -1,6 +1,6 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 601774,
+  "num_followers": 601858,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,38 @@
     {
       "added_at": "2026-11-13 00:02:14",
       "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2026-11-13 00:02:14",
+      "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/2j1BVbjLs3HSsRGN1LpihP"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Omo Ologo",
+      "url": "https://open.spotify.com/track/5UziHRcYKB8foeAnfqy8sC"
+    },
+    {
+      "added_at": "2026-11-13 00:02:14",
+      "album": {
         "name": "SOUTH GIDI",
         "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
       },
@@ -371,38 +403,6 @@
       "duration_ms": 375535,
       "name": "MONEY CONSTANT",
       "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
-    },
-    {
-      "added_at": "2026-11-13 00:02:14",
-      "album": {
-        "name": "Omo Ologo",
-        "url": "https://open.spotify.com/album/2j1BVbjLs3HSsRGN1LpihP"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Omo Ologo",
-      "url": "https://open.spotify.com/track/5UziHRcYKB8foeAnfqy8sC"
-    },
-    {
-      "added_at": "2026-11-13 00:02:14",
-      "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-11-13 00:02:14",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-11-13 00:02:14",
       "album": {
+        "name": "Loketo",
+        "url": "https://open.spotify.com/album/7FoN3QRhA0hjIxEIXGGi5w"
+      },
+      "artists": [
+        {
+          "name": "MIK",
+          "url": "https://open.spotify.com/artist/5iZb1gFGW7uP1NDHXJ7ZTG"
+        }
+      ],
+      "duration_ms": 187943,
+      "name": "Loketo",
+      "url": "https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh"
+    },
+    {
+      "added_at": "2026-11-13 00:02:14",
+      "album": {
         "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
         "url": "https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 390873,
       "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
       "url": "https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS"
-    },
-    {
-      "added_at": "2026-11-13 00:02:14",
-      "album": {
-        "name": "Loketo",
-        "url": "https://open.spotify.com/album/7FoN3QRhA0hjIxEIXGGi5w"
-      },
-      "artists": [
-        {
-          "name": "MIK",
-          "url": "https://open.spotify.com/artist/5iZb1gFGW7uP1NDHXJ7ZTG"
-        }
-      ],
-      "duration_ms": 187943,
-      "name": "Loketo",
-      "url": "https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh"
     },
     {
       "added_at": "2026-11-13 00:02:14",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-11-13 00:02:14",
       "album": {
-        "name": "NOMADINHO: 4TH PRIME",
-        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "CA$H OUT",
-      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
-    },
-    {
-      "added_at": "2026-11-13 00:02:14",
-      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2026-11-13 00:02:14",
       "album": {
+        "name": "NOMADINHO: 4TH PRIME",
+        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "CA$H OUT",
+      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
+    },
+    {
+      "added_at": "2026-11-13 00:02:14",
+      "album": {
         "name": "Site 15",
         "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
-    },
-    {
-      "added_at": "2026-11-13 00:02:14",
-      "album": {
-        "name": "ZUKO!",
-        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 171436,
-      "name": "GODDESS",
-      "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
     },
     {
       "added_at": "2026-11-13 00:02:14",
@@ -971,18 +951,22 @@
     {
       "added_at": "2026-11-13 00:02:14",
       "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
       },
       "artists": [
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 116410,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
+      "duration_ms": 171436,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
     },
     {
       "added_at": "2026-11-13 00:02:14",
@@ -999,6 +983,22 @@
       "duration_ms": 204159,
       "name": "Laye Mi",
       "url": "https://open.spotify.com/track/28NElMiahjGMfcE1G8Y6TG"
+    },
+    {
+      "added_at": "2026-11-13 00:02:14",
+      "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 116410,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
     },
     {
       "added_at": "2026-11-13 00:02:14",

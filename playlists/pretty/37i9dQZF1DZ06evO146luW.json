@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 53802,
+  "num_followers": 53799,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAAC3RleRBLvUY+289NLFwxND",
+  "snapshot_id": "avpHgAAAAABgmlkjalK+koYDs6cTzECu",
   "tracks": [
     {
       "added_at": null,
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+        "name": "The Six String Sorrow Sessions",
+        "url": "https://open.spotify.com/album/1az69IUJwlDGbVdpmrFaAN"
       },
       "artists": [
+        {
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 232326,
-      "name": "Sundy or Mundy",
-      "url": "https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN"
+      "duration_ms": 288128,
+      "name": "Gunshy (Re-recorded)",
+      "url": "https://open.spotify.com/track/2rbme7pc6goqI4wMcqIJEY"
     },
     {
       "added_at": null,
@@ -831,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Six String Sorrow Sessions",
-        "url": "https://open.spotify.com/album/1az69IUJwlDGbVdpmrFaAN"
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
       "artists": [
-        {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 288128,
-      "name": "Gunshy (Re-recorded)",
-      "url": "https://open.spotify.com/track/2rbme7pc6goqI4wMcqIJEY"
+      "duration_ms": 232326,
+      "name": "Sundy or Mundy",
+      "url": "https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN"
     }
   ],
   "unique_name": "This Is Koe Wetzel",

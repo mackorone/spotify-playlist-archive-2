@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks van Dopebwoy, Cor & Lijpe, Rits en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,456 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,398 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Voor Het Eerst](https://open.spotify.com/track/27xG981cofM82r8BEdmxgf) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Voor Het Eerst](https://open.spotify.com/album/6qG6LyFEHQ20nA75IxTft9) | 3:11 |
 | 60 | [Droom Soms](https://open.spotify.com/track/1mp44FAkM8LBrQGwsUUgqu) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Rode Kaart](https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54) | 2:57 |
 
-Snapshot ID: `AAAAACBCyPgZEh34rEq9EwKLZh7EVazv`
+Snapshot ID: `AAAAAMOX4OkRdUDSj+MPoSfU+GH1RhOj`

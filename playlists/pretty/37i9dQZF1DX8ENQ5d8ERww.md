@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Playlist Takeover by Bligg!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,836 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,838 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Volksmusigg](https://open.spotify.com/track/02KgHICcDaWxVJSPUZJRFx) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Yves Spink](https://open.spotify.com/album/3S7Qw0xES3XbcAXRZRfWRo) | 3:26 |
 | 2 | [Stärne](https://open.spotify.com/track/38yEl7W2oSadApIpDIwSKX) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Jede Tag Superstar](https://open.spotify.com/album/2CMJp148PeeikwZvkCu1q5) | 4:02 |
-| 3 | [I han](https://open.spotify.com/track/4WNltXQt68fQVJnCuzfsz1) | [Sektion Kuchikäschtli](https://open.spotify.com/artist/4KURgfv2oCG5QwwyWENs2C) | [Nur So Am Rand \(Remastered\)](https://open.spotify.com/album/4rCvshzK56R0wQTK39Nrd8) | 3:28 |
-| 4 | [Noochbrand](https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd) | [Brandhärd](https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4) | [Noochbrand](https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25) | 4:09 |
+| 3 | [Noochbrand](https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd) | [Brandhärd](https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4) | [Noochbrand](https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25) | 4:09 |
+| 4 | [I han](https://open.spotify.com/track/4WNltXQt68fQVJnCuzfsz1) | [Sektion Kuchikäschtli](https://open.spotify.com/artist/4KURgfv2oCG5QwwyWENs2C) | [Nur So Am Rand \(Remastered\)](https://open.spotify.com/album/4rCvshzK56R0wQTK39Nrd8) | 3:28 |
 | 5 | [Für 1 hets Immer no glangt](https://open.spotify.com/track/7hb9E5NNeqkr60r8QxtrlR) | [Breitbild](https://open.spotify.com/artist/07h2T3RrXQzYW5YpQnXd8U) | [Legenda](https://open.spotify.com/album/6eBJisPt7283GEfYj8hKFL) | 3:43 |
 | 6 | [I de Schwiiz](https://open.spotify.com/track/0HG4ApJ5c6xTjNwIoG5rpm) | [Skor](https://open.spotify.com/artist/5f9SQX0dJ18VjczJgWobNt) | [Und Nachteil](https://open.spotify.com/album/1yj7QUrcOSpHhig4K5195M) | 5:37 |
 | 7 | [Häng id Luft](https://open.spotify.com/track/3tbOiz88LovKjZqipeXuAW) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Jugendsündä](https://open.spotify.com/album/4q5YmayzH2WlOJnMd1U7kj) | 3:34 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 34 | [Du Hesch Ke](https://open.spotify.com/track/6AxLcMZFBLbBd5Hqvp7zdt) | [Webba](https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Deheim?](https://open.spotify.com/album/3TTzTj4qNDBe5FpnsLyjzZ) | 4:32 |
 | 35 | [Wänn](https://open.spotify.com/track/7G8YSQkUa5BOH1EDUVcPZ3) | [Bligg'N'Lexx](https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK) | [Nahdisnah](https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4) | 3:27 |
 | 36 | [Jede Tag'n Gleiser](https://open.spotify.com/track/6fJJDogk53KAtqzeeoVhps) | [Gleiszwei](https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr) | [Jede Tag'n Gleiser](https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa) | 4:22 |
-| 37 | [Hip Hop Kultur \(feat\. Black Tiger & Skelt!\)](https://open.spotify.com/track/1FuozMI3cN9K7eZUoaYl5a) | [AOH Family](https://open.spotify.com/artist/6J8clSIX1gKyknptGxlAct), [Black Tiger](https://open.spotify.com/artist/4okygcKGLIMASoQNIldJWZ), [Skelt!](https://open.spotify.com/artist/72mwhpTF4TBBZo0erVXELM) | [Chill](https://open.spotify.com/album/2f5D1RmL2eg6iWFZPjPBxF) | 4:08 |
-| 38 | [Brugg](https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww) | [Taz](https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS) | [Introspektion](https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO) | 4:11 |
+| 37 | [Brugg](https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww) | [Taz](https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS) | [Introspektion](https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO) | 4:11 |
+| 38 | [Hip Hop Kultur \(feat\. Black Tiger & Skelt!\)](https://open.spotify.com/track/1FuozMI3cN9K7eZUoaYl5a) | [AOH Family](https://open.spotify.com/artist/6J8clSIX1gKyknptGxlAct), [Black Tiger](https://open.spotify.com/artist/4okygcKGLIMASoQNIldJWZ), [Skelt!](https://open.spotify.com/artist/72mwhpTF4TBBZo0erVXELM) | [Chill](https://open.spotify.com/album/2f5D1RmL2eg6iWFZPjPBxF) | 4:08 |
 | 39 | [Läbenslauf](https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN) | [Wrecked Mob](https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3), [Dj Thomilla](https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx) | [Läbenslauf](https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh) | 4:02 |
 | 40 | [Du & Ich](https://open.spotify.com/track/5jAylcCbJaBKmRHgRUTxQC) | [Bligg'N'Lexx](https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK), [Pete Penicka](https://open.spotify.com/artist/2isO7oz1eaYNOlFJCUbWSN) | [Nahdisnah](https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4) | 5:09 |
 | 41 | [Geballte Hip Hop](https://open.spotify.com/track/6LqQztJDvD5ogdiAaC7bGr) | [P\-27](https://open.spotify.com/artist/0iZYuDnS5bC4TkPV6qjfwZ), [MC Rony](https://open.spotify.com/artist/56Kjn0hNGTllLfRC0YHqrq) | [Dr einzig Wäg](https://open.spotify.com/album/6WMbMSXyaowPhQV5sXXAhE) | 3:50 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 48 | [Beetown Dezibel \(feat\. LDeeP & Samurai\)](https://open.spotify.com/track/0ks6XbF8wiecG88jT4F1Oe) | [Kaiser](https://open.spotify.com/artist/7JbiFOh0wYpYJVfDX01rhC), [LDeep](https://open.spotify.com/artist/2Le7dOaOuETzbshaap0s5S), [Samurai](https://open.spotify.com/artist/2WnTVg6V0OWYGjomR0xugm) | [Beetown Beetz, Vol\. 1](https://open.spotify.com/album/5jtnTxD9F5VAESPajW3hGs) | 4:12 |
 | 49 | [En Teil vo mir](https://open.spotify.com/track/1ok24DhWBTymmV6yKtjqrp) | [Drüklang](https://open.spotify.com/artist/0YKRAbXe2J0esSXB4c6xbh) | [Z'fridä](https://open.spotify.com/album/1VRqmJrU4iZfSDjZWo5seU) | 4:10 |
 
-Snapshot ID: `AAAAAMhhl0nitA1cMuCv/ymHcerG/uT3`
+Snapshot ID: `AAAAALjInw4iFioWh4Vg9BdJwC/uqAG2`

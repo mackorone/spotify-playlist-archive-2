@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIkEzM4IDf/3HrItFxAJfNO6+W1+",
+  "snapshot_id": "AAAAAChXGAdRam/F16I/vxsm1tfQaPvH",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:42",
@@ -207,22 +207,18 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Movie Of The Week",
-        "url": "https://open.spotify.com/album/7wNQC2MXYcehArLMjdFzZ2"
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/4Cd7jyOiC8S18NwUBEGRbe"
+      "duration_ms": 278213,
+      "name": "Oneida",
+      "url": "https://open.spotify.com/track/5dUCixiCL0CcIUdlgUl1ct"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -243,18 +239,22 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+        "name": "Movie Of The Week",
+        "url": "https://open.spotify.com/album/7wNQC2MXYcehArLMjdFzZ2"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 278213,
-      "name": "Oneida",
-      "url": "https://open.spotify.com/track/5dUCixiCL0CcIUdlgUl1ct"
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/4Cd7jyOiC8S18NwUBEGRbe"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Low Estate",
-        "url": "https://open.spotify.com/album/5uoiYvMMws1vvpUUXXF2RM"
-      },
-      "artists": [
-        {
-          "name": "16 Horsepower",
-          "url": "https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3"
-        }
-      ],
-      "duration_ms": 268960,
-      "name": "Brimstone Rock",
-      "url": "https://open.spotify.com/track/1nzQhAyJBeWmR75nGcrbKG"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 183626,
       "name": "Keep the Home Fires Burnin'",
       "url": "https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Low Estate",
+        "url": "https://open.spotify.com/album/5uoiYvMMws1vvpUUXXF2RM"
+      },
+      "artists": [
+        {
+          "name": "16 Horsepower",
+          "url": "https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3"
+        }
+      ],
+      "duration_ms": 268960,
+      "name": "Brimstone Rock",
+      "url": "https://open.spotify.com/track/1nzQhAyJBeWmR75nGcrbKG"
     },
     {
       "added_at": "2026-06-19 04:01:42",

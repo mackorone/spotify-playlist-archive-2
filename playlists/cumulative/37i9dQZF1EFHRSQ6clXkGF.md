@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-401 songs - 1 day 2 hr 51 min
+402 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Got 'Til It's Gone](https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 4:01 | 2024-01-29 |  |
 | [Hana](https://open.spotify.com/track/1zpzAgFYCO5U5GWbIYoXcj) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/49LmTpAbIQKfDhNmmtCaD9) | 3:42 | 2024-03-27 | 2024-03-29 |
 | [Hana](https://open.spotify.com/track/6RLZbip8302BFwcrqatVON) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 3:43 | 2024-03-28 |  |
+| [Happiness Is The Best Face\-Lift \- Live 1995](https://open.spotify.com/track/4MLUuD06wcAh7qhY7nbeaf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Stars To Read \(Live 1995\)](https://open.spotify.com/album/3XHz5ghlwpJnDWcmdWztuX) | 4:18 | 2026-11-17 |  |
 | [Harlem in Havana](https://open.spotify.com/track/6pfkGtQL3TmOeEyuTi99r6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:27 | 2024-03-21 | 2026-11-12 |
 | [Harlem in Havana \- 2025 Remaster](https://open.spotify.com/track/5AAlHnj3nm9CooyWE0u5er) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni's Jazz](https://open.spotify.com/album/6lhaz5gTp1D1WQieSYmJqH) | 4:26 | 2026-11-11 |  |
 | [Harry's House / Centerpiece](https://open.spotify.com/track/0tYcKClZd7Ks2B2sCscSmI) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 6:48 | 2024-03-21 | 2026-11-12 |

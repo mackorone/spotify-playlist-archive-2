@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 494263,
+  "num_followers": 494328,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP83DJ9nkCa0OAfyPolVrzs26DLm",
+  "snapshot_id": "AAAAAADk6A66RgKyxhKErtdZ5Y9Absxi",
   "tracks": [
     {
       "added_at": "2026-04-10 17:18:15",
@@ -175,22 +175,18 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "\u00c9 Ele",
-        "url": "https://open.spotify.com/album/7KlZpsjIMUEPApVyY7RC1h"
+        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
       },
       "artists": [
         {
-          "name": "Drops INA",
-          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
-        },
-        {
-          "name": "Paulo Vicente",
-          "url": "https://open.spotify.com/artist/1kKEkCw8fhGuPOWI2JYDFO"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         }
       ],
-      "duration_ms": 495857,
-      "name": "\u00c9 Ele",
-      "url": "https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13"
+      "duration_ms": 303346,
+      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -215,18 +211,22 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
+        "name": "\u00c9 Ele",
+        "url": "https://open.spotify.com/album/7KlZpsjIMUEPApVyY7RC1h"
       },
       "artists": [
         {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+          "name": "Drops INA",
+          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
+        },
+        {
+          "name": "Paulo Vicente",
+          "url": "https://open.spotify.com/artist/1kKEkCw8fhGuPOWI2JYDFO"
         }
       ],
-      "duration_ms": 303346,
-      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
+      "duration_ms": 495857,
+      "name": "\u00c9 Ele",
+      "url": "https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Tu \u00e9s Poderoso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 629133,
-      "name": "Tu \u00e9s Poderoso - Ao vivo",
-      "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "Peregrino (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
       },
@@ -1011,6 +991,26 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
+        "name": "Tu \u00e9s Poderoso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 629133,
+      "name": "Tu \u00e9s Poderoso - Ao vivo",
+      "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
         "name": "Eu Te Ouvi (Ao Vivo)",
         "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
       },
@@ -1027,22 +1027,6 @@
       "duration_ms": 243368,
       "name": "Eu Te Ouvi - Ao Vivo",
       "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
-        "name": "Diz",
-        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
+        "name": "Diz",
+        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
       },
       "artists": [
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 390933,
-      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
+      "duration_ms": 275306,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1143,6 +1127,22 @@
       "duration_ms": 347434,
       "name": "Deus Vai Chegar Primeiro - Ao Vivo",
       "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 390933,
+      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Verdadeira Adora\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Lima",
-          "url": "https://open.spotify.com/artist/3gLt37xxZ7gMhLeoymcJeW"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 367167,
-      "name": "Verdadeira Adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NiC5J44xmSx5khpYTs0pE"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "Faz o Seguinte (Ao Vivo)",
         "url": "https://open.spotify.com/album/2EDQkjEWhMF5MtSepwrVn3"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 270592,
       "name": "Faz o Seguinte (Ao Vivo)",
       "url": "https://open.spotify.com/track/4yKfoW3MnsYGV8E5GWy2WB"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Verdadeira Adora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Lima",
+          "url": "https://open.spotify.com/artist/3gLt37xxZ7gMhLeoymcJeW"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 367167,
+      "name": "Verdadeira Adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NiC5J44xmSx5khpYTs0pE"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Poderoso Deus (Medley)",
-        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 455597,
-      "name": "Poderoso Deus (Medley) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "O Senhor, n\u00e3o os \u00eddolos",
         "url": "https://open.spotify.com/album/2jiddHehRwoWtUslQKz1uk"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 618060,
       "name": "O Senhor, n\u00e3o os \u00eddolos",
       "url": "https://open.spotify.com/track/7DXHg3FLT2UKTOr6EuluZB"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Poderoso Deus (Medley)",
+        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 455597,
+      "name": "Poderoso Deus (Medley) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Quem \u00e9 Como Nosso Deus?",
-        "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 489116,
-      "name": "Quem \u00e9 Como Nosso Deus? - Ao Vivo",
-      "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "\u00c9 Sobre Ele (Ao Vivo)",
         "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 354250,
       "name": "A Melhor Parte - Ao Vivo",
       "url": "https://open.spotify.com/track/4eEVADJvhubm7mSCAt9jz2"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Quem \u00e9 Como Nosso Deus?",
+        "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 489116,
+      "name": "Quem \u00e9 Como Nosso Deus? - Ao Vivo",
+      "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Si\u00e3o / Derrama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 508733,
-      "name": "Si\u00e3o / Derrama - Ao Vivo",
-      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "Me Aceita de Volta",
         "url": "https://open.spotify.com/album/40g7pZn4kFW3zyk7tQNWRs"
       },
@@ -1527,22 +1507,6 @@
       "duration_ms": 229947,
       "name": "Me Aceita de Volta",
       "url": "https://open.spotify.com/track/0rJAQc6vA1BSZmjvRk3B1W"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
-        "name": "Vou Seguir",
-        "url": "https://open.spotify.com/album/7MKPG8Puatu6YPUCYwUKBy"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 288022,
-      "name": "Vou Seguir",
-      "url": "https://open.spotify.com/track/7HQ4iOLhrrTAna6RuciH5E"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1595,6 +1559,26 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
+        "name": "Si\u00e3o / Derrama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 508733,
+      "name": "Si\u00e3o / Derrama - Ao Vivo",
+      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
         "name": "Rei e Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/69OtcCjBnzz8ZHp7q1KQ8v"
       },
@@ -1615,22 +1599,18 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Doce Voz",
-        "url": "https://open.spotify.com/album/7kStmovEGTihQ1Wgndtj2h"
+        "name": "Vou Seguir",
+        "url": "https://open.spotify.com/album/7MKPG8Puatu6YPUCYwUKBy"
       },
       "artists": [
         {
-          "name": "Samuel Dias",
-          "url": "https://open.spotify.com/artist/0hJ3Y7nOHR6ibLnMABe3TK"
-        },
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 278507,
-      "name": "Doce Voz",
-      "url": "https://open.spotify.com/track/7LL1Lw9Aqih55x7ur1D3JU"
+      "duration_ms": 288022,
+      "name": "Vou Seguir",
+      "url": "https://open.spotify.com/track/7HQ4iOLhrrTAna6RuciH5E"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1655,18 +1635,22 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "\u00c9s o Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
+        "name": "Doce Voz",
+        "url": "https://open.spotify.com/album/7kStmovEGTihQ1Wgndtj2h"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Samuel Dias",
+          "url": "https://open.spotify.com/artist/0hJ3Y7nOHR6ibLnMABe3TK"
+        },
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
         }
       ],
-      "duration_ms": 403538,
-      "name": "\u00c9s o Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+      "duration_ms": 278507,
+      "name": "Doce Voz",
+      "url": "https://open.spotify.com/track/7LL1Lw9Aqih55x7ur1D3JU"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1711,26 +1695,18 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Grato Sou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/35PDmPnl0pVw7oW8FEmaNv"
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
       },
       "artists": [
         {
-          "name": "O Canto das Igrejas",
-          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
-        },
-        {
-          "name": "Netto",
-          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 303201,
-      "name": "Grato Sou - Ao Vivo",
-      "url": "https://open.spotify.com/track/6rfxeiOS4gydbhIUAnTS3T"
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1755,6 +1731,30 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
+        "name": "Grato Sou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/35PDmPnl0pVw7oW8FEmaNv"
+      },
+      "artists": [
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        },
+        {
+          "name": "Netto",
+          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 303201,
+      "name": "Grato Sou - Ao Vivo",
+      "url": "https://open.spotify.com/track/6rfxeiOS4gydbhIUAnTS3T"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
         "name": "Tu \u00c9s Tudo o Que Tenho (P\u00e9rola) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5B1d2x08IoqTMFB1dv714z"
       },
@@ -1771,6 +1771,22 @@
       "duration_ms": 414642,
       "name": "Tu \u00c9s Tudo o Que Tenho (P\u00e9rola) - Ao Vivo",
       "url": "https://open.spotify.com/track/7q6CvkclvT3rSlWXca7LQs"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Equil\u00edbrio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 296466,
+      "name": "Equil\u00edbrio (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1799,18 +1815,18 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Equil\u00edbrio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1"
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/4bEppTERRCIuPJB4ouryzt"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Eliezer de Tarsis",
+          "url": "https://open.spotify.com/artist/7swIpYfKi5yjFe1J2LQCnL"
         }
       ],
-      "duration_ms": 296466,
-      "name": "Equil\u00edbrio (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww"
+      "duration_ms": 251250,
+      "name": "Continua",
+      "url": "https://open.spotify.com/track/2UAngFBfVyrTkXSBhqzyRS"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1835,22 +1851,6 @@
       "duration_ms": 463133,
       "name": "Simplesmente Te Adorar + Eu S\u00f3 Quero Tua Presen\u00e7a (Ao Vivo)",
       "url": "https://open.spotify.com/track/5DhuUO1J5wflNCsJOvSbcp"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/4bEppTERRCIuPJB4ouryzt"
-      },
-      "artists": [
-        {
-          "name": "Eliezer de Tarsis",
-          "url": "https://open.spotify.com/artist/7swIpYfKi5yjFe1J2LQCnL"
-        }
-      ],
-      "duration_ms": 251250,
-      "name": "Continua",
-      "url": "https://open.spotify.com/track/2UAngFBfVyrTkXSBhqzyRS"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Deus Preparou Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn"
-      },
-      "artists": [
-        {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 280160,
-      "name": "Deus Preparou Tudo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "T\u00e1 Tudo Bem (Ao Vivo)",
         "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 242963,
       "name": "T\u00e1 Tudo Bem - Ao Vivo",
       "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Deus Preparou Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn"
+      },
+      "artists": [
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 280160,
+      "name": "Deus Preparou Tudo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -2095,26 +2095,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "N\u00e3o Faltou Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4tOKVXY6gTSFWjmMagz2Xq"
-      },
-      "artists": [
-        {
-          "name": "Vitor Santana",
-          "url": "https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ"
-        },
-        {
-          "name": "Anna Clara Rocha",
-          "url": "https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI"
-        }
-      ],
-      "duration_ms": 558000,
-      "name": "N\u00e3o Faltou Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/1w4Olr85hvOttQ2k4V2bnN"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "Sala de Ora\u00e7\u00e2o (Ao Vivo)",
         "url": "https://open.spotify.com/album/0ztced4MwF9r9Hve3NGwR9"
       },
@@ -2135,22 +2115,22 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Rendido Estou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/49tCVa0gwrdqCN3LGUfBhh"
+        "name": "N\u00e3o Faltou Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4tOKVXY6gTSFWjmMagz2Xq"
       },
       "artists": [
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Vitor Santana",
+          "url": "https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ"
         },
         {
-          "name": "D\u00e9bora Buzas",
-          "url": "https://open.spotify.com/artist/6K6aHuOnmEhMwRlmgP6HA7"
+          "name": "Anna Clara Rocha",
+          "url": "https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI"
         }
       ],
-      "duration_ms": 353920,
-      "name": "Rendido Estou - Ao Vivo",
-      "url": "https://open.spotify.com/track/3TxiSs1OJz8dwgXTqEemNl"
+      "duration_ms": 558000,
+      "name": "N\u00e3o Faltou Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/1w4Olr85hvOttQ2k4V2bnN"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -2223,6 +2203,26 @@
       "duration_ms": 224882,
       "name": "Jesus Cristo Mudou Meu Viver - Ao Vivo",
       "url": "https://open.spotify.com/track/0M3qqchFJxLQQ6HPGIfJ6j"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Rendido Estou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/49tCVa0gwrdqCN3LGUfBhh"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "D\u00e9bora Buzas",
+          "url": "https://open.spotify.com/artist/6K6aHuOnmEhMwRlmgP6HA7"
+        }
+      ],
+      "duration_ms": 353920,
+      "name": "Rendido Estou - Ao Vivo",
+      "url": "https://open.spotify.com/track/3TxiSs1OJz8dwgXTqEemNl"
     },
     {
       "added_at": "2026-04-10 17:18:15",

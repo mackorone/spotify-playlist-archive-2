@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Future, Fall Out Boy, Offset, U2, Snoh Aalegra, Owen Riegling, Drake, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,643 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,591 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Planète](https://open.spotify.com/track/10DYluClumolBBnWNvw6xK) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Planète](https://open.spotify.com/album/4veCJvC1IqIrAwfe4WBwqO) | 2:40 |
 | 100 | [Trop cher](https://open.spotify.com/track/5xY3jwHwFm18fYNQlnw6tf) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Trop cher](https://open.spotify.com/album/5jMCsH6hG3ku90q4wDQhpm) | 1:58 |
 
-Snapshot ID: `AAAAAGAXFe4rUuPJ38ZvktloYXPFqjMi`
+Snapshot ID: `AAAAAK9hFlFoAaYTQ0BOUu8sTKxRXrhB`

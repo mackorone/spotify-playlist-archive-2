@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,593 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,595 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 14 | [No One Knows](https://open.spotify.com/track/2DSQa62M7ek9NGMrzmniaU) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [No One Knows](https://open.spotify.com/album/67R1xZixrtROiZ1J6mBDlu) | 3:46 |
 | 15 | [Roots](https://open.spotify.com/track/4PDQlJW9xltAaMQ2i93kNf) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [Roots](https://open.spotify.com/album/0hxt1oPU61fYIwVCJYJt9G) | 3:12 |
 | 16 | [Vagabond](https://open.spotify.com/track/1Lw4wTss8VphIoRG9UmkdA) | [Alex Jude](https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6), [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Vagabond](https://open.spotify.com/album/2ReNvOLdpPB2En3yqEkN6E) | 3:55 |
-| 17 | [stuck in these clouds](https://open.spotify.com/track/4GbQJWf4dMDgAvTAPft96X) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [stuck in these clouds](https://open.spotify.com/album/3837grpUl9bPxIzU9IRixe) | 3:33 |
+| 17 | [good grief!](https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [good grief!](https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp) | 3:07 |
 | 18 | [Higher Places](https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Higher Places](https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf) | 2:33 |
 | 19 | [Static & Lightning](https://open.spotify.com/track/24jzOjaBMBtA8XjPquxztK) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Static & Lightning](https://open.spotify.com/album/68QtjJsCt8NF4dntVq5Cr5) | 3:22 |
 | 20 | [Splinters](https://open.spotify.com/track/5Avn8pagmCvgk9mlO2FxPh) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Splinters](https://open.spotify.com/album/0F7V0lPrggeiRzURF6sQLg) | 2:35 |
 | 21 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 |
-| 22 | [good grief!](https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [good grief!](https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp) | 3:07 |
+| 22 | [stuck in these clouds](https://open.spotify.com/track/4GbQJWf4dMDgAvTAPft96X) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [stuck in these clouds](https://open.spotify.com/album/3837grpUl9bPxIzU9IRixe) | 3:33 |
 | 23 | [Come Back To Me \(Father's Song\)](https://open.spotify.com/track/2gLXY5Hrqik8eZo5cNliur) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Come Back To Me \(Father's Song\)](https://open.spotify.com/album/0Hhn9qin0XYC4ExuVaGMmn) | 3:58 |
 | 24 | [Cling To The Cross](https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Cling To The Cross](https://open.spotify.com/album/74iDwShIeRexXTCcU1QCtY) | 4:08 |
 | 25 | [J'ADORE](https://open.spotify.com/track/5q23mKOAamUd0AcYnL2xWL) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [MIKAILI](https://open.spotify.com/artist/2xvjVIW7Cj3yKSHExvkGNH) | [IDK,](https://open.spotify.com/album/4iwenftJEt5Jb8FkxBOlVi) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 74 | [Better Than Gold](https://open.spotify.com/track/2atkylYaq7ogez2mzHUL2Z) | [Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Better Than Gold](https://open.spotify.com/album/2OQuzRB0nbLgIgqjh4weAc) | 2:22 |
 | 75 | [Day By Day](https://open.spotify.com/track/2Kn4wjte701baKkC1IeF4S) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [Day By Day](https://open.spotify.com/album/2eshaNGGqJ5FB3BL1pHRAg) | 3:25 |
 
-Snapshot ID: `AAAAALcVPFJMN5PQTNreZfsf2t2wfTAY`
+Snapshot ID: `AAAAAPK9JVvv1uoOqCJ8Mr4inVU0jtaj`

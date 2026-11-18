@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 322511,
+  "num_followers": 322520,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1275,42 +1275,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
-      },
-      "artists": [
-        {
-          "name": "Juan Son",
-          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
-        },
-        {
-          "name": "Simone Pace",
-          "url": "https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo"
-        }
-      ],
-      "duration_ms": 212008,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "How Many Love Songs Have Died In Vegas?",
-        "url": "https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V"
-      },
-      "artists": [
-        {
-          "name": "Swim Deep",
-          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "How Many Love Songs Have Died In Vegas?",
-      "url": "https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Blue Arcade",
         "url": "https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd"
       },
@@ -1339,6 +1303,42 @@
       "duration_ms": 280181,
       "name": "Homing",
       "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "How Many Love Songs Have Died In Vegas?",
+        "url": "https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V"
+      },
+      "artists": [
+        {
+          "name": "Swim Deep",
+          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "How Many Love Songs Have Died In Vegas?",
+      "url": "https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
+      },
+      "artists": [
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        },
+        {
+          "name": "Simone Pace",
+          "url": "https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo"
+        }
+      ],
+      "duration_ms": 212008,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
     }
   ],
   "unique_name": "Dreampop",

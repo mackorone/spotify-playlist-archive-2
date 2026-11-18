@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Sakis Rouvas
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,580 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,579 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 48 | [Keno](https://open.spotify.com/track/5bIY2tipWqaLOBanuPL4sF) | [Manos](https://open.spotify.com/artist/1f1rxFbyGZ77El3CNyxeV6), [Dina](https://open.spotify.com/artist/4R2DcF9JLwKQSfm87963xV) | [Keno](https://open.spotify.com/album/7FrdB9jKNXI7DbhPHN9sl0) | 3:51 |
 | 49 | [Kapou Allou](https://open.spotify.com/track/0ql9ryQ4mVeUkZgX1vPcU7) | [Solmeister](https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [\_sunset](https://open.spotify.com/artist/7wW1i3pFTsdxc7yqYAH2Vu) | [Kapou Allou](https://open.spotify.com/album/5yMhsJ12NILXekDWJbfx6L) | 2:31 |
 
-Snapshot ID: `AAAAAGyCdbITOZXYNxEAMcs8E5u3JZ6O`
+Snapshot ID: `AAAAAD7JTGP1659GlpnzW0P38aZakI4A`

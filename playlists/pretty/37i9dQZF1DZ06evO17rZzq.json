@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 5406,
+  "num_followers": 5407,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAAB35gqvXHKMQdfdUT2cO9Bn",
+  "snapshot_id": "avpHgAAAAABgHHXX8ASuVX7I1NasLaJX",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MMM MMM (feat. ATL Jacob)",
-        "url": "https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
-        }
-      ],
-      "duration_ms": 137341,
-      "name": "MMM MMM (feat. ATL Jacob)",
-      "url": "https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 149438,
       "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MMM MMM (feat. ATL Jacob)",
+        "url": "https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "duration_ms": 137341,
+      "name": "MMM MMM (feat. ATL Jacob)",
+      "url": "https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wit 3 iii's",
-        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 103436,
-      "name": "Old Me",
-      "url": "https://open.spotify.com/track/4EwoWsIt1lzB6bRHV9jGPT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 208770,
       "name": "Where She At (feat. Kali, KenTheMan)",
       "url": "https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 103436,
+      "name": "Old Me",
+      "url": "https://open.spotify.com/track/4EwoWsIt1lzB6bRHV9jGPT"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wit 3 iii's",
-        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 142697,
-      "name": "BYB",
-      "url": "https://open.spotify.com/track/3J64O7nqy9ORcZgYRvoA5m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 181812,
       "name": "Eat It Up (feat. BIA)",
       "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 142697,
+      "name": "BYB",
+      "url": "https://open.spotify.com/track/3J64O7nqy9ORcZgYRvoA5m"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Luv",
-        "url": "https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7"
-      },
-      "artists": [
-        {
-          "name": "Enchanting",
-          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 138001,
-      "name": "Track & Field (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "blu\u20acs (d\u20aclux\u20ac)",
         "url": "https://open.spotify.com/album/4cdd2jx9GScUzDETwJ6GEk"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 148915,
       "name": "do it 4 th\u20ac gram - r\u20acmix",
       "url": "https://open.spotify.com/track/7MVmS6K6kxRrhJQJ35nfjV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Luv",
+        "url": "https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7"
+      },
+      "artists": [
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 138001,
+      "name": "Track & Field (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36"
     },
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FCK GIRL SZN",
-        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
       },
       "artists": [
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 137880,
-      "name": "Can\u2019t Get \u2018Em",
-      "url": "https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw"
+      "duration_ms": 136980,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
     },
     {
       "added_at": null,
@@ -703,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wet",
-        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
       },
       "artists": [
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 136980,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
+      "duration_ms": 137880,
+      "name": "Can\u2019t Get \u2018Em",
+      "url": "https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UonU (feat. Yung Bleu)",
+        "url": "https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 218205,
+      "name": "UonU (feat. Yung Bleu)",
+      "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "StreetTape",
         "url": "https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ"
       },
@@ -895,22 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "UonU (feat. Yung Bleu)",
-        "url": "https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2RcR9tY2ZkKnHVmZh5RIKh"
       },
       "artists": [
         {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
         },
         {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 218205,
-      "name": "UonU (feat. Yung Bleu)",
-      "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
+      "duration_ms": 150743,
+      "name": "Red Light Special (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/4Y0bW6Dc0XlY77kjuV6KkG"
     },
     {
       "added_at": null,
@@ -951,26 +971,6 @@
       "duration_ms": 169186,
       "name": "What's Tea? - with Kaliii",
       "url": "https://open.spotify.com/track/05jGCR85ce49vONuaW97ms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/2RcR9tY2ZkKnHVmZh5RIKh"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 150743,
-      "name": "Red Light Special (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/4Y0bW6Dc0XlY77kjuV6KkG"
     }
   ],
   "unique_name": "This Is Kaliii",

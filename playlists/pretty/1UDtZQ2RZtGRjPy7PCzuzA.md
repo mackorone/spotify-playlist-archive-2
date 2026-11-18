@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,669 songs - 4 day 0 hr 37 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,675 songs - 4 day 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1677,5 +1677,11 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1667 | [Tumbling Dice](https://open.spotify.com/track/67lRBx0P3WaEl6nlFHtffy) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5T5FSDZHbXIQlwihGwXn3X) | 3:46 |
 | 1668 | [Salt Of The Earth](https://open.spotify.com/track/0iEfl3ZAJL53yaN8tmYZPJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet](https://open.spotify.com/album/5WZFtmADuJUZPtt0NER0Qi) | 4:47 |
 | 1669 | [Scarlet](https://open.spotify.com/track/0ElIvLpQpbqZTZs98O4Q1V) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Jimmy Page](https://open.spotify.com/artist/55bGuHb50r5c0PeqqMeNBV) | [Scarlet](https://open.spotify.com/album/0UO8A189MXCK0JMv7iJmib) | 3:44 |
+| 1670 | [Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 6:21 |
+| 1671 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 |
+| 1672 | [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 |
+| 1673 | [Damaged Goods \- 2021 Remaster](https://open.spotify.com/track/3X5iUAjlzKx0GmFvZr9i51) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment! \(2021 Remaster\)](https://open.spotify.com/album/36IRJcHbBBWgd3WjVEBEit) | 3:26 |
+| 1674 | [Pearls](https://open.spotify.com/track/4J7s7j5ulwElPG7HaGQDXR) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 4:33 |
+| 1675 | [Natural's Not In It \- 2021 Remaster](https://open.spotify.com/track/52gNmYoOzjH95jG3GPZWJ3) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment! \(2021 Remaster\)](https://open.spotify.com/album/36IRJcHbBBWgd3WjVEBEit) | 3:06 |
 
-Snapshot ID: `AAAOq/wdVhSzcOApw94tw7NwUmUpEQue`
+Snapshot ID: `AAAOs+k7x5aPp7k4UdTyJzOOnxsHxuXg`

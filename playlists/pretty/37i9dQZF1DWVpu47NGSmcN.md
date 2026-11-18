@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Christie
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,956 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,957 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 99 | [nulla](https://open.spotify.com/track/30LlunIkCklG8xjlpDKfAH) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [nulla, vol.1](https://open.spotify.com/album/4uagI2pWOO8sq0v9vl0V6q) | 3:48 |
 | 100 | [Jerih Penat](https://open.spotify.com/track/2TRl0xZRrqCDwgS5iayBXx) | [Syifa Mahirah](https://open.spotify.com/artist/1ZvFdGH1sdzN3wB7CcS4Zk) | [Jerih Penat](https://open.spotify.com/album/37RlA5c0vWSn05SkfgE77e) | 3:44 |
 
-Snapshot ID: `AAAAAJTndNy+YrT58+5Msq+XycuhX0nl`
+Snapshot ID: `AAAAABieGmyNM5U5UWqa4s5G+17/ufZo`

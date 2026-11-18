@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALEYzQBUnHMvO0ljT+pIcztvxAbk+4",
+  "snapshot_id": "AAALFG+R7Y5V54jw55gb+gRNHnweSdme",
   "tracks": [
     {
       "added_at": "2026-10-18 07:35:50",
@@ -90923,6 +90923,54 @@
       "duration_ms": 204840,
       "name": "IN MY LIFE - Piano Version",
       "url": "https://open.spotify.com/track/5cMr4IjST242S6zQUSnkeo"
+    },
+    {
+      "added_at": "2026-11-17 10:42:09",
+      "album": {
+        "name": "On the 10",
+        "url": "https://open.spotify.com/album/4Ef86HGWgUfRYdSe8cOIPx"
+      },
+      "artists": [
+        {
+          "name": "Cristoforo Donadi",
+          "url": "https://open.spotify.com/artist/0kTwzuquhKPxUxJA5ykVYf"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "On the 10",
+      "url": "https://open.spotify.com/track/48lfynVh0BKHCIs4EbEBvy"
+    },
+    {
+      "added_at": "2026-11-17 15:12:42",
+      "album": {
+        "name": "Asphalt",
+        "url": "https://open.spotify.com/album/54UtGMEsU8UXCit9KuXrUQ"
+      },
+      "artists": [
+        {
+          "name": "Alexo",
+          "url": "https://open.spotify.com/artist/2M5K8mw04jLiIyTFaGOvXA"
+        }
+      ],
+      "duration_ms": 149039,
+      "name": "Asphalt",
+      "url": "https://open.spotify.com/track/3bTBHWo4OdlfPWxiRdKgxQ"
+    },
+    {
+      "added_at": "2026-11-17 16:30:27",
+      "album": {
+        "name": "Medicate",
+        "url": "https://open.spotify.com/album/5oxKqegUjpahbxGsXMsRpR"
+      },
+      "artists": [
+        {
+          "name": "EverFelt",
+          "url": "https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX"
+        }
+      ],
+      "duration_ms": 238388,
+      "name": "Medicate",
+      "url": "https://open.spotify.com/track/3umTsTDjiiE7wlNxGpVPbr"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -199,6 +199,32 @@
     },
     {
       "album": {
+        "name": "A Farewell to Arms",
+        "url": "https://open.spotify.com/album/0gbcV5i7SdlX5vfWY1CibJ"
+      },
+      "artists": [
+        {
+          "name": "Lucevitous",
+          "url": "https://open.spotify.com/artist/2zMppC7MK20J3LX5lwQNvo"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300543,
+      "name": "A Farewell to Arms (feat. KAITO&\u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/5aA6E9EvNE7cFK36arM526"
+    },
+    {
+      "album": {
         "name": "after snow",
         "url": "https://open.spotify.com/album/6gfg4TrfFpEEngNQlmqML0"
       },
@@ -2724,7 +2750,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 220959,
       "name": "WONDERLAND.COM (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5SP0xFTN87eVOeRmJXI8DC"
@@ -3056,7 +3082,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 158457,
       "name": "\u304a\u3084\u3059\u307f\u30aa\u30e9\u30f3\u30b8\u30a7\u30c3\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5PgUNE6zjB61rsLxy0jE1W"
@@ -4362,6 +4388,28 @@
       "duration_ms": 197776,
       "name": "\u30a2\u30fc\u30e2\u30f3\u30c9\u8150\u308a\u3084\u304c\u3063\u3066",
       "url": "https://open.spotify.com/track/3uEI4fADvXpZmBVrbfxfzx"
+    },
+    {
+      "album": {
+        "name": "SOULUKATRAIN",
+        "url": "https://open.spotify.com/album/7K5glwqAQ7JixfUJpbGcw6"
+      },
+      "artists": [
+        {
+          "name": "ryo@shareotsup",
+          "url": "https://open.spotify.com/artist/0wkiUmZ0f6oXM99b1ij2CE"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266727,
+      "name": "\u30a4\u30ab\u308c\u305f\u8776\u3005 - Midnight Butterfly - (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/7blwyA9Sn7sBFi7qqErbsE"
     },
     {
       "album": {

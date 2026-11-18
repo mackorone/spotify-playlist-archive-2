@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Ashley Anne, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,632 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,681 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [Strangers Again](https://open.spotify.com/track/3oml2hvebr10WAOEvtVp9W) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo), [Taylor Goyette](https://open.spotify.com/artist/5CSfpRPGc1XEGd5twIRQTb) | [Strangers Again](https://open.spotify.com/album/47SJb50MXbsHyzCIM2RHUL) | 3:14 |
 | 75 | [Wondering Why](https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui) | [CARV](https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A) | [Love You Again](https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1) | 3:18 |
 
-Snapshot ID: `AAAAAMXrcxhZay/ZnRM5o0ksYd6YJE6u`
+Snapshot ID: `AAAAAEQ+WHom559yueiBMIzzb2a5vkku`

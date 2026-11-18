@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > dígitos subindo 🕹️ // Cashley
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,563 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,565 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 31 | [Preta.Foda.Quente](https://open.spotify.com/track/6jvrsFHPR8CWW8qNwIRvYL) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Mvzza](https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf) | [Preta.Foda.Quente](https://open.spotify.com/album/23yPDm5pk1v4QrJFahAdrQ) | 3:01 |
 | 32 | [Eu tenho uma FACA o nome dela é RIMA](https://open.spotify.com/track/46xLAN8xDeeJarAoyUldGu) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Janvi](https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ), [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4) | [BASE: Quem tá são ELAS](https://open.spotify.com/album/1euGq1BCACZBwctS6t10ly) | 6:55 |
 | 33 | [Milimetricamente](https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH) | [Luana Maia](https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6), [DJ Caio Santos](https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili) | [Milimetricamente](https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP) | 2:02 |
-| 34 | [DISStrato](https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Modern](https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk) | [DISStrato](https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c) | 2:31 |
-| 35 | [O OURO](https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [O OURO](https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs) | 2:32 |
+| 34 | [O OURO](https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [O OURO](https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs) | 2:32 |
+| 35 | [DISStrato](https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Modern](https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk) | [DISStrato](https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c) | 2:31 |
 | 36 | [O bonde tá no levan](https://open.spotify.com/track/2Y60PGvtTVa0SXUw5vrQpv) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL) | [O bonde tá no levan](https://open.spotify.com/album/5F2qrQxUooZmfbCKcBJTA7) | 2:25 |
 | 37 | [Dedo na ferida](https://open.spotify.com/track/5iKY4gOVZwpnRG9v4dj3g3) | [Mya Akoma](https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Teimosia](https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw) | 2:51 |
 | 38 | [QUEBREI SUA CASA](https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUEBREI SUA CASA](https://open.spotify.com/album/3jeFsTtEnFb1LZpwZbnfHD) | 2:28 |

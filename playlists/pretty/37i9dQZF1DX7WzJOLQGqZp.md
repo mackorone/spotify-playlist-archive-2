@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WzJOLQGqZp.md) - [plain]
 
 > The best music videos in Black music\. Cover: Chxrry
 
-[Spotify](https://open.spotify.com/user/spotify) - 233 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WzJOLQGqZp.md) - [plain]
 | 49 | [Tell Everybody \(feat\. Leon Thomas\)](https://open.spotify.com/track/2BewxbxoGj2w6xIsz5CTn0) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Tell Everybody \(feat\. Leon Thomas\)](https://open.spotify.com/album/4TW0eYZ972UcDruzl7IZbk) | 2:28 |
 | 50 | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/track/5uFVodx5ppCFWjyQXkgCrD) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/album/0ZD6PTKIZvp9cTlI0pjLvm) | 3:06 |
 
-Snapshot ID: `AAAAAFD4wHm4dMONZUcvmFMRiMJ7Whm8`
+Snapshot ID: `AAAAALa+R5g0xIWD81FAsoBt6O+DTbmt`

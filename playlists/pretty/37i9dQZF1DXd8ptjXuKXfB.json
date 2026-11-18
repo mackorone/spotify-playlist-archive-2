@@ -1,12 +1,12 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 33550,
+  "num_followers": 33555,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM5DLA7litd0Fd24bdzoowi2G7Q/",
+  "snapshot_id": "AAAAADVLMqGWu7SU/Fz8Mu8Zzu3rNJP4",
   "tracks": [
     {
       "added_at": "2026-11-16 17:07:07",
@@ -795,42 +795,6 @@
     {
       "added_at": "2026-11-16 17:07:07",
       "album": {
-        "name": "VINNER",
-        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        }
-      ],
-      "duration_ms": 159255,
-      "name": "SHAKE DAT",
-      "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
-    },
-    {
-      "added_at": "2026-11-16 17:07:07",
-      "album": {
-        "name": "Valamit Majd Kital\u00e1lok",
-        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 197025,
-      "name": "Kell egy p\u00e1r nap",
-      "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
-    },
-    {
-      "added_at": "2026-11-16 17:07:07",
-      "album": {
         "name": "ALL NIGHT",
         "url": "https://open.spotify.com/album/7f6h07e7uMJ86dRRi5L1FV"
       },
@@ -859,6 +823,42 @@
     {
       "added_at": "2026-11-16 17:07:07",
       "album": {
+        "name": "Valamit Majd Kital\u00e1lok",
+        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 197025,
+      "name": "Kell egy p\u00e1r nap",
+      "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
+    },
+    {
+      "added_at": "2026-11-16 17:07:07",
+      "album": {
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "duration_ms": 159255,
+      "name": "SHAKE DAT",
+      "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
+    },
+    {
+      "added_at": "2026-11-16 17:07:07",
+      "album": {
         "name": "Ne M\u00e9regess",
         "url": "https://open.spotify.com/album/1GXVCSMyyggnSfqVdrB8q6"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 137686,
       "name": "Gipsyland",
       "url": "https://open.spotify.com/track/253XpMLROtasRt7uxDPYft"
-    },
-    {
-      "added_at": "2026-11-16 17:07:07",
-      "album": {
-        "name": "De\u00e1k Ferenc",
-        "url": "https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz"
-      },
-      "artists": [
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        }
-      ],
-      "duration_ms": 154176,
-      "name": "De\u00e1k Ferenc",
-      "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
     },
     {
       "added_at": "2026-11-16 17:07:07",
@@ -907,6 +891,22 @@
       "duration_ms": 165129,
       "name": "ELSZ\u00c1LL AZ ID\u0150",
       "url": "https://open.spotify.com/track/2Jg0OT3lCm4vwBbC9vv7KJ"
+    },
+    {
+      "added_at": "2026-11-16 17:07:07",
+      "album": {
+        "name": "De\u00e1k Ferenc",
+        "url": "https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 154176,
+      "name": "De\u00e1k Ferenc",
+      "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
     },
     {
       "added_at": "2026-11-16 17:07:07",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-11-16 17:07:07",
       "album": {
+        "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+        "url": "https://open.spotify.com/album/5yfpdDZuMKWSeFP3gOiDiM"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+      "url": "https://open.spotify.com/track/6gkk2Rwo5j7PIrX4qmsZBB"
+    },
+    {
+      "added_at": "2026-11-16 17:07:07",
+      "album": {
         "name": "Gyerekek",
         "url": "https://open.spotify.com/album/0oOywwZrjosDWVG95s9GBE"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 163583,
       "name": "reflex",
       "url": "https://open.spotify.com/track/6GJOamdpyJv4Yb5JDD4R1F"
-    },
-    {
-      "added_at": "2026-11-16 17:07:07",
-      "album": {
-        "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
-        "url": "https://open.spotify.com/album/5yfpdDZuMKWSeFP3gOiDiM"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
-      "url": "https://open.spotify.com/track/6gkk2Rwo5j7PIrX4qmsZBB"
     },
     {
       "added_at": "2026-11-16 17:07:07",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-11-16 17:07:07",
       "album": {
+        "name": "HATALMASABB, MINT GONDOLN\u00c1D",
+        "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
+      },
+      "artists": [
+        {
+          "name": "Mirror Glimpse",
+          "url": "https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif"
+        }
+      ],
+      "duration_ms": 137999,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
+    },
+    {
+      "added_at": "2026-11-16 17:07:07",
+      "album": {
         "name": "Felsz\u00e1ll\u00f3 \u00c1g",
         "url": "https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 163636,
       "name": "Brazil F\u00e1nk",
       "url": "https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr"
-    },
-    {
-      "added_at": "2026-11-16 17:07:07",
-      "album": {
-        "name": "HATALMASABB, MINT GONDOLN\u00c1D",
-        "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
-      },
-      "artists": [
-        {
-          "name": "Mirror Glimpse",
-          "url": "https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif"
-        }
-      ],
-      "duration_ms": 137999,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
     },
     {
       "added_at": "2026-11-16 17:07:07",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-11-16 17:07:07",
       "album": {
-        "name": "WAZZUP",
-        "url": "https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp"
-      },
-      "artists": [
-        {
-          "name": "MAXI",
-          "url": "https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO"
-        },
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "WAZZUP",
-      "url": "https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c"
-    },
-    {
-      "added_at": "2026-11-16 17:07:07",
-      "album": {
         "name": "EXT\u00c1ZIS",
         "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 142856,
       "name": "Hol volt\u00e1l?",
       "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
+    },
+    {
+      "added_at": "2026-11-16 17:07:07",
+      "album": {
+        "name": "WAZZUP",
+        "url": "https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp"
+      },
+      "artists": [
+        {
+          "name": "MAXI",
+          "url": "https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "WAZZUP",
+      "url": "https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c"
     }
   ],
   "unique_name": "Most Men\u0151",

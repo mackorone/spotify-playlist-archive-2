@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: عصام صاصا
+> أجمد المهرجانات في مصر! الغلاف: حمو المرشدي
 
-412 songs - 1 day 1 hr 39 min
+413 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Kalosha](https://open.spotify.com/artist/33bu3ZoO8twryUNoOLuT1S) | [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 | 2023-08-30 | 2024-12-06 |
 | [بابا المجال](https://open.spotify.com/track/4PWyDZSIrKxRQV0ioxjrXf) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Mohamed Shaheen](https://open.spotify.com/artist/6DcpnGFm5ORC758EKTT5B0) | [بابا المجال](https://open.spotify.com/album/219E4D2CXK3NYwmJ5mI8dw) | 3:30 | 2023-04-20 | 2023-10-04 |
 | [بحط علي الجامدين](https://open.spotify.com/track/4fbdnDZHPsrRkq9JikyMn7) | [Elpower El3aly](https://open.spotify.com/artist/7h4vmBjL6JkQDHe5BbZ5AY), [Dr Dezel](https://open.spotify.com/artist/7AAOjTGZ436yYG9tiK0m2n) | [بحط علي الجامدين](https://open.spotify.com/album/1bypiVDSXkrN3QhwFtZflm) | 3:12 | 2026-04-07 | 2026-04-22 |
-| [بخ بخ بخ عو](https://open.spotify.com/track/3dI0cktG5q4hgDmdO1icnI) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [بخ بخ بخ عو](https://open.spotify.com/album/2Fug5pcCyz7WYgL7ttmJCf) | 3:17 | 2025-12-31 |  |
+| [بخ بخ بخ عو](https://open.spotify.com/track/3dI0cktG5q4hgDmdO1icnI) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [بخ بخ بخ عو](https://open.spotify.com/album/2Fug5pcCyz7WYgL7ttmJCf) | 3:17 | 2025-12-31 | 2026-11-18 |
 | [بخاف من الموت](https://open.spotify.com/track/5YHeeLfclMSuFNOExpl7uN) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky) | [بخاف من الموت](https://open.spotify.com/album/2tRL5kjbXGMkzV8FoXKTZB) | 3:13 | 2024-02-21 | 2024-03-09 |
 | [بدلع](https://open.spotify.com/track/1SH2kuz8kTkjEV1xQEQYTG) | [Team Omda](https://open.spotify.com/artist/1wut91Z0aLx8JiFdEbaZNm) | [بدلع](https://open.spotify.com/album/3SwRU4l1JtR6ZvrXBTAWaJ) | 2:15 | 2026-04-21 | 2026-05-06 |
 | [بسكوتايا ومعاكى دبابة \- الحديدة مش جدعة هتخونك](https://open.spotify.com/track/5ql1P4zBkxALhoZJN2ucSJ) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [بسكوتايا ومعاكى دبابة \(الحديدة مش جدعة هتخونك\)](https://open.spotify.com/album/3v080CO7DgF3Nl22dZuCPC) | 2:59 | 2025-10-07 | 2026-03-26 |
@@ -188,6 +188,7 @@
 | [جوب](https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [جوب](https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn) | 4:10 | 2022-09-08 | 2024-08-13 |
 | [حب عمري \( خدتوا نفسكم جينا نخرسكم \)](https://open.spotify.com/track/3qmwO3KKzZy6ZgamyWwHBR) | [Samer Elmedany](https://open.spotify.com/artist/1nt4fNK1UhJDil6gZzkBQp), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [حب عمري \( خدتوا نفسكم جينا نخرسكم \)](https://open.spotify.com/album/0tSTzHa96mYmnRUYRdaO0b) | 3:38 | 2026-04-07 | 2026-04-22 |
 | [حبك شي توماتيكى \( انت قاعد بتحب وهيا بتشرب فيب \)](https://open.spotify.com/track/1YtVLyJ1ooGChjUPPoJ0AA) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [حبك شي توماتيكى \( انت قاعد بتحب وهيا بتشرب فيب \)](https://open.spotify.com/album/0AIn6ZTNkHi3SWhmMnLTw7) | 4:00 | 2026-01-20 | 2026-07-07 |
+| [حبيبى امستمع](https://open.spotify.com/track/6QtKXncn0ryWEea5JxoaJb) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [حبيبى امستمع](https://open.spotify.com/album/4ZR6gRE3AaiDw4VshqFXrB) | 2:16 | 2026-11-17 |  |
 | [حمرا](https://open.spotify.com/track/0nkJCooURSEVpWFpeYOzeI) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [حمرا](https://open.spotify.com/album/0g8MIat372o8vp1Shk1sMe) | 3:38 | 2023-03-01 | 2024-02-22 |
 | [حمص](https://open.spotify.com/track/603yXldrQ8YFrTD0zgUK5B) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr), [Mohamed Abdel Salam](https://open.spotify.com/artist/2GniCLZUERdnooiq0zGlaz) | [حمص](https://open.spotify.com/album/2X9ukkkitGJu5BSdRBDlDX) | 3:00 | 2023-05-18 | 2023-09-26 |
 | [حياتي مرار وخدت قرار\(حبيب القلب روح القلب\)](https://open.spotify.com/track/3Bzq126bbUzSD26eHBc6JX) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [حياتي مرار وخدت قرار\(حبيب القلب روح القلب\)](https://open.spotify.com/album/54YA0OY0dRNw1OIiuhNuvh) | 4:08 | 2023-06-21 | 2023-09-26 |

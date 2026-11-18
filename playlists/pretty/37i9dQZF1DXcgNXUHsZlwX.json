@@ -723,22 +723,6 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Shoes",
-        "url": "https://open.spotify.com/album/4kqdgVtxEmeePLtQA4QLKn"
-      },
-      "artists": [
-        {
-          "name": "Libby Ember",
-          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
-        }
-      ],
-      "duration_ms": 220594,
-      "name": "Shoes",
-      "url": "https://open.spotify.com/track/5Cl3FkjKKCGkPSXxI8lmTV"
-    },
-    {
-      "added_at": "2026-11-13 05:02:58",
-      "album": {
         "name": "freedom",
         "url": "https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 218389,
       "name": "freedom",
       "url": "https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM"
+    },
+    {
+      "added_at": "2026-11-13 05:02:58",
+      "album": {
+        "name": "Shoes",
+        "url": "https://open.spotify.com/album/4kqdgVtxEmeePLtQA4QLKn"
+      },
+      "artists": [
+        {
+          "name": "Libby Ember",
+          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
+        }
+      ],
+      "duration_ms": 220594,
+      "name": "Shoes",
+      "url": "https://open.spotify.com/track/5Cl3FkjKKCGkPSXxI8lmTV"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Marie C\u00e9leste",
-        "url": "https://open.spotify.com/album/46rS6BCpOhczqDDZ7dIOZh"
-      },
-      "artists": [
-        {
-          "name": "Patrice Michaud",
-          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
-        }
-      ],
-      "duration_ms": 248458,
-      "name": "Marie C\u00e9leste",
-      "url": "https://open.spotify.com/track/2bER5iE2bOppib04Nmd49x"
-    },
-    {
-      "added_at": "2026-11-13 05:02:58",
-      "album": {
         "name": "Moi je t'aime",
         "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 177556,
       "name": "Moi je t'aime",
       "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
+    },
+    {
+      "added_at": "2026-11-13 05:02:58",
+      "album": {
+        "name": "Marie C\u00e9leste",
+        "url": "https://open.spotify.com/album/46rS6BCpOhczqDDZ7dIOZh"
+      },
+      "artists": [
+        {
+          "name": "Patrice Michaud",
+          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
+        }
+      ],
+      "duration_ms": 248458,
+      "name": "Marie C\u00e9leste",
+      "url": "https://open.spotify.com/track/2bER5iE2bOppib04Nmd49x"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
+        "name": "Ensorcel\u00e9e",
+        "url": "https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 163059,
+      "name": "Ensorcel\u00e9e",
+      "url": "https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH"
+    },
+    {
+      "added_at": "2026-11-13 05:02:58",
+      "album": {
         "name": "The Wandering",
         "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 200466,
       "name": "The Wandering",
       "url": "https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1"
-    },
-    {
-      "added_at": "2026-11-13 05:02:58",
-      "album": {
-        "name": "Ensorcel\u00e9e",
-        "url": "https://open.spotify.com/album/5mMj6rX56JKKhOUehduv6i"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 163059,
-      "name": "Ensorcel\u00e9e",
-      "url": "https://open.spotify.com/track/1bC0ERTtWUyy3Mf2gkqjbH"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI"
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
       },
       "artists": [
         {
-          "name": "sunniva",
-          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
         }
       ],
-      "duration_ms": 132370,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb"
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/69WcaVxBfsOULZYJpX4fVI"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "sunniva",
+          "url": "https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2"
         }
       ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+      "duration_ms": 132370,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
+        "name": "Pour d\u00e9jouer l'ennui",
+        "url": "https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 170950,
+      "name": "Le monarque des Indes",
+      "url": "https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T"
+    },
+    {
+      "added_at": "2026-11-13 05:02:58",
+      "album": {
         "name": "Fantasy Prologue",
         "url": "https://open.spotify.com/album/4e6CxjLswiuoTkqMAPP7gL"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 159138,
       "name": "The Shallow End",
       "url": "https://open.spotify.com/track/2nMNg9uNbJM88NzxFD9OAM"
-    },
-    {
-      "added_at": "2026-11-13 05:02:58",
-      "album": {
-        "name": "Parmi les autres",
-        "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
-      },
-      "artists": [
-        {
-          "name": "Elliot Maginot",
-          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Parmi les autres",
-      "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Pour d\u00e9jouer l'ennui",
-        "url": "https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE"
+        "name": "Parmi les autres",
+        "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
       },
       "artists": [
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
         }
       ],
-      "duration_ms": 170950,
-      "name": "Le monarque des Indes",
-      "url": "https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T"
+      "duration_ms": 219000,
+      "name": "Parmi les autres",
+      "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "TABLE DU FOND",
-        "url": "https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82"
-      },
-      "artists": [
-        {
-          "name": "Marc-Antoine Delage",
-          "url": "https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS"
-        }
-      ],
-      "duration_ms": 157750,
-      "name": "TABLE DU FOND",
-      "url": "https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj"
-    },
-    {
-      "added_at": "2026-11-13 05:02:58",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "added_at": "2026-11-13 05:02:58",
+      "album": {
+        "name": "TABLE DU FOND",
+        "url": "https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82"
+      },
+      "artists": [
+        {
+          "name": "Marc-Antoine Delage",
+          "url": "https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "TABLE DU FOND",
+      "url": "https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj"
     },
     {
       "added_at": "2026-11-13 05:02:58",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-11-13 05:02:58",
       "album": {
-        "name": "Les yeux couleur bois",
-        "url": "https://open.spotify.com/album/5OXG6MvvkRT1NUJAhtjiEG"
-      },
-      "artists": [
-        {
-          "name": "Mara Tremblay",
-          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Les yeux couleur bois",
-      "url": "https://open.spotify.com/track/5NufL7vF2yWOgBZJPngR7l"
-    },
-    {
-      "added_at": "2026-11-13 05:02:58",
-      "album": {
         "name": "Dans une autre cour",
         "url": "https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 144173,
       "name": "Dans une autre cour",
       "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
+    },
+    {
+      "added_at": "2026-11-13 05:02:58",
+      "album": {
+        "name": "\u00c0 toi",
+        "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 264580,
+      "name": "\u00c0 toi",
+      "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
     },
     {
       "added_at": "2026-11-13 05:02:58",

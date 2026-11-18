@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 27.",
-  "num_followers": 437927,
+  "num_followers": 437923,
   "original_name": "EA SPORTS FC 27 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIuGtNTGqAf0ypdZsVYqMYE2LUCw",
+  "snapshot_id": "AAAAAPXUZ+Sz+5gxqipDMhXRRs8lGPMe",
   "tracks": [
     {
       "added_at": "2026-09-25 16:48:56",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Dying In Reverse",
-        "url": "https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 234276,
-      "name": "Dying In Reverse",
-      "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "feel",
         "url": "https://open.spotify.com/album/6Kx70JcyksQYEnP69i8Idj"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 134244,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2zX2viSugU43hOWCZvLiXi"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Dying In Reverse",
+        "url": "https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 234276,
+      "name": "Dying In Reverse",
+      "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "particule",
-        "url": "https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM"
-      },
-      "artists": [
-        {
-          "name": "miki",
-          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "particule",
-      "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Dreaming Alone",
         "url": "https://open.spotify.com/album/5FG03fYagxoMeS2vMZ8U4W"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 215040,
       "name": "Dreaming Alone",
       "url": "https://open.spotify.com/track/5treW7XuiAbiHfNwNpnYHP"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "particule",
+        "url": "https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM"
+      },
+      "artists": [
+        {
+          "name": "miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "particule",
+      "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Fire on the Water / Drift",
-        "url": "https://open.spotify.com/album/0RpYhaCXxa6vICkfzkEq7t"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 270324,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/3v6NLDBeSPq8RT1QPB3tZo"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "NAIKI",
         "url": "https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 131489,
       "name": "SHEITE",
       "url": "https://open.spotify.com/track/3WrwSAIs1jAZml3iRD6zDP"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Fire on the Water / Drift",
+        "url": "https://open.spotify.com/album/0RpYhaCXxa6vICkfzkEq7t"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 270324,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/3v6NLDBeSPq8RT1QPB3tZo"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5Nu0zhhhjLqMV9roSP6uhj"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/6KEIaqDtnIXKcDILpNbo9K"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "Feel So Good Around U",
         "url": "https://open.spotify.com/album/5pitE0A89EPXOxhkl3HJYh"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5Nu0zhhhjLqMV9roSP6uhj"
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
       },
       "artists": [
         {
-          "name": "Bradley Simpson",
-          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/6KEIaqDtnIXKcDILpNbo9K"
+      "duration_ms": 192546,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -891,38 +907,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 192546,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "Cancel Me (I'm Tired)",
-        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 222596,
-      "name": "Cancel Me (I\u2019m Tired)",
-      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "FITNESS FIRST",
         "url": "https://open.spotify.com/album/62FuCq483syEgtWTFD03zP"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 165931,
       "name": "FITNESS FIRST",
       "url": "https://open.spotify.com/track/64FZ6XLObgyJwDQWkVU07k"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "Cancel Me (I'm Tired)",
+        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 222596,
+      "name": "Cancel Me (I\u2019m Tired)",
+      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2XDnp6nVUaEXWrHbqwP54t"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 248709,
+      "name": "Achtung! Optimism",
+      "url": "https://open.spotify.com/track/5HSYmEWmFBByYKquigO6OF"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
         "name": "UN D\u00cdA NUEVO (FUEGO)",
         "url": "https://open.spotify.com/album/7jY6TxiqsreKO8znOxzHAR"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 217509,
       "name": "Can't Feel It",
       "url": "https://open.spotify.com/track/4moWJefMHCuUPCpwKAqI7A"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2XDnp6nVUaEXWrHbqwP54t"
-      },
-      "artists": [
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        }
-      ],
-      "duration_ms": 248709,
-      "name": "Achtung! Optimism",
-      "url": "https://open.spotify.com/track/5HSYmEWmFBByYKquigO6OF"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "It Grows On Trees (Money)",
-        "url": "https://open.spotify.com/album/3p1P70gZCWLHlPbDFpDR4W"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/3HmRclJ92Niwvq6SXvdhqv"
-        }
-      ],
-      "duration_ms": 184100,
-      "name": "It Grows On Trees (Money)",
-      "url": "https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "Aguar\u00e1chate",
         "url": "https://open.spotify.com/album/4VZJ6snqnaC0Z2eNrcbeSv"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 156714,
       "name": "Aguar\u00e1chate",
       "url": "https://open.spotify.com/track/5zxQOlEtF759QnUzq43f7v"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "It Grows On Trees (Money)",
+        "url": "https://open.spotify.com/album/3p1P70gZCWLHlPbDFpDR4W"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/3HmRclJ92Niwvq6SXvdhqv"
+        }
+      ],
+      "duration_ms": 184100,
+      "name": "It Grows On Trees (Money)",
+      "url": "https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp"
     },
     {
       "added_at": "2026-09-25 16:48:56",
@@ -1819,30 +1819,6 @@
     {
       "added_at": "2026-09-25 16:48:56",
       "album": {
-        "name": "APUESTA AL NEGRO",
-        "url": "https://open.spotify.com/album/2Thjjg1KbIfaWJPyQpKnlu"
-      },
-      "artists": [
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        },
-        {
-          "name": "Reke",
-          "url": "https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4"
-        },
-        {
-          "name": "Faker",
-          "url": "https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL"
-        }
-      ],
-      "duration_ms": 149677,
-      "name": "POR ESTAS CALLES",
-      "url": "https://open.spotify.com/track/41mPzEjgJiP3wifIO6H1tL"
-    },
-    {
-      "added_at": "2026-09-25 16:48:56",
-      "album": {
         "name": "CEROUNO",
         "url": "https://open.spotify.com/album/5le8bGUJj6QSUL1CojXAIJ"
       },
@@ -1863,6 +1839,30 @@
       "duration_ms": 145609,
       "name": "GARDEL EN EL AVI\u00d3N",
       "url": "https://open.spotify.com/track/3jjFnrNEplIuYPf8qH5yUf"
+    },
+    {
+      "added_at": "2026-09-25 16:48:56",
+      "album": {
+        "name": "APUESTA AL NEGRO",
+        "url": "https://open.spotify.com/album/2Thjjg1KbIfaWJPyQpKnlu"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "Reke",
+          "url": "https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4"
+        },
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL"
+        }
+      ],
+      "duration_ms": 149677,
+      "name": "POR ESTAS CALLES",
+      "url": "https://open.spotify.com/track/41mPzEjgJiP3wifIO6H1tL"
     },
     {
       "added_at": "2026-09-25 16:48:56",

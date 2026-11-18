@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,513 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,518 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Ya Mobdaa](https://open.spotify.com/track/0f58OrUbfGpiF4q7lPMIuZ) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fouad 26](https://open.spotify.com/album/77qvt0BWKIxomLI9SQGCkQ) | 3:43 |
 | 50 | [Tefargna](https://open.spotify.com/track/3Gur7pDzhyNS0TUhVMW7NJ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Tefargna](https://open.spotify.com/album/1GTj4sjpcYCT1HotLQ1fOj) | 4:10 |
 
-Snapshot ID: `AAAAAAnImYye6blth+j05Kuv3zMZPkfr`
+Snapshot ID: `AAAAAPNEJfVSU8Yz4jjgtMwaHb+qaagC`

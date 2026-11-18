@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Stray Kids
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TOMORROW X TOGETHER
 
-1,181 songs - 2 day 15 hr 37 min
+1,182 songs - 2 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [AMMO \(feat\. YRD Leo\)](https://open.spotify.com/track/6qQTiRUVoy7vDGO1gWzOAe) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg), [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [AMMO \(feat\. YRD Leo\)](https://open.spotify.com/album/22YNyOJpQyPGV8GhAtIKKn) | 3:24 | 2026-02-24 | 2026-05-20 |
 | [Angel Bite](https://open.spotify.com/track/62pmQMfcm1leFyeKRfSaDq) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [PERFECT STORM](https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ) | 2:33 | 2026-11-17 |  |
 | [ANIMAL](https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME: DELUXE](https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq) | 2:26 | 2026-09-29 |  |
-| [ANIMAL](https://open.spotify.com/track/0NI2z69OboDcZ0YkF2ozRo) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [ANIMAL](https://open.spotify.com/album/5Qp6Th6wxnujUh394VdPAa) | 2:52 | 2026-10-01 |  |
+| [ANIMAL](https://open.spotify.com/track/0NI2z69OboDcZ0YkF2ozRo) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [ANIMAL](https://open.spotify.com/album/5Qp6Th6wxnujUh394VdPAa) | 2:52 | 2026-10-01 | 2026-11-18 |
 | [Aonooto](https://open.spotify.com/track/5uHoSGdji2lJjpZ4AtcpEw) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Aonooto](https://open.spotify.com/album/27CGUNOwhGV5NG46hXXYCV) | 4:00 | 2025-07-08 | 2025-08-05 |
 | [Aphrodite](https://open.spotify.com/track/7KbHVUBw2NihGysGGDpN0f) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [回帰LOVE](https://open.spotify.com/album/19E8K5raOkxy6HNvntZwJv) | 2:47 | 2026-08-21 |  |
 | [Aqua](https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Aqua](https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2) | 3:16 | 2024-02-20 | 2024-06-03 |
@@ -588,6 +588,7 @@
 | [Marmalade](https://open.spotify.com/track/1yuhVkErJhVz0Y8dr73y2G) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Marmalade](https://open.spotify.com/album/6IRDoLszHjzvriH80RFlJj) | 2:44 | 2025-11-21 | 2026-02-23 |
 | [Masterpiece](https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Masterpiece](https://open.spotify.com/album/2mCoRKgz1QeoSZETF68AY6) | 2:49 | 2026-10-21 | 2026-11-11 |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-23 | 2025-01-29 |
+| [MATCHA](https://open.spotify.com/track/7gESiMMOwo8uFkc1mb0ZPZ) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [AAO](https://open.spotify.com/album/0sZcpa3BHSXlFor4YfAACL) | 2:30 | 2026-11-17 |  |
 | [Maverick](https://open.spotify.com/track/7hb8xsnKg4vnamKof6P7SA) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [BLACK TOKYO](https://open.spotify.com/album/3TD29NJ6jz6qUtzMY0wtc8) | 3:41 | 2026-05-19 | 2026-05-27 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-05-08 | 2025-09-05 |
 | [MAZQUERADE](https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs) | 3:22 | 2024-10-01 | 2024-12-09 |

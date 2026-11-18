@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Yugi in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,068 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,040 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 27 | [bandiera rossa \#302 \(feat\. LILCR\)](https://open.spotify.com/track/4kFGd9eUMejybpvXCw8qHU) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [bandiera rossa \#302 \(feat\. LILCR\)](https://open.spotify.com/album/28u6QPHSrQO22FBiFQV0xj) | 2:32 |
 | 28 | [4 Gambe](https://open.spotify.com/track/5nEWSUWRc3xjpJn25xbXFY) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [4 Gambe](https://open.spotify.com/album/3CIAryrsaEFI1hPdPsUPvQ) | 2:21 |
 | 29 | [PUGNO DI FERRO \(Red Bull 64 Bars\)](https://open.spotify.com/track/1ZBUgZQjNcn367VktdxdAB) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PUGNO DI FERRO \(Red Bull 64 Bars\)](https://open.spotify.com/album/4MlSAvlzXNBHfLCyCQS2i6) | 3:11 |
-| 30 | [Badgyal \(feat\. Giovane Drago\)](https://open.spotify.com/track/3e5iSZTVWlmSba7qVscnMN) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR), [Giovane Drago](https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg) | [OASI, EDEN](https://open.spotify.com/album/3TPN16UVNiiDfsfZ0HuEh0) | 2:33 |
+| 30 | [Badgyal \(feat\. Giovane Drago\)](https://open.spotify.com/track/3e5iSZTVWlmSba7qVscnMN) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR), [Giovane Drago](https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg), [Scien](https://open.spotify.com/artist/6sJBjn9GZbhu93KnaVlwCR), [EyoJasper](https://open.spotify.com/artist/15Zh6kkBGw9ckIRquYpWLn) | [OASI, EDEN](https://open.spotify.com/album/3TPN16UVNiiDfsfZ0HuEh0) | 2:33 |
 | 31 | [OH NOOO! \(feat\. Ele A, 18K\)](https://open.spotify.com/track/7lQrtVBb0bXC6pFwIHzPaZ) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [JUNKIE MUSIK](https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l) | 2:18 |
 | 32 | [BRATZ \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/10nZU1tAX7XepntuYDJUVO) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 2:58 |
 | 33 | [SAFARI \(feat\. Astro & Tony Boy\)](https://open.spotify.com/track/3nZ1pM1DxcfAAf9QxIhnpo) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [MILLION DOLLAR BABE](https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5) | 2:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Niki & The Dove
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,816 likes - 199 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,811 likes - 199 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 198 | [Famine](https://open.spotify.com/track/7tpNSjh41h0krqaPgx2Ex1) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [Famine](https://open.spotify.com/album/5jb9ppekYck87iA16d8JAn) | 3:08 |
 | 199 | [Venus in the Zinnia](https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG), [H\. Hawkline](https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht) | [Venus in the Zinnia](https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9) | 3:17 |
 
-Snapshot ID: `AAAAAPZV08onofVZ6rY2eCc+aDRM5EGC`
+Snapshot ID: `AAAAAAMYCFHJBhElcDNwP0lSgaUKLcDQ`

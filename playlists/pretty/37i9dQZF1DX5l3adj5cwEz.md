@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l3adj5cwEz.md) - [plain]
 
 > Clap your hands and sing along! The best of Ms\. Rachel for little learners 🎶 Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112 likes - 14 songs - 28 min 25 sec
+[Spotify](https://open.spotify.com/user/spotify) - 147 likes - 14 songs - 28 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

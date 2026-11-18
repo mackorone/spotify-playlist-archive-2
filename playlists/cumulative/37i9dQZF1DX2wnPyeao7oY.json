@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Braeker",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: nighlight",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -3889,6 +3889,24 @@
     },
     {
       "album": {
+        "name": "Dead Asleep",
+        "url": "https://open.spotify.com/album/59l9hOCBlrEti5NZVvhXU4"
+      },
+      "artists": [
+        {
+          "name": "Mauled",
+          "url": "https://open.spotify.com/artist/6UcO509nWHNHlMhDYbuel2"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281941,
+      "name": "Dead Asleep",
+      "url": "https://open.spotify.com/track/6e1Xhj4ZKjJA9s21djpr8W"
+    },
+    {
+      "album": {
         "name": "Dead Batteries",
         "url": "https://open.spotify.com/album/4FL1qeCzpeFU6bUj31DtIT"
       },
@@ -7677,6 +7695,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat Glitch",
+        "url": "https://open.spotify.com/album/0l9xcOu9S5rSNSQUpuvI6o"
+      },
+      "artists": [
+        {
+          "name": "Index",
+          "url": "https://open.spotify.com/artist/3MFhkrjjpTsfXVTOvz6Ovu"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88787,
+      "name": "Heartbeat Glitch",
+      "url": "https://open.spotify.com/track/6lna25JLP5uiNX8hd0QRH8"
+    },
+    {
+      "album": {
         "name": "Heaven Below Earth",
         "url": "https://open.spotify.com/album/7aBuhYDInBEjomZTsZ0bcI"
       },
@@ -9601,6 +9637,28 @@
     },
     {
       "album": {
+        "name": "Let the Light In (feat. Confessions of A Traitor)",
+        "url": "https://open.spotify.com/album/1KzIVhJfJfmWdhMx8FubiA"
+      },
+      "artists": [
+        {
+          "name": "Cultist",
+          "url": "https://open.spotify.com/artist/2o4HXwGamPHdxXbpj4sTKG"
+        },
+        {
+          "name": "Confessions of a Traitor",
+          "url": "https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255224,
+      "name": "Let the Light In (feat. Confessions of A Traitor)",
+      "url": "https://open.spotify.com/track/4aHSqqjSI0qDY1iffQBAgR"
+    },
+    {
+      "album": {
         "name": "Talk Is Cheap",
         "url": "https://open.spotify.com/album/2dAdIQGlU94LtzJQmSctq6"
       },
@@ -10576,6 +10634,24 @@
       "duration_ms": 273040,
       "name": "Moira - Rerecorded",
       "url": "https://open.spotify.com/track/5jxs5HVcBDDuz83hLOO38K"
+    },
+    {
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/05jFFowsOkTVjV49n8dxB6"
+      },
+      "artists": [
+        {
+          "name": "GRAYSHIFT",
+          "url": "https://open.spotify.com/artist/1wdX1pAW9I0klfKeFWhBVe"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148165,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/08qBVMHZZyz7S4ZkluNf30"
     },
     {
       "album": {
@@ -12298,6 +12374,24 @@
       "duration_ms": 206813,
       "name": "Perfect Death",
       "url": "https://open.spotify.com/track/1g3xJT9dXXjNqz7iNM72Dc"
+    },
+    {
+      "album": {
+        "name": "Persephone",
+        "url": "https://open.spotify.com/album/03p3OaTYIGBaNfKQJqKqbF"
+      },
+      "artists": [
+        {
+          "name": "Moondaygun",
+          "url": "https://open.spotify.com/artist/7E5CihpH316v0AUTgnzga8"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323766,
+      "name": "Persephone",
+      "url": "https://open.spotify.com/track/1sdSBDK7FIBo49kLPa6jCV"
     },
     {
       "album": {
@@ -14394,6 +14488,24 @@
       "duration_ms": 52558,
       "name": "SHUT UP",
       "url": "https://open.spotify.com/track/3Qpb9NDN8c0fzS5lokl90D"
+    },
+    {
+      "album": {
+        "name": "SHUT//UP",
+        "url": "https://open.spotify.com/album/6RWe9PAYeznoH5JsjGHO1W"
+      },
+      "artists": [
+        {
+          "name": "nightlight",
+          "url": "https://open.spotify.com/artist/1jtVPXmV16w4YF8CHEndWK"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202384,
+      "name": "SHUT//UP",
+      "url": "https://open.spotify.com/track/7pajvNOzarlvLJNlwhWQeN"
     },
     {
       "album": {

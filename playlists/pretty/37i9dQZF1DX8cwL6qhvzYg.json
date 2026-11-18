@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe Carit BR en portada.",
-  "num_followers": 461289,
+  "num_followers": 461296,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANipZS9iSnsC84xJNFd6YxJMLK3a",
+  "snapshot_id": "AAAAAH8KZHZRw+YWnxtEFwFGjtCmJ7Tw",
   "tracks": [
     {
       "added_at": "2026-11-13 18:45:23",
@@ -247,26 +247,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Malas Ma\u00f1as",
-        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Malas Ma\u00f1as",
-      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Dr. Doctor",
         "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 158769,
       "name": "Dr. Doctor",
       "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Malas Ma\u00f1as",
+        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Malas Ma\u00f1as",
+      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Muchachita Consentida",
-      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "C\u00f3mo Te Voy a Olvidar",
         "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 216986,
       "name": "Mis Sentimientos",
       "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "Cuando No Estas Conmigo",
+        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 201367,
+      "name": "Cuando No Estas Conmigo",
+      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "Los Del Garrote",
         "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 197786,
       "name": "La Cumbia Del Garrote",
       "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/1xNni8clFCvN07YCdG5X8w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/5KcDU60p9xsYuPQarUpq6C"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -827,22 +827,22 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Cuando No Estas Conmigo",
-        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/1xNni8clFCvN07YCdG5X8w"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 201367,
-      "name": "Cuando No Estas Conmigo",
-      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/5KcDU60p9xsYuPQarUpq6C"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 181968,
+      "name": "Sal con Lim\u00f3n",
+      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "Yo Las Pongo",
         "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 191353,
       "name": "Yo Las Pongo",
       "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 181968,
-      "name": "Sal con Lim\u00f3n",
-      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Cumbia de Marisol",
-        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
-      },
-      "artists": [
-        {
-          "name": "Supergrupo Son Tepito",
-          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Cumbia de Marisol",
-      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Adicto a Tu Piel (Rebajada)",
         "url": "https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 243066,
       "name": "Adicto a Tu Piel (Rebajada)",
       "url": "https://open.spotify.com/track/70jvpdUE9glYJHYWaWb4Er"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
+      },
+      "artists": [
+        {
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 709545,
-      "name": "Medley Apache - En Vivo",
-      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Ya No Hay Beatles (2026 Remasterizada)",
         "url": "https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 168917,
       "name": "Ya No Hay Beatles - 2026 Remasterizada",
       "url": "https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 709545,
+      "name": "Medley Apache - En Vivo",
+      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "No Es Mi Problema",
-        "url": "https://open.spotify.com/album/1APC27NV7wTlG7nJyA2elk"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Bravo de Marcelo Vega",
-          "url": "https://open.spotify.com/artist/7i04Ys4Akid01XQIOzQTQU"
-        }
-      ],
-      "duration_ms": 220554,
-      "name": "No Es Mi Problema",
-      "url": "https://open.spotify.com/track/1em6HV9MjRs1Zc14BQxfBK"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 197000,
       "name": "Me Va, Me Va (En Vivo)",
       "url": "https://open.spotify.com/track/5hD9sORqBGD0RsI9IkDr8C"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "No Es Mi Problema",
+        "url": "https://open.spotify.com/album/1APC27NV7wTlG7nJyA2elk"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Bravo de Marcelo Vega",
+          "url": "https://open.spotify.com/artist/7i04Ys4Akid01XQIOzQTQU"
+        }
+      ],
+      "duration_ms": 220554,
+      "name": "No Es Mi Problema",
+      "url": "https://open.spotify.com/track/1em6HV9MjRs1Zc14BQxfBK"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
+        "name": "Mas Control",
+        "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Cumbia Morena",
+      "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
         "name": "Gran Festival Bailable",
         "url": "https://open.spotify.com/album/47kTykdNZ9oQolnxceP5F5"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 238631,
       "name": "Hoy Voy a Tomar",
       "url": "https://open.spotify.com/track/7lzYlCHuJukEVQl1Uu9R6t"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
-        "name": "Mas Control",
-        "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Cumbia Morena",
-      "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Malas Amistades - RADAR M\u00e9xico",
-        "url": "https://open.spotify.com/album/62Gx6FPpj5t9CvSz9iiGTh"
-      },
-      "artists": [
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        },
-        {
-          "name": "DENNA LA PORRI",
-          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Malas Amistades - RADAR M\u00e9xico",
-      "url": "https://open.spotify.com/track/7kSZqJlFH4t2SdIvPCjUeM"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Me Voy al Amanecer",
         "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 172608,
       "name": "El Agua Clara - En Vivo",
       "url": "https://open.spotify.com/track/1oNWnAu0CzUsB9GuBfKkWU"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Malas Amistades - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/62Gx6FPpj5t9CvSz9iiGTh"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "DENNA LA PORRI",
+          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Malas Amistades - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/7kSZqJlFH4t2SdIvPCjUeM"
     },
     {
       "added_at": "2026-11-13 18:45:23",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-11-13 18:45:23",
       "album": {
-        "name": "Tequendama de Oro, Vol. 4",
-        "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
-      },
-      "artists": [
-        {
-          "name": "Moab",
-          "url": "https://open.spotify.com/artist/5B7UoQQ1YBUcVbrmUZ24XN"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw"
-    },
-    {
-      "added_at": "2026-11-13 18:45:23",
-      "album": {
         "name": "Chicas Tribaleras",
         "url": "https://open.spotify.com/album/4Dpkd3pEkjdmilHkHVGl8R"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 171857,
       "name": "Chicas Tribaleras",
       "url": "https://open.spotify.com/track/4zprsPDmMWTBhIoh5GgkNA"
+    },
+    {
+      "added_at": "2026-11-13 18:45:23",
+      "album": {
+        "name": "Tequendama de Oro, Vol. 4",
+        "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
+      },
+      "artists": [
+        {
+          "name": "Moab",
+          "url": "https://open.spotify.com/artist/5B7UoQQ1YBUcVbrmUZ24XN"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw"
     },
     {
       "added_at": "2026-11-13 18:45:23",

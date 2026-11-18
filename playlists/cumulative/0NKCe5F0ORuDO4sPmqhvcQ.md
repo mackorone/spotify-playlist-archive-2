@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-740 songs - 1 day 17 hr 20 min
+743 songs - 1 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Devotion](https://open.spotify.com/track/7A19RHgKClfXscuuaLS7i9) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:51 | 2022-07-21 | 2023-01-30 |
 | [Different Way](https://open.spotify.com/track/163F0Xyv6BaZrACQIwMrcr) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Different Way](https://open.spotify.com/album/3LdFfrNZnL21UJTBIacm7S) | 3:16 | 2024-10-11 | 2025-08-25 |
 | [Distant Lands](https://open.spotify.com/track/0YeaRKy0gwdUI1d68RvefB) | [Leena](https://open.spotify.com/artist/2mEHiTKHiOWzrLPReJDoAD), [Gena](https://open.spotify.com/artist/3MqzFFAm4gc6nzAcWE2gjT) | [Labyrinth of the Subconscious](https://open.spotify.com/album/0Hj5xbQWBeWOMwoOqsqk4F) | 3:33 | 2022-02-11 | 2022-03-10 |
+| [Do It Again](https://open.spotify.com/track/1d9Cd2ZDTo1YWrWrjzoFCc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Panic Attack](https://open.spotify.com/album/2XDRwEY4n0kUx2tZA2bro7) | 2:52 | 2026-11-18 |  |
 | [Do It Again](https://open.spotify.com/track/41OIPsB7nh3GOUWD0Eukwy) | [Frison](https://open.spotify.com/artist/6rdBjC3pWmC5dKZkqgUOrP), [Dash30](https://open.spotify.com/artist/55eCRqfYWfk2QJWjIrPPXC) | [Daydream](https://open.spotify.com/album/6qVMdlnLSvSZr9o8WK4uN9) | 3:05 | 2022-07-24 | 2024-03-23 |
 | [Do What I Want](https://open.spotify.com/track/4oLDxpj955zfClXYIEFR1p) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Do What I Want](https://open.spotify.com/album/1rm0JfiJMC4VDQ00KuSPRQ) | 2:51 | 2025-10-10 | 2026-07-25 |
 | [Do You Want My Love](https://open.spotify.com/track/7jwdL5htUUWezSZllV5l23) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [This Can’t Be Everything](https://open.spotify.com/album/0S3K3wCAeOAzHueZHDlM1f) | 4:28 | 2022-08-19 | 2023-01-30 |
@@ -477,6 +478,7 @@
 | [On My Own](https://open.spotify.com/track/1bDVpNtcMmMfvqo1hIYWlw) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [On My Own](https://open.spotify.com/album/3Uzdtm2leQXh3Udy1WJ8XN) | 4:07 | 2023-09-29 | 2024-03-23 |
 | [on the hill](https://open.spotify.com/track/33uIddmYbMTtXea5qTfwLT) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG), [Finn Sigil](https://open.spotify.com/artist/4hUoSB0GFnGjmwUouW4Z2O) | [Mage 1](https://open.spotify.com/album/0WzFWjxpn9M2vQJS1jxcGR) | 4:40 | 2022-07-01 | 2022-09-19 |
 | [Once Upon a Time](https://open.spotify.com/track/1PhU0beKROIDBxxwf0B7lr) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Once Upon a Time](https://open.spotify.com/album/3jBewN7LtSKeaKoKY7zlKF) | 3:39 | 2023-06-15 | 2023-06-23 |
+| [ONE LIFE](https://open.spotify.com/track/20Ng8SVSE2LJi9jfqgCJ88) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [ONE LIFE](https://open.spotify.com/album/1KWmIGhbweDzk3R7RUlHBW) | 3:40 | 2026-11-18 |  |
 | [One More Night \- feat\. Flume](https://open.spotify.com/track/4tAms1KMqptEzmO59cULhS) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Can You Hear Me Dreaming?](https://open.spotify.com/album/3gi2MFodyrIh2X2r1hbgvx) | 2:44 | 2024-07-15 | 2025-08-25 |
 | [One More Time \- AOBeats Remix](https://open.spotify.com/track/7c9l2jlh2XHyRmDC6Cz5CX) | [Luka Kloser](https://open.spotify.com/artist/3IOjE9iyEPAWA1MnoeKjfQ), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [One More Time \(AOBeats Remix\)](https://open.spotify.com/album/2KIgLWdFH0EF6H5RFvR9qW) | 2:38 | 2022-03-04 | 2024-03-23 |
 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-03-29 | 2024-08-07 |
@@ -735,6 +737,7 @@
 | [Wobbledrug](https://open.spotify.com/track/0xqRM5GuFJZgWXXkwaqMtV) | [WOBBLEBUG](https://open.spotify.com/artist/7gPfQfayKKrJ6X2zHg49Zu) | [Wobbledrug](https://open.spotify.com/album/1wYCpHXmc2NN3StQeefORi) | 2:57 | 2022-09-30 | 2023-01-30 |
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-09-09 | 2022-09-19 |
 | [Worth My Time](https://open.spotify.com/track/2HBtlBkPLCvb35jcmuTUZF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Clearer Now EP](https://open.spotify.com/album/62jgddV1RnTux5oI7uzuSU) | 4:20 | 2022-03-11 | 2022-03-31 |
+| [WYLIN](https://open.spotify.com/track/4MgWN9KrflCKQSxi7mnDVP) | [Crispy Concords](https://open.spotify.com/artist/1h0e8ZIxm1ZgJC2BnUkW4G), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [CONCORD](https://open.spotify.com/album/7FA5MAlTfSErF14IDhivbz) | 2:59 | 2026-11-18 |  |
 | [X2C](https://open.spotify.com/track/4w6tMkhXUsVyi7kgIo5uG1) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [X2C](https://open.spotify.com/album/26vCQZzq5JbOU9pJ1Ujw6e) | 2:11 | 2026-08-01 |  |
 | [You](https://open.spotify.com/track/4bEhrJXoZuzVxZxiP8jzfs) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [You](https://open.spotify.com/album/7nLNrFYSLGQ0nDpxGBXNqz) | 2:36 | 2023-08-28 | 2023-09-26 |
 | [You](https://open.spotify.com/track/2jn2xXESbqEL8HAfNN9VH8) | [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [You Stay High](https://open.spotify.com/album/7nB5MqLrLkwjmf8fhfmcAN) | 2:48 | 2023-02-23 | 2023-06-23 |

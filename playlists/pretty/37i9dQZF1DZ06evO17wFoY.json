@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 30320,
+  "num_followers": 30326,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAAD0oGCxXicxYLstuIvEW3j7",
+  "snapshot_id": "avpHgAAAAAAI/ovyqUNGR8+wSJFQJ0fx",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tiersen: 6 Pieces for Piano, Vol. 2: No. 4, La valse d'Am\u00e9lie",
+        "url": "https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "6 Pieces for Piano, Vol. 2: No. 4, La Valse d'Am\u00e9lie",
+      "url": "https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bach: Goldberg Variations (Extended Edt.)",
         "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 140040,
       "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
       "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiersen: 6 Pieces for Piano, Vol. 2: No. 4, La valse d'Am\u00e9lie",
-        "url": "https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "6 Pieces for Piano, Vol. 2: No. 4, La Valse d'Am\u00e9lie",
-      "url": "https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6"
     },
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Magic",
-        "url": "https://open.spotify.com/album/1rEECaYPfrTMA7gDIXcOGk"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 59066,
-      "name": "Klavierst\u00fcck in F Major, K. 33b",
-      "url": "https://open.spotify.com/track/5O7SV284GeCFqs0wGfpYqb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mozart: Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\"",
         "url": "https://open.spotify.com/album/2j6Cg49cL6PtyDODubUzGY"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 291666,
       "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
       "url": "https://open.spotify.com/track/0iGDZom5WctL4eSQogMhMp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Magic",
+        "url": "https://open.spotify.com/album/1rEECaYPfrTMA7gDIXcOGk"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 59066,
+      "name": "Klavierst\u00fcck in F Major, K. 33b",
+      "url": "https://open.spotify.com/track/5O7SV284GeCFqs0wGfpYqb"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liszt: Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
-        "url": "https://open.spotify.com/album/3lhDAw7jJXezveOqSvhf2A"
+        "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
+        "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
       },
       "artists": [
         {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 207066,
-      "name": "Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
-      "url": "https://open.spotify.com/track/4sknlExcYjhwvoFjKfZ7vb"
+      "duration_ms": 81080,
+      "name": "Waltz in A Minor \u201cFound in New York\u201d - 2024 World Premiere Recording",
+      "url": "https://open.spotify.com/track/3Pmd3LaITgStVLitSsRAer"
     },
     {
       "added_at": null,
@@ -491,22 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
-        "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
+        "name": "Liszt: Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
+        "url": "https://open.spotify.com/album/3lhDAw7jJXezveOqSvhf2A"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 81080,
-      "name": "Waltz in A Minor \u201cFound in New York\u201d - 2024 World Premiere Recording",
-      "url": "https://open.spotify.com/track/3Pmd3LaITgStVLitSsRAer"
+      "duration_ms": 207066,
+      "name": "Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
+      "url": "https://open.spotify.com/track/4sknlExcYjhwvoFjKfZ7vb"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Don\u2019t Talk About Bruno (From \"Encanto\")",
-        "url": "https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 244311,
-      "name": "We Don\u2019t Talk About Bruno - From \"Encanto\"",
-      "url": "https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ann: ICARUS (Version for Piano 4 Hands)",
         "url": "https://open.spotify.com/album/70wHjMEcYKBwNTufddc69I"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 198906,
       "name": "ICARUS (Version for Piano 4 Hands)",
       "url": "https://open.spotify.com/track/2Ebny6CAm0KH0YvWvLQBNz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Don\u2019t Talk About Bruno (From \"Encanto\")",
+        "url": "https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 244311,
+      "name": "We Don\u2019t Talk About Bruno - From \"Encanto\"",
+      "url": "https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy"
     },
     {
       "added_at": null,
@@ -951,6 +951,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 373173,
+      "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - Live",
+      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Carl Czerny",
+          "url": "https://open.spotify.com/artist/3gOIm6ckbGpE2x2Cl0XnsW"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 34840,
+      "name": "The School of Velocity, Op. 299: No. 1 in C Major. Presto",
+      "url": "https://open.spotify.com/track/4Fq2TXNaPkxnFnvLpl6zXk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Book 2 \u2013 Modern Encores",
         "url": "https://open.spotify.com/album/6WO1Aerb7wb4krg5Sni4YM"
       },
@@ -979,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Carl Czerny",
-          "url": "https://open.spotify.com/artist/3gOIm6ckbGpE2x2Cl0XnsW"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 34840,
-      "name": "The School of Velocity, Op. 299: No. 1 in C Major. Presto",
-      "url": "https://open.spotify.com/track/4Fq2TXNaPkxnFnvLpl6zXk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Mozart Album",
         "url": "https://open.spotify.com/album/0frnbBKctMDOscUIz5dAt4"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 592266,
       "name": "Piano Concerto No. 24 in C Minor, K. 491: III. Allegretto",
       "url": "https://open.spotify.com/track/7ymm83FDIZE8zVXffT9qa2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chopin Gold",
-        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 373173,
-      "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - Live",
-      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
     }
   ],
   "unique_name": "This Is Lang Lang",

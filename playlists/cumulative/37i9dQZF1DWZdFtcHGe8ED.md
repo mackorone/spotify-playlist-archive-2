@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-478 songs - 1 day 9 hr 52 min
+479 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Mad Dictator](https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM) | [Knee\-Deep in the Dead](https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F) | 4:27 | 2021-12-17 |  |
 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 | 2022-07-13 | 2024-04-19 |
 | [Madhouse](https://open.spotify.com/track/6DRvu6LgU0wRF6Yr7WHRji) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/6cxOXhhgRg5CiCCdqmHKZp) | 4:19 | 2022-07-13 | 2025-06-28 |
-| [Malicious Souls](https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4) | [Vulture](https://open.spotify.com/artist/1CT8OXcMKm9zlFcSX74tFF) | [Malicious Souls](https://open.spotify.com/album/6AIAuIzz1IidgUVMPHOsmS) | 3:17 | 2021-12-17 |  |
+| [Malicious Souls](https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4) | [Vulture](https://open.spotify.com/artist/1CT8OXcMKm9zlFcSX74tFF) | [Malicious Souls](https://open.spotify.com/album/6AIAuIzz1IidgUVMPHOsmS) | 3:17 | 2021-12-17 | 2026-11-18 |
 | [Mania](https://open.spotify.com/track/1Hi1WFQ9Ro26gi1H5yT9Ci) | [Hell Fire](https://open.spotify.com/artist/6hwtkhYiDooPPfKqzumCkb) | [Mania](https://open.spotify.com/album/3iVtq5GNrvHDQzingo56kP) | 5:51 | 2021-12-17 | 2022-07-20 |
 | [Marionette](https://open.spotify.com/track/098gOGegzGnjMi3bZVLUeN) | [Born Of Ire](https://open.spotify.com/artist/6PewtGR1UteSAtMhineAxx) | [Born of Ire](https://open.spotify.com/album/3HBNbDf4SxIED8tBzBcxRN) | 5:00 | 2021-12-17 | 2022-07-16 |
 | [Masked Jackal](https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Punishment for Decadence](https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX) | 4:47 | 2022-07-13 |  |
@@ -414,6 +414,7 @@
 | [The Blight](https://open.spotify.com/track/0rSkHGAlNJIDbkw3uDwNjf) | [Heathen](https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF) | [The Blight](https://open.spotify.com/album/7sWShhNUqcFYtCthOXoHe0) | 4:38 | 2021-12-17 | 2022-03-05 |
 | [The Clerical Conspiracy \- 2007 Remastered Version](https://open.spotify.com/track/1KxBpjZAxjjO0XUjgEUR26) | [Sabbat](https://open.spotify.com/artist/0jt8kceByMQRorrMxKEUUt) | [Dreamweaver \(Expanded Edition\)](https://open.spotify.com/album/0Bbj6ao9xoNtGw6Yttqklr) | 5:37 | 2022-07-13 | 2022-07-24 |
 | [The Deed Is Done](https://open.spotify.com/track/2OmbIUAJVoLXfTYlR4XOcM) | [Swarm](https://open.spotify.com/artist/5d8OStxcQdgHwfEEK3GcxG) | [Anathema](https://open.spotify.com/album/2QG6SBbsJ9FPUJHx6OkGvz) | 3:23 | 2021-12-17 | 2022-03-01 |
+| [The Denver School](https://open.spotify.com/track/6s71EV0sGyYWM7UMTIUWlz) | [Necropanther](https://open.spotify.com/artist/2Fe3uMYgjeDjg9JIIV3yxa) | [Oblivion Jones](https://open.spotify.com/album/2IxVOJ3aM4cUFXe1tBQ1ez) | 4:02 | 2026-10-19 |  |
 | [The Descending](https://open.spotify.com/track/72keEkoiv1LfF83ZImJd4g) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [The Descending](https://open.spotify.com/album/5wMW5X0vaDerQZxctW50KF) | 3:11 | 2021-12-17 | 2025-05-03 |
 | [The Edge of Perfection](https://open.spotify.com/track/4yyZgS9QlUbOtMPzagV7g3) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [The Edge of Perfection](https://open.spotify.com/album/7vNUBvc21dOm2r4ClB7wJY) | 6:46 | 2026-10-19 |  |
 | [The Ending](https://open.spotify.com/track/5wg8llj8KWPje67TGtXYK2) | [Cerberus](https://open.spotify.com/artist/2X801wW31GQU9xgVESz7hY) | [The Ending](https://open.spotify.com/album/1hBimLkEmBtVyn1s4xQZgu) | 3:33 | 2021-12-17 |  |

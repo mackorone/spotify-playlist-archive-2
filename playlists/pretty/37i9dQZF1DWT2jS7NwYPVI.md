@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: footballhead
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,186 likes - 200 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,178 likes - 200 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 199 | [Don’t Worry Dynamite](https://open.spotify.com/track/5U4ewHwID2c2113tSWCEOn) | [Star's Revenge](https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX) | [Don’t Worry Dynamite](https://open.spotify.com/album/5pkKSp5n1o6uBiU6oCeVfk) | 2:47 |
 | 200 | [Itsy Bitsy](https://open.spotify.com/track/2rlzp4LgFSePAHPYhSLQqR) | [jade yee\-smith](https://open.spotify.com/artist/2JffhI0mbTb7flHpwPgq3a) | [Itsy Bitsy](https://open.spotify.com/album/44V5OVOQ0zmbh1T1UYL6Bt) | 3:25 |
 
-Snapshot ID: `AAAAAKXvk9BvdF8Q63ro1jlTvLgequdQ`
+Snapshot ID: `AAAAAEnHIOWYiaCO2LRd+/783RrftwFj`

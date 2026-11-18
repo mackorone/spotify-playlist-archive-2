@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-622 songs - 1 day 13 hr 42 min
+625 songs - 1 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [CAPATA](https://open.spotify.com/track/0VmCSFtc1F0SVucjEorToC) | [Lucas Antonelli](https://open.spotify.com/artist/1OEvkdafNbLnGUhbNo8uPd) | [CAPATA](https://open.spotify.com/album/0Q4h3Fts5qx6a9r29z60tc) | 2:41 | 2025-02-19 |  |
 | [Caramelos](https://open.spotify.com/track/78C8EGE1S3Nk5T7Cf8k06J) | [Mono Loco](https://open.spotify.com/artist/4CZR9EpFMQuqqDMP8ql8fC) | [Rock de la Selva, Vol\. 1](https://open.spotify.com/album/6Iu1V1aqcsxLJyb916YrTz) | 3:10 | 2024-12-04 |  |
 | [Carmilla](https://open.spotify.com/track/5CoAnSf5qCTmfrdExPwxFL) | [The Birch](https://open.spotify.com/artist/0f1yccwMizgOv0fVWIRo83) | [Carmilla](https://open.spotify.com/album/6Tz9TZrU9VQ3UZ6kAAhQPO) | 4:33 | 2023-04-13 |  |
+| [Carne de escenario](https://open.spotify.com/track/22rfs5GyNX9gU3TepMrnbZ) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll \(EP\)](https://open.spotify.com/album/2J7JqF5ceI5PvTMz8JYqJ3) | 2:58 | 2026-11-17 |  |
 | [Castle Of Sand](https://open.spotify.com/track/7EaX8tS4CbsQFvyafOSiVu) | [Crazy Deer Productions](https://open.spotify.com/artist/10sBd8jEnbbA98L0uDtrCH), [Young Orange](https://open.spotify.com/artist/3hH86EXIHipZpG20bf1hUA) | [Castle Of Sand](https://open.spotify.com/album/5AJeTqR5kuU9otENdZ5mOO) | 2:36 | 2023-05-03 |  |
 | [Catnip Stun](https://open.spotify.com/track/4bcfDYa8s0gHGMcGsySJne) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [Catnip Stun](https://open.spotify.com/album/3IfmMhNxkyo4dmSXqOOZtK) | 4:39 | 2025-03-25 |  |
 | [Chemical Love Bomb](https://open.spotify.com/track/6KcfalboBX94jSevyL7ZDS) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Lumen Del Mundo](https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H) | 3:40 | 2023-06-12 |  |
@@ -377,6 +378,7 @@
 | [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 | 2026-11-17 |  |
 | [No Quiero Esperar A Decirte](https://open.spotify.com/track/3ytFkGBAPIFhZWRGCTMOP1) | [Nereid3](https://open.spotify.com/artist/4s4IaOerc5DvHWsaebmh6a), [Óscar Torrecillas](https://open.spotify.com/artist/0eWyguNKan0cJHmGnSESO2) | [No Quiero Esperar A Decirte](https://open.spotify.com/album/1GZKaRYA2eYvBWIhNnLX3S) | 2:34 | 2025-03-31 |  |
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2025-11-10 |  |
+| [Non sono la tua bambola](https://open.spotify.com/track/3MigGr0K9NsWp9v9SBN3nQ) | [Klaudia DG](https://open.spotify.com/artist/0WyWixivFk2XT2nn8WTJRZ) | [Non sono la tua bambola](https://open.spotify.com/album/2MLgasDNDJyWMghnTaTwPk) | 2:43 | 2026-11-17 |  |
 | [Not Living to Give Up](https://open.spotify.com/track/2yJPbw99bgu44DboHDzuMx) | [Deully](https://open.spotify.com/artist/1tttcmDgOPmadXhAVQZLyr) | [This Long Road](https://open.spotify.com/album/1EKqvnV1vkq4VYdUULU5t2) | 3:55 | 2024-11-18 |  |
 | [Nuestro Final](https://open.spotify.com/track/2pxmR5j3BvOjmE10rjsahv) | [Casual Kids](https://open.spotify.com/artist/6Du1nUi00XM60WEBK4LqEz) | [Nuestro Final](https://open.spotify.com/album/3NRG43rtc3NNhCDWOaEQyq) | 2:52 | 2025-02-20 |  |
 | [Nutshell](https://open.spotify.com/track/3LF6H0kgMEBlLwxcURmmX6) | [Starfsh](https://open.spotify.com/artist/0i8fjbjJ3wek1a601PeV8g), [Nikki Manos](https://open.spotify.com/artist/277PrHYGwOzkNgxDgsfEA6) | [Nutshell](https://open.spotify.com/album/7jOqOgVXhUH1uw0zyYnykG) | 4:10 | 2024-07-11 |  |
@@ -406,6 +408,7 @@
 | [People Leave](https://open.spotify.com/track/6DpqEim9YE6jgh9cinChYi) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN) | [People Leave](https://open.spotify.com/album/2Zztj7u7j7Ugu6VX5sprI3) | 3:12 | 2025-01-08 |  |
 | [Perché amo il mio lavoro](https://open.spotify.com/track/336aLiYmKlh1WfDVY1QJLF) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Un'estate all'inferno](https://open.spotify.com/album/72aYGJWx28UtvsP7sXaX42) | 2:41 | 2025-10-28 |  |
 | [Perdiendo Otra Oportunidad](https://open.spotify.com/track/1h1BYIDHxtaFvjF7HABeIq) | [Lord Coca](https://open.spotify.com/artist/5AAnBIuxqnTGGcgNckk9ak) | [Aflorante](https://open.spotify.com/album/3g3Ws5LZGBGGBQcxoFJYBt) | 3:35 | 2023-04-24 |  |
+| [Peço pra Chover](https://open.spotify.com/track/5ACQIZYeHktPw6Ku3ADuxq) | [Extremo](https://open.spotify.com/artist/74gWV17FGVbKqX4lpBHoOH) | [Peço pra Chover](https://open.spotify.com/album/7LAwKYI0oovD6uiO4O2z5X) | 3:45 | 2026-11-18 |  |
 | [Pink Daydream](https://open.spotify.com/track/6e3UBYN5pfWj1gocZUUgyu) | [Private Party](https://open.spotify.com/artist/1Nelw0xdSyeJOqMhjL4IkL) | [Cardiff Gets Splattered](https://open.spotify.com/album/1TFrHGq238plhcWEHFwOQf) | 3:07 | 2023-08-20 |  |
 | [Pinkyswear](https://open.spotify.com/track/4tJCbGfRGt0a8hiuoeSx6U) | [The Vanity Project](https://open.spotify.com/artist/2EjZ5wLRYo7Dn1n5nyrgBd) | [Pinkyswear](https://open.spotify.com/album/2Z0nfVGNqljHbCtlfvne0Y) | 2:12 | 2025-01-08 |  |
 | [Pipe And Music](https://open.spotify.com/track/6Nhc580W8rLl5SGxK5Ypv0) | [Renssy Rios](https://open.spotify.com/artist/63F1hinOi5SzOe3DzzTbjH), [RamsesRios](https://open.spotify.com/artist/1q9k1ItS5FAaPsbaSjlKFw) | [Pipe And Music](https://open.spotify.com/album/41tDlhab26BQV1guQxr5t4) | 4:04 | 2023-03-13 |  |

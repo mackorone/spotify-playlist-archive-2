@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 470784,
+  "num_followers": 470746,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "It's Been a While",
-        "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "It's Been a While",
-      "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Galacticana",
         "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 240733,
       "name": "Galacticana",
       "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "It's Been a While",
+        "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "It's Been a While",
+      "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "In Unison",
-        "url": "https://open.spotify.com/album/35YFuoRW7wt1QDMqLzxL4w"
-      },
-      "artists": [
-        {
-          "name": "Blank Range",
-          "url": "https://open.spotify.com/artist/4TKZQfojfl4wUDO3Mql65t"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Proximity",
-      "url": "https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 228960,
       "name": "One Night Show",
       "url": "https://open.spotify.com/track/6GShhhftAwBQitztgKUCPN"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "In Unison",
+        "url": "https://open.spotify.com/album/35YFuoRW7wt1QDMqLzxL4w"
+      },
+      "artists": [
+        {
+          "name": "Blank Range",
+          "url": "https://open.spotify.com/artist/4TKZQfojfl4wUDO3Mql65t"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Proximity",
+      "url": "https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
-      },
-      "artists": [
-        {
-          "name": "The Lighthouse And The Whaler",
-          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
-        }
-      ],
-      "duration_ms": 258058,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Devil and the Sea",
         "url": "https://open.spotify.com/album/5XkuCSfJsRRNsBJTfpfLEs"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 218573,
       "name": "Devil and the Sea",
       "url": "https://open.spotify.com/track/4MvLYfOKCq2iFfANg0WNxR"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
+      },
+      "artists": [
+        {
+          "name": "The Lighthouse And The Whaler",
+          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
+        }
+      ],
+      "duration_ms": 258058,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
     },
     {
       "added_at": "2025-02-07 05:00:32",

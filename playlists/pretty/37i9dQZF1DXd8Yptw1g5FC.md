@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Canozan x M Lisa ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,701 likes - 150 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,710 likes - 150 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 49 | [Yan Yana](https://open.spotify.com/track/4Sym5YugU060Ay9uqrXLGE) | [Hülya Polat](https://open.spotify.com/artist/1C11mfsQmFYaI9VbZFyMyC) | [Yan Yana](https://open.spotify.com/album/44ER1kWvfVG4x9OMXRbVZY) | 6:31 |
 | 50 | [İYİ DEĞİLİM](https://open.spotify.com/track/7ondFrCopihqMGv9sCfL3X) | [Tuana Tetik](https://open.spotify.com/artist/4hVkWQ0iAHxtfV6TSARSxR) | [İYİ DEĞİLİM](https://open.spotify.com/album/1tBl7CUP2owPCDY4hhIeeH) | 2:06 |
 | 51 | [KARDEŞ](https://open.spotify.com/track/2yTMV8q8GOIJAG8voUq6C6) | [Resul Aydemir](https://open.spotify.com/artist/6Qf3MTu5yyMzrfFJiHOHQP), [Kantoryum](https://open.spotify.com/artist/1w0vUnyhILWTMCapQB46Jp) | [KARDEŞ](https://open.spotify.com/album/1x4mOTCnLbhvaSATQsSCnp) | 3:19 |
-| 52 | [TEK DİŞİ](https://open.spotify.com/track/4BODngWJLj3Ccc52sjhsA1) | [emriboi](https://open.spotify.com/artist/4uby8wNIiOVRacoC1AgADI) | [TEK DİŞİ](https://open.spotify.com/album/3FaaswPg1956Ww5I5eyLwA) | 2:35 |
+| 52 | [TEK DİŞİ](https://open.spotify.com/track/4BODngWJLj3Ccc52sjhsA1) | [emriboi](https://open.spotify.com/artist/4uby8wNIiOVRacoC1AgADI), [dante](https://open.spotify.com/artist/2B0gQb5iNcxy9ubxf3F7ky) | [TEK DİŞİ](https://open.spotify.com/album/3FaaswPg1956Ww5I5eyLwA) | 2:35 |
 | 53 | [Bir de Sen Vurma](https://open.spotify.com/track/2J9Ay1ZXxs2LCdC1wtvfyB) | [Ekrem Düzgünoğlu](https://open.spotify.com/artist/1HEHwZasUTlLaKQ6pJcOqT) | [Bir de Sen Vurma](https://open.spotify.com/album/596k3J5XhtgZUSZcVQVsA3) | 4:26 |
 | 54 | [Etek Sarı](https://open.spotify.com/track/2SauJ2kZjyHgjtZWTKFbEG) | [Tahir Uçar](https://open.spotify.com/artist/0s78FQHfWvPlHpqqqNK6Cx) | [Etek Sarı](https://open.spotify.com/album/3fZqaFo8ueHQrtQkncqTyY) | 4:25 |
 | 55 | [Vay](https://open.spotify.com/track/6j9GkmIC8yTqovupNVYOKU) | [Selin Sümbültepe](https://open.spotify.com/artist/0KmKUL5Vh4hWu4y94z4L2l) | [Vay](https://open.spotify.com/album/1UDtrI9k7CGQ921YMPNaYA) | 3:48 |

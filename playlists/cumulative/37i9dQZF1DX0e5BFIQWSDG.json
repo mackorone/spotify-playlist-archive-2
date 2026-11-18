@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: LEX",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -1387,6 +1387,32 @@
     },
     {
       "album": {
+        "name": "Friday The 13th",
+        "url": "https://open.spotify.com/album/1hFAK2N8NrzGqBv73hcsDx"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "APOPSE",
+      "url": "https://open.spotify.com/track/7amgtXC4JGkiUPiaDKqtY6"
+    },
+    {
+      "album": {
         "name": "APOTIPOMATA",
         "url": "https://open.spotify.com/album/13fA1U9jizHnA17kxIOhtX"
       },
@@ -1572,7 +1598,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 120615,
       "name": "Armed and Dangerous",
       "url": "https://open.spotify.com/track/0EV8ZWohDayPL4bZjZIQEf"
@@ -2479,6 +2505,28 @@
     },
     {
       "album": {
+        "name": "MPASTARD0S",
+        "url": "https://open.spotify.com/album/7azjzKMvWGkorvqryUcr2h"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/7I77ZgG8j2HforcRKrORvk"
+    },
+    {
+      "album": {
         "name": "BLAH BLAH",
         "url": "https://open.spotify.com/album/1KbcwiM66id7Kj3e6IzKkA"
       },
@@ -2920,6 +2968,28 @@
       "duration_ms": 141000,
       "name": "C-HR",
       "url": "https://open.spotify.com/track/2c1T336Kuvm1OzcNGGpxbm"
+    },
+    {
+      "album": {
+        "name": "Friday The 13th",
+        "url": "https://open.spotify.com/album/1hFAK2N8NrzGqBv73hcsDx"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136119,
+      "name": "CA BONA",
+      "url": "https://open.spotify.com/track/29ezrxGJpjqxZVELKyuYeE"
     },
     {
       "album": {
@@ -3969,6 +4039,28 @@
     },
     {
       "album": {
+        "name": "MPASTARD0S",
+        "url": "https://open.spotify.com/album/7azjzKMvWGkorvqryUcr2h"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "DRAKOS",
+      "url": "https://open.spotify.com/track/4VE9u5CGKFqAcKUnXZGNMA"
+    },
+    {
+      "album": {
         "name": "DRAKOS",
         "url": "https://open.spotify.com/album/029rZwDYwchuO0mbmgyMfu"
       },
@@ -4186,7 +4278,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 243936,
       "name": "Eipes",
       "url": "https://open.spotify.com/track/1ibvHjnMqZZmayckoA4W5Y"
@@ -5414,6 +5506,28 @@
       "duration_ms": 169846,
       "name": "GEN Z",
       "url": "https://open.spotify.com/track/4MNXP9RbzehazE3ZwyWrKJ"
+    },
+    {
+      "album": {
+        "name": "MPASTARD0S",
+        "url": "https://open.spotify.com/album/7azjzKMvWGkorvqryUcr2h"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "GENESIS",
+      "url": "https://open.spotify.com/track/7pYEw3SOZQvSxbGVzCUr45"
     },
     {
       "album": {
@@ -6756,7 +6870,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 198937,
       "name": "KAKA PAIDIA",
       "url": "https://open.spotify.com/track/6A9oZWOkUO9PL0HDuzlRLn"
@@ -9332,7 +9446,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -9892,7 +10006,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 158769,
       "name": "OPOU KI AN PAS",
       "url": "https://open.spotify.com/track/0MHTVZhRsPi9PcbTceEMq8"

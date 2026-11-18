@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 824620,
+  "num_followers": 824672,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Old Tyme Religion",
-        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
       },
       "artists": [
         {
-          "name": "Hugo",
-          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
         }
       ],
-      "duration_ms": 137426,
-      "name": "99 Problems",
-      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
+      "duration_ms": 143988,
+      "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/6X0F53XRWhmVKAaQsnuRDL"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -351,18 +351,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
-        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+        "name": "Old Tyme Religion",
+        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
       },
       "artists": [
         {
-          "name": "Rachel Zegler",
-          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
         }
       ],
-      "duration_ms": 143988,
-      "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/6X0F53XRWhmVKAaQsnuRDL"
+      "duration_ms": 137426,
+      "name": "99 Problems",
+      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -499,18 +499,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Jace Everett",
-        "url": "https://open.spotify.com/album/0C5MT9P1lTRrVsUcQ8YLjx"
+        "name": "I Speak Because I Can",
+        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
       "artists": [
         {
-          "name": "Jace Everett",
-          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/3H0XRfbPaBqLd1UjzRMVnt"
+      "duration_ms": 218188,
+      "name": "Devil's Spoke",
+      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "I Speak Because I Can",
-        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 218188,
-      "name": "Devil's Spoke",
-      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 212705,
       "name": "Run On",
       "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/0C5MT9P1lTRrVsUcQ8YLjx"
+      },
+      "artists": [
+        {
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3H0XRfbPaBqLd1UjzRMVnt"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Two Coats",
-        "url": "https://open.spotify.com/album/1PasnDvFzjSWX1hf14KF6B"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        }
-      ],
-      "duration_ms": 299054,
-      "name": "Two Coats",
-      "url": "https://open.spotify.com/track/4KyTHzNEavebTcUHWxR8Zs"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 335586,
       "name": "Hy-Brasil",
       "url": "https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Two Coats",
+        "url": "https://open.spotify.com/album/1PasnDvFzjSWX1hf14KF6B"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        }
+      ],
+      "duration_ms": 299054,
+      "name": "Two Coats",
+      "url": "https://open.spotify.com/track/4KyTHzNEavebTcUHWxR8Zs"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Heavy Tobacco",
-        "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
-      },
-      "artists": [
-        {
-          "name": "Angela Autumn",
-          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
-        }
-      ],
-      "duration_ms": 189609,
-      "name": "Heavy Tobacco",
-      "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Wooden Machine",
         "url": "https://open.spotify.com/album/1pTDcGfgXQEwT2uzMuKTT3"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 222170,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/1bSaCwYFe8qwTcNuEIFvKV"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Heavy Tobacco",
+        "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 189609,
+      "name": "Heavy Tobacco",
+      "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1167,34 +1167,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Leaving The Zoo",
-        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
       "artists": [
         {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 323341,
-      "name": "Leaving the Zoo",
-      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
-        "name": "Country Is Dead",
-        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Alone And Forsaken",
-      "url": "https://open.spotify.com/track/4Vj4lQaRXrSzyLvXTl0vV8"
+      "duration_ms": 177359,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+        "name": "Leaving The Zoo",
+        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
         }
       ],
-      "duration_ms": 177359,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+      "duration_ms": 323341,
+      "name": "Leaving the Zoo",
+      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
+        "name": "Country Is Dead",
+        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Alone And Forsaken",
+      "url": "https://open.spotify.com/track/4Vj4lQaRXrSzyLvXTl0vV8"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
         "name": "By The Rule",
         "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "The Winter of '68",
-        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 202979,
-      "name": "The Winter of '68",
-      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "I Hear Him Howling",
         "url": "https://open.spotify.com/album/2ry8j1UboPzBLjaDKpgTMo"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 224520,
       "name": "I Hear Him Howling",
       "url": "https://open.spotify.com/track/4o5MExPgOJGdp4XLOD46Px"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "The Winter of '68",
+        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 202979,
+      "name": "The Winter of '68",
+      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
+        "name": "Twin",
+        "url": "https://open.spotify.com/album/5GhI019oC8mS6czOfouj2J"
+      },
+      "artists": [
+        {
+          "name": "Scott Mackay",
+          "url": "https://open.spotify.com/artist/2xYS83mlSswjyivp81pukU"
+        },
+        {
+          "name": "Lucette",
+          "url": "https://open.spotify.com/artist/01z6ICSRjIuMEwMhPyA6ql"
+        }
+      ],
+      "duration_ms": 196890,
+      "name": "Where the Enemy Sleeps",
+      "url": "https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
         "name": "Little Dove",
         "url": "https://open.spotify.com/album/19XBdwZcAWUlQo8AuOiXke"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 228176,
       "name": "Little Dove",
       "url": "https://open.spotify.com/track/00QfFBVK4riZi2YdmPbrGL"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
-        "name": "Twin",
-        "url": "https://open.spotify.com/album/5GhI019oC8mS6czOfouj2J"
-      },
-      "artists": [
-        {
-          "name": "Scott Mackay",
-          "url": "https://open.spotify.com/artist/2xYS83mlSswjyivp81pukU"
-        },
-        {
-          "name": "Lucette",
-          "url": "https://open.spotify.com/artist/01z6ICSRjIuMEwMhPyA6ql"
-        }
-      ],
-      "duration_ms": 196890,
-      "name": "Where the Enemy Sleeps",
-      "url": "https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k"
     },
     {
       "added_at": "2026-11-13 00:01:01",

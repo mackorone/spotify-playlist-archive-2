@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Stray Kids
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TOMORROW X TOGETHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,679 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,719 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SUIATSU](https://open.spotify.com/track/4c4nLX4HDPiEuLJV52AsyI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SUIATSU](https://open.spotify.com/album/6Sbe6k0GV26EDheUyoVGZ3) | 2:49 |
-| 2 | [Angel Bite](https://open.spotify.com/track/62pmQMfcm1leFyeKRfSaDq) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [PERFECT STORM](https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ) | 2:33 |
+| 1 | [Angel Bite](https://open.spotify.com/track/62pmQMfcm1leFyeKRfSaDq) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [PERFECT STORM](https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ) | 2:33 |
+| 2 | [MATCHA](https://open.spotify.com/track/7gESiMMOwo8uFkc1mb0ZPZ) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [AAO](https://open.spotify.com/album/0sZcpa3BHSXlFor4YfAACL) | 2:30 |
 | 3 | [UP](https://open.spotify.com/track/4DftOge3WDwVfuNUJmG8Qa) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.6](https://open.spotify.com/album/7jLYgdukFKw7suEf3CSDik) | 3:26 |
-| 4 | [Bananas](https://open.spotify.com/track/3pSMRG8QhKamtZjdHYe84G) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [S.W.I.S.H.](https://open.spotify.com/album/5eKFOQWdmVyj2z4KsKKGnK) | 2:45 |
-| 5 | [Boogie Woogie](https://open.spotify.com/track/25aPAxdjuY65ndMA0Q4O8X) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM AFTER DREAM](https://open.spotify.com/album/4ZOny2sfAeGeHixBa8UXcw) | 3:12 |
-| 6 | [Call My Name](https://open.spotify.com/track/2CQhZ1HZd2GrfJKxe1aW9Z) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TO US](https://open.spotify.com/album/0yELnfoSfyydAEoBsnFnh3) | 2:38 |
-| 7 | [Aurora](https://open.spotify.com/track/5ht69Xbfj12h1n6Nd12qaW) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Aurora](https://open.spotify.com/album/77i2hnrLLEg4T5GOFCXakR) | 3:41 |
-| 8 | [Bloody Paradise](https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS](https://open.spotify.com/album/2os46ReV779WlryAHPL6ko) | 2:11 |
-| 9 | [NOW U KNOW](https://open.spotify.com/track/1ZQwDMEIBQaKGP6mpElU4i) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:4U](https://open.spotify.com/album/16ViymeyDqvnGEpKUrWu3x) | 2:58 |
-| 10 | [SHOCK](https://open.spotify.com/track/2VOnT1r8U0L4z2JkoD36of) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SHOCK](https://open.spotify.com/album/4u13jebmonPQm8jCSo0NcH) | 2:51 |
-| 11 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
-| 12 | [Insomnia](https://open.spotify.com/track/0jZY6beWiqEvcPCGuLaEaW) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Insomnia](https://open.spotify.com/album/1p2UyLZ2vf0jfwpAGishl1) | 3:14 |
-| 13 | [French Kissing](https://open.spotify.com/track/3d23jzQ4KGiEBmZ7aw8Q8M) | [AND2BLE](https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF) | [Sequence 02: Attraction](https://open.spotify.com/album/4sZ7n2Ym0dtwhjIXHgWaoo) | 3:10 |
-| 14 | [Dancing in the Dark](https://open.spotify.com/track/7JaklRGtjDrRBtJHOSIEI4) | [A2O SOUL](https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [SUPERSTAR](https://open.spotify.com/album/6yXPYq0Iz38xI9BMByyMV4) | 2:48 |
-| 15 | [ANIMAL](https://open.spotify.com/track/0NI2z69OboDcZ0YkF2ozRo) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [ANIMAL](https://open.spotify.com/album/5Qp6Th6wxnujUh394VdPAa) | 2:52 |
+| 4 | [SUIATSU](https://open.spotify.com/track/4c4nLX4HDPiEuLJV52AsyI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SUIATSU](https://open.spotify.com/album/6Sbe6k0GV26EDheUyoVGZ3) | 2:49 |
+| 5 | [Bananas](https://open.spotify.com/track/3pSMRG8QhKamtZjdHYe84G) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [S.W.I.S.H.](https://open.spotify.com/album/5eKFOQWdmVyj2z4KsKKGnK) | 2:45 |
+| 6 | [Boogie Woogie](https://open.spotify.com/track/25aPAxdjuY65ndMA0Q4O8X) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM AFTER DREAM](https://open.spotify.com/album/4ZOny2sfAeGeHixBa8UXcw) | 3:12 |
+| 7 | [Call My Name](https://open.spotify.com/track/2CQhZ1HZd2GrfJKxe1aW9Z) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TO US](https://open.spotify.com/album/0yELnfoSfyydAEoBsnFnh3) | 2:38 |
+| 8 | [Aurora](https://open.spotify.com/track/5ht69Xbfj12h1n6Nd12qaW) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Aurora](https://open.spotify.com/album/77i2hnrLLEg4T5GOFCXakR) | 3:41 |
+| 9 | [Bloody Paradise](https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS](https://open.spotify.com/album/2os46ReV779WlryAHPL6ko) | 2:11 |
+| 10 | [NOW U KNOW](https://open.spotify.com/track/1ZQwDMEIBQaKGP6mpElU4i) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:4U](https://open.spotify.com/album/16ViymeyDqvnGEpKUrWu3x) | 2:58 |
+| 11 | [SHOCK](https://open.spotify.com/track/2VOnT1r8U0L4z2JkoD36of) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SHOCK](https://open.spotify.com/album/4u13jebmonPQm8jCSo0NcH) | 2:51 |
+| 12 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
+| 13 | [Insomnia](https://open.spotify.com/track/0jZY6beWiqEvcPCGuLaEaW) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Insomnia](https://open.spotify.com/album/1p2UyLZ2vf0jfwpAGishl1) | 3:14 |
+| 14 | [French Kissing](https://open.spotify.com/track/3d23jzQ4KGiEBmZ7aw8Q8M) | [AND2BLE](https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF) | [Sequence 02: Attraction](https://open.spotify.com/album/4sZ7n2Ym0dtwhjIXHgWaoo) | 3:10 |
+| 15 | [Dancing in the Dark](https://open.spotify.com/track/7JaklRGtjDrRBtJHOSIEI4) | [A2O SOUL](https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [SUPERSTAR](https://open.spotify.com/album/6yXPYq0Iz38xI9BMByyMV4) | 2:48 |
 | 16 | [Mark on Me](https://open.spotify.com/track/5rLa4taWmqZsZBDh5iKNIH) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Mark on Me](https://open.spotify.com/album/6QtmQ4jeXLLLZnLitg5gUj) | 2:51 |
 | 17 | [Kick Off The Wall \(Feat\. iann dior\)](https://open.spotify.com/track/6ReoAs5rbmEfNrimlfJAGc) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [KICK OFF THE WALL Pt\. 1](https://open.spotify.com/album/2pFF3Bxebnh8IU4FwUD2BS) | 3:00 |
 | 18 | [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [Atmos](https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos \- The 6th Mini Album](https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi) | 3:13 |
 | 80 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 |
 
-Snapshot ID: `AAAAAFhu98RtjjqbHU0IJd7TJxoT8HII`
+Snapshot ID: `AAAAANwwTi3NfcK6nxjVfXWTU2Mgk76v`

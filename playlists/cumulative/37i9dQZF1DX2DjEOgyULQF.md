@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-551 songs - 1 day 2 hr 0 min
+552 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Falling Freely](https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Falling Freely](https://open.spotify.com/album/3FX3AgyzPhCj33fkMQq2rz) | 2:54 | 2025-06-17 | 2026-08-21 |
 | [Far Away](https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Far Away](https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK) | 2:49 | 2026-04-03 |  |
 | [Feather](https://open.spotify.com/track/2RzEZIvs2KzxBAzkHXgJZa) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Feather](https://open.spotify.com/album/3zZcMIi0OrREEVvK22os4K) | 2:58 | 2025-05-21 | 2026-08-23 |
-| [Fern Light](https://open.spotify.com/track/671iVbIorhewL9qxB0jmoj) | [Nayanni](https://open.spotify.com/artist/2dx6xmAZP2n29B0nf6uh3J) | [Fern Light](https://open.spotify.com/album/58HHnMkDHTbsiAaW69lW9n) | 2:43 | 2026-11-03 |  |
+| [Fern Light](https://open.spotify.com/track/671iVbIorhewL9qxB0jmoj) | [Nayanni](https://open.spotify.com/artist/2dx6xmAZP2n29B0nf6uh3J) | [Fern Light](https://open.spotify.com/album/58HHnMkDHTbsiAaW69lW9n) | 2:43 | 2026-11-03 | 2026-11-18 |
 | [Fethgar](https://open.spotify.com/track/3yZmhuvcDfAE1jHKYe3aov) | [Næturkall](https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb) | [Fethgar](https://open.spotify.com/album/69XqY6lqmzx9K1lOTkHhez) | 2:15 | 2026-02-23 | 2026-04-04 |
 | [Fields Above](https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Fields Above](https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth) | 2:33 | 2025-04-11 | 2026-04-04 |
 | [Fire Light](https://open.spotify.com/track/4FKjdm6uLmTiw8xYrliKAq) | [The Golden Peas](https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250) | [Fire Light](https://open.spotify.com/album/4EdKhnX4aWyP0AzSwnmVWd) | 2:55 | 2023-04-28 | 2025-05-22 |
@@ -387,6 +387,7 @@
 | [Resonated](https://open.spotify.com/track/6mJ2jGd01xZZ07PNW0rypK) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Resonated](https://open.spotify.com/album/7H9nGdRXUSlxTmdFJCO3P7) | 2:40 | 2023-10-06 | 2025-05-22 |
 | [Restart](https://open.spotify.com/track/7bUtYZp5Nx93HaPPyzk64o) | [Marc Westfield](https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ) | [Restart](https://open.spotify.com/album/4owhXLeFbrS6TxGAIWF3uJ) | 2:37 | 2026-04-03 |  |
 | [Restful Petal \- Spa](https://open.spotify.com/track/2po2Rc8mLumB3CmBY9jrX5) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Restful Petal](https://open.spotify.com/album/7hZvHFA2dN8Xaus9NmhWrK) | 3:12 | 2023-04-28 | 2025-09-11 |
+| [Restful Settling](https://open.spotify.com/track/4MzDtonldZVLD2xNOgHylW) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Restful Settling](https://open.spotify.com/album/1QckBHY3QTk7eHaANbSPs6) | 3:05 | 2026-11-12 |  |
 | [Resting Awareness](https://open.spotify.com/track/75htMeGOTX33uYBoMhC1Ht) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Resting Awareness](https://open.spotify.com/album/1QiQhqFQKsJFk8TWmASgXd) | 3:02 | 2023-04-28 | 2025-05-22 |
 | [Returning](https://open.spotify.com/track/7CIj6Jk5vKNEgxGNRoAWbC) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Returning](https://open.spotify.com/album/7mA9IJQZ7wtRYuaQrJ4Vux) | 3:02 | 2023-06-02 | 2025-10-16 |
 | [Revelation](https://open.spotify.com/track/2kp3xWNh6qEZ8cNLbl5Cko) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Revelation](https://open.spotify.com/album/0B7u4chWcq7fBvU7EAK3Fj) | 3:10 | 2025-06-04 | 2026-04-04 |

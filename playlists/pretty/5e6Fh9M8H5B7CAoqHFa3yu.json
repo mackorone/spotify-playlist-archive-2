@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAMQq3ddba/IB6XMpzuKDVf+O4aRb4G",
+  "snapshot_id": "AAAMSEK7BYaL73Xr7ksyb1zuLi2OZivn",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -28132,8 +28132,8 @@
       },
       "artists": [
         {
-          "name": "la C LDV",
-          "url": "https://open.spotify.com/artist/7lF3Ixtf3Jr14Yc3LUjSeE"
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
         }
       ],
       "duration_ms": 120599,
@@ -49119,6 +49119,106 @@
       "duration_ms": 275279,
       "name": "Ain't Surprising",
       "url": "https://open.spotify.com/track/1gTdgIckeJHvd4UksMd8Zh"
+    },
+    {
+      "added_at": "2026-11-17 09:54:32",
+      "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/0Op2fnE4NUqYQOoFFsVJCB"
+      },
+      "artists": [
+        {
+          "name": "Echoes of PlayTime",
+          "url": "https://open.spotify.com/artist/50P37G46s6ArFn5jAzmFXA"
+        }
+      ],
+      "duration_ms": 279680,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/0JBKtnTDF8O0HArgHQ5akz"
+    },
+    {
+      "added_at": "2026-11-17 10:46:23",
+      "album": {
+        "name": "Just",
+        "url": "https://open.spotify.com/album/4FYldKdhF0SZo6CrkSGI0r"
+      },
+      "artists": [
+        {
+          "name": "David Leon",
+          "url": "https://open.spotify.com/artist/6RcjcvO0GiOUK7Ts39wb97"
+        }
+      ],
+      "duration_ms": 329909,
+      "name": "Seek",
+      "url": "https://open.spotify.com/track/1m76c5doQeVL1H73FUn85o"
+    },
+    {
+      "added_at": "2026-11-17 10:46:24",
+      "album": {
+        "name": "Stray Jazz",
+        "url": "https://open.spotify.com/album/6YcXsWHGpCsgcCeWLycpWb"
+      },
+      "artists": [
+        {
+          "name": "David Leon",
+          "url": "https://open.spotify.com/artist/6RcjcvO0GiOUK7Ts39wb97"
+        }
+      ],
+      "duration_ms": 289785,
+      "name": "Tuesday Shadowline",
+      "url": "https://open.spotify.com/track/7gO9IDmd7KWqCj2DTPpzlk"
+    },
+    {
+      "added_at": "2026-11-17 10:46:25",
+      "album": {
+        "name": "La Teoria di Michelangelo",
+        "url": "https://open.spotify.com/album/4gl2DoFXnQX1K93BjSmsUJ"
+      },
+      "artists": [
+        {
+          "name": "Tabonimous",
+          "url": "https://open.spotify.com/artist/3VZBSUtpXk87yOL232rhfi"
+        },
+        {
+          "name": "HLMNSRA",
+          "url": "https://open.spotify.com/artist/5LOQ7tMPOSQr1F9c6KR1d3"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Clessidra",
+      "url": "https://open.spotify.com/track/6MgZB1rLTuNAIzxgw0iNfz"
+    },
+    {
+      "added_at": "2026-11-17 10:46:27",
+      "album": {
+        "name": "Edelweiss Legend",
+        "url": "https://open.spotify.com/album/64iH5TIwtzpQdyROhjpuOy"
+      },
+      "artists": [
+        {
+          "name": "Daryna Kharytonova",
+          "url": "https://open.spotify.com/artist/6K7J0MQ83GDozaOw9dRnsd"
+        }
+      ],
+      "duration_ms": 147809,
+      "name": "Edelweiss Legend",
+      "url": "https://open.spotify.com/track/4vl2UxRVCNGOownXavZ07v"
+    },
+    {
+      "added_at": "2026-11-17 20:15:55",
+      "album": {
+        "name": "Sa Majest\u00e9 Moi",
+        "url": "https://open.spotify.com/album/5DbdhSEY7ZdEqelbOrpvwb"
+      },
+      "artists": [
+        {
+          "name": "Dominique Daumann",
+          "url": "https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6"
+        }
+      ],
+      "duration_ms": 238218,
+      "name": "Sa Majest\u00e9 Moi",
+      "url": "https://open.spotify.com/track/2EoeD8rrdHEnA4piNSMyu6"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Dil Apna Aur Preet Parai",
+        "url": "https://open.spotify.com/album/17R7D9hwGGT7XCyB6JDGuU"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315613,
+      "name": "Ajib Dastan Hai Yeh",
+      "url": "https://open.spotify.com/track/6Rl4eDKFpvntiRKtPn8d5V"
+    },
+    {
+      "album": {
         "name": "Alag Aasmaan",
         "url": "https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi"
       },

@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Conexiones",
+        "url": "https://open.spotify.com/album/6vtTnXHQbqwsVsfjzciO45"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201134,
+      "name": "Conexiones",
+      "url": "https://open.spotify.com/track/2qiD6f4p8ryxcCQ5PuJSlp"
+    },
+    {
+      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/1ynGLsvZq1wRt21xmQclwE"
       },
@@ -3494,7 +3512,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 89078,
       "name": "kompa bailar",
       "url": "https://open.spotify.com/track/7D3DFAxOY8tfLNbi6O0mwZ"
@@ -5720,7 +5738,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 160310,
       "name": "Rock It",
       "url": "https://open.spotify.com/track/7Bu68Eqh8saQYCOy9PVoWH"
@@ -6732,6 +6750,24 @@
       "duration_ms": 149799,
       "name": "Time of Your Life",
       "url": "https://open.spotify.com/track/4ZFFS0oNoDqPUjXhaep3fw"
+    },
+    {
+      "album": {
+        "name": "Rooted",
+        "url": "https://open.spotify.com/album/1vhEG3tznbXm0Gi8nvCr2k"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325986,
+      "name": "To Be Someone",
+      "url": "https://open.spotify.com/track/7rdUYGLaSiemFz7qCESfd7"
     },
     {
       "album": {

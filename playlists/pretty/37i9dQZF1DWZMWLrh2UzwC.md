@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Kmy Kmo, Luca Sickta,  Khai Bahar, Sarah Suhairi, Ella Langley, ATEEZ, LNGSHOT, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,430 likes - 107 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,414 likes - 107 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 106 | [The Ocean](https://open.spotify.com/track/1yIZukgM5hBDsLafnMMbO8) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [The Ocean](https://open.spotify.com/album/78urQf4fyRWRXNoladKnD7) | 3:33 |
 | 107 | [If u say so](https://open.spotify.com/track/00cgFrRwcsMU0u3QTvdedb) | [Roypim](https://open.spotify.com/artist/2eYm3DvV9tmZipL51cfnzb) | [GHOST](https://open.spotify.com/album/7fH7dnSJTf3JmqzhVwDZXz) | 4:07 |
 
-Snapshot ID: `AAAAABrhceuw+xkbELIHUebmfUKR5VJZ`
+Snapshot ID: `AAAAAGCwt9DTDW7CIEJexciKbRjyVkWY`

@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-89 songs - 6 hr 42 min
+90 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Guilty Night, Guilty Kiss!](https://open.spotify.com/track/7LZRj9JzVDBrwV0Uxtjnba) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 4:07 | 2022-08-02 |  |
 | [G線上のシンデレラ](https://open.spotify.com/track/1q8HSZgkbK1AAs32TjBiW6) | [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:16 | 2022-08-02 |  |
 | [HAPPY PARTY TRAIN](https://open.spotify.com/track/4juoJEZlwHSbIcD1W5Bdem) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [HAPPY PARTY TRAIN](https://open.spotify.com/album/6zH0oHuUABxdehCjSfNEVF) | 4:37 | 2022-08-02 | 2026-08-26 |
-| [HAPPY PARTY TRAIN \- Mixture Rock Ver.](https://open.spotify.com/track/1dK6BO9uSXuko2QBx4wkO9) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 4:36 | 2024-12-17 |  |
+| [HAPPY PARTY TRAIN \- Mixture Rock Ver.](https://open.spotify.com/track/1dK6BO9uSXuko2QBx4wkO9) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 4:36 | 2024-12-17 | 2026-11-18 |
 | [Ijigen BIGBANG](https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j) | [Uzuki Shimamura \(CV: Ayaka Ohashi\)](https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj), [Shizuka Mogami \(CV: Azusa Tadokoro\)](https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l), [KOGANE TSUKIOKA \(CV: Karin Isobe\)](https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1), [Chika Takami \(CV: Anju Inami\)](https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5), [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF), [Kanon Shibuya \(CV: Sayuri Date\)](https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR), [Kaho Hinoshita \(CV: Nozomi Nirei\)](https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy) | [Ijigen BIGBANG](https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH) | 5:16 | 2023-11-07 | 2024-04-19 |
 | [INNOCENT BIRD](https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [GALAXY HidE and SeeK](https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq) | 3:44 | 2023-06-13 |  |
 | [KA\-GA\-YA\-KI\-RA\-RI\-RA \(feat\. 初音ミク\)](https://open.spotify.com/track/4q8vn872KuqZGN3Xl7Wk1y) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1) | 3:20 | 2022-10-04 | 2023-10-18 |
@@ -69,6 +69,7 @@
 | [ファボタージュ](https://open.spotify.com/track/2psUQr8PonQhzP4t7XHv8G) | [You Watanabe \(CV: Shuka Saito\)](https://open.spotify.com/artist/4Xu7KIJcGf3HjxUFiObdcL), [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY), [Ruby Kurosawa \(CV: Ai Furihata\)](https://open.spotify.com/artist/6xjmmhxHFSi5eDJCuTna0B) | [わーいわいわい わいわいわい！](https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4) | 3:36 | 2022-11-08 | 2025-09-06 |
 | [メイズセカイ](https://open.spotify.com/track/6sfCZBZbomvxfp2l15eumu) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 4:32 | 2023-11-07 |  |
 | [ユメ+ミライ=無限大](https://open.spotify.com/track/5tzEzBrqTNSedBld2FU2Lm) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ユメ+ミライ=無限大](https://open.spotify.com/album/7lsS4OzLwUrWICJb98mstS) | 5:20 | 2022-08-02 | 2022-10-05 |
+| [ユメ語るよりユメ歌おう \- Cute Rock Ver.](https://open.spotify.com/track/2SnXUEAA4rNKNlXpbVb0Nh) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 5:07 | 2024-12-17 |  |
 | [僕らの旅は終わらない](https://open.spotify.com/track/1cTFVsmOJSR78Y6Q4hEpyN) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [永久hours](https://open.spotify.com/album/5cDCiZlnue2BBwYQR01iyY) | 3:48 | 2024-12-17 |  |
 | [元気全開DAY! DAY! DAY!](https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [元気全開DAY! DAY! DAY!](https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt) | 3:59 | 2022-08-02 |  |
 | [勇気はどこに?君の胸に!](https://open.spotify.com/track/2w5T8mOOsekn2uFtsHuK89) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [勇気はどこに?君の胸に!](https://open.spotify.com/album/0hN7zdvqkfWdnz0hPcOj9T) | 4:44 | 2024-12-17 | 2026-02-07 |

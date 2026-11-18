@@ -4,7 +4,7 @@
 
 > The Biggest Clubland tunes!
 
-126 songs - 6 hr 28 min
+127 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bamboogie](https://open.spotify.com/track/2VTWk3XobgF3hsuGFhGIr1) | [Bamboo](https://open.spotify.com/artist/3LlPW4dR5fb15HdtLawZdo) | [Bamboogie](https://open.spotify.com/album/4YmWUnLXNVhGPSLrElJ2tx) | 3:47 | 2024-08-30 |  |
 | [Better Off Alone](https://open.spotify.com/track/6Dn5iKJnMEEIxdJkTIc9uB) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Better Off Alone](https://open.spotify.com/album/4Bbi9dcZgtJiJqEkiclbpK) | 3:38 | 2020-10-16 |  |
 | [Bla Bla Bla](https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9) | [GIGI D'AGOSTINO](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:15 | 2025-10-22 |  |
+| [Blah Blah Blah](https://open.spotify.com/track/2xkrujtSjZz7EKAYGbIIzH) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Blah Blah Blah](https://open.spotify.com/album/1oqv6oabMXbNpgZ6gmjAIN) | 3:03 | 2026-11-17 |  |
 | [Blurred](https://open.spotify.com/track/5ArKAFpMInqnpQ5jBaje7W) | [Pianoman](https://open.spotify.com/artist/7wmFgMKmwKthThqPpc9oGV) | [Blurred](https://open.spotify.com/album/6NeBG6eFIwJ6R2WtEmLXgX) | 2:31 | 2024-02-27 |  |
 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:22 | 2024-05-17 |  |
 | [Call On Me](https://open.spotify.com/track/3zHOk9WQHSn2pKjAHuEzbp) | [Wyld Dogz](https://open.spotify.com/artist/5q2j5DT0cyK9FcE1aD5KQk) | [Call On Me](https://open.spotify.com/album/1fJK4dBkFd7HlOYW3Wpwjj) | 2:25 | 2025-02-21 | 2026-02-07 |
@@ -37,7 +38,7 @@
 | [Discolights \- \(with Darren Styles\)](https://open.spotify.com/track/0Pn5ylhLZTKopHKpNr0Ari) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8) | [The Weekend Has Landed](https://open.spotify.com/album/76HsbLVNYEMaVm3zUR3twz) | 2:40 | 2024-06-21 |  |
 | [Disturbia](https://open.spotify.com/track/3BKSZRlYdfQejXa5VNsgtO) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Disturbia](https://open.spotify.com/album/5IlxILY3lvtU0WqotE9xIY) | 3:15 | 2024-02-02 |  |
 | [Doesn't Matter \(Hypasonic Vs\. Jorg Schmid\) \[Radio Edit\]](https://open.spotify.com/track/5GrPirFiXGs4YtKzuv0SLf) | [Hypasonic](https://open.spotify.com/artist/1wkXxI7aHpiIiWri9MNWuh), [Jorg Schmid](https://open.spotify.com/artist/0eTlg1WNILjwW6tKY5FnHw) | [Doesn't Matter](https://open.spotify.com/album/3o4Fn7mciIELFfLgKSr9Sx) | 2:48 | 2024-05-17 |  |
-| [Dreamer](https://open.spotify.com/track/6eR3tKgcldJfTeLOz1ovW9) | [Backin'99](https://open.spotify.com/artist/3tn5x8fesHasLTy5ePCNT5), [Alex Ross](https://open.spotify.com/artist/5pK858DFAWCmE2tM4jZxYC) | [Dreamer](https://open.spotify.com/album/7E4IFMWK42zFPGhDOXjfgl) | 3:25 | 2026-03-06 |  |
+| [Dreamer](https://open.spotify.com/track/6eR3tKgcldJfTeLOz1ovW9) | [Backin'99](https://open.spotify.com/artist/3tn5x8fesHasLTy5ePCNT5), [Alex Ross](https://open.spotify.com/artist/5pK858DFAWCmE2tM4jZxYC) | [Dreamer](https://open.spotify.com/album/7E4IFMWK42zFPGhDOXjfgl) | 3:25 | 2026-03-06 | 2026-11-18 |
 | [Drink & Drugs & Sex & Money](https://open.spotify.com/track/5iCPLG8iWdWZ9oUwx42zJ8) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Drink & Drugs & Sex & Money](https://open.spotify.com/album/4kGb21KI1hLPoPD6V671vw) | 2:37 | 2024-12-02 | 2026-01-24 |
 | [Elysium \(I Go Crazy\) \- Ultrabeat Vs\. Scott Brown](https://open.spotify.com/track/0BZSce6SAtxkezIab7A5Vu) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8), [Scott Brown](https://open.spotify.com/artist/6gaPx3AryG77284T2ZvELv) | [100% Clubland](https://open.spotify.com/album/7FQQSKTRD2nMIuO5WQmHaM) | 3:17 | 2023-04-14 |  |
 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 | 2025-05-24 |  |

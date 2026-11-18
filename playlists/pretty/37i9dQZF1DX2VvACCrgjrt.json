@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310426,
+  "num_followers": 1310423,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1177,6 +1177,26 @@
       "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
     },
     {
+      "added_at": "2026-07-10 04:01:45",
+      "album": {
+        "name": "I Can Dance",
+        "url": "https://open.spotify.com/album/5HEh1FGIGby1Hm8r6tBWZN"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Mentum",
+          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "I Can Dance",
+      "url": "https://open.spotify.com/track/3vF5tKs2uDgmFd3TzwrJ17"
+    },
+    {
       "added_at": "2026-08-04 14:38:07",
       "album": {
         "name": "Blas\u00e9 (Bryce Alakai Remix)",
@@ -1203,26 +1223,6 @@
       "duration_ms": 196363,
       "name": "Blas\u00e9 (Bryce Alakai Remix)",
       "url": "https://open.spotify.com/track/3HvFhvZPgQOPUOTpDi1fZU"
-    },
-    {
-      "added_at": "2026-07-10 04:01:45",
-      "album": {
-        "name": "I Can Dance",
-        "url": "https://open.spotify.com/album/5HEh1FGIGby1Hm8r6tBWZN"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "Mentum",
-          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "I Can Dance",
-      "url": "https://open.spotify.com/track/3vF5tKs2uDgmFd3TzwrJ17"
     },
     {
       "added_at": "2026-08-28 04:01:56",
@@ -1285,6 +1285,26 @@
       "url": "https://open.spotify.com/track/41cCSE7FcZrHQSgMwxkesy"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+    },
+    {
       "added_at": "2026-05-09 18:40:49",
       "album": {
         "name": "Flavour",
@@ -1303,22 +1323,6 @@
       "duration_ms": 142663,
       "name": "Flavour",
       "url": "https://open.spotify.com/track/7bwgaNWKxWt1lBwrZ37gJ7"
-    },
-    {
-      "added_at": "2026-04-24 04:01:50",
-      "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/0EhasB8Djp57AFFS3khQL5"
-      },
-      "artists": [
-        {
-          "name": "Austin Ashtin",
-          "url": "https://open.spotify.com/artist/5K3fRKSyzi4u7vEwgubeA3"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/117jjc0cq3aoUHXkK8wwzp"
     },
     {
       "added_at": "2026-10-30 04:00:32",
@@ -1345,24 +1349,20 @@
       "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-04-24 04:01:50",
       "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/0EhasB8Djp57AFFS3khQL5"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Austin Ashtin",
+          "url": "https://open.spotify.com/artist/5K3fRKSyzi4u7vEwgubeA3"
         }
       ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+      "duration_ms": 190153,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/117jjc0cq3aoUHXkK8wwzp"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1425,22 +1425,6 @@
       "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
     },
     {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "BADDIE",
-        "url": "https://open.spotify.com/album/0g1RE8cvHgGNfeOHxXGe2D"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 190170,
-      "name": "BADDIE",
-      "url": "https://open.spotify.com/track/5aCfSFFmhyaKASq13OPlaA"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "TWINKLE",
@@ -1463,6 +1447,22 @@
       "duration_ms": 169141,
       "name": "TWINKLE",
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "BADDIE",
+        "url": "https://open.spotify.com/album/0g1RE8cvHgGNfeOHxXGe2D"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 190170,
+      "name": "BADDIE",
+      "url": "https://open.spotify.com/track/5aCfSFFmhyaKASq13OPlaA"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1569,6 +1569,22 @@
       "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "At The Disco",
+        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "At The Disco",
+      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
+    },
+    {
       "added_at": "2026-09-11 04:01:44",
       "album": {
         "name": "Step To The Floor",
@@ -1587,22 +1603,6 @@
       "duration_ms": 202106,
       "name": "Step To The Floor",
       "url": "https://open.spotify.com/track/7ssvTvHXo0pqfcfPmfM21P"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "At The Disco",
-        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "At The Disco",
-      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
     },
     {
       "added_at": "2026-07-10 04:01:45",
@@ -1921,6 +1921,26 @@
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
     },
     {
+      "added_at": "2026-01-23 05:00:24",
+      "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/3Hc7jNzHjNI3YbyLXfx3Jm"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "WIN WIN",
+          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
+    },
+    {
       "added_at": "2026-09-18 04:02:27",
       "album": {
         "name": "Astronaught",
@@ -1959,26 +1979,6 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/3Hc7jNzHjNI3YbyLXfx3Jm"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "WIN WIN",
-          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
     },
     {
       "added_at": "2026-07-10 04:01:45",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
       },
@@ -2105,20 +2089,20 @@
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
-      "added_at": "2026-04-24 04:01:50",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Somn Like Dis",
-        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
       },
       "artists": [
         {
-          "name": "Bessey",
-          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Somn Like Dis",
-      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2135,6 +2119,42 @@
       "duration_ms": 129461,
       "name": "Circus",
       "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+    },
+    {
+      "added_at": "2026-04-24 04:01:50",
+      "album": {
+        "name": "Somn Like Dis",
+        "url": "https://open.spotify.com/album/3aymhHiRF3ID6UiEzaqGad"
+      },
+      "artists": [
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Somn Like Dis",
+      "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
+    },
+    {
+      "added_at": "2026-08-28 04:01:56",
+      "album": {
+        "name": "Thirsty (feat. Datti)",
+        "url": "https://open.spotify.com/album/0hIj4ej1K7JEdwBbp8aY3U"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2197,26 +2217,6 @@
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
     },
     {
-      "added_at": "2026-08-28 04:01:56",
-      "album": {
-        "name": "Thirsty (feat. Datti)",
-        "url": "https://open.spotify.com/album/0hIj4ej1K7JEdwBbp8aY3U"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
-    },
-    {
       "added_at": "2026-03-20 04:00:50",
       "album": {
         "name": "Miami Bass EP",
@@ -2273,6 +2273,22 @@
       "url": "https://open.spotify.com/track/1fq81fwfle9L3Z0dRERDvP"
     },
     {
+      "added_at": "2026-08-21 04:01:29",
+      "album": {
+        "name": "Baddies Going Out",
+        "url": "https://open.spotify.com/album/09jniR1EzBnPcOdLAxBWVK"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Baddies Going Out",
+      "url": "https://open.spotify.com/track/22rOiUEbwIIWM4KCAodbZD"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Renegade Master (Don Diablo Edit)",
@@ -2291,22 +2307,6 @@
       "duration_ms": 217846,
       "name": "Renegade Master - Don Diablo Edit",
       "url": "https://open.spotify.com/track/4lNAIalHgxfJGztrrxVFom"
-    },
-    {
-      "added_at": "2026-08-21 04:01:29",
-      "album": {
-        "name": "Baddies Going Out",
-        "url": "https://open.spotify.com/album/09jniR1EzBnPcOdLAxBWVK"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Baddies Going Out",
-      "url": "https://open.spotify.com/track/22rOiUEbwIIWM4KCAodbZD"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2397,24 +2397,24 @@
       "url": "https://open.spotify.com/track/6bR9DxoANM5XIAGmpNIvDe"
     },
     {
-      "added_at": "2026-09-18 04:02:27",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5dJjgvKImYTfRxdqDxpSvc"
+        "name": "That's the Spot",
+        "url": "https://open.spotify.com/album/2d3Y8KwRfNbfj96Low2s4H"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
         },
         {
-          "name": "Pessto",
-          "url": "https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe"
+          "name": "Sven Lochenhoer",
+          "url": "https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU"
         }
       ],
-      "duration_ms": 199042,
-      "name": "True",
-      "url": "https://open.spotify.com/track/19sIfq40ZPzJJtVFFaSiUX"
+      "duration_ms": 182769,
+      "name": "That's the Spot",
+      "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
     }
   ],
   "unique_name": "Nasty Bits",

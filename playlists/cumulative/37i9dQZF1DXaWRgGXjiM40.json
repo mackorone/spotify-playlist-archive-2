@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 162464,
       "name": "Quem \u00c9 Seu Favorito - Ao Vivo",
       "url": "https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd"
@@ -2344,6 +2344,28 @@
       "duration_ms": 174863,
       "name": "S de Saudade",
       "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
+    },
+    {
+      "album": {
+        "name": "Sabe Ser Linda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Fvswt4JVkG5WaE19N07Zo"
+      },
+      "artists": [
+        {
+          "name": "Rafael Quadros",
+          "url": "https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141534,
+      "name": "Sabe Ser Linda - Ao Vivo",
+      "url": "https://open.spotify.com/track/0YDssIvo35Py7gUldsDEom"
     },
     {
       "album": {

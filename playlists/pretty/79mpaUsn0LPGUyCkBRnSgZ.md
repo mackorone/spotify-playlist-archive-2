@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 801 songs - 2 day 3 hr 49 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 802 songs - 2 day 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -809,5 +809,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 799 | [Candy Shoppe](https://open.spotify.com/track/3arqQGuSd3iOva7BH6jLqm) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Does It Look Like I'm Here?](https://open.spotify.com/album/69mR7YiwQTw7nvlFKBOp7Y) | 4:43 |
 | 800 | [Terrified .](https://open.spotify.com/track/2sfq2lv27cmsH4XvXAsiZp) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Terrified .](https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ) | 1:31 |
 | 801 | [Travels Broaden the Mind](https://open.spotify.com/track/4rjszJJHKOs7cZErfG8x31) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V), [Kasai Allstars](https://open.spotify.com/artist/391GEzsFayFVG5aGEBkrtq) | [Tradi\-Mods Vs Rockers \(Alternative Takes on Congotronics\) \[Vol\. 1\]](https://open.spotify.com/album/1Knr1iRIoV572fSJqkMltN) | 3:19 |
+| 802 | [Payday](https://open.spotify.com/track/1IEzC26lkBRUN3AxQ91U3M) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [The Dealer Wins](https://open.spotify.com/album/3IyApBbOXEVp23l3kyFKfV) | 1:45 |
 
-Snapshot ID: `AAAJ+F5sNeRazMhgmdBNX4wenqcz/n6w`
+Snapshot ID: `AAAJ+Yjlo4kRsIt6+wijla5+RYe74G64`

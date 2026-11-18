@@ -1,12 +1,12 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61476,
+  "num_followers": 61474,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIrP9yb7h1SzTiSY/YK6tBgS3OG8",
+  "snapshot_id": "AAAAAPu3nKaqsVN2AR9YGYxagZpuBgny",
   "tracks": [
     {
       "added_at": "2026-11-12 23:01:09",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-11-12 23:01:09",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2026-11-12 23:01:09",
-      "album": {
         "name": "Choosin' Texas",
         "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "added_at": "2026-11-12 23:01:09",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
       "added_at": "2026-11-12 23:01:09",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-11-12 23:01:09",
       "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/4wfIW1OLIqejwmBYG1LhCl"
+    },
+    {
+      "added_at": "2026-11-12 23:01:09",
+      "album": {
         "name": "Rein Me In (with Olivia Dean)",
         "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
-    },
-    {
-      "added_at": "2026-11-12 23:01:09",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 228908,
-      "name": "The Visitor",
-      "url": "https://open.spotify.com/track/4wfIW1OLIqejwmBYG1LhCl"
     },
     {
       "added_at": "2026-11-12 23:01:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-11-12 23:01:09",
       "album": {
-        "name": "Fr\u00f6jdo Frido",
-        "url": "https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e"
-      },
-      "artists": [
-        {
-          "name": "Lovet",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        }
-      ],
-      "duration_ms": 156062,
-      "name": "Fr\u00f6jdo Frido",
-      "url": "https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt"
-    },
-    {
-      "added_at": "2026-11-12 23:01:09",
-      "album": {
         "name": "Nya Skolans Ledare",
         "url": "https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 109800,
       "name": "H\u00e5ller Mig Sj\u00e4lv",
       "url": "https://open.spotify.com/track/1nBqEg9NUvwh0D0xauvzy4"
+    },
+    {
+      "added_at": "2026-11-12 23:01:09",
+      "album": {
+        "name": "Fr\u00f6jdo Frido",
+        "url": "https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e"
+      },
+      "artists": [
+        {
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 156062,
+      "name": "Fr\u00f6jdo Frido",
+      "url": "https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt"
     },
     {
       "added_at": "2026-11-12 23:01:09",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-11-12 23:01:09",
       "album": {
-        "name": "Sommarkatt",
-        "url": "https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD"
-      },
-      "artists": [
-        {
-          "name": "Lovet",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        }
-      ],
-      "duration_ms": 208201,
-      "name": "Sommarkatt",
-      "url": "https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts"
-    },
-    {
-      "added_at": "2026-11-12 23:01:09",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 205980,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK"
+    },
+    {
+      "added_at": "2026-11-12 23:01:09",
+      "album": {
+        "name": "Sommarkatt",
+        "url": "https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD"
+      },
+      "artists": [
+        {
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 208201,
+      "name": "Sommarkatt",
+      "url": "https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts"
     },
     {
       "added_at": "2026-11-12 23:01:09",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-11-12 23:01:09",
       "album": {
-        "name": "D\u00f6den ut",
-        "url": "https://open.spotify.com/album/5GiH51ivtO7V5v7cqvsWdJ"
-      },
-      "artists": [
-        {
-          "name": "Lovet",
-          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "D\u00f6den ut",
-      "url": "https://open.spotify.com/track/7ELcAhaKTQc95IiXS2A742"
-    },
-    {
-      "added_at": "2026-11-12 23:01:09",
-      "album": {
         "name": "Fiji",
         "url": "https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 158125,
       "name": "Fiji",
       "url": "https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH"
+    },
+    {
+      "added_at": "2026-11-12 23:01:09",
+      "album": {
+        "name": "D\u00f6den ut",
+        "url": "https://open.spotify.com/album/5GiH51ivtO7V5v7cqvsWdJ"
+      },
+      "artists": [
+        {
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "D\u00f6den ut",
+      "url": "https://open.spotify.com/track/7ELcAhaKTQc95IiXS2A742"
     },
     {
       "added_at": "2026-11-12 23:01:09",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-11-12 23:01:09",
       "album": {
-        "name": "Sverige",
-        "url": "https://open.spotify.com/album/5gl3P6CM2tN7dnf4gXy6IZ"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 231306,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/2smlSdstffsI9yfzH8xNfi"
-    },
-    {
-      "added_at": "2026-11-12 23:01:09",
-      "album": {
         "name": "Stockholm \u00e4r f\u00f6r stort",
         "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 185421,
       "name": "Stockholm \u00e4r f\u00f6r stort",
       "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
+    },
+    {
+      "added_at": "2026-11-12 23:01:09",
+      "album": {
+        "name": "Sverige",
+        "url": "https://open.spotify.com/album/5gl3P6CM2tN7dnf4gXy6IZ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 231306,
+      "name": "Kaprifol",
+      "url": "https://open.spotify.com/track/2smlSdstffsI9yfzH8xNfi"
     },
     {
       "added_at": "2026-11-12 23:01:09",

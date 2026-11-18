@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: HAAN, SHIRT)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: Way Ched)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -7795,6 +7795,32 @@
     },
     {
       "album": {
+        "name": "VIEWSIC",
+        "url": "https://open.spotify.com/album/0sMxluwGB9hfWpotBwfuST"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "untell",
+          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Hysteria (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/4H20xWiwwvoEqwV1cBjtfg"
+    },
+    {
+      "album": {
         "name": "I AM SHAMPOO",
         "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
       },
@@ -8346,6 +8372,32 @@
       "duration_ms": 169452,
       "name": "Inspiration",
       "url": "https://open.spotify.com/track/53uf9zkSH3kUpfLR8zN4OQ"
+    },
+    {
+      "album": {
+        "name": "Instead of Sorry",
+        "url": "https://open.spotify.com/album/140akQcfBfzXsZOkJA5hzO"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Boy",
+          "url": "https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181406,
+      "name": "Instead of Sorry",
+      "url": "https://open.spotify.com/track/6ZZG3hKEOM833UB1sP0G1v"
     },
     {
       "album": {
@@ -10624,7 +10676,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 185264,
       "name": "MANY",
       "url": "https://open.spotify.com/track/4qmrCMYjDjjJWbkwfZwXO0"
@@ -17460,7 +17512,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 199986,
       "name": "UFO",
       "url": "https://open.spotify.com/track/3RIDQ0NiYcV896kb0mWz3k"

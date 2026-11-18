@@ -4,7 +4,7 @@
 
 > Playlist
 
-665 songs - 1 day 15 hr 21 min
+666 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [L'Ultima Corsa](https://open.spotify.com/track/6wzdLuCN90WycoNBMCrPEE) | [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod), [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [L'Ultima Corsa](https://open.spotify.com/album/39XHiau3fGqnz8GHDF7Yag) | 3:39 | 2025-12-23 |  |
 | [La Lista](https://open.spotify.com/track/3CTMz34eXafsYmOngdLNcu) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6), [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [La Lista](https://open.spotify.com/album/75iroRSlNPmLhCvvtQjpip) | 3:22 | 2026-07-23 |  |
 | [La Luna](https://open.spotify.com/track/0cUMkwTX3WwAwDfQUTaiOX) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [La Luna](https://open.spotify.com/album/06TAgt1W7JwMagyzlp5t8U) | 3:59 | 2023-10-25 |  |
+| [La María](https://open.spotify.com/track/5dVQEKtoLnuUAaA0bCyNqZ) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [La Lista](https://open.spotify.com/album/7i18zxTnzHqmGjs7P0edKQ) | 4:40 | 2026-11-17 |  |
 | [Laced Up](https://open.spotify.com/track/5k6mwsbR61D4ru3Q5V9l17) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Laced Up](https://open.spotify.com/album/6az1CCt62V1JJWnVxMPrQS) | 2:42 | 2023-10-25 |  |
 | [Laissez\-Moi Rêver](https://open.spotify.com/track/0v1W40nJew2JlgTOSkjVEF) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 2:55 | 2023-10-25 |  |
 | [lately](https://open.spotify.com/track/2UPMM782MVJ3qW0spGF4Ct) | [Love Seats](https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6) | [lately](https://open.spotify.com/album/0SgtgT0gUoZiXbFYew7b7c) | 2:25 | 2024-11-15 |  |

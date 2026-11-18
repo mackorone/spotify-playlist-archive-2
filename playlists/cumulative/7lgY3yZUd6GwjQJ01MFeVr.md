@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Zach Bryan, Cody Johnson &amp; Cameron Whitcomb
 
-349 songs - 18 hr 44 min
+350 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-06-05 | 2026-11-07 |
 | [A Little Goes A Long Way](https://open.spotify.com/track/0RYfoseJ9hukZHeWb4wazs) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [A Little Goes A Long Way](https://open.spotify.com/album/628Axc3eMMTJlaZ1r9L5ve) | 3:08 | 2024-02-09 | 2024-03-23 |
 | [Actin’ Up Again](https://open.spotify.com/track/0yLEozWmzp5mGdIPBD4wmP) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/1xAohdDpm2fWc6wVQme0Wm) | 3:13 | 2024-08-07 | 2025-09-13 |
-| [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 | 2025-09-13 |  |
+| [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 | 2025-09-13 | 2026-11-18 |
 | [Ain't Doin' Jack](https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't Doin' Jack](https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk) | 2:40 | 2023-12-08 | 2024-03-02 |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-07-22 |  |
 | [Ain't Seen Nothing Yet](https://open.spotify.com/track/4gSKV3UqLQIGBWaUP43fNJ) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Blood, Sweat & Beers](https://open.spotify.com/album/3NEZ300hZRpbhOdHCmTlwQ) | 1:45 | 2026-10-23 |  |
@@ -282,6 +282,7 @@
 | [Song While You're Away](https://open.spotify.com/track/0MEZnFwEu4MSB1ulmarWZ6) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 5:00 | 2024-07-22 | 2025-05-06 |
 | [South of the Suburbs](https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH) | [Matt Bazinet](https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct) | [South of the Suburbs](https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf) | 2:48 | 2024-07-27 | 2026-11-07 |
 | [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 | 2024-03-15 | 2024-11-02 |
+| [Spookin’ the Horses](https://open.spotify.com/track/5DdngBjguy0hiKGmb4Zv79) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/6QRuQR6EyaLGWyuSr8ykd1) | 4:10 | 2026-11-17 |  |
 | [Started From The Holler](https://open.spotify.com/track/6TLVUgJLPo7I4dkvVDIR81) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Started From The Holler](https://open.spotify.com/album/6N1kVADLuQBz8UeNdoSpOp) | 3:21 | 2026-10-09 |  |
 | [Stay in Your Lane](https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd) | [Bronson Diamond](https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Stay in Your Lane](https://open.spotify.com/album/3ukNtDUlpfzDwFXiZFAGsh) | 3:29 | 2025-03-25 | 2026-11-07 |
 | [Streetlight](https://open.spotify.com/track/2m3MghNJc7uwB9sBBtTcW9) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Streetlight](https://open.spotify.com/album/5Wo944H6nfB7HS32hKUXRK) | 3:12 | 2024-03-15 | 2024-11-02 |

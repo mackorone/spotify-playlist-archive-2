@@ -699,6 +699,28 @@
     },
     {
       "album": {
+        "name": "WOLFGIRL PRINCESS ANGEL",
+        "url": "https://open.spotify.com/album/55uKBBMBmDE0cbYuKkpvgM"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        },
+        {
+          "name": "Can of Bliss",
+          "url": "https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "ASHITAKA'S CURSE",
+      "url": "https://open.spotify.com/track/4GBN4QvZN14xbOYpI29VS8"
+    },
+    {
+      "album": {
         "name": "WANNABE",
         "url": "https://open.spotify.com/album/5X1DBiUGnShpPetLnT7EoQ"
       },
@@ -1658,7 +1680,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 346018,
       "name": "changes",
       "url": "https://open.spotify.com/track/6Uupikwilql6TppeZPKZql"
@@ -10714,7 +10736,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 205732,
       "name": "talk my shit",
       "url": "https://open.spotify.com/track/1jpTjjQdD3lDxHhyd3BqXw"
@@ -12270,6 +12292,10 @@
         {
           "name": "When Snakes Sing",
           "url": "https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ"
+        },
+        {
+          "name": "JohnieCanine",
+          "url": "https://open.spotify.com/artist/7aGboTX3PPIk0lm1UpN9aS"
         }
       ],
       "date_added": "2024-04-03",

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Saint Cooper\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Gloryen\. Artwork: Isu Kim.
 
-4,173 songs - 10 day 3 hr 44 min
+4,176 songs - 10 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1880,7 +1880,7 @@
 | [Kawalan](https://open.spotify.com/track/4ddLp0KKG4VUf8n6YFqMt2) | [Lags](https://open.spotify.com/artist/6HrM9bQKCjFM0o0nXw4rGt) | [Kawalan](https://open.spotify.com/album/1GiT3hsU9RQc6a6YHPp0X6) | 4:13 | 2024-11-29 | 2024-12-05 |
 | [Kawawa](https://open.spotify.com/track/4Xde1dTOJpstQh1yPBFQm2) | [MANIC SEASON](https://open.spotify.com/artist/2wXqsJqHE9GkvLFRoLXjwo) | [Kawawa](https://open.spotify.com/album/7AwxVqTCyAWraw5vYDp6ox) | 4:00 | 2025-09-04 | 2025-11-21 |
 | [Kawayan](https://open.spotify.com/track/23h0ANChBv0kWnwaEZsGqO) | [Niño Vasquez](https://open.spotify.com/artist/6oyhXZ7eZsXKakCcCVS18y) | [Kawayan](https://open.spotify.com/album/0QJh3Itb398SQ8cRWlRnDn) | 4:18 | 2023-06-08 | 2023-06-23 |
-| [Kay Ganda](https://open.spotify.com/track/6Y76T8I3skKZYYn8ZIzMyA) | [Jason Caling](https://open.spotify.com/artist/0nf6FrEwqiuRIgVdMBQBD3) | [Kay Ganda](https://open.spotify.com/album/6zhGvzWTbNaAJKOFjFFVH9) | 4:53 | 2026-08-19 |  |
+| [Kay Ganda](https://open.spotify.com/track/6Y76T8I3skKZYYn8ZIzMyA) | [Jason Caling](https://open.spotify.com/artist/0nf6FrEwqiuRIgVdMBQBD3) | [Kay Ganda](https://open.spotify.com/album/6zhGvzWTbNaAJKOFjFFVH9) | 4:53 | 2026-08-19 | 2026-11-18 |
 | [Kaya](https://open.spotify.com/track/68DTGKqAL2MP8sJj1xo8QV) | [Dear Three](https://open.spotify.com/artist/7xTWeKTAWrIF14eB3KWiEz) | [Kaya](https://open.spotify.com/album/6uWMUnwPkGSpudpluIkVqk) | 3:08 | 2025-03-27 | 2026-01-15 |
 | [Kaya Ko Din](https://open.spotify.com/track/5tIguflPCT1cK7KvVKUbuC) | [Don Gab](https://open.spotify.com/artist/5DdSIE3q3m121yjE3eKFcz), [RCHRD](https://open.spotify.com/artist/3XEPhTiqZhOcAyueu5DlmO) | [Kaya Ko Din](https://open.spotify.com/album/5CeB12jgiWko45W6ZfeDHl) | 3:37 | 2022-07-07 | 2022-07-22 |
 | [Kaya Ko Pa](https://open.spotify.com/track/2D3Zo3D5IbJuvu25uGmIZA) | [Petsanity](https://open.spotify.com/artist/1OVaCQucAYwylVm6HxeqXm), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Kaya Ko Pa](https://open.spotify.com/album/4jIHdqllIL6DN5zLU0Bhne) | 3:24 | 2023-02-16 | 2023-03-03 |
@@ -1889,6 +1889,7 @@
 | [Kayanon](https://open.spotify.com/track/1rlGIGHfGDlT816tfywNUe) | [J Florence](https://open.spotify.com/artist/6IhiBWMa8MRXGqoKLYTGhc) | [Kayanon](https://open.spotify.com/album/5sXozvfHJ2MOjKPmu4etaV) | 4:36 | 2023-11-09 | 2023-12-09 |
 | [Kaybigat](https://open.spotify.com/track/4VaALDNecvEcJj0YRFKkBr) | [Calvin Keith](https://open.spotify.com/artist/42pNpv8jLdLIBfjJu43S87) | [Kaybigat](https://open.spotify.com/album/4V7SN77MqDWvAQUSJ3feaV) | 2:53 | 2024-05-30 | 2024-06-21 |
 | [Keep It Honest](https://open.spotify.com/track/1M33bqChlyBy3tALHZX5ma) | [JVDAH.](https://open.spotify.com/artist/2fbbwiWXGR94XeFqiUbCKf) | [Keep It Honest](https://open.spotify.com/album/0BLlVepjsuGAKKJQTakpGV) | 3:31 | 2023-07-27 | 2023-08-18 |
+| [Keep It On The Low](https://open.spotify.com/track/0qoSYIny8bQlG6HJgOckQ8) | [Avery Leon](https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3) | [Keep It On The Low](https://open.spotify.com/album/6Ps19moiA1oLtV0tIaFE5G) | 3:57 | 2026-11-18 |  |
 | [Keep It Safe](https://open.spotify.com/track/49JUKbsBIaEvqtKg8ghFOY) | [Chase](https://open.spotify.com/artist/0w4F75vgGrvhlU2mLDZ5pJ) | [Keep It Safe](https://open.spotify.com/album/3n6gHlV4MuMUSiu9IfliEU) | 3:52 | 2023-04-20 | 2023-05-12 |
 | [Keep on Believing](https://open.spotify.com/track/1XhYiJTfBZIrMTa6dlPxqP) | [Wannie](https://open.spotify.com/artist/0mOiuuztwqbpqBiI1hiAZ3) | [Keep on Believing](https://open.spotify.com/album/5OpQgJq4MXwnyGdgjBiDny) | 3:39 | 2022-01-27 | 2022-02-11 |
 | [Keep On Blooming](https://open.spotify.com/track/5AIgTqnW24nsDasLY7HAO6) | [Lee Noynoy](https://open.spotify.com/artist/3Lunw8x5Yc1NeuvDv9AF6E) | [Keep On Blooming](https://open.spotify.com/album/0goupaN7bYEYcOXynkkB3T) | 3:26 | 2025-04-03 | 2025-05-09 |
@@ -3736,7 +3737,7 @@
 | [this is how you fall in love](https://open.spotify.com/track/1zjDOooryue5ckD3tfTzRk) | [Jazelle](https://open.spotify.com/artist/2Oycm3x2LtBE3aB0fIg4H6) | [this is how you fall in love](https://open.spotify.com/album/6twOFy1JMC2kYETuB0oQAd) | 3:08 | 2025-07-17 | 2025-09-26 |
 | [THIS IS WHAT WE DO](https://open.spotify.com/track/6s1DV0FlNP8PkYh6yTJQCj) | [Daz Cue](https://open.spotify.com/artist/15ObU3lzom807WiHf0BU72), [eL](https://open.spotify.com/artist/4tu4GSe7Q0lUloLGgcKkCl) | [THIS IS WHAT WE DO](https://open.spotify.com/album/6dqEhkr4oFzouuUK0kgi3a) | 2:35 | 2025-07-17 | 2025-09-26 |
 | [This Isn't Who I Am](https://open.spotify.com/track/1byJJ23tG6pB2UaS3j5sXP) | [Rafi](https://open.spotify.com/artist/7wWWnyjBVXSwvTrXAuURtl) | [This Isn't Who I Am](https://open.spotify.com/album/1Zc3m1LUqJQVor3nlyPVpt) | 3:20 | 2026-05-06 | 2026-08-20 |
-| [thrift shop](https://open.spotify.com/track/4shctApMVAPyraAAd0fsfX) | [rez!](https://open.spotify.com/artist/4Q5IUFBl0zFc52A3FXitjf) | [thrift shop](https://open.spotify.com/album/6SSVkUOkAFP5XKGN04Xh0R) | 1:36 | 2026-06-17 |  |
+| [thrift shop](https://open.spotify.com/track/4shctApMVAPyraAAd0fsfX) | [rez!](https://open.spotify.com/artist/4Q5IUFBl0zFc52A3FXitjf) | [thrift shop](https://open.spotify.com/album/6SSVkUOkAFP5XKGN04Xh0R) | 1:36 | 2026-06-17 | 2026-11-18 |
 | [through every mistake](https://open.spotify.com/track/3ql1UNVkqcSbVM4KTRZqIm) | [Janis Ianne](https://open.spotify.com/artist/0QXabTjGOiudVWls7pjraE) | [through every mistake](https://open.spotify.com/album/5tGi5Q521fqNPz9BxRYIHz) | 3:44 | 2022-01-27 | 2022-02-11 |
 | [through time.](https://open.spotify.com/track/00oGOa0SVvvCct5AWyQfCs) | [JUNA](https://open.spotify.com/artist/320c4FrMt0pfsfhhawLm0a), [curp](https://open.spotify.com/artist/4fL2omZ2ksboWx91OkkP1d), [Franco Emil](https://open.spotify.com/artist/7JfZtzHmNbSESvy7xMz6Li) | [through time.](https://open.spotify.com/album/4WOKR6QcabF3pa7ufOsuPd) | 3:30 | 2023-03-09 | 2023-03-31 |
 | [Throw Up](https://open.spotify.com/track/0XQZEXAv10EATW4xS4pXCz) | [Gab Pantig](https://open.spotify.com/artist/3DfY78ibXy23G6jHJgZp9M) | [Throw Up](https://open.spotify.com/album/32wNPWB91LsxbPOIdxkiAN) | 2:26 | 2026-01-29 | 2026-05-07 |
@@ -3758,7 +3759,7 @@
 | [Tingin](https://open.spotify.com/track/5WtRYRtUr1Fhn9BYL3Dv4N) | [Avidra](https://open.spotify.com/artist/3LqfLrMOSg1pURrrA1lmju) | [Tingin](https://open.spotify.com/album/5Z6gzsXLkobHOBHbywvDH7) | 2:57 | 2024-10-03 | 2024-11-23 |
 | [Tingkayad](https://open.spotify.com/track/61tLyQA6ZVxJm9GaH2xWLt) | [Harao Misai](https://open.spotify.com/artist/4L9NiChS26fpqvgv8T9aqk) | [Tingkayad](https://open.spotify.com/album/0aL4UTdNlNYVIMHOXamQ3P) | 4:16 | 2025-04-24 | 2025-06-13 |
 | [Tinig](https://open.spotify.com/track/4DGBPbUXc9XdLeG3zsSM7F) | [Fika](https://open.spotify.com/artist/3u3338bgPRbsTbGTPIV0Mn) | [Tinig](https://open.spotify.com/album/11PAo1r7OrW1U4odtoU4At) | 4:25 | 2025-11-27 | 2025-12-04 |
-| [Tinitingala](https://open.spotify.com/track/1RA17YewD7DgfgfYAbsHZW) | [Saranggola Society](https://open.spotify.com/artist/4zNyknsvBptSyQ09BUlfax) | [Tinitingala](https://open.spotify.com/album/1jaGn6yN5G8kthVYTPeksE) | 3:39 | 2026-07-01 |  |
+| [Tinitingala](https://open.spotify.com/track/1RA17YewD7DgfgfYAbsHZW) | [Saranggola Society](https://open.spotify.com/artist/4zNyknsvBptSyQ09BUlfax) | [Tinitingala](https://open.spotify.com/album/1jaGn6yN5G8kthVYTPeksE) | 3:39 | 2026-07-01 | 2026-11-18 |
 | [Tinted](https://open.spotify.com/track/1dliXwsnMf2gJl5K9np9nI) | [Charlie Fleur](https://open.spotify.com/artist/5qbaIsX7YERUnbzFrF2Bkq) | [Tinted](https://open.spotify.com/album/63iuxkSZNBE1m8yp098avh) | 2:37 | 2024-01-11 | 2024-02-09 |
 | [Tipa Dampog](https://open.spotify.com/track/62a43cXzyOOPgESXmT3Nif) | [Yalab](https://open.spotify.com/artist/4WsxTvDS735sc4JmQpOdba) | [Tipa Dampog](https://open.spotify.com/album/0krTsGrNpV9daaZaHo2Yrc) | 4:00 | 2025-11-27 | 2025-12-04 |
 | [Tipsy](https://open.spotify.com/track/7hb9Ki5LmXbschaPKr1wSk) | [JASTENN](https://open.spotify.com/artist/5svCxcD5y6knncM1lSlAgM) | [Tipsy](https://open.spotify.com/album/1p0BPsrCSRss8IfGIGQCer) | 3:36 | 2024-08-29 | 2024-09-27 |
@@ -3885,6 +3886,7 @@
 | [Understatement](https://open.spotify.com/track/7enREf53onMeBDnpsQ9qAo) | [Trailing Noises](https://open.spotify.com/artist/7aAg3T1mLKyUOAGNG6TKov), [CLARKVS](https://open.spotify.com/artist/7LVhan7Gpxkue7AvNjRG3W) | [Understatement](https://open.spotify.com/album/41y08OEVOjcycGNvsn5T0U) | 4:49 | 2023-11-02 | 2023-12-09 |
 | [Undivided](https://open.spotify.com/track/42KHT9mAPLbctqebSMct2v) | [28 Days of February](https://open.spotify.com/artist/1785dDfSIA0uGua88WTNpF) | [Beating the Red Lights](https://open.spotify.com/album/5xIXKsh95jZbqPQLNuZ7eq) | 3:39 | 2022-02-24 | 2022-04-01 |
 | [Unearth](https://open.spotify.com/track/3R1MxYtGy9hlgH67QmnxLt) | [lxni](https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm) | [Unearth](https://open.spotify.com/album/5CEjSKouRWjuf2ZY61DTE2) | 2:36 | 2024-06-20 | 2024-08-09 |
+| [Unfaithful](https://open.spotify.com/track/2MUBtfrIQwN4Y8pBrcliw2) | [Gloryen](https://open.spotify.com/artist/1ADf5He5TcWVOU2NLIuBbU) | [Unfaithful](https://open.spotify.com/album/3NRUY8TsbIfYag37HWCdoT) | 2:44 | 2026-11-18 |  |
 | [Unforgettable](https://open.spotify.com/track/5jVXRvjcCwGoj8i9q0TrlG) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Unforgettable](https://open.spotify.com/album/45g1mjNmqOUrR9hlnrr9gr) | 2:25 | 2023-02-09 | 2023-02-24 |
 | [Unfortunately Life](https://open.spotify.com/track/3D6CEXPlOIYbHcem7egYOa) | [Gab Mabanta](https://open.spotify.com/artist/2BcBX0znvjTTuUw2f0bTQQ) | [Unfortunately Life](https://open.spotify.com/album/750fh1zNX22vlfoA5R4r2r) | 3:40 | 2023-06-22 | 2023-07-14 |
 | [UNHOELY](https://open.spotify.com/track/6K73s3NCDcwerT7LeC4u2c) | [KAM](https://open.spotify.com/artist/3xg0pJxAHg2lehnFpiTMaQ), [sko](https://open.spotify.com/artist/6zH04uCu9SwGVErpr553hw), [NVRMNDGELO](https://open.spotify.com/artist/7wT0LVf0dctIg65GBYv5E7) | [UNHOELY](https://open.spotify.com/album/5JWXEYhAYhSFGY1IZsMGTK) | 4:18 | 2025-06-05 | 2025-08-01 |
@@ -3948,6 +3950,7 @@
 | [Wag Kang Bitter](https://open.spotify.com/track/1YQjaR6kY8BwJsDVAoasz3) | [Seth Mendoza](https://open.spotify.com/artist/6ynIy7wea3II9xfGVS34Og) | [Wag Kang Bitter](https://open.spotify.com/album/32MaTx8WmznZT5shocnL9u) | 4:07 | 2022-09-08 | 2022-10-14 |
 | [Wag Kang Kupal](https://open.spotify.com/track/6ZS3bykCUuF9euL2Flgrr9) | [Paul Michael](https://open.spotify.com/artist/6zqAQAloy0GAoUr7fksiY9), [Kap Amaw](https://open.spotify.com/artist/37u4RclpJCQmzmxO2xI5Jz) | [Wag Kang Kupal](https://open.spotify.com/album/3HwUS9HGdP83CNxvt4EcPg) | 2:25 | 2024-10-24 | 2025-02-07 |
 | [WAG KANG MAG TAMPO](https://open.spotify.com/track/5ryB5TuxP2g1pYx989I40n) | [KLEYA](https://open.spotify.com/artist/3BlBafdAuq1F67bDOXXOyU) | [WAG KANG MAG TAMPO](https://open.spotify.com/album/6V3vTrEQ3iOqveV4FBD0FM) | 3:52 | 2025-11-13 | 2026-02-06 |
+| [Wag Mag\-Alala](https://open.spotify.com/track/2FXQggZaghOwKFX800eJ55) | [Saikyoutopia](https://open.spotify.com/artist/14zovZ2sy4yjEaNUq0xXbU) | [Wag Mag\-Alala](https://open.spotify.com/album/2aisBptdbNKPwCxbTQcnlQ) | 3:40 | 2026-11-18 |  |
 | [Wag Mo Na Siyang Balikan](https://open.spotify.com/track/7kH3Xv5vIjnvRpyDZRjEqG) | [Denin Sy](https://open.spotify.com/artist/42gcHqku5AvQyAEkIj27Jt) | [Wag Mo Na Siyang Balikan](https://open.spotify.com/album/73OE1UBHVDcUP12rtWLaF1) | 3:57 | 2024-03-21 | 2024-05-03 |
 | [Wag Mong Ipilit](https://open.spotify.com/track/2L0oVxojBEiIjm8xxMIRwD) | [Vince Monte](https://open.spotify.com/artist/1y1mL2PDCOrmGxDCLgesDF) | [Wag Mong Ipilit](https://open.spotify.com/album/3KMV3udec19nuaUDWFg6IA) | 3:09 | 2025-04-10 | 2026-01-15 |
 | [Wag na lang](https://open.spotify.com/track/4pCF7JfjBGYxJAlbxlt5qB) | [Deypi](https://open.spotify.com/artist/4rModzTyhxJ31vgulQPpb2) | [Wag na lang](https://open.spotify.com/album/1xYBhiO0rT8agW7bywWJqi) | 3:04 | 2023-05-25 | 2023-06-09 |

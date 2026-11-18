@@ -1,12 +1,12 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 378279,
+  "num_followers": 378273,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHSjry7DCllh4hbQAX0ppI2KCsCm",
+  "snapshot_id": "AAAAAD7WTa3mXJI4lBuWxaqbIlQj0rd4",
   "tracks": [
     {
       "added_at": "2026-11-03 19:43:35",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-11-03 19:43:35",
       "album": {
+        "name": "Memory on the Run",
+        "url": "https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Memory on the Run",
+      "url": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41"
+    },
+    {
+      "added_at": "2026-11-03 19:43:35",
+      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 245471,
       "name": "Feed The Fire (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB"
-    },
-    {
-      "added_at": "2026-11-03 19:43:35",
-      "album": {
-        "name": "Memory on the Run",
-        "url": "https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Memory on the Run",
-      "url": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41"
     },
     {
       "added_at": "2026-11-03 19:43:35",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-11-03 19:43:35",
       "album": {
+        "name": "Can't Even Love Myself",
+        "url": "https://open.spotify.com/album/1ZaQNtm6Gx4dd1nx5PC0Jl"
+      },
+      "artists": [
+        {
+          "name": "Limelight Sound",
+          "url": "https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi"
+        }
+      ],
+      "duration_ms": 125017,
+      "name": "Can't Even Love Myself",
+      "url": "https://open.spotify.com/track/5afL9JeWbEWcs90XEYTHg5"
+    },
+    {
+      "added_at": "2026-11-03 19:43:35",
+      "album": {
         "name": "Heavenly Sea",
         "url": "https://open.spotify.com/album/7e4HuwUijm4aFa721ixfBU"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 193378,
       "name": "Heavenly Sea",
       "url": "https://open.spotify.com/track/2Dypv6hOMF9aooaL4Vg47V"
-    },
-    {
-      "added_at": "2026-11-03 19:43:35",
-      "album": {
-        "name": "Can't Even Love Myself",
-        "url": "https://open.spotify.com/album/1ZaQNtm6Gx4dd1nx5PC0Jl"
-      },
-      "artists": [
-        {
-          "name": "Limelight Sound",
-          "url": "https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi"
-        }
-      ],
-      "duration_ms": 125017,
-      "name": "Can't Even Love Myself",
-      "url": "https://open.spotify.com/track/5afL9JeWbEWcs90XEYTHg5"
     },
     {
       "added_at": "2026-11-03 19:43:35",
@@ -999,6 +999,30 @@
     {
       "added_at": "2026-11-03 19:43:35",
       "album": {
+        "name": "Been A Minute...",
+        "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 189947,
+      "name": "Been A Minute...",
+      "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
+    },
+    {
+      "added_at": "2026-11-03 19:43:35",
+      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -1043,30 +1067,6 @@
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
-    },
-    {
-      "added_at": "2026-11-03 19:43:35",
-      "album": {
-        "name": "Been A Minute...",
-        "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 189947,
-      "name": "Been A Minute...",
-      "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
     },
     {
       "added_at": "2026-11-03 19:43:35",

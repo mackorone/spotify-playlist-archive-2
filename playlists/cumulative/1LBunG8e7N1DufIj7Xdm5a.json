@@ -5959,6 +5959,24 @@
     },
     {
       "album": {
+        "name": "Asphalt",
+        "url": "https://open.spotify.com/album/54UtGMEsU8UXCit9KuXrUQ"
+      },
+      "artists": [
+        {
+          "name": "Alexo",
+          "url": "https://open.spotify.com/artist/2M5K8mw04jLiIyTFaGOvXA"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149039,
+      "name": "Asphalt",
+      "url": "https://open.spotify.com/track/3bTBHWo4OdlfPWxiRdKgxQ"
+    },
+    {
+      "album": {
         "name": "Assume Power",
         "url": "https://open.spotify.com/album/3AVVOljcR40EeXjigES6sH"
       },
@@ -54209,6 +54227,24 @@
     },
     {
       "album": {
+        "name": "Medicate",
+        "url": "https://open.spotify.com/album/5oxKqegUjpahbxGsXMsRpR"
+      },
+      "artists": [
+        {
+          "name": "EverFelt",
+          "url": "https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238388,
+      "name": "Medicate",
+      "url": "https://open.spotify.com/track/3umTsTDjiiE7wlNxGpVPbr"
+    },
+    {
+      "album": {
         "name": "Al Planeta sin el Mundo (Radio Edit)",
         "url": "https://open.spotify.com/album/3JAGc3aqeEQ0Ut0BtL1mFi"
       },
@@ -63414,6 +63450,24 @@
       "duration_ms": 252631,
       "name": "On That Ride",
       "url": "https://open.spotify.com/track/2FtfeuOt2LrS8VREqgOEEr"
+    },
+    {
+      "album": {
+        "name": "On the 10",
+        "url": "https://open.spotify.com/album/4Ef86HGWgUfRYdSe8cOIPx"
+      },
+      "artists": [
+        {
+          "name": "Cristoforo Donadi",
+          "url": "https://open.spotify.com/artist/0kTwzuquhKPxUxJA5ykVYf"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "On the 10",
+      "url": "https://open.spotify.com/track/48lfynVh0BKHCIs4EbEBvy"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 526611,
+  "num_followers": 526601,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-11-15 14:10:06",
       "album": {
+        "name": "Kingyo",
+        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 168559,
+      "name": "Kingyo",
+      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
+    },
+    {
+      "added_at": "2026-11-15 14:10:06",
+      "album": {
         "name": "Sasanqua",
         "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 134959,
       "name": "Sasanqua",
       "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
-    },
-    {
-      "added_at": "2026-11-15 14:10:06",
-      "album": {
-        "name": "Kingyo",
-        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 168559,
-      "name": "Kingyo",
-      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
     },
     {
       "added_at": "2026-11-15 14:10:06",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-11-15 14:10:06",
       "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 197923,
+      "name": "\u79e9\u7236",
+      "url": "https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f"
+    },
+    {
+      "added_at": "2026-11-15 14:10:06",
+      "album": {
         "name": "Memories of Furniture",
         "url": "https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 213333,
       "name": "Memories of Furniture",
       "url": "https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA"
-    },
-    {
-      "added_at": "2026-11-15 14:10:06",
-      "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 197923,
-      "name": "\u79e9\u7236",
-      "url": "https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f"
     },
     {
       "added_at": "2026-11-15 14:10:06",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-11-15 14:10:06",
       "album": {
-        "name": "Sublimation",
-        "url": "https://open.spotify.com/album/4uwsRa5RZaw5Mib2Sgf9Al"
-      },
-      "artists": [
-        {
-          "name": "TSUTCHIE",
-          "url": "https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY"
-        }
-      ],
-      "duration_ms": 235216,
-      "name": "Sublimation",
-      "url": "https://open.spotify.com/track/0tJb8U00a0fEBDhvqTUSYQ"
-    },
-    {
-      "added_at": "2026-11-15 14:10:06",
-      "album": {
         "name": "The Way of the Rain",
         "url": "https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 190285,
       "name": "The Way of the Rain",
       "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
+    },
+    {
+      "added_at": "2026-11-15 14:10:06",
+      "album": {
+        "name": "Sublimation",
+        "url": "https://open.spotify.com/album/4uwsRa5RZaw5Mib2Sgf9Al"
+      },
+      "artists": [
+        {
+          "name": "TSUTCHIE",
+          "url": "https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY"
+        }
+      ],
+      "duration_ms": 235216,
+      "name": "Sublimation",
+      "url": "https://open.spotify.com/track/0tJb8U00a0fEBDhvqTUSYQ"
     },
     {
       "added_at": "2026-11-15 14:10:06",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2026-11-15 14:10:06",
       "album": {
-        "name": "Soar",
-        "url": "https://open.spotify.com/album/0AOSMpiBypDw4Hl6UEmmb0"
-      },
-      "artists": [
-        {
-          "name": "Linn Mori",
-          "url": "https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 165895,
-      "name": "Soar",
-      "url": "https://open.spotify.com/track/3Q1i1S8SsuLcmrV6GAlINi"
-    },
-    {
-      "added_at": "2026-11-15 14:10:06",
-      "album": {
         "name": "Down The River",
         "url": "https://open.spotify.com/album/7wOcOX2RfDpMVGSE7YpUvS"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 258946,
       "name": "Walkin' the Road",
       "url": "https://open.spotify.com/track/1WDHNC5YL6qlasJ7CuyZp9"
+    },
+    {
+      "added_at": "2026-11-15 14:10:06",
+      "album": {
+        "name": "Soar",
+        "url": "https://open.spotify.com/album/0AOSMpiBypDw4Hl6UEmmb0"
+      },
+      "artists": [
+        {
+          "name": "Linn Mori",
+          "url": "https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 165895,
+      "name": "Soar",
+      "url": "https://open.spotify.com/track/3Q1i1S8SsuLcmrV6GAlINi"
     },
     {
       "added_at": "2026-11-15 14:10:06",
@@ -1171,6 +1171,22 @@
       "duration_ms": 182857,
       "name": "Promise",
       "url": "https://open.spotify.com/track/05HJO5WOraCXeBBwoeN8np"
+    },
+    {
+      "added_at": "2026-11-15 14:10:06",
+      "album": {
+        "name": "SYMBOL",
+        "url": "https://open.spotify.com/album/5s4qlmaXiEzQrpQHEikNGC"
+      },
+      "artists": [
+        {
+          "name": "Green Assassin Dollar",
+          "url": "https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7"
+        }
+      ],
+      "duration_ms": 110308,
+      "name": "SYMBOL",
+      "url": "https://open.spotify.com/track/4zqdXlWnuD1oeaTi4pFDS1"
     },
     {
       "added_at": "2026-11-15 14:10:06",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2026-11-15 14:10:06",
       "album": {
-        "name": "SYMBOL",
-        "url": "https://open.spotify.com/album/5s4qlmaXiEzQrpQHEikNGC"
-      },
-      "artists": [
-        {
-          "name": "Green Assassin Dollar",
-          "url": "https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7"
-        }
-      ],
-      "duration_ms": 110308,
-      "name": "SYMBOL",
-      "url": "https://open.spotify.com/track/4zqdXlWnuD1oeaTi4pFDS1"
-    },
-    {
-      "added_at": "2026-11-15 14:10:06",
-      "album": {
         "name": "The Wondering Beats vol.1",
         "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 158117,
       "name": "Swing",
       "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
-    },
-    {
-      "added_at": "2026-11-15 14:10:06",
-      "album": {
-        "name": "Leave Behind",
-        "url": "https://open.spotify.com/album/5JEHpQDD5ytKRIwDLuSMY0"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 119082,
-      "name": "Leave Behind",
-      "url": "https://open.spotify.com/track/1BrETPp4kfh0cuYpTRfrk2"
     },
     {
       "added_at": "2026-11-15 14:10:06",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2026-11-15 14:10:06",
       "album": {
+        "name": "Leave Behind",
+        "url": "https://open.spotify.com/album/5JEHpQDD5ytKRIwDLuSMY0"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 119082,
+      "name": "Leave Behind",
+      "url": "https://open.spotify.com/track/1BrETPp4kfh0cuYpTRfrk2"
+    },
+    {
+      "added_at": "2026-11-15 14:10:06",
+      "album": {
         "name": "sanctuary",
         "url": "https://open.spotify.com/album/6fHGk7wxnQWOFBS0iXLl9t"
       },
@@ -1339,38 +1339,6 @@
       "duration_ms": 195750,
       "name": "sanctuary",
       "url": "https://open.spotify.com/track/334ioy1zQAHUVe5nS9cwzg"
-    },
-    {
-      "added_at": "2026-11-15 14:10:06",
-      "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 184372,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
-    },
-    {
-      "added_at": "2026-11-15 14:10:06",
-      "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
-      },
-      "artists": [
-        {
-          "name": "\u547c\u7159\u9b54",
-          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
-        }
-      ],
-      "duration_ms": 181490,
-      "name": "Whispers in the Night",
-      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
     },
     {
       "added_at": "2026-11-15 14:10:06",
@@ -1391,6 +1359,22 @@
       "duration_ms": 76549,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/5SUZg6W98l9ycWumNLKue3"
+    },
+    {
+      "added_at": "2026-11-15 14:10:06",
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 184372,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
     },
     {
       "added_at": "2026-11-15 14:10:06",
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2026-11-15 14:10:06",
       "album": {
-        "name": "Chic",
-        "url": "https://open.spotify.com/album/3lDqMpPIRQxHWexY9u3PGN"
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
       },
       "artists": [
         {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+          "name": "\u547c\u7159\u9b54",
+          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
         }
       ],
-      "duration_ms": 112687,
-      "name": "Chic",
-      "url": "https://open.spotify.com/track/6RwBSXb1EMcEAtQrjwtJ4r"
+      "duration_ms": 181490,
+      "name": "Whispers in the Night",
+      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
     },
     {
       "added_at": "2026-11-15 14:10:06",
@@ -1459,6 +1443,22 @@
       "duration_ms": 197446,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/3lwKN2RR2tqvqEVl4WoY5s"
+    },
+    {
+      "added_at": "2026-11-15 14:10:06",
+      "album": {
+        "name": "Chic",
+        "url": "https://open.spotify.com/album/3lDqMpPIRQxHWexY9u3PGN"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "duration_ms": 112687,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/6RwBSXb1EMcEAtQrjwtJ4r"
     },
     {
       "added_at": "2026-11-15 14:10:06",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-11-15 14:10:06",
       "album": {
-        "name": "\u5149\u306e\u3088\u3046\u306b",
-        "url": "https://open.spotify.com/album/77NDqgGxatgBntyyD9634e"
-      },
-      "artists": [
-        {
-          "name": "Yuri Hiranuma",
-          "url": "https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1"
-        }
-      ],
-      "duration_ms": 140253,
-      "name": "\u5149\u306e\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0"
-    },
-    {
-      "added_at": "2026-11-15 14:10:06",
-      "album": {
         "name": "\u85e4\u6ca2 2021",
         "url": "https://open.spotify.com/album/07SvPzoAEe8PMZBMSbfhCV"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 150000,
       "name": "\u30aa\u30c0\u30a4\u30b8\u30f3",
       "url": "https://open.spotify.com/track/2ivbGvD2opRsm9tGfubQ7E"
+    },
+    {
+      "added_at": "2026-11-15 14:10:06",
+      "album": {
+        "name": "\u5149\u306e\u3088\u3046\u306b",
+        "url": "https://open.spotify.com/album/77NDqgGxatgBntyyD9634e"
+      },
+      "artists": [
+        {
+          "name": "Yuri Hiranuma",
+          "url": "https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1"
+        }
+      ],
+      "duration_ms": 140253,
+      "name": "\u5149\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0"
     },
     {
       "added_at": "2026-11-15 14:10:06",
@@ -1707,38 +1707,6 @@
     {
       "added_at": "2026-11-15 14:10:06",
       "album": {
-        "name": "The Black Cat",
-        "url": "https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 112421,
-      "name": "The Black Cat",
-      "url": "https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe"
-    },
-    {
-      "added_at": "2026-11-15 14:10:06",
-      "album": {
-        "name": "Cross the Bridge",
-        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
-      },
-      "artists": [
-        {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
-        }
-      ],
-      "duration_ms": 138913,
-      "name": "Cross the Bridge",
-      "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
-    },
-    {
-      "added_at": "2026-11-15 14:10:06",
-      "album": {
         "name": "Jaz",
         "url": "https://open.spotify.com/album/2wK6fdM3Q94um5HjkYT0CY"
       },
@@ -1759,6 +1727,38 @@
       "duration_ms": 351428,
       "name": "Miguri Tunnel",
       "url": "https://open.spotify.com/track/242T3VdA3956m3Kq0m412P"
+    },
+    {
+      "added_at": "2026-11-15 14:10:06",
+      "album": {
+        "name": "Cross the Bridge",
+        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "duration_ms": 138913,
+      "name": "Cross the Bridge",
+      "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
+    },
+    {
+      "added_at": "2026-11-15 14:10:06",
+      "album": {
+        "name": "The Black Cat",
+        "url": "https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 112421,
+      "name": "The Black Cat",
+      "url": "https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe"
     },
     {
       "added_at": "2026-11-15 14:10:06",

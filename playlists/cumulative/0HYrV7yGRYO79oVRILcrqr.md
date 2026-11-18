@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-883 songs - 2 day 6 hr 57 min
+884 songs - 2 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,6 +758,7 @@
 | [The Day Before](https://open.spotify.com/track/7yLWTEsJPfXNHst3iDxH0O) | [David van der Ploeg](https://open.spotify.com/artist/6EeouqO5ERRV1HVYfPDOyY) | [The Day Before](https://open.spotify.com/album/5J7VKSO9BJ26nCAOJL2xkP) | 4:04 | 2026-09-07 | 2026-09-20 |
 | [The Death of Venus](https://open.spotify.com/track/6ahpQjmfYTfTE3YVJnivsN) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Going Blind](https://open.spotify.com/album/6BGcpr68cgLxod7vrRmkeR) | 6:39 | 2026-06-27 |  |
 | [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-11-20 | 2025-12-17 |
+| [The Fountain](https://open.spotify.com/track/2w8VnCDHe4BReLQs3BtTqV) | [Rick S\. Rose](https://open.spotify.com/artist/3qwZmQIimE8XsMzfsQVjKO) | [The Fountain](https://open.spotify.com/album/57NdajmJMk4KLmtJBSSER6) | 2:27 | 2026-11-17 |  |
 | [The Funeral March](https://open.spotify.com/track/0QL841AJqf1PKLnXsWNCJp) | [Zornheym](https://open.spotify.com/artist/5YUadeP4WiWAwaMwXsczgJ) | [The Funeral March](https://open.spotify.com/album/5XUdvSZQYtQVuNnRfDYvhW) | 4:07 | 2026-08-25 |  |
 | [The Fury](https://open.spotify.com/track/5Nz9osPWntRijFqYXSYlGX) | [The River Filth](https://open.spotify.com/artist/59BG6GYu3KdNc7lTYQSkae) | [The Fury](https://open.spotify.com/album/7byxu6uRVYFOmmJUlA5vvp) | 3:15 | 2026-11-12 |  |
 | [The Ghost Of You \- Epic Rock Version](https://open.spotify.com/track/1A6zCKYRn7QlIkMh0izWjW) | [Jordi Martijnse](https://open.spotify.com/artist/5Z0G3YfqBlb7LaqJDhKv5p) | [Ascend](https://open.spotify.com/album/7HBJCsmEoPOBmV043hkXCr) | 2:41 | 2025-11-05 | 2025-12-17 |

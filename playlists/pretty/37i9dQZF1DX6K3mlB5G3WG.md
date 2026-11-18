@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > sangio in cover  + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,310 likes - 114 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,308 likes - 114 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 113 | [Overthinker](https://open.spotify.com/track/2b8BZIE6VefboEkZMrNhRX) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Overthinker](https://open.spotify.com/album/2vKqcQXs8Rvrcvb2vEgn8Q) | 3:40 |
 | 114 | [Much Love](https://open.spotify.com/track/4NQt1ZiyEhZtVV2MWXi7BL) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Surface, Echo & Sound](https://open.spotify.com/album/1kFTis4C1qmlRNK9jph1qC) | 4:18 |
 
-Snapshot ID: `AAAAALrmKVsg0ExlA8woQ9nLqHWytuT4`
+Snapshot ID: `AAAAACCwJ84L/ElXzxmjUlLgpL8paZ75`

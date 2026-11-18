@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois d'Octobre sélectionnés par les éditos de Spotify\. Photo : Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,067 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,041 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 20 | [LESSTOMBÉ](https://open.spotify.com/track/2uF2XYjyn6hJSb79aa3mkf) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [EXTASIAAAAA](https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq) | 3:36 |
 | 21 | [Canada Dry](https://open.spotify.com/track/65PLCeGlZFWbqLW8TlRZve) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 3:21 |
 | 22 | [Flor de canela](https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Flor de canela](https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg) | 3:49 |
-| 23 | [Slide](https://open.spotify.com/track/0qdpMXB0cspUizTeX9q4xJ) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Slide](https://open.spotify.com/album/7bi37xGQrC5LMl66UG3KvI) | 3:20 |
-| 24 | [Mantra](https://open.spotify.com/track/2C03kn5yuBbreti2ZcO1og) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:05 |
-| 25 | [Blackstar](https://open.spotify.com/track/3GbhZOGi7PIDNhtTlPHPk2) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Blackstar](https://open.spotify.com/album/0eZCS0HQphhj78HVDYEV0v) | 2:36 |
-| 26 | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/track/4sN7Kg50VWeDEmRhBONe9i) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/album/1K8INSckfNLaLTFkgQlTQs) | 2:34 |
-| 27 | [PAS TOUS LES HOMMES](https://open.spotify.com/track/1yOPydtr6sv40lYLT7iMyC) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [PAS TOUS LES HOMMES](https://open.spotify.com/album/4cfIv0HWRCtb89nU8HEJop) | 2:41 |
+| 23 | [Mantra](https://open.spotify.com/track/2C03kn5yuBbreti2ZcO1og) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:05 |
+| 24 | [Slide](https://open.spotify.com/track/0qdpMXB0cspUizTeX9q4xJ) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Slide](https://open.spotify.com/album/7bi37xGQrC5LMl66UG3KvI) | 3:20 |
+| 25 | [PAS TOUS LES HOMMES](https://open.spotify.com/track/1yOPydtr6sv40lYLT7iMyC) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [PAS TOUS LES HOMMES](https://open.spotify.com/album/4cfIv0HWRCtb89nU8HEJop) | 2:41 |
+| 26 | [Blackstar](https://open.spotify.com/track/3GbhZOGi7PIDNhtTlPHPk2) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Blackstar](https://open.spotify.com/album/0eZCS0HQphhj78HVDYEV0v) | 2:36 |
+| 27 | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/track/4sN7Kg50VWeDEmRhBONe9i) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [APPELLE LA POLICE \(feat\. Theodora\)](https://open.spotify.com/album/1K8INSckfNLaLTFkgQlTQs) | 2:34 |
 | 28 | [Whole Room Dancing](https://open.spotify.com/track/4H7K86ED2CD527gllnpF0F) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [Whole Room Dancing](https://open.spotify.com/album/44wu5EOlqWT4yVUrAJ0qTC) | 2:56 |
 | 29 | [BRAINDEAD \(Okay!\)](https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:18 |
 | 30 | [POSITION](https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [POSITION](https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu) | 2:51 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 35 | [les fourmis](https://open.spotify.com/track/5PDQo9PRufKGHpobY2nUAl) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [guérir](https://open.spotify.com/album/5SLhRamBJlp8UHE5VhKj5Y) | 2:53 |
 | 36 | [Living Room](https://open.spotify.com/track/0bFB03Qc4ZoLiaNy2zkuvJ) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Autumn](https://open.spotify.com/album/7jY9Dj3XultdHEzjtNFvgW) | 4:55 |
 | 37 | [Power](https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e) | 3:53 |
-| 38 | [sex](https://open.spotify.com/track/2KMVizTVC3iUOcG6il4lBr) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [sex](https://open.spotify.com/album/0kL12szrXp4blmzGMztPOp) | 2:42 |
-| 39 | [Plus rien ne m'étonne \(Partager le monde\)](https://open.spotify.com/track/3PAISi9AWltKfvhnwfJf17) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Plus rien ne m'étonne \(Partager le monde\)](https://open.spotify.com/album/62l59GYI179OIDENsm93wr) | 3:13 |
-| 40 | [Photos au mur](https://open.spotify.com/track/3hGwCNRgA8BkV0TzbVGwi7) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Photos au mur](https://open.spotify.com/album/6sAWUdypDkS7q4nXVisEM3) | 2:32 |
+| 38 | [Plus rien ne m'étonne \(Partager le monde\)](https://open.spotify.com/track/3PAISi9AWltKfvhnwfJf17) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Plus rien ne m'étonne \(Partager le monde\)](https://open.spotify.com/album/62l59GYI179OIDENsm93wr) | 3:13 |
+| 39 | [Photos au mur](https://open.spotify.com/track/3hGwCNRgA8BkV0TzbVGwi7) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Photos au mur](https://open.spotify.com/album/6sAWUdypDkS7q4nXVisEM3) | 2:32 |
+| 40 | [sex](https://open.spotify.com/track/2KMVizTVC3iUOcG6il4lBr) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [sex](https://open.spotify.com/album/0kL12szrXp4blmzGMztPOp) | 2:42 |
 | 41 | [Tout est facile](https://open.spotify.com/track/5XtgNLRh1K5kdiXQ4s5k3d) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9), [Lesley](https://open.spotify.com/artist/4iPGEsej2ak9iDheY1I0Tt), [RAPHA](https://open.spotify.com/artist/17BfKBemmMGO5ZAK25wraW), [Bruant](https://open.spotify.com/artist/2EfwQcJnqlGwAUqasHlHSO), [Génération Débrouille](https://open.spotify.com/artist/4G6KO5j7IoMEM3A7Gk6g2s) | [Tout est facile](https://open.spotify.com/album/0IqkkvkolyF92zvcgfxXKY) | 3:06 |
 | 42 | [Biopic](https://open.spotify.com/track/5OOO12AefQmA6PNvOaC5Xf) | [Stanislas](https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1) | [Biopic](https://open.spotify.com/album/015fcq6qJjulKwDyzSdFFz) | 3:49 |
 | 43 | [Borrowed Time](https://open.spotify.com/track/6QESYT149tN8sV6JmjHcJc) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne) | [Borrowed Time](https://open.spotify.com/album/5UuqNdJMfNFULySh1MsgLd) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Les oiseaux qui chantent](https://open.spotify.com/track/2S79KZogGAUkVl3xN62UyI) | [Sauve](https://open.spotify.com/artist/3jXzioLWZnWUIaEjXPxpHw) | [Les oiseaux qui chantent](https://open.spotify.com/album/42MRurG1TXXLyja3zbRnOt) | 2:27 |
 | 50 | [Who You Callin' Crazy](https://open.spotify.com/track/6RoAAej2b94deRZ23FehHW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues, Loose Lips](https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3) | 4:09 |
 
-Snapshot ID: `AAAAAGcfbpLJQ+oaJMMin71fN0gj75J1`
+Snapshot ID: `AAAAAKLMs6ehaFwf7WuUYLQ9Pyorlp/9`

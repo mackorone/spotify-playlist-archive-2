@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Silent Planet
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,257 likes - 206 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,277 likes - 206 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 205 | [Das Ungeheuer](https://open.spotify.com/track/0JHF017RRJcFQoBd5PJg9d) | [Diggeth](https://open.spotify.com/artist/13pZuOGdF1m7rQig0nAPvV) | [Das Ungeheuer](https://open.spotify.com/album/754M5x2L5VseociGhn7Rz1) | 5:36 |
 | 206 | [Into The Void](https://open.spotify.com/track/2ztm2zPEbY8Jw7qun5vdsp) | [CHAOS CONTROL](https://open.spotify.com/artist/3t0mZjflw8pNa4B5FX4jAO) | [CHAOS CONTROL](https://open.spotify.com/album/3rwMBCgvguXyizXl2dOOph) | 1:47 |
 
-Snapshot ID: `AAAAAHfAfhtlR/Deaq7Um9zAQ7uDIzlU`
+Snapshot ID: `AAAAAOg1yO9XD0D7Is+5QPJJfAlbMIqC`

@@ -2067,6 +2067,28 @@
     },
     {
       "album": {
+        "name": "Dando",
+        "url": "https://open.spotify.com/album/5WXp2gzKiZnljdUubowEJE"
+      },
+      "artists": [
+        {
+          "name": "Tete",
+          "url": "https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw"
+        },
+        {
+          "name": "S TILL I DIE",
+          "url": "https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198246,
+      "name": "Dando",
+      "url": "https://open.spotify.com/track/2qeqV965uPxg3FV23J2MEv"
+    },
+    {
+      "album": {
         "name": "dash",
         "url": "https://open.spotify.com/album/1iuq3nsI6hBhnUlmWMMHfO"
       },
@@ -4422,6 +4444,24 @@
       "duration_ms": 143172,
       "name": "King Vibes (feat. trrry)",
       "url": "https://open.spotify.com/track/65YNcquyhDgoY3syWOqeVS"
+    },
+    {
+      "album": {
+        "name": "kouken",
+        "url": "https://open.spotify.com/album/4oiKvoGCf9wkbiDDF0Yi94"
+      },
+      "artists": [
+        {
+          "name": "Saggypants Shimba",
+          "url": "https://open.spotify.com/artist/75R2U62H9bf08CifLZqTSG"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128494,
+      "name": "kouken",
+      "url": "https://open.spotify.com/track/1UjX1nYh8EUB65cqIYqd10"
     },
     {
       "album": {
@@ -8611,6 +8651,28 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30b1\u30e1\u30f3",
+        "url": "https://open.spotify.com/album/1nxEU4hVfjYLwq0zwOMQnb"
+      },
+      "artists": [
+        {
+          "name": "TAKEKO420",
+          "url": "https://open.spotify.com/artist/2FtjPnppfeem0hu0wteHr0"
+        },
+        {
+          "name": "Filix\u738b",
+          "url": "https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191475,
+      "name": "\u30a4\u30b1\u30e1\u30f3",
+      "url": "https://open.spotify.com/track/5p3jhk43IPaeNJFqukz4tn"
+    },
+    {
+      "album": {
         "name": "\u30b5\u30e2\u30c8\u30e9\u30b1\u306e\u30cb\u30b1 (feat. Jairo nark)",
         "url": "https://open.spotify.com/album/2x4dmUXLzw8ytiXTpVqgxL"
       },
@@ -9822,6 +9884,24 @@
       "duration_ms": 192138,
       "name": "\u9ec4\u8272 (feat. R-\u6307\u5b9a)",
       "url": "https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7"
+    },
+    {
+      "album": {
+        "name": "J nark MIC performance",
+        "url": "https://open.spotify.com/album/6vz4LGp6QzGHGs6zlXQZE4"
+      },
+      "artists": [
+        {
+          "name": "Jairo nark",
+          "url": "https://open.spotify.com/artist/1lmUrNTjONM6jJsBpyBULM"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182016,
+      "name": "\u9ed9\u308c",
+      "url": "https://open.spotify.com/track/1XPhwNV73H5mYuo0VKv6WD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX93dxiCI0yn1"

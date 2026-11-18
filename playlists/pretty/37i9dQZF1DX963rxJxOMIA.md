@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante como Koora y Conep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,147 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,159 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 4 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
 | 5 | [WINDOW SHOPPER](https://open.spotify.com/track/39W7F5Ayk3AH8cS1IoT9zV) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [WINDOW SHOPPER](https://open.spotify.com/album/35PiOjp1Z2AGxSbIh1fUGl) | 3:01 |
 | 6 | [GALACTICOS](https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E) | [Bigg Danny](https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt) | [GALACTICOS](https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU) | 2:19 |
-| 7 | [MoonWalkin](https://open.spotify.com/track/5mDiMtJXViQWCYaQ1M4ZDC) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [MoonWalkin](https://open.spotify.com/album/4Nq2hr1B4yOCjzEefuOmhj) | 2:50 |
+| 7 | [MoonWalkin](https://open.spotify.com/track/5mDiMtJXViQWCYaQ1M4ZDC) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Zor Beats](https://open.spotify.com/artist/4PRnYjyIiHXm9sQz1bFYen) | [MoonWalkin](https://open.spotify.com/album/4Nq2hr1B4yOCjzEefuOmhj) | 2:50 |
 | 8 | [La Monda](https://open.spotify.com/track/7cIyY45Uw7NIWkVt3QkbsH) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [La Monda](https://open.spotify.com/album/2Z4jEq2zHhWK9XagSRjnTV) | 2:56 |
 | 9 | [GAMINA](https://open.spotify.com/track/5E6Mn8HCO1izFhRm2PFxNq) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd) | 2:26 |
 | 10 | [SE PUSO FEO](https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Divino](https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X), [Baby Ranks](https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 49 | [Desde Antes](https://open.spotify.com/track/5Ulsi8075EHzP2chQqbv86) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [Desde Antes](https://open.spotify.com/album/2M8U9CPDLmJwTEoMEXWDZl) | 3:11 |
 | 50 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
 
-Snapshot ID: `AAAAAFzwN4q4YFYYJLt6aE1vUmZ2yaHl`
+Snapshot ID: `AAAAAF/0n2keiMe6i4D6IQmmtfp46L7I`

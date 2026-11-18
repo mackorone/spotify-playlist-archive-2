@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > Tate McRae  in cover della playlist con tutte le hit 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,701,382 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,701,236 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 37 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
 | 38 | [Bugie](https://open.spotify.com/track/25IdZoXhYBwcKtqh31F8cu) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bugie](https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG) | 3:13 |
 | 39 | [SWAG MUSIC](https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [SWAG MUSIC](https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10) | 2:52 |
-| 40 | [WHITE GIRL WASTED](https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [WHITE GIRL WASTED](https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq) | 2:22 |
-| 41 | [CANZONE D'AMORE](https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:00 |
-| 42 | [Bella giornata](https://open.spotify.com/track/24Rr5KpIo8xjyZkJ75HVTd) | [Rareș](https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8) | [SINCERO!](https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI) | 2:55 |
-| 43 | [Ogni Male](https://open.spotify.com/track/28v57vssZ488EEIBivY3NF) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 3:27 |
-| 44 | [L'Amore Non Mi Basta](https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR) | 3:31 |
-| 45 | [7/7](https://open.spotify.com/track/5P39MpRYjtD28Q3xPbK9E2) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [7/7](https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan) | 2:35 |
-| 46 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
-| 47 | [Cantilene](https://open.spotify.com/track/3yaRrdo3DDeKgDaubuBsId) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:59 |
-| 48 | [LENTIGGINI](https://open.spotify.com/track/1YXR6Fvqz6rRnZYStqVHNJ) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [LENTIGGINI](https://open.spotify.com/album/6aeOCggQb28q7vHm6hp0Ug) | 2:59 |
+| 40 | [Cosa mi fai](https://open.spotify.com/track/5KrBQxU4c768qoQp8sUbmp) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Cosa mi fai](https://open.spotify.com/album/6DqSrBR8XZkbKbJVzpTx5W) | 2:45 |
+| 41 | [WHITE GIRL WASTED](https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [WHITE GIRL WASTED](https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq) | 2:22 |
+| 42 | [CANZONE D'AMORE](https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:00 |
+| 43 | [Bella giornata](https://open.spotify.com/track/24Rr5KpIo8xjyZkJ75HVTd) | [Rareș](https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8) | [SINCERO!](https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI) | 2:55 |
+| 44 | [Ogni Male](https://open.spotify.com/track/28v57vssZ488EEIBivY3NF) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 3:27 |
+| 45 | [L'Amore Non Mi Basta](https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR) | 3:31 |
+| 46 | [7/7](https://open.spotify.com/track/5P39MpRYjtD28Q3xPbK9E2) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [7/7](https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan) | 2:35 |
+| 47 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
+| 48 | [Cantilene](https://open.spotify.com/track/3yaRrdo3DDeKgDaubuBsId) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:59 |
 | 49 | [DAVVERODAVVERO](https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:45 |
 | 50 | [Stupida sfortuna](https://open.spotify.com/track/2yzOkthIypp8Lwkww7LZjY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stupida sfortuna](https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG) | 2:55 |
 
-Snapshot ID: `AAAAAHecjCu+A+tuiNA/kh1FQjb6tEao`
+Snapshot ID: `AAAAAEYLkRluiEGnG2R9MjTiDGMhFx+J`

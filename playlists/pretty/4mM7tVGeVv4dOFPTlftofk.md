@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/4mM7tVGeVv4dOFPTlftofk.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Far Beyond The Sun](https://open.spotify.com/track/671vZdjEOtml0luFydgvKU) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Rising Force](https://open.spotify.com/album/4tJtJ6kgkBdyp4NZS9efW9) | 5:49 |
+| 1 | [Far Beyond The Sun](https://open.spotify.com/track/671vZdjEOtml0luFydgvKU) | [イングヴェイ・マルムスティーン](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Rising Force](https://open.spotify.com/album/4tJtJ6kgkBdyp4NZS9efW9) | 5:49 |
 | 2 | [Carry On](https://open.spotify.com/track/4S47FRAZ3VcyZS87FnQtmk) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Fighting the World](https://open.spotify.com/album/2Bju49iO98LXuJsY2vKEqg) | 4:12 |
 | 3 | [The Crow, The Owl And The Dove](https://open.spotify.com/track/2Be1LsKhxQo1pMSzsWio94) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Crow, The Owl And The Dove](https://open.spotify.com/album/6AQUfFDeBnACgYaetHPVtx) | 3:46 |
 | 4 | [Princess of the Night \- 2009 Remaster](https://open.spotify.com/track/2QpP8SyXrumYR5BlcdJgTV) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather \(2009 Remastered Version\)](https://open.spotify.com/album/0KtDv1SIDSdJWDpjHBLJad) | 4:02 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/4mM7tVGeVv4dOFPTlftofk.md) - [plain]
 | 16 | [K.I.N.G](https://open.spotify.com/track/0M82wZjP8IGboFGIOiw1ah) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Now, Diabolical](https://open.spotify.com/album/5ux0kZmUpHgNZ1Lsmwjngv) | 3:36 |
 | 17 | [Så jävla bra](https://open.spotify.com/track/3UA4L041EaZziqBvrjYNE8) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [Så jävla bra](https://open.spotify.com/album/4CYmniSsyZlMjoQSM45EoF) | 3:52 |
 | 18 | [Evil Ways](https://open.spotify.com/track/5DYZ2hDmnFg15L0KVX5kXB) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Graveyard](https://open.spotify.com/album/6kP4qxIirFasV4dqO1EaUk) | 3:27 |
-| 19 | [Relentless](https://open.spotify.com/track/55jNKwDXNtsNfDqnLHKXXH) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Relentless](https://open.spotify.com/album/0bsks59upVOkvbqskTim0t) | 4:58 |
+| 19 | [Relentless](https://open.spotify.com/track/55jNKwDXNtsNfDqnLHKXXH) | [イングヴェイ・マルムスティーン](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Relentless](https://open.spotify.com/album/0bsks59upVOkvbqskTim0t) | 4:58 |
 | 20 | [Double Nature](https://open.spotify.com/track/0BGykzIblZq29QGNDH3ZUL) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Double Nature](https://open.spotify.com/album/5JlviIt8J6PjQh7ehNvxDF) | 4:47 |
 | 21 | [Bye Bye Beautiful](https://open.spotify.com/track/1nizV50Nh1WwrVp0QUMisj) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play \(Special Deluxe Edition\)](https://open.spotify.com/album/4VqPuC0LLhgb1Gp3SVEd1u) | 4:14 |
 | 22 | [Mjød](https://open.spotify.com/track/60xc9CfAn4aoY8MDDif9fV) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Kvelertak](https://open.spotify.com/album/08d7MnYYp9OEsQ8GcnMHOn) | 2:31 |

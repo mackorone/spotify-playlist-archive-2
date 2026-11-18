@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,637 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,589 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 74 | [Princesa](https://open.spotify.com/track/4br4zFlJph6OI5FFy6ZCBx) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Princesa](https://open.spotify.com/album/11HKHpT3qO0HnRf4sMaurq) | 3:06 |
 | 75 | [⁠⁠NO MIRES ATRÁS](https://open.spotify.com/track/00FJssZnKKOfxLdbeGLdsW) | [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [CENIZA](https://open.spotify.com/album/1AjtnhnSYiPViX0d9XdGSS) | 2:56 |
 
-Snapshot ID: `AAAAABhgDa+h0G9JYgdLOOR/5rUnFc+l`
+Snapshot ID: `AAAAAMGM/ikebVKqRbhLLD3A0ZCbFB8R`

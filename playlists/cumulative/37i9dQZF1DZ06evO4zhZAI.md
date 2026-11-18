@@ -4,7 +4,7 @@
 
 > This is Erykah Badu\. The essential tracks, all in one playlist.
 
-43 songs - 3 hr 15 min
+44 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Poetry](https://open.spotify.com/track/3nSECoLmCiUbpQVJtpmS1I) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 5:48 | 2026-11-04 |  |
 | [pure colour \(feat\. Erykah Badu\)](https://open.spotify.com/track/4BgZNZ8hKrfyU4jiCKoAIg) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 3:06 | 2026-11-04 |  |
 | [Rim Shot \- Intro](https://open.spotify.com/track/15QJXeFMsil7J8hHWaC8Ma) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 1:57 | 2026-11-04 |  |
+| [Situation \(feat\. Big Sean, Erykah Badu & Aasher Saintt\)](https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Aasher Saintt](https://open.spotify.com/artist/2GcRjXO2JMqFNNRcwEI0iR) | [Situation \(feat\. Big Sean, Erykah Badu, & Aasher Saintt\)](https://open.spotify.com/album/4SlPNDEOnbbfPxq72hvwMt) | 2:38 | 2026-11-18 |  |
 | [Soldier](https://open.spotify.com/track/5rI0lmvmena4CW3C4zwZ4v) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 5:03 | 2026-11-04 |  |
 | [Sometimes](https://open.spotify.com/track/2ESN3ebvvqXcFAMxxn6QXF) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 4:10 | 2026-11-04 |  |
 | [Sweet Baby \(feat\. Erykah Badu\)](https://open.spotify.com/track/2W9FCvuxSSXbnkj9q4Dd9N) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [the id](https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp) | 3:49 | 2026-11-04 |  |

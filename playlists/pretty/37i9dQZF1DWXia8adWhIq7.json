@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: BENITO",
-  "num_followers": 113169,
+  "num_followers": 113167,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
+        "name": "Eu Vou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dZnuPgRHF7sGF5ttPVghh"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Zoe",
+          "url": "https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU"
+        }
+      ],
+      "duration_ms": 685714,
+      "name": "Eu Vou - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YAoTTQIiaMc37309bOjtX"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 202431,
       "name": "O Tempo N\u00e3o Para",
       "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
-        "name": "Eu Vou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0dZnuPgRHF7sGF5ttPVghh"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Zoe",
-          "url": "https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU"
-        }
-      ],
-      "duration_ms": 685714,
-      "name": "Eu Vou - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YAoTTQIiaMc37309bOjtX"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Copinho de Extrato de Tomate",
-        "url": "https://open.spotify.com/album/7ktV3hvFEh2JABI8JDX55C"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 276642,
-      "name": "Copinho de Extrato de Tomate",
-      "url": "https://open.spotify.com/track/1lVd6sm5t1GxblrTsicl9A"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Desej\u00e1vel",
         "url": "https://open.spotify.com/album/4B3VnrNJcH1vmsvYlntKFc"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 333706,
       "name": "Desej\u00e1vel",
       "url": "https://open.spotify.com/track/2u2NL48dpclQeLPh3rbA9I"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Copinho de Extrato de Tomate",
+        "url": "https://open.spotify.com/album/7ktV3hvFEh2JABI8JDX55C"
+      },
+      "artists": [
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 276642,
+      "name": "Copinho de Extrato de Tomate",
+      "url": "https://open.spotify.com/track/1lVd6sm5t1GxblrTsicl9A"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Alegria (Ao Vivo)",
         "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 298703,
       "name": "Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -899,8 +899,8 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Pra Onde Vou Correr",
-        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
         }
       ],
-      "duration_ms": 215125,
-      "name": "Pra Onde Vou Correr",
-      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
+      "duration_ms": 178000,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
+        "name": "Voltar",
+        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
+      },
+      "artists": [
+        {
+          "name": "Eric Cortes",
+          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
+        }
+      ],
+      "duration_ms": 256874,
+      "name": "Voltar",
+      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
         "name": "Faltava Voc\u00ea",
         "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
       },
@@ -983,24 +999,8 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Voltar",
-        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
-      },
-      "artists": [
-        {
-          "name": "Eric Cortes",
-          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
-        }
-      ],
-      "duration_ms": 256874,
-      "name": "Voltar",
-      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
+        "name": "Pra Onde Vou Correr",
+        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
+      "duration_ms": 215125,
+      "name": "Pra Onde Vou Correr",
+      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Enganoso Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
-      },
-      "artists": [
-        {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
-        }
-      ],
-      "duration_ms": 190023,
-      "name": "Enganoso Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "A Gente Aprende a Ser",
         "url": "https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 248601,
       "name": "A Gente Aprende a Ser",
       "url": "https://open.spotify.com/track/3Icpn3LFDFf2jKYZujlntR"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Enganoso Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 190023,
+      "name": "Enganoso Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Casulo",
-        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 219903,
-      "name": "Casulo",
-      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Teu Calor",
         "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 224000,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Casulo",
+        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 219903,
+      "name": "Casulo",
+      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
     },
     {
       "added_at": "2026-10-16 03:01:01",

@@ -1,12 +1,12 @@
 {
   "description": "This is Stephen Hough. The essential tracks, all in one playlist.",
-  "num_followers": 391,
+  "num_followers": 392,
   "original_name": "This Is Stephen Hough",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAACRtVdi6QTDsrCp3IquFssl",
+  "snapshot_id": "avpHgAAAAABaB2DzJAiut9pDZB6H9vqs",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"An Era of Classical\": Piano and Orchestral Works",
-        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 149453,
-      "name": "6 Klavierst\u00fccke, Op. 118: No. 4, Intermezzo in F Minor",
-      "url": "https://open.spotify.com/track/71OGi8SpiJfeTgcWBWCDuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hummel: Piano Concertos",
         "url": "https://open.spotify.com/album/1D3iRke9l3eUb37KY5aBSc"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 525173,
       "name": "II. Larghetto",
       "url": "https://open.spotify.com/track/4LwBt2pAOdVIv541oeEeOU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"An Era of Classical\": Piano and Orchestral Works",
+        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 149453,
+      "name": "6 Klavierst\u00fccke, Op. 118: No. 4, Intermezzo in F Minor",
+      "url": "https://open.spotify.com/track/71OGi8SpiJfeTgcWBWCDuH"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
-        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 98200,
-      "name": "4 Klavierst\u00fccke, Op. 119: No. 3, Intermezzo in C Major",
-      "url": "https://open.spotify.com/track/0rWjXuHg81ukk4eI14ggTP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chaminade: Les sylvains, Op. 60",
         "url": "https://open.spotify.com/album/0SxfV2lTnlKN0ZznvVa7tB"
       },
@@ -775,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 98200,
+      "name": "4 Klavierst\u00fccke, Op. 119: No. 3, Intermezzo in C Major",
+      "url": "https://open.spotify.com/track/0rWjXuHg81ukk4eI14ggTP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chopin: Nocturnes (Complete)",
         "url": "https://open.spotify.com/album/4laomoW9n1HN2R2DRoFVCn"
       },
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 259133,
-      "name": "Nocturne No. 15 in F Minor, Op. 55 No. 1",
-      "url": "https://open.spotify.com/track/23jrPl3866wVHO0ciwCj2n"
+      "duration_ms": 192800,
+      "name": "Nocturne No. 5 in F-Sharp Major, Op. 15 No. 2",
+      "url": "https://open.spotify.com/track/799J3kj5WhJqQD1WTDpi5q"
     },
     {
       "added_at": null,
@@ -835,22 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Granados: Danzas espa\u00f1olas, Op. 37: V. Andaluza (Playera)",
-        "url": "https://open.spotify.com/album/0jNKhUj2hAvAiWhHK5LT4Y"
+        "name": "Brahms: The Final Piano Pieces, Op. 116-119",
+        "url": "https://open.spotify.com/album/0zecLuGhn3F4Fne4ruUjxl"
       },
       "artists": [
         {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Danzas espa\u00f1olas, Op. 37: V. Andaluza (Playera)",
-      "url": "https://open.spotify.com/track/0UBIdVOxNgYMU8MjvTVYhO"
+      "duration_ms": 239293,
+      "name": "Intermezzos, Op. 117: No. 2 in B-Flat Minor. Andante non troppo e con molto espressione",
+      "url": "https://open.spotify.com/track/22AR0LumFEGmDhjH7j0vlc"
     },
     {
       "added_at": null,
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Nocturne No. 5 in F-Sharp Major, Op. 15 No. 2",
-      "url": "https://open.spotify.com/track/799J3kj5WhJqQD1WTDpi5q"
+      "duration_ms": 259133,
+      "name": "Nocturne No. 15 in F Minor, Op. 55 No. 1",
+      "url": "https://open.spotify.com/track/23jrPl3866wVHO0ciwCj2n"
     },
     {
       "added_at": null,
@@ -915,22 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brahms: The Final Piano Pieces, Op. 116-119",
-        "url": "https://open.spotify.com/album/0zecLuGhn3F4Fne4ruUjxl"
+        "name": "Granados: Danzas espa\u00f1olas, Op. 37: V. Andaluza (Playera)",
+        "url": "https://open.spotify.com/album/0jNKhUj2hAvAiWhHK5LT4Y"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 239293,
-      "name": "Intermezzos, Op. 117: No. 2 in B-Flat Minor. Andante non troppo e con molto espressione",
-      "url": "https://open.spotify.com/track/22AR0LumFEGmDhjH7j0vlc"
+      "duration_ms": 242333,
+      "name": "Danzas espa\u00f1olas, Op. 37: V. Andaluza (Playera)",
+      "url": "https://open.spotify.com/track/0UBIdVOxNgYMU8MjvTVYhO"
     },
     {
       "added_at": null,
@@ -975,6 +975,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beethoven: Piano Concertos Nos. 1-5",
+        "url": "https://open.spotify.com/album/6jUAmivzjgDifAcMMcSQWN"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Finnish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5Lf1SAS15AisICBsyP1L0Z"
+        },
+        {
+          "name": "Hannu Lintu",
+          "url": "https://open.spotify.com/artist/5Tmg9YbCEQSH2gft7Ftpdo"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 637200,
+      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/73DLt511eJniCAPV1DSEQO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stephen Hough's Piano Postcards",
         "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
       },
@@ -991,34 +1019,6 @@
       "duration_ms": 259333,
       "name": "Th\u00e8me vari\u00e9 in A Major, Op. 89",
       "url": "https://open.spotify.com/track/1YysVcXZ4mVOSJ5g7eaBzD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
-        "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        },
-        {
-          "name": "Bryden Thomson",
-          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
-        }
-      ],
-      "duration_ms": 56933,
-      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
-      "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
     },
     {
       "added_at": null,

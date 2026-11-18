@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Tohji, Tove Lo, U2, Ella Langley, Fall Out Boy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,536 likes - 82 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,535 likes - 82 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 81 | [EL Pence](https://open.spotify.com/track/7gMgQeIZ9lWQKXf3LsDhk4) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Los Bitchos & Friends Vol I](https://open.spotify.com/album/0lwd4OE779Hxu32veu91yv) | 3:18 |
 | 82 | [Imitation](https://open.spotify.com/track/401JOzWwvhKGessUlI1CDD) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Imitation](https://open.spotify.com/album/5GDUjGBWVbLhudm9ApjrQG) | 2:19 |
 
-Snapshot ID: `AAAAAFFK1OMKW+EDItch4MoZcXNc7Q0Z`
+Snapshot ID: `AAAAAPrusYKQYgiZEg66oZNmhs2hsPOG`

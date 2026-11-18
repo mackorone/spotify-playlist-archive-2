@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: The Sophs",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Louis Ottley",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 149386,
       "name": "Around My Finger",
       "url": "https://open.spotify.com/track/0p03G39z3M9nTkm43JT9rN"
@@ -3045,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "It all feels the same from afar",
+        "url": "https://open.spotify.com/album/0Wj5EYtvHmqW0OC8gKtoVC"
+      },
+      "artists": [
+        {
+          "name": "breakkaway",
+          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134485,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/31KsU3qjA8eQ5Kh9YQ9Cqt"
+    },
+    {
+      "album": {
         "name": "Backseat",
         "url": "https://open.spotify.com/album/7p3uyerfn6NG5N2zQPRWI9"
       },
@@ -3492,6 +3510,24 @@
       "duration_ms": 243000,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/0ARzekqcbKwDAKXMVyTx1a"
+    },
+    {
+      "album": {
+        "name": "BDSMX",
+        "url": "https://open.spotify.com/album/167Mww97EYQwYK2jTxvsK0"
+      },
+      "artists": [
+        {
+          "name": "black nylon",
+          "url": "https://open.spotify.com/artist/1evn9tfLQgLDCaNfcy7lge"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "BDSMX",
+      "url": "https://open.spotify.com/track/0mpEqAS2389MXxOflfAvPQ"
     },
     {
       "album": {
@@ -3956,7 +3992,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 257223,
       "name": "Belly Of The Whale",
       "url": "https://open.spotify.com/track/6ZgkpG7XT0OYZATsXQGG31"
@@ -11122,7 +11158,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 217000,
       "name": "Dimly Lit Cadaver",
       "url": "https://open.spotify.com/track/68kd3bIMh83qorfcD0u8f6"
@@ -12294,6 +12330,24 @@
       "duration_ms": 182068,
       "name": "Drown Out the World",
       "url": "https://open.spotify.com/track/397bbBQ4grzXqyWLuFk8iM"
+    },
+    {
+      "album": {
+        "name": "Drugz",
+        "url": "https://open.spotify.com/album/2drrlkXEZg7D1RvOjhajyP"
+      },
+      "artists": [
+        {
+          "name": "Zoah",
+          "url": "https://open.spotify.com/artist/3hflwejQi7MLj87SswkudT"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330139,
+      "name": "Drugz",
+      "url": "https://open.spotify.com/track/4OrlXv1OFTeuyZlL086hZ5"
     },
     {
       "album": {
@@ -14672,6 +14726,24 @@
       "duration_ms": 148626,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/3ZBzkVWAnTxR9VoD0XY8pf"
+    },
+    {
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/23CtkCYNEeDhqvp1XFLQlu"
+      },
+      "artists": [
+        {
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232403,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/43QcY6QM8NxPERJA1uzaKk"
     },
     {
       "album": {
@@ -18548,7 +18620,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 136866,
       "name": "Hipster Runoff",
       "url": "https://open.spotify.com/track/6G86jMPi0lWMZKK8vWlGfG"
@@ -25318,7 +25390,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 140995,
       "name": "Meetings",
       "url": "https://open.spotify.com/track/24kld4AJX5lPrenmK8Juc6"
@@ -27696,7 +27768,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 163080,
       "name": "ninetynine",
       "url": "https://open.spotify.com/track/4xFZDHwEh6bdqebhbU28JJ"
@@ -30689,6 +30761,24 @@
     },
     {
       "album": {
+        "name": "Ponder Neek",
+        "url": "https://open.spotify.com/album/0qoSNEhxEAQCgMg9p65AEq"
+      },
+      "artists": [
+        {
+          "name": "Louis Ottley",
+          "url": "https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155237,
+      "name": "Ponder Neek",
+      "url": "https://open.spotify.com/track/3FQwEFzzf40iVo0xA6SjBb"
+    },
+    {
+      "album": {
         "name": "Pool House",
         "url": "https://open.spotify.com/album/1EoG8Uonspv2PvZK3kATpk"
       },
@@ -33638,7 +33728,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 201923,
       "name": "Scam Manifesto",
       "url": "https://open.spotify.com/track/7IhI1EeejN8IbpnObqPO6H"
@@ -34280,6 +34370,24 @@
       "duration_ms": 190867,
       "name": "Shapes",
       "url": "https://open.spotify.com/track/1ca1NzHafMzPWubaf5zUtB"
+    },
+    {
+      "album": {
+        "name": "Sharpen Your Words",
+        "url": "https://open.spotify.com/album/3iJlUvy5FPdEYD9TKBU2l9"
+      },
+      "artists": [
+        {
+          "name": "footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231325,
+      "name": "Sharpen Your Words",
+      "url": "https://open.spotify.com/track/58Tzv5603heKgnNrEnqdrt"
     },
     {
       "album": {
@@ -36139,6 +36247,24 @@
     },
     {
       "album": {
+        "name": "Paradise Aquarium",
+        "url": "https://open.spotify.com/album/0jcYMlXPFn2J4svaJERgfk"
+      },
+      "artists": [
+        {
+          "name": "Gnarcissists",
+          "url": "https://open.spotify.com/artist/4anUpRRW45sftMo8cdGTdR"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181213,
+      "name": "Space Ghost",
+      "url": "https://open.spotify.com/track/1vMux1BrKKFFRlc25swD6N"
+    },
+    {
+      "album": {
         "name": "Space/Smile",
         "url": "https://open.spotify.com/album/0WyOz2LURLWdNtBY8kDeVe"
       },
@@ -36787,6 +36913,24 @@
     },
     {
       "album": {
+        "name": "The World Can't Take Much More",
+        "url": "https://open.spotify.com/album/0S9t5NWy0lYIBHyL4oPj7x"
+      },
+      "artists": [
+        {
+          "name": "Reclus.\u00c9",
+          "url": "https://open.spotify.com/artist/77myKiTzTz50cL8cMxBuvV"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246158,
+      "name": "Stain",
+      "url": "https://open.spotify.com/track/50jpaPK56Yguju91mBrT4b"
+    },
+    {
+      "album": {
         "name": "Stain Helicopter",
         "url": "https://open.spotify.com/album/29fh9w86vYCQgIAJXCXr6d"
       },
@@ -36802,6 +36946,24 @@
       "duration_ms": 240250,
       "name": "Stain Helicopter",
       "url": "https://open.spotify.com/track/2bScUU6k5eetl7X52zSVRi"
+    },
+    {
+      "album": {
+        "name": "Standing On The Corner",
+        "url": "https://open.spotify.com/album/1nBhLlzRVFuviTMB98sUfg"
+      },
+      "artists": [
+        {
+          "name": "Teenage Halloween",
+          "url": "https://open.spotify.com/artist/5Hur60D1LUeU6P2AEHuX5B"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154816,
+      "name": "Standing On The Corner",
+      "url": "https://open.spotify.com/track/3X4TR0kARqzvcrkIXRKJqH"
     },
     {
       "album": {
@@ -37990,7 +38152,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 195186,
       "name": "Swarm",
       "url": "https://open.spotify.com/track/4UFPf8Q2Zpsk76b7BNwW4n"
@@ -41732,7 +41894,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 173360,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/2MJRMs7ZWRikUtQS3Hs009"

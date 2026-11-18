@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Arpin Lépine, Lost, Les Louanges, Katrine Sansregret, King Melrose, Souldia, Cupidon et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,353 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,357 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 98 | [Plein de vide](https://open.spotify.com/track/4nBxHmXJT85J1T2kHb4F5w) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [Plein de vide](https://open.spotify.com/album/3J4D4aKuaGL58UnseEvnWy) | 4:06 |
 | 99 | [Tailleur Piranha](https://open.spotify.com/track/2i0LBsv6IfyhsrFwixMSqf) | [ \(D\)Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Tailleur Piranha](https://open.spotify.com/album/0DiXlYvJUVKd859hE9F2CE) | 2:56 |
 
-Snapshot ID: `AAAAABeK9+ngOXfEZ+nSwi36FOnecVHF`
+Snapshot ID: `AAAAAHN+RFH/Kg+jRlfyusoUs+DLYNj4`

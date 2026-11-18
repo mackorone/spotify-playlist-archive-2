@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: grating hunny
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: LONGMAN
 
-925 songs - 2 day 0 hr 48 min
+929 songs - 2 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [About me](https://open.spotify.com/track/1TQzbjw87HGbgJyxrbPflX) | [matsuri](https://open.spotify.com/artist/2uiEH6IIPxjVLp4VJUr0iV) | [About me](https://open.spotify.com/album/3JAJr3NGKTydyQMVfvOMIt) | 1:30 | 2023-06-15 | 2023-07-12 |
 | [ADDITIONAL LEMON](https://open.spotify.com/track/0U98xZ60y4AvWHnj8KKfOk) | [pandagolff](https://open.spotify.com/artist/4KReHO9hW14qVILtZReCra) | [ADDITIONAL LEMON](https://open.spotify.com/album/6LeBXFaFI3LzlGAlPliToC) | 2:42 | 2023-02-28 | 2023-03-29 |
 | [After 30 years](https://open.spotify.com/track/3HbdkqhTM4maDSnNI5bV1b) | [LABRET](https://open.spotify.com/artist/28gEh6RZDT8AHNjm78kEfY) | [AFTER 30 YEARS](https://open.spotify.com/album/24wJdb9QkcqtqWIF8yxnca) | 3:16 | 2022-06-28 | 2022-07-20 |
+| [AFTER YOU](https://open.spotify.com/track/79sYCYGwuqgMpWJv1A0GdC) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [No Brakes](https://open.spotify.com/album/4p0T7siY8FmTT6tlwrGcV2) | 3:34 | 2026-11-17 |  |
 | [Ain't Nothing](https://open.spotify.com/track/1Y5CDS0yJ10aB5g0xWaQ5Z) | [BACK DROP BOMB](https://open.spotify.com/artist/7iT9CcoboEEyJXPPrnLM3T) | [Ain't Nothing](https://open.spotify.com/album/2TyfNadUiT54W25ySe9K7E) | 4:21 | 2022-05-12 | 2022-07-29 |
 | [And Dance Going Nowhere](https://open.spotify.com/track/2matN92RaTd26cpyBWAoQN) | [KUZIRA](https://open.spotify.com/artist/3BPlRvUsbJdNM0nM8wqmbV) | [Smoke Life Away](https://open.spotify.com/album/5514mYNJUDBOOoTRAzGanw) | 2:10 | 2025-07-22 | 2025-10-15 |
 | [Andy](https://open.spotify.com/track/3JnVplRv5OFdNP8fHIZLYy) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Andy](https://open.spotify.com/album/2ZIm49qejBACCFTueJ8wTc) | 2:50 | 2022-05-12 | 2024-11-06 |
@@ -145,6 +146,7 @@
 | [Down On The Road](https://open.spotify.com/track/7dfPcDPQI7b4yCSORNxsin) | [the JUMPS](https://open.spotify.com/artist/3zbk89SP4P4OrSeHco25aO) | [Rebel Banquet](https://open.spotify.com/album/2LI6uhz4YtjNqMibrnYApf) | 2:56 | 2022-11-01 | 2022-11-16 |
 | [DOWN TO HELL](https://open.spotify.com/track/4qauhp8obl2RNnBNZ61BdW) | [SECRET 7 LINE](https://open.spotify.com/artist/1UQk50lmTtdKtet6abI4vz) | [THE SOUND OF US](https://open.spotify.com/album/3F91Tn3AFDYB6A3wSZFppJ) | 2:51 | 2022-05-12 | 2022-07-29 |
 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2022-05-12 |  |
+| [Drive Again](https://open.spotify.com/track/6oJSYTjPJaGMnIxzjzxbmo) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [DRIVE AGAIN](https://open.spotify.com/album/171ik8SRPE5n8SfTPTxJVT) | 2:11 | 2026-11-17 |  |
 | [Droopy Eyes](https://open.spotify.com/track/0e6gFVDT07RdwGOxBXcwAg) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Just Punk Rock!](https://open.spotify.com/album/5EfZIqlCrpsWAO7PBXLxv3) | 3:56 | 2025-10-14 | 2026-04-01 |
 | [Dry Out](https://open.spotify.com/track/6HYp1dflTcMfpQRqp1bTcg) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Dry Out](https://open.spotify.com/album/4dXey12mX4is6Lq8PNCfoe) | 3:11 | 2022-05-19 | 2022-07-09 |
 | [Echoes](https://open.spotify.com/track/6Uyg688fHWz8kJKYGF6qBQ) | [Castaway](https://open.spotify.com/artist/2hxbs29SIzDIKSPzGsIgir) | [With Future Behind](https://open.spotify.com/album/7nWMrzNZ9APVAzVrIrYQMw) | 2:39 | 2022-05-31 | 2022-07-26 |
@@ -152,7 +154,7 @@
 | [Emotions](https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Intergalactic](https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2) | 3:24 | 2022-09-14 | 2023-04-25 |
 | [EVERGREEN](https://open.spotify.com/track/61aCEeinXGhvUkDthsjlfS) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [EVERGREEN](https://open.spotify.com/album/3SkwWttZbYEwAZDMICGUwt) | 3:01 | 2023-03-14 | 2023-05-07 |
 | [Every](https://open.spotify.com/track/5gzlFI9vHINA48pTJD7PeA) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Harvest](https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ) | 1:41 | 2023-04-11 | 2025-10-15 |
-| [Everybody Wants Reason](https://open.spotify.com/track/6mS1e3FOmBNGV6MP0j6sEB) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [Everybody Wants Reason](https://open.spotify.com/album/0gZmaVCYPHhaJkexWxKfr4) | 2:13 | 2026-10-14 |  |
+| [Everybody Wants Reason](https://open.spotify.com/track/6mS1e3FOmBNGV6MP0j6sEB) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [Everybody Wants Reason](https://open.spotify.com/album/0gZmaVCYPHhaJkexWxKfr4) | 2:13 | 2026-10-14 | 2026-11-18 |
 | [Everything is too hard to me](https://open.spotify.com/track/3WmvHoEQV10Fb83ouunZrK) | [Giallo](https://open.spotify.com/artist/4BlSVJE8kmeUwTaDYLZgwU) | [Everything is too hard to me](https://open.spotify.com/album/0S8CdTHEpKheqORmiroKLc) | 2:21 | 2023-12-05 | 2023-12-13 |
 | [Everythings Okay When You're Down](https://open.spotify.com/track/2R17jolI5j3yHNblJK8Xu9) | [STAY HOME ALONE](https://open.spotify.com/artist/5CNF5bJBffK7fmwXHZGibg) | [Lonely Room \- EP](https://open.spotify.com/album/3FAsUOkojvqzuTe35v70wA) | 3:26 | 2022-05-17 | 2022-07-29 |
 | [Exclamation Mark](https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:05 | 2024-03-07 | 2024-04-19 |
@@ -165,7 +167,7 @@
 | [Farley](https://open.spotify.com/track/0KsQY9fugzplYPpaSYEfCL) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [The Awakening](https://open.spotify.com/album/2bYQw1MDspWPUdZ1114EDW) | 2:58 | 2022-05-12 | 2022-07-27 |
 | [Farley](https://open.spotify.com/track/0dB07HuKQLWljnWFXkGAyM) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [The Awakening](https://open.spotify.com/album/48i9AxpSUaDGw2OJQTXmjR) | 2:58 | 2022-07-21 | 2023-01-13 |
 | [Feel](https://open.spotify.com/track/1x9DvNhTh5vXYuCKiN7tV6) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [1Time](https://open.spotify.com/album/2O5JoRxsxK3ZEQWWCwUzDs) | 6:16 | 2024-01-25 | 2024-10-09 |
-| [FEEL IT TOO](https://open.spotify.com/track/7yU3RhObt2p5rDdtbQPQS9) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [FEEL IT TOO](https://open.spotify.com/album/6bCRi2WSPDBWYo7xchcoes) | 3:29 | 2026-11-03 |  |
+| [FEEL IT TOO](https://open.spotify.com/track/7yU3RhObt2p5rDdtbQPQS9) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [FEEL IT TOO](https://open.spotify.com/album/6bCRi2WSPDBWYo7xchcoes) | 3:29 | 2026-11-03 | 2026-11-18 |
 | [Feelin'](https://open.spotify.com/track/6YoicaJPVCpHvMmOZWksON) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Feelin'](https://open.spotify.com/album/3vBc37jVJlgaHKhcavhDg3) | 2:36 | 2022-05-12 | 2022-07-29 |
 | [FELLOWS](https://open.spotify.com/track/3JMibBDmgWFfaovh0c0hPm) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [証](https://open.spotify.com/album/5ytodu6cQWyhNzotNTWuzo) | 3:48 | 2022-05-19 | 2022-07-29 |
 | [FENCE \-I CHOSE MY WAY\-](https://open.spotify.com/track/6YOqZNZAoAlxp3oy7x2297) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba) | [FENCE \-I CHOSE MY WAY\-](https://open.spotify.com/album/3JPG1KFTBdmQwYPqwcvr0Q) | 2:57 | 2026-04-21 | 2026-06-10 |
@@ -254,7 +256,7 @@
 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 | 2023-12-19 | 2024-04-19 |
 | [I'm Outstripped](https://open.spotify.com/track/6B5iD68uJ9y5GeT9e1owAI) | [OLD SCHOOL](https://open.spotify.com/artist/568OoWJTmExiW0OWpDEZqo) | [I Keep The Fire Alive](https://open.spotify.com/album/1TjcNKyJslwy1g9Z3MWdAr) | 3:11 | 2022-05-12 | 2022-06-25 |
 | [IF I Could](https://open.spotify.com/track/39dIa1CWSiVQme195v0mdO) | [OWEAK](https://open.spotify.com/artist/6upXl7zerJtB7IDMcPrl21) | [At Nightfall](https://open.spotify.com/album/6friLA3zsuTIwhUAFl6OWI) | 2:16 | 2022-05-31 | 2022-07-26 |
-| [IMAGINATION](https://open.spotify.com/track/65QicSAJpJEJZHvGetuSUQ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [IMAGINATION](https://open.spotify.com/album/1tFoA5QGvlmgFr11ecSsvy) | 2:00 | 2026-09-15 |  |
+| [IMAGINATION](https://open.spotify.com/track/65QicSAJpJEJZHvGetuSUQ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [IMAGINATION](https://open.spotify.com/album/1tFoA5QGvlmgFr11ecSsvy) | 2:00 | 2026-09-15 | 2026-11-18 |
 | [In the Morning](https://open.spotify.com/track/4SewWfdvt7gSWPu3As9q22) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [In the Morning](https://open.spotify.com/album/5D2E6HcOWHE7TA3SPdpAXd) | 2:38 | 2026-03-31 | 2026-07-08 |
 | [Indian Burn](https://open.spotify.com/track/0oNJdh57wG3gHDDodlPnZC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 1:47 | 2024-02-27 | 2024-03-06 |
 | [INDIE MANNERS COLLECTIVE](https://open.spotify.com/track/58SMHxrvd06350OdteKmQ0) | [Someday's Gone](https://open.spotify.com/artist/79SvxaP9S35Y7A5R9IPYgx) | [INDIE MANNERS COLLECTIVE](https://open.spotify.com/album/0k3w60tGFB6KrTgE4J2Ywt) | 3:43 | 2022-07-19 | 2022-08-10 |
@@ -481,6 +483,7 @@
 | [Say to Me](https://open.spotify.com/track/4C7blDlsxEUJmTkBFv1bUR) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Say to Me](https://open.spotify.com/album/5wcMuNXeFRiaBongYrmhl0) | 5:35 | 2022-09-27 | 2022-12-04 |
 | [Saṃsāra](https://open.spotify.com/track/3ZzYexiaE8Py8cbpG4Y8Ft) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [HERO](https://open.spotify.com/album/72JpHj3i11LfEfRGtq25DI) | 3:20 | 2023-01-31 | 2023-03-01 |
 | [SCAR](https://open.spotify.com/track/5OpXHN9hwW1V1YBiChGt7q) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [SCAR](https://open.spotify.com/album/5DvfInAZNzhoyxAOXV4OVT) | 2:45 | 2022-09-14 | 2022-11-02 |
+| [school](https://open.spotify.com/track/4mxtlYKUNIrFrOEexqghqf) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [school](https://open.spotify.com/album/1SV4xems3MToDpHCLdxQUl) | 3:03 | 2026-11-17 |  |
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-03 | 2023-12-20 |
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
 | [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 | 2024-03-26 | 2025-09-03 |
@@ -618,7 +621,7 @@
 | [Underclass HERO](https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Underclass HERO](https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh) | 3:38 | 2025-10-14 |  |
 | [UNITY](https://open.spotify.com/track/1FpsMVvNfyQyaJSbTIQ8ax) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [UNITY](https://open.spotify.com/album/4EWEV9iA8vxu53go2vt2kl) | 1:33 | 2022-06-28 | 2022-07-28 |
 | [Untitled](https://open.spotify.com/track/7HOFDidN6ny6236kuHJfaI) | [KICKASSRAY](https://open.spotify.com/artist/3kDn7aNNfO1sfrK5oCeI36) | [Hold Water EP](https://open.spotify.com/album/2tyiEdraFvdGSigC1dD0ZE) | 2:41 | 2022-05-19 | 2022-07-11 |
-| [UPSIDE DOWN](https://open.spotify.com/track/3Flk3HKs6CincLAM3tagXA) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [UPSIDE DOWN](https://open.spotify.com/album/5ro74xP1AManSglqKzpyYf) | 3:53 | 2026-08-11 |  |
+| [UPSIDE DOWN](https://open.spotify.com/track/3Flk3HKs6CincLAM3tagXA) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [UPSIDE DOWN](https://open.spotify.com/album/5ro74xP1AManSglqKzpyYf) | 3:53 | 2026-08-11 | 2026-11-18 |
 | [Urakan.rana](https://open.spotify.com/track/0JlCdu2HaoYgHT7UyUnMFI) | [OVER LIMIT](https://open.spotify.com/artist/7sU3eIs2Sx9bz3afmehCmg) | [Urakan.rana](https://open.spotify.com/album/5hJ0MgDtFocwjJjinGlvxT) | 1:05 | 2022-11-01 | 2022-11-14 |
 | [Urakan.rana](https://open.spotify.com/track/0tqLtqLqRIPtKnnLOA8fSo) | [OVER LIMIT](https://open.spotify.com/artist/7sU3eIs2Sx9bz3afmehCmg) | [Delicious!!](https://open.spotify.com/album/6T5ufASjVqhNKD5soGjTvQ) | 1:05 | 2022-11-01 | 2022-11-16 |
 | [USUAL THINGS](https://open.spotify.com/track/6tswheUnXPiqniiAEMa9o8) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [WRAINBOW](https://open.spotify.com/album/1A2wV5V15wivdfxrRkR4ZZ) | 2:55 | 2022-05-17 | 2022-07-24 |
@@ -808,6 +811,7 @@
 | [全力男](https://open.spotify.com/track/0t2cPeuCU3izpsNpVU4U7R) | [Newrotica](https://open.spotify.com/artist/5BfvdZ7bZpIREbvHOjQtUh) | [ピエロイズム](https://open.spotify.com/album/20x8RaV0Mj6ZsF6C3pokBl) | 3:13 | 2023-06-15 | 2023-07-05 |
 | [兼愛非攻](https://open.spotify.com/track/70FWTfKhfkLe6Rai1Uoml6) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5), [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [兼愛非攻](https://open.spotify.com/album/1XrwoXSVlVBrHzwr92xser) | 3:02 | 2022-05-19 | 2022-07-26 |
 | [分岐点](https://open.spotify.com/track/1tB2Lz6LWAaQ4EJMDnlXyQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [分岐点](https://open.spotify.com/album/5b08OcgRSens2yg0lXwYPF) | 2:56 | 2025-07-01 | 2025-09-24 |
+| [名前のないうた](https://open.spotify.com/track/1amkm8KPX7onvs2CLfo4cu) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [名前のないうた](https://open.spotify.com/album/0nxu0NuTxr34xlJ5zwuMne) | 5:22 | 2026-11-17 |  |
 | [名犬ニッパー・ドッグンロール](https://open.spotify.com/track/79FUYK0aRJVN0rOtmXuN9z) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [名犬ニッパー・ドッグンロール](https://open.spotify.com/album/1Pfe2R00Gm8btOSEQrU8Qs) | 4:27 | 2022-05-12 | 2022-07-27 |
 | [君が笑った！](https://open.spotify.com/track/1zB0qeXt2VrUL3qlVThKYj) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [君が笑った！](https://open.spotify.com/album/27GMHUeJtccejECNeJAV4I) | 3:12 | 2026-09-15 | 2026-10-24 |
 | [嘔吐く！！！](https://open.spotify.com/track/3QecP5LKr4AEW2dtS5id75) | [清 竜人TOWN](https://open.spotify.com/artist/6jnNnpti0hsYXCgVYnwvXB) | [嘔吐く！！！](https://open.spotify.com/album/4dQmWJOzfnQcp0kJ3Crfj6) | 1:16 | 2025-06-05 | 2025-07-09 |

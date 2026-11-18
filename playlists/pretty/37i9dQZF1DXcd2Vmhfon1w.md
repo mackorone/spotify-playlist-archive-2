@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Hijos de la Ruina, Morad
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,797 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,825 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 23 | [Lo Real](https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Lo Real](https://open.spotify.com/album/2dWRx8YRn7RFQ4UNdjbeGq) | 3:26 |
 | 24 | [Que culpa tiene el lunes de no ser un sabado](https://open.spotify.com/track/5bDRGw4njjPCO5ZYvSgRXr) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [Escrito en la M\-30](https://open.spotify.com/album/7q7uLuyeYwAXZkMtoTKwkV) | 2:06 |
 | 25 | [DIAMANTES](https://open.spotify.com/track/1Msnx4ygFtYXzYWB3DhvQ4) | [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN), [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [EL ANGELITO](https://open.spotify.com/album/5k44dxs3yejHzvzbm1x3dT) | 3:27 |
-| 26 | [Buona Sera](https://open.spotify.com/track/4SKUMitVRKtLFpyb8vAgtg) | [LosNiñosDelCaminito](https://open.spotify.com/artist/6BAYblGvSz7IOAer9LvyiM) | [Buona Sera](https://open.spotify.com/album/7aPB0J93G2XYDm6YByWm1Y) | 4:11 |
+| 26 | [Buona Sera](https://open.spotify.com/track/4SKUMitVRKtLFpyb8vAgtg) | [LosNiñosDelCaminito](https://open.spotify.com/artist/6BAYblGvSz7IOAer9LvyiM), [Rulo](https://open.spotify.com/artist/6JjJyHqZtjE7cCI0ufl4F4) | [Buona Sera](https://open.spotify.com/album/7aPB0J93G2XYDm6YByWm1Y) | 4:11 |
 | 27 | [Ten Cuidao](https://open.spotify.com/track/2zuG0xa6Bz4xgid07ahicd) | [Space Hammu](https://open.spotify.com/artist/7h7SMN04ptUh5BmYEPpcGU), [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Raggio](https://open.spotify.com/artist/1Et88d1NW2V2JKWiozvFES), [Kas Rules](https://open.spotify.com/artist/5Wk4tQ1jAYa4LurxJ6MV0c), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8), [EAZYBOI](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX), [Sanson](https://open.spotify.com/artist/7Hhb4Aik2dGn5ci2Djhe9x) | [Ten Cuidao](https://open.spotify.com/album/1O9SYR7bgdoZajNUfKGGoZ) | 4:26 |
 | 28 | [Lo Que Me Falta](https://open.spotify.com/track/6gcg6Vo1mrQWtEaCyvav0w) | [JAVI BAMBINI CATTIVI](https://open.spotify.com/artist/3FV2MXfjYT4tvYWzAQWJMH), [LosNiñosDelCaminito](https://open.spotify.com/artist/6BAYblGvSz7IOAer9LvyiM) | [Lo Que Me Falta](https://open.spotify.com/album/4dNf6srMvodZGl0RnSjk5t) | 3:10 |
 | 29 | [Moonlight's Puppet Remix](https://open.spotify.com/track/5PSaLujSojEfsog1wwG17m) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Interferencias](https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN) | [Moonlight's Puppet Remix](https://open.spotify.com/album/6Fvmo9FBVmTnZZAQcbIlz2) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [LO MÍO \[MARBELLA 3\]](https://open.spotify.com/track/19dcxZ9i7cPMYUR7DWRWVP) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [LO MÍO \[MARBELLA 3\]](https://open.spotify.com/album/7vt6o6LWLtoy9060l72lGs) | 2:49 |
 | 50 | [Amor De Barrio](https://open.spotify.com/track/1TstqJm8Tz1kC5vHRlrwrp) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Amor De Barrio](https://open.spotify.com/album/4TMkzRM2XroXTdUH9mT6hv) | 3:08 |
 
-Snapshot ID: `AAAAANbZ0OvxFDE/5oaSx1PH8iIQ1E15`
+Snapshot ID: `AAAAANpczcffM4tJbtI25rAKwjJ6j1v8`

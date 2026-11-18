@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Blaqbonez",
-  "num_followers": 233482,
+  "num_followers": 233508,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
-        "name": "IGBO",
-        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 133852,
-      "name": "IGBO",
-      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
-    },
-    {
-      "added_at": "2026-11-13 00:02:13",
-      "album": {
         "name": "Aimoye",
         "url": "https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 134265,
       "name": "Aimoye",
       "url": "https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES"
+    },
+    {
+      "added_at": "2026-11-13 00:02:13",
+      "album": {
+        "name": "IGBO",
+        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 133852,
+      "name": "IGBO",
+      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
     },
     {
       "added_at": "2026-11-13 00:02:13",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
-        "name": "SWAGGA",
-        "url": "https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 190270,
-      "name": "SWAGGA",
-      "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
-    },
-    {
-      "added_at": "2026-11-13 00:02:13",
-      "album": {
         "name": "ODO PA",
         "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 156000,
       "name": "ODO PA",
       "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
+    },
+    {
+      "added_at": "2026-11-13 00:02:13",
+      "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 190270,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
     },
     {
       "added_at": "2026-11-13 00:02:13",
@@ -723,46 +723,6 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
-        "name": "Big Bricks II",
-        "url": "https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz"
-      },
-      "artists": [
-        {
-          "name": "Essumann",
-          "url": "https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Lalid",
-          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
-        }
-      ],
-      "duration_ms": 207058,
-      "name": "Big Bricks II",
-      "url": "https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu"
-    },
-    {
-      "added_at": "2026-11-13 00:02:13",
-      "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 184821,
-      "name": "INDUSTRY MACHINE",
-      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
-    },
-    {
-      "added_at": "2026-11-13 00:02:13",
-      "album": {
         "name": "Phumela",
         "url": "https://open.spotify.com/album/1Hv6M2LPnMTW9UVLbFsHhW"
       },
@@ -783,6 +743,46 @@
       "duration_ms": 180927,
       "name": "Phumela",
       "url": "https://open.spotify.com/track/79NgcjZWpsLm7HCtKsIXIl"
+    },
+    {
+      "added_at": "2026-11-13 00:02:13",
+      "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 184821,
+      "name": "INDUSTRY MACHINE",
+      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
+    },
+    {
+      "added_at": "2026-11-13 00:02:13",
+      "album": {
+        "name": "Big Bricks II",
+        "url": "https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz"
+      },
+      "artists": [
+        {
+          "name": "Essumann",
+          "url": "https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        }
+      ],
+      "duration_ms": 207058,
+      "name": "Big Bricks II",
+      "url": "https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu"
     },
     {
       "added_at": "2026-11-13 00:02:13",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
-    },
-    {
-      "added_at": "2026-11-13 00:02:13",
-      "album": {
         "name": "NO MORE SLEEP",
         "url": "https://open.spotify.com/album/74DVUFn6cRnnvAICXqxm5Q"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 169793,
       "name": "NO MORE SLEEP",
       "url": "https://open.spotify.com/track/4BQfgY7mcUPqilmkrdHiLZ"
+    },
+    {
+      "added_at": "2026-11-13 00:02:13",
+      "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
     },
     {
       "added_at": "2026-11-13 00:02:13",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 135333,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7"
-    },
-    {
-      "added_at": "2026-11-13 00:02:13",
-      "album": {
         "name": "Sexy Highlife",
         "url": "https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 127969,
       "name": "Akosua Broni",
       "url": "https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf"
+    },
+    {
+      "added_at": "2026-11-13 00:02:13",
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 135333,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7"
     },
     {
       "added_at": "2026-11-13 00:02:13",
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
-        "name": "BLACK SHEEPIZEN (THE 13th DISCIPLE)",
-        "url": "https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR"
+        "name": "OUT OF SIGHT - OUT OF MIND: VOLUME 1",
+        "url": "https://open.spotify.com/album/3SI2TRyo5q8NwyfIZEy6ZP"
       },
       "artists": [
         {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+          "name": "Ycee",
+          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 293877,
-      "name": "Suppressed Desires",
-      "url": "https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW"
+      "duration_ms": 172784,
+      "name": "ISLAND GIRLS",
+      "url": "https://open.spotify.com/track/1FXaBqoI5KFH8uR8UBiGI9"
     }
   ],
   "unique_name": "Afro Bars ",

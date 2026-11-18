@@ -4,7 +4,7 @@
 
 > OffAxisTours.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-481 songs - 1 day 4 hr 56 min
+482 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [half alive](https://open.spotify.com/track/22S2mxtq8LPatLfhydwRHa) | [PEAKK](https://open.spotify.com/artist/0XTUNIVaAJehLvAoCzSlwE) | [half alive](https://open.spotify.com/album/4kTmrXWkry45A8tPGzlC9m) | 3:16 | 2026-08-19 | 2026-08-22 |
 | [Half Life](https://open.spotify.com/track/2Y6or9DSLWcgZH4OjsIG4u) | [The Great Pleasure](https://open.spotify.com/artist/4rtT6yqwmkxRfG366YZjUU) | [Half Life](https://open.spotify.com/album/3JDd6ZWfo8AepAJVIFu92F) | 5:00 | 2025-11-16 | 2025-12-29 |
 | [Have You Heard Your Muse Today?](https://open.spotify.com/track/5dBXLIn9THvF7UDV6Y6Z49) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Have You Heard Your Muse Today?](https://open.spotify.com/album/5pTt9dounJvnstZN3XHNao) | 3:16 | 2026-07-11 | 2026-07-22 |
+| [Head Full of Sadness](https://open.spotify.com/track/4K8GBI9S9YHB5GeXPlgZb7) | [Junior VP](https://open.spotify.com/artist/7o31xxostTHPy8fpRMPDD7) | [American Optimism](https://open.spotify.com/album/60b37qh19UV8AkFLFm1Xe9) | 3:40 | 2026-11-17 |  |
 | [HeadTurner](https://open.spotify.com/track/4WM7tlg2MB4e2RNHpRNhTT) | [PeaceGates](https://open.spotify.com/artist/7I3mof1a3Ho9vqmZLvTrEI) | [HeadTurner](https://open.spotify.com/album/3LZwnezbK0aINpq4l47dNk) | 3:58 | 2025-11-23 | 2026-03-22 |
 | [Heaven](https://open.spotify.com/track/16uyfRXUNtJPLMmnJUK9nj) | [Mercy Girl](https://open.spotify.com/artist/1lwbviKaSPeuUgIqAgNpdn) | [Closer](https://open.spotify.com/album/4s60dNq1K5VraiT14LT9Xf) | 4:07 | 2025-12-07 | 2025-12-15 |
 | [Hell Knows When](https://open.spotify.com/track/2UkXdcsQ8LiePUITVGb6K2) | [Harker](https://open.spotify.com/artist/5jbw7tWFfJQGOwSNwfIWbu) | [Hell Knows When](https://open.spotify.com/album/5SOgk1s1UdDBKoC47aMPsO) | 2:48 | 2026-08-19 | 2026-08-22 |

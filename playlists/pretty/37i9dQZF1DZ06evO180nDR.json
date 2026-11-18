@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 83311,
+  "num_followers": 83350,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAABxp/a/PI3NnYJp4FYl7OzJ",
+  "snapshot_id": "avpHgAAAAAAbe91A5bB3OTpedU5rxWz4",
   "tracks": [
     {
       "added_at": null,
@@ -528,17 +528,13 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
           "name": "LENCHO",
           "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
         }
       ],
-      "duration_ms": 101808,
-      "name": "CAGAPALOS",
-      "url": "https://open.spotify.com/track/1uTbhfQRjtpgH4kUKciDQm"
+      "duration_ms": 114765,
+      "name": "CHUSCO",
+      "url": "https://open.spotify.com/track/2eYnkfSFvZsGts4n45hqML"
     },
     {
       "added_at": null,
@@ -608,13 +604,17 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
           "name": "LENCHO",
           "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
         }
       ],
-      "duration_ms": 114765,
-      "name": "CHUSCO",
-      "url": "https://open.spotify.com/track/2eYnkfSFvZsGts4n45hqML"
+      "duration_ms": 101808,
+      "name": "CAGAPALOS",
+      "url": "https://open.spotify.com/track/1uTbhfQRjtpgH4kUKciDQm"
     },
     {
       "added_at": null,

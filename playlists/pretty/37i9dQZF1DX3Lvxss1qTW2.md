@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Solana
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,700 likes - 81 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,734 likes - 81 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 15 | [Living Thing](https://open.spotify.com/track/0YwJBHVqyWQZKtrcAmFk9Z) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [The Blueprint](https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4) | 2:31 |
 | 16 | [Offline](https://open.spotify.com/track/52XWV7WV93wB9PHo7Vs2J2) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Offline](https://open.spotify.com/album/4Gu7rukCVGg6wn8gwTRE7x) | 2:13 |
 | 17 | [BIZA X2](https://open.spotify.com/track/0S9z1ThJHWXE4nIjXSsvF1) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [BIZA X2](https://open.spotify.com/album/6Q5P0OJfnEEMUcTDkHjD7S) | 1:49 |
-| 18 | [IGBAYI](https://open.spotify.com/track/3sc1nMuxW7RxK57OrcV3u2) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q) | [IGBAYI](https://open.spotify.com/album/0w6JJVva2k8WqIY1FaUxCm) | 2:29 |
+| 18 | [IGBAYI](https://open.spotify.com/track/3sc1nMuxW7RxK57OrcV3u2) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q) | [IGBAYI](https://open.spotify.com/album/0w6JJVva2k8WqIY1FaUxCm) | 2:31 |
 | 19 | [Don't Want](https://open.spotify.com/track/1a4kuAuM9rMX49yalPL3at) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR) | [Girl From The West](https://open.spotify.com/album/4frT3p7rhaAyLgtRSIO2U2) | 2:37 |
 | 20 | [Composure](https://open.spotify.com/track/5I4mPzU5pb4zv38veWgd0T) | [Davecash](https://open.spotify.com/artist/4lOXmgOVjPs5jTLnnJNrvq) | [The One](https://open.spotify.com/album/3qShqTd0ULY6VcduLnDgf5) | 2:03 |
 | 21 | [By Me](https://open.spotify.com/track/4LR0vIINC7A1vLuNoL9w0l) | [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [By Me](https://open.spotify.com/album/71dEKqbnbyyQqx2o8aAtW9) | 2:34 |

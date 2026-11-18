@@ -6,7 +6,7 @@
     "name": "RADIO PLUG PRO",
     "url": "https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e"
   },
-  "snapshot_id": "AAADCnUyfdwKqJmrDFtr86qhfMW6/zS6",
+  "snapshot_id": "AAADDS+PvcHHlhYe41SqB8GGldHTLuei",
   "tracks": [
     {
       "added_at": "2023-08-20 17:59:56",
@@ -10291,6 +10291,54 @@
       "duration_ms": 245546,
       "name": "Cold Little Feelings",
       "url": "https://open.spotify.com/track/2Nc5TocmZjZU4RwnfUEauE"
+    },
+    {
+      "added_at": "2026-11-17 13:24:48",
+      "album": {
+        "name": "Non sono la tua bambola",
+        "url": "https://open.spotify.com/album/2MLgasDNDJyWMghnTaTwPk"
+      },
+      "artists": [
+        {
+          "name": "Klaudia DG",
+          "url": "https://open.spotify.com/artist/0WyWixivFk2XT2nn8WTJRZ"
+        }
+      ],
+      "duration_ms": 163265,
+      "name": "Non sono la tua bambola",
+      "url": "https://open.spotify.com/track/3MigGr0K9NsWp9v9SBN3nQ"
+    },
+    {
+      "added_at": "2026-11-17 13:24:49",
+      "album": {
+        "name": "Fan\u00e1tico del Rock And Roll (EP)",
+        "url": "https://open.spotify.com/album/2J7JqF5ceI5PvTMz8JYqJ3"
+      },
+      "artists": [
+        {
+          "name": "10 A.M.",
+          "url": "https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "Carne de escenario",
+      "url": "https://open.spotify.com/track/22rfs5GyNX9gU3TepMrnbZ"
+    },
+    {
+      "added_at": "2026-11-18 04:06:07",
+      "album": {
+        "name": "Pe\u00e7o pra Chover",
+        "url": "https://open.spotify.com/album/7LAwKYI0oovD6uiO4O2z5X"
+      },
+      "artists": [
+        {
+          "name": "Extremo",
+          "url": "https://open.spotify.com/artist/74gWV17FGVbKqX4lpBHoOH"
+        }
+      ],
+      "duration_ms": 225037,
+      "name": "Pe\u00e7o pra Chover",
+      "url": "https://open.spotify.com/track/5ACQIZYeHktPw6Ku3ADuxq"
     }
   ],
   "unique_name": "Rock Frequency (2)",

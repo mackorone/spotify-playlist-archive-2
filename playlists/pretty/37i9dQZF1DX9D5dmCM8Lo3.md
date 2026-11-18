@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,088 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,138 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 49 | [cant you see](https://open.spotify.com/track/6Jhb9RtpCGwMS8XpmWqn8N) | [toadmilk](https://open.spotify.com/artist/0JLuRzD73XnnlmzQtyp3OU) | [cant you see](https://open.spotify.com/album/1QSOdmHN1AD1amrZlVonJs) | 2:41 |
 | 50 | [.dancecore](https://open.spotify.com/track/3iELvZmsWYeA7caKjeWWOo) | [Casper Mcfadden](https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT) | [Audio Diary](https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK) | 3:09 |
 
-Snapshot ID: `AAAAAH0/7xNopuftWuPf9sxMrHg+E/bH`
+Snapshot ID: `AAAAAHP3XfoDqAyvPGllDwmnWabk0s6V`

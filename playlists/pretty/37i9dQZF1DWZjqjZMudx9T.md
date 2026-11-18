@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 > De la Calle a la Cima con Fuerza Regida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,852,756 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,852,272 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 | 21 | [BOTZ](https://open.spotify.com/track/4tpT01PRHuLZI1tAvrJfRf) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BOTZ](https://open.spotify.com/album/5n3zMrSedSoon33igy3KB2) | 2:58 |
 | 22 | [Alístate](https://open.spotify.com/track/4w45zKG2Sz0riESx5Yuatb) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [No Hay Ángeles Aquí](https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i) | 3:21 |
 | 23 | [CONTRABANDO](https://open.spotify.com/track/6Wr4xBLqAAXHrtiUghxEwL) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Cosa Nuestra: Capítulo 0](https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR) | 2:55 |
-| 24 | [PRENDO UNO](https://open.spotify.com/track/0pDc8YllIbuUkzRJViR90a) | [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [PRENDO UNO](https://open.spotify.com/album/2RCO3fh0mMZqRvAAbbVmBq) | 2:43 |
+| 24 | [PRENDO UNO](https://open.spotify.com/track/0pDc8YllIbuUkzRJViR90a) | [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [NEETRAM](https://open.spotify.com/artist/6lcIRYh3d5bJR02L3DFSgE) | [PRENDO UNO](https://open.spotify.com/album/2RCO3fh0mMZqRvAAbbVmBq) | 2:43 |
 | 25 | [VAMO A VEL](https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [VAMO A VEL](https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI) | 4:00 |
 | 26 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 |
 | 27 | [Olimpo](https://open.spotify.com/track/0vGKL7wzfkhzGEJScbYt7N) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Olimpo](https://open.spotify.com/album/4vIpcjWLlMwyEdZsC1BKv3) | 2:29 |

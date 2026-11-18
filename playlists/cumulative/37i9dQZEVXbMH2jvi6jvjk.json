@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -2580,7 +2580,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 299389,
       "name": "Ama Baffalo Nama Elephant",
       "url": "https://open.spotify.com/track/0CyUpyCXdfg3j3aeNefnvE"
@@ -10352,7 +10352,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
@@ -12996,7 +12996,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -26127,6 +26127,28 @@
     },
     {
       "album": {
+        "name": "Ingelosi",
+        "url": "https://open.spotify.com/album/6HPO6q4PQx0w08zJYFkBWZ"
+      },
+      "artists": [
+        {
+          "name": "Skopoloti",
+          "url": "https://open.spotify.com/artist/0121YCqriy1eZhzFjZFCjg"
+        },
+        {
+          "name": "Malebuli",
+          "url": "https://open.spotify.com/artist/4s71T1xXbURAEiIiRs8psm"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243748,
+      "name": "Ingelosi",
+      "url": "https://open.spotify.com/track/5qSybdMXaG929mNHzLfrKC"
+    },
+    {
+      "album": {
         "name": "Ingoma Ezimnandi (iGwijo)",
         "url": "https://open.spotify.com/album/48dafdlRsaeEXNCQaMM4NL"
       },
@@ -31478,7 +31500,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 356742,
       "name": "Kwenzakalani?",
       "url": "https://open.spotify.com/track/1AXrAezcvAlZVfawwo28rE"
@@ -41770,7 +41792,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 228179,
       "name": "Ngzomthatha",
       "url": "https://open.spotify.com/track/1fU3m1fWGQsKzm7tfDCjDs"
@@ -54868,7 +54890,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -56612,7 +56634,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 220264,
       "name": "Thando lwathola kabi (feat. KaMaphanga & Yolokazi)",
       "url": "https://open.spotify.com/track/3YsFaC4312p9Zu3CoRg2Eo"
@@ -67504,7 +67526,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 269583,
       "name": "Yimi umaqondana",
       "url": "https://open.spotify.com/track/7N1xuoaI37vpWuGXXUEqDI"

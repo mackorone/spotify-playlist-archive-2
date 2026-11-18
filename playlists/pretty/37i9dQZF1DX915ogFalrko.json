@@ -1,12 +1,12 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188824,
+  "num_followers": 188826,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACZFF0jgCK//LxbOQBwPp4lebbde",
+  "snapshot_id": "AAAAANIhD1QgTIX32LGJg6tXrTXlcqnb",
   "tracks": [
     {
       "added_at": "2026-11-13 11:30:31",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Wovoka",
         "url": "https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 300666,
       "name": "Come and Get Your Love",
       "url": "https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Cold Fact",
-        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 154240,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "El Hueso",
         "url": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 154240,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 221790,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
-        "name": "Sleeping Lion",
-        "url": "https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 202086,
-      "name": "Smartest Person in the Room",
-      "url": "https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -619,6 +603,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Sleeping Lion",
+        "url": "https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 202086,
+      "name": "Smartest Person in the Room",
+      "url": "https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "Old Lovers (feat. The Lumineers)",
         "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Lucky Again",
-        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Real!",
         "url": "https://open.spotify.com/album/4fD8azzRJrj1pkzk1ra0ZG"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 178581,
       "name": "Real!",
       "url": "https://open.spotify.com/track/1yxpRDrcK5ExwNiThPa9Uh"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "One song away from crying",
-        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 219609,
-      "name": "One song away from crying",
-      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 166080,
       "name": "Where To Start",
       "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "One song away from crying",
+        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 219609,
+      "name": "One song away from crying",
+      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Make believe",
-        "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Make believe",
-      "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 204506,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "Make believe",
+        "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Make believe",
+      "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH"
+      },
+      "artists": [
+        {
+          "name": "Romy Mars",
+          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
+        }
+      ],
+      "duration_ms": 157082,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "The Banjo Song",
         "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Everything in Between",
-        "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
-      },
-      "artists": [
-        {
-          "name": "Munan",
-          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
-        }
-      ],
-      "duration_ms": 213642,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "the van",
         "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
       },
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Everything in Between",
+        "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
+      },
+      "artists": [
+        {
+          "name": "Munan",
+          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
+        }
+      ],
+      "duration_ms": 213642,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "Chilling Effects",
         "url": "https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 250600,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
-        "name": "Tell Him",
-        "url": "https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH"
-      },
-      "artists": [
-        {
-          "name": "Romy Mars",
-          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
-        }
-      ],
-      "duration_ms": 157082,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
+        "name": "Burn The Witch",
+        "url": "https://open.spotify.com/album/20KFcc2YxcqOAFsrWLfwmC"
+      },
+      "artists": [
+        {
+          "name": "Misfits Together",
+          "url": "https://open.spotify.com/artist/4y3Ml1Bz1HWbUpVvaMGR50"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/3JHTGkpRXwCGaW3Hh0crug"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
         "name": "Same Old Game",
         "url": "https://open.spotify.com/album/4veOrtelXSE4JncGgA2FKK"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 196813,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
-        "name": "Burn The Witch",
-        "url": "https://open.spotify.com/album/20KFcc2YxcqOAFsrWLfwmC"
-      },
-      "artists": [
-        {
-          "name": "Misfits Together",
-          "url": "https://open.spotify.com/artist/4y3Ml1Bz1HWbUpVvaMGR50"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "Burn The Witch",
-      "url": "https://open.spotify.com/track/3JHTGkpRXwCGaW3Hh0crug"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "Latino Triste",
-        "url": "https://open.spotify.com/album/2QPYqGaUgs6zmNXy0a1l3F"
-      },
-      "artists": [
-        {
-          "name": "Milhan",
-          "url": "https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2"
-        }
-      ],
-      "duration_ms": 197478,
-      "name": "Autour de toi",
-      "url": "https://open.spotify.com/track/0nXBuHnmJJeFZMVkWAAU51"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Yellow Brick Road",
         "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 152062,
       "name": "Yellow Brick Road",
       "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "Latino Triste",
+        "url": "https://open.spotify.com/album/2QPYqGaUgs6zmNXy0a1l3F"
+      },
+      "artists": [
+        {
+          "name": "Milhan",
+          "url": "https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2"
+        }
+      ],
+      "duration_ms": 197478,
+      "name": "Autour de toi",
+      "url": "https://open.spotify.com/track/0nXBuHnmJJeFZMVkWAAU51"
     },
     {
       "added_at": "2026-11-13 11:30:31",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-11-13 11:30:31",
       "album": {
-        "name": "San Francisco",
-        "url": "https://open.spotify.com/album/3mjRgtKH9XR8X4cJUkDpt4"
-      },
-      "artists": [
-        {
-          "name": "Claudia Isaki",
-          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
-        }
-      ],
-      "duration_ms": 231425,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/4zVQlddW37DnjsycBBysgr"
-    },
-    {
-      "added_at": "2026-11-13 11:30:31",
-      "album": {
         "name": "Best of It",
         "url": "https://open.spotify.com/album/5Z1OyunLYvWm78f4EaFU8M"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 177453,
       "name": "Best of It",
       "url": "https://open.spotify.com/track/5m2BZspGkunCWFZcgSOb7u"
+    },
+    {
+      "added_at": "2026-11-13 11:30:31",
+      "album": {
+        "name": "San Francisco",
+        "url": "https://open.spotify.com/album/3mjRgtKH9XR8X4cJUkDpt4"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "duration_ms": 231425,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/4zVQlddW37DnjsycBBysgr"
     },
     {
       "added_at": "2026-11-13 11:30:31",

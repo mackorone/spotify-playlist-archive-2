@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1067722,
+  "num_followers": 1067696,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "13 Years",
-        "url": "https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG"
-      },
-      "artists": [
-        {
-          "name": "Marc A Ridge",
-          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
-        }
-      ],
-      "duration_ms": 402240,
-      "name": "13 Years",
-      "url": "https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 261773,
       "name": "I'm Leaving",
       "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "13 Years",
+        "url": "https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG"
+      },
+      "artists": [
+        {
+          "name": "Marc A Ridge",
+          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
+        }
+      ],
+      "duration_ms": 402240,
+      "name": "13 Years",
+      "url": "https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -615,22 +615,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Greyhound Bus Blues",
-        "url": "https://open.spotify.com/album/5ZUDaN0h2tX01R0EYd9nOv"
+        "name": "LONG WAY FROM THE BOTTOM",
+        "url": "https://open.spotify.com/album/2BZdAFl884lkn6ButA2MUT"
       },
       "artists": [
         {
-          "name": "Liam St. John",
-          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
         }
       ],
-      "duration_ms": 152824,
-      "name": "Greyhound Bus Blues",
-      "url": "https://open.spotify.com/track/3kFo9yQT1AcBMUQjwExLd2"
+      "duration_ms": 153730,
+      "name": "LONG WAY FROM THE BOTTOM",
+      "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -651,18 +647,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "LONG WAY FROM THE BOTTOM",
-        "url": "https://open.spotify.com/album/2BZdAFl884lkn6ButA2MUT"
+        "name": "Greyhound Bus Blues",
+        "url": "https://open.spotify.com/album/5ZUDaN0h2tX01R0EYd9nOv"
       },
       "artists": [
         {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 153730,
-      "name": "LONG WAY FROM THE BOTTOM",
-      "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
+      "duration_ms": 152824,
+      "name": "Greyhound Bus Blues",
+      "url": "https://open.spotify.com/track/3kFo9yQT1AcBMUQjwExLd2"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "What I Wouldn't Do",
-        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
-      },
-      "artists": [
-        {
-          "name": "Shantaia",
-          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
-        }
-      ],
-      "duration_ms": 189739,
-      "name": "What I Wouldn't Do",
-      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Six Shades of Grey",
         "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Out of All the Stars",
-        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
+        "name": "What I Wouldn't Do",
+        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
       },
       "artists": [
         {
-          "name": "Deltaphonic",
-          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
         }
       ],
-      "duration_ms": 239241,
-      "name": "Out of All the Stars",
-      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
+      "duration_ms": 189739,
+      "name": "What I Wouldn't Do",
+      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -767,6 +751,22 @@
       "duration_ms": 187027,
       "name": "More Than Love",
       "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Out of All the Stars",
+        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "duration_ms": 239241,
+      "name": "Out of All the Stars",
+      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "What Happens Next",
-        "url": "https://open.spotify.com/album/1QPGtduPycBccI5ce1CRlt"
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
       "artists": [
         {
-          "name": "Shinyribs",
-          "url": "https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF"
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
         }
       ],
-      "duration_ms": 265376,
-      "name": "What Happens Next",
-      "url": "https://open.spotify.com/track/4KAAIE4V89AKmYjf3pSRQm"
+      "duration_ms": 217626,
+      "name": "Fancy Drones (Fracture Me)",
+      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+        "name": "What Happens Next",
+        "url": "https://open.spotify.com/album/1QPGtduPycBccI5ce1CRlt"
       },
       "artists": [
         {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+          "name": "Shinyribs",
+          "url": "https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF"
         }
       ],
-      "duration_ms": 217626,
-      "name": "Fancy Drones (Fracture Me)",
-      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
+      "duration_ms": 265376,
+      "name": "What Happens Next",
+      "url": "https://open.spotify.com/track/4KAAIE4V89AKmYjf3pSRQm"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 260458,
       "name": "You Still Got Me - Edit",
       "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "The Mule",
-        "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
-      },
-      "artists": [
-        {
-          "name": "The Mystix",
-          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
-        },
-        {
-          "name": "Larry Campbell",
-          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
-        }
-      ],
-      "duration_ms": 180150,
-      "name": "The Mule",
-      "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "I\u2019m Done Runnin'",
         "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
       },
@@ -1239,6 +1219,22 @@
       "duration_ms": 185751,
       "name": "I'm Done Runnin'",
       "url": "https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+        "name": "The Mule",
+        "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
       },
       "artists": [
         {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        },
+        {
+          "name": "Larry Campbell",
+          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
         }
       ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+      "duration_ms": 180150,
+      "name": "The Mule",
+      "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
+        "name": "Medium Raw",
+        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "I Could Just Die Right Now",
+      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 227453,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
-        "name": "Medium Raw",
-        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "I Could Just Die Right Now",
-      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Neon Sounds",
-        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
-      },
-      "artists": [
-        {
-          "name": "The Delta Bombers",
-          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Hey! You Know You Wanna!",
-      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 278457,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Neon Sounds",
+        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
+      },
+      "artists": [
+        {
+          "name": "The Delta Bombers",
+          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Hey! You Know You Wanna!",
+      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
     },
     {
       "added_at": "2026-11-06 05:00:40",

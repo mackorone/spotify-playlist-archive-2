@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Wavves
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,933 likes - 111 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,927 likes - 111 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 110 | [Down](https://open.spotify.com/track/1zzZc2ddbghUFqConPHudo) | [Lake Drive](https://open.spotify.com/artist/4c1FmV7XS1RFb7jAj9TXIY) | [Down](https://open.spotify.com/album/7rBMrHyFA4Tz5geBLBOOCr) | 3:17 |
 | 111 | [Full Powers](https://open.spotify.com/track/3Inb9cDM4YpT0bVUG4D4QX) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Full Powers](https://open.spotify.com/album/07t38cRJXEFb0VWG4eCjbh) | 3:10 |
 
-Snapshot ID: `AAAAAM7/cJEOEwDt23i3WJJCStvtX8EY`
+Snapshot ID: `AAAAAMSaw3BbqSuCT2Uero2qYpyiC0YH`

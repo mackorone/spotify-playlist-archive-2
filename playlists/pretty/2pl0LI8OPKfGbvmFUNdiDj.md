@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,364 likes - 72 songs - 4 hr 1 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,377 likes - 74 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 70 | [Father Time](https://open.spotify.com/track/6yG2tmhMQ1bUyPV55urRoq) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Father Time](https://open.spotify.com/album/1Pjg1qTNDTwtDUuSNNfraK) | 7:42 |
 | 71 | [Dreams](https://open.spotify.com/track/24q4l4i4XrTMIEVT63cT0J) | [NellyNellz](https://open.spotify.com/artist/1VznLVOSmnn2FVyXYnRcSl) | [Dreams](https://open.spotify.com/album/7F13TAN6q6AnupJv2x0QEh) | 3:56 |
 | 72 | [Indigo](https://open.spotify.com/track/7yrwz7QkYtNkntwUc0ei8q) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Indigo](https://open.spotify.com/album/6Ipsfviteblf4qjAgFCCYk) | 3:26 |
+| 73 | [Without You \- Remastered](https://open.spotify.com/track/0BbpZV48cEyJRF0iYxat8v) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Without You \(Remastered\)](https://open.spotify.com/album/2GZufVLjCj95lWq9OrWpaR) | 3:55 |
+| 74 | [Break the Walls](https://open.spotify.com/track/5fM2U7gWzsjwNkGC8r1bS5) | [Eyewonder](https://open.spotify.com/artist/382fgUv3X5FVJYa4tlBHsu) | [Break the Walls](https://open.spotify.com/album/1r8zL7koKiba4nWkhZAOjW) | 3:09 |
 
-Snapshot ID: `AAAEs+xtTe9Ml8I5Szy4y6mkbUCs5vSa`
+Snapshot ID: `AAAEtfFmuVC9ObjxYDJjiZsbrcsY+YGi`

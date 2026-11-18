@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 24944,
+  "num_followers": 24958,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,18 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Liquor Store",
-        "url": "https://open.spotify.com/album/3f7yVbV4DWziHiUBzcD0Pq"
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
       },
       "artists": [
         {
-          "name": "N.E records",
-          "url": "https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 149836,
-      "name": "Liquor Store",
-      "url": "https://open.spotify.com/track/1V4oNBR2e0bSWcRldWYK7S"
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -391,18 +387,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+        "name": "Liquor Store",
+        "url": "https://open.spotify.com/album/3f7yVbV4DWziHiUBzcD0Pq"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "N.E records",
+          "url": "https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+      "duration_ms": 149836,
+      "name": "Liquor Store",
+      "url": "https://open.spotify.com/track/1V4oNBR2e0bSWcRldWYK7S"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 143119,
       "name": "IDK (with Sarkodie)",
       "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
     },
     {
       "added_at": "2026-10-23 00:01:41",

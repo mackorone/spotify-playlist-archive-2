@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Beach Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,239,737 likes - 176 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239,754 likes - 176 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 160 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
 | 161 | [Roar Of The Heliac Goat](https://open.spotify.com/track/4hjBehyyL8JPQJ0LiYOHnl) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Roar Of The Heliac Goat](https://open.spotify.com/album/58bNzzNI4WXtLym3d8Nup5) | 4:36 |
 | 162 | [B Polite!](https://open.spotify.com/track/730R1yD8kJXOYDbB2DUvZD) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [B Polite!](https://open.spotify.com/album/2roaU6HEmWyoAIjmz6E11Z) | 2:25 |
-| 163 | [No One Has To Know](https://open.spotify.com/track/4zW9qaLdvvnr8XW1eNEFev) | [Jakobs Castle](https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro) | [No One Has To Know](https://open.spotify.com/album/0eIUwCdF942YlbjFVmXtBy) | 1:55 |
+| 163 | [No One Has To Know](https://open.spotify.com/track/4zW9qaLdvvnr8XW1eNEFev) | [Jakob Nowell and THE CASTLE](https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro) | [No One Has To Know](https://open.spotify.com/album/0eIUwCdF942YlbjFVmXtBy) | 1:55 |
 | 164 | [L+R](https://open.spotify.com/track/1EgDWQYtFBrqwRBypzCwR7) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [as in progress](https://open.spotify.com/album/4ywGQ13kokX0rq53emZfMn) | 2:34 |
 | 165 | [Dreams](https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Dreams](https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL) | 3:11 |
 | 166 | [Can I Finish Please?](https://open.spotify.com/track/3gsQ4YYAT2eg4EaKh3X9v5) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Riot Youth](https://open.spotify.com/album/1QeB1OnMoM3nlnUhi1nP68) | 3:35 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 175 | [Flotando](https://open.spotify.com/track/0sil8cOyRbfgEacLt771GW) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Flotando](https://open.spotify.com/album/36kRGiJXMvdfUeHTqWgB5S) | 3:57 |
 | 176 | [Loverboy](https://open.spotify.com/track/7btpQxdsqyH5FSuYJrTdlZ) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [1,2,3](https://open.spotify.com/album/1tMPaXMpEEWTYeDEiAlcVv) | 3:37 |
 
-Snapshot ID: `AAAAADjWIqH5FSg3qmPVWhE8bPg/B49n`
+Snapshot ID: `AAAAAIxr1dEhz9m8Z9QqdpUAGLI+ljyZ`

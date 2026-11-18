@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,202 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,205 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [Power](https://open.spotify.com/track/119zpfFnIgWfmrDcH0Tn9H) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Power](https://open.spotify.com/album/42mGJfLyjMuThlAFWOYDeq) | 2:03 |
 | 48 | [90 JOURS...](https://open.spotify.com/track/7jI6DxyjLjOYZgLVc5hfDW) | [La Rumeur](https://open.spotify.com/artist/0sX9shkpi9yYK65nZCeeiW), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [90 JOURS...](https://open.spotify.com/album/0rY03iI53cUcdEKbc2Jksf) | 3:11 |
 
-Snapshot ID: `AAAAADgjq7Cd0n92l3zrTjOzMQjQM5s/`
+Snapshot ID: `AAAAAB9+ntS9/BXvEB2+YNwSZRjIdXmC`

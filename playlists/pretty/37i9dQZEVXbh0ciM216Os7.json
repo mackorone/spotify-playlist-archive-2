@@ -51,6 +51,22 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
+        "name": "Covers Only, Vol. 2",
+        "url": "https://open.spotify.com/album/5Szf71kDHknomrPw3ehvU0"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 222219,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/0YU9XmRMEyLoU51stMLFkj"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
         "name": "Situation (feat. Big Sean, Erykah Badu, & Aasher Saintt)",
         "url": "https://open.spotify.com/album/4SlPNDEOnbbfPxq72hvwMt"
       },
@@ -75,54 +91,6 @@
       "duration_ms": 158879,
       "name": "Situation (feat. Big Sean, Erykah Badu & Aasher Saintt)",
       "url": "https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "Horseback (Special Edition)",
-        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "Horseback - Special Edition",
-      "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "Covers Only, Vol. 2",
-        "url": "https://open.spotify.com/album/5Szf71kDHknomrPw3ehvU0"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 222219,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/0YU9XmRMEyLoU51stMLFkj"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "Neverending Nightmare",
-        "url": "https://open.spotify.com/album/3G30HSCIaI6jUyQNPz9sjv"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 385256,
-      "name": "Neverending Nightmare",
-      "url": "https://open.spotify.com/track/4zQ65N7npjTLmpNvwbjWAQ"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -159,22 +127,18 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "No Gas",
-        "url": "https://open.spotify.com/album/5z9QdvSbQ5zZ59SFaM0Vbr"
+        "name": "Horseback (Special Edition)",
+        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
       },
       "artists": [
         {
-          "name": "Kryple",
-          "url": "https://open.spotify.com/artist/02VsM8leqEgg5jrfvUgTIv"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 170666,
-      "name": "No Gas",
-      "url": "https://open.spotify.com/track/64OHtiwZoSclo8HoHr50R7"
+      "duration_ms": 167373,
+      "name": "Horseback - Special Edition",
+      "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -203,6 +167,90 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
+        "name": "Neverending Nightmare",
+        "url": "https://open.spotify.com/album/3G30HSCIaI6jUyQNPz9sjv"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 385256,
+      "name": "Neverending Nightmare",
+      "url": "https://open.spotify.com/track/4zQ65N7npjTLmpNvwbjWAQ"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "No Gas",
+        "url": "https://open.spotify.com/album/5z9QdvSbQ5zZ59SFaM0Vbr"
+      },
+      "artists": [
+        {
+          "name": "Kryple",
+          "url": "https://open.spotify.com/artist/02VsM8leqEgg5jrfvUgTIv"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "No Gas",
+      "url": "https://open.spotify.com/track/64OHtiwZoSclo8HoHr50R7"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "3ft From Gold",
+        "url": "https://open.spotify.com/album/6AZMA1PZzpOQzkgPepymIF"
+      },
+      "artists": [
+        {
+          "name": "The C!rcle",
+          "url": "https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Aidyproof",
+          "url": "https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN"
+        },
+        {
+          "name": "G-SALIH",
+          "url": "https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6"
+        }
+      ],
+      "duration_ms": 242531,
+      "name": "Bird eye view",
+      "url": "https://open.spotify.com/track/1FUxjlcbSjwTb8AAV2VINb"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "Dancing On The Wall (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3EDzhFgFAjw9EucBMRkStE"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 271230,
+      "name": "So What - Arlo Parks Summer Was Ecstasy Version",
+      "url": "https://open.spotify.com/track/1WYRF7RM8hsBe4edlS4Lze"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
         "name": "Some Wings",
         "url": "https://open.spotify.com/album/10EezPc3G2D5da6IHkxLPO"
       },
@@ -224,13 +272,29 @@
       },
       "artists": [
         {
-          "name": "Yngwie Malmsteen",
+          "name": "\u30a4\u30f3\u30b0\u30f4\u30a7\u30a4\u30fb\u30de\u30eb\u30e0\u30b9\u30c6\u30a3\u30fc\u30f3",
           "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
         }
       ],
       "duration_ms": 208813,
       "name": "(On The) Battlefield",
       "url": "https://open.spotify.com/track/5NjXiw0GLZiUQ2jHsXp0XJ"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "I Want A Rocket (From \"Club Kid\")",
+        "url": "https://open.spotify.com/album/1mikitXVWnyMPveEOhkT1G"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 282668,
+      "name": "I Want A Rocket - From \"Club Kid\"",
+      "url": "https://open.spotify.com/track/3kFATEng5hQUjUxlx4WJIT"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -267,70 +331,6 @@
       "duration_ms": 120424,
       "name": "Fire",
       "url": "https://open.spotify.com/track/54Mkqvwfs4HQgq0tige5XX"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "I Want A Rocket (From \"Club Kid\")",
-        "url": "https://open.spotify.com/album/1mikitXVWnyMPveEOhkT1G"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 282668,
-      "name": "I Want A Rocket - From \"Club Kid\"",
-      "url": "https://open.spotify.com/track/3kFATEng5hQUjUxlx4WJIT"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "Dancing On The Wall (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3EDzhFgFAjw9EucBMRkStE"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        },
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 271230,
-      "name": "So What - Arlo Parks Summer Was Ecstasy Version",
-      "url": "https://open.spotify.com/track/1WYRF7RM8hsBe4edlS4Lze"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "3ft From Gold",
-        "url": "https://open.spotify.com/album/6AZMA1PZzpOQzkgPepymIF"
-      },
-      "artists": [
-        {
-          "name": "The C!rcle",
-          "url": "https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        },
-        {
-          "name": "Aidyproof",
-          "url": "https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN"
-        },
-        {
-          "name": "G-SALIH",
-          "url": "https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6"
-        }
-      ],
-      "duration_ms": 242531,
-      "name": "Bird eye view",
-      "url": "https://open.spotify.com/track/1FUxjlcbSjwTb8AAV2VINb"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -391,58 +391,6 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "Black Samson: The Saga Continues",
-        "url": "https://open.spotify.com/album/07yS4BsrVFX4fwmH5XeYwp"
-      },
-      "artists": [
-        {
-          "name": "Mathematics",
-          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
-        },
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        },
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
-        },
-        {
-          "name": "Kyah Baby",
-          "url": "https://open.spotify.com/artist/7Fkz3rPi9NU6jw2f5yxzWY"
-        }
-      ],
-      "duration_ms": 167363,
-      "name": "Dominant Confidence",
-      "url": "https://open.spotify.com/track/1gLCXfNCSYOCHkfxxBMlpX"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "Next Time, Believe Me",
-        "url": "https://open.spotify.com/album/0G5y7kWpfY0PiAkajU6rqP"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 123472,
-      "name": "Next Time, Believe Me",
-      "url": "https://open.spotify.com/track/0RDqgzJOIyDblSzcQprisc"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/3pVWH0mUO4tj0JX6jJNhyr"
       },
@@ -495,6 +443,38 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
+        "name": "Black Samson: The Saga Continues",
+        "url": "https://open.spotify.com/album/07yS4BsrVFX4fwmH5XeYwp"
+      },
+      "artists": [
+        {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        },
+        {
+          "name": "Kyah Baby",
+          "url": "https://open.spotify.com/artist/7Fkz3rPi9NU6jw2f5yxzWY"
+        }
+      ],
+      "duration_ms": 167363,
+      "name": "Dominant Confidence",
+      "url": "https://open.spotify.com/track/1gLCXfNCSYOCHkfxxBMlpX"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/48tSS2GzMqDhKYajqQUlcw"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 205845,
       "name": "petal - angry live version",
       "url": "https://open.spotify.com/track/2u9Fh3hOKD4JPWyb8JvHeM"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "Next Time, Believe Me",
+        "url": "https://open.spotify.com/album/0G5y7kWpfY0PiAkajU6rqP"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 123472,
+      "name": "Next Time, Believe Me",
+      "url": "https://open.spotify.com/track/0RDqgzJOIyDblSzcQprisc"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 315824,
-      "name": "Returns",
-      "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
         "name": "Saturday Night Special",
         "url": "https://open.spotify.com/album/02HBLc2f2YYFHCrZgzwuKB"
       },
@@ -575,50 +559,6 @@
       "duration_ms": 142481,
       "name": "Saturday Night Special",
       "url": "https://open.spotify.com/track/0oCg92LLjPhNnhsc3P88wP"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "Steady Flame",
-        "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 181677,
-      "name": "Steady Flame",
-      "url": "https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "Serial Killers, Vol. 1 (Remastered 2026)",
-        "url": "https://open.spotify.com/album/6i1fDx3HIPppCUPK6CsxsZ"
-      },
-      "artists": [
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        },
-        {
-          "name": "B-Real",
-          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
-        },
-        {
-          "name": "Demrick",
-          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
-        },
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        }
-      ],
-      "duration_ms": 251927,
-      "name": "Doctors In - Remastered 2026",
-      "url": "https://open.spotify.com/track/0Di3tBKeIxnyuSnzHrsaRq"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -651,26 +591,6 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "Tesra for Piano",
-        "url": "https://open.spotify.com/album/5eCWDrftZDQF0izeoMmVfZ"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Maki Namekawa",
-          "url": "https://open.spotify.com/artist/6htuRIPptVcECBt22n7MGo"
-        }
-      ],
-      "duration_ms": 171330,
-      "name": "Tesra for Piano",
-      "url": "https://open.spotify.com/track/3NG22KKplOm5AjObTLluIW"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/1jCOOdzsTAvKK8arBs1Wa2"
       },
@@ -699,6 +619,70 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
+        "name": "Tesra for Piano",
+        "url": "https://open.spotify.com/album/5eCWDrftZDQF0izeoMmVfZ"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Maki Namekawa",
+          "url": "https://open.spotify.com/artist/6htuRIPptVcECBt22n7MGo"
+        }
+      ],
+      "duration_ms": 171330,
+      "name": "Tesra for Piano",
+      "url": "https://open.spotify.com/track/3NG22KKplOm5AjObTLluIW"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 315824,
+      "name": "Returns",
+      "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "Serial Killers, Vol. 1 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6i1fDx3HIPppCUPK6CsxsZ"
+      },
+      "artists": [
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+        },
+        {
+          "name": "Demrick",
+          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
+        },
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        }
+      ],
+      "duration_ms": 251927,
+      "name": "Doctors In - Remastered 2026",
+      "url": "https://open.spotify.com/track/0Di3tBKeIxnyuSnzHrsaRq"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
         "name": "T'som",
         "url": "https://open.spotify.com/album/5nGUalpYEjpIgQbq2OcwnE"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 197873,
       "name": "The Tigre Song",
       "url": "https://open.spotify.com/track/5hPQ34UjaeBQXbuYcqhFL0"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "Steady Flame",
+        "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 181677,
+      "name": "Steady Flame",
+      "url": "https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp"
     },
     {
       "added_at": "2026-11-13 05:00:00",

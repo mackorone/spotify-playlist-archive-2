@@ -1,12 +1,12 @@
 {
   "description": "Sweet afro melodies. Cover: Wande Coal ",
-  "num_followers": 268632,
+  "num_followers": 268644,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKxDl6E8NGY3HXigX4v6WS5I64EV",
+  "snapshot_id": "AAAAAGqzn31aum3YmpTfCyN51XUsFtgL",
   "tracks": [
     {
       "added_at": "2026-11-13 00:02:05",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-11-13 00:02:05",
       "album": {
+        "name": "The Blueprint",
+        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 151926,
+      "name": "Living Thing",
+      "url": "https://open.spotify.com/track/0YwJBHVqyWQZKtrcAmFk9Z"
+    },
+    {
+      "added_at": "2026-11-13 00:02:05",
+      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -591,18 +607,22 @@
     {
       "added_at": "2026-11-13 00:02:05",
       "album": {
-        "name": "The Blueprint",
-        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
+        "name": "Ferawa",
+        "url": "https://open.spotify.com/album/1a53BwC3qZc8pVO2eb67tr"
       },
       "artists": [
         {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         }
       ],
-      "duration_ms": 151926,
-      "name": "Living Thing",
-      "url": "https://open.spotify.com/track/0YwJBHVqyWQZKtrcAmFk9Z"
+      "duration_ms": 149245,
+      "name": "Ferawa",
+      "url": "https://open.spotify.com/track/0N1DsTvTxWE6fjN1kjIOgh"
     },
     {
       "added_at": "2026-11-13 00:02:05",
@@ -643,26 +663,6 @@
       "duration_ms": 139285,
       "name": "Ijoba",
       "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
-    },
-    {
-      "added_at": "2026-11-13 00:02:05",
-      "album": {
-        "name": "Ferawa",
-        "url": "https://open.spotify.com/album/1a53BwC3qZc8pVO2eb67tr"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 149245,
-      "name": "Ferawa",
-      "url": "https://open.spotify.com/track/0N1DsTvTxWE6fjN1kjIOgh"
     },
     {
       "added_at": "2026-11-13 00:02:05",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-11-13 00:02:05",
       "album": {
-        "name": "KOWOPE",
-        "url": "https://open.spotify.com/album/2L1fGehxU3KbiqKaPgKoAN"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 229811,
-      "name": "KOWOPE",
-      "url": "https://open.spotify.com/track/5mMkcsSWFnSzFsh9RF9NPO"
-    },
-    {
-      "added_at": "2026-11-13 00:02:05",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2026-11-13 00:02:05",
       "album": {
-        "name": "Mental",
-        "url": "https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS"
+        "name": "KOWOPE",
+        "url": "https://open.spotify.com/album/2L1fGehxU3KbiqKaPgKoAN"
       },
       "artists": [
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 166779,
-      "name": "Mental",
-      "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
+      "duration_ms": 229811,
+      "name": "KOWOPE",
+      "url": "https://open.spotify.com/track/5mMkcsSWFnSzFsh9RF9NPO"
     },
     {
       "added_at": "2026-11-13 00:02:05",
@@ -919,6 +899,26 @@
       "duration_ms": 178000,
       "name": "Julie",
       "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
+    },
+    {
+      "added_at": "2026-11-13 00:02:05",
+      "album": {
+        "name": "Mental",
+        "url": "https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Mental",
+      "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
     },
     {
       "added_at": "2026-11-13 00:02:05",
@@ -943,38 +943,6 @@
     {
       "added_at": "2026-11-13 00:02:05",
       "album": {
-        "name": "Ifeoma & Rascal",
-        "url": "https://open.spotify.com/album/0RIHroLMpjZ7IAmmSmDXQI"
-      },
-      "artists": [
-        {
-          "name": "Dai Verse",
-          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
-        }
-      ],
-      "duration_ms": 152372,
-      "name": "IFEOMA",
-      "url": "https://open.spotify.com/track/3v1jAPimrfqVhiBMjF2LGK"
-    },
-    {
-      "added_at": "2026-11-13 00:02:05",
-      "album": {
-        "name": "YBTM",
-        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "YBTM",
-      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
-    },
-    {
-      "added_at": "2026-11-13 00:02:05",
-      "album": {
         "name": "Recess II",
         "url": "https://open.spotify.com/album/4x2DysOwGpButInOfDNJdI"
       },
@@ -995,6 +963,22 @@
     {
       "added_at": "2026-11-13 00:02:05",
       "album": {
+        "name": "Ifeoma & Rascal",
+        "url": "https://open.spotify.com/album/0RIHroLMpjZ7IAmmSmDXQI"
+      },
+      "artists": [
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        }
+      ],
+      "duration_ms": 152372,
+      "name": "IFEOMA",
+      "url": "https://open.spotify.com/track/3v1jAPimrfqVhiBMjF2LGK"
+    },
+    {
+      "added_at": "2026-11-13 00:02:05",
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 196202,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
+    },
+    {
+      "added_at": "2026-11-13 00:02:05",
+      "album": {
+        "name": "YBTM",
+        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "YBTM",
+      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
     },
     {
       "added_at": "2026-11-13 00:02:05",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-11-13 00:02:05",
       "album": {
-        "name": "Before The Morning Light",
-        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 193672,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
-    },
-    {
-      "added_at": "2026-11-13 00:02:05",
-      "album": {
         "name": "Solace II",
         "url": "https://open.spotify.com/album/0csdTMdBLQseo4FFt1nRXa"
       },
@@ -1135,6 +1115,42 @@
     {
       "added_at": "2026-11-13 00:02:05",
       "album": {
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 193672,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
+    },
+    {
+      "added_at": "2026-11-13 00:02:05",
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/2INhruz6kN5GiYUHnrAbpm"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 146592,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/1EsdgUoBXIp72WvMSd3F9g"
+    },
+    {
+      "added_at": "2026-11-13 00:02:05",
+      "album": {
         "name": "Agaba Romantic",
         "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 155004,
       "name": "Love Sick Crazy",
       "url": "https://open.spotify.com/track/0owbHldQEENBOUXpl0QEIj"
-    },
-    {
-      "added_at": "2026-11-13 00:02:05",
-      "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/2INhruz6kN5GiYUHnrAbpm"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 146592,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/1EsdgUoBXIp72WvMSd3F9g"
     },
     {
       "added_at": "2026-11-13 00:02:05",
@@ -1475,6 +1475,30 @@
     {
       "added_at": "2026-11-13 00:02:05",
       "album": {
+        "name": "NBO \u2018X\u2019 PRESS",
+        "url": "https://open.spotify.com/album/6czwEju8FIEBB8PMMuzpl8"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        },
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Something In Between",
+      "url": "https://open.spotify.com/track/1qDz5NiUD1smerTp0bg6hA"
+    },
+    {
+      "added_at": "2026-11-13 00:02:05",
+      "album": {
         "name": "Especially You",
         "url": "https://open.spotify.com/album/495XGaY3Jw7DdqqeA3L1V0"
       },
@@ -1487,26 +1511,6 @@
       "duration_ms": 144444,
       "name": "Especially You",
       "url": "https://open.spotify.com/track/3M8g7vcyQ62hqcosQjpVAP"
-    },
-    {
-      "added_at": "2026-11-13 00:02:05",
-      "album": {
-        "name": "About Us (with Qing Madi)",
-        "url": "https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT"
-      },
-      "artists": [
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "About Us (with Qing Madi)",
-      "url": "https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h"
     }
   ],
   "unique_name": "Ginja",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: A2O SOUL)",
+  "description": "Future K-Pop hits! (Cover: AMPERS&ONE)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -16135,6 +16135,24 @@
     },
     {
       "album": {
+        "name": "PATHFINDER",
+        "url": "https://open.spotify.com/album/0rjYMWjSR1G70FETUVHNw2"
+      },
+      "artists": [
+        {
+          "name": "AMPERS&ONE",
+          "url": "https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "King\u2019s Way",
+      "url": "https://open.spotify.com/track/4ZVcpE2rxJIPZ4rW2MKbEd"
+    },
+    {
+      "album": {
         "name": "LEVIOSA",
         "url": "https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5"
       },
@@ -27372,7 +27390,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 160000,
       "name": "Stagefright",
       "url": "https://open.spotify.com/track/4RGe2TF6AdEGtf2ejkktbu"

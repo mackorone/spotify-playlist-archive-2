@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,761 likes - 70 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,780 likes - 70 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Sim É Teu Meu Coração](https://open.spotify.com/track/5Z2CtDh4chrWbpBDhgPRoG) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Danúbia M.J](https://open.spotify.com/artist/762pk5Ca7DqG7Nf8IRaVYR) | [Sim É Teu Meu Coração](https://open.spotify.com/album/15RU1iiVt9YqZnCPz8Z3Hv) | 4:06 |
 | 70 | [O Lamento de Israel](https://open.spotify.com/track/1CuSmvw3PdqVyUJnwlmtvd) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD), [GBA Worship](https://open.spotify.com/artist/4t6soZWVyBgyasne3JFfPI) | [Repouso](https://open.spotify.com/album/0qaSKcHmcjqNTZMEGLEWvz) | 4:05 |
 
-Snapshot ID: `AAAAAM3Ct6I0PLPcpM1M11JZi+uDBGQ3`
+Snapshot ID: `AAAAAIdBMk5pPZpQ3h66xOhmK4IugDw/`

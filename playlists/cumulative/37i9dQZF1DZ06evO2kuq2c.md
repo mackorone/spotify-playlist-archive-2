@@ -4,7 +4,7 @@
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 22 min
+87 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Broken Mirror](https://open.spotify.com/track/44TUJhvq8ZSoIO1AzpD6X7) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:10 | 2025-03-02 |  |
 | [Broken Mirror \- Daniel Joseph Remix](https://open.spotify.com/track/5fDQsQsKmsaDIUW6x6apio) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [Daniel Joseph](https://open.spotify.com/artist/5oOAJBcltQYQzlU76QZByi) | [Broken Mirror / Everything Ends \(Daniel Joseph Remix\)](https://open.spotify.com/album/5wz0qwpAGQypzdDYOMl6LP) | 3:09 | 2026-04-29 | 2026-05-27 |
 | [BTN](https://open.spotify.com/track/0AL6hUwLhPmWTudNl9ViIE) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:57 | 2022-06-22 | 2022-07-28 |
-| [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 | 2022-10-22 |  |
+| [burn down my house](https://open.spotify.com/track/28JmHQGrdLAkfIisdMsD1g) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/50H17CcYxdWF0jwNYrVPvl) | 4:19 | 2026-11-18 |  |
+| [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 | 2022-10-22 | 2026-11-18 |
 | [C.A.N.C.E.R](https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:19 | 2022-05-30 |  |
 | [Castles in the Air](https://open.spotify.com/track/1UNG4xf1SxhDE62c8vPCwR) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 3:42 | 2022-05-30 | 2025-10-03 |
 | [Chandelier](https://open.spotify.com/track/1B2OVlFv8mHREUCXzAQBXx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 4:06 | 2025-03-02 | 2025-03-03 |

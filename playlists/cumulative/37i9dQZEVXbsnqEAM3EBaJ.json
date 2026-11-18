@@ -14074,7 +14074,7 @@
     {
       "album": {
         "name": "CIUDAD DE PIEDRA",
-        "url": "https://open.spotify.com/album/33D35Wg2d5Bd4AzQGjnaSf"
+        "url": "https://open.spotify.com/album/7vSbqkqgH7dqkLXYlt8SfY"
       },
       "artists": [
         {
@@ -14085,6 +14085,24 @@
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 276063,
+      "name": "CIUDAD DE PIEDRA",
+      "url": "https://open.spotify.com/track/2vJsTUMEQwn5YIWvFK2Y2L"
+    },
+    {
+      "album": {
+        "name": "CIUDAD DE PIEDRA",
+        "url": "https://open.spotify.com/album/33D35Wg2d5Bd4AzQGjnaSf"
+      },
+      "artists": [
+        {
+          "name": "La Brigida Orquesta",
+          "url": "https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2026-11-18",
       "duration_ms": 276063,
       "name": "CIUDAD DE PIEDRA",
       "url": "https://open.spotify.com/track/3uflvyxlaTCe69y6CESzuy"
@@ -14276,7 +14294,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 200363,
       "name": "Club to the Face",
       "url": "https://open.spotify.com/track/39wgIUR5JsUg5oCSbMNbwO"
@@ -45232,7 +45250,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 167253,
       "name": "Makin' Love - Outtake",
       "url": "https://open.spotify.com/track/3qSlX0NSLUOl85vAiGRu8S"
@@ -45450,7 +45468,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 319261,
       "name": "Man of Sorrows - 2026 Remix",
       "url": "https://open.spotify.com/track/5jHjcPaGU4J59vA0ETWLPB"
@@ -47502,6 +47520,24 @@
       "duration_ms": 225730,
       "name": "Monkey - Extra Beats",
       "url": "https://open.spotify.com/track/6rGZmsqqIoVU29l7a1m2wK"
+    },
+    {
+      "album": {
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/5DP2qWsFMqM4R5ILfQUFxw"
     },
     {
       "album": {
@@ -51198,6 +51234,24 @@
       "duration_ms": 290368,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/6LvSq1JBUI0ukokYcplW89"
+    },
+    {
+      "album": {
+        "name": "Soul Destruction",
+        "url": "https://open.spotify.com/album/1UxdXXo3mbavC8irIRMCdq"
+      },
+      "artists": [
+        {
+          "name": "Sankara",
+          "url": "https://open.spotify.com/artist/10jQiHjeqG2iYmFO9MhGR6"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/5ds6KYdL1ThfEoxCt9ronO"
     },
     {
       "album": {
@@ -55254,7 +55308,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 468000,
       "name": "Piano Concerto No. 23 in A Major, K. 488: III. Allegro assai",
       "url": "https://open.spotify.com/track/3Kt9CbEjesZT5ZihPeMd30"
@@ -60152,7 +60206,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-04",
+      "date_removed": null,
       "duration_ms": 238984,
       "name": "Road to Hell - 2026 Remix",
       "url": "https://open.spotify.com/track/111STNmDdcWciVQl22uSgn"
@@ -70500,7 +70554,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 210373,
       "name": "Take Me - Extended Outtake",
       "url": "https://open.spotify.com/track/4JJDC41d84QByLRxNOLCFQ"
@@ -78354,7 +78408,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 505000,
       "name": "Trio for Clarinet, Viola and Piano in E flat K.498 \"Kegelstatt\": 3. Rondeau (Allegretto)",
       "url": "https://open.spotify.com/track/1vmdEDeRa0OqSvNSby0AWi"
@@ -86564,7 +86618,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 153266,
       "name": "You're Wondering Now",
       "url": "https://open.spotify.com/track/32hc4EBnQCe9KxrlAELQog"

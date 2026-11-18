@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。11月14日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,597 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,620 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
 | 50 | [君と生きて君と死にたい！](https://open.spotify.com/track/76m7HVNSn9boYZqzfdMuXq) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [PURE](https://open.spotify.com/album/5R0dCdjb1aDADy623EOLpg) | 3:29 |
 
-Snapshot ID: `AAAAAMfFz0jBjkkzjhShOSX+Ldncv4t0`
+Snapshot ID: `AAAAAHYF+QXtYywwMdWcv3FxkjPAmRfC`

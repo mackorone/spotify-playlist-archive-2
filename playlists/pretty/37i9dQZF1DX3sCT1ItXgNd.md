@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Lucho RK
 
-[Spotify](https://open.spotify.com/user/spotify) - 992,973 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 992,882 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Culpa del DJ](https://open.spotify.com/track/3GU0y3THGKlB52gvo2yLGj) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Culpa del DJ](https://open.spotify.com/album/0Y6ClleAwGn3ye7FOmT6eF) | 3:31 |
 | 50 | [dame alas](https://open.spotify.com/track/3HIKayx0okvn3FnAyoLP9e) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [azulejos](https://open.spotify.com/album/7z7E95S5pDGeJHPVjtWbw2) | 3:40 |
 
-Snapshot ID: `AAAAACBYcuoCgRJ2s4KzAHX9L+Vh5+UC`
+Snapshot ID: `AAAAAGkzSkKasFgoZXiQ/7iaqUhU10j0`

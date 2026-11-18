@@ -8557,6 +8557,24 @@
     },
     {
       "album": {
+        "name": "I Think She Likes It",
+        "url": "https://open.spotify.com/album/1AxZ8vvp8wOjpIbqoyTbfe"
+      },
+      "artists": [
+        {
+          "name": "Bicycle Ride",
+          "url": "https://open.spotify.com/artist/1aEKpfW8sw5XryObAyPUFE"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238167,
+      "name": "I Think She Likes It",
+      "url": "https://open.spotify.com/track/5IfEBPvGiaeXXCNfCLwOO8"
+    },
+    {
+      "album": {
         "name": "I Wanna Dance",
         "url": "https://open.spotify.com/album/2TPCAEvTDfZzc1PHpxnxhq"
       },

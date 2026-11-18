@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Fall Out Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,302 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,304 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [HOLE](https://open.spotify.com/track/0tYDtbOBF1v8qM1ZPyPlv3) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [HOLE](https://open.spotify.com/album/5N4v5j462H81Sumq9GcniL) | 2:33 |
 | 80 | [Bad Luck Hideaway](https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Mr Charm](https://open.spotify.com/album/2RK1AjrjE5hgjS8lK0lcz9) | 3:50 |
 
-Snapshot ID: `AAAAAL4ZVhYumHfS4eYjTvtvt6/dnkMp`
+Snapshot ID: `AAAAAOrOMFrqCIvDytvSRyprvy2xvXpY`

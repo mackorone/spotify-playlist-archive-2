@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7790,
+  "num_followers": 7795,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAABssb35H7GxgCBefVhyysDE",
+  "snapshot_id": "avpHgAAAAAA+JK25cfYYU8undGnWWetI",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Hurt You So Bad",
+      "url": "https://open.spotify.com/track/0BJWCTLXFXRZKoLkKMztQt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GlitchGang (Remix)",
         "url": "https://open.spotify.com/album/3jC4WP0yUxkvqAipg0l6Pb"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 144818,
       "name": "GlitchGang - Remix",
       "url": "https://open.spotify.com/track/1Oq1BuID6k7oySD33H48ax"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Hurt You So Bad",
-      "url": "https://open.spotify.com/track/0BJWCTLXFXRZKoLkKMztQt"
     },
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 213346,
+      "name": "Boom Box Gang War - Unreleased",
+      "url": "https://open.spotify.com/track/2PtijUyl9sT2Jl8gbwgBkQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
       },
@@ -247,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 213346,
-      "name": "Boom Box Gang War - Unreleased",
-      "url": "https://open.spotify.com/track/2PtijUyl9sT2Jl8gbwgBkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gift Of Game",
         "url": "https://open.spotify.com/album/4hLQA4V348qQjKKDGlYEYV"
       },
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 232773,
-      "name": "Darkside",
-      "url": "https://open.spotify.com/track/0ryjFJQldBFr7EZHjOgGIw"
+      "duration_ms": 232960,
+      "name": "Think Fast - Explicit Album Version",
+      "url": "https://open.spotify.com/track/6crdw80t2FE2xPlooMopLp"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 232960,
-      "name": "Think Fast - Explicit Album Version",
-      "url": "https://open.spotify.com/track/6crdw80t2FE2xPlooMopLp"
+      "duration_ms": 232773,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/0ryjFJQldBFr7EZHjOgGIw"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leeches",
         "url": "https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 212623,
       "name": "Leeches",
       "url": "https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Decorated",
+      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Butterfly (New Anthem)",
         "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
       },
@@ -551,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ"
       },
       "artists": [
         {
@@ -560,25 +576,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 186293,
-      "name": "Decorated",
-      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 234022,
-      "name": "99 Bottles",
-      "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
+      "duration_ms": 158693,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/1R5VItfeA25A8TeUDb5QZY"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ"
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 158693,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/1R5VItfeA25A8TeUDb5QZY"
+      "duration_ms": 234022,
+      "name": "99 Bottles",
+      "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
       "duration_ms": 262666,
       "name": "Candy Coated",
       "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 181909,
-      "name": "Trigger Happy",
-      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 233250,
       "name": "XXXII",
       "url": "https://open.spotify.com/track/5d8E5YZ1n7VVBIos0Et8hC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 181909,
+      "name": "Trigger Happy",
+      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
     },
     {
       "added_at": null,

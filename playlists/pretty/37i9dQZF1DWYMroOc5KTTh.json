@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 771628,
+  "num_followers": 771679,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFb3dujR7Kdc03jG5AlFveyK414i",
+  "snapshot_id": "AAAAAAMhG1WRlgJpkdXkhkUjl2DU4laK",
   "tracks": [
     {
       "added_at": "2026-11-06 00:00:41",
@@ -303,18 +303,22 @@
     {
       "added_at": "2026-11-06 00:00:41",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/1AWewpb8hFbHPJmOrS9Owx"
+        "name": "Want You In My Soul (Radio Edit)",
+        "url": "https://open.spotify.com/album/5fu8yhW5S0JXmOgxbYpsNS"
       },
       "artists": [
         {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4LNNDH29X4ks2mxrFGfDFz"
+      "duration_ms": 190413,
+      "name": "Want You In My Soul - Radio Edit",
+      "url": "https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X"
     },
     {
       "added_at": "2026-11-06 00:00:41",
@@ -335,22 +339,18 @@
     {
       "added_at": "2026-11-06 00:00:41",
       "album": {
-        "name": "Want You In My Soul (Radio Edit)",
-        "url": "https://open.spotify.com/album/5fu8yhW5S0JXmOgxbYpsNS"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/1AWewpb8hFbHPJmOrS9Owx"
       },
       "artists": [
         {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        },
-        {
-          "name": "Stee Downes",
-          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 190413,
-      "name": "Want You In My Soul - Radio Edit",
-      "url": "https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X"
+      "duration_ms": 195692,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4LNNDH29X4ks2mxrFGfDFz"
     },
     {
       "added_at": "2026-11-06 00:00:41",

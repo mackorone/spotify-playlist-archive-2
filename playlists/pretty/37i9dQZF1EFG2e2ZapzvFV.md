@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,545 likes - 183 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,546 likes - 183 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,8 +173,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 163 | [Take My Hand](https://open.spotify.com/track/0UBdJfTnB82221NYnIsT5R) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:38 |
 | 164 | [I Need This](https://open.spotify.com/track/211EszPlTiEiiHbphXiuEX) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:33 |
 | 165 | [No Way to Escape](https://open.spotify.com/track/3MBFqZzK2l8lThJ5Vbw067) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:13 |
-| 166 | [Hard to Watch You Go](https://open.spotify.com/track/5n0ihcc3PgTOjHM02xo9wu) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:40 |
-| 167 | [Suffer](https://open.spotify.com/track/14AZMIKWh6fBGfW9URdpEM) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:08 |
+| 166 | [Suffer](https://open.spotify.com/track/14AZMIKWh6fBGfW9URdpEM) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:08 |
+| 167 | [Hard to Watch You Go](https://open.spotify.com/track/5n0ihcc3PgTOjHM02xo9wu) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:40 |
 | 168 | [Drift Away](https://open.spotify.com/track/3Nn4Qjac9p3WWVprCSCukn) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 2:59 |
 | 169 | [Drown](https://open.spotify.com/track/1QeKfCodBXp0uFCUfDlbXC) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:06 |
 | 170 | [Welcome to Hell \(Intro\)](https://open.spotify.com/track/2SeaJ3G6v4VeF9n4P7PgEq) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 0:48 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 182 | [Buzzcut](https://open.spotify.com/track/7MtoF9z1wMtDqjbS7SJtEQ) | [St\. Augustine](https://open.spotify.com/artist/64Z3eqSabqBVpnGRRaUAfD) | [DEMOS](https://open.spotify.com/album/7zQ8bD7zGpk27yc2tHf6FN) | 3:48 |
 | 183 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `Ach3RgAAAACdLWyVGFc1PdLxaBh+PFwR`
+Snapshot ID: `Ach85gAAAADww1Rv8R2C0nmRvX3nGhI2`

@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 255138,
+  "num_followers": 255133,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAADq+jcUEJZIrurnx0lpFeL4",
+  "snapshot_id": "avpHgAAAAAAF58DwqEYJ5/EY+33xAp5e",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "I Ain't Goin' Down",
+      "url": "https://open.spotify.com/track/3wYYeT35QwPaJ207ao4UTh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Twisters: The Album",
         "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 210333,
       "name": "I Ain't No Quitter - Greatest Hits Version",
       "url": "https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "I Ain't Goin' Down",
-      "url": "https://open.spotify.com/track/3wYYeT35QwPaJ207ao4UTh"
     },
     {
       "added_at": null,

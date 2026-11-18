@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,225 likes - 99 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,324 likes - 99 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 98 | [We Pour \- Live](https://open.spotify.com/track/5KijVP9G03TiDJcxBgFAiw) | [Susan Kindle Worship](https://open.spotify.com/artist/36FTlUgKkSiTisVaGKMvkV), [Pastor Rhema Ehiemere](https://open.spotify.com/artist/5pVp7WWJaafolAYDFzp8bd) | [We Pour \(Live\)](https://open.spotify.com/album/3jGmNRu4D0QmNjZoIlOFBe) | 9:12 |
 | 99 | [Unseen](https://open.spotify.com/track/7t9P8auS1hqsQWEMT2watl) | [Heart of God Church](https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN), [Daniel Goh](https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Joshua Artono](https://open.spotify.com/artist/2CsQjrxOjnKlQlJ0zBOyuG) | [Unseen](https://open.spotify.com/album/01422x7wGqTnEt5epX6G7E) | 5:27 |
 
-Snapshot ID: `AAAAAPaA6P7JSm0VruUZLqJv8A2TbB/Z`
+Snapshot ID: `AAAAAORRd22f/n2RhcXSv5jf/akzgq22`

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 47596,
+  "num_followers": 47634,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKH0GAax/MaPP/FWL16h4ew0R4O1",
+  "snapshot_id": "AAAAAKnZAjvdafQ1Lq4rlhcenCm+iEvK",
   "tracks": [
     {
       "added_at": "2026-10-01 13:03:08",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
-        "name": "DUMA DUM MAST QALANDER (Rebooted & Revved Up)",
-        "url": "https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI"
-      },
-      "artists": [
-        {
-          "name": "Master Saleem",
-          "url": "https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y"
-        },
-        {
-          "name": "Hashmat Sultana",
-          "url": "https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok"
-        }
-      ],
-      "duration_ms": 249545,
-      "name": "DUMA DUM MAST QALANDER - Rebooted & Revved Up",
-      "url": "https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU"
-    },
-    {
-      "added_at": "2026-10-01 13:03:08",
-      "album": {
         "name": "Ranjhe",
         "url": "https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 206895,
       "name": "Ranjhe",
       "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
+    },
+    {
+      "added_at": "2026-10-01 13:03:08",
+      "album": {
+        "name": "DUMA DUM MAST QALANDER (Rebooted & Revved Up)",
+        "url": "https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI"
+      },
+      "artists": [
+        {
+          "name": "Master Saleem",
+          "url": "https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y"
+        },
+        {
+          "name": "Hashmat Sultana",
+          "url": "https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok"
+        }
+      ],
+      "duration_ms": 249545,
+      "name": "DUMA DUM MAST QALANDER - Rebooted & Revved Up",
+      "url": "https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU"
     },
     {
       "added_at": "2026-10-01 13:03:08",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
+        "name": "Dil Nu",
+        "url": "https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW"
+      },
+      "artists": [
+        {
+          "name": "Sukhjinder Singh",
+          "url": "https://open.spotify.com/artist/2lL1IVLbaAKFsHsbtAs6KR"
+        }
+      ],
+      "duration_ms": 271749,
+      "name": "Dil Nu",
+      "url": "https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5"
+    },
+    {
+      "added_at": "2026-10-01 13:03:08",
+      "album": {
         "name": "Ek Anokhi Dulhan Saavi",
         "url": "https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 306000,
       "name": "Jaan Na Jaan - Male Version",
       "url": "https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx"
-    },
-    {
-      "added_at": "2026-10-01 13:03:08",
-      "album": {
-        "name": "Dil Nu",
-        "url": "https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW"
-      },
-      "artists": [
-        {
-          "name": "Sukhjinder Singh",
-          "url": "https://open.spotify.com/artist/2lL1IVLbaAKFsHsbtAs6KR"
-        }
-      ],
-      "duration_ms": 271749,
-      "name": "Dil Nu",
-      "url": "https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5"
     },
     {
       "added_at": "2026-10-01 13:03:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,891 songs - 7 day 0 hr 1 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,897 songs - 7 day 0 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1650,7 +1650,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1640 | [Solaris](https://open.spotify.com/track/0jUE5RevXFNJHd8nuMn88g) | [Mischa Plus](https://open.spotify.com/artist/7JS3DVlq1iHThu4k2OcmNh) | [Solaris](https://open.spotify.com/album/6RHlEyOX7xQSTQeAb49GW8) | 3:25 |
 | 1641 | [Muirín and the Breath of Slievemore](https://open.spotify.com/track/4fdMm2iJjPOsrF6wL374hL) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Muirín and the Breath of Slievemore](https://open.spotify.com/album/5jAqBWPQlk1NG2GiCLKdiK) | 3:49 |
 | 1642 | [Sweeter than Sugar](https://open.spotify.com/track/2Tyexd1I6X9NIFQP6TeOqX) | [Skydi vibes](https://open.spotify.com/artist/61YtYVSqzhbGsPcVCWIg8m) | [Sweeter than Sugar](https://open.spotify.com/album/69k9HVL64ONQ6tC7spzlqi) | 2:00 |
-| 1643 | [Gli amici del 10](https://open.spotify.com/track/2YtJq8sNQskaAhNb19yAwM) | [la C LDV](https://open.spotify.com/artist/7lF3Ixtf3Jr14Yc3LUjSeE) | [Gli amici del 10](https://open.spotify.com/album/2kuySa3wFvllOb1FLuykoi) | 2:00 |
+| 1643 | [Gli amici del 10](https://open.spotify.com/track/2YtJq8sNQskaAhNb19yAwM) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Gli amici del 10](https://open.spotify.com/album/2kuySa3wFvllOb1FLuykoi) | 2:00 |
 | 1644 | [REALIDAD ALTERADA](https://open.spotify.com/track/307wyKAPU6MnwTk8Ax7gUZ) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [GOLDENSHADE](https://open.spotify.com/album/6BRnUAnUIw3LFyX2Tvbdt5) | 2:29 |
 | 1645 | [RECUERDOS](https://open.spotify.com/track/5SHLlfVYiPSjq2RIlUPHJk) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [GOLDENSHADE](https://open.spotify.com/album/6BRnUAnUIw3LFyX2Tvbdt5) | 2:39 |
 | 1646 | [PROMESA](https://open.spotify.com/track/1O2BIausmhxIvh02DGVB2F) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [GOLDENSHADE](https://open.spotify.com/album/6BRnUAnUIw3LFyX2Tvbdt5) | 4:45 |
@@ -2899,5 +2899,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2889 | [IN MY LIFE \- Piano Version](https://open.spotify.com/track/5cMr4IjST242S6zQUSnkeo) | [Omega Horizon](https://open.spotify.com/artist/1bqspJKjaQkVdVG5LD04QA) | [IN MY LIFE \(Piano Version\)](https://open.spotify.com/album/4j5dIJqWxhkqE1fwGWxKFy) | 3:24 |
 | 2890 | [If You're Happy And You Know It](https://open.spotify.com/track/49zEj34PwUcW3sQFZVMVDk) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [If You're Happy And You Know It](https://open.spotify.com/album/1QlEWLc5zJs6eXQ2PNUVuI) | 2:46 |
 | 2891 | [Ain't Surprising](https://open.spotify.com/track/1gTdgIckeJHvd4UksMd8Zh) | [Yen\-B](https://open.spotify.com/artist/4yyfyr3g9RftWCsCz9NN1o) | [Ain't Surprising](https://open.spotify.com/album/4WEs5JkbnbOqgzGJuE9Ysc) | 4:35 |
+| 2892 | [Red Light](https://open.spotify.com/track/0JBKtnTDF8O0HArgHQ5akz) | [Echoes of PlayTime](https://open.spotify.com/artist/50P37G46s6ArFn5jAzmFXA) | [Red Light](https://open.spotify.com/album/0Op2fnE4NUqYQOoFFsVJCB) | 4:39 |
+| 2893 | [Seek](https://open.spotify.com/track/1m76c5doQeVL1H73FUn85o) | [David Leon](https://open.spotify.com/artist/6RcjcvO0GiOUK7Ts39wb97) | [Just](https://open.spotify.com/album/4FYldKdhF0SZo6CrkSGI0r) | 5:29 |
+| 2894 | [Tuesday Shadowline](https://open.spotify.com/track/7gO9IDmd7KWqCj2DTPpzlk) | [David Leon](https://open.spotify.com/artist/6RcjcvO0GiOUK7Ts39wb97) | [Stray Jazz](https://open.spotify.com/album/6YcXsWHGpCsgcCeWLycpWb) | 4:49 |
+| 2895 | [Clessidra](https://open.spotify.com/track/6MgZB1rLTuNAIzxgw0iNfz) | [Tabonimous](https://open.spotify.com/artist/3VZBSUtpXk87yOL232rhfi), [HLMNSRA](https://open.spotify.com/artist/5LOQ7tMPOSQr1F9c6KR1d3) | [La Teoria di Michelangelo](https://open.spotify.com/album/4gl2DoFXnQX1K93BjSmsUJ) | 2:06 |
+| 2896 | [Edelweiss Legend](https://open.spotify.com/track/4vl2UxRVCNGOownXavZ07v) | [Daryna Kharytonova](https://open.spotify.com/artist/6K7J0MQ83GDozaOw9dRnsd) | [Edelweiss Legend](https://open.spotify.com/album/64iH5TIwtzpQdyROhjpuOy) | 2:27 |
+| 2897 | [Sa Majesté Moi](https://open.spotify.com/track/2EoeD8rrdHEnA4piNSMyu6) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [Sa Majesté Moi](https://open.spotify.com/album/5DbdhSEY7ZdEqelbOrpvwb) | 3:58 |
 
-Snapshot ID: `AAAMQq3ddba/IB6XMpzuKDVf+O4aRb4G`
+Snapshot ID: `AAAMSEK7BYaL73Xr7ksyb1zuLi2OZivn`

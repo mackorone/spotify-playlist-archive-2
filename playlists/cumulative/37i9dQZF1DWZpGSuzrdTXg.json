@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "between the pines",
+        "url": "https://open.spotify.com/album/1N1mtPR8FjlmCUweg4i8Do"
+      },
+      "artists": [
+        {
+          "name": "Bertie Newman",
+          "url": "https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211948,
+      "name": "between the pines",
+      "url": "https://open.spotify.com/track/28HyRJMMu85WZDnCiNQz5m"
+    },
+    {
+      "album": {
         "name": "Down The Way",
         "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
       },
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 234454,
       "name": "Gordon in the Willows",
       "url": "https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq"
@@ -2646,7 +2664,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 106980,
       "name": "Knowing Us",
       "url": "https://open.spotify.com/track/02mrdC1s1TA2xAoXtLYBMI"
@@ -3107,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "AFTERTASTE",
+        "url": "https://open.spotify.com/album/7ozZkvj838TWUkxqLTcX03"
+      },
+      "artists": [
+        {
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Love You Quiet",
+      "url": "https://open.spotify.com/track/2DClhV8ek3eZtN5cLq5osg"
+    },
+    {
+      "album": {
         "name": "Lovers Come And Go",
         "url": "https://open.spotify.com/album/5PDqHAq1ABpCfpI8vXAIMo"
       },
@@ -3282,6 +3318,24 @@
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+    },
+    {
+      "album": {
+        "name": "Midnight Blue",
+        "url": "https://open.spotify.com/album/1OjUL0y8s2IhPryAFjT0gf"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120234,
+      "name": "Midnight Blue",
+      "url": "https://open.spotify.com/track/2Zfh0bnkS97vV49COMVgMB"
     },
     {
       "album": {
@@ -3720,7 +3774,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 168654,
       "name": "Our Time Is Up",
       "url": "https://open.spotify.com/track/6i9CBvx5o2YnRxTNXbNyq5"
@@ -3832,6 +3886,24 @@
       "duration_ms": 180167,
       "name": "Passport Home",
       "url": "https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj"
+    },
+    {
+      "album": {
+        "name": "Picking Paint",
+        "url": "https://open.spotify.com/album/7LQiuNdXp76wvdYUL11kNe"
+      },
+      "artists": [
+        {
+          "name": "Will Knox",
+          "url": "https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154124,
+      "name": "Picking Paint",
+      "url": "https://open.spotify.com/track/5wxlUxrM1ylIOB3fxHmyEL"
     },
     {
       "album": {
@@ -4128,7 +4200,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 110221,
       "name": "Scared Of Loving You",
       "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
@@ -4186,6 +4258,24 @@
       "duration_ms": 206546,
       "name": "Silently Hurting Me",
       "url": "https://open.spotify.com/track/2XD4jhSNQ64FbOui9Fd7rs"
+    },
+    {
+      "album": {
+        "name": "Silver Springs (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200399,
+      "name": "Silver Springs - Spotify Singles",
+      "url": "https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi"
     },
     {
       "album": {
@@ -5930,7 +6020,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 276853,
       "name": "Woman",
       "url": "https://open.spotify.com/track/1wYBt2URytGTqxoscQV9Py"

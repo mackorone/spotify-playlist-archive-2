@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Alexisonfire
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,926 likes - 150 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,905 likes - 150 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 149 | [AFRAID OF THE DARK](https://open.spotify.com/track/3L3SC0oP1iO6pGXNofQXnu) | [LIAM hopkins](https://open.spotify.com/artist/1J6jZyfGCNP1O3xlNwINcJ) | [AFRAID OF THE DARK](https://open.spotify.com/album/4luPRXvhfmPhFy2TbzcpbH) | 2:07 |
 | 150 | [Never Learned](https://open.spotify.com/track/3gonMuZGs7azinX3kYcG6E) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Never Learned](https://open.spotify.com/album/1QTgMl3wUitVpi4qHG2IXt) | 2:47 |
 
-Snapshot ID: `AAAAAI6d532y9cmEWh1jCZv5H+X/us5G`
+Snapshot ID: `AAAAACUWZ2Zw4i/6QmR/V7h0Edv8O3Kp`

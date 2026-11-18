@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,963 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,965 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 99 | [Entä jos en pärjääkään](https://open.spotify.com/track/7u7QfpxxJ4L8wlakNEPlar) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Itken jos mua huvittaa](https://open.spotify.com/album/5GXtveP0s6zMPn0DNi4zN5) | 3:58 |
 | 100 | [Emilia](https://open.spotify.com/track/6YBMwlS8sfn3YGS7mLcMmw) | [Suski](https://open.spotify.com/artist/3eAFW1Pf7062zlPtfaEbPE) | [Emilia](https://open.spotify.com/album/2XbesrqKLLolms6nsqF7Wm) | 4:42 |
 
-Snapshot ID: `AAAAALxlKuZ4Zb1BiS+GJs8Y2KFqyvaY`
+Snapshot ID: `AAAAACaLk+C2GYrY7qwAdSpEjBsCbsLN`

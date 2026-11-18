@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Sup
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Fried Banana Shop
 
-648 songs - 1 day 22 hr 16 min
+650 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Cinnamon Sugar](https://open.spotify.com/track/4xqXQ0uxRxluGxOYG7aa9C) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Ones & Twos](https://open.spotify.com/album/4nRENY6OH6RHFGrf1RthCW) | 4:15 | 2025-06-05 | 2025-10-03 |
 | [Clouds](https://open.spotify.com/track/0oK5F4umypVDscLUs2ib5a) | [Shane Sato](https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Clouds](https://open.spotify.com/album/7BY7VGZ1bKWtoZV2pexF0H) | 3:17 | 2026-03-20 | 2026-11-06 |
 | [Coconut Groovin'](https://open.spotify.com/track/6rUWK9aZcRp3JP9KZINZZU) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [Coconut Groovin'](https://open.spotify.com/album/6s16mndixMYspUkuW8Eg0F) | 5:11 | 2026-07-21 |  |
+| [COG](https://open.spotify.com/track/5LQdqreNUvMFGzJwdixP7W) | [HIMIZ](https://open.spotify.com/artist/2mESmN0OF6exC4Sj5qySOD), [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx) | [Temple Days](https://open.spotify.com/album/54Ncmv0VI2pWugNWYZFRcB) | 4:43 | 2026-11-17 |  |
 | [Community Research](https://open.spotify.com/track/2Y2XjQ5V9xJGpgdYaxRNNK) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [PEACE](https://open.spotify.com/album/64OUQJ9FkzFV3FrMqdSBir) | 6:33 | 2026-02-17 |  |
 | [Con Polaris](https://open.spotify.com/track/063uUTOiVDGMdqfPF1GWHm) | [INSTANT ALTER](https://open.spotify.com/artist/4fKUw2uU0uGJJUe523yzIf), [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF), [Natasha Agrama](https://open.spotify.com/artist/5IPHEpzQLhUPfrqt4BatR5), [Emilio Modeste](https://open.spotify.com/artist/3nzBo4Edo33cChnzfyraEG) | [Con Polaris](https://open.spotify.com/album/02g6hLQRGCWzPH0qJFRcXa) | 5:55 | 2025-08-29 | 2025-11-28 |
 | [Concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 | 2024-10-04 | 2025-03-07 |
@@ -268,6 +269,7 @@
 | [images on loan](https://open.spotify.com/track/0P3UTIsPJnnf6b8b0QhgLl) | [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47), [Jan Urila Sas](https://open.spotify.com/artist/7BPQ8eUXJcCAVOyJ7vxn5n), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Amid Kinos](https://open.spotify.com/album/1YODDYFqXVUWgGNb3ET3Hu) | 5:39 | 2026-10-14 |  |
 | [images on loan](https://open.spotify.com/track/3cCwrAFdIQz8OcDRzGrHfO) | [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47), [Jan Urila Sas](https://open.spotify.com/artist/7BPQ8eUXJcCAVOyJ7vxn5n), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [images on loan](https://open.spotify.com/album/1y3tpf16OEOfBkX3O3fDo0) | 5:39 | 2026-07-21 |  |
 | [Imaginary Magnitude](https://open.spotify.com/track/329J9HAKX1HXzg7qiUtE6f) | [Greg Foat](https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0), [Forest Law](https://open.spotify.com/artist/5Mf1H5qdqjBmqWad8RtY08) | [Midnight Wave](https://open.spotify.com/album/2kbZB80jta9imn73yW7bts) | 5:03 | 2025-06-19 | 2025-07-11 |
+| [Imitation](https://open.spotify.com/track/401JOzWwvhKGessUlI1CDD) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Imitation](https://open.spotify.com/album/5GDUjGBWVbLhudm9ApjrQG) | 2:19 | 2026-11-17 |  |
 | [Impulsive Procession \- opolopo remix](https://open.spotify.com/track/2OZkKHnGRSCKe9GVFQZQTZ) | [Kyoto Jazz Massive](https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv), [Echoes Of A New Dawn Orchestra](https://open.spotify.com/artist/0Ybi9gkQMCI91gq8Ykje1r), [opolopo](https://open.spotify.com/artist/2EDRTyYzsLkQI5E17dv19H) | [Impulsive Procession \(opolopo remix\)](https://open.spotify.com/album/69xrM56c9BgKPmGfnIS736) | 6:06 | 2026-01-30 | 2026-11-06 |
 | [In a Spiral](https://open.spotify.com/track/1NVuW1w0mkVJQF5nFGo1PR) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [John Connor](https://open.spotify.com/album/2ctx9aWCjIlAWojJSIcVKA) | 5:39 | 2026-05-12 |  |
 | [In Black](https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [In Black](https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq) | 3:31 | 2025-08-19 | 2026-02-18 |

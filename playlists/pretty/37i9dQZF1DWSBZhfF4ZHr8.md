@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Marine & Danyl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,299 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,282 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 13 | [On sera là](https://open.spotify.com/track/0Nz7R3rQrgABvGRp4BJyUv) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [On sera là](https://open.spotify.com/album/5jhNNZuRJzLFSKVGDbPUhv) | 3:29 |
 | 14 | [Cybersensible](https://open.spotify.com/track/2o5ghGw2qfZEPWMDO2YHei) | [Jeanne](https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ) | [Naïri](https://open.spotify.com/album/1KjrceHRQfpwzYU0OS3u4z) | 2:40 |
 | 15 | [un peu beaucoup](https://open.spotify.com/track/2ZNMr57GGEELFGV3w49qVT) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [guérir](https://open.spotify.com/album/5SLhRamBJlp8UHE5VhKj5Y) | 2:32 |
-| 16 | [Être moi \(déguisé en fleur\)](https://open.spotify.com/track/2ctJxIV3dpToTzoJvgPiNW) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [Être moi \(déguisé en fleur\)](https://open.spotify.com/album/3M9PFUZ8HhWoZeR0YGO02s) | 3:09 |
+| 16 | [Être moi \(déguisé·e en fleur\)](https://open.spotify.com/track/2ctJxIV3dpToTzoJvgPiNW) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [Être moi \(déguisé·e en fleur\)](https://open.spotify.com/album/3M9PFUZ8HhWoZeR0YGO02s) | 3:09 |
 | 17 | [C'est tout moi](https://open.spotify.com/track/1gY9cOzRGtNwRmvDGGfEun) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [C'est tout moi](https://open.spotify.com/album/6TyqfBdyhZ2Te9fcdcvfsN) | 2:29 |
 | 18 | [I <3 you](https://open.spotify.com/track/6RSSA85jNZ5tRCgEXg0Y53) | [Tibz](https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF) | [I <3 you](https://open.spotify.com/album/7gWBTQxRBcxDx5joFYlYyW) | 3:20 |
 | 19 | [Place Massena](https://open.spotify.com/track/3U4Tf0TSxaAc78VHhs4M2O) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Ça ira](https://open.spotify.com/album/6DB4qBlolf8rxYYIquGkG9) | 3:08 |

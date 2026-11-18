@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... Foto: Charly Garc\u00eda",
-  "num_followers": 127903,
+  "num_followers": 127905,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
+        "name": "Otras Canciones en Vivo en Latinoam\u00e9rica",
+        "url": "https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 284756,
+      "name": "Tan Lejos",
+      "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
         "name": "Roxana Porcellana (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
         "url": "https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 245699,
       "name": "Roxana Porcellana - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
       "url": "https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
-        "name": "Otras Canciones en Vivo en Latinoam\u00e9rica",
-        "url": "https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 284756,
-      "name": "Tan Lejos",
-      "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Salando las Heridas (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
-        "url": "https://open.spotify.com/album/6ijXMByAmcNJpQRC7guaJS"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 310512,
-      "name": "Salando las Heridas - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
-      "url": "https://open.spotify.com/track/2hSRzXVYNH5KZjICvZkQFo"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 289154,
       "name": "Al Vac\u00edo",
       "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
+        "name": "Salando las Heridas (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
+        "url": "https://open.spotify.com/album/6ijXMByAmcNJpQRC7guaJS"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 310512,
+      "name": "Salando las Heridas - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
+      "url": "https://open.spotify.com/track/2hSRzXVYNH5KZjICvZkQFo"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Solo Aqu\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0"
+        "name": "Por Mil Noches",
+        "url": "https://open.spotify.com/album/6Mlff91HPW6QhoCCGJK3sR"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 247578,
-      "name": "Solo Aqui - En Vivo",
-      "url": "https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ"
+      "duration_ms": 295936,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/40djkWLHFMFKvGJwqAdRIo"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Por Mil Noches",
-        "url": "https://open.spotify.com/album/6Mlff91HPW6QhoCCGJK3sR"
+        "name": "Solo Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0"
       },
       "artists": [
         {
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 295936,
-      "name": "Por Mil Noches",
-      "url": "https://open.spotify.com/track/40djkWLHFMFKvGJwqAdRIo"
+      "duration_ms": 247578,
+      "name": "Solo Aqui - En Vivo",
+      "url": "https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 188580,
-      "name": "S\u00e1bado - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU"
-    },
-    {
-      "added_at": "2026-10-23 03:00:39",
-      "album": {
         "name": "Vivire Viajando",
         "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 253733,
       "name": "Arde la ciudad",
       "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
+    },
+    {
+      "added_at": "2026-10-23 03:00:39",
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado (Sesi\u00f3n 20\u00b0 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 188580,
+      "name": "S\u00e1bado - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Ojos Rojos (En Vivo)",
-        "url": "https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO"
+        "name": "Fanky (En Vivo)",
+        "url": "https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6"
       },
       "artists": [
         {
-          "name": "Buitres",
-          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
         }
       ],
-      "duration_ms": 200136,
-      "name": "Ojos Rojos - En vivo",
-      "url": "https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19"
+      "duration_ms": 303952,
+      "name": "Fanky (En Vivo)",
+      "url": "https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU"
     },
     {
       "added_at": "2026-10-23 03:00:39",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-10-23 03:00:39",
       "album": {
-        "name": "Fanky (En Vivo)",
-        "url": "https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6"
+        "name": "Ojos Rojos (En Vivo)",
+        "url": "https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO"
       },
       "artists": [
         {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
         }
       ],
-      "duration_ms": 303952,
-      "name": "Fanky (En Vivo)",
-      "url": "https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU"
+      "duration_ms": 200136,
+      "name": "Ojos Rojos - En vivo",
+      "url": "https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19"
     },
     {
       "added_at": "2026-10-23 03:00:39",

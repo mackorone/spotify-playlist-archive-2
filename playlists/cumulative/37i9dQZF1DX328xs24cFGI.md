@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-552 songs - 1 day 10 hr 59 min
+553 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Kiseki Wo Mattetatte](https://open.spotify.com/track/1zzakN2yDC8TL2tcathcO9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Kiseki Wo Mattetatte](https://open.spotify.com/album/6NsaIlN1RzWWPj8jhgPrcQ) | 5:19 | 2025-10-21 | 2025-11-05 |
 | [Kiss Kiss Kiss](https://open.spotify.com/track/0t2jF8atu9yRgeO1IiHrBV) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Kiss Kiss Kiss](https://open.spotify.com/album/09kDSsRW2LELBw2Pjk8tWf) | 2:09 | 2025-09-18 | 2025-10-22 |
 | [Kiss Kiss Kiss](https://open.spotify.com/track/3HkevXKZY9ZQErg69blHoM) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [Kiss Kiss Kiss](https://open.spotify.com/album/7yViSe4sx7FewI3rmIxzQT) | 3:40 | 2024-10-02 | 2024-10-09 |
+| [KissHug](https://open.spotify.com/track/5yov1XKIxqezj8Rg23SvdF) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [KissHug](https://open.spotify.com/album/2Y0WickzAyhmu9ShTVZVvI) | 6:03 | 2026-11-17 |  |
 | [koi](https://open.spotify.com/track/6aR2Dy2Ur9TZ6PifgvJYFJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [koi](https://open.spotify.com/album/3kmSRwmaYAPQDBPkG3WZJL) | 3:16 | 2023-12-09 | 2023-12-27 |
 | [Koi ha Ramune no Youni](https://open.spotify.com/track/4fWRzTlFkMaEbxXvIBKwz7) | [平理央](https://open.spotify.com/artist/5XV5kNtCkFTwVcL5rdCUln) | [Koi ha Ramune no Youni](https://open.spotify.com/album/0XspZ9bvHBSCdcH12HfD1Y) | 3:27 | 2023-08-15 | 2023-08-25 |
 | [Koi no Iro](https://open.spotify.com/track/46O3D2H8HPLiSUHNokwsRa) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Koi no Iro](https://open.spotify.com/album/0oaOQZS5vKKA9P0jr8LmAV) | 4:42 | 2023-07-25 | 2023-08-05 |
@@ -184,7 +185,7 @@
 | [Purpose](https://open.spotify.com/track/3YtGpYYI3RvOsyuJNjZrvK) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2023-02-09 | 2024-01-11 |
 | [Q and A](https://open.spotify.com/track/4xWAnQiMOh5hDVsacylSSM) | [Harutya](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs) | [Q and A](https://open.spotify.com/album/2nUKGVHFwDmNQdc1qtyK0r) | 2:58 | 2024-01-18 | 2024-01-31 |
 | [Q&A](https://open.spotify.com/track/7zVf2yR4TeCOPMloZXYZGo) | [Harutya](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs) | [Q&A](https://open.spotify.com/album/0C26wPrY6HXzrq7nlVc9XV) | 2:58 | 2024-01-18 | 2024-01-20 |
-| [Raspberry](https://open.spotify.com/track/0P5GeyB3QX0Yicn8dHZbRZ) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Raspberry](https://open.spotify.com/album/7xp12xjs1p0twJ3w9GinOm) | 2:41 | 2026-11-03 |  |
+| [Raspberry](https://open.spotify.com/track/0P5GeyB3QX0Yicn8dHZbRZ) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Raspberry](https://open.spotify.com/album/7xp12xjs1p0twJ3w9GinOm) | 2:41 | 2026-11-03 | 2026-11-18 |
 | [Red Wine \(It Tastes Young & Rich\)](https://open.spotify.com/track/4YZXpETSuNWLCPv1kzKtYC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Stronger \(feat\. Awich\) / 花・魁 \(feat\. Medusa, E.V.P & IFE\) / Red Wine \(It Tastes Young & Rich\)](https://open.spotify.com/album/2KssrI7RIA0Unb4p30blvl) | 3:16 | 2025-03-18 | 2025-03-26 |
 | [Rendezvous](https://open.spotify.com/track/4NK7en9BEHFbtn7MUF4QwA) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [Rendezvous](https://open.spotify.com/album/3npoOwzJ35E1gXtT0T6u38) | 3:46 | 2023-07-13 | 2023-10-06 |
 | [Romance](https://open.spotify.com/track/0qEDgqxgkPprdzzKxa0Bh6) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Romance](https://open.spotify.com/album/7qwqc4f7y6idyzVO8V7V22) | 3:07 | 2025-09-30 | 2025-10-22 |

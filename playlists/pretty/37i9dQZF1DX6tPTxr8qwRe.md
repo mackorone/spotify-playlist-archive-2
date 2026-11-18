@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Ari Abdul on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,423 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,431 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [drunk enough](https://open.spotify.com/track/4u79u9PEua1NM34DzptsbP) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [drunk enough](https://open.spotify.com/album/5mgOs6BgA2ZsyfbULPfUOW) | 3:24 |
 | 50 | [Baby Girl](https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Baby Girl](https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU) | 2:57 |
 
-Snapshot ID: `AAAAAOhHjcmiBkKgwg/XiW46fk/kZ2d/`
+Snapshot ID: `AAAAADmqD0EIruLAhHKyUOXAQSk4ciPW`

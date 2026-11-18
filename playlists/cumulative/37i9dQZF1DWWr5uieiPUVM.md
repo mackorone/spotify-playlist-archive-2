@@ -2,7 +2,7 @@
 
 ### [O Trap Mais Caro](https://open.spotify.com/playlist/37i9dQZF1DWWr5uieiPUVM)
 
-> a session do tz e tue
+> 1M x 0 🔫,  comprar a casa da mãe
 
 795 songs - 1 day 16 hr 49 min
 

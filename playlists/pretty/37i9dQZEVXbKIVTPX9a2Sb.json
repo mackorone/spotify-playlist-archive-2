@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Slovakia.",
-  "num_followers": 22089,
+  "num_followers": 22088,
   "original_name": "Top 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mo6p4AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mo/yAAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "Toxic Love",
         "url": "https://open.spotify.com/album/2ugwR7azxnNqnVuHUBDy0w"
@@ -29,7 +29,43 @@
       "url": "https://open.spotify.com/track/2R0pXrhBigrg6ZNb3Bv4MH"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "\u010d\u00edm v\u00edc toho m\u00e1m t\u00edm d\u00e1l od domova jsem",
+        "url": "https://open.spotify.com/album/4ZIl7dQcPnPu5z4QrWoSQD"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 165755,
+      "name": "te\u010f nebo nikdy",
+      "url": "https://open.spotify.com/track/0ySASfIHtl663vyHARh74j"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "MONARCHIA",
         "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
@@ -53,27 +89,7 @@
       "url": "https://open.spotify.com/track/71Ojukv3JFat5iZ597nBcH"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "\u010d\u00edm v\u00edc toho m\u00e1m t\u00edm d\u00e1l od domova jsem",
-        "url": "https://open.spotify.com/album/4ZIl7dQcPnPu5z4QrWoSQD"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 165755,
-      "name": "te\u010f nebo nikdy",
-      "url": "https://open.spotify.com/track/0ySASfIHtl663vyHARh74j"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -84,28 +100,12 @@
           "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
         }
       ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "letn\u00e1 depresia",
-        "url": "https://open.spotify.com/album/7xZpAglGM1DLLj2kmRsyBV"
-      },
-      "artists": [
-        {
-          "name": "Shimmi",
-          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
-        }
-      ],
-      "duration_ms": 203934,
-      "name": "emma watson",
-      "url": "https://open.spotify.com/track/4fcoTRbANWKBjn5i1COi3e"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "KURVY V POZORU",
         "url": "https://open.spotify.com/album/51vUnAOdbs7CAokbiSqYQ2"
@@ -125,7 +125,63 @@
       "url": "https://open.spotify.com/track/5sNrjyTnypj1YrPiDos8wr"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "letn\u00e1 depresia",
+        "url": "https://open.spotify.com/album/7xZpAglGM1DLLj2kmRsyBV"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "duration_ms": 203934,
+      "name": "emma watson",
+      "url": "https://open.spotify.com/track/4fcoTRbANWKBjn5i1COi3e"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "BRASSISLAVA",
+        "url": "https://open.spotify.com/album/2S78v9QyIQkZc6tRxSRFnu"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Nina Janova",
+          "url": "https://open.spotify.com/artist/69Uk6KRul4PsaZkC0MNvvN"
+        }
+      ],
+      "duration_ms": 161176,
+      "name": "SEBAVEDOMA",
+      "url": "https://open.spotify.com/track/0mbzf3yIaUkgKufHYOsWZm"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "BRASSISLAVA",
+        "url": "https://open.spotify.com/album/2S78v9QyIQkZc6tRxSRFnu"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "PAMATAM",
+      "url": "https://open.spotify.com/track/4cVxaz6zw6xSwaAXb6GRie"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "Dirty",
         "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
@@ -141,23 +197,7 @@
       "url": "https://open.spotify.com/track/3S0ugmEiHXZypJXkFNdGZN"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
-      },
-      "artists": [
-        {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
-        }
-      ],
-      "duration_ms": 165172,
-      "name": "ASI CHCEM L\u00daBI\u0164 \u017dENU",
-      "url": "https://open.spotify.com/track/2jSPjDtJVXKZOKRjmm6opL"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "BRASSISLAVA",
         "url": "https://open.spotify.com/album/2S78v9QyIQkZc6tRxSRFnu"
@@ -181,27 +221,7 @@
       "url": "https://open.spotify.com/track/4jZkRgsAnlJNSDs50DZPJZ"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "BRASSISLAVA",
-        "url": "https://open.spotify.com/album/2S78v9QyIQkZc6tRxSRFnu"
-      },
-      "artists": [
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        },
-        {
-          "name": "Samey",
-          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "PAMATAM",
-      "url": "https://open.spotify.com/track/4cVxaz6zw6xSwaAXb6GRie"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "Dirty",
         "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
@@ -212,68 +232,12 @@
           "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
         }
       ],
-      "duration_ms": 160000,
-      "name": "SHOW MUST GO ON",
-      "url": "https://open.spotify.com/track/73MIMW1HVwlMrHUPKv9viX"
+      "duration_ms": 165172,
+      "name": "ASI CHCEM L\u00daBI\u0164 \u017dENU",
+      "url": "https://open.spotify.com/track/2jSPjDtJVXKZOKRjmm6opL"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "BRASSISLAVA",
-        "url": "https://open.spotify.com/album/2S78v9QyIQkZc6tRxSRFnu"
-      },
-      "artists": [
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        },
-        {
-          "name": "Nina Janova",
-          "url": "https://open.spotify.com/artist/69Uk6KRul4PsaZkC0MNvvN"
-        }
-      ],
-      "duration_ms": 161176,
-      "name": "SEBAVEDOMA",
-      "url": "https://open.spotify.com/track/0mbzf3yIaUkgKufHYOsWZm"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
-      },
-      "artists": [
-        {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
-        },
-        {
-          "name": "ALYA",
-          "url": "https://open.spotify.com/artist/39OL7XofJjgzDzCSP3AdhB"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "BADDIES DNA (feat. ALYA)",
-      "url": "https://open.spotify.com/track/6rdl7WgCMPbaxdVzHD5KkF"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "N\u00e1dech",
         "url": "https://open.spotify.com/album/76nezzdje9ugAr3mBqyo8p"
@@ -289,7 +253,23 @@
       "url": "https://open.spotify.com/track/2Vsci1GxM2V4YlTZoeqS5J"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "SHOW MUST GO ON",
+      "url": "https://open.spotify.com/track/73MIMW1HVwlMrHUPKv9viX"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "Dirty",
         "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
@@ -305,7 +285,27 @@
       "url": "https://open.spotify.com/track/5eUNXTGdNjQCPWCgoEtbpm"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "Nab\u011bhnu na Byt",
+        "url": "https://open.spotify.com/album/4AsbqYgMmsOnpYpiHdiTVI"
+      },
+      "artists": [
+        {
+          "name": "Sanchez22",
+          "url": "https://open.spotify.com/artist/4Mkunnaj0EsmtwYR1BypXO"
+        },
+        {
+          "name": "NAUME",
+          "url": "https://open.spotify.com/artist/4nN9KPvDyJUChakaoY9AXv"
+        }
+      ],
+      "duration_ms": 143090,
+      "name": "Nab\u011bhnu na Byt",
+      "url": "https://open.spotify.com/track/4ECKui3qnFOaqqSkqTbtyq"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "Ru\u017ee",
         "url": "https://open.spotify.com/album/780jGwtiblN8nQwSBpe4nw"
@@ -333,7 +333,27 @@
       "url": "https://open.spotify.com/track/3rrviuiB1FruypU8Cc7yQv"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "COUP\u00c9",
+      "url": "https://open.spotify.com/track/5dKhmVbvctqme1rfkuGAJz"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "Dirty",
         "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
@@ -344,16 +364,68 @@
           "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
         },
         {
-          "name": "Yael",
-          "url": "https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz"
+          "name": "ALYA",
+          "url": "https://open.spotify.com/artist/39OL7XofJjgzDzCSP3AdhB"
         }
       ],
-      "duration_ms": 148453,
-      "name": "CHANEL (feat. Yael)",
-      "url": "https://open.spotify.com/track/3YKsNSvvTQRivRjsXw6OeA"
+      "duration_ms": 154838,
+      "name": "BADDIES DNA (feat. ALYA)",
+      "url": "https://open.spotify.com/track/6rdl7WgCMPbaxdVzHD5KkF"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/2ugwR7azxnNqnVuHUBDy0w"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 161584,
+      "name": "Luana",
+      "url": "https://open.spotify.com/track/4CxXpegBmsRoBoH0BcRrvk"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "UKA MI",
+        "url": "https://open.spotify.com/album/78RZWPp36oFsfR0OIbR5iY"
+      },
+      "artists": [
+        {
+          "name": "Annet X",
+          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
+        },
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "UKA MI",
+      "url": "https://open.spotify.com/track/6rq30zIdhNNFiBEB1x5zEO"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "MONARCHIA",
         "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
@@ -373,59 +445,7 @@
       "url": "https://open.spotify.com/track/4DKOGc7GcjfTEiKE1u5VAl"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Nab\u011bhnu na Byt",
-        "url": "https://open.spotify.com/album/4AsbqYgMmsOnpYpiHdiTVI"
-      },
-      "artists": [
-        {
-          "name": "Sanchez22",
-          "url": "https://open.spotify.com/artist/4Mkunnaj0EsmtwYR1BypXO"
-        },
-        {
-          "name": "NAUME",
-          "url": "https://open.spotify.com/artist/4nN9KPvDyJUChakaoY9AXv"
-        }
-      ],
-      "duration_ms": 143090,
-      "name": "Nab\u011bhnu na Byt",
-      "url": "https://open.spotify.com/track/4ECKui3qnFOaqqSkqTbtyq"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Toxic Love",
-        "url": "https://open.spotify.com/album/2ugwR7azxnNqnVuHUBDy0w"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 161584,
-      "name": "Luana",
-      "url": "https://open.spotify.com/track/4CxXpegBmsRoBoH0BcRrvk"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "Zub za zub",
         "url": "https://open.spotify.com/album/3wbWpJrAKp2bm6RWbAVJJB"
@@ -449,27 +469,27 @@
       "url": "https://open.spotify.com/track/2CPkBjKdmuhiSInYPqIVDZ"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
-        "name": "EXIT U PALICE",
-        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
       },
       "artists": [
         {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
         },
         {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+          "name": "Yael",
+          "url": "https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz"
         }
       ],
-      "duration_ms": 170000,
-      "name": "COUP\u00c9",
-      "url": "https://open.spotify.com/track/5dKhmVbvctqme1rfkuGAJz"
+      "duration_ms": 148453,
+      "name": "CHANEL (feat. Yael)",
+      "url": "https://open.spotify.com/track/3YKsNSvvTQRivRjsXw6OeA"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "EXIT U PALICE",
         "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
@@ -501,63 +521,7 @@
       "url": "https://open.spotify.com/track/0Y3KRjSVxpIDz77eRsWbGi"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Bieber Fever Tour Life",
-        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Sofian Medjmedj",
-          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
-      "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "UKA MI",
-        "url": "https://open.spotify.com/album/78RZWPp36oFsfR0OIbR5iY"
-      },
-      "artists": [
-        {
-          "name": "Annet X",
-          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
-        },
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "UKA MI",
-      "url": "https://open.spotify.com/track/6rq30zIdhNNFiBEB1x5zEO"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
-      },
-      "artists": [
-        {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "POPCORN",
-      "url": "https://open.spotify.com/track/1Znua5xDERUTkJ0BHtjEpN"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "BRASSISLAVA",
         "url": "https://open.spotify.com/album/2S78v9QyIQkZc6tRxSRFnu"
@@ -568,12 +532,28 @@
           "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
         }
       ],
-      "duration_ms": 161351,
-      "name": "PUNO PARA PUNO PROBLEMA",
-      "url": "https://open.spotify.com/track/3PdcOtR018xmhDcVk5DtgX"
+      "duration_ms": 149302,
+      "name": "KING IS BACK",
+      "url": "https://open.spotify.com/track/7k6U4jChRFyCTjZuAm6v9L"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "BRASSISLAVA",
         "url": "https://open.spotify.com/album/2S78v9QyIQkZc6tRxSRFnu"
@@ -593,7 +573,107 @@
       "url": "https://open.spotify.com/track/4AopKkyhmaqGx8boAbdcBA"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "\u010d\u00edm v\u00edc toho m\u00e1m t\u00edm d\u00e1l od domova jsem",
+        "url": "https://open.spotify.com/album/4ZIl7dQcPnPu5z4QrWoSQD"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "\u010d\u00edm v\u00edc toho m\u00e1m t\u00edm d\u00e1l od domova jsem",
+      "url": "https://open.spotify.com/track/113Xy1rZp6F78tWsY3xnr0"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "\u010d\u00edm v\u00edc toho m\u00e1m t\u00edm d\u00e1l od domova jsem",
+        "url": "https://open.spotify.com/album/4ZIl7dQcPnPu5z4QrWoSQD"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "stavy jak ...",
+      "url": "https://open.spotify.com/track/0dMxb8RPzYrTD27d9wSoYM"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "BRASSISLAVA",
+        "url": "https://open.spotify.com/album/2S78v9QyIQkZc6tRxSRFnu"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        }
+      ],
+      "duration_ms": 161351,
+      "name": "PUNO PARA PUNO PROBLEMA",
+      "url": "https://open.spotify.com/track/3PdcOtR018xmhDcVk5DtgX"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "\u010d\u00edm v\u00edc toho m\u00e1m t\u00edm d\u00e1l od domova jsem",
+        "url": "https://open.spotify.com/album/4ZIl7dQcPnPu5z4QrWoSQD"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "lh\u00e1t s\u00e1m sob\u011b",
+      "url": "https://open.spotify.com/track/0G9WvgEvNCjn3xHVoBNn70"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "Bieber Fever Tour Life",
+        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
+      "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "POPCORN",
+      "url": "https://open.spotify.com/track/1Znua5xDERUTkJ0BHtjEpN"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "Dirty",
         "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
@@ -613,59 +693,7 @@
       "url": "https://open.spotify.com/track/4Cvax6gBelNMXAMS4zkKLF"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Shotta's.",
-        "url": "https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE"
-      },
-      "artists": [
-        {
-          "name": "Season 25",
-          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
-        }
-      ],
-      "duration_ms": 142613,
-      "name": "Shotta's.",
-      "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
-      },
-      "artists": [
-        {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
-        },
-        {
-          "name": "Dalyb",
-          "url": "https://open.spotify.com/artist/0GZP8QBchHTcjn9jFtLDtK"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "PRETTYBOY (feat. Dalyb)",
-      "url": "https://open.spotify.com/track/6B5R26VQEBXRuzoBlkgD0o"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "Dirty",
         "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
@@ -681,123 +709,7 @@
       "url": "https://open.spotify.com/track/061xkiOx3oJ6Nt3YyfQjyS"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
-      },
-      "artists": [
-        {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
-        }
-      ],
-      "duration_ms": 48901,
-      "name": "WE BACK (Intro)",
-      "url": "https://open.spotify.com/track/5ZVZmmBZ1PC3xvjf1BzjkN"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "BRASSISLAVA",
-        "url": "https://open.spotify.com/album/2S78v9QyIQkZc6tRxSRFnu"
-      },
-      "artists": [
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        }
-      ],
-      "duration_ms": 149302,
-      "name": "KING IS BACK",
-      "url": "https://open.spotify.com/track/7k6U4jChRFyCTjZuAm6v9L"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Toxic Love",
-        "url": "https://open.spotify.com/album/2ugwR7azxnNqnVuHUBDy0w"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 126614,
-      "name": "Pra\u017esk\u00fd holky",
-      "url": "https://open.spotify.com/track/3aMAB9HR14SJ3jves85YqR"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "\u010d\u00edm v\u00edc toho m\u00e1m t\u00edm d\u00e1l od domova jsem",
-        "url": "https://open.spotify.com/album/4ZIl7dQcPnPu5z4QrWoSQD"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "stavy jak ...",
-      "url": "https://open.spotify.com/track/0dMxb8RPzYrTD27d9wSoYM"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "\u010d\u00edm v\u00edc toho m\u00e1m t\u00edm d\u00e1l od domova jsem",
-        "url": "https://open.spotify.com/album/4ZIl7dQcPnPu5z4QrWoSQD"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "\u010d\u00edm v\u00edc toho m\u00e1m t\u00edm d\u00e1l od domova jsem",
-      "url": "https://open.spotify.com/track/113Xy1rZp6F78tWsY3xnr0"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "\u010d\u00edm v\u00edc toho m\u00e1m t\u00edm d\u00e1l od domova jsem",
-        "url": "https://open.spotify.com/album/4ZIl7dQcPnPu5z4QrWoSQD"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "lh\u00e1t s\u00e1m sob\u011b",
-      "url": "https://open.spotify.com/track/0G9WvgEvNCjn3xHVoBNn70"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
-      },
-      "artists": [
-        {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
-        },
-        {
-          "name": "Stevie",
-          "url": "https://open.spotify.com/artist/61GFjVORR2HsJmTZBtb6vw"
-        }
-      ],
-      "duration_ms": 154853,
-      "name": "DIRTY (feat. Stevie)",
-      "url": "https://open.spotify.com/track/4oOJfWzWjHtVJ8qmcINcLT"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "BRASSISLAVA",
         "url": "https://open.spotify.com/album/2S78v9QyIQkZc6tRxSRFnu"
@@ -821,7 +733,23 @@
       "url": "https://open.spotify.com/track/2WxEaN6jKuQGbJ32Cf3726"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/2ugwR7azxnNqnVuHUBDy0w"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 126614,
+      "name": "Pra\u017esk\u00fd holky",
+      "url": "https://open.spotify.com/track/3aMAB9HR14SJ3jves85YqR"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -837,26 +765,10 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241562,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2026-11-16 16:19:33",
-      "album": {
-        "name": "MONARCHIA",
-        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
+        "name": "FLOWDEMORT",
+        "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
       },
       "artists": [
         {
@@ -864,32 +776,52 @@
           "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
         },
         {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+          "name": "Jerry Lee",
+          "url": "https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
         }
       ],
-      "duration_ms": 162805,
-      "name": "Hovorili mi \u017ee",
-      "url": "https://open.spotify.com/track/0lZV2GBqqCK5LcL8JS2slW"
+      "duration_ms": 155520,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
-        "name": "TYPE BEAT / HIP THRUST",
-        "url": "https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ"
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
       },
       "artists": [
         {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 100377,
-      "name": "HIP THRUST",
-      "url": "https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk"
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
         "name": "Painkillers",
         "url": "https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp"
@@ -917,26 +849,46 @@
       "url": "https://open.spotify.com/track/3QCRSIRZyCM2JjR4DTiwzF"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
-        "name": "letn\u00e1 depresia",
-        "url": "https://open.spotify.com/album/7xZpAglGM1DLLj2kmRsyBV"
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7cAU42lp78pXGS6DINrYQK"
       },
       "artists": [
         {
-          "name": "Shimmi",
-          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Dalyb",
+          "url": "https://open.spotify.com/artist/0GZP8QBchHTcjn9jFtLDtK"
         }
       ],
-      "duration_ms": 195468,
-      "name": "depresia nos\u00ed \u0161aty",
-      "url": "https://open.spotify.com/track/2MYFqevfWFnrzAmdvtATZs"
+      "duration_ms": 199480,
+      "name": "PRETTYBOY (feat. Dalyb)",
+      "url": "https://open.spotify.com/track/6B5R26VQEBXRuzoBlkgD0o"
     },
     {
-      "added_at": "2026-11-16 16:19:33",
+      "added_at": "2026-11-17 16:04:12",
       "album": {
-        "name": "FLOWDEMORT",
-        "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
+        "name": "TYPE BEAT / HIP THRUST",
+        "url": "https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 100377,
+      "name": "HIP THRUST",
+      "url": "https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "MONARCHIA",
+        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
       },
       "artists": [
         {
@@ -944,17 +896,89 @@
           "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
         },
         {
-          "name": "Jerry Lee",
-          "url": "https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg"
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "duration_ms": 162805,
+      "name": "Hovorili mi \u017ee",
+      "url": "https://open.spotify.com/track/0lZV2GBqqCK5LcL8JS2slW"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
         },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "duration_ms": 145270,
+      "name": "thank you based god",
+      "url": "https://open.spotify.com/track/6xBhTofgers7RYLwzyZM7e"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "Napoleon",
+        "url": "https://open.spotify.com/album/1LCp4WcOKHWo1fZzL8LKSo"
+      },
+      "artists": [
+        {
+          "name": "Lboy Bsc",
+          "url": "https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2"
+        },
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY"
+        },
+        {
+          "name": "Freez247",
+          "url": "https://open.spotify.com/artist/0zML9ujTOJ6CtwzpX0uGCA"
+        }
+      ],
+      "duration_ms": 206817,
+      "name": "Vodka nen\u00ed voda",
+      "url": "https://open.spotify.com/track/33l3BKJazySRMviJXQVTBJ"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2026-11-17 16:04:12",
+      "album": {
+        "name": "KARAKORAM DLC",
+        "url": "https://open.spotify.com/album/119vGN06mULe4nDFonOOML"
+      },
+      "artists": [
         {
           "name": "P T K",
           "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
+      "duration_ms": 163626,
+      "name": "KENPACHI&YACHIRU",
+      "url": "https://open.spotify.com/track/6QRyVEroDCbxGnFsnEgJl5"
     }
   ],
   "unique_name": "Top 50 - Slovakia",

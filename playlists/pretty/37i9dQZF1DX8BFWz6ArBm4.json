@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Thodoris Ferris",
-  "num_followers": 45977,
+  "num_followers": 45973,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-11-12 22:00:43",
       "album": {
-        "name": "Deutera",
-        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
-      },
-      "artists": [
-        {
-          "name": "Antonis Remos",
-          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
-        }
-      ],
-      "duration_ms": 240222,
-      "name": "Deutera",
-      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
-    },
-    {
-      "added_at": "2026-11-12 22:00:43",
-      "album": {
         "name": "Xelogiastra",
         "url": "https://open.spotify.com/album/2SbWEEvoOUARNeUXNxrg6p"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 162683,
       "name": "Xelogiastra",
       "url": "https://open.spotify.com/track/3Ng9QVp2XtIWG5ZADToxqB"
+    },
+    {
+      "added_at": "2026-11-12 22:00:43",
+      "album": {
+        "name": "Deutera",
+        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
+      },
+      "artists": [
+        {
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+        }
+      ],
+      "duration_ms": 240222,
+      "name": "Deutera",
+      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
     },
     {
       "added_at": "2026-11-12 22:00:43",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-11-12 22:00:43",
       "album": {
+        "name": "Etsi Exei Mathei",
+        "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 190148,
+      "name": "Etsi Exei Mathei",
+      "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
+    },
+    {
+      "added_at": "2026-11-12 22:00:43",
+      "album": {
         "name": "Thisavros Mou",
         "url": "https://open.spotify.com/album/0GMkj4HaRdxYY6PswqSGT7"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 204342,
       "name": "Thisavros Mou",
       "url": "https://open.spotify.com/track/0x4jNAQZan8RDXDMTt0rKc"
-    },
-    {
-      "added_at": "2026-11-12 22:00:43",
-      "album": {
-        "name": "Xereis Pollous?",
-        "url": "https://open.spotify.com/album/3C4tJiogHhaozSIjne9Tsh"
-      },
-      "artists": [
-        {
-          "name": "Panos Kiamos",
-          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
-        }
-      ],
-      "duration_ms": 226987,
-      "name": "Xereis Pollous?",
-      "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"
     }
   ],
   "unique_name": "Laika tou Simera",

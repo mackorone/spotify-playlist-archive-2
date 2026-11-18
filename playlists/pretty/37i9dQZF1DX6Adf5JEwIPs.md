@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Helen Ochoa 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,521 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,463 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 74 | [Contacto Cero](https://open.spotify.com/track/50X9zq9IS3bIgZB1juoHkI) | [La Marca De Durango](https://open.spotify.com/artist/4oDBInqF57x7YHhaQ2MZIK) | [Hits Duranguenses](https://open.spotify.com/album/6yFBXeBkze1uLokZUJGMUb) | 3:12 |
 | 75 | [Financiero](https://open.spotify.com/track/3FGUDZtzoUZRASV0YKMNc9) | [Doble Cargo](https://open.spotify.com/artist/1AQ8vDXO1Jbp2auPYybQM3) | [Financiero](https://open.spotify.com/album/5NdtjfmDxKKwwCxL3wIqqH) | 2:03 |
 
-Snapshot ID: `AAAAABB9TMBngkgsuOlD0yXKx+p6vygO`
+Snapshot ID: `AAAAAF9Heg6sA3bq7xsjrQSuj6DNCde1`

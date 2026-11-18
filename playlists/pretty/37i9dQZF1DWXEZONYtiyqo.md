@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Lazy Ed
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,409 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,416 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Holy Water](https://open.spotify.com/track/5eOeBAbaYllbvLEgeGi490) | [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Holy Water](https://open.spotify.com/album/6pxi6WQPuaIlaoGVRUrmFc) | 2:55 |
 | 50 | [Nu se va mai repeta](https://open.spotify.com/track/0zIvHxLp2tmLqIX9cMNdfP) | [Amna](https://open.spotify.com/artist/4yjYHvJbZFQ7sESuV9t3uQ) | [Nu se va mai repeta](https://open.spotify.com/album/7Bltzdl6RsiHdcXt96e7DY) | 2:36 |
 
-Snapshot ID: `AAAAAA297IKVbzUewvf1rpNVGemd3Goi`
+Snapshot ID: `AAAAAEiJbUJu1ZzGDfg3279UNToomAcd`

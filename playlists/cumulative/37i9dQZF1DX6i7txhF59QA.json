@@ -17407,6 +17407,24 @@
     },
     {
       "album": {
+        "name": "Where you go",
+        "url": "https://open.spotify.com/album/3oOT55nlVKNzaqwDd1CkrY"
+      },
+      "artists": [
+        {
+          "name": "Changmin Lee",
+          "url": "https://open.spotify.com/artist/4nccw03u1XLPVaMMAysdv9"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Where you go",
+      "url": "https://open.spotify.com/track/56RMlp7jjq3wRTJI5V2r2O"
+    },
+    {
+      "album": {
         "name": "Whether it's one way or another",
         "url": "https://open.spotify.com/album/6lLphZSah5I2qmhEecSole"
       },
@@ -21590,6 +21608,24 @@
       "duration_ms": 224727,
       "name": "\ud30c\ud2b8\ub108",
       "url": "https://open.spotify.com/track/7KOjeZxrGtUvXBL3jdyyED"
+    },
+    {
+      "album": {
+        "name": "\ud314\uc790\ud0c0\ub839",
+        "url": "https://open.spotify.com/album/7yM5o2oqWlPdJLpNX8TbNI"
+      },
+      "artists": [
+        {
+          "name": "\uc2e0\uc2b9\ud0dc",
+          "url": "https://open.spotify.com/artist/4g5DiHwypY7zOrtiN8T9al"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226754,
+      "name": "\ud314\uc790\ud0c0\ub839",
+      "url": "https://open.spotify.com/track/2lxWfamOOKcFhFOZMrfpTW"
     },
     {
       "album": {

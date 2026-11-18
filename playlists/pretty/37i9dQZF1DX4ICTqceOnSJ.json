@@ -1,12 +1,12 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Leiva en portada.",
-  "num_followers": 424463,
+  "num_followers": 424366,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAxgZhZ7Q291QEthU+50ejs3+qqP",
+  "snapshot_id": "AAAAAHurCGSelXi5Pgwfr46NqDID9jqb",
   "tracks": [
     {
       "added_at": "2024-06-14 04:59:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Detroit",
-        "url": "https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT"
-      },
-      "artists": [
-        {
-          "name": "Miss Caffeina",
-          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Mira c\u00f3mo vuelo",
-      "url": "https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Estalla",
         "url": "https://open.spotify.com/album/7ffQTpHNmVmjwnU6c6Dpga"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 276893,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/4MvZ76WfNDmkVeQKmqzkah"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT"
+      },
+      "artists": [
+        {
+          "name": "Miss Caffeina",
+          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Mira c\u00f3mo vuelo",
+      "url": "https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 239644,
+      "name": "Somos Dos",
+      "url": "https://open.spotify.com/track/35u3Isd3DuXKAEC7JCC0lB"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Lucha De Gigantes",
         "url": "https://open.spotify.com/album/3qcDcfZbiPkWFXwobesAvy"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 206880,
       "name": "Lucha De Gigantes",
       "url": "https://open.spotify.com/track/1ozbWlTQASs311dSO5R6vp"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 239644,
-      "name": "Somos Dos",
-      "url": "https://open.spotify.com/track/35u3Isd3DuXKAEC7JCC0lB"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 269691,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Amador",
         "url": "https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 193840,
       "name": "Amor Sin Fin",
       "url": "https://open.spotify.com/track/5wPsMPU6dTGckf8VLW2fsg"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 269691,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rebeldes",
-        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
+        "name": "Besos en la Espalda",
+        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 325933,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/0rfngABgn6vIa6TVsubN5j"
+      "duration_ms": 166573,
+      "name": "Perdiendo la Cabeza",
+      "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Besos en la Espalda",
-        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
+        "name": "Rebeldes",
+        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
         }
       ],
-      "duration_ms": 166573,
-      "name": "Perdiendo la Cabeza",
-      "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
+      "duration_ms": 325933,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/0rfngABgn6vIa6TVsubN5j"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rebeldes",
-        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/38Xz07BlYVyCD24sKMZLwt"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 187824,
       "name": "Extranjero",
       "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Rebeldes",
+        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/38Xz07BlYVyCD24sKMZLwt"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Por su Atenci\u00f3n, Gracias",
+        "url": "https://open.spotify.com/album/25mt05Oju0dvQc0M0DXCvS"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Reina Japonesa",
+      "url": "https://open.spotify.com/track/0E47pBZ2vm2NkEDKONAIuo"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Best Seller",
         "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Por su Atenci\u00f3n, Gracias",
-        "url": "https://open.spotify.com/album/25mt05Oju0dvQc0M0DXCvS"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Reina Japonesa",
-      "url": "https://open.spotify.com/track/0E47pBZ2vm2NkEDKONAIuo"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Pol\u00edtico",
         "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 226742,
       "name": "M\u00e9xico",
       "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Rebeldes",
-        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Como puedes vivir contigo mismo",
-      "url": "https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 186000,
       "name": "Si Me Voy",
       "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Rebeldes",
+        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Como puedes vivir contigo mismo",
+      "url": "https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "El Micr\u00f3fono",
-      "url": "https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "LA FORMA DE TUS HUESOS",
         "url": "https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 212323,
       "name": "LA FORMA DE TUS HUESOS",
       "url": "https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "El Micr\u00f3fono",
+      "url": "https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Muchacha",
-        "url": "https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH"
-      },
-      "artists": [
-        {
-          "name": "Los Romanticos de Zacatecas",
-          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Muchacha",
-      "url": "https://open.spotify.com/track/2AAyhPcURpf7LqoqsiKZ1N"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Qu\u00e9 Vida Tan Dura",
         "url": "https://open.spotify.com/album/0ypPJ3XxslrGMZE6qX1AQG"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 203796,
       "name": "Qu\u00e9 Vida Tan Dura",
       "url": "https://open.spotify.com/track/6G64bXQenyGECXByr6V0jC"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Muchacha",
+        "url": "https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH"
+      },
+      "artists": [
+        {
+          "name": "Los Romanticos de Zacatecas",
+          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Muchacha",
+      "url": "https://open.spotify.com/track/2AAyhPcURpf7LqoqsiKZ1N"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
+      },
+      "artists": [
+        {
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 188660,
+      "name": "Me Conecto (feat. Jorge Drexler)",
+      "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Todas las Flores de Enero",
         "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 134888,
       "name": "Todas las Flores de Enero",
       "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 268280,
-      "name": "Adelante",
-      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1391,22 +1391,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
       "artists": [
         {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         },
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 188660,
-      "name": "Me Conecto (feat. Jorge Drexler)",
-      "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
+      "duration_ms": 268280,
+      "name": "Adelante",
+      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rey Pila",
-        "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
+        "name": "Teoria Espacial",
+        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
       },
       "artists": [
         {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 205346,
-      "name": "No Longer Fun",
-      "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
+      "duration_ms": 230833,
+      "name": "Teoria Espacial",
+      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Teoria Espacial",
-        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
+        "name": "Rey Pila",
+        "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
       },
       "artists": [
         {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
         }
       ],
-      "duration_ms": 230833,
-      "name": "Teoria Espacial",
-      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
+      "duration_ms": 205346,
+      "name": "No Longer Fun",
+      "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "O Marineros",
-        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Cae la Noche",
-      "url": "https://open.spotify.com/track/201whRJolw8g2KGGJaMa75"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Franco (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 204888,
       "name": "El Destino",
       "url": "https://open.spotify.com/track/7deEXsuLC8Teu0MHiwr3V0"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "O Marineros",
+        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Cae la Noche",
+      "url": "https://open.spotify.com/track/201whRJolw8g2KGGJaMa75"
     },
     {
       "added_at": "2024-06-14 04:59:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Bunga Citra Lestari
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,452 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,458 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 99 | [Pintu Hati](https://open.spotify.com/track/67I41J09p9pAnjHVtgOpjt) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Terkunci Di Kamu](https://open.spotify.com/album/62v7qZ9JSdGYLl6NWNkL41) | 3:26 |
 | 100 | [dear pisces girlies…](https://open.spotify.com/track/1WcmgwbdOxaozMuSMJzhdm) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [The Love Cycle](https://open.spotify.com/album/3lGn8BRwD8pTxQ63cmOpqn) | 3:14 |
 
-Snapshot ID: `AAAAAKoOYXhf4Nce8OxYmpkIUBJDIIop`
+Snapshot ID: `AAAAAFyAy+m3UWuvudaPH9z6YRxvzWIm`

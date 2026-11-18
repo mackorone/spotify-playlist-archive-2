@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,942 likes - 80 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,953 likes - 80 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 65 | [Good God](https://open.spotify.com/track/2dBSHcsj2hLjUXs7XC0L3b) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Good God](https://open.spotify.com/album/5eZaaV8aS4B1whJNQGxrCi) | 9:45 |
 | 66 | [This Kind Love](https://open.spotify.com/track/6UapcI8lcu4dINFvlhjzEq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [This Kind Love](https://open.spotify.com/album/0prCNqfLXKPZO8tlpuSXxc) | 2:45 |
 | 67 | [I CAN NOT BE STRANDED](https://open.spotify.com/track/1Bht3V5sKOb11mUdSX8KEl) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [I CAN NOT BE STRANDED](https://open.spotify.com/album/0jmOfuQSTrgrwKhlEn8C1a) | 8:25 |
-| 68 | [Walk On Water \- Live](https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Walk On Water \(Live\)](https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW) | 8:58 |
-| 69 | [NEVER BOW TO BAAL](https://open.spotify.com/track/4bL7qOqEwsqhQsDZzah3Yd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [NEVER BOW TO BAAL](https://open.spotify.com/album/35OUrFXfiL2PvgTnYTaS1H) | 8:58 |
+| 68 | [NEVER BOW TO BAAL](https://open.spotify.com/track/4bL7qOqEwsqhQsDZzah3Yd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [NEVER BOW TO BAAL](https://open.spotify.com/album/35OUrFXfiL2PvgTnYTaS1H) | 8:58 |
+| 69 | [Walk On Water \- Live](https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Walk On Water \(Live\)](https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW) | 8:58 |
 | 70 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
 | 71 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 |
 | 72 | [Ogbon Mi O Gbe](https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Aanu Ni](https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET) | 4:18 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 75 | [Spontaneous Worship 1 \- Live](https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [Heal Our Land \(Live\)](https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC) | 7:41 |
 | 76 | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw) | 4:39 |
 | 77 | [Want to Grow](https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Want to Grow](https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo) | 3:09 |
-| 78 | [freefall](https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [pilgrim](https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV) | 3:41 |
-| 79 | [This Year \- Remix](https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [This Year \(Remix\)](https://open.spotify.com/album/4eGZHqU1iRAhe3gtowOLHX) | 2:42 |
+| 78 | [This Year \- Remix](https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [This Year \(Remix\)](https://open.spotify.com/album/4eGZHqU1iRAhe3gtowOLHX) | 2:42 |
+| 79 | [freefall](https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [pilgrim](https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV) | 3:41 |
 | 80 | [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 |
 
-Snapshot ID: `AAAAAKeqeP/yhZWpjVngR3mEvvOUwFdR`
+Snapshot ID: `AAAAAO338SijJYQvfGq7vh4cQLsUw2K8`

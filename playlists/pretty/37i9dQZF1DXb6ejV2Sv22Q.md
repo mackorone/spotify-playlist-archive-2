@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  Ervin River en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,053 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,039 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 48 | [BARBIE](https://open.spotify.com/track/3JmqKgkmWzwfM8W600UCIy) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [rodrii](https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi), [Hillkidd](https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk) | [BARBIE](https://open.spotify.com/album/3TinbkrnP1G8QTZvD67PLz) | 3:27 |
 | 49 | [me olvidarás \(como lo haces ya\)](https://open.spotify.com/track/4yxdGAEtZSDh1mggFiBXZ3) | [incluso si nunca despiertas](https://open.spotify.com/artist/1U15da7scYhZb2sdEs4sFI) | [soñé que me llevabas](https://open.spotify.com/album/4wGUWrq6AkysMLGxjvcN3c) | 2:57 |
 
-Snapshot ID: `AAAAABYyNiCYSfXk3dtx1kT9MRoETrlA`
+Snapshot ID: `AAAAAOBYbN6ZPCEUJQkLPzzmMjGWIPV5`

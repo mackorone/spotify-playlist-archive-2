@@ -1,6 +1,6 @@
 {
   "description": "Let the weights go up and the blessings come down!  Get your beast mode on!",
-  "num_followers": 348067,
+  "num_followers": 348122,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -95,26 +95,6 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "ROTATION",
-        "url": "https://open.spotify.com/album/1Wc3tjBRNMCcTuahdL5qJA"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 139405,
-      "name": "ROTATION",
-      "url": "https://open.spotify.com/track/69UjTlu9uahSExZZ4bFwOC"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
         "name": "SEVEN TRUMPETS",
         "url": "https://open.spotify.com/album/3u7jThyNYHSpzijEwahB7U"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 118518,
       "name": "NEW HEAVEN",
       "url": "https://open.spotify.com/track/0tfXcHME27daKjcHe6qtST"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
+        "name": "ROTATION",
+        "url": "https://open.spotify.com/album/1Wc3tjBRNMCcTuahdL5qJA"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 139405,
+      "name": "ROTATION",
+      "url": "https://open.spotify.com/track/69UjTlu9uahSExZZ4bFwOC"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "Big Brother (Remix)",
-        "url": "https://open.spotify.com/album/7k5oIQc1ZTtpL1Y5v03UJC"
-      },
-      "artists": [
-        {
-          "name": "EGR",
-          "url": "https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 187912,
-      "name": "Big Brother - Remix",
-      "url": "https://open.spotify.com/track/2EVJ3XFbgJUYpr6EHGuDaG"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
         "name": "On The Move",
         "url": "https://open.spotify.com/album/3Z560AcJBJdBmI7WZ75kz1"
       },
@@ -599,6 +579,22 @@
       "duration_ms": 170123,
       "name": "Pray",
       "url": "https://open.spotify.com/track/4GPwZy4FAsSNLQygwXyCh2"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
+        "name": "SEEK",
+        "url": "https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp"
+      },
+      "artists": [
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "SEEK",
+      "url": "https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -639,6 +635,26 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
+        "name": "Big Brother (Remix)",
+        "url": "https://open.spotify.com/album/7k5oIQc1ZTtpL1Y5v03UJC"
+      },
+      "artists": [
+        {
+          "name": "EGR",
+          "url": "https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 187912,
+      "name": "Big Brother - Remix",
+      "url": "https://open.spotify.com/track/2EVJ3XFbgJUYpr6EHGuDaG"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
         "name": "THAT'S GOD",
         "url": "https://open.spotify.com/album/3iB1QfQLWeVjcC9BAOZT90"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 214042,
       "name": "THAT'S GOD",
       "url": "https://open.spotify.com/track/1dhmpK7hQvaXVinvSEqES6"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
-        "name": "SEEK",
-        "url": "https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp"
-      },
-      "artists": [
-        {
-          "name": "DC3",
-          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "SEEK",
-      "url": "https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
+        "name": "Never Look Back",
+        "url": "https://open.spotify.com/album/0KLNtn469NfqtzbLYVJM4y"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Never Look Back",
+      "url": "https://open.spotify.com/track/5J4B12yqhbRCTbQTdZYw73"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
         "name": "Lemon",
         "url": "https://open.spotify.com/album/68NOwnYrKKslcPUgKIHoTP"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 243428,
       "name": "Lemon",
       "url": "https://open.spotify.com/track/7K4gCXiX6xOSrKGjbZExCS"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
-        "name": "Never Look Back",
-        "url": "https://open.spotify.com/album/0KLNtn469NfqtzbLYVJM4y"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Never Look Back",
-      "url": "https://open.spotify.com/track/5J4B12yqhbRCTbQTdZYw73"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "CONTAGIOUS",
-        "url": "https://open.spotify.com/album/2CSHie0AwgLENxL03AoPtF"
-      },
-      "artists": [
-        {
-          "name": "Anike",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 151909,
-      "name": "CONTAGIOUS",
-      "url": "https://open.spotify.com/track/3R7VE3XT5UKbvppwN1jKqp"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
         "name": "NOBODY BUT GOD (feat. Jon Keith)",
         "url": "https://open.spotify.com/album/73L8hD7WvFt2wqzvbxvyh5"
       },
@@ -979,22 +963,18 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "Shimmy",
-        "url": "https://open.spotify.com/album/4yiQhfolPp44fwsyGwjmp1"
+        "name": "CONTAGIOUS",
+        "url": "https://open.spotify.com/album/2CSHie0AwgLENxL03AoPtF"
       },
       "artists": [
         {
-          "name": "Jackie Hill Perry",
-          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
-        },
-        {
-          "name": "Aha Gazelle",
-          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
         }
       ],
-      "duration_ms": 137730,
-      "name": "Shimmy",
-      "url": "https://open.spotify.com/track/5ECkP5KIA63zexKSTc5819"
+      "duration_ms": 151909,
+      "name": "CONTAGIOUS",
+      "url": "https://open.spotify.com/track/3R7VE3XT5UKbvppwN1jKqp"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -1015,22 +995,22 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "Take a Picture",
-        "url": "https://open.spotify.com/album/2eqfqAxqlRk48k7YcycrgJ"
+        "name": "Shimmy",
+        "url": "https://open.spotify.com/album/4yiQhfolPp44fwsyGwjmp1"
       },
       "artists": [
         {
-          "name": "Bryson Gray",
-          "url": "https://open.spotify.com/artist/66pGC6EHiiLr7Ce6twM5bk"
+          "name": "Jackie Hill Perry",
+          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
         },
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
         }
       ],
-      "duration_ms": 126192,
-      "name": "Take a Picture",
-      "url": "https://open.spotify.com/track/0o57cGKGPKgbtTiMe6o287"
+      "duration_ms": 137730,
+      "name": "Shimmy",
+      "url": "https://open.spotify.com/track/5ECkP5KIA63zexKSTc5819"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -1047,6 +1027,26 @@
       "duration_ms": 214764,
       "name": "Fight Music",
       "url": "https://open.spotify.com/track/0XQmO1ludvM8vNve6jzuRx"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
+        "name": "Take a Picture",
+        "url": "https://open.spotify.com/album/2eqfqAxqlRk48k7YcycrgJ"
+      },
+      "artists": [
+        {
+          "name": "Bryson Gray",
+          "url": "https://open.spotify.com/artist/66pGC6EHiiLr7Ce6twM5bk"
+        },
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 126192,
+      "name": "Take a Picture",
+      "url": "https://open.spotify.com/track/0o57cGKGPKgbtTiMe6o287"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
+        "name": "STILL GOIN",
+        "url": "https://open.spotify.com/album/5ah6bfI4yfMugLJOcUNEsS"
+      },
+      "artists": [
+        {
+          "name": "Tommy Zuko",
+          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
+        }
+      ],
+      "duration_ms": 114585,
+      "name": "STILL GOIN",
+      "url": "https://open.spotify.com/track/3h1aNKATk3OfEWQdvB9X4i"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
         "name": "MAN ABOVE",
         "url": "https://open.spotify.com/album/2cJP4CkasNZFijvuoTLIAo"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 188986,
       "name": "MAN ABOVE",
       "url": "https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
-        "name": "STILL GOIN",
-        "url": "https://open.spotify.com/album/5ah6bfI4yfMugLJOcUNEsS"
-      },
-      "artists": [
-        {
-          "name": "Tommy Zuko",
-          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
-        }
-      ],
-      "duration_ms": 114585,
-      "name": "STILL GOIN",
-      "url": "https://open.spotify.com/track/3h1aNKATk3OfEWQdvB9X4i"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -1535,34 +1535,6 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "LORD JESUS",
-        "url": "https://open.spotify.com/album/49xq5t53YZm4bKkPqaQ9B7"
-      },
-      "artists": [
-        {
-          "name": "Trendsetter Sense",
-          "url": "https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "Young Dro",
-          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
-        },
-        {
-          "name": "Zaytoven",
-          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
-        }
-      ],
-      "duration_ms": 162082,
-      "name": "LORD JESUS",
-      "url": "https://open.spotify.com/track/3fhJOOW5qVGpdUWbogQZOx"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
         "name": "For What Its Worth",
         "url": "https://open.spotify.com/album/6mr0BGnwHXNPV2mcqSmW79"
       },
@@ -1639,18 +1611,30 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "Amen Amen",
-        "url": "https://open.spotify.com/album/0ELnCcoUX4FnsnjOlyHudY"
+        "name": "LORD JESUS",
+        "url": "https://open.spotify.com/album/49xq5t53YZm4bKkPqaQ9B7"
       },
       "artists": [
         {
-          "name": "Issac Mansfield",
-          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
+          "name": "Trendsetter Sense",
+          "url": "https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
         }
       ],
-      "duration_ms": 143551,
-      "name": "Amen Amen",
-      "url": "https://open.spotify.com/track/3hteYohtuxQNFHc4A2gXgA"
+      "duration_ms": 162082,
+      "name": "LORD JESUS",
+      "url": "https://open.spotify.com/track/3fhJOOW5qVGpdUWbogQZOx"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -1667,6 +1651,22 @@
       "duration_ms": 165053,
       "name": "who gon' say sum?",
       "url": "https://open.spotify.com/track/7aZD9uSprAgmwJS7tAVYcM"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
+        "name": "Amen Amen",
+        "url": "https://open.spotify.com/album/0ELnCcoUX4FnsnjOlyHudY"
+      },
+      "artists": [
+        {
+          "name": "Issac Mansfield",
+          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
+        }
+      ],
+      "duration_ms": 143551,
+      "name": "Amen Amen",
+      "url": "https://open.spotify.com/track/3hteYohtuxQNFHc4A2gXgA"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
+        "name": "Never Scared",
+        "url": "https://open.spotify.com/album/4hTuJr93JUjuX0hGvRBnLk"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 131925,
+      "name": "Never Scared",
+      "url": "https://open.spotify.com/track/0VeXWs5RjJf6WvOU9BEK0m"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
         "name": "ALLRIGHTYTHEN",
         "url": "https://open.spotify.com/album/4fM8UYFTF8cT00UfNQCr3F"
       },
@@ -1791,34 +1807,18 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "4 SUCH A TIME AS THIS",
-        "url": "https://open.spotify.com/album/7wEgKzItFRcG8fZCjB6eEN"
+        "name": "Gotta Tell Somebody",
+        "url": "https://open.spotify.com/album/7oQcqGM0utW9oIy4uEJNt9"
       },
       "artists": [
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 147200,
-      "name": "GATEKEEP!",
-      "url": "https://open.spotify.com/track/5ykktDXJ9xWDMTBfok7FYh"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
-        "name": "Never Scared",
-        "url": "https://open.spotify.com/album/4hTuJr93JUjuX0hGvRBnLk"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 131925,
-      "name": "Never Scared",
-      "url": "https://open.spotify.com/track/0VeXWs5RjJf6WvOU9BEK0m"
+      "duration_ms": 142144,
+      "name": "Gotta Tell Somebody",
+      "url": "https://open.spotify.com/track/02cMuUDsAIyywK22jz1M1L"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -1847,42 +1847,18 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "Gotta Tell Somebody",
-        "url": "https://open.spotify.com/album/7oQcqGM0utW9oIy4uEJNt9"
+        "name": "4 SUCH A TIME AS THIS",
+        "url": "https://open.spotify.com/album/7wEgKzItFRcG8fZCjB6eEN"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 142144,
-      "name": "Gotta Tell Somebody",
-      "url": "https://open.spotify.com/track/02cMuUDsAIyywK22jz1M1L"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
-        "name": "CHUMS!, Vol. 1",
-        "url": "https://open.spotify.com/album/2FLgAHtpLNkRUPdjyZDWls"
-      },
-      "artists": [
-        {
-          "name": "DEON",
-          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        },
-        {
-          "name": "CHUMS!",
-          "url": "https://open.spotify.com/artist/6LHNfQlWwV6i5AE33vtudx"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Higher Than",
-      "url": "https://open.spotify.com/track/5Elb2gTXYwBP6QbA18k3kV"
+      "duration_ms": 147200,
+      "name": "GATEKEEP!",
+      "url": "https://open.spotify.com/track/5ykktDXJ9xWDMTBfok7FYh"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -1931,26 +1907,6 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "He Did It",
-        "url": "https://open.spotify.com/album/4CiIwyMjh4kqP97DqFfbfT"
-      },
-      "artists": [
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
-        },
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        }
-      ],
-      "duration_ms": 157323,
-      "name": "He Did It",
-      "url": "https://open.spotify.com/track/1ZcHAmuAnQV85tGMlpHqfZ"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
         "name": "BIG GOD",
         "url": "https://open.spotify.com/album/4A1YXRtCDqZ3ZXrfmdnewk"
       },
@@ -1971,18 +1927,46 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "GO!",
-        "url": "https://open.spotify.com/album/4YoYxVsh1IMQv7jGVbXy81"
+        "name": "He Did It",
+        "url": "https://open.spotify.com/album/4CiIwyMjh4kqP97DqFfbfT"
       },
       "artists": [
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
         }
       ],
-      "duration_ms": 120750,
-      "name": "GO!",
-      "url": "https://open.spotify.com/track/17AWvqVloFAEVZ4veNQ3No"
+      "duration_ms": 157323,
+      "name": "He Did It",
+      "url": "https://open.spotify.com/track/1ZcHAmuAnQV85tGMlpHqfZ"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
+        "name": "CHUMS!, Vol. 1",
+        "url": "https://open.spotify.com/album/2FLgAHtpLNkRUPdjyZDWls"
+      },
+      "artists": [
+        {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        },
+        {
+          "name": "CHUMS!",
+          "url": "https://open.spotify.com/artist/6LHNfQlWwV6i5AE33vtudx"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Higher Than",
+      "url": "https://open.spotify.com/track/5Elb2gTXYwBP6QbA18k3kV"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -2023,6 +2007,22 @@
       "duration_ms": 160000,
       "name": "ALL THE WAY",
       "url": "https://open.spotify.com/track/1ytyset1pHGYGH1xA0zfw5"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/4YoYxVsh1IMQv7jGVbXy81"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 120750,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/17AWvqVloFAEVZ4veNQ3No"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -2083,22 +2083,26 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "Put In Work",
-        "url": "https://open.spotify.com/album/14cR0VONpHLfohI4WJJC0l"
+        "name": "Theme Music",
+        "url": "https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr"
       },
       "artists": [
         {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
         },
         {
-          "name": "Don Ready",
-          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        },
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
         }
       ],
-      "duration_ms": 128911,
-      "name": "Put In Work",
-      "url": "https://open.spotify.com/track/3MH8gfffyoRSnfDgRWQp0B"
+      "duration_ms": 187272,
+      "name": "Theme Music",
+      "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -2127,26 +2131,6 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "Be You",
-        "url": "https://open.spotify.com/album/7dCiZK464VeeFyvwM8PPLF"
-      },
-      "artists": [
-        {
-          "name": "Jered Sanders",
-          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
-        },
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 149834,
-      "name": "Be You",
-      "url": "https://open.spotify.com/track/1pvxPngs4SjpFZKxjVjNjD"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
         "name": "Fifth Hour Fire",
         "url": "https://open.spotify.com/album/7HG2JYQuaQKBfXC6Rq8uOW"
       },
@@ -2171,26 +2155,62 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "Theme Music",
-        "url": "https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr"
+        "name": "Be You",
+        "url": "https://open.spotify.com/album/7dCiZK464VeeFyvwM8PPLF"
       },
       "artists": [
         {
+          "name": "Jered Sanders",
+          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
+        },
+        {
           "name": "Derek Minor",
           "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        },
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
         }
       ],
-      "duration_ms": 187272,
-      "name": "Theme Music",
-      "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
+      "duration_ms": 149834,
+      "name": "Be You",
+      "url": "https://open.spotify.com/track/1pvxPngs4SjpFZKxjVjNjD"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
+        "name": "Lingo",
+        "url": "https://open.spotify.com/album/6AU75ydBlyMdcyarDVJjfu"
+      },
+      "artists": [
+        {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Lingo",
+      "url": "https://open.spotify.com/track/5TIbBRcXEDgA9GPjCbZDsn"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
+        "name": "Put In Work",
+        "url": "https://open.spotify.com/album/14cR0VONpHLfohI4WJJC0l"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        },
+        {
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+        }
+      ],
+      "duration_ms": 128911,
+      "name": "Put In Work",
+      "url": "https://open.spotify.com/track/3MH8gfffyoRSnfDgRWQp0B"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -2215,26 +2235,6 @@
       "duration_ms": 145714,
       "name": "AUTOMATIC! (with 808 BEEZY & Deraj)",
       "url": "https://open.spotify.com/track/6X1OGo63etHGZXhlC2HzHH"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
-        "name": "Lingo",
-        "url": "https://open.spotify.com/album/6AU75ydBlyMdcyarDVJjfu"
-      },
-      "artists": [
-        {
-          "name": "DEON",
-          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Lingo",
-      "url": "https://open.spotify.com/track/5TIbBRcXEDgA9GPjCbZDsn"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "CHRIST OR CASH",
-        "url": "https://open.spotify.com/album/4pLjaVPSJw6gIKAYWlWnWD"
-      },
-      "artists": [
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 140665,
-      "name": "CHRIST OR CASH",
-      "url": "https://open.spotify.com/track/6h4coXubVJYIYFTBTwCuIE"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
         "name": "N.L.L.Y",
         "url": "https://open.spotify.com/album/0yNYzNavsai2Rj0p0Y9R3e"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 144246,
       "name": "N.L.L.Y",
       "url": "https://open.spotify.com/track/6GkSuVt98hzriYQgyyUSeB"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
+        "name": "CHRIST OR CASH",
+        "url": "https://open.spotify.com/album/4pLjaVPSJw6gIKAYWlWnWD"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 140665,
+      "name": "CHRIST OR CASH",
+      "url": "https://open.spotify.com/track/6h4coXubVJYIYFTBTwCuIE"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -2359,26 +2359,6 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/47A2NYUmjD9qRnO48VgNxN"
-      },
-      "artists": [
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        },
-        {
-          "name": "Ots J Huncho",
-          "url": "https://open.spotify.com/artist/3t0reSevrtrvnbSccbMo7l"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "2003",
-      "url": "https://open.spotify.com/track/2kQhnUGXjDIpG6yCn5Rzll"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
         "name": "All I Know",
         "url": "https://open.spotify.com/album/14eykHDaFeBFXoDL2jGGOF"
       },
@@ -2403,6 +2383,26 @@
       "duration_ms": 254208,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/4Co9e2c6Bv1nLkKZQKIIqX"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/47A2NYUmjD9qRnO48VgNxN"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        },
+        {
+          "name": "Ots J Huncho",
+          "url": "https://open.spotify.com/artist/3t0reSevrtrvnbSccbMo7l"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/2kQhnUGXjDIpG6yCn5Rzll"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "STILL 30 FOR 30",
-        "url": "https://open.spotify.com/album/1MGBcYBqeB26bvY5GPnmma"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 134250,
-      "name": "STILL 30 FOR 30",
-      "url": "https://open.spotify.com/track/2BdoZ2JJPGKmBaECewlQ6q"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
         "name": "Better Than Ever",
         "url": "https://open.spotify.com/album/52EH30kItcnw4akreSxoFF"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 155169,
       "name": "Better Than Ever",
       "url": "https://open.spotify.com/track/6BEOAVWbGPGvKOAZNdBcnu"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
+        "name": "STILL 30 FOR 30",
+        "url": "https://open.spotify.com/album/1MGBcYBqeB26bvY5GPnmma"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 134250,
+      "name": "STILL 30 FOR 30",
+      "url": "https://open.spotify.com/track/2BdoZ2JJPGKmBaECewlQ6q"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -2631,6 +2631,22 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
+        "name": "BETTER OFF DEAD",
+        "url": "https://open.spotify.com/album/4Gf9ThUN6OQ7qHcaFltDzL"
+      },
+      "artists": [
+        {
+          "name": "Gavin the HotRod",
+          "url": "https://open.spotify.com/artist/4PRtvcfM2vKDdLFAyGUMP7"
+        }
+      ],
+      "duration_ms": 162173,
+      "name": "BETTER OFF DEAD",
+      "url": "https://open.spotify.com/track/3GgMooO88BQca11ciZy1tU"
+    },
+    {
+      "added_at": "2026-11-06 05:01:42",
+      "album": {
         "name": "LISTO",
         "url": "https://open.spotify.com/album/2isc9Druj3R4w2Dk437J2A"
       },
@@ -2651,22 +2667,6 @@
       "duration_ms": 128317,
       "name": "LISTO",
       "url": "https://open.spotify.com/track/3qp37r8N268kFYdaYT3NC4"
-    },
-    {
-      "added_at": "2026-11-06 05:01:42",
-      "album": {
-        "name": "BETTER OFF DEAD",
-        "url": "https://open.spotify.com/album/4Gf9ThUN6OQ7qHcaFltDzL"
-      },
-      "artists": [
-        {
-          "name": "Gavin the HotRod",
-          "url": "https://open.spotify.com/artist/4PRtvcfM2vKDdLFAyGUMP7"
-        }
-      ],
-      "duration_ms": 162173,
-      "name": "BETTER OFF DEAD",
-      "url": "https://open.spotify.com/track/3GgMooO88BQca11ciZy1tU"
     },
     {
       "added_at": "2026-11-06 05:01:42",
@@ -2855,18 +2855,26 @@
     {
       "added_at": "2026-11-06 05:01:42",
       "album": {
-        "name": "BOOM!",
-        "url": "https://open.spotify.com/album/4t7qgQ1Q84zF9VILKYp017"
+        "name": "ONE FOR THE BOOKS",
+        "url": "https://open.spotify.com/album/5pLcpsNy4lO3NzkfC05yZc"
       },
       "artists": [
         {
-          "name": "Errol Allen",
-          "url": "https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc"
+          "name": "KRL",
+          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
+        },
+        {
+          "name": "Kieran the Light",
+          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+        },
+        {
+          "name": "K Diamond",
+          "url": "https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL"
         }
       ],
-      "duration_ms": 138795,
-      "name": "BOOM!",
-      "url": "https://open.spotify.com/track/7aip3a5tzvuRuS0MhdCOoF"
+      "duration_ms": 169241,
+      "name": "ONE FOR THE BOOKS",
+      "url": "https://open.spotify.com/track/1TS5vlAFPB7Bd70DOOEUTw"
     }
   ],
   "unique_name": "Beast Mode Christian",

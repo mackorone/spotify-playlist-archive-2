@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,721 songs - 15 day 16 hr 13 min
+6,723 songs - 15 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2025-05-07 | 2025-12-19 |
 | [Back to Black](https://open.spotify.com/track/1K9sxWCWj6nFJvTqlwBB4O) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Back to Black](https://open.spotify.com/album/2gfPfNPf86A3OBSctCbfP9) | 2:30 | 2025-05-28 | 2025-06-14 |
 | [Back to Life](https://open.spotify.com/track/5Tpqbk3UoaedBF8Z8hNfsq) | [Hilary Roberts](https://open.spotify.com/artist/24YMDJn7c34S76v0pDlgkw) | [Hilary Roberts](https://open.spotify.com/album/0KPyLj972hoeZyrUJaWrg2) | 3:16 | 2024-02-04 | 2024-02-16 |
-| [Back to the Country](https://open.spotify.com/track/3Y9booTNB3UsndGTJmajwo) | [Catt McCreary](https://open.spotify.com/artist/3kazNNxWucsWpONl39pc8H) | [Back to the Country \(Side A\)](https://open.spotify.com/album/40eDIXf0rY1S960Bf87Dvz) | 2:49 | 2026-11-05 |  |
+| [Back to the Country](https://open.spotify.com/track/3Y9booTNB3UsndGTJmajwo) | [Catt McCreary](https://open.spotify.com/artist/3kazNNxWucsWpONl39pc8H) | [Back to the Country \(Side A\)](https://open.spotify.com/album/40eDIXf0rY1S960Bf87Dvz) | 2:49 | 2026-11-05 | 2026-11-18 |
 | [Back to U](https://open.spotify.com/track/6Dc4wwe3oM62tJV2UOfuay) | [Cameron Sage From](https://open.spotify.com/artist/5708zIMPEnIoEELZNNX6h7) | [Back to U](https://open.spotify.com/album/1HxygMphg2XS1bMv6j2AO7) | 3:15 | 2024-07-27 | 2024-08-08 |
 | [Back to You](https://open.spotify.com/track/4AvX6L0bKiHsyn2idojP9L) | [OH DETROIT](https://open.spotify.com/artist/38ixkgrMcC8pKV0GxpolTR), [Holly Petrie](https://open.spotify.com/artist/1D8JLcZZlONOEL5QY8FZ1r), [Aaron Sokell](https://open.spotify.com/artist/48lqiHffqeGdUbZ8c4h2ym) | [Back to You](https://open.spotify.com/album/2bWhSiFRj9AE9KnHD3QAQ7) | 3:36 | 2020-09-08 | 2020-09-22 |
 | [Back To You](https://open.spotify.com/track/0FhkCNueW9luZor6Fld58p) | [Sophia Wells](https://open.spotify.com/artist/0CqZRjHvwgJ9RhQwPrfsap) | [Back To You](https://open.spotify.com/album/621XvwpJl561ZbXo6J0Nzj) | 4:07 | 2025-10-29 | 2025-12-09 |
@@ -1684,7 +1684,7 @@
 | [Dust](https://open.spotify.com/track/7a6ZDpiGCOxxXcXcVYxlqJ) | [VERNON](https://open.spotify.com/artist/2LQYjlv8o1KXP84v1ovvKt) | [Nuclear](https://open.spotify.com/album/28zV75B0gwQV0YGfBEptOZ) | 2:47 | 2023-05-12 | 2023-05-30 |
 | [dying w/ u](https://open.spotify.com/track/7DfSYgpup6BEEJTQYLcS18) | [Tiger He](https://open.spotify.com/artist/2JIoMLPsl62Hoo3px8mhlH), [Lava Hong](https://open.spotify.com/artist/6yDrbCYEt6ICpuW4Uc9YZu) | [DRAGON & dream](https://open.spotify.com/album/6tfu1SBOCQ0ZXxSkwTZbsM) | 3:39 | 2024-10-05 | 2024-10-17 |
 | [dylm??](https://open.spotify.com/track/1RulU3ZoVfTSxVvC3gfP7T) | [Caylea](https://open.spotify.com/artist/7rFRcnh52T0pnVJ4e4JMWT) | [dylm?](https://open.spotify.com/album/7vDpOxSi1AnhOIJcZdoSui) | 3:13 | 2026-07-18 | 2026-07-30 |
-| [Déjala](https://open.spotify.com/track/09ybqo2HOs4LOgj2vrnWZ8) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9), [Lilo Sanchez](https://open.spotify.com/artist/1ohlrNR8M2EuGToe0qxt6y) | [Déjala](https://open.spotify.com/album/4Qfnd4CB4kqVXjeSaj1rTy) | 2:57 | 2026-11-05 |  |
+| [Déjala](https://open.spotify.com/track/09ybqo2HOs4LOgj2vrnWZ8) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9), [Lilo Sanchez](https://open.spotify.com/artist/1ohlrNR8M2EuGToe0qxt6y) | [Déjala](https://open.spotify.com/album/4Qfnd4CB4kqVXjeSaj1rTy) | 2:57 | 2026-11-05 | 2026-11-18 |
 | [Détente](https://open.spotify.com/track/0oE3bWVSNOwuksUeJ53Low) | [Claydee](https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP) | [Détente](https://open.spotify.com/album/0zlMPSiBz0y5OvsoiAvUvK) | 2:22 | 2021-06-19 | 2021-07-04 |
 | [Dímelo](https://open.spotify.com/track/5XaeXPEowDsbZVDrzTxypM) | [Carla Llosa](https://open.spotify.com/artist/2XyIaRLqIjXTBXIy6jYI0u) | [Dímelo](https://open.spotify.com/album/3coY3uUiGKSk5S94XgIchd) | 2:34 | 2024-02-26 | 2024-03-09 |
 | [Dónde Estás?](https://open.spotify.com/track/4XnOUP9FmtTXmIyiFMDlyP) | [Stefany](https://open.spotify.com/artist/6bfhI8OUv54wrI4BgmjPAU) | [Dónde Estás?](https://open.spotify.com/album/4CNX8XHCfwNwYFo1qL509R) | 2:22 | 2024-09-13 | 2024-10-11 |
@@ -3249,6 +3249,7 @@
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-05-05 | 2024-04-21 |
 | [Leave The Light On For Me](https://open.spotify.com/track/4GArRiXhTAxHQwnwODbeCe) | [Benni Frank](https://open.spotify.com/artist/2bRS7FSjDc0BgnMMiDDVka) | [Leave The Light On For Me](https://open.spotify.com/album/7o7VJItgEcigXJEyfkMhsx) | 3:47 | 2024-08-03 | 2024-08-15 |
 | [Leave You for Him](https://open.spotify.com/track/1mKvgJO7a6t65Vp7TEfleR) | [Stammer](https://open.spotify.com/artist/6B4uHdkPlccm08zyHC4Msh) | [Leave You for Him](https://open.spotify.com/album/156P9i1NV3uZarWH5tfPAg) | 4:18 | 2024-10-11 | 2024-10-23 |
+| [Leave You Keh](https://open.spotify.com/track/7bQTj0Rq3NU1Yg5YH4utYu) | [Joechriz](https://open.spotify.com/artist/7xDqHe77Cg5LqHH0UufDET) | [Leave You Keh](https://open.spotify.com/album/4eg77Wj5uCClisZ6zr2qmb) | 2:37 | 2026-11-18 |  |
 | [Leaving Our Lives](https://open.spotify.com/track/7nESKCOZY6jTGsEgDCv9sf) | [Mynd Reader](https://open.spotify.com/artist/2976jTq74lJjk558IAKu2r) | [Leaving Our Lives](https://open.spotify.com/album/5apLPewZus1LvQPpNlfHtT) | 3:02 | 2026-06-23 | 2026-09-02 |
 | [Leaving You Behind](https://open.spotify.com/track/7CfK1TWQuswEfNrVtEXHon) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Leaving You Behind](https://open.spotify.com/album/2Dhukmgz4dcRS4YACHaYLm) | 3:05 | 2026-02-26 | 2026-04-04 |
 | [Ledge](https://open.spotify.com/track/13TgcF9QZiUsK8ofSJIUis) | [Jony Shelby](https://open.spotify.com/artist/7yJZUrIFXjKIfJ2pvR8PGE) | [Ledge](https://open.spotify.com/album/35Yhb9cghf6cORBoaA9cel) | 3:51 | 2024-11-15 | 2024-12-02 |
@@ -6407,6 +6408,7 @@
 | [What You Cryin' For?](https://open.spotify.com/track/2cl1C4FuzCTDZcn8cuNObJ) | [Alex Luke](https://open.spotify.com/artist/4i1e1iWe97VpGJFwbzF9m7) | [What You Cryin' For?](https://open.spotify.com/album/6d8jawxRFsU9m6ogjwD7SH) | 3:14 | 2023-09-22 | 2024-05-17 |
 | [What You Feel](https://open.spotify.com/track/5cir1CnYke01nC6wcacPfO) | [Thierry Riviere](https://open.spotify.com/artist/4KLZvHiQeOXcsTlOUwLJZJ), [Bertrand Riviere](https://open.spotify.com/artist/0SVxZfXNbZz0oUfdn6b5MM) | [What You Feel](https://open.spotify.com/album/7l0RZsTVXnFG3wscELM8ZX) | 2:37 | 2023-12-31 | 2024-01-19 |
 | [What You Need](https://open.spotify.com/track/5hZMRif9diTeQ1jKr8Gus9) | [Vita Schmidt](https://open.spotify.com/artist/7bkrFxOcOZFC5fw0VpbGEz) | [What You Need](https://open.spotify.com/album/0cq1F6Rr5z016UzQ6ZOwUX) | 3:49 | 2019-12-01 | 2019-12-11 |
+| [What You Say](https://open.spotify.com/track/1j5ujGZL4GcH5Yva5y3lUR) | [Crazy Mary](https://open.spotify.com/artist/19WLicxrTnELYJovZowewT) | [Peace Grooves](https://open.spotify.com/album/6zGuSBbaGOCeY0eJbfRSQN) | 3:47 | 2026-11-17 |  |
 | [What's a Little Snow?](https://open.spotify.com/track/1oKh6OZhIm7oWt7WemTYYt) | [CavTheMusician](https://open.spotify.com/artist/1leimZIjQmdQBLxAO649Eg) | [What's a Little Snow?](https://open.spotify.com/album/4m9g6ifQSNfpL7v0Yghf16) | 3:33 | 2024-11-29 | 2024-12-11 |
 | [what's love?](https://open.spotify.com/track/2Y68RuPNowLbODCK44AfX3) | [Sara Ángel](https://open.spotify.com/artist/40tZQwPyGofl3rJLQKMmna) | [what's love?](https://open.spotify.com/album/1jP2ujTgdJPbJh4X64gOGt) | 3:47 | 2025-06-06 | 2025-06-18 |
 | [What's On Your Mind](https://open.spotify.com/track/0FVb71Ze5hVobgJ5k7m3L9) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Walk You Home](https://open.spotify.com/album/0sCekvrb4MfLtKBv8Cjr9V) | 2:29 | 2024-07-02 | 2024-07-14 |

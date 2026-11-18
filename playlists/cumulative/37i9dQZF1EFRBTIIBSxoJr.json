@@ -1321,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Holiday Honky Tonk",
+        "url": "https://open.spotify.com/album/1mAEbpz2c2c39y1gD3i11d"
+      },
+      "artists": [
+        {
+          "name": "Kinsley",
+          "url": "https://open.spotify.com/artist/7I1gwssPVIVURZ2EaBt2hU"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167450,
+      "name": "Holiday Honky Tonk",
+      "url": "https://open.spotify.com/track/4T38YuftrkVsVIL9TF79ct"
+    },
+    {
+      "album": {
         "name": "Matters of the Heart",
         "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
       },
@@ -2232,6 +2250,28 @@
       "duration_ms": 217693,
       "name": "Only a Woman",
       "url": "https://open.spotify.com/track/3Q4Lm3uuQco5pWXefzfEJ6"
+    },
+    {
+      "album": {
+        "name": "REVELATIONS",
+        "url": "https://open.spotify.com/album/0GIMc0FfEfEEwnao2B3Bgo"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "Ordinary Love (feat. Bow Anderson)",
+      "url": "https://open.spotify.com/track/0jtKN2vGj45HS2r49IxVPJ"
     },
     {
       "album": {

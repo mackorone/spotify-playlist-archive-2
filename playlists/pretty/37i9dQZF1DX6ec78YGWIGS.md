@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Yami Safdie
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,021 likes - 103 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,006 likes - 103 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 102 | [instinto luv](https://open.spotify.com/track/7u9AVp9Rp59wK4uSasDfFW) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [instinto luv](https://open.spotify.com/album/34VJbIFLLD53ROqni5UYbG) | 2:12 |
 | 103 | [ONE & ONLY](https://open.spotify.com/track/3uz28qAds8sPM1D966pzyE) | [Lei B](https://open.spotify.com/artist/7ENibarVYEjVWB6SNKQUhm) | [ONE & ONLY](https://open.spotify.com/album/5FYdnJwOux0YrhB7ntU83C) | 2:09 |
 
-Snapshot ID: `AAAAAIkFZ10snMG6dQQFOaD/2iB0bNRW`
+Snapshot ID: `AAAAAKwZhB1cTvlICxGOs6GadBpZ1MRa`

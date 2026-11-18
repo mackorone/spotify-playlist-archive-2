@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 628 songs - 1 day 14 hr 5 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 631 songs - 1 day 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -636,5 +636,8 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 626 | [Ochenta Veinte](https://open.spotify.com/track/3YQdsZ4SudtJpSBPqDegVd) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 4:14 |
 | 627 | [Long Walk Home](https://open.spotify.com/track/0THpAKif54ZY03WA93YQHe) | [Colider](https://open.spotify.com/artist/69s9BHfKknFYjpRwml8BAf) | [Long Walk Home](https://open.spotify.com/album/0axMqYmSod8cxl64QQoBHE) | 3:38 |
 | 628 | [Cold Little Feelings](https://open.spotify.com/track/2Nc5TocmZjZU4RwnfUEauE) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Cold Little Feelings](https://open.spotify.com/album/484muB9x6pL29ETmDnYXXL) | 4:05 |
+| 629 | [Non sono la tua bambola](https://open.spotify.com/track/3MigGr0K9NsWp9v9SBN3nQ) | [Klaudia DG](https://open.spotify.com/artist/0WyWixivFk2XT2nn8WTJRZ) | [Non sono la tua bambola](https://open.spotify.com/album/2MLgasDNDJyWMghnTaTwPk) | 2:43 |
+| 630 | [Carne de escenario](https://open.spotify.com/track/22rfs5GyNX9gU3TepMrnbZ) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll \(EP\)](https://open.spotify.com/album/2J7JqF5ceI5PvTMz8JYqJ3) | 2:58 |
+| 631 | [Peço pra Chover](https://open.spotify.com/track/5ACQIZYeHktPw6Ku3ADuxq) | [Extremo](https://open.spotify.com/artist/74gWV17FGVbKqX4lpBHoOH) | [Peço pra Chover](https://open.spotify.com/album/7LAwKYI0oovD6uiO4O2z5X) | 3:45 |
 
-Snapshot ID: `AAADCnUyfdwKqJmrDFtr86qhfMW6/zS6`
+Snapshot ID: `AAADDS+PvcHHlhYe41SqB8GGldHTLuei`

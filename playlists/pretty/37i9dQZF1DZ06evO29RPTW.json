@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 137856,
+  "num_followers": 137866,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAAARAcXU4OOzxO6SOCvz9S72",
+  "snapshot_id": "avpHgAAAAAAD5IcgIdcegsL67ewT5TLa",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hellbilly Deluxe 2 (Special Edition)",
+        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "Werewolf, Baby!",
+      "url": "https://open.spotify.com/track/7fv6wqJX3Mnu7z1dj7i0Ca"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Halloween Hootenanny",
         "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 170066,
       "name": "Halloween (She's So Mean)",
       "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hellbilly Deluxe 2 (Special Edition)",
-        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "Werewolf, Baby!",
-      "url": "https://open.spotify.com/track/7fv6wqJX3Mnu7z1dj7i0Ca"
     }
   ],
   "unique_name": "This Is Rob Zombie",

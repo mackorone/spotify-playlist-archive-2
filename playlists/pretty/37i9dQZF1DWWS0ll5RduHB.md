@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,247 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,245 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 21 | [I Love a Rainbow](https://open.spotify.com/track/3bblDd2pNGaTSWGOT6lf3y) | [Ms\. Rachel](https://open.spotify.com/artist/2VHUurTrOGljxENj3zk5Ep), [Mr\. Aron](https://open.spotify.com/artist/2vwgMqrI18rBthEJADjf5z) | [I Love a Rainbow](https://open.spotify.com/album/4ndX4Oc55aMO7u6EWRH6zJ) | 2:09 |
 | 22 | [Casual Crime](https://open.spotify.com/track/52Ww5RZpJuDWttqnIBeGr3) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Casual Crime](https://open.spotify.com/album/35q3NeLzH7VRKep6AtGFY1) | 2:35 |
 | 23 | [cosas malas de mí](https://open.spotify.com/track/1dNnMJZhKPnrYrS3Y3lJfT) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [cosas malas de mí](https://open.spotify.com/album/2HLUGJszUAkOt4aFiQf1EW) | 2:59 |
-| 24 | [Smartest Person in the Room](https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Sleeping Lion](https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE) | 3:22 |
-| 25 | [Chain Reaction](https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Kismet](https://open.spotify.com/album/1GeE95CLSgFa5r3I5a7Q50) | 3:26 |
+| 24 | [Chain Reaction](https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Kismet](https://open.spotify.com/album/1GeE95CLSgFa5r3I5a7Q50) | 3:26 |
+| 25 | [Smartest Person in the Room](https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Sleeping Lion](https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE) | 3:22 |
 | 26 | [Lucky, Forever](https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Pursuit of Anything](https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c) | 4:24 |
 | 27 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 |
 | 28 | [close to you](https://open.spotify.com/track/62EGzcAgn5m00LbligcAMY) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [close to you](https://open.spotify.com/album/11tfftWLFm6rPm63YlgfrD) | 3:31 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 37 | [Who Do You Love \(feat\. The Milk Carton Kids\)](https://open.spotify.com/track/0CkRBKSBFHVsktNbT1qz2M) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Little Miss Twain \- The Places I'll Go](https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6) | 2:59 |
 | 38 | [\(no\) te quiero perder \- BY BERSHKA MUSIC](https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(no\) te quiero perder \[BY BERSHKA MUSIC\]](https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E) | 2:21 |
 | 39 | [Big Strong Man](https://open.spotify.com/track/0dIqX63wlCNs47iwUOq0G3) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Big Strong Man](https://open.spotify.com/album/2KLdQb39rhE54nb7Razscv) | 3:49 |
-| 40 | [2 Hands](https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [2 Hands](https://open.spotify.com/album/1W8dfBIAzmCLLctGK7V64l) | 3:52 |
-| 41 | [Waiting For You](https://open.spotify.com/track/5U1UoeR6Dh0BwzoRtcXhvc) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV), [ApMontyy](https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E) | [Waiting For You](https://open.spotify.com/album/56iFNpX7kiX5Gv3jPVHpwi) | 3:49 |
+| 40 | [Waiting For You](https://open.spotify.com/track/5U1UoeR6Dh0BwzoRtcXhvc) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV), [ApMontyy](https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E) | [Waiting For You](https://open.spotify.com/album/56iFNpX7kiX5Gv3jPVHpwi) | 3:49 |
+| 41 | [2 Hands](https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [2 Hands](https://open.spotify.com/album/1W8dfBIAzmCLLctGK7V64l) | 3:52 |
 | 42 | [BRUJA](https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [BRUJA](https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH) | 2:51 |
 | 43 | [I Roll My Eyes](https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [I Roll My Eyes](https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG) | 2:51 |
 | 44 | [I kinda wanna ask you out](https://open.spotify.com/track/3BzrCJ28G6TWzfV5e1pixo) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Think twice](https://open.spotify.com/album/2oNKfbEXCZIPIAIBX5xO6T) | 2:05 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 47 | [Still a body](https://open.spotify.com/track/5tv0vXUn1l1zjc1mgwmmKh) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [What the Body Remembers](https://open.spotify.com/album/6BVhF8p2cVM0X8f1K7mbHb) | 4:14 |
 | 48 | [Someday](https://open.spotify.com/track/5L8rxFzRbcFshJ0e8pmAIB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Someday](https://open.spotify.com/album/6eVxuJTo3x3Fa9BmsPMMEt) | 3:02 |
 | 49 | [summer of ’16](https://open.spotify.com/track/48xY7Jn018AjLntqEaQCJB) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Mr\. Peaked In High School](https://open.spotify.com/album/26cfMohVrXKMfKZcbARmTw) | 3:30 |
-| 50 | [TRUE](https://open.spotify.com/track/0xe1kqJplc011rKzGysPhZ) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [TRUE](https://open.spotify.com/album/3xPrTjrdBynNgZkOZlcUXK) | 3:34 |
+| 50 | [The World Keeps Spinning](https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [The World Keeps Spinning](https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo) | 2:15 |
 
-Snapshot ID: `AAAAAN+O0cIWl6RmFchHOuWX0g5IWY47`
+Snapshot ID: `AAAAAA/lEchpIwwm7vWhTBb6iGA2VMQo`

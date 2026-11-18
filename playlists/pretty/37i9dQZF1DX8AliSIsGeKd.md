@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Marcel Dettmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,161 likes - 90 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,203 likes - 90 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 22 | [The Beach](https://open.spotify.com/track/7wr96hi4baHi8wazkZG9lV) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [The Beach](https://open.spotify.com/album/3AHUNDtT9orcc6p3SRX6kw) | 4:02 |
 | 23 | [Wunder](https://open.spotify.com/track/1ENTc09UmTHK2COIc9pzHq) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Wunder](https://open.spotify.com/album/2eqOExKL3XztNgncGLyYw7) | 4:23 |
 | 24 | [2026 Girls](https://open.spotify.com/track/1RNhur7TI1mZsOMJFvJcFr) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [2026 Girls EP](https://open.spotify.com/album/4eWHyguicNjBmsvxBLvWrN) | 3:50 |
-| 25 | [Endless](https://open.spotify.com/track/2YuPUhXV8pEjCOEUbCXj1N) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Endless / Purge](https://open.spotify.com/album/0JeUjQ3it2kp7kajrYpuwM) | 6:17 |
+| 25 | [Endless](https://open.spotify.com/track/2YuPUhXV8pEjCOEUbCXj1N) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Endless / Purge](https://open.spotify.com/album/0JeUjQ3it2kp7kajrYpuwM) | 8:08 |
 | 26 | [The Light](https://open.spotify.com/track/74frtL99Og8UzQVcnXMBx9) | [HIGHLITE](https://open.spotify.com/artist/5JLz9lhEIydGByUE1BZ5Bl), [ZENØN](https://open.spotify.com/artist/3Vwi9mIz2MNJGMk1XvNHug) | [The Light](https://open.spotify.com/album/3d6muKQuSWop44OWEf3hpi) | 2:34 |
 | 27 | [On Standby](https://open.spotify.com/track/6PkYIvvYY4eAYb9PmJZEUa) | [Atric](https://open.spotify.com/artist/5JGnzT3iv4izDNPbH8cUj3) | [On Standby](https://open.spotify.com/album/1WCJVtAIPWQUm5B7dsK2ia) | 3:46 |
 | 28 | [Your Teeth In My Neck](https://open.spotify.com/track/5Ow8PghFGIEvRVb7kSGw3D) | [Benjamin Fröhlich](https://open.spotify.com/artist/3FT44aaqR7vqBzvXCZPjn1) | [Twisted Roots](https://open.spotify.com/album/33Ecxy6KkhDMTurLTsK5jL) | 6:01 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Sunsan](https://open.spotify.com/track/2FS3uawpvINxEEgKzBHq7t) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Casa Cobra](https://open.spotify.com/album/7M2knKjiUfKnwNV6X0mFIU) | 9:03 |
 | 90 | [Only You](https://open.spotify.com/track/4oYmnoYUQ0Q970F6pCkPbP) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V), [Theon Bower](https://open.spotify.com/artist/45FiG9FmVUViZtiGnYgN8M) | [Only You](https://open.spotify.com/album/24QdAvqCr9X2ZbpsR1MQ7B) | 3:45 |
 
-Snapshot ID: `AAAAAPqkQ8DSYuyudDH4IyDTWf9RxEK9`
+Snapshot ID: `AAAAADbFumHNLtZnaaKBsm0PoBBaz7M5`

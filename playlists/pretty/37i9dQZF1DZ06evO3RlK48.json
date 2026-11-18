@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 18819,
+  "num_followers": 18829,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAAC7V6FcEc6m4bTOSxQUo7z+",
+  "snapshot_id": "avpHgAAAAABPtBSl0oRK2v99db6GWROA",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 223317,
-      "name": "Runner\u2019s High",
-      "url": "https://open.spotify.com/track/0h0A93X0cOihhnuOv6EPtF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 255507,
       "name": "Crying On The Bathroom Floor",
       "url": "https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 223317,
+      "name": "Runner\u2019s High",
+      "url": "https://open.spotify.com/track/0h0A93X0cOihhnuOv6EPtF"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Way",
-        "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 200772,
-      "name": "In My Way",
-      "url": "https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 210052,
       "name": "Loudspeaker",
       "url": "https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Way",
+        "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 200772,
+      "name": "In My Way",
+      "url": "https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tegan and Sara Present the Con X: Covers",
-        "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Relief Next to Me",
-      "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 297045,
       "name": "Winterbreak",
       "url": "https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tegan and Sara Present the Con X: Covers",
+        "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Relief Next to Me",
+      "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 237020,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GAY (MUNA Remix)",
         "url": "https://open.spotify.com/album/2OOI5aONzBGkcGusEIQKE3"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 179466,
       "name": "GAY - MUNA Remix",
       "url": "https://open.spotify.com/track/6LCLR74dsJsjSEWeajW5sO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 237020,
-      "name": "So Special",
-      "url": "https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF"
     },
     {
       "added_at": null,

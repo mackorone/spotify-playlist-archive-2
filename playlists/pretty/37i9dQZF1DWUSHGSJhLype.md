@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Zé Felipe, Felipe Amorim
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,143 likes - 63 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,176 likes - 63 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 32 | [Na Imaginação](https://open.spotify.com/track/1sWx8hqMdjT3Gc7F9BSbUY) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP) | [Na Imaginação](https://open.spotify.com/album/6AXA2rbQCaAJfCcqgYPHcE) | 1:54 |
 | 33 | [Última Noite \- Solo](https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08), [Acertei](https://open.spotify.com/artist/1zzQeAzbxN9ctihMrpTo3H) | [Última Noite \(Solo\)](https://open.spotify.com/album/1kvxwru59TxOAvrRUIPTG5) | 2:34 |
 | 34 | [Pela Última Vez \- Ao Vivo](https://open.spotify.com/track/4bxyHku6rNffRealVxu30p) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Pela Última Vez \(Ao Vivo\)](https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV) | 2:42 |
-| 35 | [Não Era Eu no Bolão](https://open.spotify.com/track/1pCCxV7HyOl9Ef9TmCYmlc) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [Raul Vaqueiro](https://open.spotify.com/artist/5ttAiBm0FqmIYIML2i8hHd) | [Não Era Eu no Bolão](https://open.spotify.com/album/4JJ5FvvX0H4369iQQZFe9f) | 2:26 |
-| 36 | [GOSTOSIN](https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ensaios Da Anitta](https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39) | 2:09 |
+| 35 | [GOSTOSIN](https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ensaios Da Anitta](https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39) | 2:09 |
+| 36 | [Não Era Eu no Bolão](https://open.spotify.com/track/1pCCxV7HyOl9Ef9TmCYmlc) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [Raul Vaqueiro](https://open.spotify.com/artist/5ttAiBm0FqmIYIML2i8hHd) | [Não Era Eu no Bolão](https://open.spotify.com/album/4JJ5FvvX0H4369iQQZFe9f) | 2:26 |
 | 37 | [Sign Of The Times \- Arrocha](https://open.spotify.com/track/5lEwqFPxb3tfbFLJjD2szM) | [Íkaro Mendes](https://open.spotify.com/artist/1wwKPlc0xyhK6Z0gEITJpO) | [Sign Of The Times](https://open.spotify.com/album/6Yy19mVk13f6IvtHLx1TSB) | 2:47 |
 | 38 | [QUANDO VOCÊ SE FOI CHOREI \(SORRI, SOU REI\)](https://open.spotify.com/track/4YQ37NPJlIUMFo8Kq51heS) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Ryuchi](https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU) | [QUANDO VOCÊ SE FOI CHOREI \(SORRI, SOU REI\)](https://open.spotify.com/album/0fCdf2W6IcPdWaFceqJMLo) | 2:56 |
 | 39 | [Tarde Demais / Mágica / Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6ES4FEVuh4Fpj67wrFF8VC) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/3BWsyPjsCct9aqTtuu09dS) | 4:26 |

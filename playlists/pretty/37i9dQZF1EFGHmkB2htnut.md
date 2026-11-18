@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 63 | [Buy A Round](https://open.spotify.com/track/7lvADxBCa2EMfsK3B0kuZd) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Buy A Round](https://open.spotify.com/album/0OjtOOVcpqJSySkEmsOlFK) | 3:01 |
 | 64 | [knowing you exist](https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:24 |
 | 65 | [graveyard shift](https://open.spotify.com/track/32GhlLgrx9mXXKHf2ltF7U) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 2:27 |
-| 66 | [Murder the Man](https://open.spotify.com/track/7M3mwAYlJXBRrgF77zYTDm) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Journal No.1](https://open.spotify.com/album/2k0fcWU7mY3UiZ9BrNqBAU) | 2:39 |
-| 67 | [ARE YOU HAVING FUN, ALEX?](https://open.spotify.com/track/5U0A00hCV85tCnencZkC0b) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 1:26 |
+| 66 | [ARE YOU HAVING FUN, ALEX?](https://open.spotify.com/track/5U0A00hCV85tCnencZkC0b) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 1:26 |
+| 67 | [Murder the Man](https://open.spotify.com/track/7M3mwAYlJXBRrgF77zYTDm) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Journal No.1](https://open.spotify.com/album/2k0fcWU7mY3UiZ9BrNqBAU) | 2:39 |
 | 68 | [How To Lose A Friend](https://open.spotify.com/track/4hBK4mj2SRoiJKXGfCR0TQ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things](https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe) | 3:25 |
 | 69 | [How the Fire Started](https://open.spotify.com/track/6ohGXCcax7CMky1EKTv5p7) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Confessions of a Lonely Heart](https://open.spotify.com/album/5WkPO28CXngFj8ET2d6pyj) | 2:55 |
 | 70 | [Die On The Dancefloor](https://open.spotify.com/track/5cGCTK7q37dgISC1IYQuS1) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Near Life Experience Part Two](https://open.spotify.com/album/4PQpAZ3UZSuXNDElPQtMNg) | 3:21 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 146 | [Father Figures](https://open.spotify.com/track/1hWSPugygFE4ydR12fNOb0) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/5qb2qACHP6yi0GLmonfeyj) | 3:46 |
 | 147 | [To Love Someone](https://open.spotify.com/track/2WWnc0Se0UN0N8RsGBS7cK) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Benson Boone](https://open.spotify.com/album/5Hgy9M8q0lKpablA8mV9JU) | 3:28 |
 
-Snapshot ID: `Ach3bgAAAABtOjIP23SBNOMdOIF1FFlD`
+Snapshot ID: `Ach80gAAAABnvqZqhkk5W8PdEH697uuu`

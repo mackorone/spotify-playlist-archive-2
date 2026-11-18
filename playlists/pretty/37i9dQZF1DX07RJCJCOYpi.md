@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: KAROL G, John Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,721,974 likes - 105 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,721,518 likes - 105 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 104 | [/Tramadol](https://open.spotify.com/track/4YPkc6Jb9Oh0SIylROVNOa) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 2:05 |
 | 105 | [bebe](https://open.spotify.com/track/73YCfe06Hq68MmS5GFIf0m) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX) | [bebe](https://open.spotify.com/album/5TMjQ1nkCdafJ2KXxSLOKj) | 2:24 |
 
-Snapshot ID: `AAAAAJy8YBk+wBWAQRVYSCXFV4rz0Gxz`
+Snapshot ID: `AAAAAHSgM75nggMQdkXZ3T6khBbB6aAJ`

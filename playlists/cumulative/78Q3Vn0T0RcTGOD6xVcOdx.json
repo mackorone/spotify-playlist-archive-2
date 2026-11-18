@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "Clean Lead",
+        "url": "https://open.spotify.com/album/4PP7j2VfZwT5Pwh5l4UVBW"
+      },
+      "artists": [
+        {
+          "name": "Daniel Joseph Chiasson",
+          "url": "https://open.spotify.com/artist/75rcoZN43VsmGiFeqewZnK"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Clean Lead",
+      "url": "https://open.spotify.com/track/1ryD9G6qt5KWPcdhGGS691"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/5PsKk740Cm62xWkJoWrnE6"
       },

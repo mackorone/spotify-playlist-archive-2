@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TrSaB.md) - [plain]
 | 28 | [Welcome Home](https://open.spotify.com/track/4d6v0CvPR7lnsE5P4djMYj) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Remember Me: The Mahalia Jackson Story \(Original Soundtrack\)](https://open.spotify.com/album/69SalyGJ7nBvOrex2NJTWN) | 2:06 |
 | 29 | [Insane \(Jai'Len's Interlude\)](https://open.spotify.com/track/1moNXhbgdlIicUqGFpeCRS) | [Josh Waters](https://open.spotify.com/artist/5jKjSpkbKc8CgNdrB4WEhZ), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [BLISS](https://open.spotify.com/album/6nYuXUkFQTxkTZ1WT9kbz5) | 5:09 |
 
-Snapshot ID: `avj2AAAAAAAZo5ChjKHXim7nZTkPuATY`
+Snapshot ID: `avpHgAAAAAD10jjvuvXGM/gG+aHFVEhl`

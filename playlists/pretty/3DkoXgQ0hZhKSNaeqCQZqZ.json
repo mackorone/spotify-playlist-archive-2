@@ -1,13 +1,33 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1263,
+  "num_followers": 1264,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAGJJifM66RFf/6XWFn4gZa2YAuE11B",
+  "snapshot_id": "AAAGJ7yilkO/8YQB3tgBkULfVOyZfptU",
   "tracks": [
+    {
+      "added_at": "2026-11-17 10:36:13",
+      "album": {
+        "name": "WOLFGIRL PRINCESS ANGEL",
+        "url": "https://open.spotify.com/album/55uKBBMBmDE0cbYuKkpvgM"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        },
+        {
+          "name": "Can of Bliss",
+          "url": "https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "ASHITAKA'S CURSE",
+      "url": "https://open.spotify.com/track/4GBN4QvZN14xbOYpI29VS8"
+    },
     {
       "added_at": "2026-11-15 05:53:22",
       "album": {
@@ -5427,22 +5447,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "idaidaida II",
-        "url": "https://open.spotify.com/album/653nMZvSNpCmCkjqb5k7tM"
-      },
-      "artists": [
-        {
-          "name": "Ida Deerz",
-          "url": "https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO"
-        }
-      ],
-      "duration_ms": 346018,
-      "name": "changes",
-      "url": "https://open.spotify.com/track/6Uupikwilql6TppeZPKZql"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "Always Hated",
         "url": "https://open.spotify.com/album/1UY6s7nnSEBXgyuwRrJOq2"
       },
@@ -6719,26 +6723,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "ONLY US, NEVER THEM",
-        "url": "https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY"
-      },
-      "artists": [
-        {
-          "name": "Jaylaflame",
-          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
-        },
-        {
-          "name": "h i d a m a",
-          "url": "https://open.spotify.com/artist/5sRXq9w0O0h6EkuyYSMo2v"
-        }
-      ],
-      "duration_ms": 205732,
-      "name": "talk my shit",
-      "url": "https://open.spotify.com/track/1jpTjjQdD3lDxHhyd3BqXw"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "ALL BITE NO BARK!",
         "url": "https://open.spotify.com/album/3ceTSOBLg0uUYR5J9kNats"
       },
@@ -7174,6 +7158,10 @@
         {
           "name": "When Snakes Sing",
           "url": "https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ"
+        },
+        {
+          "name": "JohnieCanine",
+          "url": "https://open.spotify.com/artist/7aGboTX3PPIk0lm1UpN9aS"
         }
       ],
       "duration_ms": 242482,

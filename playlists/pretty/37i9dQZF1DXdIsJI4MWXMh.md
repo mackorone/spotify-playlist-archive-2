@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,299 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,318 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 22 | [Mix Peregrinos del Amor 2026: Colorín Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Quédate](https://open.spotify.com/track/45bjfClZfLUFd7sLzfYAD6) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Mix Peregrinos del Amor 2026: Colorín Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Quédate](https://open.spotify.com/album/2l9Gi5qbMenU2Fj0hPNsdp) | 6:15 |
 | 23 | [Bonita](https://open.spotify.com/track/2iRkJXUqorBOvYCdmOWI1J) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Bonita](https://open.spotify.com/album/56MEOEdo5TBKqXqhRwONW7) | 3:05 |
 | 24 | [Dime Quién Es](https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w) | [Líderes de Chile](https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Escribiendo Nuestra Historia](https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb) | 5:37 |
-| 25 | [La Ultima Granada](https://open.spotify.com/track/5pxqqimSThgFxpLJywZ5WU) | [Benja Duarte](https://open.spotify.com/artist/6wKWDl7Gh8rKyDWk7O1P1t) | [La Ultima Granada](https://open.spotify.com/album/2EHRSifbFayruTaspm9lRf) | 3:06 |
-| 26 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/2CdxmSPq2YLHWemapVnw7j) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/album/0LtVrgVbR0Q9SP2Zj1Bx8z) | 3:39 |
+| 25 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/2CdxmSPq2YLHWemapVnw7j) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/album/0LtVrgVbR0Q9SP2Zj1Bx8z) | 3:39 |
+| 26 | [La Ultima Granada](https://open.spotify.com/track/5pxqqimSThgFxpLJywZ5WU) | [Benja Duarte](https://open.spotify.com/artist/6wKWDl7Gh8rKyDWk7O1P1t) | [La Ultima Granada](https://open.spotify.com/album/2EHRSifbFayruTaspm9lRf) | 3:06 |
 | 27 | [Se Olvidó](https://open.spotify.com/track/6OPiaQPgi2Sj5gNibn5fY9) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [Se Olvidó](https://open.spotify.com/album/75PFbJlFjdsTvNddapPTZD) | 3:23 |
 | 28 | [Dos Monedas](https://open.spotify.com/track/6N1ykx2KOySjEXcVgrZ42J) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [De Padre Desconocido](https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW) | 4:42 |
 | 29 | [YO TE CUIDARÉ](https://open.spotify.com/track/1pfWuXWCfa8r6BQwBN4iit) | [Ignacio Ormazábal](https://open.spotify.com/artist/1ON2OvVHfEwUM9KZg3N0oT), [Alanys Lagos](https://open.spotify.com/artist/7zYKWRlWkeaKjRLAeEsJzS) | [AMORES DE CAMPO 2](https://open.spotify.com/album/5xxTZuXauHpsomQvneYw9n) | 3:38 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 50 | [La Noche Perfecta](https://open.spotify.com/track/3FZnUqmNQNYUH4wvrcCfZT) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Noche Perfecta](https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K) | 4:25 |
 | 51 | [La Suegra](https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [La Fiesta de Koky](https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd) | 3:24 |
 | 52 | [Ahora por unas monedas](https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ) | [Sin Rivales de Punitaqui](https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL) | [Quédate con el](https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy) | 5:28 |
-| 53 | [Golpes y Besos](https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT) | [Los Principes del Norte](https://open.spotify.com/artist/1iob7ma3J3xLV2disvGcjG), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Grandes Éxitos](https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I) | 3:55 |
-| 54 | [La Carta N°3 \- 1986 Digital Remaster](https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Carta N° 3](https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3) | 3:01 |
+| 53 | [La Carta N°3 \- 1986 Digital Remaster](https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Carta N° 3](https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3) | 3:01 |
+| 54 | [Golpes y Besos](https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT) | [Los Principes del Norte](https://open.spotify.com/artist/1iob7ma3J3xLV2disvGcjG), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Grandes Éxitos](https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I) | 3:55 |
 | 55 | [La Bella y la Bestia](https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1) | [Los Rancheros de Quilleco](https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx) | [La Bella y la Bestia](https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe) | 3:49 |
 | 56 | [Amor Traicionero](https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Amor Traicionero](https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei) | 4:16 |
 | 57 | [Vuelvo a las Cantinas](https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 99 | [Amor Salvaje](https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U), [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Amor Salvaje](https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4) | 5:07 |
 | 100 | [Soy Adicto a Ti](https://open.spotify.com/track/559VSAiv3rFTDrmkfv7nQd) | [LOS HUASOS DEL SUR](https://open.spotify.com/artist/4HA64bodqMjAmWg1Eud5yq), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Soy Adicto a Ti](https://open.spotify.com/album/4tbMDw4jqlV2ENzdLz7Hid) | 4:22 |
 
-Snapshot ID: `AAAAAFTiwXS7yDnxB1B27dCksAuPC4Gv`
+Snapshot ID: `AAAAAKusxfTNlqKN3xp5qDocXjeAN1nk`

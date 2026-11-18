@@ -4,7 +4,7 @@
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: Jang Minho \(장민호\)\)<br/>Let's party with cheerful Korean trot medley.
 
-1,124 songs - 2 day 16 hr 19 min
+1,126 songs - 2 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -899,6 +899,7 @@
 | [When The Flowers Bloom And The Birds Cry](https://open.spotify.com/track/0JhrK2xULBPn1b72AawxjJ) | [조명섭](https://open.spotify.com/artist/1pC2zaWEUKiTmizWEgHKE4) | [When The Flowers Bloom And The Birds Cry](https://open.spotify.com/album/58P90sSwrMVjjvayaHxIYG) | 3:17 | 2022-04-07 | 2022-07-16 |
 | [When The Season Comes](https://open.spotify.com/track/4EBDUb6YqJGSSzVWA83O0Q) | [조명섭](https://open.spotify.com/artist/1pC2zaWEUKiTmizWEgHKE4) | [2nd Single Zinnia](https://open.spotify.com/album/7KusjDrUqT5Y3YrXYWT0SO) | 2:43 | 2022-04-22 |  |
 | [Where is love?](https://open.spotify.com/track/7MKVDqgNYdfoa5QaJPJUFY) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Music source of Mr.Trot LEGEND MISSION BEST](https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO) | 4:05 | 2022-04-22 | 2022-07-16 |
+| [Where you go](https://open.spotify.com/track/56RMlp7jjq3wRTJI5V2r2O) | [Changmin Lee](https://open.spotify.com/artist/4nccw03u1XLPVaMMAysdv9) | [Where you go](https://open.spotify.com/album/3oOT55nlVKNzaqwDd1CkrY) | 3:55 | 2026-11-17 |  |
 | [Whether it's one way or another](https://open.spotify.com/track/7eY5qOYQOO9EfkR5iZIK6Y) | [Chu Hyuk Jin](https://open.spotify.com/artist/5tti8ePomOrIlKx3LPvYl9) | [Whether it's one way or another](https://open.spotify.com/album/6lLphZSah5I2qmhEecSole) | 3:14 | 2026-05-13 |  |
 | [While the Waterwheel Spins](https://open.spotify.com/track/00iES8Z2TKeQsQZUfAX92I) | [Jung Seo Joo](https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00) | [Music Source of Ms.Trot3 1:1 Rival Match BEST](https://open.spotify.com/album/0pRqzDZP4fMe4UiOW7Bqnc) | 3:30 | 2024-08-13 | 2025-03-08 |
 | [Whisky on the Rock](https://open.spotify.com/track/6JZllw3leQQZBcWGUO3W30) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Our Blues, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4iRK15nSwRjH5Isba5ohnA) | 5:07 | 2022-04-21 |  |
@@ -1116,6 +1117,7 @@
 | [태클을 걸지마](https://open.spotify.com/track/2ZE58r2vseLLeSr152ce7s) | [Jin Sung](https://open.spotify.com/artist/73Bihnu9ymiWuNTNtZLg9Z) | [트롯가왕](https://open.spotify.com/album/2GhSslxollNuNr8Q94sa4b) | 2:44 | 2022-04-21 | 2026-05-14 |
 | [테스형!](https://open.spotify.com/track/57oDPVvNldgc6setk832Ev) | [Na Hoon\-A](https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG) | [아홉 이야기](https://open.spotify.com/album/3cbESEgKDuZ1JYO1yDTvB2) | 4:38 | 2022-04-07 |  |
 | [파트너](https://open.spotify.com/track/7KOjeZxrGtUvXBL3jdyyED) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [박가빈](https://open.spotify.com/artist/2MJzSm31EecgMb9SdPhYsf) | [아무도 모르게 김호중의 파트너 Pt\. 4](https://open.spotify.com/album/1tgsVFqUFXFCcfoTogeGky) | 3:44 | 2022-04-07 | 2022-07-04 |
+| [팔자타령](https://open.spotify.com/track/2lxWfamOOKcFhFOZMrfpTW) | [신승태](https://open.spotify.com/artist/4g5DiHwypY7zOrtiN8T9al) | [팔자타령](https://open.spotify.com/album/7yM5o2oqWlPdJLpNX8TbNI) | 3:46 | 2026-11-17 |  |
 | [평행선](https://open.spotify.com/track/3uDPEYcRxNVdflXOmraU1z) | [문희옥](https://open.spotify.com/artist/0r8ZiqQdT7hMdaHbZY6a7E) | [4인의 명품가왕 베스트](https://open.spotify.com/album/5py19ysNA0ATyqDdO5aXO0) | 3:01 | 2024-09-03 |  |
 | [풍등](https://open.spotify.com/track/4LRwxYACbFQpM8cWbQVBS5) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [ONE](https://open.spotify.com/album/5SHzzLq6kYCnAqnMfgs20f) | 4:08 | 2023-02-21 | 2023-08-18 |
 | [풍등](https://open.spotify.com/track/5DsfVKZSYC8O1ETXhddjjV) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [ONE](https://open.spotify.com/album/1gerIiArAWWKeZoA5XNErG) | 4:08 | 2023-10-16 | 2026-05-14 |

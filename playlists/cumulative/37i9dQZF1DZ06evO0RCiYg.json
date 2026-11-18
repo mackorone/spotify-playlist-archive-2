@@ -331,6 +331,28 @@
     },
     {
       "album": {
+        "name": "Monkey Business (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2jCgqL6qRRF8yuQhc21qVQ"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Keith Harris",
+          "url": "https://open.spotify.com/artist/1xCzIWADhHc3qmVesDX7Gp"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226293,
+      "name": "Don't Phunk With My Heart - Chicago House Remix Version",
+      "url": "https://open.spotify.com/track/3evwGzFk7pDC5AizLL08Ai"
+    },
+    {
+      "album": {
         "name": "DON'T YOU WORRY",
         "url": "https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb"
       },
@@ -1134,7 +1156,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 250986,
       "name": "My Humps - Single Version",
       "url": "https://open.spotify.com/track/4ThCFbTzk1ghQ3zcUUswtE"

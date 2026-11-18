@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Lumï
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,919 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,911 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [WALLFLOWER](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [WALLFLOWER](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 |
 | 100 | [Mediocre Woman](https://open.spotify.com/track/6PRW3ShE1tmjy7c4ZWYFx4) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Mediocre Woman](https://open.spotify.com/album/6d5vo8xtAwHLiM0JXi2kP6) | 3:28 |
 
-Snapshot ID: `AAAAADTMn/wjEh89SrppMloT1rScZhca`
+Snapshot ID: `AAAAAG54JqSYizAukEmJo9eIixUYYlvi`

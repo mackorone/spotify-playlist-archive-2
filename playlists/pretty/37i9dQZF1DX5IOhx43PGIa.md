@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. <br/>Cover: Mei Semones
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,920 likes - 98 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,913 likes - 98 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 97 | [Girl Who Cried Wolf](https://open.spotify.com/track/5HNGDqthELv0TBWhLXuIiv) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Girl Who Cried Wolf](https://open.spotify.com/album/0YPqIZEUYb7h7y7U0v3Bf4) | 3:26 |
 | 98 | [An Unfinished Love Song](https://open.spotify.com/track/0r1JWi0OLye16Qkxx67pmB) | [Hannah Hu](https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl) | [The Veil Has Spoken](https://open.spotify.com/album/0uCz0AF1WRNSfa2cTXOYa4) | 2:17 |
 
-Snapshot ID: `AAAAAPDZA6o3qCrxhJjEpSAi4tHgh0d8`
+Snapshot ID: `AAAAAByFrg3nrE6RLeScwB6uIYzVdGv9`

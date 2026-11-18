@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list. (2026, 2024 &amp; 2023 + bonus tracks) Enjoy! ",
-  "num_followers": 142992,
+  "num_followers": 142986,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AABAksMOjabQlPP5MNg0O9Gb770JtbZe",
+  "snapshot_id": "AABAlbA5EdN+FggnJ3RTmDz4CzICVAr1",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/3UDmHZcBTQp8Iu8droNtUl"
     },
     {
+      "added_at": "2026-11-18 00:17:39",
+      "album": {
+        "name": "Leave You Keh",
+        "url": "https://open.spotify.com/album/4eg77Wj5uCClisZ6zr2qmb"
+      },
+      "artists": [
+        {
+          "name": "Joechriz",
+          "url": "https://open.spotify.com/artist/7xDqHe77Cg5LqHH0UufDET"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Leave You Keh",
+      "url": "https://open.spotify.com/track/7bQTj0Rq3NU1Yg5YH4utYu"
+    },
+    {
       "added_at": "2026-07-30 16:39:55",
       "album": {
         "name": "Dreaming Wide Awake",
@@ -883,6 +899,22 @@
       "duration_ms": 139826,
       "name": "Do The Do",
       "url": "https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME"
+    },
+    {
+      "added_at": "2026-11-17 15:32:50",
+      "album": {
+        "name": "Peace Grooves",
+        "url": "https://open.spotify.com/album/6zGuSBbaGOCeY0eJbfRSQN"
+      },
+      "artists": [
+        {
+          "name": "Crazy Mary",
+          "url": "https://open.spotify.com/artist/19WLicxrTnELYJovZowewT"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "What You Say",
+      "url": "https://open.spotify.com/track/1j5ujGZL4GcH5Yva5y3lUR"
     },
     {
       "added_at": "2026-07-30 16:41:55",
@@ -3387,42 +3419,6 @@
       "duration_ms": 283500,
       "name": "I Was Falling in Love With You",
       "url": "https://open.spotify.com/track/3ycsbxz2afSY6eOHdTsWKc"
-    },
-    {
-      "added_at": "2026-11-05 18:06:21",
-      "album": {
-        "name": "Back to the Country (Side A)",
-        "url": "https://open.spotify.com/album/40eDIXf0rY1S960Bf87Dvz"
-      },
-      "artists": [
-        {
-          "name": "Catt McCreary",
-          "url": "https://open.spotify.com/artist/3kazNNxWucsWpONl39pc8H"
-        }
-      ],
-      "duration_ms": 169283,
-      "name": "Back to the Country",
-      "url": "https://open.spotify.com/track/3Y9booTNB3UsndGTJmajwo"
-    },
-    {
-      "added_at": "2026-11-05 18:04:34",
-      "album": {
-        "name": "D\u00e9jala",
-        "url": "https://open.spotify.com/album/4Qfnd4CB4kqVXjeSaj1rTy"
-      },
-      "artists": [
-        {
-          "name": "Making Movies",
-          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
-        },
-        {
-          "name": "Lilo Sanchez",
-          "url": "https://open.spotify.com/artist/1ohlrNR8M2EuGToe0qxt6y"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "D\u00e9jala",
-      "url": "https://open.spotify.com/track/09ybqo2HOs4LOgj2vrnWZ8"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2026",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK8+3ECSmyXXlZOxK/wa83VnOx9u",
+  "snapshot_id": "AAAAAMBWM3OeW8bTIFOvxmuxGfWp39/L",
   "tracks": [
     {
       "added_at": "2026-11-13 05:03:15",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-11-13 05:03:15",
       "album": {
-        "name": "Now I've Got A Lot You Know",
-        "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 310596,
-      "name": "Now I've Got A Lot You Know",
-      "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
-    },
-    {
-      "added_at": "2026-11-13 05:03:15",
-      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/68BTIBgW5y8rWV6K9gPjH9"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 181250,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/51RgPzTTfxdtAZvmqPxUSx"
+    },
+    {
+      "added_at": "2026-11-13 05:03:15",
+      "album": {
+        "name": "Now I've Got A Lot You Know",
+        "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 310596,
+      "name": "Now I've Got A Lot You Know",
+      "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
     },
     {
       "added_at": "2026-11-13 05:03:15",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-11-13 05:03:15",
       "album": {
-        "name": "THIS TIME OF THE YEAR",
-        "url": "https://open.spotify.com/album/5qkkmIxIqKuU1RrF1s0dvY"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "THIS TIME OF THE YEAR",
-      "url": "https://open.spotify.com/track/4QfcVT6AtnYXiporucNGft"
-    },
-    {
-      "added_at": "2026-11-13 05:03:15",
-      "album": {
         "name": "Everything All The Time",
         "url": "https://open.spotify.com/album/2ydzJRCV5HBV1hMbwzEWsm"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 163000,
       "name": "Meryl",
       "url": "https://open.spotify.com/track/6gHhrK2BL0cqlGUxTtyjaT"
+    },
+    {
+      "added_at": "2026-11-13 05:03:15",
+      "album": {
+        "name": "THIS TIME OF THE YEAR",
+        "url": "https://open.spotify.com/album/5qkkmIxIqKuU1RrF1s0dvY"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "THIS TIME OF THE YEAR",
+      "url": "https://open.spotify.com/track/4QfcVT6AtnYXiporucNGft"
     },
     {
       "added_at": "2026-11-13 05:03:15",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-11-13 05:03:15",
       "album": {
-        "name": "Stage Girl (Not A Dream Anymore)",
-        "url": "https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI"
-      },
-      "artists": [
-        {
-          "name": "Eli",
-          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
-        }
-      ],
-      "duration_ms": 177746,
-      "name": "F**k the DJ",
-      "url": "https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj"
-    },
-    {
-      "added_at": "2026-11-13 05:03:15",
-      "album": {
         "name": "Hometown Letdown",
         "url": "https://open.spotify.com/album/6NV3lRlfM6gLRKSPyGBB7W"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 177000,
       "name": "Hometown Letdown",
       "url": "https://open.spotify.com/track/6gPQg2iktdQq3OpOGKmY42"
+    },
+    {
+      "added_at": "2026-11-13 05:03:15",
+      "album": {
+        "name": "Stage Girl (Not A Dream Anymore)",
+        "url": "https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "F**k the DJ",
+      "url": "https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj"
     },
     {
       "added_at": "2026-11-13 05:03:15",

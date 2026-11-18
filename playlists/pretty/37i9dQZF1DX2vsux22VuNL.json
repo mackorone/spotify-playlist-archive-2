@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Drik Barbosa",
-  "num_followers": 288470,
+  "num_followers": 288460,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
-    },
-    {
-      "added_at": "2026-11-06 03:00:21",
-      "album": {
         "name": "Flor de Maio",
         "url": "https://open.spotify.com/album/18jhTVeRNyNOTkM1YeOYZt"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 154105,
       "name": "O Despertar",
       "url": "https://open.spotify.com/track/33wlhom1u9DpjP28vbjj1u"
+    },
+    {
+      "added_at": "2026-11-06 03:00:21",
+      "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2026-11-06 03:00:21",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
-        "name": "DOPAMINA",
-        "url": "https://open.spotify.com/album/7oZvxSxb6x1R5N0o0l9caG"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        },
-        {
-          "name": "Zuchini",
-          "url": "https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ"
-        }
-      ],
-      "duration_ms": 173419,
-      "name": "DOPAMINA",
-      "url": "https://open.spotify.com/track/1wxEA9v6AFuU7Gr43j6EOi"
-    },
-    {
-      "added_at": "2026-11-06 03:00:21",
-      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 92960,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC"
+    },
+    {
+      "added_at": "2026-11-06 03:00:21",
+      "album": {
+        "name": "DOPAMINA",
+        "url": "https://open.spotify.com/album/7oZvxSxb6x1R5N0o0l9caG"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "Zuchini",
+          "url": "https://open.spotify.com/artist/7Kydl65dvmuhcxPgG3WTKZ"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "DOPAMINA",
+      "url": "https://open.spotify.com/track/1wxEA9v6AFuU7Gr43j6EOi"
     },
     {
       "added_at": "2026-11-06 03:00:21",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
-        "name": "COMO ELA VEM",
-        "url": "https://open.spotify.com/album/5GD0XJyxQ1XZ329MEHMDbe"
-      },
-      "artists": [
-        {
-          "name": "FERMI",
-          "url": "https://open.spotify.com/artist/6JZ3QLbC4COuCxfIecHyck"
-        }
-      ],
-      "duration_ms": 145151,
-      "name": "COMO ELA VEM",
-      "url": "https://open.spotify.com/track/0CUl44EpqRW4o4Age0ovZD"
-    },
-    {
-      "added_at": "2026-11-06 03:00:21",
-      "album": {
         "name": "O Que Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+    },
+    {
+      "added_at": "2026-11-06 03:00:21",
+      "album": {
+        "name": "COMO ELA VEM",
+        "url": "https://open.spotify.com/album/5GD0XJyxQ1XZ329MEHMDbe"
+      },
+      "artists": [
+        {
+          "name": "FERMI",
+          "url": "https://open.spotify.com/artist/6JZ3QLbC4COuCxfIecHyck"
+        }
+      ],
+      "duration_ms": 145151,
+      "name": "COMO ELA VEM",
+      "url": "https://open.spotify.com/track/0CUl44EpqRW4o4Age0ovZD"
     },
     {
       "added_at": "2026-11-06 03:00:21",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-11-06 03:00:21",
       "album": {
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
+      },
+      "artists": [
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2026-11-06 03:00:21",
+      "album": {
         "name": "insisto em voc\u00ea",
         "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 135420,
       "name": "insisto em voc\u00ea",
       "url": "https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P"
-    },
-    {
-      "added_at": "2026-11-06 03:00:21",
-      "album": {
-        "name": "Acordo Cedo",
-        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
-      },
-      "artists": [
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Acordo Cedo",
-      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "added_at": "2026-11-06 03:00:21",

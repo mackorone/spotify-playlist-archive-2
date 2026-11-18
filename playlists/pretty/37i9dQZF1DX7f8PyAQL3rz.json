@@ -1,12 +1,12 @@
 {
   "description": "mesmos bairros, mesmos pr\u00e9dios - e boa\u00b2",
-  "num_followers": 1425432,
+  "num_followers": 1425322,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFdYksAPdMhdITetNkmwX/KH3QIT",
+  "snapshot_id": "AAAAADbNrA8+xBLDHRGbG7c+BQZPatxI",
   "tracks": [
     {
       "added_at": "2026-11-09 19:53:26",
@@ -851,30 +851,6 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
-        "name": "Quebrando as Regras",
-        "url": "https://open.spotify.com/album/7r9F7849Lhb82n8GBQ1iMI"
-      },
-      "artists": [
-        {
-          "name": "DJ GHP",
-          "url": "https://open.spotify.com/artist/57Sr5qqqbks2nPwsK0ZYA9"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
-        }
-      ],
-      "duration_ms": 162535,
-      "name": "Quebrando as Regras",
-      "url": "https://open.spotify.com/track/3QFjFQAm6t944ntU7lE2ZW"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
         "name": "Cicatrizes, Vol. 1",
         "url": "https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 142677,
       "name": "VAI TOMANDO",
       "url": "https://open.spotify.com/track/6Cissij4MMX6vApChJEZgp"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
+        "name": "Quebrando as Regras",
+        "url": "https://open.spotify.com/album/7r9F7849Lhb82n8GBQ1iMI"
+      },
+      "artists": [
+        {
+          "name": "DJ GHP",
+          "url": "https://open.spotify.com/artist/57Sr5qqqbks2nPwsK0ZYA9"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        }
+      ],
+      "duration_ms": 162535,
+      "name": "Quebrando as Regras",
+      "url": "https://open.spotify.com/track/3QFjFQAm6t944ntU7lE2ZW"
     },
     {
       "added_at": "2026-11-09 19:53:26",
@@ -1339,6 +1339,34 @@
     {
       "added_at": "2026-11-09 19:53:26",
       "album": {
+        "name": "BAILA IGUAL VINI",
+        "url": "https://open.spotify.com/album/2dq5BaKXGJDum1p169N8vM"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        },
+        {
+          "name": "3X",
+          "url": "https://open.spotify.com/artist/46VTErrP5GnZwq602AEVLp"
+        },
+        {
+          "name": "OLIE",
+          "url": "https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl"
+        },
+        {
+          "name": "JHXW",
+          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
+        }
+      ],
+      "duration_ms": 160718,
+      "name": "BAILA IGUAL VINI",
+      "url": "https://open.spotify.com/track/4GNQdhAwDz6Qv1Wa8Lx6zH"
+    },
+    {
+      "added_at": "2026-11-09 19:53:26",
+      "album": {
         "name": "Deixa Isso pra L\u00e1",
         "url": "https://open.spotify.com/album/7Er9x0LocywhZtRK16Yyel"
       },
@@ -1379,34 +1407,6 @@
       "duration_ms": 240000,
       "name": "Deixa Isso pra L\u00e1",
       "url": "https://open.spotify.com/track/7xKQbQaLhMzrE6nmMrmwGK"
-    },
-    {
-      "added_at": "2026-11-09 19:53:26",
-      "album": {
-        "name": "BAILA IGUAL VINI",
-        "url": "https://open.spotify.com/album/2dq5BaKXGJDum1p169N8vM"
-      },
-      "artists": [
-        {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
-        },
-        {
-          "name": "3X",
-          "url": "https://open.spotify.com/artist/46VTErrP5GnZwq602AEVLp"
-        },
-        {
-          "name": "OLIE",
-          "url": "https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl"
-        },
-        {
-          "name": "JHXW",
-          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
-        }
-      ],
-      "duration_ms": 160718,
-      "name": "BAILA IGUAL VINI",
-      "url": "https://open.spotify.com/track/4GNQdhAwDz6Qv1Wa8Lx6zH"
     },
     {
       "added_at": "2026-11-09 19:53:26",

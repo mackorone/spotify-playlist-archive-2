@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 200463,
       "name": "Al Ver Que Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/1laxigh2D0jypvNDVLL2Rj"
@@ -92,6 +92,24 @@
       "duration_ms": 236832,
       "name": "Amor Eterno - En Vivo",
       "url": "https://open.spotify.com/track/16loNWG2dOSZp0763GLxhd"
+    },
+    {
+      "album": {
+        "name": "\u00a1Que Buena Pieza!",
+        "url": "https://open.spotify.com/album/4xfM9RySvUYrQhRfuvoHF8"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196967,
+      "name": "Amor Prisionero",
+      "url": "https://open.spotify.com/track/0Dh3oDsKU6wmyjrypLzFqc"
     },
     {
       "album": {
@@ -290,7 +308,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 194047,
       "name": "Causa Perdida",
       "url": "https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS"
@@ -488,7 +506,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 196993,
       "name": "El Adios Ranchero",
       "url": "https://open.spotify.com/track/71Df3vsvIfMwG9zGFVzASo"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 171676,
       "name": "Las Calles Enlodadas",
       "url": "https://open.spotify.com/track/4aRQqWgV9DNKFiRDjfhHXF"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 192413,
       "name": "Me Cae",
       "url": "https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq"

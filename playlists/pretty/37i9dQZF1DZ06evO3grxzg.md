@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,114 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,104 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 41 | [¿Que Se Sentirá Tener Mamá?](https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:57 |
 | 42 | [Pablo Y Andrea](https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 2:45 |
 | 43 | [Take A Chance On Me](https://open.spotify.com/track/1ue2fObPbPA8idw4OKawZU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Dancing Queens Un Tributo Para ABBA](https://open.spotify.com/album/05UDkHg10FACnRaSKpsMwL) | 3:29 |
-| 44 | [Mala Fama](https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E](https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo) | 3:02 |
+| 44 | [1TRAGO](https://open.spotify.com/track/0S7A2bKpipgJ7uVrIjOYBy) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [HOLA 2024](https://open.spotify.com/album/3D8npaARfn8ymXZMXTBFuy) | 3:21 |
 | 45 | [La Fogata](https://open.spotify.com/track/5oFMxXRAwhoqZXAXTOjWwU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Lilibeth Lilibeth](https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3), [Luis Fernando Madriz](https://open.spotify.com/artist/6xBIGCZWv0dIYUubdTpVNC) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:00 |
 | 46 | [Chiquita Pero Picosa \- Versión Pop](https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 3:28 |
-| 47 | [1TRAGO](https://open.spotify.com/track/0S7A2bKpipgJ7uVrIjOYBy) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [HOLA 2024](https://open.spotify.com/album/3D8npaARfn8ymXZMXTBFuy) | 3:21 |
-| 48 | [Kaprichosa](https://open.spotify.com/track/1ZMwNlcmJZBEqzXOepOO5t) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Noche POP](https://open.spotify.com/album/55RkPo0b9go8SnPOcN73KA) | 3:20 |
-| 49 | [Lo Que No Sabes](https://open.spotify.com/track/0WMeFfdrLoRjDoVX0vTFnG) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E](https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo) | 3:54 |
-| 50 | [Dance The Night Away \- Cross MIx](https://open.spotify.com/track/64DfgImKmWZnLyISCWCLSg) | [AtellaGali](https://open.spotify.com/artist/64kJmYlYPeykl8UgCGLbFp), [Amanda Renee](https://open.spotify.com/artist/2JzUs8Q17CMTfP24SFCYd1), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Dance The Night Away \(Cross Mix\)](https://open.spotify.com/album/0CZoR4lMOCFVKC2rTV1q0t) | 3:38 |
+| 47 | [Kaprichosa](https://open.spotify.com/track/1ZMwNlcmJZBEqzXOepOO5t) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Noche POP](https://open.spotify.com/album/55RkPo0b9go8SnPOcN73KA) | 3:20 |
+| 48 | [Lo Que No Sabes](https://open.spotify.com/track/0WMeFfdrLoRjDoVX0vTFnG) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E](https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo) | 3:54 |
+| 49 | [Dance The Night Away \- Cross MIx](https://open.spotify.com/track/64DfgImKmWZnLyISCWCLSg) | [AtellaGali](https://open.spotify.com/artist/64kJmYlYPeykl8UgCGLbFp), [Amanda Renee](https://open.spotify.com/artist/2JzUs8Q17CMTfP24SFCYd1), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Dance The Night Away \(Cross Mix\)](https://open.spotify.com/album/0CZoR4lMOCFVKC2rTV1q0t) | 3:38 |
 
-Snapshot ID: `avj2AAAAAAChlRbz8vbhpQnQAgciSqim`
+Snapshot ID: `avpHgAAAAACSFSrT+j6YSgyL0PU39fJj`

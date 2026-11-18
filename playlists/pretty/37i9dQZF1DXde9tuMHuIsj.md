@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Young Fatty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479,250 likes - 99 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,479,218 likes - 99 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 2 | [Peli De Terror](https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I), [Fharid On the Beat](https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ) | [Peli De Terror](https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK) | 2:42 |
 | 3 | [Milko Freestyle](https://open.spotify.com/track/6qP0OSXyS6vMS7Ib4waLHt) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Agorazein](https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP) | [Milko Freestyle](https://open.spotify.com/album/07EUOM05hnrPJhP2WtNNv6) | 2:07 |
 | 4 | [DE MEDALLO PA MOROVIS](https://open.spotify.com/track/0YJyWgMaPwbhZmpXi8FBbf) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [LA AMENAZA](https://open.spotify.com/album/0i7JDOjUAImPE2fOqbFamJ) | 2:58 |
-| 5 | [MoonWalkin](https://open.spotify.com/track/5mDiMtJXViQWCYaQ1M4ZDC) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [MoonWalkin](https://open.spotify.com/album/4Nq2hr1B4yOCjzEefuOmhj) | 2:50 |
+| 5 | [MoonWalkin](https://open.spotify.com/track/5mDiMtJXViQWCYaQ1M4ZDC) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Zor Beats](https://open.spotify.com/artist/4PRnYjyIiHXm9sQz1bFYen) | [MoonWalkin](https://open.spotify.com/album/4Nq2hr1B4yOCjzEefuOmhj) | 2:50 |
 | 6 | [GALACTICOS](https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E) | [Bigg Danny](https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt) | [GALACTICOS](https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU) | 2:19 |
 | 7 | [DESTACADAS](https://open.spotify.com/track/5yQpSAyNZVgJBllGiRFAgK) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Fharid On the Beat](https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ) | [DESTACADAS](https://open.spotify.com/album/6SWBdUXlCZXXkH09muagXa) | 3:11 |
 | 8 | [TBT 16](https://open.spotify.com/track/6l1cPKY7lKQkVqz8tCaLpS) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [TBT 16](https://open.spotify.com/album/29uk1uHe8X13oqiWzKxeyN) | 3:12 |

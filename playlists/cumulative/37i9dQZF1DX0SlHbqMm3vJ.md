@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover: Wande Coal
 
-1,100 songs - 2 day 5 hr 8 min
+1,101 songs - 2 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Abeg \(feat\. Amindi\)](https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Stairway To Heaven](https://open.spotify.com/album/2gllP0wR0siE0NYM9U5Tjb) | 3:23 | 2022-01-21 | 2022-07-15 |
 | [Abeke](https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Abeke](https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv) | 4:07 | 2024-07-05 | 2024-10-18 |
 | [Aben Woha](https://open.spotify.com/track/6s5lxd4GY2oD4pc6DyFcjw) | [Essilfie](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA), [Cici Yeboah](https://open.spotify.com/artist/42BdLr2baIh7zRnOZPUnfo) | [Tori's Lounge](https://open.spotify.com/album/2bAzheXuEsDOWH4JXZFh4O) | 2:41 | 2022-02-17 | 2022-02-28 |
-| [About Us \(with Qing Madi\)](https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [About Us \(with Qing Madi\)](https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT) | 2:57 | 2025-10-10 |  |
+| [About Us \(with Qing Madi\)](https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [About Us \(with Qing Madi\)](https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT) | 2:57 | 2025-10-10 | 2026-11-18 |
 | [Adaeze](https://open.spotify.com/track/4dMP8nk9hEmfU9Qzb1KQ20) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Where Did Love Go?](https://open.spotify.com/album/5xWSSeDji25D0lKQS66JyS) | 2:34 | 2026-07-17 | 2026-11-13 |
 | [Adamma, Asanwa, Asampete](https://open.spotify.com/track/6aQKRinH6dP5nU3mZdQMYB) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 3:55 | 2025-06-13 | 2025-06-24 |
 | [Adanna](https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Adanna](https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a) | 3:36 | 2024-11-15 | 2025-02-20 |
@@ -915,6 +915,7 @@
 | [Someone](https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Someone](https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN) | 2:37 | 2023-05-04 | 2023-10-20 |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-06-09 | 2023-12-08 |
 | [Something Different](https://open.spotify.com/track/60sRT3aNeHYRyr8vKLzHel) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Something Different](https://open.spotify.com/album/4HwCvev4o75rimZ4olJAPW) | 2:55 | 2021-10-14 | 2022-07-29 |
+| [Something In Between](https://open.spotify.com/track/1qDz5NiUD1smerTp0bg6hA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [NBO ‘X’ PRESS](https://open.spotify.com/album/6czwEju8FIEBB8PMMuzpl8) | 3:48 | 2026-11-13 |  |
 | [Sooner](https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sooner](https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q) | 2:49 | 2024-11-29 | 2026-01-15 |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-12 | 2023-09-15 |
 | [Speak Up](https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Before The Morning Light](https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr) | 3:13 | 2026-05-15 |  |

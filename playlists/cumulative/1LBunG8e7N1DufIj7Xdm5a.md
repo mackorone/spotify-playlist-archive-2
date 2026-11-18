@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,516 songs - 12 day 20 hr 34 min
+5,519 songs - 12 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Asincopado](https://open.spotify.com/track/1tEoC9NuyRB9Dc4qQL1Rw6) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 4:27 | 2026-10-18 |  |
 | [Asincopado](https://open.spotify.com/track/5yAO854PtOR0ITzBhVaXD3) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Asincopado](https://open.spotify.com/album/0eMSyUX3YPXapifVO6ANoU) | 4:27 | 2026-04-12 |  |
 | [ask \- Remastered](https://open.spotify.com/track/3i3vHtOaLeh2ltxBGzbgAw) | [særa](https://open.spotify.com/artist/0HCt4BrSudkXCDjNOMrAjR) | [Embarquement Nécessaire](https://open.spotify.com/album/1xknkdog0PZO3vFgYhBgeW) | 3:09 | 2026-08-05 |  |
+| [Asphalt](https://open.spotify.com/track/3bTBHWo4OdlfPWxiRdKgxQ) | [Alexo](https://open.spotify.com/artist/2M5K8mw04jLiIyTFaGOvXA) | [Asphalt](https://open.spotify.com/album/54UtGMEsU8UXCit9KuXrUQ) | 2:29 | 2026-11-17 |  |
 | [Assume Power](https://open.spotify.com/track/6Erc7LjT2x4PgyI4DkLiou) | [Red Sun Alert](https://open.spotify.com/artist/2hfFj7hBl3cvZlm0RS7eL7) | [Assume Power](https://open.spotify.com/album/3AVVOljcR40EeXjigES6sH) | 3:05 | 2025-11-05 |  |
 | [Asteroide](https://open.spotify.com/track/4HCKs8aLpF95zowxPfm5Dy) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 4:05 | 2025-07-29 |  |
 | [Astral Landscapes](https://open.spotify.com/track/4aWRSsrCpPNdstkgR6eDm6) | [Binaural Beats Ascension](https://open.spotify.com/artist/1pZSqxQu4oj7bUxjBZKyD0) | [Astral Landscapes](https://open.spotify.com/album/4CWECRFE3cYL803aHIC8XA) | 12:00 | 2025-06-04 |  |
@@ -2964,6 +2965,7 @@
 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:57 | 2026-11-03 |  |
 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 | 2026-11-03 |  |
 | [Mean it at all](https://open.spotify.com/track/0H4xd2FKtWYgrH7uxMBw9S) | [Maria Krauss](https://open.spotify.com/artist/2voazIy50xtxd794uJu5Fl) | [Mean it at all](https://open.spotify.com/album/7wcubevLDln9Wi0WxasZGG) | 3:43 | 2026-10-25 |  |
+| [Medicate](https://open.spotify.com/track/3umTsTDjiiE7wlNxGpVPbr) | [EverFelt](https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX) | [Medicate](https://open.spotify.com/album/5oxKqegUjpahbxGsXMsRpR) | 3:58 | 2026-11-17 |  |
 | [Medusa in Fractal \- Radio Edit](https://open.spotify.com/track/5TCBnKiwraSZO6mtm9akQ7) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [Orquesta del Living](https://open.spotify.com/artist/1TL57HrpRSi2cCEBhErl18) | [Al Planeta sin el Mundo \(Radio Edit\)](https://open.spotify.com/album/3JAGc3aqeEQ0Ut0BtL1mFi) | 4:47 | 2025-09-25 |  |
 | [Megaloner](https://open.spotify.com/track/09tK0uxKhPE7HWNz27bYNY) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Halo On The Inside](https://open.spotify.com/album/1a5FMhDC5UFBhkirhJD72b) | 4:14 | 2025-12-04 |  |
 | [Mellow](https://open.spotify.com/track/38PURHwBu5hplpUSmPK0SF) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [DC3 Productions LLC](https://open.spotify.com/artist/5zMVLDcXT4tQFk7SqJbxfo) | [Hello Wrld](https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC) | 2:58 | 2026-05-19 |  |
@@ -3466,6 +3468,7 @@
 | [On Repeat](https://open.spotify.com/track/5thAi8gUBY5qxWuhOenRx3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Addictive Pop](https://open.spotify.com/album/31BLqQI2Fuq0nTlBzmDUx4) | 2:30 | 2025-09-18 |  |
 | [On Repeat \(another\)](https://open.spotify.com/track/0LLjIXhlPltvmUedFUPTke) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Addictive Pop](https://open.spotify.com/album/31BLqQI2Fuq0nTlBzmDUx4) | 2:53 | 2025-09-18 |  |
 | [On That Ride](https://open.spotify.com/track/2FtfeuOt2LrS8VREqgOEEr) | [SAN LOVA](https://open.spotify.com/artist/3IqABeX0Vkevn2aVD0BaPw) | [On That Ride](https://open.spotify.com/album/67xS1aWwqNChm8paWgOuib) | 4:12 | 2025-09-21 |  |
+| [On the 10](https://open.spotify.com/track/48lfynVh0BKHCIs4EbEBvy) | [Cristoforo Donadi](https://open.spotify.com/artist/0kTwzuquhKPxUxJA5ykVYf) | [On the 10](https://open.spotify.com/album/4Ef86HGWgUfRYdSe8cOIPx) | 2:41 | 2026-11-17 |  |
 | [On the Edge of the Groove](https://open.spotify.com/track/3I87lrPql5vD70EoGjV2Ut) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cool Swing Modern Music](https://open.spotify.com/album/68kCqjqSu6mUcKp8ZqOJYH) | 2:57 | 2025-09-18 |  |
 | [On the Edge of the Groove \(another\)](https://open.spotify.com/track/1IY1CyBGoZEhWkhwOvbeV3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cool Swing Modern Music](https://open.spotify.com/album/68kCqjqSu6mUcKp8ZqOJYH) | 2:06 | 2025-09-18 |  |
 | [On Your Skin](https://open.spotify.com/track/77fR6eT92HnVycl5YGgaS8) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Rhythm](https://open.spotify.com/album/4GO11BTRtDwQANUqmiGqwI) | 2:45 | 2025-11-05 |  |

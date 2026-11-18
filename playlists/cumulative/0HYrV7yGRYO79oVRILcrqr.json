@@ -13893,6 +13893,24 @@
     },
     {
       "album": {
+        "name": "The Fountain",
+        "url": "https://open.spotify.com/album/57NdajmJMk4KLmtJBSSER6"
+      },
+      "artists": [
+        {
+          "name": "Rick S. Rose",
+          "url": "https://open.spotify.com/artist/3qwZmQIimE8XsMzfsQVjKO"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147151,
+      "name": "The Fountain",
+      "url": "https://open.spotify.com/track/2w8VnCDHe4BReLQs3BtTqV"
+    },
+    {
+      "album": {
         "name": "The Funeral March",
         "url": "https://open.spotify.com/album/5XUdvSZQYtQVuNnRfDYvhW"
       },

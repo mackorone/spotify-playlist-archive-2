@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > Classic Country Hits 🤠 Top Most Streamed Country Music of All Time \| Best Country Playlist \| Dolly Parton Jolene, Randy Travis, Blake Shelton
 
-[Topsify](https://open.spotify.com/user/topsify) - 56,999 likes - 132 songs - 7 hr 40 min
+[Topsify](https://open.spotify.com/user/topsify) - 56,989 likes - 132 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

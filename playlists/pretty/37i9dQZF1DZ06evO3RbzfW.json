@@ -1,12 +1,12 @@
 {
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
-  "num_followers": 1454276,
+  "num_followers": 1454371,
   "original_name": "This Is Rammstein",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAAD0SHHAt2N8FTIQlPJXLBg0",
+  "snapshot_id": "avpHgAAAAAA8TZ+BPENj4OAH/M3Y4t6E",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rarit\u00e4ten (1994 - 2012)",
-        "url": "https://open.spotify.com/album/0o0QM3HLgDRQQslL2ott2a"
+        "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 224706,
-      "name": "Halleluja",
-      "url": "https://open.spotify.com/track/5lGk2d6vYXSv5RiLMHLsCZ"
+      "duration_ms": 256306,
+      "name": "Moskau",
+      "url": "https://open.spotify.com/track/4L9UGREMQBfYLmGwlACgTV"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5"
+        "name": "Rarit\u00e4ten (1994 - 2012)",
+        "url": "https://open.spotify.com/album/0o0QM3HLgDRQQslL2ott2a"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 256306,
-      "name": "Moskau",
-      "url": "https://open.spotify.com/track/4L9UGREMQBfYLmGwlACgTV"
+      "duration_ms": 224706,
+      "name": "Halleluja",
+      "url": "https://open.spotify.com/track/5lGk2d6vYXSv5RiLMHLsCZ"
     },
     {
       "added_at": null,

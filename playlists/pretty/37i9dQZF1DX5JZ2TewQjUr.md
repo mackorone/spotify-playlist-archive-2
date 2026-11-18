@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: FYP
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,846 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,849 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 99 | [Window](https://open.spotify.com/track/4iUxryTOl8KT0ZLETYNZjv) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG), [Lilly Gato](https://open.spotify.com/artist/0eJvw0ezIgTIHJTDyog4zr) | [Window / Home \(7"\)](https://open.spotify.com/album/5oBTvB6jI4ZFdtXHSmpa9w) | 4:44 |
 | 100 | [未firm](https://open.spotify.com/track/6WOZmRXO92K0j7VYREcJnj) | [elka 鄭芷淇](https://open.spotify.com/artist/7gRFVh7MISIyJyIjPYTEP7) | [未firm](https://open.spotify.com/album/4OgudE0JBgtdMaJZfabHko) | 3:42 |
 
-Snapshot ID: `AAAAAIZwZpI55j1+tDPMO15EsoEOg/wg`
+Snapshot ID: `AAAAAD3KZeeaC3lAJyLc8ziPy+Qglf1t`

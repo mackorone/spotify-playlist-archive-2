@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Gazzelle, Sayf, sangiovanni, BLANCO, Elisa tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,850 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,839 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 50 | [CADILLAC](https://open.spotify.com/track/376z4LozUrJKZuBjct7lPx) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [The Pluggfather](https://open.spotify.com/album/6yk1AOV2vggTQ47p1tPGKe) | 2:37 |
 | 51 | [Che Notte È Questa!](https://open.spotify.com/track/2t2EWnn5PUziH7e7U08f61) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Che Notte È Questa!](https://open.spotify.com/album/5jMNeYMDE1EdJnVkXsLoox) | 3:56 |
 | 52 | [PREFERISC E STELL](https://open.spotify.com/track/3fv0Thclf234naQYaSM8Pi) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [PREFERISC E STELL](https://open.spotify.com/album/1XSV3igvkPBbAexKNvhcNs) | 3:36 |
-| 53 | [Badgyal \(feat\. Giovane Drago\)](https://open.spotify.com/track/3e5iSZTVWlmSba7qVscnMN) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR), [Giovane Drago](https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg) | [OASI, EDEN](https://open.spotify.com/album/3TPN16UVNiiDfsfZ0HuEh0) | 2:33 |
+| 53 | [Badgyal \(feat\. Giovane Drago\)](https://open.spotify.com/track/3e5iSZTVWlmSba7qVscnMN) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR), [Giovane Drago](https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg), [Scien](https://open.spotify.com/artist/6sJBjn9GZbhu93KnaVlwCR), [EyoJasper](https://open.spotify.com/artist/15Zh6kkBGw9ckIRquYpWLn) | [OASI, EDEN](https://open.spotify.com/album/3TPN16UVNiiDfsfZ0HuEh0) | 2:33 |
 | 54 | [METEOR FROM MARS](https://open.spotify.com/track/3rTgH2EMFDihuk4rueiGsq) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [METEOR FROM MARS](https://open.spotify.com/album/1okmmIBOw3JsTikajOV45i) | 3:28 |
 | 55 | [Dishonest](https://open.spotify.com/track/1yvWBkPTw6GoafyjSmQaNZ) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ars Valendi](https://open.spotify.com/album/1Gi5fklWUQziyqcCSHZP3O) | 3:00 |
 | 56 | [YES](https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [YES](https://open.spotify.com/album/0FiarOgpwaZ18ZvTy7dlXc) | 3:10 |

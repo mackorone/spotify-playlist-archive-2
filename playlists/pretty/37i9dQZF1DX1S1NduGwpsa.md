@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Stella Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,058 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,077 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 8 | [Yesterdays \- Live At The Blue Note L.A.](https://open.spotify.com/track/4p6xofTGJ0Hi8gpSc2DGEl) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Live At The Blue Note L.A.](https://open.spotify.com/album/6m7pxdtmBiIsV8VTYeYc7S) | 7:19 |
 | 9 | [Le rescapé](https://open.spotify.com/track/4lLVS2N8auPcFRUOGTRHxv) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Armel Dupas](https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Nocturnes](https://open.spotify.com/album/5Dnr40B7tiMdtAOmg4bUV5) | 6:01 |
 | 10 | [it's the most wonderful time of the year](https://open.spotify.com/track/6ozYsjpGOTCgsQg77xvHaX) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [christmas dream](https://open.spotify.com/album/2JWdOmygDfiRzazzfGGomt) | 3:02 |
-| 11 | [Batouque](https://open.spotify.com/track/1jmML7EcBqNkhkEEzMURKe) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Mathias Lévy](https://open.spotify.com/artist/1xhEQPNEiW6uVeJNpwLz7u), [Jeremy Bruyère](https://open.spotify.com/artist/5QQ7N1P19ldzZRPCBarVTJ), [Matthieu Chazarenc](https://open.spotify.com/artist/4Zp1JBDJMAvoUnBuroe3xB) | [Flamingo](https://open.spotify.com/album/5c8kVJxZXO7i7qgiDDTnts) | 3:04 |
+| 11 | [Batouque](https://open.spotify.com/track/1jmML7EcBqNkhkEEzMURKe) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Mathias Lévy](https://open.spotify.com/artist/1xhEQPNEiW6uVeJNpwLz7u), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj), [Matthieu Chazarenc](https://open.spotify.com/artist/4Zp1JBDJMAvoUnBuroe3xB) | [Flamingo](https://open.spotify.com/album/5c8kVJxZXO7i7qgiDDTnts) | 3:04 |
 | 12 | [But Not For Me](https://open.spotify.com/track/0Ls0HlOqQtCpoPwUu5yLzc) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [But Not For Me](https://open.spotify.com/album/1IDdRfd99shwFnJzGJdvYm) | 5:10 |
 | 13 | [Chovendo Na Horta \(For My Brother Toninho\)](https://open.spotify.com/track/6kYtjS1HpbXczssthox6zV) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v), [Toninho Horta](https://open.spotify.com/artist/1HQIztYT50mMS3PZR0qgFk) | [Never Too Soon](https://open.spotify.com/album/7M2ejpwYLTDP204rVnMFp1) | 4:04 |
 | 14 | [Just Can't Get Enough](https://open.spotify.com/track/3IpuysNI5h5YMzF4lpbPud) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [A Date with Depeche Mode](https://open.spotify.com/album/4kwVAkI2UNwSslmw45UVkx) | 2:44 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJKX6T/lDeY/CTii/joM3pfCnzxA",
+  "snapshot_id": "AAAAAL4Z4tdfVrsCKOQ4psvTg5Z49elK",
   "tracks": [
     {
       "added_at": "2020-04-27 15:43:16",
@@ -315,18 +315,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "La Casita de Patylu",
-        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
       "artists": [
         {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
         }
       ],
-      "duration_ms": 234880,
-      "name": "La Bruja de Nueva York",
-      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
+      "duration_ms": 165733,
+      "name": "Bichos",
+      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -347,22 +351,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+        "name": "La Casita de Patylu",
+        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
       },
       "artists": [
         {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 165733,
-      "name": "Bichos",
-      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
+      "duration_ms": 234880,
+      "name": "La Bruja de Nueva York",
+      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -443,18 +443,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "M\u00fasica Infantil para Fiestas: Canciones para Bailar Ni\u00f1os y Padres",
-        "url": "https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT"
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
       "artists": [
         {
-          "name": "La Banda de Carmen",
-          "url": "https://open.spotify.com/artist/1J37T04jOISczqfu7UInu8"
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
         }
       ],
-      "duration_ms": 173567,
-      "name": "Mueve el Ombligo",
-      "url": "https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx"
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -475,22 +479,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+        "name": "M\u00fasica Infantil para Fiestas: Canciones para Bailar Ni\u00f1os y Padres",
+        "url": "https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT"
       },
       "artists": [
         {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+          "name": "La Banda de Carmen",
+          "url": "https://open.spotify.com/artist/1J37T04jOISczqfu7UInu8"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+      "duration_ms": 173567,
+      "name": "Mueve el Ombligo",
+      "url": "https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -527,26 +527,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Mejores Amigos",
-        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
+        "name": "Porque yo te quiero",
+        "url": "https://open.spotify.com/album/3jCec881nyRs6s5w0uHr9R"
       },
       "artists": [
         {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        },
-        {
-          "name": "Cepillin",
-          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
-        },
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
         }
       ],
-      "duration_ms": 160640,
-      "name": "Patos al Agua",
-      "url": "https://open.spotify.com/track/1FkJkFuhba5yth1ax8cQ07"
+      "duration_ms": 221160,
+      "name": "Acuarela",
+      "url": "https://open.spotify.com/track/34oV1MaJfhU7AJDzERSFlS"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -567,18 +559,26 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Porque yo te quiero",
-        "url": "https://open.spotify.com/album/3jCec881nyRs6s5w0uHr9R"
+        "name": "Mejores Amigos",
+        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
       },
       "artists": [
         {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        },
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+        },
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
         }
       ],
-      "duration_ms": 221160,
-      "name": "Acuarela",
-      "url": "https://open.spotify.com/track/34oV1MaJfhU7AJDzERSFlS"
+      "duration_ms": 160640,
+      "name": "Patos al Agua",
+      "url": "https://open.spotify.com/track/1FkJkFuhba5yth1ax8cQ07"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -615,30 +615,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Mejores Amigos",
-        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        },
-        {
-          "name": "Cepillin",
-          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
-        },
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "La Feria de Cepill\u00edn",
-      "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Violetta",
         "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 103613,
       "name": "El Zapatero",
       "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Mejores Amigos",
+        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        },
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+        },
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "La Feria de Cepill\u00edn",
+      "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
     },
     {
       "added_at": "2020-04-27 15:43:16",

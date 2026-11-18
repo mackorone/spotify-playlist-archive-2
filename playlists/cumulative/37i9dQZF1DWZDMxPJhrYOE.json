@@ -13549,6 +13549,24 @@
     },
     {
       "album": {
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4s1xndGOzjMU1sSgC8FJkz"
+    },
+    {
+      "album": {
         "name": "Kaster Mig Ud I",
         "url": "https://open.spotify.com/album/74kVeuJxuJsrANODEwI8VL"
       },
@@ -16489,6 +16507,24 @@
     },
     {
       "album": {
+        "name": "Music All Over Her Body",
+        "url": "https://open.spotify.com/album/4JFxbRpXOCpwTX17AVL9qP"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "Music All Over Her Body",
+      "url": "https://open.spotify.com/track/6oR9Lb8TWwZ60ybem3SHF8"
+    },
+    {
+      "album": {
         "name": "AFTERCARE",
         "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
       },
@@ -17210,7 +17246,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 162629,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/4kSsO50b4j4gFy6EXquXho"
@@ -21386,7 +21422,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 155887,
       "name": "Sofie, Jeg Elsker Dig",
       "url": "https://open.spotify.com/track/6IPoBxgqN4QHuoqmzbVscZ"

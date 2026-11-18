@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: Romy Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,285 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,227 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [lovergirl](https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket deluxe](https://open.spotify.com/album/68faVaLSG9EnxmOgOJwGFX) | 3:21 |
 | 100 | [Immortal](https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [Immortal](https://open.spotify.com/album/5i1PXexy6LcmfAjCJENRFz) | 3:28 |
 
-Snapshot ID: `AAAAALnfAnnItpSjrhjRhaM9H+jqCBgy`
+Snapshot ID: `AAAAAG4Q8+M11wSNEGEcDDpb0578j1j4`

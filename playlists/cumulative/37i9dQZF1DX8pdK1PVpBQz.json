@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: mikii",
+  "description": "The best new music by independent artists and labels. Cover: Plumia",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 156363,
       "name": "AERO",
       "url": "https://open.spotify.com/track/0EHp2LcDveg4D2VftxHVXP"
@@ -18155,6 +18155,24 @@
     },
     {
       "album": {
+        "name": "Deep Diving",
+        "url": "https://open.spotify.com/album/1Z31T4E40z2rPhfzWnHHBU"
+      },
+      "artists": [
+        {
+          "name": "Hallie",
+          "url": "https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177502,
+      "name": "Deep Diving",
+      "url": "https://open.spotify.com/track/15ZV3mhEX7dccnnMnfcdb4"
+    },
+    {
+      "album": {
         "name": "BRAZEN",
         "url": "https://open.spotify.com/album/0rHdsM0FF6LshyUpD5BOyC"
       },
@@ -32582,7 +32600,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 183878,
       "name": "he77",
       "url": "https://open.spotify.com/track/3uN1nkfbLrFcuzKmB1u7bC"
@@ -34222,6 +34240,32 @@
       "duration_ms": 164043,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3CjP5YfkcjAwzN3leFXNex"
+    },
+    {
+      "album": {
+        "name": "Sprint",
+        "url": "https://open.spotify.com/album/65MUUh4kR3TK8UfOQZqBBW"
+      },
+      "artists": [
+        {
+          "name": "Trustee",
+          "url": "https://open.spotify.com/artist/2CQcG802nBA6S3ILkvy3Mg"
+        },
+        {
+          "name": "Prizefight",
+          "url": "https://open.spotify.com/artist/3imo6DPDraLtBLvbMcuL0q"
+        },
+        {
+          "name": "TASKFORCE",
+          "url": "https://open.spotify.com/artist/54JFecN4nyHsxD68836shJ"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298363,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3MKTPngqO95N1fSLmnohcF"
     },
     {
       "album": {
@@ -52072,7 +52116,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 340750,
       "name": "New Dog, Old Tricks",
       "url": "https://open.spotify.com/track/0PwY8xNW8fRoyJTJDMdjMm"
@@ -59403,6 +59447,24 @@
     },
     {
       "album": {
+        "name": "Plume of Smoke",
+        "url": "https://open.spotify.com/album/5ZVaRL0Xh3HuPcHPB9o9jV"
+      },
+      "artists": [
+        {
+          "name": "Plumia",
+          "url": "https://open.spotify.com/artist/5Jaz0VgTKexNKnSyo5RDje"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329002,
+      "name": "Plume of Smoke",
+      "url": "https://open.spotify.com/track/1dCV1T7FIl8nZzOg0ezHul"
+    },
+    {
+      "album": {
         "name": "Plus One",
         "url": "https://open.spotify.com/album/3cbMMs4UUeytP4BV8IMJED"
       },
@@ -64766,6 +64828,24 @@
       "duration_ms": 184017,
       "name": "Same Drugs",
       "url": "https://open.spotify.com/track/1uGFpq3K8UlpLFaYvVdEfz"
+    },
+    {
+      "album": {
+        "name": "same mistakes",
+        "url": "https://open.spotify.com/album/4Oi6i645ZC1MJalbIPvCSd"
+      },
+      "artists": [
+        {
+          "name": "Elianie",
+          "url": "https://open.spotify.com/artist/5ZvEUeYlNSsQNMHSyNTsxF"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185541,
+      "name": "same mistakes",
+      "url": "https://open.spotify.com/track/6D5KF5qf37FRkerYtcDfo9"
     },
     {
       "album": {
@@ -73022,7 +73102,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 137533,
       "name": "surfers paradise",
       "url": "https://open.spotify.com/track/5PjWmgbeMBiidppGE0oVxX"
@@ -73062,6 +73142,24 @@
       "duration_ms": 236919,
       "name": "Suzuka",
       "url": "https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1"
+    },
+    {
+      "album": {
+        "name": "Swallow Me",
+        "url": "https://open.spotify.com/album/6CbAmnBzrx8RG3kRLj0dze"
+      },
+      "artists": [
+        {
+          "name": "Heaven Sent",
+          "url": "https://open.spotify.com/artist/2qJoEuEmzPXQOZ6pef9D97"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225595,
+      "name": "Swallow Me",
+      "url": "https://open.spotify.com/track/3g9llJLAOofceZ8zUvX0cn"
     },
     {
       "album": {
@@ -82034,7 +82132,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 191546,
       "name": "wanting with an open wound",
       "url": "https://open.spotify.com/track/36l0nfefy4GRRCV1XJyCOU"
@@ -87012,7 +87110,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 222807,
       "name": "Your Favourite",
       "url": "https://open.spotify.com/track/3Y1nUEzxIVDhitWq6eO1bo"

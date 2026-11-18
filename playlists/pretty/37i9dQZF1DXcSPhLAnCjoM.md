@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Chaussures Roses" de TeddyBear est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013,813 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,754 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 39 | [Famille ou pas famille](https://open.spotify.com/track/6FnLfT6EVS0IPhPAidTTmx) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Famille ou pas famille](https://open.spotify.com/album/5RqbggO0gxtg1qSSdHCqYd) | 3:01 |
 | 40 | [C'est à qui le tour](https://open.spotify.com/track/6DMW3BD1VPidFiWuXH3b4N) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [C'est à qui le tour](https://open.spotify.com/album/4S4U6uyaN5a6t5WLt5Z3nN) | 2:49 |
 
-Snapshot ID: `AAAAACcapuCN2DCs65vdQnWJeAUFCuAs`
+Snapshot ID: `AAAAAFU4AJdWd3CaOnkRBN7s61kX7ymn`

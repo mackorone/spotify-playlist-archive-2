@@ -4669,6 +4669,28 @@
     },
     {
       "album": {
+        "name": "Ontem Sonhei Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/3dRVv3CeulwBj8HHgG3lGC"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236195,
+      "name": "Ontem Sonhei Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/77BLShAlboRvoKHFaDRwVl"
+    },
+    {
+      "album": {
         "name": "Deixa Vir Do Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y"
       },
@@ -5418,7 +5440,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-18",
       "duration_ms": 232390,
       "name": "Rosa Maria",
       "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"

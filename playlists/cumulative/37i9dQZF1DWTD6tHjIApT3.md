@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 高畑充希
+> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: muque
 
-3,943 songs - 10 day 10 hr 43 min
+3,945 songs - 10 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [1999](https://open.spotify.com/track/2pUMDJAZrM2qKx4tCJD1jK) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 4:04 | 2022-07-28 | 2022-08-03 |
 | [19歳のガレット](https://open.spotify.com/track/3Ule6qlH6klo2T3y1Zlgtt) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [I want tomorrow to come \(Special Edition\)](https://open.spotify.com/album/70YzcydxXKcrw3ErYKYNJq) | 4:19 | 2024-12-04 | 2024-12-13 |
 | [1DK](https://open.spotify.com/track/7gFEJepDJQozYYVJDHaLjw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [1DK](https://open.spotify.com/album/0JVSlC0WdDSj97rtfHqyjd) | 4:08 | 2022-12-08 | 2022-12-14 |
-| [2 Hands](https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [2 Hands](https://open.spotify.com/album/1W8dfBIAzmCLLctGK7V64l) | 3:52 | 2026-11-03 |  |
+| [2 Hands](https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [2 Hands](https://open.spotify.com/album/1W8dfBIAzmCLLctGK7V64l) | 3:52 | 2026-11-03 | 2026-11-18 |
 | [2018](https://open.spotify.com/track/14ngMMVSdMqz8A3Eo52ZnI) | [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [2018](https://open.spotify.com/album/1O2odqL8RiYAtTmqUldVdQ) | 3:15 | 2023-02-14 | 2023-02-22 |
 | [2018](https://open.spotify.com/track/2T6f8u0KnwsjolrqiF5f1V) | [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [2018](https://open.spotify.com/album/0RrGbH1Gs5uAdgvq46Biyx) | 3:15 | 2023-02-14 | 2023-02-16 |
 | [2023](https://open.spotify.com/track/4hb2r47so9RnMG99Lce1rI) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [2023](https://open.spotify.com/album/66ktxYfleeYuraDRATDsog) | 3:05 | 2023-01-03 | 2023-01-25 |
@@ -61,6 +61,7 @@
 | [3636](https://open.spotify.com/track/207OCGfaLuJllRSgHtKLji) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [3636](https://open.spotify.com/album/0LSU1wIbJmGLZhzOnkk9sN) | 4:11 | 2022-07-28 | 2022-08-20 |
 | [3636](https://open.spotify.com/track/2mHWjrN4rIL8vbWt0Od9Ux) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:11 | 2022-08-18 | 2022-10-29 |
 | [39 Minutes](https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [39 Minutes](https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf) | 3:33 | 2023-03-28 | 2023-05-05 |
+| [3ミリの恋](https://open.spotify.com/track/7bp51lpKoO46p6VYXdZWXV) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [3ミリの恋](https://open.spotify.com/album/3GbuSx3B5H8GbF86x4RLHF) | 4:18 | 2026-11-17 |  |
 | [3月9日](https://open.spotify.com/track/4K8AITUz5UPypFhWL0MOYb) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [3月9日](https://open.spotify.com/album/6NPa5fH3c9XETHgivdKsEk) | 4:36 | 2022-05-31 | 2022-07-29 |
 | [40](https://open.spotify.com/track/4Sop4yqn7A2Q1DAZYE5XuJ) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [40](https://open.spotify.com/album/62doEk0Rtv2vIpEa8iT5h6) | 3:45 | 2023-09-05 | 2023-10-04 |
 | [4321](https://open.spotify.com/track/4Ckk9ebEjVFcq8VajCwZad) | [Kana Adachi](https://open.spotify.com/artist/6SY4uTql6IMmzbAJH9oAsJ) | [4321](https://open.spotify.com/album/5fCArNN0ivsSQcVcmHocqt) | 3:28 | 2022-08-30 | 2022-09-07 |
@@ -246,6 +247,7 @@
 | [BEGINNING](https://open.spotify.com/track/728P2HhBu2Z9k2kCCI8QQE) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [BEGINNING](https://open.spotify.com/album/7Be319LwA7xAjiy0RVCABh) | 3:20 | 2026-02-11 | 2026-02-25 |
 | [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Belt of Venus](https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0) | 5:29 | 2025-10-21 | 2026-02-12 |
 | [Bestie](https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Bestie](https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg) | 2:49 | 2022-09-20 | 2023-09-08 |
+| [bestie \- Spotify BLUE? It's Okay Ver.](https://open.spotify.com/track/0w1z0b7poorHv4JTpFhNfA) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [bestie \(Spotify BLUE? It's Okay Ver.\)](https://open.spotify.com/album/15QUwtZB0Z9CFBqebkGhfX) | 3:52 | 2026-11-17 |  |
 | [Bet On Me](https://open.spotify.com/track/0EEXoHawr15PLM5lrA72CF) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Bet On Me](https://open.spotify.com/album/7s5wmTWGae6rAZKjIECofK) | 3:38 | 2023-02-14 | 2023-02-22 |
 | [Beyond](https://open.spotify.com/track/3j8TJsOphpnaBhMATCPFFY) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Beyond](https://open.spotify.com/album/3BPNImslHm4iPPcqObqWPs) | 4:06 | 2023-03-21 | 2023-03-29 |
 | [Beyond \- From "Moana 2"/Japanese Soundtrack Version](https://open.spotify.com/track/0H70KODhkvk6Bf07zI6PMz) | [Tomona Yabiku](https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz), [Mari Natsuki](https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay) | [Beyond \(From "Moana 2"/Japanese Soundtrack Version\)](https://open.spotify.com/album/3R5GFStpFSpLbwzdUfHY7w) | 3:50 | 2024-12-03 | 2025-03-12 |
@@ -1539,7 +1541,7 @@
 | [Pop Like A Star](https://open.spotify.com/track/1tOMpmvJ3R1T0Vg1k5ywLn) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Pop Like A Star](https://open.spotify.com/album/30NlXjthDCPV8cagRn9ljW) | 3:25 | 2025-05-21 | 2025-05-28 |
 | [Poppin' Run](https://open.spotify.com/track/5i2yNVp1fdqSwOGEMcDLnX) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [RUBY POP](https://open.spotify.com/album/4hqJmt2QoyXsAvIMsHbRYd) | 2:38 | 2024-11-26 | 2025-01-04 |
 | [possum](https://open.spotify.com/track/4xKaz6C5QChu5U4L20EWuY) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [possum](https://open.spotify.com/album/6WrzUeyBzr4pO4VKTrGYJS) | 3:25 | 2025-10-14 | 2025-10-22 |
-| [Power of Love](https://open.spotify.com/track/2FIj9489cK9Mi3LINRHvJ9) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [Power of Love](https://open.spotify.com/album/46Miq2i2gRZrOT48q9rLBQ) | 3:40 | 2026-07-14 |  |
+| [Power of Love](https://open.spotify.com/track/2FIj9489cK9Mi3LINRHvJ9) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [Power of Love](https://open.spotify.com/album/46Miq2i2gRZrOT48q9rLBQ) | 3:40 | 2026-07-14 | 2026-11-18 |
 | [pray](https://open.spotify.com/track/3gGzdcDRR09rzohXmgfP6k) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [pray](https://open.spotify.com/album/5J65WbplB4DTqKd3MuQN8b) | 4:27 | 2026-02-24 | 2026-03-04 |
 | [PRAYER](https://open.spotify.com/track/7fY5LEY2zb9iAVXDvHNUD7) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [PRAYER](https://open.spotify.com/album/3T7CqeQFo6O62szFbn36Kx) | 3:11 | 2023-05-30 | 2023-06-14 |
 | [Pre\-Romance](https://open.spotify.com/track/4Vyd2DEveTVKeieRy2S4oD) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance / Finale.](https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG) | 3:12 | 2022-11-10 | 2022-11-13 |
@@ -2222,7 +2224,7 @@
 | [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-04 | 2023-04-19 |
 | [YATTAAMAN](https://open.spotify.com/track/50SXt6w5aZFspG9JqM9Jyp) | [MisiiN](https://open.spotify.com/artist/1AWaERDm3O1qwyVa3NpmXC), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [YATTAAMAN](https://open.spotify.com/album/6FIcS3fPt11Dn5Xqo3AykX) | 2:51 | 2024-07-09 | 2024-07-17 |
 | [Yellow.](https://open.spotify.com/track/5DavTYGypSFyGYv3zGxwyP) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Yellow.](https://open.spotify.com/album/2IywDIPk6Q2s9LQlxMpxnt) | 3:09 | 2023-12-14 | 2023-12-20 |
-| [YES](https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [YES](https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8) | 5:01 | 2026-05-12 | 2026-11-13 |
+| [YES](https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [YES](https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8) | 5:01 | 2026-05-12 |  |
 | [Yes\-No](https://open.spotify.com/track/7MpOq1WicvJIBVJMezQ0x8) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [小さな歌](https://open.spotify.com/album/3HkSW9YrKFDeGxz0mTg3nu) | 4:38 | 2025-09-09 | 2025-09-17 |
 | [yesterday](https://open.spotify.com/track/09meCm8RAglUydfbQ5of8w) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [yesterday](https://open.spotify.com/album/5enVYavufYQAqMgsnGWi22) | 3:46 | 2024-10-08 | 2024-11-13 |
 | [YETI](https://open.spotify.com/track/4TFJVIYjTBFAkQKMsPAEUi) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [YETI](https://open.spotify.com/album/3AYPP1RzPIXUuOG0EN6fAt) | 4:33 | 2024-07-09 | 2024-07-17 |
@@ -2923,7 +2925,7 @@
 | [ボクとキミを繋ぐモノ](https://open.spotify.com/track/7vWyB6YGbIYru4C6wac97h) | [fumika](https://open.spotify.com/artist/4FPhimiDlyEUsTSMWAUrhG) | [ボクとキミを繋ぐモノ](https://open.spotify.com/album/7bacewGlY9bUzu2Fy94hKG) | 3:38 | 2022-06-07 | 2022-07-25 |
 | [ポッピンラブ!](https://open.spotify.com/track/05rUvwGY3b2zHXwFXf7H4f) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [ポッピンラブ!](https://open.spotify.com/album/0qatIInmTuyCQKhuvzHv56) | 4:19 | 2022-05-29 | 2022-06-01 |
 | [ポポリル \- feat\. 木村千咲](https://open.spotify.com/track/2kJt5wSgLt1LzK6AYaYhjy) | [souzoucity](https://open.spotify.com/artist/0jfrSwW42l9FzT2HDcUXuT), [木村千咲](https://open.spotify.com/artist/2gxCXIHeJ93kR6HhilaJDU) | [ポポリル \(feat\. 木村千咲\)](https://open.spotify.com/album/1usrQa1qEjMcLDSocAGOzC) | 3:38 | 2022-10-18 | 2022-10-26 |
-| [マイオーダー](https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [マイオーダー](https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2) | 3:37 | 2026-09-15 |  |
+| [マイオーダー](https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [マイオーダー](https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2) | 3:37 | 2026-09-15 | 2026-11-18 |
 | [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/35n7uoX6bP8VJRnFLW6KPJ) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/2ihGCQ3UJZ6hkf0KPJ27XO) | 3:05 | 2023-09-08 | 2023-09-20 |
 | [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/5aK41yNkJmkwa7vBroG2Vn) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/1LHccueAFTr89QOcxSmvKe) | 3:05 | 2023-09-05 | 2023-09-10 |
 | [マイ・ソングス](https://open.spotify.com/track/6HOGYAumHsPIzsEr9s8gZh) | [むらかみなぎさ](https://open.spotify.com/artist/7h0LsDhkjvkMBQRNyUABN9) | [マイ・ソングス](https://open.spotify.com/album/5JLXowCpYpe8mbqZ0Rsx5E) | 4:10 | 2022-06-07 | 2022-06-15 |

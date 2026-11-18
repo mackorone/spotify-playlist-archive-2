@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 74091,
+  "num_followers": 74106,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
+        "name": "Nice One",
+        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
+      },
+      "artists": [
+        {
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Call Your Bluff",
+      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
         "name": "Raise A Glass (feat. Dicky Barrett of The Defiant & The Mighty Mighty Bosstones)",
         "url": "https://open.spotify.com/album/1urJBgoe0uuLb6sjL5l32C"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 219216,
       "name": "Raise A Glass (feat. Dicky Barrett of The Defiant & The Mighty Mighty Bosstones)",
       "url": "https://open.spotify.com/track/65PmhK4bAAqQm7LYovOM5X"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
-        "name": "Nice One",
-        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
-      },
-      "artists": [
-        {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Call Your Bluff",
-      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Estoy en Paz",
-        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
+        "name": "Gr\u00fc\u00dfe ins Neandertal",
+        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
       },
       "artists": [
         {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
         }
       ],
-      "duration_ms": 172285,
-      "name": "Estoy en Paz",
-      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
+      "duration_ms": 106724,
+      "name": "Gr\u00fc\u00dfe ins Neandertal",
+      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Gr\u00fc\u00dfe ins Neandertal",
-        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
+        "name": "Estoy en Paz",
+        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
       },
       "artists": [
         {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 106724,
-      "name": "Gr\u00fc\u00dfe ins Neandertal",
-      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
+      "duration_ms": 172285,
+      "name": "Estoy en Paz",
+      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp"
-      },
-      "artists": [
-        {
-          "name": "Sublime Reggae Kings",
-          "url": "https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN"
-        },
-        {
-          "name": "Nenei",
-          "url": "https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7"
-        }
-      ],
-      "duration_ms": 179109,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Don't Speak",
         "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 280293,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp"
+      },
+      "artists": [
+        {
+          "name": "Sublime Reggae Kings",
+          "url": "https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN"
+        },
+        {
+          "name": "Nenei",
+          "url": "https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7"
+        }
+      ],
+      "duration_ms": 179109,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
         "name": "Looking Out For #1",
         "url": "https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 150553,
       "name": "Looking Out For #1 - Ska Version",
       "url": "https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Dead Man's Party",
-        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
-      },
-      "artists": [
-        {
-          "name": "Ludo",
-          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
-        }
-      ],
-      "duration_ms": 258019,
-      "name": "Dead Man's Party",
-      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Zombiler",
         "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 206129,
       "name": "Zombiler",
       "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Dead Man's Party",
+        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
+      },
+      "artists": [
+        {
+          "name": "Ludo",
+          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
+        }
+      ],
+      "duration_ms": 258019,
+      "name": "Dead Man's Party",
+      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
     },
     {
       "added_at": "2026-08-21 06:00:30",

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Hijos de la Ruina, Morad",
-  "num_followers": 532797,
+  "num_followers": 532825,
   "original_name": "Rap Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANbZ0OvxFDE/5oaSx1PH8iIQ1E15",
+  "snapshot_id": "AAAAANpczcffM4tJbtI25rAKwjJ6j1v8",
   "tracks": [
     {
       "added_at": "2026-11-12 23:01:35",
@@ -518,6 +518,10 @@
         {
           "name": "LosNi\u00f1osDelCaminito",
           "url": "https://open.spotify.com/artist/6BAYblGvSz7IOAer9LvyiM"
+        },
+        {
+          "name": "Rulo",
+          "url": "https://open.spotify.com/artist/6JjJyHqZtjE7cCI0ufl4F4"
         }
       ],
       "duration_ms": 251727,

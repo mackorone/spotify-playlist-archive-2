@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIHxzU1RGoIxUCCXbHmrKr+RtDWk",
+  "snapshot_id": "AAAAAPEvgdo6ebOkZRM07aBYGTolBxLj",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Light and Shadows",
-        "url": "https://open.spotify.com/album/1ETqZD3wX5T04c52yvjnS1"
-      },
-      "artists": [
-        {
-          "name": "Dani Hagan",
-          "url": "https://open.spotify.com/artist/18kN7Uls8YMuPipg8IN29O"
-        }
-      ],
-      "duration_ms": 191936,
-      "name": "Come To Your Senses",
-      "url": "https://open.spotify.com/track/1cSSnCwEBOf9Dj32wjnoGJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Join the Infestation",
         "url": "https://open.spotify.com/album/0xgMASQX6vORZfwS28Xv0k"
       },
@@ -59,82 +43,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Part Of You",
-        "url": "https://open.spotify.com/album/2e23K1xaWlNc7ChGWGanxC"
+        "name": "Love Light and Shadows",
+        "url": "https://open.spotify.com/album/1ETqZD3wX5T04c52yvjnS1"
       },
       "artists": [
         {
-          "name": "ASEA",
-          "url": "https://open.spotify.com/artist/5eRltBx78ejSeDjotwu2o6"
+          "name": "Dani Hagan",
+          "url": "https://open.spotify.com/artist/18kN7Uls8YMuPipg8IN29O"
         }
       ],
-      "duration_ms": 203167,
-      "name": "Part Of You",
-      "url": "https://open.spotify.com/track/6Bs4jja3M3kRObQMwWIVtV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Howl at the Moon",
-        "url": "https://open.spotify.com/album/4Ceq1aLVwFuH93o8NhthED"
-      },
-      "artists": [
-        {
-          "name": "Nieve Cassidy",
-          "url": "https://open.spotify.com/artist/4lXyXkPWt2IxSsKT7b3jDF"
-        }
-      ],
-      "duration_ms": 177243,
-      "name": "Howl at the Moon",
-      "url": "https://open.spotify.com/track/2QMCDAyludxNL3zPuqiLF8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dreary Day",
-        "url": "https://open.spotify.com/album/4IqOkDFzoWyqtdw3f251g2"
-      },
-      "artists": [
-        {
-          "name": "Renee Cassar",
-          "url": "https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "Dreary Day",
-      "url": "https://open.spotify.com/track/28ta4dpnDaYCMkgrBEDhSD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damage Is Done",
-        "url": "https://open.spotify.com/album/4ZbregcPZjXodJnhlHkzOz"
-      },
-      "artists": [
-        {
-          "name": "Mia Morris",
-          "url": "https://open.spotify.com/artist/2H62q6PF7z71FxZxACxg7H"
-        }
-      ],
-      "duration_ms": 187366,
-      "name": "Damage Is Done",
-      "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FUNK OFF",
-        "url": "https://open.spotify.com/album/1t4QhEnFoAb98ls6rLCTMH"
-      },
-      "artists": [
-        {
-          "name": "ZOMBEE",
-          "url": "https://open.spotify.com/artist/4QbbSnkfHH7rznR6HLsgNt"
-        }
-      ],
-      "duration_ms": 203368,
-      "name": "FUNK OFF",
-      "url": "https://open.spotify.com/track/6Eg1GECQpspvnvdx6Gfl4A"
+      "duration_ms": 191936,
+      "name": "Come To Your Senses",
+      "url": "https://open.spotify.com/track/1cSSnCwEBOf9Dj32wjnoGJ"
     },
     {
       "added_at": null,
@@ -155,24 +75,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Zero",
-        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
+        "name": "Part Of You",
+        "url": "https://open.spotify.com/album/2e23K1xaWlNc7ChGWGanxC"
       },
       "artists": [
         {
-          "name": "Die Mannequin",
-          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+          "name": "ASEA",
+          "url": "https://open.spotify.com/artist/5eRltBx78ejSeDjotwu2o6"
         }
       ],
-      "duration_ms": 193587,
-      "name": "Knock Me Out",
-      "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
+      "duration_ms": 203167,
+      "name": "Part Of You",
+      "url": "https://open.spotify.com/track/6Bs4jja3M3kRObQMwWIVtV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Live and Learn",
-        "url": "https://open.spotify.com/album/63YcHtmt0Y7DfM4E6UJs97"
+        "name": "Dreary Day",
+        "url": "https://open.spotify.com/album/4IqOkDFzoWyqtdw3f251g2"
       },
       "artists": [
         {
@@ -180,25 +100,41 @@
           "url": "https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft"
         }
       ],
-      "duration_ms": 212973,
-      "name": "Live and Learn",
-      "url": "https://open.spotify.com/track/3h9ZD4Z1faqKZzTJlDO2a9"
+      "duration_ms": 200946,
+      "name": "Dreary Day",
+      "url": "https://open.spotify.com/track/28ta4dpnDaYCMkgrBEDhSD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/5HaCposgjWWP6SoLFtEy9o"
+        "name": "FUNK OFF",
+        "url": "https://open.spotify.com/album/1t4QhEnFoAb98ls6rLCTMH"
       },
       "artists": [
         {
-          "name": "Batfarm",
-          "url": "https://open.spotify.com/artist/50zINatpEPyYpI15Pyxybf"
+          "name": "ZOMBEE",
+          "url": "https://open.spotify.com/artist/4QbbSnkfHH7rznR6HLsgNt"
         }
       ],
-      "duration_ms": 162000,
-      "name": "3",
-      "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
+      "duration_ms": 203368,
+      "name": "FUNK OFF",
+      "url": "https://open.spotify.com/track/6Eg1GECQpspvnvdx6Gfl4A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Howl at the Moon",
+        "url": "https://open.spotify.com/album/4Ceq1aLVwFuH93o8NhthED"
+      },
+      "artists": [
+        {
+          "name": "Nieve Cassidy",
+          "url": "https://open.spotify.com/artist/4lXyXkPWt2IxSsKT7b3jDF"
+        }
+      ],
+      "duration_ms": 177243,
+      "name": "Howl at the Moon",
+      "url": "https://open.spotify.com/track/2QMCDAyludxNL3zPuqiLF8"
     },
     {
       "added_at": null,
@@ -219,6 +155,118 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damage Is Done",
+        "url": "https://open.spotify.com/album/4ZbregcPZjXodJnhlHkzOz"
+      },
+      "artists": [
+        {
+          "name": "Mia Morris",
+          "url": "https://open.spotify.com/artist/2H62q6PF7z71FxZxACxg7H"
+        }
+      ],
+      "duration_ms": 187366,
+      "name": "Damage Is Done",
+      "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Island Life 50",
+        "url": "https://open.spotify.com/album/2RzT3lBYLbBjgT27n0YD3R"
+      },
+      "artists": [
+        {
+          "name": "Renee Cassar",
+          "url": "https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft"
+        }
+      ],
+      "duration_ms": 290706,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/1bbGuWSXw01n8HQrjk2HtU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Zero",
+        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "duration_ms": 193587,
+      "name": "Knock Me Out",
+      "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death of Me",
+        "url": "https://open.spotify.com/album/4WiakFNghbjHTNDTQMuVe1"
+      },
+      "artists": [
+        {
+          "name": "Evol Walks",
+          "url": "https://open.spotify.com/artist/5s9CuMyAFTD43AiRtBOzm0"
+        }
+      ],
+      "duration_ms": 220150,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blow The Man Down",
+        "url": "https://open.spotify.com/album/2vqeT6IwPk3lpAJKDtEt3U"
+      },
+      "artists": [
+        {
+          "name": "HER FURY",
+          "url": "https://open.spotify.com/artist/2cdwWBDLA2Wd47s5Pqco9K"
+        }
+      ],
+      "duration_ms": 162569,
+      "name": "Blow The Man Down",
+      "url": "https://open.spotify.com/track/57jRjEFuTddK1fwwvJ6f24"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superbeautifulmonster",
+        "url": "https://open.spotify.com/album/7j1wE833kH2Bezi7W7nLyx"
+      },
+      "artists": [
+        {
+          "name": "Bif Naked",
+          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
+        }
+      ],
+      "duration_ms": 164389,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live and Learn",
+        "url": "https://open.spotify.com/album/63YcHtmt0Y7DfM4E6UJs97"
+      },
+      "artists": [
+        {
+          "name": "Renee Cassar",
+          "url": "https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Live and Learn",
+      "url": "https://open.spotify.com/track/3h9ZD4Z1faqKZzTJlDO2a9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love is Art",
         "url": "https://open.spotify.com/album/0cyBfxgv5yswl1JB4YIBIe"
       },
@@ -235,18 +283,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/3CeBQNcpAp5qWQrvhhImU2"
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/3Qs3STrJvEapIlw7JIheGJ"
       },
       "artists": [
         {
-          "name": "Of Flies & Jam",
-          "url": "https://open.spotify.com/artist/0pKxYIrwzIhxzAeKN54FkL"
+          "name": "Leilani Kilgore",
+          "url": "https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe"
         }
       ],
-      "duration_ms": 212793,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/4rggqTr6AAKYvXCJRHYFKH"
+      "duration_ms": 212684,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/38Ld7ahoYOPIyaK5pZRJTF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/5HaCposgjWWP6SoLFtEy9o"
+      },
+      "artists": [
+        {
+          "name": "Batfarm",
+          "url": "https://open.spotify.com/artist/50zINatpEPyYpI15Pyxybf"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "3",
+      "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds & Studs",
+        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
+      },
+      "artists": [
+        {
+          "name": "Morningwood",
+          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
     },
     {
       "added_at": null,
@@ -263,6 +343,54 @@
       "duration_ms": 215786,
       "name": "Beat Backwards",
       "url": "https://open.spotify.com/track/6H3YZW5aRxzZliGJjb0vlw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stark",
+        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
+      },
+      "artists": [
+        {
+          "name": "Cherri Bomb",
+          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FINO + BLEED",
+        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "Miss Americvnt",
+      "url": "https://open.spotify.com/track/0f5GbhBWi6BReYANrvg3N8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puppetmaster",
+        "url": "https://open.spotify.com/album/45W14ILsbwkBjsudVVmkYl"
+      },
+      "artists": [
+        {
+          "name": "Ariane Campbell",
+          "url": "https://open.spotify.com/artist/0B4UWzn4URIjyzLLkHrzp7"
+        }
+      ],
+      "duration_ms": 234442,
+      "name": "Shot to the Heart",
+      "url": "https://open.spotify.com/track/4uoSBgdA5GDqpN6LN8SoPF"
     },
     {
       "added_at": null,
@@ -299,18 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Studs",
-        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
+        "name": "Bitchin'",
+        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
       },
       "artists": [
         {
-          "name": "Morningwood",
-          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
         }
       ],
-      "duration_ms": 181613,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
+      "duration_ms": 201142,
+      "name": "Better Off Dancing",
+      "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
     },
     {
       "added_at": null,
@@ -331,34 +459,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Life 50",
-        "url": "https://open.spotify.com/album/2RzT3lBYLbBjgT27n0YD3R"
+        "name": "Snake Oil",
+        "url": "https://open.spotify.com/album/0r8HRmEzxbbvcjQypaPDzV"
       },
       "artists": [
         {
-          "name": "Renee Cassar",
-          "url": "https://open.spotify.com/artist/5HZGH1vb26Yn4T6ec1Rcft"
+          "name": "Made You Look / Made You Stare",
+          "url": "https://open.spotify.com/artist/5BYvloCuyhEqJGkyKoQXIp"
         }
       ],
-      "duration_ms": 290706,
-      "name": "Addicted To Love",
-      "url": "https://open.spotify.com/track/1bbGuWSXw01n8HQrjk2HtU"
+      "duration_ms": 188750,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/6guKD661VTP8RApMXF9gPm"
     },
     {
       "added_at": null,
       "album": {
-        "name": "FINO + BLEED",
-        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
+        "name": "Invisible Tonight",
+        "url": "https://open.spotify.com/album/7ygsghuGcE8KN2kPY9vNRa"
       },
       "artists": [
         {
-          "name": "Die Mannequin",
-          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+          "name": "The Nearly Deads",
+          "url": "https://open.spotify.com/artist/02xGrkvi3hMrDW023OJNAc"
         }
       ],
-      "duration_ms": 191240,
-      "name": "Dead Honey",
-      "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
+      "duration_ms": 204683,
+      "name": "Changeover",
+      "url": "https://open.spotify.com/track/7xTk2HP884Gw5SVJKOXmWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/4EZYE3c9PyVObfKInMjZn0"
+      },
+      "artists": [
+        {
+          "name": "No Show Joe",
+          "url": "https://open.spotify.com/artist/1irVGvdHx9xqnzhg2evrRP"
+        }
+      ],
+      "duration_ms": 276617,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/7nitGpFPPNULZbGBniIv1v"
     },
     {
       "added_at": null,
@@ -379,38 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watching You Watching Her",
-        "url": "https://open.spotify.com/album/5Yl0cwiXQPpnywEk1Ew406"
-      },
-      "artists": [
-        {
-          "name": "Mia Morris",
-          "url": "https://open.spotify.com/artist/2H62q6PF7z71FxZxACxg7H"
-        }
-      ],
-      "duration_ms": 177890,
-      "name": "Watching You Watching Her",
-      "url": "https://open.spotify.com/track/7G8eGrSjdXxAjbHWQsUUNR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death of Me",
-        "url": "https://open.spotify.com/album/4WiakFNghbjHTNDTQMuVe1"
-      },
-      "artists": [
-        {
-          "name": "Evol Walks",
-          "url": "https://open.spotify.com/artist/5s9CuMyAFTD43AiRtBOzm0"
-        }
-      ],
-      "duration_ms": 220150,
-      "name": "Death of Me",
-      "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superbeautifulmonster",
         "url": "https://open.spotify.com/album/7j1wE833kH2Bezi7W7nLyx"
       },
@@ -420,25 +532,41 @@
           "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
         }
       ],
-      "duration_ms": 164389,
-      "name": "Let Down",
-      "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
+      "duration_ms": 156683,
+      "name": "Funeral Of A Good Grrl",
+      "url": "https://open.spotify.com/track/2UOEWzQIGIwxxBdT64ZV8J"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Seven Stars",
-        "url": "https://open.spotify.com/album/25VkYHFaFthjs7CHtmws0t"
+        "name": "FINO + BLEED",
+        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
       },
       "artists": [
         {
-          "name": "Leela",
-          "url": "https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E"
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
         }
       ],
-      "duration_ms": 193899,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
+      "duration_ms": 191240,
+      "name": "Dead Honey",
+      "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fractured Signal",
+        "url": "https://open.spotify.com/album/1mv58iR2rrblNmCAvrmsyF"
+      },
+      "artists": [
+        {
+          "name": "Sylvex",
+          "url": "https://open.spotify.com/artist/1mw0mI6MPqsc48zSN8CVE4"
+        }
+      ],
+      "duration_ms": 168870,
+      "name": "Static Crown",
+      "url": "https://open.spotify.com/track/498HQm4WkKJsmysSXdJBNn"
     },
     {
       "added_at": null,
@@ -463,40 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salutatorian",
-        "url": "https://open.spotify.com/album/6cx1ulvvjJj9mMAOfWKn9q"
-      },
-      "artists": [
-        {
-          "name": "Cover Zero",
-          "url": "https://open.spotify.com/artist/6pjibjBoWtKYEqUg61PiUW"
-        }
-      ],
-      "duration_ms": 141124,
-      "name": "Salutatorian",
-      "url": "https://open.spotify.com/track/0sR75ZFcpHgSubNgATHTwT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/4Px5R2z2gNRdc4aGKpG1mD"
-      },
-      "artists": [
-        {
-          "name": "Jessi Jae Joplin",
-          "url": "https://open.spotify.com/artist/05yjGKbL6EopTx9h3O59Lk"
-        }
-      ],
-      "duration_ms": 253846,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/50S1t4twWPp2FgUAhZZkRc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stark",
-        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
+        "name": "This Is the End of Control",
+        "url": "https://open.spotify.com/album/3rothUjyXzBz0I3fvHD1Cj"
       },
       "artists": [
         {
@@ -504,15 +600,63 @@
           "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
         }
       ],
-      "duration_ms": 191066,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
+      "duration_ms": 167786,
+      "name": "Drawing a Blank",
+      "url": "https://open.spotify.com/track/4uq8q972ePu8YT6cy2eTgj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Invisible Tonight",
-        "url": "https://open.spotify.com/album/7ygsghuGcE8KN2kPY9vNRa"
+        "name": "Gold Medal (U.S. Version 83770)",
+        "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "It Takes One to Know One",
+      "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Deserve This",
+        "url": "https://open.spotify.com/album/3iZYx35KvnUI8AOB2G6vfA"
+      },
+      "artists": [
+        {
+          "name": "Nostalgic Brightlights",
+          "url": "https://open.spotify.com/artist/4dmL0UnJOb0plkooWuzveR"
+        }
+      ],
+      "duration_ms": 230978,
+      "name": "You Deserve This",
+      "url": "https://open.spotify.com/track/4wm85dBad1N1rTWOaQWWez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unbeautiful",
+        "url": "https://open.spotify.com/album/1rHXAzNDnX5EU6eAZo7BWm"
+      },
+      "artists": [
+        {
+          "name": "Lesley Roy",
+          "url": "https://open.spotify.com/artist/1hKEBSwDGhKmshGFWiWm7S"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Psycho Bitch",
+      "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge of the Nearly Deads",
+        "url": "https://open.spotify.com/album/06cPgu1TGPbbMuziuNcwNY"
       },
       "artists": [
         {
@@ -520,9 +664,57 @@
           "url": "https://open.spotify.com/artist/02xGrkvi3hMrDW023OJNAc"
         }
       ],
-      "duration_ms": 204683,
-      "name": "Changeover",
-      "url": "https://open.spotify.com/track/7xTk2HP884Gw5SVJKOXmWO"
+      "duration_ms": 211291,
+      "name": "Not Listening",
+      "url": "https://open.spotify.com/track/38MVfDV99sgd5GaMvZrxRR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XXX Moonshine",
+        "url": "https://open.spotify.com/album/2WkUFXt4EuaBzViU4rJRFF"
+      },
+      "artists": [
+        {
+          "name": "Leilani Kilgore",
+          "url": "https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "XXX Moonshine",
+      "url": "https://open.spotify.com/track/4l1t49aRazIOhbl42KRBQ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/5GfHdio41TToJDpLe32E23"
+      },
+      "artists": [
+        {
+          "name": "Juliet Simms",
+          "url": "https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh"
+        }
+      ],
+      "duration_ms": 159285,
+      "name": "All or Nothing",
+      "url": "https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boy with a Bike",
+        "url": "https://open.spotify.com/album/5JNUF7ff952dQzWjI0NXtG"
+      },
+      "artists": [
+        {
+          "name": "Gianna Mae",
+          "url": "https://open.spotify.com/artist/3Nj1baQyLURAOBV4qvlDT9"
+        }
+      ],
+      "duration_ms": 156477,
+      "name": "Boy with a Bike",
+      "url": "https://open.spotify.com/track/1ECFwfx0VdQaCWnI6Liwut"
     },
     {
       "added_at": null,
@@ -536,137 +728,41 @@
           "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
         }
       ],
-      "duration_ms": 244533,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
+      "duration_ms": 198570,
+      "name": "Welcome To The Badlands",
+      "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bitchin'",
-        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/2fWf1WOqz10CQhH3mKMtNk"
       },
       "artists": [
         {
-          "name": "The Donnas",
-          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+          "name": "( t ( u ) o n o )",
+          "url": "https://open.spotify.com/artist/1VtTZezUOJTYSv9ozbCbvF"
         }
       ],
-      "duration_ms": 201142,
-      "name": "Better Off Dancing",
-      "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
+      "duration_ms": 255000,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/23ttGQxXSHYO8FtYafaFcd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sonic Bloom",
-        "url": "https://open.spotify.com/album/7hTL4upicJyTw0BQpEAcC0"
+        "name": "Charm City",
+        "url": "https://open.spotify.com/album/7pHCjujBanl7VlBLPltbPC"
       },
       "artists": [
         {
-          "name": "The Kidd Electric",
-          "url": "https://open.spotify.com/artist/5xETbCYYG741ON9z7FBjPz"
+          "name": "Bad Seed Rising",
+          "url": "https://open.spotify.com/artist/1SQPpVksSrbif6zjT30Obe"
         }
       ],
-      "duration_ms": 205311,
-      "name": "Get By",
-      "url": "https://open.spotify.com/track/11dav0PkNPDaOLeIJYzIvZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/59HjxImQYRaASu1y3HHvOx"
-      },
-      "artists": [
-        {
-          "name": "Crazy Sally",
-          "url": "https://open.spotify.com/artist/51aHHbbgZygY4k1P7UCLfV"
-        }
-      ],
-      "duration_ms": 232621,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/6jzw4EEnXgI2nrpYRrz6qG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Woman's Heart",
-        "url": "https://open.spotify.com/album/2qxzYrEm08XMrNsdFUji8W"
-      },
-      "artists": [
-        {
-          "name": "Laura Pold",
-          "url": "https://open.spotify.com/artist/5gKw2cjiR79N27CHVm3Ccg"
-        }
-      ],
-      "duration_ms": 191249,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/7EVqbCGN0bSKwmkooJphmv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Break",
-        "url": "https://open.spotify.com/album/59yvgwphrtjSDLW859PLaA"
-      },
-      "artists": [
-        {
-          "name": "No Show Joe",
-          "url": "https://open.spotify.com/artist/6ABVn3CvUgac76xWlu8B1b"
-        }
-      ],
-      "duration_ms": 226117,
-      "name": "Hear Me Break",
-      "url": "https://open.spotify.com/track/5YHeqtTgcGW19SOZA1ySB4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/1T4i5PgzOtqbdItFNNQmee"
-      },
-      "artists": [
-        {
-          "name": "Dred Buffalo",
-          "url": "https://open.spotify.com/artist/3uL9WNtLxOMaZhhmWH5eSE"
-        }
-      ],
-      "duration_ms": 228605,
-      "name": "Honeymoon",
-      "url": "https://open.spotify.com/track/5nyi2gkLVakgaDwqUUrFZA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Short Piece",
-        "url": "https://open.spotify.com/album/3eDrL9SNMHiZiDPY47z5y1"
-      },
-      "artists": [
-        {
-          "name": "V'arc",
-          "url": "https://open.spotify.com/artist/3BPM77OfRftbYuixmxag7O"
-        }
-      ],
-      "duration_ms": 166891,
-      "name": "Short Piece",
-      "url": "https://open.spotify.com/track/373esSRWQHKlQk08h75kzI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/3OFiNaJ68blYZQATZAdNKs"
-      },
-      "artists": [
-        {
-          "name": "Bif Naked",
-          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "Fuck You 2",
-      "url": "https://open.spotify.com/track/3lOMHsQnZ5E6XXqz8fEMPD"
+      "duration_ms": 192560,
+      "name": "Timebomb",
+      "url": "https://open.spotify.com/track/5ypKgGv59JUNgZAkomGo1V"
     },
     {
       "added_at": null,
@@ -687,134 +783,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rusty Jam - EP",
-        "url": "https://open.spotify.com/album/7jGKP7Yb5nvid1FrWtIqnh"
+        "name": "Bitchin'",
+        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
       },
       "artists": [
         {
-          "name": "Rusty Jam",
-          "url": "https://open.spotify.com/artist/5hXbMi0h9VmSScXyws84KN"
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
         }
       ],
-      "duration_ms": 243488,
-      "name": "Heavy Love",
-      "url": "https://open.spotify.com/track/5rL8ztXSqLsKpOdh8VqOt3"
+      "duration_ms": 174236,
+      "name": "Here For The Party",
+      "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Neon Zero",
-        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
-      },
-      "artists": [
-        {
-          "name": "Die Mannequin",
-          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
-        }
-      ],
-      "duration_ms": 211941,
-      "name": "I'm Just A Girl",
-      "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I DONT WANT YOU",
-        "url": "https://open.spotify.com/album/5H7ULcEyCAPUvpePCriHx8"
-      },
-      "artists": [
-        {
-          "name": "BRECHTJE",
-          "url": "https://open.spotify.com/artist/0bzcOKedhZmUGtVLLuRsZn"
-        },
-        {
-          "name": "HALTA",
-          "url": "https://open.spotify.com/artist/11nvLJKHfHgJ2yHqGR3GzD"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "I DONT WANT YOU",
-      "url": "https://open.spotify.com/track/17VL4zOgpjUG8vL5zGpNoE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Should Never Be Alone",
-        "url": "https://open.spotify.com/album/0rlTRndmwSS4Uu7PgUanuV"
-      },
-      "artists": [
-        {
-          "name": "Loren Wylder",
-          "url": "https://open.spotify.com/artist/4KR2YDJ42mAOTkFqyHi9HG"
-        }
-      ],
-      "duration_ms": 253136,
-      "name": "We Should Never Be Alone",
-      "url": "https://open.spotify.com/track/4brZGwllzw61JLPFM7hnbt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/4EZYE3c9PyVObfKInMjZn0"
+        "name": "Hear Me Break",
+        "url": "https://open.spotify.com/album/59yvgwphrtjSDLW859PLaA"
       },
       "artists": [
         {
           "name": "No Show Joe",
-          "url": "https://open.spotify.com/artist/1irVGvdHx9xqnzhg2evrRP"
+          "url": "https://open.spotify.com/artist/6ABVn3CvUgac76xWlu8B1b"
         }
       ],
-      "duration_ms": 276617,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/7nitGpFPPNULZbGBniIv1v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Snake Oil",
-        "url": "https://open.spotify.com/album/0r8HRmEzxbbvcjQypaPDzV"
-      },
-      "artists": [
-        {
-          "name": "Made You Look / Made You Stare",
-          "url": "https://open.spotify.com/artist/5BYvloCuyhEqJGkyKoQXIp"
-        }
-      ],
-      "duration_ms": 188750,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/6guKD661VTP8RApMXF9gPm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stfu",
-        "url": "https://open.spotify.com/album/7EOzb2JppzmZG2BuFAUSvU"
-      },
-      "artists": [
-        {
-          "name": "Mia Morris",
-          "url": "https://open.spotify.com/artist/2H62q6PF7z71FxZxACxg7H"
-        }
-      ],
-      "duration_ms": 175435,
-      "name": "Stfu",
-      "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/4CaDpxdeAQMrhuS5jBfEhE"
-      },
-      "artists": [
-        {
-          "name": "Allison Iraheta",
-          "url": "https://open.spotify.com/artist/48E5csclQ92SrzSRQmEeC4"
-        }
-      ],
-      "duration_ms": 154386,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/5rmvHsh0W46tZWioPDNlwa"
+      "duration_ms": 226117,
+      "name": "Hear Me Break",
+      "url": "https://open.spotify.com/track/5YHeqtTgcGW19SOZA1ySB4"
     }
   ],
   "unique_name": "Renee Cassar Radio",

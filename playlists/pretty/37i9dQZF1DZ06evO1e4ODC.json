@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 215272,
+  "num_followers": 215289,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAABu/NY6UHL7RnWje90JLtlQ",
+  "snapshot_id": "avpHgAAAAADxLoUe1mmVjwLvkKQpBmBI",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alex Campos y Sus Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j"
+        "name": "Con Manos Vac\u00edas",
+        "url": "https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO"
       },
       "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Suave Voz - En Vivo",
-      "url": "https://open.spotify.com/track/46I3Gs1rONe92owNoXHgja"
+      "duration_ms": 426506,
+      "name": "Con Manos Vac\u00edas - En Vivo",
+      "url": "https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr"
     },
     {
       "added_at": null,
@@ -695,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Manos Vac\u00edas",
-        "url": "https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO"
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/2PR5VvCobEgA3IdABDw87j"
       },
       "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 426506,
-      "name": "Con Manos Vac\u00edas - En Vivo",
-      "url": "https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr"
+      "duration_ms": 218746,
+      "name": "Suave Voz - En Vivo",
+      "url": "https://open.spotify.com/track/46I3Gs1rONe92owNoXHgja"
     },
     {
       "added_at": null,

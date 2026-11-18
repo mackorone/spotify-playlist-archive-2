@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > AUMEX takes over the playlist, spotlighting the music, artists and cultural energy of the 2026 Summit\. Cover: Anna Makula
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,638 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,657 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 49 | [Motor Motor](https://open.spotify.com/track/6hU1MbVAZVz44v8DmlZlIP) | [mic pro](https://open.spotify.com/artist/6sn7hoIPwYnoa0tDL1tTRL) | [Motor Motor](https://open.spotify.com/album/3xdCknCmsJVlt4bh7Yo1qJ) | 2:42 |
 | 50 | [Kikutte](https://open.spotify.com/track/4XP9lS6HR6rbPJxgEKRokV) | [Mikie Wine](https://open.spotify.com/artist/1YKKg9A5eJetiEq8YPBMWz), [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Kikutte](https://open.spotify.com/album/6Ig9EHtxN4tzO6PCo6Fmxu) | 2:41 |
 
-Snapshot ID: `AAAAAL7kfKu+CcgnmcUNAOkhN25yp3IJ`
+Snapshot ID: `AAAAAKBxdyiGHpRKSL7835kAjwsaaFgt`

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 60170,
+  "num_followers": 60186,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avj2AAAAAACNimOqIqpOD+g8FQakqhgn",
+  "snapshot_id": "avpHgAAAAADn4fjfdOyBrpsEQ8+vqJkv",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asi Nomas",
-        "url": "https://open.spotify.com/album/1p38dNTQingk5pqbCaz1vY"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "El Afortunado",
-      "url": "https://open.spotify.com/track/01kjAH0uvpTp0clLfQxMo8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mariguapo",
         "url": "https://open.spotify.com/album/6414ufCUPBaEySlJzWiDW5"
       },
@@ -591,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1or Miedo",
-        "url": "https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb"
+        "name": "Asi Nomas",
+        "url": "https://open.spotify.com/album/1p38dNTQingk5pqbCaz1vY"
       },
       "artists": [
         {
@@ -600,29 +584,9 @@
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 232254,
-      "name": "Se\u00f1or Miedo",
-      "url": "https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "18 Segundos",
-        "url": "https://open.spotify.com/album/53Fh1PUaYyGf7FRHR3WPyt"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Jes\u00fas Ojeda y Sus Parientes",
-          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
-        }
-      ],
-      "duration_ms": 212377,
-      "name": "18 Segundos",
-      "url": "https://open.spotify.com/track/5rnUPCxcAO4m0nPrHqAloE"
+      "duration_ms": 190000,
+      "name": "El Afortunado",
+      "url": "https://open.spotify.com/track/01kjAH0uvpTp0clLfQxMo8"
     },
     {
       "added_at": null,
@@ -647,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta Del Se\u00f1or",
-        "url": "https://open.spotify.com/album/6omQkNP8Av5r2vphssoiw7"
+        "name": "Se\u00f1or Miedo",
+        "url": "https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb"
       },
       "artists": [
-        {
-          "name": "Jes\u00fas Uriarte",
-          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
-        },
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 185250,
-      "name": "La Fiesta Del Se\u00f1or",
-      "url": "https://open.spotify.com/track/1YUIuShzf7TvzTeCT0HZoQ"
+      "duration_ms": 232254,
+      "name": "Se\u00f1or Miedo",
+      "url": "https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6"
     },
     {
       "added_at": null,
@@ -679,6 +639,46 @@
       "duration_ms": 247875,
       "name": "Estratega de Guerra",
       "url": "https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "18 Segundos",
+        "url": "https://open.spotify.com/album/53Fh1PUaYyGf7FRHR3WPyt"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Jes\u00fas Ojeda y Sus Parientes",
+          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
+        }
+      ],
+      "duration_ms": 212377,
+      "name": "18 Segundos",
+      "url": "https://open.spotify.com/track/5rnUPCxcAO4m0nPrHqAloE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta Del Se\u00f1or",
+        "url": "https://open.spotify.com/album/6omQkNP8Av5r2vphssoiw7"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "La Fiesta Del Se\u00f1or",
+      "url": "https://open.spotify.com/track/1YUIuShzf7TvzTeCT0HZoQ"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El De Las Plumas (En Vivo)",
+        "url": "https://open.spotify.com/album/6BbEuFpMlAZVTnDwzHFg7k"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "El De Las Plumas - En Vivo",
+      "url": "https://open.spotify.com/track/2rhvsaKiqg0lZiLMv8h8zM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Modo Que Sea Mentira",
         "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forjando El Camino",
-        "url": "https://open.spotify.com/album/5NcAXKjS33TtqttBKRjcsx"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 169905,
-      "name": "Cuatro Letras",
-      "url": "https://open.spotify.com/track/2xQdn2sYrp4bNJunP8aEOx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slapperz",
         "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
       },
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El De Las Plumas (En Vivo)",
-        "url": "https://open.spotify.com/album/6BbEuFpMlAZVTnDwzHFg7k"
+        "name": "Forjando El Camino",
+        "url": "https://open.spotify.com/album/5NcAXKjS33TtqttBKRjcsx"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 179500,
-      "name": "El De Las Plumas - En Vivo",
-      "url": "https://open.spotify.com/track/2rhvsaKiqg0lZiLMv8h8zM"
+      "duration_ms": 169905,
+      "name": "Cuatro Letras",
+      "url": "https://open.spotify.com/track/2xQdn2sYrp4bNJunP8aEOx"
     },
     {
       "added_at": null,

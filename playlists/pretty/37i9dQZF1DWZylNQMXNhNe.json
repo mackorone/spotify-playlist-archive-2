@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247372,
+  "num_followers": 247368,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJyAVukp5Lisr0jbTWj5oEDQu9UA",
+  "snapshot_id": "AAAAAL91nF2OmANdWz4adyYXVzfXsCd2",
   "tracks": [
     {
       "added_at": "2026-11-13 03:00:16",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-11-13 03:00:16",
       "album": {
-        "name": "Alfazema e Sal Grosso",
-        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Alfazema e Sal Grosso",
-      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
-    },
-    {
-      "added_at": "2026-11-13 03:00:16",
-      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 127600,
       "name": "Volta",
       "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
+    },
+    {
+      "added_at": "2026-11-13 03:00:16",
+      "album": {
+        "name": "Alfazema e Sal Grosso",
+        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Alfazema e Sal Grosso",
+      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
     },
     {
       "added_at": "2026-11-13 03:00:16",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-11-13 03:00:16",
       "album": {
+        "name": "2 PUNKS NEON",
+        "url": "https://open.spotify.com/album/3Q1SvCmxFExYyTHO6g2I6g"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 235031,
+      "name": "2 PUNKS NEON",
+      "url": "https://open.spotify.com/track/1XgY1znA20HBXAPxyeNuSn"
+    },
+    {
+      "added_at": "2026-11-13 03:00:16",
+      "album": {
         "name": "Receita",
         "url": "https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 123446,
       "name": "Receita",
       "url": "https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh"
-    },
-    {
-      "added_at": "2026-11-13 03:00:16",
-      "album": {
-        "name": "2 PUNKS NEON",
-        "url": "https://open.spotify.com/album/3Q1SvCmxFExYyTHO6g2I6g"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 235031,
-      "name": "2 PUNKS NEON",
-      "url": "https://open.spotify.com/track/1XgY1znA20HBXAPxyeNuSn"
     },
     {
       "added_at": "2026-11-13 03:00:16",

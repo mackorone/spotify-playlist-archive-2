@@ -16903,6 +16903,32 @@
     },
     {
       "album": {
+        "name": "No Lo Pienses Tanto",
+        "url": "https://open.spotify.com/album/3EUBsyVWQTIIu91XLmPbpN"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "No Lo Pienses Tanto",
+      "url": "https://open.spotify.com/track/75pdqhqJlq5m2eJ5rOzhYf"
+    },
+    {
+      "album": {
         "name": "No Me Dejes en Visto",
         "url": "https://open.spotify.com/album/5NgUGhM2y47rbhANd1v5D9"
       },
@@ -20104,6 +20130,10 @@
         {
           "name": "Doony Graff",
           "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "NEETRAM",
+          "url": "https://open.spotify.com/artist/6lcIRYh3d5bJR02L3DFSgE"
         }
       ],
       "date_added": "2026-10-30",
