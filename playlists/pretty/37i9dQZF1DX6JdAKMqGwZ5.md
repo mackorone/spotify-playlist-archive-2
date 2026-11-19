@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Las mejores novedades emergentes del mundo indie, cada viernes\. Foto: Amatria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,000 likes - 120 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,990 likes - 120 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [Que te vaya bien](https://open.spotify.com/track/1G7avo8lEuUFe5DTI9UV9i) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy) | [Que te vaya bien](https://open.spotify.com/album/60YkiBg2jFcISJoGX9IUQm) | 3:59 |
 | 120 | [Cabra](https://open.spotify.com/track/1lPTSgrzIOG1HZINgwr7Cf) | [ORTIGA](https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6), [Galician Army](https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x) | [Cabra](https://open.spotify.com/album/0GDmQb3qZDotlX0cUBZDYO) | 3:11 |
 
-Snapshot ID: `AAAAAJhEjW8nhQ6wa3cP3SKBVPUhFmFm`
+Snapshot ID: `AAAAAOYr6ZsgmeQJLapUJDT0zkusR0BV`

@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: Fall Out Boy
+> Ecca Vandal 🤘
 
-809 songs - 1 day 23 hr 44 min
+810 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Cross Your Heart](https://open.spotify.com/track/2Dc7IQg5KhKGDCqrTIMsVA) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Cross Your Heart](https://open.spotify.com/album/5t4oHdZQYOc3ASJurLiJgM) | 3:38 | 2025-10-02 | 2026-02-06 |
 | [Crucified](https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Crucified](https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE) | 4:23 | 2026-09-24 |  |
 | [Cruel Streak](https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [A Pound of Feathers](https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13) | 4:09 | 2026-03-12 | 2026-05-08 |
+| [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/4cErKi16sjFZOfd85t9dnt) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [LOOKING FOR PEOPLE TO UNFOLLOW](https://open.spotify.com/album/6S7mwrc4FXlG4MmuBaDGAA) | 2:30 | 2026-11-19 |  |
 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-03-13 | 2025-05-30 |
 | [Cryogen](https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Cryogen](https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f) | 5:01 | 2026-04-23 | 2026-06-05 |
 | [Cut My Hair](https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [TOY](https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52) | 3:04 | 2025-01-16 | 2025-06-20 |

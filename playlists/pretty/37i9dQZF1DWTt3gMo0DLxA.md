@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Binde Meeda Binde vetti!
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,788 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,245 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Dheema](https://open.spotify.com/track/2zQREkxHQql1oW7NvMCaZk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sri Sai Kiran](https://open.spotify.com/artist/5qGB4a7ofOTfizCOQX5U5b) | [Love Insurance Kompany \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1amMxIOiRmuujw24rXrCq0) | 3:55 |
 | 50 | [Mamidi Konala Meena Mabbulemo Nilichinayi](https://open.spotify.com/track/59aZKkLRb9jopf2e8P4PRy) | [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY), [Nagavva chunchu](https://open.spotify.com/artist/6IlysKkSufCASwFwGTApJB), [Kalyan Keys](https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN) | [Mamidi Konala Meena Mabbulemo Nilichinayi](https://open.spotify.com/album/4r5KYA9NveiXPLJ3ISBMu0) | 4:03 |
 
-Snapshot ID: `AAAAACrY/0NkWX8gIE4O1BHnyuVcplhz`
+Snapshot ID: `AAAAAHAumeQlcBeEjaeM0N1oZ7uUaguH`

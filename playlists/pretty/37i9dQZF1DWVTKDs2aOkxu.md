@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Racing Mount Pleasant
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,908 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922,778 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [FERAL CHILD ;\-0](https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY III](https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY) | 2:39 |
 | 80 | [Benjamin](https://open.spotify.com/track/4v7NvcYqZrlfmWmH8ZYUsz) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Benjamin](https://open.spotify.com/album/5YoD2IL272Cl7rWY64sOjq) | 2:24 |
 
-Snapshot ID: `AAAAAOq/vm+TlLLCrAWmx8u5g3ue/2qd`
+Snapshot ID: `AAAAADIlDlPkfsU9Wdsh1Bx/d1CLeOma`

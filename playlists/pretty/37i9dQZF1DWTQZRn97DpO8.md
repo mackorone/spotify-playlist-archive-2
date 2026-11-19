@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : nassím
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,684 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,625 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [PERIPETIES](https://open.spotify.com/track/4bLBmjjfDTrIdXRPwXNPVy) | [Almighty Versa](https://open.spotify.com/artist/7GkrLIX6NcOiL7Q6PYN26s) | [PERIPETIES](https://open.spotify.com/album/1oJ6guNXRN3DH8uyMLOZI7) | 3:14 |
 | 50 | [Boom](https://open.spotify.com/track/4bXEC4bKdmoVJMkZH3ShK3) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb), [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Boom](https://open.spotify.com/album/1gk3oGD4YnYUro6nUEPRLq) | 2:44 |
 
-Snapshot ID: `AAAAAESrAZ7aSM6FWS2T83zWayIxYeTA`
+Snapshot ID: `AAAAACPOReHx+ERD2AH/uAoexJxLFH7n`

@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 225588,
+  "num_followers": 225644,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPMh0vY0cbdoMHJi/9sRoRf10gkN",
+  "snapshot_id": "AAAAAFlROu2nF+8yRnLzGTWz189v0Qu2",
   "tracks": [
     {
       "added_at": "2024-07-09 02:45:34",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
+        "name": "The Pleasure Principle",
+        "url": "https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt"
+      },
+      "artists": [
+        {
+          "name": "Gary Numan",
+          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "Cars",
+      "url": "https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
         "name": "New York, London, Paris, Munich",
         "url": "https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 296466,
       "name": "Pop Muzik - 12 Inch Version",
       "url": "https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
-        "name": "The Pleasure Principle",
-        "url": "https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt"
-      },
-      "artists": [
-        {
-          "name": "Gary Numan",
-          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "Cars",
-      "url": "https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf"
     },
     {
       "added_at": "2024-07-09 02:45:34",

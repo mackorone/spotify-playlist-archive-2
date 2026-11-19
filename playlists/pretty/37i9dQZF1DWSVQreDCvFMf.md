@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jolianne
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,830 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,868 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 99 | [Oo](https://open.spotify.com/track/7707SbyEaOHVfS85rNCUoi) | [Midnight Talking](https://open.spotify.com/artist/0I9iFNGtuhl2elalmioDoy) | [Oo](https://open.spotify.com/album/6cL6hj5BjAsIk1HHcvGJQf) | 4:12 |
 | 100 | [Lubayan](https://open.spotify.com/track/3WVEy2IJKDvKVqZ604VwGE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r), [Enrique Hidalgo](https://open.spotify.com/artist/1Ml5mXmoyL1dLoeSICEseI) | [Lubayan](https://open.spotify.com/album/00fzwjzPNJLAtOaiCnmEvH) | 2:55 |
 
-Snapshot ID: `AAAAAMuU2C6OMr3K1bN2PynrMUmDv+EB`
+Snapshot ID: `AAAAAJFYFokqW/PXMr2MIqENG5Nsmyuz`

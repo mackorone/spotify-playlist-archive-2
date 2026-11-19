@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Joe Mettle
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,381 likes - 99 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,390 likes - 99 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 16 | [So Good \- Live](https://open.spotify.com/track/0QHfS2r97xd9VDPGS860UA) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [So Good \(Live\)](https://open.spotify.com/album/3qD33yGPSAHLmGzNJB3esF) | 5:51 |
 | 17 | [Daalu](https://open.spotify.com/track/2NhSUbUGQVpju7qqd3AgyL) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Daalu](https://open.spotify.com/album/0Upe7zeNvsi2k3YhZR8GKG) | 2:08 |
 | 18 | [Elohim Adonai](https://open.spotify.com/track/0ZMglvm7PYZUw0RbwKfBnL) | [Aderoju Tojola](https://open.spotify.com/artist/0CCMdfxDLJ3ntsUN2qq7vs) | [Elohim Adonai](https://open.spotify.com/album/0RDPsoxIm2lqTyebb4G77X) | 4:41 |
-| 19 | [Only One Name](https://open.spotify.com/track/097s8eGUUEFjL8DxiEBOJ1) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Only One Name](https://open.spotify.com/album/24rezn0RDOp5Aso5EpIOYT) | 7:38 |
-| 20 | [Sifa](https://open.spotify.com/track/7xGkkQZAQb3mZxhXVPEtob) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Sifa](https://open.spotify.com/album/1jzurAV6Av10Zwq9Ov7fPx) | 2:46 |
+| 19 | [Only One Name \- Live](https://open.spotify.com/track/097s8eGUUEFjL8DxiEBOJ1) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Only One Name \(Live\)](https://open.spotify.com/album/24rezn0RDOp5Aso5EpIOYT) | 7:38 |
+| 20 | [Sifa](https://open.spotify.com/track/7xGkkQZAQb3mZxhXVPEtob) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Sifa](https://open.spotify.com/album/1jzurAV6Av10Zwq9Ov7fPx) | 3:06 |
 | 21 | [TURN TABLE](https://open.spotify.com/track/0QbH2e3LidiYq15f05gCaz) | [Josh KAMBA](https://open.spotify.com/artist/2Hd9XPVBNGV9MPPjWhJLdv) | [Turn Table](https://open.spotify.com/album/0d4lYFwjr4wE8M1qAbgOzf) | 2:37 |
 | 22 | [Live Worship At Kfgc](https://open.spotify.com/track/7bzL8Zl23zgexgHUKBSzVV) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Live at Kfgc](https://open.spotify.com/album/5UHecGVYdK7vNDOoY45oxO) | 12:28 |
 | 23 | [Do A Work In Me](https://open.spotify.com/track/6JrKAn0TNe84njp5L597M0) | [Kingsley Amiah](https://open.spotify.com/artist/13BrcJ888g2SIrywaVEfCi) | [Do A Work In Me](https://open.spotify.com/album/4irt7LyTKAG3TCd1EYLNX4) | 3:11 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 98 | [Name So Sweet](https://open.spotify.com/track/5fQKGaZKnu4NMtuoUKh2PD) | [Soltune](https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq) | [Name So Sweet](https://open.spotify.com/album/5Kp5luRmycbkqnZVDdtNXS) | 3:34 |
 | 99 | [Your Love](https://open.spotify.com/track/6hNyfjI1TXcYewnllwWNCA) | [King Prosh](https://open.spotify.com/artist/06eIMEvzckDDELxvtQ3qFQ) | [Your Love](https://open.spotify.com/album/6GzcubflLRGCrFQR1WcDEU) | 2:55 |
 
-Snapshot ID: `AAAAAJk/SAJ5h2Fs7HGPEa47rYKnDi8+`
+Snapshot ID: `AAAAAFcWQQ1nB7x6dp8rVBx178CeEtiO`

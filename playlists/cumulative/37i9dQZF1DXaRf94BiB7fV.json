@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Upkar Thakur",
+  "description": "The best new music by independent artists and labels in India. Cover - Prithvi Prakash",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1764,6 +1764,24 @@
       "duration_ms": 166153,
       "name": "Aisha",
       "url": "https://open.spotify.com/track/39jqp7KzUjoreAEaX8pzf6"
+    },
+    {
+      "album": {
+        "name": "Aja Nindiya",
+        "url": "https://open.spotify.com/album/75Ta69UsQXaHTM10a0dKdX"
+      },
+      "artists": [
+        {
+          "name": "Durba Banerjee",
+          "url": "https://open.spotify.com/artist/5etPzPq4uUNG77culH8wc8"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207933,
+      "name": "Aja Nindiya",
+      "url": "https://open.spotify.com/track/0rJvEdf6yvOMIRqEOCyQzh"
     },
     {
       "album": {
@@ -4494,7 +4512,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 138954,
       "name": "Besharam Behaya",
       "url": "https://open.spotify.com/track/6P9cDk7s7PWu5TM5EbxOfc"
@@ -7714,6 +7732,24 @@
       "duration_ms": 177562,
       "name": "Dhoondhta Phiran",
       "url": "https://open.spotify.com/track/60nt2JbgQwZxuxtDIrcIBj"
+    },
+    {
+      "album": {
+        "name": "Dhoondne",
+        "url": "https://open.spotify.com/album/31j6q7ScyZZuVRfNDOiocC"
+      },
+      "artists": [
+        {
+          "name": "Kutcheri",
+          "url": "https://open.spotify.com/artist/6FKAx2EJXE68kRbMZyus7A"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375348,
+      "name": "Dhoondne",
+      "url": "https://open.spotify.com/track/0vxkLcn66QqUI8ohxNLsxI"
     },
     {
       "album": {
@@ -15490,7 +15526,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 177777,
       "name": "Jaaniya",
       "url": "https://open.spotify.com/track/2bI8N1JQehlzuXBPrBykN0"
@@ -19932,6 +19968,24 @@
       "duration_ms": 192500,
       "name": "Kiski Khata",
       "url": "https://open.spotify.com/track/2s5f7ouN7DtFZXGmNFb9tJ"
+    },
+    {
+      "album": {
+        "name": "KISM KISM",
+        "url": "https://open.spotify.com/album/1xXr3ueu3TwNkf2omc5U1K"
+      },
+      "artists": [
+        {
+          "name": "Arjun Rana",
+          "url": "https://open.spotify.com/artist/0nJOMEkxuoJUjiSZjQgjGW"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "KISM KISM",
+      "url": "https://open.spotify.com/track/1nlT43wv05Rq8HghOL9OiD"
     },
     {
       "album": {
@@ -30082,7 +30136,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 336433,
       "name": "Romeo.",
       "url": "https://open.spotify.com/track/0BGkzaDbOlO8l0PosWFyyt"
@@ -35185,6 +35239,32 @@
     },
     {
       "album": {
+        "name": "Tere Shehar Mein",
+        "url": "https://open.spotify.com/album/1OvHN5huiuF62JguLoWw5d"
+      },
+      "artists": [
+        {
+          "name": "Kakkey",
+          "url": "https://open.spotify.com/artist/2TghMvV6RorszozUWNpIYp"
+        },
+        {
+          "name": "Anup Kalita",
+          "url": "https://open.spotify.com/artist/3chJFsIY4vw81zalVHDhev"
+        },
+        {
+          "name": "Rahul Yadav",
+          "url": "https://open.spotify.com/artist/2ugpQtgpOkGQZW3vNQ61Tg"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274230,
+      "name": "Tere Shehar Mein",
+      "url": "https://open.spotify.com/track/2ST1ALIxloLH3Ahk3aOmFZ"
+    },
+    {
+      "album": {
         "name": "Tere Sheher",
         "url": "https://open.spotify.com/album/3I1uYjS4qjsWhCldoDWwNL"
       },
@@ -36912,7 +36992,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 196129,
       "name": "Tu Mera Jahaan",
       "url": "https://open.spotify.com/track/1kIF49BlWcL3jerAUCaIr1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Noano & KM, Senna & Monique Smit, Jonna Fraser & Frenna, Suzan & Freek en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,746 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,727 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Kom Wat Dichterbij](https://open.spotify.com/track/3XncYQxQNxfd9XYVgw5at7) | [Rinus Werrens](https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU), [Donny Duardo](https://open.spotify.com/artist/7nJk84xGJhAl4HJ9ib0hQa), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2) | [Kom Wat Dichterbij](https://open.spotify.com/album/1Fdb8kr7ugnZrYk0U9Ec5t) | 2:53 |
 | 100 | [All Alone On Christmas Night](https://open.spotify.com/track/00O6yYULIGuG2kmN91Mlmr) | [Jaimi Faulkner](https://open.spotify.com/artist/1J6JaPeWiuT4oEa4oiEALf) | [All Alone On Christmas Night](https://open.spotify.com/album/4RKAQ4J5LNL3Fb0LFVIw6Y) | 4:00 |
 
-Snapshot ID: `AAAAAPVvGpL/bQwkuXv81XVfNE/smNoG`
+Snapshot ID: `AAAAAONeNS2yRq+DlEhcbtAZ9QD9Rhn1`

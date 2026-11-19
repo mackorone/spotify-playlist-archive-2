@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 
 > 50 Hits in einer Playlist! Cover: Jamie Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,461,673 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,461,120 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 | 49 | [IMPULSIVE](https://open.spotify.com/track/4TnnvhiNjsYdcHxODzNiKA) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [IMPULSIVE](https://open.spotify.com/album/1kO4Cbjb4fLeHsUDq5PbyC) | 2:36 |
 | 50 | [Olurmusun?](https://open.spotify.com/track/3hvvCCnS4JyToL2R8XmMyf) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [Olurmusun?](https://open.spotify.com/album/4L4w0AxuKcdh1wMqJC2Jze) | 3:04 |
 
-Snapshot ID: `AAAAANeJxIVBbdbCfEMfZziSwGI+BUge`
+Snapshot ID: `AAAAAPjTJJx2xISD10BMaI5VFABV+IIb`

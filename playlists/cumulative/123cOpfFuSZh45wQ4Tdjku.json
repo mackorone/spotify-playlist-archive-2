@@ -2971,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "Fennec's little critters",
+        "url": "https://open.spotify.com/album/3ZurFUvIgU1O25F5Zmp1Dd"
+      },
+      "artists": [
+        {
+          "name": "Fennec's little critters",
+          "url": "https://open.spotify.com/show/3ZurFUvIgU1O25F5Zmp1Dd"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1940050,
+      "name": "FNAF the musical (feat. Markiplier and Nathan Sharp)",
+      "url": "https://open.spotify.com/episode/0P8Rgvw7Dm3dflPVsb9A1l"
+    },
+    {
+      "album": {
         "name": "The Bite, Vol. 2",
         "url": "https://open.spotify.com/album/0Fp63lUqkNvVwVyKAB0ujt"
       },

@@ -1,13 +1,105 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Upkar Thakur",
-  "num_followers": 66048,
+  "description": "The best new music by independent artists and labels in India. Cover - Prithvi Prakash",
+  "num_followers": 66075,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGROciIB1M9rR6ibmxcbjuVtO+OE",
+  "snapshot_id": "AAAAAOArBi6/6u2MbZ/H+WmDm2GYzIBr",
   "tracks": [
+    {
+      "added_at": "2026-11-11 07:30:21",
+      "album": {
+        "name": "Ghosts of an Overthinker",
+        "url": "https://open.spotify.com/album/5GvjB1n9NMVb0XIvjI7NU9"
+      },
+      "artists": [
+        {
+          "name": "Prithvi Prakash",
+          "url": "https://open.spotify.com/artist/6SWFSLF1xO9jZ4XOISZkc9"
+        },
+        {
+          "name": "ASHWYN",
+          "url": "https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "I'm too scared",
+      "url": "https://open.spotify.com/track/2gPOVbcplH8OEfOOV5bWnc"
+    },
+    {
+      "added_at": "2026-11-18 07:30:36",
+      "album": {
+        "name": "Tere Shehar Mein",
+        "url": "https://open.spotify.com/album/1OvHN5huiuF62JguLoWw5d"
+      },
+      "artists": [
+        {
+          "name": "Kakkey",
+          "url": "https://open.spotify.com/artist/2TghMvV6RorszozUWNpIYp"
+        },
+        {
+          "name": "Anup Kalita",
+          "url": "https://open.spotify.com/artist/3chJFsIY4vw81zalVHDhev"
+        },
+        {
+          "name": "Rahul Yadav",
+          "url": "https://open.spotify.com/artist/2ugpQtgpOkGQZW3vNQ61Tg"
+        }
+      ],
+      "duration_ms": 274230,
+      "name": "Tere Shehar Mein",
+      "url": "https://open.spotify.com/track/2ST1ALIxloLH3Ahk3aOmFZ"
+    },
+    {
+      "added_at": "2026-11-18 07:30:36",
+      "album": {
+        "name": "Dhoondne",
+        "url": "https://open.spotify.com/album/31j6q7ScyZZuVRfNDOiocC"
+      },
+      "artists": [
+        {
+          "name": "Kutcheri",
+          "url": "https://open.spotify.com/artist/6FKAx2EJXE68kRbMZyus7A"
+        }
+      ],
+      "duration_ms": 375348,
+      "name": "Dhoondne",
+      "url": "https://open.spotify.com/track/0vxkLcn66QqUI8ohxNLsxI"
+    },
+    {
+      "added_at": "2026-11-18 07:30:36",
+      "album": {
+        "name": "KISM KISM",
+        "url": "https://open.spotify.com/album/1xXr3ueu3TwNkf2omc5U1K"
+      },
+      "artists": [
+        {
+          "name": "Arjun Rana",
+          "url": "https://open.spotify.com/artist/0nJOMEkxuoJUjiSZjQgjGW"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "KISM KISM",
+      "url": "https://open.spotify.com/track/1nlT43wv05Rq8HghOL9OiD"
+    },
+    {
+      "added_at": "2026-11-18 07:30:36",
+      "album": {
+        "name": "Aja Nindiya",
+        "url": "https://open.spotify.com/album/75Ta69UsQXaHTM10a0dKdX"
+      },
+      "artists": [
+        {
+          "name": "Durba Banerjee",
+          "url": "https://open.spotify.com/artist/5etPzPq4uUNG77culH8wc8"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Aja Nindiya",
+      "url": "https://open.spotify.com/track/0rJvEdf6yvOMIRqEOCyQzh"
+    },
     {
       "added_at": "2026-11-04 07:30:14",
       "album": {
@@ -27,6 +119,30 @@
       "duration_ms": 224397,
       "name": "Sawariya",
       "url": "https://open.spotify.com/track/18nm91vSpnaqF5zrueyhgw"
+    },
+    {
+      "added_at": "2026-11-04 07:30:14",
+      "album": {
+        "name": "Umad Ghan",
+        "url": "https://open.spotify.com/album/4hzdk7O3h51KZ2WSi41u5W"
+      },
+      "artists": [
+        {
+          "name": "Kaustubh More",
+          "url": "https://open.spotify.com/artist/6ubQadke7zX8Es9DrB4MBA"
+        },
+        {
+          "name": "Kinjal Chatterjee",
+          "url": "https://open.spotify.com/artist/6NXTDlHdilNA2CtajWTQFa"
+        },
+        {
+          "name": "Chakraborty Samrat",
+          "url": "https://open.spotify.com/artist/2dVGeOAYqrlUH0fvSaUzfM"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "Umad Ghan",
+      "url": "https://open.spotify.com/track/0ZpPjNeb3gYxjw5fV7hpsg"
     },
     {
       "added_at": "2026-11-11 07:30:21",
@@ -65,42 +181,6 @@
       "url": "https://open.spotify.com/track/0vAmcrL7kzm2KvMT2NEUKq"
     },
     {
-      "added_at": "2026-11-11 07:30:21",
-      "album": {
-        "name": "Ghosts of an Overthinker",
-        "url": "https://open.spotify.com/album/5GvjB1n9NMVb0XIvjI7NU9"
-      },
-      "artists": [
-        {
-          "name": "Prithvi Prakash",
-          "url": "https://open.spotify.com/artist/6SWFSLF1xO9jZ4XOISZkc9"
-        },
-        {
-          "name": "ASHWYN",
-          "url": "https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "I'm too scared",
-      "url": "https://open.spotify.com/track/2gPOVbcplH8OEfOOV5bWnc"
-    },
-    {
-      "added_at": "2026-11-11 07:30:21",
-      "album": {
-        "name": "Still Can't Write a Love Song",
-        "url": "https://open.spotify.com/album/7wvdHW3ZRSgNMBVUbRhwCy"
-      },
-      "artists": [
-        {
-          "name": "Anahita Singh",
-          "url": "https://open.spotify.com/artist/7B4wEMhnaj4Q0JRGxpAtgm"
-        }
-      ],
-      "duration_ms": 179444,
-      "name": "You've Loved Before",
-      "url": "https://open.spotify.com/track/1CfVXqENlppVM3MzEE6wSb"
-    },
-    {
       "added_at": "2026-11-04 07:30:14",
       "album": {
         "name": "Panchhi",
@@ -127,30 +207,6 @@
     {
       "added_at": "2026-11-04 07:30:14",
       "album": {
-        "name": "Umad Ghan",
-        "url": "https://open.spotify.com/album/4hzdk7O3h51KZ2WSi41u5W"
-      },
-      "artists": [
-        {
-          "name": "Kaustubh More",
-          "url": "https://open.spotify.com/artist/6ubQadke7zX8Es9DrB4MBA"
-        },
-        {
-          "name": "Kinjal Chatterjee",
-          "url": "https://open.spotify.com/artist/6NXTDlHdilNA2CtajWTQFa"
-        },
-        {
-          "name": "Chakraborty Samrat",
-          "url": "https://open.spotify.com/artist/2dVGeOAYqrlUH0fvSaUzfM"
-        }
-      ],
-      "duration_ms": 269538,
-      "name": "Umad Ghan",
-      "url": "https://open.spotify.com/track/0ZpPjNeb3gYxjw5fV7hpsg"
-    },
-    {
-      "added_at": "2026-11-04 07:30:14",
-      "album": {
         "name": "The Other Girl",
         "url": "https://open.spotify.com/album/2uxrVQZ5ZZlnpx5C9mP6Bo"
       },
@@ -163,6 +219,22 @@
       "duration_ms": 229446,
       "name": "Afterthought",
       "url": "https://open.spotify.com/track/5eTzoSxOH2YxS5m3tneSYo"
+    },
+    {
+      "added_at": "2026-11-11 07:30:21",
+      "album": {
+        "name": "Still Can't Write a Love Song",
+        "url": "https://open.spotify.com/album/7wvdHW3ZRSgNMBVUbRhwCy"
+      },
+      "artists": [
+        {
+          "name": "Anahita Singh",
+          "url": "https://open.spotify.com/artist/7B4wEMhnaj4Q0JRGxpAtgm"
+        }
+      ],
+      "duration_ms": 179444,
+      "name": "You've Loved Before",
+      "url": "https://open.spotify.com/track/1CfVXqENlppVM3MzEE6wSb"
     },
     {
       "added_at": "2026-11-04 07:30:14",
@@ -677,22 +749,6 @@
       "url": "https://open.spotify.com/track/7yRXAOSgnHn5nu1oEvIUEi"
     },
     {
-      "added_at": "2026-09-16 07:30:21",
-      "album": {
-        "name": "Tu Mera Jahaan",
-        "url": "https://open.spotify.com/album/2rdmOwsjeo3kqFtMY7rAZM"
-      },
-      "artists": [
-        {
-          "name": "Zicr",
-          "url": "https://open.spotify.com/artist/74NuTWw4sEt7GVWUbi2lyc"
-        }
-      ],
-      "duration_ms": 196129,
-      "name": "Tu Mera Jahaan",
-      "url": "https://open.spotify.com/track/1kIF49BlWcL3jerAUCaIr1"
-    },
-    {
       "added_at": "2026-09-23 07:30:22",
       "album": {
         "name": "Stranger",
@@ -731,26 +787,6 @@
       "duration_ms": 137997,
       "name": "Kaahe Sataye",
       "url": "https://open.spotify.com/track/5YXLnG6tMHE80oPZlb2eVk"
-    },
-    {
-      "added_at": "2026-09-02 07:30:17",
-      "album": {
-        "name": "Besharam Behaya",
-        "url": "https://open.spotify.com/album/5aQ3A46AF1n9LrHvAbByIo"
-      },
-      "artists": [
-        {
-          "name": "Spryk",
-          "url": "https://open.spotify.com/artist/16U1VoCTUdHaTWUMKx2dUM"
-        },
-        {
-          "name": "Gunda",
-          "url": "https://open.spotify.com/artist/7qviR9RWRL1V3aM0yQ8V0D"
-        }
-      ],
-      "duration_ms": 138954,
-      "name": "Besharam Behaya",
-      "url": "https://open.spotify.com/track/6P9cDk7s7PWu5TM5EbxOfc"
     },
     {
       "added_at": "2026-08-26 07:30:02",
@@ -903,42 +939,6 @@
       "duration_ms": 231285,
       "name": "Bata Zara",
       "url": "https://open.spotify.com/track/2wUvjrkR4YooAvZrXqjNKY"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Romeo.",
-        "url": "https://open.spotify.com/album/3FILmWCBKJpKZ2oqmspw8r"
-      },
-      "artists": [
-        {
-          "name": "som.",
-          "url": "https://open.spotify.com/artist/4SfYrm8nXbR7IOK04PWwU6"
-        }
-      ],
-      "duration_ms": 336433,
-      "name": "Romeo.",
-      "url": "https://open.spotify.com/track/0BGkzaDbOlO8l0PosWFyyt"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Jaaniya",
-        "url": "https://open.spotify.com/album/583lHoY81PCHU6Ma83WZ8k"
-      },
-      "artists": [
-        {
-          "name": "Badal",
-          "url": "https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp"
-        },
-        {
-          "name": "Shen B",
-          "url": "https://open.spotify.com/artist/45WLnoWpUTEAQQsdgswIZZ"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Jaaniya",
-      "url": "https://open.spotify.com/track/2bI8N1JQehlzuXBPrBykN0"
     }
   ],
   "unique_name": "Fresh Finds India",

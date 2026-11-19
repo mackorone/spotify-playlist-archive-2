@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste indie tracks van nu\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,693 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,687 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 59 | [The Drop](https://open.spotify.com/track/7JgjGIHaXorXXkoTpcmwew) | [Queen's Pleasure](https://open.spotify.com/artist/6S0O3eQiVrw78LG1z2EE4h) | [The Drop](https://open.spotify.com/album/2CL9GWepliO8kNZxKNUO9G) | 3:12 |
 | 60 | [Storm Warnings](https://open.spotify.com/track/1ChB4a5EAEBYR976Rvpdan) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Storm Warnings](https://open.spotify.com/album/2zR9Yz7UAkFyRdyvxebcf0) | 3:45 |
 
-Snapshot ID: `AAAAAAd/Q126Bp7Jk8TWJYoPz/Ur63dh`
+Snapshot ID: `AAAAAEVcObkkJJvgpLP/ijb23moAIN+Q`

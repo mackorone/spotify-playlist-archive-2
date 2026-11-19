@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Bunga Citra Lestari
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,458 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,459 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 32 | [Bingung](https://open.spotify.com/track/3pYQtXUacsV3D0ZQDutYX2) | [Deredia](https://open.spotify.com/artist/2suoGMN4uGe4gCBFwfkfoz) | [Bingung](https://open.spotify.com/album/4UO1rDZd4ULuEaCxCmFbwS) | 3:48 |
 | 33 | [Jaga Hati Hati \- Hati](https://open.spotify.com/track/32fuYy3iVVfsetC5H5STw4) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Jaga Hati Hati \- Hati](https://open.spotify.com/album/5uT7i3QK5m0NqG60NOQKI6) | 3:33 |
 | 34 | [Masa iya?](https://open.spotify.com/track/2xJTJWv5pRu1EVxQHZLKc4) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Masa iya?](https://open.spotify.com/album/7xadTHthV90OwW4sciSbwi) | 3:40 |
-| 35 | [Bang Bang Baby](https://open.spotify.com/track/6Di7qGNKc9EXzo9zNHYfTO) | [PAPION](https://open.spotify.com/artist/4rxH9fSOAEtWxr8NkeW4Pi), [NAUFA](https://open.spotify.com/artist/0Nnf18vCzQ2u0RRwUVcUJN) | [Bang Bang Baby](https://open.spotify.com/album/3mtgUxTpUzXfSKHSYoWMyt) | 2:26 |
+| 35 | [Bang Bang Baby!](https://open.spotify.com/track/6Di7qGNKc9EXzo9zNHYfTO) | [NAUFA](https://open.spotify.com/artist/0Nnf18vCzQ2u0RRwUVcUJN), [PAPION](https://open.spotify.com/artist/4rxH9fSOAEtWxr8NkeW4Pi) | [Bang Bang Baby!](https://open.spotify.com/album/3mtgUxTpUzXfSKHSYoWMyt) | 2:26 |
 | 36 | [Ceritaku Ceritamu](https://open.spotify.com/track/1Il8WKr9h6azKAlVrFgeVz) | [Katyana](https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Ceritaku Ceritamu](https://open.spotify.com/album/0vVtkDFicJAy0owOfMpChO) | 3:33 |
 | 37 | [Mendung](https://open.spotify.com/track/17L8haQPDABzylIq3KC3vU) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berusaha di Bawah Hujan](https://open.spotify.com/album/2D2escw6RwZriL7Ia8EB05) | 4:14 |
 | 38 | [CingCong](https://open.spotify.com/track/24iV1DaDT2yGXzrMHZx8bz) | [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [CingCong](https://open.spotify.com/album/4yfJRriD7CMxPLJEBPmRHj) | 3:16 |

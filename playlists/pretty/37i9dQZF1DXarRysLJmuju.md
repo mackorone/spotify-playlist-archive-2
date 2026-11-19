@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ renforshort
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,881 likes - 105 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,785 likes - 105 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 104 | [gay allegations ft\. my girlfriend](https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld) | [OK MICKEY](https://open.spotify.com/artist/5wqzQ2vZdhoZRAnvT463PC) | [gay allegations ft\. my girlfriend](https://open.spotify.com/album/25Tz6DIP1gvJwmYoou46g3) | 1:59 |
 | 105 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
 
-Snapshot ID: `AAAAAJzi2QOKqfLlBkMjCmN8A6TboDPD`
+Snapshot ID: `AAAAALGFnNRAPp8x6pSKe64LP3FPv4H9`

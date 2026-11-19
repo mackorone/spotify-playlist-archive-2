@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Amira Elfeky
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,301 likes - 102 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,291 likes - 102 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 101 | [Seethe](https://open.spotify.com/track/4eYfOnJz3APqGzWPwWtC5r) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Seethe](https://open.spotify.com/album/3UBJnVsxBJ61rit0lJ1xk8) | 3:17 |
 | 102 | [Carved](https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [The Plot In You](https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf) | 3:18 |
 
-Snapshot ID: `AAAAALZinQt+gWy4UiuTHE2RKanWXcpX`
+Snapshot ID: `AAAAAMrFTiW2qSpi+RcenuuLBOZ9Ab35`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Gazzelle, Sayf, sangiovanni, BLANCO, Elisa tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,839 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,819 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 89 | [Domani](https://open.spotify.com/track/21p1Lxb6koA4leZj3WhJuK) | [Cristiano Godano](https://open.spotify.com/artist/34OquEHqjEheCUbWltCgth) | [Un filo d'erba nel muro](https://open.spotify.com/album/5C8pDFxrmeBUk7iLwrzuBO) | 4:33 |
 | 90 | [Sottopelle](https://open.spotify.com/track/1FNOofleMOLHYrfzwdvG5Z) | [Ai!](https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ) | [Sottopelle](https://open.spotify.com/album/75blirncPsrJHXkgeZUpFo) | 4:59 |
 
-Snapshot ID: `AAAAAH8E3xq42Q8xbQBVVCT4v10aOoeO`
+Snapshot ID: `AAAAAE9tGFSfPqWF29fITs+C9Z/zlx3C`

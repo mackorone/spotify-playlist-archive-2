@@ -5909,6 +5909,32 @@
     },
     {
       "album": {
+        "name": "Scene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yoZ4Wjz3ZDxUBT9cQ5aBz"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Rajpriyan",
+          "url": "https://open.spotify.com/artist/3aV1xXHRwgdlbPE8bAEmOJ"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154662,
+      "name": "Raasaadhi Raasan",
+      "url": "https://open.spotify.com/track/6lE9Fq6YfuVaCVYSwdcvr7"
+    },
+    {
+      "album": {
         "name": "My Lord (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/38fjb1ixovbQcnXNp1gz2y"
       },
@@ -6652,7 +6678,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 206454,
       "name": "Sigma Style (From \"Sigma\") (Tamil)",
       "url": "https://open.spotify.com/track/6Tzzr0w0qEUIYMXZctQLwr"

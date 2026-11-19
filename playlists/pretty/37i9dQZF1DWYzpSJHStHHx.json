@@ -1,12 +1,12 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483182,
+  "num_followers": 483168,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADCtBSOQteRSnB8x0S9rLKecPK9k",
+  "snapshot_id": "AAAAAGpWjTmMIMvBHstKm8mqlvmRQXne",
   "tracks": [
     {
       "added_at": "2026-10-22 13:00:19",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Santino Surfers",
-        "url": "https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP"
-      },
-      "artists": [
-        {
-          "name": "Santino Surfers",
-          "url": "https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ"
-        }
-      ],
-      "duration_ms": 377556,
-      "name": "Sun Rise Swell",
-      "url": "https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Daydream Twins",
         "url": "https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 362601,
       "name": "Carpop",
       "url": "https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Santino Surfers",
+        "url": "https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP"
+      },
+      "artists": [
+        {
+          "name": "Santino Surfers",
+          "url": "https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ"
+        }
+      ],
+      "duration_ms": 377556,
+      "name": "Sun Rise Swell",
+      "url": "https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Stranger (Mariachi)",
-        "url": "https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Stranger - Mariachi",
-      "url": "https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Things Left to Do",
         "url": "https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 220373,
       "name": "Yes",
       "url": "https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Stranger (Mariachi)",
+        "url": "https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Stranger - Mariachi",
+      "url": "https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq"
     },
     {
       "added_at": "2026-10-22 13:00:19",

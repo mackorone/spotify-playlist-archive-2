@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,386 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,388 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 8 | [Dios Me Ama](https://open.spotify.com/track/3wHJTYvg75zrP0iXYcxrVQ) | [Canta Y Rie](https://open.spotify.com/artist/7LMW8Tb18FZ9btvEA4c3iH) | [Canta Y Rie](https://open.spotify.com/album/6DVmSe200tVimu1cLGwUkG) | 2:41 |
 | 9 | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/track/3XnQMj2uZMzUaPrNfbn8rT) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/album/2Dx8LkBcbxmBgKAXgOzmj8) | 2:20 |
 | 10 | [Dios es](https://open.spotify.com/track/6stYPaNZhAYBbzQkVVKlCF) | [Lifetree Kids](https://open.spotify.com/artist/0WlbBY0t3hNDiAubKTSHAW) | [Dios es](https://open.spotify.com/album/03YCMCCrDXvU38o2E5vMm9) | 2:18 |
-| 11 | [Lázaro](https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:42 |
-| 12 | [A Danzar](https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [A Danzar](https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1) | 1:31 |
+| 11 | [A Danzar](https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [A Danzar](https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1) | 1:31 |
+| 12 | [Lázaro](https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:42 |
 | 13 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3QtTQ2uFHqHqMj3IWYpjQb) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Que Se Llene Tu Casa](https://open.spotify.com/album/7dMAKj2uWzdtjrEVE4ZEAm) | 3:15 |
 | 14 | [La Vaca Tita](https://open.spotify.com/track/2yovTUgzyJ6naFFq0wjdBc) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [La Vaca Tita](https://open.spotify.com/album/2g9IxC1lhO9sKoxP7TSksR) | 2:09 |
 | 15 | [Fuerza y Movimiento](https://open.spotify.com/track/70Y52BJMJP4avDjtdlEUjZ) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [Fuerza y Movimiento](https://open.spotify.com/album/5KzC1eJSOrCtlPQ2SvlbBM) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 49 | [El Amor de Dios](https://open.spotify.com/track/6i1GoQfwJdUvfibndDr5wE) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [La Colección](https://open.spotify.com/album/7IGAlGGKOpouXhOr9QY4oZ) | 3:02 |
 | 50 | [Todo Lo Hizo Jesus](https://open.spotify.com/track/39XKrFt3TEHoh4CBm52ZcG) | [Francisco Orantes](https://open.spotify.com/artist/7glAmfFJ7UecnLwNApqKGE) | [Con Amor A Los Niños 2](https://open.spotify.com/album/1bGAL0orPv8S5ZM11wbRV3) | 3:16 |
 
-Snapshot ID: `AAAAAEuxzR3O2oDKe7UBqeeQLHCkcHpK`
+Snapshot ID: `AAAAAC/NkJaAOA0+2Y/vOe7iklu1lxAy`

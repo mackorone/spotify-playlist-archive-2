@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Plumia
 
-4,670 songs - 10 day 17 hr 34 min
+4,671 songs - 10 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1293,6 +1293,7 @@
 | [Exit Sign](https://open.spotify.com/track/3dfPpYIHsWb0cSHf2OIWOr) | [TUSHAR](https://open.spotify.com/artist/4Z4QSQuaIocs1CPUEM8shD) | [Arthur and Sadie](https://open.spotify.com/album/4KJyTjed609txuLcfob9bD) | 3:28 | 2023-03-15 | 2023-04-05 |
 | [EXO](https://open.spotify.com/track/2PMUOvdRsp4DXSKIAfIogL) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo) | [EXO](https://open.spotify.com/album/6BqOS6glzJBKOk5mS9DlU4) | 3:15 | 2022-05-18 | 2022-06-01 |
 | [Expanded](https://open.spotify.com/track/6gPUZ9jJ9jlBTomBYOGLFK) | [Ryan Fisherman](https://open.spotify.com/artist/6Yatr2ihR1ZiIsPVLJuqgv) | [Expanded](https://open.spotify.com/album/0kyrM0ns83ET2QHfz6D1Y6) | 3:48 | 2023-05-10 | 2023-05-31 |
+| [expectations](https://open.spotify.com/track/65ui4m7jIF7Lvt93gfEN9c) | [PORTIA](https://open.spotify.com/artist/0tufQz2tagGrgt9MiFQkci), [CD](https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f) | [softening](https://open.spotify.com/album/1YZf5fFOKZWLycjLAe5fbx) | 3:53 | 2026-11-17 |  |
 | [Expectations](https://open.spotify.com/track/3nZG1hnjZK4YcVVk3Pg66w) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4) | [Expectations](https://open.spotify.com/album/4PMNWRNxUku67eYMvnAOdt) | 3:00 | 2022-06-29 | 2022-07-20 |
 | [Expired Candy](https://open.spotify.com/track/4yzF9uOJ8JwyK5rE3TKNWK) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Expired Candy](https://open.spotify.com/album/27EWNCik4t25bvCJ9J55Hc) | 3:02 | 2023-06-07 | 2023-07-06 |
 | [Express](https://open.spotify.com/track/2qZHzf2ryUC1xPlushUdFi) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB) | [Part 1](https://open.spotify.com/album/1xrn9tOJPh2FbR6YyQ6bb3) | 5:13 | 2026-04-14 | 2026-08-12 |

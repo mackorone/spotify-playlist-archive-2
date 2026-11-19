@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari MALIQ & D'Essentials, Bernadya, Bunga Citra Lestari, NCT Dream dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,556 likes - 105 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,515 likes - 105 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 36 | [Tak Ada Musik di Planet yang Mati](https://open.spotify.com/track/0tJQSIj3BOlQgSI6b4no3X) | [Tuantigabelas](https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn), [Rhythm Rebels](https://open.spotify.com/artist/57fbY6JjVvOLFB2pQtW9pH) | [Tak Ada Musik di Planet yang Mati](https://open.spotify.com/album/5kQmWsJuPUlJTfAIeqlXtP) | 3:13 |
 | 37 | [SUAP](https://open.spotify.com/track/7c6BLhtjrirmOkZWpf2sXf) | [Kelompok Penerbang Roket](https://open.spotify.com/artist/4CrAgvXjMysuImxrwMqXSG) | [SUAP](https://open.spotify.com/album/18mTvts0A6fLTze2PAczwy) | 2:35 |
 | 38 | [Spell](https://open.spotify.com/track/4vLqEJvvlhQ5pjhqM7sSGw) | [Nandoshi](https://open.spotify.com/artist/1T2gw7mCkoHZTmOIezFRmj) | [Spell](https://open.spotify.com/album/3mzIhiVRNRJuU060RQmlnj) | 3:17 |
-| 39 | [Bang Bang Baby](https://open.spotify.com/track/6Di7qGNKc9EXzo9zNHYfTO) | [PAPION](https://open.spotify.com/artist/4rxH9fSOAEtWxr8NkeW4Pi), [NAUFA](https://open.spotify.com/artist/0Nnf18vCzQ2u0RRwUVcUJN) | [Bang Bang Baby](https://open.spotify.com/album/3mtgUxTpUzXfSKHSYoWMyt) | 2:26 |
+| 39 | [Bang Bang Baby!](https://open.spotify.com/track/6Di7qGNKc9EXzo9zNHYfTO) | [NAUFA](https://open.spotify.com/artist/0Nnf18vCzQ2u0RRwUVcUJN), [PAPION](https://open.spotify.com/artist/4rxH9fSOAEtWxr8NkeW4Pi) | [Bang Bang Baby!](https://open.spotify.com/album/3mtgUxTpUzXfSKHSYoWMyt) | 2:26 |
 | 40 | [Bingung](https://open.spotify.com/track/3pYQtXUacsV3D0ZQDutYX2) | [Deredia](https://open.spotify.com/artist/2suoGMN4uGe4gCBFwfkfoz) | [Bingung](https://open.spotify.com/album/4UO1rDZd4ULuEaCxCmFbwS) | 3:48 |
 | 41 | [Ibu](https://open.spotify.com/track/0AGfqWb3eqQuJJE6LVOc5B) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Ibu](https://open.spotify.com/album/7CjwcdLgTd2uBk2SkkBtiq) | 3:31 |
 | 42 | [Simalakama](https://open.spotify.com/track/4f3gvreckyOhQWzBnTwulB) | [Badai](https://open.spotify.com/artist/57tOtIMTb7Ng8GDugStcRf) | [The Story Will Never End](https://open.spotify.com/album/35yAvP6UDxzamgIZvDmy4H) | 3:54 |

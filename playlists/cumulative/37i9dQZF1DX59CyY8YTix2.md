@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: おとなりにぎんが計画
 
-2,124 songs - 5 day 11 hr 27 min
+2,125 songs - 5 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,7 +725,7 @@
 | [Prepare Yourself!](https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ) | 3:54 | 2024-02-13 | 2024-03-08 |
 | [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 | 2025-10-21 | 2025-12-13 |
 | [Pretty](https://open.spotify.com/track/2fI0XTQtwtTU2PCf1xFP30) | [A VIRGIN](https://open.spotify.com/artist/0dDP1gsPC4bWS5vnynu99s) | [Pretty](https://open.spotify.com/album/2znvO7eKY5hcWklq7jwHyP) | 3:04 | 2022-05-26 | 2022-06-08 |
-| [princess](https://open.spotify.com/track/0vcMHoJ3gyRVDy5UKZXUfT) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [HONESTY](https://open.spotify.com/album/2xwWbCf58OBsquGkrmRxlg) | 2:27 | 2026-09-15 |  |
+| [princess](https://open.spotify.com/track/0vcMHoJ3gyRVDy5UKZXUfT) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [HONESTY](https://open.spotify.com/album/2xwWbCf58OBsquGkrmRxlg) | 2:27 | 2026-09-15 | 2026-11-19 |
 | [prism](https://open.spotify.com/track/7BQrTH7VOfFAU6yU7c6iDT) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [prism](https://open.spotify.com/album/4zehCCCav6BXjtfRA9MDay) | 3:28 | 2026-08-04 | 2026-11-04 |
 | [promise you](https://open.spotify.com/track/2AaPLoIRt6KDsgWcwjA2cv) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [promise you](https://open.spotify.com/album/5DPfuR1PdCaQT9GuZgpz4I) | 5:26 | 2023-12-12 | 2024-01-24 |
 | [Protect You](https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Protect You](https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy) | 3:12 | 2024-10-01 | 2024-10-09 |
@@ -816,6 +816,7 @@
 | [shinon](https://open.spotify.com/track/1KqQkc5arJqW3YVLZbjoHs) | [snooty](https://open.spotify.com/artist/4yuXex0AzwrDsTChZmGYvR) | [shinon](https://open.spotify.com/album/42zTHNSwZXqDGUQlQy1LTU) | 4:54 | 2022-08-30 | 2022-09-07 |
 | [Shippo](https://open.spotify.com/track/1hdp6CGludVSn1t4CQ30vf) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Shippo](https://open.spotify.com/album/7v1qWR7QnwrY54wwEwdR0d) | 4:43 | 2026-08-04 | 2026-09-16 |
 | [SHOCK!!!](https://open.spotify.com/track/1YxIJ78KNEzI6WutmYYeKM) | [YMB](https://open.spotify.com/artist/4sRqEn62eCbn4ltnSZMNN5) | [SHOCK!!!](https://open.spotify.com/album/2GWi3AFNMiD6N0S5VXLMPI) | 4:05 | 2022-05-26 | 2022-06-04 |
+| [Shoot Shoot Shoot](https://open.spotify.com/track/3EMV8A7y6m9XqYw6K5o5vQ) | [METALVERSE](https://open.spotify.com/artist/4FZB47paQH8eOatPhgG7pp) | [Shoot Shoot Shoot](https://open.spotify.com/album/3rsVT07lHEG8SyQkdj62ea) | 2:46 | 2026-11-17 |  |
 | [Shooting Star](https://open.spotify.com/track/2e0J2wYPhaqyeC9skq5kRm) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Shooting Star](https://open.spotify.com/album/0MSx6z7OXSPbApc4PGJ2gy) | 4:24 | 2023-08-08 | 2023-08-16 |
 | [SHOW THEM](https://open.spotify.com/track/70Xjen27QvHRdRPLHGu63F) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [SHOW THEM](https://open.spotify.com/album/6AnkB6TmegA5OeHlVwyaoA) | 3:15 | 2024-08-06 | 2024-09-25 |
 | [SHOW YOU MY SOY SAUCE](https://open.spotify.com/track/4hzf8FrONSbzKWqYSWiX5s) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [SHOW YOU MY SOY SAUCE](https://open.spotify.com/album/5KmBmb7US92HxcEY2WcABp) | 4:35 | 2022-11-01 | 2022-11-09 |

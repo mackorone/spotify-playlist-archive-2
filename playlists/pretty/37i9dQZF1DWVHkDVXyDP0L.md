@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: jade yee\-smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,840 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,832 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Product of Profit \(P.O.P\)](https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Product of Profit \(P.O.P\)](https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C) | 3:29 |
 | 100 | [Trauma Bond](https://open.spotify.com/track/6u8KHTynZcgcRC5SmfrSs1) | [The Tambourine Girls](https://open.spotify.com/artist/42Vt2XvYs1IMX8kxEVI474) | [Hold Your Horses](https://open.spotify.com/album/1wG9jnJOKIckWjbmALHfXX) | 3:58 |
 
-Snapshot ID: `AAAAAOhfUHqrF0nDnGdxgIRUPE/EeaEB`
+Snapshot ID: `AAAAAIZUpvVFBSlGpTEC3P75TanXsxez`

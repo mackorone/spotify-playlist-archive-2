@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Wilbert Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,024,604 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,024,452 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 49 | [Waiting For You](https://open.spotify.com/track/5U1UoeR6Dh0BwzoRtcXhvc) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV), [ApMontyy](https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E) | [Waiting For You](https://open.spotify.com/album/56iFNpX7kiX5Gv3jPVHpwi) | 3:49 |
 | 50 | [ikaw](https://open.spotify.com/track/58b443Cif2xysQK1WoH2RE) | [3AM](https://open.spotify.com/artist/1h5eRSFTxtcqvv04uKU2kz) | [ikaw](https://open.spotify.com/album/7i9liawBNYlGcRh1B1Ywsd) | 2:28 |
 
-Snapshot ID: `AAAAAG2qU/3Rlc5JegjZKwyn9IQebcwA`
+Snapshot ID: `AAAAABL3XUBffGXr41xxzDTFmla1KcAK`

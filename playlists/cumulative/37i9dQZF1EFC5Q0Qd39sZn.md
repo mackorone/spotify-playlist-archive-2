@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-717 songs - 2 day 1 hr 22 min
+718 songs - 2 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,7 +557,8 @@
 | [Strong, Strong Wind](https://open.spotify.com/track/6I1QlCOW4mDHMeoC0MOVxL) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [All About Love](https://open.spotify.com/album/5SYykL0icXn141kHKSQ6Os) | 4:25 | 2023-12-30 |  |
 | [Stuck With Each Other \- Main](https://open.spotify.com/track/0LIeySEITbDeTE4FQPS19o) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shontelligence](https://open.spotify.com/album/3tIkt2zUIa9ZT5lLFmTo8P) | 3:20 | 2023-12-30 |  |
 | [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 | 2024-07-27 | 2026-04-27 |
-| [Sunlight to My Soul](https://open.spotify.com/track/6Pe1uwRVmUMh5c6EMjZqrp) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [HOPE!!](https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b) | 3:25 | 2026-04-26 |  |
+| [Sunlight to My Soul](https://open.spotify.com/track/2hZlezdQqx8cVOmNVcnCmf) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [HOPE!!](https://open.spotify.com/album/1ANlmz2IgU9ZlPbCy3tjze) | 3:25 | 2026-11-18 |  |
+| [Sunlight to My Soul](https://open.spotify.com/track/6Pe1uwRVmUMh5c6EMjZqrp) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [HOPE!!](https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b) | 3:25 | 2026-04-26 | 2026-11-19 |
 | [Superhuman](https://open.spotify.com/track/4eMiknze54I87MoQ9yemCq) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/1DVit0dyCMSGJ4urswE5Sf) | 4:10 | 2023-12-30 |  |
 | [Superwoman](https://open.spotify.com/track/0gi4tWDQihbUabJVqWxmfU) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:41 | 2026-05-19 |  |
 | [Svět Je Svět, Ne Ráj](https://open.spotify.com/track/4keBIQie4yPy5sDQJV5aFO) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Když Muž Se Ženou Snídá](https://open.spotify.com/album/2XMEwyrBI0T2azLQVaQZxN) | 3:46 | 2025-01-09 | 2025-04-12 |

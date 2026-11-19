@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: samatang\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: PALANG\. Artwork: Isu Kim
 
-2,715 songs - 7 day 2 hr 21 min
+2,716 songs - 7 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Gerbiras](https://open.spotify.com/track/4xAYaBpl6JrKFYFCCOQdI0) | [Jh4y](https://open.spotify.com/artist/01yGyVB1FyqBdpe7usXZ9o) | [Gerbiras](https://open.spotify.com/album/206iPeHUQsO8mHUzSAn1zz) | 3:19 | 2025-02-14 | 2025-05-16 |
 | [Get drunk](https://open.spotify.com/track/6Bb80JdngrlVnOtV1UhVzq) | [Cold Boy](https://open.spotify.com/artist/4JUGFYHBpqFZZ4YrXaJtzC) | [Get drunk](https://open.spotify.com/album/1Gf14GoiByuTDjAnpOpQW2) | 3:37 | 2023-02-24 | 2023-03-11 |
 | [Ghosted](https://open.spotify.com/track/50kMzVlEwrHnHlIdCWFp1o) | [Kakagoesbackhome](https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1) | [Ghosted](https://open.spotify.com/album/5GQi00TAPvs8TkfQt89Bhz) | 3:25 | 2024-11-22 | 2025-01-25 |
-| [Gimme A Rest](https://open.spotify.com/track/2jiPL8Mw9m3n3jAdkCB00Q) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn) | [Gimme A Rest](https://open.spotify.com/album/26WoCHgsfmOvIYKbUqJkGm) | 3:18 | 2026-07-22 |  |
+| [Gimme A Rest](https://open.spotify.com/track/2jiPL8Mw9m3n3jAdkCB00Q) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn) | [Gimme A Rest](https://open.spotify.com/album/26WoCHgsfmOvIYKbUqJkGm) | 3:18 | 2026-07-22 | 2026-11-19 |
 | [GIVE ME MORE](https://open.spotify.com/track/4DlxcnXHwp426Y0vDs41GN) | [Kiismet](https://open.spotify.com/artist/0zYU84m99b6pD9mVN1BScQ) | [GIVE ME MORE](https://open.spotify.com/album/4kYHYWCJSsUfLAEr0jg6RB) | 3:17 | 2026-08-19 | 2026-09-24 |
 | [Go Out](https://open.spotify.com/track/34k88WHxuyyA4LcUJrrbgA) | [WHALJAY](https://open.spotify.com/artist/00DQn2x4PUykmPHF8EVpYy) | [Go Out](https://open.spotify.com/album/4KxKvBEjpSz3aBf4HQmrFv) | 2:26 | 2025-04-10 | 2025-05-16 |
 | [GONE WRONG](https://open.spotify.com/track/0fMUKWa2f8k08C63fvgTS0) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [GONE WRONG](https://open.spotify.com/album/31ipuIIvVmKmatUi1toIPc) | 3:51 | 2022-09-29 | 2023-03-18 |
@@ -1269,6 +1269,7 @@
 | [ทุ่มเท ทุ่มทิ้ง \(Why\)](https://open.spotify.com/track/5eeUiLti4hP9J9GK4dbJoS) | [CONFUSE](https://open.spotify.com/artist/3dZcqi57QvlvGrMUPPork4) | [ทุ่มเท ทุ่มทิ้ง \(Why\)](https://open.spotify.com/album/7wAYZ7cphOmh8lXYJ5Ow4H) | 2:58 | 2026-01-23 | 2026-02-21 |
 | [ท่านผู้จะลืม](https://open.spotify.com/track/3y6Lmrc9m6DActYxTGsXSG) | [VANVELA](https://open.spotify.com/artist/27EG3yFfuarvwzNW7cke2Q) | [ท่านผู้จะลืม](https://open.spotify.com/album/55cOWeZUGjg6yC4TcF5Tj9) | 4:39 | 2024-09-27 | 2024-10-19 |
 | [ท้อ \(Exhausted\)](https://open.spotify.com/track/2hsBxsI9VeRwTGnU1GFdF5) | [4JUNE](https://open.spotify.com/artist/2XpTZ7Uw6d7G8gGxZfCb3Q) | [ท้อ \(Exhausted\)](https://open.spotify.com/album/2xrILgoDq2130SQo2LCDgO) | 4:22 | 2022-12-08 | 2024-01-06 |
+| [ท้อ...ก็แค่ชื่อผลไม้ \(THO\)](https://open.spotify.com/track/28X2VYUW7c3JX6WUHR6l4I) | [PALANG](https://open.spotify.com/artist/7nQkwA5IEo4KBWtE8xDfco) | [ท้อ...ก็แค่ชื่อผลไม้ \(THO\)](https://open.spotify.com/album/0Ut1D8WxXGWvutiCxqjYzu) | 3:18 | 2026-11-18 |  |
 | [ท้องฟ้าที่แปลว่าเธอ](https://open.spotify.com/track/12AuQEIPuZPAs6l2cpZhgw) | [Sigma Boys](https://open.spotify.com/artist/5EaItUif2EYwIxGVIfbMWe) | [ท้องฟ้าที่แปลว่าเธอ](https://open.spotify.com/album/6YGjjQLaCC6BvekqO2bqWm) | 3:29 | 2025-08-21 | 2025-09-06 |
 | [ธรรมดา](https://open.spotify.com/track/1dlVBvCRgzI7gTinG2Mh3j) | [IIVY B](https://open.spotify.com/artist/11gyFgMNRagfYZHvCaIMtF) | [ธรรมดา](https://open.spotify.com/album/0otHGYvDt2h177Iw4OvDmK) | 2:24 | 2024-04-26 | 2024-05-25 |
 | [ธรรมดา](https://open.spotify.com/track/0uFBRQD7PuMugyOsdGGYA0) | [วัลนิกา](https://open.spotify.com/artist/1k3dqzm26vifHIlDzWM6hA) | [ธรรมดา](https://open.spotify.com/album/5vnCP7kLxywHXN2onLxau7) | 3:43 | 2026-11-11 |  |

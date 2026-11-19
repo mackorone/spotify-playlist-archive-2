@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,099 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,102 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 8 | [ЗНАК](https://open.spotify.com/track/2O9gTMtQz4mSnn0z58o5x5) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL) | [ЗНАК](https://open.spotify.com/album/4RHWbcsl6dns8FMcElOEGg) | 3:36 |
 | 9 | [назад в кресты](https://open.spotify.com/track/36zMpCNLEEpNWnFfVOzbt2) | [dabbackwood](https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy) | [Назад в Кресты](https://open.spotify.com/album/3YohhcwKzNTLeugJX5SuJv) | 1:29 |
 | 10 | [ты че обиделась](https://open.spotify.com/track/36DnMjOyWBOZLgWYm2KWFz) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 1:30 |
-| 11 | [Супермаркет](https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:34 |
+| 11 | [Супермаркет](https://open.spotify.com/track/0e7fQFxNi91TGwf0ezB8qj) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:34 |
 | 12 | [andy warhol](https://open.spotify.com/track/2fZUqNHa6gSskIpsMA6Nuq) | [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [Shh...](https://open.spotify.com/album/5ozsaDdq5LYbkMnhdE3L4o) | 2:56 |
 | 13 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 |
 | 14 | [Общество Мертвых Поэтов](https://open.spotify.com/track/3ZW0M6jKvAnI0M5CBG3aNf) | [VILLIAN](https://open.spotify.com/artist/4UsmVGTdKwCWC0B86P6N7L), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [Красивое Зло](https://open.spotify.com/album/4LisYd48F2iJ9zTThNfjWj) | 2:06 |
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 18 | [Толпы](https://open.spotify.com/track/5OINAHhtxYnLi62jWszSNs) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [Толпы](https://open.spotify.com/album/53KQj7hFlt2VNt5kRpMi70) | 1:30 |
 | 19 | [ParisLove](https://open.spotify.com/track/6zECxDYlNtEybq8hZ9Tp12) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [ParisLove](https://open.spotify.com/album/60Evg5wOVFEI0PH4XKersZ) | 1:49 |
 | 20 | [MARTINE ROSE](https://open.spotify.com/track/5AVrwT3q2nFWHDwuPILwrf) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [greyrock](https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L) | [MARTINE ROSE](https://open.spotify.com/album/7Je8rk60eM7LPvvZj9FiDy) | 3:06 |
-| 21 | [целоваться](https://open.spotify.com/track/3q6UzpYSLp7cIGIoHAs21d) | [lightprey](https://open.spotify.com/artist/1Z0sJgBY5vP651KUWJTbjh) | [целоваться](https://open.spotify.com/album/2ekppuWPWbYN83aI3sDuFO) | 1:54 |
+| 21 | [целоваться](https://open.spotify.com/track/2UqlmIBAURsHt13ArF16YI) | [lightprey](https://open.spotify.com/artist/1Z0sJgBY5vP651KUWJTbjh) | [целоваться](https://open.spotify.com/album/7FPkvXL4biLihwTAIByilG) | 1:54 |
 | 22 | [sleep mode](https://open.spotify.com/track/2kPuQ8BYGdJglM9aFX9pA0) | [ONDA ANDAR](https://open.spotify.com/artist/2gGvBjb55mnnbQO2gNQSLo) | [KIDSCRY2DAY](https://open.spotify.com/album/17VXPSQGscJVeoCKpWqNW6) | 2:52 |
 | 23 | [цена](https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [паранойя](https://open.spotify.com/artist/6xcOPl8sgatUgeDsUE9QQb) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 2:18 |
 | 24 | [101 причина](https://open.spotify.com/track/7LoQRMNHi5iDoDWFYPqlya) | [VILLIAN](https://open.spotify.com/artist/4UsmVGTdKwCWC0B86P6N7L), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [101 причина](https://open.spotify.com/album/7nyPSTcOdcKQvPBOK9nRE6) | 2:24 |
 | 25 | [ток](https://open.spotify.com/track/7hcbP4H4irpWZzIm5IYr9w) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [новый альбом про любовь](https://open.spotify.com/album/0x7xXGfXiAEpbOwzRFNBuo) | 2:53 |
 | 26 | [люблю москву, но снится london](https://open.spotify.com/track/5B21WvNT0r4SsmmnLKenpF) | [vers1zee](https://open.spotify.com/artist/7BqkA3Oot59tq1AbXWymAZ), [micheff](https://open.spotify.com/artist/4cHIM4iZLOpl3KvtEhTqS2) | [люблю москву, но снится london](https://open.spotify.com/album/6B3B2cjaiYyBZsR6SItWbt) | 1:26 |
-| 27 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 |
+| 27 | [Нон стоп](https://open.spotify.com/track/2nmRH8nkluAFr3qI1ryavs) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:33 |
 | 28 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
 | 29 | [священная война](https://open.spotify.com/track/51hYk2CuUoZPd003ENH5lO) | [урал гайсин](https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm) | [саундклауд пак](https://open.spotify.com/album/3vvHeN07ySuHHcubVvhgyw) | 1:42 |
 | 30 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 39 | [Юра, Юра](https://open.spotify.com/track/60rhfD30Cpfj4SY5A7ft4Z) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [Как испортить вечеринку?](https://open.spotify.com/album/2JvSSXtfGp3QIv1VWxIr4J) | 2:08 |
 | 40 | [Простужен](https://open.spotify.com/track/3VnFEw7QY1kDjU5I0VSFPf) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH), [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [Простужен](https://open.spotify.com/album/6vogXAr8gw3aW4AXgxLLR1) | 1:34 |
 | 41 | [Ветром Снегом Зноем](https://open.spotify.com/track/563FvINGHxMRUsytFrhzgP) | [Husky](https://open.spotify.com/artist/2nAUHbKI7TZShUwFpk6G08) | [Партизан](https://open.spotify.com/album/4YGF3M5gcKAT2ZdqubcA2l) | 4:10 |
-| 42 | [Тмстс](https://open.spotify.com/track/1jqbg6vgOkK6yyrALTgCfZ) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 2:40 |
+| 42 | [Тмстс](https://open.spotify.com/track/5Y084CcomD6DRot7KJtNC2) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 2:40 |
 | 43 | [Адская колыбельная](https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Адская колыбельная](https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS) | 2:58 |
 | 44 | [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 |
 | 45 | [Лампочки](https://open.spotify.com/track/6c1ly1qdZbILblTz94usFG) | [ARTIK & ASTI](https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA) | [Миллениум Х](https://open.spotify.com/album/3kQuzrtCgpviID0Upusjw2) | 3:15 |
-| 46 | [Ханнамонтана](https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:10 |
+| 46 | [Ханнамонтана](https://open.spotify.com/track/2GqzE0IXc3rq37AOdcrrvx) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:10 |
 | 47 | [Ну и чё?](https://open.spotify.com/track/6Un1gJPIWzyRwOtmL4E0Jt) | [BLAZER 993](https://open.spotify.com/artist/74t7Nu8mYVod6RF6cQamwJ) | [LIFESTYLE](https://open.spotify.com/album/6TcNSUxf3HK0OGAQxfIOjB) | 2:14 |
 | 48 | [Lost Angeles](https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 1:54 |
-| 49 | [Все хотят меня поцеловать](https://open.spotify.com/track/0rqe1Pt1EGu0VDAqPupREU) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Грустная девчонка с глазами как у собаки](https://open.spotify.com/album/4cRqvcjfnQDxwCTGP2UAUV) | 2:24 |
+| 49 | [Все хотят меня поцеловать](https://open.spotify.com/track/6yMFLAVzfpHZdN98V99Zsb) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Грустная девчонка с глазами как у собаки](https://open.spotify.com/album/0JNzGHQhkEu2q3wk5knLRA) | 2:24 |
 | 50 | [red weather](https://open.spotify.com/track/5pSC8KhubUzhy7039HDUOX) | [ONDA ANDAR](https://open.spotify.com/artist/2gGvBjb55mnnbQO2gNQSLo) | [red weather](https://open.spotify.com/album/2pkIle7FBzNvswhstCBztf) | 1:44 |
 
-Snapshot ID: `Mo/yAAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MpFDgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

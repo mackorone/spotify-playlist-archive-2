@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : ברי סחרוף
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,736 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,740 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 46 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
 | 47 | [סלוניקי](https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF) | [Amir Lev](https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH) | [בסוף הם הסכימו](https://open.spotify.com/album/5t7zbIvLJ6m39REiREuTkZ) | 3:12 |
 | 48 | [Sun & Lemonade](https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1) | [Loren Peled](https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh), [Daniella Pick](https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp) | [Sun & Lemonade](https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ) | 2:59 |
-| 49 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
-| 50 | [יותר מדי בבת אחת](https://open.spotify.com/track/3t2GoEUZyLUeXogiQqzg5o) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [יותר מדי בבת אחת](https://open.spotify.com/album/4NCqWhw52XSrUFUJRA02uo) | 3:11 |
+| 49 | [יותר מדי בבת אחת](https://open.spotify.com/track/3t2GoEUZyLUeXogiQqzg5o) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [יותר מדי בבת אחת](https://open.spotify.com/album/4NCqWhw52XSrUFUJRA02uo) | 3:11 |
+| 50 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
 
-Snapshot ID: `AAAAAGuYX2G2IoGZvCeqQ5elqyLYlkfx`
+Snapshot ID: `AAAAAPmNaNqvALHCu6vmNWdhtl9T9Dk+`

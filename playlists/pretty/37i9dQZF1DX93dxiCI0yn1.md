@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 【サイファー音源を公開！】ABEMA「RAPSTAR 2026」公式プレイリスト。審査員や番組内で活躍したアーティスト、昨年活躍したアーティストの楽曲を毎週水曜日に更新。 マイライブラリに保存して毎週チェックしよう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,950 likes - 116 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,164 likes - 116 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 115 | [NOOFFSEASON \(feat\. Watson, MIKADO & ¥ellow Bucks\)](https://open.spotify.com/track/1jiOSWN3zSZDWjXMEbmYSZ) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [UNTIL](https://open.spotify.com/album/4fgxqE5qY4QFwtOiA4TaWJ) | 5:14 |
 | 116 | [合法的トビ方ノススメ](https://open.spotify.com/track/3z6X1pQSGdky5rQADTLM2g) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [INDIES COMPLETE](https://open.spotify.com/album/77eV8yKbsB79ANtICA6ZN9) | 4:00 |
 
-Snapshot ID: `AAAAADgS2NR+WjslraQSDF2I//FStEil`
+Snapshot ID: `AAAAAHkJhZ882bDVcIlJaLTxGpO+psKh`

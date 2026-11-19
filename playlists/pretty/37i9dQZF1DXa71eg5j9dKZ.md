@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: salute
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,952 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,967 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Feels Like Heaven](https://open.spotify.com/track/0UupmTsDkL9cdm8GGLzvYq) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Feels Like Heaven](https://open.spotify.com/album/35OcpT9AjynFlURa6yS2VU) | 3:17 |
 | 100 | [Wicked N Ruff](https://open.spotify.com/track/4XjgbpZ4rtt0PwE0QNOMJh) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Wicked N Ruff](https://open.spotify.com/album/5EJu2S7NXFtotFysgcl8WN) | 4:41 |
 
-Snapshot ID: `AAAAAAWYypXZ3giiC55Pf1LQ9jqHmD0Y`
+Snapshot ID: `AAAAADZerc+b6m+EsUYsJhaztsHya5DL`

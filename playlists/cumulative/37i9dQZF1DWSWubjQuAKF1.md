@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Dominika Płonka
 
-1,043 songs - 2 day 2 hr 55 min
+1,044 songs - 2 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [7 nieszczęść](https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Myśli](https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS) | 2:39 | 2025-11-04 | 2026-03-06 |
 | [8 am](https://open.spotify.com/track/1p8PD4ArjnUjLoapFKUn5B) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 3:03 | 2025-02-06 | 2025-03-02 |
 | [\_\_21\_\_](https://open.spotify.com/track/6vP6lWqFnY2Mp6GqQKrddI) | [kubera](https://open.spotify.com/artist/5VGm5Wvwd5NO7uoYvQcKGw) | [\_\_21\_\_](https://open.spotify.com/album/1b4qo22PIVnuxnD3BwjLQh) | 2:23 | 2026-10-29 |  |
+| [A Bodaj Tebe](https://open.spotify.com/track/1sxMhqsMqk3yILuJi0Kai9) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [RYT\-M](https://open.spotify.com/album/3p2ftDqIIrVFUY6walY1Ij) | 2:55 | 2026-11-12 |  |
 | [a little bit](https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [a little bit](https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n) | 2:45 | 2025-03-27 | 2025-07-04 |
 | [a może nie?](https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [a może nie?](https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm) | 2:42 | 2024-10-04 | 2025-01-10 |
 | [a może?](https://open.spotify.com/track/0lC5fionUUvt77bZlD87Hx) | [Klaudia Marzec](https://open.spotify.com/artist/2SlZJko0OpkOSKoZzoMkta) | [a może?](https://open.spotify.com/album/3XhmAdtbJEnVqhjgQbRFKL) | 3:39 | 2025-07-24 | 2025-08-21 |
@@ -253,7 +254,7 @@
 | [Dzikie Róże](https://open.spotify.com/track/5lKovMHSTqq5RR2Q80fGaD) | [Sasi](https://open.spotify.com/artist/6QSTk1RVXLYa5lWqZCkWpE), [Mikolaj Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Dzikie Róże](https://open.spotify.com/album/5zfh0diDFVQtVc5mZTNNvR) | 3:54 | 2024-06-28 | 2024-09-14 |
 | [Dzięki Tobie](https://open.spotify.com/track/6iL49K0EnSuRLovS8fbdzV) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Dzięki Tobie](https://open.spotify.com/album/7qEh9GxF8ds5lBGbLUybJc) | 2:30 | 2024-12-20 | 2025-01-24 |
 | [Déjà Vu](https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Déjà Vu](https://open.spotify.com/album/3Wkdzr7KwebHyxmxmqdAtK) | 2:18 | 2024-06-28 | 2024-10-26 |
-| [Dłoń trzymam w laysach](https://open.spotify.com/track/13epEQaevgVluo5VW66M9t) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Dłoń trzymam w laysach](https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg) | 2:26 | 2026-10-08 |  |
+| [Dłoń trzymam w laysach](https://open.spotify.com/track/13epEQaevgVluo5VW66M9t) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Dłoń trzymam w laysach](https://open.spotify.com/album/5giWPfQeLZmdiBX4XvVHBg) | 2:26 | 2026-10-08 | 2026-11-19 |
 | [Długie Spacery](https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Długie Spacery](https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB) | 4:36 | 2024-08-22 | 2025-01-24 |
 | [Echo](https://open.spotify.com/track/4S6Eey9SnDruEADx0ojzZJ) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Echo](https://open.spotify.com/album/4QDtR0UNxUf5JFn90ppg8Z) | 2:44 | 2024-11-21 | 2025-01-10 |
 | [Echo Echo](https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Echo Echo](https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI) | 2:13 | 2026-07-30 | 2026-10-30 |

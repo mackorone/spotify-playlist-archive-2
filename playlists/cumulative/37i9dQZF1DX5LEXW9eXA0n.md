@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: KYUHYUN\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,824 songs - 4 day 22 hr 29 min
+1,826 songs - 4 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1153,6 +1153,7 @@
 | [Please Don't Cry](https://open.spotify.com/track/5pmhDbaeNG5Y31mCGK07JE) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6ZGUvD476odOT0J0SdK8L5) | 3:55 | 2021-12-23 | 2022-07-08 |
 | [Please Don't forget me \(WEBTOON 'Discovery of Love' X GB9\)](https://open.spotify.com/track/6mj9CHo8FmFSsDH9VaOfD8) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Please Don't forget me \(WEBTOON 'Discovery of Love' X GB9\)](https://open.spotify.com/album/7dwb8T0wu67jtWG0C8XaKc) | 4:00 | 2022-08-12 | 2022-12-27 |
 | [Please don't hate me](https://open.spotify.com/track/7pWfugxsy7Sdm063H5GaR5) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Please don't hate me](https://open.spotify.com/album/36GJ8RigvD51QVlOcit9LC) | 3:25 | 2024-12-02 | 2025-04-25 |
+| [Please Don't Love Me](https://open.spotify.com/track/6uvtZTX4KsemEHrat4Afmz) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Thoughts of Parting](https://open.spotify.com/album/0II7HoDsaJ6sOEizRjAiDh) | 3:25 | 2026-11-18 |  |
 | [Please Don't Stay Away](https://open.spotify.com/track/4GA7yi7kJ5xl1fjNQsFN6Q) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Please Don't Stay Away](https://open.spotify.com/album/3G4RhCvPVo2YVC3znvybsw) | 3:38 | 2025-09-26 | 2026-01-03 |
 | [Please don\`t happy without me](https://open.spotify.com/track/4CDUbmbzqgBnVQqSbDzKNF) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Please don\`t happy without me](https://open.spotify.com/album/5NQoi3oR00GUJ433opLOvO) | 3:17 | 2023-02-24 | 2023-05-16 |
 | [Please Don’t Stop](https://open.spotify.com/track/60MlMG7WbBFb2pwXd1gFg0) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4XfsazZHKWIDrwlTHukrQ8) | 3:23 | 2026-03-16 | 2026-09-23 |
@@ -1180,6 +1181,7 @@
 | [RADIO](https://open.spotify.com/track/1ZmAcES012Hgjv6cMVxXrI) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [JOURNEY](https://open.spotify.com/album/1URTKlF8ju1dQ4ZhOTQjLS) | 3:11 | 2021-12-20 | 2022-07-08 |
 | [RAIN DROP \(feat\. Lee Na Eun\)](https://open.spotify.com/track/2lCOSE6b5yYQPcMFU6QJUb) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Lee Na Eun](https://open.spotify.com/artist/4zTGygjPjB8OiETW8jnsGN) | [RAIN DROP \(feat\. Lee Na Eun\)](https://open.spotify.com/album/4WcaWGK3EVqLMZ8lHGXwNj) | 3:23 | 2021-12-20 | 2022-04-13 |
 | [Rain road](https://open.spotify.com/track/49QJXbt26AOmI3OwmQzKTe) | [The Lime](https://open.spotify.com/artist/6h6EOVgNFYGIQ29hg4ZcjY) | [Rain road](https://open.spotify.com/album/7rPH5ZJHUfwzCU3oaCexDR) | 3:00 | 2022-08-01 | 2022-11-23 |
+| [Rainfall](https://open.spotify.com/track/4S0N0YFFrepZRtQVkl1dye) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Rainfall](https://open.spotify.com/album/0FmzciTl7DsNZ6tcFLmb31) | 3:40 | 2026-11-18 |  |
 | [Rains again](https://open.spotify.com/track/7abCl5t9kc6yrukx4dYOYS) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Rains again](https://open.spotify.com/album/4dgzYb56hQBaRbT0pURaZO) | 3:43 | 2022-03-24 | 2022-04-21 |
 | [Reaching](https://open.spotify.com/track/0d0VUUzSvixTuwXBWZZqOa) | [MINHYUK \(MONSTA X\)](https://open.spotify.com/artist/1lnrTVtTQtQS77320ZmX5V) | [Reaching](https://open.spotify.com/album/3haVbAfMhx9AeRjuCeXLZT) | 3:19 | 2026-06-19 |  |
 | [Real LOVE](https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:16 | 2022-07-04 | 2022-10-15 |
@@ -1351,7 +1353,7 @@
 | [Steps Towards You](https://open.spotify.com/track/59263BYqT0AARHtTfHEAR1) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [The Lovers Note](https://open.spotify.com/album/55ddigAUNLCkDpvkjG1w9U) | 3:48 | 2025-02-28 | 2025-06-14 |
 | [Still](https://open.spotify.com/track/2FPVLNcMPKysmV1TpozETD) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [Still](https://open.spotify.com/album/0dS3PtdYqB4uboBYWRln6H) | 3:43 | 2024-07-22 | 2024-11-29 |
 | [Still Here](https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [EXchange4, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ) | 3:32 | 2025-11-12 | 2026-05-01 |
-| [Still Here](https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Our Cosmos](https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0) | 3:47 | 2026-04-16 |  |
+| [Still Here](https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Our Cosmos](https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0) | 3:47 | 2026-04-16 | 2026-11-19 |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-07 | 2023-01-11 |
 | [Still Here, Still Us](https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot) | [SeeYa](https://open.spotify.com/artist/3Mbxr8TL0Sny7dUNicKWm2) | [Still Here, Still Us](https://open.spotify.com/album/7gI1pzZRjxCgWHMwRb8ouv) | 3:33 | 2026-03-31 | 2026-11-09 |
 | [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 | 2023-07-08 |
@@ -1810,7 +1812,7 @@
 | [이렇게 지금](https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [황금가면 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L) | 3:57 | 2022-07-26 | 2022-10-15 |
 | [이별극 \(The Farewell Play\)](https://open.spotify.com/track/1QDuJT5YqzpzoV1KPKf5Rg) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [이별극 \(The Farewell Play\)](https://open.spotify.com/album/0TkDuNGHhANMrXVV1ztOZE) | 3:32 | 2026-03-26 | 2026-09-30 |
 | [이별이 이렇게 힘들 거라고](https://open.spotify.com/track/6ixDSzvVMinZIxuQ8Lq5Yn) | [Suki](https://open.spotify.com/artist/6wiGqCi92zXYnvXazWTsry) | [결혼하자 맹꽁아! \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7kAfL2fjGE1WIsTFpnW50g) | 3:38 | 2024-10-30 | 2025-04-09 |
-| [이제야 사랑이 보이네](https://open.spotify.com/track/7ojKhprnV0Z7efNXEUv4Tl) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [이제야 사랑이 보이네](https://open.spotify.com/album/1EPWuiiAmdXc47A9YLpeSZ) | 4:04 | 2026-04-16 |  |
+| [이제야 사랑이 보이네](https://open.spotify.com/track/7ojKhprnV0Z7efNXEUv4Tl) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [이제야 사랑이 보이네](https://open.spotify.com/album/1EPWuiiAmdXc47A9YLpeSZ) | 4:04 | 2026-04-16 | 2026-11-19 |
 | [이혼해요 \(Divorce\)](https://open.spotify.com/track/12l28wJSPM3ALuF57ApdNl) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [이혼해요 \(Divorce\)](https://open.spotify.com/album/6aXTjKAFSugInjPEFodUMd) | 3:47 | 2023-09-07 | 2023-10-17 |
 | [인사](https://open.spotify.com/track/4EGe0ovVvjRyGS5Wt9uM9C) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [인사 Prelude1](https://open.spotify.com/album/63qF2GbuABAfcprCdWlEXn) | 3:56 | 2025-09-18 | 2026-01-15 |
 | [잊고 있는 중](https://open.spotify.com/track/0zA7Awbp9OytjHG0PsVzIy) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [잊고 있는 중](https://open.spotify.com/album/1hQH5zANKRdlDLPxHwdwm1) | 3:57 | 2023-02-24 | 2023-06-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Aline Barros
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,222 likes - 49 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,267 likes - 49 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 48 | [Fornalha Aquecida \(Ao Vivo\)](https://open.spotify.com/track/4gqujkulvZjaBJ8lcMUhTW) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Fornalha Aquecida \(Ao Vivo\)](https://open.spotify.com/album/6zinFtazi3MT602Ffntk3A) | 4:02 |
 | 49 | [Eu Proclamo Jesus](https://open.spotify.com/track/1Ym10f5DUzjTfP6efvs5BG) | [Marianna Goes](https://open.spotify.com/artist/1R9EKfsx0KKM7M0M7Cz8gf) | [Eu Proclamo Jesus](https://open.spotify.com/album/6Dom5vKXTjhWq5LbqMMbg6) | 4:48 |
 
-Snapshot ID: `AAAAAHcBYOrwpsRUD1fGJGKVtK0xR6Fy`
+Snapshot ID: `AAAAAOutKJlsrsp7ryg+o4d3ZLnxTJm4`

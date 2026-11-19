@@ -1,13 +1,157 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Star Moles",
-  "num_followers": 111629,
+  "num_followers": 111698,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACbJuTRnNQM7rzOQEzJ6YEWUOn3W",
+  "snapshot_id": "AAAAAIDJkoeIR/+SXCB6QcLy1Nihc4H/",
   "tracks": [
+    {
+      "added_at": "2026-11-18 17:24:40",
+      "album": {
+        "name": "Eat Your Heart Out",
+        "url": "https://open.spotify.com/album/4eO59py0LwCcgrUoXK6jgD"
+      },
+      "artists": [
+        {
+          "name": "Dillon Basse",
+          "url": "https://open.spotify.com/artist/3XmP4rE62XH66PsE8GiGxq"
+        }
+      ],
+      "duration_ms": 272529,
+      "name": "Eat Your Heart Out",
+      "url": "https://open.spotify.com/track/0gYBUI45WfFAZb1G84LWtX"
+    },
+    {
+      "added_at": "2026-11-18 17:24:40",
+      "album": {
+        "name": "4 Billion Live Friendly Bacteria",
+        "url": "https://open.spotify.com/album/6DCgiuKI8aFMcRMx2GDKY8"
+      },
+      "artists": [
+        {
+          "name": "Felicity J Lord",
+          "url": "https://open.spotify.com/artist/5vPHzJpKqK0o9QqyIb1BvQ"
+        }
+      ],
+      "duration_ms": 216136,
+      "name": "Nilo",
+      "url": "https://open.spotify.com/track/4GqH5PszRupLjulsiDClMt"
+    },
+    {
+      "added_at": "2026-11-18 17:24:40",
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/0fvsZIQDPJqHJoYP3hwrQH"
+      },
+      "artists": [
+        {
+          "name": "Christa Knickerbocker",
+          "url": "https://open.spotify.com/artist/0OvKsF6Lk4UB8psOLRmLne"
+        }
+      ],
+      "duration_ms": 249659,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/7jsz9cVdlb9cLyQP251FFZ"
+    },
+    {
+      "added_at": "2026-11-18 17:24:40",
+      "album": {
+        "name": "Anything Better To Do",
+        "url": "https://open.spotify.com/album/3DuCY9gvNpZ8SHJlLN0dHw"
+      },
+      "artists": [
+        {
+          "name": "Winefred RT",
+          "url": "https://open.spotify.com/artist/6ZIOlmrBm5r0kimVTsbesa"
+        }
+      ],
+      "duration_ms": 335213,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/3Pr1DlZOGFRksaUxoTn1El"
+    },
+    {
+      "added_at": "2026-11-18 17:24:40",
+      "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/1r4l5FQKAgGYqLb6LJA33k"
+      },
+      "artists": [
+        {
+          "name": "Adeline Hotel",
+          "url": "https://open.spotify.com/artist/3BOfygYBFwHTBFyCbsQVMv"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/5HWcuo6qdUizk7dNsQUqTT"
+    },
+    {
+      "added_at": "2026-11-18 17:24:40",
+      "album": {
+        "name": "Woodacre",
+        "url": "https://open.spotify.com/album/6aArg0ixFhnRTIuX1OlhMm"
+      },
+      "artists": [
+        {
+          "name": "Rose Paradise",
+          "url": "https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv"
+        }
+      ],
+      "duration_ms": 263750,
+      "name": "Make It Through The Day",
+      "url": "https://open.spotify.com/track/3XMwWnozAnnHIENIsR4PfW"
+    },
+    {
+      "added_at": "2026-11-11 05:00:21",
+      "album": {
+        "name": "Searching For A Sign",
+        "url": "https://open.spotify.com/album/1TrYdHGS0bmUNmVB3VvIwo"
+      },
+      "artists": [
+        {
+          "name": "Mariel Gesualdi",
+          "url": "https://open.spotify.com/artist/1dEMIXXJ5dhltfZGyZjZsG"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Searching For A Sign",
+      "url": "https://open.spotify.com/track/4HjKS8X1aRas60t0Pcot8V"
+    },
+    {
+      "added_at": "2026-11-18 17:24:40",
+      "album": {
+        "name": "Racket Sports",
+        "url": "https://open.spotify.com/album/7ssChcYPAkbPaYlOD3Hmzo"
+      },
+      "artists": [
+        {
+          "name": "Trask",
+          "url": "https://open.spotify.com/artist/5V4IcR7gN4KcBUGKmIOnqQ"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5aZCfM77dDLdR3xVgxfCs8"
+    },
+    {
+      "added_at": "2026-11-11 05:00:21",
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v"
+      },
+      "artists": [
+        {
+          "name": "Star Moles",
+          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
+        }
+      ],
+      "duration_ms": 217865,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS"
+    },
     {
       "added_at": "2026-11-11 15:07:14",
       "album": {
@@ -25,6 +169,54 @@
       "url": "https://open.spotify.com/track/3gp3H5DIkSbnBGIM0B57mJ"
     },
     {
+      "added_at": "2026-11-18 17:24:40",
+      "album": {
+        "name": "Daisy's Mixtape",
+        "url": "https://open.spotify.com/album/6dYsh2bh4RdfwMvzBhLDeT"
+      },
+      "artists": [
+        {
+          "name": "Frances Whitney",
+          "url": "https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Sometimes I Pray",
+      "url": "https://open.spotify.com/track/2rD0SgWkjwUsA65yoJFbBT"
+    },
+    {
+      "added_at": "2026-11-18 17:24:40",
+      "album": {
+        "name": "Key of Love",
+        "url": "https://open.spotify.com/album/4TTGdgtkkwaR4IJzcIljft"
+      },
+      "artists": [
+        {
+          "name": "Minna",
+          "url": "https://open.spotify.com/artist/4Qk9F01tP4FfjkBam8LfNL"
+        }
+      ],
+      "duration_ms": 198142,
+      "name": "Key of Love",
+      "url": "https://open.spotify.com/track/5mR3FrRydjEMEmQ5VdKSEQ"
+    },
+    {
+      "added_at": "2026-11-18 17:24:40",
+      "album": {
+        "name": "Something Special",
+        "url": "https://open.spotify.com/album/4WICWg2YufbafVFZi4Lvqy"
+      },
+      "artists": [
+        {
+          "name": "Jack Armbrust",
+          "url": "https://open.spotify.com/artist/2eWZOG7RcN6hWEdqoxyTVB"
+        }
+      ],
+      "duration_ms": 199648,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/1M6OC5L0DD72W3Upkyp4YU"
+    },
+    {
       "added_at": "2026-11-11 05:00:21",
       "album": {
         "name": "Quitter",
@@ -39,22 +231,6 @@
       "duration_ms": 168210,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/2tGR2aOhVgEhB6JF7W3p8h"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Searching For A Sign",
-        "url": "https://open.spotify.com/album/1TrYdHGS0bmUNmVB3VvIwo"
-      },
-      "artists": [
-        {
-          "name": "Mariel Gesualdi",
-          "url": "https://open.spotify.com/artist/1dEMIXXJ5dhltfZGyZjZsG"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Searching For A Sign",
-      "url": "https://open.spotify.com/track/4HjKS8X1aRas60t0Pcot8V"
     },
     {
       "added_at": "2026-11-11 15:07:14",
@@ -103,22 +279,6 @@
       "duration_ms": 197452,
       "name": "Halo Mode",
       "url": "https://open.spotify.com/track/60IH1n6y6LHfRlB2PQovPE"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v"
-      },
-      "artists": [
-        {
-          "name": "Star Moles",
-          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
-        }
-      ],
-      "duration_ms": 217865,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS"
     },
     {
       "added_at": "2026-11-11 05:00:21",
@@ -1051,174 +1211,6 @@
       "duration_ms": 249243,
       "name": "Freeze Tag",
       "url": "https://open.spotify.com/track/3acCsrAEl35FXyWT7xykoQ"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/7q94GKFnhSPHYBkv8iAPSo"
-      },
-      "artists": [
-        {
-          "name": "Lamplight",
-          "url": "https://open.spotify.com/artist/6W7C7NhjSvrh9u1P7bjUx0"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/1TIT5XIkgwG3qx7PCkJ88Y"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "How To Make A Cowboy",
-        "url": "https://open.spotify.com/album/4x6KlybMIeAVflLNpDSbOB"
-      },
-      "artists": [
-        {
-          "name": "Fleeland",
-          "url": "https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4"
-        }
-      ],
-      "duration_ms": 227230,
-      "name": "How To Make A Cowboy",
-      "url": "https://open.spotify.com/track/5LQb0bP59Mnn79Pg5kUFbm"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Burgundy Wine",
-        "url": "https://open.spotify.com/album/6envgfE6JhoL5Y3Jy78Ydr"
-      },
-      "artists": [
-        {
-          "name": "alec rose",
-          "url": "https://open.spotify.com/artist/21CQpG0IwpVT2SJmoYaeYX"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Burgundy Wine",
-      "url": "https://open.spotify.com/track/4wcqrLqEFzO2hM1dqgS2nx"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "A Horse Named Friday",
-        "url": "https://open.spotify.com/album/21qmtTkIwzYprRM6JjXFkH"
-      },
-      "artists": [
-        {
-          "name": "Theo Kandel",
-          "url": "https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q"
-        },
-        {
-          "name": "Jackie Evans",
-          "url": "https://open.spotify.com/artist/3hr95JCfCIlFRK9EmDFJ3R"
-        }
-      ],
-      "duration_ms": 259107,
-      "name": "About Dreams",
-      "url": "https://open.spotify.com/track/0ygSWgTJrvmm5jIsxqp3sJ"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Dusty",
-        "url": "https://open.spotify.com/album/4WJlMyXOnpsEskUDWUkKdc"
-      },
-      "artists": [
-        {
-          "name": "Isaac Stalling",
-          "url": "https://open.spotify.com/artist/3qfuw2kKPpDgkwvD0AJPsZ"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Dusty",
-      "url": "https://open.spotify.com/track/1sVWb96BHxmZ8sFNz03w8z"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Country Rose",
-        "url": "https://open.spotify.com/album/4njw6JYR5k31p5vCb9FZDf"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Something",
-          "url": "https://open.spotify.com/artist/1jFjZeZbSmgLEtzv9kC8bM"
-        }
-      ],
-      "duration_ms": 209012,
-      "name": "Country Rose",
-      "url": "https://open.spotify.com/track/5uykVD8gTzApGmApjCUJCQ"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "OBL",
-        "url": "https://open.spotify.com/album/6aIKYDxZ3LColObdsIySuu"
-      },
-      "artists": [
-        {
-          "name": "Grumpy",
-          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
-        }
-      ],
-      "duration_ms": 244483,
-      "name": "OBL",
-      "url": "https://open.spotify.com/track/7AzkPpumtKrbTwYjzFftkd"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Ceremony",
-        "url": "https://open.spotify.com/album/5L2Q3mltBU6OkwTtnzVYrJ"
-      },
-      "artists": [
-        {
-          "name": "Maya Donovan",
-          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
-        }
-      ],
-      "duration_ms": 217759,
-      "name": "Salami",
-      "url": "https://open.spotify.com/track/7kb5f5KOA5IFNUP1ZywIqo"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Three Reds",
-        "url": "https://open.spotify.com/album/1TORmjib416bF532Zsd0rL"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Three Reds",
-      "url": "https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "janie!",
-        "url": "https://open.spotify.com/album/02cW3O8IYROH1zZiXaDCtT"
-      },
-      "artists": [
-        {
-          "name": "phin",
-          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
-        },
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "janie!",
-      "url": "https://open.spotify.com/track/2TKDwjdp5oLah1otwcctNY"
     }
   ],
   "unique_name": "Fresh Finds Folk",

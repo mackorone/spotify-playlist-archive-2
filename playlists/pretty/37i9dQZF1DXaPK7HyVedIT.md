@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Mochakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164,405 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,194 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 75 | [Louboutin](https://open.spotify.com/track/4gB2PHBDWqjZV2ynWLqME8) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Louboutin](https://open.spotify.com/album/0JDfPxytFUdxY4swdIHYgI) | 3:11 |
 | 76 | [Think Too Much](https://open.spotify.com/track/21gMbdNtW8Za7QOdTmWa5G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Nariman](https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Think Too Much EP](https://open.spotify.com/album/1IlDb8yklrYyFlwO8t83wE) | 3:06 |
 | 77 | [Onda 7](https://open.spotify.com/track/3yvInCfyjakgmH50cXrE70) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [ID](https://open.spotify.com/album/4HArTcixlcIpIla56geDfK) | 3:03 |
-| 78 | [Bring The Beat Back](https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Bring The Beat Back](https://open.spotify.com/album/3lgwAztqNRf5uupPe88kOR) | 4:35 |
+| 78 | [Bring The Beat Back](https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [TOOLS 4 HARDWORKERS 009](https://open.spotify.com/album/3lgwAztqNRf5uupPe88kOR) | 4:35 |
 | 79 | [Rhythm in My Veins](https://open.spotify.com/track/6da9V1BxCuEqD0ZDfax2cR) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Aline Rocha](https://open.spotify.com/artist/23hlYNjktCHEfyavJaK3Ug) | [Rhythm in My Veins](https://open.spotify.com/album/7ywLCVzRUj4Y42VsavfXza) | 2:17 |
 | 80 | [LA TO IBIZA](https://open.spotify.com/track/2nPFKy5gMQS7Faj3q8mqw2) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t) | [LA TO IBIZA](https://open.spotify.com/album/1BixBJebSVzMxeiC4JyBMT) | 3:46 |
 
-Snapshot ID: `AAAAABG98/LmAF9YM8mkovYWIW5/Z/GJ`
+Snapshot ID: `AAAAAAGL4NO0pc9zqTMWiwlDVKpyHIJT`

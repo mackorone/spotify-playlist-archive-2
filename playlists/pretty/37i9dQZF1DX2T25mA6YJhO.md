@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Los Punsetes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,679 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,686 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [Hacemos lo que podemos](https://open.spotify.com/track/0BTbyzc0rb6qi8RWpOBRsu) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Hacemos lo que podemos](https://open.spotify.com/album/1tfz35tbgSLtSt8v8SSBPJ) | 3:28 |
 | 100 | [Heridas](https://open.spotify.com/track/6aqCuP6z2T9qHrBLUHULzv) | [Nuevo Berlín](https://open.spotify.com/artist/1yx6TpkZhtrOHefx2nZxBI) | [Heridas](https://open.spotify.com/album/7skoyakbM2tgNf4DwmW8fM) | 3:12 |
 
-Snapshot ID: `AAAAANyY9Z3YMShtEdC2dkAuCYEh2Uh4`
+Snapshot ID: `AAAAACGFs7F1pQK70WsMQkuoCIcqFKXV`

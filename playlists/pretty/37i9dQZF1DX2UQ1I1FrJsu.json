@@ -1,12 +1,12 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 158158,
+  "num_followers": 158205,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGdZ+Hz0Qfx9vj9h5WWida2rElf8",
+  "snapshot_id": "AAAAADw/0DBYC6K2dqyHXAVV0VBc/oX7",
   "tracks": [
     {
       "added_at": "2026-11-13 05:01:12",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-11-13 05:01:12",
       "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "Tom McFarland",
-          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
-        }
-      ],
-      "duration_ms": 199477,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
-    },
-    {
-      "added_at": "2026-11-13 05:01:12",
-      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 228453,
       "name": "Mystery Lady (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD"
+    },
+    {
+      "added_at": "2026-11-13 05:01:12",
+      "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Tom McFarland",
+          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
+        }
+      ],
+      "duration_ms": 199477,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
     },
     {
       "added_at": "2026-11-13 05:01:12",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-11-13 05:01:12",
       "album": {
-        "name": "dizzy",
-        "url": "https://open.spotify.com/album/0DKzY4dmVUMI5YzdXFfcfm"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 282490,
-      "name": "dizzy",
-      "url": "https://open.spotify.com/track/29obLp4cP6PZhjMFujRQsh"
-    },
-    {
-      "added_at": "2026-11-13 05:01:12",
-      "album": {
         "name": "Orange Wine",
         "url": "https://open.spotify.com/album/2AGeeGiuL9Sxs3ZWpnq9o1"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 190458,
       "name": "Orange Wine",
       "url": "https://open.spotify.com/track/7gZWypmpJYDJB7DV8p0Vjk"
+    },
+    {
+      "added_at": "2026-11-13 05:01:12",
+      "album": {
+        "name": "dizzy",
+        "url": "https://open.spotify.com/album/0DKzY4dmVUMI5YzdXFfcfm"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 282490,
+      "name": "dizzy",
+      "url": "https://open.spotify.com/track/29obLp4cP6PZhjMFujRQsh"
     },
     {
       "added_at": "2026-11-13 05:01:12",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-11-13 05:01:12",
       "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
-        }
-      ],
-      "duration_ms": 180490,
-      "name": "Lotus 72 D - Fast Version",
-      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
-    },
-    {
-      "added_at": "2026-11-13 05:01:12",
-      "album": {
         "name": "Blood Milk Moon",
         "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 177852,
       "name": "Blood Milk Moon",
       "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
+    },
+    {
+      "added_at": "2026-11-13 05:01:12",
+      "album": {
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+        }
+      ],
+      "duration_ms": 180490,
+      "name": "Lotus 72 D - Fast Version",
+      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
     },
     {
       "added_at": "2026-11-13 05:01:12",
@@ -2031,6 +2031,22 @@
       "duration_ms": 357960,
       "name": "Rose Rouge",
       "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
+    },
+    {
+      "added_at": "2026-11-13 17:19:58",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/52y3TL7eXNsdcdffjY6Uu3"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 210591,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4Y3Bv9FEcC472F2uh0Gskr"
     },
     {
       "added_at": "2026-11-13 05:01:12",
@@ -2137,38 +2153,6 @@
       "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
     },
     {
-      "added_at": "2026-11-13 17:19:58",
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/52y3TL7eXNsdcdffjY6Uu3"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 210591,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4Y3Bv9FEcC472F2uh0Gskr"
-    },
-    {
-      "added_at": "2026-11-13 05:01:12",
-      "album": {
-        "name": "A Brief Nirvana",
-        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/7rcIHCRo0d6CZtpwC0cznD"
-    },
-    {
       "added_at": "2026-11-13 05:01:12",
       "album": {
         "name": "Mother",
@@ -2187,18 +2171,18 @@
     {
       "added_at": "2026-11-13 05:01:12",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1ESGqa57ayFuz8ZpS6RxqX"
+        "name": "A Brief Nirvana",
+        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 237188,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/28AnZq4Yo21iyneTWGjeUT"
+      "duration_ms": 151666,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/7rcIHCRo0d6CZtpwC0cznD"
     },
     {
       "added_at": "2026-11-13 05:01:12",
@@ -2223,6 +2207,22 @@
       "duration_ms": 303106,
       "name": "N\u00e0nnufl\u00e0y",
       "url": "https://open.spotify.com/track/1QG3f3TYy9mci5ogEu2PyS"
+    },
+    {
+      "added_at": "2026-11-13 05:01:12",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1ESGqa57ayFuz8ZpS6RxqX"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 237188,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/28AnZq4Yo21iyneTWGjeUT"
     },
     {
       "added_at": "2026-11-13 05:01:12",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2026-11-13 05:01:12",
       "album": {
-        "name": "Dance Dance Dance (\u8df3\u821e\u8df3\u821e\u8df3\u821e)",
-        "url": "https://open.spotify.com/album/1bbJm1WV1sk3oD3XEt28So"
-      },
-      "artists": [
-        {
-          "name": "Chinese American Bear",
-          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
-        }
-      ],
-      "duration_ms": 208393,
-      "name": "Dance Dance Dance (\u8df3\u821e\u8df3\u821e\u8df3\u821e)",
-      "url": "https://open.spotify.com/track/3Ct3ro3LnsTHjeRVPNSG5s"
-    },
-    {
-      "added_at": "2026-11-13 05:01:12",
-      "album": {
         "name": "Teatro L\u00facido",
         "url": "https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI"
       },
@@ -2383,18 +2367,18 @@
     {
       "added_at": "2026-11-13 05:01:12",
       "album": {
-        "name": "Sof\u00eda y yo",
-        "url": "https://open.spotify.com/album/2JUbrn6IYLPoazlMSdBFGF"
+        "name": "Dance Dance Dance (\u8df3\u821e\u8df3\u821e\u8df3\u821e)",
+        "url": "https://open.spotify.com/album/1bbJm1WV1sk3oD3XEt28So"
       },
       "artists": [
         {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
         }
       ],
-      "duration_ms": 131596,
-      "name": "Sof\u00eda y yo",
-      "url": "https://open.spotify.com/track/2U61szJbThDdjNh0VJjhXp"
+      "duration_ms": 208393,
+      "name": "Dance Dance Dance (\u8df3\u821e\u8df3\u821e\u8df3\u821e)",
+      "url": "https://open.spotify.com/track/3Ct3ro3LnsTHjeRVPNSG5s"
     },
     {
       "added_at": "2026-11-13 05:01:12",
@@ -2411,6 +2395,22 @@
       "duration_ms": 170013,
       "name": "Ayayai",
       "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
+    },
+    {
+      "added_at": "2026-11-13 05:01:12",
+      "album": {
+        "name": "Sof\u00eda y yo",
+        "url": "https://open.spotify.com/album/2JUbrn6IYLPoazlMSdBFGF"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 131596,
+      "name": "Sof\u00eda y yo",
+      "url": "https://open.spotify.com/track/2U61szJbThDdjNh0VJjhXp"
     },
     {
       "added_at": "2026-11-13 05:01:12",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2026-11-13 05:01:12",
       "album": {
+        "name": "Relationships",
+        "url": "https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
+    },
+    {
+      "added_at": "2026-11-13 05:01:12",
+      "album": {
         "name": "Memory Bomb",
         "url": "https://open.spotify.com/album/4LyevrLzvyquVTex1GSjuB"
       },
@@ -2507,22 +2523,6 @@
       "duration_ms": 167794,
       "name": "Overture (feat. Nate Smith, Shibo)",
       "url": "https://open.spotify.com/track/2NvLivoGmNiAxKdI6ylzPk"
-    },
-    {
-      "added_at": "2026-11-13 05:01:12",
-      "album": {
-        "name": "Relationships",
-        "url": "https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Relationships",
-      "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
     },
     {
       "added_at": "2026-11-13 05:01:12",

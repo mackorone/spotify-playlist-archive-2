@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Daaku Maharaaj - OST",
+        "url": "https://open.spotify.com/album/2HdQEzKxTDppNO0a6HrGvy"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "date_added": "2026-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141844,
+      "name": "Daaku Intro",
+      "url": "https://open.spotify.com/track/0QN4vWb8DX4beIb17L41kY"
+    },
+    {
+      "album": {
         "name": "Daang Daang (From \"Sarileru Neekevvaru\")",
         "url": "https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh"
       },
@@ -3276,7 +3294,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 82785,
       "name": "The Raid",
       "url": "https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o"

@@ -2420,10 +2420,28 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 165870,
       "name": "Slam Dunk",
       "url": "https://open.spotify.com/track/058QqVDBJobbFVEsXg0VzK"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/77i2hnrLLEg4T5GOFCXakR"
+      },
+      "artists": [
+        {
+          "name": "STARGLOW",
+          "url": "https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166033,
+      "name": "Slam Dunk",
+      "url": "https://open.spotify.com/track/4bNdypV4npDNqEg22vMppK"
     },
     {
       "album": {

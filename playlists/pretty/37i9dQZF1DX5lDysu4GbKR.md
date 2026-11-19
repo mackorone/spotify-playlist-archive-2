@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover:  EJ Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,058 likes - 176 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,036 likes - 176 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

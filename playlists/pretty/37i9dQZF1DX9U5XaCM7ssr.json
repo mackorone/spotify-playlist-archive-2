@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu sedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1199811,
+  "num_followers": 1199809,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACgYA1brEEk7cmLq2O+/lMBRyLih",
+  "snapshot_id": "AAAAANueP14xrKpB3E5GyM2jWj9txhTa",
   "tracks": [
     {
       "added_at": "2026-11-17 03:45:12",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-11-17 03:45:12",
       "album": {
+        "name": "Lyodra",
+        "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 261299,
+      "name": "Pesan Terakhir",
+      "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
+    },
+    {
+      "added_at": "2026-11-17 03:45:12",
+      "album": {
         "name": "Nalar",
         "url": "https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 261048,
       "name": "Mangu",
       "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"
-    },
-    {
-      "added_at": "2026-11-17 03:45:12",
-      "album": {
-        "name": "Lyodra",
-        "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 261299,
-      "name": "Pesan Terakhir",
-      "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
     },
     {
       "added_at": "2026-11-17 03:45:12",

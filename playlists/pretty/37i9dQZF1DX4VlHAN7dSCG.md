@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: iF
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,499 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,498 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 79 | [请饶恕我的脆弱](https://open.spotify.com/track/0kU5TY80o4a1JINPq2lx2S) | [康士坦的變化球](https://open.spotify.com/artist/4fmdz90I7bCk35iK6GZ9fK) | [请饶恕我的脆弱](https://open.spotify.com/album/6NS6nIspnlQKEhOyCuAyR3) | 3:01 |
 | 80 | [发狂的季节](https://open.spotify.com/track/2oGyoFQy04AN5DdKwAFKSp) | [紅髮少年殺人事件](https://open.spotify.com/artist/54usXJxcAupRj9MmhE0lw1) | [日常的景色](https://open.spotify.com/album/2VFtd6PS4s8hvnQbDpxO76) | 5:11 |
 
-Snapshot ID: `AAAAAARzAr9aRIeJZMdkfwoZezrU3SbJ`
+Snapshot ID: `AAAAAFXDOLiadCsAozWv929Rytaq3fa3`

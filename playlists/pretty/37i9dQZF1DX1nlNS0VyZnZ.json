@@ -1,12 +1,12 @@
 {
   "description": "Tremendo vacil\u00f3n. Los \u00e9xitos del merengue de todos los tiempos.",
-  "num_followers": 103242,
+  "num_followers": 103266,
   "original_name": "Radio Merengue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOAN453PO08i66IWLSeeOvdyQ6Qk",
+  "snapshot_id": "AAAAAMXVz5rPvm821D+uHOa9ziQQ8PPa",
   "tracks": [
     {
       "added_at": "2026-04-24 04:59:19",
@@ -759,22 +759,18 @@
     {
       "added_at": "2026-04-24 04:59:19",
       "album": {
-        "name": "En Accion!",
-        "url": "https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb"
+        "name": "Ternura",
+        "url": "https://open.spotify.com/album/17yf20YBellVimp1l15jJO"
       },
       "artists": [
         {
-          "name": "Jossie Esteban",
-          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
-        },
-        {
-          "name": "La Patrulla 15",
-          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp"
         }
       ],
-      "duration_ms": 295933,
-      "name": "Un Hombre Busca Una Mujer",
-      "url": "https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv"
+      "duration_ms": 230133,
+      "name": "Y Siempre",
+      "url": "https://open.spotify.com/track/1AXkubuFZlgHmwfz9QbxZ9"
     },
     {
       "added_at": "2026-04-24 04:59:19",
@@ -795,22 +791,6 @@
     {
       "added_at": "2026-04-24 04:59:19",
       "album": {
-        "name": "Ternura",
-        "url": "https://open.spotify.com/album/17yf20YBellVimp1l15jJO"
-      },
-      "artists": [
-        {
-          "name": "Karolina",
-          "url": "https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Y Siempre",
-      "url": "https://open.spotify.com/track/1AXkubuFZlgHmwfz9QbxZ9"
-    },
-    {
-      "added_at": "2026-04-24 04:59:19",
-      "album": {
         "name": "Mujer De Fuego",
         "url": "https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 267533,
       "name": "Muchacho malo",
       "url": "https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1"
+    },
+    {
+      "added_at": "2026-04-24 04:59:19",
+      "album": {
+        "name": "En Accion!",
+        "url": "https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban",
+          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
+        },
+        {
+          "name": "La Patrulla 15",
+          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
+        }
+      ],
+      "duration_ms": 295933,
+      "name": "Un Hombre Busca Una Mujer",
+      "url": "https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv"
     }
   ],
   "unique_name": "Radio Merengue",

@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Hiphop Tamizha
 
-409 songs - 21 hr 10 min
+410 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Loosu Pennae](https://open.spotify.com/track/10LfH6Hkt06jYjXo8FGecm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN) | [Vallavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Nphl3LN3A0kEoFKyH6ZLj) | 6:51 | 2022-02-08 | 2023-05-14 |
 | [Loosu Pennae](https://open.spotify.com/track/2M85awz7QvZAq8JuMiduCZ) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Blaze](https://open.spotify.com/artist/6cXlnEp3wULo3eTUIiKxt2) | [Vallavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JfTOsi6jeQ1HQXSPKC5NV) | 6:51 | 2022-02-08 | 2024-04-19 |
 | [Loosu Pennae](https://open.spotify.com/track/3veRtqU0P4nLbsnJdZJ8kY) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Blaze](https://open.spotify.com/artist/1azLpGL6xkltUWHbAbsx2p) | [Vallavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Nu82Yxw2p0IPTycQk2obt) | 6:51 | 2022-02-08 | 2023-11-11 |
+| [Maanavari Makkale \- From "Think Indie"](https://open.spotify.com/track/3SlAyaKXrgiLUWPGL6hCFl) | [Semv.iii](https://open.spotify.com/artist/2O4fDX3s0c3JQsnxabRK8o), [Iniyan](https://open.spotify.com/artist/5IpLfEYrmq3Lo7k1jFejP0), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Maanavari Makkale \(From "Think Indie"\)](https://open.spotify.com/album/3iBva1uoq9fXuAD0CKjOch) | 3:39 | 2026-11-18 |  |
 | [Macchi Bacchi](https://open.spotify.com/track/3eiVDbptTnzMz8dYecBGN0) | [Cronyg](https://open.spotify.com/artist/0SaZoElbSiD33kEknjKbRQ), [Seize](https://open.spotify.com/artist/4gDclcEey95YZUezbMQo14), [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w) | [Macchi Bacchi](https://open.spotify.com/album/0t8WM1aEqyCqfxLDj1oHLv) | 2:52 | 2025-07-25 | 2026-04-10 |
 | [Madai Thiranthu \- Hit Track](https://open.spotify.com/track/5PeEOojM9Iz9YHRGDu9jog) | [Yogi And Natchatra](https://open.spotify.com/artist/63saYE7bTa5Z7qnWGYReLP) | [Vallavan](https://open.spotify.com/album/4kmfbb949LURgQneVOs78h) | 5:45 | 2022-02-08 | 2025-02-01 |
 | [Magudi Magudi](https://open.spotify.com/track/6l5EnqPcPqQJluoJaT9z3f) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Aaryan Dinesh Kanagaratnam](https://open.spotify.com/artist/5T3oFf8Gan8D2MuD5va0I8), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA) | [Kadal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3j8iyHi0RxqLLV97ZGOCPm) | 3:31 | 2022-02-08 | 2025-06-04 |

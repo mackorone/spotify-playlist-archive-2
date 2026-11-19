@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day. Cover: NAO",
-  "num_followers": 1006197,
+  "num_followers": 1006178,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAChwGY1pn11d8qOCXbbhbelOeksn",
+  "snapshot_id": "AAAAAL7f91iFYIFLen0XJCLurv1AMSj1",
   "tracks": [
     {
       "added_at": "2026-10-16 16:58:57",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/28EL5veTZtx38TqxIZwFyQ"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "If It Feels Good (Then It Must Be)",
-      "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
-    },
-    {
       "added_at": "2025-05-16 15:23:54",
       "album": {
         "name": "We Don't Have to Be Alone",
@@ -1103,6 +1087,22 @@
       "duration_ms": 166436,
       "name": "We Don't Have to Be Alone",
       "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "If It Feels Good (Then It Must Be)",
+      "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
     },
     {
       "added_at": "2025-05-16 15:23:54",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR"
     },
     {
-      "added_at": "2025-08-08 06:15:25",
-      "album": {
-        "name": "CONCUBANIA",
-        "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 233483,
-      "name": "CONCUBANIA!",
-      "url": "https://open.spotify.com/track/3uMx2WtqHssnnr9tAIkGTd"
-    },
-    {
       "added_at": "2026-05-01 05:39:12",
       "album": {
         "name": "Subject To Change",
@@ -1635,6 +1619,22 @@
       "duration_ms": 183423,
       "name": "Marmalade",
       "url": "https://open.spotify.com/track/2Ph4qrjAKjD3qDu7z5znjF"
+    },
+    {
+      "added_at": "2025-08-08 06:15:25",
+      "album": {
+        "name": "CONCUBANIA",
+        "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 233483,
+      "name": "CONCUBANIA!",
+      "url": "https://open.spotify.com/track/3uMx2WtqHssnnr9tAIkGTd"
     },
     {
       "added_at": "2024-08-30 05:32:52",

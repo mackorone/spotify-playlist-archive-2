@@ -1,12 +1,12 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 602837,
+  "num_followers": 602910,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABKwBRfafuArn3wLxVsSc+OPcGfg",
+  "snapshot_id": "AAAAACiJmMpSLCcaOWJgTub9c2Ez5ftu",
   "tracks": [
     {
       "added_at": "2026-10-19 15:51:47",
@@ -295,8 +295,8 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Runar",
-        "url": "https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS"
+        "name": "Reida",
+        "url": "https://open.spotify.com/album/2hASh3qnghKaseEc9GXjd1"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
         }
       ],
-      "duration_ms": 260556,
-      "name": "Runar",
-      "url": "https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9"
+      "duration_ms": 270750,
+      "name": "Reida",
+      "url": "https://open.spotify.com/track/72pSSwFywzACLPqVfycny6"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -375,8 +375,8 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Reida",
-        "url": "https://open.spotify.com/album/2hASh3qnghKaseEc9GXjd1"
+        "name": "Runar",
+        "url": "https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
         }
       ],
-      "duration_ms": 270750,
-      "name": "Reida",
-      "url": "https://open.spotify.com/track/72pSSwFywzACLPqVfycny6"
+      "duration_ms": 260556,
+      "name": "Runar",
+      "url": "https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
+        "name": "Feast Of Silence",
+        "url": "https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4"
+      },
+      "artists": [
+        {
+          "name": "Vas",
+          "url": "https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55"
+        }
+      ],
+      "duration_ms": 383160,
+      "name": "Mandara",
+      "url": "https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
         "name": "Galdr",
         "url": "https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 318213,
       "name": "Vindr",
       "url": "https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
-        "name": "Feast Of Silence",
-        "url": "https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4"
-      },
-      "artists": [
-        {
-          "name": "Vas",
-          "url": "https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55"
-        }
-      ],
-      "duration_ms": 383160,
-      "name": "Mandara",
-      "url": "https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -767,38 +767,6 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Verjugar\u00f0ar / Walls",
-        "url": "https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K"
-      },
-      "artists": [
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Verjugar\u00f0ar / Walls",
-      "url": "https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9"
-      },
-      "artists": [
-        {
-          "name": "Myrkur",
-          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
-        }
-      ],
-      "duration_ms": 234922,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
         "name": "Shieldmaiden",
         "url": "https://open.spotify.com/album/2pEGtKClaD7eYWnzQgyWo2"
       },
@@ -819,6 +787,38 @@
       "duration_ms": 195514,
       "name": "Shieldmaiden",
       "url": "https://open.spotify.com/track/3GMwtVxonfUVbd9DnAUqFP"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9"
+      },
+      "artists": [
+        {
+          "name": "Myrkur",
+          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
+        }
+      ],
+      "duration_ms": 234922,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Verjugar\u00f0ar / Walls",
+        "url": "https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K"
+      },
+      "artists": [
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Verjugar\u00f0ar / Walls",
+      "url": "https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Set the Sails",
-        "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
-      },
-      "artists": [
-        {
-          "name": "Storm Seeker",
-          "url": "https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Set the Sails",
-      "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
         "name": "Sunir",
         "url": "https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 398160,
       "name": "Anaia",
       "url": "https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Set the Sails",
+        "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
+      },
+      "artists": [
+        {
+          "name": "Storm Seeker",
+          "url": "https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Set the Sails",
+      "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
     },
     {
       "added_at": "2026-10-19 15:51:47",

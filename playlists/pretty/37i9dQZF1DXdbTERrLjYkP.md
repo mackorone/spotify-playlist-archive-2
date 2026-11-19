@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Isabel Dumaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,630 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,634 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 74 | [Super Superficial](https://open.spotify.com/track/04Dkv6Mde5HWHPiH4hdtfN) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Super Superficial](https://open.spotify.com/album/70AfF57rFFsYiPikgs5ODw) | 2:26 |
 | 75 | [Still The Kid](https://open.spotify.com/track/7amqdTB1SWli7FsopSVUdd) | [Diva Smith](https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC) | [Sunny Surrender](https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC) | 3:21 |
 
-Snapshot ID: `AAAAAKwp/QeZYeOXhpPQfyhN5GdJe+m2`
+Snapshot ID: `AAAAAEOZKxw5Mm++xwkf8XTrrp4oQpBu`

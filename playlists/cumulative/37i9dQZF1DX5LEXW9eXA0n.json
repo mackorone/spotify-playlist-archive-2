@@ -21167,6 +21167,24 @@
     },
     {
       "album": {
+        "name": "Thoughts of Parting",
+        "url": "https://open.spotify.com/album/0II7HoDsaJ6sOEizRjAiDh"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Please Don't Love Me",
+      "url": "https://open.spotify.com/track/6uvtZTX4KsemEHrat4Afmz"
+    },
+    {
+      "album": {
         "name": "Please Don't Stay Away",
         "url": "https://open.spotify.com/album/3G4RhCvPVo2YVC3znvybsw"
       },
@@ -21658,6 +21676,24 @@
       "duration_ms": 180801,
       "name": "Rain road",
       "url": "https://open.spotify.com/track/49QJXbt26AOmI3OwmQzKTe"
+    },
+    {
+      "album": {
+        "name": "Rainfall",
+        "url": "https://open.spotify.com/album/0FmzciTl7DsNZ6tcFLmb31"
+      },
+      "artists": [
+        {
+          "name": "Park Hyun Kyu",
+          "url": "https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Rainfall",
+      "url": "https://open.spotify.com/track/4S0N0YFFrepZRtQVkl1dye"
     },
     {
       "album": {
@@ -24830,7 +24866,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 227238,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0"
@@ -33340,7 +33376,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 244000,
       "name": "\uc774\uc81c\uc57c \uc0ac\ub791\uc774 \ubcf4\uc774\ub124",
       "url": "https://open.spotify.com/track/7ojKhprnV0Z7efNXEUv4Tl"

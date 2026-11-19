@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Henry Roe",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: J Arias",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -874,7 +874,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 199471,
       "name": "ALL OF IT",
       "url": "https://open.spotify.com/track/7G7rtpL2WIoNj7RcJnICE5"
@@ -896,6 +896,24 @@
       "duration_ms": 189913,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0J9zGbLSeAZGT4tSLQR0A6"
+    },
+    {
+      "album": {
+        "name": "All Sufficient One (Reimagined)",
+        "url": "https://open.spotify.com/album/5FMNWdAsKsSkx2zS3uVPha"
+      },
+      "artists": [
+        {
+          "name": "Diana Marie",
+          "url": "https://open.spotify.com/artist/7MfOmMx8EvZ1Ajfts2NDmI"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247720,
+      "name": "All Sufficient One - Reimagined",
+      "url": "https://open.spotify.com/track/0VtKFgPf6sFjZBDMHRG4Xy"
     },
     {
       "album": {
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 232473,
       "name": "Ask Him",
       "url": "https://open.spotify.com/track/4WbzEICFa7ZwzBMZNudETV"
@@ -2608,7 +2626,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 200500,
       "name": "blue moon",
       "url": "https://open.spotify.com/track/6gxJHohSSaBdnRWyypnw4M"
@@ -6946,7 +6964,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 164848,
       "name": "follow",
       "url": "https://open.spotify.com/track/7KDZAiD9Muuov5B7hrbxjy"
@@ -7112,7 +7130,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 219565,
       "name": "Forever & Ever",
       "url": "https://open.spotify.com/track/4NrQORdtSQFup9vMr2JlGV"
@@ -7574,6 +7592,24 @@
       "duration_ms": 235841,
       "name": "Get In The River",
       "url": "https://open.spotify.com/track/5lxKpk76ncyBCIvmDFPhvR"
+    },
+    {
+      "album": {
+        "name": "Get This Far",
+        "url": "https://open.spotify.com/album/2NZmteaYUBnVBecCXYlLFn"
+      },
+      "artists": [
+        {
+          "name": "Living Again",
+          "url": "https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235489,
+      "name": "Get This Far",
+      "url": "https://open.spotify.com/track/3encXQfnLc6Z6LK4lQarun"
     },
     {
       "album": {
@@ -8795,6 +8831,28 @@
     },
     {
       "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/5htFpjtcridl2vawGuw1Lh"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        },
+        {
+          "name": "Callan Brown",
+          "url": "https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251874,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/2N0HBfhjCEeT7vIm23cOfc"
+    },
+    {
+      "album": {
         "name": "GUI\u00c1NDOME",
         "url": "https://open.spotify.com/album/74ZME2LkK4eTMOyP7KNJx5"
       },
@@ -9145,6 +9203,24 @@
     },
     {
       "album": {
+        "name": "Healing Is Hard",
+        "url": "https://open.spotify.com/album/4N5K7Gp4dbsmTi6rCOBmqy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234843,
+      "name": "Healing Is Hard",
+      "url": "https://open.spotify.com/track/1xX2w5fnmIULAAkuzv7eoR"
+    },
+    {
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/5uGox3vtKqSOnrSZFCpfoe"
       },
@@ -9438,7 +9514,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 213900,
       "name": "Help Me Breathe",
       "url": "https://open.spotify.com/track/5kM2MqKF3qypSy4baFt7WC"
@@ -12768,7 +12844,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 193388,
       "name": "Life In Color",
       "url": "https://open.spotify.com/track/79AgZyL5ysoyw0vxUJMxWT"
@@ -15735,6 +15811,24 @@
     },
     {
       "album": {
+        "name": "No Te Acerques",
+        "url": "https://open.spotify.com/album/4wTzkvtvJHR4c4brXNSmPB"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "No Te Acerques",
+      "url": "https://open.spotify.com/track/6fJSiQp1n3dtwAWxxPlLrL"
+    },
+    {
+      "album": {
         "name": "No Voodoo",
         "url": "https://open.spotify.com/album/0zMWQCJbFl3iP5Qp4mYYKr"
       },
@@ -15916,6 +16010,24 @@
       "duration_ms": 176929,
       "name": "Nothin' Sweeter",
       "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
+    },
+    {
+      "album": {
+        "name": "Nothing but God",
+        "url": "https://open.spotify.com/album/2HAVEKwFYMHRrihDfdqenx"
+      },
+      "artists": [
+        {
+          "name": "Carlina",
+          "url": "https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140981,
+      "name": "Nothing but God",
+      "url": "https://open.spotify.com/track/2uEiYTXHUpYEcls9f6qsMK"
     },
     {
       "album": {
@@ -18164,7 +18276,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 176142,
       "name": "Red Light Therapy",
       "url": "https://open.spotify.com/track/5lfsdxJekjcVxwLmzOvjSU"
@@ -19082,7 +19194,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 206400,
       "name": "Savior",
       "url": "https://open.spotify.com/track/1VFghOqMugTqdRaBxPEAhI"
@@ -20094,7 +20206,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 200151,
       "name": "somethingthatGod",
       "url": "https://open.spotify.com/track/4VmV3mDmSMZG3RrGw7vgBS"
@@ -20763,6 +20875,24 @@
     },
     {
       "album": {
+        "name": "separate from the noise (side b)",
+        "url": "https://open.spotify.com/album/229pJHC8KLloiTOUj1KYtl"
+      },
+      "artists": [
+        {
+          "name": "threetwenty",
+          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233453,
+      "name": "such is life",
+      "url": "https://open.spotify.com/track/3AMNrBLaZ5CinnVTMIfjRp"
+    },
+    {
+      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/3iasNZkfCBDEFH2WlVQRRR"
       },
@@ -21310,7 +21440,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 200000,
       "name": "Tanto Amor As\u00ed",
       "url": "https://open.spotify.com/track/0eUVxZwBNhfFBZSsjheuKQ"
@@ -22050,7 +22180,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 131870,
       "name": "The Same (Forever + Ever)",
       "url": "https://open.spotify.com/track/5ik8BTwhHl8FL1p79QoIjQ"
@@ -22402,6 +22532,24 @@
       "duration_ms": 216826,
       "name": "Through Your Eyes",
       "url": "https://open.spotify.com/track/0Zg1GzfriNiu4Dp5scH9V9"
+    },
+    {
+      "album": {
+        "name": "NEW DAY",
+        "url": "https://open.spotify.com/album/3Y2485uXgqRvC5cyzdOsJk"
+      },
+      "artists": [
+        {
+          "name": "est\u00e9e",
+          "url": "https://open.spotify.com/artist/6k31Zu3oGAtvfYKOGDm0Cf"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179992,
+      "name": "thru",
+      "url": "https://open.spotify.com/track/4Ba2pUxmH2vxUMwqSDux3H"
     },
     {
       "album": {
@@ -22966,7 +23114,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 190113,
       "name": "Trust In Him",
       "url": "https://open.spotify.com/track/2stwyv3zp5vkw9lK6jja9I"
@@ -23528,6 +23676,24 @@
       "duration_ms": 189891,
       "name": "Vulnerability",
       "url": "https://open.spotify.com/track/2xH3fAIFpwLDYcHH7RTKV9"
+    },
+    {
+      "album": {
+        "name": "Vu\u00e9lveme A T\u00ed",
+        "url": "https://open.spotify.com/album/4n0johk2RrasPj0Vsgwg3A"
+      },
+      "artists": [
+        {
+          "name": "Blssom",
+          "url": "https://open.spotify.com/artist/66xgo99rMsMKLL1JknCawn"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "Vu\u00e9lveme A T\u00ed",
+      "url": "https://open.spotify.com/track/2TkaS9EYGvujA4jGrPtOXZ"
     },
     {
       "album": {

@@ -4,14 +4,14 @@
 
 > The ultimate playlist of party anthems to get everyone on the dancefloor!
 
-90 songs - 5 hr 25 min
+91 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Times \- Original](https://open.spotify.com/track/4abEcEslcRjBS6xSZh9naQ) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [Dreams](https://open.spotify.com/album/4vtUtf5Td2AtEQ6P05df7j) | 3:51 | 2024-07-12 |  |
 | [4 My People \- Basement Jaxx Remix; Radio Edit](https://open.spotify.com/track/2dnJIgDxsUUZLO8KoyFe0X) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Respect M.E.](https://open.spotify.com/album/6epR3D622KWsnuHye7ApOl) | 3:36 | 2024-07-12 |  |
 | [Adagio For Strings \- Radio Edit](https://open.spotify.com/track/4Li1koEIphW5KitMm3panO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magikal Journey \-The Hits Collection 1998 \- 2008](https://open.spotify.com/album/285IDbC2qfQaVGgqCdBXIt) | 3:25 | 2024-07-12 |  |
-| [All I Ever Wanted \- Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Now You're Gone \- The Album](https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ) | 2:56 | 2024-07-12 |  |
+| [All I Ever Wanted \- Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Now You're Gone \- The Album](https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ) | 2:56 | 2024-07-12 | 2026-11-19 |
 | [At Night](https://open.spotify.com/track/1xrSV0FyGg77IuJGYF3siH) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1) | [At Night](https://open.spotify.com/album/0eKeyft1nKRfypeFNuaqY9) | 6:41 | 2024-07-12 |  |
 | [Bad Girl \(At Night\) \- Radio Edit](https://open.spotify.com/track/3OyYJ5cNv9VufJlXW7P2eB) | [Dave Spoon](https://open.spotify.com/artist/5PzvgD5FRnWpc5fGOLoNVO), [Lisa Maffia](https://open.spotify.com/artist/2tiBXBk9svXUlNxP52KA6V) | [Bad Girl \(At Night\)](https://open.spotify.com/album/0mS9RDoVarz4P8DWQhkgCc) | 3:03 | 2024-07-12 |  |
 | [Barbra Streisand \- UK Radio Edit](https://open.spotify.com/track/0pJ58HJso6HgcOEFx8YdX4) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt) | [Barbra Streisand](https://open.spotify.com/album/0M5XNhhlRX0tICgSbqZmew) | 2:20 | 2024-07-12 |  |
@@ -34,6 +34,7 @@
 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2024-07-12 |  |
 | [From Paris To Berlin \- Radio Version](https://open.spotify.com/track/4GRY9d3rp78n7BPSp1IrRu) | [Infernal](https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k) | [From Paris To Berlin](https://open.spotify.com/album/2h2BXskVdShNfL5rdgZq4l) | 3:29 | 2024-07-12 |  |
 | [Gotta Get Thru This \- D'N'D Radio Edit](https://open.spotify.com/track/023lag1AgeOf7YChojecRu) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX), [D'N'D Productions](https://open.spotify.com/artist/7cp62T0Av3mTgy0imKzat7) | [Gotta Get Thru This](https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL) | 2:41 | 2024-07-12 |  |
+| [Groovejet \(If This Ain't Love\)](https://open.spotify.com/track/1o2QXBJvkXTgDDM6EvjU9I) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\)](https://open.spotify.com/album/5zReRXnW4GnxbcHKsvMcHW) | 3:47 | 2026-11-18 |  |
 | [Heartbroken \- Edit](https://open.spotify.com/track/5Yaw45Q7W0irDbTVN5LOVs) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd) | [Heartbroken](https://open.spotify.com/album/5zS1u2oihFYN3jXgKh5lAC) | 2:58 | 2024-07-12 |  |
 | [Heaven](https://open.spotify.com/track/5M2LFOy2TvzBVU5KCd6N8v) | [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT), [Yanou](https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Greatest \- DJ Sammy](https://open.spotify.com/album/0AfxLyEBIIa3SuRsQl6nvL) | 3:55 | 2024-07-12 |  |
 | [I Like The Way \- Radio Edit](https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy) | [Bodyrockers](https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C) | [Bodyrockers](https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY) | 3:20 | 2024-07-12 |  |

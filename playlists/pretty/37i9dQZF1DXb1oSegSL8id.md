@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,187 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,217 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 84 | [ME USA \- Ao Vivo](https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:38 |
 | 85 | [Buzina \- Ao Vivo](https://open.spotify.com/track/2fK6kCPjXbQHReLi3H64xa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4) | 2:42 |
 | 86 | [Saudade do Caramba \- Ao Vivo](https://open.spotify.com/track/7knOtdRwbbvP55B6KB2xvv) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Em Sintonia \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6) | 2:53 |
-| 87 | [Figurinha \- Ao Vivo](https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4) | [Douglas & Vinicius](https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Figurinha \(Ao Vivo\)](https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8) | 3:26 |
-| 88 | [Aquele 1% \- Ao Vivo](https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Duetos \(Ao Vivo\)](https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp) | 2:56 |
-| 89 | [Recairei \- Ao Vivo](https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Conquistas \(Ao Vivo\)](https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f) | 2:46 |
+| 87 | [Aquele 1% \- Ao Vivo](https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Duetos \(Ao Vivo\)](https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp) | 2:56 |
+| 88 | [Recairei \- Ao Vivo](https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Conquistas \(Ao Vivo\)](https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f) | 2:46 |
+| 89 | [Figurinha \- Ao Vivo](https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4) | [Douglas & Vinicius](https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Figurinha \(Ao Vivo\)](https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8) | 3:26 |
 | 90 | [Teste de Farmácia \- Ao Vivo](https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:38 |
 | 91 | [Pirata e Tesouro / Duas Paixões / Idem / Livre pra Voar / Oi Amor \- Ao Vivo](https://open.spotify.com/track/2SaRCZqpayygyXxKb5sAfH) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Pirata e Tesouro / Duas Paixões / Idem / Livre pra Voar / Oi Amor \(Ao Vivo\)](https://open.spotify.com/album/2nUov8cvXReM3gpk3Os8PR) | 8:00 |
 | 92 | [Amando Individual](https://open.spotify.com/track/6WhnioyjsbxNSpQhCXhYv6) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Amando Individual](https://open.spotify.com/album/3MQMMLUYMEsIBPTIf4oZVy) | 2:56 |

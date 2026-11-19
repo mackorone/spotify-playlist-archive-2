@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-02",
-  "description": "Just good energy",
+  "description": "Darren Hayes gets it",
   "name": "Vibe Check",
   "tracks": [
     {
@@ -2530,6 +2530,28 @@
     {
       "album": {
         "name": "I Want You (feat. Darren Hayes)",
+        "url": "https://open.spotify.com/album/1d2QuGwi7Rt8LgBVu7krvW"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Darren Hayes",
+          "url": "https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172657,
+      "name": "I Want You (feat. Darren Hayes)",
+      "url": "https://open.spotify.com/track/08C8eHg9dK6m3846bm3100"
+    },
+    {
+      "album": {
+        "name": "I Want You (feat. Darren Hayes)",
         "url": "https://open.spotify.com/album/70iyV4Q8e55CzUhTsKKOE8"
       },
       "artists": [
@@ -3046,7 +3068,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 148751,
       "name": "Like A G6 (with Naeleck)",
       "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"

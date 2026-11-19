@@ -4,7 +4,7 @@
 
 > mostly furry
 
-604 songs - 1 day 5 hr 50 min
+605 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Fly Away](https://open.spotify.com/track/6dH4aFPhsgTyfIEUXA8uRX) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fly Away](https://open.spotify.com/album/5WMaNps5VHPKgI561LKN4g) | 2:58 | 2024-05-23 |  |
 | [FLY WITH ME](https://open.spotify.com/track/1rHTshEmjoQ1GBoQfXEXIQ) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4), [MANEDBENTO!](https://open.spotify.com/artist/3Tls1YrzO8LhdZjaG32MyH) | [FLY WITH ME](https://open.spotify.com/album/6sK9SWuKTDP0zyz9ZcKV8E) | 4:09 | 2026-06-03 |  |
 | [FNAF 10th Anniversary](https://open.spotify.com/track/6jmWoHG81QwlAli7oJvTBx) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 1:52 | 2025-04-22 |  |
+| [FNAF the musical \(feat\. Markiplier and Nathan Sharp\)](https://open.spotify.com/episode/0P8Rgvw7Dm3dflPVsb9A1l) | [Fennec's little critters](https://open.spotify.com/show/3ZurFUvIgU1O25F5Zmp1Dd) | [Fennec's little critters](https://open.spotify.com/album/3ZurFUvIgU1O25F5Zmp1Dd) | 32:20 | 2026-11-19 |  |
 | [Follow Me](https://open.spotify.com/track/1iT04vRu0K2Kme2iMqjEf0) | [Tryhardninja](https://open.spotify.com/artist/0B7Y5KDNScTBzeN7DY74YG) | [The Bite, Vol\. 2](https://open.spotify.com/album/0Fp63lUqkNvVwVyKAB0ujt) | 3:24 | 2026-10-18 |  |
 | [Fool's Gold](https://open.spotify.com/track/29dThjwnQnJxYqjdmiPQf0) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Fool's Gold](https://open.spotify.com/album/1HdEvsscmy3VC97mTB9Phu) | 3:30 | 2024-05-15 |  |
 | [For You :\)](https://open.spotify.com/track/7iimXh2OZhatxCtRVqyupr) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [IM SICK!!](https://open.spotify.com/album/6l4zg8MUdoPpHP7pbrc1BP) | 3:39 | 2026-09-30 |  |

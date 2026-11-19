@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,594 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,593 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 49 | [kiedy byłem ale to house](https://open.spotify.com/track/3fF3RKOiMgMtCpPqdF3xdA) | [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2), [młody klakson](https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu) | [kiedy byłem ale to house](https://open.spotify.com/album/2mxKYP9uC0exnzfuozaax1) | 2:49 |
 | 50 | [AJAJAJ](https://open.spotify.com/track/6jS5RCxEbmaj68sFKBbnN6) | [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI), [Kania](https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq) | [POLOT](https://open.spotify.com/album/3kufOEFkqCrE0lMaDTasjR) | 2:45 |
 | 51 | [Nie Śpię](https://open.spotify.com/track/1n8PfVTsFblQrdcWHIRNfC) | [Shellerini](https://open.spotify.com/artist/0mGMdkeDynbGXSVd0PY8Oq), [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb), [Sher7ock](https://open.spotify.com/artist/3FmbA2vDCuf2XOKzSaAmXq) | [Rajzefiber](https://open.spotify.com/album/1zySj2zrLpCvz5B9ruqpse) | 3:08 |
-| 52 | [To nie pop \(intro\)](https://open.spotify.com/track/7Ll9a1sk3cX6w9VmjkpqsH) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [To nie pop \(intro\) / Młody Ma Plik](https://open.spotify.com/album/3vGjPsCJKSSEbZNv2eTR6K) | 2:10 |
-| 53 | [K\-R\-Ó\-L](https://open.spotify.com/track/2JyhAYl6cwkUwsLJkAo52a) | [W.E.N.A.](https://open.spotify.com/artist/183C4P5B8pmW1zmI4himpF), [Amatowsky](https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q), [Dj Qmak](https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ) | [Wytrych](https://open.spotify.com/album/34nYNHsFR8qVWAEzHSBP1a) | 2:55 |
+| 52 | [K\-R\-Ó\-L](https://open.spotify.com/track/2JyhAYl6cwkUwsLJkAo52a) | [W.E.N.A.](https://open.spotify.com/artist/183C4P5B8pmW1zmI4himpF), [Amatowsky](https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q), [Dj Qmak](https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ) | [Wytrych](https://open.spotify.com/album/34nYNHsFR8qVWAEzHSBP1a) | 2:55 |
+| 53 | [To nie pop \(intro\)](https://open.spotify.com/track/7Ll9a1sk3cX6w9VmjkpqsH) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [To nie pop \(intro\) / Młody Ma Plik](https://open.spotify.com/album/3vGjPsCJKSSEbZNv2eTR6K) | 2:10 |
 | 54 | [Wszystkim Czym Chcesz](https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Wszystkim Czym Chcesz](https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a) | 1:14 |
 | 55 | [ODRODZENIE](https://open.spotify.com/track/3jnqxfEcLlOBfcqNmOAoWu) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [ODRODZENIE](https://open.spotify.com/album/1QspK6ZaAhtUUXu6uuABdY) | 2:39 |
 | 56 | [Szkoła Życia](https://open.spotify.com/track/5UQ4wo1cpnTloANWlQuAnM) | [Włodi](https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j), [Ero JWP](https://open.spotify.com/artist/5DM2lp5yxLNjwHPmFGcFqr), [Molesta Ewenement](https://open.spotify.com/artist/1mEzI3Y0odWOgugi6lVqDP), [JWP/BC](https://open.spotify.com/artist/3cV0KekN04cOFWKydK4hcH), [TOMEK BENT](https://open.spotify.com/artist/4LWbtBaVdvIkeUrmJkjwVV), [Falcon1](https://open.spotify.com/artist/4pg9KJqNXJD8nY1nlQRHUB), [Dj Chederac](https://open.spotify.com/artist/2NVI9Y3tEYLE43KB38xpTe) | [Reszty Nie Trzeba](https://open.spotify.com/album/6wwmbJkCTg8PabC4BtmqX5) | 4:42 |

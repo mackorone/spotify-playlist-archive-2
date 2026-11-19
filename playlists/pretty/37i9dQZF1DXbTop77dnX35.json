@@ -1,6 +1,6 @@
 {
   "description": "New Music from  DJ Tunez, Solana, Patoranking, Wande Coal,  Sarkodie, Zlatan,  and more ",
-  "num_followers": 229550,
+  "num_followers": 229607,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
@@ -340,20 +340,20 @@
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        },
-        {
-          "name": "Broni",
-          "url": "https://open.spotify.com/artist/2BjK8ZabmjThEk011WGLAF"
-        },
-        {
           "name": "Ko-Jo Cue",
           "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
         },
         {
           "name": "Shaker",
           "url": "https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Broni",
+          "url": "https://open.spotify.com/artist/2BjK8ZabmjThEk011WGLAF"
         }
       ],
       "duration_ms": 231679,

@@ -980,7 +980,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 57266,
       "name": "Comes The Revolution",
       "url": "https://open.spotify.com/track/2cjbnAkDiwLnd3HwQlr9OT"
@@ -3327,6 +3327,32 @@
     },
     {
       "album": {
+        "name": "Rockabye Baby - Lullabies with Orchestra",
+        "url": "https://open.spotify.com/album/2UbaMcrsOOGgJ6R6Lcdl3o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Ira Gershwin",
+          "url": "https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV"
+        },
+        {
+          "name": "Marilyn Horne",
+          "url": "https://open.spotify.com/artist/2X1SZFqImVgl59tWagfjcl"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162786,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/3EMP61gLsQb9r0iRXa39Pq"
+    },
+    {
+      "album": {
         "name": "Michael & George: Feinstein Sings Gershwin",
         "url": "https://open.spotify.com/album/1P15fFRI4uK1OrkTWtqExH"
       },
@@ -3338,7 +3364,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 252333,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/0ZQesu1q2L94JPGKpUT6yo"

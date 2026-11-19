@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: SVM!R, OKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,051 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,057 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [KTÓRY ROK?](https://open.spotify.com/track/1YAnNs1TCm94Rgls9bRql8) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Cassa](https://open.spotify.com/artist/1ZVRPI1vXE9KHV3uQkmwFg) | [KTÓRY ROK?](https://open.spotify.com/album/550EN2VRFQfPMATbseWIdw) | 3:13 |
 | 50 | [BOLI MNIE](https://open.spotify.com/track/4FdIQfIq7jdBB9L1iAJWr3) | [javier](https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY), [gogetmxney](https://open.spotify.com/artist/2vezpzmo1fwbcolcyQed5c) | [BOLI MNIE](https://open.spotify.com/album/33sPR65ErK5gOf2OH220UJ) | 2:02 |
 
-Snapshot ID: `AAAAAD/UtH8wDWUBQbcmylcRbZws0jRs`
+Snapshot ID: `AAAAAJfyIY1Wm8dZOqTQuiZfcBCn6y1X`

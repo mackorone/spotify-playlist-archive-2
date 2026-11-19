@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > le canzoni di cui siamo ossessionati 💚 Pinguini Tattici Nucleari in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,744 likes - 86 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,754 likes - 86 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 85 | [piccola magia](https://open.spotify.com/track/3zNkbgFLmF1c1c43FXtAWH) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5), [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [piccola magia](https://open.spotify.com/album/4xkV3QflY0vPNWkVOE1kNi) | 3:31 |
 | 86 | [Cantilene](https://open.spotify.com/track/3yaRrdo3DDeKgDaubuBsId) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:59 |
 
-Snapshot ID: `AAAAAIerLFAbosm19D/uJwqNy2dYXtvX`
+Snapshot ID: `AAAAAK2169MBymS9dsSt0cCXv9E6ZWo6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Marine & Danyl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,282 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,253 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Même bois](https://open.spotify.com/track/4EHRdbCLmRnW2jTvaoozh5) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [Même bois](https://open.spotify.com/album/2pwLtHjerpGX67oFV2GWTE) | 2:36 |
 | 50 | [Là\-bas c'est mieux](https://open.spotify.com/track/7GgbK0tU5ikCwtlbKpX4WI) | [K.Maro](https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75) | [Là\-bas c'est mieux](https://open.spotify.com/album/4zXE3y0iamtSdGKQW0oMwa) | 3:05 |
 
-Snapshot ID: `AAAAAPcWrImB7NmxzXvuLITYHO5zmPVh`
+Snapshot ID: `AAAAAMc2bbafSSdgV9UV3snUqnQHhCbJ`

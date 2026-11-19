@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Ella Langley, Kameron Marlowe, Avery Anna and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,175 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,263 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 84 | [Corralin’ A Cowgirl \(with Jenna Paulette\)](https://open.spotify.com/track/6dVWxeC0GZpB2iH3nu9JOh) | [Dalton Davis](https://open.spotify.com/artist/6J9RN4Pef3aGhMaIPt4d6B), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Corralin’ A Cowgirl](https://open.spotify.com/album/7jq2T2Diq2jBv4UZfNSTpA) | 3:01 |
 | 85 | [Out of the Blue](https://open.spotify.com/track/1OVvJ9gxYEJkn02Z1pGbQZ) | [Madison Parks](https://open.spotify.com/artist/1iAz4Dk2zcinQMqtLaHPRT) | [Out of the Blue](https://open.spotify.com/album/5YH7pjRLP5uwYnyQDPRgUj) | 2:45 |
 
-Snapshot ID: `AAAAANPCGk+AtYnUyIvrIiEjsQJy4O7x`
+Snapshot ID: `AAAAAGnRXJ2KH5ihJvR5adwM/G2aKynG`

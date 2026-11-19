@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Liu
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,048 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,962 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 18 | [Baby Do You Wanna Bump](https://open.spotify.com/track/6dL7IcJKZsMk2ClvsW65GX) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Baby Do You Wanna Bump](https://open.spotify.com/album/1KnYyxYPqjIfIi6epO99wm) | 3:34 |
 | 19 | [ELEVATION](https://open.spotify.com/track/3HM90izXHg17bfvlfj5aZi) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [ELEVATION](https://open.spotify.com/album/56ztjSXwZrYHq9kesPRMSz) | 3:20 |
 | 20 | [Soul Gazing](https://open.spotify.com/track/1H6SuDLJE2AsamirMImv8X) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Soul Gazing](https://open.spotify.com/album/0G2b6bwS24q5Bb9j4G69Ru) | 3:45 |
-| 21 | [Bring The Beat Back](https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Bring The Beat Back](https://open.spotify.com/album/3lgwAztqNRf5uupPe88kOR) | 4:35 |
+| 21 | [Bring The Beat Back](https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [TOOLS 4 HARDWORKERS 009](https://open.spotify.com/album/3lgwAztqNRf5uupPe88kOR) | 4:35 |
 | 22 | [Feel Alive](https://open.spotify.com/track/7KIVzPQHkwaLkCafnDF4pz) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [ZARO](https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk) | [Feel Alive](https://open.spotify.com/album/4zJULJTLglrEPu1tIrxm7o) | 3:07 |
 | 23 | [Corazon](https://open.spotify.com/track/5Tq2WD8fDVe35rzzDqkE6t) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Corazon](https://open.spotify.com/album/52aIs9XfDwcst8addTu7qY) | 3:10 |
 | 24 | [Cash On Cash](https://open.spotify.com/track/47jJPapQVVa28JRx6SzYR9) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [No One Knows](https://open.spotify.com/artist/0CsrD49IvI8cUEEZMLkwc4), [SARRIA](https://open.spotify.com/artist/2jMjEfmxCxpI6aXa4qEMeY) | [Cash On Cash](https://open.spotify.com/album/5xyl70wiAv4AAtWYmNheQW) | 3:43 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 48 | [Groove In](https://open.spotify.com/track/6HNDqY2aY9L7UuRGzA9gw5) | [Tough Art](https://open.spotify.com/artist/6XiVEatJ4Bq46wONrrSJwA) | [Groove In](https://open.spotify.com/album/6p0dxT8vJNybsgPWDwUYXO) | 3:32 |
 | 49 | [Baby Boy](https://open.spotify.com/track/3bMmU5C3OOeG2MiEEnzSaD) | [Malik Mustache](https://open.spotify.com/artist/5FcXaC6DLXy2s4HFGqERWU) | [Baby Boy](https://open.spotify.com/album/1bYCy4wdRo9gq2aZbL9rFo) | 3:30 |
 
-Snapshot ID: `AAAAAHbJtD1EqPg/esOGARUODMkndCWl`
+Snapshot ID: `AAAAANlH6DyvASDak8kANH1TKe94yHKO`

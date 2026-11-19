@@ -4,10 +4,11 @@
 
 > All this week's best new pop releases\. Cover: Ruby Rose Turner
 
-12,535 songs - 26 day 7 hr 42 min
+12,535 songs - 26 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 0:00 | 2026-11-06 |  |
 | ["forever"](https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | ["forever"](https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK) | 3:30 | 2026-07-24 | 2026-08-08 |
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-27 | 2023-11-18 |
 | [\#1](https://open.spotify.com/track/3CpV327Qk2H9KQCzns92bx) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [\#1](https://open.spotify.com/album/7hLqgKIIakXxYnTJxE1KHp) | 3:17 | 2025-07-11 | 2025-07-19 |
@@ -8797,7 +8798,6 @@
 | [Problematic](https://open.spotify.com/track/2SXn0k29vUL5n8b8lPeHFE) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Problematic](https://open.spotify.com/album/63PPJ8VaOAoYF6T62LAihw) | 2:35 | 2024-02-23 | 2024-03-02 |
 | [Problems](https://open.spotify.com/track/1kdkL9KZ02lYJqD2nwsBc7) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Problems](https://open.spotify.com/album/4skT3DZlIgTVd14BBLihrz) | 3:46 | 2022-07-29 | 2022-08-13 |
 | [professional heartbreaker](https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [professional heartbreaker](https://open.spotify.com/album/2X5QpEX5O4DFQMLhr9iXx7) | 2:55 | 2026-01-30 | 2026-02-14 |
-| [PROFUNDA](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 2:34 | 2026-11-06 |  |
 | [prom](https://open.spotify.com/track/1EtWJJbvPfmNsVDGOhTtSG) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [prom](https://open.spotify.com/album/3hsaSidYs7NWEn0c2ncIDA) | 3:20 | 2022-04-29 | 2022-05-20 |
 | [prom queen](https://open.spotify.com/track/5t93U7fBPzzwXN6xv6ZiwE) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [prom queen](https://open.spotify.com/album/1VcR6W30QImsjcpVegZaUR) | 2:43 | 2026-03-27 | 2026-04-11 |
 | [Prom Queen](https://open.spotify.com/track/2xrYD5TVgsUAVa3G0oAzMr) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [Prom Queen](https://open.spotify.com/album/0TfMAdRpJtLRv3DVK0I4Wp) | 2:48 | 2023-02-10 | 2023-02-18 |

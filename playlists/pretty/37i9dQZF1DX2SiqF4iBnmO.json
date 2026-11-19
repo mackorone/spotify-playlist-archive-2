@@ -1,12 +1,12 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 175271,
+  "num_followers": 175326,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOpgwb9LunRa5VE0603r9Jbr4yRi",
+  "snapshot_id": "AAAAAHf3pjVdvU4/O9Lq/rxl4IlGM34k",
   "tracks": [
     {
       "added_at": "2024-07-10 08:31:19",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4YzbdSB5YcnRq47rdY7dD4"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
         "name": "Sweet And Short",
         "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 303440,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4YzbdSB5YcnRq47rdY7dD4"
     },
     {
       "added_at": "2024-07-10 08:31:19",

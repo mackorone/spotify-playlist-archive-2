@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Canozan x M Lisa ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,710 likes - 150 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,674 likes - 150 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 135 | [Duramam](https://open.spotify.com/track/3J7XTqx8fLgdQKWzz9aKvu) | [Faxo](https://open.spotify.com/artist/1G2hoQS3TcjLdEAzAzzdE6) | [Duramam](https://open.spotify.com/album/5MIYX9e483eE4VBR3IRQB1) | 1:54 |
 | 136 | [Kalbim Bir Çocuğa Aşıktı](https://open.spotify.com/track/4vkxti7XTm4bQ93bEJPphN) | [BERA](https://open.spotify.com/artist/19FA2IaiXokVZzsOsHrl7K) | [Kalbim Bir Çocuğa Aşıktı](https://open.spotify.com/album/2n5Fhj25UVNwnRXAMnfn9F) | 2:51 |
 | 137 | [Dilemma](https://open.spotify.com/track/13FS4vkbfSGZOBcXkGBdVx) | [MA RA](https://open.spotify.com/artist/768QxHapruFsSAhTeWlrlw) | [Dilemma](https://open.spotify.com/album/7aUESfoPjoABUQfSNrQBiw) | 2:21 |
-| 138 | [Nihayetim \- Akustik](https://open.spotify.com/track/5sAMe4nJ48nZMJqj0zksCd) | [Selen Servi](https://open.spotify.com/artist/0TTNtpZWUdgNimxbvIuMHN) | [Nihayetim \(Akustik\)](https://open.spotify.com/album/5R4u1nYfB5nkkUPNMgrKVO) | 2:47 |
+| 138 | [Nihayetim](https://open.spotify.com/track/5sAMe4nJ48nZMJqj0zksCd) | [Selen Servi](https://open.spotify.com/artist/0TTNtpZWUdgNimxbvIuMHN) | [Nihayetim](https://open.spotify.com/album/5R4u1nYfB5nkkUPNMgrKVO) | 2:47 |
 | 139 | [Kalbim Atmıyor Sana](https://open.spotify.com/track/6HEUqS6m0xBMm6gYQWttVg) | [Nil Dönmez](https://open.spotify.com/artist/1VVCToquAQNb7cFzQiShUv) | [Kalbim Atmıyor Sana](https://open.spotify.com/album/1efNMfOsupvALJeggz7shl) | 2:45 |
 | 140 | [Hakim Bey](https://open.spotify.com/track/2LpdXCwIWZmLqOELAWgBBI) | [Tuğba Gülyeşil](https://open.spotify.com/artist/4TTu1U0yTzPbhsRXk1wBfI) | [Hakim Bey](https://open.spotify.com/album/77W3KcV9SNb3LNx9xIqSY0) | 3:41 |
 | 141 | [\#SUPERSTAR](https://open.spotify.com/track/7mB6EQcUnlAcP1ennCiT3s) | [yungova](https://open.spotify.com/artist/5jM2hv028ZuwcGMl58rhnJ) | [\#SUPERSTAR](https://open.spotify.com/album/3pmhI7pkSBIcJ0aVOt0AQX) | 1:37 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 149 | [Beni Aradığında](https://open.spotify.com/track/2yquShRLTDbKycDZPw1WnE) | [Kafamda Kurduklarım](https://open.spotify.com/artist/7HQGBCT4R0yguqLR6IZvQj) | [Beni Aradığında](https://open.spotify.com/album/4sKE16u6B2VRUZDB0rSB3L) | 3:41 |
 | 150 | [\#hhb](https://open.spotify.com/track/0As2vjNjVVnOje3bf5wMoy) | [Pause](https://open.spotify.com/artist/3083i94k3n0gwi3PspbrQF) | [\#hhb](https://open.spotify.com/album/3NTKSjktY62RhVn5HAmXgU) | 2:03 |
 
-Snapshot ID: `AAAAAImeef6OLiLidtFf/JakC2fmX3d5`
+Snapshot ID: `AAAAANmI3qSG1bTTPuzx4YbBx+/h+Lgg`

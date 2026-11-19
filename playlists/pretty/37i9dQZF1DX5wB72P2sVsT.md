@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Bormin' au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,198 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,142 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 39 | [My Oh My](https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [My Oh My](https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh) | 2:36 |
 | 40 | [Hollow](https://open.spotify.com/track/5MSPozbZ7TQSNIBsd4qjlt) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hollow](https://open.spotify.com/album/4lZQjjnhdmMoaEW6A9SJBJ) | 3:15 |
 
-Snapshot ID: `AAAAAKDbpPXNuAuHb0xV5r+KbhdYp0Vt`
+Snapshot ID: `AAAAAPaaOO3GmZaqDukCAhwjARRidUP8`

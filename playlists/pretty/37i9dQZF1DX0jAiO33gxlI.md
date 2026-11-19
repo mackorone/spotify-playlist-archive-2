@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,041 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,016 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Desaparecida](https://open.spotify.com/track/4BEqgU0XscdoaSDVutgFE5) | [Rodrigo Ogi](https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ), [Matéria Prima](https://open.spotify.com/artist/2xi4Hm3GjDdOvxTVQ9Mz2d), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [DJ Nato\_PK](https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W) | [Loopcínio Rodrigo, Vol\. 1](https://open.spotify.com/album/4kVUtxd6bG16dD2CB43Jai) | 2:38 |
 | 75 | [Brinde a Vida](https://open.spotify.com/track/2VgQxdaZY3HMH95V3YeUGY) | [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Rei das Ruas](https://open.spotify.com/album/54XF5DS1sE5qVguIX4cBhi) | 2:45 |
 
-Snapshot ID: `AAAAACPL3fpU+XCBPV+Z2NF6URxo1GIm`
+Snapshot ID: `AAAAAGbhhdUsLzkltnYOpjmV9D6qEQiI`

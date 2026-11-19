@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 17088,
+  "num_followers": 17096,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMmcSi+R1PaVqJDrhwo4JSVfX3qv",
+  "snapshot_id": "AAAAAKegMYbsm49Wt2Ki6tU+blPycn8m",
   "tracks": [
     {
       "added_at": "2026-09-22 13:42:59",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "A Letter",
-        "url": "https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ"
-      },
-      "artists": [
-        {
-          "name": "BUMJIN",
-          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "A Letter",
-      "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "If You Ask Me What Love Is",
         "url": "https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 223040,
       "name": "If You Ask Me What Love Is",
       "url": "https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "A Letter",
+        "url": "https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ"
+      },
+      "artists": [
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "A Letter",
+      "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "Do you want to hear",
-        "url": "https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5"
-      },
-      "artists": [
-        {
-          "name": "M.O.M",
-          "url": "https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn"
-        }
-      ],
-      "duration_ms": 167687,
-      "name": "Do you want to hear",
-      "url": "https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 235920,
       "name": "Hopeless Romantic (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "Do you want to hear",
+        "url": "https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5"
+      },
+      "artists": [
+        {
+          "name": "M.O.M",
+          "url": "https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn"
+        }
+      ],
+      "duration_ms": 167687,
+      "name": "Do you want to hear",
+      "url": "https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
+      },
+      "artists": [
+        {
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+      ],
+      "duration_ms": 243853,
+      "name": "Let's Say Goodbye",
+      "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 268000,
       "name": "Bye Bye (Feat. LEE MU JIN)",
       "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
-      },
-      "artists": [
-        {
-          "name": "Parc Jae Jung",
-          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
-        }
-      ],
-      "duration_ms": 243853,
-      "name": "Let's Say Goodbye",
-      "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "You may live in happiness (2022)",
-        "url": "https://open.spotify.com/album/6Bnnguv7ITOcrnTcqGQIy8"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 274880,
-      "name": "You may live in happiness (2022)",
-      "url": "https://open.spotify.com/track/0D5e4R40frQYkr2PzdMpHL"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "Last Love",
         "url": "https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 255000,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "You may live in happiness (2022)",
+        "url": "https://open.spotify.com/album/6Bnnguv7ITOcrnTcqGQIy8"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 274880,
+      "name": "You may live in happiness (2022)",
+      "url": "https://open.spotify.com/track/0D5e4R40frQYkr2PzdMpHL"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
-      },
-      "artists": [
-        {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "A Day",
-      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "Season Note",
         "url": "https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 209306,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "A Day",
+      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
     }
   ],
   "unique_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Now featuring our Frequency Zine cover star <a href="https://www.instagram.com/spotify/p/Dfz\-UTFGVNP/?hl=en">Vic Mensa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,398 likes - 163 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,378 likes - 163 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 162 | [Ghetto Love Story](https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB) | 2:58 |
 | 163 | [BIG 5](https://open.spotify.com/track/5S5gF7ujCupq2bmZMhAvmJ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:03 |
 
-Snapshot ID: `AAAAADuO+yiJ2/Q2XqRF0KLR+UNB9p4l`
+Snapshot ID: `AAAAAJHtiIoniLWJAAws3J7rhh0xtA54`

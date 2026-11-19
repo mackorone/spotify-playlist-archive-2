@@ -2,7 +2,7 @@
 
 ### [Anime Hits '20s Video](https://open.spotify.com/playlist/37i9dQZF1DX8vGhrN5nt0R)
 
-> Creditless Anime Openings / Endings of the 2020s\. Music videos only available on Premium\. 2020年代のノンクレジットアニメOP／EDを観よう。\(ミュージックビデオはSpotifyプレミアムユーザーのみご覧いただけます。\)  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
+> Creditless Anime Openings / Endings of the 2020s\. Music videos only available on Premium\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 46 songs - 1 hr 8 min
 

@@ -3285,6 +3285,28 @@
     },
     {
       "album": {
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178209,
+      "name": "Shake (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/3Ls934T4L1oidrOVNFRIs5"
+    },
+    {
+      "album": {
         "name": "Sweet Insomnia",
         "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
       },

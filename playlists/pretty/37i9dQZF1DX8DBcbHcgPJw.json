@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Emanero & Bandana",
-  "num_followers": 1082065,
+  "num_followers": 1081877,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "No Aguanto M\u00e1s",
-        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
-        }
-      ],
-      "duration_ms": 194690,
-      "name": "No Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
         "url": "https://open.spotify.com/album/5OCxqsmfDFDnxNftSVjE6h"
       },
@@ -699,18 +679,26 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
-        "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
+        "name": "Una Condena",
+        "url": "https://open.spotify.com/album/0pWk2Zw0cz9PnuNHyxmMWr"
       },
       "artists": [
         {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
         }
       ],
-      "duration_ms": 356261,
-      "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
-      "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
+      "duration_ms": 157131,
+      "name": "Una Condena",
+      "url": "https://open.spotify.com/track/3o0ixYcpGqYjHpXJb7vgN3"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -727,6 +715,22 @@
       "duration_ms": 145847,
       "name": "QUE ES ESO?",
       "url": "https://open.spotify.com/track/5T3oZ1EcofOcGiMIhfw8VL"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
+        "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
+      },
+      "artists": [
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "duration_ms": 356261,
+      "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
+      "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -763,30 +767,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Una Condena",
-        "url": "https://open.spotify.com/album/0pWk2Zw0cz9PnuNHyxmMWr"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Amigo de Artistas",
-          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 157131,
-      "name": "Una Condena",
-      "url": "https://open.spotify.com/track/3o0ixYcpGqYjHpXJb7vgN3"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Para Repetir | CROSSOVER #11",
         "url": "https://open.spotify.com/album/3oDcyzuOK7R2AJqFLpSZ3V"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 165517,
       "name": "Para Repetir | CROSSOVER #11",
       "url": "https://open.spotify.com/track/2qBctWss5FXb7KrPOJzkhw"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "No Aguanto M\u00e1s",
+        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "duration_ms": 194690,
+      "name": "No Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -871,30 +871,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Muero Por Ti",
-        "url": "https://open.spotify.com/album/1cARyY6BkAYGLd9MkfXhjV"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Candu Dom\u00cdnguez",
-          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 138437,
-      "name": "Muero Por Ti",
-      "url": "https://open.spotify.com/track/0P501RQv490jSbPkFbH7Bx"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Muero Por Ti",
+        "url": "https://open.spotify.com/album/1cARyY6BkAYGLd9MkfXhjV"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 138437,
+      "name": "Muero Por Ti",
+      "url": "https://open.spotify.com/track/0P501RQv490jSbPkFbH7Bx"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
         "url": "https://open.spotify.com/album/7nV6VI5RCXSQz81x02HyOx"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 165161,
       "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
       "url": "https://open.spotify.com/track/6zEYyvImhZjk8I1EAtXim9"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1187,42 +1187,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "FINGI DEMENCIA",
-        "url": "https://open.spotify.com/album/3gbWzrqyQqjMc4g8TdRVWk"
-      },
-      "artists": [
-        {
-          "name": "RAMKY EN LOS CONTROLES",
-          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 126705,
-      "name": "FINGI DEMENCIA",
-      "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "La Casa De La Cumbia vol.1",
-        "url": "https://open.spotify.com/album/0GHBhM6ApWzKRsF0QDV3Pi"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Cicactrices",
-      "url": "https://open.spotify.com/track/43qGouonxPSloBl8bUEk4I"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Chica Brasile\u00f1a Remix",
         "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
       },
@@ -1247,6 +1211,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "La Casa De La Cumbia vol.1",
+        "url": "https://open.spotify.com/album/0GHBhM6ApWzKRsF0QDV3Pi"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Cicactrices",
+      "url": "https://open.spotify.com/track/43qGouonxPSloBl8bUEk4I"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "Ya no me duele :,)",
         "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
       },
@@ -1267,22 +1247,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
-        "url": "https://open.spotify.com/album/2bni1x1fcaOh0WWCplqzXl"
+        "name": "FINGI DEMENCIA",
+        "url": "https://open.spotify.com/album/3gbWzrqyQqjMc4g8TdRVWk"
       },
       "artists": [
         {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
         },
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 152696,
-      "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
-      "url": "https://open.spotify.com/track/78U6wIRpfUkdjYdcexWTXe"
+      "duration_ms": 126705,
+      "name": "FINGI DEMENCIA",
+      "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1303,6 +1283,26 @@
       "duration_ms": 211238,
       "name": "Sin Cadenas",
       "url": "https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
+        "url": "https://open.spotify.com/album/2bni1x1fcaOh0WWCplqzXl"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 152696,
+      "name": "VIAJEMOS EN EL TIEMPO #2 | C\u00e1sate Conmigo",
+      "url": "https://open.spotify.com/track/78U6wIRpfUkdjYdcexWTXe"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Todo Comenz\u00f3 Bailando (Remix)",
-        "url": "https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 163529,
-      "name": "Todo Comenz\u00f3 Bailando - Remix",
-      "url": "https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -1503,26 +1479,6 @@
       "duration_ms": 475951,
       "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
       "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
-        "url": "https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 326437,
-      "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
-      "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1547,22 +1503,46 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Tranquila",
-        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
+        "name": "Todo Comenz\u00f3 Bailando (Remix)",
+        "url": "https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ"
       },
       "artists": [
         {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 183431,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
+      "duration_ms": 163529,
+      "name": "Todo Comenz\u00f3 Bailando - Remix",
+      "url": "https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
+        "url": "https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 326437,
+      "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
+      "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1587,6 +1567,26 @@
       "duration_ms": 166153,
       "name": "\u00daltima Noche",
       "url": "https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Tranquila",
+        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "La Teoria",
-        "url": "https://open.spotify.com/album/0Wb5nJvGGpCe6uyOu0SPk1"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        },
-        {
-          "name": "JvnRoman",
-          "url": "https://open.spotify.com/artist/5QdqKQ0RTopSWMOuZVUkIO"
-        }
-      ],
-      "duration_ms": 142087,
-      "name": "La Teoria",
-      "url": "https://open.spotify.com/track/2T9oLvdZpa6I8WPAdAHi51"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Aunque Te Enamores",
         "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 187956,
       "name": "Amor Sincero",
       "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "La Teoria",
+        "url": "https://open.spotify.com/album/0Wb5nJvGGpCe6uyOu0SPk1"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "JvnRoman",
+          "url": "https://open.spotify.com/artist/5QdqKQ0RTopSWMOuZVUkIO"
+        }
+      ],
+      "duration_ms": 142087,
+      "name": "La Teoria",
+      "url": "https://open.spotify.com/track/2T9oLvdZpa6I8WPAdAHi51"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "D\u00eda de Enero",
+        "url": "https://open.spotify.com/album/47XYg0bJ7zGeBv2o12Z22B"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 145626,
+      "name": "D\u00eda de Enero",
+      "url": "https://open.spotify.com/track/7KlKHAIzWjtGnKNYCJNdYw"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "Ya No Quiero Verte",
         "url": "https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 165634,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "D\u00eda de Enero",
-        "url": "https://open.spotify.com/album/47XYg0bJ7zGeBv2o12Z22B"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 145626,
-      "name": "D\u00eda de Enero",
-      "url": "https://open.spotify.com/track/7KlKHAIzWjtGnKNYCJNdYw"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -2099,22 +2099,18 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "SALE SOLA",
-        "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
       },
       "artists": [
         {
-          "name": "RAMKY EN LOS CONTROLES",
-          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
         }
       ],
-      "duration_ms": 125969,
-      "name": "SALE SOLA",
-      "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
+      "duration_ms": 176864,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

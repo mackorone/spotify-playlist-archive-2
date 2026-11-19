@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,054 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,046 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 69 | [エンバートーチ](https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [エンバートーチ](https://open.spotify.com/album/6gOb9Jv6UpHGBK5rtRRsqY) | 3:30 |
 | 70 | [Circling the Stars](https://open.spotify.com/track/2CBvMdHbnJJRVxD0z20VxC) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Circling the Stars](https://open.spotify.com/album/6UjV5TTHYmh5uw6MekYI8t) | 3:09 |
 
-Snapshot ID: `AAAAAGAorVp1ztno9ImQ1kgGjEznOMMS`
+Snapshot ID: `AAAAAFJpvLpID6zl5Mel4wldTn5qRTo2`

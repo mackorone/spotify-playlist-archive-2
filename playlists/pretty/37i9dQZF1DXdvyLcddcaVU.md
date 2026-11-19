@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,003 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,123 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 79 | [La Faille](https://open.spotify.com/track/2RBqWYVLRd8RMZNxzkbcPF) | [BatBat](https://open.spotify.com/artist/04q4egoK1OOrukoyGCXy0k), [Mous\-K](https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO) | [La Faille](https://open.spotify.com/album/2DGoXP4zxuPoktJzIE3zMT) | 2:43 |
 | 80 | [300.000](https://open.spotify.com/track/7It4MD8ok9QJIZ63hl2hc1) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [GOTY EDITION](https://open.spotify.com/album/5gzgpxFb9278tbOEbMrMBi) | 3:04 |
 
-Snapshot ID: `AAAAAEC9aFb+GSAim32wBnVies0gXE1m`
+Snapshot ID: `AAAAAA/P1pZpjsFj7vON3DbDTf5hOoIt`

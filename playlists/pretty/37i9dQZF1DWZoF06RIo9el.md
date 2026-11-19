@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las favoritas de octubre 2026\. Cover: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538,536 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,294 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 5 | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch) | 3:20 |
 | 6 | [VAMO A VEL](https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [VAMO A VEL](https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI) | 4:00 |
 | 7 | [AGUA](https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [AGUA](https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF) | 3:11 |
-| 8 | [PARADIXE](https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 5:42 |
-| 9 | [Dónde estás](https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh) | [Barbas](https://open.spotify.com/artist/3YQG4u5iF13bHt2slNOCdZ), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Dónde estás](https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5) | 2:39 |
+| 8 | [Dónde estás](https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh) | [Barbas](https://open.spotify.com/artist/3YQG4u5iF13bHt2slNOCdZ), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Dónde estás](https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5) | 2:39 |
+| 9 | [PARADIXE](https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 5:42 |
 | 10 | [CAPCANA COCOA](https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [CAPCANA COCOA](https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4) | 4:04 |
 | 11 | [ENTRE TU Y YO](https://open.spotify.com/track/5qWf1WJSGYDCdRQSCdE9Wg) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [ENTRE TU Y YO](https://open.spotify.com/album/0j2ddnXXH8srvVx8A9s1op) | 3:41 |
 | 12 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 59 | [Pick Me](https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Pick Me](https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0) | 2:50 |
 | 60 | [Viento](https://open.spotify.com/track/6CyYoVfRzoOgGYbw5hGfDT) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Viento](https://open.spotify.com/album/28V9dPDGcUekMXJ50iNlMU) | 3:05 |
 
-Snapshot ID: `AAAAAFD+w0285XDRyE02kgQ3uskz0fz4`
+Snapshot ID: `AAAAABPVgqVhWOVS1yQWL93UEvkbBZqW`

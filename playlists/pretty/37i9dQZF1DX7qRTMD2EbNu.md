@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Kweku Flick
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,758 likes - 86 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,772 likes - 86 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SAVE ME](https://open.spotify.com/track/7eZWymo3fZhBQZDwdAOsf0) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE: DELUXE EDITION](https://open.spotify.com/album/0AML48tEvO24BfMfEdlYwH) | 2:12 |
-| 2 | [Focus](https://open.spotify.com/track/0CheaJxfFhDiCFSDK9VI1E) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Broni](https://open.spotify.com/artist/2BjK8ZabmjThEk011WGLAF), [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj) | [Focus](https://open.spotify.com/album/2LrIDPNGnXvoD5tiYCDWnZ) | 3:51 |
+| 2 | [Focus](https://open.spotify.com/track/0CheaJxfFhDiCFSDK9VI1E) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Broni](https://open.spotify.com/artist/2BjK8ZabmjThEk011WGLAF) | [Focus](https://open.spotify.com/album/2LrIDPNGnXvoD5tiYCDWnZ) | 3:51 |
 | 3 | [Top 2](https://open.spotify.com/track/6pXY8PeDIt9fd11QQr5wod) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj) | [Top 2](https://open.spotify.com/album/1BPDF5PQgcQdSAupweNNUN) | 4:21 |
 | 4 | [Charging](https://open.spotify.com/track/7jD2hDyDF2hYQN7xZ7P3EP) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Hello](https://open.spotify.com/album/1hf77wGbdqUg19LhprEvIo) | 3:15 |
 | 5 | [Kpo](https://open.spotify.com/track/30AM0EPRVlJS00pZI8Ykw7) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Kpo](https://open.spotify.com/album/6qXBFANk3eg7AsadU4q74r) | 3:15 |

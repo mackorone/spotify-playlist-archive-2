@@ -1,12 +1,12 @@
 {
   "description": "in your lush & lazy era \ud83e\udeb7 cozy beats, comfy self-care vibes",
-  "num_followers": 1136600,
+  "num_followers": 1136619,
   "original_name": "slow living",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJm5EQR0ZRgDCpZpu78a687r3522",
+  "snapshot_id": "AAAAAFtm8IwASQP0ncy5ySpKr3hdeeER",
   "tracks": [
     {
       "added_at": "2026-11-13 04:00:30",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
-        "name": "counting the days until we meet again",
-        "url": "https://open.spotify.com/album/0Mh4bl2SRoNKzkrsrPabqa"
-      },
-      "artists": [
-        {
-          "name": "sad notes",
-          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
-        }
-      ],
-      "duration_ms": 158125,
-      "name": "counting the days until we meet again",
-      "url": "https://open.spotify.com/track/7jcEaXD19od05Y4aqgffgW"
-    },
-    {
-      "added_at": "2026-11-13 04:00:30",
-      "album": {
         "name": "mellow out",
         "url": "https://open.spotify.com/album/6UQUFb9OwDxj1Nm8H15tcf"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 122919,
       "name": "mellow out",
       "url": "https://open.spotify.com/track/3Nrvm4lMBMb7yem6dUnOdt"
+    },
+    {
+      "added_at": "2026-11-13 04:00:30",
+      "album": {
+        "name": "counting the days until we meet again",
+        "url": "https://open.spotify.com/album/0Mh4bl2SRoNKzkrsrPabqa"
+      },
+      "artists": [
+        {
+          "name": "sad notes",
+          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
+        }
+      ],
+      "duration_ms": 158125,
+      "name": "counting the days until we meet again",
+      "url": "https://open.spotify.com/track/7jcEaXD19od05Y4aqgffgW"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
-        "name": "Cruising",
-        "url": "https://open.spotify.com/album/4eF0VhXpYiCB0V6L1nIrCu"
-      },
-      "artists": [
-        {
-          "name": "Lghtr",
-          "url": "https://open.spotify.com/artist/6sL0e0jiMbfjoQk2kraspM"
-        }
-      ],
-      "duration_ms": 129087,
-      "name": "Cruising",
-      "url": "https://open.spotify.com/track/6k5ujvu6iu5hdgDZXBtkZG"
-    },
-    {
-      "added_at": "2026-11-13 04:00:30",
-      "album": {
         "name": "Meanwhile",
         "url": "https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
+        "name": "Cruising",
+        "url": "https://open.spotify.com/album/4eF0VhXpYiCB0V6L1nIrCu"
+      },
+      "artists": [
+        {
+          "name": "Lghtr",
+          "url": "https://open.spotify.com/artist/6sL0e0jiMbfjoQk2kraspM"
+        }
+      ],
+      "duration_ms": 129087,
+      "name": "Cruising",
+      "url": "https://open.spotify.com/track/6k5ujvu6iu5hdgDZXBtkZG"
+    },
+    {
+      "added_at": "2026-11-13 04:00:30",
+      "album": {
         "name": "cicada",
         "url": "https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 127619,
       "name": "cicada",
       "url": "https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk"
+    },
+    {
+      "added_at": "2026-11-13 04:00:30",
+      "album": {
+        "name": "fade away",
+        "url": "https://open.spotify.com/album/1LRFjk3omdHtJWDDTvGv3O"
+      },
+      "artists": [
+        {
+          "name": "afk",
+          "url": "https://open.spotify.com/artist/29Xl84PNW154iIVrdVe2mN"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "fade away",
+      "url": "https://open.spotify.com/track/7tocYBvlgpXqbsQcwJa6yo"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1143,22 +1159,6 @@
       "duration_ms": 150857,
       "name": "Escape",
       "url": "https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV"
-    },
-    {
-      "added_at": "2026-11-13 04:00:30",
-      "album": {
-        "name": "fade away",
-        "url": "https://open.spotify.com/album/1LRFjk3omdHtJWDDTvGv3O"
-      },
-      "artists": [
-        {
-          "name": "afk",
-          "url": "https://open.spotify.com/artist/29Xl84PNW154iIVrdVe2mN"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "fade away",
-      "url": "https://open.spotify.com/track/7tocYBvlgpXqbsQcwJa6yo"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/1NxYLj6RTZnHkQKV5fWyqP"
-      },
-      "artists": [
-        {
-          "name": "amies",
-          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/0xrkPuae5lIueefzWzo54Q"
-    },
-    {
-      "added_at": "2026-11-13 04:00:30",
-      "album": {
         "name": "cloudycalm",
         "url": "https://open.spotify.com/album/5pZmI3bAl2J4izs9gtNnPi"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 137552,
       "name": "cloudycalm",
       "url": "https://open.spotify.com/track/0JJfO3qTZdcNuuOgwuzke9"
+    },
+    {
+      "added_at": "2026-11-13 04:00:30",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/1NxYLj6RTZnHkQKV5fWyqP"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/0xrkPuae5lIueefzWzo54Q"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/3YFmBD6BgEu2BQbxmDW0ya"
-      },
-      "artists": [
-        {
-          "name": "nate2timez",
-          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/3DnFuL77hB7zIe1PTviSCi"
-    },
-    {
-      "added_at": "2026-11-13 04:00:30",
-      "album": {
         "name": "moonlit",
         "url": "https://open.spotify.com/album/2ntDYVJXXyuI2K8y9ud2lZ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 162104,
       "name": "moonlit",
       "url": "https://open.spotify.com/track/5DjqZGLbV7tabVEhsL8pAi"
+    },
+    {
+      "added_at": "2026-11-13 04:00:30",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/3YFmBD6BgEu2BQbxmDW0ya"
+      },
+      "artists": [
+        {
+          "name": "nate2timez",
+          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/3DnFuL77hB7zIe1PTviSCi"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/20RTWWI9KZr76XpsP5mp94"
-      },
-      "artists": [
-        {
-          "name": "Linearwave",
-          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/7qWeJvxs5Ir8aYqRrDUllE"
-    },
-    {
-      "added_at": "2026-11-13 04:00:30",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/0FN9V7NN1ZaISpzpF6q4tt"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
-        "name": "Floating Motion",
-        "url": "https://open.spotify.com/album/3Qy1MIESJijAvAAQbLs5EZ"
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/20RTWWI9KZr76XpsP5mp94"
       },
       "artists": [
         {
-          "name": "Lazarus best for us",
-          "url": "https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH"
+          "name": "Linearwave",
+          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
         }
       ],
-      "duration_ms": 150051,
-      "name": "Turning Into Something Else",
-      "url": "https://open.spotify.com/track/6jEzUbuKsjTVbphohOyz82"
+      "duration_ms": 166875,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/7qWeJvxs5Ir8aYqRrDUllE"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1527,6 +1511,22 @@
       "duration_ms": 116000,
       "name": "Under The Waters",
       "url": "https://open.spotify.com/track/28Sa7Xm4k0YfieF8feWp57"
+    },
+    {
+      "added_at": "2026-11-13 04:00:30",
+      "album": {
+        "name": "Floating Motion",
+        "url": "https://open.spotify.com/album/3Qy1MIESJijAvAAQbLs5EZ"
+      },
+      "artists": [
+        {
+          "name": "Lazarus best for us",
+          "url": "https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH"
+        }
+      ],
+      "duration_ms": 150051,
+      "name": "Turning Into Something Else",
+      "url": "https://open.spotify.com/track/6jEzUbuKsjTVbphohOyz82"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
-        "name": "BLANKETS & TEA",
-        "url": "https://open.spotify.com/album/1sq2sCx4tTuXaoSNo5Xu0u"
-      },
-      "artists": [
-        {
-          "name": "ddrreeaamm",
-          "url": "https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "BLANKETS & TEA",
-      "url": "https://open.spotify.com/track/61dILGHsXFOJf4hM9RIZ2M"
-    },
-    {
-      "added_at": "2026-11-13 04:00:30",
-      "album": {
         "name": "blind spot",
         "url": "https://open.spotify.com/album/4aN4CpFSuRQQN22f4zk02q"
       },
@@ -1667,6 +1651,38 @@
       "duration_ms": 158500,
       "name": "blind spot",
       "url": "https://open.spotify.com/track/2I18znGi0ssGoWmIugOcjK"
+    },
+    {
+      "added_at": "2026-11-13 04:00:30",
+      "album": {
+        "name": "BLANKETS & TEA",
+        "url": "https://open.spotify.com/album/1sq2sCx4tTuXaoSNo5Xu0u"
+      },
+      "artists": [
+        {
+          "name": "ddrreeaamm",
+          "url": "https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "BLANKETS & TEA",
+      "url": "https://open.spotify.com/track/61dILGHsXFOJf4hM9RIZ2M"
+    },
+    {
+      "added_at": "2026-11-13 04:00:30",
+      "album": {
+        "name": "play it",
+        "url": "https://open.spotify.com/album/2J32iHvpetzGjSi2BiM1JE"
+      },
+      "artists": [
+        {
+          "name": "B.O Mitz",
+          "url": "https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9"
+        }
+      ],
+      "duration_ms": 152339,
+      "name": "play it",
+      "url": "https://open.spotify.com/track/78WfketyVicKm5FjIUlnjU"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1703,22 +1719,6 @@
       "duration_ms": 134400,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD"
-    },
-    {
-      "added_at": "2026-11-13 04:00:30",
-      "album": {
-        "name": "play it",
-        "url": "https://open.spotify.com/album/2J32iHvpetzGjSi2BiM1JE"
-      },
-      "artists": [
-        {
-          "name": "B.O Mitz",
-          "url": "https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9"
-        }
-      ],
-      "duration_ms": 152339,
-      "name": "play it",
-      "url": "https://open.spotify.com/track/78WfketyVicKm5FjIUlnjU"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
-        "name": "awakening",
-        "url": "https://open.spotify.com/album/5ZMVxKLha84fPOsC8K1ovb"
-      },
-      "artists": [
-        {
-          "name": "hotpotatoes",
-          "url": "https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG"
-        },
-        {
-          "name": "Toti Cisneros",
-          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
-        }
-      ],
-      "duration_ms": 124838,
-      "name": "awakening",
-      "url": "https://open.spotify.com/track/4lIBvM1LnA92nZ19U2vLPJ"
-    },
-    {
-      "added_at": "2026-11-13 04:00:30",
-      "album": {
         "name": "Pisa",
         "url": "https://open.spotify.com/album/5z1vV0FxJ7UNcmHp4aRVfj"
       },
@@ -1843,22 +1823,22 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
-        "name": "take me to nowhere",
-        "url": "https://open.spotify.com/album/1gNobdqJ8AzDZDYiw0vTfs"
+        "name": "awakening",
+        "url": "https://open.spotify.com/album/5ZMVxKLha84fPOsC8K1ovb"
       },
       "artists": [
         {
-          "name": "B-Side",
-          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+          "name": "hotpotatoes",
+          "url": "https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG"
         },
         {
-          "name": "Tesk",
-          "url": "https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4"
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
         }
       ],
-      "duration_ms": 97587,
-      "name": "take me to nowhere",
-      "url": "https://open.spotify.com/track/0jF2RMGrau0IA7eCX2iKy3"
+      "duration_ms": 124838,
+      "name": "awakening",
+      "url": "https://open.spotify.com/track/4lIBvM1LnA92nZ19U2vLPJ"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1879,6 +1859,26 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
+        "name": "take me to nowhere",
+        "url": "https://open.spotify.com/album/1gNobdqJ8AzDZDYiw0vTfs"
+      },
+      "artists": [
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        },
+        {
+          "name": "Tesk",
+          "url": "https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4"
+        }
+      ],
+      "duration_ms": 97587,
+      "name": "take me to nowhere",
+      "url": "https://open.spotify.com/track/0jF2RMGrau0IA7eCX2iKy3"
+    },
+    {
+      "added_at": "2026-11-13 04:00:30",
+      "album": {
         "name": "eclipse",
         "url": "https://open.spotify.com/album/2whe5rcSytK3yTy2XuLwJm"
       },
@@ -1891,6 +1891,22 @@
       "duration_ms": 148500,
       "name": "eclipse",
       "url": "https://open.spotify.com/track/54vkA47SBKkcsEYnFIXZRi"
+    },
+    {
+      "added_at": "2026-11-13 04:00:30",
+      "album": {
+        "name": "Tatami Haze",
+        "url": "https://open.spotify.com/album/0pYnAXfltl17tTyWkgw1dT"
+      },
+      "artists": [
+        {
+          "name": "Cloudroom",
+          "url": "https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z"
+        }
+      ],
+      "duration_ms": 124153,
+      "name": "Tatami Haze",
+      "url": "https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1931,18 +1947,18 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
-        "name": "Tatami Haze",
-        "url": "https://open.spotify.com/album/0pYnAXfltl17tTyWkgw1dT"
+        "name": "puffer",
+        "url": "https://open.spotify.com/album/4gEl6azjyCP974ryvpGsXk"
       },
       "artists": [
         {
-          "name": "Cloudroom",
-          "url": "https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z"
+          "name": "Gro",
+          "url": "https://open.spotify.com/artist/3J9dqkHC9cq5gOwEUP86wJ"
         }
       ],
-      "duration_ms": 124153,
-      "name": "Tatami Haze",
-      "url": "https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE"
+      "duration_ms": 127894,
+      "name": "puffer",
+      "url": "https://open.spotify.com/track/2rtudDsdr1FJrTkis1ENyD"
     },
     {
       "added_at": "2026-11-13 04:00:30",
@@ -1963,38 +1979,6 @@
     {
       "added_at": "2026-11-13 04:00:30",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D"
-      },
-      "artists": [
-        {
-          "name": "run2me",
-          "url": "https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7"
-        }
-      ],
-      "duration_ms": 132705,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/153ikHLHd0r3dhycyYuLfn"
-    },
-    {
-      "added_at": "2026-11-13 04:00:30",
-      "album": {
-        "name": "puffer",
-        "url": "https://open.spotify.com/album/4gEl6azjyCP974ryvpGsXk"
-      },
-      "artists": [
-        {
-          "name": "Gro",
-          "url": "https://open.spotify.com/artist/3J9dqkHC9cq5gOwEUP86wJ"
-        }
-      ],
-      "duration_ms": 127894,
-      "name": "puffer",
-      "url": "https://open.spotify.com/track/2rtudDsdr1FJrTkis1ENyD"
-    },
-    {
-      "added_at": "2026-11-13 04:00:30",
-      "album": {
         "name": "Finding Comfort",
         "url": "https://open.spotify.com/album/7aD9oyG6sHAi99kU9RyhAv"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 120250,
       "name": "Finding Comfort",
       "url": "https://open.spotify.com/track/5mysc5FXOTidy1a4vAnH2S"
+    },
+    {
+      "added_at": "2026-11-13 04:00:30",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D"
+      },
+      "artists": [
+        {
+          "name": "run2me",
+          "url": "https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7"
+        }
+      ],
+      "duration_ms": 132705,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/153ikHLHd0r3dhycyYuLfn"
     },
     {
       "added_at": "2026-11-13 04:00:30",

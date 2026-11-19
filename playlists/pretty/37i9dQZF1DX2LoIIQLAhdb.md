@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Warren Saada x JEUDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,768 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,770 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Ma Woman](https://open.spotify.com/track/6kSTCyfjOUaLddThVzJGli) | [Jeremy Lior](https://open.spotify.com/artist/2BOJKJosuhWbm24je66xOm) | [Dawn 6:27](https://open.spotify.com/album/1TqLEmYoztR2eGz8rOELqo) | 3:43 |
 | 40 | [MÉLODIE VANILLE](https://open.spotify.com/track/6mv1dA2JCOnKJHD2A4CPLS) | [Zafy](https://open.spotify.com/artist/1RLTDTNUfVFAR9576RmIb4) | [MÉLODIE VANILLE](https://open.spotify.com/album/41btD4mY2XUHjhlkuSJYiP) | 2:20 |
 
-Snapshot ID: `AAAAAGimhDEv+KMAjXNl+8xPXZc24Epc`
+Snapshot ID: `AAAAAOuJt0+JzfH6yqO3NPdsiASE1eIn`

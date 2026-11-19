@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Jackie Hill Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,410 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,426 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 26 | [Opening \- Ivangeli \- Live](https://open.spotify.com/track/5T5hF7TJrKEd2xB2MlYZ3a) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Nhlanhla Sibisi](https://open.spotify.com/artist/0IVAeXQr9He3cUd2QTdsHK) | [Spirit Of Praise 12 \(Live\)](https://open.spotify.com/album/6xddYB6RyT68q0yavezJ0d) | 5:25 |
 | 27 | [Bless The Lord](https://open.spotify.com/track/0y7A5Hz9HyMKXQ6xiDERUt) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [V20 First Semester](https://open.spotify.com/album/0mFQHLHAn4JISTyPlYvIG4) | 6:20 |
 | 28 | [So Good \- Live](https://open.spotify.com/track/0QHfS2r97xd9VDPGS860UA) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [So Good \(Live\)](https://open.spotify.com/album/3qD33yGPSAHLmGzNJB3esF) | 5:51 |
-| 29 | [Only One Name](https://open.spotify.com/track/097s8eGUUEFjL8DxiEBOJ1) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Only One Name](https://open.spotify.com/album/24rezn0RDOp5Aso5EpIOYT) | 7:38 |
+| 29 | [Only One Name \- Live](https://open.spotify.com/track/097s8eGUUEFjL8DxiEBOJ1) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Only One Name \(Live\)](https://open.spotify.com/album/24rezn0RDOp5Aso5EpIOYT) | 7:38 |
 | 30 | [Wake Up](https://open.spotify.com/track/6jAZ01E5YwSrOR2Gw0wUol) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Brother Gbile Akanni](https://open.spotify.com/artist/0R4UE0oog4ISYRnCWtDh16) | [Wake Up](https://open.spotify.com/album/7M58xu7g7kdjZ8E763POQQ) | 7:53 |
 | 31 | [Only One Holy \- Radio](https://open.spotify.com/track/6JhGa7pWkmHQSlpVc2CZ2b) | [Jasmin Foreman](https://open.spotify.com/artist/16kiLoWN3jY8WslXMC08Sy) | [The Invitation \(Live in Nashville\)](https://open.spotify.com/album/34hqlpjI8FQNcQnpF5qn5u) | 4:36 |
 | 32 | [Yet \(He Won't Give up on You\)](https://open.spotify.com/track/5ZiUy2RiEsL11bnP4YqzOu) | [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Yet \(He Won't Give up on You\)](https://open.spotify.com/album/7dTcjhRgPfi0UKfz6CLL5U) | 5:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [You are the reason](https://open.spotify.com/track/4oRAFhEZxc9j3uXjTxkgJC) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Still](https://open.spotify.com/album/4b3zDcT5IgrA6MTPRo4qvy) | 2:24 |
 | 100 | [Time And Time Again](https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Time And Time Again](https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK) | 3:39 |
 
-Snapshot ID: `AAAAAJu9GyWSvy7U5bbIXlDxgQFWQR0+`
+Snapshot ID: `AAAAACTbx92xNAlo38Ifp8+9vCD87YX5`

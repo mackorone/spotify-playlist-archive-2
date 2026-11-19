@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Domiziana, DJ HEARTSTRING, BILLA JOE, Juju & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,677 likes - 89 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,616 likes - 89 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 88 | [UP](https://open.spotify.com/track/2DpMn9r9LPpa5PaR4XGFBP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.6](https://open.spotify.com/album/5UKj0Dge5ik5jw3JVjoxof) | 3:26 |
 | 89 | [u&me \(like always\)](https://open.spotify.com/track/3SVaWt6zGb4FjT2bsjJAZg) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [\#4a79b1](https://open.spotify.com/album/2ssGzNxnsZ9ZIpAEBT2nUz) | 2:15 |
 
-Snapshot ID: `AAAAALs/ikYfpR7f/oOMxCNIZcesgqr7`
+Snapshot ID: `AAAAAPGjfGfFEgeGKSsm4eqXHaPIhjr0`

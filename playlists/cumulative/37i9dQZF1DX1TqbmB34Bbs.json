@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: viceversa) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Hangzoo) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!",
   "name": "K`illin'",
   "tracks": [
     {
@@ -1112,6 +1112,28 @@
       "duration_ms": 204453,
       "name": "911 (Feat. Tabber)",
       "url": "https://open.spotify.com/track/7tPbILKLAfMsRulWbCdF4g"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/5RjClRhKe2wxV4a6belmVZ"
+      },
+      "artists": [
+        {
+          "name": "Hangzoo",
+          "url": "https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ"
+        },
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/2XmL7kCFmPc9fXWqKnGmVZ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "99",
+      "url": "https://open.spotify.com/track/57qDNiYucf5YlOggN9C57E"
     },
     {
       "album": {
@@ -4812,7 +4834,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 224175,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/7GWjiWZOLVqDzLdp1Pqt0b"
@@ -6145,6 +6167,32 @@
     },
     {
       "album": {
+        "name": "CHINO DOS (feat. DJ Vamos) (Skinny Chase Remix)",
+        "url": "https://open.spotify.com/album/4rYtWQHdDobmFg4rZk4Qtj"
+      },
+      "artists": [
+        {
+          "name": "Gu is 9",
+          "url": "https://open.spotify.com/artist/6tET5ef9JkNDTJ4yBNbDFA"
+        },
+        {
+          "name": "Dj Vamos",
+          "url": "https://open.spotify.com/artist/6aiPfL11UPuYUt3c07f8t7"
+        },
+        {
+          "name": "Skinny Chase",
+          "url": "https://open.spotify.com/artist/2Znqw7iH4StHRSCtU1uAKi"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165313,
+      "name": "CHINO DOS (feat. DJ Vamos) (Skinny Chase Remix)",
+      "url": "https://open.spotify.com/track/1fyHs23f4PxltaRWidkUuF"
+    },
+    {
+      "album": {
         "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
         "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
       },
@@ -6284,7 +6332,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 223138,
       "name": "CHURCH",
       "url": "https://open.spotify.com/track/0CXa72Y0ozZmM5QObUzMxE"
@@ -6802,7 +6850,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 245378,
       "name": "Cooler Than the Cool (feat. Huckleberry P)",
       "url": "https://open.spotify.com/track/5zB0UyqorlSDkjSw5rzVZE"
@@ -11750,7 +11798,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 133320,
       "name": "GOTTASADAE",
       "url": "https://open.spotify.com/track/5nJvKQsFRmCp2i7EiKjZDg"
@@ -15014,7 +15062,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 189353,
       "name": "KC2 (Feat. JMIN, HAON)",
       "url": "https://open.spotify.com/track/7zgHEl7FKvSYoinueRFl1H"
@@ -17598,7 +17646,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 269081,
       "name": "Money Checks (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/5bB7348yF6DXMmK1WQlBui"
@@ -18430,7 +18478,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "Nae tat",
       "url": "https://open.spotify.com/track/0pX9Pd1NpsgRwaIVC7WkXn"
@@ -19542,7 +19590,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 277060,
       "name": "NO THANXXX",
       "url": "https://open.spotify.com/track/2YwPo7S3aSkafouarC7Gyn"
@@ -20632,7 +20680,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 274000,
       "name": "ON to the next (Prod. by Crush, ZICO)",
       "url": "https://open.spotify.com/track/63JNA2B4qHmoedZCthpo0e"
@@ -21180,7 +21228,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 154000,
       "name": "OXY",
       "url": "https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau"
@@ -21220,7 +21268,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 124133,
       "name": "PACKITUP!",
       "url": "https://open.spotify.com/track/581y2iXY2cK8sCtARV4IOb"
@@ -21346,7 +21394,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 258000,
       "name": "PAJAMA (Feat. WOODZ) (Prod. by ZICO, Crush)",
       "url": "https://open.spotify.com/track/3DNvKQeuZNaLxcStAhMasl"
@@ -22158,7 +22206,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Pour",
       "url": "https://open.spotify.com/track/7ggOXWq4f0dUoxbAwlnKov"
@@ -28974,7 +29022,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 222120,
       "name": "under the ground",
       "url": "https://open.spotify.com/track/3916BVDlNYrxllaSbWcC4h"
@@ -29812,7 +29860,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 269813,
       "name": "Want It",
       "url": "https://open.spotify.com/track/0ofvMYbGtDkVF4CiT0mhib"
@@ -32200,7 +32248,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 222000,
       "name": "Yin and Yang - FANXY CHILD Ver.",
       "url": "https://open.spotify.com/track/5VWjUgKTeDoX5GJGgfUSXM"

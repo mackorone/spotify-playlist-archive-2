@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Ili Ruzanna. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Elizabeth Everly. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -17174,6 +17174,24 @@
       "duration_ms": 205714,
       "name": "Our Vows",
       "url": "https://open.spotify.com/track/0JPrNVJzr6Tk6MVdvOpCaf"
+    },
+    {
+      "album": {
+        "name": "Out Of My Dreams",
+        "url": "https://open.spotify.com/album/04sKNT7FFMgR2d5hY4nKe1"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Everly",
+          "url": "https://open.spotify.com/artist/61GAisNXTGSK0ZKtPYIEEy"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231219,
+      "name": "Out Of My Dreams",
+      "url": "https://open.spotify.com/track/5afYCjkr28QBQ9e0DN2JkZ"
     },
     {
       "album": {

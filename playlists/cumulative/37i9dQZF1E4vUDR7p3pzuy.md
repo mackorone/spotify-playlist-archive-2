@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With JUST LIZZY, David Von Beahm, The Poor Toms and more
+> With post\-punk'er, JUST LIZZY, Captain Margaret and more
 
 1,474 songs - 3 day 23 hr 16 min
 

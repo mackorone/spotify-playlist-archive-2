@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADO+HCjXygtsVE4jPgx13AWiXFAB",
+  "snapshot_id": "AAAAAKgTs6KjlkK5b49m6aixn8teAHpZ",
   "tracks": [
     {
       "added_at": "2026-10-15 14:15:17",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/0ZKoQKPuoU4Rp5oJlBmsST"
-      },
-      "artists": [
-        {
-          "name": "Shane",
-          "url": "https://open.spotify.com/artist/3BBmWyvut6k6gHFeIzlx5v"
-        }
-      ],
-      "duration_ms": 163972,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/2ASsYNmcpoWXEVF9kvpcHR"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "look at me",
         "url": "https://open.spotify.com/album/4CuUCkN2O08r4kkHTPZG06"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 251370,
       "name": "look at me",
       "url": "https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/0ZKoQKPuoU4Rp5oJlBmsST"
+      },
+      "artists": [
+        {
+          "name": "Shane",
+          "url": "https://open.spotify.com/artist/3BBmWyvut6k6gHFeIzlx5v"
+        }
+      ],
+      "duration_ms": 163972,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/2ASsYNmcpoWXEVF9kvpcHR"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "In Yeonhui-dong",
-        "url": "https://open.spotify.com/album/3TGBSAaRm5UTWy455TzwTC"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 221153,
-      "name": "In Yeonhui-dong",
-      "url": "https://open.spotify.com/track/22BHkwaBUJpx0Ks5MVa2Hu"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "DOLLS",
         "url": "https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 206497,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/1XxT5GxDa5GD8hnhTK2AD6"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "In Yeonhui-dong",
+        "url": "https://open.spotify.com/album/3TGBSAaRm5UTWy455TzwTC"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 221153,
+      "name": "In Yeonhui-dong",
+      "url": "https://open.spotify.com/track/22BHkwaBUJpx0Ks5MVa2Hu"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
         "name": "East Shore",
         "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "Called Love",
         "url": "https://open.spotify.com/album/2pfsSs7NUPbeQm0DTAJezD"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Dancing in the dark",
-        "url": "https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF"
+        "name": "\u2018The ReVe Festival\u2019 Day 2",
+        "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
       },
       "artists": [
         {
-          "name": "YEOJIN(L\u221ena)",
-          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 168026,
-      "name": "Dancing in the dark",
-      "url": "https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy"
+      "duration_ms": 236746,
+      "name": "Ladies Night",
+      "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "\u2018The ReVe Festival\u2019 Day 2",
-        "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
+        "name": "Dancing in the dark",
+        "url": "https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "YEOJIN(L\u221ena)",
+          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
         }
       ],
-      "duration_ms": 236746,
-      "name": "Ladies Night",
-      "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
+      "duration_ms": 168026,
+      "name": "Dancing in the dark",
+      "url": "https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
+      },
+      "artists": [
+        {
+          "name": "JuJu Secret",
+          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 223351,
       "name": "Haru (with meenoi)",
       "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
-      },
-      "artists": [
-        {
-          "name": "JuJu Secret",
-          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "dosii",
-        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 265952,
-      "name": "Half Clear",
-      "url": "https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "WJ STAY?",
         "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 214847,
       "name": "You Got",
       "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "dosii",
+        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "duration_ms": 265952,
+      "name": "Half Clear",
+      "url": "https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Line",
-      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "The Story Of The Year (feat. Wonwoo)",
         "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 253948,
       "name": "The Story Of The Year (feat. Wonwoo)",
       "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
     },
     {
       "added_at": "2026-10-15 14:15:17",

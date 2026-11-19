@@ -1,12 +1,12 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 132792,
+  "num_followers": 132838,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF/OSdmH3cP8siW1XRR8Eg+poB0s",
+  "snapshot_id": "AAAAAJSo5NjDKhqs6iPKn/KAODVmVIw6",
   "tracks": [
     {
       "added_at": "2024-06-24 22:23:31",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves",
-        "url": "https://open.spotify.com/album/778A8QJMXVPaCnGwOlAK3y"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Cl\u00e1sico",
-          "url": "https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 252066,
-      "name": "Se\u00f1ora Ley",
-      "url": "https://open.spotify.com/track/5DtgZDktHvgUPW6tfOWXm8"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Reincarnation",
         "url": "https://open.spotify.com/album/28XYByFxlXtbd7fIxOqCLM"
       },
@@ -895,6 +875,22 @@
       "duration_ms": 320447,
       "name": "Sabidur\u00eda",
       "url": "https://open.spotify.com/track/2Dk80FVOx8yfUhTUWsmNga"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "La Herencia",
+        "url": "https://open.spotify.com/album/7sCVHDM44OTJopiJJtVtIT"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 339240,
+      "name": "El Nazareno",
+      "url": "https://open.spotify.com/track/7lwzSYCRvS6FxJR0PqCqz4"
     }
   ],
   "unique_name": "Salsa Brava",

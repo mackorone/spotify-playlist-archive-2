@@ -4215,6 +4215,32 @@
     },
     {
       "album": {
+        "name": "Maanavari Makkale (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/3iBva1uoq9fXuAD0CKjOch"
+      },
+      "artists": [
+        {
+          "name": "Semv.iii",
+          "url": "https://open.spotify.com/artist/2O4fDX3s0c3JQsnxabRK8o"
+        },
+        {
+          "name": "Iniyan",
+          "url": "https://open.spotify.com/artist/5IpLfEYrmq3Lo7k1jFejP0"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219482,
+      "name": "Maanavari Makkale - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/3SlAyaKXrgiLUWPGL6hCFl"
+    },
+    {
+      "album": {
         "name": "Macchi Bacchi",
         "url": "https://open.spotify.com/album/0t8WM1aEqyCqfxLDj1oHLv"
       },

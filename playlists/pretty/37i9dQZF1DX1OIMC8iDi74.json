@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83e\ude77 with ISOxo",
-  "num_followers": 870089,
+  "num_followers": 870041,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-11-13 05:01:48",
       "album": {
+        "name": "EGO! (TAKE IT BACK)",
+        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 209464,
+      "name": "EGO! (TAKE IT BACK)",
+      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
+    },
+    {
+      "added_at": "2026-11-13 05:01:48",
+      "album": {
         "name": "Insanity",
         "url": "https://open.spotify.com/album/3K4Tpg7rhiJoLjjiHCjkii"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 222827,
       "name": "Insanity",
       "url": "https://open.spotify.com/track/3du1ULb91ZeCuAnEet30Z0"
-    },
-    {
-      "added_at": "2026-11-13 05:01:48",
-      "album": {
-        "name": "EGO! (TAKE IT BACK)",
-        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 209464,
-      "name": "EGO! (TAKE IT BACK)",
-      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
     },
     {
       "added_at": "2026-11-13 05:01:48",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-11-13 05:01:48",
       "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        }
-      ],
-      "duration_ms": 133615,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8"
-    },
-    {
-      "added_at": "2026-11-13 05:01:48",
-      "album": {
         "name": "ADRENOCHROME",
         "url": "https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 186666,
       "name": "HORSEPOWER",
       "url": "https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3"
+    },
+    {
+      "added_at": "2026-11-13 05:01:48",
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "duration_ms": 133615,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8"
     },
     {
       "added_at": "2026-11-13 05:01:48",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-11-13 05:01:48",
       "album": {
-        "name": "Steps On You (Peep My Style)",
-        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
-      },
-      "artists": [
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Steps On You (Peep My Style)",
-      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
-    },
-    {
-      "added_at": "2026-11-13 05:01:48",
-      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/11rvFYFExXvLCLmune1Mf2"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 186400,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/7GtlY90JxaXqp7OvIR2b75"
+    },
+    {
+      "added_at": "2026-11-13 05:01:48",
+      "album": {
+        "name": "Steps On You (Peep My Style)",
+        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Steps On You (Peep My Style)",
+      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
     },
     {
       "added_at": "2026-11-13 05:01:48",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-11-13 05:01:48",
       "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/1vgT9EDIH0c1yJRf3uY8X7"
+      },
+      "artists": [
+        {
+          "name": "d\u00eatre",
+          "url": "https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/3YdNUZRZC1sMFovoSLouc6"
+    },
+    {
+      "added_at": "2026-11-13 05:01:48",
+      "album": {
         "name": "Throw Ya Body",
         "url": "https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 171428,
       "name": "Throw Ya Body",
       "url": "https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C"
-    },
-    {
-      "added_at": "2026-11-13 05:01:48",
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/1vgT9EDIH0c1yJRf3uY8X7"
-      },
-      "artists": [
-        {
-          "name": "d\u00eatre",
-          "url": "https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/3YdNUZRZC1sMFovoSLouc6"
     },
     {
       "added_at": "2026-11-13 05:01:48",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-11-13 05:01:48",
       "album": {
-        "name": "X2C",
-        "url": "https://open.spotify.com/album/26vCQZzq5JbOU9pJ1Ujw6e"
-      },
-      "artists": [
-        {
-          "name": "Z3LLA",
-          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
-        }
-      ],
-      "duration_ms": 131142,
-      "name": "X2C",
-      "url": "https://open.spotify.com/track/4w6tMkhXUsVyi7kgIo5uG1"
-    },
-    {
-      "added_at": "2026-11-13 05:01:48",
-      "album": {
         "name": "ADRENOCHROME : ZERO",
         "url": "https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa"
       },
@@ -1879,18 +1863,18 @@
     {
       "added_at": "2026-11-13 05:01:48",
       "album": {
-        "name": "IMPACT",
-        "url": "https://open.spotify.com/album/3CNOAtLbMwzPs7VbofWCUd"
+        "name": "X2C",
+        "url": "https://open.spotify.com/album/26vCQZzq5JbOU9pJ1Ujw6e"
       },
       "artists": [
         {
-          "name": "SPORTMODE",
-          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
         }
       ],
-      "duration_ms": 185915,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/0G37Jdh5sH1pf0QoPjz2Hd"
+      "duration_ms": 131142,
+      "name": "X2C",
+      "url": "https://open.spotify.com/track/4w6tMkhXUsVyi7kgIo5uG1"
     },
     {
       "added_at": "2026-11-13 05:01:48",
@@ -1907,6 +1891,22 @@
       "duration_ms": 172137,
       "name": "Dozer",
       "url": "https://open.spotify.com/track/57FuwSCElE898TwZAXS4Wn"
+    },
+    {
+      "added_at": "2026-11-13 05:01:48",
+      "album": {
+        "name": "IMPACT",
+        "url": "https://open.spotify.com/album/3CNOAtLbMwzPs7VbofWCUd"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/0G37Jdh5sH1pf0QoPjz2Hd"
     }
   ],
   "unique_name": "Trap Mojito",

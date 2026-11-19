@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,158 likes - 85 songs - 4 hr 49 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,158 likes - 86 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 83 | [Tussen de Rode Lijnen](https://open.spotify.com/track/0hQKCD6PH7umQiEdgG4xfu) | [HAITZE](https://open.spotify.com/artist/6xWBsH2UxwLqHi5eftzdZ1) | [Tussen de Rode Lijnen](https://open.spotify.com/album/18jkEgxt7VYs5bHxvBHP5i) | 2:56 |
 | 84 | [Dig A Bone](https://open.spotify.com/track/08rbnKhtDgHS6pQjZOKR9b) | [JoJo Worthington](https://open.spotify.com/artist/6ML3M2WuSobnfx8Y0wEYGd) | [BAPTIZED II](https://open.spotify.com/album/7MEYF4hJjHlGrJJcCW9lXM) | 3:19 |
 | 85 | [Better](https://open.spotify.com/track/6ZYeKTXvAhOQy6yZMjy3Mz) | [EAUPALE](https://open.spotify.com/artist/0Z5wtijvnNkvPNg9sf2wPq) | [Know Better](https://open.spotify.com/album/6k5Q0dzK7DylQtpG82fT8T) | 3:49 |
+| 86 | [Out of Sight Out of Mind](https://open.spotify.com/track/4r8lcR7J6O9sfCuShKjEQt) | [SEY.MOUR.](https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE), [The Misses](https://open.spotify.com/artist/0ht4iZpWs4Jwv01e8OR0Jf) | [Out of Sight Out of Mind](https://open.spotify.com/album/09PVg8ju4pSHyVN9ZkJmwZ) | 2:31 |
 
-Snapshot ID: `AAAQbZt5MvseKEaToDrzx/Od3esWA48n`
+Snapshot ID: `AAAQbogZdpv97AmXvfk0ULmmpB5rETfz`

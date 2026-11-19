@@ -223,22 +223,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Let's Go Rodeo",
-        "url": "https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 181693,
-      "name": "Olha Onde Eu T\u00f4",
-      "url": "https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Transcende (Ao Vivo)",
         "url": "https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 157173,
       "name": "Saudade Burra - Ao Vivo",
       "url": "https://open.spotify.com/track/3M4HJl7D77l86gL1QXGJHG"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Let's Go Rodeo",
+        "url": "https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 181693,
+      "name": "Olha Onde Eu T\u00f4",
+      "url": "https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 336005,
-      "name": "Cancionera",
-      "url": "https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
       },
@@ -687,26 +671,34 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "MPC (M\u00fasica Popular Carioca)",
-        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
       },
       "artists": [
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 154350,
-      "name": "CONJUNT\u00c3O DE TIME",
-      "url": "https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx"
+      "duration_ms": 336005,
+      "name": "Cancionera",
+      "url": "https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "big buraco",
+        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
+      },
+      "artists": [
+        {
+          "name": "Jadsa",
+          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
+        }
+      ],
+      "duration_ms": 180185,
+      "name": "sol na pele",
+      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -731,18 +723,26 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "big buraco",
-        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
+        "name": "MPC (M\u00fasica Popular Carioca)",
+        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
       },
       "artists": [
         {
-          "name": "Jadsa",
-          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 180185,
-      "name": "sol na pele",
-      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
+      "duration_ms": 154350,
+      "name": "CONJUNT\u00c3O DE TIME",
+      "url": "https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx"
     },
     {
       "added_at": "2025-09-17 15:00:09",

@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAQbZt5MvseKEaToDrzx/Od3esWA48n",
+  "snapshot_id": "AAAQbogZdpv97AmXvfk0ULmmpB5rETfz",
   "tracks": [
     {
       "added_at": "2026-08-11 08:38:53",
@@ -1379,6 +1379,26 @@
       "duration_ms": 229866,
       "name": "Better",
       "url": "https://open.spotify.com/track/6ZYeKTXvAhOQy6yZMjy3Mz"
+    },
+    {
+      "added_at": "2026-11-18 16:45:59",
+      "album": {
+        "name": "Out of Sight Out of Mind",
+        "url": "https://open.spotify.com/album/09PVg8ju4pSHyVN9ZkJmwZ"
+      },
+      "artists": [
+        {
+          "name": "SEY.MOUR.",
+          "url": "https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE"
+        },
+        {
+          "name": "The Misses",
+          "url": "https://open.spotify.com/artist/0ht4iZpWs4Jwv01e8OR0Jf"
+        }
+      ],
+      "duration_ms": 151451,
+      "name": "Out of Sight Out of Mind",
+      "url": "https://open.spotify.com/track/4r8lcR7J6O9sfCuShKjEQt"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,921 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,917 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 5 | [BURAIKAN is Back](https://open.spotify.com/track/6OKzjZpcn7VBU15pDETP4a) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live 2nd album "LIVE"](https://open.spotify.com/album/6PbWO9ou73noEL2x7o6WHj) | 3:38 |
 | 6 | [Rap Guerrilla Reload \-Paradox Live All ARTISTS\-](https://open.spotify.com/track/5BAmqJ3OTGJnN25PE69d5c) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC), [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC), [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF), [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0), [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs), [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 9:28 |
 | 7 | [29 Verse \-One Mic One Spit One Kill\-](https://open.spotify.com/track/2066slyoWqL4rHtFNQVsLL) | [Paradox Live All ARTISTS](https://open.spotify.com/artist/439BVmjoc70mFAbYc77Y8V) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 5:46 |
-| 8 | [For my Stella](https://open.spotify.com/track/44235JiVl4tVmnLu7bw9yp) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:38 |
+| 8 | [大火傷 \- License To Kill \-](https://open.spotify.com/track/1rIyhhyKKKxVJ59x6LqIjx) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 3:48 |
 | 9 | [Trigger](https://open.spotify.com/track/17TfJV2sZ7qWMtYgNATuKj) | [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 2:57 |
-| 10 | [大火傷 \- License To Kill \-](https://open.spotify.com/track/1rIyhhyKKKxVJ59x6LqIjx) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 3:48 |
+| 10 | [For my Stella](https://open.spotify.com/track/44235JiVl4tVmnLu7bw9yp) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:38 |
 | 11 | [Bigger Bigger BaNG!!!](https://open.spotify.com/track/1nEMHSBmyQMN5KCpO7PUdN) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live Opening Show \-Battle of Unity\- Unit A](https://open.spotify.com/album/2oX3jgGmhPQn8XLMm2gO1C) | 3:35 |
 | 12 | [Break Outta Here](https://open.spotify.com/track/4dZF3VFr64aMMUZUM3kXMo) | [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:34 |
 | 13 | [Jumping Into My World](https://open.spotify.com/track/6dcdGwSr1UYjTqrjqbZok7) | [アン・フォークナー](https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM), [矢戸乃上那由汰](https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK), [棗リュウ](https://open.spotify.com/artist/0t6oyiG4NxLbNHKxE4U9Tp), [円山玲央](https://open.spotify.com/artist/6Nqu7vY2QyTha9ZbcdvXnc) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 49 | [Rooftop](https://open.spotify.com/track/6rriREMck8MKJGyIvDz8RM) | [闇堂四季](https://open.spotify.com/artist/5BVVhDIGYa7cfSVBoBUAKi), [矢戸乃上那由汰](https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:19 |
 | 50 | [音色](https://open.spotify.com/track/2VnKoiyRr4V00MpX9UjMhI) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 3:04 |
 
-Snapshot ID: `AAAAAIP9cuzncg8OP+XB9Nh1wmmIrrda`
+Snapshot ID: `AAAAAMB3gai7f2vQcKBrS2gsyy0pP+Ee`

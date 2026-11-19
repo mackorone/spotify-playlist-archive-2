@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree with Fall Out Boy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,188 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,242 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 7 | [Last Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
 | 8 | [Xmas Time of the Year](https://open.spotify.com/track/4O4eusrM8djmOn91VqOqeV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Xmas Time of the Year](https://open.spotify.com/album/1CFlIsdNdHNZ5jt3Qmw6fQ) | 2:17 |
 | 9 | [Run Rudolph Run](https://open.spotify.com/track/4BbZ1gB8vktu71ALv0Qjt7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Dave Grohl](https://open.spotify.com/artist/7mRVAzlt1fAAR9Cut6Rq8c) | [We Wish You a Metal Xmas.\. \(..And a Headbanging New Year\)](https://open.spotify.com/album/5O2Ze6Upnw5b7oiECdYqQo) | 4:00 |
-| 10 | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/track/46w8k81V0eSBx64XuVHxT2) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/album/4XzNQosYnRNJ29QYsMV98V) | 3:31 |
+| 10 | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/track/46w8k81V0eSBx64XuVHxT2) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/album/4XzNQosYnRNJ29QYsMV98V) | 3:32 |
 | 11 | [Wonderful Christmastime \- Remastered 2011 / Edited Version](https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/7G2kEoHNNWxq6j8okgMvCr) | 3:47 |
 | 12 | [Christmas Eve / Sarajevo 12/24 \- Instrumental](https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [Christmas Eve and Other Stories](https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT) | 3:25 |
 | 13 | [Father Christmas](https://open.spotify.com/track/6M2vktau9g7DbSDySsco8e) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Picture Book](https://open.spotify.com/album/1YB1LqKpVsdtL9dmjhWXGf) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 99 | [Let Me Sleep \(It's Christmas Time\)](https://open.spotify.com/track/2randpfoi4pRjpDx5difUk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lost Dogs](https://open.spotify.com/album/55VNnWRkzLOLPcY28WxyUl) | 2:57 |
 | 100 | [Santa Baby \- Recorded at Strongroom Studios London](https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Santa Baby \(Recorded at Strongroom Studios London\)](https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ) | 2:43 |
 
-Snapshot ID: `AAAAANt9lxhChu12mFatdcVQuL1COcHk`
+Snapshot ID: `AAAAAKs06MAwNF0qrJo35pJm1d3vfvkC`

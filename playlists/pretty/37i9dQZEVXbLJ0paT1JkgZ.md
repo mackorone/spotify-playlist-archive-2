@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,276 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,281 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [EL QUE AVISA NO TRAICIONA](https://open.spotify.com/track/3ZdMwehVcl9IBQLaywGrFw) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l), [Milan Didier](https://open.spotify.com/artist/3SL0MLkrNx4DRWGcRLiIDc), [Felolaefe](https://open.spotify.com/artist/1d6X8cIaHb05jj6SYoHUjV), [Raven la R](https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq) | [EL QUE AVISA NO TRAICIONA](https://open.spotify.com/album/0VoVdoeOyK27KWgMoeEe5x) | 3:39 |
 | 50 | [Te Estoy Correteando](https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:13 |
 
-Snapshot ID: `Mo/yAAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MpFDgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

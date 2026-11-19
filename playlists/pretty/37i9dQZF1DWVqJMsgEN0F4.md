@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Kings of Leon along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,556 likes - 82 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,595 likes - 82 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 81 | [Armor](https://open.spotify.com/track/3vEznOTV6qVU4GO7kmB1GK) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Armor](https://open.spotify.com/album/3OUjODbCdJfSwgGChAY5fR) | 3:18 |
 | 82 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 |
 
-Snapshot ID: `AAAAAG6L4Om5yuNplW1BBCmk7r9jkcPC`
+Snapshot ID: `AAAAAPXry8qzfHutFC724SnlnI2LpCmb`

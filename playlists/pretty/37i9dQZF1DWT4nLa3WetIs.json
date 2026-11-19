@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Tems' debut \" For Broken Ears\"",
-  "num_followers": 273842,
+  "num_followers": 273931,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACpxZS1fTnN0YlgJ04JFRRGkjeva",
+  "snapshot_id": "AAAAABkSEGWGJL4HOJ9k2wnW0L24BH7z",
   "tracks": [
     {
       "added_at": "2026-09-08 10:54:33",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-09-08 10:54:33",
       "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 200413,
-      "name": "Way Too Big",
-      "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
-    },
-    {
-      "added_at": "2026-09-08 10:54:33",
-      "album": {
         "name": "MJ (Remix)",
         "url": "https://open.spotify.com/album/0IS0JTlNXY8nlrmZuEOEp3"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 189869,
       "name": "MJ (Remix)",
       "url": "https://open.spotify.com/track/2QQizmVmA2HiEX7U3I1wgu"
+    },
+    {
+      "added_at": "2026-09-08 10:54:33",
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 200413,
+      "name": "Way Too Big",
+      "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
     },
     {
       "added_at": "2026-09-08 10:54:33",

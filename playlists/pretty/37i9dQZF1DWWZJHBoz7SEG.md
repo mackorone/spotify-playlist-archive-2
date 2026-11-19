@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Semanita corta y de compras locas en compañía de DAAZ y Sabino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,257,369 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,257,240 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 69 | [Un espejo](https://open.spotify.com/track/4r0QGwkkp39xswFfb39Wek) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq), [Nick Zinner](https://open.spotify.com/artist/2skDtpQeOI6zjRWIT3iFkO) | [Un espejo](https://open.spotify.com/album/3B0NgrEgkPD31ipqHEj5Ob) | 2:28 |
 | 70 | [No Pierdas Más Tiempo](https://open.spotify.com/track/5RvDUSGvyvtp0YOQhrDWl0) | [Loreto](https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh) | [No Pierdas Más Tiempo](https://open.spotify.com/album/2qpPvJF1umbFi4hzNONP1x) | 2:54 |
 
-Snapshot ID: `AAAAABcuORObMmxgZ/9ktJdq7Ij4wOma`
+Snapshot ID: `AAAAACUsXdeCMRRtU6AfL11R/RM47mHr`

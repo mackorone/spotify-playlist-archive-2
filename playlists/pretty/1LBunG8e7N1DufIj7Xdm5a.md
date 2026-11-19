@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,576 songs - 12 day 23 hr 46 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,577 songs - 12 day 23 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5584,5 +5584,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5574 | [On the 10](https://open.spotify.com/track/48lfynVh0BKHCIs4EbEBvy) | [Cristoforo Donadi](https://open.spotify.com/artist/0kTwzuquhKPxUxJA5ykVYf) | [On the 10](https://open.spotify.com/album/4Ef86HGWgUfRYdSe8cOIPx) | 2:41 |
 | 5575 | [Asphalt](https://open.spotify.com/track/3bTBHWo4OdlfPWxiRdKgxQ) | [Alexo](https://open.spotify.com/artist/2M5K8mw04jLiIyTFaGOvXA) | [Asphalt](https://open.spotify.com/album/54UtGMEsU8UXCit9KuXrUQ) | 2:29 |
 | 5576 | [Medicate](https://open.spotify.com/track/3umTsTDjiiE7wlNxGpVPbr) | [EverFelt](https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX) | [Medicate](https://open.spotify.com/album/5oxKqegUjpahbxGsXMsRpR) | 3:58 |
+| 5577 | [Fairy of Fortune](https://open.spotify.com/track/6XlfJJ4Jj1rDJgdaekHsWK) | [NitRo \- Tunes](https://open.spotify.com/artist/4jYkECQhDrMZPm8DNPafYP) | [Fairy of Fortune](https://open.spotify.com/album/0W2rA2EgVidqoXY5wdJugC) | 3:37 |
 
-Snapshot ID: `AAALFG+R7Y5V54jw55gb+gRNHnweSdme`
+Snapshot ID: `AAALFSUvd7ZEvQ5iTMFXHNZI/eZBYg8/`

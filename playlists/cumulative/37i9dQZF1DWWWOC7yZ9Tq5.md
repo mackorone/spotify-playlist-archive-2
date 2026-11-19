@@ -2,7 +2,7 @@
 
 ### [Anime Gaming](https://open.spotify.com/playlist/37i9dQZF1DWWWOC7yZ9Tq5)
 
-> A selection of anime tracks perfect for listening to during your gaming time\. ゲームの時間にぴったりなアニメ楽曲をセレクト。 Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
+> A selection of anime tracks perfect for listening to during your gaming time\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 51 songs - 2 hr 37 min
 

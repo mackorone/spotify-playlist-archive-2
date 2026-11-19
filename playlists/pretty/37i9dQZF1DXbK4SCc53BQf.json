@@ -287,26 +287,6 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "La Locura",
-        "url": "https://open.spotify.com/album/1AguLemBSNC0YQzR2tTAHK"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        },
-        {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Plan Plan",
-      "url": "https://open.spotify.com/track/4oGqUN7kHte9mUzkGDdeOL"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
         "name": "ChurchBoy",
         "url": "https://open.spotify.com/album/1wPSVsGAZDT08vtZ36AI0R"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 154601,
       "name": "PQ LLORAR?",
       "url": "https://open.spotify.com/track/22sVxak5DVIYOHRNruwF8s"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "La Locura",
+        "url": "https://open.spotify.com/album/1AguLemBSNC0YQzR2tTAHK"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Plan Plan",
+      "url": "https://open.spotify.com/track/4oGqUN7kHte9mUzkGDdeOL"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -791,30 +791,18 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Dale Candela",
-        "url": "https://open.spotify.com/album/12hBGKv5JjY2CB3K89fak4"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
       },
       "artists": [
         {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "Fe Mundo",
-          "url": "https://open.spotify.com/artist/5gJb4A1xQNBpFhQbSroQx7"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "DJ Mykael V",
-          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
         }
       ],
-      "duration_ms": 188437,
-      "name": "Dale Candela",
-      "url": "https://open.spotify.com/track/238tjakaabtBzeJirHl0oc"
+      "duration_ms": 183148,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -839,18 +827,30 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
+        "name": "Dale Candela",
+        "url": "https://open.spotify.com/album/12hBGKv5JjY2CB3K89fak4"
       },
       "artists": [
         {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Fe Mundo",
+          "url": "https://open.spotify.com/artist/5gJb4A1xQNBpFhQbSroQx7"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "DJ Mykael V",
+          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
         }
       ],
-      "duration_ms": 183148,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
+      "duration_ms": 188437,
+      "name": "Dale Candela",
+      "url": "https://open.spotify.com/track/238tjakaabtBzeJirHl0oc"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Van God",
-        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
-        }
-      ],
-      "duration_ms": 257385,
-      "name": "Van God",
-      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
         "name": "La Verdad EP",
         "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 182474,
       "name": "Quema",
       "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "Van God",
+        "url": "https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        }
+      ],
+      "duration_ms": 257385,
+      "name": "Van God",
+      "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Ense\u00f1ame Tu Senda",
-        "url": "https://open.spotify.com/album/7o3IfyLaeiEQUxUddEyAFk"
+        "name": "Exaltado",
+        "url": "https://open.spotify.com/album/0PghaXjAKeqtdldeXhx7jL"
       },
       "artists": [
         {
-          "name": "Los Voceros de Cristo",
-          "url": "https://open.spotify.com/artist/4yUNbtVl2PW9dARZdWuDXu"
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Ense\u00f1ame Tu Senda",
-      "url": "https://open.spotify.com/track/25gYlarfjMUKuPgHChDnK9"
+      "duration_ms": 177049,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/75c5TPdMHuGYw9FXH0TLMs"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Exaltado",
-        "url": "https://open.spotify.com/album/0PghaXjAKeqtdldeXhx7jL"
+        "name": "Ense\u00f1ame Tu Senda",
+        "url": "https://open.spotify.com/album/7o3IfyLaeiEQUxUddEyAFk"
       },
       "artists": [
         {
-          "name": "David Ordo\u00f1ez",
-          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+          "name": "Los Voceros de Cristo",
+          "url": "https://open.spotify.com/artist/4yUNbtVl2PW9dARZdWuDXu"
         }
       ],
-      "duration_ms": 177049,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/75c5TPdMHuGYw9FXH0TLMs"
+      "duration_ms": 211666,
+      "name": "Ense\u00f1ame Tu Senda",
+      "url": "https://open.spotify.com/track/25gYlarfjMUKuPgHChDnK9"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Agua Pal Sediento",
-        "url": "https://open.spotify.com/album/1zgFyQWTxZ3JxsgpFTAujN"
-      },
-      "artists": [
-        {
-          "name": "Martin Alonso",
-          "url": "https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5"
-        }
-      ],
-      "duration_ms": 239291,
-      "name": "Agua Pal Sediento",
-      "url": "https://open.spotify.com/track/0iIwX1uK6PzPEuwQCWOnku"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
         "name": "Cantar\u00e9",
         "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 243608,
       "name": "Cantar\u00e9",
       "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "Agua Pal Sediento",
+        "url": "https://open.spotify.com/album/1zgFyQWTxZ3JxsgpFTAujN"
+      },
+      "artists": [
+        {
+          "name": "Martin Alonso",
+          "url": "https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5"
+        }
+      ],
+      "duration_ms": 239291,
+      "name": "Agua Pal Sediento",
+      "url": "https://open.spotify.com/track/0iIwX1uK6PzPEuwQCWOnku"
     },
     {
       "added_at": "2026-11-06 05:01:41",

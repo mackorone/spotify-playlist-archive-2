@@ -1,13 +1,37 @@
 {
   "description": "Playlist",
-  "num_followers": 18163,
+  "num_followers": 18162,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMnSQ+3+69wsDAphzjSb+6Bwf3swy7",
+  "snapshot_id": "AAAMoDdG3CQtB+C4ZAZ02WkysfeB6ufu",
   "tracks": [
+    {
+      "added_at": "2026-11-18 13:57:18",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/58IsSDShuLgWD1fKwN6fBy"
+      },
+      "artists": [
+        {
+          "name": "Orange Ave.",
+          "url": "https://open.spotify.com/artist/5YZMQEjXLXrcwEk6izwbRC"
+        },
+        {
+          "name": "RAWLS",
+          "url": "https://open.spotify.com/artist/4snmVzzhbxuiYUHmWoafdJ"
+        },
+        {
+          "name": "Matthew Mozingo",
+          "url": "https://open.spotify.com/artist/7xlnEmLNtGEHUiwGH9n0aw"
+        }
+      ],
+      "duration_ms": 167477,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0NCQaHBshN7apWZbG65ctB"
+    },
     {
       "added_at": "2026-11-17 11:43:47",
       "album": {
@@ -39,6 +63,26 @@
       "duration_ms": 213191,
       "name": "Same Old Patterns",
       "url": "https://open.spotify.com/track/1qdKJAo21Ow9WfaRctnR07"
+    },
+    {
+      "added_at": "2026-11-18 13:57:04",
+      "album": {
+        "name": "SPOTLIGHT",
+        "url": "https://open.spotify.com/album/7L7qP0yed1PYdFWN5KrHce"
+      },
+      "artists": [
+        {
+          "name": "Orange Ave.",
+          "url": "https://open.spotify.com/artist/5YZMQEjXLXrcwEk6izwbRC"
+        },
+        {
+          "name": "Matthew Mozingo",
+          "url": "https://open.spotify.com/artist/7xlnEmLNtGEHUiwGH9n0aw"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "SPOTLIGHT",
+      "url": "https://open.spotify.com/track/2Tij80IPqw8XyrRf1XKdw5"
     },
     {
       "added_at": "2026-10-17 15:35:36",

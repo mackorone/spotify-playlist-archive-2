@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Banda Clave de Oro de Christian Rojas ",
-  "num_followers": 84811,
+  "num_followers": 84814,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbJ7SVR2fVJfQ0KXW9uME9Xa15i",
+  "snapshot_id": "AAAAAIyNCwiEp2b0zFFH3WRqZPMGxzWj",
   "tracks": [
     {
       "added_at": "2026-10-23 09:56:02",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 173890,
-      "name": "La Novena Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
-    },
-    {
-      "added_at": "2026-10-23 09:56:02",
-      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 172056,
       "name": "Mi Terre CLN",
       "url": "https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb"
+    },
+    {
+      "added_at": "2026-10-23 09:56:02",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 173890,
+      "name": "La Novena Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
     },
     {
       "added_at": "2026-10-23 09:56:02",
@@ -339,6 +339,26 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
+        "name": "911 (En Vivo)",
+        "url": "https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 175424,
+      "name": "911 - En Vivo",
+      "url": "https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4"
+    },
+    {
+      "added_at": "2026-10-23 09:56:02",
+      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
-    },
-    {
-      "added_at": "2026-10-23 09:56:02",
-      "album": {
-        "name": "911 (En Vivo)",
-        "url": "https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 175424,
-      "name": "911 - En Vivo",
-      "url": "https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4"
     },
     {
       "added_at": "2026-10-23 09:56:02",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Inventame - En Vivo",
+      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+    },
+    {
+      "added_at": "2026-10-23 09:56:02",
+      "album": {
         "name": "Que Me Importa",
         "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 208541,
       "name": "Que Me Importa",
       "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
-    },
-    {
-      "added_at": "2026-10-23 09:56:02",
-      "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "Inventame - En Vivo",
-      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
     },
     {
       "added_at": "2026-10-23 09:56:02",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
-        "name": "En Vivo Desde El Estadio GNP",
-        "url": "https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Amor Secreto - En Vivo",
-      "url": "https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u"
-    },
-    {
-      "added_at": "2026-10-23 09:56:02",
-      "album": {
         "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
@@ -1139,18 +1119,22 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
-        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
-        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
+        "name": "En Vivo Desde El Estadio GNP",
+        "url": "https://open.spotify.com/album/2trA95Z02RNetnEYpheGlt"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
         }
       ],
-      "duration_ms": 211812,
-      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
-      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
+      "duration_ms": 188586,
+      "name": "Amor Secreto - En Vivo",
+      "url": "https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u"
     },
     {
       "added_at": "2026-10-23 09:56:02",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
+        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
+        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
+      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
+    },
+    {
+      "added_at": "2026-10-23 09:56:02",
+      "album": {
         "name": "En vivo desde El Potrero",
         "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 203066,
       "name": "Eres un encanto - En vivo",
       "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
+    },
+    {
+      "added_at": "2026-10-23 09:56:02",
+      "album": {
+        "name": "Despegando el Vuelo (En vivo)",
+        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 221675,
+      "name": "Que Me Falto - En vivo",
+      "url": "https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE"
     },
     {
       "added_at": "2026-10-23 09:56:02",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
-        "name": "Despegando el Vuelo (En vivo)",
-        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 221675,
-      "name": "Que Me Falto - En vivo",
-      "url": "https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE"
-    },
-    {
-      "added_at": "2026-10-23 09:56:02",
-      "album": {
         "name": "El Pickles",
         "url": "https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq"
       },
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Tito Torbellino Jr.",
-          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
-        }
-      ],
-      "duration_ms": 169877,
-      "name": "Barba Negra",
-      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
-    },
-    {
-      "added_at": "2026-10-23 09:56:02",
-      "album": {
         "name": "Directo 93-13 (En Vivo/20 Aniversario/Vol.1)",
         "url": "https://open.spotify.com/album/0OoRd49fYSZCRieceLUBil"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 255133,
       "name": "Loco - En Vivo",
       "url": "https://open.spotify.com/track/30VgitVQwLfrGiwbVMXe3i"
+    },
+    {
+      "added_at": "2026-10-23 09:56:02",
+      "album": {
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Tito Torbellino Jr.",
+          "url": "https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR"
+        }
+      ],
+      "duration_ms": 169877,
+      "name": "Barba Negra",
+      "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
     },
     {
       "added_at": "2026-10-23 09:56:02",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
-        "name": "Besos y Copas (En Vivo)",
-        "url": "https://open.spotify.com/album/1Sc3shKERVLmKS1eU4ImMG"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Reales",
-          "url": "https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/4133rBXOv4L0RJfzzpNJSc"
-    },
-    {
-      "added_at": "2026-10-23 09:56:02",
-      "album": {
         "name": "Comando \u00danico con Compa Danny (En vivo)",
         "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
+        "name": "Coraz\u00f3n - Se Fue - Tus Mentiras (En Vivo)",
+        "url": "https://open.spotify.com/album/5JDKA19NAYiocApicj7Xbl"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Reales",
+          "url": "https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI"
+        }
+      ],
+      "duration_ms": 371500,
+      "name": "Coraz\u00f3n - Se Fue - Tus Mentiras - En Vivo",
+      "url": "https://open.spotify.com/track/54D5jeRSvnsqjkKlcD7i3P"
+    },
+    {
+      "added_at": "2026-10-23 09:56:02",
+      "album": {
         "name": "Tambi\u00e9n Me Llamo Ismael (En Vivo)",
         "url": "https://open.spotify.com/album/762prAk1zCDNgHV03q2Wgt"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
-        "name": "Coraz\u00f3n - Se Fue - Tus Mentiras (En Vivo)",
-        "url": "https://open.spotify.com/album/5JDKA19NAYiocApicj7Xbl"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Reales",
-          "url": "https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI"
-        }
-      ],
-      "duration_ms": 371500,
-      "name": "Coraz\u00f3n - Se Fue - Tus Mentiras - En Vivo",
-      "url": "https://open.spotify.com/track/54D5jeRSvnsqjkKlcD7i3P"
-    },
-    {
-      "added_at": "2026-10-23 09:56:02",
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -1711,26 +1695,6 @@
       "duration_ms": 184124,
       "name": "Caminos Diferentes - En Vivo",
       "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
-    },
-    {
-      "added_at": "2026-10-23 09:56:02",
-      "album": {
-        "name": "El Ranchero",
-        "url": "https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 159390,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
     },
     {
       "added_at": "2026-10-23 09:56:02",
@@ -1759,6 +1723,42 @@
       "duration_ms": 161026,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/0GAB7waNGP9kAAFlvhK5hS"
+    },
+    {
+      "added_at": "2026-10-23 09:56:02",
+      "album": {
+        "name": "Besos y Copas (En Vivo)",
+        "url": "https://open.spotify.com/album/1Sc3shKERVLmKS1eU4ImMG"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Reales",
+          "url": "https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4133rBXOv4L0RJfzzpNJSc"
+    },
+    {
+      "added_at": "2026-10-23 09:56:02",
+      "album": {
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 159390,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
     },
     {
       "added_at": "2026-10-23 09:56:02",
@@ -1799,6 +1799,30 @@
     {
       "added_at": "2026-10-23 09:56:02",
       "album": {
+        "name": "Street Mob Live",
+        "url": "https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl"
+      },
+      "artists": [
+        {
+          "name": "Street Mob",
+          "url": "https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk"
+        },
+        {
+          "name": "Grupo Elexion",
+          "url": "https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 259828,
+      "name": "Micaela",
+      "url": "https://open.spotify.com/track/6tbPyJ4yVaSjZjHz2R99V6"
+    },
+    {
+      "added_at": "2026-10-23 09:56:02",
+      "album": {
         "name": "\u00bfSer\u00e1 Prudente Jalar La Banda?",
         "url": "https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3"
       },
@@ -1831,30 +1855,6 @@
       "duration_ms": 192906,
       "name": "Los Ninis - En Vivo",
       "url": "https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W"
-    },
-    {
-      "added_at": "2026-10-23 09:56:02",
-      "album": {
-        "name": "Street Mob Live",
-        "url": "https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl"
-      },
-      "artists": [
-        {
-          "name": "Street Mob",
-          "url": "https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk"
-        },
-        {
-          "name": "Grupo Elexion",
-          "url": "https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 259828,
-      "name": "Micaela",
-      "url": "https://open.spotify.com/track/6tbPyJ4yVaSjZjHz2R99V6"
     },
     {
       "added_at": "2026-10-23 09:56:02",

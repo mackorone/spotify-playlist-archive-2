@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Mirella, Juuna Chill, The Drums & Pearly Drops..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,193 likes - 102 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,192 likes - 102 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 101 | [tie me d^wn](https://open.spotify.com/track/5H2sF8TtiDMYKQyWz7uu4l) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [REBECCA](https://open.spotify.com/album/4hCwXvKTdnhUUsoSgVA6Ia) | 2:45 |
 | 102 | [Do It Again](https://open.spotify.com/track/1d9Cd2ZDTo1YWrWrjzoFCc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Panic Attack](https://open.spotify.com/album/2XDRwEY4n0kUx2tZA2bro7) | 2:52 |
 
-Snapshot ID: `AAAAABdobbgormYrAjFodxL1Kac1YVKg`
+Snapshot ID: `AAAAAC3noFR1ervCRJP6UixVVZ2w75+v`

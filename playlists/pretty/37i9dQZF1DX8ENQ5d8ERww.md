@@ -9,8 +9,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Volksmusigg](https://open.spotify.com/track/02KgHICcDaWxVJSPUZJRFx) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Yves Spink](https://open.spotify.com/album/3S7Qw0xES3XbcAXRZRfWRo) | 3:26 |
-| 2 | [Stärne](https://open.spotify.com/track/38yEl7W2oSadApIpDIwSKX) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Jede Tag Superstar](https://open.spotify.com/album/2CMJp148PeeikwZvkCu1q5) | 4:02 |
-| 3 | [Noochbrand](https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd) | [Brandhärd](https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4) | [Noochbrand](https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25) | 4:09 |
+| 2 | [Noochbrand](https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd) | [Brandhärd](https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4) | [Noochbrand](https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25) | 4:09 |
+| 3 | [Stärne](https://open.spotify.com/track/38yEl7W2oSadApIpDIwSKX) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Jede Tag Superstar](https://open.spotify.com/album/2CMJp148PeeikwZvkCu1q5) | 4:02 |
 | 4 | [I han](https://open.spotify.com/track/4WNltXQt68fQVJnCuzfsz1) | [Sektion Kuchikäschtli](https://open.spotify.com/artist/4KURgfv2oCG5QwwyWENs2C) | [Nur So Am Rand \(Remastered\)](https://open.spotify.com/album/4rCvshzK56R0wQTK39Nrd8) | 3:28 |
 | 5 | [Für 1 hets Immer no glangt](https://open.spotify.com/track/7hb9E5NNeqkr60r8QxtrlR) | [Breitbild](https://open.spotify.com/artist/07h2T3RrXQzYW5YpQnXd8U) | [Legenda](https://open.spotify.com/album/6eBJisPt7283GEfYj8hKFL) | 3:43 |
 | 6 | [I de Schwiiz](https://open.spotify.com/track/0HG4ApJ5c6xTjNwIoG5rpm) | [Skor](https://open.spotify.com/artist/5f9SQX0dJ18VjczJgWobNt) | [Und Nachteil](https://open.spotify.com/album/1yj7QUrcOSpHhig4K5195M) | 5:37 |

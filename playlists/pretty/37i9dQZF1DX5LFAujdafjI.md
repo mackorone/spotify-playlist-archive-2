@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > Portola 2026 is over but don't fret, check out some highlights from the festival! For your pre\-games, afters, spurts of manic cleaning, and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,213 likes - 84 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,233 likes - 84 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 63 | [Back Of My Mind](https://open.spotify.com/track/6BJRAV2kA83dtIvPrrzmxN) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:26 |
 | 64 | [only the best](https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [only the best](https://open.spotify.com/album/6fx3yIWsnfcF3tRFEC3vNU) | 3:22 |
 | 65 | [Freaky 1](https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Freaky 1](https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS) | 3:52 |
-| 66 | [Bring The Beat Back](https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Bring The Beat Back](https://open.spotify.com/album/3lgwAztqNRf5uupPe88kOR) | 4:35 |
+| 66 | [Bring The Beat Back](https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [TOOLS 4 HARDWORKERS 009](https://open.spotify.com/album/3lgwAztqNRf5uupPe88kOR) | 4:35 |
 | 67 | [The Lobby](https://open.spotify.com/track/3S9fUHrEJ7NSOswsEtcwMs) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [The Lobby](https://open.spotify.com/album/2gWytF2ZcOP1JRxwQ8xPWE) | 3:02 |
 | 68 | [Waiting So Long](https://open.spotify.com/track/26AsQVWhBFdIZj9fTcKmjY) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Butterfly](https://open.spotify.com/album/6EwceabziOOptW7N7tT626) | 3:54 |
 | 69 | [Hell Is Round The Corner](https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:47 |

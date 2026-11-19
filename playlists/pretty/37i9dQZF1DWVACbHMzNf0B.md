@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Valdo Rodriguez en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,833 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,817 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 74 | [MIS LÁGRIMAS](https://open.spotify.com/track/3nBTjrgTyKW7hQwBTfa63J) | [Compa Steve](https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [MIS LÁGRIMAS](https://open.spotify.com/album/0h8ySx6u9eLkaW42GhVXvA) | 4:26 |
 | 75 | [La Marea, Pt\. 2](https://open.spotify.com/track/6dtu4pYGkUxM6W75w2uy1v) | [Real Cumbia Activa RCA](https://open.spotify.com/artist/5LqGrJkHgvYwerUAYzvLUE) | [Turista](https://open.spotify.com/album/4RO2sD3flUqLPTr7Jd5M8T) | 3:58 |
 
-Snapshot ID: `AAAAAFJyl5h+0ndqtEWWoQo5NJ4S5FD6`
+Snapshot ID: `AAAAAGbVPxnR3eFqHY0E4JuupndmrjUX`

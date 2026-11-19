@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,905 likes - 30 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,971 likes - 30 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [Eyes On Me](https://open.spotify.com/track/3368nB00QVs4L0gLt0V3kS) | [DJEFF](https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4), [Chenai](https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w) | [Eyes On Me](https://open.spotify.com/album/2DIWOTpdF5arSVXzqUifiS) | 3:30 |
 | 30 | [Gâi tama](https://open.spotify.com/track/6CavqsBFAGPBw5cL7p68et) | [G\-Wash10](https://open.spotify.com/artist/2P4NB1H98x8JlCYRbOR9xm), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Stylish Dj](https://open.spotify.com/artist/43enULBVMaMoSANiya1Tsb), [Ze2](https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF) | [Gâi tama](https://open.spotify.com/album/0V6I0pZZ94XoskuXz65FII) | 3:36 |
 
-Snapshot ID: `AAAAAPlBoxPE1UDC9vEfOjrQ7wtv0aAZ`
+Snapshot ID: `AAAAAOqqT0venpaazHHcYD2G2N9sV3WM`

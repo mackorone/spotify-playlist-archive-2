@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 748988,
+  "num_followers": 749027,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG161yGiBwfYATJLGqqm25rWBj/I",
+  "snapshot_id": "AAAAAJ7qYPx5XfWW/TOrfPZ7kYvNIijD",
   "tracks": [
     {
       "added_at": "2025-11-07 18:47:10",
@@ -751,22 +751,18 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "C\u00ea T\u00e1 Preparada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0SKpoFXvWGulci9ZGmWKCy"
+        "name": "Simone & Simaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
       },
       "artists": [
         {
-          "name": "Tayrone",
-          "url": "https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
         }
       ],
-      "duration_ms": 213006,
-      "name": "C\u00ea T\u00e1 Preparada - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tYJnXtKLoWVIL4lZOouQG"
+      "duration_ms": 214513,
+      "name": "Meu Viol\u00e3o E O Nosso Cachorro - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RTkdHBUb5UCg36tcX6C7D"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -791,18 +787,22 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Simone & Simaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
+        "name": "C\u00ea T\u00e1 Preparada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0SKpoFXvWGulci9ZGmWKCy"
       },
       "artists": [
         {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+          "name": "Tayrone",
+          "url": "https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 214513,
-      "name": "Meu Viol\u00e3o E O Nosso Cachorro - Ao Vivo",
-      "url": "https://open.spotify.com/track/2RTkdHBUb5UCg36tcX6C7D"
+      "duration_ms": 213006,
+      "name": "C\u00ea T\u00e1 Preparada - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tYJnXtKLoWVIL4lZOouQG"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Cora\u00e7\u00e3o Apaixonou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NcdDNafg1PP6HNZu0fzaH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Sem Esse Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kvsEeN7tv7iqbR4P4do8e"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Errejota (Ao Vivo)",
         "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 231680,
       "name": "Algo Mais (Amante) - Ao Vivo",
       "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Apaixonou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NcdDNafg1PP6HNZu0fzaH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Sem Esse Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kvsEeN7tv7iqbR4P4do8e"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
+        "name": "Reflexo (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 180629,
+      "name": "N\u00e3o Abro M\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3L2uyIJoJPjYkSETVNSPBQ"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
         "name": "Cl\u00e1ssico (Ao Vivo / Edi\u00e7\u00e3o Especial)",
         "url": "https://open.spotify.com/album/7lHfl8zlZjgdy1aR4Ra66A"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 193632,
       "name": "Voc\u00ea Me Trocou - Ao Vivo",
       "url": "https://open.spotify.com/track/3RYV8juwSUclgwNiwmESlb"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
-        "name": "Reflexo (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 180629,
-      "name": "N\u00e3o Abro M\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3L2uyIJoJPjYkSETVNSPBQ"
     },
     {
       "added_at": "2025-11-07 18:47:10",

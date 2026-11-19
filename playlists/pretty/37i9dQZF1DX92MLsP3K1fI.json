@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Alleh en portada \u2728",
-  "num_followers": 96788,
+  "num_followers": 96782,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "S\u00e1lvame Otra Vez",
-        "url": "https://open.spotify.com/album/16JvWibqyTqxaz7eeGZXjT"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "S\u00e1lvame Otra Vez",
-      "url": "https://open.spotify.com/track/6WUxiNHMldVSzFhbTZRruA"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "Mixteip",
         "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 198493,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
+        "name": "S\u00e1lvame Otra Vez",
+        "url": "https://open.spotify.com/album/16JvWibqyTqxaz7eeGZXjT"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "S\u00e1lvame Otra Vez",
+      "url": "https://open.spotify.com/track/6WUxiNHMldVSzFhbTZRruA"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "ObsesionHada",
-        "url": "https://open.spotify.com/album/46PO600f8MWEJE6FiU0WH0"
-      },
-      "artists": [
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "ObsesionHada",
-      "url": "https://open.spotify.com/track/5mwWrANiKqgLNf3fabdLz7"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "La Limonada",
         "url": "https://open.spotify.com/album/0ymOLrgHZ46f2REItckz7E"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 217408,
       "name": "La Limonada",
       "url": "https://open.spotify.com/track/6puekSoUFCRJO3KXRb2o9f"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
+        "name": "ObsesionHada",
+        "url": "https://open.spotify.com/album/46PO600f8MWEJE6FiU0WH0"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "ObsesionHada",
+      "url": "https://open.spotify.com/track/5mwWrANiKqgLNf3fabdLz7"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "Amor\u00edo",
-        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 206216,
-      "name": "Bar de corazones rotos",
-      "url": "https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/0flBtapIUqgzI4huY8BE5J"
       },
@@ -687,6 +667,26 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 206216,
+      "name": "Bar de corazones rotos",
+      "url": "https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
         "name": "Tu Falta De Querer",
         "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "la del proceso",
-        "url": "https://open.spotify.com/album/5yvkLxj4WOM7PmG8p3cArY"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "la del proceso",
-      "url": "https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 156521,
       "name": "Chance",
       "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
+        "name": "la del proceso",
+        "url": "https://open.spotify.com/album/5yvkLxj4WOM7PmG8p3cArY"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "la del proceso",
+      "url": "https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
-        "name": "SEGUNDO INTENTO",
-        "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 191368,
-      "name": "SEGUNDO INTENTO",
-      "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
         "name": "MISI\u00d3N IMPOSIBLE",
         "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 166693,
       "name": "MISI\u00d3N IMPOSIBLE",
       "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
+        "name": "SEGUNDO INTENTO",
+        "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 191368,
+      "name": "SEGUNDO INTENTO",
+      "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
     },
     {
       "added_at": "2026-11-06 06:00:28",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-11-06 06:00:28",
       "album": {
+        "name": "QUIERO OLVIDARTE (Respuesta #1)",
+        "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 162099,
+      "name": "QUIERO OLVIDARTE - Respuesta #1",
+      "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
+    },
+    {
+      "added_at": "2026-11-06 06:00:28",
+      "album": {
         "name": "Desenamorando",
         "url": "https://open.spotify.com/album/1s66zIDfFrXy7vZ4R4CDm4"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 154937,
       "name": "Desenamorando",
       "url": "https://open.spotify.com/track/2UDwm7qs2Ud17BtNJezOb6"
-    },
-    {
-      "added_at": "2026-11-06 06:00:28",
-      "album": {
-        "name": "QUIERO OLVIDARTE (Respuesta #1)",
-        "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 162099,
-      "name": "QUIERO OLVIDARTE - Respuesta #1",
-      "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
     },
     {
       "added_at": "2026-11-06 06:00:28",

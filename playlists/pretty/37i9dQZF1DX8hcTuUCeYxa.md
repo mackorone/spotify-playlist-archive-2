@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Beaks
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,099 likes - 90 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,089 likes - 90 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [So Cold](https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [THIS IS A BREAKUP ALBUM](https://open.spotify.com/album/5e3pF5WJ0XizD1TZUaZRY8) | 3:25 |
 | 90 | [Crickets](https://open.spotify.com/track/1imqari7uRLNriUvnPzdUb) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Crickets](https://open.spotify.com/album/2pkSK72orCWiROaiXtg6tN) | 2:48 |
 
-Snapshot ID: `AAAAAO6huWF9XNpKCOb4vUKELYVA5q0M`
+Snapshot ID: `AAAAAJxk+13wcxlEJowujKjc1UpUmrGs`

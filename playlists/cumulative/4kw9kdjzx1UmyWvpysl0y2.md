@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,339 songs - 3 day 2 hr 12 min
+1,340 songs - 3 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,6 +827,7 @@
 | [Norte](https://open.spotify.com/track/6mwupa00mKosHnA2Yadp1u) | [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe), [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8) | [Norte](https://open.spotify.com/album/1GvvFHVDmXb6sVwDaJhliB) | 3:24 | 2023-07-04 | 2023-09-26 |
 | [Northern Lights](https://open.spotify.com/track/2Z7mgegx1cKi8UoMOFHEIl) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Northern Lights](https://open.spotify.com/album/7sVsz8n71bg6rA1uON2DzU) | 3:06 | 2022-06-21 | 2022-09-07 |
 | [Not Alone](https://open.spotify.com/track/1P1ffwyNHcTVNisfPj7VZd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6) | [Not Alone](https://open.spotify.com/album/56BxdRTc1g4MEO0Tqx0vLZ) | 3:08 | 2025-06-20 | 2025-09-19 |
+| [NOT ANOTHER LOVE SONG](https://open.spotify.com/track/2iuyhZ4LYo82yYHBE0fthZ) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [NOT ANOTHER LOVE SONG](https://open.spotify.com/album/2ROgoSKr1XZzCzfsD2KCnw) | 3:06 | 2026-11-18 |  |
 | [Not My Night](https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Not My Night](https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7) | 3:22 | 2024-02-28 | 2024-05-21 |
 | [NOT THE ONE](https://open.spotify.com/track/1zT5ymdKPYUJBNLa85FIBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Kelly Paige](https://open.spotify.com/artist/55gmpteNh4JYsHglV3aQeD) | [NOT THE ONE](https://open.spotify.com/album/6fMyp6cpXpQDq5dZ2cRBuY) | 2:27 | 2023-09-26 | 2024-01-11 |
 | [Nothin On You](https://open.spotify.com/track/1yhjOPo2WSZHL32MrTxk4B) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Nothin On You](https://open.spotify.com/album/1Nu4WHbLLaD6jbvV4G2BSs) | 3:03 | 2024-04-04 | 2024-06-22 |

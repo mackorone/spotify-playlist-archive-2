@@ -504,7 +504,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 187679,
       "name": "Are You Impressed?",
       "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 203506,
       "name": "Call It What You Want",
       "url": "https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme"
@@ -1974,6 +1974,28 @@
       "duration_ms": 237567,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
+    },
+    {
+      "album": {
+        "name": "SMILE! :D plus+",
+        "url": "https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220588,
+      "name": "Cheerleader - Nitepunk Remix",
+      "url": "https://open.spotify.com/track/5FWnK7XmjrzXLUWzs534YT"
     },
     {
       "album": {
@@ -3549,6 +3571,28 @@
     },
     {
       "album": {
+        "name": "SMILE! :D plus+",
+        "url": "https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450461,
+      "name": "Everything To Me - jamesjamesjames Remix",
+      "url": "https://open.spotify.com/track/55ctAyU5xiA9SlvGP5BF3G"
+    },
+    {
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -3798,7 +3842,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 164693,
       "name": "Felt Good About You",
       "url": "https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg"
@@ -6038,6 +6082,28 @@
       "duration_ms": 199668,
       "name": "Is There Really No Happiness?",
       "url": "https://open.spotify.com/track/59BNro4EvYBdUzW8SKvvl8"
+    },
+    {
+      "album": {
+        "name": "SMILE! :D plus+",
+        "url": "https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376615,
+      "name": "Is There Really No Happiness? - Frost Children Remix",
+      "url": "https://open.spotify.com/track/6iXAhlrnNaDDtlSTYDknex"
     },
     {
       "album": {
@@ -9400,7 +9466,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 190690,
       "name": "Pink Clouding",
       "url": "https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm"
@@ -10232,6 +10298,28 @@
       "duration_ms": 388800,
       "name": "Russian Roulette",
       "url": "https://open.spotify.com/track/3RdUgst4llmyJkVtNaqHGv"
+    },
+    {
+      "album": {
+        "name": "SMILE! :D plus+",
+        "url": "https://open.spotify.com/album/7aPEoTeFJSI5TrMqlPRmUK"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "G Jones",
+          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307317,
+      "name": "Russian Roulette - G Jones Remix",
+      "url": "https://open.spotify.com/track/5yWkhdMm2B2z5zroAbUjMD"
     },
     {
       "album": {
@@ -11786,7 +11874,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 267653,
       "name": "The Story Of Us (Taylor's Version)",
       "url": "https://open.spotify.com/track/6dTA6y0C2ReQklntzZl8l3"

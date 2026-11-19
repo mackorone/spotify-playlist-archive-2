@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[Nuvora](https://open.spotify.com/user/11141650175) - 550 likes - 68 songs - 3 hr 48 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 551 likes - 78 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,15 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 66 | [Only You](https://open.spotify.com/track/1to598ncuGEkEMBGNjRgNH) | [Nextwiz](https://open.spotify.com/artist/2gGbRpLBJdowgabVseT8T6) | [Only You](https://open.spotify.com/album/4L81XMSjIghfPIKWKyBUcL) | 2:24 |
 | 67 | [Aroma](https://open.spotify.com/track/2N0aP05rGVpXqclBZLkR3P) | [Surepass](https://open.spotify.com/artist/0Uq97aadinVaT4T9xuGJiJ) | [Aroma](https://open.spotify.com/album/1oVWhSfmNE436JCCyYI3kI) | 4:14 |
 | 68 | [Clean Lead](https://open.spotify.com/track/1ryD9G6qt5KWPcdhGGS691) | [Daniel Joseph Chiasson](https://open.spotify.com/artist/75rcoZN43VsmGiFeqewZnK) | [Clean Lead](https://open.spotify.com/album/4PP7j2VfZwT5Pwh5l4UVBW) | 2:19 |
+| 69 | [My Heart](https://open.spotify.com/track/0h9MHHXNrbobjDWlS1dgYD) | [Golola Abel](https://open.spotify.com/artist/5pujsTjQLfdg8qXgp9SFiY) | [My Heart](https://open.spotify.com/album/2auNT1F2V05Xl6PgFbLr5W) | 2:47 |
+| 70 | [The Difference between River and Sea](https://open.spotify.com/track/75TtxVjmieAffVmJuiGZld) | [Mathys](https://open.spotify.com/artist/65GHiAw4hvk57ALNhrr55v) | [The Difference between River and Sea](https://open.spotify.com/album/3NIMRFVYxBzyja8YQ8WHYo) | 3:03 |
+| 71 | [Forever On](https://open.spotify.com/track/5OVNRc3X5SiSkeE78aFrrV) | [Martin Zeidner](https://open.spotify.com/artist/4kS92sKZXEchAsMWeD30Nx), [BELAURA](https://open.spotify.com/artist/1ddTb0R7qgr6Z7tN1qsOvS) | [Forever On](https://open.spotify.com/album/409y1SPVAEU8KKBdKDIled) | 3:23 |
+| 72 | [casual](https://open.spotify.com/track/3mEoMu6dTnndwmYSWsInpY) | [Valliore](https://open.spotify.com/artist/4qMBxQpHTs5PDjge4CgzOu) | [casual](https://open.spotify.com/album/4pdUPQqW5sjzGJ5oRzdrYN) | 3:22 |
+| 73 | [MURDERING THE SYLLABLE’S](https://open.spotify.com/track/6mu7tklHD6IZlAO4sS8hbP) | [BLK\_L5TR](https://open.spotify.com/artist/14vFNlRA42CxFTXqAtoFrh) | [The BlackList Paradox](https://open.spotify.com/album/7nDPinWSnu7gNgBQA6cXMG) | 3:08 |
+| 74 | [PROGRESO REMIX](https://open.spotify.com/track/4H083tNc1LI4DBmFIKW5V0) | [Bruno Dos Santos](https://open.spotify.com/artist/4ERwO1fYD3cMBZ5KyLZQe9), [Carga NM](https://open.spotify.com/artist/0tktfEZlolh9juTbjOLUeL) | [PROGRESO REMIX](https://open.spotify.com/album/5mVAXVzX3DSBu6RgIRTAoT) | 2:19 |
+| 75 | [Michael DeSanta](https://open.spotify.com/track/1cd4grQsnjuDBgKETN0Exg) | [Tabonimous](https://open.spotify.com/artist/3VZBSUtpXk87yOL232rhfi), [HLMNSRA](https://open.spotify.com/artist/5LOQ7tMPOSQr1F9c6KR1d3) | [Michael DeSanta](https://open.spotify.com/album/29CcdgXhn1M3lwlYDi80HB) | 1:33 |
+| 76 | [Frenemy \- Remastered](https://open.spotify.com/track/3fWUBDVnpUx1Y5HBmbDhtj) | [K.king k.o.g](https://open.spotify.com/artist/2WYVc5e1ujeNvAbr47o91E) | [Frenemy](https://open.spotify.com/album/2lmI2odd7Esh92NsGs9zis) | 2:55 |
+| 77 | [N.S.T.F](https://open.spotify.com/track/1yC3svjr3WcPrmg9wtfDlJ) | [Pipe Silva](https://open.spotify.com/artist/3mrFWmteqD5ZFXeOB69ErT) | [N.S.T.F](https://open.spotify.com/album/6YWQdlhITRUsQ49fDsrKSH) | 2:41 |
+| 78 | [Mimi](https://open.spotify.com/track/5RGioDWuF0Jehyj4ixLJkg) | [Kan Did](https://open.spotify.com/artist/3RFy6N380sMiCNg3WIbwXL) | [Color of Feeling](https://open.spotify.com/album/2FoRbwEnZY3dq8ERQWgC56) | 2:48 |
 
-Snapshot ID: `AAACp1pU9GYIRRHjCdaVrVTp1As7inKJ`
+Snapshot ID: `AAACsTF+bp5/hClKh2JmfBAh2ss22z/r`

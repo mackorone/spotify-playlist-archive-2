@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/41YL3HcXd3zTXa1rMZY5uR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 292 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/41YL3HcXd3zTXa1rMZY5uR.md) - [plain]
 | 34 | [Cool Jerk](https://open.spotify.com/track/1CQHMHRCDs1qioeseVTbaR) | [The Capitols](https://open.spotify.com/artist/2AYmrUFn1ATSfFSx3B4tvb) | [Dance The Cool Jerk](https://open.spotify.com/album/4tunfFO1SffujlRfanDyZI) | 2:46 |
 | 35 | [Born a Woman \- Rerecorded](https://open.spotify.com/track/7iE2mwAifITlhmrcTrP79Y) | [Sandy Posey](https://open.spotify.com/artist/5Xh0e6sCvMXJUNVa4oynvx) | [The Ultimate Sixties Collection](https://open.spotify.com/album/2CqYJbZzK4gOM33MtBoI6D) | 2:05 |
 | 36 | [Red Rubber Ball](https://open.spotify.com/track/6DuLN8tFW0DkH9wsbTHZsX) | [The Cyrkle](https://open.spotify.com/artist/4qnb4cn5aykCACoyuCirGg) | [Red Rubber Ball \(A Collection\)](https://open.spotify.com/album/4UTTI52aZrvCeozkd5QTYi) | 2:17 |
-| 37 | [B\-A\-B\-Y \- Rerecorded](https://open.spotify.com/track/5G0yuZQFmULNHQTbtwXasY) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [30 Soul Classics](https://open.spotify.com/album/0QmqZfc1jkLGwSUgtneqZU) | 2:46 |
+| 37 | [B\-A\-B\-Y \- Rerecorded](https://open.spotify.com/track/5G0yuZQFmULNHQTbtwXasY) | [Carla Thomas](https://open.spotify.com/artist/5DsIQ8fl2PKSJZTUG02lGs) | [30 Soul Classics](https://open.spotify.com/album/0QmqZfc1jkLGwSUgtneqZU) | 2:46 |
 | 38 | [Walk Away Renee](https://open.spotify.com/track/4wfK7KMFTFMNDDfKDe1aWi) | [The Left Banke](https://open.spotify.com/artist/382aCtCMEd2Rg2DmcU9xw9) | [There's Gonna Be A Storm \- The Complete Recordings 1966\-1969](https://open.spotify.com/album/4Tu1drZvE6VDoZNGBtYTVi) | 2:42 |
 | 39 | [Daydream](https://open.spotify.com/track/0tmaLDb6R98E2NgtBbUC4L) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Playlist: The Very Best Of The Lovin' Spoonful](https://open.spotify.com/album/1Q0o5H3fZ5KPxGHib5WltX) | 2:19 |
 | 40 | [Time Won't Let Me](https://open.spotify.com/track/6JNsyjmkn3wOETAmH295mZ) | [The Outsiders](https://open.spotify.com/artist/5Odrl8RJfCf0km0UaRI4cR) | [100 '60s Acid Flashbacks](https://open.spotify.com/album/5CwSOGEvmrlIn4l2Te0IPY) | 3:08 |

@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Emma Ogier season <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new substack ft Lizzy McAlpine & Mackeeper here\~</a>
+> Emma Ogier season <a href="https://loremandfriends.substack.com/p/sincerely\-and\-always\-forever"> plus \~new substack ft Heathers & Sammie Pearson here\~</a>
 
 4,086 songs - 9 day 8 hr 16 min
 
@@ -2572,7 +2572,7 @@
 | [ok](https://open.spotify.com/track/5ILHXmaeyzwt87dLAdPFo4) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [i like when you shine!](https://open.spotify.com/album/23ST3Q8FTi8lFWMiWoyOTf) | 2:40 | 2021-06-12 | 2021-08-14 |
 | [OK](https://open.spotify.com/track/0APAKxMXB7jdDs4kw1l30y) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [OK](https://open.spotify.com/album/6AMTezrkvSp7i1PqL0Mb7F) | 3:13 | 2020-03-21 | 2021-01-12 |
 | [OK \- with Remi Wolf & Solomonophonic](https://open.spotify.com/track/2LqczHHyVkIN9WlaQyFG1R) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Solomonophonic](https://open.spotify.com/artist/4Ino9RgrdzNW29Ycx3xxwU) | [OK \(with Remi Wolf & Solomonophonic\)](https://open.spotify.com/album/0MsM0ZsU68EiOBrwtt0Lbz) | 2:42 | 2021-02-06 | 2021-09-25 |
-| [Okay](https://open.spotify.com/track/587rz730zFUUkZ0JjLDLXU) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Okay](https://open.spotify.com/album/5Cl7gwqWUyZgHPrQnpMBtW) | 2:51 | 2026-10-30 |  |
+| [Okay](https://open.spotify.com/track/587rz730zFUUkZ0JjLDLXU) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Okay](https://open.spotify.com/album/5Cl7gwqWUyZgHPrQnpMBtW) | 2:51 | 2026-10-30 | 2026-11-19 |
 | [okay w/ that](https://open.spotify.com/track/1b1RqfCsTuJYIxNIUFcGas) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [okay w/ that](https://open.spotify.com/album/3VzAJcNdx0ofZSukjkKSVJ) | 2:17 | 2023-04-19 | 2023-05-06 |
 | [Old Recliners](https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:41 | 2025-02-26 | 2025-04-05 |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-14 | 2024-03-22 |

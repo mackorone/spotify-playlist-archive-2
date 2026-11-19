@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Keisha, Owen och Tove Lo med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,987 likes - 103 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,977 likes - 103 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 102 | [Hold On To Me, Pt\. 2](https://open.spotify.com/track/3Mk2FUYZiMSCINNmDQkiuN) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Hold On To Me, Pt\. 2](https://open.spotify.com/album/1qTgFDMsGG8FHQL55LXDur) | 2:46 |
 | 103 | [Flugan](https://open.spotify.com/track/2X8GvtXi2iNiGVsfLLoigI) | [Geisten](https://open.spotify.com/artist/1U2chDJ86rKbaiQ1cGmk8o) | [Flugan](https://open.spotify.com/album/3jqcOYqSc2HtI6iJznfIwd) | 3:41 |
 
-Snapshot ID: `AAAAAN/Fl0LZXG4bhhNHS5wSV1qGQjNC`
+Snapshot ID: `AAAAABFImP/J7PZFARVG5PX5AJU0llNB`

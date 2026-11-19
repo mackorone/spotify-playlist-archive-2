@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,339 likes - 121 songs - 7 hr 16 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,339 likes - 128 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,5 +129,12 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 119 | [Dans le noir](https://open.spotify.com/track/0fA5gZz5va2WQuZwL7eSTa) | [Ted Elemiah](https://open.spotify.com/artist/2oiaXAexlxP7mwR2AUGPMF) | [Dans le noir](https://open.spotify.com/album/4d74eRxCrxrk7naUe2ozRs) | 3:02 |
 | 120 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 |
 | 121 | [Baavra](https://open.spotify.com/track/6yUbQdKaqgbsDPh3G6gyDX) | [Samaksh](https://open.spotify.com/artist/1JvSsV27Zvlivwd0j6AtGn) | [Baavra](https://open.spotify.com/album/4ZJggP5hQ8NP22MqapAXig) | 5:30 |
+| 122 | [Bloom](https://open.spotify.com/track/2xsdhqoTr8gQEh8TZx9liy) | [Gerl Next Door](https://open.spotify.com/artist/3Lg67ISoRAMpYa7d3O6Pyi) | [Bloom](https://open.spotify.com/album/0XPHpxwLiUSsvwpv1yK9u4) | 5:31 |
+| 123 | [A Letter To God](https://open.spotify.com/track/27sPqFx4nYZO3oTaFAMiV2) | [Joe Scorza](https://open.spotify.com/artist/6b5cTvps5wIFbHnFWAFixd) | [A Letter To God](https://open.spotify.com/album/6xN3ciBYVlzPqANWY2SwME) | 5:24 |
+| 124 | [Narcisos](https://open.spotify.com/track/3LSJOhY0BCCfPvwLBbKy3H) | [Kamy](https://open.spotify.com/artist/2i03xVEyzsYwm84ifehJUS) | [Narcisos](https://open.spotify.com/album/2FnbIvZBheqlp9hrrjeYcK) | 2:47 |
+| 125 | [I Didn't Know](https://open.spotify.com/track/3rj9JlqrLZL31AvsNsGR73) | [DOXAN](https://open.spotify.com/artist/5X246ObvluQlKKfjS2nZVJ) | [I Didn't Know](https://open.spotify.com/album/7cD3e8gcpykLnwm9zRygEP) | 5:24 |
+| 126 | [Strength In The Love](https://open.spotify.com/track/2fDSv7s0g8i7yAIQlqPP72) | [Vicz GeoHam](https://open.spotify.com/artist/1t5itTb1ZUb5ToCBQR9V1R), [Lamiera Marsa](https://open.spotify.com/artist/3tjvt2MFGwpKkxcrub2VfT) | [Strength In The Love](https://open.spotify.com/album/4XGEiu2PDdtNIiXY5PToc0) | 2:01 |
+| 127 | [Applaus](https://open.spotify.com/track/4HsQyFK4PQLYxDJQEUHBeB) | [Jesse](https://open.spotify.com/artist/5nsgTvyEmAyvWJjmxprVt6) | [Applaus \(Deutsche Version\)](https://open.spotify.com/album/76mkY1IPVZE0dc5bQo9KIA) | 3:18 |
+| 128 | [Virtuel](https://open.spotify.com/track/1MMjv32wl370qJX7sZN14h) | [Mathieu Gattuso](https://open.spotify.com/artist/5R3q8fx3lfNhMCKugdiRBx) | [Des choses simples](https://open.spotify.com/album/7i6MpxUbl4jIuGnpN1NWMW) | 3:37 |
 
-Snapshot ID: `AAAZwUX71OaHfRFwsf86ZBtCagZj8e3T`
+Snapshot ID: `AAAZyODgVrWZo9q2Xd+w/jPUJ9zGlAZa`

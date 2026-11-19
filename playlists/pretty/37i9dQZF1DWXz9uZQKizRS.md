@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Kasia Sienkiewicz, Leszek Możdżer
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,578 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,581 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [Wpuść mnie](https://open.spotify.com/track/1vAFkLXkFq9ZedsVYrzesg) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ) | [Wpuść mnie](https://open.spotify.com/album/5KiqiHn6IyeYnDIImSf8Ss) | 3:42 |
 | 100 | [O NIEJ](https://open.spotify.com/track/1DLzOcjIvnYEyR1DZERsHM) | [Wiktoria Jakubowska](https://open.spotify.com/artist/03B9rUpfuSXCXbSS3OmFZG) | [O NIEJ](https://open.spotify.com/album/4Y2bVdedhnrGIftIIYPbAZ) | 3:26 |
 
-Snapshot ID: `AAAAAPCkdVVlJGZ2HfbDkzYKQxuk0lH5`
+Snapshot ID: `AAAAAM/4DplPp1vF5QsWdD46OWGlbPdT`

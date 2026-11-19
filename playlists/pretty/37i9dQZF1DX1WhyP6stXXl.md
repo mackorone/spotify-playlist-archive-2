@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Kings Elliot
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,241 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,203 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 89 | [Upside Down](https://open.spotify.com/track/6T4ug8wsWpC8N8tJO4X31s) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [Upside Down](https://open.spotify.com/album/11HLVIOuiubtk9xnVGJMHZ) | 2:19 |
 | 90 | [Over It](https://open.spotify.com/track/0R7WrKRRA6NPgdUznhMmrN) | [Sonya](https://open.spotify.com/artist/4YOZK4SHcVKTlDSXvUbBiI) | [Over It](https://open.spotify.com/album/0y6G2bdQ8xMfG6HXyVSh46) | 2:34 |
 
-Snapshot ID: `AAAAAPeVnZ/hMxzU8LMWm0KiMKLhNc9l`
+Snapshot ID: `AAAAAF8TLRdIZqbeI1EdY+KnmA96TR1J`

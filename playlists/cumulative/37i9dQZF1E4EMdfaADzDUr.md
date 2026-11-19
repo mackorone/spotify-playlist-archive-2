@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With Douran, winterburn, BIRRD and more
+> With Douran, winterburn, Mokado and more
 
 403 songs - 1 day 7 hr 2 min
 

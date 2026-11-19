@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Tyler Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,912 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,905 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [Sitting Around](https://open.spotify.com/track/3xF3akBcgGqcLIjsNnVRnG) | [Sons Of Atticus](https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g) | [On The Way](https://open.spotify.com/album/36TTGxdyqzNcre4OWQsmfD) | 3:52 |
 | 50 | [Little Red Number](https://open.spotify.com/track/2kdc0dTPGGhfOrdznE9hpB) | [TheWesternGuide](https://open.spotify.com/artist/3Ps1KUmU2DZIpboms9Bozn) | [Little Red Number](https://open.spotify.com/album/5IqQuDDu0dA9HhvScKUgb3) | 3:28 |
 
-Snapshot ID: `AAAAALe2Wqqv06uwD3hlZXrB+eeqvVzC`
+Snapshot ID: `AAAAAG6IZ8zL2rxzuqPe4UNJjpY0FVts`

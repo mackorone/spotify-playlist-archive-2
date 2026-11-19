@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: IDIOTAPE\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: sunwoojunga\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,420 songs - 3 day 14 hr 6 min
+1,421 songs - 3 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [A Long Dream](https://open.spotify.com/track/2LQJZcCEfTG1v087gaaMMj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/41NYtKrSofLWaxOZNs1Atb) | 4:18 | 2025-04-11 | 2025-07-24 |
 | [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 | 2022-07-27 | 2024-04-19 |
 | [A long goodbye \(with jangheewon\)](https://open.spotify.com/track/061Ux23ax9kBY7WnrwZJEi) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [A long goodbye \(with jangheewon\)](https://open.spotify.com/album/6CpMftwOS947ubCDQaTodv) | 3:28 | 2025-03-04 | 2025-04-11 |
+| [A Long Walk](https://open.spotify.com/track/51E7iHowmkvPBSJ89YG6JF) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [A Long Walk](https://open.spotify.com/album/07gI9IfiaXTCCqCjv3OT6z) | 5:00 | 2026-11-18 |  |
 | [A Love Cliche](https://open.spotify.com/track/2UeMHseXwiwB4zpdAIy0DY) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [A Love Cliche](https://open.spotify.com/album/1HzfxIBaNo2V7ECZaDQ3FV) | 2:27 | 2026-03-09 | 2026-04-23 |
 | [a particular thing 별일 \(feat\. Parc Jae Jung\)](https://open.spotify.com/track/3SfGwHuSbRkawRw7PFI81n) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Rotary](https://open.spotify.com/album/7CbrplovlgNSO5Qo8X7sVa) | 4:20 | 2022-04-12 | 2022-04-21 |
 | [a plumber](https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [a plumber](https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN) | 3:29 | 2026-03-30 | 2026-05-20 |
@@ -1227,7 +1228,7 @@
 | [Train](https://open.spotify.com/track/2sC2MG2UB374acOg0Ltidg) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 3:58 | 2025-01-30 | 2025-04-11 |
 | [Treat You Right 사랑해줄래](https://open.spotify.com/track/4czJNPeQ4afZ00Vf779e2b) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Treat You Right 사랑해줄래](https://open.spotify.com/album/2InpzXMQUzTPoMFK1bIKN7) | 3:25 | 2022-03-31 | 2022-04-29 |
 | [Tree \(Feat\. Eily\)](https://open.spotify.com/track/09M5Yrj4L4wnJsB2A57kiB) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/6mkDOz32DQrnbO6uwCLSdD) | [Tree](https://open.spotify.com/album/7K8YzXvTz5vOfLiRmgqH9J) | 3:43 | 2021-12-21 | 2022-07-24 |
-| [TRUE](https://open.spotify.com/track/1tmPJxylPJLlhMOYz9auVB) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [homs](https://open.spotify.com/artist/4jb43XkP3Qog5XuO1LZMgF) | [LESS](https://open.spotify.com/album/7DJZnatOQB6yjFcokph4A2) | 4:49 | 2026-07-09 |  |
+| [TRUE](https://open.spotify.com/track/1tmPJxylPJLlhMOYz9auVB) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [homs](https://open.spotify.com/artist/4jb43XkP3Qog5XuO1LZMgF) | [LESS](https://open.spotify.com/album/7DJZnatOQB6yjFcokph4A2) | 4:49 | 2026-07-09 | 2026-11-19 |
 | [Truthbuster](https://open.spotify.com/track/31u7mbAxSEkG0Ap3EA3QCG) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe) | [Truthbuster](https://open.spotify.com/album/3VREd4I6QWnvDEhDbKVski) | 7:08 | 2025-11-05 | 2026-01-15 |
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-03-31 | 2022-04-10 |
 | [Tutorial](https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V) | [Fishingirls](https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI) | [Visible World](https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX) | 3:12 | 2024-03-15 | 2024-05-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Fena Gitu
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,866 likes - 64 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,865 likes - 64 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 | 4 | [Kesi](https://open.spotify.com/track/6b88irsnQDkjDIuDon4cT6) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Kesi](https://open.spotify.com/album/6ApURyqGTLmG6pVyDbX60Z) | 2:56 |
 | 5 | [Nobody Wins, Nobody Loses](https://open.spotify.com/track/0lnKFCwc4gDI80UgPpHXZ8) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Mike Kayihura](https://open.spotify.com/artist/1e7dlKRUPBONWcKciTGE4I) | [Flight 420](https://open.spotify.com/album/252QK56qOf7nmIyZcICKa2) | 4:34 |
 | 6 | [Sele](https://open.spotify.com/track/0skDN5BlwyGLNvGeoiU77e) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Sele](https://open.spotify.com/album/0UsBJozBw2Ao77AEZjAloT) | 3:22 |
-| 7 | [Sifa](https://open.spotify.com/track/7xGkkQZAQb3mZxhXVPEtob) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Sifa](https://open.spotify.com/album/1jzurAV6Av10Zwq9Ov7fPx) | 2:46 |
+| 7 | [Sifa](https://open.spotify.com/track/7xGkkQZAQb3mZxhXVPEtob) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Sifa](https://open.spotify.com/album/1jzurAV6Av10Zwq9Ov7fPx) | 3:06 |
 | 8 | [Champagne](https://open.spotify.com/track/1LxaeyQLY3c4fMEdDqnIsK) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN) | [Champagne](https://open.spotify.com/album/1VopaZWmtRPhey0P3OWysV) | 3:00 |
 | 9 | [BLOW](https://open.spotify.com/track/4pk9OFnhaYFPKJay9EqYCm) | [Sparker Domani Mkadinali](https://open.spotify.com/artist/0GxeHzp1DVah72qyawX4GE), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [BLOW](https://open.spotify.com/album/2wr2yUfPHB6cRG5OuQiRsj) | 3:41 |
 | 10 | [Mniache Nimpende](https://open.spotify.com/track/5W1CrosJ4JWwgBzn7D3zsx) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Wingu la Mapenzi](https://open.spotify.com/album/1lOe5Rc4WwPxnV3puNMPkx) | 2:40 |

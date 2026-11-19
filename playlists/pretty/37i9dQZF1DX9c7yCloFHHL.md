@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The newest in Ambient music and the sounds it explores beyond\. <br/>On the cover: KatzPascale
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,578 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,636 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Weather Melody](https://open.spotify.com/track/1t0n85KzvJofpC76xnmdjM) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cyano](https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu) | 4:11 |
 | 100 | [First Departure](https://open.spotify.com/track/6PthvT7olgWykKpbqTKY8i) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [First Departure](https://open.spotify.com/album/7kDpOFqODXCfCazH9Nky68) | 2:15 |
 
-Snapshot ID: `AAAAAF71I/omXajtrHfj9GhCehEjFDdA`
+Snapshot ID: `AAAAAAWbTUpK8/WqeHlooRCHbsp0XHC5`

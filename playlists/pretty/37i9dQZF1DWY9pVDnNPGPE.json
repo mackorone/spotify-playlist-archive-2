@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12260,
+  "num_followers": 12263,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/6W5maKueRWuKffmaMfXUjp"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4oBIqV6T0FmTWUtnHQCOEc"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
         "name": "HAAN X Chan : Synergy",
         "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 194625,
       "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
       "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/6W5maKueRWuKffmaMfXUjp"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4oBIqV6T0FmTWUtnHQCOEc"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -507,18 +507,18 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "KOMOREBI",
-        "url": "https://open.spotify.com/album/2fWlmQJhqLXdd3e9cOndKG"
+        "name": "Q",
+        "url": "https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT"
       },
       "artists": [
         {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 266913,
-      "name": "Kids Return",
-      "url": "https://open.spotify.com/track/0BmbgguZiYGf7FmuFwGp4o"
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT"
+        "name": "KOMOREBI",
+        "url": "https://open.spotify.com/album/2fWlmQJhqLXdd3e9cOndKG"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         }
       ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg"
+      "duration_ms": 266913,
+      "name": "Kids Return",
+      "url": "https://open.spotify.com/track/0BmbgguZiYGf7FmuFwGp4o"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
+    },
+    {
+      "added_at": "2026-11-03 06:24:03",
+      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
-    },
-    {
-      "added_at": "2026-11-03 06:24:03",
-      "album": {
-        "name": "FRR",
-        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "ANYWHERE ANYTIME",
-      "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
     },
     {
       "added_at": "2026-11-03 06:24:03",
@@ -851,26 +851,18 @@
     {
       "added_at": "2026-11-03 06:24:03",
       "album": {
-        "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544",
-        "url": "https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb"
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
       },
       "artists": [
         {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        },
-        {
-          "name": "Jayci yucca",
-          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
         }
       ],
-      "duration_ms": 182833,
-      "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544 (Feat. Jayci yucca)",
-      "url": "https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk"
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
     }
   ],
   "unique_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",

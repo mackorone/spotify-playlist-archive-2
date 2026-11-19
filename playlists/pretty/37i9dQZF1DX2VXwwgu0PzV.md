@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. Cover: Princeton South
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,416 likes - 122 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,412 likes - 122 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 121 | [God Alone](https://open.spotify.com/track/6a8NzydorMVCGuPtpYHu2x) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Yusuf Fist](https://open.spotify.com/artist/39r5htdRsiGJajqY6je43G), [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS) | [God Alone](https://open.spotify.com/album/1cx10QcKVdRwnTfkwYM4ha) | 3:00 |
 | 122 | [UNYIELDED](https://open.spotify.com/track/5QeO1X840dR7hAIXuVyGNn) | [Emino Music](https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a), [Joebee](https://open.spotify.com/artist/2G7eSWBy0QnGT1Ot6HUbP1), [Mckelv](https://open.spotify.com/artist/1hp89EeuCGUjpcEzqAFWia), [J3:16](https://open.spotify.com/artist/5KL8TE5kpFXmPqm3i3Les5) | [UNYIELDED](https://open.spotify.com/album/3S6k4Va4McwLaSTI1qNHfq) | 2:29 |
 
-Snapshot ID: `AAAAADF6TyNt7l2y2Q4E9QeBig9I8xGh`
+Snapshot ID: `AAAAAAO/3eJMdfWEiAQcQQdUHQlQHed9`

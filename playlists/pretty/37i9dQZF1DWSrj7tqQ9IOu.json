@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois d'Octobre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Snoh Aalegra",
-  "num_followers": 401041,
+  "num_followers": 401031,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Octobre 2026",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2026-10-31 23:00:12",
       "album": {
+        "name": "La Falda",
+        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "La Falda",
+      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
+    },
+    {
+      "added_at": "2026-10-31 23:00:12",
+      "album": {
         "name": "Dopamine Chamber",
         "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 316003,
       "name": "Where Is Gone?",
       "url": "https://open.spotify.com/track/79qjt8xBRaIZfBzthXsI4D"
-    },
-    {
-      "added_at": "2026-10-31 23:00:12",
-      "album": {
-        "name": "La Falda",
-        "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "La Falda",
-      "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
     },
     {
       "added_at": "2026-10-31 23:00:12",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-10-31 23:00:12",
       "album": {
-        "name": "Blackstar",
-        "url": "https://open.spotify.com/album/0eZCS0HQphhj78HVDYEV0v"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        },
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Blackstar",
-      "url": "https://open.spotify.com/track/3GbhZOGi7PIDNhtTlPHPk2"
-    },
-    {
-      "added_at": "2026-10-31 23:00:12",
-      "album": {
         "name": "APPELLE LA POLICE (feat. Theodora)",
         "url": "https://open.spotify.com/album/1K8INSckfNLaLTFkgQlTQs"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 154626,
       "name": "APPELLE LA POLICE (feat. Theodora)",
       "url": "https://open.spotify.com/track/4sN7Kg50VWeDEmRhBONe9i"
+    },
+    {
+      "added_at": "2026-10-31 23:00:12",
+      "album": {
+        "name": "Blackstar",
+        "url": "https://open.spotify.com/album/0eZCS0HQphhj78HVDYEV0v"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        },
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Blackstar",
+      "url": "https://open.spotify.com/track/3GbhZOGi7PIDNhtTlPHPk2"
     },
     {
       "added_at": "2026-10-31 23:00:12",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-10-31 23:00:12",
       "album": {
-        "name": "Plus rien ne m'\u00e9tonne (Partager le monde)",
-        "url": "https://open.spotify.com/album/62l59GYI179OIDENsm93wr"
-      },
-      "artists": [
-        {
-          "name": "Dinaa",
-          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Plus rien ne m'\u00e9tonne (Partager le monde)",
-      "url": "https://open.spotify.com/track/3PAISi9AWltKfvhnwfJf17"
-    },
-    {
-      "added_at": "2026-10-31 23:00:12",
-      "album": {
         "name": "Photos au mur",
         "url": "https://open.spotify.com/album/6sAWUdypDkS7q4nXVisEM3"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 152024,
       "name": "Photos au mur",
       "url": "https://open.spotify.com/track/3hGwCNRgA8BkV0TzbVGwi7"
+    },
+    {
+      "added_at": "2026-10-31 23:00:12",
+      "album": {
+        "name": "Plus rien ne m'\u00e9tonne (Partager le monde)",
+        "url": "https://open.spotify.com/album/62l59GYI179OIDENsm93wr"
+      },
+      "artists": [
+        {
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Plus rien ne m'\u00e9tonne (Partager le monde)",
+      "url": "https://open.spotify.com/track/3PAISi9AWltKfvhnwfJf17"
     },
     {
       "added_at": "2026-10-31 23:00:12",

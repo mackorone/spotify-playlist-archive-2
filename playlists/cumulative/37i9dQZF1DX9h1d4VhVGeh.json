@@ -1808,13 +1808,13 @@
       },
       "artists": [
         {
-          "name": "Emel",
+          "name": "EMEL",
           "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
         }
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 286424,
       "name": "Holm",
       "url": "https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx"
@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 264226,
       "name": "Osad Einy",
       "url": "https://open.spotify.com/track/7si84DsIQQfMKajYl0AwY4"

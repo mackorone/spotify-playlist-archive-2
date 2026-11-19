@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con ZUCO OMG.",
-  "num_followers": 731023,
+  "num_followers": 730935,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClMINt1zohqDGWfvY+GBPhD3Ri7",
+  "snapshot_id": "AAAAAOiWYt+kjj+69VTeXYYTccRPw+JL",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:26",
@@ -279,6 +279,26 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
+        "name": "SAHUARO",
+        "url": "https://open.spotify.com/album/29lpRI9e86cYqrBxiDRzlD"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 312157,
+      "name": "SAHUARO",
+      "url": "https://open.spotify.com/track/3Hsq2yl5dAAs8Rq1Y2JNM4"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
         "name": "SE EST\u00c1 HACIENDO TARDE",
         "url": "https://open.spotify.com/album/4fl15gNIqVJKLGfwbnq0OB"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 117857,
       "name": "gaviotas de cristal",
       "url": "https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
-        "name": "SAHUARO",
-        "url": "https://open.spotify.com/album/29lpRI9e86cYqrBxiDRzlD"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        },
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 312157,
-      "name": "SAHUARO",
-      "url": "https://open.spotify.com/track/3Hsq2yl5dAAs8Rq1Y2JNM4"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "Here Because of Hope",
-        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 246386,
-      "name": "El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "midsummer pipe dream",
         "url": "https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 156952,
       "name": "midsummer pipe dream",
       "url": "https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "Here Because of Hope",
+        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "cool",
-        "url": "https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ"
-      },
-      "artists": [
-        {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
-        },
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 175760,
-      "name": "cool",
-      "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "aunquetelopida",
         "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 180631,
       "name": "aunquetelopida",
       "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "cool",
+        "url": "https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 175760,
+      "name": "cool",
+      "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/1SWoztqnHAcvlYPP9bUQyI"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "duration_ms": 155134,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5C2G9fJkUplRPY4aEOMgoI"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
         "name": "Delicately",
         "url": "https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "Mentirasmentiras",
         "url": "https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef"
       },
@@ -1075,34 +1075,18 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/1SWoztqnHAcvlYPP9bUQyI"
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
       },
       "artists": [
         {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
         }
       ],
-      "duration_ms": 155134,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/5C2G9fJkUplRPY4aEOMgoI"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
-        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
-        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
-      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
+      "duration_ms": 170500,
+      "name": "Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1119,6 +1103,22 @@
       "duration_ms": 206366,
       "name": "miau",
       "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
+        "name": "I can fix him",
+        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "I can fix him",
+      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
         "name": "Pick Me",
         "url": "https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0"
       },
@@ -1195,18 +1211,22 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "I can fix him",
-        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+        "name": "What Do You Want",
+        "url": "https://open.spotify.com/album/6uJ3tYCQp2gcQS0Lw5t6Bp"
       },
       "artists": [
         {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 184893,
-      "name": "I can fix him",
-      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
+      "duration_ms": 166579,
+      "name": "What Do You Want",
+      "url": "https://open.spotify.com/track/6822K96wjJEyKelFeVvi1s"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1227,26 +1247,6 @@
       "duration_ms": 235906,
       "name": "creiziiii",
       "url": "https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
-        "name": "What Do You Want",
-        "url": "https://open.spotify.com/album/6uJ3tYCQp2gcQS0Lw5t6Bp"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 166579,
-      "name": "What Do You Want",
-      "url": "https://open.spotify.com/track/6822K96wjJEyKelFeVvi1s"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "Cama",
-        "url": "https://open.spotify.com/album/4fNiB7iZynQtMVMOh03A16"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Cama",
-      "url": "https://open.spotify.com/track/0nVYjNsfKAxIrUaHpyzpBR"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "HEELS",
         "url": "https://open.spotify.com/album/71rtTy8h2jolJcjzvHw87S"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 151532,
       "name": "HEELS",
       "url": "https://open.spotify.com/track/6cpKM8UHziDY4mbOEZFTZ2"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "Cama",
+        "url": "https://open.spotify.com/album/4fNiB7iZynQtMVMOh03A16"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Cama",
+      "url": "https://open.spotify.com/track/0nVYjNsfKAxIrUaHpyzpBR"
     },
     {
       "added_at": "2026-11-06 05:00:26",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-11-06 05:00:26",
       "album": {
-        "name": "a girl like me",
-        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        }
-      ],
-      "duration_ms": 169446,
-      "name": "a girl like me",
-      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
-    },
-    {
-      "added_at": "2026-11-06 05:00:26",
-      "album": {
         "name": "Falta Algo",
         "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 203127,
       "name": "Falta Algo",
       "url": "https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f"
+    },
+    {
+      "added_at": "2026-11-06 05:00:26",
+      "album": {
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 169446,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
     },
     {
       "added_at": "2026-11-06 05:00:26",

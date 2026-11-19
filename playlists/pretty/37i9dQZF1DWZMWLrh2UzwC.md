@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Kmy Kmo, Luca Sickta,  Khai Bahar, Sarah Suhairi, Ella Langley, ATEEZ, LNGSHOT, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,414 likes - 107 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,406 likes - 107 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

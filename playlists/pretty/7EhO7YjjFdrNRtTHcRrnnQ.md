@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EhO7YjjFdrNRtTHcRrnnQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 303 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 302 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/7EhO7YjjFdrNRtTHcRrnnQ.md) - [plain]
 | 11 | [Calcutta](https://open.spotify.com/track/6G43xPTXl0zVgTajZMhW0y) | [Lawrence Welk](https://open.spotify.com/artist/2GMH35k5oLCjzYpn5HbaD8) | [Gold Pop Hits, Vol\. 1](https://open.spotify.com/album/40Yzx8QGyYyke893SEqY5m) | 2:12 |
 | 12 | [Take Good Care Of My Baby](https://open.spotify.com/track/19ZAI2LNUDj8TVpA6GwVWS) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Very Best Of](https://open.spotify.com/album/7d0HZUrDOmRKEzHvJv3ITe) | 2:40 |
 | 13 | [Running Scared](https://open.spotify.com/track/3aVE8eVqfZrGapoJlZxwIY) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Soul of Rock and Roll](https://open.spotify.com/album/6VRhs2rkIAiREYXkVBAznF) | 2:11 |
-| 14 | [Dedicated to the One I Love \(Rerecorded\)](https://open.spotify.com/track/365aSqfttyHcCsUZyJqVlg) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:16 |
+| 14 | [Dedicated to the One I Love \- Rerecorded](https://open.spotify.com/track/365aSqfttyHcCsUZyJqVlg) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:16 |
 | 15 | [Last Night \- Single/](https://open.spotify.com/track/6oAOIKatIRmIrHgKJUq3Pn) | [The Mar\-Keys](https://open.spotify.com/artist/4EYRKWX3RvHihDHDr8TocR) | [Stax\-Volt: The Complete Singles 1959\-1968](https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH) | 2:37 |
-| 16 | [Will You Love Me Tomorrow \(Rerecorded\)](https://open.spotify.com/track/3k0Ow4RdqhAi9Xi4hymx2j) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:36 |
+| 16 | [Will You Love Me Tomorrow \- Rerecorded](https://open.spotify.com/track/3k0Ow4RdqhAi9Xi4hymx2j) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:36 |
 | 17 | [Exodus](https://open.spotify.com/track/4pKUJwmq9mYcs1KNUsqAHH) | [Ernest Gold](https://open.spotify.com/artist/41SzGMVZclC44YTVneXHlE), [Charles Eugene Patrick Boone](https://open.spotify.com/artist/6nqkjhZ5YWO4AKDD2wHXMq), [Ferrante & Teicher](https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB) | [All\-Time Great Movie Themes](https://open.spotify.com/album/2p2qPa5OyxOHLZM0ti8nmL) | 2:56 |
 | 18 | [Where The Boys Are](https://open.spotify.com/track/6N3LlP0e7sWkNaTw8aXEnX) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [20th Century Masters: The Millennium Collection: Best of Connie Francis](https://open.spotify.com/album/3B3SalHPlLiQvwftRPYXcN) | 2:39 |
 | 19 | [Hit The Road Jack](https://open.spotify.com/track/3otXVqKkFcmc8gics3zxVS) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Hit The Road Jack and Don't You Come Back](https://open.spotify.com/album/2BrLSZzr3ryjGOhY75G9Ne) | 1:58 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/7EhO7YjjFdrNRtTHcRrnnQ.md) - [plain]
 | 41 | [Daddys Home](https://open.spotify.com/track/0uTWICEvYa78HlUyt5JbUU) | [Shep And The Limelites](https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf) | [Oldies But Goodies](https://open.spotify.com/album/1PfyeXVGmSGjhbUoWekrLD) | 2:56 |
 | 42 | [This Time](https://open.spotify.com/track/5hqNWobmQ9yYtIuEbcoS7w) | [Troy Shondell](https://open.spotify.com/artist/4R3U54HaBxqbw1ey5lMcXQ) | [Golden Hits forever V5](https://open.spotify.com/album/7aDs155Ps2HI81WIrqQ6Oh) | 2:38 |
 | 43 | [\(I Don’t Know Why\) But I Do](https://open.spotify.com/track/3DrHuyEwZ93vQFgDltpauz) | [Clarence "Frogman" Henry](https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf) | [Golden Hits forever V6](https://open.spotify.com/album/59AvmMCslqiSj8qz3Y5vEo) | 2:21 |
-| 44 | [Asia Minor \(Rerecorded\)](https://open.spotify.com/track/4uNAdFLTuiIhDtbZsq31Og) | [Kokomo](https://open.spotify.com/artist/00FrqfQ1NB4Dlr10yUP4Hr) | [60's Super Hits](https://open.spotify.com/album/5S5TwSmNCvK8ttbDLyA32d) | 1:58 |
+| 44 | [Asia Minor \- Rerecorded](https://open.spotify.com/track/4uNAdFLTuiIhDtbZsq31Og) | [Kokomo](https://open.spotify.com/artist/00FrqfQ1NB4Dlr10yUP4Hr) | [60's Super Hits](https://open.spotify.com/album/5S5TwSmNCvK8ttbDLyA32d) | 1:58 |
 | 45 | [Hello Walls](https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:26 |
 | 46 | [Runaround Sue \- Remastered 1991](https://open.spotify.com/track/6AL6Wbn1xA3R86vAvuiho5) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:39 |
 | 47 | [Yellow Bird](https://open.spotify.com/track/2vLDQqTeIGJsShqHOt4yUx) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Greatest Hits Of Arthur Lyman Taboo](https://open.spotify.com/album/0cVVclcFM23MjZi5eyE0YV) | 2:44 |

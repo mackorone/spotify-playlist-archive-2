@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: KatzPascale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,230 likes - 200 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,193 likes - 200 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [Summer Clothes](https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Summer Clothes](https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3) | 4:25 |
 | 200 | [Hands Tied](https://open.spotify.com/track/7a7hhyTY8lO92eW3M2GJPF) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Hands Tied](https://open.spotify.com/album/0SA7BPPq03hz256PIrkoai) | 3:07 |
 
-Snapshot ID: `AAAAAO0TekHosKpN04ocCxOMe2nsUjBZ`
+Snapshot ID: `AAAAAP5Zx9Dx7KXFSC9LoQVQbOLevSDh`

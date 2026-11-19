@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 愛探眼影
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,820 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,823 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 35 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
 | 36 | [ghost](https://open.spotify.com/track/5WNtFDwIEtERupcwKNtkGf) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [ghost](https://open.spotify.com/album/7aMrWWka6UV78xixmf0wFp) | 4:14 |
 | 37 | [SENSOR](https://open.spotify.com/track/1TckNweBAiRQSDnIp0MjrL) | [0am](https://open.spotify.com/artist/5y1AqWocona4stBLsBw1UJ) | [SENSOR](https://open.spotify.com/album/6lqig2QYzd9UXSUuxWN2YV) | 3:09 |
-| 38 | [Yellow & Brown](https://open.spotify.com/track/52cu32QqzTjPX7TqU0bA0X) | [日本人とバングラデシュ人](https://open.spotify.com/artist/0KAmvGx6SOKhEgiWCONHjk), [十明](https://open.spotify.com/artist/4UsXOyf6HA5f0a7xxNBz07) | [TRAFFIC](https://open.spotify.com/album/0WmhwA4zgmhZsiaSzP1QLY) | 3:57 |
+| 38 | [Yellow & Brown](https://open.spotify.com/track/52cu32QqzTjPX7TqU0bA0X) | [日本人とバングラデシュ人](https://open.spotify.com/artist/0KAmvGx6SOKhEgiWCONHjk), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [TRAFFIC](https://open.spotify.com/album/0WmhwA4zgmhZsiaSzP1QLY) | 3:57 |
 | 39 | [JOY](https://open.spotify.com/track/2TiKWRaDvqx1wyYXbiHyOn) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [JOY](https://open.spotify.com/album/0AahTtW7nPj8HL63sRYrWL) | 3:57 |
 | 40 | [迷える人間](https://open.spotify.com/track/5dt7ixsiWzzkJCIWlth6vm) | [Laiqa](https://open.spotify.com/artist/1Y7vUMFtK3EfXMFl8GXRcV) | [Me for Me](https://open.spotify.com/album/7JoFQZg5IJE9xyEzt2xbWL) | 3:17 |
 | 41 | [Bluevery Pie](https://open.spotify.com/track/5axfDTO01Z591nCacah4D9) | [CHITAA](https://open.spotify.com/artist/4z8Y3sfzTn9BOWachQUa9J) | [Youngirl](https://open.spotify.com/album/57V6mOr1HGQ1wFUxD9Dscw) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [つまらないただのブス](https://open.spotify.com/track/6AsIU1wGEsCZXuXisOKF8k) | [ニューアヤカ](https://open.spotify.com/artist/46getVjNDmNPiQjvYtsIgb) | [つまらないただのブス](https://open.spotify.com/album/10PHju6eFbJHWh3eVO74XF) | 3:46 |
 | 80 | [全ての思い出よ消えずにそばにいて](https://open.spotify.com/track/70dKESqmOORP1V2knSKgBx) | [Easy Yoke](https://open.spotify.com/artist/7msnhjxANZZKUA9aafYwjh) | [全ての思い出よ消えずにそばにいて](https://open.spotify.com/album/3mIychMRt9SM69fgfylrk3) | 2:37 |
 
-Snapshot ID: `AAAAAA1jJ5LtmXbYw4sa3bd9I/pimSn7`
+Snapshot ID: `AAAAAOHI7kqi0O9Gqpz2+mvH0UpxAvnq`

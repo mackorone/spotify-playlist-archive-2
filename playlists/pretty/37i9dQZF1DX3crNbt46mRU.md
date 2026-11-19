@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Domiziana, DJ HEARTSTRING, SDM, LEA & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,334 likes - 97 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,335 likes - 97 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 96 | [UP](https://open.spotify.com/track/2DpMn9r9LPpa5PaR4XGFBP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.6](https://open.spotify.com/album/5UKj0Dge5ik5jw3JVjoxof) | 3:26 |
 | 97 | [u&me \(like always\)](https://open.spotify.com/track/3SVaWt6zGb4FjT2bsjJAZg) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [\#4a79b1](https://open.spotify.com/album/2ssGzNxnsZ9ZIpAEBT2nUz) | 2:15 |
 
-Snapshot ID: `AAAAAGTmV93pR/o7XpkS4IoAvevmLj/8`
+Snapshot ID: `AAAAADTUc19YpVrNvnubu79hddRzlyr2`

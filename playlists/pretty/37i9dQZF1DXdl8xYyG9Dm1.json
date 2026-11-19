@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Blaqbonez",
-  "num_followers": 233508,
+  "num_followers": 233535,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGr4UFjnA6F3g3UqqFk3kLK8vCK7",
+  "snapshot_id": "AAAAAMGsAzKpEO9dzUvOKvPjIGEJA1u9",
   "tracks": [
     {
       "added_at": "2026-11-13 00:02:13",
@@ -827,18 +827,22 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
-        "name": "BARA BARA",
-        "url": "https://open.spotify.com/album/2HTaD3yek7f21T97pvtJMV"
+        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
       },
       "artists": [
         {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
         }
       ],
-      "duration_ms": 215040,
-      "name": "BARA BARA",
-      "url": "https://open.spotify.com/track/3yAYLtB0WUSd3XBvBtWf2r"
+      "duration_ms": 189677,
+      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
     },
     {
       "added_at": "2026-11-13 00:02:13",
@@ -867,22 +871,18 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
-        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
+        "name": "BARA BARA",
+        "url": "https://open.spotify.com/album/2HTaD3yek7f21T97pvtJMV"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
         }
       ],
-      "duration_ms": 189677,
-      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
+      "duration_ms": 215040,
+      "name": "BARA BARA",
+      "url": "https://open.spotify.com/track/3yAYLtB0WUSd3XBvBtWf2r"
     },
     {
       "added_at": "2026-11-13 00:02:13",
@@ -943,6 +943,34 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/2LrIDPNGnXvoD5tiYCDWnZ"
+      },
+      "artists": [
+        {
+          "name": "Ko-Jo Cue",
+          "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
+        },
+        {
+          "name": "Shaker",
+          "url": "https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Broni",
+          "url": "https://open.spotify.com/artist/2BjK8ZabmjThEk011WGLAF"
+        }
+      ],
+      "duration_ms": 231679,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/0CheaJxfFhDiCFSDK9VI1E"
+    },
+    {
+      "added_at": "2026-11-13 00:02:13",
+      "album": {
         "name": "Sounds of the Diaspora 2",
         "url": "https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW"
       },
@@ -979,34 +1007,6 @@
       "duration_ms": 196471,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2"
-    },
-    {
-      "added_at": "2026-11-13 00:02:13",
-      "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/2LrIDPNGnXvoD5tiYCDWnZ"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        },
-        {
-          "name": "Broni",
-          "url": "https://open.spotify.com/artist/2BjK8ZabmjThEk011WGLAF"
-        },
-        {
-          "name": "Ko-Jo Cue",
-          "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
-        },
-        {
-          "name": "Shaker",
-          "url": "https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj"
-        }
-      ],
-      "duration_ms": 231679,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/0CheaJxfFhDiCFSDK9VI1E"
     },
     {
       "added_at": "2026-11-13 00:02:13",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
-        "name": "OUT OF SIGHT - OUT OF MIND: VOLUME 1",
-        "url": "https://open.spotify.com/album/3SI2TRyo5q8NwyfIZEy6ZP"
+        "name": "Top 2",
+        "url": "https://open.spotify.com/album/1BPDF5PQgcQdSAupweNNUN"
       },
       "artists": [
         {
-          "name": "Ycee",
-          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+          "name": "Ko-Jo Cue",
+          "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
         },
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "Shaker",
+          "url": "https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj"
         }
       ],
-      "duration_ms": 172784,
-      "name": "ISLAND GIRLS",
-      "url": "https://open.spotify.com/track/1FXaBqoI5KFH8uR8UBiGI9"
+      "duration_ms": 261333,
+      "name": "Top 2",
+      "url": "https://open.spotify.com/track/6pXY8PeDIt9fd11QQr5wod"
     }
   ],
   "unique_name": "Afro Bars ",

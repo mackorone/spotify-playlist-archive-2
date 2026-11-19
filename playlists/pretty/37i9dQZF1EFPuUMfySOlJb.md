@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6muSuAUvee7pzSmVu1Wgys">uv killin em</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34 likes - 42 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 34 likes - 43 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,21 +34,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 24 | [Ee\-er](https://open.spotify.com/track/6j2bOHZKtXzVcytOse2Lmc) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 2:24 |
 | 25 | [Snipers And Robbers](https://open.spotify.com/track/14uozm5j9UJWSQ8tDCs2rE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:18 |
 | 26 | [Paid My Dues](https://open.spotify.com/track/1IjzIkLEDV4k6kDVhmxSnV) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [4EVERFRIDAY SZN 4](https://open.spotify.com/album/2nkAHRT5SpyHM6qZYeCj89) | 2:16 |
-| 27 | [No Stress](https://open.spotify.com/track/0HPlW2dfXiXGWJbKAPyHkZ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 2:14 |
-| 28 | [Fliccin Up](https://open.spotify.com/track/4SGqmuv6pxaei3Silq8qaK) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Fliccin Up](https://open.spotify.com/album/6C2rgMF06Uwkm9yokUo7X0) | 2:07 |
-| 29 | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/track/52QAsWTBhQOPBA83ZfFERg) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/album/6d9GgeqYFK8JYqhS6U8mwL) | 2:01 |
-| 30 | [Don't Waste Your Time](https://open.spotify.com/track/7gZ6wC0JVjkS1W1xkpQ7zf) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Pain Never Looked This Good \(Night\)](https://open.spotify.com/album/0gmvFL9UFeqwwBFDMWLDh5) | 2:08 |
-| 31 | [heavy metal](https://open.spotify.com/track/2vpcuOcKoYoDlNNs0qGlpI) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:23 |
-| 32 | [Call Me](https://open.spotify.com/track/0rRdDKkEwn17XyWgUozqPa) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Call Me](https://open.spotify.com/album/725L6fW7uLDMVG8XlEwuWl) | 2:39 |
-| 33 | [Never Left](https://open.spotify.com/track/5hxEyhBnfraTdAnmPsuvlH) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Never Left](https://open.spotify.com/album/2q558Z4kL38WSl5MuuH5dx) | 2:45 |
-| 34 | [Again](https://open.spotify.com/track/3YZF7oBXjZ0BQX4LwFq3ih) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Again](https://open.spotify.com/album/5DTfFUKdmyA52M8JuqM55D) | 2:47 |
-| 35 | [Lingo \(feat\. 26ar\)](https://open.spotify.com/track/2erVukJUR0cMPTpKV4FbAG) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [YPB: The Archive](https://open.spotify.com/album/3E5DWj3A0oXBTwdrrBcKHu) | 2:21 |
-| 36 | [happy for me](https://open.spotify.com/track/3G8hpRJOyDeN6Wf4NlDxKm) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [DON'T MIND MY MIND](https://open.spotify.com/album/6bOxQ5E3NBP7fzpplDBEZh) | 3:35 |
-| 37 | [In My Bag](https://open.spotify.com/track/2Fzj6imQgRutEdl0ugx79L) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [In My Bag](https://open.spotify.com/album/5jZGelX9KeTm1iXQvMS7aD) | 2:25 |
-| 38 | [Survivor](https://open.spotify.com/track/6eWz9q7qJwTSpTyM0COD7p) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [NawfJaxx](https://open.spotify.com/album/2WeEohTdJFHpZeqd3ldi7O) | 2:42 |
-| 39 | [Pilots](https://open.spotify.com/track/0fXaCPwS7rcWUpq9XvHHNf) | [DrownMili](https://open.spotify.com/artist/3iotJxO373ylhqoStDSmY6) | [THERMAL USA](https://open.spotify.com/album/4Nart5xB3FKJj2xiGkUCNL) | 1:39 |
-| 40 | [Love Affair](https://open.spotify.com/track/5sMJBNiyvqN0UviPH4x3wu) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 2:34 |
-| 41 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
-| 42 | [Running Out of Words](https://open.spotify.com/track/4JrgIIauZIucAVBJwz184N) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [Mistakes, etc.](https://open.spotify.com/album/2nvkVRDJnlsy7kIvtoO7w5) | 2:37 |
+| 27 | [Hate It or Love It](https://open.spotify.com/track/21NpJLOBIwpTAsELENNN2V) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [PERFECT STORM](https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ) | 2:45 |
+| 28 | [No Stress](https://open.spotify.com/track/0HPlW2dfXiXGWJbKAPyHkZ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 2:14 |
+| 29 | [Fliccin Up](https://open.spotify.com/track/4SGqmuv6pxaei3Silq8qaK) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Fliccin Up](https://open.spotify.com/album/6C2rgMF06Uwkm9yokUo7X0) | 2:07 |
+| 30 | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/track/52QAsWTBhQOPBA83ZfFERg) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/album/6d9GgeqYFK8JYqhS6U8mwL) | 2:01 |
+| 31 | [Don't Waste Your Time](https://open.spotify.com/track/7gZ6wC0JVjkS1W1xkpQ7zf) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Pain Never Looked This Good \(Night\)](https://open.spotify.com/album/0gmvFL9UFeqwwBFDMWLDh5) | 2:08 |
+| 32 | [heavy metal](https://open.spotify.com/track/2vpcuOcKoYoDlNNs0qGlpI) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:23 |
+| 33 | [Call Me](https://open.spotify.com/track/0rRdDKkEwn17XyWgUozqPa) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Call Me](https://open.spotify.com/album/725L6fW7uLDMVG8XlEwuWl) | 2:39 |
+| 34 | [Never Left](https://open.spotify.com/track/5hxEyhBnfraTdAnmPsuvlH) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Never Left](https://open.spotify.com/album/2q558Z4kL38WSl5MuuH5dx) | 2:45 |
+| 35 | [Again](https://open.spotify.com/track/3YZF7oBXjZ0BQX4LwFq3ih) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Again](https://open.spotify.com/album/5DTfFUKdmyA52M8JuqM55D) | 2:47 |
+| 36 | [Lingo \(feat\. 26ar\)](https://open.spotify.com/track/2erVukJUR0cMPTpKV4FbAG) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [YPB: The Archive](https://open.spotify.com/album/3E5DWj3A0oXBTwdrrBcKHu) | 2:21 |
+| 37 | [happy for me](https://open.spotify.com/track/3G8hpRJOyDeN6Wf4NlDxKm) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [DON'T MIND MY MIND](https://open.spotify.com/album/6bOxQ5E3NBP7fzpplDBEZh) | 3:35 |
+| 38 | [In My Bag](https://open.spotify.com/track/2Fzj6imQgRutEdl0ugx79L) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [In My Bag](https://open.spotify.com/album/5jZGelX9KeTm1iXQvMS7aD) | 2:25 |
+| 39 | [Survivor](https://open.spotify.com/track/6eWz9q7qJwTSpTyM0COD7p) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [NawfJaxx](https://open.spotify.com/album/2WeEohTdJFHpZeqd3ldi7O) | 2:42 |
+| 40 | [Pilots](https://open.spotify.com/track/0fXaCPwS7rcWUpq9XvHHNf) | [DrownMili](https://open.spotify.com/artist/3iotJxO373ylhqoStDSmY6) | [THERMAL USA](https://open.spotify.com/album/4Nart5xB3FKJj2xiGkUCNL) | 1:39 |
+| 41 | [Love Affair](https://open.spotify.com/track/5sMJBNiyvqN0UviPH4x3wu) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 2:34 |
+| 42 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
+| 43 | [Running Out of Words](https://open.spotify.com/track/4JrgIIauZIucAVBJwz184N) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [Mistakes, etc.](https://open.spotify.com/album/2nvkVRDJnlsy7kIvtoO7w5) | 2:37 |
 
-Snapshot ID: `Ach8yAAAAADV8YIdw6guJVr1D1cgWVWM`
+Snapshot ID: `AciCkAAAAADBD/WKJH94JG9lB9oon0+8`

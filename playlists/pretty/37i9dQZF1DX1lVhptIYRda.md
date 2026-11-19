@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Mack Geiger
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,622,239 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,621,716 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Weekend In Texas](https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weekend In Texas](https://open.spotify.com/album/5vZb4srhLbumEbI13z33Qf) | 2:53 |
 | 50 | [Good Girls & Cowgirls](https://open.spotify.com/track/34teaZ6EaOdPDmfbxfNVtP) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Good Girls & Cowgirls](https://open.spotify.com/album/2b7e7TUNXhvbthypUy5ZNr) | 3:04 |
 
-Snapshot ID: `AAAAAJ9v29MvO7X9ZW5uLi/PulqewX+0`
+Snapshot ID: `AAAAAG2SLv7jNFkdmtlbdipWoJkMskCN`

@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1045573,
+  "num_followers": 1045490,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -24,7 +24,7 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         },
         {
-          "name": "Jakobs Castle",
+          "name": "Jakob Nowell and THE CASTLE",
           "url": "https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro"
         },
         {
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "Inner Love Energy",
+        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 219598,
+      "name": "I'm Rich",
+      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Cool & Collected",
         "url": "https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm"
       },
@@ -1595,38 +1611,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 219598,
-      "name": "I'm Rich",
-      "url": "https://open.spotify.com/track/4qkRoNFCVMST5cj2f6BG8b"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Daytrippin",
-        "url": "https://open.spotify.com/album/7Gg6gwmX9EA9b4S4EPUxws"
-      },
-      "artists": [
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Daytrippin",
-      "url": "https://open.spotify.com/track/5sm6mDPCzeakdJFdQM8zeK"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Mood Swing",
         "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 206829,
       "name": "Blacklist (with Matisyahu)",
       "url": "https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Daytrippin",
+        "url": "https://open.spotify.com/album/7Gg6gwmX9EA9b4S4EPUxws"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Daytrippin",
+      "url": "https://open.spotify.com/track/5sm6mDPCzeakdJFdQM8zeK"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1723,38 +1723,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Some Say the Ocean",
-        "url": "https://open.spotify.com/album/6AQGebTVJIyQocK20zK6Fd"
-      },
-      "artists": [
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        }
-      ],
-      "duration_ms": 246795,
-      "name": "Some Say the Ocean",
-      "url": "https://open.spotify.com/track/4HjlaIg0PufGB2nDlb8T4d"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Endless Summer (Deluxe)",
-        "url": "https://open.spotify.com/album/5fs7OWZ9tOVCiYk1rKf3fv"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 248317,
-      "name": "Wind On My Back - Endless Summer Edition",
-      "url": "https://open.spotify.com/track/6HQblgVFjC3gIeRmsK1uiX"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Yestermorrow",
         "url": "https://open.spotify.com/album/3ZJPrfxfRXqP5UcF3e37pi"
       },
@@ -1775,6 +1743,38 @@
       "duration_ms": 223359,
       "name": "Sunshine Daze (with Surfer Girl)",
       "url": "https://open.spotify.com/track/3Z68c3cMReRQ4CZrj9liDA"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Endless Summer (Deluxe)",
+        "url": "https://open.spotify.com/album/5fs7OWZ9tOVCiYk1rKf3fv"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 248317,
+      "name": "Wind On My Back - Endless Summer Edition",
+      "url": "https://open.spotify.com/track/6HQblgVFjC3gIeRmsK1uiX"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Some Say the Ocean",
+        "url": "https://open.spotify.com/album/6AQGebTVJIyQocK20zK6Fd"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        }
+      ],
+      "duration_ms": 246795,
+      "name": "Some Say the Ocean",
+      "url": "https://open.spotify.com/track/4HjlaIg0PufGB2nDlb8T4d"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Some Say the Ocean (Reggae Remix)",
-        "url": "https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju"
-      },
-      "artists": [
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        }
-      ],
-      "duration_ms": 235294,
-      "name": "Some Say the Ocean - Reggae Remix",
-      "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Setting Out for the Sun",
         "url": "https://open.spotify.com/album/28BjvlMeCTBtGJbkwZNfCm"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 270228,
       "name": "Setting Out for the Sun",
       "url": "https://open.spotify.com/track/40LcGCfPY6eYPL3dJ7lll1"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Some Say the Ocean (Reggae Remix)",
+        "url": "https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        }
+      ],
+      "duration_ms": 235294,
+      "name": "Some Say the Ocean - Reggae Remix",
+      "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "Respect",
+        "url": "https://open.spotify.com/album/79OS6QQQShDXiSkOPXANos"
+      },
+      "artists": [
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/75aYfg2Tji6Uxmreajjxsg"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
       },
@@ -2127,18 +2143,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Respect",
-        "url": "https://open.spotify.com/album/79OS6QQQShDXiSkOPXANos"
+        "name": "Shwaycation",
+        "url": "https://open.spotify.com/album/6UJlSwpYKNIOWwRWIHZopF"
       },
       "artists": [
         {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/75aYfg2Tji6Uxmreajjxsg"
+      "duration_ms": 181445,
+      "name": "Tequila La La La La",
+      "url": "https://open.spotify.com/track/3fm7nlDQB74jy4NoPg3j57"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2163,22 +2179,6 @@
       "duration_ms": 245063,
       "name": "I Fall in Love Too Easily (with The Elovaters) - Reggae Remix",
       "url": "https://open.spotify.com/track/7Ej86ZIZqCqOOvddpaySZK"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Shwaycation",
-        "url": "https://open.spotify.com/album/6UJlSwpYKNIOWwRWIHZopF"
-      },
-      "artists": [
-        {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        }
-      ],
-      "duration_ms": 181445,
-      "name": "Tequila La La La La",
-      "url": "https://open.spotify.com/track/3fm7nlDQB74jy4NoPg3j57"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "Heavy as Lead",
+        "url": "https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m"
+      },
+      "artists": [
+        {
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Heavy as Lead",
+      "url": "https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "In The LBC (Warren G Remix)",
         "url": "https://open.spotify.com/album/1blaIeHQWKD8RGYRbOgfRi"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 195746,
       "name": "In The LBC - Warren G Remix",
       "url": "https://open.spotify.com/track/6kPq6t7eBrc3vmn4TYu76e"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Heavy as Lead",
-        "url": "https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m"
-      },
-      "artists": [
-        {
-          "name": "Rebelution",
-          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Heavy as Lead",
-      "url": "https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
+      },
+      "artists": [
+        {
+          "name": "Katastro",
+          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Sun and the Moon (with Collie Buddz)",
         "url": "https://open.spotify.com/album/600mLwSU7CJ5gSqK11Xzpb"
       },
@@ -2335,24 +2351,8 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
-      },
-      "artists": [
-        {
-          "name": "Katastro",
-          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Slice of Sunshine (with Claire Wright)",
-        "url": "https://open.spotify.com/album/1fdvXVdFYKQcrbczODniXR"
+        "name": "Single for the Summer (with Bryce Vine)",
+        "url": "https://open.spotify.com/album/335Htm2TTZzCmRT1kNz2gr"
       },
       "artists": [
         {
@@ -2360,13 +2360,13 @@
           "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
         },
         {
-          "name": "Claire Wright",
-          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
         }
       ],
-      "duration_ms": 170348,
-      "name": "Slice of Sunshine (with Claire Wright)",
-      "url": "https://open.spotify.com/track/6sAf6WUpAcHkqkja62xup4"
+      "duration_ms": 159490,
+      "name": "Single for the Summer (with Bryce Vine)",
+      "url": "https://open.spotify.com/track/2sphXfRDZstuYuQF7eZuYC"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2435,8 +2435,8 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Single for the Summer (with Bryce Vine)",
-        "url": "https://open.spotify.com/album/335Htm2TTZzCmRT1kNz2gr"
+        "name": "Slice of Sunshine (with Claire Wright)",
+        "url": "https://open.spotify.com/album/1fdvXVdFYKQcrbczODniXR"
       },
       "artists": [
         {
@@ -2444,13 +2444,13 @@
           "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
         },
         {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
         }
       ],
-      "duration_ms": 159490,
-      "name": "Single for the Summer (with Bryce Vine)",
-      "url": "https://open.spotify.com/track/2sphXfRDZstuYuQF7eZuYC"
+      "duration_ms": 170348,
+      "name": "Slice of Sunshine (with Claire Wright)",
+      "url": "https://open.spotify.com/track/6sAf6WUpAcHkqkja62xup4"
     },
     {
       "added_at": "2026-07-17 15:52:29",

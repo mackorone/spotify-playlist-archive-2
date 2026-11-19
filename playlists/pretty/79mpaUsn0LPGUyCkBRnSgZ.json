@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJ+Yjlo4kRsIt6+wijla5+RYe74G64",
+  "snapshot_id": "AAAJ/m4gelLEZ4USsC2b4IYwJDwtX02V",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -2695,22 +2695,6 @@
       "duration_ms": 160919,
       "name": "Dig Me Out",
       "url": "https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B"
-    },
-    {
-      "added_at": "2023-08-14 21:21:23",
-      "album": {
-        "name": "Murmur",
-        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Radio Free Europe",
-      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
     },
     {
       "added_at": "2023-08-14 22:30:25",
@@ -13415,6 +13399,70 @@
       "duration_ms": 105131,
       "name": "Payday",
       "url": "https://open.spotify.com/track/1IEzC26lkBRUN3AxQ91U3M"
+    },
+    {
+      "added_at": "2026-11-18 22:39:22",
+      "album": {
+        "name": "Racing Mount Pleasant",
+        "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
+      },
+      "artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+        }
+      ],
+      "duration_ms": 452329,
+      "name": "Your New Place",
+      "url": "https://open.spotify.com/track/2QfA2znZln0n0k2zdo91RZ"
+    },
+    {
+      "added_at": "2026-11-18 22:41:19",
+      "album": {
+        "name": "You Think It's Like This But Really It's Like This",
+        "url": "https://open.spotify.com/album/2TBjVIWGpjU5J0VkKNq0Ff"
+      },
+      "artists": [
+        {
+          "name": "Mirah",
+          "url": "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
+        }
+      ],
+      "duration_ms": 115280,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/4xdI8pbmdmECyTS1WeUt1K"
+    },
+    {
+      "added_at": "2026-11-19 06:04:41",
+      "album": {
+        "name": "Navigator",
+        "url": "https://open.spotify.com/album/5oFyhjlf4B03PxxH7cohFC"
+      },
+      "artists": [
+        {
+          "name": "RAP",
+          "url": "https://open.spotify.com/artist/4ek7HBx3DHvgnYo8vRXQm1"
+        }
+      ],
+      "duration_ms": 273531,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/5G8jcebFaWIz3C2X0yDIxm"
+    },
+    {
+      "added_at": "2026-11-19 06:06:00",
+      "album": {
+        "name": "Set of All Sets",
+        "url": "https://open.spotify.com/album/0qFVJgi4gXlFjQJhCUrlfh"
+      },
+      "artists": [
+        {
+          "name": "Parts & Labor",
+          "url": "https://open.spotify.com/artist/1GBLRB4wLAQH8hq8Eu28uR"
+        }
+      ],
+      "duration_ms": 414980,
+      "name": "Endless Cycle Pt. 1: Repetition Nil",
+      "url": "https://open.spotify.com/track/6UrpvL50LAU68412UuHba3"
     }
   ],
   "unique_name": "Zacklog",

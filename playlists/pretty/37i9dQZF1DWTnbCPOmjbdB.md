@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: GENZIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,515 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,530 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 64 | [Raport](https://open.spotify.com/track/35mN0UFFpdbPwCmNJlkZl7) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl) | [Raport](https://open.spotify.com/album/5RtPXJJqxxhH6IZTF5H9fn) | 3:05 |
 | 65 | [W OGIEŃ](https://open.spotify.com/track/7h5JNX0yR8wriqEGmmxJ3Z) | [Jędrek Wołodko](https://open.spotify.com/artist/7rt0rSs6YpqXyysiIeKVYC), [FANTØM](https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5) | [W OGIEŃ](https://open.spotify.com/album/5pJpOqNz1wzHbMeq7DggJd) | 2:23 |
 
-Snapshot ID: `AAAAAMTTxnlwGcONG40xGh5ICPNuxf+q`
+Snapshot ID: `AAAAAJTisYUUZLnKN/mAuh8xxWi4uM5P`

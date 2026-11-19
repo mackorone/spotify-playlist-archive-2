@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hans Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,136 likes - 180 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,139 likes - 180 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 179 | [modern age](https://open.spotify.com/track/3tHE9MegiMFMlkLIi5kD5B) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [modern age](https://open.spotify.com/album/0dvmUfEi9sGQLe3IqH1qcM) | 2:04 |
 | 180 | [PBJ](https://open.spotify.com/track/5rjtzSA5VBWg7zmuOGg5Dz) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [PBJ](https://open.spotify.com/album/0ZFeUkEKirJu4p0HpUEsXt) | 3:23 |
 
-Snapshot ID: `AAAAAGVlpo3wDE0SuVYitMIPcPpFyoZ+`
+Snapshot ID: `AAAAAGzmcU7mYGmGBl/nmHbVybfsJu0I`

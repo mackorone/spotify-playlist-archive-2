@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,099 likes - 149 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,085 likes - 149 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 148 | [Jag behöver att du behöver mig](https://open.spotify.com/track/2RiAxZWgy8dq5gB87VpAbB) | [ASSO](https://open.spotify.com/artist/2HOvLqcKXVJygYMDmX8wFs) | [Jag behöver att du behöver mig](https://open.spotify.com/album/1m3CmtyA3cr2DRt2Aei7KV) | 2:54 |
 | 149 | [Ta din tid](https://open.spotify.com/track/7I9SdEiOGYA43CkD3GMdW0) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Ta din tid](https://open.spotify.com/album/6kkxMkX5NRa9q9EKZA6vRH) | 3:16 |
 
-Snapshot ID: `AAAAAAQ2tNv7t9P1s6RlLcmNajYTS+BT`
+Snapshot ID: `AAAAACA6Eo56XBiAiab8HDP1z5jMNmjy`

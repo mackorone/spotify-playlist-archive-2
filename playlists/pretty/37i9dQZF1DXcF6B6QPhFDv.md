@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. It's alive with Fall Out Boy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,137,584 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,137,090 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 84 | [L+R](https://open.spotify.com/track/1EgDWQYtFBrqwRBypzCwR7) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [as in progress](https://open.spotify.com/album/4ywGQ13kokX0rq53emZfMn) | 2:34 |
 | 85 | [Waiting \(For The Rope To Slip\)](https://open.spotify.com/track/0Ned7ZGSBV6BdKAj1P4jry) | [Car Underwater](https://open.spotify.com/artist/4l2d5QcDdawmA85SPn4GyF) | [Waiting \(For The Rope To Slip\)](https://open.spotify.com/album/3Vpd9MT5jqsuvPTv1PQucR) | 2:59 |
 
-Snapshot ID: `AAAAALVMQiHW6ZwXWNf4K3DxDQw5xJzc`
+Snapshot ID: `AAAAAMxf6ZQ2D1xhk24my+x39MZMUmwJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kayla Shyx, panicbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,420 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,391 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wunderkind](https://open.spotify.com/track/4jpUlXn1ttb3cnMItmie3J) | [Anderswo](https://open.spotify.com/artist/5h3y3xLjFKmB8LcL5sM74H) | [schwarzweiss](https://open.spotify.com/album/49HiJJPS2Z9Z81Zh4gxH3X) | 4:16 |
 | 75 | [immer so](https://open.spotify.com/track/70Vrru7QKWFj21pmKMgXRS) | [doss](https://open.spotify.com/artist/5GlfABPVozsdDtqLfaNgGK) | [mehr als?](https://open.spotify.com/album/0jyIvgzAdV5l0YPJr37qRf) | 1:51 |
 
-Snapshot ID: `AAAAAJpnUbBJNFSjtzU32i7I26M2RFUG`
+Snapshot ID: `AAAAAK/CFVVsLrRMBnwUm7sR0ljg5Nq7`

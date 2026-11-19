@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 241912,
+  "num_followers": 241929,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE6joM2UDUWScHk22kauXdQFtCMZ",
+  "snapshot_id": "AAAAALydLzQonp/sJxfOaNqyRRjqjvyv",
   "tracks": [
     {
       "added_at": "2026-10-30 04:00:37",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "big energy.wav",
-        "url": "https://open.spotify.com/album/441DOkBH454XFYiUZ9Z4x1"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        }
-      ],
-      "duration_ms": 144798,
-      "name": "big energy.wav",
-      "url": "https://open.spotify.com/track/2Rh1hfKV3dg8WbWID4W5D2"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Fresh Wind (Retain Remix)",
         "url": "https://open.spotify.com/album/0rhdkcw1Q3ix7n5bxZPqpi"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 190159,
       "name": "Fresh Wind - Retain Remix",
       "url": "https://open.spotify.com/track/71QukHVaKdnRBC6isGYZuK"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "big energy.wav",
+        "url": "https://open.spotify.com/album/441DOkBH454XFYiUZ9Z4x1"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        }
+      ],
+      "duration_ms": 144798,
+      "name": "big energy.wav",
+      "url": "https://open.spotify.com/track/2Rh1hfKV3dg8WbWID4W5D2"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/605PHYH4Q0gO9oaJinHg63"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "Sydni Alexander",
-          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/1ZlVxozEZjkjt5tUhzTOL8"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Jumping Fences (GREGATRON Remix)",
         "url": "https://open.spotify.com/album/3xohme0JhBOoJ9Q4nVrQvC"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 161360,
       "name": "Jumping Fences - GREGATRON Remix",
       "url": "https://open.spotify.com/track/7F3OGOKsNgjfy6Oa7YSLol"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/605PHYH4Q0gO9oaJinHg63"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Sydni Alexander",
+          "url": "https://open.spotify.com/artist/44iyQx0SU5V8iA0myHrJAq"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/1ZlVxozEZjkjt5tUhzTOL8"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "\u00bfQuien Podr\u00e1?",
+        "url": "https://open.spotify.com/album/5YSXjhH591I5WmZn9UdZmn"
+      },
+      "artists": [
+        {
+          "name": "Gerstronik",
+          "url": "https://open.spotify.com/artist/1s4smT9MY7n5RBoPz4jbQE"
+        }
+      ],
+      "duration_ms": 197451,
+      "name": "\u00bfQuien Podr\u00e1?",
+      "url": "https://open.spotify.com/track/0DAXO4UyxyLVvzTMNTGQgK"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
       },
@@ -1243,42 +1259,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "S150",
-        "url": "https://open.spotify.com/album/5whPA51SEtnmoHEfCe82sb"
-      },
-      "artists": [
-        {
-          "name": "KA2SH",
-          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
-        },
-        {
-          "name": "Lairos",
-          "url": "https://open.spotify.com/artist/527mUtlGTEtRGRXXoF1EGF"
-        }
-      ],
-      "duration_ms": 194296,
-      "name": "Correr\u00e9 - Remix",
-      "url": "https://open.spotify.com/track/740Uk4GQZxX8sLPmSeuQ5H"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "\u00bfQuien Podr\u00e1?",
-        "url": "https://open.spotify.com/album/5YSXjhH591I5WmZn9UdZmn"
-      },
-      "artists": [
-        {
-          "name": "Gerstronik",
-          "url": "https://open.spotify.com/artist/1s4smT9MY7n5RBoPz4jbQE"
-        }
-      ],
-      "duration_ms": 197451,
-      "name": "\u00bfQuien Podr\u00e1?",
-      "url": "https://open.spotify.com/track/0DAXO4UyxyLVvzTMNTGQgK"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "ELIJAH LEVEL EP",
         "url": "https://open.spotify.com/album/42HqbTzC7Rw2L05IBUnJPy"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 175238,
       "name": "Elijah Level EDM",
       "url": "https://open.spotify.com/track/4ea0T3YrxaKA7q15n6JrCH"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "S150",
+        "url": "https://open.spotify.com/album/5whPA51SEtnmoHEfCe82sb"
+      },
+      "artists": [
+        {
+          "name": "KA2SH",
+          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
+        },
+        {
+          "name": "Lairos",
+          "url": "https://open.spotify.com/artist/527mUtlGTEtRGRXXoF1EGF"
+        }
+      ],
+      "duration_ms": 194296,
+      "name": "Correr\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/740Uk4GQZxX8sLPmSeuQ5H"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Reason To Dance",
+        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 220296,
+      "name": "Reason To Dance",
+      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Energy (EchoStorms Remix)",
         "url": "https://open.spotify.com/album/1kRddLhejNCrVFcpci3UsX"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Reason To Dance",
-        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
+        "name": "Looking For Happiness",
+        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
       },
       "artists": [
         {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
         }
       ],
-      "duration_ms": 220296,
-      "name": "Reason To Dance",
-      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
+      "duration_ms": 143997,
+      "name": "Looking For Happiness",
+      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1467,22 +1483,6 @@
       "duration_ms": 220952,
       "name": "Save Me (Illingworth Remix)",
       "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Looking For Happiness",
-        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 143997,
-      "name": "Looking For Happiness",
-      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Deliver (Higher)",
+        "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
+      },
+      "artists": [
+        {
+          "name": "ZARG",
+          "url": "https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z"
+        }
+      ],
+      "duration_ms": 200433,
+      "name": "Deliver (Higher)",
+      "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 187086,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/4513QEtGKMQ2OYnJEa1jlG"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Deliver (Higher)",
-        "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
-      },
-      "artists": [
-        {
-          "name": "ZARG",
-          "url": "https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z"
-        }
-      ],
-      "duration_ms": 200433,
-      "name": "Deliver (Higher)",
-      "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "SO GOOD !!!",
-        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
-      },
-      "artists": [
-        {
-          "name": "Poetics",
-          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
-        }
-      ],
-      "duration_ms": 120700,
-      "name": "SO GOOD !!!",
-      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Praise His Holy Name (House Remix)",
         "url": "https://open.spotify.com/album/0dDoWCItCHVkXts89g2QOf"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 245118,
       "name": "Praise His Holy Name - House Remix",
       "url": "https://open.spotify.com/track/6jnlYWmuU2c3jvN0J0bIZV"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "SO GOOD !!!",
+        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
+      },
+      "artists": [
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "duration_ms": 120700,
+      "name": "SO GOOD !!!",
+      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Stand In Peace",
+        "url": "https://open.spotify.com/album/6uSI7VYmhYJx9VZr9L8uX0"
+      },
+      "artists": [
+        {
+          "name": "Peter Mac",
+          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
+        },
+        {
+          "name": "Lalo Leyy",
+          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
+        }
+      ],
+      "duration_ms": 397076,
+      "name": "Stand In Peace - Original Mix",
+      "url": "https://open.spotify.com/track/4kDawQblKKlEQo0GL9ZQRz"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/407AveS1NrLvzxwqB2UQPI"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 171467,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6RUgbYZv69Kd28d5UO76pK"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Stand In Peace",
-        "url": "https://open.spotify.com/album/6uSI7VYmhYJx9VZr9L8uX0"
-      },
-      "artists": [
-        {
-          "name": "Peter Mac",
-          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
-        },
-        {
-          "name": "Lalo Leyy",
-          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
-        }
-      ],
-      "duration_ms": 397076,
-      "name": "Stand In Peace - Original Mix",
-      "url": "https://open.spotify.com/track/4kDawQblKKlEQo0GL9ZQRz"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Building \"What are you waiting on?\"",
-        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
-      },
-      "artists": [
-        {
-          "name": "Erica Reed",
-          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
-        }
-      ],
-      "duration_ms": 231435,
-      "name": "Building \"What are you waiting on?\"",
-      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Praise Him",
         "url": "https://open.spotify.com/album/5AttTOJ5D1b5BvqOYwoL4R"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 434086,
       "name": "Praise Him",
       "url": "https://open.spotify.com/track/3WA5oS4gru99UDZbYcMJI4"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Building \"What are you waiting on?\"",
+        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
+      },
+      "artists": [
+        {
+          "name": "Erica Reed",
+          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
+        }
+      ],
+      "duration_ms": 231435,
+      "name": "Building \"What are you waiting on?\"",
+      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
     },
     {
       "added_at": "2026-10-30 04:00:37",

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,519 songs - 12 day 20 hr 43 min
+5,520 songs - 12 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1734,6 +1734,7 @@
 | [Fading Trace](https://open.spotify.com/track/6VRtRhIuagAfxY6tXIjWMe) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Fading Trace](https://open.spotify.com/album/0L1E65Cgz1nwbjD3XOe47v) | 2:45 | 2026-08-26 |  |
 | [Fair Weights & Honest Scales](https://open.spotify.com/track/54KTuOY7EPRuZNWjwEtokh) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [The architecture of truth](https://open.spotify.com/album/0HHB0GLwTyxZBAz9wQSWP5) | 3:46 | 2026-11-11 |  |
 | [Fair Weights & Honest Scales \(fomo mode\)](https://open.spotify.com/track/0g7hAAJzGcUPRNlWg9gpED) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [The architecture of truth](https://open.spotify.com/album/0HHB0GLwTyxZBAz9wQSWP5) | 3:43 | 2026-11-11 |  |
+| [Fairy of Fortune](https://open.spotify.com/track/6XlfJJ4Jj1rDJgdaekHsWK) | [NitRo \- Tunes](https://open.spotify.com/artist/4jYkECQhDrMZPm8DNPafYP) | [Fairy of Fortune](https://open.spotify.com/album/0W2rA2EgVidqoXY5wdJugC) | 3:37 | 2026-11-18 |  |
 | [Faith and Loss](https://open.spotify.com/track/3zlB7vUQsAE28KJDcg8Hk1) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Faith and Loss](https://open.spotify.com/album/0WlDmKxKEDZsXMEOrpsNfm) | 3:25 | 2025-05-31 |  |
 | [Fake](https://open.spotify.com/track/0MBYfuf0BxZH1FJf6jHTus) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 2:51 | 2025-04-09 |  |
 | [Fall](https://open.spotify.com/track/11IWTXz2DUUSJWC91x10gu) | [TailoredToTale](https://open.spotify.com/artist/1KqRWLbTL5nyi9WzxSl4cv) | [Fall](https://open.spotify.com/album/1zo8HY4BC5EjTymCkJ1vD4) | 3:31 | 2025-09-15 | 2026-10-13 |

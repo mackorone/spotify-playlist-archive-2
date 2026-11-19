@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo: Sam Sauvage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,897 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,894 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Quand est\-ce qu'on oublie qu'on aime](https://open.spotify.com/track/2mOGkkEHVnivEvMVjhKQSq) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Quand est\-ce qu'on oublie qu'on aime](https://open.spotify.com/album/5abHchSNqSZF0M4mhPlKDR) | 3:32 |
 | 50 | [Pop Song](https://open.spotify.com/track/7qBHFgVyYJl3bARSplq4Hl) | [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Pop Song](https://open.spotify.com/album/64sj6X7CIIqpN9w89vlkRX) | 3:27 |
 
-Snapshot ID: `AAAAAKVH8P1IPwuVmExu97e11bH796kp`
+Snapshot ID: `AAAAADyxwoIfHTVs1vAg9TtkuHbCqTtT`

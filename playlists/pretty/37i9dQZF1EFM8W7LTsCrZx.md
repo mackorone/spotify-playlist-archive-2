@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5aLMfjiruumRxGGkZpYdTQ">Ben \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 146 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 104 likes - 146 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 84 | [Hoch](https://open.spotify.com/track/46J1w8OPUxruyaNPGNvt81) | [Gianni Suave](https://open.spotify.com/artist/1krJvMu9OkhIxX5cMoZGLb), [Ramzey](https://open.spotify.com/artist/4LiSTXiV4QgUW5ZmJMaAm5), [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [Ich falle in Frieden \(Deluxe\)](https://open.spotify.com/album/4FqZDl238SgxOnB2JD30RI) | 2:46 |
 | 85 | [Oxygen](https://open.spotify.com/track/1ldGKrswcYHf1dVrIQEhqF) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 1:40 |
 | 86 | [Manie](https://open.spotify.com/track/3iTZSWuyt8q63NYYef57TH) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:20 |
-| 87 | [Promille](https://open.spotify.com/track/2LFXpDsnWZcqEBCtWAXZvl) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:28 |
-| 88 | [RICH BITCH](https://open.spotify.com/track/0KwDfeMNRdw6h8fZVma1Ef) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:28 |
+| 87 | [RICH BITCH](https://open.spotify.com/track/0KwDfeMNRdw6h8fZVma1Ef) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:28 |
+| 88 | [Promille](https://open.spotify.com/track/2LFXpDsnWZcqEBCtWAXZvl) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:28 |
 | 89 | [@ MICH NICHT](https://open.spotify.com/track/0577wNwjGF5MdVmN1cJgMj) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:03 |
 | 90 | [Vibration](https://open.spotify.com/track/5xQti0eelxFmlIsFkwoast) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:23 |
 | 91 | [stich in mein herz](https://open.spotify.com/track/3XDP4nGBcE0sXjDukzAlz1) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY) | [stich in mein herz](https://open.spotify.com/album/0JCCjiK9p9mm9DaOBzQa5q) | 2:07 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 145 | [prelude german dream](https://open.spotify.com/track/01evqoqXak7CRQfusYyKff) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:28 |
 | 146 | [prelude girls night](https://open.spotify.com/track/5ee8yJCvuureS0rSQDJywm) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:14 |
 
-Snapshot ID: `Ach8yAAAAAAGRZZJtn+yqgaj9u9dFMVE`
+Snapshot ID: `AciCaAAAAABQXKAou1xDcKsS3JZRzXIi`

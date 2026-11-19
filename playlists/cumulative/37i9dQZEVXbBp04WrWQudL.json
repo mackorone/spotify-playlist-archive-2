@@ -404,7 +404,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 191074,
       "name": "Animal",
       "url": "https://open.spotify.com/track/4j3YeF9Jll295K6dIvA7gR"
@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Stop Us Now",
+        "url": "https://open.spotify.com/album/1gzl7A9QbSdzFPYxt7vjx8"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325450,
+      "name": "Can\u2019t Stop Us Now",
+      "url": "https://open.spotify.com/track/5R9OzAzyn1S9lAvAJHqzkj"
+    },
+    {
+      "album": {
         "name": "cardigan",
         "url": "https://open.spotify.com/album/5ssWLpZFyCIsot1SrMGPaW"
       },
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 187252,
       "name": "Cuando Yo Me Muera",
       "url": "https://open.spotify.com/track/4aSduwpFMZjhfPWYKbNapL"
@@ -3118,7 +3136,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fjpEALt0aBcM2rQZtlHHe"
@@ -3144,7 +3162,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 199540,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
@@ -3426,7 +3444,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 295741,
       "name": "La Buena y la Mala",
       "url": "https://open.spotify.com/track/6bRrhZ8xhUJ4bD7oCEqMIn"
@@ -3448,7 +3466,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 250917,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/4Wzigfp5nbzUHSnSZm5nS8"
@@ -4152,7 +4170,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 195813,
       "name": "Morena",
       "url": "https://open.spotify.com/track/55G1Dh5OyiJOr2NpV1fpjr"
@@ -4356,6 +4374,24 @@
       "duration_ms": 133333,
       "name": "No Misery",
       "url": "https://open.spotify.com/track/2QyyN6vhZtpZ5PqlyxM2a8"
+    },
+    {
+      "album": {
+        "name": "No Tengo Remedio (En Vivo en Casa Spotify)",
+        "url": "https://open.spotify.com/album/07weXrV0TrCeHGHgRPN3iE"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "No Tengo Remedio - En Vivo en Casa Spotify",
+      "url": "https://open.spotify.com/track/48OBvoamhz47ZmLX5nkIeE"
     },
     {
       "album": {
@@ -4848,7 +4884,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 181966,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/1dhfijA0rH5GsFGgJA5H8n"
@@ -4946,7 +4982,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 149418,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/6UZq14fcGEzuMvnryb02He"
@@ -5232,7 +5268,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 124800,
       "name": "Ronroneame",
       "url": "https://open.spotify.com/track/1CnVgNFkIJELALhLn5ybp0"
@@ -6198,7 +6234,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 243529,
       "name": "The Hand - Live",
       "url": "https://open.spotify.com/track/7zyqO3si2q4GE67TPiFJMe"
@@ -6216,7 +6252,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 157802,
       "name": "The Happy Song",
       "url": "https://open.spotify.com/track/6rGCAmKx251e3P77NPc1LP"
@@ -6310,6 +6346,24 @@
       "duration_ms": 119765,
       "name": "Tie Your Mother Down - Live in Budapest",
       "url": "https://open.spotify.com/track/5LHP4a5vFrgiYYSSBK1lJK"
+    },
+    {
+      "album": {
+        "name": "Tina Tuesday (Tina Tuesday Freestyle)",
+        "url": "https://open.spotify.com/album/3wtiRhNfyBxK5vqipzNddK"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115081,
+      "name": "Tina Tuesday - Tina Tuesday Freestyle",
+      "url": "https://open.spotify.com/track/2js52Fy88rld60B5vUu5ED"
     },
     {
       "album": {
@@ -6730,6 +6784,24 @@
       "duration_ms": 201663,
       "name": "When In Rome",
       "url": "https://open.spotify.com/track/044SoDreV8EezdA1Fy2Pht"
+    },
+    {
+      "album": {
+        "name": "Whenever, Wherever",
+        "url": "https://open.spotify.com/album/3wI1rSLCvTqJrupE4dwr5f"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196202,
+      "name": "Whenever, Wherever",
+      "url": "https://open.spotify.com/track/6kwjEQRMac5bswLSUiY5gm"
     },
     {
       "album": {

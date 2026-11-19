@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 22567,
+  "num_followers": 22572,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
+        "name": "In your heart",
+        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
+      },
+      "artists": [
+        {
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "In your heart",
+      "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
-        "name": "In your heart",
-        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
-      },
-      "artists": [
-        {
-          "name": "Lim Hyunsik",
-          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "In your heart",
-      "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "The Dreamest",
-        "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "How have you been",
-      "url": "https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "Try (Journey Epilogue)",
         "url": "https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 216026,
       "name": "Try (Journey Epilogue)",
       "url": "https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "The Dreamest",
+        "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "How have you been",
+      "url": "https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -695,22 +695,18 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "HAPPEN",
-        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+        "name": "Our Cosmos",
+        "url": "https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0"
       },
       "artists": [
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+          "name": "LEE BYEONGCHAN",
+          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
         }
       ],
-      "duration_ms": 193280,
-      "name": "The Walking Dead (Feat. Kim Feel)",
-      "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
+      "duration_ms": 227238,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -731,6 +727,26 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
+        "name": "HAPPEN",
+        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "The Walking Dead (Feat. Kim Feel)",
+      "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
         "name": "Would You Marry Me?, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5hZd82eDAI9iU8xOrY29Rw"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 205000,
       "name": "I\u2019m Still Into You (Would You Marry Me? : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
-        "name": "Our Cosmos",
-        "url": "https://open.spotify.com/album/2yudf19Ddb0ynglfZtKpD0"
-      },
-      "artists": [
-        {
-          "name": "LEE BYEONGCHAN",
-          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
-        }
-      ],
-      "duration_ms": 227238,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/40ozUffOxCv6Ge5ip6jSN0"
     },
     {
       "added_at": "2026-09-22 14:14:58",

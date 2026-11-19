@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Ralphie Choo
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,895 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,843 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 12 | [Mercedes Rosa](https://open.spotify.com/track/0w9KWawjDKyw9p8Otdouq9) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [El Más Feliz de los Tristes](https://open.spotify.com/album/3xCb1oxClCtTvz0TdQj8I0) | 3:00 |
 | 13 | [Natural](https://open.spotify.com/track/4SGwidXo92miFR2KDX3cnD) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Natural](https://open.spotify.com/album/7A1kqItQjgJgk6hcd3vhEV) | 2:42 |
 | 14 | [que si que no](https://open.spotify.com/track/7yZFeoo9wqiW5pTgemZpJ8) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [late night swim](https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35) | 3:14 |
-| 15 | [PROFUNDA](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 2:34 |
+| 15 | [](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 0:00 |
 | 16 | [agora sii](https://open.spotify.com/track/29FeMQD1iBUXZ7ZpmLSRXM) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [emmi](https://open.spotify.com/artist/4uKazpOzJICJZ1MU1wwLfC) | [agora sii](https://open.spotify.com/album/3pKXD2pQijx2ZKeVVXRfQ3) | 1:32 |
 | 17 | [Flor de canela](https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Flor de canela](https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg) | 3:49 |
 | 18 | [Entiérrame En Él](https://open.spotify.com/track/1L205iWERShaUHCKuTwROo) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [In Bloom](https://open.spotify.com/album/1RQPYudY9t7nbM6P1dg5kd) | 2:53 |
-| 19 | [De Tenerme](https://open.spotify.com/track/2eRrBR7nrmKvxtUb21r0qe) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc), [Nubes](https://open.spotify.com/artist/67fXULSdicgWhi8AZqtpal) | [De Tenerme](https://open.spotify.com/album/2zMAdxcz21mzJGOdRytVEr) | 5:03 |
+| 19 | [De Tenerme](https://open.spotify.com/track/2eRrBR7nrmKvxtUb21r0qe) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc), [nubes.](https://open.spotify.com/artist/2VHDFN1DwmqjepubAQjwhL) | [De Tenerme](https://open.spotify.com/album/2zMAdxcz21mzJGOdRytVEr) | 5:03 |
 | 20 | [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 |
 | 21 | [missu\(－‸ ლ\)](https://open.spotify.com/track/7xf8DSO5glEj5hC0an7mM8) | [REYPA](https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW) | [missu\(－‸ ლ\)](https://open.spotify.com/album/4I6rfGpWH83vXbuj2Rfl9m) | 2:13 |
 | 22 | [se queda corto el beat](https://open.spotify.com/track/2CORGIZPyBTQE6fIrGBtfc) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [se queda corto el beat](https://open.spotify.com/album/7hOH4WwfCTIZAWpj8mayTj) | 1:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [No Puedo](https://open.spotify.com/track/1r6sT1iIPU6odi8CZTZ9wv) | [Planta Industrial](https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw), [aka the darknight](https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j), [Saso](https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu) | [Punk Wave Sin Barreras Volume 2: Cutting Corners](https://open.spotify.com/album/2anFJIvdv6A3LAjKLPHu7j) | 3:37 |
 | 50 | [AMOR FATI](https://open.spotify.com/track/6FfN4fFMsiBK2pgP9mLqxL) | [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [AMOR FATI](https://open.spotify.com/album/25rco5l7GSs8Da0X4eABQw) | 3:01 |
 
-Snapshot ID: `AAAAAIihXFfBPoOYW7TqG3hGGInRRqBf`
+Snapshot ID: `AAAAAGuuYDFAI0pvmM6NHQkPW8T45l2s`

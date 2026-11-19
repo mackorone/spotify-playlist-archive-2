@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Likeboss
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,768 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,762 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [Diss Track](https://open.spotify.com/track/2WZQ4o39tzTJn7trsM3ZcS) | [2shots](https://open.spotify.com/artist/0ZRgNmKNkngvESBVUqkICS) | [Dead Or Wanted](https://open.spotify.com/album/1TLEudSWzZckkbuuFDW6ui) | 2:20 |
 | 60 | [BILLION VIEW](https://open.spotify.com/track/4kWPKMeijVnvEG1OULI0KV) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm), [Ghetto Queen](https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK), [Icelee](https://open.spotify.com/artist/2zj3FEs4NYe6Ij6hZsQ05F) | [BILLION VIEW](https://open.spotify.com/album/6egXqUPkbVlKu0sxLkImVV) | 3:25 |
 
-Snapshot ID: `AAAAAGf689CHSMVkKy8QtrfbW1p0Dbxb`
+Snapshot ID: `AAAAAEtJ0Z0h2D5sClaFTnsYCXcbw38m`

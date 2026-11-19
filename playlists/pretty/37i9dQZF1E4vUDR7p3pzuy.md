@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vUDR7p3pzuy.md) - [plain]
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With JUST LIZZY, David Von Beahm, The Poor Toms and more
+> With post\-punk'er, JUST LIZZY, Captain Margaret and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 28 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vUDR7p3pzuy.md) - [plain]
 | 49 | [Porcelain \- White Remix](https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ) | [Eleanor Collides](https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34), [Maira 3](https://open.spotify.com/artist/2UEUYQRlIIibz5FJPAl8Ow) | [Breakables](https://open.spotify.com/album/2rEfTbbOFXynGBDWWpeSiY) | 6:23 |
 | 50 | [Nighttime Fever](https://open.spotify.com/track/73l79VEOevCdpHRKudlTwy) | [Heartracer](https://open.spotify.com/artist/0aJJxKQmV9ALSM6kPWzBS4), [Whitney Tai](https://open.spotify.com/artist/1mYgR7qRLUdTNAM8ZNP34R) | [Nighttime Fever](https://open.spotify.com/album/2lJoB3fNvCukZQ7ziNyEIj) | 5:30 |
 
-Snapshot ID: `AAAAAEdySqZBVqe7jjhJUIOm6CrjaYK8`
+Snapshot ID: `AAAAAOU9hiJGDxmVYk35Ixe4yjN/9xlc`

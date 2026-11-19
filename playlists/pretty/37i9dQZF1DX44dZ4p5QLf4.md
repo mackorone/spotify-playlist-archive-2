@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 78 | [Insane](https://open.spotify.com/track/0Vzs2KjrNBx7xzAGZPvk5g) | [Julia Rebière](https://open.spotify.com/artist/3yiyvhlHgefS4Flk1FUAGK) | [Insane](https://open.spotify.com/album/60sT1U2Szh3fSlVTFrGWuS) | 3:25 |
 | 79 | [BEAUTIFUL DAY](https://open.spotify.com/track/3BytHPrP6HolL4qFikBs0y) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [BEAUTIFUL DAY](https://open.spotify.com/album/2CRjF7mOcgW1WRPMNMXAye) | 2:00 |
 
-Snapshot ID: `AAAAAKO3UJKLyt5qlqMIAS8vTKvf6nvU`
+Snapshot ID: `AAAAAK5Dz8gDsTDNVbo2YDi6G1SXlgKF`

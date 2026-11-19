@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > do not ever doubt mr\. 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,183 likes - 120 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,354 likes - 120 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 15 | [CTE](https://open.spotify.com/track/2LSWCnOQicfBJJH5tacEtk) | [Porcelain Boy](https://open.spotify.com/artist/6iQ4UCzbPgv9fb3zrG6GiX), [DoloRRes](https://open.spotify.com/artist/74OqG3fmuLxfa8qIzmyJVC), [Shy Jr](https://open.spotify.com/artist/5VQm4YNIOwCvF9TUeGeYQW) | [you can't see my mirrors, I can't see you](https://open.spotify.com/album/4kFyZa0pIJ6vSERdNUOqii) | 3:26 |
 | 16 | [i dont recall](https://open.spotify.com/track/2OzS3MVJ7VQA0R7prkusJf) | [B0YG1RL](https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq) | [new wave\*](https://open.spotify.com/album/1mSOHuHde3ILNYWSUYB9Yx) | 1:49 |
 | 17 | [BRAINDEAD \(Okay!\)](https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:18 |
-| 18 | [PROFUNDA](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 2:34 |
+| 18 | [](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 0:00 |
 | 19 | [what a ride](https://open.spotify.com/track/7h2RPpLBoEPobQeNda1ZgS) | [kruu](https://open.spotify.com/artist/64YoasRU8YcyBAbNRmCEiI) | [11:34](https://open.spotify.com/album/5zWU5t9HAqpAntVnLEWOpF) | 2:44 |
 | 20 | [billy](https://open.spotify.com/track/0fqaZvEg36C9NkQn0wGMmt) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [billy](https://open.spotify.com/album/0Gm9CZLhnIC5touMATdWaY) | 2:56 |
 | 21 | [anti\-pop](https://open.spotify.com/track/5rAeybdQ3ejQJoifCRx9JL) | [ALCATRAZ](https://open.spotify.com/artist/1HLQrKy2EhoJdADW105gfR), [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [EUROBABY](https://open.spotify.com/album/6x8LVLYZJw0kc12ucpqk76) | 2:45 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 119 | [Starlight](https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Starlight](https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI) | 3:39 |
 | 120 | [Hot Fun](https://open.spotify.com/track/2E3p2VCXYQMgxtwDt9dLDO) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Hot Fun](https://open.spotify.com/album/4PzhTCrRTncrgOvGcOYpud) | 3:14 |
 
-Snapshot ID: `AAAAACJHTz1M3pHHiXa8BW3G597rfy8m`
+Snapshot ID: `AAAAADzZZpljffAWdiB7rzO2SJnoryze`

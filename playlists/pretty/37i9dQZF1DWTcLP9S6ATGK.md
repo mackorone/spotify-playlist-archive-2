@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Yovie Widianto, Andi Rianto, Lyodra, Tiara Andini,  Ziva Magnolya
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,869 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,854 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 99 | [Janji Lamis](https://open.spotify.com/track/0UDwOAQN3vEZN2Y5z7lsGP) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Janji Lamis](https://open.spotify.com/album/1GGcG0lPjF5omjdbx852FW) | 3:58 |
 | 100 | [Versi Terbaik](https://open.spotify.com/track/7eoIAp85ttwVf7ZZLxBpD7) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Versi Terbaik](https://open.spotify.com/album/4Ubw0cWnPyCpFGhGHT0aK8) | 2:42 |
 
-Snapshot ID: `AAAAABmtWCHGZysXOm1rzCghHOFFa844`
+Snapshot ID: `AAAAABY+9SLRlYWcj0MBCq4Ygxxgz+7l`

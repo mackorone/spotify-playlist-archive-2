@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,650 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,677 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [IT'S OK](https://open.spotify.com/track/06aYa89R6oTYq0OKdAdQop) | [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb) | [IT'S OK](https://open.spotify.com/album/3wmwypxAmGyhCCBKu34wGb) | 2:33 |
 | 70 | [É Verdade](https://open.spotify.com/track/192Tpc8jyka8lhukETX50O) | [Kelson Most Wanted](https://open.spotify.com/artist/2kEiVxxmG9nA1CvSb8nqQ1) | [Invictus](https://open.spotify.com/album/5f6eyVG21grEq6FyNKXMO1) | 4:10 |
 
-Snapshot ID: `AAAAAKf2HUc8OknL3ROJV8FWuxsjcGCa`
+Snapshot ID: `AAAAAGtSAJdQFXepj7pt48DL71XWBwgw`

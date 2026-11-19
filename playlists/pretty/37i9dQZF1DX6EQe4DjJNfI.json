@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Maui",
-  "num_followers": 192325,
+  "num_followers": 192331,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAQne/LF6/60CcHx511wZxRVZ7UD",
+  "snapshot_id": "AAAAAFeLHmYg1c3mCgH99HaKmJS8KPis",
   "tracks": [
     {
       "added_at": "2026-11-06 16:01:03",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Tudo Que Eu Sinto Faz Barulho",
-        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 205952,
-      "name": "Doce, Dengosa, Polida",
-      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 190769,
       "name": "P\u00farpura",
       "url": "https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "Tudo Que Eu Sinto Faz Barulho",
+        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 205952,
+      "name": "Doce, Dengosa, Polida",
+      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -451,42 +451,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "R&Belo",
-        "url": "https://open.spotify.com/album/4ZBY0O57cdLgFWkp1FsGQt"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Caetanoprod",
-          "url": "https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Defeito Meu",
-      "url": "https://open.spotify.com/track/31WTB3bxExrO2kcxybAZUN"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "P\u00farpura Session",
-        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 200083,
-      "name": "Dona Do Mundo (P\u00farpura Session)",
-      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "s\u00f3 (mais) uma vez",
         "url": "https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp"
       },
@@ -507,6 +471,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "P\u00farpura Session",
+        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 200083,
+      "name": "Dona Do Mundo (P\u00farpura Session)",
+      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Despacha",
         "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 178557,
       "name": "Despacha",
       "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "R&Belo",
+        "url": "https://open.spotify.com/album/4ZBY0O57cdLgFWkp1FsGQt"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Caetanoprod",
+          "url": "https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Defeito Meu",
+      "url": "https://open.spotify.com/track/31WTB3bxExrO2kcxybAZUN"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -891,26 +891,26 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Dubl\u00ea",
-        "url": "https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh"
+        "name": "Cris\u00e1lida",
+        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
       "artists": [
         {
-          "name": "Don",
-          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         },
         {
-          "name": "Monrabeatz",
-          "url": "https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C"
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
         },
         {
-          "name": "Juce Rock",
-          "url": "https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv"
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
         }
       ],
-      "duration_ms": 158105,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
+      "duration_ms": 134571,
+      "name": "Al\u00f4? \u00c9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/5sJ0E8Y3W4P1ko7ivdRmcW"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -939,30 +939,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 134571,
-      "name": "Al\u00f4? \u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/5sJ0E8Y3W4P1ko7ivdRmcW"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 254791,
       "name": "Prisma",
       "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "Dubl\u00ea",
+        "url": "https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh"
+      },
+      "artists": [
+        {
+          "name": "Don",
+          "url": "https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA"
+        },
+        {
+          "name": "Monrabeatz",
+          "url": "https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C"
+        },
+        {
+          "name": "Juce Rock",
+          "url": "https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv"
+        }
+      ],
+      "duration_ms": 158105,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "n\u00e3o vou parar",
+        "url": "https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 145237,
+      "name": "n\u00e3o vou parar",
+      "url": "https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "SEM AR//CAOS",
         "url": "https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl"
       },
@@ -1231,26 +1251,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "n\u00e3o vou parar",
-        "url": "https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB"
-      },
-      "artists": [
-        {
-          "name": "MARINA NA VOZ",
-          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 145237,
-      "name": "n\u00e3o vou parar",
-      "url": "https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "Tudo Que Eu Sempre Quis",
         "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 153375,
       "name": "Tudo Que Eu Sempre Quis",
       "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "TRATO",
+        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
+      },
+      "artists": [
+        {
+          "name": "Magyn",
+          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "TRATO",
+      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1291,22 +1307,6 @@
       "duration_ms": 118356,
       "name": "Sinais de Relev\u00e2ncia",
       "url": "https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "TRATO",
-        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
-      },
-      "artists": [
-        {
-          "name": "Magyn",
-          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "TRATO",
-      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
-        "name": "Me Deixa Ser Pausa",
-        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 127389,
-      "name": "Me Deixa Ser Pausa",
-      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
         "name": "SKY",
         "url": "https://open.spotify.com/album/2gD3cGl1czBkNgJsxZTBRl"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2026-11-06 16:01:03",
       "album": {
+        "name": "Me Deixa Ser Pausa",
+        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 127389,
+      "name": "Me Deixa Ser Pausa",
+      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
         "name": "Sonhei com Voc\u00ea",
         "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
       },
@@ -1423,26 +1423,6 @@
       "duration_ms": 261144,
       "name": "Sonhei com Voc\u00ea",
       "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
-    },
-    {
-      "added_at": "2026-11-06 16:01:03",
-      "album": {
-        "name": "Sai do Meu Radar",
-        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
-      },
-      "artists": [
-        {
-          "name": "KAMACHO",
-          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 145078,
-      "name": "Sai do Meu Radar",
-      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
     },
     {
       "added_at": "2026-11-06 16:01:03",
@@ -1463,6 +1443,26 @@
       "duration_ms": 245714,
       "name": "Meu I\u00f4 I\u00f4",
       "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
+    },
+    {
+      "added_at": "2026-11-06 16:01:03",
+      "album": {
+        "name": "Sai do Meu Radar",
+        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
+      },
+      "artists": [
+        {
+          "name": "KAMACHO",
+          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 145078,
+      "name": "Sai do Meu Radar",
+      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
     },
     {
       "added_at": "2026-11-06 16:01:03",

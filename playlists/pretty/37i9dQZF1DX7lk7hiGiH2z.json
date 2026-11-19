@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten Lieder f\u00fcr den Laternenumzug \u2728",
-  "num_followers": 63976,
+  "num_followers": 63996,
   "original_name": "Familienzeit: Laternenlieder",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-11-11 14:34:38",
       "album": {
-        "name": "Sankt Martin",
-        "url": "https://open.spotify.com/album/5wfhzShvdS5LPlyrmdmdkG"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 153257,
-      "name": "Sankt Martin",
-      "url": "https://open.spotify.com/track/6YEsxLIExeOZICC4xWDcLJ"
-    },
-    {
-      "added_at": "2026-11-11 14:34:38",
-      "album": {
         "name": "Laterne, Laterne, leuchtet wie die Sterne (24 Laternenlieder und Martinslieder)",
         "url": "https://open.spotify.com/album/4Qlhlv3BIQ56gipbzk2Ff4"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 137280,
       "name": "Laterne, Laterne (Sonne, Mond und Sterne)",
       "url": "https://open.spotify.com/track/7KKcKW99q3tmeXILTIFfGe"
+    },
+    {
+      "added_at": "2026-11-11 14:34:38",
+      "album": {
+        "name": "Sankt Martin",
+        "url": "https://open.spotify.com/album/5wfhzShvdS5LPlyrmdmdkG"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 153257,
+      "name": "Sankt Martin",
+      "url": "https://open.spotify.com/track/6YEsxLIExeOZICC4xWDcLJ"
     },
     {
       "added_at": "2026-11-11 14:34:38",

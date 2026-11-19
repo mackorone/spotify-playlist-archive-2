@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Nick Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,278 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,280 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [Extra Time](https://open.spotify.com/track/0UHNfLj6mQL2kz2qZT5mfC) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Extra Time](https://open.spotify.com/album/0qwtFpkWPaiMG2wh9Zf5yw) | 3:34 |
 | 100 | [Floodlights](https://open.spotify.com/track/7dduyo9MVWpKSYjrQGoCcP) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [Floodlights](https://open.spotify.com/album/2Q6MqlMYiiAGZyWdFFyCiZ) | 4:18 |
 
-Snapshot ID: `AAAAAIA0KNv7E6lgG/7RAyYos/bx3flP`
+Snapshot ID: `AAAAAGclS3W7RPn1XjitJj8nBBTS8Q/x`

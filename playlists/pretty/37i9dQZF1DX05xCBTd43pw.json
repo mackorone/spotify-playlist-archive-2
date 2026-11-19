@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKdANeL8kaOAPcn49IV9qJt/BsVQ",
+  "snapshot_id": "AAAAAKpBUI+eXkP2Pa8w//EsoP1TFbEI",
   "tracks": [
     {
       "added_at": "2026-11-05 23:00:43",
@@ -207,22 +207,18 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
-        "name": "How To Heal",
-        "url": "https://open.spotify.com/album/5Ne5wTfd1KTjq5oP4Jel2l"
+        "name": "Throw The Dice",
+        "url": "https://open.spotify.com/album/35RMq2UW1wvDT4mZga4861"
       },
       "artists": [
         {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        },
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
         }
       ],
-      "duration_ms": 189048,
-      "name": "How To Heal",
-      "url": "https://open.spotify.com/track/3s8dyCHLhV2Ha162qEoNaw"
+      "duration_ms": 206890,
+      "name": "Gravity's Pull",
+      "url": "https://open.spotify.com/track/4lBNkW8PZXnNey9o5rq7Dw"
     },
     {
       "added_at": "2026-11-05 23:00:43",
@@ -243,6 +239,26 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
+        "name": "How To Heal",
+        "url": "https://open.spotify.com/album/5Ne5wTfd1KTjq5oP4Jel2l"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 189048,
+      "name": "How To Heal",
+      "url": "https://open.spotify.com/track/3s8dyCHLhV2Ha162qEoNaw"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/31PPWVoWDehQCDwiJJ2cwc"
       },
@@ -255,38 +271,6 @@
       "duration_ms": 160279,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/4tfe4xSUv04RfK1M6gpdHG"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
-        "name": "Throw The Dice",
-        "url": "https://open.spotify.com/album/35RMq2UW1wvDT4mZga4861"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 206890,
-      "name": "Gravity's Pull",
-      "url": "https://open.spotify.com/track/4lBNkW8PZXnNey9o5rq7Dw"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
-        "name": "Roger Federer",
-        "url": "https://open.spotify.com/album/7IISafvSpBpXjPCK4Zy3ET"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtB\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 143615,
-      "name": "Roger Federer",
-      "url": "https://open.spotify.com/track/6P2c3YRPeB1Hf8Rw4USLmL"
     },
     {
       "added_at": "2026-11-05 23:00:43",
@@ -307,6 +291,22 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
+        "name": "Roger Federer",
+        "url": "https://open.spotify.com/album/7IISafvSpBpXjPCK4Zy3ET"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtB\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 143615,
+      "name": "Roger Federer",
+      "url": "https://open.spotify.com/track/6P2c3YRPeB1Hf8Rw4USLmL"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
         "name": "Madras",
         "url": "https://open.spotify.com/album/7ayAod1AzAPSCGu3kBgwHE"
       },
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
         "name": "I am Sorry",
         "url": "https://open.spotify.com/album/0TybIckKrjnl9VDd9VIcqy"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 156280,
       "name": "I am Sorry",
       "url": "https://open.spotify.com/track/7BT7AP9TTpcGawR3cvCvV3"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2026-11-05 23:00:43",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/7nK6vEIK0sdUSuEA2iD57w"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 166782,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2ovqDAWhl1pa6uWyWi1Ibi"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
         "name": "joli d\u00e9sastre",
         "url": "https://open.spotify.com/album/6sglgOyD2hmP8M4guQCdUx"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 203904,
       "name": "joli d\u00e9sastre",
       "url": "https://open.spotify.com/track/4SPxL3UxiuvuCQfbTCxdec"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/7nK6vEIK0sdUSuEA2iD57w"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 166782,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2ovqDAWhl1pa6uWyWi1Ibi"
     },
     {
       "added_at": "2026-11-05 23:00:43",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
+        "name": "Darling You\u2019re The Worst",
+        "url": "https://open.spotify.com/album/3uKIoyw5PjZhtRSzFW4D53"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Darling You\u2019re The Worst",
+      "url": "https://open.spotify.com/track/1oGQ9YBiav74Q9MjjOTwi8"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
         "name": "The Feast",
         "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
-        "name": "Darling You\u2019re The Worst",
-        "url": "https://open.spotify.com/album/3uKIoyw5PjZhtRSzFW4D53"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Darling You\u2019re The Worst",
-      "url": "https://open.spotify.com/track/1oGQ9YBiav74Q9MjjOTwi8"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
         "name": "Dancing Alone Again",
         "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 191432,
       "name": "Dancing Alone Again",
       "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
-        "name": "Shouting with a Whisper",
-        "url": "https://open.spotify.com/album/0wWfFcMUyMDWAQd0pm7rV1"
-      },
-      "artists": [
-        {
-          "name": "Lovebugs",
-          "url": "https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89"
-        }
-      ],
-      "duration_ms": 205667,
-      "name": "Shouting with a Whisper",
-      "url": "https://open.spotify.com/track/5s9VItQqugAg3FYacTU61O"
     },
     {
       "added_at": "2026-11-05 23:00:43",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
+        "name": "Shouting with a Whisper",
+        "url": "https://open.spotify.com/album/0wWfFcMUyMDWAQd0pm7rV1"
+      },
+      "artists": [
+        {
+          "name": "Lovebugs",
+          "url": "https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89"
+        }
+      ],
+      "duration_ms": 205667,
+      "name": "Shouting with a Whisper",
+      "url": "https://open.spotify.com/track/5s9VItQqugAg3FYacTU61O"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
         "name": "This I Know",
         "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
-        "name": "The One That Got Away",
-        "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
         "name": "WITHDRAWAL SYMPTOMS",
         "url": "https://open.spotify.com/album/5NNr9nRArk1NzuD8drNsiE"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 219718,
       "name": "\u2601\ufe0e purple orange sky \u2601\ufe0e",
       "url": "https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
+        "name": "The One That Got Away",
+        "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
     },
     {
       "added_at": "2026-11-05 23:00:43",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
-        "name": "Blindsided",
-        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 165062,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
         "name": "As I Am",
         "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 207307,
       "name": "As I Am",
       "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
+        "name": "Blindsided",
+        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "duration_ms": 165062,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
     },
     {
       "added_at": "2026-11-05 23:00:43",
@@ -1243,6 +1243,38 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
+        "name": "Don't Let Him Go",
+        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "Don't Let Him Go",
+      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "duration_ms": 161340,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
         "name": "Young Bones",
         "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
       },
@@ -1271,38 +1303,6 @@
       "duration_ms": 210842,
       "name": "Wednesdays",
       "url": "https://open.spotify.com/track/131XfngivzGCdM0p9kzsAP"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 161340,
-      "name": "Low Tide",
-      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
-        "name": "Don't Let Him Go",
-        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
-      },
-      "artists": [
-        {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "Don't Let Him Go",
-      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
     },
     {
       "added_at": "2026-11-05 23:00:43",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
-        "name": "Moved On",
-        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn"
       },
       "artists": [
         {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
         }
       ],
-      "duration_ms": 188337,
-      "name": "Moved On",
-      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
+      "duration_ms": 161946,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb"
     },
     {
       "added_at": "2026-11-05 23:00:43",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
+        "name": "Moved On",
+        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "duration_ms": 188337,
+      "name": "Moved On",
+      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
         "name": "homemade dynamite",
         "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 209415,
       "name": "homemade dynamite",
       "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
-        "name": "SWITCH",
-        "url": "https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "SWITCH",
-      "url": "https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb"
     },
     {
       "added_at": "2026-11-05 23:00:43",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
-        "name": "Change You",
-        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
-      },
-      "artists": [
-        {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
-        }
-      ],
-      "duration_ms": 266105,
-      "name": "Change You",
-      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
         "name": "Durch die Nacht",
         "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 173830,
       "name": "Durch die Nacht",
       "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
+        "name": "Change You",
+        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "duration_ms": 266105,
+      "name": "Change You",
+      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-11-05 23:00:43",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-11-05 23:00:43",
       "album": {
-        "name": "Dorm",
-        "url": "https://open.spotify.com/album/2Ygjfegm1kwAwBltMFM9lY"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 156899,
-      "name": "Dorm",
-      "url": "https://open.spotify.com/track/3o2msMcYmPBYSjCmESw5NL"
-    },
-    {
-      "added_at": "2026-11-05 23:00:43",
-      "album": {
         "name": "Waiting For Love",
         "url": "https://open.spotify.com/album/77P9wXuR8Ju9urUZbjlbnU"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 194626,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT"
+    },
+    {
+      "added_at": "2026-11-05 23:00:43",
+      "album": {
+        "name": "Dorm",
+        "url": "https://open.spotify.com/album/2Ygjfegm1kwAwBltMFM9lY"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 156899,
+      "name": "Dorm",
+      "url": "https://open.spotify.com/track/3o2msMcYmPBYSjCmESw5NL"
     }
   ],
   "unique_name": "Swiss Made",

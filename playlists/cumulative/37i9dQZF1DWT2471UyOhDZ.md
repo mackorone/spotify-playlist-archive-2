@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Kings of Leon
 
-556 songs - 1 day 11 hr 42 min
+557 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Always Some MF](https://open.spotify.com/track/1DPycGNFfBveTyk51nG9VG) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Always Some MF](https://open.spotify.com/album/7kySkdJL5cB48aMcxNdEIc) | 4:38 | 2025-02-28 | 2025-04-30 |
 | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0) | 4:16 | 2026-01-12 | 2026-06-26 |
 | [AMAMA](https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:10 | 2024-06-14 | 2025-10-24 |
-| [Amber](https://open.spotify.com/track/0gzGERYI7A4ORxxMIYM8ol) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Amber](https://open.spotify.com/album/5pheavpnjvGXl4yAWGIRhl) | 2:27 | 2026-07-23 |  |
+| [Amber](https://open.spotify.com/track/0gzGERYI7A4ORxxMIYM8ol) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Amber](https://open.spotify.com/album/5pheavpnjvGXl4yAWGIRhl) | 2:27 | 2026-07-23 | 2026-11-19 |
 | [An Artist Is An Artist](https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [An Artist Is An Artist](https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ) | 3:11 | 2025-02-07 | 2026-03-10 |
 | [Ankles](https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/4wsg5JXL6d2ZG6siAKYizP) | 3:11 | 2025-01-17 | 2025-02-08 |
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-02-07 | 2025-06-04 |
@@ -225,6 +225,7 @@
 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-01-17 | 2025-10-22 |
 | [Hail](https://open.spotify.com/track/450ZDkFvuRfdsfbbeDQfyq) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Bright Things I Found In The Dark](https://open.spotify.com/album/2xLweeSXmZEPeXMWoRpudT) | 4:40 | 2026-04-30 | 2026-07-22 |
 | [Hangman](https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Hangman](https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9) | 3:09 | 2025-02-07 | 2025-03-27 |
+| [Hares on The Mountain](https://open.spotify.com/track/23XRxuggbBfTNEq1aheLzF) | [Radie Peat](https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji) | [No Human Tongue Can Tell](https://open.spotify.com/album/6TxgYAxC0MRdjZ2HJ4eAWH) | 3:33 | 2026-11-06 |  |
 | [haven’t found love.](https://open.spotify.com/track/2SMQtb6HabOW6Uo8ocVske) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [haven’t found love.](https://open.spotify.com/album/5adelMOkx04sITILgdP5tw) | 2:56 | 2026-08-06 |  |
 | [He Wants Me](https://open.spotify.com/track/4sh97EIcM6xkHeyGB44Prq) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [If You Asked For A Picture](https://open.spotify.com/album/0b4ieMOkv7WGdJ4qYXbtzZ) | 3:29 | 2025-05-08 | 2026-02-21 |
 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 | 2024-06-14 | 2025-03-22 |

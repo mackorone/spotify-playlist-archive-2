@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1469,
+  "num_followers": 1475,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAHWBEKZ/Bvibez0LElpwvSx7b42M7t",
+  "snapshot_id": "AAAHWi1ccNFJ0H+bjqkUBLNq3eKUxJv4",
   "tracks": [
     {
       "added_at": "2026-08-18 04:07:14",
@@ -1267,6 +1267,42 @@
       "duration_ms": 268901,
       "name": "Crumbling Castle",
       "url": "https://open.spotify.com/track/2MOAwTkYaxHc6rcY2QPYcm"
+    },
+    {
+      "added_at": "2026-11-18 21:08:39",
+      "album": {
+        "name": "Something Something Disco",
+        "url": "https://open.spotify.com/album/1PrZie0NfaYvlTTfB8DAve"
+      },
+      "artists": [
+        {
+          "name": "Sweet Electric",
+          "url": "https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm"
+        }
+      ],
+      "duration_ms": 206925,
+      "name": "Somewhere in the Middle",
+      "url": "https://open.spotify.com/track/1Soch8t4XTmagsPJCEqrAi"
+    },
+    {
+      "added_at": "2026-11-18 21:14:46",
+      "album": {
+        "name": "Kill Me With A Kiss",
+        "url": "https://open.spotify.com/album/25ikxA50fL755TK0KYkbCO"
+      },
+      "artists": [
+        {
+          "name": "Emily Wolfe",
+          "url": "https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "Kill Me With A Kiss",
+      "url": "https://open.spotify.com/track/1fKSRmApiBIgJ5bYsPrShp"
     }
   ],
   "unique_name": "Unsigned Rock",

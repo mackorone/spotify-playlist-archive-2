@@ -1,12 +1,12 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123575,
+  "num_followers": 123577,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMZQwfkkOlfJhs8NLGj5UxmdeWaE",
+  "snapshot_id": "AAAAALAngnQaNMcoOZ2ZrJHGmZhpjt3m",
   "tracks": [
     {
       "added_at": "2026-10-19 16:00:13",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Dontcha",
-      "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Dontcha",
+      "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "LOVE AND COMPROMISE",
-        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "I Wish I Missed My Ex",
-      "url": "https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "Ungodly Hour",
         "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 255893,
       "name": "Ungodly Hour",
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
+        "name": "LOVE AND COMPROMISE",
+        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "I Wish I Missed My Ex",
+      "url": "https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ"
     },
     {
       "added_at": "2026-10-19 16:00:13",

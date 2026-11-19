@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Jack River
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,847 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,845 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Baby Lamb](https://open.spotify.com/track/4FwurdZieC9XmCo2TtLmTV) | [Winifred](https://open.spotify.com/artist/0nrIAg6pctHbjP3FyKOvgM) | [Baby Lamb](https://open.spotify.com/album/6EhymIOfK7Ji0OzxKchaGJ) | 3:49 |
 | 100 | [This man is a preacher](https://open.spotify.com/track/068jK4fexYZg1zAUG5Lh0u) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU) | [HOW DO WOMEN FLY?](https://open.spotify.com/album/2VUwD7MhVeQZl9ishw8dMW) | 2:56 |
 
-Snapshot ID: `AAAAAJjgEmJIryLIkpeizkC4dDoY4UZD`
+Snapshot ID: `AAAAAERxUGZTKqaeTTZG0vqLdHXcLoDx`

@@ -24155,6 +24155,28 @@
     },
     {
       "album": {
+        "name": "softening",
+        "url": "https://open.spotify.com/album/1YZf5fFOKZWLycjLAe5fbx"
+      },
+      "artists": [
+        {
+          "name": "PORTIA",
+          "url": "https://open.spotify.com/artist/0tufQz2tagGrgt9MiFQkci"
+        },
+        {
+          "name": "CD",
+          "url": "https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f"
+        }
+      ],
+      "date_added": "2026-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233548,
+      "name": "expectations",
+      "url": "https://open.spotify.com/track/65ui4m7jIF7Lvt93gfEN9c"
+    },
+    {
+      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/4PMNWRNxUku67eYMvnAOdt"
       },

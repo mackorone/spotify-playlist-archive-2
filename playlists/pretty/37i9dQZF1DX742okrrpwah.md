@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SDM, Joseph Kamel, U2 x Dolly Parton et Marine x Danyl au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,097 likes - 112 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,060 likes - 112 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 111 | [YES](https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [YES](https://open.spotify.com/album/0FiarOgpwaZ18ZvTy7dlXc) | 3:10 |
 | 112 | [Set Me Free](https://open.spotify.com/track/4GjIE0VYM6rBtBIJemRzww) | [Adiel](https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw) | [Set Me Free](https://open.spotify.com/album/6H69i1PwbYdTsX31bGgq7f) | 5:00 |
 
-Snapshot ID: `AAAAAMcOdP9uqiw7VoizMSAkCrozesQ+`
+Snapshot ID: `AAAAADMhPeWVrPH7zUqhqTSKiaMeUfsQ`

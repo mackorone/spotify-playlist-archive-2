@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,175 likes - 228 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,169 likes - 228 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 227 | [Designed For Use](https://open.spotify.com/track/74SxuIhXpwIShTZeEAobgC) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Designed For Use](https://open.spotify.com/album/72dyyYvocjkbDzMLblcCxu) | 3:03 |
 | 228 | [Don’t Worry Dynamite](https://open.spotify.com/track/5U4ewHwID2c2113tSWCEOn) | [Star's Revenge](https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX) | [Don’t Worry Dynamite](https://open.spotify.com/album/5pkKSp5n1o6uBiU6oCeVfk) | 2:47 |
 
-Snapshot ID: `AAAAAL/6aQrSCqhPkoqAeADInu24ANCs`
+Snapshot ID: `AAAAAPFLYEFUSUk5dzeQZ2dyusHKk/jo`

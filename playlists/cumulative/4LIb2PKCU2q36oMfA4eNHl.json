@@ -3169,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "Footnotes",
+        "url": "https://open.spotify.com/album/4ngQDKo3wxGc1LUSKgnPhk"
+      },
+      "artists": [
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186785,
+      "name": "Haunted by You",
+      "url": "https://open.spotify.com/track/4rUedE25xgMplo25Jlxyve"
+    },
+    {
+      "album": {
         "name": "Soft Speak",
         "url": "https://open.spotify.com/album/43SnLa7kdN5e4GAL4xR5V2"
       },
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 227820,
       "name": "He Dreams of Friends",
       "url": "https://open.spotify.com/track/4MqZTThhVdG1MleXMzOpct"
@@ -3546,6 +3564,24 @@
       "duration_ms": 196827,
       "name": "How To Forget",
       "url": "https://open.spotify.com/track/3uVbMPqILJGZO1ZrlcKRuv"
+    },
+    {
+      "album": {
+        "name": "Footnotes",
+        "url": "https://open.spotify.com/album/4ngQDKo3wxGc1LUSKgnPhk"
+      },
+      "artists": [
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190890,
+      "name": "Hypnos",
+      "url": "https://open.spotify.com/track/4WlcDaSjDa1XXymOD61GiN"
     },
     {
       "album": {
@@ -7422,7 +7458,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 268896,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/722blnxCWn8ESHqhGveOaT"
@@ -9079,6 +9115,24 @@
     },
     {
       "album": {
+        "name": "Footnotes",
+        "url": "https://open.spotify.com/album/4ngQDKo3wxGc1LUSKgnPhk"
+      },
+      "artists": [
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131712,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/5vUoI5mCuw8PpLAHJWa2n8"
+    },
+    {
+      "album": {
         "name": "Reflections 08",
         "url": "https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP"
       },
@@ -9170,7 +9224,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 186762,
       "name": "We Are Sitting in a Scary Place",
       "url": "https://open.spotify.com/track/1ChtbJlEUf4OS69x8Tr6p9"

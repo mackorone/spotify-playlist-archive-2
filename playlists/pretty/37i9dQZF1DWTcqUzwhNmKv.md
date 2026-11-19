@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Make Them Suffer are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,660,048 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,660,088 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 99 | [Shrine](https://open.spotify.com/track/663lLE4Rhv6P8WRu0DZgyJ) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Who Loves The Sun](https://open.spotify.com/album/2ITnf8HOokOJxjv483Dszk) | 4:37 |
 | 100 | [I Am Ice](https://open.spotify.com/track/6ZNscYeVhHgM3RHU4TjEMZ) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD), [Johan Sara Jr.](https://open.spotify.com/artist/2P466JXaRfp8M9fX2eVhwR) | [Mið](https://open.spotify.com/album/4YMrTpx1I30qGlSsRzzwMm) | 5:02 |
 
-Snapshot ID: `AAAAAMoA+K/vXqvoGHzLDKLHIHFXjVaP`
+Snapshot ID: `AAAAAJegd5jiJKk6ObepqgOUJlfh8tak`

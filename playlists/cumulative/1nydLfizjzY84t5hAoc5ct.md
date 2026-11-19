@@ -4,7 +4,7 @@
 
 > OffAxisTours.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-482 songs - 1 day 5 hr 0 min
+485 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Identical](https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 5:02 | 2026-09-03 | 2026-11-16 |
 | [Il dj non suona](https://open.spotify.com/track/1kMGWzUHyNqdSKahkVFH15) | [Maurizio Ferrandini](https://open.spotify.com/artist/0LjzyJKPxYpkh3qMKwVI82) | [Il dj non suona](https://open.spotify.com/album/0CqCj564cbyme7Xr6LmQ8B) | 3:33 | 2026-07-11 | 2026-07-22 |
 | [Immature](https://open.spotify.com/track/52WG3DcO0W1LnBmVr2rKJE) | [K\-LYN](https://open.spotify.com/artist/2Qp9KchzSzTUCF29ENQwz1) | [Immature](https://open.spotify.com/album/5uuzDZujjELcjo7OxcyaKk) | 2:48 | 2026-04-10 | 2026-05-04 |
+| [in her mind](https://open.spotify.com/track/4S1RoMDPsMuRxjP2zrR4sB) | [Sidewalk](https://open.spotify.com/artist/2fb4tY3yXbMMGACVxem5KU) | [in her mind](https://open.spotify.com/album/4prrhp1PaYncdzHrACrxt2) | 3:56 | 2026-11-18 |  |
 | [In The Dark](https://open.spotify.com/track/1tVhSbVfhWn3dp80negdBc) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [In The Dark](https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ) | 3:08 | 2026-06-19 | 2026-07-22 |
 | [Information Overload](https://open.spotify.com/track/3QQ4GcKUatA4PQsKkr17aY) | [Dubinski](https://open.spotify.com/artist/28QbbtfH9j2mOoswDXnDKk) | [Information Overload](https://open.spotify.com/album/6G9l5Vtnwn4ZL8aGzytSE7) | 3:25 | 2026-06-05 | 2026-08-07 |
 | [Insecure](https://open.spotify.com/track/5MqWKIoNpV1TnLVTvk58GU) | [Homegrownalwaysbest](https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7), [Jam](https://open.spotify.com/artist/2HcIDnavebY2T024UsfDUt) | [Vol 1 \(Experience, Strength and Broke\)](https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy) | 3:38 | 2026-02-02 | 2026-05-04 |
@@ -414,6 +415,7 @@
 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 | 2026-06-19 | 2026-07-22 |
 | [Superhero](https://open.spotify.com/track/5XWVgkQ3V9AS019tkEajON) | [The Shambles](https://open.spotify.com/artist/0TueUMthNygY3RiEWtRJ4Y) | [Superhero](https://open.spotify.com/album/2I4Safy1OTDSrT03CljJAf) | 2:54 | 2025-11-16 | 2026-08-07 |
 | [Swan](https://open.spotify.com/track/07UMhZBENkYwPDfQrn2s9t) | [Flair](https://open.spotify.com/artist/2FDBZdGWn8G6927XKL6cd4) | [Flair](https://open.spotify.com/album/2AfdH1P3nAPnYSzXBBplim) | 3:12 | 2025-11-23 | 2025-12-01 |
+| [take it](https://open.spotify.com/track/2DDQXnc5914t23WufBwDTG) | [Sidewalk](https://open.spotify.com/artist/2fb4tY3yXbMMGACVxem5KU) | [take it](https://open.spotify.com/album/7lLICdixOwEP1ziLx3lreA) | 3:13 | 2026-11-18 |  |
 | [Take Me Home](https://open.spotify.com/track/5lPtbctnX3adI7zg4ysTEW) | [In\-Motion](https://open.spotify.com/artist/7M966gAnsOIc9z0FFQwBea) | [Take Me Home](https://open.spotify.com/album/4GNPA7AIuRfIHNuGwiS7Ew) | 4:04 | 2026-08-25 | 2026-09-04 |
 | [Take Me In Your Arms](https://open.spotify.com/track/5eqOCqtZpiDChi2E7PZUS8) | [Tidings](https://open.spotify.com/artist/6ccYjyRlpLNeOMMMfQjyOb) | [Take Me In Your Arms](https://open.spotify.com/album/6eYKXiC1laQN6mBJg9QBTj) | 7:15 | 2026-08-19 | 2026-08-22 |
 | [Tall As A Mountain](https://open.spotify.com/track/0NYeIYjWO0tiDYvRE6tsAA) | [An Dannsa Dub](https://open.spotify.com/artist/5qVrRD2al9wFR0OcJa1VcH), [Wends](https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a), [MAL](https://open.spotify.com/artist/6glslwkcvP7HUjOiDGkMWh) | [Tall As A Mountain](https://open.spotify.com/album/0pivhuJWUH0a0HQ3mpqS5b) | 3:38 | 2026-03-05 | 2026-03-22 |
@@ -464,6 +466,7 @@
 | [Versions](https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4) | [Moody Moody](https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG) | [Versions](https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2) | 3:53 | 2026-02-22 | 2026-11-16 |
 | [VILE](https://open.spotify.com/track/4EoQv0pEK6p8yQZKL5QtrG) | [Fog Bandits](https://open.spotify.com/artist/2w3I7VwpOlYBEoNoNVk0OZ) | [VILE](https://open.spotify.com/album/0F7PJ8a8WxKpRFjCoANC3M) | 2:58 | 2026-07-06 | 2026-07-17 |
 | [Virtual Dream](https://open.spotify.com/track/00jxdQR0k9QM7vzX0hgCQk) | [1Use\_C0de](https://open.spotify.com/artist/39UN9sbT58XbTytvE0lhUR) | [Virtual Dream](https://open.spotify.com/album/4Hztf9pM4oji7muPUn7QnP) | 3:19 | 2026-09-03 | 2026-09-28 |
+| [Walk Away](https://open.spotify.com/track/6SRhnG59jtSpoNOj3VMf16) | [Movin' On](https://open.spotify.com/artist/7G3LHmNxtl1WelzGgy9wPd) | [Walk Away](https://open.spotify.com/album/0pvFPSZrqH4ukQJhq17WGE) | 3:33 | 2026-11-18 |  |
 | [Walk Of Shame](https://open.spotify.com/track/1omqJvBW6elx8A4O3neTXJ) | [Cathal Fitz](https://open.spotify.com/artist/2N03xrnhfMK53tCtDnWQed) | [Walk Of Shame](https://open.spotify.com/album/51JkU9PDbOr0NPKjokIYjs) | 3:00 | 2026-03-21 | 2026-09-04 |
 | [Wanna Be Enough](https://open.spotify.com/track/5KlXGcFG9ZaZgHC3gh9pmS) | [Painted Vein](https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa) | [Wanna Be Enough](https://open.spotify.com/album/4lKFZ6qfOa4Qe6YT823IZY) | 3:48 | 2026-07-11 | 2026-07-22 |
 | [Warm Days In December](https://open.spotify.com/track/3MSazpukrmtC31wP1DoDv5) | [Acolyte](https://open.spotify.com/artist/2WS5J5EEkNwtJ1IbAnzMlX) | [The Blue Dark](https://open.spotify.com/album/6FDe7YLa2T9E14fZ5eAhag) | 4:21 | 2026-06-07 | 2026-06-15 |

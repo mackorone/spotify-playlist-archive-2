@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 
 > The songs that influenced everything that has happened since\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,459 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,466 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 6 | [House of the Rising Sun](https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Singles Plus](https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz) | 4:29 |
 | 7 | [White Rabbit](https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:30 |
 | 8 | [Send Me A Postcard](https://open.spotify.com/track/6EXOSA4BWBM1AUsXxKwYDT) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Scorpio's Dance](https://open.spotify.com/album/0JqylHtd5MjYXBG2zypr0T) | 2:40 |
-| 9 | [Liar, Liar](https://open.spotify.com/track/3VOS2LMDQT1t7CjoiQWRqW) | [Castaways](https://open.spotify.com/artist/786h0FfIRozE9pD7pNxcGq) | [20th Century Rocks: 60's Rock Bands \- Wild Thing](https://open.spotify.com/album/1MUOAt4ddaUtezItjih1UK) | 1:50 |
+| 9 | [Liar, Liar](https://open.spotify.com/track/3VOS2LMDQT1t7CjoiQWRqW) | [The Castaways](https://open.spotify.com/artist/3PbCnPQUMUHJXAI9g2Ld7V) | [20th Century Rocks: 60's Rock Bands \- Wild Thing](https://open.spotify.com/album/1MUOAt4ddaUtezItjih1UK) | 1:50 |
 | 10 | [Gloria \- Stereo Version](https://open.spotify.com/track/5wfbkDVnNgPG4asSYvtMIC) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Gold \(International Version\)](https://open.spotify.com/album/7c0kHEfTvWuKKzhyiyuTNH) | 2:36 |
 | 11 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
 | 12 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 79 | [The Hedgehog's Song \- 2010 Remaster](https://open.spotify.com/track/7IyDLBtIXS2EKZEt8trS03) | [The Incredible String Band](https://open.spotify.com/artist/0tQzBYPjAardhWpGkqVdNW) | [The 5000 Spirits Or The Layers Of The Onion](https://open.spotify.com/album/3htu0UsV5JuouSfugMHNgS) | 3:27 |
 | 80 | [Philosophy of the World](https://open.spotify.com/track/2WhRJwrsy57H5Mm1P3lykJ) | [The Shaggs](https://open.spotify.com/artist/5ixdD9E7P9r51AOcSInQbl) | [Philosophy of the World](https://open.spotify.com/album/0TzI1YcMAQVdQ4yUZuy7fA) | 2:57 |
 
-Snapshot ID: `AAAAAJ4HYmG8ZZdC6DZ44DSpQX6g9H0A`
+Snapshot ID: `AAAAAK5Jj9opiAzEDiQwQkNtnNTO+FkM`

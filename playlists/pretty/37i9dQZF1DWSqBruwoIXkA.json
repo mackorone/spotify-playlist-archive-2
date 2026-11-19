@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with Sienna Spiro",
-  "num_followers": 2390093,
+  "num_followers": 2390086,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
     },
     {
-      "added_at": "2025-09-05 04:00:27",
-      "album": {
-        "name": "A COLD PLAY",
-        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "A COLD PLAY",
-      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
-    },
-    {
       "added_at": "2025-07-30 06:17:37",
       "album": {
         "name": "Sex Hysteria",
@@ -1147,6 +1131,22 @@
       "duration_ms": 241291,
       "name": "The Man That Came Back",
       "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
+    },
+    {
+      "added_at": "2025-09-05 04:00:27",
+      "album": {
+        "name": "A COLD PLAY",
+        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "A COLD PLAY",
+      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
     },
     {
       "added_at": "2026-08-28 05:13:39",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
+        "name": "Peter Pan Was Right",
+        "url": "https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 192497,
+      "name": "Peter Pan Was Right",
+      "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
         "name": "28 (with Dean Lewis)",
         "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 208293,
       "name": "28 (with Dean Lewis)",
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Peter Pan Was Right",
-        "url": "https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 192497,
-      "name": "Peter Pan Was Right",
-      "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/13T1nG7nwaoF8EUUwAQnlp"
     },
     {
-      "added_at": "2026-10-20 00:36:51",
-      "album": {
-        "name": "Valley Girl Problems",
-        "url": "https://open.spotify.com/album/0pRvEVRG9DS07oCKKBjeso"
-      },
-      "artists": [
-        {
-          "name": "Kylie Cantrall",
-          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Space Between",
-      "url": "https://open.spotify.com/track/49zQ9uJk6ssNFUYeqUmMwq"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Who Do I Call Now? (Hellbent)",
@@ -1343,6 +1327,22 @@
       "duration_ms": 190750,
       "name": "Who Do I Call Now? (Hellbent)",
       "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"
+    },
+    {
+      "added_at": "2026-10-20 00:36:51",
+      "album": {
+        "name": "Valley Girl Problems",
+        "url": "https://open.spotify.com/album/0pRvEVRG9DS07oCKKBjeso"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Space Between",
+      "url": "https://open.spotify.com/track/49zQ9uJk6ssNFUYeqUmMwq"
     },
     {
       "added_at": "2025-11-07 05:00:51",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/7ifLkceJW9y0uBmlJDcJqF"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "NEVER ENOUGH (Bonus Version)",
-        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
-    },
-    {
       "added_at": "2026-10-09 04:00:45",
       "album": {
         "name": "Still Somewhere Here",
@@ -1423,6 +1407,22 @@
       "duration_ms": 234040,
       "name": "Unlike You",
       "url": "https://open.spotify.com/track/6e9Cu6KNAimXTlhuDNAWc7"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "NEVER ENOUGH (Bonus Version)",
+        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1473,22 +1473,6 @@
       "url": "https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM"
     },
     {
-      "added_at": "2026-06-26 04:02:15",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/2LOKWjz5IXrMMBTVsu6Ak4"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 190794,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/05DdoHON4cgcBxewdCHsSp"
-    },
-    {
       "added_at": "2025-08-01 04:00:33",
       "album": {
         "name": "Parking Lot",
@@ -1503,6 +1487,22 @@
       "duration_ms": 212092,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv"
+    },
+    {
+      "added_at": "2026-06-26 04:02:15",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/2LOKWjz5IXrMMBTVsu6Ak4"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 190794,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/05DdoHON4cgcBxewdCHsSp"
     },
     {
       "added_at": "2026-02-13 05:00:48",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/4kWYvtYR6PbayxGHJ6Lfts"
     },
     {
-      "added_at": "2026-10-09 04:00:45",
-      "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/4DdmB1nAzqjtBSp97tzLus"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 213585,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0CwsKDeErwN4J8RFq6wL14"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "i wish u knew",
@@ -1631,6 +1615,22 @@
       "duration_ms": 193429,
       "name": "i wish u knew",
       "url": "https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH"
+    },
+    {
+      "added_at": "2026-10-09 04:00:45",
+      "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/4DdmB1nAzqjtBSp97tzLus"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 213585,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0CwsKDeErwN4J8RFq6wL14"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1797,22 +1797,6 @@
       "url": "https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
-    },
-    {
       "added_at": "2025-07-11 04:00:20",
       "album": {
         "name": "The Hudson",
@@ -1835,6 +1819,22 @@
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2026-04-10 04:36:33",
@@ -1917,22 +1917,6 @@
       "url": "https://open.spotify.com/track/28SR8JQIpAsletgV04f6Sc"
     },
     {
-      "added_at": "2026-09-04 04:02:39",
-      "album": {
-        "name": "Placeholder",
-        "url": "https://open.spotify.com/album/4HPi2f6Tf6Jhq7j9IrIaWC"
-      },
-      "artists": [
-        {
-          "name": "Sarah Lola",
-          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
-        }
-      ],
-      "duration_ms": 167236,
-      "name": "Placeholder",
-      "url": "https://open.spotify.com/track/0W4eLntQDmc8yDJ7roRdK8"
-    },
-    {
       "added_at": "2026-07-17 04:02:13",
       "album": {
         "name": "Complicated",
@@ -1947,6 +1931,22 @@
       "duration_ms": 219302,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj"
+    },
+    {
+      "added_at": "2026-09-04 04:02:39",
+      "album": {
+        "name": "Placeholder",
+        "url": "https://open.spotify.com/album/4HPi2f6Tf6Jhq7j9IrIaWC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Lola",
+          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
+        }
+      ],
+      "duration_ms": 167236,
+      "name": "Placeholder",
+      "url": "https://open.spotify.com/track/0W4eLntQDmc8yDJ7roRdK8"
     },
     {
       "added_at": "2026-05-15 04:16:24",
@@ -2045,22 +2045,6 @@
       "url": "https://open.spotify.com/track/2JV9GMdRcS8DkpqT3ujFEd"
     },
     {
-      "added_at": "2026-08-21 04:00:24",
-      "album": {
-        "name": "LOVER GIRL",
-        "url": "https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 228291,
-      "name": "misunderstood",
-      "url": "https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "not my job anymore",
@@ -2075,6 +2059,22 @@
       "duration_ms": 188074,
       "name": "not my job anymore",
       "url": "https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz"
+    },
+    {
+      "added_at": "2026-08-21 04:00:24",
+      "album": {
+        "name": "LOVER GIRL",
+        "url": "https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 228291,
+      "name": "misunderstood",
+      "url": "https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0"
     },
     {
       "added_at": "2026-05-15 04:16:24",
@@ -2141,22 +2141,6 @@
       "url": "https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn"
     },
     {
-      "added_at": "2026-07-24 04:02:03",
-      "album": {
-        "name": "just us",
-        "url": "https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 190163,
-      "name": "just us",
-      "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "eternal sunshine",
@@ -2171,6 +2155,22 @@
       "duration_ms": 153633,
       "name": "i wish i hated you",
       "url": "https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE"
+    },
+    {
+      "added_at": "2026-07-24 04:02:03",
+      "album": {
+        "name": "just us",
+        "url": "https://open.spotify.com/album/0drZaGi92vT9ZNzXRdJdX3"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "duration_ms": 190163,
+      "name": "just us",
+      "url": "https://open.spotify.com/track/6rwJHiDMnVEYLDi06lHtOK"
     },
     {
       "added_at": "2026-10-23 04:02:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Die schönsten Lieder für den Laternenumzug ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,976 likes - 45 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,996 likes - 45 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 21 | [Heute leuchten die Laternen](https://open.spotify.com/track/6x80tbpHq4m42mYcqIdd87) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Laternen\- und Herbstlieder](https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn) | 1:43 |
 | 22 | [Abends, wenn es dunkel wird](https://open.spotify.com/track/4gkkfbLfHnqPprH5ym6HhZ) | [Kati Breuer](https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy) | [Sankt Martin ritt durch Schnee und Wind \- Die 25 schönsten Laternenlieder](https://open.spotify.com/album/1WqaJkBlsb8fEz7xAI2P5Y) | 3:05 |
 | 23 | [Die Laternenzeit](https://open.spotify.com/track/28T1cmoXgh7Nh7YqxSo2hY) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Hallo, kleiner Kuschelbär](https://open.spotify.com/album/6BPUbiMCOj0WDsITUEJ89A) | 3:23 |
-| 24 | [Sankt Martin](https://open.spotify.com/track/6YEsxLIExeOZICC4xWDcLJ) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Sankt Martin](https://open.spotify.com/album/5wfhzShvdS5LPlyrmdmdkG) | 2:33 |
-| 25 | [Laterne, Laterne \(Sonne, Mond und Sterne\)](https://open.spotify.com/track/7KKcKW99q3tmeXILTIFfGe) | [Tara G\. Zintel](https://open.spotify.com/artist/36czNxSZP5QBO6FuXjgLKZ) | [Laterne, Laterne, leuchtet wie die Sterne \(24 Laternenlieder und Martinslieder\)](https://open.spotify.com/album/4Qlhlv3BIQ56gipbzk2Ff4) | 2:17 |
+| 24 | [Laterne, Laterne \(Sonne, Mond und Sterne\)](https://open.spotify.com/track/7KKcKW99q3tmeXILTIFfGe) | [Tara G\. Zintel](https://open.spotify.com/artist/36czNxSZP5QBO6FuXjgLKZ) | [Laterne, Laterne, leuchtet wie die Sterne \(24 Laternenlieder und Martinslieder\)](https://open.spotify.com/album/4Qlhlv3BIQ56gipbzk2Ff4) | 2:17 |
+| 25 | [Sankt Martin](https://open.spotify.com/track/6YEsxLIExeOZICC4xWDcLJ) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Sankt Martin](https://open.spotify.com/album/5wfhzShvdS5LPlyrmdmdkG) | 2:33 |
 | 26 | [Laterne laufen](https://open.spotify.com/track/4rgP4H4yJLXLK1wdAfJbBc) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Laternen\- und Herbstlieder 2](https://open.spotify.com/album/68HlRUNLMY75Oe7xh6laOZ) | 2:41 |
 | 27 | [Ich hab eine feine Laterne](https://open.spotify.com/track/5D6VL3ggSYvdj4zauqWw9Q) | [Kati Breuer](https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy) | [Sankt Martin ritt durch Schnee und Wind \- Die 25 schönsten Laternenlieder](https://open.spotify.com/album/1WqaJkBlsb8fEz7xAI2P5Y) | 1:49 |
 | 28 | [Die Laterne hat heut ihren großen Tag](https://open.spotify.com/track/7BC42JI3FLtA8hhuTl7TyY) | [Jürgen Fastje](https://open.spotify.com/artist/1fBCzTI3C3lLiBqyJU81PB) | [Kinderlieder, Teil 3](https://open.spotify.com/album/7oxfGQyy1dp8LAieSPZRP6) | 3:33 |

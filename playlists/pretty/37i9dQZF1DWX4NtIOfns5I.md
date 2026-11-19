@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Fly 1111 out now 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,482 likes - 155 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,504 likes - 155 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 154 | [Diamonds](https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ) | [Alex Amen](https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM) | [Diamonds](https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW) | 4:08 |
 | 155 | [All Them Horses](https://open.spotify.com/track/4y3VBhJPEztyRmNxfK3tZ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:13 |
 
-Snapshot ID: `AAAAAOtkM8UM+CxSg1tUQCYPZpnlZLuF`
+Snapshot ID: `AAAAAGKi/NY9G+sRa0q9uK96mZ589gAh`

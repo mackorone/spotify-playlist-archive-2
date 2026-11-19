@@ -1,12 +1,12 @@
 {
   "description": "Rock with a drop. Cover: HVDES \\m/",
-  "num_followers": 360337,
+  "num_followers": 360365,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACjxAN2MZsPl9otW7FQ1zInsr/+A",
+  "snapshot_id": "AAAAAHSj964Ul8LmV1P1emDwxq5m2+Tq",
   "tracks": [
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Shockwave",
-        "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 181283,
-      "name": "Shockwave",
-      "url": "https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 240000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Shockwave",
+        "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 181283,
+      "name": "Shockwave",
+      "url": "https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1555,26 +1555,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "BUSTED",
-        "url": "https://open.spotify.com/album/0j1YfLra3m8CJCRvPhVcql"
+        "name": "Sugar, We're Goin Down",
+        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
       },
       "artists": [
         {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
         },
         {
-          "name": "Teminite",
-          "url": "https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF"
-        },
-        {
-          "name": "Boom Kitty",
-          "url": "https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR"
+          "name": "Social Repose",
+          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
         }
       ],
-      "duration_ms": 142615,
-      "name": "BUSTED",
-      "url": "https://open.spotify.com/track/49mT4saNKf5BskrD7Bwrw9"
+      "duration_ms": 209210,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1607,22 +1603,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Sugar, We're Goin Down",
-        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
+        "name": "BUSTED",
+        "url": "https://open.spotify.com/album/0j1YfLra3m8CJCRvPhVcql"
       },
       "artists": [
         {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
         },
         {
-          "name": "Social Repose",
-          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
+          "name": "Teminite",
+          "url": "https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF"
+        },
+        {
+          "name": "Boom Kitty",
+          "url": "https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR"
         }
       ],
-      "duration_ms": 209210,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
+      "duration_ms": 142615,
+      "name": "BUSTED",
+      "url": "https://open.spotify.com/track/49mT4saNKf5BskrD7Bwrw9"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Steps On You (Peep My Style)",
-        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
-      },
-      "artists": [
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Steps On You (Peep My Style)",
-      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Not My Night",
         "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 202421,
       "name": "Not My Night",
       "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Steps On You (Peep My Style)",
+        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Steps On You (Peep My Style)",
+      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Badland Bandits",
-        "url": "https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh"
-      },
-      "artists": [
-        {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
-        },
-        {
-          "name": "Stehreo",
-          "url": "https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "Badland Bandits",
-      "url": "https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 131062,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Badland Bandits",
+        "url": "https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        },
+        {
+          "name": "Stehreo",
+          "url": "https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Badland Bandits",
+      "url": "https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Kore",
         "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
       },
@@ -2087,22 +2103,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Colourfast",
         "url": "https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq"
       },
@@ -2115,6 +2115,22 @@
       "duration_ms": 226606,
       "name": "Colourfast",
       "url": "https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2143,18 +2159,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
+        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        },
+        {
+          "name": "Code: Pandorum",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
         }
       ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+      "duration_ms": 188730,
+      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
+      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2175,26 +2195,6 @@
       "duration_ms": 296250,
       "name": "Liar (with OST)",
       "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "F\u00d8\u00d8L (Code:Pandorum Remix)",
-        "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
-      },
-      "artists": [
-        {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        },
-        {
-          "name": "Code: Pandorum",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        }
-      ],
-      "duration_ms": 188730,
-      "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
-      "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "City of Angels",
-        "url": "https://open.spotify.com/album/32BE5k6jCYrxWE5ht9Rscb"
-      },
-      "artists": [
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 170816,
-      "name": "City of Angels",
-      "url": "https://open.spotify.com/track/7puNbyB05EeQtuECaar90v"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "R-TYPE II",
         "url": "https://open.spotify.com/album/4pGTuGc0EqYrTBK25Lyf29"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 175533,
       "name": "ANTIDOTE (FT. PIXEL GRIP) - AMORTAL RMX",
       "url": "https://open.spotify.com/track/3YnnPZM0mVpfbWydph1pDR"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "City of Angels",
+        "url": "https://open.spotify.com/album/32BE5k6jCYrxWE5ht9Rscb"
+      },
+      "artists": [
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 170816,
+      "name": "City of Angels",
+      "url": "https://open.spotify.com/track/7puNbyB05EeQtuECaar90v"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2475,6 +2475,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "MELLODEATH Tapes Vol. I",
         "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
       },
@@ -2495,22 +2511,6 @@
       "duration_ms": 195692,
       "name": "Fireball",
       "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     }
   ],
   "unique_name": "Rocktronic",

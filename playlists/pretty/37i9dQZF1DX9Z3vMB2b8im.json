@@ -1,12 +1,12 @@
 {
   "description": "Songs so beautiful, they'll stop you in your tracks.",
-  "num_followers": 2247839,
+  "num_followers": 2247717,
   "original_name": "The Most Beautiful Songs in the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALMU3PhnUQ1RLeNYD/cFUdTSKL4M",
+  "snapshot_id": "AAAAADRGaUcobdxPdB6RMxU8DdimwAoA",
   "tracks": [
     {
       "added_at": "2026-08-21 11:48:59",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
     },
     {
-      "added_at": "2026-08-21 11:48:59",
-      "album": {
-        "name": "The light in the painting",
-        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224595,
-      "name": "The light in the painting",
-      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
-    },
-    {
       "added_at": "2025-10-17 10:29:03",
       "album": {
         "name": "Puberty 2",
@@ -455,6 +439,22 @@
       "duration_ms": 109627,
       "name": "A Burning Hill",
       "url": "https://open.spotify.com/track/6gz3orrUlKresI8GShSkdq"
+    },
+    {
+      "added_at": "2026-08-21 11:48:59",
+      "album": {
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "Cairngorms",
-        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 252878,
-      "name": "Cairngorms",
-      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
         "name": "Heavy Heavy",
         "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 248932,
       "name": "To The Sandals",
       "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
+        "name": "Cairngorms",
+        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 252878,
+      "name": "Cairngorms",
+      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "permanent +1",
-        "url": "https://open.spotify.com/album/2a7rGaQNh4ZXPvYJIbNDj1"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "permanent +1",
-      "url": "https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
         "name": "HEADPHONES",
         "url": "https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 196200,
       "name": "HEADPHONES",
       "url": "https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
+        "name": "permanent +1",
+        "url": "https://open.spotify.com/album/2a7rGaQNh4ZXPvYJIbNDj1"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "permanent +1",
+      "url": "https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT"
     },
     {
       "added_at": "2025-10-17 10:29:03",

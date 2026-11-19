@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Vickie Winans, Mikael Karlsson, Donald Lawrence & The Tri\-City Singers and more
+> With Mikael Karlsson, Vickie Winans, Isaac Cates and more
 
 2,048 songs - 6 day 14 hr 50 min
 

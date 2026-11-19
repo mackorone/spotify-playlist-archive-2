@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Black petrol
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,224 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,227 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [月の匂い](https://open.spotify.com/track/1eUuKS7yDBVkYWIA2OwUkb) | [Alt Quark](https://open.spotify.com/artist/3pZx8LK6qr0QArb0lO3foO) | [月の匂い](https://open.spotify.com/album/2aoXVr764PJaQo5F6CfyhT) | 3:11 |
 | 100 | [swan](https://open.spotify.com/track/0D3mEJbJbYbkZvalum0SQ7) | [LUVPOLIS](https://open.spotify.com/artist/3L90iH0IPLrsKIyrPWTI91) | [TEST PILOT 01](https://open.spotify.com/album/2aSozQVxRFkx4LzPom4chh) | 4:42 |
 
-Snapshot ID: `AAAAAIQK5VZuVwDjc35yMTpdNWAuFY4U`
+Snapshot ID: `AAAAADcjYMicxNOWkHj306/2XD3Q6xEk`

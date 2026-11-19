@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "A Letter To God",
+        "url": "https://open.spotify.com/album/6xN3ciBYVlzPqANWY2SwME"
+      },
+      "artists": [
+        {
+          "name": "Joe Scorza",
+          "url": "https://open.spotify.com/artist/6b5cTvps5wIFbHnFWAFixd"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324705,
+      "name": "A Letter To God",
+      "url": "https://open.spotify.com/track/27sPqFx4nYZO3oTaFAMiV2"
+    },
+    {
+      "album": {
         "name": "A Little More",
         "url": "https://open.spotify.com/album/3aVIlpVQ7ZCyRqcI5JrCq5"
       },
@@ -2103,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Applaus (Deutsche Version)",
+        "url": "https://open.spotify.com/album/76mkY1IPVZE0dc5bQo9KIA"
+      },
+      "artists": [
+        {
+          "name": "Jesse",
+          "url": "https://open.spotify.com/artist/5nsgTvyEmAyvWJjmxprVt6"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198409,
+      "name": "Applaus",
+      "url": "https://open.spotify.com/track/4HsQyFK4PQLYxDJQEUHBeB"
+    },
+    {
+      "album": {
         "name": "April Star",
         "url": "https://open.spotify.com/album/1txccmqoPSCHc0YfqrS5DU"
       },
@@ -3324,6 +3360,24 @@
       "duration_ms": 355040,
       "name": "Blood Money War",
       "url": "https://open.spotify.com/track/3BkRDTvhFpgIjSB8pacFLO"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0XPHpxwLiUSsvwpv1yK9u4"
+      },
+      "artists": [
+        {
+          "name": "Gerl Next Door",
+          "url": "https://open.spotify.com/artist/3Lg67ISoRAMpYa7d3O6Pyi"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331392,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2xsdhqoTr8gQEh8TZx9liy"
     },
     {
       "album": {
@@ -11669,6 +11723,24 @@
     },
     {
       "album": {
+        "name": "I Didn't Know",
+        "url": "https://open.spotify.com/album/7cD3e8gcpykLnwm9zRygEP"
+      },
+      "artists": [
+        {
+          "name": "DOXAN",
+          "url": "https://open.spotify.com/artist/5X246ObvluQlKKfjS2nZVJ"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324444,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/3rj9JlqrLZL31AvsNsGR73"
+    },
+    {
+      "album": {
         "name": "Chronicles",
         "url": "https://open.spotify.com/album/3SXQw872Qse1aMo2QHkNYE"
       },
@@ -18318,6 +18390,24 @@
       "duration_ms": 194074,
       "name": "Narbe",
       "url": "https://open.spotify.com/track/4S4gzq1dQdCzPOtsHhQDR5"
+    },
+    {
+      "album": {
+        "name": "Narcisos",
+        "url": "https://open.spotify.com/album/2FnbIvZBheqlp9hrrjeYcK"
+      },
+      "artists": [
+        {
+          "name": "Kamy",
+          "url": "https://open.spotify.com/artist/2i03xVEyzsYwm84ifehJUS"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Narcisos",
+      "url": "https://open.spotify.com/track/3LSJOhY0BCCfPvwLBbKy3H"
     },
     {
       "album": {
@@ -25465,6 +25555,28 @@
     },
     {
       "album": {
+        "name": "Strength In The Love",
+        "url": "https://open.spotify.com/album/4XGEiu2PDdtNIiXY5PToc0"
+      },
+      "artists": [
+        {
+          "name": "Vicz GeoHam",
+          "url": "https://open.spotify.com/artist/1t5itTb1ZUb5ToCBQR9V1R"
+        },
+        {
+          "name": "Lamiera Marsa",
+          "url": "https://open.spotify.com/artist/3tjvt2MFGwpKkxcrub2VfT"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121724,
+      "name": "Strength In The Love",
+      "url": "https://open.spotify.com/track/2fDSv7s0g8i7yAIQlqPP72"
+    },
+    {
+      "album": {
         "name": "Suelto y conf\u00edo",
         "url": "https://open.spotify.com/album/2L8Iefk4mOcE8eWhNcyr8X"
       },
@@ -29832,6 +29944,24 @@
       "duration_ms": 223190,
       "name": "Vino El Amor",
       "url": "https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc"
+    },
+    {
+      "album": {
+        "name": "Des choses simples",
+        "url": "https://open.spotify.com/album/7i6MpxUbl4jIuGnpN1NWMW"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Gattuso",
+          "url": "https://open.spotify.com/artist/5R3q8fx3lfNhMCKugdiRBx"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217090,
+      "name": "Virtuel",
+      "url": "https://open.spotify.com/track/1MMjv32wl370qJX7sZN14h"
     },
     {
       "album": {

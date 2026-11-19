@@ -4,7 +4,7 @@
 
 > Playlist
 
-666 songs - 1 day 15 hr 26 min
+668 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Homebody](https://open.spotify.com/track/67a4dHkPPmLBdQN7XA1mzp) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy) | [Homebody](https://open.spotify.com/album/5qWNc3Pd8CwTnDOp0E0OJl) | 3:28 | 2023-10-25 |  |
 | [Honestly](https://open.spotify.com/track/1xvxR2EWqdHg9eSU8dlm2r) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2) | 3:53 | 2023-10-25 |  |
 | [Honey](https://open.spotify.com/track/752BS2kpBhOU6PGxRYXT0C) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Honey](https://open.spotify.com/album/2KpcZDIIAbqiAGf0a7Wzpt) | 3:04 | 2025-05-30 |  |
+| [Honey](https://open.spotify.com/track/0NCQaHBshN7apWZbG65ctB) | [Orange Ave.](https://open.spotify.com/artist/5YZMQEjXLXrcwEk6izwbRC), [RAWLS](https://open.spotify.com/artist/4snmVzzhbxuiYUHmWoafdJ), [Matthew Mozingo](https://open.spotify.com/artist/7xlnEmLNtGEHUiwGH9n0aw) | [Honey](https://open.spotify.com/album/58IsSDShuLgWD1fKwN6fBy) | 2:47 | 2026-11-18 |  |
 | [Honey](https://open.spotify.com/track/2QQThdEoUDeat6nqYXS64D) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Honey](https://open.spotify.com/album/0WAUyoTN7ZeEKVRacDFE1X) | 3:23 | 2023-10-25 |  |
 | [Honey](https://open.spotify.com/track/5fZvanKBRYTYshL48wGFg8) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/3Vgnh06FtxYOsr1zkFwVu2) | 3:23 | 2023-10-25 |  |
 | [Honey Honey](https://open.spotify.com/track/1rKhKhQtmLmYd6FiaBP4q8) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [RALPH TV](https://open.spotify.com/album/52Qd94rprAOizb5ocH7Vx4) | 3:05 | 2023-10-25 |  |
@@ -545,6 +546,7 @@
 | [Space Travel](https://open.spotify.com/track/4idF6W0d2GQNiuLFIK5r7q) | [Pebbl](https://open.spotify.com/artist/1vaCGJA8LF8oGUfOKrumlG) | [Space Travel](https://open.spotify.com/album/42irpRLRtuHndJPtbcu3vY) | 4:12 | 2023-10-25 |  |
 | [Specters Don't Sleep](https://open.spotify.com/track/2hhyTEEPnqrovUXWO4s9oH) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [Specters Don't Sleep](https://open.spotify.com/album/6u45FIJRO3Ag0HlhMwQaBi) | 2:20 | 2023-10-25 |  |
 | [Spiral Stairs](https://open.spotify.com/track/6LUbJz0wYrz4lyifxA0v3e) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Nature Machine](https://open.spotify.com/album/5aMAsRYLO0tdxQHGzbGkHS) | 2:26 | 2023-10-25 |  |
+| [SPOTLIGHT](https://open.spotify.com/track/2Tij80IPqw8XyrRf1XKdw5) | [Orange Ave.](https://open.spotify.com/artist/5YZMQEjXLXrcwEk6izwbRC), [Matthew Mozingo](https://open.spotify.com/artist/7xlnEmLNtGEHUiwGH9n0aw) | [SPOTLIGHT](https://open.spotify.com/album/7L7qP0yed1PYdFWN5KrHce) | 3:12 | 2026-11-18 |  |
 | [Stamped with Love](https://open.spotify.com/track/4YRwbeRE0RLczFGGvM40et) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Stamped with Love](https://open.spotify.com/album/4c3OKo2slthXYzlRY4ZlUZ) | 2:37 | 2023-10-25 |  |
 | [Star Tour](https://open.spotify.com/track/7IqFEGiBc92RGJSfcVkRmp) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [Star Tour](https://open.spotify.com/album/4gunQw1Xx0CO6ZzjmfZqJe) | 4:17 | 2023-10-25 |  |
 | [Star Without a Sky](https://open.spotify.com/track/4AxWGRYsDROein7ew6jYo4) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [Star Without a Sky](https://open.spotify.com/album/3RebAfyHvuVGap0mWsPGW9) | 2:51 | 2023-10-25 |  |

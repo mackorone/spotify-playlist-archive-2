@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2582354,
+  "num_followers": 2582242,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKqSC/p5GwoPHO82UfTdjEI3S87R",
+  "snapshot_id": "AAAAAK9EbykW4sJx5R0Ie+8E4Dd79ptN",
   "tracks": [
     {
       "added_at": "2026-11-13 05:00:56",
@@ -995,22 +995,26 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Whatever Turns You On (ft. Bonn)",
-        "url": "https://open.spotify.com/album/0R5bksr4b5l8QRF5AIXeO1"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/1HIErToMnLsPxdZkoO8nYm"
       },
       "artists": [
         {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         },
         {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+          "name": "7 SKIES",
+          "url": "https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5"
+        },
+        {
+          "name": "Sadie Rose Van",
+          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
         }
       ],
-      "duration_ms": 195727,
-      "name": "Whatever Turns You On",
-      "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
+      "duration_ms": 207619,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/2lqIo3RA26lhBY2DMDSZxG"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1059,6 +1063,26 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
+        "name": "Whatever Turns You On (ft. Bonn)",
+        "url": "https://open.spotify.com/album/0R5bksr4b5l8QRF5AIXeO1"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 195727,
+      "name": "Whatever Turns You On",
+      "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
+    },
+    {
+      "added_at": "2026-11-13 05:00:56",
+      "album": {
         "name": "ODYSSEY",
         "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
       },
@@ -1075,30 +1099,6 @@
       "duration_ms": 192000,
       "name": "Don't Want Your Love",
       "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
-    },
-    {
-      "added_at": "2026-11-13 05:00:56",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/1HIErToMnLsPxdZkoO8nYm"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "7 SKIES",
-          "url": "https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5"
-        },
-        {
-          "name": "Sadie Rose Van",
-          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
-        }
-      ],
-      "duration_ms": 207619,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/2lqIo3RA26lhBY2DMDSZxG"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
+    },
+    {
+      "added_at": "2026-11-13 05:00:56",
+      "album": {
         "name": "Keep Up",
         "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 158181,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
-    },
-    {
-      "added_at": "2026-11-13 05:00:56",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "7 Days",
-        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 207187,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
-    },
-    {
-      "added_at": "2026-11-13 05:00:56",
-      "album": {
         "name": "Like A Child",
         "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 183181,
       "name": "Like A Child",
       "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
+    },
+    {
+      "added_at": "2026-11-13 05:00:56",
+      "album": {
+        "name": "7 Days",
+        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 207187,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/6Rm91r3NcNXKjNrf4xt7zm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e"
-    },
-    {
-      "added_at": "2026-11-13 05:00:56",
-      "album": {
         "name": "Meet Again",
         "url": "https://open.spotify.com/album/6DOWj1TYplUhV2QDRsVupR"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 206363,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
+    },
+    {
+      "added_at": "2026-11-13 05:00:56",
+      "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/6Rm91r3NcNXKjNrf4xt7zm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/41OXi4lfWFAYr7TOsgxPCb"
-      },
-      "artists": [
-        {
-          "name": "Richard Durand",
-          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
-        },
-        {
-          "name": "Brittany Egbert",
-          "url": "https://open.spotify.com/artist/1mQw28X8O2WndUUfZuZKgv"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/7dSQzNuXUFq9uZ4Xujv83C"
-    },
-    {
-      "added_at": "2026-11-13 05:00:56",
-      "album": {
         "name": "Overclock",
         "url": "https://open.spotify.com/album/6PbmwxTqYLLw8MSWfrXPJR"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 187998,
       "name": "Overclock",
       "url": "https://open.spotify.com/track/7eMOYbZwgUK9c2hL54PMjj"
+    },
+    {
+      "added_at": "2026-11-13 05:00:56",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/41OXi4lfWFAYr7TOsgxPCb"
+      },
+      "artists": [
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        },
+        {
+          "name": "Brittany Egbert",
+          "url": "https://open.spotify.com/artist/1mQw28X8O2WndUUfZuZKgv"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7dSQzNuXUFq9uZ4Xujv83C"
     },
     {
       "added_at": "2026-11-13 05:00:56",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2026-11-13 05:00:56",
       "album": {
-        "name": "Motel",
-        "url": "https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok"
-      },
-      "artists": [
-        {
-          "name": "Lisa Korver",
-          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
-        }
-      ],
-      "duration_ms": 225405,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/2xLA3OXFudJwPgdpdEkIiS"
-    },
-    {
-      "added_at": "2026-11-13 05:00:56",
-      "album": {
         "name": "VISIONS",
         "url": "https://open.spotify.com/album/0yG0Z8DBUK71NVxtSIUI5e"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 217619,
       "name": "VISIONS",
       "url": "https://open.spotify.com/track/2ynp3xX9DVxUpZEZIMvYiO"
+    },
+    {
+      "added_at": "2026-11-13 05:00:56",
+      "album": {
+        "name": "Motel",
+        "url": "https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok"
+      },
+      "artists": [
+        {
+          "name": "Lisa Korver",
+          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+        }
+      ],
+      "duration_ms": 225405,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/2xLA3OXFudJwPgdpdEkIiS"
     },
     {
       "added_at": "2026-11-13 05:00:56",

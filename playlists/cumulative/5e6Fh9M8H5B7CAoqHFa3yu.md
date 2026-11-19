@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,838 songs - 6 day 20 hr 52 min
+2,839 songs - 6 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2000,6 +2000,7 @@
 | [Revolution](https://open.spotify.com/track/517iJliS1Tevb9djJtMg2w) | [Zion Irie](https://open.spotify.com/artist/5noXAEZH9V1X7qtOSjM2Aw), [Sax n Dub](https://open.spotify.com/artist/1lTpzANT3gWVh5ll93tw8V) | [New Generation](https://open.spotify.com/album/6RyvPp3UVehoVieHF7mLuh) | 3:58 | 2024-05-04 |  |
 | [Revolution Dub](https://open.spotify.com/track/3JNAZBCWglVOYDiYzwKqXx) | [Zion Irie](https://open.spotify.com/artist/5noXAEZH9V1X7qtOSjM2Aw), [Sax n Dub](https://open.spotify.com/artist/1lTpzANT3gWVh5ll93tw8V) | [New Generation](https://open.spotify.com/album/6RyvPp3UVehoVieHF7mLuh) | 5:00 | 2024-05-04 |  |
 | [Revolutionary Dub \- Mr Mefistou Remix](https://open.spotify.com/track/56rRKx7OwqnXVaL9vmiPqK) | [Mexican Stepper](https://open.spotify.com/artist/0LkpURD28re1NOBsAWSZQq), [Mr Mefistou](https://open.spotify.com/artist/66ZwkhQaZJNCgZK8Ac95a0) | [The Mad Sunday](https://open.spotify.com/album/22xvWyrGCj7bk8GTA5buRd) | 5:02 | 2024-05-01 |  |
+| [Rezzo](https://open.spotify.com/track/0I5stzUKl6ZeVYBp6eMQrN) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Destroying Is Easy](https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w) | 4:17 | 2026-11-19 |  |
 | [Rhythm Of The Spiritual Warrior \- Discomix](https://open.spotify.com/track/4vTDCzJ2moQPtqH7XgDT7t) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj), [Me Zion Dread](https://open.spotify.com/artist/5D6WDodQdxb0vX5VSAvpaX) | [Tunes For Thoughts](https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U) | 6:07 | 2024-05-01 |  |
 | [Riddim In Dub](https://open.spotify.com/track/2er9UkwfQgKXhOtExYKNzn) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Zion Train](https://open.spotify.com/artist/6sDKfmMPaTI7MYeFoNFrg7), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Astral Vision](https://open.spotify.com/album/4skr9ieBSHKCa52ivYa7hy) | 5:51 | 2026-05-14 |  |
 | [Ride Home](https://open.spotify.com/track/58LpmworkJRhceB2n5AK47) | [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Full Circle](https://open.spotify.com/album/11w3N6BlPCKYZqC394rMOj) | 5:13 | 2025-08-02 |  |

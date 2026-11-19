@@ -101159,6 +101159,24 @@
     },
     {
       "album": {
+        "name": "KIRAKIRA",
+        "url": "https://open.spotify.com/album/0yYdlDXZCWm5W7KWJbRefv"
+      },
+      "artists": [
+        {
+          "name": "kiOra",
+          "url": "https://open.spotify.com/artist/4KlNJ2885MAzt6tcpW7G4j"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172615,
+      "name": "KIRAKIRA",
+      "url": "https://open.spotify.com/track/5QzseyIcpstE9FcxGdElb9"
+    },
+    {
+      "album": {
         "name": "Kirameki",
         "url": "https://open.spotify.com/album/53iXuZes9uxaaGfEUhvoIc"
       },

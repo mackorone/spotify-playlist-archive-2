@@ -1,13 +1,29 @@
 {
-  "description": "The best in new rock. Cover: Fall Out Boy",
-  "num_followers": 97304,
+  "description": "Ecca Vandal \ud83e\udd18",
+  "num_followers": 97303,
   "original_name": "Rock Out.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOrOMFrqCIvDytvSRyprvy2xvXpY",
+  "snapshot_id": "AAAAAMayFn5jQtLqxjR8K6XsqckkMWIB",
   "tracks": [
+    {
+      "added_at": "2026-11-19 00:06:03",
+      "album": {
+        "name": "LOOKING FOR PEOPLE TO UNFOLLOW",
+        "url": "https://open.spotify.com/album/6S7mwrc4FXlG4MmuBaDGAA"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "duration_ms": 150914,
+      "name": "CRUISING TO SELF SOOTHE",
+      "url": "https://open.spotify.com/track/4cErKi16sjFZOfd85t9dnt"
+    },
     {
       "added_at": "2026-11-12 13:00:14",
       "album": {

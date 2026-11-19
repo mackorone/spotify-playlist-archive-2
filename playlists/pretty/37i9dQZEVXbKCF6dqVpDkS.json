@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mo/yAAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MpFDgAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Babydoll",
         "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Meisje Van Het Noorden",
         "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Housewife",
         "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Pijnstiller",
-        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 171075,
-      "name": "Pijnstiller",
-      "url": "https://open.spotify.com/track/1S2IgdEWmccfFuYO9Xpt3p"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Qlassiek",
         "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
@@ -101,7 +85,7 @@
       "url": "https://open.spotify.com/track/4X83nojxb3Bvr3eyhEknmG"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "The Girl Of Your Dreams",
         "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
@@ -117,7 +101,23 @@
       "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Pijnstiller",
+        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 171075,
+      "name": "Pijnstiller",
+      "url": "https://open.spotify.com/track/1S2IgdEWmccfFuYO9Xpt3p"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Schijn je licht op mij",
         "url": "https://open.spotify.com/album/0KSSoSWXL7s2IFgdK28Cve"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/4h6oCJNPJ06eYT3M9jdCOq"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -153,7 +153,43 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "SRRY",
+        "url": "https://open.spotify.com/album/6F7axLlLeeN3bHaL2btEKP"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "duration_ms": 194010,
+      "name": "SRRY",
+      "url": "https://open.spotify.com/track/2lGnl3YSGwG5glYC4l7Jxv"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 231746,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Mi Chico (Official - Jason Derulo x Melody)",
         "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
@@ -177,23 +213,7 @@
       "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 231746,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "DOMUS",
         "url": "https://open.spotify.com/album/69tRf27Cjspimzp6d1ij15"
@@ -213,7 +233,23 @@
       "url": "https://open.spotify.com/track/2mlN1azDZuoc5f3VgY16r1"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
@@ -229,7 +265,7 @@
       "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Spijt Is Iets Voor Later",
         "url": "https://open.spotify.com/album/6d8hSrvIeJoUbeQ6iYAFZx"
@@ -245,7 +281,7 @@
       "url": "https://open.spotify.com/track/0rG3E7ZQ5zDUjrpAzKT1qB"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
@@ -265,23 +301,27 @@
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+        "name": "BADDIES IN HOLLANDA",
+        "url": "https://open.spotify.com/album/3awbkJq4On5PkBzhWDzlK5"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Issah",
+          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+      "duration_ms": 125485,
+      "name": "BADDIES IN HOLLANDA",
+      "url": "https://open.spotify.com/track/183pr9DuHYgTwCI5OLCfk4"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Sing With Me (Aflevering 1)",
         "url": "https://open.spotify.com/album/1BrpGunw8hzjbp6cRQzRSB"
@@ -305,263 +345,7 @@
       "url": "https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Pijnstiller",
-        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 206938,
-      "name": "Vaders & Moeders",
-      "url": "https://open.spotify.com/track/77Q36rQQxPruhT2npadwgr"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "SRRY",
-        "url": "https://open.spotify.com/album/6F7axLlLeeN3bHaL2btEKP"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        }
-      ],
-      "duration_ms": 194010,
-      "name": "SRRY",
-      "url": "https://open.spotify.com/track/2lGnl3YSGwG5glYC4l7Jxv"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "BOEM!",
-        "url": "https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo"
-      },
-      "artists": [
-        {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        },
-        {
-          "name": "Russo",
-          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "BOEM!",
-      "url": "https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "BADDIES IN BELGICA",
-        "url": "https://open.spotify.com/album/6AISwJYc792a5rKs00ORWD"
-      },
-      "artists": [
-        {
-          "name": "Issah",
-          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
-        }
-      ],
-      "duration_ms": 125536,
-      "name": "BADDIES IN BELGICA",
-      "url": "https://open.spotify.com/track/5t9FkbfKGL5c9tyjkacCeW"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "BADDIES IN HOLLANDA",
-        "url": "https://open.spotify.com/album/3awbkJq4On5PkBzhWDzlK5"
-      },
-      "artists": [
-        {
-          "name": "Issah",
-          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 125485,
-      "name": "BADDIES IN HOLLANDA",
-      "url": "https://open.spotify.com/track/183pr9DuHYgTwCI5OLCfk4"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "My Body Isn't Ready",
-        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 217380,
-      "name": "My Body Isn't Ready",
-      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Mr. Know It All",
-        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Mr. Know It All",
-      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Go Bad Girl",
-        "url": "https://open.spotify.com/album/1NO4KM0OnLT1U6sju1V0DC"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "Go Bad Girl",
-      "url": "https://open.spotify.com/track/1dKY1wHQwfJvhjOXPlYxzD"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Meisje Van Het Noorden",
-        "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
-      },
-      "artists": [
-        {
-          "name": "Isab\u00e8l Usher",
-          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Niemand Wil Een Popster",
-      "url": "https://open.spotify.com/track/4DeNGZBRSDSuXwNAj8cdXF"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Pijnstiller",
-        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 170125,
-      "name": "Halverwege",
-      "url": "https://open.spotify.com/track/1S2a2i344KsT2omUoeP3wn"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241562,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Ms. Lauren",
-        "url": "https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL"
-      },
-      "artists": [
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 160943,
-      "name": "GGZ",
-      "url": "https://open.spotify.com/track/6k16QrVXPZXxsuEVg2fi1B"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Pijnstiller",
-        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 165645,
-      "name": "Wie Anders",
-      "url": "https://open.spotify.com/track/6Ls19nMcXyvxP3sw4N4mWh"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Alleen Jij",
-        "url": "https://open.spotify.com/album/5HtCL0mdXSiVWed276ouKM"
-      },
-      "artists": [
-        {
-          "name": "Milolaathetlukken",
-          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Alleen Jij",
-      "url": "https://open.spotify.com/track/6F9sU0hboUEegZTNIIgmGT"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
         "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
@@ -593,23 +377,139 @@
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Pijnstiller",
+        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 206938,
+      "name": "Vaders & Moeders",
+      "url": "https://open.spotify.com/track/77Q36rQQxPruhT2npadwgr"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "BOEM!",
+        "url": "https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "duration_ms": 144522,
+      "name": "BOEM!",
+      "url": "https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241562,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Meisje Van Het Noorden",
+        "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Niemand Wil Een Popster",
+      "url": "https://open.spotify.com/track/4DeNGZBRSDSuXwNAj8cdXF"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "BADDIES IN BELGICA",
+        "url": "https://open.spotify.com/album/6AISwJYc792a5rKs00ORWD"
+      },
+      "artists": [
+        {
+          "name": "Issah",
+          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
+        }
+      ],
+      "duration_ms": 125536,
+      "name": "BADDIES IN BELGICA",
+      "url": "https://open.spotify.com/track/5t9FkbfKGL5c9tyjkacCeW"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
@@ -629,7 +529,91 @@
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Alleen Jij",
+        "url": "https://open.spotify.com/album/5HtCL0mdXSiVWed276ouKM"
+      },
+      "artists": [
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Alleen Jij",
+      "url": "https://open.spotify.com/track/6F9sU0hboUEegZTNIIgmGT"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Ms. Lauren",
+        "url": "https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 160943,
+      "name": "GGZ",
+      "url": "https://open.spotify.com/track/6k16QrVXPZXxsuEVg2fi1B"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Go Bad Girl",
+        "url": "https://open.spotify.com/album/1NO4KM0OnLT1U6sju1V0DC"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "Go Bad Girl",
+      "url": "https://open.spotify.com/track/1dKY1wHQwfJvhjOXPlYxzD"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Pijnstiller",
+        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 170125,
+      "name": "Halverwege",
+      "url": "https://open.spotify.com/track/1S2a2i344KsT2omUoeP3wn"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -645,7 +629,7 @@
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -665,7 +649,7 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
@@ -685,7 +669,7 @@
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Pijnstiller",
         "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
@@ -696,12 +680,12 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 130666,
-      "name": "Alleen",
-      "url": "https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g"
+      "duration_ms": 165645,
+      "name": "Wie Anders",
+      "url": "https://open.spotify.com/track/6Ls19nMcXyvxP3sw4N4mWh"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
@@ -725,7 +709,27 @@
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/2HuUkTJoTN5xgvG2oqLsts"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/0eUP3XYOCAj7lGoz4LOhyQ"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/1uk4H7tt75euGa4yXZsEMD"
@@ -749,59 +753,7 @@
       "url": "https://open.spotify.com/track/189kgKrirzHpgxnFNsJwnN"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Pijnstiller",
-        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 229779,
-      "name": "Niemand",
-      "url": "https://open.spotify.com/track/1sbFk65JFwzBGGTMJln6dV"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/2HuUkTJoTN5xgvG2oqLsts"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Talk To You (ft. 54 Ultra)",
-      "url": "https://open.spotify.com/track/0eUP3XYOCAj7lGoz4LOhyQ"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Zwoele Zomernachten",
-        "url": "https://open.spotify.com/album/65F8CxMAg4VUcSiHmeYqiB"
-      },
-      "artists": [
-        {
-          "name": "Rutger van Barneveld",
-          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
-        }
-      ],
-      "duration_ms": 195454,
-      "name": "Zwoele Zomernachten",
-      "url": "https://open.spotify.com/track/2JYx77MXFWA5bHdssAjgvG"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
@@ -821,7 +773,7 @@
       "url": "https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
@@ -837,7 +789,87 @@
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Zwoele Zomernachten",
+        "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "duration_ms": 195454,
+      "name": "Zwoele Zomernachten",
+      "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Het Is Al Laat Toch",
+        "url": "https://open.spotify.com/album/3tcqgzMjPtrAj1K8kJTl5s"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 164757,
+      "name": "Oceaan",
+      "url": "https://open.spotify.com/track/6CqLX2aOY05KCXb78XUsdF"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Pijnstiller",
+        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "BLIJF RUSTIG",
+        "url": "https://open.spotify.com/album/5QFofo9FIlEaSWSHWq9xXM"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "duration_ms": 169346,
+      "name": "BLIJF RUSTIG",
+      "url": "https://open.spotify.com/track/3ZuASB7LTpCgCTw4viLjud"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
+      "album": {
+        "name": "Pijnstiller",
+        "url": "https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 229779,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/1sbFk65JFwzBGGTMJln6dV"
+    },
+    {
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "POPULAIR",
         "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
@@ -861,39 +893,23 @@
       "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
-        "name": "BLIJF RUSTIG",
-        "url": "https://open.spotify.com/album/5QFofo9FIlEaSWSHWq9xXM"
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
       "artists": [
         {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 169346,
-      "name": "BLIJF RUSTIG",
-      "url": "https://open.spotify.com/track/3ZuASB7LTpCgCTw4viLjud"
+      "duration_ms": 229638,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Het Is Al Laat Toch",
-        "url": "https://open.spotify.com/album/3tcqgzMjPtrAj1K8kJTl5s"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 164757,
-      "name": "Oceaan",
-      "url": "https://open.spotify.com/track/6CqLX2aOY05KCXb78XUsdF"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
+      "added_at": "2026-11-18 16:10:12",
       "album": {
         "name": "Shotta's.",
         "url": "https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE"
@@ -907,30 +923,6 @@
       "duration_ms": 142613,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
-    },
-    {
-      "added_at": "2026-11-17 16:04:06",
-      "album": {
-        "name": "Pepernoot",
-        "url": "https://open.spotify.com/album/2ietIhIB4ZiLDhyYNAtg0J"
-      },
-      "artists": [
-        {
-          "name": "Pietje Fernando",
-          "url": "https://open.spotify.com/artist/4KkrryLOEp23xrIS0Bmp1C"
-        },
-        {
-          "name": "De Club van Sinterklaas",
-          "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
-        },
-        {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
-        }
-      ],
-      "duration_ms": 155086,
-      "name": "Pepernoot",
-      "url": "https://open.spotify.com/track/2IVtE6jHdCiF7Pg71IlHRO"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Ruby Rose Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,646 likes - 150 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,011 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 39 | [My Body Isn't Ready \- Orchestral Version from Sound City](https://open.spotify.com/track/5wA2qmCu9hcu6KAqNE4FOC) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready \(Orchestral Version from Sound City\)](https://open.spotify.com/album/7kjFKbcW8aAOXPLgZgjscS) | 3:45 |
 | 40 | [take me home \(4 christmas\)](https://open.spotify.com/track/4UjYZS6Jbt3lee27qmiNOu) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [take me home \(4 christmas\)](https://open.spotify.com/album/50o3Wm98DQENFLiiX3zd5B) | 2:57 |
 | 41 | [breaks open](https://open.spotify.com/track/4W71gGoFVlggStxF27m3nU) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [FINAL GIRL](https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6) | 3:45 |
-| 42 | [PROFUNDA](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 2:34 |
+| 42 | [](https://open.spotify.com/track/3UKgWOKAZYro19H670Yt7T) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [PROFUNDA](https://open.spotify.com/album/1Qv9lTTgkmIsULoYmjkAyJ) | 0:00 |
 | 43 | [Curse](https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Curse](https://open.spotify.com/album/5zjmQnfdkjBMU0VIZCFisr) | 3:23 |
 | 44 | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Someone to Hold \(from the Netflix Film "Steps"\)](https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX) | 3:32 |
 | 45 | [My Big Secret](https://open.spotify.com/track/4XOiu5FCyjz7TIjeJ9qKle) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(25th Anniversary Edition\)](https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx) | 4:31 |

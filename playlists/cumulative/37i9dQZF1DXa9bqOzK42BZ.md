@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-361 songs - 1 day 7 hr 43 min
+361 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Shwari](https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd) | [Samuel Thomas](https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw), [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU) | [Shwari](https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ) | 6:42 | 2022-06-24 | 2024-05-03 |
 | [Si Unaniona](https://open.spotify.com/track/4nqiZJNrjtWnJ3uBhHe5zM) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Si Unaniona](https://open.spotify.com/album/14U7TaCah1WFE4cYz7RTaG) | 3:13 | 2024-11-29 | 2026-09-25 |
 | [Siendi Bila Wewe](https://open.spotify.com/track/13gevUnYIDW3IqkMOkdi6q) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Kambua](https://open.spotify.com/artist/5dIF0Bc36g8YZ5UHYwGHFo) | [Siendi Bila Wewe](https://open.spotify.com/album/5xgGi1XEezUjTOzK8t2nhv) | 4:02 | 2025-09-05 |  |
-| [Sifa](https://open.spotify.com/track/7xGkkQZAQb3mZxhXVPEtob) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Sifa](https://open.spotify.com/album/1jzurAV6Av10Zwq9Ov7fPx) | 2:46 | 2026-11-13 |  |
+| [Sifa](https://open.spotify.com/track/7xGkkQZAQb3mZxhXVPEtob) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Sifa](https://open.spotify.com/album/1jzurAV6Av10Zwq9Ov7fPx) | 3:06 | 2026-11-13 |  |
 | [Sifa Ziko Juu](https://open.spotify.com/track/11eugyHtSx3H2mPJEnHr5m) | [Neo Elani](https://open.spotify.com/artist/7kl0ORDAUsmnGAN1LWGUM4) | [Sifa Ziko Juu](https://open.spotify.com/album/7G4JY0qlOoTkAugC3BaeKL) | 7:55 | 2025-08-22 | 2025-11-14 |
 | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G) | 4:24 | 2024-04-05 | 2024-09-06 |
 | [Sijali](https://open.spotify.com/track/6ivExYTqEyEJUJsfhULEbI) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Sijali](https://open.spotify.com/album/5wA3LfZewhNi8sKQKa7aXq) | 4:24 | 2026-01-15 | 2026-09-18 |

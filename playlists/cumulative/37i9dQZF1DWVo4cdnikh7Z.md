@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Scene
 
-2,832 songs - 7 day 0 hr 47 min
+2,833 songs - 7 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [AEDHUM SOLLAMAL \- From "the Verdict"](https://open.spotify.com/track/6PqpywLdPvYm4PuJcxyYlU) | [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [AEDHUM SOLLAMAL \(From "the Verdict"\)](https://open.spotify.com/album/2K0PbFsPbyjxUlIN4CSWoE) | 5:00 | 2025-05-27 | 2025-06-04 |
 | [Aeroplane](https://open.spotify.com/track/0kST7wDpOzoTIn0QvlW94l) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [Rajpriyan](https://open.spotify.com/artist/3aV1xXHRwgdlbPE8bAEmOJ) | [Scene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yoZ4Wjz3ZDxUBT9cQ5aBz) | 2:27 | 2026-11-05 |  |
 | [Aeroplane \(From "Scene"\)](https://open.spotify.com/track/0QrjdWz1KaxVUutnpAdqQ2) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [Rajpriyan](https://open.spotify.com/artist/3aV1xXHRwgdlbPE8bAEmOJ) | [Aeroplane \(From "Scene"\)](https://open.spotify.com/album/4OiMQAt2IAHip9SXe5uoQD) | 2:27 | 2026-10-19 | 2026-11-06 |
+| [Aeroplane \- From "Think Indie"](https://open.spotify.com/track/2iM6Pzrx6xBVZxz14zwXpZ) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [Aeroplane \(From "Think Indie"\)](https://open.spotify.com/album/18ARlG5AApp10w0wKUgps5) | 2:48 | 2026-11-18 |  |
 | [Aethukkoa](https://open.spotify.com/track/09MEbPRSJ48CpysxCPCbkQ) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Shamshera \- Tamil](https://open.spotify.com/album/3Q3bar7jEDWuxDekyOZvKj) | 4:09 | 2022-07-07 | 2022-07-16 |
 | [Aethukkoa \(From "Shamshera"\) \- Tamil Version](https://open.spotify.com/track/3GWD2CjiECmR52OJPo0s7i) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB) | [Aethukkoa \(From "Shamshera"\) \- Tamil Version](https://open.spotify.com/album/7wAHpF9Mgp22pFmML1pL2Z) | 4:09 | 2022-06-29 | 2022-07-19 |
 | [AFRO TAPAANG](https://open.spotify.com/track/4Doz7teSej5yAEmiOF4G9R) | [Gana Kadhar](https://open.spotify.com/artist/73aYO41WeV6HXKMqCkSL16), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [45 \(Original Motion Picture Soundtrack\) \[Tamil Version\]](https://open.spotify.com/album/4EhcDXSeTe6aCzofRSSnzJ) | 3:21 | 2026-01-16 | 2026-01-28 |

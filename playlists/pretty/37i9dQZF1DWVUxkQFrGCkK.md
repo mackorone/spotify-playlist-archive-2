@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Brunello
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,711 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,835 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [Supersonic](https://open.spotify.com/track/7AR28GCSNaTSOeO2vTIpEx) | [Drumstone](https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj) | [Supersonic](https://open.spotify.com/album/10aJoyfBqpfg1NA6gLmgep) | 5:42 |
 | 100 | [Ashiko](https://open.spotify.com/track/5qkLwiZ6bmert9ik4qJr7c) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Ashiko](https://open.spotify.com/album/6crGQmkmsekQKHc49lUn8d) | 4:00 |
 
-Snapshot ID: `AAAAABKV30hVnIqoNCtHaI7hj7cfgLqS`
+Snapshot ID: `AAAAAOsOhbORB8E++uyLaB7z0JTeZMJh`

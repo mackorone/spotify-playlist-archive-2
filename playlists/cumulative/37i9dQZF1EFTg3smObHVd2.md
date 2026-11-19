@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 7 hr 25 min
+129 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Instant Gratification \- Nu Aspect Remix](https://open.spotify.com/track/39dv4IPJ5amId6CCE5hvNC) | [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Instant Gratification \(Remixes\)](https://open.spotify.com/album/1XAZ1GKGLXdlDkLI3oYkhI) | 3:30 | 2024-02-27 |  |
 | [Iron Heart](https://open.spotify.com/track/4T0cHbcxGzEGzUki89NFp9) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 3:47 | 2024-02-27 |  |
 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 | 2025-09-17 | 2026-04-27 |
-| [Joy \(feat\. Davido\)](https://open.spotify.com/track/4eE7rFeocLXe4pa9f2wPlI) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [HOPE!!](https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b) | 2:49 | 2026-04-26 |  |
+| [Joy \(feat\. Davido\)](https://open.spotify.com/track/2EDvzBjsBiczZaI4XmTcry) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [HOPE!!](https://open.spotify.com/album/1ANlmz2IgU9ZlPbCy3tjze) | 2:49 | 2026-11-18 |  |
+| [Joy \(feat\. Davido\)](https://open.spotify.com/track/4eE7rFeocLXe4pa9f2wPlI) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [HOPE!!](https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b) | 2:49 | 2026-04-26 | 2026-11-19 |
 | [K.I.S.S.](https://open.spotify.com/track/0JybtN2NzEPuOO4kfO0Vtr) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [K.I.S.S\. \(Keep It Sexy & Simple\)](https://open.spotify.com/album/3pQkFScrWZMYZLT5dceCDA) | 3:53 | 2024-02-27 |  |
 | [Keep Dancing](https://open.spotify.com/track/4qqIuSEkjZhXHQ7cGCKZq8) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 3:40 | 2024-02-27 |  |
 | [Lift Me Up](https://open.spotify.com/track/5eV4sUsCLKTkrjtNc3eWWV) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Lift Me Up](https://open.spotify.com/album/5b6TihYV69YXs0p5CKnGYs) | 2:52 | 2024-02-27 |  |

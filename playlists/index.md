@@ -2762,7 +2762,7 @@
 - [Gladiator Official Playlist](/playlists/pretty/37i9dQZF1DXdZc0Chktkil.md)
 - [Glam Rock](/playlists/pretty/37i9dQZF1DX2P3HpcdjOk2.md)
 - [Glass Onion Official Playlist](/playlists/pretty/37i9dQZF1DXb8UvzdN3YBP.md)
-- [Glastonbury 2025](/playlists/pretty/37i9dQZF1DX0CpdwmkC9SB.md)
+- [Glastonbury 2027](/playlists/pretty/37i9dQZF1DX0CpdwmkC9SB.md)
 - [Global Afrobeats](/playlists/pretty/37i9dQZF1DWSZxadTyuQ2s.md)
 - [Global Dance Crossover](/playlists/pretty/37i9dQZF1DWSzHEab3T1o1.md)
 - [Global Groove](/playlists/pretty/37i9dQZF1DWUS3jbm4YExP.md)

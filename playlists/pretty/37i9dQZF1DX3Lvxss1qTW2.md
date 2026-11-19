@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Solana
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,734 likes - 81 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,762 likes - 81 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 80 | [Sound of Freedom](https://open.spotify.com/track/03SVC1mmVkDlUHr82tvygI) | [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [Sound of Freedom](https://open.spotify.com/album/22W4OvvrJEhCpa8yYkVrwZ) | 2:28 |
 | 81 | [Pass By](https://open.spotify.com/track/6VhAUz0pXdCZnIXsIMX4zC) | [Yan Yan](https://open.spotify.com/artist/0hHqk1w4aXPLfywJfbthSC) | [Pass By](https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye) | 3:09 |
 
-Snapshot ID: `AAAAAPddHXSgEQrkMJ0GSFf6zIj0svGa`
+Snapshot ID: `AAAAAPv1S/nGJ1l3NMc+PvZep7mqOfM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop 🇮🇹 Cate Lumina in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,773 likes - 97 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,778 likes - 97 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 96 | [Paramia](https://open.spotify.com/track/1RwFjtqHnZAlVbZmupmSkK) | [Sara Gioielli](https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI) | [Gioielli Neri](https://open.spotify.com/album/6tNSiiQ7xp1an19SzdFRQt) | 3:28 |
 | 97 | [Goodbye \(rabbia, ti giuro, come stai\)](https://open.spotify.com/track/36GWAY6ThW9k0dxQsvjXNA) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Goodbye \(rabbia, ti giuro, come stai\)](https://open.spotify.com/album/2TlHQ2CyD17BEPeXC5cuim) | 2:55 |
 
-Snapshot ID: `AAAAAIlWkYDhEnVtmhLTa7+wBhpiHi4g`
+Snapshot ID: `AAAAADIgZWRYbmA0PUrWyIpQChVLiI3A`

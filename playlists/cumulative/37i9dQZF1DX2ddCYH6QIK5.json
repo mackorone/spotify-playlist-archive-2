@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Viv May",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: SATARII",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -7957,6 +7957,24 @@
     },
     {
       "album": {
+        "name": "D\u00e4mmerung",
+        "url": "https://open.spotify.com/album/5Hfg1lhUzwaLqYrHQwSGiJ"
+      },
+      "artists": [
+        {
+          "name": "FLUKES",
+          "url": "https://open.spotify.com/artist/1tsMtgVra4J6qCxHBLU0i8"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200949,
+      "name": "D\u00e4mmerung",
+      "url": "https://open.spotify.com/track/2CosHBtAq6ue4ZK5E0AITI"
+    },
+    {
+      "album": {
         "name": "D\u00e9j\u00e0 Vu",
         "url": "https://open.spotify.com/album/1tDMG6e9J6B3OUwatAq4L4"
       },
@@ -10554,7 +10572,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 151034,
       "name": "GAMES",
       "url": "https://open.spotify.com/track/3mNLR77Pp2UV3nZUM95yD6"
@@ -12836,6 +12854,24 @@
       "duration_ms": 290625,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/4TnVMfyaAHPdKQH4BW7RPo"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/13XIjeF1fSfjpaORQ0G0KV"
+      },
+      "artists": [
+        {
+          "name": "Lone Aires",
+          "url": "https://open.spotify.com/artist/2FEOMYlsXOwVMtYfQWsXgM"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226680,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/1R6jBoaFX5a0Mw6LgBL2Ud"
     },
     {
       "album": {
@@ -15677,6 +15713,24 @@
     },
     {
       "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/4GZquOc6YHqUggBxe3GFVZ"
+      },
+      "artists": [
+        {
+          "name": "MOON MATES",
+          "url": "https://open.spotify.com/artist/5Zd6p6J0LxJCSCy8DmSpRP"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191257,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/4iQBVAadO0J8othgMpJImF"
+    },
+    {
+      "album": {
         "name": "keep on living",
         "url": "https://open.spotify.com/album/0WCs20i2tHSE4sr6fzegho"
       },
@@ -16392,7 +16446,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 220578,
       "name": "Landkarten",
       "url": "https://open.spotify.com/track/1ik2Rk3Y4jCPpI3OtxRbsB"
@@ -23638,7 +23692,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 187083,
       "name": "rote nelken",
       "url": "https://open.spotify.com/track/1WpQgEoNNJdDRc30ll3Jzr"
@@ -24154,6 +24208,24 @@
       "duration_ms": 168750,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/4pRCVprlg9ZuvBigqnSLOd"
+    },
+    {
+      "album": {
+        "name": "Save a Kiss",
+        "url": "https://open.spotify.com/album/56Y576XfMBpfFkCuWhQh3a"
+      },
+      "artists": [
+        {
+          "name": "Rosie Charles",
+          "url": "https://open.spotify.com/artist/5AEn8f24zdnUlXDKkCQrAd"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196815,
+      "name": "Save a Kiss",
+      "url": "https://open.spotify.com/track/4PgIKUqag3YLN999LsATuq"
     },
     {
       "album": {
@@ -25768,7 +25840,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 224000,
       "name": "Sommerregen",
       "url": "https://open.spotify.com/track/1TrNemgJfDWJd5vHdRuq8B"
@@ -26580,7 +26652,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 194203,
       "name": "Stevie",
       "url": "https://open.spotify.com/track/0UmEboBfvL6nm9m281Ajan"
@@ -28276,6 +28348,24 @@
       "duration_ms": 129271,
       "name": "This Feelin'",
       "url": "https://open.spotify.com/track/7fZi9X5RGmoCKNMRtJN9in"
+    },
+    {
+      "album": {
+        "name": "Thisss",
+        "url": "https://open.spotify.com/album/6XIIvRySgfWtWJsX0NWeB0"
+      },
+      "artists": [
+        {
+          "name": "SATARII",
+          "url": "https://open.spotify.com/artist/0ysIoJftcmrTkNW0YIrNps"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127336,
+      "name": "Thisss",
+      "url": "https://open.spotify.com/track/5DeWVq9Dqm7sd1pdV3lJKs"
     },
     {
       "album": {

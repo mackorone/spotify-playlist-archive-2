@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 全台最紅西洋歌單！熱門盡在此！Cover:  FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,002 likes - 54 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,003 likes - 54 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 | 53 | [Grandma Song](https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Grandma Song](https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I) | 3:03 |
 | 54 | [Fireflies](https://open.spotify.com/track/18ZScFhFloaJJxJcnrLezb) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Fireflies](https://open.spotify.com/album/7E7ldaTtHThRPsE6uQaPqR) | 3:02 |
 
-Snapshot ID: `AAAAAILYfm5Jl/Oln5EQWnPavYAexDMO`
+Snapshot ID: `AAAAAEjjUqVPxGaKcw25t/m8SuyIX7zj`

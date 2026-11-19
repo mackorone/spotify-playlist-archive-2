@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Sully Burrows
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,598 likes - 200 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,602 likes - 200 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 199 | [Out of the Blue](https://open.spotify.com/track/6wPDPOfdDr3SsMsoUnI6Eu) | [Kelsi Mayne](https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER) | [Out of the Blue](https://open.spotify.com/album/6kdepnqmr1hB6DUgyF8tBP) | 2:51 |
 | 200 | [Natural Disaster](https://open.spotify.com/track/4yZZkrYsIrHzqJHZBzhM28) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Natural Disaster](https://open.spotify.com/album/4Lp4pbYDU5p6CNBgVfgS8o) | 3:10 |
 
-Snapshot ID: `AAAAADkOkCHXmm4ZgPdqpl5h7hbnBume`
+Snapshot ID: `AAAAAL0Td8W3ON/39DjnZpKCWW7ZKvSh`

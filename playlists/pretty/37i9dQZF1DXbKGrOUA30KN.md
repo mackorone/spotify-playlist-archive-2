@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: LEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,294 likes - 89 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,224 likes - 89 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 88 | [Ullsteinhaus](https://open.spotify.com/track/69Kia7OqbtvErb4OR4IeoW) | [Amélia](https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa) | [Ullsteinhaus](https://open.spotify.com/album/2KynymYoWHxZSz7rmqU3D2) | 2:58 |
 | 89 | [M3](https://open.spotify.com/track/4nmVAcrJlr7P9EHJWjAOuu) | [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [M3](https://open.spotify.com/album/1Ol8VHnDt5L9ffYpi1pY1y) | 2:29 |
 
-Snapshot ID: `AAAAAEGj44iGHjJgYPJXmrDOrX6Xhh12`
+Snapshot ID: `AAAAAPBZU7UYPzC0j8bGGFT/RgZn2qkN`

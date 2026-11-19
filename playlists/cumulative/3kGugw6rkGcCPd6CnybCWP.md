@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-556 songs - 1 day 8 hr 12 min
+557 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Opening \- \|wa\|hia\|wa\|](https://open.spotify.com/track/4MhnSrDsVbd0EtXXp8bOkw) | [Niam Daia](https://open.spotify.com/artist/33Z86L54jqPDUxsx8u4PCZ) | [\|Invocation\|](https://open.spotify.com/album/7FeGBeSyXlSDnYis3bXDev) | 4:49 | 2026-05-10 | 2026-07-24 |
 | [Ophelia](https://open.spotify.com/track/1yJUXqK5uC1FBJcH6mYlmr) | [Luciana Zogbi](https://open.spotify.com/artist/4ijejASaFZOolpZwK0XO9O) | [Ophelia](https://open.spotify.com/album/1lhbNpKc1sSnASkhi9T1NR) | 3:35 | 2026-03-08 | 2026-04-16 |
 | [Orange Juice](https://open.spotify.com/track/3SQBx6Y1krpXC3CAG3ykDL) | [House of Chords](https://open.spotify.com/artist/1ZjddKtNpO02fybaiZyBC4), [TIMEA](https://open.spotify.com/artist/53Ej9kFv9M01aJ8SW6QLFf) | [Orange Juice](https://open.spotify.com/album/4qvrJkItVxPMXEGoz4Jvc9) | 5:24 | 2026-07-04 | 2026-08-18 |
+| [Out of Sight Out of Mind](https://open.spotify.com/track/4r8lcR7J6O9sfCuShKjEQt) | [SEY.MOUR.](https://open.spotify.com/artist/1HoBRELAzXZS4JQbrKE3hE), [The Misses](https://open.spotify.com/artist/0ht4iZpWs4Jwv01e8OR0Jf) | [Out of Sight Out of Mind](https://open.spotify.com/album/09PVg8ju4pSHyVN9ZkJmwZ) | 2:31 | 2026-11-18 |  |
 | [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 | 2026-02-01 | 2026-03-10 |
 | [Over My Head](https://open.spotify.com/track/4clPHM4vzSpKU7nwqgz0LC) | [Aura Davis](https://open.spotify.com/artist/7phDlcL0THknSVzXipd3Vf) | [Over My Head](https://open.spotify.com/album/1V8aRGKGIbyTJ17ylo1fzT) | 2:39 | 2026-03-09 | 2026-04-16 |
 | [Over The Hills](https://open.spotify.com/track/383cNRaP2hFzlgi0i6WeDd) | [My Music Dream](https://open.spotify.com/artist/1bRUw1X8QpKUoU41X6BXiY) | [Over The Hills](https://open.spotify.com/album/755YVlJM0u1Qmpw1BN59q4) | 4:17 | 2026-07-25 | 2026-11-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,377 likes - 100 songs - 14 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,437 likes - 100 songs - 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [My Life \- Live](https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [My Life \(Live\)](https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu) | 8:13 |
 | 100 | [Your True Friend \(Jesus\) \- Live](https://open.spotify.com/track/4du4cTGn30RQcy9sY1Lc9J) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe), [JUDAH NEW CREATION WORSHIP](https://open.spotify.com/artist/6lNCI2cLHPAbegQ785hXM3), [Nhlanhla Dube](https://open.spotify.com/artist/0VitabDkwg7dAXWkoZXbtW) | [Your True Friend \(Jesus\) \[Live\]](https://open.spotify.com/album/1pKK8Kl2Gz6TogHhtsFuKV) | 6:34 |
 
-Snapshot ID: `AAAAAKDXVOn6f+Ut6a0k1uzawrNqDSo8`
+Snapshot ID: `AAAAALWqYfxqtLfZBCPxQR1t+273wc1u`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dAaWekH090M3SQTEvlEyv.md) - [plain]
 
 > ニコニコ動画上におけるVOCALOID曲の人気を測るチャート。動画再生数や、作成数、コメント数、いいね数などのデータにビルボードが独自開発した係数を乗じて上位20位までのランキングを生成しています。Supported by ニコニコ
 
-[Netmune](https://open.spotify.com/user/31e6dqbfoohkwlm47nh6e763jbnm) - 48 likes - 16 songs - 48 min 42 sec
+[Netmune](https://open.spotify.com/user/31e6dqbfoohkwlm47nh6e763jbnm) - 48 likes - 15 songs - 44 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,8 @@ pretty - [cumulative](/playlists/cumulative/7dAaWekH090M3SQTEvlEyv.md) - [plain]
 | 10 | [Drop The Mic!!](https://open.spotify.com/track/6wluq49mqeKfL7YlUoARNF) | [奏](https://open.spotify.com/artist/5nonBPpWazDcBBBHa2g3Sz), [星尘Infinity](https://open.spotify.com/artist/4bt1JFKukFNgBrMlBusd8h) | [Drop The Mic!!](https://open.spotify.com/album/7iUITTulyg4oBADc9LLpdj) | 3:06 |
 | 11 | [Engelsjagd \(feat\. がくっぽいど\)](https://open.spotify.com/track/7ogUJipxt0FlIQcK029Bll) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX), [がくっぽいど](https://open.spotify.com/artist/6Da5yiUozbKBkjI6u5dEFx) | [リクルート](https://open.spotify.com/album/0wnPKSAMQy9TYeySOS7yDv) | 3:29 |
 | 12 | [ヒプノセラピー \(feat\. 初音ミク\)](https://open.spotify.com/track/0eREkdTQ8Fx5XMzPWggJKy) | [宮守文学](https://open.spotify.com/artist/2PeQLZVv6ueArQHvjjJrjU), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Spicy Butler](https://open.spotify.com/album/5n7SkypEYxY947ABJ4Byr6) | 2:20 |
-| 13 | [Calc.](https://open.spotify.com/track/4twG4eeDoEMgCExOOj1Uq6) | [jimmythumbP](https://open.spotify.com/artist/0SHnvufFixG9v3C7hRrW7U), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [Download feat.初音ミク](https://open.spotify.com/album/3mXJ1X0bSZ8qF1pl6nQvdD) | 4:23 |
-| 14 | [テトリス](https://open.spotify.com/track/6LIpqsMbsfc8I7F0dsFXsv) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [テトリス](https://open.spotify.com/album/2oyxublk7MjXShFbm7ca0S) | 2:22 |
-| 15 | [トーキョーペトリコール \(feat\. 音街ウナ\)](https://open.spotify.com/track/15qZJpI2XfMQ4V1xo5ohwG) | [雨良 Amala](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl), [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp) | [トーキョーペトリコール \(feat\. 音街ウナ\)](https://open.spotify.com/album/0mFi98zkalwpfJk9gGagQ4) | 3:45 |
-| 16 | [LEGENDS \(feat\. 初音ミク\)](https://open.spotify.com/track/3ixQbQNE2wNRlIUa2WktOj) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [LEGENDS](https://open.spotify.com/album/2bi53lg1VS3SfIcWQ5zxGC) | 3:35 |
+| 13 | [テトリス](https://open.spotify.com/track/6LIpqsMbsfc8I7F0dsFXsv) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [テトリス](https://open.spotify.com/album/2oyxublk7MjXShFbm7ca0S) | 2:22 |
+| 14 | [トーキョーペトリコール \(feat\. 音街ウナ\)](https://open.spotify.com/track/15qZJpI2XfMQ4V1xo5ohwG) | [雨良 Amala](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl), [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp) | [トーキョーペトリコール \(feat\. 音街ウナ\)](https://open.spotify.com/album/0mFi98zkalwpfJk9gGagQ4) | 3:45 |
+| 15 | [LEGENDS \(feat\. 初音ミク\)](https://open.spotify.com/track/3ixQbQNE2wNRlIUa2WktOj) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [LEGENDS](https://open.spotify.com/album/2bi53lg1VS3SfIcWQ5zxGC) | 3:35 |
 
-Snapshot ID: `AAAHygeDD31uAbbegExyTUK7NxKYAk8x`
+Snapshot ID: `AAAHy1lhidJQS9a4tdz69MizHLpBoTVA`

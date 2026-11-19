@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest! Revive los \u00e9xitos latinos de los \u00faltimos meses.",
-  "num_followers": 857595,
+  "num_followers": 857631,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-11-12 20:10:47",
       "album": {
-        "name": "After",
-        "url": "https://open.spotify.com/album/3mAJ5jUoRMYCEjGBW0AclQ"
-      },
-      "artists": [
-        {
-          "name": "Conep",
-          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
-        }
-      ],
-      "duration_ms": 167428,
-      "name": "After",
-      "url": "https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb"
-    },
-    {
-      "added_at": "2026-11-12 20:10:47",
-      "album": {
         "name": "En Privado",
         "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
       },
@@ -899,22 +883,18 @@
     {
       "added_at": "2026-11-12 20:10:47",
       "album": {
-        "name": "pa ti toa <3",
-        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
+        "name": "After",
+        "url": "https://open.spotify.com/album/3mAJ5jUoRMYCEjGBW0AclQ"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
         }
       ],
-      "duration_ms": 213001,
-      "name": "pa ti toa <3",
-      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
+      "duration_ms": 167428,
+      "name": "After",
+      "url": "https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb"
     },
     {
       "added_at": "2026-11-12 20:10:47",
@@ -939,22 +919,18 @@
     {
       "added_at": "2026-11-12 20:10:47",
       "album": {
-        "name": "Ojos Brujos",
-        "url": "https://open.spotify.com/album/6FAUpTZ5NlNBafW41tgCWH"
+        "name": "POR SUS BESOS",
+        "url": "https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI"
       },
       "artists": [
         {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Ojos Brujos",
-      "url": "https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq"
+      "duration_ms": 186142,
+      "name": "POR SUS BESOS",
+      "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
     },
     {
       "added_at": "2026-11-12 20:10:47",
@@ -975,18 +951,42 @@
     {
       "added_at": "2026-11-12 20:10:47",
       "album": {
-        "name": "POR SUS BESOS",
-        "url": "https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI"
+        "name": "pa ti toa <3",
+        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 186142,
-      "name": "POR SUS BESOS",
-      "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
+      "duration_ms": 213001,
+      "name": "pa ti toa <3",
+      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
+    },
+    {
+      "added_at": "2026-11-12 20:10:47",
+      "album": {
+        "name": "Ojos Brujos",
+        "url": "https://open.spotify.com/album/6FAUpTZ5NlNBafW41tgCWH"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Ojos Brujos",
+      "url": "https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq"
     },
     {
       "added_at": "2026-11-12 20:10:47",

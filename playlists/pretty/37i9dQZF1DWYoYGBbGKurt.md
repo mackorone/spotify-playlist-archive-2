@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,166 likes - 205 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,544 likes - 205 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 204 | [wetlands](https://open.spotify.com/track/0RMhdbMSfq33b3rdaRPa30) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [wetlands](https://open.spotify.com/album/0bNEUSQSKjAAMoxpm9ldrb) | 2:06 |
 | 205 | [Bus Stop](https://open.spotify.com/track/1RaYGs0MT9wV3yIaudL6KW) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Bus Stop](https://open.spotify.com/album/7Ms79CscXJwdcwRkfFCUzy) | 1:52 |
 
-Snapshot ID: `AAAAABtNZO14SpHA1KOOlGabIq8XhtbV`
+Snapshot ID: `AAAAAJIvuqaQgxvanrTcp0adn1nG8kH7`

@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAZwUX71OaHfRFwsf86ZBtCagZj8e3T",
+  "snapshot_id": "AAAZyODgVrWZo9q2Xd+w/jPUJ9zGlAZa",
   "tracks": [
     {
       "added_at": "2026-09-19 10:09:33",
@@ -1987,6 +1987,122 @@
       "duration_ms": 330456,
       "name": "Baavra",
       "url": "https://open.spotify.com/track/6yUbQdKaqgbsDPh3G6gyDX"
+    },
+    {
+      "added_at": "2026-11-18 14:05:52",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0XPHpxwLiUSsvwpv1yK9u4"
+      },
+      "artists": [
+        {
+          "name": "Gerl Next Door",
+          "url": "https://open.spotify.com/artist/3Lg67ISoRAMpYa7d3O6Pyi"
+        }
+      ],
+      "duration_ms": 331392,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2xsdhqoTr8gQEh8TZx9liy"
+    },
+    {
+      "added_at": "2026-11-18 14:05:55",
+      "album": {
+        "name": "A Letter To God",
+        "url": "https://open.spotify.com/album/6xN3ciBYVlzPqANWY2SwME"
+      },
+      "artists": [
+        {
+          "name": "Joe Scorza",
+          "url": "https://open.spotify.com/artist/6b5cTvps5wIFbHnFWAFixd"
+        }
+      ],
+      "duration_ms": 324705,
+      "name": "A Letter To God",
+      "url": "https://open.spotify.com/track/27sPqFx4nYZO3oTaFAMiV2"
+    },
+    {
+      "added_at": "2026-11-18 14:05:58",
+      "album": {
+        "name": "Narcisos",
+        "url": "https://open.spotify.com/album/2FnbIvZBheqlp9hrrjeYcK"
+      },
+      "artists": [
+        {
+          "name": "Kamy",
+          "url": "https://open.spotify.com/artist/2i03xVEyzsYwm84ifehJUS"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Narcisos",
+      "url": "https://open.spotify.com/track/3LSJOhY0BCCfPvwLBbKy3H"
+    },
+    {
+      "added_at": "2026-11-18 14:06:03",
+      "album": {
+        "name": "I Didn't Know",
+        "url": "https://open.spotify.com/album/7cD3e8gcpykLnwm9zRygEP"
+      },
+      "artists": [
+        {
+          "name": "DOXAN",
+          "url": "https://open.spotify.com/artist/5X246ObvluQlKKfjS2nZVJ"
+        }
+      ],
+      "duration_ms": 324444,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/3rj9JlqrLZL31AvsNsGR73"
+    },
+    {
+      "added_at": "2026-11-18 14:06:10",
+      "album": {
+        "name": "Strength In The Love",
+        "url": "https://open.spotify.com/album/4XGEiu2PDdtNIiXY5PToc0"
+      },
+      "artists": [
+        {
+          "name": "Vicz GeoHam",
+          "url": "https://open.spotify.com/artist/1t5itTb1ZUb5ToCBQR9V1R"
+        },
+        {
+          "name": "Lamiera Marsa",
+          "url": "https://open.spotify.com/artist/3tjvt2MFGwpKkxcrub2VfT"
+        }
+      ],
+      "duration_ms": 121724,
+      "name": "Strength In The Love",
+      "url": "https://open.spotify.com/track/2fDSv7s0g8i7yAIQlqPP72"
+    },
+    {
+      "added_at": "2026-11-18 14:06:11",
+      "album": {
+        "name": "Applaus (Deutsche Version)",
+        "url": "https://open.spotify.com/album/76mkY1IPVZE0dc5bQo9KIA"
+      },
+      "artists": [
+        {
+          "name": "Jesse",
+          "url": "https://open.spotify.com/artist/5nsgTvyEmAyvWJjmxprVt6"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "Applaus",
+      "url": "https://open.spotify.com/track/4HsQyFK4PQLYxDJQEUHBeB"
+    },
+    {
+      "added_at": "2026-11-18 14:06:20",
+      "album": {
+        "name": "Des choses simples",
+        "url": "https://open.spotify.com/album/7i6MpxUbl4jIuGnpN1NWMW"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Gattuso",
+          "url": "https://open.spotify.com/artist/5R3q8fx3lfNhMCKugdiRBx"
+        }
+      ],
+      "duration_ms": 217090,
+      "name": "Virtuel",
+      "url": "https://open.spotify.com/track/1MMjv32wl370qJX7sZN14h"
     }
   ],
   "unique_name": "New Indie Music",

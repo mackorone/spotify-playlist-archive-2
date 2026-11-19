@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: AMMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,646 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,650 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 89 | [GirlMagnet](https://open.spotify.com/track/4v7XP5LpUPNW6Y81ndn4DJ) | [Jacklyn](https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv) | [GirlMagnet](https://open.spotify.com/album/3VhOfi3Bg6CMLuSc835Izk) | 2:23 |
 | 90 | [Magnetic Love](https://open.spotify.com/track/5hUjEpJe5MgbNTCO1Fucj6) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Magnetic Love](https://open.spotify.com/album/0mNm0C5wZnujTY8orr6RmI) | 3:43 |
 
-Snapshot ID: `AAAAAMm9fGFv+vLKKKSDtqrs+lamRq2g`
+Snapshot ID: `AAAAAJbekFPBNpAKXpBlh7anotEtCcIi`

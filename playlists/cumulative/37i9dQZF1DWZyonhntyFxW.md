@@ -4,7 +4,7 @@
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: ابو الانوار
 
-507 songs - 1 day 0 hr 38 min
+508 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [AFROTO TYPE BEAT](https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 2:37 | 2023-05-25 | 2023-07-27 |
 | [Afterparty](https://open.spotify.com/track/4WbE5qrmw9H4RVpjCns7oR) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 4:04 | 2025-08-30 | 2025-12-16 |
 | [AGBHA](https://open.spotify.com/track/32dRw90vVNSP6gnBlqBhIE) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [5mstashr](https://open.spotify.com/artist/6Tg1CwS2wxOOkCoqtiIR3b) | [AGBHA](https://open.spotify.com/album/4hMLvzASFdpJO6kNXwQ1zq) | 3:08 | 2025-11-06 |  |
+| [AGY ALBSKO FE BA3D](https://open.spotify.com/track/23vNvCbjUf0JjGb8SJ9fxe) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [AGY ALBSKO FE BA3D](https://open.spotify.com/album/0LglTZ3CnHOqQZkTL3Kkd6) | 2:50 | 2026-11-18 |  |
 | [AHMED FALTA](https://open.spotify.com/track/4wOXh7A1amzMsHHP5Gym0T) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [FALTA](https://open.spotify.com/album/2XfZXthb4oxK1UwjkoUiKr) | 2:30 | 2024-09-04 | 2024-12-12 |
 | [AHMED RAMZY](https://open.spotify.com/track/0RrBLm06KzwLREkyXXlgzo) | [SALE7](https://open.spotify.com/artist/4YuGqWE0goKbuCjfnRd5nq), [Swessy](https://open.spotify.com/artist/5A5QYAwB6cSLNAtX0ZHYBS) | [AHMED RAMZY](https://open.spotify.com/album/45aDpCMH7kWF6XnvvOmZqX) | 2:27 | 2026-07-06 | 2026-08-25 |
 | [Ahmed Santa](https://open.spotify.com/track/6GJQiSob1lScp9tnlTvMfp) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santa El Gded](https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a) | 2:31 | 2022-08-23 | 2024-02-23 |
@@ -411,7 +412,7 @@
 | [Tokyo](https://open.spotify.com/track/70cb9QgHrSZcfQGXCCgPBX) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Tokyo](https://open.spotify.com/album/7KJZT60Lr10dTwuELMdazt) | 2:35 | 2024-04-26 | 2024-06-14 |
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2022-05-10 | 2022-07-07 |
 | [TRAUMA](https://open.spotify.com/track/7bZ9b5rVCedn2Cvo6Lxo9H) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FOR REAL](https://open.spotify.com/album/2plfHkMSdOqhtIkQwvkD5r) | 2:47 | 2025-10-16 | 2026-05-23 |
-| [TRIP](https://open.spotify.com/track/0cqalBJaHnliD9jONcyplZ) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [TRIP](https://open.spotify.com/album/4E7Am2jijRKNoIa34cXgrp) | 2:21 | 2026-05-22 |  |
+| [TRIP](https://open.spotify.com/track/0cqalBJaHnliD9jONcyplZ) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [TRIP](https://open.spotify.com/album/4E7Am2jijRKNoIa34cXgrp) | 2:21 | 2026-05-22 | 2026-11-19 |
 | [Tripod](https://open.spotify.com/track/1MLqccNxmrlLeG2R5cBAeH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 3:48 | 2023-12-29 | 2024-01-07 |
 | [Tripod](https://open.spotify.com/track/2zdeJ6HoDILFngbzHuWq8W) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo Ch.1](https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy) | 3:48 | 2023-12-22 | 2024-05-18 |
 | [Tripod](https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 3:48 | 2024-01-05 | 2024-04-19 |

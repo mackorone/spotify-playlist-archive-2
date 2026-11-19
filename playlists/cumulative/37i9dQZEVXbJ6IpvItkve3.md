@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,520 songs - 3 day 13 hr 53 min
+1,521 songs - 3 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Houdini](https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:47 | 2024-07-13 | 2024-07-20 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-01 | 2024-06-30 |
 | [Hours In Silence](https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 6:39 | 2022-11-05 | 2022-11-07 |
-| [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 | 2026-10-20 |  |
+| [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 | 2026-10-20 | 2026-11-19 |
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-03-12 | 2025-05-23 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-24 |
 | [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-29 | 2023-08-01 |
@@ -653,7 +653,7 @@
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-13 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-05-15 | 2023-05-19 |
 | [אבא](https://open.spotify.com/track/3PqHflY0wAwmSAt0pIZRT7) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/6MTaG6ouyHqSauq4Xks8E7) | 4:29 | 2023-04-26 | 2023-04-28 |
-| [אבא](https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אבא](https://open.spotify.com/album/3zdvjrkYyFilN9XdVwJvYZ) | 3:22 | 2024-10-07 | 2026-11-15 |
+| [אבא](https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אבא](https://open.spotify.com/album/3zdvjrkYyFilN9XdVwJvYZ) | 3:22 | 2024-10-07 |  |
 | [אבא אבא אבא](https://open.spotify.com/track/3ywRHRZM1OHj57zehAYnz0) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 2:44 | 2026-02-20 | 2026-02-28 |
 | [אבות ובנים](https://open.spotify.com/track/0LAPb9g7pvLmHgiVVmzyME) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/3b7OPwVWZgm4ifO1iRW5Nk) | 3:52 | 2022-05-05 | 2023-04-28 |
 | [אבות ובנים](https://open.spotify.com/track/1Nq92xyQrCzhHGuZSRtAcO) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/1uiw4JLkam9MJiHN7U12Z2) | 4:20 | 2021-04-16 | 2021-04-17 |
@@ -723,7 +723,7 @@
 | [אינסוף](https://open.spotify.com/track/525IyHzf3ZsydmsRfDu0Vp) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:34 | 2025-01-07 | 2025-01-10 |
 | [איפה אתה](https://open.spotify.com/track/1dkljZlzg37FoGtUJ1EsxQ) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [THE LAST EPISODE](https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY) | 3:38 | 2024-02-09 | 2024-06-09 |
 | [איפה שתגידי](https://open.spotify.com/track/2PZ8BlakFfw8T8InWlkVLg) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 2:55 | 2025-06-11 | 2026-06-18 |
-| [איש הפלא](https://open.spotify.com/track/21lNFbYE1iSBYtNcW2U8Vm) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [איש הפלא](https://open.spotify.com/album/7awg3nTypB4akCgkD1Oo3A) | 3:10 | 2026-01-19 |  |
+| [איש הפלא](https://open.spotify.com/track/21lNFbYE1iSBYtNcW2U8Vm) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [איש הפלא](https://open.spotify.com/album/7awg3nTypB4akCgkD1Oo3A) | 3:10 | 2026-01-19 | 2026-11-19 |
 | [אישה נאמנה](https://open.spotify.com/track/4568BYpCFDz90315v75qzG) | [ישי לוי](https://open.spotify.com/artist/453AwzpC0rSLstVxT0LZpy) | [ריקוד רומנטי](https://open.spotify.com/album/03mo6ZDpJELvNBtn44IDAS) | 3:57 | 2026-06-08 | 2026-06-10 |
 | [אישתי](https://open.spotify.com/track/2FDOzB6NZwrF5mG8sRluoe) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אישתי](https://open.spotify.com/album/6PQ7B2uNo6I2gpOBq8EElP) | 3:38 | 2026-03-25 | 2026-03-27 |
 | [אל תגלי](https://open.spotify.com/track/0BPsxP81ujKwoZzcVpOLRZ) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw), [Metro the Savage](https://open.spotify.com/artist/3UN7UwFvKMNNEuqePbkmPJ) | [אל תגלי](https://open.spotify.com/album/2upHjoUUOPZuuXjJFJIqeU) | 3:06 | 2021-07-15 | 2021-09-26 |
@@ -1388,6 +1388,7 @@
 | [קוביד 19](https://open.spotify.com/track/7dEtCKY2MthcyP0U6aiMCW) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [סטטוס](https://open.spotify.com/album/25NrLi2xwYYO8WniTmdKL6) | 2:22 | 2022-07-23 | 2022-09-29 |
 | [קווקז](https://open.spotify.com/track/3Nkgj2fda76qTOJFXP9h48) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:04 | 2025-06-11 | 2025-07-21 |
 | [קומה 58](https://open.spotify.com/track/4C7cg72gU51s1IT4wh7Vp9) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סוף העולם](https://open.spotify.com/album/1wkBFAYxB3n1hriR7rAZlT) | 2:56 | 2023-06-02 | 2023-10-23 |
+| [קומראן](https://open.spotify.com/track/3xODXJxwLBfne8LoD4PNtk) | [אופק אדנק](https://open.spotify.com/artist/517NByhwSiSisC8rQZlcIv) | [קומראן](https://open.spotify.com/album/783nMN64Wh6Zm9a5TviD0H) | 2:36 | 2026-11-18 |  |
 | [קופידון \(Prod\. By Triangle\)](https://open.spotify.com/track/4W1G1xlxcirdtXosgsR0m0) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [קופידון \(Prod\. By Triangle\)](https://open.spotify.com/album/13cZhKohwvhPrY34nk3qsj) | 2:43 | 2022-10-09 | 2023-05-23 |
 | [קוצים](https://open.spotify.com/track/3WyvZJGxtORVdtOkNyHBJp) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [פסיפס](https://open.spotify.com/album/4ofwgmi8ZfznTiuQxZuSI9) | 3:40 | 2023-04-26 | 2023-04-28 |
 | [קוקוריקו \(אל תדליקו אותי\)](https://open.spotify.com/track/4NBMvQX5yM05Mgznqw0zXR) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:32 | 2021-09-26 | 2021-11-10 |

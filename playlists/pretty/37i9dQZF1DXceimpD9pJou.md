@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\. Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,611 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,633 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Fogata \- Desde la Torre Colpatria](https://open.spotify.com/track/2ye7d31Z8xYpHNqSKTGBwP) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Entre el Cielo y la Ciudad \(Desde La Torre Colpatria\)](https://open.spotify.com/album/5xwZHEzhpi1oYlXpgY3cVF) | 2:31 |
 | 100 | [Hazte Silencio](https://open.spotify.com/track/5ZjvPAvmDE9jP2akNzyHS0) | [Daniel Roa](https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF), [Paola Moreno](https://open.spotify.com/artist/64fbichkAlDBocw5UIWPry), [Peregrino](https://open.spotify.com/artist/00e8XudHdVpnyo5zGPNvnr), [Santiago Ardila](https://open.spotify.com/artist/01Qj4FIZsyfxQkwXwEwwom), [Tina Amell](https://open.spotify.com/artist/3QFEXWtbHH1Ltr6eRaAlqM) | [Dios Puede](https://open.spotify.com/album/387d41Kr4SiaKYFWo6A2uo) | 5:01 |
 
-Snapshot ID: `AAAAAA6uju6eiDv+l4QxCReWU8Z4RDP7`
+Snapshot ID: `AAAAAAUpsdCkYUvMMip0MIRtMjXYiTQs`

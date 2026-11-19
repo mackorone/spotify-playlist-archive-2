@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 206143,
       "name": "enero - versi\u00f3n ac\u00fastica",
       "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
@@ -2872,6 +2872,24 @@
       "duration_ms": 265080,
       "name": "M\u00edrenla (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA"
+    },
+    {
+      "album": {
+        "name": "Hasta Despertar",
+        "url": "https://open.spotify.com/album/5RcGfW7O2mXBZyycYDMY7G"
+      },
+      "artists": [
+        {
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220252,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/7Ah6kOizB5gituxW0d4P97"
     },
     {
       "album": {

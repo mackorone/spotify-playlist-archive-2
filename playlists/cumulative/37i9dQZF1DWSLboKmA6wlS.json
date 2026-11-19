@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: samatang. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PALANG. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -3590,7 +3590,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 198000,
       "name": "Gimme A Rest",
       "url": "https://open.spotify.com/track/2jiPL8Mw9m3n3jAdkCB00Q"
@@ -23500,6 +23500,24 @@
       "duration_ms": 262835,
       "name": "\u0e17\u0e49\u0e2d (Exhausted)",
       "url": "https://open.spotify.com/track/2hsBxsI9VeRwTGnU1GFdF5"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e49\u0e2d...\u0e01\u0e47\u0e41\u0e04\u0e48\u0e0a\u0e37\u0e48\u0e2d\u0e1c\u0e25\u0e44\u0e21\u0e49 (THO)",
+        "url": "https://open.spotify.com/album/0Ut1D8WxXGWvutiCxqjYzu"
+      },
+      "artists": [
+        {
+          "name": "PALANG",
+          "url": "https://open.spotify.com/artist/7nQkwA5IEo4KBWtE8xDfco"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "\u0e17\u0e49\u0e2d...\u0e01\u0e47\u0e41\u0e04\u0e48\u0e0a\u0e37\u0e48\u0e2d\u0e1c\u0e25\u0e44\u0e21\u0e49 (THO)",
+      "url": "https://open.spotify.com/track/28X2VYUW7c3JX6WUHR6l4I"
     },
     {
       "album": {

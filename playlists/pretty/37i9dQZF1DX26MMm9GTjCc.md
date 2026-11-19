@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 
 > The soundtrack to your festive get\-together!
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,141 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,139 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 | 10 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/1hvpDAxZPKjKztOc72sv06) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know Its Christmas?](https://open.spotify.com/album/5v6oVunOk4DA8SMlBFqsKG) | 3:42 |
 | 11 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/4TJ7VNAE34mEMrvUTCRvtF) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 2:46 |
 | 12 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 |
-| 13 | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/track/46w8k81V0eSBx64XuVHxT2) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/album/4XzNQosYnRNJ29QYsMV98V) | 3:31 |
+| 13 | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/track/46w8k81V0eSBx64XuVHxT2) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/album/4XzNQosYnRNJ29QYsMV98V) | 3:32 |
 | 14 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 |
 | 15 | [Rockin' Around the Christmas Tree \- Rerecorded Version](https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [A Brenda Lee Christmas](https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F) | 2:06 |
 | 16 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/7N1AVQJ6MlUUjPElAPZhkS) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Christmas Hits](https://open.spotify.com/album/3bto84q2K8whk2cet81pAe) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 | 49 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:03 |
 | 50 | [One I've Been Missing](https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [One I've Been Missing](https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg) | 3:12 |
 
-Snapshot ID: `AAAAAJkPKOG9BWMgIsl627up8TyRRUcN`
+Snapshot ID: `AAAAAAkzLbXLKeONq2zV+fWRceEzRb4I`

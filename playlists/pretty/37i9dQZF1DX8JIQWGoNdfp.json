@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 69916,
+  "num_followers": 69930,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAyO1rnyWrEX9cqfhU3mY/OCIsVs",
+  "snapshot_id": "AAAAAEFGHpe1Rv7exe/DtLx8FSXP/p0M",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "100% Ginuwine",
-        "url": "https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "So Anxious",
-      "url": "https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Heartbreak Anniversary",
         "url": "https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 196794,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "100% Ginuwine",
+        "url": "https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "So Anxious",
+      "url": "https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 337466,
       "name": "If You",
       "url": "https://open.spotify.com/track/5DwP705ZZWaTQ8olnVtD0b"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU"
     },
     {
       "added_at": "2022-10-02 01:51:23",

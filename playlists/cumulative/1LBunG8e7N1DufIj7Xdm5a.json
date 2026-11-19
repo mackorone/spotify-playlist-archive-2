@@ -31597,6 +31597,24 @@
     },
     {
       "album": {
+        "name": "Fairy of Fortune",
+        "url": "https://open.spotify.com/album/0W2rA2EgVidqoXY5wdJugC"
+      },
+      "artists": [
+        {
+          "name": "NitRo - Tunes",
+          "url": "https://open.spotify.com/artist/4jYkECQhDrMZPm8DNPafYP"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Fairy of Fortune",
+      "url": "https://open.spotify.com/track/6XlfJJ4Jj1rDJgdaekHsWK"
+    },
+    {
+      "album": {
         "name": "Faith and Loss",
         "url": "https://open.spotify.com/album/0WlDmKxKEDZsXMEOrpsNfm"
       },

@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 174566,
+  "num_followers": 174608,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD57qO61AdiMYrL0TC+aRCQy03YU",
+  "snapshot_id": "AAAAAFd7TPR25NFF5NPark4FBAs2je9n",
   "tracks": [
     {
       "added_at": "2026-09-18 00:19:01",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Sesal Separuh Nyawa",
-        "url": "https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3"
-      },
-      "artists": [
-        {
-          "name": "Alyah",
-          "url": "https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ"
-        }
-      ],
-      "duration_ms": 259977,
-      "name": "Sesal Separuh Nyawa",
-      "url": "https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Daur Hidup",
         "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 162739,
       "name": "Daur Hidup",
       "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Sesal Separuh Nyawa",
+        "url": "https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3"
+      },
+      "artists": [
+        {
+          "name": "Alyah",
+          "url": "https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ"
+        }
+      ],
+      "duration_ms": 259977,
+      "name": "Sesal Separuh Nyawa",
+      "url": "https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Angin Rindu",
-        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
-      },
-      "artists": [
-        {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
-        }
-      ],
-      "duration_ms": 258148,
-      "name": "Angin Rindu",
-      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Salahkah Aku?",
         "url": "https://open.spotify.com/album/1vpe9NBN0SN5c0BoEPI8wJ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 244759,
       "name": "Salahkah Aku?",
       "url": "https://open.spotify.com/track/4yiWEkos7y6kzqWTZGLF1l"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Angin Rindu",
+        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 258148,
+      "name": "Angin Rindu",
+      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
     },
     {
       "added_at": "2026-09-18 00:19:01",

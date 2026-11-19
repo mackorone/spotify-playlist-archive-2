@@ -1,12 +1,12 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 824672,
+  "num_followers": 824701,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKkqEObye/eVnW1Ru+Tf4giRfGrw",
+  "snapshot_id": "AAAAAOE2vtbA5TyffjGDu7Vgy9Ch98Li",
   "tracks": [
     {
       "added_at": "2026-11-13 00:01:01",
@@ -479,26 +479,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "PHTHALO",
-        "url": "https://open.spotify.com/album/24IlLpP9lmcbGWNVFcAUyg"
-      },
-      "artists": [
-        {
-          "name": "Rabbitology",
-          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
-        },
-        {
-          "name": "Marcus Quintana",
-          "url": "https://open.spotify.com/artist/38qdZMLzuzs2mRPzoNGfPW"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "The Glowing",
-      "url": "https://open.spotify.com/track/1ZOSoprOOKyOvlSOw1sV5V"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "I Speak Because I Can",
         "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 218188,
       "name": "Devil's Spoke",
       "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Run On",
+        "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
+      },
+      "artists": [
+        {
+          "name": "Jamie Bower",
+          "url": "https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1"
+        },
+        {
+          "name": "King Sugar",
+          "url": "https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP"
+        }
+      ],
+      "duration_ms": 212705,
+      "name": "Run On",
+      "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -547,22 +547,22 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Run On",
-        "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
+        "name": "PHTHALO",
+        "url": "https://open.spotify.com/album/24IlLpP9lmcbGWNVFcAUyg"
       },
       "artists": [
         {
-          "name": "Jamie Bower",
-          "url": "https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1"
+          "name": "Rabbitology",
+          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
         },
         {
-          "name": "King Sugar",
-          "url": "https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP"
+          "name": "Marcus Quintana",
+          "url": "https://open.spotify.com/artist/38qdZMLzuzs2mRPzoNGfPW"
         }
       ],
-      "duration_ms": 212705,
-      "name": "Run On",
-      "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
+      "duration_ms": 212500,
+      "name": "The Glowing",
+      "url": "https://open.spotify.com/track/1ZOSoprOOKyOvlSOw1sV5V"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
+        "name": "Holy Line",
+        "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
+      },
+      "artists": [
+        {
+          "name": "Mynolia",
+          "url": "https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Holy Line",
+      "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
         "name": "John Came Home",
         "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Holy Line",
-        "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
-      },
-      "artists": [
-        {
-          "name": "Mynolia",
-          "url": "https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Holy Line",
-      "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Heavy Load",
         "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Hades Pleads",
-      "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "The Civil Wars",
         "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 149426,
       "name": "Devil's Backbone",
       "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Hades Pleads",
+      "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Leaving The Zoo",
-        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
+        "name": "By The Rule",
+        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
       },
       "artists": [
         {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
         }
       ],
-      "duration_ms": 323341,
-      "name": "Leaving the Zoo",
-      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
+      "duration_ms": 190946,
+      "name": "Get What You Give",
+      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
+        "name": "Leaving The Zoo",
+        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 323341,
+      "name": "Leaving the Zoo",
+      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
         "name": "Country Is Dead",
         "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "By The Rule",
-        "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
+        "name": "The Winter of '68",
+        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
       },
       "artists": [
         {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
         }
       ],
-      "duration_ms": 190946,
-      "name": "Get What You Give",
-      "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
+      "duration_ms": 202979,
+      "name": "The Winter of '68",
+      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1275,22 +1291,6 @@
       "duration_ms": 224520,
       "name": "I Hear Him Howling",
       "url": "https://open.spotify.com/track/4o5MExPgOJGdp4XLOD46Px"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
-        "name": "The Winter of '68",
-        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 202979,
-      "name": "The Winter of '68",
-      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Election Day",
-        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
-      },
-      "artists": [
-        {
-          "name": "Uncle Lucius",
-          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Election Day",
-      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 234146,
       "name": "God Of Love",
       "url": "https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Election Day",
+        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
+      },
+      "artists": [
+        {
+          "name": "Uncle Lucius",
+          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Election Day",
+      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
     },
     {
       "added_at": "2026-11-13 00:01:01",

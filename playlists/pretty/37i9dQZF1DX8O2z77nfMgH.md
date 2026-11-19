@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Latin Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,151 likes - 63 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,024 likes - 63 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 62 | [BASSLINE](https://open.spotify.com/track/4s5KAaraOzSEVkO4xBAzis) | [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I), [pavvvvvvlo](https://open.spotify.com/artist/7CqRrRjRpA1yZbXxCwjmTe) | [GLOBAL CUTS](https://open.spotify.com/album/4O8X6x4CC07LkW4oNIaOBZ) | 3:38 |
 | 63 | [Normal](https://open.spotify.com/track/6dehQulGzmL41BsV8vWEMb) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W), [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Velux](https://open.spotify.com/album/6mS2QEvQH8RbEgM0ms7MTA) | 3:34 |
 
-Snapshot ID: `AAAAALKI8xvUVG3yP1kyY+kDLzBBgPXY`
+Snapshot ID: `AAAAAP6UAbywZdQ5Higg6FDe7ZkM2a32`

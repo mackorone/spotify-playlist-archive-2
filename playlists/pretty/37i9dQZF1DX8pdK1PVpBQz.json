@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Plumia",
-  "num_followers": 32214,
+  "num_followers": 32222,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,26 @@
       "duration_ms": 100858,
       "name": "i dont like that",
       "url": "https://open.spotify.com/track/4gwlS11GtPmraiGKNOFLSW"
+    },
+    {
+      "added_at": "2026-11-17 13:00:14",
+      "album": {
+        "name": "softening",
+        "url": "https://open.spotify.com/album/1YZf5fFOKZWLycjLAe5fbx"
+      },
+      "artists": [
+        {
+          "name": "PORTIA",
+          "url": "https://open.spotify.com/artist/0tufQz2tagGrgt9MiFQkci"
+        },
+        {
+          "name": "CD",
+          "url": "https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f"
+        }
+      ],
+      "duration_ms": 233548,
+      "name": "expectations",
+      "url": "https://open.spotify.com/track/65ui4m7jIF7Lvt93gfEN9c"
     },
     {
       "added_at": "2026-11-17 13:00:14",

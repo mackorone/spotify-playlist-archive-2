@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,930 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,926 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 99 | [Christmas Time](https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg) | [The Fixies](https://open.spotify.com/artist/1GmIrV9vwP3OqwrvUI64nm) | [Christmas Time](https://open.spotify.com/album/51RNxuaLwgCQ4dY1zTh9TC) | 2:05 |
 | 100 | [Winter Wonderland](https://open.spotify.com/track/5oYlVyU6omFwlOR5IUi3Ba) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Best Christmas Songs for Children](https://open.spotify.com/album/0CxmYny82lUsiY9BOPuDuL) | 2:55 |
 
-Snapshot ID: `AAAAAMvKpXKES8IyavZmJpj3edm7mbau`
+Snapshot ID: `AAAAAKkw8aX0GZ7YlUKy4Y2jKlmrl0o/`

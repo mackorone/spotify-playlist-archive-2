@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 2988,
+  "num_followers": 2991,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
+        "name": "Saisons",
+        "url": "https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "Saisons",
+      "url": "https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
         "name": "Bogus",
         "url": "https://open.spotify.com/album/4f0LSP6WVbPOJ89NrASCUM"
       },
@@ -339,18 +355,34 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Saisons",
-        "url": "https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk"
+        "name": "Spin / Holding On",
+        "url": "https://open.spotify.com/album/3bQXf66U0CWg0HrRObvYum"
       },
       "artists": [
         {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
         }
       ],
-      "duration_ms": 191226,
-      "name": "Saisons",
-      "url": "https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg"
+      "duration_ms": 236624,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2r5qyhWmv8yEcbUrwGpNfT"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "For Seasons: Love in a Time of War",
+        "url": "https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy"
+      },
+      "artists": [
+        {
+          "name": "Merna",
+          "url": "https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK"
+        }
+      ],
+      "duration_ms": 267250,
+      "name": "Four Seasons",
+      "url": "https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -391,22 +423,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "For Seasons: Love in a Time of War",
-        "url": "https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy"
-      },
-      "artists": [
-        {
-          "name": "Merna",
-          "url": "https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK"
-        }
-      ],
-      "duration_ms": 267250,
-      "name": "Four Seasons",
-      "url": "https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Gamut / Styrofoam",
         "url": "https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Spin / Holding On",
-        "url": "https://open.spotify.com/album/3bQXf66U0CWg0HrRObvYum"
+        "name": "THIS IS A BREAKUP ALBUM",
+        "url": "https://open.spotify.com/album/5e3pF5WJ0XizD1TZUaZRY8"
       },
       "artists": [
         {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
         }
       ],
-      "duration_ms": 236624,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2r5qyhWmv8yEcbUrwGpNfT"
+      "duration_ms": 205533,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -451,22 +467,6 @@
       "duration_ms": 256651,
       "name": "redstar",
       "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
-        "name": "THIS IS A BREAKUP ALBUM",
-        "url": "https://open.spotify.com/album/5e3pF5WJ0XizD1TZUaZRY8"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW"
     },
     {
       "added_at": "2026-11-01 04:01:35",

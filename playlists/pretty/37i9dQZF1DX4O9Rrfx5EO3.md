@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O9Rrfx5EO3.md) - [plain]
 
 > Music from "LoveLive! Series"「ラブライブ！シリーズ」の楽曲をプレイリストで。©2013 PL! ©2017 PL!S ©2024 PL!NM ©2024 PL!SP ©2026 PL!HS ©PL!SIM ©IKZL
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,130 likes - 68 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,151 likes - 68 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

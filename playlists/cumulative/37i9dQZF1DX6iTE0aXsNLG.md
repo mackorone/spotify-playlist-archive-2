@@ -2,7 +2,7 @@
 
 ### [Anime Hits '10s Video](https://open.spotify.com/playlist/37i9dQZF1DX6iTE0aXsNLG)
 
-> Creditless Anime Openings / Endings of the 2010s\. Music videos only available on Premium\. 2010年代のノンクレジットアニメOP／EDを観よう。\(ミュージックビデオはSpotifyプレミアムユーザーのみご覧いただけます。\)  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
+> Creditless Anime Openings / Endings of the 2010s\. Music videos only available on Premium\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 40 songs - 1 hr 0 min
 

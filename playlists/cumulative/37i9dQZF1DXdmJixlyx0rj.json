@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: KIRARA)",
+  "description": "New & best K-Electronic music is here. (Cover: Effie, Eurohead)",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 227493,
       "name": "Chi Mat Ba Ram+Rollin\u2019 - Remix",
       "url": "https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u"
@@ -2183,6 +2183,28 @@
     },
     {
       "album": {
+        "name": "elevator music",
+        "url": "https://open.spotify.com/album/7i5czfUhuiXEREkk6oPw6g"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146092,
+      "name": "elevator music",
+      "url": "https://open.spotify.com/track/1MsLVmMAsOluMSgFrHuoqy"
+    },
+    {
+      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/1VFB78LC4Lv3Y0J3W2tz9F"
       },
@@ -2472,6 +2494,32 @@
       "duration_ms": 154712,
       "name": "Felony",
       "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
+    },
+    {
+      "album": {
+        "name": "ferry ey",
+        "url": "https://open.spotify.com/album/12WnprlgJu9eL3cT6EZSKJ"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        },
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "ferry ey",
+      "url": "https://open.spotify.com/track/0zJJvBGGN09GKKGkxmV5tO"
     },
     {
       "album": {
@@ -2944,7 +2992,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 207089,
       "name": "Heart Of Steel",
       "url": "https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3"
@@ -3206,6 +3254,24 @@
       "duration_ms": 250000,
       "name": "Icarus (Artronic Waves Remix)",
       "url": "https://open.spotify.com/track/6hR8Qr0JATi43cPQ9zhqJy"
+    },
+    {
+      "album": {
+        "name": "If I Go Back",
+        "url": "https://open.spotify.com/album/6fpHnYUVPY2xgrjuQIL5Wr"
+      },
+      "artists": [
+        {
+          "name": "P3PPER",
+          "url": "https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257464,
+      "name": "If I Go Back",
+      "url": "https://open.spotify.com/track/3jqa76x2R4K1KcWBoHGv29"
     },
     {
       "album": {
@@ -3612,7 +3678,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 172554,
       "name": "KPOP B!TCH",
       "url": "https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f"

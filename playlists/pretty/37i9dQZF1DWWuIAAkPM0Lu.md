@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik fra bl.a\. Michael Williams, Christopher, Bette og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,818 likes - 105 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,813 likes - 105 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 104 | [Golden Heart \(Day 5\)](https://open.spotify.com/track/5uoyAXoEp1e18cpc3SkaUi) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [Golden Heart \(Day 5\)](https://open.spotify.com/album/5L1Ii0DjLzbabVbIacvbRp) | 3:51 |
 | 105 | [if I could](https://open.spotify.com/track/4Hk4dp7jzwBbmxJO3RJN69) | [tetteris](https://open.spotify.com/artist/1ESDypoYXnCyOoQrItdFwr) | [if I could](https://open.spotify.com/album/0ZjMhGSnR5LPTX1SKvnmyb) | 2:56 |
 
-Snapshot ID: `AAAAAJto5q1M5W8wcaJ+wmeLVQQSxou6`
+Snapshot ID: `AAAAAG+L4qMmYX3YOWO1HdkoxDds8Olp`

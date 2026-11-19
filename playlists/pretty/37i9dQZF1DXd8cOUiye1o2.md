@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > All hail the King! Get ready to fall in love with 'Tu Mil Jaaye'\. Listen now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,377 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023,441 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 20 | [Aao Na](https://open.spotify.com/track/4Pm9I5aZhWNiCIfYAFL12n) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Aao Na](https://open.spotify.com/album/7v4ZkkxzCraO5I0E6XAZsg) | 4:42 |
 | 21 | [Sau Dafa](https://open.spotify.com/track/53SeDTg6B3F8Gw0UnF6FT9) | [Hopun Saikia](https://open.spotify.com/artist/427lOJJUkRWgIZYpcUKKwN), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Aryam](https://open.spotify.com/artist/7eccjTEuW7oVM2661CsnOP), [Shounak Narale](https://open.spotify.com/artist/54Oak6xwC52kmktQkBW6iT) | [Tasam \(Hindi\)](https://open.spotify.com/album/4AO56sgXoc63h1kwJOdAq8) | 4:10 |
 | 22 | [Teri Akhiyaan](https://open.spotify.com/track/2C4Qg0ePCtamX73osyfwmJ) | [Mohshin Raza](https://open.spotify.com/artist/2GPmBEKL2DzmsM7yiOwyZc), [Dj AYnik](https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk) | [Teri Akhiyaan](https://open.spotify.com/album/0jCfwh0piFGuykcUnx5igQ) | 2:30 |
-| 23 | [Pinjra \(From "Campus Diaries \- Season 2"\)](https://open.spotify.com/track/3AFolmPIA8dZ0B3rpTV2WB) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arpit Mehta](https://open.spotify.com/artist/6ows1S9jtvoxZKn570pcqD), [Simran Hora](https://open.spotify.com/artist/6QzuF3b0JP9EW2gPItQjFv), [Abhishek Yadav](https://open.spotify.com/artist/4d6cKkIYG9IamN3uzs1op8) | [Campus Diaries \- Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/1mjLuwDsRojw60HOzDL2p5) | 2:48 |
+| 23 | [Pinjra \(From "Campus Diaries \- Season 2"\)](https://open.spotify.com/track/3AFolmPIA8dZ0B3rpTV2WB) | [Arpit Mehta](https://open.spotify.com/artist/6ows1S9jtvoxZKn570pcqD), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Simran Hora](https://open.spotify.com/artist/6QzuF3b0JP9EW2gPItQjFv), [Abhishek Yadav](https://open.spotify.com/artist/4d6cKkIYG9IamN3uzs1op8) | [Campus Diaries \- Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/1mjLuwDsRojw60HOzDL2p5) | 2:48 |
 | 24 | [Yaad Tu Aaya \- From "Parivarik ManuRanjan"](https://open.spotify.com/track/6U1tEtqsyIrGUlHskzNqzZ) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Aseem Trivedi](https://open.spotify.com/artist/4SK7pRoQe0UnhkjCpn1G3k), [Anuj Garg](https://open.spotify.com/artist/15QUOLMCzfGtMtkQn6IaTG), [Yash Kapoor](https://open.spotify.com/artist/07ymxiaLM2XsuqeE0UrRUw) | [Parivarik ManuRanjan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kulIuMcghcRL0sfLlR4Rg) | 3:34 |
 | 25 | [Kaise Ho Tum](https://open.spotify.com/track/1mBn67LVdwiuBDBAfAuJ9d) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Koco](https://open.spotify.com/artist/1257Q3FFfGo1Eas4AH3GGt) | [Kaise Ho Tum](https://open.spotify.com/album/7yfFY484Mjz8BOf71etUVm) | 4:54 |
 | 26 | [Dhola Ji](https://open.spotify.com/track/1tIOJeQierKK0CIiAlQIDR) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD), [Chirantan Bhatt](https://open.spotify.com/artist/1Fp2NbOlCFFrrkc29QbhBC), [Rajesh Manthan](https://open.spotify.com/artist/0Mk4IEoAa8sHz3ktemQuno) | [Dhola Ji](https://open.spotify.com/album/7FM4wPIYBWyxP2AG2zfHJm) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 74 | [Dua](https://open.spotify.com/track/3ew6Zv4G9xruMCGLLxUhog) | [Prabhakar Raj](https://open.spotify.com/artist/0J08yGBBZULgzhq1NLvUP3), [LarkZ](https://open.spotify.com/artist/6hil0uAkh5eeRbVd5q2UqY) | [Dua](https://open.spotify.com/album/44UYQqlk17F3cvNkLLfkUz) | 3:40 |
 | 75 | [Jugni](https://open.spotify.com/track/269KS3Y4BYCLwK7g2s8TkP) | [Sarkar](https://open.spotify.com/artist/2R4yA8DlTWiUCpYlC0NMZh), [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [I\-Popstar: Vol\. 2 \| Episode 12](https://open.spotify.com/album/75KH4AOjibvODsto6zORPV) | 3:00 |
 
-Snapshot ID: `AAAAADfyxmNuLKybU+w6FClUh/J9PLTs`
+Snapshot ID: `AAAAAEAUsTEsNrNYaLwZz4EvYpG7QI/g`

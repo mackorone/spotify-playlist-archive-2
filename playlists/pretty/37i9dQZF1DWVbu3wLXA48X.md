@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: yeule
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,214 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,217 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 99 | [Sweet 66](https://open.spotify.com/track/1GliqJUuDR4oUSJahjv38A) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Sweet 66](https://open.spotify.com/album/6nqVMCEyaiZI2PINGoNj6X) | 3:13 |
 | 100 | [Difficult Love](https://open.spotify.com/track/0UDEtLcKGBU73D15u5g1r3) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD) | 2:33 |
 
-Snapshot ID: `AAAAAAsDWCZnimvbABlqb2QqpAacgtcg`
+Snapshot ID: `AAAAAAhjXH82qtf0Z4DKaMQ20hokM5zz`

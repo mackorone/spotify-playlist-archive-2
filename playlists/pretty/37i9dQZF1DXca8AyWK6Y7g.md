@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > just trying our best 📸 Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,515,327 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515,135 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 99 | [Secret Language](https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Secret Language](https://open.spotify.com/album/5O70O8co709tMC46LDb8uF) | 3:53 |
 | 100 | [Supernova](https://open.spotify.com/track/5qsLQvSvlCfLLU9TubhllM) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [The Lone Starlet](https://open.spotify.com/album/65fTktXSzIfyXDyfNi889Z) | 2:35 |
 
-Snapshot ID: `AAAAAHSRnsylIFf2aHCEQ9U8UmWC+ktK`
+Snapshot ID: `AAAAAAClxFURnt43N+LyAOoWR8MBHupD`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJYvJhzcU91lT2ljnEJOVBIlIS2r",
+  "snapshot_id": "AAAAAOtiuMYfy0BPvp/gr/8NwVfePuDN",
   "tracks": [
     {
       "added_at": "2026-11-13 05:00:00",
@@ -67,30 +67,18 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "Situation (feat. Big Sean, Erykah Badu, & Aasher Saintt)",
-        "url": "https://open.spotify.com/album/4SlPNDEOnbbfPxq72hvwMt"
+        "name": "Horseback (Special Edition)",
+        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
       },
       "artists": [
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "Aasher Saintt",
-          "url": "https://open.spotify.com/artist/2GcRjXO2JMqFNNRcwEI0iR"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 158879,
-      "name": "Situation (feat. Big Sean, Erykah Badu & Aasher Saintt)",
-      "url": "https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa"
+      "duration_ms": 167373,
+      "name": "Horseback - Special Edition",
+      "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -127,42 +115,30 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "Horseback (Special Edition)",
-        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
+        "name": "Situation (feat. Big Sean, Erykah Badu, & Aasher Saintt)",
+        "url": "https://open.spotify.com/album/4SlPNDEOnbbfPxq72hvwMt"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "Horseback - Special Edition",
-      "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\")",
-        "url": "https://open.spotify.com/album/1AeRGvMigVa43GsZmt09Du"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         },
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         },
         {
-          "name": "Peanuts",
-          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Aasher Saintt",
+          "url": "https://open.spotify.com/artist/2GcRjXO2JMqFNNRcwEI0iR"
         }
       ],
-      "duration_ms": 143744,
-      "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\") (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/3SgiN73hnVnb9KSs4Z4iL2"
+      "duration_ms": 158879,
+      "name": "Situation (feat. Big Sean, Erykah Badu & Aasher Saintt)",
+      "url": "https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -203,30 +179,26 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "3ft From Gold",
-        "url": "https://open.spotify.com/album/6AZMA1PZzpOQzkgPepymIF"
+        "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\")",
+        "url": "https://open.spotify.com/album/1AeRGvMigVa43GsZmt09Du"
       },
       "artists": [
         {
-          "name": "The C!rcle",
-          "url": "https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F"
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         },
         {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         },
         {
-          "name": "Aidyproof",
-          "url": "https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN"
-        },
-        {
-          "name": "G-SALIH",
-          "url": "https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6"
+          "name": "Peanuts",
+          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
         }
       ],
-      "duration_ms": 242531,
-      "name": "Bird eye view",
-      "url": "https://open.spotify.com/track/1FUxjlcbSjwTb8AAV2VINb"
+      "duration_ms": 143744,
+      "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\") (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3SgiN73hnVnb9KSs4Z4iL2"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -267,6 +239,34 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
+        "name": "3ft From Gold",
+        "url": "https://open.spotify.com/album/6AZMA1PZzpOQzkgPepymIF"
+      },
+      "artists": [
+        {
+          "name": "The C!rcle",
+          "url": "https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Aidyproof",
+          "url": "https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN"
+        },
+        {
+          "name": "G-SALIH",
+          "url": "https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6"
+        }
+      ],
+      "duration_ms": 242531,
+      "name": "Bird eye view",
+      "url": "https://open.spotify.com/track/1FUxjlcbSjwTb8AAV2VINb"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
         "name": "Hell Or High Water",
         "url": "https://open.spotify.com/album/4k3syhWjhgTAoxITEmyqED"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 208813,
       "name": "(On The) Battlefield",
       "url": "https://open.spotify.com/track/5NjXiw0GLZiUQ2jHsXp0XJ"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "I Want A Rocket (From \"Club Kid\")",
-        "url": "https://open.spotify.com/album/1mikitXVWnyMPveEOhkT1G"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 282668,
-      "name": "I Want A Rocket - From \"Club Kid\"",
-      "url": "https://open.spotify.com/track/3kFATEng5hQUjUxlx4WJIT"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -331,6 +315,22 @@
       "duration_ms": 120424,
       "name": "Fire",
       "url": "https://open.spotify.com/track/54Mkqvwfs4HQgq0tige5XX"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "I Want A Rocket (From \"Club Kid\")",
+        "url": "https://open.spotify.com/album/1mikitXVWnyMPveEOhkT1G"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 282668,
+      "name": "I Want A Rocket - From \"Club Kid\"",
+      "url": "https://open.spotify.com/track/3kFATEng5hQUjUxlx4WJIT"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "Phish: Live In Savannah 2026",
-        "url": "https://open.spotify.com/album/73SBKxw3R4IZzqDm0uciUQ"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 1340700,
-      "name": "Sightless Escape - Live",
-      "url": "https://open.spotify.com/track/7D2FGYV54xeKsH7leSCiyB"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
         "name": "Black Samson: The Saga Continues",
         "url": "https://open.spotify.com/album/07yS4BsrVFX4fwmH5XeYwp"
       },
@@ -456,21 +440,33 @@
           "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
         },
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
         },
         {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
-        },
-        {
-          "name": "Kyah Baby",
-          "url": "https://open.spotify.com/artist/7Fkz3rPi9NU6jw2f5yxzWY"
+          "name": "Cormega",
+          "url": "https://open.spotify.com/artist/4vQLu6vYK0hp8k0fsAzsU8"
         }
       ],
-      "duration_ms": 167363,
-      "name": "Dominant Confidence",
-      "url": "https://open.spotify.com/track/1gLCXfNCSYOCHkfxxBMlpX"
+      "duration_ms": 226447,
+      "name": "Brolic",
+      "url": "https://open.spotify.com/track/6dRYsxmtk5bjOVGBvuzQ8g"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
+        "name": "Phish: Live In Savannah 2026",
+        "url": "https://open.spotify.com/album/73SBKxw3R4IZzqDm0uciUQ"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 1340700,
+      "name": "Sightless Escape - Live",
+      "url": "https://open.spotify.com/track/7D2FGYV54xeKsH7leSCiyB"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -563,6 +559,34 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
+        "name": "Serial Killers, Vol. 1 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6i1fDx3HIPppCUPK6CsxsZ"
+      },
+      "artists": [
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+        },
+        {
+          "name": "Demrick",
+          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
+        },
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        }
+      ],
+      "duration_ms": 251927,
+      "name": "Doctors In - Remastered 2026",
+      "url": "https://open.spotify.com/track/0Di3tBKeIxnyuSnzHrsaRq"
+    },
+    {
+      "added_at": "2026-11-13 05:00:00",
+      "album": {
         "name": "Expensive Taste",
         "url": "https://open.spotify.com/album/4jvsbpZLM4wzJ9dpeDZeSu"
       },
@@ -591,30 +615,18 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/1jCOOdzsTAvKK8arBs1Wa2"
+        "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
       },
       "artists": [
         {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        },
-        {
-          "name": "Rayana Jay",
-          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
-        },
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
-        },
-        {
-          "name": "Kamal Wilson",
-          "url": "https://open.spotify.com/artist/2b2p3GXrcFT0eSGwovQp3B"
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
         }
       ],
-      "duration_ms": 158140,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1BwI5snBaiYwICFPRYz12V"
+      "duration_ms": 315824,
+      "name": "Returns",
+      "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
     },
     {
       "added_at": "2026-11-13 05:00:00",
@@ -639,46 +651,30 @@
     {
       "added_at": "2026-11-13 05:00:00",
       "album": {
-        "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/1jCOOdzsTAvKK8arBs1Wa2"
       },
       "artists": [
         {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        },
+        {
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        },
+        {
+          "name": "Kamal Wilson",
+          "url": "https://open.spotify.com/artist/2b2p3GXrcFT0eSGwovQp3B"
         }
       ],
-      "duration_ms": 315824,
-      "name": "Returns",
-      "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
-    },
-    {
-      "added_at": "2026-11-13 05:00:00",
-      "album": {
-        "name": "Serial Killers, Vol. 1 (Remastered 2026)",
-        "url": "https://open.spotify.com/album/6i1fDx3HIPppCUPK6CsxsZ"
-      },
-      "artists": [
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        },
-        {
-          "name": "B-Real",
-          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
-        },
-        {
-          "name": "Demrick",
-          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
-        },
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        }
-      ],
-      "duration_ms": 251927,
-      "name": "Doctors In - Remastered 2026",
-      "url": "https://open.spotify.com/track/0Di3tBKeIxnyuSnzHrsaRq"
+      "duration_ms": 158140,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1BwI5snBaiYwICFPRYz12V"
     },
     {
       "added_at": "2026-11-13 05:00:00",

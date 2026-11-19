@@ -1315,24 +1315,24 @@
     },
     {
       "album": {
-        "name": "Bang Bang Baby",
+        "name": "Bang Bang Baby!",
         "url": "https://open.spotify.com/album/3mtgUxTpUzXfSKHSYoWMyt"
       },
       "artists": [
         {
-          "name": "PAPION",
-          "url": "https://open.spotify.com/artist/4rxH9fSOAEtWxr8NkeW4Pi"
-        },
-        {
           "name": "NAUFA",
           "url": "https://open.spotify.com/artist/0Nnf18vCzQ2u0RRwUVcUJN"
+        },
+        {
+          "name": "PAPION",
+          "url": "https://open.spotify.com/artist/4rxH9fSOAEtWxr8NkeW4Pi"
         }
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146913,
-      "name": "Bang Bang Baby",
+      "name": "Bang Bang Baby!",
       "url": "https://open.spotify.com/track/6Di7qGNKc9EXzo9zNHYfTO"
     },
     {

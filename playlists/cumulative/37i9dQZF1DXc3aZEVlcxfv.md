@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-709 songs - 2 day 0 hr 2 min
+710 songs - 2 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Atofarati](https://open.spotify.com/track/2rF5fZgl0HohTKTu5ZRsnj) | [Favour Ojo](https://open.spotify.com/artist/3cQ7XTvsGfuO0PrtpplBPJ) | [Atofarati](https://open.spotify.com/album/7nQlFRrydIilg3uz3fADiz) | 4:23 | 2025-10-31 | 2025-11-28 |
 | [Awesome God \- Live](https://open.spotify.com/track/7atVKkIumpnTupDi91zxVe) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [Love Never Fails \(Live\)](https://open.spotify.com/album/5hsHDimUMrEyHL8trpdooh) | 4:19 | 2026-09-04 | 2026-09-29 |
 | [Awesome God / God Only Knows \- Campfire Medley](https://open.spotify.com/track/4ythCnq2XWIHzLqC9GnUE3) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [Bailee Madison](https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE), [Jahbril Cook](https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT), [Kat Conner Sterling](https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD), [Iain Tucker](https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 2:19 | 2025-01-31 | 2026-01-15 |
+| [Awesome Odogwu](https://open.spotify.com/track/2NEeaRmgR4mLNO3lKJNY1Y) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Awesome Odogwu](https://open.spotify.com/album/3Q0g7cpzO4rvebRQISXvlj) | 3:50 | 2026-11-06 |  |
 | [Ayeekoo](https://open.spotify.com/track/27djjwmWNZzAHmO7n7zrCL) | [Sefaaji Jenner](https://open.spotify.com/artist/7gY4XO6P6jBPXZVUt74lfF), [Emmanuel Smith](https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b) | [Ayeekoo](https://open.spotify.com/album/1XsDcKwWr5Iqb1PgabdgM8) | 2:42 | 2025-03-21 | 2025-08-29 |
 | [AYO](https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [AYO](https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H) | 3:43 | 2024-11-08 | 2025-02-28 |
 | [Ayó \(Joy Song\)](https://open.spotify.com/track/272XCmhQbip13WZRPbKYeb) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [Ayó \(Joy Song\)](https://open.spotify.com/album/38VauQ4QvqeUpNSSCVfYvT) | 3:45 | 2025-10-10 | 2025-11-28 |
@@ -575,7 +576,7 @@
 | [So Good](https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [So Good](https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB) | 2:51 | 2025-09-26 | 2025-10-31 |
 | [So Good](https://open.spotify.com/track/3qggW9kMBkT34jXDHzEv6e) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [So Good](https://open.spotify.com/album/7d6PpHVB0TjQbogPXJ23Ar) | 3:18 | 2025-09-05 | 2025-10-17 |
 | [So Grateful](https://open.spotify.com/track/4kbqk8gpGdGt5L0oNVQ6fS) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [So Grateful](https://open.spotify.com/album/2s3CMn5sVGIeR4E3gWj2fl) | 2:52 | 2025-06-06 | 2025-08-29 |
-| [Soji](https://open.spotify.com/track/10scp515H3OQXr4aT3CoID) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Denzel Rocks](https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7) | [Soji](https://open.spotify.com/album/109omRdXaeluK9amGMKsES) | 2:21 | 2026-10-09 |  |
+| [Soji](https://open.spotify.com/track/10scp515H3OQXr4aT3CoID) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Denzel Rocks](https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7) | [Soji](https://open.spotify.com/album/109omRdXaeluK9amGMKsES) | 2:21 | 2026-10-09 | 2026-11-19 |
 | [Soldier for Christ](https://open.spotify.com/track/3X3FH0gB1MkEjvceqXVHuc) | [Barri O](https://open.spotify.com/artist/7fEwlBIQt3uO4fHFQ5y3QO) | [Soldier for Christ](https://open.spotify.com/album/410V8PBfngZEIx4Ufc7xdF) | 3:37 | 2025-12-26 | 2026-03-20 |
 | [Someone](https://open.spotify.com/track/6AdMC6uV7DtLq2A7ya1UOp) | [Micah Charlz](https://open.spotify.com/artist/2d2a1Ulv4ArqVxCOxfWCh1) | [Someone](https://open.spotify.com/album/2k8TLgBxuwl80S4czOOTA2) | 3:39 | 2025-11-28 | 2026-01-15 |
 | [Soul](https://open.spotify.com/track/1wqLqn1y8nrmm97RZdYlCL) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [JustOG](https://open.spotify.com/artist/6sVnlgchiVPQOsqMkNlQvV), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Soul](https://open.spotify.com/album/553RUHvkweFtnFVeaV8SX4) | 2:24 | 2025-10-17 | 2025-11-28 |

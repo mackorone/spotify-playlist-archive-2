@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: 桑田 佳祐 \*👉 <a href="https://spice.eplus.jp/articles/350433">連動記事</a>をSPICEでチェック!
 
-17,042 songs - 45 day 7 hr 55 min
+17,043 songs - 45 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5219,6 +5219,7 @@
 | [KIRA KIRA](https://open.spotify.com/track/12Br6Xz71WNxT8CRu28n0X) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [OWARI DIARY](https://open.spotify.com/album/0MLxNB6bjESj8Ag3v24Rfm) | 2:56 | 2025-09-03 | 2025-09-10 |
 | [Kirabune](https://open.spotify.com/track/1vIQ4j4tQ6jAKQ75sI1922) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [CITRUS CURIO CITY](https://open.spotify.com/album/243GjQxP8eSbAH16qcueQt) | 3:59 | 2024-11-19 | 2024-11-27 |
 | [Kiraini Narenai \~Wave of Love\~](https://open.spotify.com/track/72v6RVmVIYNVorzLPs0ekW) | [Sho Kurashina](https://open.spotify.com/artist/4rsEDK8dH6GXAEyVu4BXGP), [Kouki Okamoto](https://open.spotify.com/artist/1HnNfBDnENyW36ltUlMmGO) | [Kiraini Narenai \~Wave of Love\~](https://open.spotify.com/album/7Ievt0NNLzNghu0nzpRFJh) | 2:16 | 2025-02-19 | 2025-02-26 |
+| [KIRAKIRA](https://open.spotify.com/track/5QzseyIcpstE9FcxGdElb9) | [kiOra](https://open.spotify.com/artist/4KlNJ2885MAzt6tcpW7G4j) | [KIRAKIRA](https://open.spotify.com/album/0yYdlDXZCWm5W7KWJbRefv) | 2:52 | 2026-11-19 |  |
 | [Kirameki](https://open.spotify.com/track/7iNT1hdnbozEXHMomQAZPe) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [Kirameki](https://open.spotify.com/album/53iXuZes9uxaaGfEUhvoIc) | 3:18 | 2025-02-05 | 2025-02-12 |
 | [Kireigoto\-Fine\-Sounding Talk\-](https://open.spotify.com/track/47rj7wj8LDSiSHPa7noXDl) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Kireigoto\-Fine\-Sounding Talk\-](https://open.spotify.com/album/0XxEaLhmvfcbhUFUHpRY33) | 3:03 | 2023-03-08 | 2023-03-15 |
 | [Kireinamamade](https://open.spotify.com/track/50LEOc96jsE8nyov4MoCpU) | [Jun Shibata](https://open.spotify.com/artist/39quGMYggAVkOotQIs1foN) | [901Goshitsuno Obake](https://open.spotify.com/album/5VfILgoC71abIArkk4nPm4) | 5:36 | 2024-11-19 | 2024-11-27 |

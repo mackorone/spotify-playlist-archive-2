@@ -2,7 +2,7 @@
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With SPARKLEWOLF RADIO, UrvTek, Learke and more
+> With SPARKLEWOLF RADIO, UrvTek, STYXVII and more
 
 403 songs - 18 hr 23 min
 
@@ -301,7 +301,7 @@
 | [Pinata Break](https://open.spotify.com/track/36zl5MlJBsdg05f4VnHhOj) | [FEM&M](https://open.spotify.com/artist/4vRAsoN6NRY7YDeX7zx8dq), [BRN1NG BRAIN SOUND INDUSTRIES](https://open.spotify.com/artist/6bnkB4ek6nKCPVv18kkrUv) | [Mentally sILLy](https://open.spotify.com/album/584jbt2hHfMdIzvhFHx1ah) | 3:47 | 2026-03-31 | 2026-07-06 |
 | [Pinata Break](https://open.spotify.com/track/4pGCIbxQGr9ip8dlKPHmiX) | [FEM&M](https://open.spotify.com/artist/4vRAsoN6NRY7YDeX7zx8dq), [BRN1NG BRAIN SOUND INDUSTRIES](https://open.spotify.com/artist/6bnkB4ek6nKCPVv18kkrUv) | [Pinata Break](https://open.spotify.com/album/6TMYBCG0Y2QXYZVIpWAzGi) | 3:47 | 2026-02-28 | 2026-03-20 |
 | [PITS](https://open.spotify.com/track/40NUs0L06daDYGczC4R3HW) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:31 | 2025-02-16 | 2025-02-20 |
-| [Pity Party](https://open.spotify.com/track/1kcm01NZrEejx3PTaE7A0t) | [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [It's Been Fun](https://open.spotify.com/album/54xxREc9c1mjBqaOBlvf89) | 2:53 | 2024-12-14 | 2026-11-18 |
+| [Pity Party](https://open.spotify.com/track/1kcm01NZrEejx3PTaE7A0t) | [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [It's Been Fun](https://open.spotify.com/album/54xxREc9c1mjBqaOBlvf89) | 2:53 | 2024-12-14 |  |
 | [Playground](https://open.spotify.com/track/4CM1J83MAkCeJsW4U6RUep) | [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [Playground](https://open.spotify.com/album/1qdU8N1mJAx6dK3xplaOWC) | 1:43 | 2026-02-12 | 2026-10-20 |
 | [plug me in](https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [plug me in](https://open.spotify.com/album/66vy2eQCgPVxMWbf8XTZap) | 2:07 | 2025-02-13 |  |
 | [pocket dimension](https://open.spotify.com/track/3iyC5mynKGLzazQHARVcNN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 2:20 | 2025-05-28 | 2025-05-30 |
@@ -311,7 +311,7 @@
 | [pretty boys in pretty skirts](https://open.spotify.com/track/5ZDBaavUKppyIbim097YC2) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [adhd & attachment issues](https://open.spotify.com/album/5CLtHc5xDGdSU1dblmA4Iu) | 2:53 | 2024-12-14 | 2025-10-06 |
 | [pretty or dead](https://open.spotify.com/track/3SZDYeFROCCcqnS7JSAguv) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [Starling](https://open.spotify.com/album/7o2KGzZEdKO3k5d8bHFNrR) | 2:41 | 2026-10-27 | 2026-11-16 |
 | [pretty or dead](https://open.spotify.com/track/7Gk2gaqSsxABGv8GMSISTF) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [starling](https://open.spotify.com/album/5sMbZiHxpRkdKr2mDjqCQi) | 2:41 | 2026-09-28 | 2026-09-29 |
-| [PROTECC ATTACC SEXYBACC](https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk) | [MAILPUP](https://open.spotify.com/album/3JW5phtrelhiFkkZic6j7o) | 2:27 | 2025-04-01 |  |
+| [PROTECC ATTACC SEXYBACC](https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk) | [MAILPUP](https://open.spotify.com/album/3JW5phtrelhiFkkZic6j7o) | 2:27 | 2025-04-01 | 2026-11-19 |
 | [PUPPY TF](https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 1:25 | 2024-12-14 | 2026-10-28 |
 | [Puppy\-Eyed](https://open.spotify.com/track/1dpbhCJA92PlPEM1mgWKBh) | [puppygirl](https://open.spotify.com/artist/4zzJ816cTAkfa2Uo0pP2kv) | [Puppy\-Eyed](https://open.spotify.com/album/3PUSUpLtRgG7dWwVEBzNeU) | 2:55 | 2026-08-08 | 2026-10-10 |
 | [PUPPYPLAY!](https://open.spotify.com/track/0RdfDzFw6NHp3nUX99cOr4) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [PUPPYPLAY!](https://open.spotify.com/album/6cQzQgCOSGauQVoR7aD8uP) | 2:52 | 2025-10-21 | 2026-01-27 |

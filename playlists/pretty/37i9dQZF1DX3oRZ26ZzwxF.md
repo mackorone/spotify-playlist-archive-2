@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Tazeboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,492 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,566 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 49 | [ON BOIT OÙ ?](https://open.spotify.com/track/3uJTAuNtIWQ5QgZe1YWjRo) | [Le Niapo](https://open.spotify.com/artist/6usbXA7yWZzwHOmOaKbDoJ) | [ON BOIT OÙ ?](https://open.spotify.com/album/70Lrll8DYhC1gAPjDygT4a) | 2:29 |
 | 50 | [EN KINKONZ](https://open.spotify.com/track/33HaTeHq3KBS1P3JPUAcAT) | [La Diktatur](https://open.spotify.com/artist/7J1BOYaYUEEDSjQ5om9mbF), [Shapat](https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP) | [EN KINKONZ](https://open.spotify.com/album/76m7lcRV6XEDS1oshLvFCS) | 2:43 |
 
-Snapshot ID: `AAAAAOAMg46do6UQNO8EjXfIYCqBKGky`
+Snapshot ID: `AAAAAOvqYoBb/2csdqX42m4YJervH1/Z`

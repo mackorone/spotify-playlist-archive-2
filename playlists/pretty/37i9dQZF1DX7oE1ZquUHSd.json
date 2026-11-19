@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 239363,
+  "num_followers": 239423,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFIBc24bKSzkdkJCddtCPGvrV1Rt",
+  "snapshot_id": "AAAAADEyUVNiA7wKVFPbRHPgpsZNijix",
   "tracks": [
     {
       "added_at": "2024-07-12 18:46:41",
@@ -611,18 +611,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Ser H\u00fcmano!!",
-        "url": "https://open.spotify.com/album/3ncIAbJGUE2sQIu0J1TuE0"
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
       },
       "artists": [
         {
-          "name": "Tiro De Gracia",
-          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 192293,
-      "name": "El Juego Verdadero",
-      "url": "https://open.spotify.com/track/74UB6CQRH9ykJEh9ma3XwD"
+      "duration_ms": 248000,
+      "name": "Tardes",
+      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -643,22 +647,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+        "name": "Ser H\u00fcmano!!",
+        "url": "https://open.spotify.com/album/3ncIAbJGUE2sQIu0J1TuE0"
       },
       "artists": [
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Tiro De Gracia",
+          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Tardes",
-      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
+      "duration_ms": 192293,
+      "name": "El Juego Verdadero",
+      "url": "https://open.spotify.com/track/74UB6CQRH9ykJEh9ma3XwD"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Mejor Que El Silencio",
+        "url": "https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "El Idioma De Los Dioses",
+      "url": "https://open.spotify.com/track/0Qb4S8BHqevwscp4rfvQZq"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Faruz Vs. Proof",
         "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 218154,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/5zntHJg9JeFCOgD0yskuq3"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Mejor Que El Silencio",
-        "url": "https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "El Idioma De Los Dioses",
-      "url": "https://open.spotify.com/track/0Qb4S8BHqevwscp4rfvQZq"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Residente o Visitante",
-        "url": "https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        },
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 270493,
-      "name": "Mala Suerta con el 13 (feat. La Mala Rodr\u00edguez)",
-      "url": "https://open.spotify.com/track/6TB7BAFTmpkFNPpmhvqIxC"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Retrospecci\u00f3n Mixtape, Vol. 1",
         "url": "https://open.spotify.com/album/1aniMf0ypLhf8aonlyNBEm"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 137197,
       "name": "Viejos Habitantes",
       "url": "https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Residente o Visitante",
+        "url": "https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 270493,
+      "name": "Mala Suerta con el 13 (feat. La Mala Rodr\u00edguez)",
+      "url": "https://open.spotify.com/track/6TB7BAFTmpkFNPpmhvqIxC"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Frenesi",
-        "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        }
-      ],
-      "duration_ms": 452278,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/5if6wXKwPFKHXfjA1TlkD5"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 252666,
       "name": "Real",
       "url": "https://open.spotify.com/track/6vmMbjKjcFWxE4eJvneNdQ"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Frenesi",
+        "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        }
+      ],
+      "duration_ms": 452278,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1775,62 +1775,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Guerra de Karteles",
-        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
-      },
-      "artists": [
-        {
-          "name": "Kartel De Las Calles",
-          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
-        },
-        {
-          "name": "Mafya Azteca",
-          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
-        }
-      ],
-      "duration_ms": 357400,
-      "name": "Las Armas las Karga el Dyablo",
-      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Mejor Que El Silencio",
-        "url": "https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        },
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 245453,
-      "name": "Ayer Y Hoy",
-      "url": "https://open.spotify.com/track/5qNk2QaoikQUp4Xoo5LAeo"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Jorge",
-        "url": "https://open.spotify.com/album/176ocuyDghIgtnqlRHl7lR"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Jaque Mate",
-      "url": "https://open.spotify.com/track/1stk3OBhnMKfh45zZ4hjwB"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Descato",
         "url": "https://open.spotify.com/album/73LPJr85VgniRjasNJjrQQ"
       },
@@ -1863,6 +1807,62 @@
       "duration_ms": 354716,
       "name": "Mi Primera Vez",
       "url": "https://open.spotify.com/track/2ZSP2DxDPlJg6bOpnUNiNA"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Guerra de Karteles",
+        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
+      },
+      "artists": [
+        {
+          "name": "Kartel De Las Calles",
+          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
+        },
+        {
+          "name": "Mafya Azteca",
+          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
+        }
+      ],
+      "duration_ms": 357400,
+      "name": "Las Armas las Karga el Dyablo",
+      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Jorge",
+        "url": "https://open.spotify.com/album/176ocuyDghIgtnqlRHl7lR"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Jaque Mate",
+      "url": "https://open.spotify.com/track/1stk3OBhnMKfh45zZ4hjwB"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Mejor Que El Silencio",
+        "url": "https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "duration_ms": 245453,
+      "name": "Ayer Y Hoy",
+      "url": "https://open.spotify.com/track/5qNk2QaoikQUp4Xoo5LAeo"
     },
     {
       "added_at": "2024-07-12 18:46:41",

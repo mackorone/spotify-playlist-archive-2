@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Gang Of Youths, Ella Langley, U2, Dolly Parton, Jack River + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,032 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,005 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 100 | [Waterfall](https://open.spotify.com/track/632zRJoDy5q0sSaAZlCt2n) | [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [Waterfall](https://open.spotify.com/album/3dVSFhWpJIXSNKFolnFc4m) | 3:08 |
 | 101 | [On The Edge](https://open.spotify.com/track/2oXqmrv7nkxZ4rfmeoNtNq) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [On The Edge](https://open.spotify.com/album/0FImV7axQ2kErMLc5OlN2g) | 3:38 |
 
-Snapshot ID: `AAAAAE0v3Zf4d0eC1dOlZw5X9DbwRYVw`
+Snapshot ID: `AAAAAIRlRRpZiX64C12fsxERmD65/QCR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,498 likes - 93 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,496 likes - 93 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 92 | [Purple Skies](https://open.spotify.com/track/77bC0ESV61P6wYnePiO6z3) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Purple Skies](https://open.spotify.com/album/0xmGwUw4lgPKOHo57tETAP) | 3:17 |
 | 93 | [One Day I'll Learn \(ft\. Young Cocoa\)](https://open.spotify.com/track/114M54VHxRmEj9uDprKQC0) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Young Cocoa](https://open.spotify.com/artist/3rdJ1bFvwgZw2XZkimg5dW) | [One Day I'll Learn \(ft\. Young Cocoa\)](https://open.spotify.com/album/2rW6tRZZPnJNC4aroyrI8b) | 2:36 |
 
-Snapshot ID: `AAAAAKTQh1GpeRcsccetTrCrlU6Kkm8p`
+Snapshot ID: `AAAAANax4Np71N7MGLHoQI2Tf22ev9jk`

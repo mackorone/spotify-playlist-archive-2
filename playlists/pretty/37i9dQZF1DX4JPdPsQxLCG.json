@@ -1,6 +1,6 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 108544,
+  "num_followers": 108552,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-09-25 18:55:30",
       "album": {
+        "name": "Love Ruins Everything",
+        "url": "https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Love Ruins Everything",
+      "url": "https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm"
+    },
+    {
+      "added_at": "2026-09-25 18:55:30",
+      "album": {
         "name": "Ride Lonesome (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/4ProrUSimVgRttzO0LfZRj"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 264256,
       "name": "Ride Lonesome (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ"
-    },
-    {
-      "added_at": "2026-09-25 18:55:30",
-      "album": {
-        "name": "Love Ruins Everything",
-        "url": "https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Love Ruins Everything",
-      "url": "https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm"
     },
     {
       "added_at": "2026-09-25 18:55:30",

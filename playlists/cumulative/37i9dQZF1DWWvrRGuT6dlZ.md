@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Ili Ruzanna\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Elizabeth Everly\. Artwork: Isu Kim.
 
-1,532 songs - 3 day 12 hr 1 min
+1,533 songs - 3 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -908,6 +908,7 @@
 | [Orion's Apartment](https://open.spotify.com/track/7vFwfPVcm6s2JfWvhL63AG) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [Orion's Apartment](https://open.spotify.com/album/640b2S6el0Q65iV5Odg66s) | 4:40 | 2023-05-26 | 2023-11-24 |
 | [Other Houses](https://open.spotify.com/track/6sztWkNYW1GdL9ftuBjQ6t) | [Ahns](https://open.spotify.com/artist/4YJjA4PeWSNLX3ioinQpNP) | [Other Houses](https://open.spotify.com/album/4pBEH3IHbn98xVi5Bm1lFq) | 3:54 | 2026-02-06 | 2026-03-21 |
 | [Our Vows](https://open.spotify.com/track/0JPrNVJzr6Tk6MVdvOpCaf) | [Jesse Lorenz](https://open.spotify.com/artist/5gHa0YRi0zbehDnhwnEwza) | [Our Vows](https://open.spotify.com/album/3qQqpkKZDrnjIXe98mr68g) | 3:25 | 2025-04-03 | 2025-05-17 |
+| [Out Of My Dreams](https://open.spotify.com/track/5afYCjkr28QBQ9e0DN2JkZ) | [Elizabeth Everly](https://open.spotify.com/artist/61GAisNXTGSK0ZKtPYIEEy) | [Out Of My Dreams](https://open.spotify.com/album/04sKNT7FFMgR2d5hY4nKe1) | 3:51 | 2026-11-18 |  |
 | [Out of My Head](https://open.spotify.com/track/5TJ8IuBKv743YH87H1D8Bh) | [shy\-c](https://open.spotify.com/artist/08UgDZuFwNBio0gstXxJqm) | [Out of My Head](https://open.spotify.com/album/5nl0EE4F825NOeZNP18D3c) | 3:22 | 2023-11-17 | 2024-02-16 |
 | [Outta My Head](https://open.spotify.com/track/6XWw1Sj6WxN7bqXgA8j3YH) | [Shazee](https://open.spotify.com/artist/3hjD2tgcUWOm6o8Kk7cudp), [Tilla Hanna](https://open.spotify.com/artist/3NJyNeADXHVxvIKdTxTqw4) | [Outta My Head](https://open.spotify.com/album/6aBZwWz8GXM7EUGtU4YgVv) | 2:37 | 2022-01-20 | 2022-06-17 |
 | [Outta My Mind](https://open.spotify.com/track/5m5ZqwkHyeByNHFhTczqkt) | [Aini Mazalan](https://open.spotify.com/artist/3mfDuM7MO7MWAfFID5ecai) | [Outta My Mind](https://open.spotify.com/album/0yDJYWBNXKqtwlah6357qT) | 3:21 | 2024-02-15 | 2025-01-18 |

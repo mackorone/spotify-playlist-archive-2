@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Arcana](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,329 likes - 591 songs - 1 day 5 hr 21 min
+[Arcana](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,331 likes - 592 songs - 1 day 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -599,5 +599,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 589 | [Harpy Hare](https://open.spotify.com/track/6pWlv50Lthad8jyd6f1TlC) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/5YtN8x4Q8H7zEFroBn9yq0) | 3:00 |
 | 590 | [Party Favor](https://open.spotify.com/track/2aHxRQGqUH58sUptShLRWP) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [Party Favor](https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb) | 3:15 |
 | 591 | [Party Favor \- Instrumental](https://open.spotify.com/track/60AlTM7Y7mT9zF9vZuwcLw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Party Favor](https://open.spotify.com/album/37LhJVLQUxJDJPxa9IaJdb) | 3:14 |
+| 592 | [FNAF the musical \(feat\. Markiplier and Nathan Sharp\)](https://open.spotify.com/episode/0P8Rgvw7Dm3dflPVsb9A1l) | [Fennec's little critters](https://open.spotify.com/show/3ZurFUvIgU1O25F5Zmp1Dd) | [Fennec's little critters](https://open.spotify.com/album/3ZurFUvIgU1O25F5Zmp1Dd) | 32:20 |
 
-Snapshot ID: `AAACKJoLkPEQwBnOT4ZYExkbIhg7aUj7`
+Snapshot ID: `AAACKQcqEqbZ+SNAYPgGnjta1bJ/qWvx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,632 likes - 299 songs - 15 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,634 likes - 299 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

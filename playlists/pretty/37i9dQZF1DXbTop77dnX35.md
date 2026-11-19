@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  DJ Tunez, Solana, Patoranking, Wande Coal,  Sarkodie, Zlatan,  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,550 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,607 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 15 | [Party With The Boys](https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Party With The Boys](https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf) | 2:35 |
 | 16 | [Gone](https://open.spotify.com/track/6boHsRT72xtOozE3BINB6K) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Gone](https://open.spotify.com/album/1cc7akxYCA0AX8fAkhmPI6) | 3:48 |
 | 17 | [SAVE ME](https://open.spotify.com/track/7eZWymo3fZhBQZDwdAOsf0) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE: DELUXE EDITION](https://open.spotify.com/album/0AML48tEvO24BfMfEdlYwH) | 2:12 |
-| 18 | [Focus](https://open.spotify.com/track/0CheaJxfFhDiCFSDK9VI1E) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Broni](https://open.spotify.com/artist/2BjK8ZabmjThEk011WGLAF), [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj) | [Focus](https://open.spotify.com/album/2LrIDPNGnXvoD5tiYCDWnZ) | 3:51 |
+| 18 | [Focus](https://open.spotify.com/track/0CheaJxfFhDiCFSDK9VI1E) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Broni](https://open.spotify.com/artist/2BjK8ZabmjThEk011WGLAF) | [Focus](https://open.spotify.com/album/2LrIDPNGnXvoD5tiYCDWnZ) | 3:51 |
 | 19 | [Yasin](https://open.spotify.com/track/1D4K1ZjVcVTO7nretlnoUl) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [King Dr\. Saheed Osupa](https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu) | [Yasin](https://open.spotify.com/album/6LnkJOm9rFcZG0l49BUerD) | 2:48 |
 | 20 | [Living Thing](https://open.spotify.com/track/0YwJBHVqyWQZKtrcAmFk9Z) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [The Blueprint](https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4) | 2:31 |
 | 21 | [Offline](https://open.spotify.com/track/52XWV7WV93wB9PHo7Vs2J2) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Offline](https://open.spotify.com/album/4Gu7rukCVGg6wn8gwTRE7x) | 2:13 |

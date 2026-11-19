@@ -4,7 +4,7 @@
 
 > New music from Offset, Don Toliver and Lil Baby.
 
-2,927 songs - 6 day 8 hr 0 min
+2,928 songs - 6 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,6 +1053,7 @@
 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 | 2025-01-16 | 2025-01-18 |
 | [Hate Me](https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Hate Me](https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy) | 2:41 | 2024-08-02 | 2024-11-16 |
 | [HATE ME LOVE ME](https://open.spotify.com/track/4V9wSVPGliRZOy4UzlbLpz) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:31 | 2026-09-04 | 2026-09-19 |
+| [Hate Sleeping Alone](https://open.spotify.com/track/60lYKxEGm5MytZQeCC2yCD) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe Version\)](https://open.spotify.com/album/2479Wl5cmBOwYtv7R2Lwoy) | 3:33 | 2026-11-19 |  |
 | [Hate The Other Side \(with Marshmello & The Kid Laroi\)](https://open.spotify.com/track/66FgjA5ZQJJuypFG1bc8se) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 2:40 | 2020-07-10 | 2020-10-17 |
 | [Hats Off \(feat\. Travis Scott\)](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 4:17 | 2021-06-05 | 2021-09-25 |
 | [Haute \(feat\. J Balvin & Chris Brown\)](https://open.spotify.com/track/1rYC34UUszS0QzzECNRhYb) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Haute \(feat\. J Balvin & Chris Brown\)](https://open.spotify.com/album/67LA6sxeFjVaL1Vex4CSgr) | 2:40 | 2019-06-07 | 2019-06-28 |

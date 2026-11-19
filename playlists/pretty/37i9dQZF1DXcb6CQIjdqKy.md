@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Tori Kelly & HILLARI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,670,096 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,670,223 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Hold Me Up](https://open.spotify.com/track/5hfOwP6REbZckEZjMhxDAA) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN), [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hold Me Up](https://open.spotify.com/album/6Y7YankyJF0H9HUoofcRHm) | 2:32 |
 | 100 | [Where Would I Be](https://open.spotify.com/track/0H8B4yrZmLIYe7Rnjp0ip1) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/1odGIS0La1wGoyHwzgKBsI) | 3:12 |
 
-Snapshot ID: `AAAAAMDnatwe7T/nEI/USRObDmy5g2XR`
+Snapshot ID: `AAAAAF0pmWn8wZX5+xqAyTSaUKqJ2rM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > solo le tracce con l'aura migliore 👾 ANTONIA in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,879 likes - 84 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,843 likes - 84 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 83 | [AMORE MIO](https://open.spotify.com/track/1UEujcSheeWse1H3W1NEpD) | [Il Fubbe](https://open.spotify.com/artist/6eULbvhzeUO89wEE3fjvLM) | [AMORE MIO](https://open.spotify.com/album/2Fa4l02Y9wQ8zehCOzTyGG) | 2:32 |
 | 84 | [Bel venerdì](https://open.spotify.com/track/7e3L4E70QnI1hierB1Lynk) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione \(Deluxe\)](https://open.spotify.com/album/084PMCGrwjTtiUBD8ITXbg) | 3:11 |
 
-Snapshot ID: `AAAAADNhJhYJ8y4h3zHFbTLUjvF2xHL9`
+Snapshot ID: `AAAAAGKwKuuo8wLEig77veJEoN/to8kB`

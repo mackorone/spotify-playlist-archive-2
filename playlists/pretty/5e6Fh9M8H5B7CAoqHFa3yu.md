@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,897 songs - 7 day 0 hr 25 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,898 songs - 7 day 0 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2905,5 +2905,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2895 | [Clessidra](https://open.spotify.com/track/6MgZB1rLTuNAIzxgw0iNfz) | [Tabonimous](https://open.spotify.com/artist/3VZBSUtpXk87yOL232rhfi), [HLMNSRA](https://open.spotify.com/artist/5LOQ7tMPOSQr1F9c6KR1d3) | [La Teoria di Michelangelo](https://open.spotify.com/album/4gl2DoFXnQX1K93BjSmsUJ) | 2:06 |
 | 2896 | [Edelweiss Legend](https://open.spotify.com/track/4vl2UxRVCNGOownXavZ07v) | [Daryna Kharytonova](https://open.spotify.com/artist/6K7J0MQ83GDozaOw9dRnsd) | [Edelweiss Legend](https://open.spotify.com/album/64iH5TIwtzpQdyROhjpuOy) | 2:27 |
 | 2897 | [Sa Majesté Moi](https://open.spotify.com/track/2EoeD8rrdHEnA4piNSMyu6) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [Sa Majesté Moi](https://open.spotify.com/album/5DbdhSEY7ZdEqelbOrpvwb) | 3:58 |
+| 2898 | [Rezzo](https://open.spotify.com/track/0I5stzUKl6ZeVYBp6eMQrN) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Destroying Is Easy](https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w) | 4:17 |
 
-Snapshot ID: `AAAMSEK7BYaL73Xr7ksyb1zuLi2OZivn`
+Snapshot ID: `AAAMScL0laOVWC8dHDfLN2LysDqU80u1`

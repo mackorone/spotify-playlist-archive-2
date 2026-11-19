@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > SDM au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,426,263 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,426,010 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [C'EST NOUS](https://open.spotify.com/track/0NbqOg775aApRnRvHHcTPz) | [Iss](https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd), [Doulkha](https://open.spotify.com/artist/746NtgxeCDrfBTLUOOvjBw) | [C'EST NOUS](https://open.spotify.com/album/7xS9tt6smNa4H2Olu9yz63) | 3:06 |
 | 40 | [Dégun](https://open.spotify.com/track/42KE76b1zWzeyFYYz6xKTF) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [Dégun](https://open.spotify.com/album/41PYeXwfA8Tenh0HajTLud) | 2:58 |
 
-Snapshot ID: `AAAAAHjngZwEsNIAM32A3sCU+a2CNJX9`
+Snapshot ID: `AAAAAPgKxxhtDXqZPWqBu6cSXW1fiHf2`

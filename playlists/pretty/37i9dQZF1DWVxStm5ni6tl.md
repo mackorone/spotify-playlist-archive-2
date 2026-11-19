@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every Wednesday\. Cover: Brat Star, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,601 likes - 45 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,614 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 44 | [Keep It Together](https://open.spotify.com/track/5ByocDaHLsuz8TPjCbPvDc) | [Brandi Vezina](https://open.spotify.com/artist/4y3FWeoOu53s9YtdagtFdy) | [Keep It Together](https://open.spotify.com/album/2gnQWtpFeJsCKgBhKFrymh) | 3:46 |
 | 45 | [Livin Lovin](https://open.spotify.com/track/0zIpVqi04UFHxUaszlC8ey) | [Quincy Owns](https://open.spotify.com/artist/1l9uhs5adXAKNIJijf7yTJ), [Louie F.](https://open.spotify.com/artist/0oc9yMmVmZ0IZUx0aG0TYF) | [Livin Lovin](https://open.spotify.com/album/44op3ot28z7yZZf2hs2jwa) | 3:02 |
 
-Snapshot ID: `AAAAALQ/ftPDoOfYpIkdQ5oS1GaDDdo/`
+Snapshot ID: `AAAAAAV+caGrHxB6YbdfCBpogNPmN4hw`

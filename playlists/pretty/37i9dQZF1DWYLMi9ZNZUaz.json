@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 125323,
+  "num_followers": 125347,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP29+bOIGvdNTSS0+F2tGSh/cNJK",
+  "snapshot_id": "AAAAAI+QQfQmL7wELTz/GauN1BwkM9ef",
   "tracks": [
     {
       "added_at": "2026-11-12 17:00:08",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-11-12 17:00:08",
       "album": {
+        "name": "Y\u00eau 5",
+        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
+      },
+      "artists": [
+        {
+          "name": "Rhymastic",
+          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Y\u00eau 5",
+      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
+    },
+    {
+      "added_at": "2026-11-12 17:00:08",
+      "album": {
         "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
         "url": "https://open.spotify.com/album/0UgMx9HBZHHmpxg0l5A13I"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 230036,
       "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
       "url": "https://open.spotify.com/track/0pavLg3wbL6PVXAgXoWv4S"
-    },
-    {
-      "added_at": "2026-11-12 17:00:08",
-      "album": {
-        "name": "Y\u00eau 5",
-        "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
-      },
-      "artists": [
-        {
-          "name": "Rhymastic",
-          "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Y\u00eau 5",
-      "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
     },
     {
       "added_at": "2026-11-12 17:00:08",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-11-12 17:00:08",
       "album": {
+        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
+        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
+      },
+      "artists": [
+        {
+          "name": "Ricky Star",
+          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
+        }
+      ],
+      "duration_ms": 344276,
+      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
+      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
+    },
+    {
+      "added_at": "2026-11-12 17:00:08",
+      "album": {
         "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
         "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 210491,
       "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
       "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
-    },
-    {
-      "added_at": "2026-11-12 17:00:08",
-      "album": {
-        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
-        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
-      },
-      "artists": [
-        {
-          "name": "Ricky Star",
-          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
-        }
-      ],
-      "duration_ms": 344276,
-      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
-      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
     },
     {
       "added_at": "2026-11-12 17:00:08",

@@ -1,13 +1,45 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 48518,
+  "num_followers": 48527,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPNEJfVSU8Yz4jjgtMwaHb+qaagC",
+  "snapshot_id": "AAAAANSGkiF7UIViv5c0IPDOyP2/3ixD",
   "tracks": [
+    {
+      "added_at": "2026-11-18 13:25:22",
+      "album": {
+        "name": "O3 -\u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u0627\u0648\u0644 - \u0623\u0645\u0644 \u0645\u0646 \u0627\u0644\u0628\u0634\u0631",
+        "url": "https://open.spotify.com/album/4JAa6OvP2dKM93qyZ1W7Ag"
+      },
+      "artists": [
+        {
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
+        }
+      ],
+      "duration_ms": 250605,
+      "name": "\u0645\u0627 \u0646\u0633\u064a\u062a",
+      "url": "https://open.spotify.com/track/1xbZh843h01QoEp4p1Dddh"
+    },
+    {
+      "added_at": "2026-11-18 13:25:22",
+      "album": {
+        "name": "\u0642\u062f \u062d\u0632\u0646\u0643",
+        "url": "https://open.spotify.com/album/3JROeOzh6CdyiqSzmAKN4l"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "duration_ms": 195603,
+      "name": "\u0642\u062f \u062d\u0632\u0646\u0643",
+      "url": "https://open.spotify.com/track/78fHrJNAzFY6gVnYadifxA"
+    },
     {
       "added_at": "2026-11-12 11:18:37",
       "album": {
@@ -839,38 +871,6 @@
       "duration_ms": 203076,
       "name": "\u0648\u064a\u0646 \u0642\u0644\u0628\u0643",
       "url": "https://open.spotify.com/track/51w7NPC0rZaHixDItoaoGV"
-    },
-    {
-      "added_at": "2026-01-15 06:57:45",
-      "album": {
-        "name": "Fouad 26",
-        "url": "https://open.spotify.com/album/77qvt0BWKIxomLI9SQGCkQ"
-      },
-      "artists": [
-        {
-          "name": "Fouad Abdulwahed",
-          "url": "https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg"
-        }
-      ],
-      "duration_ms": 223304,
-      "name": "Ya Mobdaa",
-      "url": "https://open.spotify.com/track/0f58OrUbfGpiF4q7lPMIuZ"
-    },
-    {
-      "added_at": "2026-01-21 07:13:52",
-      "album": {
-        "name": "Tefargna",
-        "url": "https://open.spotify.com/album/1GTj4sjpcYCT1HotLQ1fOj"
-      },
-      "artists": [
-        {
-          "name": "Abdulaziz Louis",
-          "url": "https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk"
-        }
-      ],
-      "duration_ms": 250084,
-      "name": "Tefargna",
-      "url": "https://open.spotify.com/track/3Gur7pDzhyNS0TUhVMW7NJ"
     }
   ],
   "unique_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",

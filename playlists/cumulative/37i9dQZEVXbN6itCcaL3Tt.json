@@ -8256,7 +8256,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 169600,
       "name": "Blueprint",
       "url": "https://open.spotify.com/track/0L8S6DWMHMWyAacHGosNFp"
@@ -15910,7 +15910,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 165335,
       "name": "Dr. Traphouse (feat. Belmondo)",
       "url": "https://open.spotify.com/track/4oTxydt59qd2UO9BcFLU9e"
@@ -23839,6 +23839,36 @@
     },
     {
       "album": {
+        "name": "HOTEL PARADISE",
+        "url": "https://open.spotify.com/album/0wcOAMSbXg9b6hABoXqAxY"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "Oskar83",
+          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "HOTEL PARADISE",
+      "url": "https://open.spotify.com/track/0vsNLSmDECMRBFhPXSQ5gZ"
+    },
+    {
+      "album": {
         "name": "Pitbull Starring In Rebelution",
         "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
       },
@@ -26706,6 +26736,32 @@
       "duration_ms": 281818,
       "name": "Jesie\u0144 \u2013 Ta\u0144cuj",
       "url": "https://open.spotify.com/track/1TwTHhkLEU4XcDRobMAUaW"
+    },
+    {
+      "album": {
+        "name": "JEST OKEJ!",
+        "url": "https://open.spotify.com/album/5JL123DqOTeSah9ypTqLgl"
+      },
+      "artists": [
+        {
+          "name": "Frosti",
+          "url": "https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY"
+        },
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Blaki Selektah",
+          "url": "https://open.spotify.com/artist/6QfsOoHJR3I1itpHRHuARQ"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "JEST OKEJ!",
+      "url": "https://open.spotify.com/track/27pKDA186YU3RaSvDITxNk"
     },
     {
       "album": {
@@ -30938,7 +30994,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 169714,
       "name": "Kwadrat",
       "url": "https://open.spotify.com/track/3sQgGP1r24Jw0CRHFpxgkz"
@@ -34048,7 +34104,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 188678,
       "name": "Mallorca",
       "url": "https://open.spotify.com/track/6qtep64mtHs98Hj3FwBYu9"
@@ -34672,7 +34728,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 164575,
       "name": "Marlon Brando",
       "url": "https://open.spotify.com/track/0HLsmQwypPzjrjyguJpm8n"
@@ -37642,7 +37698,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 228346,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/6mQRbuEmqiAf1ABQYDPwF7"
@@ -37660,7 +37716,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -38576,7 +38632,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 244948,
       "name": "Na Szczycie",
       "url": "https://open.spotify.com/track/7aQViYYpIkpJwyCHPysCo4"
@@ -41036,7 +41092,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 127889,
       "name": "Nieistotne",
       "url": "https://open.spotify.com/track/6GJKc1Phzu55aUgc76LeQ4"
@@ -47360,7 +47416,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 192134,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/0TfBoSPyJlGOGYtFXeGQnH"
@@ -53256,7 +53312,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -61114,7 +61170,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 162843,
       "name": "TROFEA",
       "url": "https://open.spotify.com/track/2dwCMsJ90AyXEtqP8iYh7G"
@@ -63238,7 +63294,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 135000,
       "name": "W Miesi\u0105c",
       "url": "https://open.spotify.com/track/6L1HSKQXQMSX62p913tcVc"
@@ -67486,7 +67542,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 190104,
       "name": "Zakochany kundel",
       "url": "https://open.spotify.com/track/2S0tIyYwk80XvzJzYqMiNV"

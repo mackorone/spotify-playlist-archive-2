@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Amahla",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Another Country $$$$",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 180471,
       "name": "animal",
       "url": "https://open.spotify.com/track/7Bc1B6UheBQpCaO5HfIdfe"
@@ -9792,7 +9792,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 169226,
       "name": "Calypso",
       "url": "https://open.spotify.com/track/5wmpKJzYB6Urv9xbeDxmkf"
@@ -24879,6 +24879,24 @@
     },
     {
       "album": {
+        "name": "Radiate EP",
+        "url": "https://open.spotify.com/album/2eqw2MGAoPi94XmLg9tuYQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Carder",
+          "url": "https://open.spotify.com/artist/2VVF5cjuSx97r3ND28ndlK"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236147,
+      "name": "Gridlock",
+      "url": "https://open.spotify.com/track/0PGveK8niyJg9FSIWRSujq"
+    },
+    {
+      "album": {
         "name": "grit",
         "url": "https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr"
       },
@@ -27053,6 +27071,24 @@
     },
     {
       "album": {
+        "name": "Him",
+        "url": "https://open.spotify.com/album/28gtjqn9smLCLlb0fCvSWT"
+      },
+      "artists": [
+        {
+          "name": "Xela",
+          "url": "https://open.spotify.com/artist/59lvZY1QLr4E8IHxMSKCPH"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130142,
+      "name": "Him",
+      "url": "https://open.spotify.com/track/1CbmZyc9kOFLUbX3NfIkmE"
+    },
+    {
+      "album": {
         "name": "Him, Hymn",
         "url": "https://open.spotify.com/album/2sJ2RM2sLmX8dljByalVSg"
       },
@@ -27454,6 +27490,24 @@
       "duration_ms": 158048,
       "name": "holdu",
       "url": "https://open.spotify.com/track/4rDjhIe5WXuVPvszcY7z2V"
+    },
+    {
+      "album": {
+        "name": "Hole In My Heart",
+        "url": "https://open.spotify.com/album/3XBltEoNHM3cP2b6Ijlizw"
+      },
+      "artists": [
+        {
+          "name": "Wyatt",
+          "url": "https://open.spotify.com/artist/4SLgQO3VSUSc9prFr4OEmU"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256422,
+      "name": "Hole In My Heart",
+      "url": "https://open.spotify.com/track/2bHjNfdVnjQVlL6Utnz2z8"
     },
     {
       "album": {
@@ -33466,10 +33520,28 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 164307,
       "name": "Jump",
       "url": "https://open.spotify.com/track/3NNpUKkpqwzAS2uGbhEjoU"
+    },
+    {
+      "album": {
+        "name": "June Bug",
+        "url": "https://open.spotify.com/album/5ARJdEud2bQSB5EHSsseiK"
+      },
+      "artists": [
+        {
+          "name": "Big Warm Bed",
+          "url": "https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270977,
+      "name": "June Bug",
+      "url": "https://open.spotify.com/track/1j8QciDfif55k48svrojQY"
     },
     {
       "album": {
@@ -37902,7 +37974,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 200587,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/0OAZvY29RSoHwzfUuSHrvv"
@@ -45572,6 +45644,24 @@
       "duration_ms": 201593,
       "name": "Only For The Night",
       "url": "https://open.spotify.com/track/25QtoBNsZKwno1zZUg3QWi"
+    },
+    {
+      "album": {
+        "name": "only love",
+        "url": "https://open.spotify.com/album/4zVy2InTbnbqyq56DVFAK9"
+      },
+      "artists": [
+        {
+          "name": "PORTIA",
+          "url": "https://open.spotify.com/artist/0tufQz2tagGrgt9MiFQkci"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189318,
+      "name": "only love",
+      "url": "https://open.spotify.com/track/2bmAu4JknyBamKM8y2fler"
     },
     {
       "album": {
@@ -53836,7 +53926,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-19",
       "duration_ms": 205440,
       "name": "She's On My Mind Again",
       "url": "https://open.spotify.com/track/22z2Ckow38vF7Q3QPlgdDv"

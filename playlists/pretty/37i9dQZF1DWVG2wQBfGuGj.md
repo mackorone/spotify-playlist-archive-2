@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Chillout house grooves and dreamy covers, all summer long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,929 likes - 162 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,057 likes - 162 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 161 | [Danza Kuduro](https://open.spotify.com/track/3xWwWFPx2GI1ry6QL2lK5p) | [Jorge Junior](https://open.spotify.com/artist/7yC0P7WGtGY5lA9ZBkhSIL), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A), [Jon Nelson](https://open.spotify.com/artist/7xMCtIUuXgjNjccvaFotD4) | [Danza Kuduro](https://open.spotify.com/album/2MUGgrxAZvSJvHLjC6LXGv) | 2:13 |
 | 162 | [End of Beginning](https://open.spotify.com/track/3rYhORkMQshMl3u74ws5Xc) | [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7), [John Von Dusk](https://open.spotify.com/artist/4JeAtwRoOrbTED0kN8D4jz), [Skylet](https://open.spotify.com/artist/5uhspOrIjx5ZHNBsWBiWZT) | [End of Beginning](https://open.spotify.com/album/3BW3ULAYqTWegEVj4A179K) | 2:18 |
 
-Snapshot ID: `AAAAAAArSbmmg1YpclybO2m/xk73+WGL`
+Snapshot ID: `AAAAAPOQzrX2tZaA9SZFzzoAAm06P/xJ`

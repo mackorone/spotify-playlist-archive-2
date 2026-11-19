@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 276 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 275 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 | 7 | [Loco\-Motion](https://open.spotify.com/track/6jGWdcCalPuYQtTSMAVU9h) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Golden Hits forever V5](https://open.spotify.com/album/7aDs155Ps2HI81WIrqQ6Oh) | 2:17 |
 | 8 | [Let Me In](https://open.spotify.com/track/1mSd2GxGybu5RTymqGZ9Gk) | [The Sensations](https://open.spotify.com/artist/4GMJW3J7BYjxIzZhIVj9o5) | [Doo Wop Golden Oldies Vol 3](https://open.spotify.com/album/5BuvyocB8lSFgJjoiRtqoK) | 3:09 |
 | 9 | [The Twist \(Rerecorded\)](https://open.spotify.com/track/0M5EaPIXN3FneJ7exwpYNM) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [\#1 Hits of the 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:38 |
-| 10 | [Soldier Boy \(Rerecorded\)](https://open.spotify.com/track/3Yey43damnXJRuWdlzW9jJ) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:41 |
+| 10 | [Soldier Boy \- Rerecorded](https://open.spotify.com/track/3Yey43damnXJRuWdlzW9jJ) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:41 |
 | 11 | [Hey! Baby](https://open.spotify.com/track/6PKDaaXBAxNjzgE92Ocyav) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Simply Rock'n'Roll Vol\. One](https://open.spotify.com/album/2LUZ3oSNMrEKLfuwL0Ooyq) | 2:24 |
 | 12 | [The Wanderer](https://open.spotify.com/track/4EoUALVwY4i7U6uKRhk8hr) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:43 |
 | 13 | [Duke of Earl \- Re\-Recorded](https://open.spotify.com/track/1CX9WKs56Ur7r1NDPmuowt) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [Hits Of The '50s \(Re\-Recorded\)](https://open.spotify.com/album/6XlVU9dZumuKBSXcjzxII3) | 2:32 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 | 41 | [Lover Please](https://open.spotify.com/track/514uO44deUCOI83LlskEJB) | [Clyde McPhatter](https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS) | [Rare Rock N' Roll Masters](https://open.spotify.com/album/5rVH3B9AuDUI8siguFsK2j) | 2:00 |
 | 42 | [I Know \(You Don't Love Me No More\)](https://open.spotify.com/track/4gQ5w6Vc92ze0WGbn0b4Cc) | [Barbara George](https://open.spotify.com/artist/6uJZLuhxKK0kNUcoGNIy9k) | [The Sue Story](https://open.spotify.com/album/1mVVl1ZORNTNlMdrMnMvpU) | 2:24 |
 | 43 | [Young World \- Remastered](https://open.spotify.com/track/1Ibjmb8gV1RERi8GNUBGi1) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Best Of Rick Nelson \(Vol\. 2\)](https://open.spotify.com/album/607RtLzi6P55QVhosSAGwQ) | 2:27 |
-| 44 | [Baby It's You \(Rerecorded\)](https://open.spotify.com/track/4LUiPPFqiB2ZJ2DFWxt8D7) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:30 |
+| 44 | [Baby It's You \- Rerecorded](https://open.spotify.com/track/4LUiPPFqiB2ZJ2DFWxt8D7) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:30 |
 | 45 | [Speedy Gonzales](https://open.spotify.com/track/1pUAYcynp3aUhttro1Z243) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Jambalaya](https://open.spotify.com/album/3th7tlwFggGnuNnY325kqp) | 2:30 |
 | 46 | [A Little Bitty Tear \- Single Version](https://open.spotify.com/track/3XhTHMleuyoQCP8jxOeIhD) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [A Little Bitty Tear](https://open.spotify.com/album/4hDdZmFnalz3MGjVv0daFh) | 2:05 |
 | 47 | [Crying in the Rain](https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Golden Hits of The Everly Brothers](https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD) | 2:00 |

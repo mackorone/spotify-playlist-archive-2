@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: BE'O\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: justinforthis\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-862 songs - 1 day 21 hr 50 min
+863 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Eureka !](https://open.spotify.com/track/4tJQbunNIaeLIIvi3MRtzW) | [Kidd King](https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF) | [Eureka !](https://open.spotify.com/album/3a8eYzJzhimT8riE5962WJ) | 2:55 | 2022-04-01 | 2022-05-05 |
 | [Even for now](https://open.spotify.com/track/7GTs32zH47ux1XUPb6lOAy) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Even for now](https://open.spotify.com/album/7uuAnHZW6HSP2MWPHKQKAi) | 2:41 | 2022-07-04 | 2022-07-15 |
 | [Every Day By Your Side](https://open.spotify.com/track/4ryQrzwKUStXUqKpF47fR0) | [Xbf](https://open.spotify.com/artist/61qs4x1f4a7FfV3Yqr7LW0), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi) | [Every Day By Your Side](https://open.spotify.com/album/2g07vkQC3BsbCmmELGG5DJ) | 3:14 | 2022-04-21 | 2022-07-27 |
-| [everybody dies](https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [everybody dies](https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG) | 2:32 | 2026-04-01 |  |
+| [everybody dies](https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [everybody dies](https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG) | 2:32 | 2026-04-01 | 2026-11-19 |
 | [Everything](https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Everything](https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt) | 3:07 | 2022-11-09 | 2023-03-27 |
 | [Ex](https://open.spotify.com/track/2qYQlzG9kllQLu9RcHPF9L) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:17 | 2022-11-03 | 2022-12-04 |
 | [Excuse](https://open.spotify.com/track/3Kvludm9mx8wPSp0YKzPOz) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9) | [Excuse](https://open.spotify.com/album/7gaaPrwHk3sCo8e8x9wYG5) | 3:22 | 2024-04-28 | 2024-05-10 |
@@ -465,6 +465,7 @@
 | [Me Like Yuh \(K\) \(Feat\. Hoody\)](https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:43 | 2022-07-24 | 2024-04-19 |
 | [Me wit u 4eva …](https://open.spotify.com/track/4Mh4Aeg20cET04G9NI1pyL) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [Me wit u 4eva …](https://open.spotify.com/album/1J1Ja75sV6wsnXrsntpJuW) | 3:03 | 2023-10-04 | 2023-10-17 |
 | [Mean](https://open.spotify.com/track/1NJ5N8SfKOH1AWCDkZQtGj) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:44 | 2024-05-21 | 2024-06-08 |
+| [measurement](https://open.spotify.com/track/4dYpG9ztNxko6qDraNdgLt) | [justinforthis](https://open.spotify.com/artist/1MZvn2OoRX4PO4KA85NwdD) | [measurement](https://open.spotify.com/album/2KNM2qAqA7CT3ZuOLny5vU) | 2:48 | 2026-11-19 |  |
 | [meet me in Toronto](https://open.spotify.com/track/2kAoncETVbwALgilqVYLOi) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Boyhood](https://open.spotify.com/album/3eX0C672y1Y2HQTotIGU8V) | 3:23 | 2022-04-01 | 2022-07-29 |
 | [meet me in Toronto](https://open.spotify.com/track/6gnkpiuVtm2b5hzUNnXtQd) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:23 | 2022-07-24 | 2022-11-29 |
 | [Meeting is easy, parting is hard \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:51 | 2022-04-01 | 2026-03-14 |

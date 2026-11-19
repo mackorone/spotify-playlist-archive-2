@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Ryan Fidelis e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,243 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,226 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 45 | [MEU CRIME É EXISTIR](https://open.spotify.com/track/3xKGPKUqPjiEYUnv7wSQ4b) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:11 |
 | 46 | [Foca em mim \- Spotify Singles](https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [Foca em mim \- Spotify Singles](https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN) | 2:11 |
 | 47 | [Esconde Sua Namorada](https://open.spotify.com/track/56ActsrgGySMIkRtpDTtQs) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk) | [Esconde Sua Namorada](https://open.spotify.com/album/0YtHnpF7CLZldk0SX0pkeh) | 2:30 |
-| 48 | [Pra Quê?](https://open.spotify.com/track/4C3t5Qx8LsV6x9VYl6TCW6) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Pra Quê?](https://open.spotify.com/album/2w5VbaZHOs6XmtlbMOG5pV) | 2:57 |
+| 48 | [Dedo no Gatilho](https://open.spotify.com/track/3wZMF4qdGh3wQoPi4dFuGa) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Dedo no Gatilho](https://open.spotify.com/album/1n9OIA7ekfipAY4l8oR5lG) | 2:43 |
 | 49 | [Para De Pirraça / Toda Noite / É No Pagode \- Ao Vivo](https://open.spotify.com/track/0Npl1sQuuiJxXYxKGN9Kn9) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [De Volta Para 2002 \(Ao Vivo\)](https://open.spotify.com/album/6cKomSWg0tv5pXH2QvA8bN) | 5:00 |
 | 50 | [SUA FAVORITA](https://open.spotify.com/track/4M4gvIsQmAZTRyfrFwnkIA) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [SUA FAVORITA](https://open.spotify.com/album/1307xU8fubUQzLFHRnlJ3e) | 2:33 |
 

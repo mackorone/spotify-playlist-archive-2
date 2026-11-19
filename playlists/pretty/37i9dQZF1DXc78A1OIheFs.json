@@ -1,12 +1,12 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: L.A.B.",
-  "num_followers": 19476,
+  "num_followers": 19477,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANP8caw97iNQofcIuhZ53GPf0mE+",
+  "snapshot_id": "AAAAALLl0mYIhvYJwRdEVvTZPUgCwumE",
   "tracks": [
     {
       "added_at": "2026-10-22 13:00:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/0z9eiOxFAYLI5rhHwrlE5s"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 270359,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/15sy9Y95kBUzitFAshkY0o"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "Make Way For The Sun",
         "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 214000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/0z9eiOxFAYLI5rhHwrlE5s"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 270359,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/15sy9Y95kBUzitFAshkY0o"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -727,38 +727,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "subaru",
-        "url": "https://open.spotify.com/album/4zBhtAgoSI6bjksJvF1RSG"
-      },
-      "artists": [
-        {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "subaru",
-      "url": "https://open.spotify.com/track/7xM2ekDz5RZSqIm4U4AbFH"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
-        "name": "Chrysalis",
-        "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
-      },
-      "artists": [
-        {
-          "name": "Borderline",
-          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
       },
@@ -779,6 +747,22 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
+      },
+      "artists": [
+        {
+          "name": "Borderline",
+          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
         "name": "Harmless",
         "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 145445,
       "name": "Harmless",
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "subaru",
+        "url": "https://open.spotify.com/album/4zBhtAgoSI6bjksJvF1RSG"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "subaru",
+      "url": "https://open.spotify.com/track/7xM2ekDz5RZSqIm4U4AbFH"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
       },
       "artists": [
         {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
         }
       ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+      "duration_ms": 254385,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
       },
       "artists": [
         {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
         }
       ],
-      "duration_ms": 254385,
-      "name": "Under The Surface",
-      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "Beautiful Mess",
-        "url": "https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG"
+        "name": "In The Shade",
+        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
       },
       "artists": [
         {
-          "name": "Gin Wigmore",
-          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Tip Of My Tongue",
-      "url": "https://open.spotify.com/track/2dys238PfKFAblqyoSeaTL"
+      "duration_ms": 193987,
+      "name": "Don't You Die",
+      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "In The Shade",
-        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
+        "name": "Beautiful Mess",
+        "url": "https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG"
       },
       "artists": [
         {
-          "name": "Bean Magazine",
-          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
         }
       ],
-      "duration_ms": 193987,
-      "name": "Don't You Die",
-      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
+      "duration_ms": 186666,
+      "name": "Tip Of My Tongue",
+      "url": "https://open.spotify.com/track/2dys238PfKFAblqyoSeaTL"
     },
     {
       "added_at": "2026-10-22 13:00:16",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-10-22 13:00:16",
       "album": {
-        "name": "pick me up",
-        "url": "https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS"
-      },
-      "artists": [
-        {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "pick me up",
-      "url": "https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC"
-    },
-    {
-      "added_at": "2026-10-22 13:00:16",
-      "album": {
         "name": "BLEED",
         "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 215783,
       "name": "BLEED",
       "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
+    },
+    {
+      "added_at": "2026-10-22 13:00:16",
+      "album": {
+        "name": "pick me up",
+        "url": "https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "pick me up",
+      "url": "https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC"
     },
     {
       "added_at": "2026-10-22 13:00:16",

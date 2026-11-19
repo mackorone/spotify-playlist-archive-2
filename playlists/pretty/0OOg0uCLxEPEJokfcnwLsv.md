@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,469 likes - 78 songs - 4 hr 42 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,475 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 76 | [Break the Walls](https://open.spotify.com/track/5fM2U7gWzsjwNkGC8r1bS5) | [Eyewonder](https://open.spotify.com/artist/382fgUv3X5FVJYa4tlBHsu) | [Break the Walls](https://open.spotify.com/album/1r8zL7koKiba4nWkhZAOjW) | 3:09 |
 | 77 | [You Have To Know](https://open.spotify.com/track/1lPyg53yaQ0jtjIMPgwUUo) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [You Have To Know](https://open.spotify.com/album/1U5AF1nIfxDw87PUIqsdyg) | 2:44 |
 | 78 | [Crumbling Castle](https://open.spotify.com/track/2MOAwTkYaxHc6rcY2QPYcm) | [Derek D'Acoustic](https://open.spotify.com/artist/5JdnqmtLVoIZy7X85Nxyin) | [Crumbling Castle](https://open.spotify.com/album/1XlzdDxCC7RXhBRHPyswyC) | 4:28 |
+| 79 | [Somewhere in the Middle](https://open.spotify.com/track/1Soch8t4XTmagsPJCEqrAi) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Something Something Disco](https://open.spotify.com/album/1PrZie0NfaYvlTTfB8DAve) | 3:26 |
+| 80 | [Kill Me With A Kiss](https://open.spotify.com/track/1fKSRmApiBIgJ5bYsPrShp) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Kill Me With A Kiss](https://open.spotify.com/album/25ikxA50fL755TK0KYkbCO) | 2:48 |
 
-Snapshot ID: `AAAHWBEKZ/Bvibez0LElpwvSx7b42M7t`
+Snapshot ID: `AAAHWi1ccNFJ0H+bjqkUBLNq3eKUxJv4`

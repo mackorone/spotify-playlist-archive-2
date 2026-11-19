@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 358937,
+  "num_followers": 359021,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEjWb+kjd39fqtgwryEMvAZBqTTK",
+  "snapshot_id": "AAAAAOy5bHo1VcPBPCtMLihBGW9F937/",
   "tracks": [
     {
       "added_at": "2026-07-20 18:12:10",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA"
-      },
-      "artists": [
-        {
-          "name": "Mario Pereyra y Su Banda",
-          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
-        }
-      ],
-      "duration_ms": 186435,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
         "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 211986,
       "name": "Tu Mujer En Mi Cama",
       "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA"
+      },
+      "artists": [
+        {
+          "name": "Mario Pereyra y Su Banda",
+          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
+        }
+      ],
+      "duration_ms": 186435,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1239,8 +1239,8 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "En Directo - Piel Con Piel",
-        "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
       "artists": [
         {
@@ -1248,9 +1248,9 @@
           "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 97466,
-      "name": "Conmigo Te Gust\u00f3",
-      "url": "https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8"
+      "duration_ms": 199666,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -1331,8 +1331,8 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+        "name": "En Directo - Piel Con Piel",
+        "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
       },
       "artists": [
         {
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 199666,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
+      "duration_ms": 97466,
+      "name": "Conmigo Te Gust\u00f3",
+      "url": "https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8"
     },
     {
       "added_at": "2026-07-20 18:12:10",

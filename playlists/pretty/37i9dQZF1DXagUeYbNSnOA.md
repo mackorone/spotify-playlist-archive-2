@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring fidoisblue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,712 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,765 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [cdmx<3](https://open.spotify.com/track/0OhMbGUtUNfu8GbTN6XUKl) | [RICCII](https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf) | [cdmx<3](https://open.spotify.com/album/2epyxPGTlRN93YG5Zkn0KN) | 2:00 |
 | 50 | [TU QUIERES](https://open.spotify.com/track/0DKVwL0rV0eu49rNMUUPxb) | [Micah Palace](https://open.spotify.com/artist/2ORiMtfuAyIgw5tk2WnERd) | [TU QUIERES](https://open.spotify.com/album/0ZKmOCb8tzpgzXarM2ZSQt) | 2:32 |
 
-Snapshot ID: `AAAAAKnwu3rqGgcJpVnE0X/OyWBPKn3z`
+Snapshot ID: `AAAAAFJv5Hi0QM/G7xI3DPiBdGrwN1OV`

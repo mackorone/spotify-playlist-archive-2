@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Stella Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,077 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,102 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [Silvershoes](https://open.spotify.com/track/7ep0wpZD1S5dWhPaQeMBeY) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Silvershoes](https://open.spotify.com/album/4r5ig3cOxRwjCDLz94VEgx) | 2:37 |
 | 60 | [Memory Bomb \(feat\. Walter Smith III, Flanafi, Shibo\)](https://open.spotify.com/track/3d9j2wiKls3PpfRlFCQliw) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b), [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Memory Bomb](https://open.spotify.com/album/617gOMW4LhxYZi5BE6s4B1) | 3:50 |
 
-Snapshot ID: `AAAAADkLfziOwNIXJ/ugLk6iTPFpWIcW`
+Snapshot ID: `AAAAAG/q0stz7tOBXNXn/tRMJ5fsMCFA`

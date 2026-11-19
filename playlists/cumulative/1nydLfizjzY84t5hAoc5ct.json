@@ -4161,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "in her mind",
+        "url": "https://open.spotify.com/album/4prrhp1PaYncdzHrACrxt2"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk",
+          "url": "https://open.spotify.com/artist/2fb4tY3yXbMMGACVxem5KU"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "in her mind",
+      "url": "https://open.spotify.com/track/4S1RoMDPsMuRxjP2zrR4sB"
+    },
+    {
+      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ"
       },
@@ -7593,6 +7611,24 @@
     },
     {
       "album": {
+        "name": "take it",
+        "url": "https://open.spotify.com/album/7lLICdixOwEP1ziLx3lreA"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk",
+          "url": "https://open.spotify.com/artist/2fb4tY3yXbMMGACVxem5KU"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193656,
+      "name": "take it",
+      "url": "https://open.spotify.com/track/2DDQXnc5914t23WufBwDTG"
+    },
+    {
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/4GNPA7AIuRfIHNuGwiS7Ew"
       },
@@ -8518,6 +8554,24 @@
       "duration_ms": 199989,
       "name": "Virtual Dream",
       "url": "https://open.spotify.com/track/00jxdQR0k9QM7vzX0hgCQk"
+    },
+    {
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/0pvFPSZrqH4ukQJhq17WGE"
+      },
+      "artists": [
+        {
+          "name": "Movin' On",
+          "url": "https://open.spotify.com/artist/7G3LHmNxtl1WelzGgy9wPd"
+        }
+      ],
+      "date_added": "2026-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213613,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/6SRhnG59jtSpoNOj3VMf16"
     },
     {
       "album": {

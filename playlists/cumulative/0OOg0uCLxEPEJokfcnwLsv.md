@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-709 songs - 1 day 19 hr 37 min
+711 songs - 1 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2025-10-29 | 2025-11-22 |
 | [Just Let It Go](https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Just Let It Go](https://open.spotify.com/album/50TsgNRCRfPWhO8dy9YERH) | 3:13 | 2026-04-12 | 2026-10-11 |
 | [Karma](https://open.spotify.com/track/3tGPKbmHBc6V0GFbfHwfXY) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Karma](https://open.spotify.com/album/3vByTPtmfWDVFuChlrQENm) | 4:29 | 2026-06-09 | 2026-08-08 |
+| [Kill Me With A Kiss](https://open.spotify.com/track/1fKSRmApiBIgJ5bYsPrShp) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Kill Me With A Kiss](https://open.spotify.com/album/25ikxA50fL755TK0KYkbCO) | 2:48 | 2026-11-18 |  |
 | [Kimberly Clark](https://open.spotify.com/track/06QggER0hHCYmRIfOW3Igr) | [Stane](https://open.spotify.com/artist/7eLnp0P9jfpkziT43TV8tG) | [Kimberly Clark](https://open.spotify.com/album/3Sv8C39VaBa1lTjkAcyQrr) | 4:57 | 2026-09-24 |  |
 | [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 | 2026-02-07 | 2026-05-17 |
 | [Knots](https://open.spotify.com/track/0O3G3T3lM8omVs9gYbwt9u) | [Violet Fox](https://open.spotify.com/artist/5JjEGMlCzQo4Iqmw6Dij1r) | [Knots](https://open.spotify.com/album/4gtwkXPMCaA33uZi84N40B) | 2:48 | 2026-04-15 | 2026-09-01 |
@@ -545,6 +546,7 @@
 | [Something About You](https://open.spotify.com/track/1W2eU1ISQAJkjiIgb9e9va) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Love Hotel](https://open.spotify.com/album/62Bxt91D7ef7SJKnHZ0BxM) | 3:19 | 2026-04-02 |  |
 | [Something New](https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Something New](https://open.spotify.com/album/5iVvaFMO6P1bQKWxRfWr8p) | 4:40 | 2026-06-15 | 2026-08-08 |
 | [Sometimes](https://open.spotify.com/track/7facdq3XjlGNKjETWq4D2S) | [SUNSHRD](https://open.spotify.com/artist/4Qhw3YVszSYCJ583d05fkV) | [Studio Session](https://open.spotify.com/album/1RXnxjw9ESq3zz9JMoonMM) | 3:55 | 2026-08-26 | 2026-10-11 |
+| [Somewhere in the Middle](https://open.spotify.com/track/1Soch8t4XTmagsPJCEqrAi) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Something Something Disco](https://open.spotify.com/album/1PrZie0NfaYvlTTfB8DAve) | 3:26 | 2026-11-18 |  |
 | [Sorrow](https://open.spotify.com/track/03WwAoY5g9cuENQZ8STzXn) | [The Scree Fall](https://open.spotify.com/artist/34Sey5DRlJEnCm3TEEk7cE) | [Steel Birds Scream](https://open.spotify.com/album/5W6X8kOGx698haoq3iR8yO) | 4:35 | 2025-10-29 | 2025-11-22 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-11-27 | 2026-01-05 |
 | [Sotto Controllo](https://open.spotify.com/track/6jAPPaMIFWkCDgFdu86G1m) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Sotto Controllo](https://open.spotify.com/album/5LB0TRZvTWRjYIFFTAHBEE) | 3:57 | 2026-02-15 | 2026-03-22 |

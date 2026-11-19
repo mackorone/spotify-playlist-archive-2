@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1067696,
+  "num_followers": 1067667,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAjvyaU+pcdmiz/WUeMEjbJSZR2F",
+  "snapshot_id": "AAAAAPTtZQZHxFKZclW81L5exaZOLz1Z",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:40",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
         "name": "Roll Mega",
         "url": "https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 282857,
       "name": "Twist Your Arm",
       "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Blame It On The Rain",
-        "url": "https://open.spotify.com/album/0AHcIvDHrQ8zYZVf0X1Y3b"
-      },
-      "artists": [
-        {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Blame It On The Rain",
-      "url": "https://open.spotify.com/track/3YnrovHYqdBgHXEf2pnIDK"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "LONG WAY FROM THE BOTTOM",
         "url": "https://open.spotify.com/album/2BZdAFl884lkn6ButA2MUT"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "In The Pines",
-        "url": "https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8"
+        "name": "Blame It On The Rain",
+        "url": "https://open.spotify.com/album/0AHcIvDHrQ8zYZVf0X1Y3b"
       },
       "artists": [
         {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
         }
       ],
-      "duration_ms": 210504,
-      "name": "In The Pines",
-      "url": "https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo"
+      "duration_ms": 169706,
+      "name": "Blame It On The Rain",
+      "url": "https://open.spotify.com/track/3YnrovHYqdBgHXEf2pnIDK"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -663,6 +647,22 @@
       "duration_ms": 152824,
       "name": "Greyhound Bus Blues",
       "url": "https://open.spotify.com/track/3kFo9yQT1AcBMUQjwExLd2"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "In The Pines",
+        "url": "https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 210504,
+      "name": "In The Pines",
+      "url": "https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "House On Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
-      },
-      "artists": [
-        {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Saviour - Unplugged",
-      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 260458,
       "name": "You Still Got Me - Edit",
       "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "House On Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Saviour - Unplugged",
+      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
+        "name": "Days of Mellow",
+        "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 154980,
+      "name": "Days of Mellow",
+      "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 227453,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
-        "name": "Days of Mellow",
-        "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 154980,
-      "name": "Days of Mellow",
-      "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Wheel Inside A Well",
-        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
-      },
-      "artists": [
-        {
-          "name": "Pressing Strings",
-          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
-        }
-      ],
-      "duration_ms": 242103,
-      "name": "Wheel Inside A Well",
-      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "You Can't Love Me",
         "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "pretty baby",
-        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
+        "name": "Wheel Inside A Well",
+        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
       },
       "artists": [
         {
-          "name": "Jackson Lundy",
-          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
+          "name": "Pressing Strings",
+          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
         }
       ],
-      "duration_ms": 150688,
-      "name": "pretty baby",
-      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
+      "duration_ms": 242103,
+      "name": "Wheel Inside A Well",
+      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1487,6 +1471,22 @@
       "duration_ms": 195573,
       "name": "Love Like Whiskey",
       "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "pretty baby",
+        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
+      },
+      "artists": [
+        {
+          "name": "Jackson Lundy",
+          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
+        }
+      ],
+      "duration_ms": 150688,
+      "name": "pretty baby",
+      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Days Of Unrest",
-        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Can\u2019t Stand Still",
-      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 159007,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Days Of Unrest",
+        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Can\u2019t Stand Still",
+      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Take Time",
-        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 335658,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
     },
     {
       "added_at": "2026-11-06 05:00:40",

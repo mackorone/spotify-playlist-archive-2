@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,795 songs - 4 day 12 hr 31 min
+1,796 songs - 4 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1657,7 +1657,7 @@
 | [心音](https://open.spotify.com/track/3wxYirejZ1NWKp2uy3Ir5N) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [心音](https://open.spotify.com/album/2sF3NUTrs7U4CV6d6qk2k6) | 4:01 | 2022-05-26 | 2022-06-18 |
 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 | 2025-02-21 |  |
 | [恋のこと](https://open.spotify.com/track/1HcKX6tLNunyOcs7RoCzHt) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA), [JUNES K](https://open.spotify.com/artist/45KUf6mcBeHM9UZg0jEcZl) | [恋のこと](https://open.spotify.com/album/3MkNefoGCMk027iQWztGK4) | 3:42 | 2024-06-04 | 2024-06-13 |
-| [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 | 2025-03-11 |  |
+| [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 | 2025-03-11 | 2026-11-19 |
 | [惑星](https://open.spotify.com/track/2uA4yw2tDNXdfKLSQ6F0GL) | [矢舟テツロー](https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV) | [惑星](https://open.spotify.com/album/698Joy6TODu5G4d8bCaHCE) | 2:47 | 2023-10-10 | 2023-10-18 |
 | [意識は14時に](https://open.spotify.com/track/56yGOjOj3s5tcmd3dzf2bl) | [C子あまね](https://open.spotify.com/artist/24RyH9qOgbwEeKOypceYYO) | [Japan](https://open.spotify.com/album/0FCo0ihblkw2VBC5YVUxQN) | 3:53 | 2022-06-28 | 2022-07-20 |
 | [意識はある心は寝てる](https://open.spotify.com/track/72lL0cg6iMAqOFxcdEdRLr) | [BurnQue](https://open.spotify.com/artist/1hs2riuyJ0fKBza9EqwS7n) | [寝てる](https://open.spotify.com/album/0p8JuvOUUGJkGQd8HwMjWK) | 6:56 | 2023-08-01 | 2023-08-09 |
@@ -1800,6 +1800,7 @@
 | [風になれるはず](https://open.spotify.com/track/3zjOOTnR1kFcS1OYVDjhob) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [風になれるはず](https://open.spotify.com/album/7aZZDsYbHBvOuDXjxEB8QU) | 3:56 | 2026-09-16 | 2026-10-25 |
 | [風来](https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [風来](https://open.spotify.com/album/3JrxuhOs9bd9Tbcs6P7j7D) | 4:25 | 2023-02-21 | 2023-02-23 |
 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 | 2026-11-15 |
+| [飽々](https://open.spotify.com/track/34Jr5X1tMIBMeW5rE0AMuG) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [飽々](https://open.spotify.com/album/2pK0DdmBYd4Dkgvwt8zdxR) | 3:45 | 2026-11-15 |  |
 | [骨まで愛して](https://open.spotify.com/track/76eXC94QzPqx9XcxQSxcAZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [骨まで愛して](https://open.spotify.com/album/1zGhKpqriVQSXKLl4ItJI0) | 3:26 | 2023-01-20 | 2023-04-05 |
 | [魚 \_ 魚](https://open.spotify.com/track/0iReJwnfIhYXmdGKN1OgB2) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [魚 \_ 魚](https://open.spotify.com/album/4X1929ex2VAoBiJ0M5eYkk) | 4:54 | 2023-10-03 | 2023-11-22 |
 | [麻痺](https://open.spotify.com/track/43pMPzvf5ERpK3trw9k0C7) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [麻痺](https://open.spotify.com/album/468ihgnfToRbmvaj6BHFWJ) | 5:24 | 2026-01-21 | 2026-05-10 |

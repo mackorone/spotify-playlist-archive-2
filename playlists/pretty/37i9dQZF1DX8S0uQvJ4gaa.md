@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,347,039 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,109 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Maybe Next Time, Honey!](https://open.spotify.com/track/46ojkgacHjlBi949LUkEgh) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Maybe Next Time, Honey!](https://open.spotify.com/album/29bkuZtUu6O0QcOWXfE0vq) | 3:26 |
 | 100 | [Cry Baby](https://open.spotify.com/track/33lxj47LkkTn3hVHN0wgwZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Cry Baby](https://open.spotify.com/album/1faiHpRU4FKgWT3nFSc25D) | 3:23 |
 
-Snapshot ID: `AAAAAHJGQkooTPvoTpXCKGi2KpQv9+Bn`
+Snapshot ID: `AAAAAMreplE+9VsrLymF4/YqpVAlD4zQ`

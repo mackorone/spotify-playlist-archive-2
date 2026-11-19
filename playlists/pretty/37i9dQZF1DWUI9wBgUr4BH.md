@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo :  SIENNA SPIRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,639 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,614 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Deliciosa](https://open.spotify.com/track/17QCWlVhlMWt5VVwale5nS) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Deliciosa](https://open.spotify.com/album/2yQEjpmi32nlH7DLUl62cd) | 2:45 |
 | 40 | [My Oh My](https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [My Oh My](https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh) | 2:36 |
 
-Snapshot ID: `AAAAACD7QxDj/C75Fhu7pzJtqAY4bAqC`
+Snapshot ID: `AAAAAJ9CoSPtArStOqFbHh8tEhywzFxw`

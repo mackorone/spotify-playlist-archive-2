@@ -1,6 +1,6 @@
 {
   "description": "All of the Celtic punk essentials.. Cover: Dropkick Murphys",
-  "num_followers": 515504,
+  "num_followers": 515578,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/1o6b2EJpJ97J3UW6EWI3y5"
     },
     {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "The Emerald City",
+        "url": "https://open.spotify.com/album/1fBFtQjOZbF7Zr3TiolxHZ"
+      },
+      "artists": [
+        {
+          "name": "The Tossers",
+          "url": "https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "USA",
+      "url": "https://open.spotify.com/track/6AXdttKPTiEaGPMrKNNsHK"
+    },
+    {
       "added_at": "2022-03-18 14:59:31",
       "album": {
         "name": "When the Shite Hits the Fans",
@@ -551,22 +567,6 @@
       "duration_ms": 233853,
       "name": "Drunk Again",
       "url": "https://open.spotify.com/track/1TJG4k1Lilg05p9fix52wM"
-    },
-    {
-      "added_at": "2024-02-06 19:54:12",
-      "album": {
-        "name": "The Emerald City",
-        "url": "https://open.spotify.com/album/1fBFtQjOZbF7Zr3TiolxHZ"
-      },
-      "artists": [
-        {
-          "name": "The Tossers",
-          "url": "https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "USA",
-      "url": "https://open.spotify.com/track/6AXdttKPTiEaGPMrKNNsHK"
     },
     {
       "added_at": "2024-02-06 19:54:12",

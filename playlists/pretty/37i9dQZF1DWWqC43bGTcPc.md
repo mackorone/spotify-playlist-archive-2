@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 理想混蛋
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,464 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,461 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [微醺的愛 \- 影集《微醺大飯店1980s》插曲](https://open.spotify.com/track/6QoPFe7jvqMF2tTHBFNPsH) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [微醺的愛 \(影集《微醺大飯店1980s》插曲\)](https://open.spotify.com/album/56xhRnJNjl16fCxkCuSERi) | 3:04 |
 | 50 | [懂的都懂](https://open.spotify.com/track/6MDgM4iLuZajkwEYwsnxrH) | [Dizzy Dizzo 蔡詩芸](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [懂的都懂](https://open.spotify.com/album/4UmlHS19LWaNyYkcco8aRT) | 2:34 |
 
-Snapshot ID: `AAAAACM79/3X1xozcoZWT+BqQAq4S3r+`
+Snapshot ID: `AAAAANg7iKfc+yddUaxd6qtEfGWsrzgX`

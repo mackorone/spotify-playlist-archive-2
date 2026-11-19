@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-132 songs - 7 hr 15 min
+133 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,8 +107,9 @@
 | [Salute](https://open.spotify.com/track/1iupzLgX4O0Qosb4yDpYoz) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(Expanded Edition\)](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) | 3:56 | 2026-04-06 |  |
 | [Sellotape](https://open.spotify.com/track/2Wvsl6iJXxtHd3b17C7aZ5) | [Alexandru](https://open.spotify.com/artist/7BV24wLOUYAjUipNBRn3mK) | [Sellotape](https://open.spotify.com/album/3dm7sl4eVeS5bx7TkbpD3u) | 3:20 | 2026-04-06 |  |
 | [Shooting Star \- En duo avec tara mcdonald](https://open.spotify.com/track/5jCqTpHSkbcNJbaVqB3dg5) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Contagieuse](https://open.spotify.com/album/7E6v8eyFigpcPfcsYqQJS9) | 3:35 | 2026-04-06 |  |
-| [Sleep Alone](https://open.spotify.com/track/4ixQejX6rjCRSYp2YbFZpS) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ) | [Sleep Alone](https://open.spotify.com/album/0LZcgLpIFmL8eWZkwRR5Jz) | 3:41 | 2026-11-15 |  |
+| [Sleep Alone](https://open.spotify.com/track/4ixQejX6rjCRSYp2YbFZpS) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ) | [Sleep Alone](https://open.spotify.com/album/0LZcgLpIFmL8eWZkwRR5Jz) | 3:41 | 2026-11-15 | 2026-11-19 |
 | [Sleep Alone \- RELECTO & Billy The Kit Radio Remix](https://open.spotify.com/track/1wIXUmKA5xYpgWgHqCWZgQ) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [RELECTO](https://open.spotify.com/artist/0ZI3SANhOylOfMFdxiPXFh) | [Sleep Alone \(RELECTO & Billy The Kit Edits\)](https://open.spotify.com/album/7h0Ql5awGQ4ESW6fftjoGP) | 2:59 | 2026-04-06 | 2026-06-23 |
+| [Sleep Alone \- RELECTO & Billy The Kit Radio Remix](https://open.spotify.com/track/6iTk2WajQEXZpASbOwgr2O) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [RELECTO](https://open.spotify.com/artist/0ZI3SANhOylOfMFdxiPXFh) | [Sleep Alone](https://open.spotify.com/album/3M9gIJ5EytzLS8pEnDmlL2) | 2:59 | 2026-11-18 |  |
 | [Sleep Alone \- RELECTO & Billy The Kit Radio Remix](https://open.spotify.com/track/73AwUcVAB7HaRIDOfbIFa4) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [RELECTO](https://open.spotify.com/artist/0ZI3SANhOylOfMFdxiPXFh) | [Sleep Alone \(RELECTO & BILLY THE KIT REMIX\)](https://open.spotify.com/album/77HMLbAJK3ZsklCJGGDfs0) | 2:59 | 2026-06-22 | 2026-11-16 |
 | [Sniper \(feat\. R\. City\)](https://open.spotify.com/track/15LiEl1EWCNRH8h8vVRFN1) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Sniper \(feat\. R\. City\)](https://open.spotify.com/album/3kEIdgowUJoET1hMMw0e4q) | 3:44 | 2026-04-06 |  |
 | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/track/07AhIz1LUHR1U4aTbOYSJQ) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/album/2aTzmifl59fUFqBW24bzDw) | 3:19 | 2026-04-06 |  |

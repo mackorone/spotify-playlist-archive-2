@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-173 songs - 9 hr 1 min
+174 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Colorful Chilaka](https://open.spotify.com/track/73AMbnpUdXdJGciNl8Fsp5) | [Narendra](https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9) | [Holi Special Songs](https://open.spotify.com/album/5B8AmuHx5y2pKQWTTDOo6A) | 3:48 | 2021-06-24 | 2024-08-24 |
 | [Colorful Chilaka](https://open.spotify.com/track/78Ew8m4IHFovprNMyj4E2y) | [Narendra](https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9) | [Express Raja](https://open.spotify.com/album/1T6t4DS8YhHLEJJk9Pbyx7) | 3:48 | 2021-06-24 | 2022-11-13 |
 | [Crux of KJQ](https://open.spotify.com/track/2KInS1OQxGpILA4LvfA10f) | [Poornachandra Tejaswi S.V.](https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX), [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc) | [KJQ](https://open.spotify.com/album/7n1kCEsPNpL8Pg7RAI7hSQ) | 3:12 | 2026-08-10 |  |
+| [Daaku Intro](https://open.spotify.com/track/0QN4vWb8DX4beIb17L41kY) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Daaku Maharaaj \- OST](https://open.spotify.com/album/2HdQEzKxTDppNO0a6HrGvy) | 2:21 | 2026-11-16 |  |
 | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/track/3qhq4cn3We0CXDIi44ckHa) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh) | 4:14 | 2021-06-24 | 2024-08-24 |
 | [Deham Thiri](https://open.spotify.com/track/0870CqL7MYh5JsMEbCbWQy) | [A.R.Rehman, Sunitha Saradhi, Tanvi](https://open.spotify.com/artist/2TEjETezkVzu9xdDM3A81l) | [Yuva](https://open.spotify.com/album/5U5RVTmAcY6BK39u5TWTa5) | 4:34 | 2021-06-24 | 2024-08-24 |
 | [Desi Girl 2.0 \(Varanasi Event\)](https://open.spotify.com/track/1iteo50Gfd0ppGjlAPlNRH) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1), [Chaitanya Prasad](https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf) | [Desi Girl 2.0 \(Varanasi Event\)](https://open.spotify.com/album/0LmnQpQW64JbYG6VESRi43) | 1:57 | 2026-01-15 |  |
@@ -158,7 +159,7 @@
 | [The Blind](https://open.spotify.com/track/1Vmq74DX8WfWIyz0odHmiS) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 0:43 | 2024-08-23 |  |
 | [The Karma Theme \- Telugu \(From "U Turn"\)](https://open.spotify.com/track/0K2CU7TTmFBSbFm1Lt50Sx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [The Karma Theme \[Telugu \(From "U Turn"\)\]](https://open.spotify.com/album/7JzWYvbRsMEBBbufyXnkcL) | 3:34 | 2021-06-24 | 2024-08-24 |
 | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/track/4LHXR8UqVGecuGqoMPgbaG) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [The Rage Of Bhimaa \(From "Bhimaa"\)](https://open.spotify.com/album/5mlwbbVoh2IAu5anQ7TVYw) | 2:02 | 2024-08-23 |  |
-| [The Raid](https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 1:22 | 2025-02-03 |  |
+| [The Raid](https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 1:22 | 2025-02-03 | 2026-11-19 |
 | [The Unpredictable Rap Verse](https://open.spotify.com/track/3AM69qzTqwns3FLV0dTyZG) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 2:23 | 2025-02-03 | 2025-10-05 |
 | [Theme](https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 5:15 | 2024-08-23 |  |
 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 | 2024-08-23 |  |

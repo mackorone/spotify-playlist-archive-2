@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Isadora Pompeo
 
-396 songs - 1 day 15 hr 34 min
+397 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Na Comunhão \- Ao Vivo](https://open.spotify.com/track/0ISYegqyS3fP4C1aMuR65b) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Paula Santos](https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi) | [COMUNHÃO \- Fernandinho Em Casa, vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0bDmTYJxrUlLdVEWdtsyg5) | 5:12 | 2026-08-17 |  |
 | [Na Fenda da Rocha \- Ao Vivo](https://open.spotify.com/track/4dYO2p6RmyHEkiFvhW7NwW) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Na Fenda da Rocha \(Ao Vivo\)](https://open.spotify.com/album/3L3usCvBRr2PkzPeA9Q9x8) | 5:49 | 2026-02-13 |  |
 | [Nada Além do Sangue \- Ao Vivo](https://open.spotify.com/track/1wAAKfuuvSZQaXhHtPAzko) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Paula Santos](https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi) | [Nada Além do Sangue \(Ao Vivo\)](https://open.spotify.com/album/4x1x5UjNbzoKb3yfDTevRv) | 8:17 | 2023-10-13 |  |
-| [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 | 2023-10-06 |  |
+| [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 | 2023-10-06 | 2026-11-19 |
 | [Nada Mais/Uma Vez](https://open.spotify.com/track/6iRxHMWx0ACA8NoDZ8NN60) | [Cultura do Céu](https://open.spotify.com/artist/2CzYWEDa8pdDgcwaazooQd), [Davi Fernandes](https://open.spotify.com/artist/6llGArQXTEY84S4Oto9Vll), [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Nada Mais/Uma Vez](https://open.spotify.com/album/6gQlQS55W8vZ3bjTmByVa1) | 6:32 | 2025-05-21 |  |
 | [Nada Pode Calar Um Adorador](https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT) | 4:52 | 2022-09-09 | 2024-12-07 |
 | [Nada se Compara](https://open.spotify.com/track/0D94CC8l87yioa74OKQitU) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Nada se Compara](https://open.spotify.com/album/3TI5ZYZdMVuZ3Ck8bL9g8f) | 4:08 | 2022-12-09 | 2023-02-11 |
@@ -274,6 +274,7 @@
 | [Para Ti Eu Vou \- Ao Vivo](https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Gabriela Maganete](https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Para Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo) | 10:01 | 2022-09-09 | 2025-05-22 |
 | [Paz da Minha Alma](https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Paz da Minha Alma](https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l) | 4:38 | 2022-09-09 | 2022-11-05 |
 | [Paz Sem Fim \(Nada Quebrado\) \- Ao Vivo](https://open.spotify.com/track/2mXl01XyGFBLmZEv4M1dzf) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Fogo Que Consome \(Ao Vivo\)](https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj) | 5:48 | 2025-05-12 |  |
+| [Perdoa\-me](https://open.spotify.com/track/7dVOkAojXLaje43oMImGI0) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Perdoa\-me](https://open.spotify.com/album/6rD5jQiPiEkaH0cXKAVx0S) | 4:35 | 2026-11-18 |  |
 | [Peregrino \- Ao vivo](https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Peregrino \(Ao Vivo\)](https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp) | 5:30 | 2024-07-05 |  |
 | [Perfume](https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Razão da Esperança](https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X) | 5:46 | 2024-11-30 | 2025-04-15 |
 | [Pertinho \- Live](https://open.spotify.com/track/1Y5QN2S9gOZpDBkbOeA6fB) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Pertinho \(Live\)](https://open.spotify.com/album/5FgS1rPdfvF2i3Dox9moXO) | 3:54 | 2022-09-09 | 2022-11-26 |
