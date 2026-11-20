@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Sakis Rouvas
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Claydee, Rena Morfi
 
-340 songs - 17 hr 17 min
+342 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [AYGOUSTOS](https://open.spotify.com/track/2klGl2ub6l3empTt8NcpfI) | [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [AYGOUSTOS](https://open.spotify.com/album/38MeanPBHZa6IFFAAeq4xi) | 2:30 | 2025-08-28 | 2026-02-20 |
 | [Balkan Christmas](https://open.spotify.com/track/4D0d32TD5t6Acmcwzqnaln) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O) | [Balkan Christmas](https://open.spotify.com/album/1D4vh45eZNrWnOBhLXJq4O) | 2:24 | 2024-12-19 | 2025-01-31 |
 | [Ballaro Xana](https://open.spotify.com/track/2imtO14NPFxuiHIRXPvo3J) | [JOJO](https://open.spotify.com/artist/7y3Vc1nVxf9MK2BXv5G3ul), [GXHAN](https://open.spotify.com/artist/6rdyRCKpxlwH5dMRYr1fUD) | [Ballaro Xana](https://open.spotify.com/album/5yBfHkqUCmsJWW8YDblOXF) | 2:34 | 2026-07-09 | 2026-09-25 |
+| [BEYONCÉ](https://open.spotify.com/track/1Xg8TwV1fuooICDTuOA9fN) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [BEYONCÉ](https://open.spotify.com/album/3JysBTsuV4EYp6pX6U4PT0) | 2:39 | 2026-11-19 |  |
 | [block](https://open.spotify.com/track/7siefcy382f6vEymtDfxlH) | [LAFIS](https://open.spotify.com/artist/0TuCBqRq7lWzppL02CY4qc), [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [block](https://open.spotify.com/album/2F0bK2kCnSqPAbCkwFFRiY) | 2:32 | 2026-02-05 | 2026-05-08 |
 | [BLOUZAKI](https://open.spotify.com/track/7eVEcqGwyn59jK1hBaFhgP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:36 | 2025-05-01 | 2025-11-21 |
 | [Bomba](https://open.spotify.com/track/75JT04sGadvvNkfUDEhuwt) | [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44), [Ghetto Queen](https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Bomba](https://open.spotify.com/album/1qZvff3aZbd2zw9RscdR45) | 2:26 | 2024-11-07 | 2025-02-21 |
@@ -170,6 +171,7 @@
 | [Jackie Ο'](https://open.spotify.com/track/3eki2WDPpHdejxehX147UA) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Jackie Ο'](https://open.spotify.com/album/35hZqIutiGG7tCaPNDlnE9) | 2:37 | 2026-06-18 |  |
 | [JALLA \- Anastasia Remix](https://open.spotify.com/track/5xN4Opih4KEMTJlww6yDMM) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW), [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [JALLA \(Anastasia Remix\)](https://open.spotify.com/album/531LCZEK6sLeGRr68QBgKy) | 2:05 | 2026-07-02 |  |
 | [Kaigomai](https://open.spotify.com/track/5HdggIsemsufKTS7guiZfh) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [Kaigomai](https://open.spotify.com/album/2sWotPDlxvtwKk5fhvkrqD) | 2:26 | 2026-05-14 | 2026-07-31 |
+| [KAKOS EAFTOS](https://open.spotify.com/track/4iErn0oXVMVnIk2tqUFaUI) | [FEVERTOOHIGH](https://open.spotify.com/artist/14jDG1IsRNgbwp44uyJV81), [HIT MACHINE](https://open.spotify.com/artist/5sf5nJwxeeMgsYlNsa0oX4) | [KAKOS EAFTOS](https://open.spotify.com/album/2An0UCaage6udJdy4PrBQ8) | 4:35 | 2026-11-19 |  |
 | [Kalinixta](https://open.spotify.com/track/5IhM9xyRYFM8PDau4IOqOR) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [Kalinixta](https://open.spotify.com/album/2KmVPAlqvFAUyBdXv1NlqO) | 2:38 | 2025-07-10 | 2026-03-13 |
 | [Kalokairines Diakopes](https://open.spotify.com/track/0RKB3x4AP6YvOkzg22vVvS) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Kalokairines Diakopes](https://open.spotify.com/album/5IymH7S1bjtllWkbaCKEN7) | 3:33 | 2025-07-31 | 2026-02-27 |
 | [Kalokeri](https://open.spotify.com/track/3AVeVxO7MJYiaeROQ51vpp) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Kalokeri](https://open.spotify.com/album/35fSplKWXGIGtROvgDzSul) | 4:01 | 2024-07-11 | 2024-10-25 |
@@ -178,7 +180,7 @@
 | [Kapou Allou](https://open.spotify.com/track/0ql9ryQ4mVeUkZgX1vPcU7) | [Solmeister](https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [\_sunset](https://open.spotify.com/artist/7wW1i3pFTsdxc7yqYAH2Vu) | [Kapou Allou](https://open.spotify.com/album/5yMhsJ12NILXekDWJbfx6L) | 2:31 | 2026-07-30 |  |
 | [KARALHO](https://open.spotify.com/track/1vTAwpWr8qOtFM7pfMw6wM) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [KARALHO](https://open.spotify.com/album/5V94gUViWjEaX3RGgshVHz) | 3:00 | 2026-06-18 | 2026-09-25 |
 | [Kathreftis](https://open.spotify.com/track/4azlWSauf9tzq8otYeEM5U) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Kathreftis](https://open.spotify.com/album/3owgXHYu8c8hp8B0S0LtkR) | 3:09 | 2025-03-20 | 2025-11-21 |
-| [Keno](https://open.spotify.com/track/5bIY2tipWqaLOBanuPL4sF) | [Manos](https://open.spotify.com/artist/1f1rxFbyGZ77El3CNyxeV6), [Dina](https://open.spotify.com/artist/4R2DcF9JLwKQSfm87963xV) | [Keno](https://open.spotify.com/album/7FrdB9jKNXI7DbhPHN9sl0) | 3:51 | 2026-05-07 |  |
+| [Keno](https://open.spotify.com/track/5bIY2tipWqaLOBanuPL4sF) | [Manos](https://open.spotify.com/artist/1f1rxFbyGZ77El3CNyxeV6), [Dina](https://open.spotify.com/artist/4R2DcF9JLwKQSfm87963xV) | [Keno](https://open.spotify.com/album/7FrdB9jKNXI7DbhPHN9sl0) | 3:51 | 2026-05-07 | 2026-11-20 |
 | [Ki Allo](https://open.spotify.com/track/1APBa1UnvvcrZJGfHNcRUB) | [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [Ki Allo](https://open.spotify.com/album/4ereTaKGCKJgk2iHkFhJnJ) | 3:13 | 2026-06-04 |  |
 | [KOINO MYSTIKO](https://open.spotify.com/track/4fejBXInswcgNhzuZTFokR) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [KOINO MYSTIKO](https://open.spotify.com/album/73lpQrTd3cXHkWUlAe5TCG) | 2:26 | 2024-09-26 | 2025-06-06 |
 | [Kolima](https://open.spotify.com/track/5bTMHSl3hGjMfbMMig1E3L) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Kolima](https://open.spotify.com/album/31EO338Vqw3b1i8UUoFQCh) | 2:42 | 2024-06-27 | 2024-08-09 |

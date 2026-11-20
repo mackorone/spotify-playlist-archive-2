@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,121 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,141 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 74 | [We Love You \- Stereo Version](https://open.spotify.com/track/7D9zQOnM8fDzNHtI1rondd) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Singles 1965\-1967](https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5) | 4:35 |
 | 75 | [Venus In Furs](https://open.spotify.com/track/3x5IM9VEpsFLhkzy9YT2F0) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/02O0Ea7JGwlLq8faAiv1MN) | 5:12 |
 
-Snapshot ID: `AAAAAEq7nXlp5DPvL8QQCMZxXve9gsTC`
+Snapshot ID: `AAAAAAvnrdzMdX1y9qm0jEC3Say3drtK`

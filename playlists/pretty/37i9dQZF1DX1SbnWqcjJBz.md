@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,845 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,864 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 77 | [Greatest Hits Megamix](https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5), [The Alias](https://open.spotify.com/artist/78WijkLKBV4F1vRUZepBSp) | [What Are You Waiting For?](https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3) | 7:41 |
 | 78 | [Goodbye](https://open.spotify.com/track/5myYDbAurm1CW038qd4gL2) | [Kristinia DeBarge](https://open.spotify.com/artist/5Z22vlK4DCgDrQgBEqfc8w) | [Exposed \(Deluxe Edition\)](https://open.spotify.com/album/7f45cxgKjDpNLsvscwYvjS) | 3:28 |
 | 79 | [Froot](https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Froot](https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY) | 5:31 |
-| 80 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 |
-| 81 | [Braveheart](https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an) | [Neon Jungle](https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL) | [Welcome to the Jungle \(Deluxe\)](https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v) | 3:44 |
+| 80 | [Braveheart](https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an) | [Neon Jungle](https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL) | [Welcome to the Jungle \(Deluxe\)](https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v) | 3:44 |
+| 81 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 |
 | 82 | [Who's That Chick ? \(feat\. Rihanna\) \- Single Version](https://open.spotify.com/track/45PdLo6r1tME4Uhkg5h7ak) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [One More Love](https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI) | 2:45 |
-| 83 | [Neon Lights](https://open.spotify.com/track/1WINLcGPEw9jDs2z0zLKIU) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/5v2YP7qaJJsOuWwojxUti8) | 3:53 |
-| 84 | [Touch Me \(All Night Long\) \- 7" Mix](https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V) | [Cathy Dennis](https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp) | [Move To This \(Polydor Expanded Edition\)](https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c) | 3:29 |
+| 83 | [Touch Me \(All Night Long\) \- 7" Mix](https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V) | [Cathy Dennis](https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp) | [Move To This \(Polydor Expanded Edition\)](https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c) | 3:29 |
+| 84 | [Neon Lights](https://open.spotify.com/track/1WINLcGPEw9jDs2z0zLKIU) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/5v2YP7qaJJsOuWwojxUti8) | 3:53 |
 | 85 | [A Public Affair](https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me) | 3:21 |
 | 86 | [Work \- Freemasons Radio Edit](https://open.spotify.com/track/1foEfzZaWdicH22pCxx52P) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Playlist: The Very Best Of Kelly Rowland](https://open.spotify.com/album/25h3hmV7iot9lZlhjsmmHz) | 3:11 |
 | 87 | [Somebody to Love Me](https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [The Business Intl](https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4) | [Record Collection](https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h) | 4:57 |
-| 88 | [American Girl](https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [American Girl](https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb) | 3:44 |
-| 89 | [Tonight \(feat\. Ne\-Yo\)](https://open.spotify.com/track/5AuJPRJ5vQPYrCAry4yEBK) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Me, You & The Music](https://open.spotify.com/album/5dpVhlbI7CTt58ZCULC2SP) | 3:58 |
+| 88 | [Tonight \(feat\. Ne\-Yo\)](https://open.spotify.com/track/5AuJPRJ5vQPYrCAry4yEBK) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Me, You & The Music](https://open.spotify.com/album/5dpVhlbI7CTt58ZCULC2SP) | 3:58 |
+| 89 | [American Girl](https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [American Girl](https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb) | 3:44 |
 | 90 | [Tom's Diner \(feat\. Britney Spears\)](https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Déjà vu](https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr) | 3:32 |
 | 91 | [Want You In My Room](https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 2:46 |
 | 92 | [Song 4 Mutya \(Out Of Control\)](https://open.spotify.com/track/08oDoZiAYgEqh7Tzr5wRVV) | [Mutya Buena](https://open.spotify.com/artist/1g5PorBgjWrL60NdotRE6Q), [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Real Girl](https://open.spotify.com/album/18EjOWuILmihCbwNbx6w44) | 3:30 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 97 | [Cry](https://open.spotify.com/track/7wgxq27uOvfydLunYkcmAU) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [EMOTION SIDE B](https://open.spotify.com/album/31776n0a6xHYMHSlK4983u) | 3:56 |
 | 98 | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:56 |
 | 99 | [Physical](https://open.spotify.com/track/44fXOB2eBG8uaQJGwh26Bk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/2U2oPaAXBB5oD0SW97HBo6) | 3:13 |
-| 100 | [Tony the Beat](https://open.spotify.com/track/6QxQz4h8vdcVb9NZq2x8RO) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Dying to Say This to You \(Premium Download Version\)](https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG) | 3:12 |
+| 100 | [Don't Cry for Me Argentina \- Miami Mix Edit](https://open.spotify.com/track/6rpPOIl2uqjBVJD9TxY2K9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Javier Garza](https://open.spotify.com/artist/7d6UVb1wJfBBglIebDp5Cz), [Pablo Flores](https://open.spotify.com/artist/1zTUYXZHltJuaK4ONIzKDu) | [Don't Cry For Me Argentina](https://open.spotify.com/album/6Eaw4TN2fuJ3WVicI7Rme1) | 4:30 |
 
-Snapshot ID: `AAAAAEg9xSkXb4y3BcOQqh+3x5o2LeJ9`
+Snapshot ID: `AAAAAK3k7Hr/wfCJqOQdgEZHETe97kHk`

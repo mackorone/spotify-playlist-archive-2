@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-28",
-  "description": "lass mal den herbst romantisieren",
-  "name": "Herbst Chillout",
+  "description": "f\u00fcr ein bisschen ruhe im (schnee)sturm",
+  "name": "Winter Chillout",
   "tracks": [
     {
       "album": {
@@ -60,6 +60,24 @@
       "duration_ms": 209188,
       "name": "3 Boys",
       "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+    },
+    {
+      "album": {
+        "name": "A PLACE TO GO",
+        "url": "https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "A PLACE TO GO",
+      "url": "https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb"
     },
     {
       "album": {
@@ -298,6 +316,24 @@
       "duration_ms": 257533,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
+    },
+    {
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/6R1HT6dVZC8FhJJzcVAecR"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96273,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/40vSSsueyIgxyVe8tXWFIU"
     },
     {
       "album": {
@@ -656,7 +692,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185753,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
@@ -880,6 +916,24 @@
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv"
     },
     {
       "album": {
@@ -2227,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "Goodbye To A Lover Again",
+        "url": "https://open.spotify.com/album/3pCiut2DYa0xhcUlmlShi4"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139484,
+      "name": "Goodbye To A Lover Again",
+      "url": "https://open.spotify.com/track/4BmhjNFYM7AQPfcRKbrSfi"
+    },
+    {
+      "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
       },
@@ -2834,7 +2906,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 226147,
       "name": "I Was Stone",
       "url": "https://open.spotify.com/track/6NLpXfFn71uETTLM8aqjeB"
@@ -3253,6 +3325,32 @@
     },
     {
       "album": {
+        "name": "Leave and Stay",
+        "url": "https://open.spotify.com/album/6Lb2xJLvaCZTtK1ytzXaiU"
+      },
+      "artists": [
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        },
+        {
+          "name": "dezabel",
+          "url": "https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ"
+        },
+        {
+          "name": "Ben Botfield",
+          "url": "https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Leave and Stay",
+      "url": "https://open.spotify.com/track/3rstaBH3ZFo0hx25YjoxGg"
+    },
+    {
+      "album": {
         "name": "Lemon Blossoms",
         "url": "https://open.spotify.com/album/0e6pz5wSBxVJqPZW8OheDV"
       },
@@ -3406,7 +3504,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 207036,
       "name": "Like a Song",
       "url": "https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl"
@@ -4158,7 +4256,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 147346,
       "name": "Natural Law (ft. Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/3eFmx2swL82YxmVJaj0UvX"
@@ -5398,7 +5496,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 224840,
       "name": "Sienna",
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
@@ -5666,6 +5764,24 @@
       "duration_ms": 197528,
       "name": "some days",
       "url": "https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW"
+    },
+    {
+      "album": {
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/0hC7elFSQMXhsl4Bobt0Xp"
+      },
+      "artists": [
+        {
+          "name": "I Shiver",
+          "url": "https://open.spotify.com/artist/46vvSCXHa9SAZ71xmgneoa"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134398,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/2KsbvMhmobp2JvTkfhfTXX"
     },
     {
       "album": {
@@ -7262,7 +7378,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176495,
       "name": "when words fail",
       "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alex Fernandez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,317 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,306 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,21 +46,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 36 | [Casí 16](https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Casí 16](https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB) | 3:12 |
 | 37 | [Te Vi](https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Endeble](https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y) | 3:10 |
 | 38 | [Vives En Mí](https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Vives En Mí](https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ) | 3:30 |
-| 39 | [Por Un Mal Amor](https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Por Un Mal Amor](https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU) | 3:13 |
-| 40 | [Yo No Se Que Me Paso](https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Yo No Se Que Me Paso](https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk) | 4:48 |
+| 39 | [Yo No Se Que Me Paso](https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Yo No Se Que Me Paso](https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk) | 4:48 |
+| 40 | [Por Un Mal Amor](https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Por Un Mal Amor](https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU) | 3:13 |
 | 41 | [MIL RAZONES](https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [MIL RAZONES](https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x) | 2:56 |
 | 42 | [Así No Te Amará Jamás](https://open.spotify.com/track/6JQiAiqMI22TjqnsOmLJO1) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Así No Te Amará Jamás](https://open.spotify.com/album/5lbxQ6h0XR6mJPLE3dPAfX) | 2:57 |
 | 43 | [Cielito Lindo \- Live](https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Cielito Lindo \(Live\)](https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B) | 3:26 |
-| 44 | [Esclavo y Amo \- Live](https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esclavo y Amo \(Live\)](https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE) | 3:18 |
-| 45 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
+| 44 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
+| 45 | [Esclavo y Amo \- Live](https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esclavo y Amo \(Live\)](https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE) | 3:18 |
 | 46 | [Cuando Llegue el Día](https://open.spotify.com/track/5O60WjoCD5egvktd0FK283) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Cuando Llegue el Día](https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC) | 3:58 |
 | 47 | [No Me Amenaces \- En Vivo](https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [En Las Cantinas \(En vivo\)](https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N) | 3:16 |
 | 48 | [Se Me Va A Pasar](https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd) | 3:16 |
 | 49 | [Emilia](https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Emilia](https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz) | 3:41 |
 | 50 | [La Más Fina](https://open.spotify.com/track/3uQ3Y6adjNz3TejsibvWwA) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [La Más Fina](https://open.spotify.com/album/0zD8jsVdIqQNXC8zMobhsX) | 2:41 |
 | 51 | [Con un Polvo y Otro Polvo](https://open.spotify.com/track/5i8rqPKr4eK92GbScBVWT3) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachazo](https://open.spotify.com/album/6KoKbuvrKOwj6p2SvQUJbI) | 3:14 |
-| 52 | [Cuando Ya No Me Quieras](https://open.spotify.com/track/1iY4NtSxVzsjZzA9mMsoqS) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Jalisco](https://open.spotify.com/album/1r0B4vJsMJZO9Px4T76h8f) | 3:28 |
-| 53 | [Una Limosna](https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Una Limosna](https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN) | 2:52 |
+| 52 | [Una Limosna](https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Una Limosna](https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN) | 2:52 |
+| 53 | [Cuando Ya No Me Quieras](https://open.spotify.com/track/1iY4NtSxVzsjZzA9mMsoqS) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Jalisco](https://open.spotify.com/album/1r0B4vJsMJZO9Px4T76h8f) | 3:28 |
 | 54 | [El Adiós Ranchero](https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml) | [Briseyda Solis](https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi) | [El Adiós Ranchero](https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK) | 2:50 |
 | 55 | [¿POR QUÉ ME HACES LLORAR? \- En Vivo](https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Despecho Puro \(En Vivo\)](https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW) | 2:53 |
 | 56 | [Traigan Las Otras](https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Traigan Las Otras](https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv) | 3:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 79 | [La Noche de Mi Mal](https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD) | [Kaylanie Barrera](https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN) | [La Noche de Mi Mal \(Versión Mariachi\)](https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO) | 4:00 |
 | 80 | [Un Abrazo \- Versión Regional](https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Un Abrazo \(Versión Regional\)](https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H) | 3:58 |
 
-Snapshot ID: `AAAAAMOwc6dYCTkVBu69/K/vvU43MOKA`
+Snapshot ID: `AAAAAClYYQ8WOh9kjUC9HHI0+BJ80Z+o`

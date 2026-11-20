@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: מור
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,142 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,198 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [מחזיק לך את היד](https://open.spotify.com/track/3IQz49JrOqwhWoSF62zMgW) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [30 \- חלק א'](https://open.spotify.com/album/38fUzpmw8SyOWTIbECHEnm) | 4:07 |
 | 50 | [עץ או פלי](https://open.spotify.com/track/3LfwHSWoRPYPKEpmXlaBrX) | [התאומים](https://open.spotify.com/artist/1E9mWDvn9W3fvnIgPVrxdC) | [עץ או פלי](https://open.spotify.com/album/5Rn2Logwrorjt6FJX16K47) | 3:20 |
 
-Snapshot ID: `AAAAAN2Gh7ENNU1dS3tG8OZHa1o0/Wka`
+Snapshot ID: `AAAAAP7JN/8lyzUCt4H2PWmD1/dcZRh2`

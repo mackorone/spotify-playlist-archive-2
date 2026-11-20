@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "A Merry Monster Christmas",
+        "url": "https://open.spotify.com/album/7lZCf7GnjiJ4u9BmfpA6VJ"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176480,
+      "name": "All I Want for Christmas Is U",
+      "url": "https://open.spotify.com/track/0za4kFNgYfyF989uSaMuKK"
+    },
+    {
+      "album": {
         "name": "All I Want for Christmas Is U",
         "url": "https://open.spotify.com/album/4yyYire4GuDCT0MV5raU0U"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176480,
       "name": "All I Want for Christmas Is U",
       "url": "https://open.spotify.com/track/3b9oVdgiLNMZakSii8H4au"
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 84155,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX"
@@ -1314,6 +1332,28 @@
       "duration_ms": 124493,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/4gP2ESQlBm0drE6UUhmAr5"
+    },
+    {
+      "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/3DCmmYIAagBcZFRIc8w3u0"
+      },
+      "artists": [
+        {
+          "name": "Rubble & Crew",
+          "url": "https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai"
+        },
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33116,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/61QdAkUJEX8UwQtgXz0nJ1"
     },
     {
       "album": {
@@ -7525,6 +7565,24 @@
     },
     {
       "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/6aIUpsDNQFM7qWcfBnxoGW"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123799,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2SpDJYesIcA2xQQQ8OBrEQ"
+    },
+    {
+      "album": {
         "name": "30 Best Christmas Songs for Children",
         "url": "https://open.spotify.com/album/0CxmYny82lUsiY9BOPuDuL"
       },
@@ -7536,7 +7594,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175529,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/5oYlVyU6omFwlOR5IUi3Ba"

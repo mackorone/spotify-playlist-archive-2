@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Workout to K-Pop? Count me in! (Cover: ATEEZ) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Workout to K-Pop? Count me in! (Cover: BIGBANG) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "WOR K  OUT",
   "tracks": [
     {
@@ -480,6 +480,24 @@
       "duration_ms": 176800,
       "name": "AME GA FURU (\ube44\uac00\ub0b4\ub824) (Feat. J;KEY)",
       "url": "https://open.spotify.com/track/2CVgm1sNonfLSbW3zkgcvv"
+    },
+    {
+      "album": {
+        "name": "PERFECT STORM",
+        "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Angel Bite",
+      "url": "https://open.spotify.com/track/62pmQMfcm1leFyeKRfSaDq"
     },
     {
       "album": {
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169000,
       "name": "DAISY (H//PE P ver.) (KR ver.)",
       "url": "https://open.spotify.com/track/5U6Dnu5pH4rpGcrVKNATVd"
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190906,
       "name": "DANG DANG",
       "url": "https://open.spotify.com/track/0ZkCSH8wiHEkY7S4luv8CM"
@@ -4563,6 +4581,24 @@
     },
     {
       "album": {
+        "name": "GiiiRIP",
+        "url": "https://open.spotify.com/album/4569jF2yYaWMvXuj3dDvFD"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164145,
+      "name": "GiiiRIP",
+      "url": "https://open.spotify.com/track/4i115Ijs5MbfNBYpNsM0Sq"
+    },
+    {
+      "album": {
         "name": "the collective soul and unconscious: chapter one",
         "url": "https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw"
       },
@@ -5492,7 +5528,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163000,
       "name": "HUNTER",
       "url": "https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8"
@@ -9318,7 +9354,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "PUSH BACK",
       "url": "https://open.spotify.com/track/2oXZU3GXBaz0NAeswRNZE2"

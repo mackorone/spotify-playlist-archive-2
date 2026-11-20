@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Thodoris Ferris",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Anastasia",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -100,6 +100,28 @@
       "duration_ms": 171704,
       "name": "7/7",
       "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
+    },
+    {
+      "album": {
+        "name": "Adiorthotos",
+        "url": "https://open.spotify.com/album/3jQEtxcw4c5QmYI9kGbxyk"
+      },
+      "artists": [
+        {
+          "name": "Faye Theochari",
+          "url": "https://open.spotify.com/artist/79HZGZHerrrMToNhdAwLh9"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211025,
+      "name": "Adiorthotos",
+      "url": "https://open.spotify.com/track/7KOsX2H19jckLiiJSsQxoh"
     },
     {
       "album": {
@@ -1720,7 +1742,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190148,
       "name": "Etsi Exei Mathei",
       "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
@@ -2936,6 +2958,24 @@
       "duration_ms": 164912,
       "name": "Kontra Paidi",
       "url": "https://open.spotify.com/track/25Y7pAip2rT44HKg37z7or"
+    },
+    {
+      "album": {
+        "name": "Erotas Einai",
+        "url": "https://open.spotify.com/album/1KU8Q3knfYk9Lni62LrjZ5"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221444,
+      "name": "Kopse Me Sta Dio",
+      "url": "https://open.spotify.com/track/0KUyVQyobl1khfBp11qixe"
     },
     {
       "album": {
@@ -4542,7 +4582,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 228835,
       "name": "Perifanos Aetos",
       "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
@@ -5839,6 +5879,24 @@
     },
     {
       "album": {
+        "name": "Teleiosame Loipon",
+        "url": "https://open.spotify.com/album/7jOa45LsKKVhnuWOC7RCmU"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Livanis",
+          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213197,
+      "name": "Teleiosame Loipon",
+      "url": "https://open.spotify.com/track/4k6FKH6j5EQ9R2Q7WjTUPE"
+    },
+    {
+      "album": {
         "name": "Teleutaia Monaxia",
         "url": "https://open.spotify.com/album/0QTghhe4h081ybjWTexCvy"
       },
@@ -6190,7 +6248,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 235996,
       "name": "Thlivero Topio",
       "url": "https://open.spotify.com/track/7rmlvuyxZ3RlKrwWca3TPI"
@@ -6535,6 +6593,24 @@
     },
     {
       "album": {
+        "name": "To Tilefono Mou",
+        "url": "https://open.spotify.com/album/1sGvYn8XF4ApP32ogwva51"
+      },
+      "artists": [
+        {
+          "name": "Ilias Kampakakis",
+          "url": "https://open.spotify.com/artist/0sTPMLGBv3QdhuZQw5ZMu6"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177383,
+      "name": "To Tilefono Mou",
+      "url": "https://open.spotify.com/track/2ZgHymPMGki3kX1hnZ3Ayd"
+    },
+    {
+      "album": {
         "name": "To Trauma",
         "url": "https://open.spotify.com/album/5dCVFETBkjrWDb0mxzS8uu"
       },
@@ -6866,7 +6942,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 226987,
       "name": "Xereis Pollous?",
       "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"

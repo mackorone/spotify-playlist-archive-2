@@ -1,12 +1,12 @@
 {
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. ",
-  "num_followers": 1521042,
+  "num_followers": 1521157,
   "original_name": "Alternative 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGAtWJZty5zigBaDxeYZSpYooE4S",
+  "snapshot_id": "AAAAANfhS0RC5q7zqEM9xNbXNHgxzQvw",
   "tracks": [
     {
       "added_at": "2024-03-18 22:29:53",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Friday I'm In Love",
-      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Friday I'm In Love",
+      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Shiny Happy People",
-      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Mellow Gold",
         "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 235000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Automatic For The People",
-        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 314173,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 298466,
       "name": "Sexy Boy",
       "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 314173,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 312240,
-      "name": "A Letter To Elise",
-      "url": "https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "To Bring You My Love",
         "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 194506,
       "name": "Down By The Water",
       "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 312240,
+      "name": "A Letter To Elise",
+      "url": "https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Iceblink Luck",
-      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "loveless",
         "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 319213,
       "name": "sometimes",
       "url": "https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Iceblink Luck",
+      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
+        "name": "loveless",
+        "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 256680,
+      "name": "only shallow",
+      "url": "https://open.spotify.com/track/1KKuoYESWoUGsau6YYoEMl"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 236360,
       "name": "Let Forever Be",
       "url": "https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
-        "name": "loveless",
-        "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 256680,
-      "name": "only shallow",
-      "url": "https://open.spotify.com/track/1KKuoYESWoUGsau6YYoEMl"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
+        "name": "Lamb",
+        "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+        }
+      ],
+      "duration_ms": 390426,
+      "name": "Gorecki",
+      "url": "https://open.spotify.com/track/5VRkJsYcf9z4Wni19FxICi"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
         "name": "All Change",
         "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 259666,
       "name": "Lucky You",
       "url": "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
-        "name": "Lamb",
-        "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
-        }
-      ],
-      "duration_ms": 390426,
-      "name": "Gorecki",
-      "url": "https://open.spotify.com/track/5VRkJsYcf9z4Wni19FxICi"
     },
     {
       "added_at": "2024-03-18 22:29:53",

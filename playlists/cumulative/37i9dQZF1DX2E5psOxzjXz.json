@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Bilal Ali",
+  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Asteria",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -2480,6 +2480,28 @@
       "duration_ms": 126010,
       "name": "Down",
       "url": "https://open.spotify.com/track/1IJ5jZq2Qge2ZjBvw9ewiS"
+    },
+    {
+      "album": {
+        "name": "dream",
+        "url": "https://open.spotify.com/album/6JctirHBOzxsS1kQ4YxKZ2"
+      },
+      "artists": [
+        {
+          "name": "Maria Unera",
+          "url": "https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW"
+        },
+        {
+          "name": "Bouncy",
+          "url": "https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "dream",
+      "url": "https://open.spotify.com/track/4ScwGZLpq91ClZNI7G7Xn4"
     },
     {
       "album": {
@@ -6489,6 +6511,28 @@
     },
     {
       "album": {
+        "name": "OCTOBER",
+        "url": "https://open.spotify.com/album/4ws91CJgChmNvA2pYFZPrQ"
+      },
+      "artists": [
+        {
+          "name": "Hassaan Shaheer",
+          "url": "https://open.spotify.com/artist/6WPtkGlueETTYhoz0FSyHi"
+        },
+        {
+          "name": "Shehryar Khan",
+          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/0hJwnwsvOnOqvx3lUhO81G"
+    },
+    {
+      "album": {
         "name": "Kya Tum Wapis Aogi?",
         "url": "https://open.spotify.com/album/6bPBq9UPHr80YLBLHQy4A5"
       },
@@ -9049,6 +9093,42 @@
     },
     {
       "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/4bvmihdDeJ2mw1HaBbFoPD"
+      },
+      "artists": [
+        {
+          "name": "Nirmal Roy",
+          "url": "https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193206,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/5BYBECI7ojtc5EfGFG1jjK"
+    },
+    {
+      "album": {
+        "name": "Tara Ro Dega",
+        "url": "https://open.spotify.com/album/5Y309nFS9hYKGsWWnAnQ7R"
+      },
+      "artists": [
+        {
+          "name": "Schumaila Rehmat Hussain",
+          "url": "https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Tara Ro Dega",
+      "url": "https://open.spotify.com/track/7Ikx61vuE8hObQbwE8MF3Q"
+    },
+    {
+      "album": {
         "name": "Taranay",
         "url": "https://open.spotify.com/album/6PuDQxcgpBiErIu05qgR6V"
       },
@@ -9322,6 +9402,24 @@
       "duration_ms": 234000,
       "name": "The River",
       "url": "https://open.spotify.com/track/1bUp7N1YaBxIcZAk1VmQ0N"
+    },
+    {
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/2Da3Q2hOMJlEzAFl8JaJ1g"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/4HVl77LX9pZNZBPH0Le6EJ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239034,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/6y93nMqqW5pz8OATAA4f2C"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Jazz House](https://open.spotify.com/playlist/37i9dQZF1DX5VmfSIoGXK2)
 
-> the glorious sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond 🌞 featuring Bård Berg
+> the glorious sounds of Jazz House, from Norway, Nigeria, Argentina & beyond 🌞 featuring Bård Berg
 
-297 songs - 18 hr 38 min
+299 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dayglow](https://open.spotify.com/track/2Ks7xbQlUy63n3tsOJ9sE8) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Dayglow](https://open.spotify.com/album/2CCJa5oVUjYUm3mCewK6Mg) | 2:54 | 2026-02-06 | 2026-05-16 |
 | [Dazzlin'](https://open.spotify.com/track/7vlqmWgiOGCfeVjbwmxfy6) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi) | [Dazzlin'](https://open.spotify.com/album/1EJvVZPX2Q4E9kUj5X6ZnH) | 2:46 | 2026-06-12 |  |
 | [De Vere](https://open.spotify.com/track/5QBuldX6YpnOtKfuQPlamh) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [De Vere](https://open.spotify.com/album/0h1g063kNhrEGgIwniBBcM) | 2:27 | 2025-02-21 | 2026-05-02 |
-| [Deep Sea Marina](https://open.spotify.com/track/1Z3Kb5EQ7uMIL8gRzq5SjM) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Ltdblbl024](https://open.spotify.com/album/1xqkYF2EJYsDZOXxwoVKaQ) | 5:11 | 2026-07-31 |  |
+| [Deep Sea Marina](https://open.spotify.com/track/1Z3Kb5EQ7uMIL8gRzq5SjM) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Ltdblbl024](https://open.spotify.com/album/1xqkYF2EJYsDZOXxwoVKaQ) | 5:11 | 2026-07-31 | 2026-11-20 |
 | [Different place, same people](https://open.spotify.com/track/0i6vMyHFpLh8Az4ra1iuQM) | [Altone Dieux](https://open.spotify.com/artist/5jaLmESXLLyV6XXvGkJFNv) | [Different place, same people](https://open.spotify.com/album/1wUJpcDx6efKPrmHwYDsU6) | 2:06 | 2025-02-21 | 2025-08-30 |
 | [Disco in Doha](https://open.spotify.com/track/6HISSlYeN7ooBd1WCijmDF) | [Lamchopz](https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF) | [Disco in Doha](https://open.spotify.com/album/6kis2IuvxvdPt0jDH02Wrc) | 6:02 | 2025-03-21 | 2025-08-02 |
 | [Dogs](https://open.spotify.com/track/1rMVnYTLuvzuloRLZhRMP5) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Dogs](https://open.spotify.com/album/4Z7XkSG9UxdiQZP36qIEeg) | 2:11 | 2025-02-21 | 2026-02-07 |
@@ -118,7 +118,7 @@
 | [Horizon](https://open.spotify.com/track/26cbmyCNrPCDq1yICOXa4q) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Jorge Bezerra](https://open.spotify.com/artist/6ADTvdCjYsU2CR6GWG4PNh), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Starbase 17](https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg) | 5:35 | 2026-02-20 |  |
 | [Hotspot](https://open.spotify.com/track/1TZHxc3mBKD1DlQs0jiRFy) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Hotspot](https://open.spotify.com/album/0XRIt2aMkeOSaaVoZeEySh) | 2:46 | 2025-02-21 | 2025-07-12 |
 | [House of Jazz](https://open.spotify.com/track/3g5jybh4Flup4cyP3kBNDe) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [02 DISC](https://open.spotify.com/album/4MnEmaAZ1LPieZpzyJEvSd) | 3:40 | 2026-01-09 |  |
-| [How Am I Supposed to Feel?](https://open.spotify.com/track/2e9sOEUOPBg7rDyv4OjiF5) | [Bienk](https://open.spotify.com/artist/5knpBDWYqKF6j0pWtM2txp) | [How Am I Supposed to Feel?](https://open.spotify.com/album/4P4Qsy6xQy1WEVUsH5I3Ba) | 2:59 | 2026-09-25 |  |
+| [How Am I Supposed to Feel?](https://open.spotify.com/track/2e9sOEUOPBg7rDyv4OjiF5) | [Bienk](https://open.spotify.com/artist/5knpBDWYqKF6j0pWtM2txp) | [How Am I Supposed to Feel?](https://open.spotify.com/album/4P4Qsy6xQy1WEVUsH5I3Ba) | 2:59 | 2026-09-25 | 2026-11-20 |
 | [I Fall](https://open.spotify.com/track/39ffllrQQsR3ky4AwqOTnY) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr), [Tabeia](https://open.spotify.com/artist/6aBEJrQuxVju1RpGtaj5k7) | [I Fall](https://open.spotify.com/album/1YXxCxvgLLnejVcMXbHHup) | 2:44 | 2025-10-24 | 2025-12-20 |
 | [I Love Lucid](https://open.spotify.com/track/0VAd5XbJ8zR2YayYNdlz1w) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Jazz Is The Mattress](https://open.spotify.com/album/6ChrScnB5DfJolm2TUy4Jw) | 3:06 | 2026-07-24 |  |
 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 | 2025-02-28 | 2025-03-22 |
@@ -223,6 +223,7 @@
 | [Quali Kalimba](https://open.spotify.com/track/67Ah3dFoFunjecD6jhEXyq) | [S\-Pazz](https://open.spotify.com/artist/1ffTeCgQT9dcVyl4Cm3M0L) | [Tales of Dancing Waters](https://open.spotify.com/album/6hHIFR6sXL9TNeNr6Cxvjd) | 4:12 | 2025-02-21 | 2025-09-06 |
 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 | 2025-02-21 |  |
 | [Reach Into Your Soul](https://open.spotify.com/track/3gkM4jhqalnNnyTqZN4308) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Reach Into Your Soul](https://open.spotify.com/album/6HyBHvtA4ZLhFLceK1yIRm) | 3:34 | 2025-03-21 | 2026-04-18 |
+| [reasons](https://open.spotify.com/track/1QHFVgozmME9x044hAyOiV) | [ssimo](https://open.spotify.com/artist/4dvyzd69RNQBcalUM0BVnB), [morisan](https://open.spotify.com/artist/6kdxzZCn5NEZPWv1F6O2wa) | [reasons](https://open.spotify.com/album/2UGrFKtWhUIOHJfVg2q4yW) | 3:18 | 2026-11-20 |  |
 | [Recess Echoes](https://open.spotify.com/track/2Hao7S9oNAwXhggNplCtrI) | [gai seki](https://open.spotify.com/artist/0k0RcuWdEsMo7LoyNn1Dd9) | [Recess Echoes](https://open.spotify.com/album/7jGA8TlOYbFp09V1c83ehZ) | 3:43 | 2025-09-05 | 2025-11-16 |
 | [Remember When I Found You](https://open.spotify.com/track/4MSs9TipVz4HBRyUbJryMN) | [Altone Dieux](https://open.spotify.com/artist/5jaLmESXLLyV6XXvGkJFNv), [Omar Soliman](https://open.spotify.com/artist/6nwi8VSN9s3BwDn9rBEdGJ), [EMALU](https://open.spotify.com/artist/5f7EBtZkvqUYxAQlshT55s) | [Remember When I Found You](https://open.spotify.com/album/1EkKSB0rKEkGt4I0wNMDpY) | 3:06 | 2025-06-20 |  |
 | [rest](https://open.spotify.com/track/61EB06W5tI4TPL7qTnKYsQ) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [rest](https://open.spotify.com/album/5Oc68WoBe2ccnCpbJ1WOYy) | 4:40 | 2025-03-28 | 2026-10-30 |
@@ -277,6 +278,7 @@
 | [Tryin' Find A Way \- Club Mix](https://open.spotify.com/track/5dUMhESneKFO2owCLbVKJ8) | [Tim Deluxe](https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0) | [The Radicle \(Expanded Edition\)](https://open.spotify.com/album/0eersZ0Zl9dLM7vOIP76Ur) | 7:06 | 2025-02-21 | 2025-05-10 |
 | [TTT](https://open.spotify.com/track/6gDDaGM8zIscNdtbWESvWl) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [douniah](https://open.spotify.com/artist/0XRqsaNWIoGwotH5YZAb0y) | [TTT](https://open.spotify.com/album/1q280272UJuxhZHwk7hqEs) | 3:21 | 2025-02-21 | 2026-08-01 |
 | [under the jazz tree](https://open.spotify.com/track/2az9x3n3OdY5D2N5K6x0zY) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [under the jazz tree](https://open.spotify.com/album/5t7Rr5TVJ7L76xd8m0rCcN) | 3:13 | 2025-08-01 | 2026-04-18 |
+| [Unfolding In Motion](https://open.spotify.com/track/5TKtBXysc0Uz2whdezuHie) | [J\. Koen](https://open.spotify.com/artist/0J6pS88bfD9OL3FYOA6WA3) | [Unfolding In Motion](https://open.spotify.com/album/3bXbX4i8mPjQ09JIe18QIb) | 5:08 | 2026-11-20 |  |
 | [Uniformity](https://open.spotify.com/track/3uymbwKNDGhYixRDqwiuIK) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg), [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Uniformity](https://open.spotify.com/album/6SVlABHyASsXV4Lm56xZeH) | 2:50 | 2025-04-18 | 2025-09-27 |
 | [Unity Jazz](https://open.spotify.com/track/3ucM5eRZYNIzJTlUPI9i4T) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh) | [Don't You Dare / Unity Jazz](https://open.spotify.com/album/5PoSz4P2VT2RCHQ5eAwu3S) | 4:15 | 2025-02-21 | 2026-02-21 |
 | [Up To You](https://open.spotify.com/track/22naV1kLkISKMUDhxxHjm9) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [Up To You](https://open.spotify.com/album/0AzeZpOlv0Nfd63wnZdATv) | 3:12 | 2026-04-03 |  |

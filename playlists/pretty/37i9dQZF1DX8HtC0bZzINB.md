@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,638 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,635 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 |
-| 2 | [24/7](https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [24/7](https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY) | 3:06 |
+| 1 | [24/7](https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [24/7](https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY) | 3:06 |
+| 2 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 |
 | 3 | [Nerdesin](https://open.spotify.com/track/3PAMPpiORJKXAIxMhfDp66) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Nerdesin](https://open.spotify.com/album/7pRjDa4x9Nzr3KGXeTSGb1) | 2:56 |
 | 4 | [EVA & MIA](https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun) | [EVA & MIA](https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE) | 2:54 |
 | 5 | [nE !?](https://open.spotify.com/track/1Ma4fLShd0hpZSNH37mEkR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 1:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 49 | [PARAMPARÇA](https://open.spotify.com/track/4NA5nUTn0KM457fR9ba20A) | [Papa Benj](https://open.spotify.com/artist/6VxQOfN8SzlyH78rd7fyQB), [Oversize](https://open.spotify.com/artist/56P4MjAIYVf0ruSy9pzKLs) | [PARAMPARÇA](https://open.spotify.com/album/6s48Hfq7goYvPnRbTXSOOR) | 2:08 |
 | 50 | [Senden Vazgeçtim](https://open.spotify.com/track/3RAmJSQDSJWgrzu66Ftcrr) | [Bora](https://open.spotify.com/artist/0EJe5gUmpf6NraeLEyFF7E) | [Senden Vazgeçtim](https://open.spotify.com/album/72ulEcsqjpgL4lcGO8gnyT) | 1:50 |
 
-Snapshot ID: `AAAAAF8rwa+IIjZxYgi7ozeCeIlLiSIn`
+Snapshot ID: `AAAAAOovz4liGiX+yoD1q4Sd39mTS++i`

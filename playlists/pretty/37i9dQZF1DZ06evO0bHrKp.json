@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 216427,
+  "num_followers": 216459,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAACjoSTKNkyn/WR5yaXpEzSi",
+  "snapshot_id": "avzqgAAAAADRE7mRiCIg1MQZVZtoSupV",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 169960,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/6joQ1zE0lhx0UazVTK05Xc"
+      "duration_ms": 205933,
+      "name": "Some Say",
+      "url": "https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Some Say",
-      "url": "https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl"
+      "duration_ms": 169960,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/6joQ1zE0lhx0UazVTK05Xc"
     },
     {
       "added_at": null,
@@ -247,6 +247,22 @@
       "duration_ms": 286373,
       "name": "Walking Disaster",
       "url": "https://open.spotify.com/track/7xuhVUJmBpHR276Yc7AsgW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Noots",
+      "url": "https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp"
     },
     {
       "added_at": null,
@@ -283,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Noots",
-      "url": "https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 265786,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/0vKGvQdkbesI7RGKX3tRyk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "We're All To Blame",
+      "url": "https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "We're All To Blame",
-      "url": "https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 170200,
       "name": "Jessica Kill",
       "url": "https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/3wl4ZUBsuH7n2lsW4WjU05"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/3wl4ZUBsuH7n2lsW4WjU05"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven :x: Hell",
         "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 174334,
       "name": "Not Quite Myself",
       "url": "https://open.spotify.com/track/1N4D5MIp3v67TDRa8jJlQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "Handle This",
-      "url": "https://open.spotify.com/track/6qi4wZ9nexHsIVWFFgE3wW"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 230806,
       "name": "Turning Away",
       "url": "https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "Handle This",
+      "url": "https://open.spotify.com/track/6qi4wZ9nexHsIVWFFgE3wW"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 202071,
-      "name": "Goddamn I'm Dead Again",
-      "url": "https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Day On Earth",
         "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 138086,
       "name": "Shooting Star (feat. Sum 41)",
       "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 202071,
+      "name": "Goddamn I'm Dead Again",
+      "url": "https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-124 songs - 5 hr 41 min
+125 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3qdAy59rXgtUvZTWvm6v8d) | [The Cheerlots](https://open.spotify.com/artist/3kfyIzUTGqonAHgFFbAarY) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4MlaAjpoPEOdigaO6rXYrg) | 2:42 | 2021-12-21 | 2024-11-23 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1eQENMeGyluVA7O0ykCrBN) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Harmonious Voices: An Acapella Christmas](https://open.spotify.com/album/5pVny6olyOzXV3nA2LSs6Q) | 2:49 | 2024-11-22 |  |
 | [Holst: In the Bleak Mid\-Winter](https://open.spotify.com/track/73qlV0uB22V8FaBRJch9yj) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 4:50 | 2021-12-21 |  |
+| [Hym Worship We Now Borne so Fre](https://open.spotify.com/track/0iNX8WGQg8ADAQBHYQNgBJ) | [Piers Connor Kennedy](https://open.spotify.com/artist/6lQTJxpcfkOs1QBJvzNs3e), [The Choir Of Trinity College, Cambridge](https://open.spotify.com/artist/3x8rZy1i6FwWOWKwfRT1Ab), [Steven Grahl](https://open.spotify.com/artist/2IHSEvh2fIWiw9U0UBwHqJ) | [Song for Snow \(A Cambridge Christmas\)](https://open.spotify.com/album/3Nc2EspwJqKxPTLi9F5U1v) | 3:27 | 2026-11-20 |  |
 | [I Saw Three Ships](https://open.spotify.com/track/6Pqpq6EXZtQODRlJL3BNk3) | [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS), [Harry Christophers](https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu), [Ruth Dean](https://open.spotify.com/artist/6VWxz1oRqBLCmXnJLSifU1), [David Roy](https://open.spotify.com/artist/6jeAUEuVqgyhr6mqqBasgD) | [The Complete Traditional Christmas Carols Collection](https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2) | 1:34 | 2024-11-22 |  |
 | [I Saw Three Ships](https://open.spotify.com/track/56KH9vjFzJrlESZ8pjtdE9) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Adrian Kelly](https://open.spotify.com/artist/5qFer5YrNFu3NcbX5N27SL), [Edward Moore](https://open.spotify.com/artist/6Ycztrh5GfDYceHUto1MuC), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas Carols](https://open.spotify.com/album/2VjrGKb7neODxFYw7tSvcb) | 1:36 | 2022-12-05 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/4V5oho3T26HQ6VPAuh94gL) | [Seasonal Smoothers](https://open.spotify.com/artist/02IYD7NORepp82HZMGvo0z) | [I'll Be Home For Christmas](https://open.spotify.com/album/5ml3IWHPa2eim1Gy6AxyG3) | 2:02 | 2021-12-21 | 2025-11-29 |

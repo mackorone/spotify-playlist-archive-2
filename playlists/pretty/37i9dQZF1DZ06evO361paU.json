@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 300850,
+  "num_followers": 300879,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADL5LQw+Qkm2w7nManyNr4+",
+  "snapshot_id": "avzqgAAAAABrK6N8NiU2l9KqPYJqu33g",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chakzilla",
-        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "Bring the Party",
-      "url": "https://open.spotify.com/track/05JFUu06dB8qUkNGd1dDMv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superlove",
         "url": "https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 322514,
       "name": "Superlove",
       "url": "https://open.spotify.com/track/0kXJNqmYdjwb31QLWGkNb7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chakzilla",
+        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 237373,
+      "name": "Bring the Party",
+      "url": "https://open.spotify.com/track/05JFUu06dB8qUkNGd1dDMv"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backatown",
         "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
       },
@@ -595,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
       "artists": [
         {
@@ -604,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 156866,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
+      "duration_ms": 237466,
+      "name": "Fields Of Joy",
+      "url": "https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
       "duration_ms": 230266,
       "name": "Mr. Cab Driver",
       "url": "https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Fields Of Joy",
-      "url": "https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE"
     },
     {
       "added_at": null,

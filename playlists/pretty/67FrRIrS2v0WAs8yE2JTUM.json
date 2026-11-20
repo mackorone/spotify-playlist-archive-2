@@ -672,8 +672,16 @@
       },
       "artists": [
         {
-          "name": "Hamilton, Joe Frank & Reynolds",
-          "url": "https://open.spotify.com/artist/7vpRSadEAzLs0ikY7gAESe"
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Joe Frank",
+          "url": "https://open.spotify.com/artist/4XhH1SoXmjHPye3Ax2rbgy"
+        },
+        {
+          "name": "Reynolds",
+          "url": "https://open.spotify.com/artist/5wvbmLEn1xBIy0w8Ze2CLr"
         }
       ],
       "duration_ms": 189600,

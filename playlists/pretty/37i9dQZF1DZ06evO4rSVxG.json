@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15897,
+  "num_followers": 15899,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAACJHPyM590Nvar2TO1mpkD4",
+  "snapshot_id": "avzqgAAAAABiFHmguM6XzYuolurONP1B",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetic Justice: Music from the Motion Picture",
-        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
+        "name": "House Party II (I Don't Know What You Come To Do)",
+        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 313093,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
+      "duration_ms": 321800,
+      "name": "House Party II (I Don't Know What You Come To Do) - Radio Edit",
+      "url": "https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Party II (I Don't Know What You Come To Do)",
-        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
+        "name": "Poetic Justice: Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 321800,
-      "name": "House Party II (I Don't Know What You Come To Do) - Radio Edit",
-      "url": "https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej"
+      "duration_ms": 313093,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 188003,
+      "name": "It Feels Good",
+      "url": "https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Going Down",
         "url": "https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 177454,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 188003,
-      "name": "It Feels Good",
-      "url": "https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj"
     },
     {
       "added_at": null,

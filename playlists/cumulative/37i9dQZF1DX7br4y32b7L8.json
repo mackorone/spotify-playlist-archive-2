@@ -5280,7 +5280,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149615,
       "name": "Fashionweek",
       "url": "https://open.spotify.com/track/6g19z1S8R8jBerBFoeHxCB"
@@ -7885,6 +7885,24 @@
     },
     {
       "album": {
+        "name": "IMPULSIVE",
+        "url": "https://open.spotify.com/album/1kO4Cbjb4fLeHsUDq5PbyC"
+      },
+      "artists": [
+        {
+          "name": "Thekidszn",
+          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "IMPULSIVE",
+      "url": "https://open.spotify.com/track/4TnnvhiNjsYdcHxODzNiKA"
+    },
+    {
+      "album": {
         "name": "In De Brand (Tatu Tatu)",
         "url": "https://open.spotify.com/album/4se8SlxveYTBAAjjWRDrUK"
       },
@@ -9233,6 +9251,24 @@
     },
     {
       "album": {
+        "name": "Life Is Real",
+        "url": "https://open.spotify.com/album/6nCS6TYUDZs3TIWSYhsWiE"
+      },
+      "artists": [
+        {
+          "name": "Dj Johnny By",
+          "url": "https://open.spotify.com/artist/1jMZDK4rsZD6GIf2XNwXo7"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336495,
+      "name": "Life Is Real",
+      "url": "https://open.spotify.com/track/70Ou8rph9E3tqebWIhn8T9"
+    },
+    {
+      "album": {
         "name": "F*CK KLEINE",
         "url": "https://open.spotify.com/album/6OL2KDr0EilFLoiuOrrC4G"
       },
@@ -9770,7 +9806,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -11300,6 +11336,24 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
     },
     {
       "album": {
@@ -18114,7 +18168,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182613,
       "name": "Wat een plezier",
       "url": "https://open.spotify.com/track/0uRzSsIqtTbVAEm8xVnifw"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: SVM!R, OKI",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kizo, Avi, Oskar83",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 218470,
       "name": "AFTER",
       "url": "https://open.spotify.com/track/16yUe3nTclu9OopOkuJ06H"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 221142,
       "name": "ANDRZEJ GOATa",
       "url": "https://open.spotify.com/track/7vDOtldBigRtmfWJS5EMlC"
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154934,
       "name": "Architekci Stylu",
       "url": "https://open.spotify.com/track/3YsTzVZ6cw5eX454rj18Oz"
@@ -5308,7 +5308,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 157875,
       "name": "COLDBOY SUMMER",
       "url": "https://open.spotify.com/track/3qc3WLui9qGPwRA0QB7Hq4"
@@ -6517,6 +6517,28 @@
     },
     {
       "album": {
+        "name": "DJ FELIPE",
+        "url": "https://open.spotify.com/album/6ykWxDIn3bTjvjmmwVrmOL"
+      },
+      "artists": [
+        {
+          "name": "Jan-Rapowanie",
+          "url": "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
+        },
+        {
+          "name": "Krush Klubb",
+          "url": "https://open.spotify.com/artist/0m4g70yGyLH844N4TFHcX5"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "DJ FELIPE",
+      "url": "https://open.spotify.com/track/56djQcEkIb03CuOfvMUUux"
+    },
+    {
+      "album": {
         "name": "Dla Ciebie",
         "url": "https://open.spotify.com/album/10b9bPnr7f9jtCZs98dPMR"
       },
@@ -7347,6 +7369,24 @@
     },
     {
       "album": {
+        "name": "DYMI2",
+        "url": "https://open.spotify.com/album/2pLyBHpOMNhxhFHZWejzgH"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "DYMI2",
+      "url": "https://open.spotify.com/track/2M3CpMK4bZD3G2KuqyKweW"
+    },
+    {
+      "album": {
         "name": "Dyskoteka",
         "url": "https://open.spotify.com/album/0Um6oOHfmm82reXcT0IQtd"
       },
@@ -7548,7 +7588,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173913,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6NMJJ7JvcVwvhUac5n0fRB"
@@ -8204,6 +8244,36 @@
       "duration_ms": 206693,
       "name": "Felga",
       "url": "https://open.spotify.com/track/5WejXxDkYAb86sLa5QOg8m"
+    },
+    {
+      "album": {
+        "name": "Felga",
+        "url": "https://open.spotify.com/album/5fR1aVydbWnuhipsEfnrB8"
+      },
+      "artists": [
+        {
+          "name": "Tax Free",
+          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141923,
+      "name": "Felga",
+      "url": "https://open.spotify.com/track/3WWIDBJh6pT6GQv56QPuPb"
     },
     {
       "album": {
@@ -10291,6 +10361,36 @@
     },
     {
       "album": {
+        "name": "HOTEL PARADISE",
+        "url": "https://open.spotify.com/album/0wcOAMSbXg9b6hABoXqAxY"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "Oskar83",
+          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "HOTEL PARADISE",
+      "url": "https://open.spotify.com/track/0vsNLSmDECMRBFhPXSQ5gZ"
+    },
+    {
+      "album": {
         "name": "HOTEL ROOM",
         "url": "https://open.spotify.com/album/6eoFe9bgaH5VzvzAjnIMcV"
       },
@@ -10977,6 +11077,32 @@
     },
     {
       "album": {
+        "name": "Ja bym oszala\u0142 (znowu)",
+        "url": "https://open.spotify.com/album/1DbNKOiW2XlvmoIapZamlb"
+      },
+      "artists": [
+        {
+          "name": "Onar",
+          "url": "https://open.spotify.com/artist/0kvWmRCN4FQ1g8BLWVapv9"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Ja bym oszala\u0142 (znowu)",
+      "url": "https://open.spotify.com/track/54kYn7D0jxNGhNeSwBalJX"
+    },
+    {
+      "album": {
         "name": "Ja to wiem",
         "url": "https://open.spotify.com/album/3POJetnopvAujESY8ouHZW"
       },
@@ -11332,6 +11458,32 @@
       "duration_ms": 174795,
       "name": "JEST GIT",
       "url": "https://open.spotify.com/track/0M70EBJQB1xZ34WJfzxSGl"
+    },
+    {
+      "album": {
+        "name": "JEST OKEJ!",
+        "url": "https://open.spotify.com/album/5JL123DqOTeSah9ypTqLgl"
+      },
+      "artists": [
+        {
+          "name": "Frosti",
+          "url": "https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY"
+        },
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Blaki Selektah",
+          "url": "https://open.spotify.com/artist/6QfsOoHJR3I1itpHRHuARQ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "JEST OKEJ!",
+      "url": "https://open.spotify.com/track/27pKDA186YU3RaSvDITxNk"
     },
     {
       "album": {
@@ -15604,7 +15756,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 145945,
       "name": "Morocco",
       "url": "https://open.spotify.com/track/3Udm2Datfq4MrblAqjQseZ"
@@ -17546,7 +17698,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148571,
       "name": "Nie zrozumiesz",
       "url": "https://open.spotify.com/track/0CtOT3PpJjAkBJ6JoonOZm"
@@ -17664,6 +17816,28 @@
       "duration_ms": 237000,
       "name": "NIEKO\u0143CZ\u0104CY Z\u0141Y SEN",
       "url": "https://open.spotify.com/track/3FdtNDLwfHRaStWQzCdXsQ"
+    },
+    {
+      "album": {
+        "name": "Nienawidz\u0119 by\u0107 sob\u0105",
+        "url": "https://open.spotify.com/album/27RRn95q8j75m1ceFF5udO"
+      },
+      "artists": [
+        {
+          "name": "Sarius",
+          "url": "https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S"
+        },
+        {
+          "name": "Blaga",
+          "url": "https://open.spotify.com/artist/6p0joBE2P2Ho4dsNtFaPQF"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187190,
+      "name": "Nienawidz\u0119 by\u0107 sob\u0105",
+      "url": "https://open.spotify.com/track/6Il31hGCHyHPu90LaTzIVH"
     },
     {
       "album": {
@@ -18406,6 +18580,32 @@
       "duration_ms": 160000,
       "name": "Obudzi\u0142em si\u0119 w Bukareszcie - Def Jam World Tour",
       "url": "https://open.spotify.com/track/6pLzJmfqpaca8QGb19JZDp"
+    },
+    {
+      "album": {
+        "name": "FLAMA",
+        "url": "https://open.spotify.com/album/7rEkKlzoQfPjkuWyJVQJZv"
+      },
+      "artists": [
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Sok\u00f3\u0142",
+          "url": "https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot"
+        },
+        {
+          "name": "Joachim",
+          "url": "https://open.spotify.com/artist/1iEkwrWXBo0717WilG6skQ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167156,
+      "name": "OBY NIE",
+      "url": "https://open.spotify.com/track/0pPSpA6CZtD6uJSZvJqpJe"
     },
     {
       "album": {
@@ -19566,7 +19766,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176828,
       "name": "Paragony grozy",
       "url": "https://open.spotify.com/track/5CcPa59snGH96ap1pAyfYr"
@@ -19770,6 +19970,28 @@
       "duration_ms": 160851,
       "name": "PATOLOGIA",
       "url": "https://open.spotify.com/track/0QWc2l92ji2i4KLfwIhwPa"
+    },
+    {
+      "album": {
+        "name": "patrz mi w oczy",
+        "url": "https://open.spotify.com/album/6Xqlbu6CRPsD7wqCWfZVrB"
+      },
+      "artists": [
+        {
+          "name": "MI\u00dc",
+          "url": "https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2"
+        },
+        {
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247304,
+      "name": "patrz mi w oczy",
+      "url": "https://open.spotify.com/track/5TAKizAe7e555t0c4kYAkZ"
     },
     {
       "album": {
@@ -19984,7 +20206,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144000,
       "name": "Pesele",
       "url": "https://open.spotify.com/track/74qcYXvhFLfkKpQGZ0H3BW"
@@ -24249,6 +24471,32 @@
     },
     {
       "album": {
+        "name": "Def Jam World Tour: AMSTERDAM",
+        "url": "https://open.spotify.com/album/0E3DtyRrKkAbLoSctmQuMe"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "Polskii",
+          "url": "https://open.spotify.com/artist/3K9F67zinkRZv0KQ24v35c"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "STYL Z POLSKII",
+      "url": "https://open.spotify.com/track/3kH7loBTNAk719km36OhRg"
+    },
+    {
+      "album": {
         "name": "Styl \u017bycia Haram",
         "url": "https://open.spotify.com/album/7aHsq06oGOfVFG8yxUsT7v"
       },
@@ -26152,7 +26400,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148411,
       "name": "Uniwersytet $wagu",
       "url": "https://open.spotify.com/track/6sL6yXd6wshlNRS9slOfve"
@@ -28122,7 +28370,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 153473,
       "name": "X",
       "url": "https://open.spotify.com/track/1pdJQM6KxPK68SMAV7aTpW"
@@ -28206,6 +28454,36 @@
       "duration_ms": 170624,
       "name": "Z TY\u0141U G\u0141OWY",
       "url": "https://open.spotify.com/track/3HjRgJoHTUofNa4OJYSLur"
+    },
+    {
+      "album": {
+        "name": "ZA KA\u017bDYM RA2EM",
+        "url": "https://open.spotify.com/album/0iCigoQ7ouq3U8IqmxKmQc"
+      },
+      "artists": [
+        {
+          "name": "Young Multi",
+          "url": "https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI"
+        },
+        {
+          "name": "Jula",
+          "url": "https://open.spotify.com/artist/6ZNzdFWBlmXZ6PqHuV72bg"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "marceli",
+          "url": "https://open.spotify.com/artist/0XKfjDLjLR6qFYUiMKXpXe"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202857,
+      "name": "ZA KA\u017bDYM RA2EM",
+      "url": "https://open.spotify.com/track/4ZK57Y0nD0NFj2P8n7g2oQ"
     },
     {
       "album": {

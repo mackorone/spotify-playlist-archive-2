@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: THE TOYS
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,095 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,227 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [Faded \- Special Version](https://open.spotify.com/track/5b2OC2aaioNReqHlQs1TbR) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Faded \(Special Version\)](https://open.spotify.com/album/7J06yijTctAn2FkYe4xZOI) | 3:49 |
 | 100 | [พูดเหมือนจำ ทำเหมือนเดิม \(SAME AGAIN\)](https://open.spotify.com/track/1scf7fXKBaF1PPM3ej4sxK) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [พูดเหมือนจำ ทำเหมือนเดิม \(SAME AGAIN\)](https://open.spotify.com/album/3GNuDVcOBOMm4L6TcfaFsJ) | 3:41 |
 
-Snapshot ID: `AAAAAA5syloPzAXCGO8+c78mCi+y2KB8`
+Snapshot ID: `AAAAAMN9sMV237MqIWbMJ3NB0v6Bzqd/`

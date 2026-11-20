@@ -4,7 +4,7 @@
 
 > This is Papa Roach\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 59 min
+52 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Dead Cell](https://open.spotify.com/track/0Kd96idEL2xXYoSbuvCLfa) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:06 | 2026-09-11 |  |
 | [Dying To Believe](https://open.spotify.com/track/1ZjwhGQSDINyRhYHjK1JQq) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:01 | 2026-09-11 |  |
 | [Elevate](https://open.spotify.com/track/7eqTIIO0CB21bY0Born2hw) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb) | 3:10 | 2026-09-11 | 2026-11-12 |
-| [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 | 2026-09-11 |  |
+| [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 | 2026-09-11 | 2026-11-20 |
+| [Even If It Kills Me](https://open.spotify.com/track/6344SlEvCmROB1SrFxx1FH) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me \(Reimagined\)](https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc) | 3:32 | 2026-11-20 |  |
 | [Face Everything And Rise](https://open.spotify.com/track/5fgbIxnVT8WTL6PLmF7Aqa) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [F.E.A.R\. \(Deluxe Edition\)](https://open.spotify.com/album/0iyr32afjbf1cm82P1yi3T) | 3:10 | 2026-09-11 |  |
 | [Falling Apart](https://open.spotify.com/track/2i32TJpVNQwoOZqUataaKI) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [F.E.A.R\. \(Deluxe Edition\)](https://open.spotify.com/album/0iyr32afjbf1cm82P1yi3T) | 3:08 | 2026-09-11 |  |
 | [Feel Like Home](https://open.spotify.com/track/3pNrzf8AlfdEyOVFMObhoK) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust? \(Deluxe Version\)](https://open.spotify.com/album/0VJRBtnkvdxYK1UvXnLdUb) | 3:07 | 2026-09-11 |  |

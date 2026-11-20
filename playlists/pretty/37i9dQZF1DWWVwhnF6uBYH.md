@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 
 > ¡Alista la hielerona que nos vamos pa' las dunas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,234 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,367 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 74 | [Ay Dieguito](https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ay Dieguito](https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD) | 2:50 |
 | 75 | [El Gato Y Su Manada](https://open.spotify.com/track/0SWmdFAbhEwWF0IGmb1G7H) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [El Gato Y Su Manada](https://open.spotify.com/album/7MGqVYOksj8IiBfGaFDreQ) | 3:20 |
 | 76 | [LA FES](https://open.spotify.com/track/1whHmAa2EuUCRdfk2TkHhH) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [Las Filtradas](https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez) | 3:03 |
-| 77 | [Algobierno](https://open.spotify.com/track/0sgSnxmU3knTyciXomcyjG) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Algobierno](https://open.spotify.com/album/64nRIBsaqpvORMq4MWwMMx) | 2:04 |
-| 78 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 |
+| 77 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 |
+| 78 | [Algobierno](https://open.spotify.com/track/0sgSnxmU3knTyciXomcyjG) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Algobierno](https://open.spotify.com/album/64nRIBsaqpvORMq4MWwMMx) | 2:04 |
 | 79 | [Chambeando En Lo Verde](https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Contrato A La Vida](https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD) | 3:06 |
 | 80 | [San Lucas](https://open.spotify.com/track/0tY1AQYjy5sucb4LoZjWtP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [San Lucas](https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU) | 3:34 |
 | 81 | [Magneto](https://open.spotify.com/track/26dGMRkIM321t1meQAXlqK) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [Magneto](https://open.spotify.com/album/3LZBjdQbfBo2h4Oa1mA7HS) | 2:20 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 83 | [Promesa Cumplida](https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 5:38 |
 | 84 | [Pa la Maña](https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Pa la Maña](https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC) | 2:39 |
 | 85 | [El Gabacho](https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Gabacho](https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq) | 2:42 |
-| 86 | [Llenadera](https://open.spotify.com/track/6H2K72rU0s9fKdiQD1i2YE) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Llenadera](https://open.spotify.com/album/7bVJwGP0GxqsJqWEMqeTCF) | 2:44 |
-| 87 | [PARIENTON](https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9) | [Jonathan Caro](https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [PARIENTON](https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR) | 2:29 |
+| 86 | [PARIENTON](https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9) | [Jonathan Caro](https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [PARIENTON](https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR) | 2:29 |
+| 87 | [Llenadera](https://open.spotify.com/track/6H2K72rU0s9fKdiQD1i2YE) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Llenadera](https://open.spotify.com/album/7bVJwGP0GxqsJqWEMqeTCF) | 2:44 |
 | 88 | [F.E.D.I.](https://open.spotify.com/track/3GHBRQwJvgLrXTWFdqKmD4) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [En Vivo Desde Los Mochis](https://open.spotify.com/album/6KOcGU26kazFnMbjVmtAKH) | 3:06 |
 | 89 | [Noches de Junio](https://open.spotify.com/track/0SeeNu3S0xLViR8M4sGAOF) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza de Mi Gusto](https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj) | 2:15 |
 | 90 | [Todo Es Diferente](https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo Es Diferente](https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 99 | [Mi Princesa](https://open.spotify.com/track/6RsQABV4IRHotGGKVf2YGt) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Mi Princesa](https://open.spotify.com/album/3FvPdNZ9tqDYElBcnBvypq) | 3:22 |
 | 100 | [El Jefe de las Plazas](https://open.spotify.com/track/3CyCK4IXTHHz5ablmO72ny) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [LAS QUE SUENAN EN MI TROCA](https://open.spotify.com/album/6xdYPEZELEEsQjuXIwaShL) | 3:38 |
 
-Snapshot ID: `AAAAAMex2DCrQ2f2pvCBR6RY4dVDCiLS`
+Snapshot ID: `AAAAAG2w3RoMrYAJxMTetw+Vy/i0Y63e`

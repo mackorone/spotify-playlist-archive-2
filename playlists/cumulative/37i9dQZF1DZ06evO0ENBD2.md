@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-191 songs - 12 hr 28 min
+192 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 | 2022-09-17 | 2026-07-25 |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 | 2025-03-27 | 2026-05-11 |
 | [Don't Stop Me Now \- …revisited](https://open.spotify.com/track/62PDM93qqC4xSfQMV48MRF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW) | 3:37 | 2025-03-27 | 2026-05-11 |
-| [Don't Try Suicide](https://open.spotify.com/track/4Fh9yqhihSjribDyjOV6n7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:52 | 2026-07-24 |  |
+| [Don't Try Suicide](https://open.spotify.com/track/4Fh9yqhihSjribDyjOV6n7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:52 | 2026-07-24 | 2026-11-20 |
 | [Don't Try Suicide \- Remastered 2011](https://open.spotify.com/track/0V7AVcMTaQqLKzxVloxWHj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:52 | 2022-12-20 | 2026-07-24 |
 | [Don't Try Suicide \- Remastered 2011](https://open.spotify.com/track/5BsfxG08SKbFzEhv2UXuiW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:52 | 2025-03-27 | 2026-05-11 |
 | [Dreamer's Ball \- Remastered 2011](https://open.spotify.com/track/0TpWjIOuNMnpuRjriPbGiF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:30 | 2026-07-23 | 2026-07-25 |
@@ -150,6 +150,7 @@
 | [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/1v870eS7JuHSeBNBFsVz3b) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:13 | 2025-03-27 | 2025-12-08 |
 | [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:13 | 2022-09-22 | 2025-12-13 |
 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 | 2025-12-13 | 2026-01-15 |
+| [Thank God It's Christmas..\. Again! \- Radio Edit](https://open.spotify.com/track/5AFPpQ03x63NKgIcFuE95r) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Thank God It's Christmas..\. Again!](https://open.spotify.com/album/5uVEnSIzW6j6u4BOgRQcLs) | 4:08 | 2026-11-20 |  |
 | [The Invisible Man](https://open.spotify.com/track/770LXTeLm1POb8SLYkXSAa) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/4Ck0kT7cw6fXjFVBL3DODw) | 4:02 | 2026-07-24 |  |
 | [The Invisible Man \- Remastered 2011](https://open.spotify.com/track/0h15VlXIzD1MwKwNi12ois) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Deluxe Remastered Version\)](https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs) | 3:57 | 2025-04-27 | 2026-05-11 |
 | [The Invisible Man \- Remastered 2011](https://open.spotify.com/track/6VoiY3rukFPoqzP4AoGPU8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(2011 Remaster\)](https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V) | 3:57 | 2022-09-17 | 2026-07-24 |

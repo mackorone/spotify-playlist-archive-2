@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,839 songs - 6 day 20 hr 56 min
+2,842 songs - 6 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Amanecer](https://open.spotify.com/track/2mbpjOVwM7dDfukfXmLjEI) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Tocar la lluvia](https://open.spotify.com/album/1YPCa52lWFtLNr16GgANuh) | 2:24 | 2026-04-12 |  |
 | [AMANECER](https://open.spotify.com/track/05ODtVUKZfu2IHGi650JlW) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [GOLDENSHADE](https://open.spotify.com/album/6BRnUAnUIw3LFyX2Tvbdt5) | 4:10 | 2025-11-13 |  |
 | [Amanti](https://open.spotify.com/track/36iNyLpvDTVTyCwmGbrYyb) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 4:02 | 2023-03-15 |  |
+| [Amarillo](https://open.spotify.com/track/0quRZRcOMKLnaZA9HpjMTa) | [Verspa](https://open.spotify.com/artist/1w1ksZJz8ZCEsul0Ihyofh) | [Amarillo](https://open.spotify.com/album/5uAjLGI3jTfjKR4MOBDkE5) | 5:38 | 2026-11-19 |  |
 | [Amaroamore](https://open.spotify.com/track/20UByvlBMgIzh1O3zp7q06) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:09 | 2023-03-15 |  |
 | [Amazing Grace](https://open.spotify.com/track/7DMN9a9pZJcICweBSl06ju) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Amazing Grace](https://open.spotify.com/album/0ODgdlMkCcL7lQJ4qkoYw5) | 2:17 | 2026-02-06 |  |
 | [Ambrosial Dub](https://open.spotify.com/track/3h1tKtycPT0j7NKOpr08vn) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 4:41 | 2026-10-23 |  |
@@ -385,6 +386,7 @@
 | [Carnival And Cotton Candy](https://open.spotify.com/track/1EQjrvlBYVfBFZqo5t6T4p) | [Liisa Pentti](https://open.spotify.com/artist/7o3YN0mGGbr0DKjMZBfEta) | [Carnival And Cotton Candy](https://open.spotify.com/album/4CYTU3PNZPHgt8s7xGZaxT) | 3:16 | 2025-08-11 |  |
 | [Carnival Dub](https://open.spotify.com/track/7aEQzimZylddMGhIbyEMU0) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 3:53 | 2024-03-25 |  |
 | [Carnival Steppa](https://open.spotify.com/track/7qhBgqcdglTK6ng8HGX7fn) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 5:42 | 2024-03-25 |  |
+| [Carol of the Bells Line Dance](https://open.spotify.com/track/5DktCdbLlOKrMUrcyFTI2G) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Carol of the Bells Line Dance](https://open.spotify.com/album/5O4bqkwB9dzNu7gPHTTNzG) | 2:36 | 2026-11-19 |  |
 | [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 | 2026-06-02 |  |
 | [Carosello](https://open.spotify.com/track/6kmlwM94J4MmnBEgAH3Oeb) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Carosello](https://open.spotify.com/album/0nlIJ1YO4UbYIYl5mNe1gp) | 3:35 | 2025-05-06 |  |
 | [Casa de Memorias](https://open.spotify.com/track/6tlzr7RsVd6vGGPEAlxPNS) | [Amanda Mendonça](https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm) | [Casa de Memorias](https://open.spotify.com/album/7LEcUT8sQ7Mi7qG0zMsJvR) | 4:12 | 2026-03-24 |  |
@@ -469,6 +471,7 @@
 | [Comprami](https://open.spotify.com/track/3VFrU5sKogsD5maX32joUB) | [Viola Valentino](https://open.spotify.com/artist/7y7fXMf0viI4KxjcPQaNSR) | [Le Piu' Belle Canzoni](https://open.spotify.com/album/1Qs8YugU5h9roi5CAdfpiP) | 3:56 | 2023-06-23 |  |
 | [Comprami](https://open.spotify.com/track/7K7iBR3rCpmBn4TFmhjnQ9) | [Viola Valentino](https://open.spotify.com/artist/7y7fXMf0viI4KxjcPQaNSR) | [Le più belle canzoni di Viola Valentino](https://open.spotify.com/album/1KaQSQBPIROovZ9DEYqnoP) | 3:57 | 2023-06-23 |  |
 | [Con una canción](https://open.spotify.com/track/4Mae7fvEGHqnXpDL3LVOAr) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 2:15 | 2026-04-12 |  |
+| [Con Verte Respirar](https://open.spotify.com/track/2ccBrBtatFgwNMYtWdr0lv) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Con Verte Respirar](https://open.spotify.com/album/5KgeSSnJwBTAkF2PQTnCxP) | 3:50 | 2026-11-20 |  |
 | [condena por ti](https://open.spotify.com/track/57lczXSmu43affSCBw33m7) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [condena por ti](https://open.spotify.com/album/0FB7sw5FbuhA3HwpjAe8Xq) | 3:04 | 2026-03-12 |  |
 | [Confessions \(Everything\)](https://open.spotify.com/track/76aFw99H01hPXzeFWwTOr5) | [Nosie Katzmann](https://open.spotify.com/artist/7BrkzGmCl8LM18udHQihhn), [Maria Blatz](https://open.spotify.com/artist/3ykTHboOuDmAKdOzwLSds0) | [Confessions \(Everything\)](https://open.spotify.com/album/2dOigKRlAdSsQt9yDbjJEP) | 2:34 | 2025-11-15 |  |
 | [Confusion](https://open.spotify.com/track/5RcXrzmZ2dbmwu1xxctC3B) | [Foad Jafari](https://open.spotify.com/artist/0bD1tTxPLVkAFvaHliwAnk) | [Confusion](https://open.spotify.com/album/6QNUAr2NGrwAuq65CPUmuj) | 2:27 | 2025-11-03 |  |

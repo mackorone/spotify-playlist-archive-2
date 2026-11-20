@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: King Melrose",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Alexandre Poulin",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 384040,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ"
@@ -696,6 +696,24 @@
       "duration_ms": 178806,
       "name": "Ballon-sonde",
       "url": "https://open.spotify.com/track/699SpD5VkpC4PKGgnvK13g"
+    },
+    {
+      "album": {
+        "name": "VINNI",
+        "url": "https://open.spotify.com/album/3lvPjun7l4iUK7vvRDeX2w"
+      },
+      "artists": [
+        {
+          "name": "Vinni Payne",
+          "url": "https://open.spotify.com/artist/0RACPsCniRLw69idP2ps59"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153668,
+      "name": "Bar d'\u00e0 c\u00f4t\u00e9",
+      "url": "https://open.spotify.com/track/7dcUMU65oxPdqS6UEyKR9T"
     },
     {
       "album": {
@@ -1196,6 +1214,24 @@
       "duration_ms": 245000,
       "name": "Can't Find Your Way Out",
       "url": "https://open.spotify.com/track/2fTtf4EOutQ7p5Lddqfr9a"
+    },
+    {
+      "album": {
+        "name": "Canari",
+        "url": "https://open.spotify.com/album/6wfp6blDhzkdOgUdoCLMdZ"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Poulin",
+          "url": "https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210865,
+      "name": "Canari",
+      "url": "https://open.spotify.com/track/7kKov71AzQjYiDRbTYpiFw"
     },
     {
       "album": {
@@ -3056,7 +3092,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 132370,
       "name": "Exit",
       "url": "https://open.spotify.com/track/6VkIn85vLcKt68HNSjzgFb"
@@ -3640,7 +3676,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 241781,
       "name": "Gu\u00e9rir les murs",
       "url": "https://open.spotify.com/track/2Ze68jGXk2L4MwY3up97cJ"
@@ -6921,6 +6957,24 @@
     },
     {
       "album": {
+        "name": "Marjo",
+        "url": "https://open.spotify.com/album/5Fnt2C1fitEhpDNu5wFgan"
+      },
+      "artists": [
+        {
+          "name": "Maxim Doucet",
+          "url": "https://open.spotify.com/artist/3XunCmNgElPX9MoEoOMKnp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170863,
+      "name": "Marjo",
+      "url": "https://open.spotify.com/track/3KanXxphNvIHpN34uaksmS"
+    },
+    {
+      "album": {
         "name": "Bill aux \u00eeles (Live)",
         "url": "https://open.spotify.com/album/0QL3yfcfLcrQRl4mI4T9Fu"
       },
@@ -10154,7 +10208,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 259677,
       "name": "Simone",
       "url": "https://open.spotify.com/track/4sfvgy564LS75DJBKDvZwP"
@@ -10673,6 +10727,24 @@
     },
     {
       "album": {
+        "name": "Tante Didi",
+        "url": "https://open.spotify.com/album/45getNtwLj2SzXDtW8aiwa"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "Tante Didi",
+      "url": "https://open.spotify.com/track/4YFoRKGUpU65S72Vc429xy"
+    },
+    {
+      "album": {
         "name": "Soleil m\u00e2ch\u00e9 (Deluxe)",
         "url": "https://open.spotify.com/album/7IGfOCio5mpupVMo6isDVp"
       },
@@ -10688,7 +10760,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 248586,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/1PNaCwrKIBqjaK5FR2NnUJ"
@@ -11104,6 +11176,24 @@
       "duration_ms": 209982,
       "name": "Tous ces doutes",
       "url": "https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y"
+    },
+    {
+      "album": {
+        "name": "Tout ce que j'ai",
+        "url": "https://open.spotify.com/album/1xuOl7OQ2Tn0KceLvRSerk"
+      },
+      "artists": [
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88800,
+      "name": "Tout ce que j'ai",
+      "url": "https://open.spotify.com/track/0MK0vOVKpBs4gdRuU69jKa"
     },
     {
       "album": {

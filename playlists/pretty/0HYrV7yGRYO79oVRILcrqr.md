@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,994 likes - 229 songs - 14 hr 24 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,997 likes - 234 songs - 14 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,5 +237,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 227 | [Legacy](https://open.spotify.com/track/3bV9CSt3icMdmTcReRJ5ZY) | [Larry Read](https://open.spotify.com/artist/5mBDsF7X25Gcd4AEBKI7Qk) | [Legacy](https://open.spotify.com/album/3lkSY6GAeZJRjCutg306k8) | 3:44 |
 | 228 | [Welcome to My City](https://open.spotify.com/track/3wBZKau5aaDLttKXMSnnZC) | [Tony Z](https://open.spotify.com/artist/44OiXiN2wAuOyUcC4pKJv3) | [Welcome to My City](https://open.spotify.com/album/5JUBn93wyBqH0X99WYNvQe) | 3:57 |
 | 229 | [LONGER](https://open.spotify.com/track/0FG3QSysPCDH2r4GY4wCTS) | [Nash / Russell](https://open.spotify.com/artist/7vd8lBK1CIwSTDmcQTzKfq) | [LONGER](https://open.spotify.com/album/2o8B8SEzSH8BAbmNO93wA6) | 3:00 |
+| 230 | [My Heart May Slumber](https://open.spotify.com/track/1w3RJfp1wHFN6pXur5QetN) | [Krumbukten](https://open.spotify.com/artist/5KOArh0yGsMaPLGiBgcNem) | [My Heart May Slumber](https://open.spotify.com/album/5KWLtqAuvkWI3DG8u90Zcp) | 5:50 |
+| 231 | [American Dream](https://open.spotify.com/track/0YoYJTs1QDakYt7jActa2g) | [Russ Steele](https://open.spotify.com/artist/1h4xvziBZeyIfnc1fBG41H) | [American Dream](https://open.spotify.com/album/4YNuzqQQKKDJnTKIAYgm3L) | 3:35 |
+| 232 | [Through the Night](https://open.spotify.com/track/4mBry47NgsmKSU37gf7Ffa) | [Hour Late](https://open.spotify.com/artist/161Hbf5DhRgfJwXCGhCtlg) | [Nostalgia](https://open.spotify.com/album/5A9BrjfJosvN2NL0p4zgQk) | 3:41 |
+| 233 | [Shackles](https://open.spotify.com/track/01LuaGp6XUWPsIbraFsR6t) | [LOOM!](https://open.spotify.com/artist/4m7b8YVJXc2RlWkuJ58BEY) | [Shackles](https://open.spotify.com/album/73PVMXyu3piQxijYuGiVjH) | 4:03 |
+| 234 | [Situations](https://open.spotify.com/track/2SL0bS7rRP7XX77Ckykyum) | [One Good Reason](https://open.spotify.com/artist/4o1P5bTNq3RldWq7BHnfWK) | [Stories from a Small Town](https://open.spotify.com/album/6G1nRP5vmm32S5OmEC4V6I) | 3:02 |
 
-Snapshot ID: `AAANEryqiCBgeuY80/BD2D0YuvBSEMtl`
+Snapshot ID: `AAANF3t7fHJBDTAkrCiw+OMYvlZ39jvS`

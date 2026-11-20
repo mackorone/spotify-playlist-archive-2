@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: sunwoojunga\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,421 songs - 3 day 14 hr 11 min
+1,422 songs - 3 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,6 +929,7 @@
 | [Po.Ong \(feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/5H14NYlM5sV4FTL2NHzych) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [Kim Min Seok of MeloMance](https://open.spotify.com/artist/65a7h2pva5HZy6aZA9bvdW) | [Po.Ong \(Hug\)](https://open.spotify.com/album/0F6Yr8EQDnuHn19ZcTMcqj) | 3:47 | 2024-04-30 | 2024-05-10 |
 | [POKZOOK TIME](https://open.spotify.com/track/7ok3LoeV3VwL4PKU24bMpv) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:18 | 2024-07-03 | 2024-08-06 |
 | [Polaroid](https://open.spotify.com/track/6YBDV5AmmLRWQjpBFdgDyk) | [Shin Onyu](https://open.spotify.com/artist/3dSchlsDeFd5mEw4RoAMOx), [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N), [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [Smallserenity vol.4](https://open.spotify.com/album/1Zo2SzC4yykRYitcvcrZez) | 3:03 | 2025-08-21 | 2025-09-23 |
+| [Polaroid](https://open.spotify.com/track/55iomGptxGNCATEVvwqKB5) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Cute & Anxiety](https://open.spotify.com/album/4iz6A2tTDUz4qExXlaGYfd) | 2:32 | 2026-11-20 |  |
 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 | 2022-07-08 | 2022-07-12 |
 | [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 | 2023-07-05 | 2025-05-29 |
 | [Potential](https://open.spotify.com/track/6Lrp4HqonE16Tt8PDeOHbY) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Potential](https://open.spotify.com/album/1aF1e7wcTDiADgCGe6trPg) | 3:08 | 2022-06-20 | 2022-06-30 |
@@ -1302,7 +1303,7 @@
 | [What can I do](https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [What can I do](https://open.spotify.com/album/4eV349LplmfXn5COoDAriG) | 3:27 | 2022-04-12 | 2024-05-01 |
 | [What can I do? That′s what my heart says](https://open.spotify.com/track/4P5PXEIBfApVbnDvypi0Li) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [My blue wavy room](https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr) | 4:30 | 2025-10-29 | 2025-11-18 |
 | [What Can I Say? \(Feat\. SHIRT, g0nny\)](https://open.spotify.com/track/35LCy2za77nFY0kIXrSJsd) | [SOQI](https://open.spotify.com/artist/2zvEoTxRST15pPUcMVWw0K), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [What Can I Say? \(Feat\. SHIRT, g0nny\)](https://open.spotify.com/album/6SoRYuB2wOtpPaqPTjKjCq) | 3:22 | 2024-02-07 | 2024-05-10 |
-| [What Do I Steal?](https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 4:35 | 2026-07-03 |  |
+| [What Do I Steal?](https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 4:35 | 2026-07-03 | 2026-11-20 |
 | [What do we do next \(Feat\. CHOIYUDAM\)](https://open.spotify.com/track/1NNRpc0ZK1TX5ovkOE49BU) | [Mozzy](https://open.spotify.com/artist/0Tmqntchso1zF9rXtsZMay), [CHOIYUDAM](https://open.spotify.com/artist/5ZxJkaRLQ6nN49PpNNxpbQ) | [What do we do next](https://open.spotify.com/album/4NIXk1vnsfL469poN2WxMl) | 2:36 | 2025-11-05 | 2026-01-06 |
 | [What I want to say](https://open.spotify.com/track/5rYOrzOU6QD9YNVaj6QwXc) | [KwangHeum2](https://open.spotify.com/artist/7GGbVd8pHCXvacJDpnCp0m) | [What I want to say](https://open.spotify.com/album/41B5Kyknp4q8z8EuO9ruv1) | 4:41 | 2022-03-31 | 2022-04-16 |
 | [What shall I do?](https://open.spotify.com/track/61ji5EjeyFDm9U1oeTGmcD) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 3:22 | 2024-10-04 | 2024-10-16 |

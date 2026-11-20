@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Mauvais djo",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Rema",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -4983,6 +4983,24 @@
     },
     {
       "album": {
+        "name": "FAST LIFE",
+        "url": "https://open.spotify.com/album/6veJjIj238yfsTg137hv4C"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "Dedans",
+      "url": "https://open.spotify.com/track/76afFB8dlUYFhW1INRfi01"
+    },
+    {
+      "album": {
         "name": "No Sign of Weakness",
         "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
       },
@@ -5708,7 +5726,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148444,
       "name": "Dorotine",
       "url": "https://open.spotify.com/track/2jwkkiu6kaTLmVFUWeHnQt"
@@ -6972,6 +6990,28 @@
       "duration_ms": 154512,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "album": {
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229757,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW"
     },
     {
       "album": {
@@ -8981,6 +9021,32 @@
     },
     {
       "album": {
+        "name": "INFERNO",
+        "url": "https://open.spotify.com/album/4oVtp47IW7IyevJL95hdf8"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/3FCIOA44iYIDsjDNeXthc1"
+    },
+    {
+      "album": {
         "name": "Innocent (feat. Fireboy DML)",
         "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
       },
@@ -10328,7 +10394,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 165784,
       "name": "La tip\u00e8re",
       "url": "https://open.spotify.com/track/63JDKTI5MdjUVsqaJ7Rd5O"
@@ -12286,7 +12352,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 132833,
       "name": "MISS DES MISS",
       "url": "https://open.spotify.com/track/76z3Qyexa0tKqqDnSbqmQw"
@@ -17048,7 +17114,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
@@ -18370,6 +18436,24 @@
       "duration_ms": 142973,
       "name": "Tcheba",
       "url": "https://open.spotify.com/track/2J809vMntHAebkUfvRY7AK"
+    },
+    {
+      "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139290,
+      "name": "Tchiki",
+      "url": "https://open.spotify.com/track/4aWNY7a5Zi25pZ18Nm1R30"
     },
     {
       "album": {

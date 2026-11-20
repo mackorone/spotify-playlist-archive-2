@@ -2,9 +2,9 @@
 
 ### [CantoVision](https://open.spotify.com/playlist/37i9dQZF1DWW6TogMpx8Q2)
 
-> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Vincy 蘇詠淳
+> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: MC張天賦
 
-218 songs - 13 hr 38 min
+219 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [無膽匪類](https://open.spotify.com/track/1CUNuItJ9W782QUHDGAW1O) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [無膽匪類](https://open.spotify.com/album/35Pk4Fyff8LLdPY8Bq563J) | 3:19 | 2025-08-13 | 2026-09-11 |
 | [無題時想起的人](https://open.spotify.com/track/1TX8zAgh8PqCgnNxKGxBKU) | [Phil Lam](https://open.spotify.com/artist/2pYLo2RugZpdhYRub5nKcV) | [無題時想起的人](https://open.spotify.com/album/4cRvQPbDo7wp2AQSnh9aoe) | 3:39 | 2025-08-13 | 2026-09-11 |
 | [特務占士匡 Mad World](https://open.spotify.com/track/10Aoi1ETfryNh5JuwslwDG) | [Phil Lam](https://open.spotify.com/artist/2pYLo2RugZpdhYRub5nKcV) | [特務占士匡 Mad World](https://open.spotify.com/album/2fRf6ubalICtwEKoPkJaRD) | 3:36 | 2026-06-18 |  |
+| [用武之地](https://open.spotify.com/track/0Cmjwr3UJ6yJnsQ1Df5fhk) | [FYP](https://open.spotify.com/artist/4p0rkZqkBevR2hDsNmOLRM) | [用武之地](https://open.spotify.com/album/6lggdYW766WprkQrhNkV00) | 4:01 | 2026-11-20 |  |
 | [用背脊唱情歌](https://open.spotify.com/track/1jQp4mCBDmXr8NMqsMpH8E) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [用背脊唱情歌](https://open.spotify.com/album/65RVRNqYKdkqVJOUOtAtF8) | 3:30 | 2025-08-13 | 2026-11-13 |
 | [男人怎可以](https://open.spotify.com/track/7M0ZCvE0HcikCJUy4cTsAF) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [男人怎可以](https://open.spotify.com/album/7L7mQJGSbFFu9HEwHiQ1os) | 4:16 | 2026-07-09 |  |
 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 | 2022-07-07 | 2025-08-14 |

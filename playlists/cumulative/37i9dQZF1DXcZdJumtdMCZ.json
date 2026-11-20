@@ -801,6 +801,28 @@
     },
     {
       "album": {
+        "name": "Bam Bhole",
+        "url": "https://open.spotify.com/album/3rjaB72OungLxTwzkMin3r"
+      },
+      "artists": [
+        {
+          "name": "San T",
+          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
+        },
+        {
+          "name": "Santhosh K",
+          "url": "https://open.spotify.com/artist/5ktKVo62LFwGOGXgBtVYLc"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Bam Bhole",
+      "url": "https://open.spotify.com/track/0KB4VbNjI5F4q7wreeEI7H"
+    },
+    {
+      "album": {
         "name": "Bangoma",
         "url": "https://open.spotify.com/album/2HcXRfcsvwne1GQeSIIeTV"
       },
@@ -1650,6 +1672,40 @@
       "duration_ms": 163669,
       "name": "Chitti Dance Showcase",
       "url": "https://open.spotify.com/track/1NCzEc6oyDEWa6p3U78yMY"
+    },
+    {
+      "album": {
+        "name": "Cinderella Gana",
+        "url": "https://open.spotify.com/album/6r1pWCZVvpMB5e8gMqG1oY"
+      },
+      "artists": [
+        {
+          "name": "Kelithee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        },
+        {
+          "name": "Gana Nithish",
+          "url": "https://open.spotify.com/artist/1zA9Pbr3uILKGMB911LE2y"
+        },
+        {
+          "name": "Gana Mani",
+          "url": "https://open.spotify.com/artist/4qzPzxh5OORai1gdxT3D69"
+        },
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/43M5wDi4xILft8YdCadr9e"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Cinderella Gana",
+      "url": "https://open.spotify.com/track/25lOsDDFTAHi21OLRuwcR2"
     },
     {
       "album": {
@@ -9336,6 +9392,28 @@
       "duration_ms": 75000,
       "name": "Vinayagane",
       "url": "https://open.spotify.com/track/6wmdzlkYB7gJHTI2GGvYBj"
+    },
+    {
+      "album": {
+        "name": "Thee Kural - Episode 2",
+        "url": "https://open.spotify.com/album/6H3jy13KwOHLvc6Lf6DRJk"
+      },
+      "artists": [
+        {
+          "name": "Laxxi",
+          "url": "https://open.spotify.com/artist/4kCsvYAKq9XmAMvYR3WtUL"
+        },
+        {
+          "name": "Aj Vozy",
+          "url": "https://open.spotify.com/artist/0xrfm1dvYqNva7MliM4EW1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202034,
+      "name": "Viral Virumaandi - From \"Thee Kural - Episode 2\"",
+      "url": "https://open.spotify.com/track/1hmL2YrLUmgzRXmU6UO2Gu"
     },
     {
       "album": {

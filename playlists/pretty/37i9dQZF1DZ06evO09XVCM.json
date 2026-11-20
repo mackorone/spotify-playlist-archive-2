@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 35518,
+  "num_followers": 35520,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAByjtxTABXcoE2H6iHydj8E",
+  "snapshot_id": "avzqgAAAAAAdoXEWWzUyDZY3P6KTQZzO",
   "tracks": [
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "RUSL",
-          "url": "https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA"
-        }
-      ],
-      "duration_ms": 188668,
-      "name": "Sunshine (feat. RUSL) - RUSL Remix",
-      "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
         "url": "https://open.spotify.com/album/2uKjJJ1dRu5ovo9PajxnPf"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 270386,
       "name": "Iron Lion Zion (feat. Ziggy Marley & ChocQuibTown)",
       "url": "https://open.spotify.com/track/1sCfYZLKuW5OJ5AZQxIgj8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "RUSL",
+          "url": "https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA"
+        }
+      ],
+      "duration_ms": 188668,
+      "name": "Sunshine (feat. RUSL) - RUSL Remix",
+      "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
     },
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "dellali",
+        "url": "https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m"
+      },
+      "artists": [
+        {
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 235306,
+      "name": "Madanite",
+      "url": "https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumbiana",
         "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 228450,
       "name": "El Hilo",
       "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "dellali",
-        "url": "https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m"
-      },
-      "artists": [
-        {
-          "name": "Cheb Mami",
-          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 235306,
-      "name": "Madanite",
-      "url": "https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lucky One",
-        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 219072,
-      "name": "The Lucky One",
-      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
+      "duration_ms": 206013,
+      "name": "Rebellion Rises",
+      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+        "name": "The Lucky One",
+        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 206013,
-      "name": "Rebellion Rises",
-      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
+      "duration_ms": 219072,
+      "name": "The Lucky One",
+      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
     },
     {
       "added_at": null,
@@ -815,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/22S3dCzawszcDDCoL3mx1K"
       },
       "artists": [
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 225595,
-      "name": "There's A Reward",
-      "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
+      "duration_ms": 238265,
+      "name": "See Dem Fake Leaders",
+      "url": "https://open.spotify.com/track/5kWQVIgRKikp6OgPnGS8Yj"
     },
     {
       "added_at": null,
@@ -855,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/22S3dCzawszcDDCoL3mx1K"
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
       },
       "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 238265,
-      "name": "See Dem Fake Leaders",
-      "url": "https://open.spotify.com/track/5kWQVIgRKikp6OgPnGS8Yj"
+      "duration_ms": 225595,
+      "name": "There's A Reward",
+      "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
     },
     {
       "added_at": null,

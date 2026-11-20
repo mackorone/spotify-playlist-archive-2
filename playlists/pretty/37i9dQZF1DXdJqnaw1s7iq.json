@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 73328,
+  "num_followers": 73347,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPYHWcw6xXTmUs6jeGoe6Z7Eo+qx",
+  "snapshot_id": "AAAAAFk0FJ8tUNfQzNjm5sta2ZOhc59I",
   "tracks": [
     {
       "added_at": "2025-08-22 17:54:07",
@@ -427,18 +427,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Nine Types of Light",
-        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
+        "name": "Want You In My Soul",
+        "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
       },
       "artists": [
         {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
         }
       ],
-      "duration_ms": 224986,
-      "name": "Will Do",
-      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
+      "duration_ms": 497521,
+      "name": "Want You In My Soul",
+      "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -463,54 +467,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Want You In My Soul",
-        "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
+        "name": "Nine Types of Light",
+        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
       },
       "artists": [
         {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        },
-        {
-          "name": "Stee Downes",
-          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
         }
       ],
-      "duration_ms": 497521,
-      "name": "Want You In My Soul",
-      "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Kiasmos",
-        "url": "https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        }
-      ],
-      "duration_ms": 360705,
-      "name": "Looped",
-      "url": "https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "In A Space Outta Sound",
-        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 324173,
-      "name": "Flip Ya Lid",
-      "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
+      "duration_ms": 224986,
+      "name": "Will Do",
+      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -531,6 +499,38 @@
       "duration_ms": 307400,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 324173,
+      "name": "Flip Ya Lid",
+      "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Kiasmos",
+        "url": "https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        }
+      ],
+      "duration_ms": 360705,
+      "name": "Looped",
+      "url": "https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "ACT ONE",
-        "url": "https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        }
-      ],
-      "duration_ms": 197773,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 150226,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "ACT ONE",
+        "url": "https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "duration_ms": 197773,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "Kingdoms In Colour",
         "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 250398,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/46SpOq8ojlVUBrgGnUzUlV"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Odyssey / Sonne",
-        "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 290201,
-      "name": "Recovery",
-      "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Sound of Silver",
         "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 431520,
       "name": "Get Innocuous!",
       "url": "https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Odyssey / Sonne",
+        "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 290201,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "See Mystery Lights: Remixes & B-Sides",
         "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 251380,
       "name": "Psychic City - Classixx Remix",
       "url": "https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "obedear",
-      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "99 Cents",
         "url": "https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 195333,
       "name": "Chasing Shadows",
       "url": "https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "James Blake",
-        "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 273840,
-      "name": "The Wilhelm Scream",
-      "url": "https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 218146,
       "name": "Pharaohs",
       "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "James Blake",
+        "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 273840,
+      "name": "The Wilhelm Scream",
+      "url": "https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "All In All",
+        "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 468113,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "We're New Here",
         "url": "https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 282906,
       "name": "I'll Take Care of U",
       "url": "https://open.spotify.com/track/3uFVyg61HeKCMbL5N6LuSA"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "All In All",
-        "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 468113,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Seconds",
-        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
-      },
-      "artists": [
-        {
-          "name": "Ghost Loft",
-          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
-        }
-      ],
-      "duration_ms": 172496,
-      "name": "Seconds",
-      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "French Kiwi Juice",
         "url": "https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 235000,
       "name": "Go Back Home",
       "url": "https://open.spotify.com/track/3KrTlYioYhUIvd8IoptcTN"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Seconds",
+        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
+      },
+      "artists": [
+        {
+          "name": "Ghost Loft",
+          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
+        }
+      ],
+      "duration_ms": 172496,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 344158,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Escapism",
         "url": "https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 219474,
       "name": "LONG DISTANCE",
       "url": "https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 344158,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
     },
     {
       "added_at": "2025-08-22 17:54:07",

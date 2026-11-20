@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 749700,
+  "num_followers": 749843,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP8ZQKGVwXAzxAHCW6zWn7ghhvif",
+  "snapshot_id": "AAAAAM+n1bWWAzxzoAmWTJGd/MzYZWOF",
   "tracks": [
     {
       "added_at": "2026-11-06 10:21:02",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
+        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
+        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
+      },
+      "artists": [
+        {
+          "name": "Jacintha",
+          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Here's to Life",
+      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
         "name": "LIVING ROOM 2",
         "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
-        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
-      },
-      "artists": [
-        {
-          "name": "Jacintha",
-          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Here's to Life",
-      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "I Love A Love Song!",
         "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 221832,
       "name": "I've Drawn Your Face",
       "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
-        "name": "Make this moment",
-        "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
-      },
-      "artists": [
-        {
-          "name": "Inger Marie Gundersen",
-          "url": "https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq"
-        }
-      ],
-      "duration_ms": 287613,
-      "name": "Will you still love me tomorrow",
-      "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -463,18 +447,18 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Mother and Brother",
-        "url": "https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o"
+        "name": "Make this moment",
+        "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
       },
       "artists": [
         {
-          "name": "Jeff Cascaro",
-          "url": "https://open.spotify.com/artist/7oGP1dZ6BymT9wrPFbuS8v"
+          "name": "Inger Marie Gundersen",
+          "url": "https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq"
         }
       ],
-      "duration_ms": 219773,
-      "name": "The Sun Is Shining for Our Love",
-      "url": "https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ"
+      "duration_ms": 287613,
+      "name": "Will you still love me tomorrow",
+      "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -491,6 +475,22 @@
       "duration_ms": 212426,
       "name": "Some Kind Of Wonderful",
       "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Mother and Brother",
+        "url": "https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o"
+      },
+      "artists": [
+        {
+          "name": "Jeff Cascaro",
+          "url": "https://open.spotify.com/artist/7oGP1dZ6BymT9wrPFbuS8v"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "The Sun Is Shining for Our Love",
+      "url": "https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
-      },
-      "artists": [
-        {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Be Still My Heart",
-      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Bells On Sand",
         "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Lips Can Lie",
-        "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
         }
       ],
-      "duration_ms": 229596,
-      "name": "Lips Can Lie",
-      "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
+      "duration_ms": 299213,
+      "name": "Be Still My Heart",
+      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -943,6 +927,22 @@
       "duration_ms": 245148,
       "name": "The Sound of Music",
       "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Lips Can Lie",
+        "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 229596,
+      "name": "Lips Can Lie",
+      "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1135,34 +1135,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Eternal Beauty",
-        "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        },
-        {
-          "name": "Johan Norberg",
-          "url": "https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr"
-        },
-        {
-          "name": "Michael Wollny",
-          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
-        },
-        {
-          "name": "Rasmus Kihlberg",
-          "url": "https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR"
-        }
-      ],
-      "duration_ms": 171306,
-      "name": "Love of My Life",
-      "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Lumi\u00e9re",
         "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
       },
@@ -1203,18 +1175,30 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Old Cape Cod",
-        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+        "name": "Eternal Beauty",
+        "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
       "artists": [
         {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Johan Norberg",
+          "url": "https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr"
+        },
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        },
+        {
+          "name": "Rasmus Kihlberg",
+          "url": "https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR"
         }
       ],
-      "duration_ms": 209043,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+      "duration_ms": 171306,
+      "name": "Love of My Life",
+      "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1231,6 +1215,22 @@
       "duration_ms": 233848,
       "name": "Castles in the Air",
       "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Old Cape Cod",
+        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 209043,
+      "name": "Old Cape Cod",
+      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Make It Another Old Fashioned, Please",
-        "url": "https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "Make It Another Old Fashioned, Please",
-      "url": "https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Lonely House",
         "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 211664,
       "name": "There's a Lull in My Life",
       "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Make It Another Old Fashioned, Please",
+        "url": "https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Make It Another Old Fashioned, Please",
+      "url": "https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Over the Rainbow",
         "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 251103,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Nice Girls Don't Stay for Breakfast",
-        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 217507,
-      "name": "Nice Girls Don't Stay for Breakfast",
-      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Misty Blue",
         "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 320100,
       "name": "You're Mine, You (feat. Benny Benack III)",
       "url": "https://open.spotify.com/track/5yLgk5IBFonUyOUuFoBY16"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Nice Girls Don't Stay for Breakfast",
+        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 217507,
+      "name": "Nice Girls Don't Stay for Breakfast",
+      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
+        "name": "Mr Bojangles",
+        "url": "https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g"
+      },
+      "artists": [
+        {
+          "name": "Kareen Guiock-Thuram",
+          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
+        }
+      ],
+      "duration_ms": 283413,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
         "name": "It's Oh So Quiet",
         "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 228174,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
-        "name": "Mr Bojangles",
-        "url": "https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g"
-      },
-      "artists": [
-        {
-          "name": "Kareen Guiock-Thuram",
-          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
-        }
-      ],
-      "duration_ms": 283413,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        }
-      ],
-      "duration_ms": 260377,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "Dreamers Ball",
         "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 283960,
       "name": "Dreamers Ball",
       "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        }
+      ],
+      "duration_ms": 260377,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
     },
     {
       "added_at": "2026-11-06 10:21:02",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-11-06 10:21:02",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7"
-      },
-      "artists": [
-        {
-          "name": "Alex Baird",
-          "url": "https://open.spotify.com/artist/1rosAujh5WdTHfT3eLlaUX"
-        }
-      ],
-      "duration_ms": 348013,
-      "name": "All I Needed",
-      "url": "https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00"
-    },
-    {
-      "added_at": "2026-11-06 10:21:02",
-      "album": {
         "name": "I Only Have Eyes For You",
         "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 250745,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo"
+    },
+    {
+      "added_at": "2026-11-06 10:21:02",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7"
+      },
+      "artists": [
+        {
+          "name": "Alex Baird",
+          "url": "https://open.spotify.com/artist/1rosAujh5WdTHfT3eLlaUX"
+        }
+      ],
+      "duration_ms": 348013,
+      "name": "All I Needed",
+      "url": "https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00"
     },
     {
       "added_at": "2026-11-06 10:21:02",

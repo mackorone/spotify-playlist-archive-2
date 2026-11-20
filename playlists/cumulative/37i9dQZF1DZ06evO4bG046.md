@@ -4,7 +4,7 @@
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-141 songs - 12 hr 33 min
+142 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Cancion De Los Pajaros](https://open.spotify.com/track/5Ho0q4gNqUU9XHHzgfm76O) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:14 | 2022-09-21 | 2024-03-01 |
 | [Cancion Del Sur](https://open.spotify.com/track/4k6kn9cd0X3KZmEgtUZy4Z) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción Del Sur](https://open.spotify.com/album/29x6mW5LiAnilLaiqfXtEu) | 7:41 | 2026-11-17 |  |
 | [Canción del Sur](https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 7:41 | 2022-09-16 | 2026-11-17 |
-| [Canción para los Pájaros](https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 3:25 | 2022-09-30 |  |
+| [Canción Para Los Pájaros](https://open.spotify.com/track/6T4FKfFIomCmOIjR49xJEJ) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción Del Sur](https://open.spotify.com/album/29x6mW5LiAnilLaiqfXtEu) | 3:25 | 2026-11-20 |  |
+| [Canción para los Pájaros](https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 3:25 | 2022-09-30 | 2026-11-20 |
 | [Cerro de la Virgen](https://open.spotify.com/track/0CuG0Bt2h6mrmAggYbYdAT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2) | 6:55 | 2025-11-27 |  |
 | [Cerro de la Virgen](https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 6:55 | 2022-09-16 | 2025-11-27 |
 | [Cholito Pantalón Blanco](https://open.spotify.com/track/20SP3B4f0aXF4MVVsFAtty) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 5:02 | 2025-11-30 |  |

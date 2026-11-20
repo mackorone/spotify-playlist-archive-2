@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6765\u65e5\u5e0c\u671b\uff01\u30e9\u30a4\u30d6\u3067\u89b3\u305f\u3044\u6ce8\u76ee\u306e\u6d77\u5916\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Internet Girl",
+  "description": "\u6765\u65e5\u5e0c\u671b\uff01\u30e9\u30a4\u30d6\u3067\u89b3\u305f\u3044\u6ce8\u76ee\u306e\u6d77\u5916\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Erika de Casier",
   "name": "The WISHLIST",
   "tracks": [
     {
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 250049,
       "name": "blue",
       "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
@@ -1790,6 +1790,24 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "album": {
+        "name": "boyfriends",
+        "url": "https://open.spotify.com/album/5TMJVe6xJud5XUlOWNNA5y"
+      },
+      "artists": [
+        {
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190219,
+      "name": "boyfriends",
+      "url": "https://open.spotify.com/track/3Rql7fsNvv4susYQtvNYXW"
     },
     {
       "album": {
@@ -2512,7 +2530,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 210665,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
@@ -3392,7 +3410,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -3750,7 +3768,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -6833,6 +6851,24 @@
     },
     {
       "album": {
+        "name": "Hound",
+        "url": "https://open.spotify.com/album/3IMaSJPDmxhDDNWPPSh0Il"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281786,
+      "name": "Hound",
+      "url": "https://open.spotify.com/track/5iBrFAs9no7GJJmKtIUrUr"
+    },
+    {
+      "album": {
         "name": "Housewife",
         "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
       },
@@ -7514,7 +7550,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
@@ -8204,6 +8240,24 @@
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
+    },
+    {
+      "album": {
+        "name": "\u7231",
+        "url": "https://open.spotify.com/album/2Y8q8UKpgrmPGV8mFchvIj"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "KILLING GOD WITH COMPUTERS",
+      "url": "https://open.spotify.com/track/45wasIhGDIplDfMXXAaiEJ"
     },
     {
       "album": {
@@ -8934,7 +8988,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 254614,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
@@ -9403,6 +9457,24 @@
     },
     {
       "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162918,
+      "name": "Mama!",
+      "url": "https://open.spotify.com/track/6dLKFSdxcmYCl1Qeb97RGO"
+    },
+    {
+      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
@@ -9414,7 +9486,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -13248,7 +13320,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169981,
       "name": "SMALL TOWN",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
@@ -15857,6 +15929,24 @@
     },
     {
       "album": {
+        "name": "underneath",
+        "url": "https://open.spotify.com/album/3Ef5QxE08ZcBYp7ruQDAhU"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209058,
+      "name": "underneath",
+      "url": "https://open.spotify.com/track/17fYcNeZOig9908CA4paoO"
+    },
+    {
+      "album": {
         "name": "undressed",
         "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
       },
@@ -16758,6 +16848,24 @@
       "duration_ms": 194000,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
+    },
+    {
+      "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/5Mo6eSAVWITxgvIjfAeLF7"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224800,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/4JQbBJYPjnQjqmTeuNb4VK"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Santi",
+  "description": "From the trenches. Through the streets.\nCover: Shoday",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 146129,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 136000,
       "name": "Bullion Van",
       "url": "https://open.spotify.com/track/3fwtpRJTP34iZCGHtP8v63"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156610,
       "name": "CA$H OUT",
       "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 167527,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD"
@@ -4954,7 +4954,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 170823,
       "name": "Hello",
       "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 139285,
       "name": "Ijoba",
       "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
@@ -5600,7 +5600,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156696,
       "name": "Iskolodo",
       "url": "https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av"
@@ -8026,7 +8026,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148000,
       "name": "Omo Ologo",
       "url": "https://open.spotify.com/track/5UziHRcYKB8foeAnfqy8sC"
@@ -8180,7 +8180,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 167787,
       "name": "Orindowo",
       "url": "https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D"
@@ -9718,7 +9718,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 128048,
       "name": "Siesta (feat. Mavo)",
       "url": "https://open.spotify.com/track/6jz3wcx4mpdL8pcKmOV4kn"
@@ -10954,7 +10954,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 134237,
       "name": "WhatsApp",
       "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
@@ -10980,6 +10980,24 @@
       "duration_ms": 159346,
       "name": "Where I\u2019m from",
       "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
+    },
+    {
+      "album": {
+        "name": "WHITE LAMBO",
+        "url": "https://open.spotify.com/album/3FaUK0uSyAxqfdfW26VuZv"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "WHITE LAMBO",
+      "url": "https://open.spotify.com/track/1tTWlIdLDCWepo55CRkU0w"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: CC:DISCO!",
+  "description": "A new world of alternative electronic music. Cover: William Kiss",
   "name": "Portal",
   "tracks": [
     {
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 229107,
       "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
       "url": "https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3"
@@ -4166,7 +4166,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 260851,
       "name": "Charger",
       "url": "https://open.spotify.com/track/32AkYmvP99jGqd5SfblUYD"
@@ -6186,7 +6186,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 229484,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/0Ct9VBzh0DOFM33b1QNbsb"
@@ -7480,6 +7480,28 @@
       "duration_ms": 288087,
       "name": "Fembot Fashion",
       "url": "https://open.spotify.com/track/1iWfrT2k3jOcsa1yoRuOPB"
+    },
+    {
+      "album": {
+        "name": "FENIAN (Kelly Lee Owens Remix)",
+        "url": "https://open.spotify.com/album/60grdchXScXK66zWuIOKZl"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263767,
+      "name": "FENIAN - Kelly Lee Owens Remix",
+      "url": "https://open.spotify.com/track/3tluYXdw0zK3VAaXXH1jwD"
     },
     {
       "album": {
@@ -9147,6 +9169,24 @@
     },
     {
       "album": {
+        "name": "Hadron",
+        "url": "https://open.spotify.com/album/29NbHLN1TXrKo0JncQHvqq"
+      },
+      "artists": [
+        {
+          "name": "Pugilist",
+          "url": "https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274702,
+      "name": "Hadron",
+      "url": "https://open.spotify.com/track/7ohztHH0Mv5UOT5CIw2Bv5"
+    },
+    {
+      "album": {
         "name": "Half Alive",
         "url": "https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY"
       },
@@ -9420,7 +9460,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 304487,
       "name": "Heat - Extended Mix",
       "url": "https://open.spotify.com/track/4zm5Qzdu21lOOhsHuBRvkn"
@@ -11224,7 +11264,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 339754,
       "name": "Just 4 You",
       "url": "https://open.spotify.com/track/3swfdrsZzZelOWGmj7XPt7"
@@ -11542,6 +11582,24 @@
       "duration_ms": 271633,
       "name": "L.F.O.",
       "url": "https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K"
+    },
+    {
+      "album": {
+        "name": "La Verit\u00e0",
+        "url": "https://open.spotify.com/album/01JO46MqQMmIJaicogF4KO"
+      },
+      "artists": [
+        {
+          "name": "GiGi FM",
+          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322285,
+      "name": "La Verit\u00e0",
+      "url": "https://open.spotify.com/track/2bDpDQzvShknCkH6GxhFx3"
     },
     {
       "album": {
@@ -13292,7 +13350,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 193766,
       "name": "Mi Fai Sorridere",
       "url": "https://open.spotify.com/track/1KJyysoVBls4pz3IBmReT4"
@@ -13420,6 +13478,28 @@
       "duration_ms": 379286,
       "name": "Mind Reader",
       "url": "https://open.spotify.com/track/5ot7fwHAE8j6gvS6eAIBRr"
+    },
+    {
+      "album": {
+        "name": "Miniskrrrt",
+        "url": "https://open.spotify.com/album/3czlMLU2nETzjhjYyeT5oG"
+      },
+      "artists": [
+        {
+          "name": "Facta",
+          "url": "https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn"
+        },
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257473,
+      "name": "Miniskrrrt",
+      "url": "https://open.spotify.com/track/2nus1r7FfuRJ3upn95Jia3"
     },
     {
       "album": {
@@ -14414,7 +14494,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 234509,
       "name": "No Other",
       "url": "https://open.spotify.com/track/5ESpt1NYPAmdGyaamYo32v"
@@ -16264,6 +16344,32 @@
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "album": {
+        "name": "qu\u00e9 les pas\u00f3 a mis amigos?",
+        "url": "https://open.spotify.com/album/68gsAe1eEPk4qKeqdHXp8U"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        },
+        {
+          "name": "Loidis",
+          "url": "https://open.spotify.com/artist/2TDYu0uxVowgHaYN6P14k2"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527610,
+      "name": "qu\u00e9 les pas\u00f3 a mis amigos? - Loidis Reconfiguration",
+      "url": "https://open.spotify.com/track/74CHGhbouRpYXHMzCGUQ5t"
     },
     {
       "album": {
@@ -18756,6 +18862,24 @@
       "duration_ms": 126311,
       "name": "Stick Em Up",
       "url": "https://open.spotify.com/track/5VVAxypWN32ntmotudWks2"
+    },
+    {
+      "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/5vy9xoWx6WES5lPeKodKRs"
+      },
+      "artists": [
+        {
+          "name": "William Kiss",
+          "url": "https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355533,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/2P6ghWEBLjN7B9x1AfEdNO"
     },
     {
       "album": {
@@ -21598,6 +21722,28 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "volc5",
+        "url": "https://open.spotify.com/album/2yqPRWnIDJJnOyhmDaEvTx"
+      },
+      "artists": [
+        {
+          "name": "George Daniel",
+          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
+        },
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250299,
+      "name": "volc5",
+      "url": "https://open.spotify.com/track/1DfZAGuuHvsBTSQ85jKRiE"
     },
     {
       "album": {

@@ -417,6 +417,28 @@
     },
     {
       "album": {
+        "name": "About To Go Down",
+        "url": "https://open.spotify.com/album/38lTTPvjLiqOAteI6qiqdg"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Lemtom",
+          "url": "https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230443,
+      "name": "About To Go Down",
+      "url": "https://open.spotify.com/track/5t8vXd0wAZJZAADeEsnki1"
+    },
+    {
+      "album": {
         "name": "Do That EP",
         "url": "https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa"
       },
@@ -4406,7 +4428,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149124,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/2kO43PPPdnH4rm1HyISvTc"
@@ -6408,7 +6430,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 246113,
       "name": "Deejay",
       "url": "https://open.spotify.com/track/4Sk2H29XVt3ixGlMrkeJ5c"
@@ -9188,6 +9210,24 @@
       "duration_ms": 206412,
       "name": "Feel The Funk",
       "url": "https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE"
+    },
+    {
+      "album": {
+        "name": "Feel The Power",
+        "url": "https://open.spotify.com/album/4K7tlWAzJ5HlwwJ6ytoXkU"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Feel The Power",
+      "url": "https://open.spotify.com/track/15H4AkVcMFNG5CFTjxwIB2"
     },
     {
       "album": {
@@ -12888,7 +12928,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 151153,
       "name": "I Can Make You (Feel Good)",
       "url": "https://open.spotify.com/track/4fSpdl5JM3CCMt9v8SJUCu"
@@ -13472,6 +13512,24 @@
       "duration_ms": 190258,
       "name": "I'm Watching You (So Many Times)",
       "url": "https://open.spotify.com/track/6KzhSkI5PAP0F2qL8ASGlP"
+    },
+    {
+      "album": {
+        "name": "I'm With The DJ",
+        "url": "https://open.spotify.com/album/2L7i6lShvJvbKxKhFvDQ1B"
+      },
+      "artists": [
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165803,
+      "name": "I'm With The DJ",
+      "url": "https://open.spotify.com/track/3szTJayEUMqFvtqxsDa3n1"
     },
     {
       "album": {
@@ -14938,7 +14996,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184615,
       "name": "Keep On Dancin'",
       "url": "https://open.spotify.com/track/3GhKGZx0lO5cONH6ViQnsv"
@@ -16504,7 +16562,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 199626,
       "name": "Little More (Body Action)",
       "url": "https://open.spotify.com/track/7MMBk3p5G0SyPiNiUDgjPD"
@@ -19961,6 +20019,28 @@
     },
     {
       "album": {
+        "name": "No Trouble",
+        "url": "https://open.spotify.com/album/61rDSQTjNPJmUYpZp95qio"
+      },
+      "artists": [
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        },
+        {
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153774,
+      "name": "No Trouble",
+      "url": "https://open.spotify.com/track/2rsUCYFI4MhZqVYL1b61vy"
+    },
+    {
+      "album": {
         "name": "Northern Rhythm",
         "url": "https://open.spotify.com/album/2YXgma0zulEI2l8BGlfCZe"
       },
@@ -21146,7 +21226,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 193295,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/3s4aNrXadRhmxaXum4yKrr"
@@ -22037,6 +22117,32 @@
     },
     {
       "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/08UUNBzSbmrxH6m4FuEeGu"
+      },
+      "artists": [
+        {
+          "name": "Jaden Thompson",
+          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202559,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/624l2EfYCGPJzV6Kn3oWKH"
+    },
+    {
+      "album": {
         "name": "Personal Computer",
         "url": "https://open.spotify.com/album/55btzGszh3ier8ObjHVrSO"
       },
@@ -22906,7 +23012,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203636,
       "name": "Pushin' On - Radio Edit",
       "url": "https://open.spotify.com/track/6Ew3KMWtyrCD8glkQLf4M5"
@@ -23565,6 +23671,28 @@
     },
     {
       "album": {
+        "name": "Active Scenes Vol Two",
+        "url": "https://open.spotify.com/album/2V43SKIz1MBMOE1KSWNKFp"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201793,
+      "name": "Rhythm is Dope",
+      "url": "https://open.spotify.com/track/4yN5sB5yztWCeSc6WqGP4Z"
+    },
+    {
+      "album": {
         "name": "Rhythm Of The House",
         "url": "https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp"
       },
@@ -24112,6 +24240,28 @@
       "duration_ms": 420847,
       "name": "Roskill",
       "url": "https://open.spotify.com/track/0SaXnvFBhh9xbSH68xUxli"
+    },
+    {
+      "album": {
+        "name": "Rule Number 1",
+        "url": "https://open.spotify.com/album/26D8BP64QXkvXel5mZGeN6"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        },
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207297,
+      "name": "Rule Number 1",
+      "url": "https://open.spotify.com/track/4i6bM25r13Dd24kBaijT3y"
     },
     {
       "album": {
@@ -26312,6 +26462,28 @@
       "duration_ms": 175475,
       "name": "Spotlight (feat. Sarah Ikumu)",
       "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
+    },
+    {
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/2J3svKCPco2BguxX0bmtcU"
+      },
+      "artists": [
+        {
+          "name": "Buogo",
+          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
+        },
+        {
+          "name": "Mood Child",
+          "url": "https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232824,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/0KoiyGYxIfj60hIlucLYJT"
     },
     {
       "album": {
@@ -32432,7 +32604,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172258,
       "name": "Wow - Edit",
       "url": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4"
@@ -32838,6 +33010,24 @@
       "duration_ms": 187142,
       "name": "You Take Me Higher",
       "url": "https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4"
+    },
+    {
+      "album": {
+        "name": "SHAKIN",
+        "url": "https://open.spotify.com/album/6cfNutfi7WpnxRV7sr6xdl"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224887,
+      "name": "You Want Me",
+      "url": "https://open.spotify.com/track/2C9nxyC6JnvQeTUtpHjtnV"
     },
     {
       "album": {

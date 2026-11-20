@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,012 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,015 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Some \(feat\. Lil Boi\)](https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Some](https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6) | 3:31 |
 | 2 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 |
-| 3 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
-| 4 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
+| 3 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
+| 4 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
 | 5 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
 | 6 | [1000](https://open.spotify.com/track/4fqWeOA8LcipNx6NOlFqtM) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 2:51 |
 | 7 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 13 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
 | 14 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
 | 15 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNGHANBIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 |
-| 16 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
-| 17 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
+| 16 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
+| 17 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
 | 18 | [May I Love You?](https://open.spotify.com/track/3yByTfbbmapjLSzGUw6S67) | [UMJI](https://open.spotify.com/artist/2yExPRQtV9wSUqASXj9q1e) | [Lovely Runner, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX) | 3:18 |
 | 19 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
 | 20 | [monodrama \(feat\. KURO\)](https://open.spotify.com/track/7Fyj1PrZfWjbm1qlVu5aM9) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [monodrama \(feat\. KURO\)](https://open.spotify.com/album/6m0ImyuGH2zCmlpJy7PpZB) | 2:53 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 22 | [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 |
 | 23 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
 | 24 | [Love Smile](https://open.spotify.com/track/0RMzZqob3KiT07CXv6Mtmu) | [YUNAH](https://open.spotify.com/artist/0PjmP9xV64eWTo5d5tXxB2), [MINJU](https://open.spotify.com/artist/7lhiEEAGZosFSF2tlSBBKO) | [Love Smile \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/0jEAsckPwsD1k926YW12Oe) | 2:49 |
-| 25 | [45.7cm \(feat.OOHYO\)](https://open.spotify.com/track/4h2fsF8dnXtqx4SNsF15KW) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf), [WOOHYO](https://open.spotify.com/artist/6jFvKvItiwnMx2nG3y1Hx9) | [Pit a Pat](https://open.spotify.com/album/2exNFaprmfRUKVofd0PNR4) | 3:32 |
-| 26 | [Question Marks \(Feat\. Paul Kim\)](https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 2:46 |
+| 25 | [Question Marks \(Feat\. Paul Kim\)](https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 2:46 |
+| 26 | [45.7cm \(feat.OOHYO\)](https://open.spotify.com/track/4h2fsF8dnXtqx4SNsF15KW) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf), [WOOHYO](https://open.spotify.com/artist/6jFvKvItiwnMx2nG3y1Hx9) | [Pit a Pat](https://open.spotify.com/album/2exNFaprmfRUKVofd0PNR4) | 3:32 |
 | 27 | [Imagine](https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 2:55 |
 | 28 | [juicy](https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:20 |
 | 29 | [Wanna Love You](https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Wanna Love You](https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf) | 3:40 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 47 | [Fall In Love](https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Fall In Love](https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90) | 3:22 |
 | 48 | [Raindrop](https://open.spotify.com/track/249anPnRxbDIAERScEBEkK) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Raindrop](https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct) | 2:50 |
 | 49 | [Would You Hold My Hand?](https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Would You Hold My Hand?](https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd) | 2:46 |
-| 50 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
+| 50 | [Reaching](https://open.spotify.com/track/3YigBhekrP5JPrU9Ahpr2a) | [MINHYUK \(MONSTA X\)](https://open.spotify.com/artist/1lnrTVtTQtQS77320ZmX5V) | [Reaching](https://open.spotify.com/album/7bnEpJb2YFnRwWZ5fwmgOl) | 3:19 |
 
-Snapshot ID: `AAAAAPStiOwYjWME9dk7DvDFCI5e27my`
+Snapshot ID: `AAAAAKwaTCWoguNI9yugOgRDliFzF3ED`

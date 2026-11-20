@@ -1,38 +1,34 @@
 {
   "description": "A new take on a classic sound. Cover: The Womack Sisters",
-  "num_followers": 408510,
+  "num_followers": 408559,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADUPqab243hdu6cB2yMH6ac2O8lI",
+  "snapshot_id": "AAAAAP+2MosuQmM4jmvWVoF6E3urC7+r",
   "tracks": [
     {
-      "added_at": "2026-10-16 04:00:20",
+      "added_at": "2026-11-20 05:00:37",
       "album": {
-        "name": "Sweet",
-        "url": "https://open.spotify.com/album/5aslOdgTszd8bhYQ69lrdW"
+        "name": "Bright",
+        "url": "https://open.spotify.com/album/3VUaV3SlhB9V8nLmtSl3aO"
       },
       "artists": [
         {
           "name": "Otis Kane",
           "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        },
-        {
-          "name": "The Dreamers",
-          "url": "https://open.spotify.com/artist/5Mv7KECpdKCLVQcTfbTjT4"
         }
       ],
-      "duration_ms": 188220,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/3XU7fEXHM6EhAmMuf81ac0"
+      "duration_ms": 223342,
+      "name": "Bright",
+      "url": "https://open.spotify.com/track/6SJRoVRLo2NT5v5swEZSrO"
     },
     {
-      "added_at": "2026-10-16 04:00:20",
+      "added_at": "2026-11-20 05:00:37",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/5djeKb5t284cLlN8RkJwgA"
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/6BUXIfTq3qyrMxaHvAYwDf"
       },
       "artists": [
         {
@@ -40,9 +36,25 @@
           "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
         }
       ],
-      "duration_ms": 273421,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/7n2XAtVvXhn11drWv84vyQ"
+      "duration_ms": 224787,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/1ntAtLzZqgzCDuvkS0yzTO"
+    },
+    {
+      "added_at": "2026-11-20 05:00:37",
+      "album": {
+        "name": "Life's a Gas",
+        "url": "https://open.spotify.com/album/59Mg3BeSe0plX6X1Q6GxvD"
+      },
+      "artists": [
+        {
+          "name": "Joey Dosik",
+          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
+        }
+      ],
+      "duration_ms": 182558,
+      "name": "Life's a Gas",
+      "url": "https://open.spotify.com/track/31bR41TL7ISMtXM8lshVcK"
     },
     {
       "added_at": "2026-11-06 05:00:15",
@@ -1663,22 +1675,6 @@
       "duration_ms": 200303,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys"
-    },
-    {
-      "added_at": "2025-01-03 05:00:20",
-      "album": {
-        "name": "Heal Me Good",
-        "url": "https://open.spotify.com/album/6DjI2Od6U3WvvRmpD7gsiH"
-      },
-      "artists": [
-        {
-          "name": "Yufu",
-          "url": "https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "Heal Me Good",
-      "url": "https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U"
     },
     {
       "added_at": "2025-01-24 05:00:28",

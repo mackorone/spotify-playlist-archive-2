@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Zuchu",
+  "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Dayoo",
   "name": "Singeli Sounds",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137806,
       "name": "GUGO",
       "url": "https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5"
@@ -1620,6 +1620,24 @@
       "duration_ms": 227692,
       "name": "Mama Yangu",
       "url": "https://open.spotify.com/track/3TCC9MfUM5BbV1l1LMNrJW"
+    },
+    {
+      "album": {
+        "name": "MAMBO BYEE",
+        "url": "https://open.spotify.com/album/3bV8ENKUbqCHzsSj7Q80ou"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120772,
+      "name": "MAMBO BYEE",
+      "url": "https://open.spotify.com/track/27GNVj48PLGnAPIPqFWsXH"
     },
     {
       "album": {
@@ -2711,6 +2729,32 @@
     },
     {
       "album": {
+        "name": "Penzi Jipya II (Remix)",
+        "url": "https://open.spotify.com/album/5PW44DpAfU9CSzBn6ZSxhe"
+      },
+      "artists": [
+        {
+          "name": "Dayoo",
+          "url": "https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc"
+        },
+        {
+          "name": "Mucky Talent",
+          "url": "https://open.spotify.com/artist/4iw7PHolGD8Q1qBRZAbt8c"
+        },
+        {
+          "name": "Sunny Voice",
+          "url": "https://open.spotify.com/artist/0yjM1exOVVVBtB22338kAB"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238366,
+      "name": "Penzi Jipya II - Remix",
+      "url": "https://open.spotify.com/track/0EfBBdtCG1vA1AM1Itge4O"
+    },
+    {
+      "album": {
         "name": "Pisi",
         "url": "https://open.spotify.com/album/3JPjYrhhQPdx30W3bgvAFq"
       },
@@ -2880,7 +2924,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195080,
       "name": "Shemeji",
       "url": "https://open.spotify.com/track/5nFg4Fk4GtDV9N7cjUN6A6"

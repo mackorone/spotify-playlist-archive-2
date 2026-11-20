@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
+  "description": "Hip hop and rap music from Nigeria. Cover: Zaylevelten",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -6036,7 +6036,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174117,
       "name": "FLAKO",
       "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
@@ -6830,6 +6830,24 @@
       "duration_ms": 159183,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4yl8E3WBL0TdCxhwPyytgI"
+    },
+    {
+      "album": {
+        "name": "Guap Up",
+        "url": "https://open.spotify.com/album/1fY6UUarOPDDZLDQiWtXXg"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Guap Up",
+      "url": "https://open.spotify.com/track/7ioZ1rjKynldZlKl1vwH4p"
     },
     {
       "album": {

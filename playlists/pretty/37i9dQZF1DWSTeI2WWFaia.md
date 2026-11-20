@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Anderson .Paak & Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546,634 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,497 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Lemon Pepper Steppers](https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 2:46 |
 | 50 | [Community \(with Clipse, Pusha T & Malice\)](https://open.spotify.com/track/3LXxHFZWt6OHdBsgucSIjJ) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 4:25 |
 
-Snapshot ID: `AAAAAHg/Qv8PsyMJi82GNMnmlF9F4oPt`
+Snapshot ID: `AAAAAD++djcUoQ+rx7hrzAfMiNH959si`

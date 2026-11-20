@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With post-punk'er, JUST LIZZY, Captain Margaret and more",
+  "description": "With JUST LIZZY, David Von Beahm, post-punk'er and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -934,7 +934,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 258235,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/1YMQT3sNntgjqFJQObtRre"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 314210,
       "name": "All The Lovers",
       "url": "https://open.spotify.com/track/4WXNi3vDKyiOiuwz7JvkDf"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 278108,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/1XkFICmCusitYkiiAFREeG"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 171907,
       "name": "Blood",
       "url": "https://open.spotify.com/track/6eY15HTD4h77DwxvI2wmEO"
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 308440,
       "name": "Capsule",
       "url": "https://open.spotify.com/track/11HZLz069zPopWFCU6Nhpa"
@@ -3784,6 +3784,24 @@
       "duration_ms": 239827,
       "name": "CATCH & KILL",
       "url": "https://open.spotify.com/track/2NMjHf9JLPcn7xcNDXBGCk"
+    },
+    {
+      "album": {
+        "name": "Captain Margaret",
+        "url": "https://open.spotify.com/album/1nrMze01djoPX8ApZGrsWC"
+      },
+      "artists": [
+        {
+          "name": "Captain Margaret",
+          "url": "https://open.spotify.com/artist/0fDmBETTgWMuKjqQSjpqGi"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322285,
+      "name": "Catchphrase",
+      "url": "https://open.spotify.com/track/6S8UZBUZc607oWvnVQEGmO"
     },
     {
       "album": {
@@ -6140,7 +6158,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 346000,
       "name": "Destiny - Extended",
       "url": "https://open.spotify.com/track/3umS0zJJU7lyQ81TvqlzdI"
@@ -6828,7 +6846,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 234881,
       "name": "Drive Me Far",
       "url": "https://open.spotify.com/track/3xITmk4oLCcSV2iOWmEXHy"
@@ -7268,7 +7286,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 252461,
       "name": "Embers Are My Crown",
       "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
@@ -7394,7 +7412,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 276166,
       "name": "End of the Rope",
       "url": "https://open.spotify.com/track/7vXek6Cvm35qLY5NDXMgrD"
@@ -8084,7 +8102,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -8940,7 +8958,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -10744,7 +10762,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 282789,
       "name": "I Bet you bet on me",
       "url": "https://open.spotify.com/track/3BdPfRImojsrXKNP8RHTgT"
@@ -11892,7 +11910,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 206400,
       "name": "InstantFamous",
       "url": "https://open.spotify.com/track/1UWvvHX3bsjWvPek8odHae"
@@ -12408,7 +12426,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 215000,
       "name": "Janey's Got a Blow Tourch",
       "url": "https://open.spotify.com/track/0pXNKelloRpMBOMaH0VVTz"
@@ -13112,7 +13130,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 298000,
       "name": "Land's End",
       "url": "https://open.spotify.com/track/2nO4PF4VbPVtS6ZvKTZr63"
@@ -14314,7 +14332,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 307078,
       "name": "Man With The X-Ray Eyes",
       "url": "https://open.spotify.com/track/2wofyBPVUPUk0jvpZag9FG"
@@ -14476,7 +14494,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 212423,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6DHvP8Wblrg9XRyNXrsQNi"
@@ -14632,7 +14650,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 340409,
       "name": "Mental Health (MIK\u2019s Miasma)",
       "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
@@ -15940,7 +15958,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 330405,
       "name": "Nighttime Fever",
       "url": "https://open.spotify.com/track/73l79VEOevCdpHRKudlTwy"
@@ -16340,7 +16358,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 228000,
       "name": "Nutshell",
       "url": "https://open.spotify.com/track/4EF8NlnszTLtmk2t1GIGNl"
@@ -17539,6 +17557,24 @@
     },
     {
       "album": {
+        "name": "Primary",
+        "url": "https://open.spotify.com/album/5ClxuzgjWNmiVJn35RamoC"
+      },
+      "artists": [
+        {
+          "name": "Lorning",
+          "url": "https://open.spotify.com/artist/30peIL7Uzl8J5qWLKxNG8G"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230375,
+      "name": "Primary",
+      "url": "https://open.spotify.com/track/3VMsVctpacmnH24pFMhmIa"
+    },
+    {
+      "album": {
         "name": "Pin Ups",
         "url": "https://open.spotify.com/album/4itr4L9MsKJLGO7a8LI6d4"
       },
@@ -17846,7 +17882,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 90000,
       "name": "Rats",
       "url": "https://open.spotify.com/track/7oPvx6ZC9Nr65KNJEm5VNf"
@@ -18398,7 +18434,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 284548,
       "name": "Rorschach Rotorbabe",
       "url": "https://open.spotify.com/track/6oZvalL5v3elCyzvDC5WND"
@@ -19188,7 +19224,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 240000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
@@ -19358,7 +19394,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 291000,
       "name": "Shadow Aspect",
       "url": "https://open.spotify.com/track/0j9FLQ7SQFZPaKbo44J17s"
@@ -20671,6 +20707,28 @@
     },
     {
       "album": {
+        "name": "Sorry Eyed (Remixes)",
+        "url": "https://open.spotify.com/album/0KCzSl8vjOxroGBaFuPFnq"
+      },
+      "artists": [
+        {
+          "name": "personalheartbreaker",
+          "url": "https://open.spotify.com/artist/2bM7Gwvns4Kx85CY62ttTd"
+        },
+        {
+          "name": "ENCASSATOR",
+          "url": "https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152595,
+      "name": "Sorry Eyed - Sped Up",
+      "url": "https://open.spotify.com/track/1nnxN01yFnEvF64w2PJzbc"
+    },
+    {
+      "album": {
         "name": "Euphoric Thriller",
         "url": "https://open.spotify.com/album/2ZmzjExvcGJPTQ5wOWKayR"
       },
@@ -21462,7 +21520,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188808,
       "name": "Suburban Princess - Not Suitable for Radio Edit",
       "url": "https://open.spotify.com/track/1HaOig40QKrMbx1d6XQklA"
@@ -21578,6 +21636,24 @@
       "duration_ms": 227294,
       "name": "Sugar Dead",
       "url": "https://open.spotify.com/track/5oJHsvkfpk34v3MJHrwO5k"
+    },
+    {
+      "album": {
+        "name": "Suicidal",
+        "url": "https://open.spotify.com/album/7jwfyiBTuIzXukUprdlHgn"
+      },
+      "artists": [
+        {
+          "name": "Jasmine McMorran",
+          "url": "https://open.spotify.com/artist/4YHGIFlRMyNnhAF1v5dzSQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Suicidal",
+      "url": "https://open.spotify.com/track/5e5OGAEmzaD4X3O4rnjqdp"
     },
     {
       "album": {
@@ -24452,7 +24528,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 262280,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5ojTnhj24LeKKAEinAbOdS"
@@ -24762,7 +24838,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 204904,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/3XxBrO10PWfyHVR7AbaypL"
@@ -25112,6 +25188,24 @@
       "duration_ms": 238373,
       "name": "Unthinkable",
       "url": "https://open.spotify.com/track/3LkNBDxqs44zWx4ixcv5AS"
+    },
+    {
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/6ZTYKvbSzYnRd1qcQq5RwW"
+      },
+      "artists": [
+        {
+          "name": "Jane Wiedlin",
+          "url": "https://open.spotify.com/artist/3IXBujNySf3RBaGjDI8dqm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244986,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/2VBw08lDHey63JPNLvJYbI"
     },
     {
       "album": {
@@ -25716,7 +25810,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 231000,
       "name": "Walking out of the cave",
       "url": "https://open.spotify.com/track/6Hud5jnMcqPbtqIGPJwLqC"
@@ -27114,7 +27208,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 199915,
       "name": "Yielding And Melting",
       "url": "https://open.spotify.com/track/1cOjn8QDRIDGxCb8H1q4vC"

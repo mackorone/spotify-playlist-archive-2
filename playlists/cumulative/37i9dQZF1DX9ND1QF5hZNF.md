@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur..\. ☀️
 
-459 songs - 23 hr 30 min
+460 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 | 2024-08-29 | 2025-02-21 |
 | [Bleu de lune \- El Buho Remix](https://open.spotify.com/track/575uarM9Kja5mG1eGB6B5f) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [REMIXES](https://open.spotify.com/album/0MQ0yBvUBdxelOydGjeSIE) | 4:41 | 2023-05-12 | 2023-06-03 |
 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2022-12-20 | 2023-05-13 |
-| [Bloom](https://open.spotify.com/track/6NisBf2xWzNTyDLEFlCvBk) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Bloom](https://open.spotify.com/album/0ca5L1k61P5AIUwBF8LYV6) | 3:39 | 2026-09-25 |  |
+| [Bloom](https://open.spotify.com/track/6NisBf2xWzNTyDLEFlCvBk) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Bloom](https://open.spotify.com/album/0ca5L1k61P5AIUwBF8LYV6) | 3:39 | 2026-09-25 | 2026-11-20 |
 | [Bloom \(ERIICE Remix\)](https://open.spotify.com/track/7yWmLo9KmwPYitqNPE4wyh) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Bloom \(ERIICE Remix\)](https://open.spotify.com/album/5WX4pPN3WmRjC4zfIJfSfp) | 2:33 | 2026-02-06 | 2026-03-14 |
 | [Bloom \(nowifi Remix\)](https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Bloom \(nowifi Remix\)](https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk) | 2:01 | 2022-12-20 | 2023-07-04 |
 | [Bluetopia](https://open.spotify.com/track/60wDCdcqaNTDUKQ1riMHUX) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [22:22](https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo) | 3:58 | 2025-03-27 | 2025-04-18 |
@@ -325,6 +325,7 @@
 | [Pra todas](https://open.spotify.com/track/1yZA5pYK0Xhykh0wwjj8hq) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Pra todas](https://open.spotify.com/album/2v5FoJV0cCNCaAA2fHqKb0) | 3:18 | 2026-06-19 |  |
 | [Que la vie est belle](https://open.spotify.com/track/6nrySsDy0mltv4YCsK5MSh) | [Bleu nuage](https://open.spotify.com/artist/4PSY0dGrFXLJvR9vuNYTq2) | [Que la vie est belle](https://open.spotify.com/album/7Ia2fwxUrvtU5AFhp5CRfg) | 3:20 | 2026-07-30 |  |
 | [Quero](https://open.spotify.com/track/57uV62QQp0kiwBwpZjgarH) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ), [Iná](https://open.spotify.com/artist/0qA4dxIMSPVxjKBiczVHQv) | [Quero](https://open.spotify.com/album/7wNFlxLXby8RduE9xNEjrW) | 2:00 | 2026-01-22 | 2026-03-21 |
+| [Rather Be You](https://open.spotify.com/track/7jgkFZqE6Qw1F2Ru5zcZoY) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Dance Away Your Problems](https://open.spotify.com/album/3wyplPIw5W4qU1RB7lznUa) | 4:16 | 2026-11-19 |  |
 | [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 | 2024-08-29 | 2025-01-31 |
 | [Real for Me](https://open.spotify.com/track/2Me8g0TZBRiOOYvjexvYwe) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Real for Me](https://open.spotify.com/album/7iT1pcVw9WcqF6QWwXAU7M) | 3:00 | 2022-12-20 | 2023-02-04 |
 | [Reason](https://open.spotify.com/track/6JOPXWvT2Y4Cd5MYfeyctT) | [Youngmin](https://open.spotify.com/artist/2w271WbWiCuYjWGz92Dzwb), [Polux](https://open.spotify.com/artist/7xlYnInKi4qbUURqPRabJg) | [Reason](https://open.spotify.com/album/5ZCM4NVCQXeWHKQOzP3HyS) | 2:19 | 2026-07-03 | 2026-07-31 |

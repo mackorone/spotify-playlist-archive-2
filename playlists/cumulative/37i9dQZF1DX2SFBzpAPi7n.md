@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: NELL\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,234 songs - 3 day 3 hr 2 min
+1,235 songs - 3 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [AFTER THE FALL](https://open.spotify.com/track/5VeXyX2wRoENzyTBztJp40) | [WEST SOUND](https://open.spotify.com/artist/1CeuINom3Xvt7ENvEnOlyH) | [AFTER THE FALL](https://open.spotify.com/album/2b9nh4MwiJziLdtqKfEtbI) | 3:23 | 2024-11-06 | 2024-12-19 |
 | [After the rain](https://open.spotify.com/track/7ixtNNaE45TecEqZtWbYRx) | [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [HOPE FOR THE FLOWER](https://open.spotify.com/album/4iY3YGIfLBlAz3NNwTmshr) | 4:42 | 2022-04-12 | 2022-04-22 |
 | [After Tonight](https://open.spotify.com/track/5KB3Qovr1wV5dapcWnnXDg) | [AfterMoon 애프터문](https://open.spotify.com/artist/5Xz2wM6arxCGcFkMdp6iJR) | [After Tonight](https://open.spotify.com/album/1Y0IXwWhiU2maaFcRyX7E5) | 4:25 | 2022-04-12 | 2022-07-27 |
-| [AGAIN!](https://open.spotify.com/track/0bglrEVMAhh6SP8433mpnk) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [AGAIN!](https://open.spotify.com/album/6VdoTGVMCuK4pVd2cnHW5p) | 3:43 | 2026-11-13 |  |
+| [AGAIN!](https://open.spotify.com/track/0bglrEVMAhh6SP8433mpnk) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [AGAIN!](https://open.spotify.com/album/6VdoTGVMCuK4pVd2cnHW5p) | 3:43 | 2026-11-13 | 2026-11-20 |
 | [Aliens](https://open.spotify.com/track/5OhAdGaEG4WN3k4LdHx3nC) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [CELLOPHANE](https://open.spotify.com/album/4lW1x2le12GEKHdZVPFT8h) | 4:21 | 2022-04-12 | 2022-06-25 |
 | [ALL ENDS](https://open.spotify.com/track/73vfZGF5BxlRLsfdfVvRao) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [ALL ENDS](https://open.spotify.com/album/4GPGGQQYoR0Q5ELHPuzd20) | 2:21 | 2022-08-12 | 2022-08-19 |
 | [All is you](https://open.spotify.com/track/5nTJoIraxw2S0Bp5LEqGbk) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [All is you](https://open.spotify.com/album/10pOd9mtldRpC7tbHNz6WS) | 4:27 | 2022-05-03 | 2022-07-27 |
@@ -216,7 +216,7 @@
 | [daisy.](https://open.spotify.com/track/6vBr2tIHZKaMTpK7r99O3g) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN) | 3:38 | 2023-11-10 | 2024-03-22 |
 | [Dancing Bird](https://open.spotify.com/track/2phDPmaRtLzpPrMEPzcFnN) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Dancing Bird](https://open.spotify.com/album/5nPvmaTmt7l6XHd1SJWYGA) | 3:17 | 2025-11-11 | 2026-07-04 |
 | [Dark Cloud](https://open.spotify.com/track/1m6hChgffW1gqFKbpkGQrk) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 4:00 | 2022-04-21 | 2022-07-19 |
-| [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 | 2025-02-04 |  |
+| [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 | 2025-02-04 | 2026-11-20 |
 | [Daydream](https://open.spotify.com/track/3jLe3Jb7Ri2Tjcvnn03kZ6) | [EUNICE](https://open.spotify.com/artist/1ptpMZmWJI8ENe5I7TzEqU) | [Daydream](https://open.spotify.com/album/3SyG2CrI1QNdZSwvNONVVI) | 4:03 | 2024-10-27 | 2024-12-14 |
 | [Daylight](https://open.spotify.com/track/3VJSYgrJKUdc22n5GzVaza) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Parole Examiner Lee, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/40SxrE2o08KMsXPiqSIc4g) | 3:48 | 2024-11-21 | 2025-01-15 |
 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 | 2025-03-17 | 2026-03-27 |
@@ -241,7 +241,7 @@
 | [DIAMOND](https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [DIAMOND](https://open.spotify.com/album/7KE2RqHy21ZGDYNoNCTdw5) | 5:24 | 2022-09-05 | 2022-10-01 |
 | [Diary](https://open.spotify.com/track/3vQsUy6jyZpmc0N4EVQ040) | [COOMO](https://open.spotify.com/artist/1nl4mXUCxItd93nVFI76sX) | [Diary](https://open.spotify.com/album/284VUSuILmOtajZTNXjpeq) | 2:53 | 2024-04-09 | 2024-05-10 |
 | [dim,](https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [dim,](https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN) | 3:24 | 2025-12-08 | 2026-01-22 |
-| [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-10-18 | 2026-11-19 |
+| [Discord](https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:47 | 2023-10-18 |  |
 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-04-12 | 2023-08-24 |
 | [Dive](https://open.spotify.com/track/7yNK1wbcoFYckChKRRWuny) | [TOMMIER](https://open.spotify.com/artist/5Ew54mXT7GnPjS29Z4RVpg) | [Dive](https://open.spotify.com/album/3m0EapQi3Q4YAVaW1RIOeD) | 3:41 | 2022-04-21 | 2022-05-31 |
 | [Dive!](https://open.spotify.com/track/0Z39zxpbzamKeWNLKd3tRE) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Dive!](https://open.spotify.com/album/1LULxDQtvUx6miaSB3nTaY) | 3:11 | 2025-10-10 | 2025-11-07 |
@@ -593,6 +593,7 @@
 | [Light Shines Only There](https://open.spotify.com/track/6GiKLHWKiWiG5OuoSjy5zf) | [2 Day Old Sneakers](https://open.spotify.com/artist/5UEtEaPNFbiU8KGganPF4Q) | [Light Shines Only There](https://open.spotify.com/album/33Qga6kYaWPQMVORQR9itG) | 3:17 | 2022-04-22 | 2022-04-28 |
 | [Light UP](https://open.spotify.com/track/16aCdXdUqHMwt9lZCXPpav) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Lord of Heroes OST Part 3](https://open.spotify.com/album/4JVgXZdk3iz4MDwtZApqDB) | 3:25 | 2022-05-02 | 2022-07-23 |
 | [Lights \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1srir2eS2n9AlI3v13cdDx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [The LIGHTS](https://open.spotify.com/album/2QtJUE3h7lHsKAUnTlNV4U) | 3:47 | 2022-11-09 | 2022-12-13 |
+| [Lights Out](https://open.spotify.com/track/15o7aZT5swvr5jiSqWBElp) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [PIXELS OF MIND](https://open.spotify.com/album/2MyClWbIxU3fxVC0TKWceV) | 4:31 | 2026-11-19 |  |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-06 |
 | [Like Nothing \(Feat\. YOUHA, Kim Seungmin\)](https://open.spotify.com/track/0rSra7zqW05TvIVnJMSVo7) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Like Nothing](https://open.spotify.com/album/3IBZkXFy4uNDKowRztNFYf) | 2:51 | 2024-09-13 | 2024-11-22 |
 | [Lips \(Feat\. GISELLE\)](https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Lips \(Feat\. GISELLE\)](https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk) | 3:02 | 2024-06-13 | 2024-09-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 521503,
+  "num_followers": 521410,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIDnRwL6KjlUsIyCssNMEqSA6qvo",
+  "snapshot_id": "AAAAALMussdBgEfrSw/6xfRRbocnZsZZ",
   "tracks": [
     {
       "added_at": "2025-02-07 03:01:15",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 208505,
+      "name": "Hallucinate",
+      "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Be Kind (with Halsey)",
         "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 208505,
-      "name": "Hallucinate",
-      "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
     },
     {
       "added_at": "2025-02-07 03:01:15",

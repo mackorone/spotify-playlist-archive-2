@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Tracks voor de juiste vibe. Cover: Chanou",
+  "description": "Tracks voor de juiste vibe. Cover: Idaly & CHO",
   "name": "Vibes",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 177663,
       "name": "As We Get High (feat. Omah Lay & BEAM)",
       "url": "https://open.spotify.com/track/3Yh9cNUxHN0bvkWBQ2QVdK"
@@ -750,6 +750,24 @@
       "duration_ms": 161739,
       "name": "Ayo Amor",
       "url": "https://open.spotify.com/track/6syJbyeoDZOJF1gSquyZpB"
+    },
+    {
+      "album": {
+        "name": "b e s t i e s",
+        "url": "https://open.spotify.com/album/1xwJUuZ16kkCVV2RDlkLWr"
+      },
+      "artists": [
+        {
+          "name": "Demi Lou",
+          "url": "https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "b e s t i e s",
+      "url": "https://open.spotify.com/track/6yxe3EAmyyZTAqY9JNVeib"
     },
     {
       "album": {
@@ -914,7 +932,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 171122,
       "name": "BAD ONE",
       "url": "https://open.spotify.com/track/5mThWfSpSqYca45pvizvrH"
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 153055,
       "name": "COCA BODY",
       "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
@@ -2256,6 +2274,28 @@
       "duration_ms": 149134,
       "name": "Day Drunk",
       "url": "https://open.spotify.com/track/1zvKj6OvY8VUkp5LrMQJS8"
+    },
+    {
+      "album": {
+        "name": "DENK AAN JOU",
+        "url": "https://open.spotify.com/album/1HT9Qiczc9atCesS4nEK2C"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206859,
+      "name": "DENK AAN JOU",
+      "url": "https://open.spotify.com/track/1yeC5VF5YrSjkcJttDuTBw"
     },
     {
       "album": {
@@ -2690,6 +2730,28 @@
       "duration_ms": 204000,
       "name": "Falling 4 Ya",
       "url": "https://open.spotify.com/track/2yx4kObpXCCedhsLuOwTel"
+    },
+    {
+      "album": {
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229757,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW"
     },
     {
       "album": {
@@ -3656,6 +3718,28 @@
       "duration_ms": 202886,
       "name": "HOE",
       "url": "https://open.spotify.com/track/0fB4BuWrtqYf93J9aCMQQR"
+    },
+    {
+      "album": {
+        "name": "Hoe Vaak",
+        "url": "https://open.spotify.com/album/5IrgnUzu7ACEhh6jMecpes"
+      },
+      "artists": [
+        {
+          "name": "Hamza Othman",
+          "url": "https://open.spotify.com/artist/5Gj8NmnSAo6ZuGum96pzrB"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127653,
+      "name": "Hoe Vaak",
+      "url": "https://open.spotify.com/track/086iE611jmCDai0oWfWR8C"
     },
     {
       "album": {
@@ -4769,6 +4853,36 @@
     },
     {
       "album": {
+        "name": "LET ME LOVE U?",
+        "url": "https://open.spotify.com/album/2BhrigAOtSWvXKsWbL9S9C"
+      },
+      "artists": [
+        {
+          "name": "Spanker",
+          "url": "https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146929,
+      "name": "LET ME LOVE U?",
+      "url": "https://open.spotify.com/track/2IQCI291KZPzxZVut7Lrip"
+    },
+    {
+      "album": {
         "name": "Leugens",
         "url": "https://open.spotify.com/album/5Ex8ZMG7MW2Z19akiW5loV"
       },
@@ -5502,7 +5616,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 126368,
       "name": "Money De",
       "url": "https://open.spotify.com/track/4QTUIJvd6GbuDHvPbT622V"
@@ -6163,6 +6277,24 @@
     },
     {
       "album": {
+        "name": "OMW",
+        "url": "https://open.spotify.com/album/32ywzPvYeyTBoK747HzyhN"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/03aOSFQzpufEwGAdx6Wok8"
+    },
+    {
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/4BXD26SFeJGBCGPDoi0Wwv"
       },
@@ -6760,7 +6892,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
@@ -7238,7 +7370,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182257,
       "name": "risk it all",
       "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
@@ -8913,6 +9045,24 @@
     },
     {
       "album": {
+        "name": "VERLATEN",
+        "url": "https://open.spotify.com/album/7InyhvghdzhjDEE8xVanYh"
+      },
+      "artists": [
+        {
+          "name": "Burleson",
+          "url": "https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104727,
+      "name": "VERLATEN",
+      "url": "https://open.spotify.com/track/3A3XRpPe7QIwgs4j3galpp"
+    },
+    {
+      "album": {
         "name": "VERSLAVEND",
         "url": "https://open.spotify.com/album/42r2YUYZANfNtF9MXMOlfm"
       },
@@ -9796,7 +9946,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169000,
       "name": "Zo Special",
       "url": "https://open.spotify.com/track/6817A0akmUfk23M1CDHY0E"

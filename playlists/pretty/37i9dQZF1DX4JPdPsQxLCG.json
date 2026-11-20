@@ -1,12 +1,12 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 108552,
+  "num_followers": 108548,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIyefx45sc/RLuyrOAlPiO9Yo0JV",
+  "snapshot_id": "AAAAAJAVWXQYCGzsHasufnwhYwzoUlX1",
   "tracks": [
     {
       "added_at": "2026-09-25 18:55:30",
@@ -221,20 +221,20 @@
       "url": "https://open.spotify.com/track/3zBdVzYsuqVPyMk1YFiPcg"
     },
     {
-      "added_at": "2026-09-25 18:55:30",
+      "added_at": "2026-11-20 04:29:31",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/6xg8Xs4Y3fNq1uJlj7kMXu"
+        "name": "Blue Ribbon",
+        "url": "https://open.spotify.com/album/1ib7Bl3NxnTZ6eIlTLm9ic"
       },
       "artists": [
         {
-          "name": "The Darcys",
-          "url": "https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH"
+          "name": "Paesler",
+          "url": "https://open.spotify.com/artist/0SfYT2NCfdPWJzDr9TCsDN"
         }
       ],
-      "duration_ms": 212803,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/5eeMCQlmXRkCETQ61AGnUh"
+      "duration_ms": 245617,
+      "name": "Blue Ribbon",
+      "url": "https://open.spotify.com/track/0kGHZhpFFJvvdCSFtRDYls"
     },
     {
       "added_at": "2026-09-25 18:55:30",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
     },
     {
-      "added_at": "2026-10-23 04:03:31",
-      "album": {
-        "name": "PANGEA",
-        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 145099,
-      "name": "PANGEA",
-      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
-    },
-    {
       "added_at": "2026-09-25 18:55:30",
       "album": {
         "name": "Lost In The Dream",
@@ -471,6 +455,22 @@
       "duration_ms": 298920,
       "name": "Red Eyes",
       "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
+    },
+    {
+      "added_at": "2026-10-23 04:03:31",
+      "album": {
+        "name": "PANGEA",
+        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 145099,
+      "name": "PANGEA",
+      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
     },
     {
       "added_at": "2026-09-25 18:55:30",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-09-25 18:55:30",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
-    },
-    {
-      "added_at": "2026-09-25 18:55:30",
-      "album": {
         "name": "Surf Hat",
         "url": "https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 179217,
       "name": "Bowling Alley Thug",
       "url": "https://open.spotify.com/track/4hbMHyGiSxyZMAbHzy2upA"
+    },
+    {
+      "added_at": "2026-09-25 18:55:30",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "added_at": "2026-09-25 18:55:30",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-09-25 18:55:30",
       "album": {
-        "name": "Happiness Anytime: Part 2",
-        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 178702,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
-    },
-    {
-      "added_at": "2026-09-25 18:55:30",
-      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 244500,
       "name": "Everybody Scream",
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
+    },
+    {
+      "added_at": "2026-09-25 18:55:30",
+      "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 178702,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
     },
     {
       "added_at": "2026-09-25 18:55:30",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-09-25 18:55:30",
       "album": {
-        "name": "Ride Lonesome (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/4ProrUSimVgRttzO0LfZRj"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 264256,
-      "name": "Ride Lonesome (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ"
-    },
-    {
-      "added_at": "2026-09-25 18:55:30",
-      "album": {
         "name": "I Must Be Dreaming",
         "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
       },
@@ -1179,18 +1159,22 @@
     {
       "added_at": "2026-09-25 18:55:30",
       "album": {
-        "name": "Watch You Dance",
-        "url": "https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1"
+        "name": "Ride Lonesome (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/4ProrUSimVgRttzO0LfZRj"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 147720,
-      "name": "Watch You Dance",
-      "url": "https://open.spotify.com/track/4lOKG77QX7DXG6x2cZ1egg"
+      "duration_ms": 264256,
+      "name": "Ride Lonesome (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ"
     },
     {
       "added_at": "2026-09-25 18:55:30",
@@ -1227,18 +1211,34 @@
     {
       "added_at": "2026-09-25 18:55:30",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+        "name": "Watch You Dance",
+        "url": "https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1"
       },
       "artists": [
         {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
+      "duration_ms": 147720,
+      "name": "Watch You Dance",
+      "url": "https://open.spotify.com/track/4lOKG77QX7DXG6x2cZ1egg"
+    },
+    {
+      "added_at": "2026-09-25 18:55:30",
+      "album": {
+        "name": "say something",
+        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 144544,
+      "name": "say something",
+      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
     }
   ],
   "unique_name": "Long Drives",

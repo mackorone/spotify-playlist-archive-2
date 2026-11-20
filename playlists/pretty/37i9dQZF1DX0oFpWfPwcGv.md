@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,112 likes - 75 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,121 likes - 75 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 72 | [Possessed \(Extended Verison\)](https://open.spotify.com/track/5giBASxVW4R1BFzGtWNEun) | [Doris Jones](https://open.spotify.com/artist/1YzlD6Cogo9fLRtzyMIdRc) | [The Best of Doris Jones "No Way Out"](https://open.spotify.com/album/1zEOxgQDjnzXNVuXO2IlXh) | 6:59 |
 | 73 | [I Want Your Love](https://open.spotify.com/track/6HZKlK1mDDBsILMoNNncxL) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic](https://open.spotify.com/album/2KSmpFuIe2nOYYVgA7oa9o) | 6:55 |
 | 74 | [Never Too Much \- 12" Version](https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Love, Luther](https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu) | 5:39 |
-| 75 | [Don't You Want My Love \- Remastered](https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U) | [Debbie Jacobs](https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL) | [Don't You Want My Love](https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h) | 7:48 |
+| 75 | [Haven't You Heard](https://open.spotify.com/track/3Kf0nJpV3AMRWRTL1SEqUl) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/0y1GuBD52TFARX9e4EOJeD) | 6:45 |
 
-Snapshot ID: `AAAAALNpq8nsKTiTKwqAVkKTMap1ve+R`
+Snapshot ID: `AAAAAH23jWxt6LKhFHYM3w31tJuSWhRt`

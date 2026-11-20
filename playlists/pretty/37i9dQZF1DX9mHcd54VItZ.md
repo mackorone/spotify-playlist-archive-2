@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Spoegwolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,922 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,925 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 23 | [SIDE EFFECTS](https://open.spotify.com/track/2gHNweRTvRaw5HswmIcdEE) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [SIDE EFFECTS](https://open.spotify.com/album/1Smmgvbzm9OQtKP2RcMPMv) | 2:47 |
 | 24 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
 | 25 | [No\-stal\-gies](https://open.spotify.com/track/5HIBPVltVLt6ekTdLIOYA4) | [TonnelVisie](https://open.spotify.com/artist/4dQMIBwoSPDi238yr7jUwT) | [No\-stal\-gies](https://open.spotify.com/album/0MBHR9G8kKc0JrIAYjE1bF) | 4:13 |
-| 26 | [Sweef](https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Sweef](https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1) | 3:25 |
+| 26 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 27 | [Rukkemoer](https://open.spotify.com/track/2RkkyVfqSXNgYCQGG1VKSj) | [Ruben Eloff](https://open.spotify.com/artist/0IzjCRbwve0Gx2N7syqyVS) | [Rukkemoer](https://open.spotify.com/album/15bPUtCxJIxrGWaKbTd1xK) | 4:21 |
-| 28 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
-| 29 | [SELFBEWUS](https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SELFBEWUS](https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam) | 3:12 |
+| 28 | [SELFBEWUS](https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SELFBEWUS](https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam) | 3:12 |
+| 29 | [Sweef](https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Sweef](https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1) | 3:25 |
 | 30 | [Droê Reën](https://open.spotify.com/track/6wjVk7GuIczB184wyVoaKB) | [Tot Stilstand](https://open.spotify.com/artist/7DLmVHAVKRMGZuA1KEk11S) | [Droê Reën](https://open.spotify.com/album/7Ba3OAkx2JEdVpAF8ieCCL) | 4:21 |
 | 31 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 32 | [Gatvol](https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Gatvol](https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI) | 2:46 |
-| 33 | [KLEUR](https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH) | [MOEGOE](https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ) | [KLEUR](https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0) | 3:21 |
-| 34 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
+| 33 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
+| 34 | [KLEUR](https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH) | [MOEGOE](https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ) | [KLEUR](https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0) | 3:21 |
 | 35 | [Pose](https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [Pose](https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY) | 3:22 |
 | 36 | [Gee Meer](https://open.spotify.com/track/3E2OiknENNt5RlBOL6F4L3) | [Arthur Steele](https://open.spotify.com/artist/3O9AmjJB7AdzGrnornCxVb) | [Gee Meer](https://open.spotify.com/album/64IAFJXc0CNdgmDfF3FvuQ) | 4:06 |
 | 37 | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Nagmerries \(Bye Bye Baby\)](https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Aksie Braai](https://open.spotify.com/track/52YuMNXCzmAPxFIh9d8aNc) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Aksie Braai](https://open.spotify.com/album/5wW3FOc9GTmnFTU736pV03) | 3:01 |
 | 50 | [Verloor Jouself](https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Verloor Jouself](https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV) | 2:15 |
 
-Snapshot ID: `AAAAAJC+CzwV+lGdsUsilWpyQXDnEtKn`
+Snapshot ID: `AAAAAJx2wGNl7Z+A1IfxCCQCSj2mO1G7`

@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 163562,
+  "num_followers": 163578,
   "original_name": "Los 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPbqxeuUPme+Xgw2pu2B458RSpZQ",
+  "snapshot_id": "AAAAAFoL8RywnS5wj347l8r4qMl/YZi7",
   "tracks": [
     {
       "added_at": "2026-10-02 20:36:01",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-10-02 20:36:01",
       "album": {
+        "name": "Al Norte Del Sur",
+        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3"
+    },
+    {
+      "added_at": "2026-10-02 20:36:01",
+      "album": {
         "name": "Tierra De Nadie",
         "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 132080,
       "name": "Marta tiene un marcapasos",
       "url": "https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj"
-    },
-    {
-      "added_at": "2026-10-02 20:36:01",
-      "album": {
-        "name": "Al Norte Del Sur",
-        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3"
     },
     {
       "added_at": "2026-10-02 20:36:01",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-10-02 20:36:01",
       "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Venezia",
-      "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
-    },
-    {
-      "added_at": "2026-10-02 20:36:01",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 173560,
       "name": "Tu Pirata Soy Yo",
       "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
+    },
+    {
+      "added_at": "2026-10-02 20:36:01",
+      "album": {
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Venezia",
+      "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
     },
     {
       "added_at": "2026-10-02 20:36:01",

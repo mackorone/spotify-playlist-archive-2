@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 🚀 cover: Tora\-i, Louis Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,298 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,294 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 59 | [I WANNA LOVE YOU BABE](https://open.spotify.com/track/3jNgp0vOXGqd0Dy9V4KdsB) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [I WANNA LOVE YOU BABE](https://open.spotify.com/album/2bMNH52yTI8iJczEutL43W) | 4:34 |
 | 60 | [Is It That Deep?](https://open.spotify.com/track/0IAHJ9bxdoF56QbLIUEv9t) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Is It That Deep?](https://open.spotify.com/album/60Jot68Vp3ZpUhsiaxGrfZ) | 2:51 |
 
-Snapshot ID: `AAAAACfOev9UfMOVco2rc7cO1ZacVTbk`
+Snapshot ID: `AAAAAM4VcpKOXMlPxcJXqQylvHP+AaQO`

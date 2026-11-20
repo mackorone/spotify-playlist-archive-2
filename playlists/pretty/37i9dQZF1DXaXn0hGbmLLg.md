@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! November ambassador: <a href="spotify:artist:1ESdlHhFi2Ww9jt8qLOyYp">Elmer</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,611 likes - 89 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,612 likes - 89 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 30 | [Sparklestar](https://open.spotify.com/track/3sh59dWUgXoYs17UMFXUk0) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Sparklestar](https://open.spotify.com/album/1S9uh4jmq5XMhkYlCcPNzO) | 4:55 |
 | 31 | [bell jar](https://open.spotify.com/track/6wRrsvclCs5MZahgt7qRFc) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [bell jar](https://open.spotify.com/album/32gMJGPuIhnJKaqPJDME26) | 3:56 |
 | 32 | [focus](https://open.spotify.com/track/4BY3s0pKkwOikMfg7muN6D) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [focus](https://open.spotify.com/album/3Cs1UiyjaRNjaxzfinDXJK) | 2:58 |
-| 33 | [Happiness](https://open.spotify.com/track/5V390O7x6P7PGwJmPsb1t4) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Happiness](https://open.spotify.com/album/4FZ9vAxFGfXbSBt4m8iZcD) | 3:31 |
-| 34 | [Niemand Die Op Me Wacht](https://open.spotify.com/track/7uxqK7jy3jwlGTeZXcgMwO) | [ILKA](https://open.spotify.com/artist/7uU2Loi0V9daUqWJB79MZ0) | [Niemand Die Op Me Wacht](https://open.spotify.com/album/2zNA75sgT7LGaicy7js3Kh) | 3:13 |
+| 33 | [Niemand Die Op Me Wacht](https://open.spotify.com/track/7uxqK7jy3jwlGTeZXcgMwO) | [ILKA](https://open.spotify.com/artist/7uU2Loi0V9daUqWJB79MZ0) | [Niemand Die Op Me Wacht](https://open.spotify.com/album/2zNA75sgT7LGaicy7js3Kh) | 3:13 |
+| 34 | [Happiness](https://open.spotify.com/track/5V390O7x6P7PGwJmPsb1t4) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Happiness](https://open.spotify.com/album/4FZ9vAxFGfXbSBt4m8iZcD) | 3:31 |
 | 35 | [Zie Je Mij?](https://open.spotify.com/track/2wpcbUpCmyjNzSfKXuB8qK) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AAAAAH!](https://open.spotify.com/album/2p0B6TBaZNJdX1KiGyBjTD) | 2:50 |
 | 36 | [Hyperfixated](https://open.spotify.com/track/2XfP1HgRsI4KCQlOOZXUiq) | [Jessmin](https://open.spotify.com/artist/1EesnryhVOIDDGeqdcaw2y) | [Hyperfixated](https://open.spotify.com/album/3Kg2nW91LYoy1793p3hg3I) | 3:23 |
 | 37 | [Hangxiety](https://open.spotify.com/track/0CV2Q62N0y694aWIzfXzfB) | [Mikki van Wijk](https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW) | [Hangxiety](https://open.spotify.com/album/70LnZLv28TPOiPBGPkRqoc) | 2:19 |
@@ -52,24 +52,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 42 | [Wagenziek](https://open.spotify.com/track/5iX1R02Pg6Cxl2HRdoquPX) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Wagenziek](https://open.spotify.com/album/30TH5fJAP6TdaYkPF6D8b7) | 3:03 |
 | 43 | [Ook Al Past Het Niet](https://open.spotify.com/track/7bJdzwoNx3v7el7E6nljDI) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Ook Al Past Het Niet](https://open.spotify.com/album/5F1AGl8AuJvH193tkcU4vt) | 3:03 |
 | 44 | [Ik ben hier](https://open.spotify.com/track/1nEblC76z9vJqo4hW20FfI) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [Ik ben hier](https://open.spotify.com/album/789LTXnNfELXx2ekogWTAw) | 3:57 |
-| 45 | [Nothing To Fear](https://open.spotify.com/track/17JHiEY0OEoWGyd7xGZEIS) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [HOMEFREEQUENCIES \- ACT I](https://open.spotify.com/album/5LwF7yjx2828CoJ1F3IxUa) | 3:45 |
-| 46 | [Ik zeg niet dat je moet gaan](https://open.spotify.com/track/0UUJZopRBWmaHIHg8JgoFP) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Ik zeg niet dat je moet gaan](https://open.spotify.com/album/4AQMj4r611Dr8r1tQ4hKQ5) | 2:23 |
-| 47 | [Freeze](https://open.spotify.com/track/76sHFw8LVEKge2WJWycDmb) | [Joyliana](https://open.spotify.com/artist/1KbLQNIJpixxUKAf8D3aDn) | [Freeze](https://open.spotify.com/album/1nTnQMnV6vcLEY9WDYzqON) | 2:41 |
-| 48 | [Stuurloos](https://open.spotify.com/track/5bCciSSJvPmdosIEFI3rIi) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Stuurloos](https://open.spotify.com/album/4sLqs1mbLHANb0OGiMAVO1) | 2:40 |
-| 49 | [I Wasn't Made For You](https://open.spotify.com/track/5Un8xE3fFFixtKXbtNrdpx) | [Aghogho](https://open.spotify.com/artist/0CmstXIzdpY7M3pnSWi1Fm) | [I Wasn't Made For You](https://open.spotify.com/album/7dKDWp3zzJrsBUqa4HIdgJ) | 2:25 |
+| 45 | [Freeze](https://open.spotify.com/track/76sHFw8LVEKge2WJWycDmb) | [Joyliana](https://open.spotify.com/artist/1KbLQNIJpixxUKAf8D3aDn) | [Freeze](https://open.spotify.com/album/1nTnQMnV6vcLEY9WDYzqON) | 2:41 |
+| 46 | [Stuurloos](https://open.spotify.com/track/5bCciSSJvPmdosIEFI3rIi) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Stuurloos](https://open.spotify.com/album/4sLqs1mbLHANb0OGiMAVO1) | 2:40 |
+| 47 | [I Wasn't Made For You](https://open.spotify.com/track/5Un8xE3fFFixtKXbtNrdpx) | [Aghogho](https://open.spotify.com/artist/0CmstXIzdpY7M3pnSWi1Fm) | [I Wasn't Made For You](https://open.spotify.com/album/7dKDWp3zzJrsBUqa4HIdgJ) | 2:25 |
+| 48 | [Nothing To Fear](https://open.spotify.com/track/17JHiEY0OEoWGyd7xGZEIS) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [HOMEFREEQUENCIES \- ACT I](https://open.spotify.com/album/5LwF7yjx2828CoJ1F3IxUa) | 3:45 |
+| 49 | [Ik zeg niet dat je moet gaan](https://open.spotify.com/track/0UUJZopRBWmaHIHg8JgoFP) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Ik zeg niet dat je moet gaan](https://open.spotify.com/album/4AQMj4r611Dr8r1tQ4hKQ5) | 2:23 |
 | 50 | [Ik Beloof Je Dat Het Beter Wordt](https://open.spotify.com/track/5UP8PzhH0ljxvU0bT9qtvE) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Beloof Je Dat Het Beter Wordt](https://open.spotify.com/album/57HWVtslY6u0w3DudtNhno) | 2:52 |
 | 51 | [The Long Run](https://open.spotify.com/track/5vQYxF7UMNll0lheLsvztz) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [The Way You Talk Reminds Me Of Home](https://open.spotify.com/album/5KQe7mZwx0gYK48DIfGG8t) | 3:42 |
-| 52 | [Schoolplein](https://open.spotify.com/track/2LB0HVOe0OyZcW2quG9cYq) | [Lolo Hefting](https://open.spotify.com/artist/1QxuSoOeaBssFBysmaKc3F) | [Schoolplein](https://open.spotify.com/album/5q4y56NTQZytBklZcwEVxK) | 2:29 |
-| 53 | [Overdosis](https://open.spotify.com/track/1sRugaIR5UKUh4aORiz6Dv) | [Line De Dauw](https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX) | [Overdosis](https://open.spotify.com/album/3ob1mhoyjL0E4hcKPsILA0) | 2:47 |
-| 54 | [Another Life](https://open.spotify.com/track/1iVDt6pLS9mJ8erRZVmCxI) | [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [Blueprints for a Moving Target](https://open.spotify.com/album/4gja7FaOpunrzkI5d9BxRY) | 2:25 |
-| 55 | [Zo draaien we door](https://open.spotify.com/track/73dfC8tNQm0n9vZesabQmV) | [Emma Annelie](https://open.spotify.com/artist/6wNqYZszP2jz7MjwKRHCVX) | [Zo draaien we door](https://open.spotify.com/album/1W99Z7mlmxPiY7hGKnNzxO) | 2:47 |
-| 56 | [Fig Tree](https://open.spotify.com/track/6n595JkeZdlV3Zim3b9I0W) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Before the Soil](https://open.spotify.com/album/7BCDuRam2f6YiwZ67Juk9d) | 2:32 |
-| 57 | [Hier Ben](https://open.spotify.com/track/49uhwpvJNhAZh5fP0wnnMh) | [SkyeIndy](https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt) | [Acht Wacht](https://open.spotify.com/album/67PSJEzADm925p6h6zre6x) | 2:45 |
+| 52 | [Overdosis](https://open.spotify.com/track/1sRugaIR5UKUh4aORiz6Dv) | [Line De Dauw](https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX) | [Overdosis](https://open.spotify.com/album/3ob1mhoyjL0E4hcKPsILA0) | 2:47 |
+| 53 | [Schoolplein](https://open.spotify.com/track/2LB0HVOe0OyZcW2quG9cYq) | [Lolo Hefting](https://open.spotify.com/artist/1QxuSoOeaBssFBysmaKc3F) | [Schoolplein](https://open.spotify.com/album/5q4y56NTQZytBklZcwEVxK) | 2:29 |
+| 54 | [Zo draaien we door](https://open.spotify.com/track/73dfC8tNQm0n9vZesabQmV) | [Emma Annelie](https://open.spotify.com/artist/6wNqYZszP2jz7MjwKRHCVX) | [Zo draaien we door](https://open.spotify.com/album/1W99Z7mlmxPiY7hGKnNzxO) | 2:47 |
+| 55 | [Another Life](https://open.spotify.com/track/1iVDt6pLS9mJ8erRZVmCxI) | [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [Blueprints for a Moving Target](https://open.spotify.com/album/4gja7FaOpunrzkI5d9BxRY) | 2:25 |
+| 56 | [Hier Ben](https://open.spotify.com/track/49uhwpvJNhAZh5fP0wnnMh) | [SkyeIndy](https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt) | [Acht Wacht](https://open.spotify.com/album/67PSJEzADm925p6h6zre6x) | 2:45 |
+| 57 | [Fig Tree](https://open.spotify.com/track/6n595JkeZdlV3Zim3b9I0W) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Before the Soil](https://open.spotify.com/album/7BCDuRam2f6YiwZ67Juk9d) | 2:32 |
 | 58 | [Rooted](https://open.spotify.com/track/4YGwXaIcN6sGl86VnNJHi7) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Rooted](https://open.spotify.com/album/5n4mhKvpBcDXG0m1EebYvE) | 2:53 |
 | 59 | [Stof](https://open.spotify.com/track/0OHFe7fy7BeilTJpN7OFDF) | [MAYTE](https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj) | [Stof](https://open.spotify.com/album/0f40C4fpqEVEFbciDYhIe5) | 2:55 |
 | 60 | [Meisje](https://open.spotify.com/track/5CqUZRlI77svQlTHewLwQP) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Meisje](https://open.spotify.com/album/3uYtgXu8U7HUxhXzrgnvZi) | 3:23 |
-| 61 | [Kwijt](https://open.spotify.com/track/4R5nQkZGQwVMXZ15YVPYxI) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Iets vandalistischer ofzo…](https://open.spotify.com/album/4rjbc860GMkAfpf6OEdMqZ) | 2:11 |
-| 62 | [A Better Day](https://open.spotify.com/track/7lORnUsgOPZtcm3y6A1laT) | [Amy Maria](https://open.spotify.com/artist/5ByPRIYwTbSZJCcsdghKEb) | [A Better Day](https://open.spotify.com/album/7M4VIWkqG1NbSM7XfOnvmn) | 3:18 |
+| 61 | [A Better Day](https://open.spotify.com/track/7lORnUsgOPZtcm3y6A1laT) | [Amy Maria](https://open.spotify.com/artist/5ByPRIYwTbSZJCcsdghKEb) | [A Better Day](https://open.spotify.com/album/7M4VIWkqG1NbSM7XfOnvmn) | 3:18 |
+| 62 | [Kwijt](https://open.spotify.com/track/4R5nQkZGQwVMXZ15YVPYxI) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Iets vandalistischer ofzo…](https://open.spotify.com/album/4rjbc860GMkAfpf6OEdMqZ) | 2:11 |
 | 63 | [other side](https://open.spotify.com/track/4LGJQOcTRZkYHzfJYu5k0Q) | [Shanee](https://open.spotify.com/artist/5HU2bzuycGkCc5CNvwm8wV) | [other side](https://open.spotify.com/album/5rR10DdElaYpsVfKH37yOA) | 2:31 |
 | 64 | [Goddess](https://open.spotify.com/track/2hbBcNHPSgeSsjJk54RYy5) | [Caro](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Returning to Innocence](https://open.spotify.com/album/4UINGYqaKwekANYqKfLSWk) | 4:51 |
 | 65 | [\#31\#](https://open.spotify.com/track/71eQ2ZLjSjLdaqYOfyTEo4) | [Sara Ciara](https://open.spotify.com/artist/1k8p1XNKtvxEU232Uv0S46) | [\#31\#](https://open.spotify.com/album/3XGjIdCcsX56o3LjzG3Qzk) | 2:52 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 79 | [If There's A God](https://open.spotify.com/track/3jAPD7VpKa9JYDO56K7T1X) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc), [Imme](https://open.spotify.com/artist/4ifBb8XfcOFkRxVe1FwhtV) | [If There’s A God](https://open.spotify.com/album/31Ct7nB4UXxpIuNvh5AgZ3) | 3:13 |
 | 80 | [Here We Are](https://open.spotify.com/track/713pO1n2X4E4pewm5umdh8) | [Julia Tan](https://open.spotify.com/artist/374YxFhhT3jJ5Z61DzUphc) | [Here We Are](https://open.spotify.com/album/6qJxoFNDR265xBHG2OjNeJ) | 2:39 |
 | 81 | [Nog Eentje](https://open.spotify.com/track/7okdNqY2vbL28fK2ShS6Zo) | [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB), [Andrélon](https://open.spotify.com/artist/0kpB9a2lLgoxgoQh7KL0p2) | [Nog Eentje](https://open.spotify.com/album/32VwBxghakjxh8E5WpiZsQ) | 2:00 |
-| 82 | [Reason](https://open.spotify.com/track/5sHwACFsl3OoxFdoBD0gcU) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Reason](https://open.spotify.com/album/4QBfva2NWTMIb0mh1WElFT) | 3:11 |
-| 83 | [Stranger's Eyes](https://open.spotify.com/track/2KIwZ13tfLz9S4gDxlinZM) | [Boxy](https://open.spotify.com/artist/19Cwvu83Q93yzaAzhoP1Pa) | [Stranger's Eyes](https://open.spotify.com/album/1vH1BCcnvyOctYWLj3nryf) | 3:33 |
+| 82 | [Stranger's Eyes](https://open.spotify.com/track/2KIwZ13tfLz9S4gDxlinZM) | [Boxy](https://open.spotify.com/artist/19Cwvu83Q93yzaAzhoP1Pa) | [Stranger's Eyes](https://open.spotify.com/album/1vH1BCcnvyOctYWLj3nryf) | 3:33 |
+| 83 | [Reason](https://open.spotify.com/track/5sHwACFsl3OoxFdoBD0gcU) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Reason](https://open.spotify.com/album/4QBfva2NWTMIb0mh1WElFT) | 3:11 |
 | 84 | [Incantations](https://open.spotify.com/track/7ub941SMytaiJxabjs4EWO) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Incantations](https://open.spotify.com/album/3MvuPtKCNL3K16VZ1R01ES) | 6:58 |
 | 85 | [Eind Goed Al Goed Toch?](https://open.spotify.com/track/0yLp9ZPsJlw8AyP4Ql0m0i) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [De Club Is Stuk](https://open.spotify.com/album/0M2lNfY4afPYZ7HytPZ5zB) | 2:16 |
 | 86 | [Ergens Tussenin](https://open.spotify.com/track/6r55GbQBcwzvdOmpUKt4UT) | [FLOOR](https://open.spotify.com/artist/17uAyuWid2J6OKO6fUz0gM) | [Zonder Te Vluchten](https://open.spotify.com/album/2lcPjADhjCBbaGbib4ORRn) | 4:00 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 88 | [The Dark Side of The Moon](https://open.spotify.com/track/6zn4KuAsQsJtZQUggAxeYQ) | [Suzy V](https://open.spotify.com/artist/7vgvkOOXTiKmmHc2Yw3zM8) | [The Heat Of The Rising Sun](https://open.spotify.com/album/1o7mqnQmIHvmroouMTeSSa) | 4:12 |
 | 89 | [Naarden\-Bussum](https://open.spotify.com/track/6qDIQSFrdPIdXJG8EhTt6m) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [eenwieler](https://open.spotify.com/album/31W1rmurzXZ9TxDHPD6tn6) | 2:53 |
 
-Snapshot ID: `AAAAAGm3zCKNYDUwj0wy0LfAuuE0DdTu`
+Snapshot ID: `AAAAAN0CoixbQsKvnulTupVLDjIUfzV9`

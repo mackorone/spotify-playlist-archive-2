@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,508 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,518 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 25 | [Hace un año](https://open.spotify.com/track/1IGF8i4TR7VsVFsvcTZUB2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:03 |
 | 26 | [Nassau](https://open.spotify.com/track/3CLgtUfOIHnh7tGc4mez56) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 4:30 |
 | 27 | [Luz de Día \(En Vivo\)](https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 5:25 |
-| 28 | [Gilipollas](https://open.spotify.com/track/4y0A1ot2Vg2Sbvfa2PHSeO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Gilipollas](https://open.spotify.com/album/50drLygk6ym0QNIgKALnhS) | 3:35 |
-| 29 | [Solo otra vez](https://open.spotify.com/track/5G6IXS370wTnic8NwZjdy0) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:45 |
+| 28 | [Solo otra vez](https://open.spotify.com/track/5G6IXS370wTnic8NwZjdy0) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:45 |
+| 29 | [Gilipollas](https://open.spotify.com/track/4y0A1ot2Vg2Sbvfa2PHSeO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Gilipollas](https://open.spotify.com/album/50drLygk6ym0QNIgKALnhS) | 3:35 |
 | 30 | [No aguanto a tu prima](https://open.spotify.com/track/2RlGxlLA26Je05MCjinvQX) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 2:40 |
 | 31 | [Lamento Boliviano \(En Vivo\)](https://open.spotify.com/track/2EXI9HTEQxGdaEcVChE0DK) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 6:28 |
 | 32 | [No te escaparás \- Remaster 2015](https://open.spotify.com/track/6NWuX9wdArxoTN2xE7nhUt) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [30 años y un día](https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 49 | [Por qué me toca a mí](https://open.spotify.com/track/3Q0Ch4Zvbf8B9gis7vpKoZ) | [Hermanos Martínez](https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Por qué me toca a mí](https://open.spotify.com/album/2FdPsJc5BIRl1xmGXQNule) | 3:34 |
 | 50 | [Lo Noto \(with Hombres G\) \- En Directo](https://open.spotify.com/track/7uxzk9549WrBgOpBmHAEju) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Mi Teatro \(En Directo\)](https://open.spotify.com/album/7vH5NPvG5BHV387GBNQSJ1) | 4:16 |
 
-Snapshot ID: `avpHgAAAAAA3/QO1TV/r3rHP8e6mwQUL`
+Snapshot ID: `avzqgAAAAAADTXjSKm81FQ7cFuiwVMIs`

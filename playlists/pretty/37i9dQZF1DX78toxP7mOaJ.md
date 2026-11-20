@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Louis Ottley
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,037 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,083 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [Minolta](https://open.spotify.com/track/4M7H51B5BkS8ajnmozIhva) | [Penny Loafer](https://open.spotify.com/artist/7em8QNm1ai99fHyJAOlqAL) | [Fixer](https://open.spotify.com/album/1SYmW6CXCy4FVBNr10wYwu) | 3:01 |
 | 75 | [Desire](https://open.spotify.com/track/5iXSGe9jq2ZNOjvPi2Wlqy) | [Janelane](https://open.spotify.com/artist/35N63pLgKzB0ZknLTrFVSA) | [Desire](https://open.spotify.com/album/1wNYcaTcLxCWbm0gC0m0qh) | 3:05 |
 
-Snapshot ID: `AAAAAILjryveJv2AYFRFNaPZOScjdeLm`
+Snapshot ID: `AAAAALJt9955PgYnlugXK/lhMdFJSD72`

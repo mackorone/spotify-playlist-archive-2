@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Latin music bangers for your gaming session! Fuerza Regida on cover",
+  "description": "Latin music bangers for your gaming session! Omar Apollo on cover",
   "name": "Latin Gaming",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181673,
       "name": "ATORRANTE",
       "url": "https://open.spotify.com/track/3G5jq3h1jqx5kcvx6aalwK"
@@ -1954,6 +1954,28 @@
       "duration_ms": 328148,
       "name": "Baby Schai - Remix",
       "url": "https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y"
+    },
+    {
+      "album": {
+        "name": "Baddie",
+        "url": "https://open.spotify.com/album/5vCXoMgJnONO6a4cx72bFc"
+      },
+      "artists": [
+        {
+          "name": "MAX LUIZ",
+          "url": "https://open.spotify.com/artist/4GqfJJhodzXQidwWAZQ5UD"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206037,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/1m1TxyemQszgMx1sJuc7Vv"
     },
     {
       "album": {
@@ -2870,7 +2892,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 167272,
       "name": "Carretera",
       "url": "https://open.spotify.com/track/542UGSa3CDAitFbjCGmHqg"
@@ -5362,7 +5384,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 115312,
       "name": "El Virus",
       "url": "https://open.spotify.com/track/3wXYQ4zXLdEwSTyLBle4li"
@@ -5826,7 +5848,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148024,
       "name": "Ese Pe\u00f1on",
       "url": "https://open.spotify.com/track/15l4miPAqCo0WHESax75zg"
@@ -7020,6 +7042,32 @@
       "duration_ms": 184000,
       "name": "Hace Tiempo",
       "url": "https://open.spotify.com/track/5PSgIaJp6mjIoO5y8kNkrK"
+    },
+    {
+      "album": {
+        "name": "HAGALO (Remix)",
+        "url": "https://open.spotify.com/album/12GL0ryH7GVZd10eHC7zub"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209411,
+      "name": "HAGALO - Remix",
+      "url": "https://open.spotify.com/track/5dKwSBvFI4VN4iJAp7jj4u"
     },
     {
       "album": {
@@ -8903,6 +8951,54 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Largate",
+      "url": "https://open.spotify.com/track/3g9MD1bGGHDCCB1CbWBhTM"
+    },
+    {
+      "album": {
+        "name": "Largate (feat. Kali Uchis) [from GTAVI: The Album]",
+        "url": "https://open.spotify.com/album/46LfRDqggSxvpuy7B6zubw"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Largate (feat. Kali Uchis) [from GTAVI: The Album]",
+      "url": "https://open.spotify.com/track/5LdULCCoGY0ltOl8GIGR80"
+    },
+    {
+      "album": {
         "name": "Las 3 Torres",
         "url": "https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI"
       },
@@ -9630,7 +9726,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 230400,
       "name": "Los Rockstar No Van Al Cielo",
       "url": "https://open.spotify.com/track/5bh8LBXTKPJ8nl9yWuonqo"
@@ -9768,7 +9864,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 281119,
       "name": "LOYAL (feat. Drake and Bad Bunny) - Remix",
       "url": "https://open.spotify.com/track/1sdWxcygtoOmfwCDfKklQk"
@@ -10861,6 +10957,28 @@
     },
     {
       "album": {
+        "name": "Milko Freestyle",
+        "url": "https://open.spotify.com/album/07EUOM05hnrPJhP2WtNNv6"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Agorazein",
+          "url": "https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127326,
+      "name": "Milko Freestyle",
+      "url": "https://open.spotify.com/track/6qP0OSXyS6vMS7Ib4waLHt"
+    },
+    {
+      "album": {
         "name": "en dormir sin Madrid",
         "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
       },
@@ -11034,7 +11152,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 134124,
       "name": "MK ULTRA",
       "url": "https://open.spotify.com/track/26Dm8lQH8EI2QM08lzEFYe"
@@ -11527,6 +11645,28 @@
     },
     {
       "album": {
+        "name": "LAS PIRATIA 2.0",
+        "url": "https://open.spotify.com/album/4jSPwznLbj9qC49kjiDmjl"
+      },
+      "artists": [
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151764,
+      "name": "NAH 4 REAL",
+      "url": "https://open.spotify.com/track/1nu5RWGJ9YLM7fsApy0uBW"
+    },
+    {
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
@@ -11822,6 +11962,24 @@
       "duration_ms": 180000,
       "name": "No Me Ame",
       "url": "https://open.spotify.com/track/2AuWgceaQyfMoI3EGavwGb"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131825,
+      "name": "NO ME BUSQUES",
+      "url": "https://open.spotify.com/track/4uJTuWY1iJmyXWUtBPEKKt"
     },
     {
       "album": {
@@ -14043,6 +14201,24 @@
     },
     {
       "album": {
+        "name": "Next Time, Believe Me",
+        "url": "https://open.spotify.com/album/0G5y7kWpfY0PiAkajU6rqP"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142995,
+      "name": "QUE TE DUELA",
+      "url": "https://open.spotify.com/track/20JAeubvSh4HCKBGKl8ULT"
+    },
+    {
+      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -15002,6 +15178,36 @@
       "duration_ms": 209146,
       "name": "Sensual Beb\u00e9",
       "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Etienne de Cr\u00e9cy ",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Sexy Magic",
+      "url": "https://open.spotify.com/track/5AIwo9vC79ce0A7u3DgB1N"
     },
     {
       "album": {
@@ -16820,7 +17026,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 218969,
       "name": "Toa la Vida",
       "url": "https://open.spotify.com/track/6C1LZVwMRRsUdGOe7t7PSD"
@@ -17436,7 +17642,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184276,
       "name": "Tuenti - Remix",
       "url": "https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5"
@@ -18644,6 +18850,28 @@
       "duration_ms": 199772,
       "name": "Wow Wow (feat. Becky G)",
       "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
+    },
+    {
+      "album": {
+        "name": "X (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2bMNPo1pGG43aimtlU3ckC"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191314,
+      "name": "X (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/1fvVpm1MdyRV0CSZ42UgNf"
     },
     {
       "album": {

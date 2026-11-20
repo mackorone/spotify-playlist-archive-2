@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Ywaya Tajiri",
+  "description": "What is your love language? Say it in Swahili.  Cover: Maua Sama & Rayvanny",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -880,7 +880,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181747,
       "name": "Cheche",
       "url": "https://open.spotify.com/track/0yyIHWneWKoatoZIvMaGu2"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "The Problem Child",
+        "url": "https://open.spotify.com/album/1vyZQKBl8Nxh02VXpPVNV4"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227500,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2s0IFprZwV6pX2N98DJqT2"
+    },
+    {
+      "album": {
         "name": "Beyond Gifted",
         "url": "https://open.spotify.com/album/68JaW0nh8cz1yd6X2Uv55b"
       },
@@ -2154,6 +2172,24 @@
       "duration_ms": 223373,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4"
+    },
+    {
+      "album": {
+        "name": "Alusa Continua",
+        "url": "https://open.spotify.com/album/4dgvWmd6oGnshBBMiuPp5K"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199615,
+      "name": "I'll Be Okay",
+      "url": "https://open.spotify.com/track/3iEeNYIyBFyyEm4VziydNz"
     },
     {
       "album": {
@@ -3614,7 +3650,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155933,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/4d6BHR0B4oyD7EeJ3L7qCs"
@@ -4310,6 +4346,24 @@
       "duration_ms": 178500,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/1zTsIGDezfknAm2vkoSqcz"
+    },
+    {
+      "album": {
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/3x1IVD7R3l6pHTwnAiq2jW"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/2f8p5z0EA3oNDG7FVtwLYc"
     },
     {
       "album": {
@@ -6008,7 +6062,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 222500,
       "name": "She's Mine",
       "url": "https://open.spotify.com/track/3DHNsoNifh1fBu5Xl13OC8"

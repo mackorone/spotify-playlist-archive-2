@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164208,
       "name": "BiiiG",
       "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 131200,
       "name": "Bloody Paradise",
       "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
@@ -3168,6 +3168,24 @@
       "duration_ms": 171933,
       "name": "Candle",
       "url": "https://open.spotify.com/track/74lbuos2VK1VChqCTkaSx8"
+    },
+    {
+      "album": {
+        "name": "Candlelit",
+        "url": "https://open.spotify.com/album/3vsu9KApKWgX5y5yTYrZiT"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179114,
+      "name": "Candlelit",
+      "url": "https://open.spotify.com/track/00E8ZJSI2nnRWNWXmK1mSQ"
     },
     {
       "album": {
@@ -6555,6 +6573,24 @@
     },
     {
       "album": {
+        "name": "GiiiRIP",
+        "url": "https://open.spotify.com/album/4569jF2yYaWMvXuj3dDvFD"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164145,
+      "name": "GiiiRIP",
+      "url": "https://open.spotify.com/track/4i115Ijs5MbfNBYpNsM0Sq"
+    },
+    {
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/6wmaWic8SNvOknibUnCN6b"
       },
@@ -8144,6 +8180,24 @@
       "duration_ms": 185000,
       "name": "I SPY",
       "url": "https://open.spotify.com/track/3kcGkOmFXtaFjVdz7ge1WL"
+    },
+    {
+      "album": {
+        "name": "THE SIN : PARALLEL WORLD",
+        "url": "https://open.spotify.com/album/2Gv2qKwrKxUZ025POfeOmT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/2C9poZVeujCvZsZ7RmI0gZ"
     },
     {
       "album": {

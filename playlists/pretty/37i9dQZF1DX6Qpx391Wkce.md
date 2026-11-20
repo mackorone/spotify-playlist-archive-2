@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,246 likes - 51 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,240 likes - 51 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 2 | [Everything Done](https://open.spotify.com/track/3UVaW3o9svUTYiHW2FJLYw) | [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [Everything Done](https://open.spotify.com/album/10nrViNTsSsIPRHPfj1Pgr) | 3:10 |
 | 3 | [Light](https://open.spotify.com/track/73Ei57TGqXMgTSDYeQFDDP) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Light](https://open.spotify.com/album/50X3Olwaec3hhUu6Bjf1jc) | 3:51 |
 | 4 | [Outbreak](https://open.spotify.com/track/7EoELfQR2s3JsyQmeyehvF) | [Superstrobe](https://open.spotify.com/artist/7rbWK7Usi7mOfrigaWHD6d), [Patricio AMC](https://open.spotify.com/artist/3fJHzSur5EcdxghnVtOMBv) | [Outbreak](https://open.spotify.com/album/5YvlPdrtr5ONXQJ8r1yWoP) | 4:30 |
-| 5 | [Aorta](https://open.spotify.com/track/1u2WDPiNzPJfL15PvBTAj2) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Aorta](https://open.spotify.com/album/6VuLnAhZAGKihUDSpFOvCu) | 3:39 |
+| 5 | [AORTA](https://open.spotify.com/track/1u2WDPiNzPJfL15PvBTAj2) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [AORTA](https://open.spotify.com/album/6VuLnAhZAGKihUDSpFOvCu) | 3:39 |
 | 6 | [Route 27 \- Alex Stein & Victor Ruiz Remix](https://open.spotify.com/track/1KcoibEQeIEFodYDTWJ9Bn) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Route 27 \(Alex Stein & Victor Ruiz Remix\)](https://open.spotify.com/album/7KeYHBj26e3EXB6ZxK5HJD) | 3:59 |
 | 7 | [Body and Soul](https://open.spotify.com/track/2p2xEilqBI6qF3hLHUotYh) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Body and Soul](https://open.spotify.com/album/73qXUd7lTWf2XJGYnzBAwH) | 3:20 |
 | 8 | [Your Mind On Acid](https://open.spotify.com/track/6m9y6bdEEdNqJw3wz5CUUB) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Your Mind On Acid](https://open.spotify.com/album/0TVVBuBwyK8D8oYDgJjuKs) | 3:22 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 50 | [All That Matters \- Instrumental](https://open.spotify.com/track/7mM4O7RvdUpLOrrrxteK34) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [All That Matters](https://open.spotify.com/album/1wzl9KNp71EkjIfzr13gxx) | 9:19 |
 | 51 | [Crossfade \- Maceo Plex Mix](https://open.spotify.com/track/2QsgqAZ4SwuipP30znNeof) | [GusGus](https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Crossfade Remixe](https://open.spotify.com/album/5AgyAmmEVjtVcKqY3Av1Qc) | 7:33 |
 
-Snapshot ID: `AAAAAHsr4N2MmWewQjLNtGaLdI+xyoFw`
+Snapshot ID: `AAAAAFr9FrrQEHILrdEeLMYmqxS47vSx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Tazeboy",
+  "description": "Le meilleur du rap africain francophone. Photo : THB",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Creme Star",
+        "url": "https://open.spotify.com/album/2qYHjeL3xWVQvBAgx3M7Ho"
+      },
+      "artists": [
+        {
+          "name": "Dayo Lamar",
+          "url": "https://open.spotify.com/artist/05bfMROifJpylezJUnm10j"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130802,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/0C34YOH9c2jQp2EJXiIW4W"
+    },
+    {
+      "album": {
         "name": "Bobitana",
         "url": "https://open.spotify.com/album/60RtUCyMpRw0Yck7TE6cZG"
       },
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 140307,
       "name": "B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/6nkbhiCzZ5wew22RDph08p"
@@ -1927,6 +1945,28 @@
     },
     {
       "album": {
+        "name": "JEUNE RICHE & CELEBRE (DELUXE)",
+        "url": "https://open.spotify.com/album/2XCp1gNLrKh4LgqInDWcj3"
+      },
+      "artists": [
+        {
+          "name": "THB",
+          "url": "https://open.spotify.com/artist/3j8UeECAXgsoZNWuf2DFK4"
+        },
+        {
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "CELLOPHANE",
+      "url": "https://open.spotify.com/track/1Vgz50GPeRkV8jCZCLCnv0"
+    },
+    {
+      "album": {
         "name": "CEO",
         "url": "https://open.spotify.com/album/7jbYmV8bKXBDDGT0N0MiXZ"
       },
@@ -2000,7 +2040,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154600,
       "name": "Chapil\u00e9",
       "url": "https://open.spotify.com/track/5VaxCatCYypNtiYT1i6184"
@@ -2439,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "CQQFC?",
+        "url": "https://open.spotify.com/album/0i4snz9MpG6xQQCNA4eczu"
+      },
+      "artists": [
+        {
+          "name": "SDA !!",
+          "url": "https://open.spotify.com/artist/7LQs4ONzBN54spyX3tfa4T"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107500,
+      "name": "CQQFC?",
+      "url": "https://open.spotify.com/track/6fzkrSgprhhXFcAgXPKVuc"
+    },
+    {
+      "album": {
         "name": "C\u2019est G\u00e2t\u00e9 (feat. Black K, BabyDaiz)",
         "url": "https://open.spotify.com/album/4NgHHNgi81C4FdL0V4wI3N"
       },
@@ -2502,7 +2560,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144000,
       "name": "Daande Jamaa",
       "url": "https://open.spotify.com/track/2JFrZJfAHatl0RMM3WtIZG"
@@ -2763,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "DIEUDONN\u00c9",
+        "url": "https://open.spotify.com/album/03VMjNRqbq9SFEY2WG0aNV"
+      },
+      "artists": [
+        {
+          "name": "LA B7",
+          "url": "https://open.spotify.com/artist/2DDfQfbUPLpF75S7bIDuod"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "DIEUDONN\u00c9",
+      "url": "https://open.spotify.com/track/0Agnyy7L45RZjyKmCnuot9"
+    },
+    {
+      "album": {
         "name": "LIBANDA",
         "url": "https://open.spotify.com/album/5Ozrs01s4MBs5AyLhOfzi1"
       },
@@ -2844,7 +2920,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188275,
       "name": "DJAKOUTA",
       "url": "https://open.spotify.com/track/2AltaNAwyzcctgCMn8Vqth"
@@ -3348,7 +3424,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 162750,
       "name": "ENJOY",
       "url": "https://open.spotify.com/track/4hnjX99kAbXK5M7xf6ZHeT"
@@ -4730,7 +4806,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 202285,
       "name": "Joker",
       "url": "https://open.spotify.com/track/5FIUkCeZbTxg2vjKMl5aOu"
@@ -4850,6 +4926,24 @@
       "duration_ms": 168711,
       "name": "Kilometazz",
       "url": "https://open.spotify.com/track/7wlEX9Sfm0ALjdGsDR7OuE"
+    },
+    {
+      "album": {
+        "name": "KINDA GAZ",
+        "url": "https://open.spotify.com/album/0MtaAQfr6Qzs1yLYcRQsoN"
+      },
+      "artists": [
+        {
+          "name": "TETSUYA 241",
+          "url": "https://open.spotify.com/artist/4t9UdNjvKfan9CrkU0xDHv"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132809,
+      "name": "KINDA GAZ",
+      "url": "https://open.spotify.com/track/48HJsNpRYQ5frlxIR8BOAq"
     },
     {
       "album": {
@@ -4991,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "L'homme change",
+        "url": "https://open.spotify.com/album/5H6fOg9qQtXgQ9Oyue3NYn"
+      },
+      "artists": [
+        {
+          "name": "TC Levrai",
+          "url": "https://open.spotify.com/artist/6P0I3wPZ1IAa1Z8e7PYbVZ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "L'homme change",
+      "url": "https://open.spotify.com/track/5Wjru3kLyblL3g28sBhi0A"
+    },
+    {
+      "album": {
         "name": "L'OISEAU RARE",
         "url": "https://open.spotify.com/album/5Mp79epqwjSv19A0F5BO2Q"
       },
@@ -5086,6 +5198,24 @@
       "duration_ms": 186950,
       "name": "La vie des gens",
       "url": "https://open.spotify.com/track/3EcrfT5XuWsmoVMPXJZmhQ"
+    },
+    {
+      "album": {
+        "name": "PH\u00c9NOM\u00c8NE",
+        "url": "https://open.spotify.com/album/18lS2nxkhCAErI5FAV2GPK"
+      },
+      "artists": [
+        {
+          "name": "LINGAMS",
+          "url": "https://open.spotify.com/artist/7lTQ6es08aLl1Pac3Ep4TO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172564,
+      "name": "La V\u00c9RIT\u00c9",
+      "url": "https://open.spotify.com/track/1EWwt2gIWyr21VWU4osItk"
     },
     {
       "album": {
@@ -5452,7 +5582,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 145459,
       "name": "L\u2019ARGENT",
       "url": "https://open.spotify.com/track/1lbrQ8GuhynjZED2KDVYdI"
@@ -6340,7 +6470,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 136923,
       "name": "M\u00c9TAL",
       "url": "https://open.spotify.com/track/2K8aEzBkNZDEGWcJ3MtPlp"
@@ -6817,6 +6947,28 @@
     },
     {
       "album": {
+        "name": "OMPUP",
+        "url": "https://open.spotify.com/album/7tEDFdqTJTVI1fZi9x54rM"
+      },
+      "artists": [
+        {
+          "name": "Shado Chris",
+          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205388,
+      "name": "OMPUP",
+      "url": "https://open.spotify.com/track/4hpJebPFK6wogLTC4MzJQT"
+    },
+    {
+      "album": {
         "name": "ON BOIT O\u00d9 ?",
         "url": "https://open.spotify.com/album/70Lrll8DYhC1gAPjDygT4a"
       },
@@ -6828,7 +6980,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149743,
       "name": "ON BOIT O\u00d9 ?",
       "url": "https://open.spotify.com/track/3uJTAuNtIWQ5QgZe1YWjRo"
@@ -7111,6 +7263,28 @@
     },
     {
       "album": {
+        "name": "Pepper Soup",
+        "url": "https://open.spotify.com/album/4Asso54ovYsF67BCJjNnTp"
+      },
+      "artists": [
+        {
+          "name": "Okito 1er",
+          "url": "https://open.spotify.com/artist/6tYIJsloOAhl8DY3GenG1E"
+        },
+        {
+          "name": "Mozaar.mp3",
+          "url": "https://open.spotify.com/artist/0qU7MXUj68E7u1mle57VYQ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138177,
+      "name": "Pepper Soup",
+      "url": "https://open.spotify.com/track/0GYHcoB0tr2MqPPn3Z9nvs"
+    },
+    {
+      "album": {
         "name": "PERSONNE M'ATTENDAIT",
         "url": "https://open.spotify.com/album/07DrSSKYxmGhh1DgWtgUy9"
       },
@@ -7195,6 +7369,28 @@
     },
     {
       "album": {
+        "name": "MAFIOSO VIBES",
+        "url": "https://open.spotify.com/album/4XOQU1HZplHwXM78ZTRwyk"
+      },
+      "artists": [
+        {
+          "name": "Jordy Escobar",
+          "url": "https://open.spotify.com/artist/7y8rRFHnMzwKqKxgyLwJIb"
+        },
+        {
+          "name": "Shapat",
+          "url": "https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Plan de Dieu",
+      "url": "https://open.spotify.com/track/0n43Rn3jqG3KjRNTzpKRE9"
+    },
+    {
+      "album": {
         "name": "Pluie De Melo",
         "url": "https://open.spotify.com/album/5ZWcjfskJFh1VrcR37bTnH"
       },
@@ -7236,6 +7432,24 @@
       "duration_ms": 253200,
       "name": "PLUS DE LOVE",
       "url": "https://open.spotify.com/track/2OiQyIqqhqkaJJ83JuiZRH"
+    },
+    {
+      "album": {
+        "name": "D\u00e9smoth\u00e8ne Zeus",
+        "url": "https://open.spotify.com/album/60fPHO1yeZ4CVHkg2tsD3W"
+      },
+      "artists": [
+        {
+          "name": "Suspect 95",
+          "url": "https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176050,
+      "name": "Plus jahin",
+      "url": "https://open.spotify.com/track/1ZpsuOG0eE7wRqzIr9BXYz"
     },
     {
       "album": {
@@ -7850,7 +8064,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155430,
       "name": "SANTORINI",
       "url": "https://open.spotify.com/track/2oQ4yPaC19xVPrrPL4ywLQ"
@@ -8102,7 +8316,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163472,
       "name": "SORRY I'M BAD",
       "url": "https://open.spotify.com/track/5RbG6Oi4myHjMy9U74HoMn"
@@ -8288,7 +8502,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 129924,
       "name": "S\u00e9curis\u00e9",
       "url": "https://open.spotify.com/track/5KruRcDHp323eHdNJMfjjd"
@@ -9012,7 +9226,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 183425,
       "name": "Twrk",
       "url": "https://open.spotify.com/track/0nPdR6zPzCRRBP0ukdkGhE"
@@ -9346,6 +9560,24 @@
       "duration_ms": 140150,
       "name": "WALLOU",
       "url": "https://open.spotify.com/track/4E2ukl1HyOkU1pvV7IiQEK"
+    },
+    {
+      "album": {
+        "name": "Wari Fatchai",
+        "url": "https://open.spotify.com/album/5aLOjJtlh7sdKoaQOzu7Kw"
+      },
+      "artists": [
+        {
+          "name": "Miedjia",
+          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135238,
+      "name": "Wari Fatchai",
+      "url": "https://open.spotify.com/track/0NgtyK6apdDOUBk7TagybW"
     },
     {
       "album": {

@@ -4652,7 +4652,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 154960,
       "name": "New York",
       "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
@@ -7198,10 +7198,28 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
+    },
+    {
+      "album": {
+        "name": "hot girl agenda",
+        "url": "https://open.spotify.com/album/6tUQIRHBvp6mAnFl4aHqGb"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145398,
+      "name": "When Did You Get Hot?",
+      "url": "https://open.spotify.com/track/6vP2hVQsCBp6WWQlzHVtYq"
     },
     {
       "album": {

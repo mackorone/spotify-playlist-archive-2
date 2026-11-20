@@ -2,9 +2,9 @@
 
 ### [Hits From The Movies](https://open.spotify.com/playlist/37i9dQZF1DXb69UWhjrXsW)
 
-> The greatest songs in the history of cinema\. Celebrating Tim Curry in The Rocky Horror Picture Show.
+> The greatest songs in the history of cinema.
 
-156 songs - 10 hr 16 min
+157 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 | 2026-08-26 |  |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 | 2021-07-08 |  |
 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 | 2021-07-08 | 2024-02-06 |
-| [I Lied to You](https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 5:14 | 2026-03-12 |  |
+| [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-11-19 |  |
+| [I Lied to You](https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 5:14 | 2026-03-12 | 2026-11-20 |
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2024-02-05 |  |
 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 | 2021-07-08 |  |
 | [I'm Just Ken](https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 3:42 | 2024-03-11 | 2024-05-16 |

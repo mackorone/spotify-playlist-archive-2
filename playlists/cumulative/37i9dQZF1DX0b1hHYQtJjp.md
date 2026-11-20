@@ -2,9 +2,9 @@
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Recent hits and new songs from your fave artists\. Cover: Mark Ambor
+> Recent hits and new songs from your fave artists\. Cover: Kacey Musgraves
 
-2,731 songs - 6 day 6 hr 39 min
+2,734 songs - 6 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 | 2024-05-24 | 2024-06-08 |
 | [Crazier Things](https://open.spotify.com/track/2ptqYXyQ1QdArGjbrTzBaU) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 5:04 | 2020-02-07 | 2020-07-10 |
 | [Crazy Enough](https://open.spotify.com/track/1kVxCiSSA24IBdQIwOPVhN) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Crazy Enough](https://open.spotify.com/album/24PKDPDfnq4gOvyEs96uD8) | 3:11 | 2019-08-20 | 2020-02-14 |
+| [Crazy For You](https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:43 | 2026-11-20 |  |
 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 | 2024-05-25 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-02 | 2023-02-25 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-02 | 2022-12-07 |
@@ -1479,6 +1480,7 @@
 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 | 2024-07-26 | 2024-09-07 |
 | [Lucky](https://open.spotify.com/track/7fqqGL94As2CNyMy54plgo) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/1ZaHS1vWuq7mf7eniVTiFC) | 2:41 | 2023-03-10 | 2023-04-15 |
 | [Lucky \(feat\. Emily King\)](https://open.spotify.com/track/10RokxYn1aqGPeKGT5Z1C3) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Lucky \(Deluxe\)](https://open.spotify.com/album/42ejzMaOuiyLrUzaGg433c) | 4:06 | 2021-06-26 | 2021-07-17 |
+| [Lucky Me](https://open.spotify.com/track/7JmAPZJMAf7VBq8rrCwduu) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Lucky Me](https://open.spotify.com/album/60ohkB52oyMIZNKtPNAp2S) | 2:22 | 2026-11-20 |  |
 | [Lucky Nights](https://open.spotify.com/track/0f20d7okXHtOvHSuQFZ31B) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Lucky Nights](https://open.spotify.com/album/528nQJE99fdvkqjDjXM5iq) | 3:26 | 2026-10-09 |  |
 | [Machine](https://open.spotify.com/track/0XXxTyNb3Q0DPxpf0kQi8P) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Machine](https://open.spotify.com/album/5qrls7LonwyZYXnhxETAEC) | 2:40 | 2025-09-05 | 2025-10-25 |
 | [Mad About It](https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Mad About It](https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR) | 2:37 | 2026-05-29 | 2026-09-05 |
@@ -2308,7 +2310,7 @@
 | [The Joker](https://open.spotify.com/track/47VqjTHCzSCYeWyGQwOxUg) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [The Joker](https://open.spotify.com/album/6LvJgdq4APVZPXw701UvXz) | 2:26 | 2026-01-30 | 2026-03-14 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 | 2022-04-27 |
 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 | 2023-05-19 | 2023-08-05 |
-| [The Kardashians](https://open.spotify.com/track/7JlbrqQVlHh8rnaTlAzy9j) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Songs From The Wedding Cake](https://open.spotify.com/album/50t0TEz7Owjimd7bakSpkg) | 4:05 | 2026-10-09 |  |
+| [The Kardashians](https://open.spotify.com/track/7JlbrqQVlHh8rnaTlAzy9j) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Songs From The Wedding Cake](https://open.spotify.com/album/50t0TEz7Owjimd7bakSpkg) | 4:05 | 2026-10-09 | 2026-11-20 |
 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-12 | 2024-06-01 |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-17 | 2023-02-18 |
 | [The Last Bit Of Us](https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Last Bit Of Us](https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3) | 3:22 | 2024-03-29 | 2024-05-11 |
@@ -2338,9 +2340,10 @@
 | [The Show \(with John Legend\)](https://open.spotify.com/track/5asAkK2OiCuCdLCjqAXemz) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 3:11 | 2023-11-03 | 2024-02-24 |
 | [The Stranger](https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:11 | 2020-03-27 | 2021-03-06 |
 | [The Thing I Love](https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Thing I Love](https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG) | 2:52 | 2025-11-14 | 2026-08-08 |
-| [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 | 2026-06-26 |  |
+| [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 | 2026-06-26 | 2026-11-20 |
 | [The Tree](https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Bridge](https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA) | 3:25 | 2023-09-15 | 2024-01-20 |
 | [The Usual](https://open.spotify.com/track/2BypOWlak6LbJ2raGGzukY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework Part 1](https://open.spotify.com/album/1oeQryPTvkNIr90wRPrkaZ) | 3:32 | 2020-07-31 | 2020-11-10 |
+| [The Vacation Song](https://open.spotify.com/track/65m7niEXFiqqUB7spmOPGX) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [The Vacation Song](https://open.spotify.com/album/5hitACdfYcvfAKu1uZqiCK) | 3:27 | 2026-11-20 |  |
 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 | 2026-04-03 | 2026-04-25 |
 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-03-13 | 2026-05-30 |
 | [The Way I Am](https://open.spotify.com/track/38ovefcipRlByRd5UF9PWp) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [The Way I Am](https://open.spotify.com/album/2hCSV9TpwHN3fzv2hjSFYO) | 2:58 | 2019-09-13 | 2020-03-13 |

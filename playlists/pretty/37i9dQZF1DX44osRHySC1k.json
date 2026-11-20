@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 56002,
+  "num_followers": 56003,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWX+NCIFTtRhKGV5BlHJyTQYcFR",
+  "snapshot_id": "AAAAADGK2qpGM40GQbs6ixIhNPfHHXFZ",
   "tracks": [
     {
       "added_at": "2025-10-08 09:42:22",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "You'll Be In My Heart",
-        "url": "https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU"
-      },
-      "artists": [
-        {
-          "name": "Daavid Laaksonen",
-          "url": "https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK"
-        }
-      ],
-      "duration_ms": 272874,
-      "name": "You'll Be In My Heart",
-      "url": "https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Envision",
         "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 143000,
       "name": "Vague",
       "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "You'll Be In My Heart",
+        "url": "https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU"
+      },
+      "artists": [
+        {
+          "name": "Daavid Laaksonen",
+          "url": "https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK"
+        }
+      ],
+      "duration_ms": 272874,
+      "name": "You'll Be In My Heart",
+      "url": "https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
     },
     {
-      "added_at": "2025-10-08 09:42:22",
-      "album": {
-        "name": "Vespers",
-        "url": "https://open.spotify.com/album/6r2xNpVGI01U4w2M3e0CfL"
-      },
-      "artists": [
-        {
-          "name": "Vincent Novaes",
-          "url": "https://open.spotify.com/artist/1bWtods7s54SaWI5MyYTFA"
-        }
-      ],
-      "duration_ms": 154402,
-      "name": "Vespers",
-      "url": "https://open.spotify.com/track/2lzoxR34ISyzfi91kDdAit"
-    },
-    {
       "added_at": "2021-06-24 10:58:44",
       "album": {
         "name": "Let Go",
@@ -519,6 +503,22 @@
       "duration_ms": 191624,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/2gixQXOUSRnv7yBuplbgAK"
+    },
+    {
+      "added_at": "2025-10-08 09:42:22",
+      "album": {
+        "name": "Vespers",
+        "url": "https://open.spotify.com/album/6r2xNpVGI01U4w2M3e0CfL"
+      },
+      "artists": [
+        {
+          "name": "Vincent Novaes",
+          "url": "https://open.spotify.com/artist/1bWtods7s54SaWI5MyYTFA"
+        }
+      ],
+      "duration_ms": 154402,
+      "name": "Vespers",
+      "url": "https://open.spotify.com/track/2lzoxR34ISyzfi91kDdAit"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Eternal Thoughts",
-        "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
-      },
-      "artists": [
-        {
-          "name": "Orbit Release",
-          "url": "https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG"
-        }
-      ],
-      "duration_ms": 241438,
-      "name": "Eternal Thoughts",
-      "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 224000,
       "name": "Your Peace",
       "url": "https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Eternal Thoughts",
+        "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
+      },
+      "artists": [
+        {
+          "name": "Orbit Release",
+          "url": "https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG"
+        }
+      ],
+      "duration_ms": 241438,
+      "name": "Eternal Thoughts",
+      "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Wave After Wave EP",
-        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
-      },
-      "artists": [
-        {
-          "name": "The Only Star In The Sky",
-          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Quiet Nights",
-      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "My Sleeping Rose",
         "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 127865,
       "name": "My Sleeping Rose",
       "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Wave After Wave EP",
+        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
+      },
+      "artists": [
+        {
+          "name": "The Only Star In The Sky",
+          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Floating, Always",
-        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
-      },
-      "artists": [
-        {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
-        }
-      ],
-      "duration_ms": 137172,
-      "name": "Astral Therapy",
-      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Mantric Melody",
         "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 111277,
       "name": "Mantric Melody",
       "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Floating, Always",
+        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
+      },
+      "artists": [
+        {
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+        }
+      ],
+      "duration_ms": 137172,
+      "name": "Astral Therapy",
+      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
-      },
-      "artists": [
-        {
-          "name": "Alexander Molina",
-          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
-        }
-      ],
-      "duration_ms": 163012,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Mandala Spirit",
         "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 219716,
       "name": "Bloom Bliss",
       "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Molina",
+          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
+        }
+      ],
+      "duration_ms": 163012,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
     },
     {
       "added_at": "2021-06-24 10:58:44",

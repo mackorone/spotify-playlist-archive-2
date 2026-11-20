@@ -4,7 +4,7 @@
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-1,184 songs - 2 day 14 hr 13 min
+1,185 songs - 2 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Drip](https://open.spotify.com/track/0cP6KXDRSnjpMBllMJSWbE) | [Friendless](https://open.spotify.com/artist/0lrkJSVpKbalJUQKzmsCAv), [Jannah Beth](https://open.spotify.com/artist/6eC2CFvVSX6FZRJqTqXwZh) | [Drip](https://open.spotify.com/album/6fJnpfngcnPhzhC1Y1zhP2) | 3:08 | 2021-02-12 | 2021-02-26 |
 | [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/track/548GOTKSIJowswB8N7QqAO) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Drive \(feat\. Georgia Meek\)](https://open.spotify.com/album/5IMUKdTJfLFMDB3CfBEPX3) | 2:17 | 2024-02-09 | 2024-07-19 |
 | [Drive Through the Dark](https://open.spotify.com/track/1qYLMP5nJO4ySbzvEWHxT4) | [EMAN](https://open.spotify.com/artist/363x6zlc7Nirq0t1KJdSXj), [KODYN](https://open.spotify.com/artist/42lFHwDg3giCW1H8UhvjEh) | [Drive Through the Dark](https://open.spotify.com/album/4zVXxSD3NP1ZQbEP2RH3tN) | 2:39 | 2022-02-09 | 2022-02-25 |
+| [Dubstep Proper](https://open.spotify.com/track/06hW3CBqIcAQjlJsLLZM33) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Dubstep Proper](https://open.spotify.com/album/6XmeIexKCT3lBWies2fvDM) | 3:05 | 2026-11-19 |  |
 | [Dusk Till Dawn \(feat\. Sia\) \- John "J\-C" Carr Mix](https://open.spotify.com/track/6kQzmbSkHGexuwD9D3zNom) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [John “J\-C” Carr](https://open.spotify.com/artist/5gGoa8MFFvawLMeZU5GFB2) | [Dusk Till Dawn \(The Remixes\) \(feat\. Sia\)](https://open.spotify.com/album/6mZVOi06uAl1fS1pvZnZ7K) | 3:22 | 2020-11-03\* | 2020-12-04 |
 | [Dynamite \- EDM Remix](https://open.spotify.com/track/1HZ5LJMCzClg2pdomCnEPw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(Extended\)](https://open.spotify.com/album/2UX7xCHxzTLKuEom7VdwMJ) | 3:18 | 2020-11-03\* | 2020-11-18 |
 | [E Tu](https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt) | [E Tu](https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm) | 4:19 | 2024-02-26 | 2024-07-19 |

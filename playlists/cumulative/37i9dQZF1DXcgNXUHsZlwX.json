@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144173,
       "name": "Dans une autre cour",
       "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
@@ -3635,6 +3635,24 @@
     },
     {
       "album": {
+        "name": "Gros-bec - mstr 01",
+        "url": "https://open.spotify.com/album/5sPK5Uxwu8x5WpCgAiH0ED"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Hunt",
+          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Gros-bec - mstr 01",
+      "url": "https://open.spotify.com/track/0asNSH2zo5l6pdRqI7FMcW"
+    },
+    {
+      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6"
       },
@@ -3906,6 +3924,24 @@
       "duration_ms": 146000,
       "name": "How Do You Like Me Now",
       "url": "https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV"
+    },
+    {
+      "album": {
+        "name": "Good Company",
+        "url": "https://open.spotify.com/album/17mbVAzmAGJEWbIBdVJgXg"
+      },
+      "artists": [
+        {
+          "name": "Olivia Khoury",
+          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196052,
+      "name": "Hungry Hearts - Part 1",
+      "url": "https://open.spotify.com/track/1las2SjDBhN6hl5LQMkvfJ"
     },
     {
       "album": {
@@ -9654,7 +9690,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 284415,
       "name": "R\u00e9gate",
       "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
@@ -10114,6 +10150,24 @@
       "duration_ms": 87666,
       "name": "Snow Lake",
       "url": "https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn"
+    },
+    {
+      "album": {
+        "name": "Snowbird",
+        "url": "https://open.spotify.com/album/5vtftVsDSsN7vyuK4hICyq"
+      },
+      "artists": [
+        {
+          "name": "Avery Jane",
+          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280059,
+      "name": "Snowbird",
+      "url": "https://open.spotify.com/track/0SL7aTZpKSmwa9caafxfUe"
     },
     {
       "album": {
@@ -12434,7 +12488,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 264580,
       "name": "\u00c0 toi",
       "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"

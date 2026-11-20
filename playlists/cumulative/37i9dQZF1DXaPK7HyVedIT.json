@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Mochakk",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: \u00d6wnboss",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -404,6 +404,28 @@
       "duration_ms": 176769,
       "name": "Acid",
       "url": "https://open.spotify.com/track/5nhtx0a9xKEjThOm2N3hmP"
+    },
+    {
+      "album": {
+        "name": "Acid All Night / Superfreak",
+        "url": "https://open.spotify.com/album/6xzbvEOCFrG8zHuDymnju4"
+      },
+      "artists": [
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Knorst",
+          "url": "https://open.spotify.com/artist/72VmJeabwbXWiHrJzZ5Htg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Acid All Night",
+      "url": "https://open.spotify.com/track/1u44zorhtLVHDGzgl7XT2m"
     },
     {
       "album": {
@@ -3186,7 +3208,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 275232,
       "name": "Bring The Beat Back",
       "url": "https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC"
@@ -3832,7 +3854,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182442,
       "name": "Chasing",
       "url": "https://open.spotify.com/track/0dHPGoPIZhHabXrKUHSL7c"
@@ -8956,7 +8978,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 205190,
       "name": "Halos (Remix)",
       "url": "https://open.spotify.com/track/54qmD8D0sc5E7VYWwITcO4"
@@ -10825,6 +10847,24 @@
     },
     {
       "album": {
+        "name": "In The Weekend",
+        "url": "https://open.spotify.com/album/3COe7CLjzsDz1VHzFjY6W0"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184620,
+      "name": "In The Weekend",
+      "url": "https://open.spotify.com/track/6amm8tAfUEThvKJLUplUWc"
+    },
+    {
+      "album": {
         "name": "In Your Life",
         "url": "https://open.spotify.com/album/5nQrqlyRBi1y4HyuodhLUB"
       },
@@ -11741,6 +11781,24 @@
     },
     {
       "album": {
+        "name": "Keep Walking",
+        "url": "https://open.spotify.com/album/2WjyAmCaQmGBAXXMpRYUDF"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181301,
+      "name": "Keep Walking",
+      "url": "https://open.spotify.com/track/5QezaL8sqN2RPFDt1Qbfa6"
+    },
+    {
+      "album": {
         "name": "Keep You Warm",
         "url": "https://open.spotify.com/album/4VbujqPAbep2ZKmhPRdW7B"
       },
@@ -12100,7 +12158,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 226976,
       "name": "LA TO IBIZA",
       "url": "https://open.spotify.com/track/2nPFKy5gMQS7Faj3q8mqw2"
@@ -15357,6 +15415,50 @@
     },
     {
       "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/7f5YQZGN3AbMeiY79WQg1G"
+      },
+      "artists": [
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/51X2bZdwxtdf9drFp9xZZ8"
+    },
+    {
+      "album": {
+        "name": "No Signal",
+        "url": "https://open.spotify.com/album/3BG5IyNzxDAUraBD9moNFk"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Pat",
+          "url": "https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "No Signal",
+      "url": "https://open.spotify.com/track/34O2C1oFA4FHWU7418ZYxS"
+    },
+    {
+      "album": {
         "name": "No Stress",
         "url": "https://open.spotify.com/album/7vJ7QhUzRnJb7vSLFDR4YO"
       },
@@ -17728,7 +17830,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137812,
       "name": "Rhythm in My Veins",
       "url": "https://open.spotify.com/track/6da9V1BxCuEqD0ZDfax2cR"
@@ -20173,6 +20275,28 @@
     },
     {
       "album": {
+        "name": "SuperStar EP",
+        "url": "https://open.spotify.com/album/7ifnfKBzz0xzJWmO4aG1X9"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225136,
+      "name": "SuperStar",
+      "url": "https://open.spotify.com/track/0XCYzwF3DXOEajMhmtqq66"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/45QiiAqRNPVoDOazhSYRr8"
       },
@@ -21106,7 +21230,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 186825,
       "name": "Think Too Much",
       "url": "https://open.spotify.com/track/21gMbdNtW8Za7QOdTmWa5G"
@@ -22116,6 +22240,24 @@
       "duration_ms": 195483,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
+    },
+    {
+      "album": {
+        "name": "U.S. Robotics 56K",
+        "url": "https://open.spotify.com/album/4NwzaYEKHeycmJtrqsTOUr"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161005,
+      "name": "U.S. Robotics 56K",
+      "url": "https://open.spotify.com/track/6v5Dxordyfp0J9HS8E1eeW"
     },
     {
       "album": {
@@ -23280,7 +23422,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164307,
       "name": "Where You Go",
       "url": "https://open.spotify.com/track/6d1mptMgBAHBRH1MrcGauu"

@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 167595,
       "name": "Ik Kan Je Niet Vergeten",
       "url": "https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw"
@@ -3926,6 +3926,32 @@
       "duration_ms": 145837,
       "name": "Vloek van Barcelona",
       "url": "https://open.spotify.com/track/4uyFQbpIBFxWlRf3g5SDnd"
+    },
+    {
+      "album": {
+        "name": "Vrienden Voor Altijd",
+        "url": "https://open.spotify.com/album/6HUkKUsSc7gvuyQ4yLjbhI"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        },
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Samantha Steenwijk",
+          "url": "https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167898,
+      "name": "Vrienden Voor Altijd",
+      "url": "https://open.spotify.com/track/3WmyRqkjV14uKcueq03IEV"
     },
     {
       "album": {

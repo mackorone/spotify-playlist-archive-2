@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Anttonias en portada.",
+  "description": "Humboldt en portada.",
   "name": "alt/chile",
   "tracks": [
     {
@@ -920,6 +920,24 @@
       "duration_ms": 178285,
       "name": "aterrizar",
       "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
+    },
+    {
+      "album": {
+        "name": "Ode\u00f3n",
+        "url": "https://open.spotify.com/album/2JHo15D7xV0hfCBlESybZA"
+      },
+      "artists": [
+        {
+          "name": "Humboldt",
+          "url": "https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213696,
+      "name": "Atraviesa el mar",
+      "url": "https://open.spotify.com/track/0L0w17FktKMvICs88rssn8"
     },
     {
       "album": {
@@ -2849,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "Baja Latencia",
+        "url": "https://open.spotify.com/album/28IFWnJfsDOGfEjCzschO6"
+      },
+      "artists": [
+        {
+          "name": "Dodo",
+          "url": "https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242978,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/0SatCfjoecH19CeKlx1Qes"
+    },
+    {
+      "album": {
         "name": "IKARO",
         "url": "https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk"
       },
@@ -4110,6 +4146,28 @@
       "duration_ms": 222250,
       "name": "FANTA",
       "url": "https://open.spotify.com/track/3sgfOzoBtvoMq92GwcfCox"
+    },
+    {
+      "album": {
+        "name": "FANTASMA",
+        "url": "https://open.spotify.com/album/1Rami8EAsWiWDs0CXLf2vw"
+      },
+      "artists": [
+        {
+          "name": "PASKURANA",
+          "url": "https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ"
+        },
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "FANTASMA",
+      "url": "https://open.spotify.com/track/0lazlsptkeFaVRHBwnKBPZ"
     },
     {
       "album": {
@@ -10420,6 +10478,24 @@
       "duration_ms": 219031,
       "name": "Tenemos que cocinar",
       "url": "https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv"
+    },
+    {
+      "album": {
+        "name": "Tenerte y Perderte",
+        "url": "https://open.spotify.com/album/6aUtjYRRWMtAqhTWa5QO80"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169504,
+      "name": "Tenerte y Perderte",
+      "url": "https://open.spotify.com/track/6Gp4ZuTAVHuuz7FW3dZ1RW"
     },
     {
       "album": {

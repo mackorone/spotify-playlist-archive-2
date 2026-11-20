@@ -4,7 +4,7 @@
 
 > The premier indie melancholia playlist, featuring Phoebe Bridgers
 
-452 songs - 1 day 6 hr 17 min
+453 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Lost Weekend](https://open.spotify.com/track/1GMPPheF4aMHMifOgp72eF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:38 | 2026-08-28 | 2026-10-13 |
 | [Love Me Right](https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Blues Ballads](https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi) | 1:54 | 2020-08-30 | 2020-09-11 |
 | [Lover I Don't Have to Love](https://open.spotify.com/track/5kfbZ2Dt3FYVboAfrAG5by) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [LIFTED or The Story Is in the Soil, Keep Your Ear to the Ground \(Remastered\)](https://open.spotify.com/album/3D9lWF6r92UhRESvgte65y) | 3:59 | 2020-08-30 | 2020-09-11 |
+| [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2026-11-19 |  |
 | [Lover, You Should’ve Come Over](https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Lover, You Should’ve Come Over](https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm) | 6:01 | 2024-01-03 | 2024-09-14 |
 | [Lua](https://open.spotify.com/track/1fyCXDT3vwV0SDWHKvYDmQ) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning \(Remastered\)](https://open.spotify.com/album/4tpKgz8yC8yAgfND0BiogA) | 4:31 | 2020-08-30 | 2020-09-11 |
 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 | 2022-07-15 | 2024-04-19 |
@@ -320,7 +321,7 @@
 | [Shattered & Hollow](https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 4:04 | 2020-08-30 | 2020-09-11 |
 | [Show Me Love](https://open.spotify.com/track/07KMQNsSXfWJjOzFzwNWoE) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [The Moon Rang Like a Bell](https://open.spotify.com/album/5TclsFNhJ3vy0rfDrGnn8r) | 1:15 | 2020-10-14 | 2023-04-27 |
 | [Showdown](https://open.spotify.com/track/7kSPVqnvUenYmuROkZzPhI) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Nightlife](https://open.spotify.com/album/5ssxOLX2DiuNolOe0P3V70) | 4:32 | 2020-08-30 | 2020-09-11 |
-| [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 | 2024-07-08 |  |
+| [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 | 2024-07-08 | 2026-11-20 |
 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 | 2020-08-30 | 2020-09-11 |
 | [Skinny Love](https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 3:58 | 2024-03-08 | 2024-09-14 |
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2022-08-26 | 2024-04-19 |

@@ -1,13 +1,33 @@
 {
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Alan Walker, Hamza Malik, Zain Zohaib, James Arthur",
-  "num_followers": 22548,
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Aashir Wajahat, Sabaat Batin",
+  "num_followers": 22577,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEItWNlxRb6Vb8P869vjqMRx87SP",
+  "snapshot_id": "AAAAAGcalvBTRDuYPJ5TQ3KZQohpFIGZ",
   "tracks": [
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Guddiyan",
+        "url": "https://open.spotify.com/album/3ZyU7FF8hQL8fu87js8xju"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Sabaat Batin",
+          "url": "https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju"
+        }
+      ],
+      "duration_ms": 162244,
+      "name": "Guddiyan",
+      "url": "https://open.spotify.com/track/4lVXUWnpQVbtkLTvIJw9Rh"
+    },
     {
       "added_at": "2026-11-13 03:00:27",
       "album": {
@@ -35,6 +55,322 @@
       "duration_ms": 174025,
       "name": "Alfaaz (Alan Walker Relight)",
       "url": "https://open.spotify.com/track/0xf17o8wZ8sfpsojIMm1qn"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/7I2cR0ofA1RSRCBZSqY7j9"
+      },
+      "artists": [
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        },
+        {
+          "name": "Shareh",
+          "url": "https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa"
+        }
+      ],
+      "duration_ms": 234932,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/5VqPalDgNOq0IKWQwiIcCL"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Manjave",
+        "url": "https://open.spotify.com/album/19sc3jCJ33V8mFeebNxFSO"
+      },
+      "artists": [
+        {
+          "name": "SULTAN",
+          "url": "https://open.spotify.com/artist/6rve0jWDS7W8QQtACZsJ6O"
+        },
+        {
+          "name": "Fizza Raees",
+          "url": "https://open.spotify.com/artist/6V9gyN683unD16WBRIUAzK"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Manjave",
+      "url": "https://open.spotify.com/track/5FgNOGnn32QlbkFY6sm9zc"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Husn",
+        "url": "https://open.spotify.com/album/60jKs8KcQRPy29mWtxna5q"
+      },
+      "artists": [
+        {
+          "name": "Saad Sultan",
+          "url": "https://open.spotify.com/artist/1OBBbn5fM7Lj0zhlChlgi3"
+        },
+        {
+          "name": "Tahyr",
+          "url": "https://open.spotify.com/artist/3NIOWo2k5fOeSA3z4dmJDG"
+        }
+      ],
+      "duration_ms": 62608,
+      "name": "Husn",
+      "url": "https://open.spotify.com/track/6KlbHoa4xWF97NVC3IJ3kP"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Sab He Yahan",
+        "url": "https://open.spotify.com/album/0rEIKEvF2Pzgz4SU7fWBzf"
+      },
+      "artists": [
+        {
+          "name": "Belaal",
+          "url": "https://open.spotify.com/artist/43yRI94YNMeWDCF0FLX8m2"
+        },
+        {
+          "name": "Sameen Khawaja",
+          "url": "https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B"
+        }
+      ],
+      "duration_ms": 246003,
+      "name": "Sab He Yahan",
+      "url": "https://open.spotify.com/track/5eOwerLjpaNUDzjjzqcoSQ"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Mujasme (Reimagined)",
+        "url": "https://open.spotify.com/album/5pHRYjrVw55m7G9oo4tIfG"
+      },
+      "artists": [
+        {
+          "name": "Zain kazmi",
+          "url": "https://open.spotify.com/artist/4S8tOzdNUO2KGLn7bXyWmr"
+        },
+        {
+          "name": "Malihaa",
+          "url": "https://open.spotify.com/artist/60nVICLgl6zIgetp48OZCZ"
+        },
+        {
+          "name": "Thiccie",
+          "url": "https://open.spotify.com/artist/7I5qIF313F9cj6ZCCHbXKN"
+        }
+      ],
+      "duration_ms": 181301,
+      "name": "Mujasme - Reimagined",
+      "url": "https://open.spotify.com/track/357sbaehgx44H8Eh0EfBSE"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Pehla Jaan",
+        "url": "https://open.spotify.com/album/5hSplwQymO0VOEsFoUXKjh"
+      },
+      "artists": [
+        {
+          "name": "SCARx",
+          "url": "https://open.spotify.com/artist/7kJXz1r8dkGne8tLqBYNoX"
+        },
+        {
+          "name": "Trigger Tapes",
+          "url": "https://open.spotify.com/artist/1tHbtg79S5CVZOdLf5AdT9"
+        },
+        {
+          "name": "Solomon Majid",
+          "url": "https://open.spotify.com/artist/6S9PnfzXydTE22placBcz6"
+        }
+      ],
+      "duration_ms": 160275,
+      "name": "Pehla Jaan",
+      "url": "https://open.spotify.com/track/45McUCoISXKD06zMDJgzDP"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/7I2cR0ofA1RSRCBZSqY7j9"
+      },
+      "artists": [
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Finding Myself",
+      "url": "https://open.spotify.com/track/2zBbzP6ArTrb7PfQwvDm4E"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Sajna O Meray",
+        "url": "https://open.spotify.com/album/4w6sD0a0pBBbV0kWHSCu9m"
+      },
+      "artists": [
+        {
+          "name": "The Haider",
+          "url": "https://open.spotify.com/artist/7hzc3d6oORpqvThybwC8Yr"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Sajna O Meray",
+      "url": "https://open.spotify.com/track/2fHoT8dHmMZHTLafX1QtD6"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Talaash",
+        "url": "https://open.spotify.com/album/4oF2QqiiwJCUF5znSzk5pM"
+      },
+      "artists": [
+        {
+          "name": "Mansab Fayyaz",
+          "url": "https://open.spotify.com/artist/0CrCD5CVnWh232Dh3cO8Yc"
+        }
+      ],
+      "duration_ms": 185294,
+      "name": "Talaash",
+      "url": "https://open.spotify.com/track/0KUjtQmoCcw2REyQxqNkXG"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Scars on You",
+        "url": "https://open.spotify.com/album/2O0pCuQ1cONzYyaDTFGdz8"
+      },
+      "artists": [
+        {
+          "name": "Soid",
+          "url": "https://open.spotify.com/artist/6qKtwpLo4XWAaygLhCypm3"
+        },
+        {
+          "name": "Prod.S41F",
+          "url": "https://open.spotify.com/artist/7K1GRJOvTEuCMDh07x4mNe"
+        }
+      ],
+      "duration_ms": 154461,
+      "name": "Scars on You",
+      "url": "https://open.spotify.com/track/1xRmTpD1yqtfYai3mCCebS"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Viah",
+        "url": "https://open.spotify.com/album/47u4xFmPWEdtOOesYRhLNY"
+      },
+      "artists": [
+        {
+          "name": "Mehmood J",
+          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
+        },
+        {
+          "name": "DeryAala",
+          "url": "https://open.spotify.com/artist/2I5pgCixkzLJj8jb2R0hvt"
+        }
+      ],
+      "duration_ms": 150750,
+      "name": "Viah",
+      "url": "https://open.spotify.com/track/13Bjs8k9XgzqbYYAsCUTvj"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Mitti & Melodies",
+        "url": "https://open.spotify.com/album/1Z1PMgLe3mwMF4Z2NHmZus"
+      },
+      "artists": [
+        {
+          "name": "Star Shah",
+          "url": "https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E"
+        },
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Radha",
+      "url": "https://open.spotify.com/track/2b9MDHc21XOuhqVXjVIrsg"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Mitti & Melodies",
+        "url": "https://open.spotify.com/album/1Z1PMgLe3mwMF4Z2NHmZus"
+      },
+      "artists": [
+        {
+          "name": "Star Shah",
+          "url": "https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E"
+        },
+        {
+          "name": "Mehmood J",
+          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Sohniye",
+      "url": "https://open.spotify.com/track/2fXAPCTKedmj1dxFrJviRs"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/4bvmihdDeJ2mw1HaBbFoPD"
+      },
+      "artists": [
+        {
+          "name": "Nirmal Roy",
+          "url": "https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/5BYBECI7ojtc5EfGFG1jjK"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "dream",
+        "url": "https://open.spotify.com/album/6JctirHBOzxsS1kQ4YxKZ2"
+      },
+      "artists": [
+        {
+          "name": "Maria Unera",
+          "url": "https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW"
+        },
+        {
+          "name": "Bouncy",
+          "url": "https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "dream",
+      "url": "https://open.spotify.com/track/4ScwGZLpq91ClZNI7G7Xn4"
+    },
+    {
+      "added_at": "2026-11-20 02:00:10",
+      "album": {
+        "name": "OCTOBER",
+        "url": "https://open.spotify.com/album/4ws91CJgChmNvA2pYFZPrQ"
+      },
+      "artists": [
+        {
+          "name": "Hassaan Shaheer",
+          "url": "https://open.spotify.com/artist/6WPtkGlueETTYhoz0FSyHi"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shehryar Khan",
+          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
+        }
+      ],
+      "duration_ms": 166801,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/2YG19M2CtrSDPx3macV5ZT"
     },
     {
       "added_at": "2026-11-13 03:00:27",

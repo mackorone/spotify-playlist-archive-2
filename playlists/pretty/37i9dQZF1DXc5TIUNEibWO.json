@@ -1,12 +1,12 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 11071,
+  "num_followers": 11084,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEg7Bs8A5Tj2x7VooLNEZg5ERoWi",
+  "snapshot_id": "AAAAALC14n2jzaIPtCHHjoVjdeZBW/ak",
   "tracks": [
     {
       "added_at": "2026-02-20 08:28:52",
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 310666,
-      "name": "Aben Wo Aha",
-      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
+      "duration_ms": 359173,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/31SKMNN49ZSMu3IrtW8V1e"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 359173,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/31SKMNN49ZSMu3IrtW8V1e"
+      "duration_ms": 310666,
+      "name": "Aben Wo Aha",
+      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Iron Boy",
-        "url": "https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc"
-      },
-      "artists": [
-        {
-          "name": "Amakye Dede",
-          "url": "https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj"
-        }
-      ],
-      "duration_ms": 316240,
-      "name": "Mawerekyekyere",
-      "url": "https://open.spotify.com/track/2NuJo2kUwQUHmXtkou4anP"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "A. B Crentsil, Vol. 1",
         "url": "https://open.spotify.com/album/719C77dYPxQBhH90NddnAq"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 295145,
       "name": "I Go Pay You Tomorrow",
       "url": "https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Iron Boy",
+        "url": "https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc"
+      },
+      "artists": [
+        {
+          "name": "Amakye Dede",
+          "url": "https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj"
+        }
+      ],
+      "duration_ms": 316240,
+      "name": "Mawerekyekyere",
+      "url": "https://open.spotify.com/track/2NuJo2kUwQUHmXtkou4anP"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Otoolege",
-        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
-      },
-      "artists": [
-        {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
-        }
-      ],
-      "duration_ms": 343280,
-      "name": "Bonwire",
-      "url": "https://open.spotify.com/track/4bJZIgQuefmHbMq3v8P5NG"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Abeiku",
         "url": "https://open.spotify.com/album/2oIwt5wf1BMRe3m386BrBT"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 342960,
       "name": "Abeiku",
       "url": "https://open.spotify.com/track/0R55ud90TSQNXeqLeepXPq"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Otoolege",
+        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "duration_ms": 343280,
+      "name": "Bonwire",
+      "url": "https://open.spotify.com/track/4bJZIgQuefmHbMq3v8P5NG"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Asew",
-        "url": "https://open.spotify.com/album/6gGbScQPeTSBSsytwrzmD5"
-      },
-      "artists": [
-        {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
-        }
-      ],
-      "duration_ms": 362173,
-      "name": "Asew",
-      "url": "https://open.spotify.com/track/7LK9ricpfETVGSvMIKbmWZ"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Love Classics",
         "url": "https://open.spotify.com/album/3MnCoc8Ya7XHPDY7eRlvJW"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 375426,
       "name": "Akonoba",
       "url": "https://open.spotify.com/track/2zr71skOlEOnm1Lv7fxpX2"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Asew",
+        "url": "https://open.spotify.com/album/6gGbScQPeTSBSsytwrzmD5"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "duration_ms": 362173,
+      "name": "Asew",
+      "url": "https://open.spotify.com/track/7LK9ricpfETVGSvMIKbmWZ"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -539,18 +539,18 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Akoo Te Brofo",
-        "url": "https://open.spotify.com/album/6j9WYjUpnKSyuOSL3F6Bhw"
+        "name": "Kabribi Kyere Me",
+        "url": "https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I"
       },
       "artists": [
         {
-          "name": "George Darko",
-          "url": "https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9"
+          "name": "Oheneba Kissi",
+          "url": "https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4"
         }
       ],
-      "duration_ms": 573440,
-      "name": "Akoo Te Brofo",
-      "url": "https://open.spotify.com/track/3TYgzjwlcpEdN1GufC9C2U"
+      "duration_ms": 266866,
+      "name": "Asem Ben?",
+      "url": "https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -571,18 +571,18 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Kabribi Kyere Me",
-        "url": "https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I"
+        "name": "Akoo Te Brofo",
+        "url": "https://open.spotify.com/album/6j9WYjUpnKSyuOSL3F6Bhw"
       },
       "artists": [
         {
-          "name": "Oheneba Kissi",
-          "url": "https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4"
+          "name": "George Darko",
+          "url": "https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9"
         }
       ],
-      "duration_ms": 266866,
-      "name": "Asem Ben?",
-      "url": "https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK"
+      "duration_ms": 573440,
+      "name": "Akoo Te Brofo",
+      "url": "https://open.spotify.com/track/3TYgzjwlcpEdN1GufC9C2U"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Rhythm On The Radio - Oval Records Singles 1974-1987",
-        "url": "https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6"
-      },
-      "artists": [
-        {
-          "name": "George Darko",
-          "url": "https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9"
-        }
-      ],
-      "duration_ms": 375266,
-      "name": "Highlife Time",
-      "url": "https://open.spotify.com/track/7wBc1GgjHtROXgq9oXQvwQ"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "My Sweetheart",
         "url": "https://open.spotify.com/album/7iL0RAeJ5oGgkThuw1I7AJ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 360240,
       "name": "Veranda",
       "url": "https://open.spotify.com/track/661VXHANy2wLEQftFosxuH"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Rhythm On The Radio - Oval Records Singles 1974-1987",
+        "url": "https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6"
+      },
+      "artists": [
+        {
+          "name": "George Darko",
+          "url": "https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9"
+        }
+      ],
+      "duration_ms": 375266,
+      "name": "Highlife Time",
+      "url": "https://open.spotify.com/track/7wBc1GgjHtROXgq9oXQvwQ"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Wulomei Returns",
-        "url": "https://open.spotify.com/album/6m86XGQrgOFLYKRdriilyx"
-      },
-      "artists": [
-        {
-          "name": "Wulomei",
-          "url": "https://open.spotify.com/artist/6WzfiML2Juo5YqGItmsRAH"
-        }
-      ],
-      "duration_ms": 275453,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/71x2VPLAGpTUQ8Md9t8An6"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Twa Me Ke Ke",
         "url": "https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 331133,
       "name": "Sherry",
       "url": "https://open.spotify.com/track/0Lal2wxOG7u95l7hz6TYxO"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Wulomei Returns",
+        "url": "https://open.spotify.com/album/6m86XGQrgOFLYKRdriilyx"
+      },
+      "artists": [
+        {
+          "name": "Wulomei",
+          "url": "https://open.spotify.com/artist/6WzfiML2Juo5YqGItmsRAH"
+        }
+      ],
+      "duration_ms": 275453,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/71x2VPLAGpTUQ8Md9t8An6"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "The Best of Charles Amoah Vol.1",
-        "url": "https://open.spotify.com/album/0xeXbvlBdcG1qeZVkHlP5O"
-      },
-      "artists": [
-        {
-          "name": "Charles Amoah",
-          "url": "https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg"
-        }
-      ],
-      "duration_ms": 359955,
-      "name": "Mene Wo Begoro",
-      "url": "https://open.spotify.com/track/2IC7ISC96MlZhBBCcnRXT7"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Fa Idi Bidim",
         "url": "https://open.spotify.com/album/0MKTh5bBvdiUexxG8o4ilW"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Ghana Awake, Vol. 1",
-        "url": "https://open.spotify.com/album/7HzECIqKqXIIdXACUpzvKO"
+        "name": "The Best of Charles Amoah Vol.1",
+        "url": "https://open.spotify.com/album/0xeXbvlBdcG1qeZVkHlP5O"
       },
       "artists": [
         {
-          "name": "Adane Best",
-          "url": "https://open.spotify.com/artist/0iHoxGhjygQ3WczfHVuYyn"
+          "name": "Charles Amoah",
+          "url": "https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg"
         }
       ],
-      "duration_ms": 302560,
-      "name": "Femo Dil",
-      "url": "https://open.spotify.com/track/4i46wJCnmgYjfk7m95P2pH"
+      "duration_ms": 359955,
+      "name": "Mene Wo Begoro",
+      "url": "https://open.spotify.com/track/2IC7ISC96MlZhBBCcnRXT7"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -867,6 +851,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
+        "name": "Ghana Awake, Vol. 1",
+        "url": "https://open.spotify.com/album/7HzECIqKqXIIdXACUpzvKO"
+      },
+      "artists": [
+        {
+          "name": "Adane Best",
+          "url": "https://open.spotify.com/artist/0iHoxGhjygQ3WczfHVuYyn"
+        }
+      ],
+      "duration_ms": 302560,
+      "name": "Femo Dil",
+      "url": "https://open.spotify.com/track/4i46wJCnmgYjfk7m95P2pH"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
         "name": "FREMA",
         "url": "https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980-93",
-        "url": "https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv"
-      },
-      "artists": [
-        {
-          "name": "Charles Amoah",
-          "url": "https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg"
-        }
-      ],
-      "duration_ms": 381408,
-      "name": "Fre Me (Call Me)",
-      "url": "https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Katamanto Highlife Orchestra",
         "url": "https://open.spotify.com/album/3y3yuDBOIWUc2kfLz4uyIs"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 272533,
       "name": "Maafio",
       "url": "https://open.spotify.com/track/79zxhAakeU9vGjXONZPf7w"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980-93",
+        "url": "https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv"
+      },
+      "artists": [
+        {
+          "name": "Charles Amoah",
+          "url": "https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg"
+        }
+      ],
+      "duration_ms": 381408,
+      "name": "Fre Me (Call Me)",
+      "url": "https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
         }
       ],
-      "duration_ms": 351346,
-      "name": "Wodo Enda",
-      "url": "https://open.spotify.com/track/1kZ2nECfkHK77kHC1Nq3BD"
+      "duration_ms": 322481,
+      "name": "Still I Love You",
+      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
         }
       ],
-      "duration_ms": 322481,
-      "name": "Still I Love You",
-      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
+      "duration_ms": 351346,
+      "name": "Wodo Enda",
+      "url": "https://open.spotify.com/track/1kZ2nECfkHK77kHC1Nq3BD"
     },
     {
       "added_at": "2026-02-20 08:28:52",

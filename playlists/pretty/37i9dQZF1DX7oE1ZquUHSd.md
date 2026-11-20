@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,423 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,472 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 52 | [Basado en hechos reales](https://open.spotify.com/track/5YcF2yE63JW70yfB9rIprG) | [Nach Scratch](https://open.spotify.com/artist/2HiFszpmRqt7qy3eGBI62V) | [En la brevedad de los dias](https://open.spotify.com/album/0hllL83xhHyw3bU8xIlQay) | 4:05 |
 | 53 | [Dr\. Dedoverde \(Dr\. Greenthumb\) \- Spanish Version](https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:58 |
 | 54 | [Réplica](https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Réplica](https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we) | 5:05 |
-| 55 | [Desde](https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Desde](https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL) | 4:37 |
-| 56 | [Mis Disculpas](https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Mis Disculpas](https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB) | 8:08 |
+| 55 | [Mis Disculpas](https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Mis Disculpas](https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB) | 8:08 |
+| 56 | [Desde](https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Desde](https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL) | 4:37 |
 | 57 | [Por Amor al Odio \(Versión Jazz\)](https://open.spotify.com/track/48MRnIDd36Zp5XxFgYfEHg) | [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3), [Glaç](https://open.spotify.com/artist/15hd9Fica9zjDslWUJUKgm) | [Donde Duele Inspira \(Versión Jazz\)](https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL) | 7:18 |
 | 58 | [Mi Familia](https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Expreso Aerophon](https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr) | 5:13 |
 | 59 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 81 | [Hasta las 3 de la Mañana](https://open.spotify.com/track/3fWUR3Klzp36JZwIi5DUy8) | [Gona](https://open.spotify.com/artist/3yrN2y3XifdxgoTVMiTpDB) | [Ocho Lunas](https://open.spotify.com/album/1RXTzclIwzHy9x0q5y9uLw) | 5:26 |
 | 82 | [Real](https://open.spotify.com/track/6vmMbjKjcFWxE4eJvneNdQ) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H) | [Real](https://open.spotify.com/album/5if6wXKwPFKHXfjA1TlkD5) | 4:12 |
 | 83 | [Tú](https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 7:32 |
-| 84 | [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 |
-| 85 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |
+| 84 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |
+| 85 | [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 |
 | 86 | [Arenita Playita \(feat\. Eska\)](https://open.spotify.com/track/0cpJGhd9GZbWw6ThPQ8Ic0) | [Cuarto Poder](https://open.spotify.com/artist/2jZIvxOfIP6hhzthCqRmqI) | [In Tha House](https://open.spotify.com/album/6XtBrJHt6GPGt8gKVOh92N) | 4:59 |
 | 87 | [Expedición Al Klama Hama](https://open.spotify.com/track/0iLy9clhTrnBVYkLntoh5p) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Versus](https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g) | 5:13 |
 | 88 | [Balas](https://open.spotify.com/track/61udLtunSv95Gu89jiWUWf) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Mexicano 777](https://open.spotify.com/artist/3FgR6lfwIY7VD2lDryeh1e) | [Tempo Éxitos](https://open.spotify.com/album/1HI1kTUhjj0RgxtrZ0VCWb) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Ayer Y Hoy](https://open.spotify.com/track/5qNk2QaoikQUp4Xoo5LAeo) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Mejor Que El Silencio](https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529) | 4:05 |
 | 100 | [120 Barras: Capítulo 1](https://open.spotify.com/track/1WqSDATCV98n00oBn7CqKf) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [120 Barras: Capítulo 1](https://open.spotify.com/album/6mEw59v4PmmQhtcGbjS4qr) | 3:16 |
 
-Snapshot ID: `AAAAADEyUVNiA7wKVFPbRHPgpsZNijix`
+Snapshot ID: `AAAAAMaJS1RgZDt3l3PXh69XZN/X81Fq`

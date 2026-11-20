@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37860,
+  "num_followers": 37862,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAuSmyxNucOtCckinhFVCiJ",
+  "snapshot_id": "avzqgAAAAADcwDmYRzRhAZ8Fu7NRPxk8",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 224759,
-      "name": "Found Atlas",
-      "url": "https://open.spotify.com/track/42nE0MvyqvtV1Ee9lgMVKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Phantom Five",
         "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 241693,
       "name": "A Letter To No One",
       "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 224759,
+      "name": "Found Atlas",
+      "url": "https://open.spotify.com/track/42nE0MvyqvtV1Ee9lgMVKv"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRAINDEAD",
-        "url": "https://open.spotify.com/album/0ljZRCAuKCLVEhqfnw6Ygv"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 215849,
-      "name": "flagpole sitta",
-      "url": "https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Phantom Five",
         "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 182893,
       "name": "I Am Happy",
       "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRAINDEAD",
+        "url": "https://open.spotify.com/album/0ljZRCAuKCLVEhqfnw6Ygv"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 215849,
+      "name": "flagpole sitta",
+      "url": "https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1"
     },
     {
       "added_at": null,
@@ -731,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Are All Insane",
-        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
+        "name": "Table for One (feat. Elohim)",
+        "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 211400,
-      "name": "We Are All Insane",
-      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
+      "duration_ms": 278867,
+      "name": "Table for One (feat. Elohim)",
+      "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Table for One (feat. Elohim)",
-        "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
+        "name": "We Are All Insane",
+        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 278867,
-      "name": "Table for One (feat. Elohim)",
-      "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
+      "duration_ms": 211400,
+      "name": "We Are All Insane",
+      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
     },
     {
       "added_at": null,

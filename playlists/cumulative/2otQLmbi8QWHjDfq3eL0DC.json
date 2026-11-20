@@ -12293,6 +12293,24 @@
     },
     {
       "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7tqqWGF6EXf7KJw9EHf7O5"
+      },
+      "artists": [
+        {
+          "name": "GetOut",
+          "url": "https://open.spotify.com/artist/7v36gMgCrX9VoyXkqVxfYS"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/0bWbyCledvKvUNsp18nyXu"
+    },
+    {
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -12404,7 +12422,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137704,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/2GB63IdYakdDaKVVwIYs88"

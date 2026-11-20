@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1980s that will make you dance all summer long!",
-  "num_followers": 568973,
+  "num_followers": 568985,
   "original_name": "Summer Hits of the 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIGAXcYexMOwMigXYzLlN4OxSuIK",
+  "snapshot_id": "AAAAANAVQ03TxHkGHh1ehYiAjNJS8xxp",
   "tracks": [
     {
       "added_at": "2025-04-15 15:58:46",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 258317,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 320680,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 258317,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": "2025-04-15 15:58:46",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-04-15 15:58:46",
       "album": {
-        "name": "Around the World in a Day",
-        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Raspberry Beret",
-      "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
-    },
-    {
-      "added_at": "2025-04-15 15:58:46",
-      "album": {
         "name": "The Very Best Of Kool & The Gang",
         "url": "https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 238933,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/7ktxXsACTciz3gAtuzd1uV"
+    },
+    {
+      "added_at": "2025-04-15 15:58:46",
+      "album": {
+        "name": "Around the World in a Day",
+        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
     },
     {
       "added_at": "2025-04-15 15:58:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Enjoy music from "Nijigasaki High School Idol Club"\. ©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,218 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,219 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 49 | [LIVE with a smile!](https://open.spotify.com/track/2ADhseHRNiaV6NOjP6qZ2X) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1), [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [LIVE with a smile!](https://open.spotify.com/album/440iaSHnfUVbHAu9m6Qtz8) | 5:13 |
 | 50 | [5201314](https://open.spotify.com/track/1Xwd04G30VxU0WszLqIjMa) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [Fly with You!!](https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA) | 3:57 |
 
-Snapshot ID: `AAAAAPjtMs/ehg0wnMxxqriej0TLRo7U`
+Snapshot ID: `AAAAAJd8uNS+m3uJQPNDCOzFx7iwZd6/`

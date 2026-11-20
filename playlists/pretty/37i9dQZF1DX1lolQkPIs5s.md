@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,768 likes - 108 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,767 likes - 108 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 107 | [Zoo](https://open.spotify.com/track/1aLsZ2cYTMvNdvLBBR4t78) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Dream Ami](https://open.spotify.com/artist/6Oeb6i0acXNe1Q1MqqfkPX) | [Zoo](https://open.spotify.com/album/1bxGBiMcY6kn503VQiYSZ3) | 3:10 |
 | 108 | [Welcome to Christmas \- 2024](https://open.spotify.com/track/4efuWaI8TXsKdDDEN85iwc) | [Kaho Shimada](https://open.spotify.com/artist/5f3bK61MPrJ94WSj4RrRHi) | [Kaho Shimada sings Disney](https://open.spotify.com/album/541VSuFD3uKr3rfZ3cJQH2) | 4:25 |
 
-Snapshot ID: `AAAAAK5jdF6B6SKpJQ38GQNK/bfXVNtS`
+Snapshot ID: `AAAAAK9sKOcrc6rnJHWdP9AgFqqu3M2m`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,404 songs - 3 day 3 hr 1 min
+1,405 songs - 3 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 | 2023-09-01 | 2024-06-08 |
 | [Both Of Us](https://open.spotify.com/track/7q584VOAZLMPaIQ9pedKFl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 5:53 | 2022-07-14 | 2022-07-30 |
 | [Both Of Us \- Edit](https://open.spotify.com/track/5ah8n1zTdzGsJyZWjhrjJ8) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/2w6dTlyOrn383x0L6aV9Xm) | 3:49 | 2020-12-27 | 2022-04-17 |
+| [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 | 2026-11-20 |  |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-21 | 2023-05-20 |
 | [Bring Me Down \- Vocal Mix](https://open.spotify.com/track/049MMnSYqnfbUFyAZlq8SY) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R), [Zac Toms](https://open.spotify.com/artist/4NIatCnGgmP3CVi1kP07yk) | [Bring Me Down 2014](https://open.spotify.com/album/69ctY5wPad54fhQJDvuZEB) | 5:47 | 2020-07-01 | 2020-10-13 |
 | [Bruk It Down \(feat\. TxTHEWAY\)](https://open.spotify.com/track/04J03yanQCmSuigan5Y0cM) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [TxTHEWAY](https://open.spotify.com/artist/1G8r1xxQVLm8AXRI2iohhe) | [Bruk It Down \(feat\. TxTHEWAY\)](https://open.spotify.com/album/696wZWXfscdFjxQxK06WgP) | 2:16 | 2020-05-22\* | 2022-04-21 |
@@ -1303,7 +1304,7 @@
 | [Up All Night](https://open.spotify.com/track/5s7nFwGLm6V2PUVhX45Sbi) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Up All Night](https://open.spotify.com/album/30m8YVoT4er7XKeIaIurNW) | 2:41 | 2021-10-13 | 2022-04-20 |
 | [Up All Night](https://open.spotify.com/track/5RugEn59RTnWE4IM4uBaC9) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [Up All Night](https://open.spotify.com/album/0YFbpYgj1TyV9P8L1n8XbW) | 2:41 | 2020-05-22\* | 2022-04-21 |
 | [Up Down](https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Up Down](https://open.spotify.com/album/3rClZY3iOdiE4bwY6P25hY) | 2:52 | 2025-09-26 |  |
-| [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 | 2025-12-12 |  |
+| [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 | 2025-12-12 | 2026-11-20 |
 | [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2025-02-07 | 2026-07-23 |
 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 | 2023-05-12 | 2024-04-15 |
 | [Uptown Funk \(feat\. Bruno Mars\) \- Will Sparks Remix](https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Funk \(Remixes\) \(feat\. Bruno Mars\)](https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK) | 4:37 | 2020-05-22\* | 2020-11-14 |

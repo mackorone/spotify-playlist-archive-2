@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Luister La Voz & Manuel Turizo",
+  "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Kapo",
   "name": "Afro Ritmo",
   "tracks": [
     {
@@ -529,6 +529,28 @@
     },
     {
       "album": {
+        "name": "Arroz Con Huevo",
+        "url": "https://open.spotify.com/album/6St9xkTNpy0z5je7gXGMts"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Arroz Con Huevo",
+      "url": "https://open.spotify.com/track/5GjViexqfPyAJOQlhOZoTR"
+    },
+    {
+      "album": {
         "name": "ATARDECER",
         "url": "https://open.spotify.com/album/2SVQ5aDDb2opvNVKnwCBDB"
       },
@@ -1020,7 +1042,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163516,
       "name": "Cafecito",
       "url": "https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3"
@@ -1366,6 +1388,24 @@
       "duration_ms": 172421,
       "name": "COMO VOS | THIS IS CURREN",
       "url": "https://open.spotify.com/track/2XBatvKfsrJsNrW8DnIlJr"
+    },
+    {
+      "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
     },
     {
       "album": {
@@ -1875,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/1SWoztqnHAcvlYPP9bUQyI"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155134,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5C2G9fJkUplRPY4aEOMgoI"
+    },
+    {
+      "album": {
         "name": "Dream Girl (Remix)",
         "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
       },
@@ -2174,7 +2232,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192230,
       "name": "Ese Habladito",
       "url": "https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf"
@@ -2434,6 +2492,28 @@
       "duration_ms": 254557,
       "name": "Getting Late",
       "url": "https://open.spotify.com/track/7iPnbJ1W7wus9QqeBtpuII"
+    },
+    {
+      "album": {
+        "name": "Gidi 2 Caracas (La M\u00fasica)",
+        "url": "https://open.spotify.com/album/2wXcuMCVdvsHaAje0TgNph"
+      },
+      "artists": [
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "Gidi 2 Caracas - La M\u00fasica",
+      "url": "https://open.spotify.com/track/3KDNjufpaTpwTiR9zAxDbY"
     },
     {
       "album": {
@@ -2764,7 +2844,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159135,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5"
@@ -3034,7 +3114,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161181,
       "name": "La Ruta",
       "url": "https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct"
@@ -4742,6 +4822,24 @@
       "duration_ms": 199424,
       "name": "Otra Nota",
       "url": "https://open.spotify.com/track/1K6KOksALqazcc6ziZeQji"
+    },
+    {
+      "album": {
+        "name": "OWA",
+        "url": "https://open.spotify.com/album/66l5AkzI0KXG12dbb6YVDo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155088,
+      "name": "OWA",
+      "url": "https://open.spotify.com/track/1iRyyVcMKJ5n7Dkw5bP7wq"
     },
     {
       "album": {
@@ -7182,7 +7280,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 165882,
       "name": "Usame",
       "url": "https://open.spotify.com/track/38wIbM05SFodYw2fwiq5ut"
@@ -7404,7 +7502,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178181,
       "name": "Volvamos",
       "url": "https://open.spotify.com/track/3ew2B1G5nw54y8kpGaMNbm"
@@ -7758,6 +7856,32 @@
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
+    },
+    {
+      "album": {
+        "name": "\u00daltimamente (W Sound 11)",
+        "url": "https://open.spotify.com/album/6MZHIyPHLsTxQs0SqM3ipK"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219487,
+      "name": "\u00daltimamente - W Sound 11",
+      "url": "https://open.spotify.com/track/4JHDGUA2KSuqCNYtxQj44s"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYzQ2Vx5M6uV"

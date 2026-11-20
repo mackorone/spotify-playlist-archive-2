@@ -4801,6 +4801,28 @@
     },
     {
       "album": {
+        "name": "Schaukelpferd (Apr\u00e8s Ski Mix)",
+        "url": "https://open.spotify.com/album/1Eb2t23Yu4Yy9Te8Iil0wE"
+      },
+      "artists": [
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        },
+        {
+          "name": "Der Partycrasher",
+          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184551,
+      "name": "Schaukelpferd - Apr\u00e8s Ski Mix",
+      "url": "https://open.spotify.com/track/43juracHsSfNuGsJdHTMOV"
+    },
+    {
+      "album": {
         "name": "Scheiss auf Schickimicki (Video Edit)",
         "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
       },
@@ -5024,7 +5046,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178338,
       "name": "Skisch\u00fclerin",
       "url": "https://open.spotify.com/track/0UAnIa9vfrxxbQVIKcHfzn"
@@ -5104,7 +5126,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 188833,
       "name": "Sonne, Mond & Playa",
       "url": "https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP"
@@ -5836,7 +5858,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164386,
       "name": "Yuppididuh (und der Ochs und die Kuh) - Apr\u00e8s-Ski Partymix",
       "url": "https://open.spotify.com/track/1s8Gn1s3tGqU9nktTmD4Sh"

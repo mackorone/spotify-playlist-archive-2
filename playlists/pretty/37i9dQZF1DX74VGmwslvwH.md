@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,587 likes - 150 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,712 likes - 150 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 149 | [Foreign Lands](https://open.spotify.com/track/2yLYQyrHlcgfC9k6gXRAbt) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Foreign Lands](https://open.spotify.com/album/1a8cUiV7todjPrXu4jqowW) | 2:26 |
 | 150 | [Slow Breathing](https://open.spotify.com/track/3aMzokveM98pelODBoYyRf) | [Kundalini Dreams](https://open.spotify.com/artist/24OD7jZHofVutQwTUSL2mV) | [Slow Breathing](https://open.spotify.com/album/39Ts2PBDBYUllGcMFbgKSu) | 3:01 |
 
-Snapshot ID: `AAAAACNlYhvqU8OK7jpw8BkxOfOvu5sK`
+Snapshot ID: `AAAAALvOViSSqUWX++uYD3FHmF2ZTpyA`

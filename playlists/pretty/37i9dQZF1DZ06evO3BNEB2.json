@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 41393,
+  "num_followers": 41399,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAD2Uy7ufplV/h54K+AoTE0p",
+  "snapshot_id": "avzqgAAAAAAVGtdndjWC9WegmivQYa6b",
   "tracks": [
     {
       "added_at": null,
@@ -55,26 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overthink (feat. Elmiene)",
-        "url": "https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 207082,
-      "name": "Overthink (feat. Elmiene)",
-      "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nine Track Mind (Special Edition)",
         "url": "https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ"
       },
@@ -91,6 +71,26 @@
       "duration_ms": 200106,
       "name": "Marvin Gaye (feat. Wale) - Remix",
       "url": "https://open.spotify.com/track/4LfkoDOt4mhrbo8Ndk37sQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Overthink (feat. Elmiene)",
+        "url": "https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 207082,
+      "name": "Overthink (feat. Elmiene)",
+      "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 209182,
-      "name": "FEELINGS ON SILENT (feat. Wale)",
-      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Small Chops",
         "url": "https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 156000,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/5WkZ4p427oVrlHqQj0AK7Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 209182,
+      "name": "FEELINGS ON SILENT (feat. Wale)",
+      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
     },
     {
       "added_at": null,
@@ -567,22 +567,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
+        "name": "GOOD DOPE SELL ITSELF",
+        "url": "https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
         },
         {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 109000,
-      "name": "Dearly Beloved (feat. Jamie Foxx)",
-      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
+      "duration_ms": 216011,
+      "name": "Bonnet (feat. Summer Walker & Wale)",
+      "url": "https://open.spotify.com/track/3KAeHmiuKefi0wkeTBVr3l"
     },
     {
       "added_at": null,
@@ -599,6 +603,26 @@
       "duration_ms": 213954,
       "name": "Where To Start",
       "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "duration_ms": 109000,
+      "name": "Dearly Beloved (feat. Jamie Foxx)",
+      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
     },
     {
       "added_at": null,
@@ -647,30 +671,6 @@
       "duration_ms": 260560,
       "name": "Bounce It (feat. Wale & Trey Songz)",
       "url": "https://open.spotify.com/track/3N5oiETJEStSB71TjTFkWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GOOD DOPE SELL ITSELF",
-        "url": "https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm"
-      },
-      "artists": [
-        {
-          "name": "Belly Gang Kushington",
-          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 216011,
-      "name": "Bonnet (feat. Summer Walker & Wale)",
-      "url": "https://open.spotify.com/track/3KAeHmiuKefi0wkeTBVr3l"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Feel the Love (feat. Wale)",
-      "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sex, Love & Pain II",
         "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 245986,
       "name": "You Don't Know (feat. Wale)",
       "url": "https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Feel the Love (feat. Wale)",
+      "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
     },
     {
       "added_at": null,

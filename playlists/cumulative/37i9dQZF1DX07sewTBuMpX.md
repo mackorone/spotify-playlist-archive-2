@@ -4,7 +4,7 @@
 
 > De beste tunes op repeat\. Cover: Idaly, Ronnie Flex & Frenna
 
-175 songs - 8 hr 14 min
+176 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Noncha](https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Noncha](https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ) | 3:18 | 2025-07-17 |  |
 | [Nu Meteen \(Slide\)](https://open.spotify.com/track/73epTVTwGh2rSnMkrKmgJS) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Nu Meteen \(Slide\)](https://open.spotify.com/album/0nbuaqiqyG3lN2wfOHgypg) | 2:33 | 2025-07-17 |  |
 | [OHMA TOKITA](https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [OHMA TOKITA](https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ) | 2:15 | 2025-07-17 | 2026-09-20 |
-| [PAPARAZZI](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PAPARAZZI](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 | 2025-07-17 |  |
+| [Osso](https://open.spotify.com/track/05HjN1JDMU4avSiOAQa8Cz) | [Veertien](https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0), [RResstante](https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC), [Reimas](https://open.spotify.com/artist/7nJaOXe9ZYSuGtnIBdWffl) | [Osso](https://open.spotify.com/album/0prA4VMDqiTs6pEr5pPoBA) | 3:20 | 2026-11-19 |  |
+| [PAPARAZZI](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PAPARAZZI](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 | 2025-07-17 | 2026-11-20 |
 | [Party Funk](https://open.spotify.com/track/2WOC880HHZcDB2YRgiPRuX) | [Young Madz](https://open.spotify.com/artist/3ofxdYHNTybYtecPRDGENF), [MC Zudo Boladão](https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7) | [PARTY FUNK](https://open.spotify.com/album/2rHyIQPDgK3d6MB0LG1ok9) | 2:12 | 2026-08-14 | 2026-09-08 |
 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(feat\. Ayra Starr & Omah Lay\) \[Remix\]](https://open.spotify.com/album/689njStjzEujqVZtSDlpha) | 3:04 | 2026-08-14 | 2026-09-08 |
 | [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 | 2025-07-17 | 2026-09-08 |

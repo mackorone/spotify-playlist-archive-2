@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\. Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,762 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,757 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 15 | [Can the Circle Be Unbroken](https://open.spotify.com/track/07IuSThN6YHAAollCnu1Ln) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [Can The Circle Be Unbroken: Country Music's First Family](https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd) | 3:07 |
 | 16 | [Nine Pound Hammer](https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [Folk Songs Of The Hills](https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk) | 2:39 |
 | 17 | [The Golden Rocket](https://open.spotify.com/track/5jcprGzyDUAq25Babtyuei) | [Hank Snow](https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S) | [The Essential Hank Snow](https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE) | 2:45 |
-| 18 | [Deck Of Cards](https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 3:05 |
-| 19 | [One Has My Name \(The Other Has My Heart\) \- 1948 Single](https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW) | [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [Vintage Collections](https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU) | 2:48 |
+| 18 | [One Has My Name \(The Other Has My Heart\) \- 1948 Single](https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW) | [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [Vintage Collections](https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU) | 2:48 |
+| 19 | [Deck Of Cards](https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 3:05 |
 | 20 | [I Want to Be a Cowboy's Sweetheart](https://open.spotify.com/track/0vm8Va7eps0w4DlQ8QWjFd) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG), [Prairie Ramblers](https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 3:10 |
 | 21 | [Tennessee Waltz](https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:54 |
 | 22 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/3N0jGYbGjlfxAPPOQ3m1x5) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Look What Thoughts Will Do](https://open.spotify.com/album/082Lg7YaKtzsScelrtfwdx) | 2:53 |
 | 23 | [Old Shep](https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 3:16 |
-| 24 | [Kentucky Waltz](https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:46 |
-| 25 | [Straighten Up And Fly Right](https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [The Complete Capitol Recordings Of The Nat King Cole Trio](https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4) | 2:26 |
+| 24 | [Straighten Up And Fly Right](https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [The Complete Capitol Recordings Of The Nat King Cole Trio](https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4) | 2:26 |
+| 25 | [Kentucky Waltz](https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:46 |
 | 26 | [Roly\-Poly](https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:28 |
 | 27 | [Hot Rod Lincoln](https://open.spotify.com/track/2FvpvjHX32OLvendFImN9N) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [Rockabilly Gold Masters](https://open.spotify.com/album/7LjSqkcGkDyvjoswiPeKlZ) | 2:45 |
 | 28 | [Jingle Jangle Jingle](https://open.spotify.com/track/2aBoUu846J4ILDXmgc9tQ3) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Filipino Baby](https://open.spotify.com/track/0sclx7x70Oaa6q01P2hrI0) | [Cowboy Copas](https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi) | [Filipino Baby](https://open.spotify.com/album/4mQELuXzBDI3wFmn7OaHCb) | 2:46 |
 | 70 | [Move It On Over](https://open.spotify.com/track/5tQwMi9LK7kkS9GgkF35nJ) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/6tQ1p5gjEujiZGAK10pY1f) | 2:43 |
 
-Snapshot ID: `AAAAAOoTrVAUOJWVjtNOUCBdbzKEY/GA`
+Snapshot ID: `AAAAAIi6D7XU9k2l1I5qgMyql1kYcnPL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,990 likes - 140 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,083 likes - 140 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 139 | [Strollin Moods](https://open.spotify.com/track/2cGeG4PCU7o4OvE7A5Bhh6) | [M\. Birkeland](https://open.spotify.com/artist/0JldzuwP5NF3nsxjnlLCTS) | [Strollin Moods](https://open.spotify.com/album/4Og8nnBg6mQDcQCUn89PbC) | 2:06 |
 | 140 | [The Drive](https://open.spotify.com/track/5mbWFrquPO3HGkShUuoW1s) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Drive](https://open.spotify.com/album/0iOkAxEHl2pxlAu9edGyJu) | 2:40 |
 
-Snapshot ID: `AAAAAA+1zR05yk7I1LsehxrBDur6NWqe`
+Snapshot ID: `AAAAAHW1x07duWhmwHPCmsYOWVPnLN+7`

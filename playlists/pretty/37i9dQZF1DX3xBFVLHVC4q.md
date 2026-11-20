@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,903 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,902 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 11 | [KU\-RU\-KU\-RU Cruller! \- Rockabilly Ver.](https://open.spotify.com/track/5tS1J8iSdIOx0dJFCbJ9Se) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 4:07 |
 | 12 | [元気全開DAY! DAY! DAY!](https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [元気全開DAY! DAY! DAY!](https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt) | 3:59 |
 | 13 | [Strawberry Trapper](https://open.spotify.com/track/3egD1YzZpyckmVlZJV4GOj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 3:56 |
-| 14 | [未来の僕らは知ってるよ](https://open.spotify.com/track/4Kr4DGSLD2SRmjxNjfm3uS) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [未来の僕らは知ってるよ](https://open.spotify.com/album/1MlqcaVEU0wY1jDr1lka7U) | 4:10 |
+| 14 | [smile smile ship Start!](https://open.spotify.com/track/0rfYpGSgqQLzEc2DHeWY5a) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [smile smile ship Start!](https://open.spotify.com/album/0oOZ8lcPPmAPo4iaPAnQOe) | 4:39 |
 | 15 | [真夏は誰のモノ?](https://open.spotify.com/track/2NPr06O7VHTXOwdBoUSEJL) | [黒澤ダイヤ \(CV.小宮有紗\)](https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb) | [デュオトリオコレクション VOL.1 ～SUMMER VACATION～](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:37 |
 | 16 | [決めたよHand in Hand](https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr) | [決めたよHand in Hand/ダイスキだったらダイジョウブ!](https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL) | 4:26 |
 | 17 | [君のこころは輝いてるかい？ \- Hard Rock Ver.](https://open.spotify.com/track/3FIWb5GZIh5P7RBD6jxUNQ) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 4:36 |
 | 18 | [コワレヤスキ](https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 5:02 |
-| 19 | [Daydream Warrior](https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:35 |
+| 19 | [未来の僕らは知ってるよ](https://open.spotify.com/track/4Kr4DGSLD2SRmjxNjfm3uS) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [未来の僕らは知ってるよ](https://open.spotify.com/album/1MlqcaVEU0wY1jDr1lka7U) | 4:10 |
 | 20 | [Misty Frosty Love](https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq) | [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O) | [デュオトリオコレクション VOL.2 ～WINTER VACATION～](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:56 |
 | 21 | [夢で夜空を照らしたい](https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr) | [夢で夜空を照らしたい/未熟DREAMER](https://open.spotify.com/album/3RC4kNrfwR8LXVbu6x85KM) | 5:34 |
 | 22 | [ユメ語るよりユメ歌おう \- Cute Rock Ver.](https://open.spotify.com/track/2SnXUEAA4rNKNlXpbVb0Nh) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 49 | [RED GEM WINK](https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI) | [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album ～RED GEM WINK～](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:55 |
 | 50 | [キモチもユメも一緒だね!](https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an) | [デュオトリオコレクション VOL.2 ～WINTER VACATION～](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:43 |
 
-Snapshot ID: `AAAAAE7GT+hPtpCfZoEQeGnp7Vsc8iXc`
+Snapshot ID: `AAAAAIrRHnfsIFO/S5+XMop4T24sho5E`

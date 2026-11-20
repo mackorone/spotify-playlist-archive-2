@@ -6,8 +6,40 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKkw8aX0GZ7YlUKy4Y2jKlmrl0o/",
+  "snapshot_id": "AAAAAEhq++nwOihjt/ENheH2vTwhhAOp",
   "tracks": [
+    {
+      "added_at": "2026-11-20 05:00:45",
+      "album": {
+        "name": "A Merry Monster Christmas",
+        "url": "https://open.spotify.com/album/7lZCf7GnjiJ4u9BmfpA6VJ"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "All I Want for Christmas Is U",
+      "url": "https://open.spotify.com/track/0za4kFNgYfyF989uSaMuKK"
+    },
+    {
+      "added_at": "2026-11-20 05:00:45",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/6aIUpsDNQFM7qWcfBnxoGW"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 123799,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2SpDJYesIcA2xQQQ8OBrEQ"
+    },
     {
       "added_at": "2026-11-13 05:01:27",
       "album": {
@@ -23,22 +55,6 @@
       "duration_ms": 116600,
       "name": "What We Love About Christmas",
       "url": "https://open.spotify.com/track/3Fe6IIfWRTdizILiKE0Rxw"
-    },
-    {
-      "added_at": "2026-11-06 05:00:41",
-      "album": {
-        "name": "All I Want for Christmas Is U",
-        "url": "https://open.spotify.com/album/4yyYire4GuDCT0MV5raU0U"
-      },
-      "artists": [
-        {
-          "name": "Sesame Street",
-          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "All I Want for Christmas Is U",
-      "url": "https://open.spotify.com/track/3b9oVdgiLNMZakSii8H4au"
     },
     {
       "added_at": "2026-11-06 05:00:41",
@@ -91,6 +107,26 @@
       "duration_ms": 145982,
       "name": "Silly Santa",
       "url": "https://open.spotify.com/track/2KnKZzgz9mqorDGlDvPOlH"
+    },
+    {
+      "added_at": "2026-11-20 05:00:45",
+      "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/3DCmmYIAagBcZFRIc8w3u0"
+      },
+      "artists": [
+        {
+          "name": "Rubble & Crew",
+          "url": "https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai"
+        },
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 33116,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/61QdAkUJEX8UwQtgXz0nJ1"
     },
     {
       "added_at": "2026-11-13 05:01:27",
@@ -1087,22 +1123,6 @@
     {
       "added_at": "2026-11-05 16:56:42",
       "album": {
-        "name": "Disney Junior Music: Holiday Classics",
-        "url": "https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Goings",
-          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
-        }
-      ],
-      "duration_ms": 84155,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX"
-    },
-    {
-      "added_at": "2026-11-05 16:56:42",
-      "album": {
         "name": "Jools TV Christmas",
         "url": "https://open.spotify.com/album/355T45LxWwMhANrNznc4ZB"
       },
@@ -1735,22 +1755,6 @@
       "duration_ms": 125048,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg"
-    },
-    {
-      "added_at": "2026-11-05 16:56:42",
-      "album": {
-        "name": "30 Best Christmas Songs for Children",
-        "url": "https://open.spotify.com/album/0CxmYny82lUsiY9BOPuDuL"
-      },
-      "artists": [
-        {
-          "name": "The Countdown Kids",
-          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
-        }
-      ],
-      "duration_ms": 175529,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/5oYlVyU6omFwlOR5IUi3Ba"
     }
   ],
   "unique_name": "Kids Christmas",

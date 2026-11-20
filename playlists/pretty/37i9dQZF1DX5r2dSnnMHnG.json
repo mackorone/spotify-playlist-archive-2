@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPotcCI36VLQPMGhrA0OV53cT4Ug",
+  "snapshot_id": "AAAAAMwn+JgQhJ92epdTka29FlDbOpTm",
   "tracks": [
     {
       "added_at": "2026-04-25 04:24:32",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "A-TEEN Part. 2",
-        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
-      },
-      "artists": [
-        {
-          "name": "So Soo Bin",
-          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
-        }
-      ],
-      "duration_ms": 204942,
-      "name": "I'II be your star",
-      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 280000,
       "name": "Good Person (2022)",
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "A-TEEN Part. 2",
+        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "duration_ms": 204942,
+      "name": "I'II be your star",
+      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
-        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
-      },
-      "artists": [
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        }
-      ],
-      "duration_ms": 170746,
-      "name": "Say I Love U",
-      "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "Before the Petals Fall",
         "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 229346,
       "name": "Before the Petals Fall",
       "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
+        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "duration_ms": 170746,
+      "name": "Say I Love U",
+      "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
     },
     {
       "added_at": "2026-04-25 04:24:32",

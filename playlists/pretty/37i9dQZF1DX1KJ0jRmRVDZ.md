@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: tsumiki
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,072 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,069 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 69 | [PLANETS](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 3:04 |
 | 70 | [ローファイブ](https://open.spotify.com/track/4nFyfLl6GIqFmDobDwdXUU) | [梓川](https://open.spotify.com/artist/2iydjGtDnXejF2L1pgsBB8) | [ローファイブ](https://open.spotify.com/album/1YWNFNM0ceSqZU3L4fXrtK) | 2:49 |
 
-Snapshot ID: `AAAAAI15J8XBmzLAtoZuly0MBdZvzu40`
+Snapshot ID: `AAAAAMRXMlEDD00Amex5gqkTlmpLxGg8`

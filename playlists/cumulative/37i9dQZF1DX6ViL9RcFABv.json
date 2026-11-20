@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Jo\u00e3o S\u00f3, Tiago Nogueira",
+  "description": "Uma playlist de pura alma pop! Foto: Diogo Pi\u00e7arra",
   "name": "Pop PT",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198368,
       "name": "A Minha Gente",
       "url": "https://open.spotify.com/track/5fN2X1bs5Ux9RsoRBgQdpY"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 196200,
       "name": "Amor Acabou",
       "url": "https://open.spotify.com/track/0Iuy7e2ZKNdqGr6QjjJHJ6"
@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Metamorfose",
+        "url": "https://open.spotify.com/album/0EhO5fnjuljFqU69IHU9AQ"
+      },
+      "artists": [
+        {
+          "name": "Margarida Vasconcelos",
+          "url": "https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209543,
+      "name": "At\u00e9 Deus Me Deixar",
+      "url": "https://open.spotify.com/track/75KGjkmAxYRpInQ0NADMvX"
+    },
+    {
+      "album": {
         "name": "Mundo Antena",
         "url": "https://open.spotify.com/album/7BDkkowFwqTfcUjeiK9jCz"
       },
@@ -1176,6 +1194,24 @@
       "duration_ms": 185744,
       "name": "AURA",
       "url": "https://open.spotify.com/track/6M9QkeLsircEIi26YOE9eE"
+    },
+    {
+      "album": {
+        "name": "Aus\u00eancia",
+        "url": "https://open.spotify.com/album/1nxcMoUwTDDRV03mMuVLlr"
+      },
+      "artists": [
+        {
+          "name": "Diogo Pi\u00e7arra",
+          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168511,
+      "name": "Aus\u00eancia",
+      "url": "https://open.spotify.com/track/61fw9HbZEl3MXh3XhLKiEU"
     },
     {
       "album": {
@@ -1474,6 +1510,28 @@
       "duration_ms": 200331,
       "name": "Bomba Rel\u00f3gio",
       "url": "https://open.spotify.com/track/5mPot1dZmoXeQc7yZlnPgC"
+    },
+    {
+      "album": {
+        "name": "BO\u00c9MIO GENTIL",
+        "url": "https://open.spotify.com/album/7yXnWLL7tEHPl92GkvyeT9"
+      },
+      "artists": [
+        {
+          "name": "ICARO",
+          "url": "https://open.spotify.com/artist/6ih0GTEQYgmqCjrXSZUlbZ"
+        },
+        {
+          "name": "P\u00farpura",
+          "url": "https://open.spotify.com/artist/5Dm8knNVOyHG5ZbpUUuy2G"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "BONITO N\u00c9",
+      "url": "https://open.spotify.com/track/5mdxiKiDNSqJExFCWNx5Vx"
     },
     {
       "album": {
@@ -3230,7 +3288,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 251954,
       "name": "Dif\u00edcil de Amar",
       "url": "https://open.spotify.com/track/0jYQXt8jcyvUpJek7JXags"
@@ -4548,7 +4606,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217931,
       "name": "Fora da Lei",
       "url": "https://open.spotify.com/track/3Y4mO92nJBF84iCsvEgWNC"
@@ -5401,6 +5459,24 @@
     },
     {
       "album": {
+        "name": "ISSO FAZ PARTE",
+        "url": "https://open.spotify.com/album/395Oqxmvp2dEwixXuFscAo"
+      },
+      "artists": [
+        {
+          "name": "ZARKO",
+          "url": "https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "ISSO FAZ PARTE",
+      "url": "https://open.spotify.com/track/2g7NOUmtezG9puvIzETFC7"
+    },
+    {
+      "album": {
         "name": "Jasmim",
         "url": "https://open.spotify.com/album/5qpL9NgvGu6TjaBXaJfQKG"
       },
@@ -6242,7 +6318,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 200000,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/4I90MJOvAago8Gec7PCwtW"
@@ -6862,7 +6938,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174172,
       "name": "na minha MIND",
       "url": "https://open.spotify.com/track/78jXijkbbJKMaGSVG58KCx"
@@ -7366,7 +7442,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178641,
       "name": "N\u00e3o T\u00e1 F\u00e1cil",
       "url": "https://open.spotify.com/track/0YTmjC8mBzBfov0pZl2h3a"
@@ -7496,7 +7572,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181630,
       "name": "O Meu Fado",
       "url": "https://open.spotify.com/track/1u9rwb8kSxlzsJ0GZ0GHcn"
@@ -8694,6 +8770,24 @@
       "duration_ms": 228502,
       "name": "portas do sol",
       "url": "https://open.spotify.com/track/1iL2qN1fpyE9MxUhUUu0O4"
+    },
+    {
+      "album": {
+        "name": "potencial desperdi\u00e7ado",
+        "url": "https://open.spotify.com/album/1aehIntHmeKZ7OHc7mfCV9"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soares",
+          "url": "https://open.spotify.com/artist/2QMZmKuBrDPtZcBnlMVW2v"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "potencial desperdi\u00e7ado",
+      "url": "https://open.spotify.com/track/1DArBi0427L8xDJiKh1eI1"
     },
     {
       "album": {
@@ -10027,6 +10121,24 @@
     },
     {
       "album": {
+        "name": "Sem Fim",
+        "url": "https://open.spotify.com/album/5LmlpBb1MwTy0JtFnVPWS5"
+      },
+      "artists": [
+        {
+          "name": "Os Alentons",
+          "url": "https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176386,
+      "name": "Sem Fim",
+      "url": "https://open.spotify.com/track/5NvzxLYeQU9DiJ08wR7rDL"
+    },
+    {
+      "album": {
         "name": "Sem Hora Marcada",
         "url": "https://open.spotify.com/album/4QFpbqxcgIEylU0I932Khs"
       },
@@ -11111,6 +11223,28 @@
     },
     {
       "album": {
+        "name": "Legacy (Deluxe)",
+        "url": "https://open.spotify.com/album/23IaSeBwSf0EsBHKcIAlgY"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Ana Moura",
+          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Terra Doce",
+      "url": "https://open.spotify.com/track/5Tm7BKI4noCygv0f4RAFpn"
+    },
+    {
+      "album": {
         "name": "Teus Beijos",
         "url": "https://open.spotify.com/album/301Vzal6xfXKeBxSHpP8mR"
       },
@@ -11592,6 +11726,32 @@
       "duration_ms": 187124,
       "name": "Verdade",
       "url": "https://open.spotify.com/track/5Tw56RjEhlz8BTDTiz65cB"
+    },
+    {
+      "album": {
+        "name": "Mariana",
+        "url": "https://open.spotify.com/album/3lLLHPZN4jJwBcgW1pHxRm"
+      },
+      "artists": [
+        {
+          "name": "April Ivy",
+          "url": "https://open.spotify.com/artist/0cRXFRbq7wk9jeMO47rVVH"
+        },
+        {
+          "name": "Diogo Pi\u00e7arra",
+          "url": "https://open.spotify.com/artist/09o6FaVN8tYreNXQ8pgE4i"
+        },
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Verdade ou Consequ\u00eancia (feat. Diogo Pi\u00e7arra & Jimmy P)",
+      "url": "https://open.spotify.com/track/3oXgEBovf0TJBXe9yZKcT1"
     },
     {
       "album": {

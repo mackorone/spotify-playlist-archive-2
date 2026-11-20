@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 97732,
+  "num_followers": 97757,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMfAqxlRECGWqQcysQGpAbZwEjwD",
+  "snapshot_id": "AAAAAGpY4UjmEZbWKG1XLohy3Nf8oEiA",
   "tracks": [
     {
       "added_at": "2026-11-16 11:00:25",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-11-16 11:00:25",
       "album": {
-        "name": "No Mercy",
-        "url": "https://open.spotify.com/album/2p5dKH6CI5On3gOUo4Czii"
-      },
-      "artists": [
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 272628,
-      "name": "No Mercy",
-      "url": "https://open.spotify.com/track/7lwbUfP0iTVG9bZS3VQdU7"
-    },
-    {
-      "added_at": "2026-11-16 11:00:25",
-      "album": {
         "name": "PSSY MTHRFCKRZ (Chaos Project & Sakyra Remix)",
         "url": "https://open.spotify.com/album/7j1R300leutDGel6DS2Jxc"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 162375,
       "name": "PSSY MTHRFCKRZ - Chaos Project & Sakyra Remix",
       "url": "https://open.spotify.com/track/6wFYX9fvq5uWbcixgRxRUz"
+    },
+    {
+      "added_at": "2026-11-16 11:00:25",
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/2p5dKH6CI5On3gOUo4Czii"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 272628,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/7lwbUfP0iTVG9bZS3VQdU7"
     },
     {
       "added_at": "2026-11-16 11:00:25",
@@ -783,6 +783,26 @@
     {
       "added_at": "2026-11-16 11:00:25",
       "album": {
+        "name": "Uptempo Airlines",
+        "url": "https://open.spotify.com/album/6odpg6tRWQ9ZzJA8jT1tuP"
+      },
+      "artists": [
+        {
+          "name": "Gezellige Uptempo",
+          "url": "https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv"
+        },
+        {
+          "name": "Pinotello",
+          "url": "https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Uptempo Airlines",
+      "url": "https://open.spotify.com/track/1nk67tv0nCtBkjYJ5Oa2km"
+    },
+    {
+      "added_at": "2026-11-16 11:00:25",
+      "album": {
         "name": "The FOMO",
         "url": "https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 208800,
       "name": "The FOMO",
       "url": "https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q"
-    },
-    {
-      "added_at": "2026-11-16 11:00:25",
-      "album": {
-        "name": "Uptempo Airlines",
-        "url": "https://open.spotify.com/album/6odpg6tRWQ9ZzJA8jT1tuP"
-      },
-      "artists": [
-        {
-          "name": "Gezellige Uptempo",
-          "url": "https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv"
-        },
-        {
-          "name": "Pinotello",
-          "url": "https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Uptempo Airlines",
-      "url": "https://open.spotify.com/track/1nk67tv0nCtBkjYJ5Oa2km"
     },
     {
       "added_at": "2026-11-16 11:00:25",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-11-16 11:00:25",
       "album": {
-        "name": "Funk Faker",
-        "url": "https://open.spotify.com/album/2lGHsTPYHpS2SYJreSlxiv"
-      },
-      "artists": [
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Funk Faker",
-      "url": "https://open.spotify.com/track/7LiW603Jdv3P9Jnr07a7zl"
-    },
-    {
-      "added_at": "2026-11-16 11:00:25",
-      "album": {
         "name": "The Last Spartan (Dimitri K Remix)",
         "url": "https://open.spotify.com/album/6Yf7Qnv7gUjUePCpQrUJbL"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 203384,
       "name": "The Last Spartan - Dimitri K Remix",
       "url": "https://open.spotify.com/track/1uBNCbJKYpnQ9goNFtEV4s"
+    },
+    {
+      "added_at": "2026-11-16 11:00:25",
+      "album": {
+        "name": "Funk Faker",
+        "url": "https://open.spotify.com/album/2lGHsTPYHpS2SYJreSlxiv"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Funk Faker",
+      "url": "https://open.spotify.com/track/7LiW603Jdv3P9Jnr07a7zl"
     },
     {
       "added_at": "2026-11-16 11:00:25",

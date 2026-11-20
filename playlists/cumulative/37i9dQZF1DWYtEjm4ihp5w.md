@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: ONZY
+> Cover: 7ari
 
-585 songs - 1 day 6 hr 8 min
+588 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Camarade](https://open.spotify.com/track/7y9xAKHxH4dHxmF1XKRtRe) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Camarade](https://open.spotify.com/album/1JKkwn8aDnHWVtXnFQGaKy) | 2:34 | 2024-12-21 | 2025-02-04 |
 | [CANDYSHOP](https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:30 | 2026-05-21 |  |
 | [CAPABLE](https://open.spotify.com/track/7CSLJOKj4LuDlBMYArB2x1) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [CAPABLE](https://open.spotify.com/album/2u3CFLaBj7EKD5EoKvh875) | 2:46 | 2025-12-29 | 2026-04-08 |
-| [Capitaine](https://open.spotify.com/track/4a45XN9EpVDakADKfAW5iz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Capitaine](https://open.spotify.com/album/3PHuqQWmUGJrQ51F9yCoGV) | 2:57 | 2026-10-30 |  |
+| [Capitaine](https://open.spotify.com/track/4a45XN9EpVDakADKfAW5iz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Capitaine](https://open.spotify.com/album/3PHuqQWmUGJrQ51F9yCoGV) | 2:57 | 2026-10-30 | 2026-11-20 |
 | [Capitaine](https://open.spotify.com/track/33wWROHqj5ffAYKq7rzFDM) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Therapy](https://open.spotify.com/album/7lpHxatfVtKuYAvxYdzeUZ) | 2:46 | 2025-09-17 | 2026-03-31 |
 | [caramel](https://open.spotify.com/track/6tkMbt1Huz63gLMpeKIq2V) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [caramel](https://open.spotify.com/album/3gGcSGeSm14NJgUpQA7u7H) | 2:43 | 2026-05-08 |  |
 | [CARAPACE](https://open.spotify.com/track/5Xy0qqP85xyAD7epPutFDo) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [CARAPACE](https://open.spotify.com/album/3jPN88bqcOFS8Mx7OzgxVX) | 2:49 | 2026-10-30 |  |
@@ -118,6 +118,7 @@
 | [Chanel](https://open.spotify.com/track/3nkZHzCyxc1Eyg3L14Vb0m) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Chanel](https://open.spotify.com/album/2RSrMxoMzrWtjFl7BWBSm2) | 2:02 | 2024-02-23 | 2024-04-08 |
 | [CHANEL](https://open.spotify.com/track/3XW9zg39KnwA5v1c1EFbM6) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [CHANEL](https://open.spotify.com/album/7aRrvJE7TTlHPNCqPYAeq3) | 3:28 | 2026-04-10 | 2026-05-22 |
 | [Charchabil](https://open.spotify.com/track/6HZA0fBNDUYJRsgZ0te54C) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [AOKIGAHARA](https://open.spotify.com/album/62ez9OSwKvmA4DPSMobZVw) | 3:46 | 2024-11-21 | 2024-12-13 |
+| [Chemkara](https://open.spotify.com/track/6ogFiUOgCO5Td1WiYDPTNs) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Paranormal](https://open.spotify.com/album/3w6eeGeDIxMGrTGqwpLtxU) | 2:55 | 2026-11-20 |  |
 | [CHERRANI](https://open.spotify.com/track/4jGp61FIMJW8DUS1C3O3GR) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0) | [CHERRANI](https://open.spotify.com/album/7pQCduA2fy9aDXzwQeZscQ) | 3:13 | 2025-07-28 | 2025-10-18 |
 | [CHICHI](https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [CHICHI](https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu) | 3:08 | 2022-11-14 | 2023-04-09 |
 | [CHIFA](https://open.spotify.com/track/2RAI7RiD5U3agijx30ruD0) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [CHIFA](https://open.spotify.com/album/2d4vqWTwuAjO8r6D1y5DHr) | 2:58 | 2024-12-12 | 2025-01-01 |
@@ -402,7 +403,8 @@
 | [Papiers](https://open.spotify.com/track/5wlHxud11fPNBjYMMppCAY) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 2:44 | 2024-10-23 | 2025-07-17 |
 | [Paprika](https://open.spotify.com/track/1sRxcnih7w5PfbJAujdbJo) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Molno Jorjo](https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc) | 2:49 | 2025-01-27 | 2025-06-16 |
 | [Paradox](https://open.spotify.com/track/34bjYIHowpv0Fu0pSEnDX4) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv), [GELLO 4031](https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW) | [Paradox](https://open.spotify.com/album/7kldykemNAiSrZX3oIy39C) | 2:32 | 2026-11-13 |  |
-| [Parano](https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Parano](https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61) | 2:43 | 2026-04-02 |  |
+| [Parano](https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Parano](https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61) | 2:43 | 2026-04-02 | 2026-11-20 |
+| [PARANOÏAQUE](https://open.spotify.com/track/1UIxNpRP57J00xb8IQ6RyY) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [PARANOÏAQUE](https://open.spotify.com/album/3xfSHo9LFtLKJDqT2XWDtq) | 3:19 | 2026-11-20 |  |
 | [PASADENA](https://open.spotify.com/track/0tMrzFkVagrVZ5b6zAidIy) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [PASADENA](https://open.spotify.com/album/5VqUIAfpED1w5lmy98VowY) | 2:58 | 2026-09-17 | 2026-10-30 |
 | [Passé simple](https://open.spotify.com/track/3QY4sVs362wtj80Q5eyWWQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [L'MORPHINE](https://open.spotify.com/album/4uOkyB9V8LUsqQz4FP6pdq) | 3:29 | 2024-10-09 | 2024-10-31 |
 | [PEGASUS](https://open.spotify.com/track/6GnPNJKrjzxvBAFZxbD9V3) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:55 | 2026-05-21 | 2026-05-29 |
@@ -465,6 +467,7 @@
 | [Schillaci](https://open.spotify.com/track/4zlAIU4yZDer0WQnPZ77cw) | [Lquinze](https://open.spotify.com/artist/1kt2pBsYE0qljlM6CqnQtd) | [Beatophile Vol.3](https://open.spotify.com/album/2oVDC7GmniT13KleeofSCi) | 2:58 | 2025-05-30 | 2025-06-09 |
 | [Sentiment](https://open.spotify.com/track/4Z1yWm77qsMwDmbbPqycFP) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [Sentiment](https://open.spotify.com/album/4qS1zPIIKk9rzThe4qtcFd) | 3:12 | 2023-02-26 | 2023-06-02 |
 | [Sherine Freestyle](https://open.spotify.com/track/4WqVVQdQJRFScttAyDsxiq) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Bridge Life](https://open.spotify.com/album/5kzfldQGBcvYgzuWLZNH2N) | 2:44 | 2025-01-14 | 2025-04-13 |
+| [shetana](https://open.spotify.com/track/0kW1NmONG0dtHGHxrkPHgo) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [hated gummo](https://open.spotify.com/album/4ygfhl1detXw7Qsrcssh6Q) | 2:51 | 2026-11-20 |  |
 | [Shlag](https://open.spotify.com/track/5FyeA0EnhjpTT850pGeOUq) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 2:59 | 2024-12-29 | 2025-04-13 |
 | [SHOOKA](https://open.spotify.com/track/4lwjUIptYJxWiUVmyjALB8) | [Hackler](https://open.spotify.com/artist/10kr1Y0j9ZsKYTfgqyrQYt), [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [MARIGOLD](https://open.spotify.com/album/5vdlHh5zFDfXsn5CyZ4PBT) | 3:08 | 2025-01-20 | 2025-06-06 |
 | [Siba](https://open.spotify.com/track/2uqByr5b5Aci3ZQsAlMKN9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 4\)](https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV) | 3:54 | 2022-12-21 | 2023-01-04 |
@@ -477,7 +480,7 @@
 | [Sociopath](https://open.spotify.com/track/0UOGIvX0NKZKFwrvIAwdL9) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Sociopath](https://open.spotify.com/album/7bHaIDfBfqYkEhy361w3yB) | 3:28 | 2022-11-25 | 2023-03-03 |
 | [SOFITEL](https://open.spotify.com/track/6liRQ6BYzi2mazj3OAtDhX) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SOFITEL](https://open.spotify.com/album/4niYL0OcwKMBeUMK7xL1O4) | 1:57 | 2026-04-25 | 2026-06-05 |
 | [SOLIDE](https://open.spotify.com/track/0CodDf6ggz8hvHNo8aEV7b) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [PLAN B](https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N) | 3:01 | 2025-11-24 | 2026-07-25 |
-| [Solo](https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Solo](https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm) | 2:46 | 2026-01-26 |  |
+| [Solo](https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Solo](https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm) | 2:46 | 2026-01-26 | 2026-11-20 |
 | [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 | 2023-08-17 | 2024-05-03 |
 | [Soprano](https://open.spotify.com/track/4NwKhoHwz5KOWtcRy46n8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [Tornado](https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D) | 3:21 | 2026-04-10 | 2026-04-29 |
 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 | 2025-07-04 | 2026-04-10 |

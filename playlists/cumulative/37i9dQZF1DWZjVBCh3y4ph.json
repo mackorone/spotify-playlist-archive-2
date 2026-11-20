@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : DJ Kawest x Oswald",
+  "description": "Les hits zouk & kompa du moment. Photo : Marvin x Senyss",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 236385,
       "name": "10 Minutes",
       "url": "https://open.spotify.com/track/77ovdPp9vieeFRcqhRWYm5"
+    },
+    {
+      "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/59yQwKHVPpNV1FGWri7IDV"
+      },
+      "artists": [
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        },
+        {
+          "name": "Yohan",
+          "url": "https://open.spotify.com/artist/4W5SzASne4jBSoSzCqEWzq"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/15fNl35Exi0tYvGAmDXtBP"
     },
     {
       "album": {
@@ -158,6 +180,24 @@
       "duration_ms": 205633,
       "name": "A mes c\u00f4t\u00e9s",
       "url": "https://open.spotify.com/track/1CC4cbv9dHce9iAQp00egV"
+    },
+    {
+      "album": {
+        "name": "A Pa La Penn",
+        "url": "https://open.spotify.com/album/044TsdXPnN2AS3wsRJXrSf"
+      },
+      "artists": [
+        {
+          "name": "Skarab\u00e9e",
+          "url": "https://open.spotify.com/artist/4nzwj152KC9SgpodFAUptR"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247503,
+      "name": "A Pa La Penn",
+      "url": "https://open.spotify.com/track/75q1rErDXn60xjicHlQpCU"
     },
     {
       "album": {
@@ -656,7 +696,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192013,
       "name": "Bam Love",
       "url": "https://open.spotify.com/track/2w2j4DxB5j4QVXtr8hxpMP"
@@ -908,6 +948,24 @@
     {
       "album": {
         "name": "Bonbon",
+        "url": "https://open.spotify.com/album/49VRsEcvyHSRVtg0vieUjA"
+      },
+      "artists": [
+        {
+          "name": "Eleen",
+          "url": "https://open.spotify.com/artist/6CYv60Iqe5ZLiWYtImqoHp"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "Bonbon",
+      "url": "https://open.spotify.com/track/4wt7WRvo9Tu6uSBJZY8mJp"
+    },
+    {
+      "album": {
+        "name": "Bonbon",
         "url": "https://open.spotify.com/album/7tKWEGHKP275DLlmTbhyEK"
       },
       "artists": [
@@ -1002,7 +1060,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 280500,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/1wqPny15dwjxU5f0C4KXpZ"
@@ -4442,7 +4500,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 200086,
       "name": "Lanmou fe'm mal",
       "url": "https://open.spotify.com/track/40m5sLezDSM7vK9fk0yKxx"
@@ -5061,6 +5119,28 @@
     },
     {
       "album": {
+        "name": "MAMA",
+        "url": "https://open.spotify.com/album/7GDdmcdwLwbW8HkNO6zYdU"
+      },
+      "artists": [
+        {
+          "name": "Senyss",
+          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+        },
+        {
+          "name": "MARVIN",
+          "url": "https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226829,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/6G6sTbhiki0vle9pYyftPB"
+    },
+    {
+      "album": {
         "name": "Mamzel",
         "url": "https://open.spotify.com/album/1gw9v61MePSRxyfighLbHl"
       },
@@ -5412,7 +5492,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198837,
       "name": "MON LIFE",
       "url": "https://open.spotify.com/track/6Pda9V1wHGOTPIJrurcJys"
@@ -7593,6 +7673,24 @@
     },
     {
       "album": {
+        "name": "Remords",
+        "url": "https://open.spotify.com/album/5Id4bDWsdu8cTRsklAG6ke"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283636,
+      "name": "Remords",
+      "url": "https://open.spotify.com/track/0cTd6SCChFtwveoerTW4qR"
+    },
+    {
+      "album": {
         "name": "Reviens-moi",
         "url": "https://open.spotify.com/album/2V32gRmGl9lrYANBh9F3U4"
       },
@@ -8402,7 +8500,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178800,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/1QOmuXk7CmwLMH48pPh8Lm"

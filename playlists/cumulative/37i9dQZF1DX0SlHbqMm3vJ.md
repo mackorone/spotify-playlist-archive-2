@@ -2,9 +2,9 @@
 
 ### [Ginja](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> Sweet afro melodies\. Cover: Wande Coal
+> Sweet afro melodies\. Cover: Joeboy
 
-1,101 songs - 2 day 5 hr 12 min
+1,102 songs - 2 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [Energy](https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Energy](https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV) | 2:20 | 2026-05-29 | 2026-11-13 |
 | [Enjoyment](https://open.spotify.com/track/0C1wC8uhOzENMF59dxYmnK) | [Jujuboy Star](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a) | [Enjoyment](https://open.spotify.com/album/5OCy2YLDVn8yNVwxVVW7E1) | 3:06 | 2021-10-14 | 2022-03-25 |
 | [Escape](https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Escapade](https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke) | 3:14 | 2023-02-03 | 2023-03-04 |
-| [Especially You](https://open.spotify.com/track/3M8g7vcyQ62hqcosQjpVAP) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Especially You](https://open.spotify.com/album/495XGaY3Jw7DdqqeA3L1V0) | 2:24 | 2026-04-03 |  |
+| [Especially You](https://open.spotify.com/track/3M8g7vcyQ62hqcosQjpVAP) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Especially You](https://open.spotify.com/album/495XGaY3Jw7DdqqeA3L1V0) | 2:24 | 2026-04-03 | 2026-11-20 |
 | [everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 | 2024-05-03 | 2026-11-09 |
 | [Everyday \(I Dey Pray\)](https://open.spotify.com/track/2lOvnEOUtbHlU461mlEfM4) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [no PITY](https://open.spotify.com/album/6hkdE1QM4zUBloZsI9RxKi) | 2:57 | 2024-03-08 | 2024-08-01 |
 | [Everyday Love](https://open.spotify.com/track/6wXRsCSsGwY1bfXK3BaZ7L) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Everyday Love](https://open.spotify.com/album/5YuQhH8F5KA5xqSZYbgZzp) | 3:53 | 2023-05-26 | 2023-06-03 |
@@ -860,6 +860,7 @@
 | [Salt](https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Salt](https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG) | 3:05 | 2024-03-29 | 2025-04-08 |
 | [Samankwe](https://open.spotify.com/track/1lKPYCHbsmfviBbUq6xyZB) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Worthy Challenger](https://open.spotify.com/album/0WKTcQ4BvpNVKWYswVm1gU) | 2:24 | 2026-07-03 | 2026-07-10 |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-02 | 2023-01-28 |
+| [Santorini](https://open.spotify.com/track/4ppNFofJCDaq7rpRDmyAiW) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Lavida Boy](https://open.spotify.com/album/0dNVbO6bgRlqs1d6jDZ7wy) | 2:35 | 2026-11-20 |  |
 | [Sara Jay](https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [12 Summers \(Summerfornication\) \[Deluxe Edition\]](https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7) | 3:00 | 2024-12-16 | 2025-01-31 |
 | [SARO](https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [SARO](https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU) | 3:02 | 2023-01-27 | 2023-02-04 |
 | [Say My Name](https://open.spotify.com/track/1cSCx5jwnBrxwdfrriapnP) | [Samzii](https://open.spotify.com/artist/2rIRdcRrB9NuzFNWZtIdLb) | [Say My Name](https://open.spotify.com/album/6TinxAZdrL9PeZgYf7p87A) | 2:18 | 2026-04-10 | 2026-04-17 |

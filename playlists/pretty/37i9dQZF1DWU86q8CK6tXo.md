@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: The Womack Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,642 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,639 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 8 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
 | 9 | [Say When](https://open.spotify.com/track/7mcEvEEwLce8qXrNPmgugg) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Nobody Wants This: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b) | 3:47 |
 | 10 | [Everything You Ever Wanted](https://open.spotify.com/track/4Ndgwg8fEtOqrWlvqVV1Tj) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Have You Ever Looked Around And Realized Everything You Ever Wanted Is Right In Front Of Your Eyes](https://open.spotify.com/album/21Uh4WXwyUosULfM1gqI5L) | 3:22 |
-| 11 | [Just Might Go \(feat\. Travis Scott\)](https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Watch Dis!](https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j) | 3:32 |
+| 11 | [lamb \(feat\. Kellin Quinn\)](https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [lamb \(feat\. Kellin Quinn\)](https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP) | 2:24 |
 | 12 | [Chemical Light](https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK) | [Josie Edwards](https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq) | [Greetings From Bleak St.](https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1) | 3:46 |
-| 13 | [lamb \(feat\. Kellin Quinn\)](https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [lamb \(feat\. Kellin Quinn\)](https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP) | 2:24 |
+| 13 | [Just Might Go \(feat\. Travis Scott\)](https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Watch Dis!](https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j) | 3:32 |
 | 14 | [Mourning](https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Mourning](https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o) | 4:16 |
 | 15 | [Jiggly Bow Bow \(with Sexyy Red\)](https://open.spotify.com/track/5WUaJ72FfYy1mQRWaLmOtn) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Jiggly Bow Bow \(with Sexyy Red\)](https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6) | 2:44 |
 | 16 | [Paranoia](https://open.spotify.com/track/2awPLeyEr18Z3wq7vzFxpM) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Paranoia / James](https://open.spotify.com/album/0Su7mSZHT1poyMsNEGsX2z) | 2:34 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 21 | [A Girl Is A Gun](https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [A Girl Is A Gun](https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB) | 2:40 |
 | 22 | [NWM](https://open.spotify.com/track/3xcGQuK0hKDB8a3eW2Wb5R) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [NWM](https://open.spotify.com/album/2UlvJKa3ErOUugM6NNEjEs) | 3:12 |
 | 23 | [Make It Out](https://open.spotify.com/track/4AheSnVw03Gilc49ArDskT) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [A Fate Worse Than Loneliness](https://open.spotify.com/album/05Le7pf7KPD3PzN060P8KM) | 3:29 |
-| 24 | [dance around it](https://open.spotify.com/track/29BOij3pNtniyS00CiQeq3) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [ashley cooke](https://open.spotify.com/album/5vNtvppAHCSsUdI9dBvqEy) | 3:58 |
-| 25 | [Throw That Money](https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Throw That Money](https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS) | 2:05 |
+| 24 | [Throw That Money](https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Throw That Money](https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS) | 2:05 |
+| 25 | [dance around it](https://open.spotify.com/track/29BOij3pNtniyS00CiQeq3) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [ashley cooke](https://open.spotify.com/album/5vNtvppAHCSsUdI9dBvqEy) | 3:58 |
 | 26 | [Expensive & Difficult](https://open.spotify.com/track/5M2AlK2QmQEgWbtGjj0epX) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:49 |
 | 27 | [Get Hit](https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [Get Hit](https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch) | 1:54 |
 | 28 | [Spin Back](https://open.spotify.com/track/7ufI8oEpE9ScdibU1OMAtK) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Spin Back](https://open.spotify.com/album/2hIV6f9VUhYaKf26ZTuXQH) | 3:12 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [Crucified](https://open.spotify.com/track/1nXjpHh6L97kyDHsQPhdO1) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Crucified](https://open.spotify.com/album/3tIOkJNW020tMZq0zq7D8A) | 3:10 |
 | 34 | [Same Circus](https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Honest Woman](https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga) | 3:22 |
 | 35 | [NO CAP](https://open.spotify.com/track/1IMJpWsaVVZ2jq2SjVlr3e) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [NO CAP](https://open.spotify.com/album/73fplZaiXzMcXALbVjAYpN) | 2:21 |
-| 36 | [Nothing Into Something](https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nothing Into Something](https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH) | 2:21 |
-| 37 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
+| 36 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
+| 37 | [Nothing Into Something](https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nothing Into Something](https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH) | 2:21 |
 | 38 | [Hate Her Enough](https://open.spotify.com/track/0oHC9pm1PuEglAIuSByBFD) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Love You, or Whatever](https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc) | 2:53 |
 | 39 | [Too Much Of A Good Thing](https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Too Much Of A Good Thing](https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x) | 2:53 |
 | 40 | [Shipwrecked](https://open.spotify.com/track/5geDH5qB7P6lT5VJwkcJLa) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Shipwrecked](https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh) | 3:12 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 53 | [Girls' Girl](https://open.spotify.com/track/7xvfHltVDCQblmWf117BLk) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Blue Alchemy](https://open.spotify.com/album/14l4lt67zgEYveD4olBc52) | 2:59 |
 | 54 | [You're So Vain \- Spotify Singles](https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [You're So Vain \- Spotify Singles](https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml) | 4:48 |
 
-Snapshot ID: `AAAAAEwaznFILEQTpSzQ3xH9zwn/pOIV`
+Snapshot ID: `AAAAALeu4vzoDilWqHox29u37xFVROvh`

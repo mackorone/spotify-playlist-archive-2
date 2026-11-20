@@ -386,7 +386,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173172,
       "name": "Angel Bite",
       "url": "https://open.spotify.com/track/6UYmaS2Atocgdk9E7EVC6A"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 191074,
       "name": "Animal",
       "url": "https://open.spotify.com/track/4j3YeF9Jll295K6dIvA7gR"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 325450,
       "name": "Can\u2019t Stop Us Now",
       "url": "https://open.spotify.com/track/5R9OzAzyn1S9lAvAJHqzkj"
@@ -1468,6 +1468,28 @@
       "duration_ms": 256405,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/4mdY2FqawYKEUgGL14fJHD"
+    },
+    {
+      "album": {
+        "name": "COMO FUERA",
+        "url": "https://open.spotify.com/album/358cwYBV3NtpS3Tu0qVNfr"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178709,
+      "name": "COMO FUERA",
+      "url": "https://open.spotify.com/track/7vWP4YzXQVp0BuP8IbVE5i"
     },
     {
       "album": {
@@ -3527,6 +3549,24 @@
     },
     {
       "album": {
+        "name": "Leave With Me (Featured in Always Lalisa)",
+        "url": "https://open.spotify.com/album/0acXpFEUS3HdJIb5jowspN"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182336,
+      "name": "Leave With Me (Featured in Always Lalisa)",
+      "url": "https://open.spotify.com/track/6VmOpTomrLwWKmxRsPW1sa"
+    },
+    {
+      "album": {
         "name": "Let\u2019s Get Married",
         "url": "https://open.spotify.com/album/1Z3yuKtcV0YIzjaItbMtsQ"
       },
@@ -4388,7 +4428,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 207466,
       "name": "No Tengo Remedio - En Vivo en Casa Spotify",
       "url": "https://open.spotify.com/track/48OBvoamhz47ZmLX5nkIeE"
@@ -4584,7 +4624,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 152318,
       "name": "Olimpo",
       "url": "https://open.spotify.com/track/0CkdeezVG7sqiFlWDnIUhd"
@@ -4884,7 +4924,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 181966,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/1dhfijA0rH5GsFGgJA5H8n"
@@ -4982,7 +5022,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149418,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/6UZq14fcGEzuMvnryb02He"
@@ -5126,7 +5166,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 131764,
       "name": "Quebec",
       "url": "https://open.spotify.com/track/2ob7ZotnJQiHcmbERf0OZR"
@@ -6584,7 +6624,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 321579,
       "name": "Unloveu - Live From the WILDWORLD Tour",
       "url": "https://open.spotify.com/track/3jxFV2A3tEB5KMAYZQEpRX"
@@ -7082,7 +7122,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154889,
       "name": "\u00daltima Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/3RvPXSkVUNq7Rp63uvLYOY"

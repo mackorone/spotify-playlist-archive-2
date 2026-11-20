@@ -1,29 +1,13 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 11546,
+  "num_followers": 11549,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAA8sgIzlk0yNBPhWj5dls77",
+  "snapshot_id": "avzqgAAAAABZaAIW4SQjomDYz+psrOFD",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Sick (from the Netflix Series \"Nobody Wants This\" Season 3)",
-        "url": "https://open.spotify.com/album/2l7dOY9oiOln2Ln4osavpP"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Love Sick (from the Netflix Series \"Nobody Wants This\" Season 3)",
-      "url": "https://open.spotify.com/track/760I6OX8k9KkzleuigUcc2"
-    },
     {
       "added_at": null,
       "album": {
@@ -308,9 +292,25 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 200400,
-      "name": "In & Out",
-      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
+      "duration_ms": 217440,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Sick (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/2l7dOY9oiOln2Ln4osavpP"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Love Sick (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "url": "https://open.spotify.com/track/760I6OX8k9KkzleuigUcc2"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3"
+      "duration_ms": 200400,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
     },
     {
       "added_at": null,
@@ -459,22 +459,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry about it! (feat. Ravyn Lenae)",
-        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
+        "name": "Luv 4 Rent",
+        "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         },
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 171507,
-      "name": "Cry about it! (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
+      "duration_ms": 183337,
+      "name": "Settle Down (with Cory Henry, Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs"
     },
     {
       "added_at": null,
@@ -527,30 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luv 4 Rent",
-        "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 183337,
-      "name": "Settle Down (with Cory Henry, Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -575,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Island",
-        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Sew Me Back Together",
-      "url": "https://open.spotify.com/track/3GXhjB9dxqEwYqBH9GnDOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -607,6 +571,42 @@
       "duration_ms": 192017,
       "name": "Video (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Sew Me Back Together",
+      "url": "https://open.spotify.com/track/3GXhjB9dxqEwYqBH9GnDOp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cry about it! (feat. Ravyn Lenae)",
+        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 171507,
+      "name": "Cry about it! (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
     },
     {
       "added_at": null,

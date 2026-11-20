@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-486 songs - 1 day 9 hr 24 min
+487 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Ikiru](https://open.spotify.com/track/3yw4z7qsxXc5128jcL3iC3) | [Thoma](https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb) | [Ikiru](https://open.spotify.com/album/0eHHM0ue8X584CcXvSwRCF) | 3:43 | 2021-10-20 | 2022-07-29 |
 | [Iknowwhereyoucomefrom](https://open.spotify.com/track/1G5aOhuexELKKFBBboYzr4) | [Juan Pablo Garcia](https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd) | [Iknowwhereyoucomefrom](https://open.spotify.com/album/4VPyiSklKAWCZl9gMeK8La) | 3:27 | 2025-01-06 | 2025-05-30 |
 | [Imaginary Normal](https://open.spotify.com/track/1rXJrMRCdeKufNaFBC5MTd) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Paranormal](https://open.spotify.com/album/7oziztdX8PuEs9WPRjHyZl) | 3:43 | 2022-01-13 | 2022-07-25 |
+| [Imaginary Tradition](https://open.spotify.com/track/29kxIsGOgZd4DrujdCb4qW) | [Adriano Viterbini](https://open.spotify.com/artist/178rHkYDuc7mufAyt7i2CI) | [Imaginary Tradition](https://open.spotify.com/album/3h1ISxE7636u7TQBYT4HOc) | 1:43 | 2026-11-19 |  |
 | [In My Mind](https://open.spotify.com/track/0XQoOGwbUn930qZGji0885) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Nausea](https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj) | 3:06 | 2021-10-20 |  |
 | [In the Hidden Chambers of Caracol](https://open.spotify.com/track/285pocP6zBUSjzIkYDIi98) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [In the Hidden Chambers of Caracol](https://open.spotify.com/album/3JliESYZ3VcMSdaiYbrb5I) | 2:55 | 2021-10-20 | 2022-07-20 |
 | [In the Hidden Chambers of Caracol](https://open.spotify.com/track/3UhZCLlkRcJB1rl8UTQLYH) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [In the Hidden Chambers of Caracol](https://open.spotify.com/album/0oA7WnF8V6pOfpwbLrdvVi) | 2:55 | 2021-10-20 | 2024-04-19 |
@@ -278,7 +279,7 @@
 | [Morning Dancing](https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 9:52 | 2022-05-18 | 2023-10-03 |
 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 | 2021-12-01 |  |
 | [Mudita](https://open.spotify.com/track/7CYsCrteAXeSEADg1KyNvI) | [Marko Ivic](https://open.spotify.com/artist/5LqMTuz0Lw3pN29tpmDE5C) | [Mudita](https://open.spotify.com/album/54Zk9JASCc4kYAnJHlOX2K) | 6:17 | 2024-02-26 | 2025-11-15 |
-| [Music For Growing Flowers \- Edit](https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt) | 6:08 | 2022-09-30 |  |
+| [Music For Growing Flowers \- Edit](https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt) | 6:08 | 2022-09-30 | 2026-11-20 |
 | [Music For Psychedelic Therapy \- Excerpt](https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Music For Psychedelic Therapy \(Excerpt\)](https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv) | 7:07 | 2021-11-12 |  |
 | [My All](https://open.spotify.com/track/55tBt9jUhfxLAzArswwyKV) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Player, Piano](https://open.spotify.com/album/0VDyzM2k9g6wuHhUIDEbJl) | 2:23 | 2022-09-30 | 2022-11-30 |
 | [Natural Bridges](https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W) | [Signa](https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [Two](https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF) | 2:43 | 2022-01-07 | 2026-01-28 |

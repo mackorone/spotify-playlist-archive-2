@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-216 songs - 16 hr 31 min
+217 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 | 2023-03-31 |  |
 | [ENOUGH](https://open.spotify.com/track/71LGMpCjCz3k4uhVZkH3f6) | [Niya](https://open.spotify.com/artist/7usk2ErISYUqxthDAtYqap), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20), [Shayne Carmel](https://open.spotify.com/artist/5ihyCQON8OCN3L7LtdvPJh) | [ENOUGH](https://open.spotify.com/album/3RyQfb4ouTf4b7clUhSEPY) | 2:45 | 2022-04-15 |  |
 | [Everything You Are](https://open.spotify.com/track/6NAAoxdiUNwHSQUVj8dOns) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Everything You Are](https://open.spotify.com/album/2u37n6yGiFl0UoGkqYwRUq) | 3:30 | 2022-04-15 |  |
+| [Faithful God \(I Will Sing Forever\)](https://open.spotify.com/track/2qAG0HgIhX8iAw8vsF41sR) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF), [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Faithful God \(I Will Sing Forever\)](https://open.spotify.com/album/2Yu4EFj0VhUlAae2tjThw0) | 6:17 | 2026-11-20 |  |
 | [Falling In Love](https://open.spotify.com/track/5HDV0tGanBrakCqidZX8Wz) | [Namfi Fernandez](https://open.spotify.com/artist/3nBf4tFooa4q0P1E346mQx) | [Falling In Love](https://open.spotify.com/album/0B63cp4uCeJPj3tPwrysDd) | 3:38 | 2024-03-19 |  |
 | [Far Greater Love](https://open.spotify.com/track/0Nx53o4TyKSpnTiQ0MAiEj) | [Arman Ferrer](https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7), [Toto Sorioso](https://open.spotify.com/artist/3vFDvFtR8VKEITzDa2ddKe) | [Far Greater Love](https://open.spotify.com/album/5SV09W7HxgLw6ETLhNrF6q) | 4:10 | 2022-04-15 |  |
 | [Far Greater Love](https://open.spotify.com/track/1kAT4F1NJDWbqtnfrc5T0O) | [Arman Ferrer](https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7), [Toto Sorioso](https://open.spotify.com/artist/3vFDvFtR8VKEITzDa2ddKe) | [Far Greater Love](https://open.spotify.com/album/3ueRjNm3iHHUEc4Gd48xLu) | 4:10 | 2023-05-05 | 2024-04-19 |

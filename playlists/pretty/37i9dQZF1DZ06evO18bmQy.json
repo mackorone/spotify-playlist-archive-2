@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 212019,
+  "num_followers": 212023,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAACqj0RN1TmB7yt6j0bg4PJO",
+  "snapshot_id": "avzqgAAAAAB1V3j6Sc47szNB5p8bMyTk",
   "tracks": [
     {
       "added_at": null,
@@ -759,38 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALFA",
-        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 271822,
-      "name": "Campo de Golf",
-      "url": "https://open.spotify.com/track/4EWJ3ZEXRYsF0wBLmWlbgL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Pior M\u00fasica do Ano",
         "url": "https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV"
       },
@@ -831,6 +799,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALFA",
+        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 271822,
+      "name": "Campo de Golf",
+      "url": "https://open.spotify.com/track/4EWJ3ZEXRYsF0wBLmWlbgL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
         "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
       },
@@ -847,6 +847,26 @@
       "duration_ms": 161971,
       "name": "PPRT !",
       "url": "https://open.spotify.com/track/3cENw2qigK9kUULiih4Trd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 310375,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV"
     },
     {
       "added_at": null,
@@ -899,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 310375,
-      "name": "Eu",
-      "url": "https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hist\u00f3rias da Minha \u00c1rea",
         "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
       },
@@ -943,30 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        },
-        {
-          "name": "Yodabren",
-          "url": "https://open.spotify.com/artist/0aWOEUoRtkCHK96QTOcTjn"
-        }
-      ],
-      "duration_ms": 279253,
-      "name": "Santa Ceia",
-      "url": "https://open.spotify.com/track/5vCzUWgHCURn3jN8dvdDTP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 242000,
       "name": "Ningu\u00e9m Vai Te Superar",
       "url": "https://open.spotify.com/track/3tU3mMJYq6qU3h0HCwdn0S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "Yodabren",
+          "url": "https://open.spotify.com/artist/0aWOEUoRtkCHK96QTOcTjn"
+        }
+      ],
+      "duration_ms": 279253,
+      "name": "Santa Ceia",
+      "url": "https://open.spotify.com/track/5vCzUWgHCURn3jN8dvdDTP"
     },
     {
       "added_at": null,
@@ -1151,22 +1151,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
+        "name": "Favela Vive 3",
+        "url": "https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF"
       },
       "artists": [
+        {
+          "name": "ADL",
+          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
+        },
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "Menor do Chapa",
+          "url": "https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3"
         }
       ],
-      "duration_ms": 262400,
-      "name": "LADR\u00c3O",
-      "url": "https://open.spotify.com/track/1ACDmP969nKGRshzl47GjB"
+      "duration_ms": 499570,
+      "name": "Favela Vive 3",
+      "url": "https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN"
     },
     {
       "added_at": null,
@@ -1187,6 +1199,26 @@
       "duration_ms": 256810,
       "name": "Esquim\u00f3",
       "url": "https://open.spotify.com/track/40b5YP1kX8xbWKvm0hFdZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "LADR\u00c3O",
+      "url": "https://open.spotify.com/track/1ACDmP969nKGRshzl47GjB"
     },
     {
       "added_at": null,
@@ -1239,38 +1271,6 @@
       "duration_ms": 632886,
       "name": "Depois do Baile",
       "url": "https://open.spotify.com/track/0XkH47qUbNA4YGdD4WEjAA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Favela Vive 3",
-        "url": "https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF"
-      },
-      "artists": [
-        {
-          "name": "ADL",
-          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
-        },
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Negra Li",
-          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Menor do Chapa",
-          "url": "https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3"
-        }
-      ],
-      "duration_ms": 499570,
-      "name": "Favela Vive 3",
-      "url": "https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN"
     },
     {
       "added_at": null,

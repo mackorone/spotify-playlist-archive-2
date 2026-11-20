@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're focusing, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,236 likes - 100 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,240 likes - 100 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 11 | [Nightwalk](https://open.spotify.com/track/3vHDfrh0JSscioPnGvRavd) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Nightwalk](https://open.spotify.com/album/1i2XRp6UQR6tGCMHMNSuGW) | 2:01 |
 | 12 | [Vacation](https://open.spotify.com/track/0NGkpWYvNF7GOdp5k0wGW5) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5), [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo) | [Vacation](https://open.spotify.com/album/4i5rDSpvSx1n3ZQITeVmEU) | 1:42 |
 | 13 | [Backhouse Bounce](https://open.spotify.com/track/4nsiwpMeYUodbmMBs17OEZ) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [Backhouse Bounce](https://open.spotify.com/album/5W1PsgMdkj7ADcw4BRafl6) | 1:47 |
-| 14 | [Drip](https://open.spotify.com/track/4Y0B217JMYCcdKjsC87SCB) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Drip](https://open.spotify.com/album/0a6U7OW9YxAX9SklG6X976) | 1:58 |
-| 15 | [solid](https://open.spotify.com/track/3OTTrRBwf6h7Inr8bs6bxV) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [solid](https://open.spotify.com/album/3dZj6KE3zyR68GLyybP9vn) | 2:17 |
+| 14 | [solid](https://open.spotify.com/track/3OTTrRBwf6h7Inr8bs6bxV) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [solid](https://open.spotify.com/album/3dZj6KE3zyR68GLyybP9vn) | 2:17 |
+| 15 | [Drip](https://open.spotify.com/track/4Y0B217JMYCcdKjsC87SCB) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Drip](https://open.spotify.com/album/0a6U7OW9YxAX9SklG6X976) | 1:58 |
 | 16 | [Your Vibe](https://open.spotify.com/track/6j28jY5MmBEnokS9i3irIr) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Your Vibe](https://open.spotify.com/album/1eD9lTW6CovQPyM1bZGxDJ) | 2:02 |
 | 17 | [See You, Space Cowboy](https://open.spotify.com/track/3wH8G4TzAVS6YyBhlUX6Se) | [404flipp](https://open.spotify.com/artist/0JAoyodhQGwikUsJp8FKNV) | [See You, Space Cowboy](https://open.spotify.com/album/5cYKSdW2gvvEIGkkvALVdh) | 2:27 |
 | 18 | [Green Soju](https://open.spotify.com/track/0KFQ697GYrwEscuMJ8oO9V) | [Langston](https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA), [Hicks](https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV), [ARISU](https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4) | [Green Soju](https://open.spotify.com/album/0bhdYL3ErDclyErpII52fu) | 2:04 |
-| 19 | [Bubble Butter](https://open.spotify.com/track/1GFuJBo2OS8VJKKe019Y58) | [Cvsket Pretty](https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Bubble Butter](https://open.spotify.com/album/4ISr2WMhYAYsybZY37NUHL) | 2:09 |
-| 20 | [Arizona](https://open.spotify.com/track/2mag4uJrjz3ub8ycjASBrZ) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y), [Jones McJonsen](https://open.spotify.com/artist/7HOOvYURNE4ioNmIPclYhZ) | [Arizona](https://open.spotify.com/album/2Sb3J6ExQSAl16YdNkgKys) | 2:29 |
+| 19 | [Arizona](https://open.spotify.com/track/2mag4uJrjz3ub8ycjASBrZ) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y), [Jones McJonsen](https://open.spotify.com/artist/7HOOvYURNE4ioNmIPclYhZ) | [Arizona](https://open.spotify.com/album/2Sb3J6ExQSAl16YdNkgKys) | 2:29 |
+| 20 | [Bubble Butter](https://open.spotify.com/track/1GFuJBo2OS8VJKKe019Y58) | [Cvsket Pretty](https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Bubble Butter](https://open.spotify.com/album/4ISr2WMhYAYsybZY37NUHL) | 2:09 |
 | 21 | [Echoes](https://open.spotify.com/track/4j1sfsi46jR7k9VQhX1ca9) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Echoes](https://open.spotify.com/album/2qFwsab3wTD4GWJbgqUxsX) | 2:00 |
 | 22 | [Counterbalanced](https://open.spotify.com/track/6Q7Ns2ewVUakx6xtwxmpOD) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Boulevards](https://open.spotify.com/album/50eD6pn2SSYlsI8kjT2txQ) | 2:39 |
 | 23 | [skills](https://open.spotify.com/track/2I0IyaxKWCbpsWpKqTm17U) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [skills](https://open.spotify.com/album/6wrc9Wgs0TbJBweRqWWj8W) | 2:00 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 35 | [Views](https://open.spotify.com/track/5fXTFdLOni8XLNHMTcmgUz) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Views](https://open.spotify.com/album/4R8Vz6szozsXUipPIUhrDO) | 1:41 |
 | 36 | [Another One](https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Another One](https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF) | 2:00 |
 | 37 | [Nowhere](https://open.spotify.com/track/27ptY9nQRlAZmz6r7bmzqO) | [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Nowhere](https://open.spotify.com/album/1RlL8p44tMSOtqF7oJyuZi) | 1:54 |
-| 38 | [Polaroids](https://open.spotify.com/track/7kedyO9WGXcrvpRATAX0C8) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Polaroids](https://open.spotify.com/album/6Z4oxIV8uRTX3IIEeZsWWp) | 2:18 |
+| 38 | [Know You](https://open.spotify.com/track/1XJxXhc5f6USETATnHxdzc) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Know You](https://open.spotify.com/album/6E1T3eTNSIxE8UrqOmb2QW) | 2:16 |
 | 39 | [tuesday evenings](https://open.spotify.com/track/1Rl4Qph0hXgF6cadGi4qcd) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [wielandwieland](https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n) | [moments](https://open.spotify.com/album/4JNzCvA37BbzSpNWVDIDqi) | 1:53 |
-| 40 | [Know You](https://open.spotify.com/track/1XJxXhc5f6USETATnHxdzc) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Know You](https://open.spotify.com/album/6E1T3eTNSIxE8UrqOmb2QW) | 2:16 |
+| 40 | [Polaroids](https://open.spotify.com/track/7kedyO9WGXcrvpRATAX0C8) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Polaroids](https://open.spotify.com/album/6Z4oxIV8uRTX3IIEeZsWWp) | 2:18 |
 | 41 | [Alicante](https://open.spotify.com/track/0YRYWdsmAm97kcgRvXuJDB) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Alicante](https://open.spotify.com/album/5JgwQzMeGwYS4IKKdAQCM3) | 3:04 |
 | 42 | [Bask](https://open.spotify.com/track/1BjS00Udv7m5tJKj7x5uhz) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Bask](https://open.spotify.com/album/1yRuNCV4Wa5DjPYkVUwAV8) | 1:46 |
 | 43 | [Wind](https://open.spotify.com/track/2TcsW2KxKMJtOonKMFQjPY) | [terrarium.](https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf), [Hopmax](https://open.spotify.com/artist/4TfGlx7UAcN39yNgRy2tc7) | [Wind](https://open.spotify.com/album/6dpMkpP4Yn36VWWYwkNPIZ) | 1:46 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 81 | [Sthlm Night](https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Sthlm Night](https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS) | 2:50 |
 | 82 | [High Expectations](https://open.spotify.com/track/4rn17OCKU2IAPEPVOi8kPy) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [High Expectations](https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd) | 2:16 |
 | 83 | [Melting Away](https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Melting Away](https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ) | 3:06 |
-| 84 | [pearls](https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [pearls](https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et) | 1:48 |
-| 85 | [little lies](https://open.spotify.com/track/3x8mCjdAaPtXtAPUkFX5wn) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Good feeling](https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s) | 2:16 |
+| 84 | [little lies](https://open.spotify.com/track/3x8mCjdAaPtXtAPUkFX5wn) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Good feeling](https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s) | 2:16 |
+| 85 | [pearls](https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [pearls](https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et) | 1:48 |
 | 86 | [Moonwalker](https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Moonwalker](https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS) | 2:42 |
 | 87 | [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 |
 | 88 | [Downtown Breeze](https://open.spotify.com/track/2mXNs28oZuuwkBfwHqenvt) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [Downtown Breeze](https://open.spotify.com/album/0gGiTCknsGBx5GP5kWm2ZV) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 99 | [Lush Life](https://open.spotify.com/track/7asjWIkKWVDRz6hy6O6uaC) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Lush Life](https://open.spotify.com/album/6emeWUHnD2Sro9YwBlsblI) | 1:54 |
 | 100 | [Somewhere](https://open.spotify.com/track/03W7SAX0oTXQqWkeO1Eoql) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Somewhere](https://open.spotify.com/album/2tH0WniQaD92x1JpTxzyEO) | 2:01 |
 
-Snapshot ID: `AAAAAHVd+IRUFHudGAgcrQtU8oaXqgQ5`
+Snapshot ID: `AAAAAJggsMZU61AgHO/ByySWaNh2krzz`

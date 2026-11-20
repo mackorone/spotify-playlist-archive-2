@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 161450,
+  "num_followers": 161457,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAizVLE8TebBlQpp2YTjJ/e",
+  "snapshot_id": "avzqgAAAAACs6OdPAy3rPX5oN7KLrXbU",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3two",
+        "url": "https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 194669,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/1XVeutN9LyRRzGAiklgN8E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -351,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 221522,
-      "name": "24/7 (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -396,9 +392,29 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 194669,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/1XVeutN9LyRRzGAiklgN8E"
+      "duration_ms": 176545,
+      "name": "Favourite T-Shirt",
+      "url": "https://open.spotify.com/track/3j527NXpjd10gAnwigbdP5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 221522,
+      "name": "24/7 (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
       "duration_ms": 191981,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3x4Zx0rPoW6kErSDK8SSnW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3two",
-        "url": "https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 176545,
-      "name": "Favourite T-Shirt",
-      "url": "https://open.spotify.com/track/3j527NXpjd10gAnwigbdP5"
     },
     {
       "added_at": null,

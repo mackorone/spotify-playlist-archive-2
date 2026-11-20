@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,561 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,621 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 30 | [Not All Are Real](https://open.spotify.com/track/4XtR1RgLRyY6WJmbH1nyRK) | [Bragolin](https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD) | [This Presence Like a Breeze](https://open.spotify.com/album/1eKRuP1xOrCBLpyoWEbcmQ) | 3:57 |
 | 31 | [21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [21 Nächte wach](https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx) | 2:42 |
 | 32 | [This Love](https://open.spotify.com/track/11WExd5tfFgg31WPNHNQnm) | [Hallows](https://open.spotify.com/artist/4pw10fTRjfQtjRhy25G5W6) | [This Love](https://open.spotify.com/album/4bQqCTyZTng6pqZagtuoTD) | 3:44 |
-| 33 | [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 |
+| 33 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 34 | [Shadows](https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Shadows](https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV) | 3:07 |
 | 35 | [Courtroom Drama](https://open.spotify.com/track/3KKMDL3bSgEecSvEGXX70O) | [Agatha is Dead!](https://open.spotify.com/artist/3t12sehooJP6lkLBy4h9R1) | [Courtroom Drama](https://open.spotify.com/album/43dClb0aNuhL1j9xzSSHcw) | 3:29 |
-| 36 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
+| 36 | [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 |
 | 37 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 |
 | 38 | [Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH) | [Future Nobodies](https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH) | [Apasionada / Over It](https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq) | 2:49 |
 | 39 | [99](https://open.spotify.com/track/1136nfwNfK1P1f7YkcqWHU) | [blawhitt](https://open.spotify.com/artist/4Z04808YXRo0Y1PlvDXycM) | [99](https://open.spotify.com/album/1dhq356MIu4BQeUvpOpZm6) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 49 | [FRENCH TIPS](https://open.spotify.com/track/2XvsjccIW6F1ZHRcc8rxdU) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [ESPERA](https://open.spotify.com/album/4k2fUq8CH5r1taFG82PGjh) | 2:27 |
 | 50 | [Flinch Awake](https://open.spotify.com/track/7KT3QK1mTErOIeXyBwsnA8) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Dark Angel](https://open.spotify.com/album/2l4vEBCHhW804i5xo1rj4g) | 5:48 |
 
-Snapshot ID: `AAAAAF3S6mxf29FT9hrykXxWWjLHzd96`
+Snapshot ID: `AAAAAEXVVssZa4fA1Xm4tfoI9NAJ+Dbe`

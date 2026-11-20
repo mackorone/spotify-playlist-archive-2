@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,917 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,917 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 47 | [Rats & Nobles](https://open.spotify.com/track/5puGKhaphVDO2yaU9ycynd) | [燕夏準](https://open.spotify.com/artist/6IQXL6FP1MHrFrMO329e8I), [矢戸乃上可波汰](https://open.spotify.com/artist/2V7qMRMjNcuZmu3JQyFkqa), [矢戸乃上那由汰](https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK) | [Paradox Live Shuffle Team Show \(Vol.2\)](https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3) | 4:48 |
 | 48 | [Linger](https://open.spotify.com/track/3Gd4qqlvj1TRADp9B1t2we) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live \-Battle of Unity\- Round3 “FUTURE”](https://open.spotify.com/album/1MxL6gUA0dG5XbJuz4h4QR) | 3:14 |
 | 49 | [Rooftop](https://open.spotify.com/track/6rriREMck8MKJGyIvDz8RM) | [闇堂四季](https://open.spotify.com/artist/5BVVhDIGYa7cfSVBoBUAKi), [矢戸乃上那由汰](https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:19 |
-| 50 | [音色](https://open.spotify.com/track/2VnKoiyRr4V00MpX9UjMhI) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 3:04 |
+| 50 | [Frozen Ice](https://open.spotify.com/track/1VtkV6XZDHEqjeNIGl8eJC) | [team Winter](https://open.spotify.com/artist/5dVxkYHbEkFwB5jzsZPd5K) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 3:35 |
 
-Snapshot ID: `AAAAAMB3gai7f2vQcKBrS2gsyy0pP+Ee`
+Snapshot ID: `AAAAAErVrjJPANQFvLzGo63U0Q45wl0k`

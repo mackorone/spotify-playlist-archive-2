@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-466 songs - 1 day 11 hr 27 min
+467 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Banana](https://open.spotify.com/track/3lWMxUaH99svmD3GnuMZJb) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL) | [Punk Funk](https://open.spotify.com/album/6GRKvJCdPxrexuUO9nUPAC) | 4:06 | 2021-10-01 |  |
 | [Be on the Lookout](https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Be on the Lookout](https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA) | 3:13 | 2021-06-04 | 2023-03-11 |
 | [BEEF](https://open.spotify.com/track/3IrwWVOz5YZNuOcilwwzqX) | [Andrew Huang](https://open.spotify.com/artist/7HifubxN0gO1nHbRIqWhrY), [4L3X 4LM1R4LL](https://open.spotify.com/artist/3NZb54JKVDSE7E333Tx39z) | [BEEF](https://open.spotify.com/album/2HAfxkMuf3MSAFrPJaFS4H) | 2:54 | 2024-11-08 |  |
-| [Better Day's Are Coming](https://open.spotify.com/track/6mJlNbnQL5hlwmAVI56nfS) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Mats Öberg](https://open.spotify.com/artist/3LUqfl7mVVnNwfCpE6s4RD) | [Better Day's Are Coming](https://open.spotify.com/album/3qNRh6bl4LpSgMfT4owJSE) | 4:14 | 2022-02-04 |  |
+| [Better Day's Are Coming](https://open.spotify.com/track/6mJlNbnQL5hlwmAVI56nfS) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Mats Öberg](https://open.spotify.com/artist/3LUqfl7mVVnNwfCpE6s4RD) | [Better Day's Are Coming](https://open.spotify.com/album/3qNRh6bl4LpSgMfT4owJSE) | 4:14 | 2022-02-04 | 2026-11-20 |
 | [Biff](https://open.spotify.com/track/2BUFIIwxakMPTvQAJTjV8D) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Biff](https://open.spotify.com/album/2AVASYr7bkRFHrlKE4rjjp) | 4:02 | 2023-03-24 | 2024-03-30 |
 | [Big Brother](https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Daniel Wytanis](https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln) | [Big Brother](https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n) | 6:01 | 2024-03-01 | 2024-03-23 |
 | [Big Building's Walk](https://open.spotify.com/track/0CfoP8Zf68u2E0JegB0S2F) | [Maison Vivante](https://open.spotify.com/artist/5Lz6ExpF0sdy6fn8vMm0rg) | [Big Building's Walk](https://open.spotify.com/album/4730bSWMAEVpVOcbNQwzSO) | 2:56 | 2021-07-16 | 2024-04-06 |
@@ -246,6 +246,7 @@
 | [Morning Cry](https://open.spotify.com/track/6hs6fldhuYp37VBNUzHXS5) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 3:31 | 2026-03-27 |  |
 | [Mountain Caravan](https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Linger Lane](https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1) | 5:20 | 2020-10-09 |  |
 | [Mr\. Funky samba](https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:39 | 2020-10-09 |  |
+| [Mr\. Sandman \- Live](https://open.spotify.com/track/3jPXOt2e9FlK2emjleJu0Z) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Other People's Songs \(Live at Ronnie Scotts\)](https://open.spotify.com/album/3gn5BXWSEAaxZUPAr2aSF0) | 5:17 | 2026-11-20 |  |
 | [Mulligan](https://open.spotify.com/track/1t8voEpXTk4ZL74poDQ2pp) | [Hip Horns Brass Collective](https://open.spotify.com/artist/7nMM3u8bnwFtQxA2g0uNIv) | [Bram! & Mulligan](https://open.spotify.com/album/2uHl0Qu2xSrrYWC4ngPgeF) | 3:40 | 2023-05-26 |  |
 | [MXC.MMBL](https://open.spotify.com/track/6Sxnxm8dsA7SSNtT1TVtPK) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon Soulful Samurai Poole](https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ) | [MXC.MMBL](https://open.spotify.com/album/6z0B2ceHgNNQ8beB2ZyAVK) | 2:37 | 2022-09-02 | 2023-04-09 |
 | [My Stomping Ground](https://open.spotify.com/track/3EiF9maIQqspIR9oueTbuy) | [Dwight Trible](https://open.spotify.com/artist/5HzryqCINeBjTh2KnPtWnu) | [Ancient Future](https://open.spotify.com/album/3ESkKOvwCWo0MxcMqVjjo1) | 6:08 | 2023-03-17 | 2024-04-19 |

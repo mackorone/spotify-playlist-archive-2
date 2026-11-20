@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 
 > This is Earth, Wind & Fire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,801 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,810 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 49 | [Show Me the Way \(feat\. Raphael Saadiq\)](https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Illumination](https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY) | 7:47 |
 | 50 | [Let's Go Dumb Crasy](https://open.spotify.com/track/44xXX5Z6CiaAjx4Yd4EZh6) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Let's Go Dumb Crasy](https://open.spotify.com/album/3nmPYcTH2TvFFnxgeCB0MF) | 2:12 |
 
-Snapshot ID: `avpHgAAAAABseoSE22va+s0KWl+lo3ep`
+Snapshot ID: `avzqgAAAAADfpvIV7MId3pb1aofJWFIV`

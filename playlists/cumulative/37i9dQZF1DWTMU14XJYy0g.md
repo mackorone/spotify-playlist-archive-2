@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Emblemas de nuestro rock 📸 Cruzando El Charco
+> Emblemas de nuestro rock 📸 Guasones
 
-469 songs - 1 day 5 hr 0 min
+472 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Amnesia](https://open.spotify.com/track/0pKq8NLJDwYbT7Ja7AEUYE) | [Francia 98](https://open.spotify.com/artist/6me7j5R08ARYKASHiqhvcu) | [Amnesia](https://open.spotify.com/album/4OMEnSsFgeenZiIVNjBIn6) | 3:47 | 2024-10-18 | 2025-02-08 |
 | [Amor en Pandemia](https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Amor en Pandemia](https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ) | 2:47 | 2022-07-29 | 2023-03-11 |
 | [Amores Como El Nuestro](https://open.spotify.com/track/3BR2IsY0nBj7mmrKudsYV8) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Amores Como El Nuestro](https://open.spotify.com/album/5buOKY4eTPj7DMIOrZpxdA) | 2:08 | 2026-05-29 | 2026-08-01 |
-| [Anarquía en Buenos Aires](https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Anarquía en Buenos Aires](https://open.spotify.com/album/6sMENok4qzf1QQW19AkNV5) | 3:58 | 2024-12-06 |  |
+| [Amás no poder](https://open.spotify.com/track/5VKGZj4Kh0QziVgrfDdSc1) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Vínculos](https://open.spotify.com/album/5ZthIfoml89EXwgmbfSzDt) | 3:08 | 2026-11-20 |  |
+| [Anarquía en Buenos Aires](https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Anarquía en Buenos Aires](https://open.spotify.com/album/6sMENok4qzf1QQW19AkNV5) | 3:58 | 2024-12-06 | 2026-11-20 |
 | [Angel](https://open.spotify.com/track/20G3beDqFyupoDqEhAfunp) | [Los Títeres](https://open.spotify.com/artist/48nIgxyfgJKBLXrIwT7GZZ) | [Angel](https://open.spotify.com/album/1LGGUBSviv7Bwf8pKoSmsc) | 2:57 | 2025-02-21 | 2025-06-21 |
 | [Arañas Bebé](https://open.spotify.com/track/5ftNxlkQO9WD9yKWn8K60f) | [Richard Coleman](https://open.spotify.com/artist/6Hngy3cPnHG2DO493ZxSya), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Arañas Bebé](https://open.spotify.com/album/295GI99A9OkBbikjcuNavc) | 3:50 | 2023-11-10 | 2024-02-10 |
 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 | 2023-06-16 | 2024-04-06 |
@@ -77,7 +78,7 @@
 | [Chocarnos Contra La Pared](https://open.spotify.com/track/2ez2vyyoxRsM6vy2ygp5bf) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:47 | 2024-04-26 | 2024-07-27 |
 | [Cicuta \- Spotify Sessions](https://open.spotify.com/track/3CV9QpKGJJxtimW0jDOODi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \- Spotify Sessions](https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL) | 4:16 | 2025-12-12 | 2026-08-01 |
 | [Cinco Horas Menos](https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:23 | 2024-04-26 |  |
-| [Cirugía](https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 3:36 | 2024-04-26 |  |
+| [Cirugía](https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 3:36 | 2024-04-26 | 2026-11-20 |
 | [Cirugía \(Portal Sessions\)](https://open.spotify.com/track/5ssgbRdJTVgTLmkJ7gmPuF) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Portal Sessions](https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN) | [Cirugía \(Portal Sessions\)](https://open.spotify.com/album/4Dy7IxsvlG9rEt0lGECFDr) | 3:38 | 2024-11-22 | 2025-03-08 |
 | [Coleccionando cicatrices](https://open.spotify.com/track/2Ug1MOeq7WsZI3e3RmIXIQ) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:56 | 2022-07-15 | 2023-09-27 |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/0nFNXj5EVrMR4q2Qm74CtP) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/732rZ7r8CfbcxZt7kiXpug) | 3:58 | 2022-11-02 | 2022-11-14 |
@@ -122,7 +123,7 @@
 | [Diamante](https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [El mundo no se hizo en dos días](https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP) | 4:05 | 2022-12-16 | 2023-03-04 |
 | [Diamante](https://open.spotify.com/track/1gz7RDz6Z6WroNWmGqYtaQ) | [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [odio](https://open.spotify.com/album/2lkLm5GrGISldCNW4VWZkV) | 2:34 | 2022-06-24 | 2022-09-03 |
 | [Diamante Roto](https://open.spotify.com/track/1rs0pVmsZTiPnUX6j3zkOO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:01 | 2023-07-07 | 2024-04-19 |
-| [Diamante Roto](https://open.spotify.com/track/2kKDMlOpLR5NsTuOdTyukm) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 3:01 | 2024-09-20 |  |
+| [Diamante Roto](https://open.spotify.com/track/2kKDMlOpLR5NsTuOdTyukm) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 3:01 | 2024-09-20 | 2026-11-20 |
 | [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 | 2023-04-14 | 2023-07-10 |
 | [Diamante Roto](https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3) | 3:01 | 2024-04-19 | 2024-05-25 |
 | [Dirty Donna](https://open.spotify.com/track/41PlwW2LwnJQCHa3c2L1Qf) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Dirty Donna](https://open.spotify.com/album/6Y8jks0IRkAjXlHvcgDyX3) | 4:24 | 2025-10-17 | 2026-05-30 |
@@ -395,6 +396,7 @@
 | [Serenata de una ruta larga](https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Serenata de una ruta larga](https://open.spotify.com/album/6ViG0ICnYnj5KlVjxR6MDV) | 4:47 | 2024-05-10 |  |
 | [Señal](https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Mienten](https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR) | 4:37 | 2023-06-16 | 2023-09-27 |
 | [SIBERIA](https://open.spotify.com/track/4FUbTQsBDmoO99i1TXwKeK) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Caminos Bríos](https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF) | 3:54 | 2022-06-24 | 2023-04-01 |
+| [Sigo](https://open.spotify.com/track/3mRUbNFGSqtCI946GQpEhf) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Exilio](https://open.spotify.com/album/65aJsTVMkh87gXBhxgiYTZ) | 4:28 | 2026-11-20 |  |
 | [Silencio](https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Silencio](https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH) | 5:25 | 2024-06-07 | 2024-09-13 |
 | [Sin la Piel](https://open.spotify.com/track/5qPNGxwfatEJmtISRGErwP) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Sin La Piel](https://open.spotify.com/album/50Z0f28zaJBF5MeqrWzOAP) | 3:41 | 2026-09-11 |  |
 | [Sin Rumbo](https://open.spotify.com/track/0Z1AdL0tTwA5ob29Oe82Vs) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Hollywood Bungalows](https://open.spotify.com/album/5i5fjpRX6wAbjjUAj0siq1) | 3:24 | 2025-02-21 | 2025-09-13 |
@@ -415,6 +417,7 @@
 | [sé que va a venir](https://open.spotify.com/track/4CdsEPDWvoNL249vSYhxyp) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Inhibidor](https://open.spotify.com/album/3pKSAQaC5qUpRAhRg5BRVk) | 4:01 | 2026-07-31 |  |
 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 | 2023-12-01 | 2024-09-21 |
 | [Tan Distintos \- Acústico](https://open.spotify.com/track/6VVSQJKIS8QoS3ATKYZpI8) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Tan Distintos \(Acústico\)](https://open.spotify.com/album/4kn2pDF2SAuQGc9yUMp31n) | 3:38 | 2023-09-22 | 2025-12-20 |
+| [Tan Fácil](https://open.spotify.com/track/4CXFb7nsXJGquaAVn5Xyhj) | [La Grecia](https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ) | [Tan Fácil](https://open.spotify.com/album/1fkCATtx2zPnZAhSMZsmWH) | 4:22 | 2026-11-20 |  |
 | [Tan Perfecto Que Asusta](https://open.spotify.com/track/1EhrnMotqbkIzvtYk23Kto) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Zona Liberada](https://open.spotify.com/album/2xAPsiGPc4ZiO6FyONelJi) | 4:34 | 2025-08-15 |  |
 | [Tan Solo Un Hombre](https://open.spotify.com/track/2PKoFmgmfDKxPnnyENcXLT) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Tan Solo Un Hombre](https://open.spotify.com/album/2LSqpzpG3EST7aE5YnivsV) | 3:18 | 2025-08-15 |  |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/5FNvmP6LSxwbyQM3Dc7PkK) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:58 | 2023-07-07 | 2023-09-23 |

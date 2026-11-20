@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,545,407 likes - 245 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,545,628 likes - 245 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 244 | [In a different light](https://open.spotify.com/track/2hc7WvRjUjAesaK8Yo5x2t) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [In a different light](https://open.spotify.com/album/5EnO4yqsKvpFsqZbielPTQ) | 2:27 |
 | 245 | [Talk to Me](https://open.spotify.com/track/7N2owRWLVbvf6bUbjmhqMj) | [Lynn Valley Forest Club](https://open.spotify.com/artist/7H45BHV17knhQ0wkIWf42V) | [Talk to Me](https://open.spotify.com/album/221QFiXWytGmoBWdEMTQR6) | 2:09 |
 
-Snapshot ID: `AAAAALDbf2TuI7g9ZdF8tLq8SPdA3zQn`
+Snapshot ID: `AAAAAMb6Y82MCTrYtU1dl3J27TLXJ+uO`

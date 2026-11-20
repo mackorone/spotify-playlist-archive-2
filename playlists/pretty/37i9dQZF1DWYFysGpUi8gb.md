@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring untitled \(halo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,714 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,689 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Love You Better](https://open.spotify.com/track/0OAZvY29RSoHwzfUuSHrvv) | [pyncher](https://open.spotify.com/artist/66NBYDmR4OTIL8AuMvKTK7), [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love You Better](https://open.spotify.com/album/0wnJblklxv7hIgSNpYyS5f) | 3:20 |
 | 80 | [teeth](https://open.spotify.com/track/3M0znkPqbu7s2h4V89FzD7) | [green star](https://open.spotify.com/artist/35CQyx6pBd8bt19LYBmVOe) | [teeth](https://open.spotify.com/album/5elEt3QFQIfSZUEhIgd5aj) | 4:13 |
 
-Snapshot ID: `AAAAAHV0x3dfqbTJrADoEs2PoY4nUk25`
+Snapshot ID: `AAAAAI3SF2icgMQPnGOU7B7biGoLeN0P`

@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Genevieve Stokes",
-  "num_followers": 112539,
+  "num_followers": 112535,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMaEVXGaZq6+YeV1dJcE8X42YNCZ",
+  "snapshot_id": "AAAAAM+W//e9kAd2c4Jzgji5/emrIrRP",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Blue Sea",
-        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
-      },
-      "artists": [
-        {
-          "name": "RICEWINE",
-          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
-        }
-      ],
-      "duration_ms": 195514,
-      "name": "Blue Sea",
-      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Eye On The Bat",
         "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 176869,
       "name": "Eye On The Bat",
       "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Blue Sea",
+        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
+      },
+      "artists": [
+        {
+          "name": "RICEWINE",
+          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
+        }
+      ],
+      "duration_ms": 195514,
+      "name": "Blue Sea",
+      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 241818,
+      "name": "Lydia Wears A Cross",
+      "url": "https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Planet Song",
         "url": "https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 201893,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "PRE PLEASURE",
-        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 241818,
-      "name": "Lydia Wears A Cross",
-      "url": "https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "awe",
-        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 235382,
-      "name": "awe",
-      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "serious person (part 2)",
+        "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "duration_ms": 198631,
+      "name": "alien",
+      "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "VBS",
         "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 204065,
       "name": "Thompson's Station",
       "url": "https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "serious person (part 2)",
-        "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        }
-      ],
-      "duration_ms": 198631,
-      "name": "alien",
-      "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Salt Circle",
-        "url": "https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs"
-      },
-      "artists": [
-        {
-          "name": "Eliza McLamb",
-          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
-        }
-      ],
-      "duration_ms": 260721,
-      "name": "Salt Circle",
-      "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "All of This Beauty",
         "url": "https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 128266,
       "name": "All of This Beauty",
       "url": "https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Salt Circle",
+        "url": "https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs"
+      },
+      "artists": [
+        {
+          "name": "Eliza McLamb",
+          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
+        }
+      ],
+      "duration_ms": 260721,
+      "name": "Salt Circle",
+      "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
     },
     {
       "added_at": "2024-11-08 05:00:00",

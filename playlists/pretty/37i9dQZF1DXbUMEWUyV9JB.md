@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Mariangela
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,931 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,944 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 92 | [Ni Tú Te La Crees](https://open.spotify.com/track/2QgfJ8VgT54FX8RhsgSyqw) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Ni Tú Te La Crees](https://open.spotify.com/album/0UXob1CZDnJOJTiW5mbQWj) | 2:55 |
 | 93 | [Me Prometi \(Cumbia Version\)](https://open.spotify.com/track/5pd2DbnrGEdKSfazK1YXAq) | [Agushto Papa](https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS), [Alta Ralea](https://open.spotify.com/artist/68r0QxQOG94MKuRbvoya3N) | [Me Prometi \(Cumbia Version\)](https://open.spotify.com/album/55j6dKcv00zwJG9C2MHHYf) | 3:27 |
 | 94 | [Querido Rey](https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Querido Rey](https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY) | 2:48 |
-| 95 | [Lo que hay x aquí](https://open.spotify.com/track/7zrsSimdPZxyPZ0D3nHIWz) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [La Receta, Jambao, G Sony \| Sin Miedo al Éxito \#2](https://open.spotify.com/album/7L1MfLpHzxgCAGUi0hgu6P) | 3:03 |
-| 96 | [Balada Pop](https://open.spotify.com/track/7ivqF3wpJIW2kxkS5utDSH) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Balada Pop](https://open.spotify.com/album/3PZmctrjLYvAjQEDhDlxtz) | 2:22 |
+| 95 | [Balada Pop](https://open.spotify.com/track/7ivqF3wpJIW2kxkS5utDSH) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Balada Pop](https://open.spotify.com/album/3PZmctrjLYvAjQEDhDlxtz) | 2:22 |
+| 96 | [Lo que hay x aquí](https://open.spotify.com/track/7zrsSimdPZxyPZ0D3nHIWz) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [La Receta, Jambao, G Sony \| Sin Miedo al Éxito \#2](https://open.spotify.com/album/7L1MfLpHzxgCAGUi0hgu6P) | 3:03 |
 | 97 | [Cuéntale](https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Cuéntale](https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K) | 2:41 |
 | 98 | [Enamorada](https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Enamorada](https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8) | 3:15 |
 | 99 | [Si Alguien Me Ve](https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm) | [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Si Alguien Me Ve](https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF) | 2:56 |
 | 100 | [Amiga Traidora \- Cumbia TexMex](https://open.spotify.com/track/7aP0egv8A32jZLoO0OU56O) | [Angela](https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla) | [Amiga Traidora \(Cumbia TexMex\)](https://open.spotify.com/album/2y4Ew4yL1fhfDyNK38XmD1) | 4:09 |
 
-Snapshot ID: `AAAAACThiZwWxxWsOFmwAVVQN4gW4jZs`
+Snapshot ID: `AAAAAO+9fkkQnNQIl/iQ8yoxjif9rHue`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The sound of the underground. Cover: Bullet For My Valentine",
+  "description": "The sound of the underground. Cover: Narrow Head",
   "name": "The Pit",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 172353,
       "name": "$WING",
       "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
+    },
+    {
+      "album": {
+        "name": "(I Can't Get Out Of) My Own Way",
+        "url": "https://open.spotify.com/album/3kjhTh83RH01cJbkbUtT8s"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152196,
+      "name": "(I Can't Get Out Of) My Own Way",
+      "url": "https://open.spotify.com/track/5mx3Sm7ercSZASQBShNrpN"
     },
     {
       "album": {
@@ -758,7 +776,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216884,
       "name": "An Ending In Itself",
       "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
@@ -1003,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Assimilate",
+        "url": "https://open.spotify.com/album/6kf0Y2TYo4k1kjpoyYMbzf"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261271,
+      "name": "Assimilate",
+      "url": "https://open.spotify.com/track/0B4rNyIm6WaKBwkcXnGJKh"
+    },
+    {
+      "album": {
         "name": "Atonement (feat. Will Ramos)",
         "url": "https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf"
       },
@@ -1192,7 +1228,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168323,
       "name": "Bad Faith",
       "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
@@ -2036,7 +2072,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 251505,
       "name": "Blunt Force Blues",
       "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
@@ -3357,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "Graceless",
+        "url": "https://open.spotify.com/album/1wuUydn2HW0pnmQnTFNJtL"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167470,
+      "name": "Cursed Since Birth",
+      "url": "https://open.spotify.com/track/12ZqLRhJ73zanzXjf8ae6e"
+    },
+    {
+      "album": {
         "name": "Curwen",
         "url": "https://open.spotify.com/album/3ks2f53mSTSzD0eLeC01mt"
       },
@@ -3412,6 +3466,24 @@
       "duration_ms": 275247,
       "name": "Cyberhex",
       "url": "https://open.spotify.com/track/2vNUATEUKbavRo2gMjHs2S"
+    },
+    {
+      "album": {
+        "name": "DAMAGED PEOPLE",
+        "url": "https://open.spotify.com/album/0JlAOdEnjsVAU9UtxM6ZV3"
+      },
+      "artists": [
+        {
+          "name": "Phinius Gage",
+          "url": "https://open.spotify.com/artist/6jPrJutj4vbSOyO8biDx8f"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199449,
+      "name": "DAMAGED PEOPLE",
+      "url": "https://open.spotify.com/track/7rg6G9tjorF8VsKJz0guyu"
     },
     {
       "album": {
@@ -3614,6 +3686,24 @@
       "duration_ms": 164790,
       "name": "DArkSide",
       "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
+    },
+    {
+      "album": {
+        "name": "Guilt Trip",
+        "url": "https://open.spotify.com/album/14DZZGZpIv8zWcxM4fUnQ0"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129346,
+      "name": "Davidian",
+      "url": "https://open.spotify.com/track/1Vlg1Qi0nUONrAzdZl8OwG"
     },
     {
       "album": {
@@ -4654,7 +4744,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213600,
       "name": "DUMB BRUDDAH",
       "url": "https://open.spotify.com/track/0hpN7MKtpDNcqilOFD71Cf"
@@ -5670,7 +5760,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 232403,
       "name": "Fool",
       "url": "https://open.spotify.com/track/43QcY6QM8NxPERJA1uzaKk"
@@ -5840,7 +5930,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188062,
       "name": "Free",
       "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
@@ -6757,6 +6847,24 @@
     },
     {
       "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/5VXhyoZ0BbCh2F8AaV7lmX"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/0PILwjNtjPO9PstwyZwlwZ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132655,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/1UddgWOlKT1AXp4PbBHy2U"
+    },
+    {
+      "album": {
         "name": "Guilty (feat. DL of Bad Wolves)",
         "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
       },
@@ -6880,7 +6988,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 196442,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ"
@@ -7544,7 +7652,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181018,
       "name": "House Of Matches",
       "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
@@ -8050,6 +8158,24 @@
       "duration_ms": 237384,
       "name": "If Not Now, When",
       "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
+    },
+    {
+      "album": {
+        "name": "If You're Nowhere I Want To Be, Nowhere Too",
+        "url": "https://open.spotify.com/album/3bxe7sG67SIj1qDPLDUnfu"
+      },
+      "artists": [
+        {
+          "name": "Make Do And Mend",
+          "url": "https://open.spotify.com/artist/1KBB5t7pNUa4HbuUzx2SQ8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206746,
+      "name": "If You're Nowhere I Want To Be, Nowhere Too",
+      "url": "https://open.spotify.com/track/0ByeeTgNuDmPwGVumEhz40"
     },
     {
       "album": {
@@ -9164,7 +9290,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 249752,
       "name": "Lightyears",
       "url": "https://open.spotify.com/track/5K6a7PkYNfxfjd7ZdubipI"
@@ -11930,7 +12056,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185425,
       "name": "Pure Ecstasy",
       "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
@@ -13850,7 +13976,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 245350,
       "name": "St. Catherine's Wheel",
       "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
@@ -13868,7 +13994,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 246158,
       "name": "Stain",
       "url": "https://open.spotify.com/track/50jpaPK56Yguju91mBrT4b"
@@ -14041,6 +14167,24 @@
     },
     {
       "album": {
+        "name": "Strings of Fate",
+        "url": "https://open.spotify.com/album/1JRfQITGdbUjLnrhwGnsK7"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192838,
+      "name": "Strings of Fate",
+      "url": "https://open.spotify.com/track/74lfSiAHg1z7qfjai64qHg"
+    },
+    {
+      "album": {
         "name": "Strung Out",
         "url": "https://open.spotify.com/album/0zXxonxQqmnv75Ds4SAvgl"
       },
@@ -14056,6 +14200,24 @@
       "duration_ms": 185388,
       "name": "Strung Out",
       "url": "https://open.spotify.com/track/0q6gclH54A1X4cGuNHvWoz"
+    },
+    {
+      "album": {
+        "name": "Subhuman Scum",
+        "url": "https://open.spotify.com/album/2Z8zPGbOaQh4ZP1ZUMpCvD"
+      },
+      "artists": [
+        {
+          "name": "Celestial Sanctuary",
+          "url": "https://open.spotify.com/artist/3XoDjY6V07YGHB3bw8ux1k"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "Subhuman Scum",
+      "url": "https://open.spotify.com/track/0AK37FmiY8JC9PbEknBfRi"
     },
     {
       "album": {
@@ -14406,6 +14568,24 @@
       "duration_ms": 241578,
       "name": "sylvia (i won't belong to you)",
       "url": "https://open.spotify.com/track/12e6eEN4wkJdnyQZCwacJ3"
+    },
+    {
+      "album": {
+        "name": "Systematic Enslavement",
+        "url": "https://open.spotify.com/album/0doLgKLHdwHUZvzSnxx5q9"
+      },
+      "artists": [
+        {
+          "name": "Grief Ritual",
+          "url": "https://open.spotify.com/artist/7hM17EMsGXmMzxfKJVPUwK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175377,
+      "name": "Systematic Enslavement",
+      "url": "https://open.spotify.com/track/3BgLXWQENoT4QxmDHE4xlZ"
     },
     {
       "album": {
@@ -16211,6 +16391,24 @@
     },
     {
       "album": {
+        "name": "VAMPIRES & PARASITES",
+        "url": "https://open.spotify.com/album/3ffX8OuSgBVmeWIGvXnB2H"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170192,
+      "name": "VAMPIRES & PARASITES",
+      "url": "https://open.spotify.com/track/5hykZgF3bg4YtCSkGCf3OP"
+    },
+    {
+      "album": {
         "name": "VIBE COP",
         "url": "https://open.spotify.com/album/3xsEDdXxK10DCUE4z4p1DF"
       },
@@ -17000,6 +17198,24 @@
       "duration_ms": 185733,
       "name": "What Will You Give?",
       "url": "https://open.spotify.com/track/4MJdaJXyYokypgeMsJMiuV"
+    },
+    {
+      "album": {
+        "name": "Wheel",
+        "url": "https://open.spotify.com/album/1C6Aj4KUtw0DjICsm4bVpr"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254346,
+      "name": "Wheel",
+      "url": "https://open.spotify.com/track/27acAqEh3ELyZzJSh0RWd3"
     },
     {
       "album": {

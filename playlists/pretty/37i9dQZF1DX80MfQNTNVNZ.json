@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 220984,
+  "num_followers": 221011,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACFmdDMj9gLNzL6t+VJiXcN2S+D1",
+  "snapshot_id": "AAAAAF8WxOq9sHaT2SqgeSJ5GiRfe8BK",
   "tracks": [
     {
       "added_at": "2026-11-15 14:11:18",
@@ -87,22 +87,6 @@
     {
       "added_at": "2026-11-15 14:11:18",
       "album": {
-        "name": "The Divine Feminine (10th Anniversary)",
-        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Channel 13",
-      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
-    },
-    {
-      "added_at": "2026-11-15 14:11:18",
-      "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 216493,
       "name": "Miami (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
+    },
+    {
+      "added_at": "2026-11-15 14:11:18",
+      "album": {
+        "name": "The Divine Feminine (10th Anniversary)",
+        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Channel 13",
+      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
     },
     {
       "added_at": "2026-11-15 14:11:18",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-11-15 14:11:18",
       "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
-    },
-    {
-      "added_at": "2026-11-15 14:11:18",
-      "album": {
         "name": "There is no Neil Frances",
         "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 174213,
       "name": "dancing",
       "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
+    },
+    {
+      "added_at": "2026-11-15 14:11:18",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
     },
     {
       "added_at": "2026-11-15 14:11:18",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-11-15 14:11:18",
       "album": {
-        "name": "Fix Your Face",
-        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 174282,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
-    },
-    {
-      "added_at": "2026-11-15 14:11:18",
-      "album": {
         "name": "Yeeha",
         "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 239613,
       "name": "Yeeha",
       "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+    },
+    {
+      "added_at": "2026-11-15 14:11:18",
+      "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 174282,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
     },
     {
       "added_at": "2026-11-15 14:11:18",
@@ -451,22 +451,18 @@
     {
       "added_at": "2026-11-15 14:11:18",
       "album": {
-        "name": "Love You Right",
-        "url": "https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks"
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 165818,
-      "name": "Love You Right",
-      "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
+      "duration_ms": 299492,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
     },
     {
       "added_at": "2026-11-15 14:11:18",
@@ -491,18 +487,22 @@
     {
       "added_at": "2026-11-15 14:11:18",
       "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+        "name": "Love You Right",
+        "url": "https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
         }
       ],
-      "duration_ms": 299492,
-      "name": "It Ain't Over",
-      "url": "https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ"
+      "duration_ms": 165818,
+      "name": "Love You Right",
+      "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
     },
     {
       "added_at": "2026-11-15 14:11:18",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-11-15 14:11:18",
       "album": {
+        "name": "Tuff Times Never Last",
+        "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 228385,
+      "name": "Da Du Dah",
+      "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
+    },
+    {
+      "added_at": "2026-11-15 14:11:18",
+      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 212483,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
-    },
-    {
-      "added_at": "2026-11-15 14:11:18",
-      "album": {
-        "name": "Tuff Times Never Last",
-        "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 228385,
-      "name": "Da Du Dah",
-      "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
     },
     {
       "added_at": "2026-11-15 14:11:18",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-11-15 14:11:18",
       "album": {
-        "name": "Ambiguous Desire (Deluxe)",
-        "url": "https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 194473,
-      "name": "waiting for me",
-      "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"
-    },
-    {
-      "added_at": "2026-11-15 14:11:18",
-      "album": {
         "name": "LOVE, LOVE, LOVE",
         "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 242287,
       "name": "LOVE, LOVE, LOVE",
       "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
+    },
+    {
+      "added_at": "2026-11-15 14:11:18",
+      "album": {
+        "name": "Ambiguous Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 194473,
+      "name": "waiting for me",
+      "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"
     },
     {
       "added_at": "2026-11-15 14:11:18",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-11-15 14:11:18",
       "album": {
+        "name": "GOLIATH",
+        "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 185939,
+      "name": "**GOLIATH**",
+      "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
+    },
+    {
+      "added_at": "2026-11-15 14:11:18",
+      "album": {
         "name": "Tyber",
         "url": "https://open.spotify.com/album/7u3S5uILHRjXE4m6QUpMIT"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 248372,
       "name": "Little Little Voice",
       "url": "https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ"
-    },
-    {
-      "added_at": "2026-11-15 14:11:18",
-      "album": {
-        "name": "GOLIATH",
-        "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 185939,
-      "name": "**GOLIATH**",
-      "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
     },
     {
       "added_at": "2026-11-15 14:11:18",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-11-15 14:11:18",
       "album": {
-        "name": "For You (Many Selves Version)",
-        "url": "https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir"
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
       },
       "artists": [
         {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
         }
       ],
-      "duration_ms": 221525,
-      "name": "For You - Many Selves Version",
-      "url": "https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ"
+      "duration_ms": 207138,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
     }
   ],
   "unique_name": "aloe",

@@ -4,7 +4,7 @@
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 16 min
+80 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Julieta](https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Julieta](https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1) | 3:05 | 2023-11-10 | 2026-10-25 |
 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 | 2023-11-10 | 2026-10-25 |
 | [Luna Llena](https://open.spotify.com/track/1aXIbSWA8S0pB2GbBntFhI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luna Llena](https://open.spotify.com/album/04nkvNMIVMlv7woPx32d1i) | 3:01 | 2023-11-10 |  |
+| [maquiNÁNDOME](https://open.spotify.com/track/1lfjOa7R1XSRJdeUNQ4ga9) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [entre CIELOS](https://open.spotify.com/album/2K4PugGOkpi5qPrkuCauXV) | 2:45 | 2026-11-20 |  |
 | [me asfixia LA CIUDAD](https://open.spotify.com/track/51hMMibOQhxk6kWWZdlL7m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [me asfixia LA CIUDAD](https://open.spotify.com/album/0DpCVfdtF5alKkKMKLCG8V) | 2:20 | 2026-08-15 |  |
 | [Me Tiene Mal](https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Me Tiene Mal](https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV) | 4:10 | 2023-11-10 |  |
 | [MI VERSIÓN](https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:38 | 2025-03-09 |  |
@@ -79,7 +80,7 @@
 | [RAMEN PARA DOS](https://open.spotify.com/track/5KJacLbQNuqzR9IizaPI6h) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 3:51 | 2026-01-16 |  |
 | [Recién Soltera](https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Recién Soltera](https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D) | 3:03 | 2024-10-07 |  |
 | [Relax](https://open.spotify.com/track/7kkpwLgPSYzGWq3sM25Rvv) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Relax](https://open.spotify.com/album/6S9Hg5Ie8LHYTpCxUFZl1S) | 3:53 | 2023-11-10 |  |
-| [Sentimiento Mágico \(feat\. FLOUSES\) \- Remix](https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [FLOUSES](https://open.spotify.com/artist/79uEbaIj1KmIfSa220Fawm) | [Sentimiento Mágico \(feat\. FLOUSES\) \[Remix\]](https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X) | 4:51 | 2026-04-26 |  |
+| [Sentimiento Mágico \(feat\. FLOUSES\) \- Remix](https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [FLOUSES](https://open.spotify.com/artist/79uEbaIj1KmIfSa220Fawm) | [Sentimiento Mágico \(feat\. FLOUSES\) \[Remix\]](https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X) | 4:51 | 2026-04-26 | 2026-11-20 |
 | [Si Te Vas 2.0](https://open.spotify.com/track/69NUba8fukuax13XWCaXva) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [Si Te Vas 2.0](https://open.spotify.com/album/09dwuvmgiuuelm2IclhO0f) | 4:19 | 2026-05-17 |  |
 | [SIN CADENAS](https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:22 | 2025-03-09 |  |
 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 | 2023-11-10 |  |

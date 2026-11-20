@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 249889,
+  "num_followers": 249961,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABS726BqqDnz4HL/hDyHzJs",
+  "snapshot_id": "avzqgAAAAACZKqh62/OOjEP1UH/g66+T",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 207555,
-      "name": "Ceiling (Freestyle)",
-      "url": "https://open.spotify.com/track/26r52zLg6ltidZwQ7EQ0wM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dark Sky Paradise",
         "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 319973,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 207555,
+      "name": "Ceiling (Freestyle)",
+      "url": "https://open.spotify.com/track/26r52zLg6ltidZwQ7EQ0wM"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 135237,
-      "name": "Nothing Nice to Say",
-      "url": "https://open.spotify.com/track/5yM0fbywAykotoPemTQ7ev"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Souled Out (Deluxe)",
         "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 217026,
       "name": "Blue Dream",
       "url": "https://open.spotify.com/track/4Y8MG7qcAMk7JB7Eebpcvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 135237,
+      "name": "Nothing Nice to Say",
+      "url": "https://open.spotify.com/track/5yM0fbywAykotoPemTQ7ev"
     },
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 151605,
-      "name": "Love Bomb (w/ Ab-Soul)",
-      "url": "https://open.spotify.com/track/5sJtelWLygYJnHKsBSvyWx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 252053,
       "name": "Sparks Will Fly (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 151605,
+      "name": "Love Bomb (w/ Ab-Soul)",
+      "url": "https://open.spotify.com/track/5sJtelWLygYJnHKsBSvyWx"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 321826,
+      "name": "Comfort Inn Ending (Freestyle)",
+      "url": "https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Coppin",
         "url": "https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 184550,
       "name": "California Dream (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/4q0CsTpnatXglYVvhD9qDI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 321826,
-      "name": "Comfort Inn Ending (Freestyle)",
-      "url": "https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj"
     },
     {
       "added_at": null,

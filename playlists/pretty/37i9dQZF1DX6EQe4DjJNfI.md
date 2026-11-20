@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Maui
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,331 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,346 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 32 | [Nem Pensar](https://open.spotify.com/track/6716041U8Mo0R7ELV2fEfq) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Jones](https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [O Último Romântico](https://open.spotify.com/album/7vnAVhIGxgm7V2O6Fq3qTT) | 2:43 |
 | 33 | [Ciúme](https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ciúme](https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy) | 3:20 |
 | 34 | [off](https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8) | [off](https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5) | 3:22 |
-| 35 | [Cansei De Chorar Seu Nome](https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Cansei De Chorar Seu Nome](https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf) | 3:44 |
-| 36 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 |
+| 35 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 |
+| 36 | [Cansei De Chorar Seu Nome](https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Cansei De Chorar Seu Nome](https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf) | 3:44 |
 | 37 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
 | 38 | [Sunset](https://open.spotify.com/track/7DQ6QsjW0oYu2x5xWm78W4) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Muito Romântico](https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv) | 3:22 |
 | 39 | [NEON](https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Busco Romance Love Show \(Deluxe\)](https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 | 75 | [Sobrenatural](https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Sobrenatural](https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a) | 2:47 |
 
-Snapshot ID: `AAAAAFeLHmYg1c3mCgH99HaKmJS8KPis`
+Snapshot ID: `AAAAAKSPYxPCPrel+yP4btQACuRt0n7Y`

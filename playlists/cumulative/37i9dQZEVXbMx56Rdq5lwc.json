@@ -10516,7 +10516,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL"
@@ -29680,6 +29680,24 @@
     {
       "album": {
         "name": "The Reminder",
+        "url": "https://open.spotify.com/album/68EWS0SedJwY0UUuNlQzjs"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/0iR7FMydKheTmJmFiAQpUt"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
         "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
       },
       "artists": [
@@ -29690,7 +29708,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -35281,6 +35299,24 @@
     },
     {
       "album": {
+        "name": "PLANETA PALANGA",
+        "url": "https://open.spotify.com/album/3jDnXwyyIRVwd5gZxHTlzf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel\u0117 Vilkickyt\u0117",
+          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288003,
+      "name": "PLANETA PALANGA",
+      "url": "https://open.spotify.com/track/4fmalKIoQwVFYLfW5kcTQ1"
+    },
+    {
+      "album": {
         "name": "Plastika",
         "url": "https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF"
       },
@@ -36884,7 +36920,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -38166,7 +38202,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 169600,
       "name": "Ruden\u012f Snaig\u0117s",
       "url": "https://open.spotify.com/track/6Td1SOr7BEqZ7Uv5aTWuE8"
@@ -43288,7 +43324,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -43306,7 +43342,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"

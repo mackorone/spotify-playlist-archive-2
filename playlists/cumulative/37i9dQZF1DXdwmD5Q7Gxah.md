@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Emma Ogier season <a href="https://loremandfriends.substack.com/p/sincerely\-and\-always\-forever"> plus \~new substack ft Heathers & Sammie Pearson here\~</a>
+> aLex vs aLex its barking season <a href="https://loremandfriends.substack.com/p/sincerely\-and\-always\-forever"> plus \~new substack ft Heathers & Sammie Pearson here\~</a>
 
-4,086 songs - 9 day 8 hr 16 min
+4,093 songs - 9 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Any Way You Want Me](https://open.spotify.com/track/0UYuRLB2wbG7X19Hd5DeQ2) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:31 | 2022-11-18 | 2022-12-24 |
 | [Anybody Else](https://open.spotify.com/track/4fItn7RxUvHIJloefw56DS) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Anybody Else](https://open.spotify.com/album/6b2sqlXepZzriu8shzsIjh) | 4:10 | 2022-03-09 | 2022-04-23 |
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-04-29 | 2022-01-08 |
+| [Anything](https://open.spotify.com/track/3htz0sRGLYHbbAS9QeEqpy) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Anything](https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW) | 3:35 | 2026-11-19 |  |
 | [anything for now](https://open.spotify.com/track/2QwF3VizHLkSAuj9KbVGYj) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [anything for now](https://open.spotify.com/album/4mG2lDpJn0RnrXcrBqI22o) | 2:37 | 2026-11-06 |  |
 | [Anything You Want](https://open.spotify.com/track/78LMazmfqncADjyJVae8dN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Anything You Want](https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu) | 2:03 | 2020-02-28 | 2022-08-27 |
 | [Anywhere With You](https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:57 | 2022-07-29 | 2022-10-13 |
@@ -1645,6 +1646,7 @@
 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 | 2025-08-01 | 2026-02-21 |
 | [Hotel Window](https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Hotel Window](https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm) | 2:03 | 2023-03-06 | 2023-05-06 |
 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 | 2023-09-06 | 2024-01-11 |
+| [Hound](https://open.spotify.com/track/5iBrFAs9no7GJJmKtIUrUr) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hound](https://open.spotify.com/album/3IMaSJPDmxhDDNWPPSh0Il) | 4:41 | 2026-11-19 |  |
 | [House featuring John Cale](https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [House featuring John Cale](https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo) | 3:17 | 2025-11-10 | 2026-04-18 |
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-02-08 | 2024-02-22 |
 | [How Are You Feeling?](https://open.spotify.com/track/4J3iVfVZXoop7UrhyhTN85) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 2:04 | 2021-12-03 | 2022-01-08 |
@@ -1767,6 +1769,7 @@
 | [I Wanna](https://open.spotify.com/track/0yG5r8xqtJLfMfbsiak6Ra) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [I Wanna](https://open.spotify.com/album/5KWURvzhIZ1zRn26ONZhyN) | 3:30 | 2022-09-22 | 2022-10-29 |
 | [i wanna be your girlfriend](https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [i wanna be your girlfriend](https://open.spotify.com/album/5pIuwcGXWj9Vl2Ohz37XlH) | 5:11 | 2021-04-10 | 2022-01-22 |
 | [i wanna slam my head against the wall](https://open.spotify.com/track/4dVR8jBG0RQ7jbdi8GRkyd) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i wanna slam my head against the wall](https://open.spotify.com/album/19frp2ct1Jd1vE6biNvP7n) | 1:56 | 2021-03-18 | 2021-06-05 |
+| [i want 2](https://open.spotify.com/track/7kzhuIArFYBZqHv2yy5aHA) | [Babe Dylan](https://open.spotify.com/artist/0xd16ai4mtpBCnoaAHCw1a) | [i want 2](https://open.spotify.com/album/45fp1rYGmyf9VLFewyUCp4) | 2:51 | 2026-11-20 |  |
 | [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 | 2023-11-06 | 2023-12-14 |
 | [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 | 2022-08-26 | 2022-10-26 |
 | [I Want U](https://open.spotify.com/track/52ewMn6BRCU9hAPysg8TLm) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [I Want U](https://open.spotify.com/album/0AuX0J4cRITW4Xzejp1e8d) | 3:33 | 2021-11-13 | 2022-01-08 |
@@ -2385,6 +2388,7 @@
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-14 | 2024-07-27 |
 | [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 | 2025-03-28 | 2025-05-21 |
 | [Move](https://open.spotify.com/track/1Yr3ult5AjLxwYQ0bFxlQr) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Move](https://open.spotify.com/album/53Gw66ZyMyoIfO6oOI11m9) | 3:14 | 2020-12-03 | 2021-01-12 |
+| [Movie](https://open.spotify.com/track/6FmZZsRbAxA9Hy6ovUSokr) | [Soraya Cinema](https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9) | [Movie](https://open.spotify.com/album/1RGmyFUGEd0razyJzFmKPc) | 3:00 | 2026-11-20 |  |
 | [moving in](https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [moving in](https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk) | 4:05 | 2026-01-23 | 2026-07-25 |
 | [Mozart in My Mind](https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Mozart in My Mind](https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ) | 3:06 | 2023-11-10 | 2024-02-15 |
 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 | 2022-03-04 | 2022-04-21 |
@@ -2649,6 +2653,7 @@
 | [Paper Cup](https://open.spotify.com/track/4lBztfjw0N2wc9dnVpXZ4S) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Paper Cup](https://open.spotify.com/album/5LZTxhttQ5VoCwlSd5wpwQ) | 2:37 | 2021-10-26 | 2021-11-13 |
 | [paper doll](https://open.spotify.com/track/6bNg1NJzBC8HErlyiCJCYV) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [paper doll](https://open.spotify.com/album/10F8JH1StBCcOea8iSJwhS) | 3:15 | 2025-06-02 | 2025-07-19 |
 | [Paperbag Princess](https://open.spotify.com/track/4RIj2OJw9NR78glrn8J6x7) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Paperbag Princess](https://open.spotify.com/album/54pTwmPD4RVPZipnxCk2VT) | 2:16 | 2021-12-10 | 2022-01-08 |
+| [Pardon My French](https://open.spotify.com/track/2MCb6Q5SJMt5eeIlwjOZd1) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Pardon My French](https://open.spotify.com/album/0GrLPSKR93bDtQcU1dgeJV) | 3:11 | 2026-11-20 |  |
 | [Part of Me](https://open.spotify.com/track/2yRlcQn3yUqseUYHw2XzNZ) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:21 | 2021-01-13 | 2022-03-11 |
 | [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 | 2022-07-07 | 2022-08-20 |
 | [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 | 2025-07-11 | 2026-02-07 |
@@ -2886,6 +2891,7 @@
 | [RIP](https://open.spotify.com/track/2qeRnFb42RVzv2NP6s8vG9) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [RIP](https://open.spotify.com/album/49IpmVlrsOt5Pw0whYZKhI) | 3:45 | 2025-02-22 | 2025-05-14 |
 | [ripped jeans](https://open.spotify.com/track/1hkrrzCHWx3SwwrBp3i9h7) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [ripped jeans](https://open.spotify.com/album/5O7x0cAksWA4GPvOCgsu0P) | 2:02 | 2020-05-06 | 2020-08-20 |
 | [River](https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [River](https://open.spotify.com/album/1l2tLGBVpMvwnZ8TV5sC4l) | 4:01 | 2023-11-03 | 2024-02-10 |
+| [River Of Dust](https://open.spotify.com/track/6XkDXZgP5X44aTnlqpZc7h) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [Bad Throw, Good Catch](https://open.spotify.com/album/70fJvZsO9wMxqcHzhgzVBX) | 3:35 | 2026-11-20 |  |
 | [Rivet Gun](https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Rivet Gun](https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2) | 2:17 | 2025-04-28 | 2025-09-12 |
 | [roadkill](https://open.spotify.com/track/1zXma37Pj0qq04i7dcOZbi) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [roadkill](https://open.spotify.com/album/0yt0yQH4XcdyihCE4qCxPm) | 2:56 | 2024-05-31 | 2024-06-22 |
 | [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 | 2026-02-20 | 2026-07-25 |
@@ -4023,6 +4029,7 @@
 | [you and forever](https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [you and forever](https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up) | 3:54 | 2026-04-03 | 2026-07-25 |
 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 | 2025-04-11 | 2025-05-14 |
 | [you and me together is a problem](https://open.spotify.com/track/3h6YM4RZxLScJA2WernKFL) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [you and me together is a problem](https://open.spotify.com/album/7yPCzWYprWlTY5GviKlHme) | 3:20 | 2021-09-16 | 2021-11-13 |
+| [You Are Mistaken](https://open.spotify.com/track/5FO51sTJlUfUmx5BTT4uG2) | [Loch Raven](https://open.spotify.com/artist/71SCoEHvwvLluq5KSyl5ia) | [You Are Mistaken](https://open.spotify.com/album/7sZdxP9xS6qCM56DvNu6Go) | 4:10 | 2026-11-20 |  |
 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 | 2024-12-04 | 2025-01-18 |
 | [You Belong With Me \(Taylor’s Version\)](https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:51 | 2021-04-10 | 2021-04-20 |
 | [You Can Be Mean](https://open.spotify.com/track/5HlHycHNeXIjYhY4AJRErt) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [You Can Be Mean](https://open.spotify.com/album/55AeOkUW28sgptXC5DCzn9) | 2:25 | 2024-01-10 | 2024-02-22 |

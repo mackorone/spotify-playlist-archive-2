@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-929 songs - 1 day 22 hr 13 min
+930 songs - 1 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -902,6 +902,7 @@
 | [whenyoufindout.](https://open.spotify.com/track/3rqhya8bcjUymz9e4FJMl0) | [dg.](https://open.spotify.com/artist/3FVO5thIWXe2SHW6ZTWCm6), [Coben](https://open.spotify.com/artist/0jdKD1yBCUmUAUmvh1X0oT), [SMOORIBA](https://open.spotify.com/artist/1CMsNzudMd14qTGeFs2Uvk) | [whenyoufindout.](https://open.spotify.com/album/31RRYL5eUhYKqIzuIa0kyp) | 3:39 | 2026-04-17 |  |
 | [Where We Are](https://open.spotify.com/track/3GYqn2Vl2JMTqi129cML3z) | [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Triangle](https://open.spotify.com/artist/5VIY8D1hZVFHP9AUWR4iRo), [Eytan Peled](https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj) | [Where We Are](https://open.spotify.com/album/4zSBd7jkLGjl1fkBSrcfef) | 2:06 | 2025-12-16 |  |
 | [Where We Started](https://open.spotify.com/track/3m71VLuekxke2MO8yHkOYg) | [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Where We Started](https://open.spotify.com/album/00cF1cvOq2v6K0roASUiWX) | 3:42 | 2023-08-08 | 2023-12-14 |
+| [Where You Are](https://open.spotify.com/track/46cR5u5fILa0RIFuquFS8h) | [YYVON](https://open.spotify.com/artist/2XfYEstAM52prsYmk7UYTM) | [Where You Are](https://open.spotify.com/album/1NvSew3LGTpMahxCZbOJWg) | 2:16 | 2026-11-19 |  |
 | [wherever you go](https://open.spotify.com/track/4B87cZBMZrorUlAdDWohcL) | [vinter](https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs) | [wherever you go](https://open.spotify.com/album/0jsVD9LAg0oRbZuALxxlzu) | 2:59 | 2026-10-30 |  |
 | [Whiplash](https://open.spotify.com/track/64spXyGyh0oONfSnNvuz12) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Emily J](https://open.spotify.com/artist/5ChprbFpHquoq5pkUUdY0v), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 3:31 | 2025-07-25 |  |
 | [whole](https://open.spotify.com/track/06rm9eTLNGv1a8AgKszcAh) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl), [just alex](https://open.spotify.com/artist/5uSqBdEd1pGLkqnqdSEKVu) | [whole](https://open.spotify.com/album/3AB9SGBNNZqSYrcUdzU4oX) | 2:13 | 2023-12-13 | 2024-04-03 |

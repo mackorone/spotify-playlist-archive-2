@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 113420,
+  "num_followers": 113411,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM8ug4aAdOxBPGtBs6b1HvdUzwzR",
+  "snapshot_id": "AAAAAN0IZQtjiqgsNyKU61UE9Q19KmcT",
   "tracks": [
     {
       "added_at": "2025-07-10 21:06:57",
@@ -59,18 +59,18 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Akustik Travma",
-        "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
+        "name": "Sevmek Y\u00fcz\u00fcnden",
+        "url": "https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL"
       },
       "artists": [
         {
-          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
-          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
         }
       ],
-      "duration_ms": 235817,
-      "name": "Bodrum",
-      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61"
+      "duration_ms": 219554,
+      "name": "Sevmek Y\u00fcz\u00fcnden",
+      "url": "https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -107,18 +107,18 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Sevmek Y\u00fcz\u00fcnden",
-        "url": "https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL"
+        "name": "Akustik Travma",
+        "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
       },
       "artists": [
         {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
+          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
         }
       ],
-      "duration_ms": 219554,
-      "name": "Sevmek Y\u00fcz\u00fcnden",
-      "url": "https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp"
+      "duration_ms": 235817,
+      "name": "Bodrum",
+      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Al Senin Olsun D\u00fcnya",
-        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 195805,
-      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
-      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "FIRTINAYT",
         "url": "https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 180147,
       "name": "BO\u015eLUK",
       "url": "https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Al Senin Olsun D\u00fcnya",
+        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
+      },
+      "artists": [
+        {
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+        }
+      ],
+      "duration_ms": 195805,
+      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
+      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
     },
     {
       "added_at": "2025-07-10 21:06:57",

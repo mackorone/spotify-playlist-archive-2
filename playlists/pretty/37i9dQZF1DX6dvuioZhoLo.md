@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Paige Plaisance
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,085 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,096 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 31 | [Wild At Heart](https://open.spotify.com/track/7EVeo9YXY0UlctpcrrCxfp) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Wild At Heart](https://open.spotify.com/album/6KVSZpBdO0ZiUzIRabBS3d) | 2:55 |
 | 32 | [Lavender Cowboy](https://open.spotify.com/track/2B8BHU6KqYiDbabtYEqfqD) | [Andrew Sa](https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07), [H.C\. McEntire](https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4) | [Lavender Cowboy](https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w) | 3:13 |
 | 33 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
-| 34 | [Fast As I Can Crawl](https://open.spotify.com/track/3DDoP7OhS85NKjnuEwb4Pq) | [Jason Scott & The High Heat](https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm) | [Fast As I Can Crawl](https://open.spotify.com/album/7wTXnx3KkxWFcqWhYiseg4) | 3:21 |
-| 35 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 |
+| 34 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 |
+| 35 | [Fast As I Can Crawl](https://open.spotify.com/track/3DDoP7OhS85NKjnuEwb4Pq) | [Jason Scott & The High Heat](https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm) | [Fast As I Can Crawl](https://open.spotify.com/album/7wTXnx3KkxWFcqWhYiseg4) | 3:21 |
 | 36 | [Warning](https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA) | [Lasers Lasers Birmingham](https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI) | [Warning](https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm) | 3:27 |
 | 37 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
 | 38 | [Jeremiah](https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:04 |
 | 39 | [It Must Be Someone Else’s Fault](https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 3:18 |
 | 40 | [To Learn Her](https://open.spotify.com/track/3l78vP424XB904B5MMmEdN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:47 |
 | 41 | [Blue Kentucky Girl \- 2003 Remaster](https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Blue Kentucky Girl \(Expanded & Remastered\)](https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d) | 3:20 |
-| 42 | [Love You To Death](https://open.spotify.com/track/5dLMxhgU5uKhx8AweN7UAk) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Love You To Death](https://open.spotify.com/album/5tOcCToOYUOqXMst37Dkpp) | 3:24 |
-| 43 | [Fastest Gun Alive](https://open.spotify.com/track/4pYANf4zaNS1KG5u6eOjEt) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Fastest Gun Alive](https://open.spotify.com/album/3vTJF6ShAhmkuoBwQdSIi1) | 3:07 |
+| 42 | [Fastest Gun Alive](https://open.spotify.com/track/4pYANf4zaNS1KG5u6eOjEt) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Fastest Gun Alive](https://open.spotify.com/album/3vTJF6ShAhmkuoBwQdSIi1) | 3:07 |
+| 43 | [Love You To Death](https://open.spotify.com/track/5dLMxhgU5uKhx8AweN7UAk) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Love You To Death](https://open.spotify.com/album/5tOcCToOYUOqXMst37Dkpp) | 3:24 |
 | 44 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 |
 | 45 | [Texas Angel](https://open.spotify.com/track/7BRiliFWes3v23LifgS5MN) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Texas Angel](https://open.spotify.com/album/3WkNVOx6QXbKzMyQ41Znb1) | 3:46 |
 | 46 | [Burial Ground](https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Burial Ground](https://open.spotify.com/album/5jodqSew9785i4tEIRLase) | 4:04 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 65 | [Mr\. Jukebox](https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Mr\. Jukebox](https://open.spotify.com/album/7Fai0BvZT8jsAviCXysERs) | 3:16 |
 | 66 | [Diamond Joe](https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Field Recordings, Vol\. 1](https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM) | 2:36 |
 | 67 | [All My Exes Live in L.A.](https://open.spotify.com/track/3ixSiGWX59GYPNf8gnXU0c) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [All My Exes Live in L.A.](https://open.spotify.com/album/0YDQ6x3Lf2bfReLsZfOLYw) | 3:18 |
-| 68 | [Runnin'](https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Runnin'](https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv) | 3:57 |
-| 69 | [From What I Recall](https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Ramblin' Soul](https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA) | 4:13 |
+| 68 | [From What I Recall](https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Ramblin' Soul](https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA) | 4:13 |
+| 69 | [Runnin'](https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Runnin'](https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv) | 3:57 |
 | 70 | [Home With My Dog](https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Movin’ Shoes](https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI) | 4:09 |
 | 71 | [Femme Fatale](https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS) | [Skylar Gudasz](https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ) | [Cinema](https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w) | 4:46 |
 | 72 | [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Tides](https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6) | [Gold Child](https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc) | [Tides](https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4) | 3:40 |
 | 100 | [The Last To Know](https://open.spotify.com/track/65965vBWT1mhOGat6GodGa) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX), [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2) | [Havin' A Talk](https://open.spotify.com/album/2x4IrX8bcXcwZvj4BVQXUP) | 3:26 |
 
-Snapshot ID: `AAAAAIsjPkWBadstAJkweBxfEmol35RD`
+Snapshot ID: `AAAAAH0xxfXMHzkNtCdB2q3R+KiK3N4u`

@@ -1,12 +1,12 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 529942,
+  "num_followers": 529917,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOqkpmlPXRH/pqcPp6iXDPoSU53a",
+  "snapshot_id": "AAAAAMHXnVxnMplRHUcSk+6yZ+coxFYh",
   "tracks": [
     {
       "added_at": "2026-01-20 16:17:11",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
+        "name": "Spreading Rumours",
+        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
         "name": "Warm",
         "url": "https://open.spotify.com/album/6VCVsHg0OzSEKRnFLtOQcg"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 255465,
       "name": "Warm",
       "url": "https://open.spotify.com/track/4rxD9Ar3OlsgGOnblWUKqr"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
-        "name": "Spreading Rumours",
-        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
     },
     {
       "added_at": "2026-01-20 16:17:11",

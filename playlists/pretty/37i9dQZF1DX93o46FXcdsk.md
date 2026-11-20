@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,260 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,280 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 30 | [Dan Volg Je Haar Benen](https://open.spotify.com/track/3bqsAeHafn7ug4JuQ5Z4lM) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Dan Volg Je Haar Benen](https://open.spotify.com/album/6kfIG4FMIXWw15GPCPizJI) | 3:00 |
 | 31 | [Geef Mij Je Angst](https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:46 |
 | 32 | [Hoe](https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [The Singles Collection](https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw) | 2:51 |
-| 33 | [Onderweg](https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2) | 3:09 |
-| 34 | [Wêr Bisto](https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK) | [Twarres](https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF) | [Stream](https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0) | 3:46 |
+| 33 | [Wêr Bisto](https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK) | [Twarres](https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF) | [Stream](https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0) | 3:46 |
+| 34 | [Onderweg](https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2) | 3:09 |
 | 35 | [Blijf Bij Mij](https://open.spotify.com/track/0yIzbIUyiJnTkByb2ryhtv) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Blijf Bij Mij](https://open.spotify.com/album/0Mkh5WW9ANje9bRegoK3B5) | 4:01 |
 | 36 | [Proosten](https://open.spotify.com/track/5bPXGYhn9oWUgU8aLusjgf) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:52 |
 | 37 | [Pak Maar M'n Hand](https://open.spotify.com/track/3jw3qNLVrfLgLodYh0I7id) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 49 | [Rosanne](https://open.spotify.com/track/3uVStmfnvh0lT4ispLGvt5) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt) | 2:39 |
 | 50 | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/track/6lthfwI9TuT2xWnWpv8JUF) | [Veldhuis & Kemper](https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U) | [Alle 40 Goed \- Hollandse Hits](https://open.spotify.com/album/5o5LwqlmNTP1XM5t6fEgub) | 3:56 |
 
-Snapshot ID: `AAAAAL7MNijQVVZ9De/bv4c4Z4JEHl4D`
+Snapshot ID: `AAAAAHrNhYOxB4vNUlV2jVw1/aIhKkab`

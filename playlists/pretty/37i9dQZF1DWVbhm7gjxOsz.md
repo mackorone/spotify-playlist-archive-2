@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,909 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,942 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 13 | [La\-La Means I Love You](https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 3:23 |
 | 14 | [Ain't No Woman \(Like The One I've Got\)](https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Keeper Of The Castle](https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9) | 3:07 |
 | 15 | [Yes, I'm Ready](https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 3:04 |
-| 16 | [Sitting In The Park](https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 3:14 |
+| 16 | [Just One Look](https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0) | [Doris Troy](https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex) | [Sings Just One Look And Other Memorable Selections](https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix) | 2:31 |
 | 17 | [Me And You](https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Baby You Got It](https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N) | 3:02 |
-| 18 | [Just One Look](https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0) | [Doris Troy](https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex) | [Sings Just One Look And Other Memorable Selections](https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix) | 2:31 |
+| 18 | [Sitting In The Park](https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 3:14 |
 | 19 | [Whatcha See Is Whatcha Get](https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:34 |
 | 20 | [You'll Lose A Good Thing](https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:39 |
 | 21 | [I Wanna Get Next To You](https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 3:58 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 77 | [It's Gonna Take a Miracle](https://open.spotify.com/track/6AeOM7N0rK3tYOINY2k5qy) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Best Of Deniece Williams: Gonna Take A Miracle](https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT) | 4:09 |
 | 78 | [Shining Star](https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Best Of The Manhattans: Kiss And Say Goodbye](https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq) | 4:39 |
 | 79 | [Nite Owl \(A.K.A\. Night Owl\)](https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO) | [Tony Allen](https://open.spotify.com/artist/0uaoL1sn2yAzYbsREwtYFH), [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [The Specialty Story](https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh) | 2:45 |
-| 80 | [Love on a Two Way Street](https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI) | [The Moments](https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT) | [Love On A Two\-Way Street \(US Release\)](https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9) | 3:37 |
-| 81 | [I Really Love You](https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [The Best Of Dee Dee Sharp 1962\-1966](https://open.spotify.com/album/319S820SmHsr88JCQDCEYv) | 2:48 |
+| 80 | [I Really Love You](https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [The Best Of Dee Dee Sharp 1962\-1966](https://open.spotify.com/album/319S820SmHsr88JCQDCEYv) | 2:48 |
+| 81 | [Love on a Two Way Street](https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI) | [The Moments](https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT) | [Love On A Two\-Way Street \(US Release\)](https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9) | 3:37 |
 | 82 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
 | 83 | [What Love Has Joined Together \- Single Version](https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Looking Back 1961\-1964](https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX) | 2:57 |
 | 84 | [Oh What A Nite](https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Dreams Of Contentment \(Special Deluxe Collection\)](https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI) | 2:56 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 149 | [Soon Enough](https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Tangled Up in You](https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ) | 4:00 |
 | 150 | [Float On](https://open.spotify.com/track/4YmKTCL86mpGHUS0sEWAUV) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Float On](https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH) | 11:48 |
 
-Snapshot ID: `AAAAAMRVIARX6UzNfs/aJXHliev2yHEy`
+Snapshot ID: `AAAAAPhiVpdjnYHfHCb7QzkuSzFUi4qH`

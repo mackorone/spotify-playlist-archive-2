@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
-  "num_followers": 617420,
+  "num_followers": 617699,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIqCLW4/pHeTenX9tYThu4VTmUkd",
+  "snapshot_id": "AAAAAMIxzKrnf7NfbZlJ+rZ7t7YZ7mxu",
   "tracks": [
     {
       "added_at": "2026-05-04 16:53:23",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
+        "name": "Bar A Thym",
+        "url": "https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 188305,
+      "name": "Bar A Thym",
+      "url": "https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
         "name": "Anthem (The Mafia Mix)",
         "url": "https://open.spotify.com/album/5vd2RI19tkXCq9vC2XFAlq"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 289826,
       "name": "Anthem - The Mafia Mix",
       "url": "https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
-        "name": "Bar A Thym",
-        "url": "https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 188305,
-      "name": "Bar A Thym",
-      "url": "https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK"
     },
     {
       "added_at": "2026-05-04 16:53:23",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
-        "name": "The Jerusalem EP's",
-        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 407893,
-      "name": "Servants Jaz House",
-      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
         "name": "Club Classics",
         "url": "https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 516533,
       "name": "Love Come Down - Club Vocal Mix",
       "url": "https://open.spotify.com/track/3U6w4KTpZm7jhqmGJEzRW5"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
+        "name": "The Jerusalem EP's",
+        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 407893,
+      "name": "Servants Jaz House",
+      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
     },
     {
       "added_at": "2026-05-04 16:53:23",

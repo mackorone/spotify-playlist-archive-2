@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 
 > A selection of anime tracks perfect for listening to during your gaming time\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,247 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 24 | [動天](https://open.spotify.com/track/2lN3LquWyOGx8xPSOhsqPT) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝　オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 3:03 |
 | 25 | [Treachery](https://open.spotify.com/track/6a7su3dkJJXidSuFiowJC2) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH The DiamondDust Rebellion Original Soundtrack](https://open.spotify.com/album/4meZrOeVxoej2MOhVo1suB) | 3:22 |
 | 26 | [SAE](https://open.spotify.com/track/68slfkIx29BAtyBZJu8pj3) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック VS\. U\-20 JAPAN』オリジナルサウンドトラック](https://open.spotify.com/album/2gAHilt1aA7tO194lQBdKC) | 2:47 |
-| 27 | [Shingeki Gt 20130218 Kyojin](https://open.spotify.com/track/6AFkv6rIVRusZNifR74Q7t) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:31 |
-| 28 | [Trisha's Lullaby](https://open.spotify.com/track/3Acs78RQqrAQNEuDd4ucOP) | [Warsaw Philharmonic Orchestra & Choir](https://open.spotify.com/artist/10LmYfv5wE9or9EBI60asK) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 3:31 |
-| 29 | [上](https://open.spotify.com/track/5N5iImDfoQ4IF3YvXBpxPX) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 4:01 |
+| 27 | [Trisha's Lullaby](https://open.spotify.com/track/3Acs78RQqrAQNEuDd4ucOP) | [Warsaw Philharmonic Orchestra & Choir](https://open.spotify.com/artist/10LmYfv5wE9or9EBI60asK) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 3:31 |
+| 28 | [上](https://open.spotify.com/track/5N5iImDfoQ4IF3YvXBpxPX) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 4:01 |
+| 29 | [Shingeki Gt 20130218 Kyojin](https://open.spotify.com/track/6AFkv6rIVRusZNifR74Q7t) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:31 |
 | 30 | [疾風伝](https://open.spotify.com/track/0y2OZcxtwVvzk4vHsSJXwu) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝　オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:05 |
 | 31 | [Sis puella magica!](https://open.spotify.com/track/4S40MDl8IuzSHsmsctWaKI) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 2:49 |
 | 32 | [愛のシルエット](https://open.spotify.com/track/6oibGjoc3gDoow4eXyX04f) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック](https://open.spotify.com/album/4PZ92qFQ2dNB4MWpNE8PQl) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 49 | [Theme of Stone Ocean](https://open.spotify.com/track/61mLwf16eBgltPVQ487rPT) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 ストーンオーシャン O.S.T.](https://open.spotify.com/album/0jkIDp65gHymoVhF62qUWw) | 4:43 |
 | 50 | [LEASE](https://open.spotify.com/track/2PV4Xn0Jy9Z5uz7akQUhdg) | [Takeshi Abo](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection～My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 1:43 |
 
-Snapshot ID: `AAAAAI2NG/jwILiZ8w0XyszhhkG3XQyj`
+Snapshot ID: `AAAAAJBZogf/NJxYCEOTWAOqcf7u2hQ9`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "SDM au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "SDM & Ninho au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -1038,6 +1038,28 @@
       "duration_ms": 206250,
       "name": "Ballon D'or",
       "url": "https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX"
+    },
+    {
+      "album": {
+        "name": "IN INFINITUM",
+        "url": "https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190960,
+      "name": "BANTU MENTALIT\u00c9",
+      "url": "https://open.spotify.com/track/0Acl8fJa73xQ1nmEdIuKGx"
     },
     {
       "album": {
@@ -5609,6 +5631,24 @@
     },
     {
       "album": {
+        "name": "Macronie",
+        "url": "https://open.spotify.com/album/2wdiFkGKgrvWoPxg2uw9jO"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169860,
+      "name": "Macronie",
+      "url": "https://open.spotify.com/track/5PEFCh1GU2LteiIJzYrvE0"
+    },
+    {
+      "album": {
         "name": "Telegram 2",
         "url": "https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc"
       },
@@ -5730,6 +5770,24 @@
       "duration_ms": 192182,
       "name": "Malya",
       "url": "https://open.spotify.com/track/4kmGM0IbzDPr2rT1nehI1r"
+    },
+    {
+      "album": {
+        "name": "Mati\u00e8re Noire",
+        "url": "https://open.spotify.com/album/7zfXEgQCawBuwXsG5ycP4A"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210091,
+      "name": "Maman ne dort pas",
+      "url": "https://open.spotify.com/track/13s4WADIFnSBfLYJ8KW4hr"
     },
     {
       "album": {
@@ -7312,7 +7370,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 152240,
       "name": "Pas Comme Eux",
       "url": "https://open.spotify.com/track/7MKKSAsgDDRRscuy5XLbnZ"
@@ -9378,7 +9436,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181000,
       "name": "TERRIBLE MAN",
       "url": "https://open.spotify.com/track/0LM9OoiHTImJotTo0jMeeE"
@@ -10114,7 +10172,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 147462,
       "name": "\u00c0 tes c\u00f4t\u00e9s",
       "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"

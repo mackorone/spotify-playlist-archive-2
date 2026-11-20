@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: クレイジーウォウウォ!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,213 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,214 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [Semishigure](https://open.spotify.com/track/6r1byZ4FjUUO0WXFn54JzQ) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Semishigure](https://open.spotify.com/album/4XSX01sFZZ5MhNeuSayivT) | 4:07 |
 | 60 | [Radio Noise](https://open.spotify.com/track/3P5FjTyO5QbmGunD1p3NiD) | [shifukuponcho](https://open.spotify.com/artist/0jGAznw2F6sZBJZpIRMYwP) | [Radio Noise](https://open.spotify.com/album/2VGpKOwXn2JuxFVTaExEdX) | 3:11 |
 
-Snapshot ID: `AAAAAODyEiKQdR6BnbLdZg8BTou0Ys7o`
+Snapshot ID: `AAAAAOFtjMeyaHRz1/HvPu/d1K0JY9ML`

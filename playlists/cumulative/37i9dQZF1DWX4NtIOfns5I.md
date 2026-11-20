@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> Fly 1111 out now 🕊️
+> we can finally listen to “river of dust” on repeat!!! and this phoebe cover…
 
-971 songs - 2 day 10 hr 47 min
+977 songs - 2 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Another Love](https://open.spotify.com/track/7otCGmgp9h4CsR2LhwB6gt) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv) | 4:04 | 2024-01-14 | 2024-04-06 |
 | [Anybody's fool](https://open.spotify.com/track/3rzwGm27A4GmgYKFUPJijZ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:49 | 2026-09-22 |  |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2023-10-13 |  |
+| [Anything](https://open.spotify.com/track/3htz0sRGLYHbbAS9QeEqpy) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Anything](https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW) | 3:35 | 2026-11-19 |  |
 | [anything \- live](https://open.spotify.com/track/5vpTSKgW09Sm3JmIi8Kbp3) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 4:30 | 2025-04-25 | 2025-08-09 |
 | [Appalachian Home](https://open.spotify.com/track/3quYBZwVDuYLvqqVkBEnYq) | [barrett](https://open.spotify.com/artist/5s8pSew0l0EfjJLK5a8sSY) | [Appalachian Home](https://open.spotify.com/album/5ipoFhyyjEjSE12KR5fkW7) | 3:00 | 2025-04-25 | 2025-08-09 |
 | [Apples](https://open.spotify.com/track/14rIlyTo7ZRzgIDbzhmK2b) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Apples](https://open.spotify.com/album/2VmOnJT6VkmkfB3erQ4Jv6) | 3:42 | 2025-08-08 | 2026-01-24 |
@@ -375,6 +376,7 @@
 | [Horses](https://open.spotify.com/track/0caoPC7iysarcDNVfZuGps) | [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [Horses](https://open.spotify.com/album/5zC0fGGh0ICrFRT1t1M0CM) | 4:45 | 2026-09-02 |  |
 | [Horses Run](https://open.spotify.com/track/75WCo9dLWJ88R0rXnXuqeu) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Horses Run](https://open.spotify.com/album/0e5JHJao5JWVlOzkK3M1NR) | 3:28 | 2025-08-20 | 2026-02-07 |
 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 | 2025-07-23 | 2026-01-24 |
+| [Hound](https://open.spotify.com/track/5iBrFAs9no7GJJmKtIUrUr) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hound](https://open.spotify.com/album/3IMaSJPDmxhDDNWPPSh0Il) | 4:41 | 2026-11-20 |  |
 | [Hours Off](https://open.spotify.com/track/4CYNkEe36ARTYi4OQfq4pq) | [mer marcum](https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN) | [Hours Off](https://open.spotify.com/album/36d9uOlIWerIlQZYtLpFoW) | 3:23 | 2024-11-15 | 2025-02-22 |
 | [House of the Rising Sun](https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [House of the Rising Sun](https://open.spotify.com/album/2JnelnjkFZKzZQUwZFkcD1) | 3:08 | 2026-01-30 | 2026-07-18 |
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-10-06 | 2024-04-06 |
@@ -663,7 +665,7 @@
 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 | 2023-10-06 | 2023-12-09 |
 | [Prettiest Girl in the World](https://open.spotify.com/track/3btySdKZS9xbwMRaGQ3MlA) | [Sesame Girl](https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX) | [Butterfly Wing in a Silver Locket](https://open.spotify.com/album/4vPDSxUamnIzgNxfDsg5QX) | 4:02 | 2026-08-07 |  |
 | [pretty out](https://open.spotify.com/track/5HOclWyzX8iunVPnnFB0g1) | [frans asthma](https://open.spotify.com/artist/09biooH630jXVJKFhTdzoL), [Qozy](https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh) | [pretty out](https://open.spotify.com/album/5UO3cqD7xbri2gxDrbjNQG) | 3:04 | 2024-10-18 | 2025-05-14 |
-| [Private Power](https://open.spotify.com/track/6ZCXoaFvPtLoufP2tDJu5N) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Fly 1111](https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM) | 3:44 | 2026-11-11 |  |
+| [Private Power](https://open.spotify.com/track/6ZCXoaFvPtLoufP2tDJu5N) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Fly 1111](https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM) | 3:44 | 2026-11-11 | 2026-11-20 |
 | [Proof](https://open.spotify.com/track/1a1YmkR6iJeTXUS4hx1kmJ) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [It Was My First Time](https://open.spotify.com/album/6EhUzjYXlfFVT3lPXrosPy) | 3:01 | 2026-10-16 |  |
 | [Punch!](https://open.spotify.com/track/0KtEDhuatDxLCkXuidzTMg) | [Sophia Bacino](https://open.spotify.com/artist/0JCSx0A726fp2K75sXBfWK) | [Punch!](https://open.spotify.com/album/7epVLBNXiDexRm6zQtoSgn) | 3:03 | 2026-07-31 |  |
 | [Pup](https://open.spotify.com/track/7vxSL2veuTRQBhslhM7ENS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Pup](https://open.spotify.com/album/5aTyRZw08z72j3xy0bEJfz) | 4:17 | 2023-11-10 | 2023-12-16 |
@@ -695,6 +697,7 @@
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-01 | 2024-08-21 |
 | [River](https://open.spotify.com/track/0jskwpy6eVJf1h3CSjCW6X) | [Blake Ruby](https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z), [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [River](https://open.spotify.com/album/32ZFTnGmBTuFkbY6CEar0r) | 4:32 | 2025-10-17 | 2026-02-28 |
 | [River](https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:05 | 2025-12-12 | 2026-06-20 |
+| [River Of Dust](https://open.spotify.com/track/6XkDXZgP5X44aTnlqpZc7h) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [Bad Throw, Good Catch](https://open.spotify.com/album/70fJvZsO9wMxqcHzhgzVBX) | 3:35 | 2026-11-20 |  |
 | [River Runs Dry](https://open.spotify.com/track/4CHHkSkDNst5mTNRfdUIyn) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [River Runs Dry](https://open.spotify.com/album/3sSGBzuk9Eq3aA4hgvhyW3) | 4:23 | 2025-11-14 | 2026-03-14 |
 | [riverflies](https://open.spotify.com/track/1EIag2DCfCbeYV0V0yiB3i) | [deeper sleeper](https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ) | [want + riverflies](https://open.spotify.com/album/2QalSpFbqjs1wtmmNTmvYJ) | 2:42 | 2024-10-11 | 2025-05-10 |
 | [Rivers Run Red](https://open.spotify.com/track/1Wcny0prfuTcuJVj5etom7) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [Cow Song](https://open.spotify.com/album/42CkWCbOfwaVsTk5TrWsTv) | 3:19 | 2025-07-07 | 2026-01-17 |
@@ -723,6 +726,7 @@
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-12 | 2025-01-18 |
 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2023-10-13 | 2026-02-21 |
 | [scratch](https://open.spotify.com/track/73W3LkcxKvzCJ2vthJXk7M) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [Pigeons & Planes Presents: See You Next Year 3](https://open.spotify.com/album/1LjkpcxdrqE8mSDghyhlwu) | 2:43 | 2026-05-15 | 2026-10-09 |
+| [Searrach](https://open.spotify.com/track/5hTTecgllzDt918G76baiq) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [Searrach](https://open.spotify.com/album/3Ne9RmiFRQ8Lbnm26sFIi7) | 4:59 | 2026-11-20 |  |
 | [Secret Language](https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Secret Language](https://open.spotify.com/album/5O70O8co709tMC46LDb8uF) | 3:53 | 2026-06-16 | 2026-10-09 |
 | [Secrets](https://open.spotify.com/track/6HVr7aL6ZqGMO2gknTCZf7) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Secrets](https://open.spotify.com/album/4xXu2XeAwIcAUIRcd2Fj1U) | 4:12 | 2023-10-06 | 2024-03-16 |
 | [See You Later, I'm Gone](https://open.spotify.com/track/79jGv17PjfApMbrMCrZ0OV) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [See You Later, I'm Gone](https://open.spotify.com/album/4shbHhHop8TtPbbZAnfyeZ) | 4:31 | 2026-05-08 |  |
@@ -838,6 +842,7 @@
 | [The Other Side](https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS) | 2:44 | 2024-01-10 | 2024-02-10 |
 | [The Portlaoise Queen](https://open.spotify.com/track/50hRY8GsRdk2VUpCf33HNO) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [The Portlaoise Queen](https://open.spotify.com/album/1tawGB0KSAKlnZ2VvGBzyJ) | 5:50 | 2025-01-13 | 2025-03-13 |
 | [the precipice](https://open.spotify.com/track/7HFA3UBP3nUyjZtDtQ4ml7) | [Jessie Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [untitled.jpeg](https://open.spotify.com/album/67y4FE0buC45wGLltGEi25) | 3:52 | 2026-05-01 | 2026-10-09 |
+| [The Prize](https://open.spotify.com/track/0jjKQ2llPNyulyA2Dn1YER) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Fly 1111](https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM) | 4:20 | 2026-11-20 |  |
 | [The Prodigal](https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [The Prodigal](https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr) | 3:13 | 2024-01-16 | 2024-07-09 |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-10-06 | 2024-06-01 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-19 | 2024-04-27 |
@@ -882,6 +887,7 @@
 | [Twomac](https://open.spotify.com/track/0yUzoaaVxYxSFLihsDRYKn) | [Coco Smith](https://open.spotify.com/artist/3vzRcCdJw5Sk24gJoaMB6E) | [Twomac](https://open.spotify.com/album/1NZTX9DzSIaamvFbfuEgXj) | 5:25 | 2026-10-09 |  |
 | [u always saw the best in me](https://open.spotify.com/track/2ctpZao8P1Xh1Sq52uu4jF) | [Okay Alright](https://open.spotify.com/artist/6G9kPlmHYzGrFUYndWG6dh) | [soften my eyes after sleepless nights](https://open.spotify.com/album/3a1FVVJTSYrkxCp89OQyVr) | 3:16 | 2024-10-23 | 2025-05-14 |
 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 | 2023-10-06 | 2024-01-27 |
+| [underneath](https://open.spotify.com/track/17fYcNeZOig9908CA4paoO) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [underneath](https://open.spotify.com/album/3Ef5QxE08ZcBYp7ruQDAhU) | 3:29 | 2026-11-20 |  |
 | [Unforgivable Things](https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Unforgivable Things](https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC) | 2:35 | 2026-08-28 |  |
 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 | 2023-10-06 | 2024-06-01 |
 | [Untitled](https://open.spotify.com/track/1oRSvQ98Uake6pL6BfcpgU) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/53a19c7TkUcgvZ1lnPLQCr) | 3:32 | 2026-10-16 |  |

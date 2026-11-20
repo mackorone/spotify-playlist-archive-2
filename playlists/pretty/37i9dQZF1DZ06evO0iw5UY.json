@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28250,
+  "num_followers": 28248,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABxH4HiUVyigdt08FucuMNy",
+  "snapshot_id": "avzqgAAAAADvj9U+QRF4VED1BDzdwcgV",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alibi & Runaway (Remixes)",
-        "url": "https://open.spotify.com/album/79JRwwNINMbcuNeL7SZb3o"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Far Out",
-          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
-        }
-      ],
-      "duration_ms": 219553,
-      "name": "Alibi (Far Out Remix)",
-      "url": "https://open.spotify.com/track/144VylfhBHydi2xvqy9yw6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Wet",
         "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
       },
@@ -123,18 +103,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
+        "name": "Alibi & Runaway (Remixes)",
+        "url": "https://open.spotify.com/album/79JRwwNINMbcuNeL7SZb3o"
       },
       "artists": [
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Far Out",
+          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
         }
       ],
-      "duration_ms": 233133,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
+      "duration_ms": 219553,
+      "name": "Alibi (Far Out Remix)",
+      "url": "https://open.spotify.com/track/144VylfhBHydi2xvqy9yw6"
     },
     {
       "added_at": null,
@@ -163,6 +147,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "Enjoy the Ride",
+      "url": "https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love // Chaos",
         "url": "https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 186853,
       "name": "Next Life (feat. Krewella)",
       "url": "https://open.spotify.com/track/1s9PSUpePBIkHH1hKjFQ32"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 211693,
-      "name": "Enjoy the Ride",
-      "url": "https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Team",
-        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 186506,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
+      "duration_ms": 195480,
+      "name": "Surrender The Throne",
+      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+        "name": "Team",
+        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 195480,
-      "name": "Surrender The Throne",
-      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
+      "duration_ms": 186506,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 187200,
-      "name": "TILL IT HITS!",
-      "url": "https://open.spotify.com/track/026QEX8MQKzD09OHn85HFO"
+      "duration_ms": 190603,
+      "name": "the blueprint",
+      "url": "https://open.spotify.com/track/1JUSlVBaCTCnFXSMoNjohi"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Drive Away",
-      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
+      "duration_ms": 206120,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 206120,
-      "name": "Ammunition",
-      "url": "https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo"
+      "duration_ms": 240000,
+      "name": "Drive Away",
+      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Krewella (Hits Japan Special Edition)",
+        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "zer0 (The Remixes, Pt. 1)",
         "url": "https://open.spotify.com/album/1tKNZiieRvhgkQce7FufKC"
       },
@@ -891,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5JbnxSY7fjom9WaIFwCZOV"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "MERCY. MERCY. MERCY.",
-          "url": "https://open.spotify.com/artist/4dISa0JRkcDejaBcsloVin"
-        }
-      ],
-      "duration_ms": 313846,
-      "name": "Moondance",
-      "url": "https://open.spotify.com/track/7wMsPOFTA3QZoJ4LRIvt0h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ammunition",
         "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
       },
@@ -927,18 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Krewella (Hits Japan Special Edition)",
-        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5JbnxSY7fjom9WaIFwCZOV"
       },
       "artists": [
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "MERCY. MERCY. MERCY.",
+          "url": "https://open.spotify.com/artist/4dISa0JRkcDejaBcsloVin"
         }
       ],
-      "duration_ms": 214453,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
+      "duration_ms": 313846,
+      "name": "Moondance",
+      "url": "https://open.spotify.com/track/7wMsPOFTA3QZoJ4LRIvt0h"
     },
     {
       "added_at": null,

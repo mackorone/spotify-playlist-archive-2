@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: GENZIE",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Lanberry, Justyna Steczkowska, Wiktor Walig\u00f3ra",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 158783,
       "name": "A Jak",
       "url": "https://open.spotify.com/track/1IJIUgWX5Z4WTXz7S7CMB6"
@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Atari",
+        "url": "https://open.spotify.com/album/6f7PhYhS8CpoLK7FTYSUY5"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Atari",
+      "url": "https://open.spotify.com/track/3vZfDjdgT8kclgryVjonjg"
+    },
+    {
+      "album": {
         "name": "Aureola",
         "url": "https://open.spotify.com/album/5oura8SV00vIzLz3fH9Hlh"
       },
@@ -1012,6 +1030,28 @@
       "duration_ms": 175821,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4"
+    },
+    {
+      "album": {
+        "name": "BESOS",
+        "url": "https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        },
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158457,
+      "name": "BESOS",
+      "url": "https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv"
     },
     {
       "album": {
@@ -6909,6 +6949,24 @@
     },
     {
       "album": {
+        "name": "Jak z gwiazd",
+        "url": "https://open.spotify.com/album/1w9O9JUJ2yUfJEV631wVB9"
+      },
+      "artists": [
+        {
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "Jak z gwiazd",
+      "url": "https://open.spotify.com/track/36t70DEVEIoJbtghud7dMI"
+    },
+    {
+      "album": {
         "name": "NAPISZ JAK B\u0118DZIESZ",
         "url": "https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe"
       },
@@ -10395,6 +10453,24 @@
     },
     {
       "album": {
+        "name": "Moulin Rouge",
+        "url": "https://open.spotify.com/album/519i4BHq8cnRC8Xq78k6zT"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Moulin Rouge",
+      "url": "https://open.spotify.com/track/2gyPFCycuWJz2VBEhWsiy2"
+    },
+    {
+      "album": {
         "name": "Mo\u017ce wolniej",
         "url": "https://open.spotify.com/album/51gwYmWzH81RaKsDL5KXfa"
       },
@@ -11177,6 +11253,28 @@
     },
     {
       "album": {
+        "name": "Nad Wis\u0142\u0105 robi si\u0119 zimno",
+        "url": "https://open.spotify.com/album/5nAdkbeNJmhMYAcnLH46ZP"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129924,
+      "name": "Nad Wis\u0142\u0105 robi si\u0119 zimno",
+      "url": "https://open.spotify.com/track/0fHyD5FJkjyjzFRAC6tam2"
+    },
+    {
+      "album": {
         "name": "Nad wod\u0119 (feat. Tribbs)",
         "url": "https://open.spotify.com/album/00qlmn8FxtemR5WGnKLehA"
       },
@@ -11382,6 +11480,24 @@
       "duration_ms": 144586,
       "name": "NASA",
       "url": "https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R"
+    },
+    {
+      "album": {
+        "name": "Nast\u0119pny prosz\u0119",
+        "url": "https://open.spotify.com/album/54YQmIx2vjYKMMTi0e0SNn"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164915,
+      "name": "Nast\u0119pny prosz\u0119",
+      "url": "https://open.spotify.com/track/6Tps1gh9OaN7XerstTIEAi"
     },
     {
       "album": {
@@ -12684,7 +12800,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178331,
       "name": "non stop",
       "url": "https://open.spotify.com/track/6tHKBq4Vb21lez5ielAVBo"
@@ -13306,6 +13422,24 @@
       "duration_ms": 132000,
       "name": "OMG",
       "url": "https://open.spotify.com/track/2jacq0kAxW6eUSg2Vax1G1"
+    },
+    {
+      "album": {
+        "name": "WRACAM",
+        "url": "https://open.spotify.com/album/6TFgaFmp2zH7Fi63BwTJca"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222959,
+      "name": "Ona",
+      "url": "https://open.spotify.com/track/6RwyGj5J4WH4MQtZXOevbL"
     },
     {
       "album": {
@@ -15537,6 +15671,32 @@
     },
     {
       "album": {
+        "name": "razy dwa (UNICEF Polska: Choose the Future for Children 2027)",
+        "url": "https://open.spotify.com/album/22BPHccilq295lhHkaLe7X"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        },
+        {
+          "name": "Justyna Steczkowska",
+          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+        },
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "razy dwa (UNICEF Polska: Choose the Future for Children 2027)",
+      "url": "https://open.spotify.com/track/6L4YaRFYMoEq4O5Rb0pvr2"
+    },
+    {
+      "album": {
         "name": "rdza",
         "url": "https://open.spotify.com/album/3nJcfVjQd7sdDHa6ChiT3X"
       },
@@ -15548,7 +15708,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 170357,
       "name": "rdza",
       "url": "https://open.spotify.com/track/6MDg9fT0fgCptKYGoicm7R"
@@ -16120,7 +16280,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178866,
       "name": "SENTYMENTY",
       "url": "https://open.spotify.com/track/2g9nMjnKZw7ieNusDHwqUK"
@@ -16328,7 +16488,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 142328,
       "name": "She's Back",
       "url": "https://open.spotify.com/track/4DLTwEDeuydMP30yHSjNtZ"
@@ -18608,7 +18768,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 138876,
       "name": "Tu M\u00f3j Dom",
       "url": "https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN"
@@ -19346,7 +19506,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 143157,
       "name": "W OGIE\u0143",
       "url": "https://open.spotify.com/track/7h5JNX0yR8wriqEGmmxJ3Z"
@@ -19644,6 +19804,28 @@
       "duration_ms": 143500,
       "name": "Widz\u0119 Ci\u0119",
       "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
+    },
+    {
+      "album": {
+        "name": "Wieczna Wiosna",
+        "url": "https://open.spotify.com/album/3bQvfSnAwyjnn46c5MHNu3"
+      },
+      "artists": [
+        {
+          "name": "Pan Savyan",
+          "url": "https://open.spotify.com/artist/4Bkz15h2Rj6fphdjxB7GaT"
+        },
+        {
+          "name": "Julia Kami\u0144ska",
+          "url": "https://open.spotify.com/artist/4jFzWphpCeC923MojgEp7V"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192525,
+      "name": "Wieczna Wiosna",
+      "url": "https://open.spotify.com/track/3puZSJHZa3eilg6dMbbWSq"
     },
     {
       "album": {
@@ -20392,6 +20574,24 @@
       "duration_ms": 192765,
       "name": "Wychowany W Polsce",
       "url": "https://open.spotify.com/track/0LP4AQrZa67uS5rV8XgFlg"
+    },
+    {
+      "album": {
+        "name": "Wykrzycz\u0119",
+        "url": "https://open.spotify.com/album/0ds7DrxR0VOswOsQ6v9o5N"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150702,
+      "name": "Wykrzycz\u0119",
+      "url": "https://open.spotify.com/track/4JEp8d6WuX6J79ONaOinI3"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 213966,
+  "num_followers": 214003,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA1+5obfTsTrR0b8bkC4dpd+UNGH",
+  "snapshot_id": "AAAAAF5UHe+cl/Lyj3ohdXXXD20bexqd",
   "tracks": [
     {
       "added_at": "2026-03-26 08:28:03",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Katharina",
+      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 135096,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
-        "name": "Es ist Abend und wir sitzen bei mir",
-        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Katharina",
-      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
     },
     {
       "added_at": "2026-03-26 08:28:03",

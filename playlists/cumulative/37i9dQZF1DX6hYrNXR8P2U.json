@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "Fiah en portada. ",
+  "description": "LISA SCHA en portada. ",
   "name": "ALT/AR",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159298,
       "name": "5 minutos +",
       "url": "https://open.spotify.com/track/20tmHoUwRQRjsO3pKkfDAz"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 177361,
       "name": "alguien que yo no es",
       "url": "https://open.spotify.com/track/6bNKsd0yqRy9GNOBr8H3X5"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 245652,
       "name": "Amantes de Verano",
       "url": "https://open.spotify.com/track/0BMhACYj9pzKMITFkoiWNu"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174954,
       "name": "Apareces despu\u00e9s de tres veranos",
       "url": "https://open.spotify.com/track/44eNAlJ9Cqo2zTmxSeFyMr"
@@ -1914,6 +1914,24 @@
       "duration_ms": 111994,
       "name": "Breaking Bad",
       "url": "https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW"
+    },
+    {
+      "album": {
+        "name": "BUENOS AIRES TROPICAL",
+        "url": "https://open.spotify.com/album/1wppEfzODGMmJPg4bGObG7"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251904,
+      "name": "BUENOS AIRES TROPICAL",
+      "url": "https://open.spotify.com/track/09NqVinXIRTTwYcNsIVDNU"
     },
     {
       "album": {
@@ -3781,6 +3799,28 @@
     },
     {
       "album": {
+        "name": "DiNASTiA POP",
+        "url": "https://open.spotify.com/album/3EMgNksznuOVgDvJqYDSIx"
+      },
+      "artists": [
+        {
+          "name": "GABA",
+          "url": "https://open.spotify.com/artist/7eVUrPX8mEC1iz0SZvSnZN"
+        },
+        {
+          "name": "mugripop",
+          "url": "https://open.spotify.com/artist/7LdcdufHBxCzWOCAvfy7CY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281976,
+      "name": "DiNASTiA POP",
+      "url": "https://open.spotify.com/track/3YmSFJEhmQgk0o93vRI7hj"
+    },
+    {
+      "album": {
         "name": "elige vida",
         "url": "https://open.spotify.com/album/0vCOAMbvk0zUu5RaXgEcpp"
       },
@@ -4032,6 +4072,42 @@
       "duration_ms": 112520,
       "name": "DOUBLE C\u00a2'$",
       "url": "https://open.spotify.com/track/1qwCzUJ5XB30oA6ehn7o8z"
+    },
+    {
+      "album": {
+        "name": "DRAMAVERA",
+        "url": "https://open.spotify.com/album/0SYMDRxfDx4y4cDIE0F4xH"
+      },
+      "artists": [
+        {
+          "name": "Un Verano",
+          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Dramavera",
+      "url": "https://open.spotify.com/track/30xaMQYPhrOpsgiqivxleM"
+    },
+    {
+      "album": {
+        "name": "Droga de Noche",
+        "url": "https://open.spotify.com/album/2AWGTdkcAx1jRDEJyG2Lh4"
+      },
+      "artists": [
+        {
+          "name": "Jero Jones",
+          "url": "https://open.spotify.com/artist/4Tk06wQxbCfPYcxqxGE8yJ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190204,
+      "name": "Droga de Noche",
+      "url": "https://open.spotify.com/track/0elgvj9F9BEZ3Bgj6qR2FR"
     },
     {
       "album": {
@@ -4770,7 +4846,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 398571,
       "name": "Escritorio",
       "url": "https://open.spotify.com/track/2KHd8VEq0o5zODnAxe3XXM"
@@ -4872,7 +4948,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 266447,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/7ed9iwEZmUnUF8b5iErDV2"
@@ -5576,7 +5652,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 239434,
       "name": "Gente en la Ventana",
       "url": "https://open.spotify.com/track/1FbfVRPCbuFZm102i3hYg5"
@@ -7290,7 +7366,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 150387,
       "name": "Llena de Amor",
       "url": "https://open.spotify.com/track/1tkWlwMi9Qm7xXRZHelofX"
@@ -9212,7 +9288,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181672,
       "name": "Necesito Vacaciones",
       "url": "https://open.spotify.com/track/5WTf1C8nNFGTqlqayqOP1g"
@@ -9274,6 +9350,28 @@
       "duration_ms": 173119,
       "name": "Neverita",
       "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
+    },
+    {
+      "album": {
+        "name": "next club",
+        "url": "https://open.spotify.com/album/49IAyIPKrSJofqdHZFjh6C"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "STEREO",
+          "url": "https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158931,
+      "name": "next club",
+      "url": "https://open.spotify.com/track/0VZemxCFqMSPLkYbl9xGwJ"
     },
     {
       "album": {
@@ -9422,6 +9520,28 @@
       "duration_ms": 229206,
       "name": "No Entiendo Si Es Amor",
       "url": "https://open.spotify.com/track/0ojs2cyAKcMMp13VTKom9s"
+    },
+    {
+      "album": {
+        "name": "NO ES BUENO NI MALO",
+        "url": "https://open.spotify.com/album/0JVoMKZyiMoH8vkU1yiwS2"
+      },
+      "artists": [
+        {
+          "name": "PALOMA PALOMA",
+          "url": "https://open.spotify.com/artist/1dvIew9yk9v7pTp1OeFTpm"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191590,
+      "name": "NO ES BUENO NI MALO",
+      "url": "https://open.spotify.com/track/7kxUumvwTwV1DIC7l8eqwI"
     },
     {
       "album": {
@@ -9610,7 +9730,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 111500,
       "name": "No me quiero ver",
       "url": "https://open.spotify.com/track/005O2j2sL3Yr7tTpTBLH0u"
@@ -9708,7 +9828,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 152000,
       "name": "No Se Como Dec\u00edrtelo",
       "url": "https://open.spotify.com/track/5swsuR5MmlYFMH1kSfqKUp"
@@ -10764,7 +10884,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 204567,
       "name": "Pensando en Ella",
       "url": "https://open.spotify.com/track/0xKip9rjYsEWRdBYlJ0G3K"
@@ -11448,7 +11568,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 220964,
       "name": "PUERTA DEL SOL",
       "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
@@ -12712,7 +12832,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159978,
       "name": "Siga Siga",
       "url": "https://open.spotify.com/track/7j9UpLlhUeAAM4phdLGDJH"
@@ -12810,6 +12930,24 @@
       "duration_ms": 177000,
       "name": "SIN TI",
       "url": "https://open.spotify.com/track/0JxLBxUnL4NL01OmhbqutD"
+    },
+    {
+      "album": {
+        "name": "I Just Wanna Make My Daddy Proud",
+        "url": "https://open.spotify.com/album/0NL0Tl9jSVm6pO5cm8GsYX"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169546,
+      "name": "Sistema",
+      "url": "https://open.spotify.com/track/0L4est0wk0Qv0lV8bSOHw1"
     },
     {
       "album": {
@@ -13224,7 +13362,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 241919,
       "name": "s\u00e9 que va a venir",
       "url": "https://open.spotify.com/track/4CdsEPDWvoNL249vSYhxyp"
@@ -14120,6 +14258,24 @@
       "duration_ms": 155948,
       "name": "triste y vac\u00eda - bolero",
       "url": "https://open.spotify.com/track/2IO9hcLXWGHdqp3oneG86Z"
+    },
+    {
+      "album": {
+        "name": "Tristeza Criolla (Versi\u00f3n Extendida)",
+        "url": "https://open.spotify.com/album/7txyp6wbyrgbCbRHhrDyqI"
+      },
+      "artists": [
+        {
+          "name": "Pretoria",
+          "url": "https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Tristeza Criolla",
+      "url": "https://open.spotify.com/track/3ybTYYOOOcTBjeuu2ucdVu"
     },
     {
       "album": {
@@ -15744,6 +15900,28 @@
       "duration_ms": 229504,
       "name": "\u00bfD\u00f3nde Est\u00e1 Mi Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/3Wf1f9FWwtf7MDC5yNrG8m"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Est\u00e1 Mi Coraz\u00f3n? Reversi\u00f3n",
+        "url": "https://open.spotify.com/album/4Ooch9CGW2XrG65MOZZa76"
+      },
+      "artists": [
+        {
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232499,
+      "name": "\u00bfD\u00f3nde Est\u00e1 Mi Coraz\u00f3n? Reversi\u00f3n",
+      "url": "https://open.spotify.com/track/4K87EQUYYKI8W0FoOfPVbO"
     },
     {
       "album": {

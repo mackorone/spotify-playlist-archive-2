@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Caprichos",
+        "url": "https://open.spotify.com/album/6RpwoyuXUyyfZq9YxHoSxb"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225440,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/0ij88xjhv3olTrkgB1V1kn"
+    },
+    {
+      "album": {
         "name": "Desenamorando",
         "url": "https://open.spotify.com/album/1s66zIDfFrXy7vZ4R4CDm4"
       },
@@ -976,7 +994,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 205680,
       "name": "Hoy Va Por Ti (feat. Karol Sevilla)",
       "url": "https://open.spotify.com/track/6kJMQNdDHnPav35RRb3hTM"

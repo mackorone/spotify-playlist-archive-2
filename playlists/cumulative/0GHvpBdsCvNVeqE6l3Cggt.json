@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Narcisos",
+        "url": "https://open.spotify.com/album/2FnbIvZBheqlp9hrrjeYcK"
+      },
+      "artists": [
+        {
+          "name": "Kamy",
+          "url": "https://open.spotify.com/artist/2i03xVEyzsYwm84ifehJUS"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Narcisos",
+      "url": "https://open.spotify.com/track/3LSJOhY0BCCfPvwLBbKy3H"
+    },
+    {
+      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/0GF23WOvjJjLqNjtWDnbAW"
       },

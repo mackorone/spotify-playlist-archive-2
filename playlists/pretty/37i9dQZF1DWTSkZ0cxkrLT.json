@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 425316,
+  "num_followers": 425285,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJIv0yS6JAHjvKb1OaLi7/w40qF2",
+  "snapshot_id": "AAAAAOmcwny1mUNIyErjKVWKDJoYkaM0",
   "tracks": [
     {
       "added_at": "2026-10-13 18:55:37",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Te Para 3 - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 162533,
       "name": "Sauvignon Blanc",
       "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Te Para 3 - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Fue Amor",
-      "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 261815,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Fue Amor",
+      "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 182373,
+      "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
         "name": "Ahyre",
         "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 236612,
       "name": "Bellasombra",
       "url": "https://open.spotify.com/track/5YJstLbbwtemVuiGJjNRvl"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 182373,
-      "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "En La Vereda del Sol",
-        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "Inconsciente Colectivo",
-      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Ganas",
         "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 254135,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "En La Vereda del Sol",
+        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Inconsciente Colectivo",
+      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1291,22 +1291,22 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "No me Arrepiento de este Amor",
-        "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
+        "name": "Flaca",
+        "url": "https://open.spotify.com/album/69ooyiugiCWS2jheDxBfYs"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         },
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 181500,
-      "name": "No me Arrepiento de este Amor",
-      "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
+      "duration_ms": 226858,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/45t73UFILXwTbO7fvEIAUw"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1327,22 +1327,22 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "Flaca",
-        "url": "https://open.spotify.com/album/69ooyiugiCWS2jheDxBfYs"
+        "name": "No me Arrepiento de este Amor",
+        "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         },
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 226858,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/45t73UFILXwTbO7fvEIAUw"
+      "duration_ms": 181500,
+      "name": "No me Arrepiento de este Amor",
+      "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-10-13 18:55:37",
       "album": {
-        "name": "me hace bien amar(te)",
-        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 223142,
-      "name": "me hace bien amar(te)",
-      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -1427,6 +1411,38 @@
       "duration_ms": 156738,
       "name": "Nena, dime algo.",
       "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "Decir que s\u00ed",
+        "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 138065,
+      "name": "Dije que s\u00ed",
+      "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
+    },
+    {
+      "added_at": "2026-10-13 18:55:37",
+      "album": {
+        "name": "me hace bien amar(te)",
+        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 223142,
+      "name": "me hace bien amar(te)",
+      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "added_at": "2026-10-13 18:55:37",
@@ -1459,22 +1475,6 @@
       "duration_ms": 66666,
       "name": "Lo que elegiste.",
       "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
-    },
-    {
-      "added_at": "2026-10-13 18:55:37",
-      "album": {
-        "name": "Decir que s\u00ed",
-        "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 138065,
-      "name": "Dije que s\u00ed",
-      "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
     },
     {
       "added_at": "2026-10-13 18:55:37",

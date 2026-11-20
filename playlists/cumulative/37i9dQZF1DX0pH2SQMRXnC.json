@@ -15745,6 +15745,28 @@
     },
     {
       "album": {
+        "name": "PRAISE THE BASS",
+        "url": "https://open.spotify.com/album/2iATxLkpn020nrz1bKyICI"
+      },
+      "artists": [
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        },
+        {
+          "name": "Dead X",
+          "url": "https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "PRAISE THE BASS",
+      "url": "https://open.spotify.com/track/50RwsD9FAFHDOfPccMPmux"
+    },
+    {
+      "album": {
         "name": "Pray 4 Party",
         "url": "https://open.spotify.com/album/4i5TdB9PbLEO5wgIrjyg9T"
       },
@@ -18474,7 +18496,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 244507,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/2QcRNDG4fnBb7rjbfN4jd1"

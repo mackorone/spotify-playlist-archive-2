@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,577 songs - 12 day 23 hr 50 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 289 likes - 5,587 songs - 13 day 0 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5585,5 +5585,15 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5575 | [Asphalt](https://open.spotify.com/track/3bTBHWo4OdlfPWxiRdKgxQ) | [Alexo](https://open.spotify.com/artist/2M5K8mw04jLiIyTFaGOvXA) | [Asphalt](https://open.spotify.com/album/54UtGMEsU8UXCit9KuXrUQ) | 2:29 |
 | 5576 | [Medicate](https://open.spotify.com/track/3umTsTDjiiE7wlNxGpVPbr) | [EverFelt](https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX) | [Medicate](https://open.spotify.com/album/5oxKqegUjpahbxGsXMsRpR) | 3:58 |
 | 5577 | [Fairy of Fortune](https://open.spotify.com/track/6XlfJJ4Jj1rDJgdaekHsWK) | [NitRo \- Tunes](https://open.spotify.com/artist/4jYkECQhDrMZPm8DNPafYP) | [Fairy of Fortune](https://open.spotify.com/album/0W2rA2EgVidqoXY5wdJugC) | 3:37 |
+| 5578 | [Intro](https://open.spotify.com/track/2wKm3mpUhDhrOf7YrQ8M4P) | [Fu\-Yu](https://open.spotify.com/artist/6XRCWJwhQPrHnKDMeOa2BO) | [El Incendio](https://open.spotify.com/album/1ljg1UM685dVbC4AJTjb4E) | 1:40 |
+| 5579 | [El Incendio](https://open.spotify.com/track/0voCi6sEcSSJVoWhRUpzZ6) | [Fu\-Yu](https://open.spotify.com/artist/6XRCWJwhQPrHnKDMeOa2BO) | [El Incendio](https://open.spotify.com/album/1ljg1UM685dVbC4AJTjb4E) | 3:53 |
+| 5580 | [Pangea](https://open.spotify.com/track/3AbdMZEvDc30d9z4HVcsEX) | [Fu\-Yu](https://open.spotify.com/artist/6XRCWJwhQPrHnKDMeOa2BO) | [El Incendio](https://open.spotify.com/album/1ljg1UM685dVbC4AJTjb4E) | 4:07 |
+| 5581 | [Esclavo Digital](https://open.spotify.com/track/2rV3c6KdV1kDV8cI97iuwX) | [Fu\-Yu](https://open.spotify.com/artist/6XRCWJwhQPrHnKDMeOa2BO) | [El Incendio](https://open.spotify.com/album/1ljg1UM685dVbC4AJTjb4E) | 4:11 |
+| 5582 | [Carne de Cañón](https://open.spotify.com/track/0yCFkAu1ShrooBF6VTWiXw) | [Fu\-Yu](https://open.spotify.com/artist/6XRCWJwhQPrHnKDMeOa2BO) | [El Incendio](https://open.spotify.com/album/1ljg1UM685dVbC4AJTjb4E) | 3:34 |
+| 5583 | [Promesas](https://open.spotify.com/track/0VYysT47YnZnXXx5Y69yC5) | [Fu\-Yu](https://open.spotify.com/artist/6XRCWJwhQPrHnKDMeOa2BO) | [El Incendio](https://open.spotify.com/album/1ljg1UM685dVbC4AJTjb4E) | 3:11 |
+| 5584 | [Memorias](https://open.spotify.com/track/0ihb7reRAoUhDPaV9ODrum) | [Fu\-Yu](https://open.spotify.com/artist/6XRCWJwhQPrHnKDMeOa2BO) | [El Incendio](https://open.spotify.com/album/1ljg1UM685dVbC4AJTjb4E) | 4:35 |
+| 5585 | [Gritos de Libertad](https://open.spotify.com/track/2lJ51ki74pMtLK2iZCGJAE) | [Fu\-Yu](https://open.spotify.com/artist/6XRCWJwhQPrHnKDMeOa2BO) | [El Incendio](https://open.spotify.com/album/1ljg1UM685dVbC4AJTjb4E) | 4:06 |
+| 5586 | [La Caída](https://open.spotify.com/track/2VuhzNLae2YuBdCBPY1vlN) | [Fu\-Yu](https://open.spotify.com/artist/6XRCWJwhQPrHnKDMeOa2BO) | [El Incendio](https://open.spotify.com/album/1ljg1UM685dVbC4AJTjb4E) | 3:58 |
+| 5587 | [No Prayers To Gods Above](https://open.spotify.com/track/7J0IDdUdGqD8gTOltTaqmU) | [Screams of Tranquility](https://open.spotify.com/artist/0gin8Rgot6p6gKUBVEzw6s) | [No Prayers To Gods Above](https://open.spotify.com/album/3SOU235tvSaE4yeGOcTpVZ) | 3:56 |
 
-Snapshot ID: `AAALFSUvd7ZEvQ5iTMFXHNZI/eZBYg8/`
+Snapshot ID: `AAALF30DUufc41T+HPVzAymjxIghxTpB`

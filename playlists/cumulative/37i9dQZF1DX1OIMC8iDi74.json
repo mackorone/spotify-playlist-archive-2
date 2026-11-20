@@ -3129,6 +3129,24 @@
     },
     {
       "album": {
+        "name": "CLEAR THE FLOOR",
+        "url": "https://open.spotify.com/album/3NmPsyvUBGTffayIgg8CyM"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "CLEAR THE FLOOR",
+      "url": "https://open.spotify.com/track/1DMF9lK6W6ZQfCq9vH6BSZ"
+    },
+    {
+      "album": {
         "name": "CLENCH MY FIST (Jon Casey VIP)",
         "url": "https://open.spotify.com/album/1lQM80aZJD0SIXvQhX4I4z"
       },
@@ -16679,6 +16697,24 @@
     },
     {
       "album": {
+        "name": "STANCE",
+        "url": "https://open.spotify.com/album/3nNH2pS87D2vO4RQSW4oKt"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "STANCE",
+      "url": "https://open.spotify.com/track/07N20TkgjjdE9swKUVFX6d"
+    },
+    {
+      "album": {
         "name": "STAR",
         "url": "https://open.spotify.com/album/2jpkVxhoglMcYGcOHUK0Mt"
       },
@@ -18332,7 +18368,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217700,
       "name": "To Me",
       "url": "https://open.spotify.com/track/2SVrBV9AstiPzzfIB6diAa"
@@ -20568,7 +20604,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 131142,
       "name": "X2C",
       "url": "https://open.spotify.com/track/4w6tMkhXUsVyi7kgIo5uG1"

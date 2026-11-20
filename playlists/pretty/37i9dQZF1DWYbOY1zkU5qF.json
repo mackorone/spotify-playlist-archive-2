@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 266278,
+  "num_followers": 266323,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFivOygQZAbTEoL6fcSjpWUuFi9T",
+  "snapshot_id": "AAAAAGXx7Z0YxjQ3uFeexo93kVVGCAme",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Oye Mi Amor",
-        "url": "https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY"
-      },
-      "artists": [
-        {
-          "name": "Anabel",
-          "url": "https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx"
-        }
-      ],
-      "duration_ms": 195346,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Cien A\u00f1os",
         "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 205794,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Oye Mi Amor",
+        "url": "https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY"
+      },
+      "artists": [
+        {
+          "name": "Anabel",
+          "url": "https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis ojos lloran por ti",
-        "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 230571,
-      "name": "Mis ojos lloran por ti",
-      "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "La Mejor Versi\u00f3n de Mi",
         "url": "https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 134612,
       "name": "La Mejor Versi\u00f3n de Mi",
       "url": "https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Mis ojos lloran por ti",
+        "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 230571,
+      "name": "Mis ojos lloran por ti",
+      "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -507,38 +507,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Robarte Un Beso",
-        "url": "https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 173029,
-      "name": "Robarte Un Beso",
-      "url": "https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Azucar Amargo",
-        "url": "https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL"
-      },
-      "artists": [
-        {
-          "name": "Kendra Soliz",
-          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
-        }
-      ],
-      "duration_ms": 270550,
-      "name": "Azucar Amargo",
-      "url": "https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Covers, Vol. 2",
         "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
       },
@@ -555,18 +523,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
+        "name": "Robarte Un Beso",
+        "url": "https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L"
       },
       "artists": [
         {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
+      "duration_ms": 173029,
+      "name": "Robarte Un Beso",
+      "url": "https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -587,18 +555,34 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
       },
       "artists": [
         {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
         }
       ],
-      "duration_ms": 172336,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
+      "duration_ms": 142000,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Azucar Amargo",
+        "url": "https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL"
+      },
+      "artists": [
+        {
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
+        }
+      ],
+      "duration_ms": 270550,
+      "name": "Azucar Amargo",
+      "url": "https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -615,6 +599,22 @@
       "duration_ms": 249088,
       "name": "Felices los 4 - Acoustic version",
       "url": "https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 172336,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Lucha De Gigantes",
-        "url": "https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl"
-      },
-      "artists": [
-        {
-          "name": "Mac Gregor",
-          "url": "https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF"
-        }
-      ],
-      "duration_ms": 226113,
-      "name": "Lucha De Gigantes",
-      "url": "https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "M\u00e1tenme Porque Me Muero",
         "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 206993,
       "name": "M\u00e1tenme Porque Me Muero",
       "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Lucha De Gigantes",
+        "url": "https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl"
+      },
+      "artists": [
+        {
+          "name": "Mac Gregor",
+          "url": "https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF"
+        }
+      ],
+      "duration_ms": 226113,
+      "name": "Lucha De Gigantes",
+      "url": "https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs"
-      },
-      "artists": [
-        {
-          "name": "Aline Terrein",
-          "url": "https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx"
-        }
-      ],
-      "duration_ms": 149647,
-      "name": "So\u00f1e",
-      "url": "https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 201000,
       "name": "Ahora Dice",
       "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs"
+      },
+      "artists": [
+        {
+          "name": "Aline Terrein",
+          "url": "https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx"
+        }
+      ],
+      "duration_ms": 149647,
+      "name": "So\u00f1e",
+      "url": "https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Viral Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
+      },
+      "artists": [
+        {
+          "name": "Reggaeton Ac\u00fastico",
+          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 215931,
       "name": "El Amor Que Me Ten\u00eda - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6mt72Dsl80Q69kREndCnk5"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "La Nave del Olvido",
-        "url": "https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "La Nave del Olvido",
-      "url": "https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk"
     }
   ],
   "unique_name": "Covers Ac\u00fasticos",

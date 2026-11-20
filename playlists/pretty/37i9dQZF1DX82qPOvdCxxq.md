@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: J Arias
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,942 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,959 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 74 | [HALOS](https://open.spotify.com/track/31eqtQb0WNIJwWG8C1Ly84) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [HALOS](https://open.spotify.com/album/1DWsXo5Mlryv7DyQOTgArD) | 3:02 |
 | 75 | [7 VECES](https://open.spotify.com/track/1Cfq7qyaVILV3NJcv4weal) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Nueva Era \(Deluxe\)](https://open.spotify.com/album/0meet6eaTAEV5D0xTcoG7B) | 2:37 |
 
-Snapshot ID: `AAAAAJ8Ii9FPuj+RKsdvEPw1lQ8WpMms`
+Snapshot ID: `AAAAAGIEmW7GySc1aCqrE9axKgYXg6Ui`

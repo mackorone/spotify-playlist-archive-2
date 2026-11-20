@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "All Things Uncertain",
+        "url": "https://open.spotify.com/album/6cKnozXGzS4kkkDCpCF8XP"
+      },
+      "artists": [
+        {
+          "name": "Lilly Winwood",
+          "url": "https://open.spotify.com/artist/3mU9T77X4VyIE2Eb9Av8Sp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289373,
+      "name": "All Things Uncertain",
+      "url": "https://open.spotify.com/track/3NdfTsjXoi7QGpdN8bnwmK"
+    },
+    {
+      "album": {
         "name": "Cayenne Flowerbed",
         "url": "https://open.spotify.com/album/2zD27ATBaAbemALXPL6Hto"
       },
@@ -694,7 +712,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 220226,
       "name": "Before The Soul Goes To Waste",
       "url": "https://open.spotify.com/track/5wlp24waiNLMRFxMZQKd9f"
@@ -4158,10 +4176,28 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214826,
       "name": "Kentucky Hurricane",
       "url": "https://open.spotify.com/track/29d9vAbuSsYsJpp3931wSC"
+    },
+    {
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/4pZKSK7z2rg8movYPxVO6V"
+      },
+      "artists": [
+        {
+          "name": "Arlo McKinley",
+          "url": "https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272291,
+      "name": "Killing The Blues",
+      "url": "https://open.spotify.com/track/5XVziClU4iz6X3s9167iW2"
     },
     {
       "album": {
@@ -7861,6 +7897,24 @@
     },
     {
       "album": {
+        "name": "The Way She Goes",
+        "url": "https://open.spotify.com/album/6OW30OgAlvwcWpAHE7hEb6"
+      },
+      "artists": [
+        {
+          "name": "Willie Pearl",
+          "url": "https://open.spotify.com/artist/2WPrUOZjxPSvCnbeC8mNO8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189261,
+      "name": "The Way She Goes",
+      "url": "https://open.spotify.com/track/4Rh9OS3fRRW6mBoP6kJ7pU"
+    },
+    {
+      "album": {
         "name": "Drink The River",
         "url": "https://open.spotify.com/album/66w66TUwHavAnh3f0cOQdj"
       },
@@ -8498,7 +8552,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 302720,
       "name": "Weed By The Wall",
       "url": "https://open.spotify.com/track/76cRFvpMO29Xn4lBou91MN"

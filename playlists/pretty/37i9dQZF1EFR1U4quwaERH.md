@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 30 | [Çike Çike](https://open.spotify.com/track/1i0H5CstsEIWguEV7z6cNT) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:19 |
 | 31 | [Yeah Yeah Yeah](https://open.spotify.com/track/1Z6yAybe9wz2Revpfy5eSa) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Over The Moon \- The 2nd Mini Album](https://open.spotify.com/album/4ha80ucjDvhmQPLT77yyob) | 3:18 |
 | 32 | [Kickin' Pushin'](https://open.spotify.com/track/1ge67dpLAdg7HQzFxSjMGH) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 3:16 |
-| 33 | [Joshua Tree](https://open.spotify.com/track/6HzNXN730dXkoUeSlPFWrv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep \(Little Bit Extra Version\)](https://open.spotify.com/album/38jx3wDxS45zzKUIeAE4Z7) | 3:23 |
-| 34 | [Closet](https://open.spotify.com/track/1GQxMqoBlrrJFQdDjvHdmY) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Valley Girl Problems](https://open.spotify.com/album/0pRvEVRG9DS07oCKKBjeso) | 2:26 |
+| 33 | [Closet](https://open.spotify.com/track/1GQxMqoBlrrJFQdDjvHdmY) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Valley Girl Problems](https://open.spotify.com/album/0pRvEVRG9DS07oCKKBjeso) | 2:26 |
+| 34 | [Joshua Tree](https://open.spotify.com/track/6HzNXN730dXkoUeSlPFWrv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep \(Little Bit Extra Version\)](https://open.spotify.com/album/38jx3wDxS45zzKUIeAE4Z7) | 3:23 |
 | 35 | [When You Know](https://open.spotify.com/track/72WG3s5wgJRrgXz4Y8kw3r) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 4:29 |
 | 36 | [Better Days](https://open.spotify.com/track/5CUs8GTSe0mNt6SOrg0RVH) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:22 |
 | 37 | [High Key](https://open.spotify.com/track/26conjuiPm1qB5KnLUtYar) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/4FYQFYBKEVSjNNHk5aU2TR) | 2:12 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 107 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 108 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AciCaAAAAACXR5/Rn5FqWuRONyJY6Ovk`
+Snapshot ID: `AciIHAAAAAD8SoWklxn3AFMWwzR4/E6g`

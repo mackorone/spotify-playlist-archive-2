@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr1aQUUVrXx.md) - [plain]
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,115 likes - 159 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,351 likes - 159 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr1aQUUVrXx.md) - [plain]
 | 158 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 |
 | 159 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 |
 
-Snapshot ID: `AAAAAOW/VKkeZUWw4L/IYu4lhhjhiijE`
+Snapshot ID: `AAAAAIZPVDvGAy1yshs/yNno0lHmPJ5M`

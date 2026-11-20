@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> La classe RADAR 2026/27 che non vediamo l'ora di farvi scoprire e raccontarvi 🥹 Emili Kasa in cover
+> La classe RADAR 2026/27 che non vediamo l'ora di farvi scoprire e raccontarvi 🥹 Angelica Bove in cover
 
-241 songs - 11 hr 29 min
+242 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Stanza](https://open.spotify.com/track/2EBlqIr8yZLUqTiWtB9Tgo) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:18 | 2024-12-12 | 2025-05-14 |
 | [STAY ON BARS \#1](https://open.spotify.com/track/4qaJQlcJcn6NWlSrOgolDb) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [STAY ON BARS \#1](https://open.spotify.com/album/2KHagMF2ivCxgvajHZeFoU) | 1:58 | 2025-05-13 | 2026-06-11 |
 | [step up](https://open.spotify.com/track/6ZzG59qjRPYFe5uwpCXrIg) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [PORTANDO IL PESO](https://open.spotify.com/album/358cLvndXP5cbPIvg2o5uw) | 1:37 | 2026-06-10 | 2026-09-26 |
+| [Stracci](https://open.spotify.com/track/7e2XK5iHWrS4ZKtxApQwtj) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Stracci](https://open.spotify.com/album/76HPBXB7lRzoyocvjVJDJJ) | 3:29 | 2026-11-19 |  |
 | [strappami la pelle a morsi](https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [strappami la pelle a morsi](https://open.spotify.com/album/5QF6qF4rFdxpwpSoj8HANB) | 2:19 | 2024-04-23 | 2025-05-14 |
 | [T'aggio vuluto bene](https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [T'aggio vuluto bene](https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe) | 2:36 | 2024-04-23 | 2025-05-14 |
 | [Tana](https://open.spotify.com/track/3Tjq75DIFPx7FUBMwu1BrL) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 2:48 | 2026-06-10 |  |

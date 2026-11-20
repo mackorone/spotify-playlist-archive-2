@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-440 songs - 1 day 15 hr 40 min
+441 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Kahaani](https://open.spotify.com/track/6z0iNZXZ7xEwjQf6SXDH8P) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Sabar](https://open.spotify.com/album/44gFbG7mWYc4u0lENFlQSY) | 4:20 | 2022-07-12 | 2023-03-23 |
 | [Kahe Bana Batiya](https://open.spotify.com/track/2DeFZhd4UcRwLaWAETGoCi) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 6:45 | 2024-02-23 | 2025-01-07 |
 | [Kahe Sataye](https://open.spotify.com/track/5lZWQY94QWVaxjtam5dRqc) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aarambh](https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc) | 3:50 | 2023-11-24 |  |
+| [Kaisay](https://open.spotify.com/track/4EaFdqyiO3HphWiReWgsoQ) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Shabeer](https://open.spotify.com/artist/4SWuEFMjBl4HMF8DuGV2Xf) | [MAAHIRR](https://open.spotify.com/album/5O5XBQceTn2fxizkZYtWEM) | 4:53 | 2026-11-20 |  |
 | [Kaliyaan](https://open.spotify.com/track/2imK2X4ah7bVms1TjSAB19) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Kaliyaan](https://open.spotify.com/album/3fl0YteOBNVB020BXkgpS1) | 2:39 | 2024-10-04 |  |
 | [Kanha Re](https://open.spotify.com/track/2WE7d2v6kdC2tED3oWtdaz) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Kanha Re](https://open.spotify.com/album/4OwpgHERocW4KSPZ1D1rqV) | 3:51 | 2023-04-20 | 2024-01-03 |
 | [Kanha Re](https://open.spotify.com/track/4rve7qQ9hYbpATiu5hJwVj) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Kanha Re](https://open.spotify.com/album/4X7TVqpjzzAeB5MlYH0zpF) | 3:51 | 2023-12-15 | 2024-02-24 |
@@ -193,7 +194,7 @@
 | [Kin Bairan](https://open.spotify.com/track/2w6DUtvptCNLkod2Z9rbNJ) | [Nitesh Khanna](https://open.spotify.com/artist/4rb2PYf8qNfTQbsEIlyhR1) | [Kin Bairan](https://open.spotify.com/album/5RUZKVfkfMAjmq27RdKVfN) | 2:54 | 2023-01-13 | 2024-01-02 |
 | [Kisi Roz \- From "Auron Mein Kahan Dum Tha"](https://open.spotify.com/track/32pFFYJ4Rhr7JoxupIen7p) | [Maithili Thakur](https://open.spotify.com/artist/4l5GJirMP9yceDJOAqvuQY), [M\. M\. Kreem](https://open.spotify.com/artist/5YewttB9YNwpp5u3SGrRER), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Kisi Roz \(From "Auron Mein Kahan Dum Tha"\)](https://open.spotify.com/album/4871XszA8zb4D0KrtYrmq3) | 5:11 | 2024-06-30 |  |
 | [Koyal](https://open.spotify.com/track/0D45HQbt7taPiyDv6ISCul) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Koyal](https://open.spotify.com/album/6ADOm1jO7iLSc7amxdv5Vw) | 3:28 | 2025-04-08 |  |
-| [Koyal \- Acoustic](https://open.spotify.com/track/6rv0m3ZLBYgDAmbr0PfC8t) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Koyal \(Acoustic\)](https://open.spotify.com/album/4CFSs9NYBo0RbRXVJB1Xkp) | 2:32 | 2025-05-23 |  |
+| [Koyal \- Acoustic](https://open.spotify.com/track/6rv0m3ZLBYgDAmbr0PfC8t) | [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Koyal \(Acoustic\)](https://open.spotify.com/album/4CFSs9NYBo0RbRXVJB1Xkp) | 2:32 | 2025-05-23 | 2026-11-20 |
 | [Koyaliya Kook Sunave](https://open.spotify.com/track/7qtwHsQZ2fvmYezRmfmaL0) | [Tanmay Deochake](https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR), [Nandini Shankar](https://open.spotify.com/artist/0C2DP7uplGzdy1Y1Jsykal) | [Koyaliya Kook Sunave](https://open.spotify.com/album/79KTGruCDjxSAF9oFDWe9s) | 4:33 | 2025-10-10 | 2026-02-22 |
 | [Koyeliya](https://open.spotify.com/track/11d3Oodux0CPDuYQrjmwJL) | [Leena Bose](https://open.spotify.com/artist/0b0W2yD1KHcihQiJSltxY0) | [Koyeliya](https://open.spotify.com/album/3BTzEgPDSHgfgy32FzP7nj) | 1:46 | 2026-10-12 |  |
 | [Koyeliya Kook Sunave](https://open.spotify.com/track/38UtZoKc7J5ZtMomrIzx7B) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Koyeliya Kook Sunave](https://open.spotify.com/album/37skkokcDhxPvqWodKGJlg) | 4:34 | 2024-04-05 | 2024-05-29 |

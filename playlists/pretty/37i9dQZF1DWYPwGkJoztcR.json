@@ -1,12 +1,12 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 398808,
+  "num_followers": 398812,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFsggWNYWmsp0GGDLufYVVZRI3S1",
+  "snapshot_id": "AAAAAHJASrnXLDYs40Dg1gyr5zY8CzAb",
   "tracks": [
     {
       "added_at": "2026-11-17 11:00:01",
@@ -227,38 +227,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Wishing Stone",
-        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 228395,
-      "name": "Wishing Stone",
-      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
-        "name": "It Feels Right",
-        "url": "https://open.spotify.com/album/15cgWFKi6jU95bKbZmpqwy"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 218870,
-      "name": "It Feels Right",
-      "url": "https://open.spotify.com/track/6of3KnaLpo3j8ANnr0BLn7"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Call Me When You Get In",
         "url": "https://open.spotify.com/album/2l6Ur9RzHqEuQA5wioCaeM"
       },
@@ -279,6 +247,22 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
+        "name": "It Feels Right",
+        "url": "https://open.spotify.com/album/15cgWFKi6jU95bKbZmpqwy"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 218870,
+      "name": "It Feels Right",
+      "url": "https://open.spotify.com/track/6of3KnaLpo3j8ANnr0BLn7"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
         "name": "Nobody Lives Here",
         "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 177909,
       "name": "Heavy Hearts",
       "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "Wishing Stone",
+        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 228395,
+      "name": "Wishing Stone",
+      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
+        "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
         "name": "Feeling Fine",
         "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
       },
@@ -327,18 +343,18 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 197419,
-      "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK"
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -375,22 +391,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197116,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Revelation",
         "url": "https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Sit Back Baby",
         "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 234723,
       "name": "Sit Back Baby",
       "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "The Ones We Seek",
-        "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 274955,
-      "name": "The Ones We Seek",
-      "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Thorns",
         "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 200441,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "The Ones We Seek",
+        "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 274955,
+      "name": "The Ones We Seek",
+      "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Morning Dawns Again",
-        "url": "https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 238699,
-      "name": "Morning Dawns Again",
-      "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Light of My Life",
         "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 259518,
       "name": "Light of My Life",
       "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "Morning Dawns Again",
+        "url": "https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 238699,
+      "name": "Morning Dawns Again",
+      "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -699,18 +699,18 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS"
+        "name": "Calling Out",
+        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
       },
       "artists": [
         {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 186079,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3"
+      "duration_ms": 150904,
+      "name": "Calling Out",
+      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Calling Out",
-        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS"
       },
       "artists": [
         {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
         }
       ],
-      "duration_ms": 150904,
-      "name": "Calling Out",
-      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
+      "duration_ms": 186079,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
-      },
-      "artists": [
-        {
-          "name": "Bunch Of Grapes",
-          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
-        }
-      ],
-      "duration_ms": 150937,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 245562,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
+      },
+      "artists": [
+        {
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
+        }
+      ],
+      "duration_ms": 150937,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Easy To Love (feat. Iris Jean)",
         "url": "https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 191040,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "everything is now",
+        "url": "https://open.spotify.com/album/2IX0ck45O1UU4LJOEdWNgv"
+      },
+      "artists": [
+        {
+          "name": "RADBOUD",
+          "url": "https://open.spotify.com/artist/55D6CsbUvFnPbVy3w0X55j"
+        }
+      ],
+      "duration_ms": 174130,
+      "name": "everything is now",
+      "url": "https://open.spotify.com/track/7xXrQgD8kkSYZAh7NIyGAf"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -1303,22 +1319,6 @@
       "duration_ms": 177306,
       "name": "Falling Easy",
       "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
-        "name": "everything is now",
-        "url": "https://open.spotify.com/album/2IX0ck45O1UU4LJOEdWNgv"
-      },
-      "artists": [
-        {
-          "name": "RADBOUD",
-          "url": "https://open.spotify.com/artist/55D6CsbUvFnPbVy3w0X55j"
-        }
-      ],
-      "duration_ms": 174130,
-      "name": "everything is now",
-      "url": "https://open.spotify.com/track/7xXrQgD8kkSYZAh7NIyGAf"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "I'm Always On Stage",
-        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "I'm Always On Stage",
-      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
-    },
-    {
-      "added_at": "2026-11-17 11:00:01",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 236801,
       "name": "Bend",
       "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
+    },
+    {
+      "added_at": "2026-11-17 11:00:01",
+      "album": {
+        "name": "I'm Always On Stage",
+        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "I'm Always On Stage",
+      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
     },
     {
       "added_at": "2026-11-17 11:00:01",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-11-17 11:00:01",
       "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c"
+        "name": "Toy Heart",
+        "url": "https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
         }
       ],
-      "duration_ms": 232725,
-      "name": "Cape Forestier",
-      "url": "https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq"
+      "duration_ms": 197960,
+      "name": "Toy Heart",
+      "url": "https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389"
     }
   ],
   "unique_name": "'t Koffiehuis",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Los Bitchos",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: CHVRCHES",
   "name": "Rock The World",
   "tracks": [
     {
@@ -798,7 +798,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 246899,
       "name": "A Different Kind of Happiness",
       "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
@@ -12006,7 +12006,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198560,
       "name": "EL Pence",
       "url": "https://open.spotify.com/track/7gMgQeIZ9lWQKXf3LsDhk4"
@@ -12332,6 +12332,24 @@
       "duration_ms": 154484,
       "name": "Ensenada",
       "url": "https://open.spotify.com/track/2sRWqEaeb91Lv6KwDQnHlO"
+    },
+    {
+      "album": {
+        "name": "EPITAPH",
+        "url": "https://open.spotify.com/album/5OodKM4uld9oWTq1ZI28uj"
+      },
+      "artists": [
+        {
+          "name": "MUDRAT",
+          "url": "https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188226,
+      "name": "EPITAPH",
+      "url": "https://open.spotify.com/track/0PU4ouHMxR2mvPLIh3rkTD"
     },
     {
       "album": {
@@ -12714,6 +12732,24 @@
       "duration_ms": 246487,
       "name": "Everything's Here And Nothing's Lost",
       "url": "https://open.spotify.com/track/73Dz3M1a3bWmwosBBB08xD"
+    },
+    {
+      "album": {
+        "name": "Evil",
+        "url": "https://open.spotify.com/album/7A40u0vpClHm8JJE92fvyp"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180903,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/4Z1pdGHQx9uLVLDXMDAtWL"
     },
     {
       "album": {
@@ -24225,6 +24261,24 @@
     },
     {
       "album": {
+        "name": "NUOVA SHIT DE FUEGO",
+        "url": "https://open.spotify.com/album/6SdPdMNwpQ89cL6eHNhpAY"
+      },
+      "artists": [
+        {
+          "name": "Hyper Gazpacho",
+          "url": "https://open.spotify.com/artist/0Ki4NRc4k7l37mEMVZrv6b"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180634,
+      "name": "MAESTRALE",
+      "url": "https://open.spotify.com/track/4J1Fs07GSutzc8SbVRYVxo"
+    },
+    {
+      "album": {
         "name": "speed",
         "url": "https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0"
       },
@@ -30969,6 +31023,24 @@
     },
     {
       "album": {
+        "name": "Push the River",
+        "url": "https://open.spotify.com/album/3vhapgOEEpYTHTitvs2Nsx"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287325,
+      "name": "Push the River",
+      "url": "https://open.spotify.com/track/0HffjoYID4kfTPHwPcVNvR"
+    },
+    {
+      "album": {
         "name": "Pushing Daisies (Oh My My)",
         "url": "https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT"
       },
@@ -33474,7 +33546,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 253520,
       "name": "SEEIN\u2019 STARS: ELTON JOHN VERSION",
       "url": "https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx"
@@ -35551,6 +35623,24 @@
     },
     {
       "album": {
+        "name": "SplitScreen",
+        "url": "https://open.spotify.com/album/4CfxrpJIh3IQK0yi5rLDI4"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192352,
+      "name": "SplitScreen",
+      "url": "https://open.spotify.com/track/0DI4136goYFWu3ZQ2f7kNP"
+    },
+    {
+      "album": {
         "name": "See You In The Dark",
         "url": "https://open.spotify.com/album/4TtZH64f81Pv1Y7rpwqDBe"
       },
@@ -37234,6 +37324,24 @@
       "duration_ms": 202695,
       "name": "Swing For The Fences",
       "url": "https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb"
+    },
+    {
+      "album": {
+        "name": "Out of the blue",
+        "url": "https://open.spotify.com/album/1vB7RWyf7qjqZlfQCfW8iX"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237888,
+      "name": "Swirling",
+      "url": "https://open.spotify.com/track/4MgpbY6YOlC3R6q6cjyqb3"
     },
     {
       "album": {
@@ -41248,7 +41356,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 243250,
       "name": "VISION",
       "url": "https://open.spotify.com/track/6x8MDxMoqVhnSXWy07s6xX"
@@ -43130,7 +43238,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 232047,
       "name": "Winner",
       "url": "https://open.spotify.com/track/21GMGZQQ0MhG5mTe7cvs2Y"
@@ -43766,7 +43874,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190285,
       "name": "YES",
       "url": "https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z"

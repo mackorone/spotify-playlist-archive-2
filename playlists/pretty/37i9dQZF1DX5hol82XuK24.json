@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 463590,
+  "num_followers": 463564,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHYUzxRr/cJ4yPCcMMlA9Phyp5AF",
+  "snapshot_id": "AAAAAHOh7CoBLQ7FFGij/luvL0LUUSLP",
   "tracks": [
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
+        "name": "I Don't Know",
+        "url": "https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 330880,
+      "name": "Alps",
+      "url": "https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
         "name": "...and she's still listening",
         "url": "https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 256810,
       "name": "zi oi \u81ea\u7231",
       "url": "https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
-        "name": "I Don't Know",
-        "url": "https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 330880,
-      "name": "Alps",
-      "url": "https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ"
     },
     {
       "added_at": "2026-02-19 15:33:55",

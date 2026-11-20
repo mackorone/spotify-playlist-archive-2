@@ -4,12 +4,13 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-139 songs - 5 hr 18 min
+142 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Lovely Day](https://open.spotify.com/track/4uvjetG9h0f3ctvZsW4DQR) | [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ), [Taki Brano](https://open.spotify.com/artist/3kegRO5fvrXxqOrUiEbtOG), [Sphere of Hip\-Hop](https://open.spotify.com/artist/4zjVwGsBMdMZcxUKKCUbIU) | [A Lovely Day](https://open.spotify.com/album/4cWkIl6WR5IvMeJFQNyebA) | 1:49 | 2024-10-18 | 2024-11-09 |
 | [Acorn](https://open.spotify.com/track/49636TkDwGy7E8lOFni5pn) | [TimberRidge](https://open.spotify.com/artist/0Dhp5LBunI0YQAkPwshY0k) | [Acorn](https://open.spotify.com/album/5u9RaA0Qqu5WIroWgWOvTf) | 2:30 | 2026-11-13 |  |
+| [airport lounge](https://open.spotify.com/track/2y225iVzB8I0koqZ7COics) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [airport lounge](https://open.spotify.com/album/7jDK6sly8TagsDRDmvY2wf) | 2:40 | 2026-11-20 |  |
 | [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 | 2024-10-18 | 2025-12-05 |
 | [All Nighter](https://open.spotify.com/track/4XkfovbQ3GVlGzDCUD1bkR) | [Sunny Léo](https://open.spotify.com/artist/2w5KiJbmzmpynhshcjodYG) | [All Nighter](https://open.spotify.com/album/6ZvDaTQavm4C1lLu6LVuGv) | 2:05 | 2025-12-04 | 2026-09-08 |
 | [Amnesia](https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Amnesia](https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67) | 2:25 | 2024-10-18 |  |
@@ -73,12 +74,14 @@
 | [In The Clouds](https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [In The Clouds](https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e) | 2:24 | 2024-10-18 | 2025-11-08 |
 | [Inconspicuous](https://open.spotify.com/track/2OnnVbgVtWHzLLSne6IXT8) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Inconspicuous](https://open.spotify.com/album/7njxinH6A0xtEB5QPO3A6b) | 1:57 | 2024-10-18 |  |
 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 | 2024-10-18 |  |
+| [jam](https://open.spotify.com/track/0DXQWJ9zqvNVEcoqxsHlku) | [agot\-w](https://open.spotify.com/artist/7kDzFaRe9l7To45Hqo6Kdh) | [jam](https://open.spotify.com/album/1IGSfmKKdBkR8CtmEZSAna) | 2:24 | 2026-11-20 |  |
 | [keeping up appearances](https://open.spotify.com/track/0NLSPdAfVk8ArLAH0XqTWJ) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [keeping up appearances](https://open.spotify.com/album/6UMpw0PMtV73MOhsU5ohJ6) | 2:08 | 2024-10-18 | 2024-10-25 |
 | [Lack Of Emotions](https://open.spotify.com/track/1WR0dswbkp0ZH6ml4i9Uzl) | [thea harbor](https://open.spotify.com/artist/2fsFJWtDekOjJEBGAZlFTg) | [Lack Of Emotions](https://open.spotify.com/album/74zbpMColLiKgUjufUIFJr) | 2:27 | 2024-12-11 | 2025-09-14 |
 | [late nights](https://open.spotify.com/track/7eFgCZQYH6fHKxwn6HPMas) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [late nights](https://open.spotify.com/album/4MyA7lyAneHYWnuR9S7NeA) | 2:37 | 2024-10-24 | 2024-11-30 |
 | [Lavender](https://open.spotify.com/track/6g0mGQOePSkNq34vAFmDwW) | [Hazue](https://open.spotify.com/artist/3YnVojTjzOoV0xMr7Am0EU), [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f) | [Lavender](https://open.spotify.com/album/6VCelAxYiJRh7vWua1PnTl) | 1:51 | 2025-11-07 |  |
 | [Leaves Fallin'](https://open.spotify.com/track/5UcQZ8I3N17Yx8SkeHMcUG) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Leaves Fallin'](https://open.spotify.com/album/4F4jx6ZzR1SJ7Hl9BcZg4M) | 2:18 | 2024-10-18 | 2025-09-06 |
 | [Leaves let go](https://open.spotify.com/track/69gKaqjIlVM49885vXqWLm) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Lofi Girl: Fall Collection 2026](https://open.spotify.com/album/79rSoGxgGA3ln0IrJuM761) | 2:30 | 2026-10-05 |  |
+| [Light Dust](https://open.spotify.com/track/5wcuJn25mToJixzPN1FPwt) | [Vague Memoir](https://open.spotify.com/artist/6GEIDtnyP7xMniyDMGGDGk) | [Light Dust](https://open.spotify.com/album/0dD9cBb3tFDD21YwcnedpG) | 2:13 | 2026-11-20 |  |
 | [Light of October](https://open.spotify.com/track/0bT0KigMA1yirlMo7EBZqp) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Light of October](https://open.spotify.com/album/0BmL2ieDWhMalFMmle2HEu) | 1:42 | 2024-11-15 | 2024-11-30 |
 | [Lily Pads](https://open.spotify.com/track/4inWGupRNXrLfRnveRPoHp) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Lily Pads](https://open.spotify.com/album/5HFmL1ifuYbT5F0N3jTeWj) | 2:09 | 2026-11-05 |  |
 | [lohmar](https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Orion Express](https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y) | 1:43 | 2024-10-18 |  |

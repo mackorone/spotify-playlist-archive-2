@@ -4,7 +4,7 @@
 
 > The biggest pop hits to come from the land down under.
 
-145 songs - 9 hr 1 min
+146 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Creepin' Up Slowly](https://open.spotify.com/track/0r4IWIanmyhOueD888Ztwf) | [Taxiride](https://open.spotify.com/artist/1nCht41FuMcmG1FIoyjWCH) | [Garage Mahal](https://open.spotify.com/album/76hqEMQKrJpYntZVub1wlG) | 3:55 | 2024-08-05 |  |
 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 | 2022-04-18 | 2024-04-19 |
 | [Dance Monkey](https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey](https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN) | 3:29 | 2022-04-18 |  |
-| [Deeper Water](https://open.spotify.com/track/2nIVheVpEYNABxmWsltzX1) | [Deadstar](https://open.spotify.com/artist/1SyEBlvc4XJL7C41bDlt3R) | [Somewhere Over The Radio](https://open.spotify.com/album/4hXYUtljaHhnvkzUIkDDq6) | 4:24 | 2024-08-05 |  |
+| [Deeper Water](https://open.spotify.com/track/2nIVheVpEYNABxmWsltzX1) | [Deadstar](https://open.spotify.com/artist/1SyEBlvc4XJL7C41bDlt3R) | [Somewhere Over The Radio](https://open.spotify.com/album/4hXYUtljaHhnvkzUIkDDq6) | 4:24 | 2024-08-05 | 2026-11-20 |
 | [Do You Remember](https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 3:54 | 2022-04-18 |  |
 | [Do You Remember](https://open.spotify.com/track/1F2VIrr9oh7MwkI3NyLtHJ) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s), [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [High](https://open.spotify.com/album/44ArZIOrM8j3MzGjs3MUSg) | 3:55 | 2022-04-18 | 2024-01-13 |
 | [Don't Call Me Baby](https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD) | [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7) | 3:48 | 2022-04-18 | 2026-07-26 |
@@ -56,6 +56,7 @@
 | [Geronimo](https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/0ecUmBX4469DFW5iWkuHia) | 3:38 | 2022-04-18 | 2024-04-19 |
 | [Geronimo](https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) | 3:38 | 2022-04-18 | 2024-01-05 |
 | [Geronimo](https://open.spotify.com/track/4hd4YTkABCn2zuTZeYEA6D) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/6BfgDdkVUsERG4SZQTbO97) | 3:38 | 2022-04-18 |  |
+| [Get Set](https://open.spotify.com/track/4n6qCrHzgjw0qcjg02AWi0) | [Taxiride](https://open.spotify.com/artist/1nCht41FuMcmG1FIoyjWCH) | [Imaginate](https://open.spotify.com/album/6FLX6wPZ49m4mLfX9sYRse) | 3:13 | 2024-08-05 |  |
 | [Go Bang](https://open.spotify.com/track/5XYXgYQJvY87aCFxK5sOnp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha) | [Changa](https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe) | 3:09 | 2022-04-18 | 2024-04-19 |
 | [High ft\. Nicole Millar](https://open.spotify.com/track/74ciVAMC3GuSkEVTLIIqBS) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [High](https://open.spotify.com/album/69yLePgnX1KDHwneFMg6WF) | 3:48 | 2022-04-18 | 2026-07-22 |
 | [Hoops](https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Hoops](https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1) | 2:38 | 2022-04-18 |  |

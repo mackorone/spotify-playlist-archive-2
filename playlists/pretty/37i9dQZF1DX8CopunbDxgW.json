@@ -1,12 +1,12 @@
 {
   "description": "Yes Boone is our supernova \ud83d\udc99 metropolis is your home for the best indie dance",
-  "num_followers": 865781,
+  "num_followers": 865736,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAdRgWPj9an3ZHJcOB9cAlg93f+X",
+  "snapshot_id": "AAAAAEUa4wogqzqZ/+d1w9HqvB8T0t0E",
   "tracks": [
     {
       "added_at": "2026-11-13 05:01:44",
@@ -23,6 +23,46 @@
       "duration_ms": 144375,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/6UzH32c5VrLD7bKCQFsg2p"
+    },
+    {
+      "added_at": "2026-11-20 05:01:12",
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/4T1FH6O9joSf1bSam4vCdC"
+      },
+      "artists": [
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        },
+        {
+          "name": "Gloria Maxi",
+          "url": "https://open.spotify.com/artist/3eEmoc45F5flCsdOvnhrRd"
+        }
+      ],
+      "duration_ms": 180917,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/4AXzlMc95oiWZRWPSu9hiv"
+    },
+    {
+      "added_at": "2026-11-13 05:01:44",
+      "album": {
+        "name": "I Still Want You",
+        "url": "https://open.spotify.com/album/69e5x0yppaBzFl3Qy4AQty"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        },
+        {
+          "name": "MAE",
+          "url": "https://open.spotify.com/artist/6NfUUJWRYeDZxC8TXfSeKJ"
+        }
+      ],
+      "duration_ms": 196564,
+      "name": "I Still Want You",
+      "url": "https://open.spotify.com/track/13wFtxe5iYKnUEpdnUw9Cx"
     },
     {
       "added_at": "2026-10-16 04:02:04",
@@ -45,40 +85,40 @@
       "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
     },
     {
-      "added_at": "2026-10-23 04:01:15",
+      "added_at": "2026-11-20 05:01:12",
       "album": {
-        "name": "Nothing Changes",
-        "url": "https://open.spotify.com/album/1uR5EH11lHCNol59CRjphz"
+        "name": "Me In Your Head",
+        "url": "https://open.spotify.com/album/6PiuWrTrN4NEA59gln8x3S"
       },
       "artists": [
         {
-          "name": "Bluprint",
-          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Beth Ditto",
+          "url": "https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4"
         }
       ],
-      "duration_ms": 160252,
-      "name": "Nothing Changes",
-      "url": "https://open.spotify.com/track/4VV5M13p97jkMXlIDV7iGq"
+      "duration_ms": 222186,
+      "name": "Me In Your Head",
+      "url": "https://open.spotify.com/track/7vQXPJFTVl9co8Fxqeb4yq"
     },
     {
       "added_at": "2026-11-13 05:01:44",
       "album": {
-        "name": "I Should Say It More",
-        "url": "https://open.spotify.com/album/7dpMjwvwPXU4JKeukGNaIF"
+        "name": "tea party",
+        "url": "https://open.spotify.com/album/7rXG9wQpTNZaRE0f0nvRKz"
       },
       "artists": [
         {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        },
-        {
-          "name": "Manta",
-          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
         }
       ],
-      "duration_ms": 269538,
-      "name": "I Should Say It More",
-      "url": "https://open.spotify.com/track/0xm1wgBPTMGXLUZklPLnXH"
+      "duration_ms": 121333,
+      "name": "tea party",
+      "url": "https://open.spotify.com/track/4Ld9itujTC7hLw1eFg1UdW"
     },
     {
       "added_at": "2026-11-06 05:01:12",
@@ -95,6 +135,38 @@
       "duration_ms": 218260,
       "name": "ESPOIR",
       "url": "https://open.spotify.com/track/5kQ4PsjOxKx9krM47EB9WE"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Can I Smoke In Here?",
+        "url": "https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Can I Smoke In Here?",
+      "url": "https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG"
+    },
+    {
+      "added_at": "2026-11-20 05:01:12",
+      "album": {
+        "name": "SL670",
+        "url": "https://open.spotify.com/album/2yzb0D9oxAYPwe51LL3sgI"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 188702,
+      "name": "SL670",
+      "url": "https://open.spotify.com/track/68IQrHbZiRzEXEO33IDxFm"
     },
     {
       "added_at": "2026-11-13 05:01:44",
@@ -117,22 +189,6 @@
       "url": "https://open.spotify.com/track/3paBpLSFLutg98N1nCvnOh"
     },
     {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
-        "name": "Can I Smoke In Here?",
-        "url": "https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Can I Smoke In Here?",
-      "url": "https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG"
-    },
-    {
       "added_at": "2026-11-06 05:01:12",
       "album": {
         "name": "Blink",
@@ -151,26 +207,6 @@
       "duration_ms": 212422,
       "name": "Camera Faces",
       "url": "https://open.spotify.com/track/62WULA62c5tKiLjUNMliGK"
-    },
-    {
-      "added_at": "2026-11-13 05:01:44",
-      "album": {
-        "name": "I Still Want You",
-        "url": "https://open.spotify.com/album/69e5x0yppaBzFl3Qy4AQty"
-      },
-      "artists": [
-        {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
-        },
-        {
-          "name": "MAE",
-          "url": "https://open.spotify.com/artist/6NfUUJWRYeDZxC8TXfSeKJ"
-        }
-      ],
-      "duration_ms": 196564,
-      "name": "I Still Want You",
-      "url": "https://open.spotify.com/track/13wFtxe5iYKnUEpdnUw9Cx"
     },
     {
       "added_at": "2026-11-06 05:01:12",
@@ -207,6 +243,22 @@
       "duration_ms": 285825,
       "name": "Memory Signal",
       "url": "https://open.spotify.com/track/4M6Yq5V4EFhqq12KDpRqAX"
+    },
+    {
+      "added_at": "2026-11-20 05:01:12",
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 145380,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/2Df1qZun61Mrj4xo6ndtTy"
     },
     {
       "added_at": "2026-11-06 05:01:12",
@@ -265,20 +317,44 @@
       "url": "https://open.spotify.com/track/4ZbUjue8DIZxBjsZnnG8Sb"
     },
     {
-      "added_at": "2026-11-13 05:01:44",
+      "added_at": "2026-11-20 05:01:12",
       "album": {
-        "name": "tea party",
-        "url": "https://open.spotify.com/album/7rXG9wQpTNZaRE0f0nvRKz"
+        "name": "Da-da-Dun",
+        "url": "https://open.spotify.com/album/4ERpMTQZ114wtM9Aogn1MZ"
       },
       "artists": [
         {
-          "name": "moonvine",
-          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        },
+        {
+          "name": "The Director",
+          "url": "https://open.spotify.com/artist/0Jfenh8LAfhfvip31apnlP"
+        },
+        {
+          "name": "Boreal",
+          "url": "https://open.spotify.com/artist/1CLZrJnNxp89DFit00r6Ir"
         }
       ],
-      "duration_ms": 121333,
-      "name": "tea party",
-      "url": "https://open.spotify.com/track/4Ld9itujTC7hLw1eFg1UdW"
+      "duration_ms": 154838,
+      "name": "Da-da-Dun",
+      "url": "https://open.spotify.com/track/0s3qOPgC2WnynmRzJP7kuL"
+    },
+    {
+      "added_at": "2026-10-23 04:01:15",
+      "album": {
+        "name": "Nothing Changes",
+        "url": "https://open.spotify.com/album/1uR5EH11lHCNol59CRjphz"
+      },
+      "artists": [
+        {
+          "name": "Bluprint",
+          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+        }
+      ],
+      "duration_ms": 160252,
+      "name": "Nothing Changes",
+      "url": "https://open.spotify.com/track/4VV5M13p97jkMXlIDV7iGq"
     },
     {
       "added_at": "2026-11-06 05:01:12",
@@ -303,6 +379,22 @@
       "duration_ms": 258000,
       "name": "Nine Lives",
       "url": "https://open.spotify.com/track/5fdTg6a0qOcd7oSatvFCqN"
+    },
+    {
+      "added_at": "2026-11-20 05:01:12",
+      "album": {
+        "name": "Ahumbo",
+        "url": "https://open.spotify.com/album/5Vd4ERVBkIF1gRiP1FxoaT"
+      },
+      "artists": [
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        }
+      ],
+      "duration_ms": 264979,
+      "name": "Ahumbo",
+      "url": "https://open.spotify.com/track/02b5rMIgx2UJ5Vi7YO5dB0"
     },
     {
       "added_at": "2026-10-23 04:01:15",
@@ -355,6 +447,26 @@
       "duration_ms": 159325,
       "name": "Stay Cool",
       "url": "https://open.spotify.com/track/2415eI6C0m7OXK7J7vfdWv"
+    },
+    {
+      "added_at": "2026-11-13 05:01:44",
+      "album": {
+        "name": "I Should Say It More",
+        "url": "https://open.spotify.com/album/7dpMjwvwPXU4JKeukGNaIF"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "I Should Say It More",
+      "url": "https://open.spotify.com/track/0xm1wgBPTMGXLUZklPLnXH"
     },
     {
       "added_at": "2026-11-13 05:01:44",
@@ -611,26 +723,6 @@
       "duration_ms": 134223,
       "name": "can't stop going",
       "url": "https://open.spotify.com/track/3WdnXe1fKkgb5ZrYg7dcEW"
-    },
-    {
-      "added_at": "2026-10-16 04:02:04",
-      "album": {
-        "name": "jg",
-        "url": "https://open.spotify.com/album/5cxZwJZQ60UloQeadHuFrf"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        },
-        {
-          "name": "S\u00f8lv",
-          "url": "https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe"
-        }
-      ],
-      "duration_ms": 236885,
-      "name": "Waiting - ft S\u00f8lv",
-      "url": "https://open.spotify.com/track/1dUMQ5YyJfxd7wYzmtXb0o"
     },
     {
       "added_at": "2026-09-25 04:02:12",
@@ -1345,26 +1437,6 @@
       "url": "https://open.spotify.com/track/50ndAJovuhYFpkAcktjXoU"
     },
     {
-      "added_at": "2026-07-31 04:02:21",
-      "album": {
-        "name": "can't take this",
-        "url": "https://open.spotify.com/album/4d3jcVA5RA8fMd28nRsIJK"
-      },
-      "artists": [
-        {
-          "name": "MAPLO",
-          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
-        },
-        {
-          "name": "Ben Thrasher",
-          "url": "https://open.spotify.com/artist/6nN4uX9HV5ZNWwskrUHOM3"
-        }
-      ],
-      "duration_ms": 206294,
-      "name": "can't take this",
-      "url": "https://open.spotify.com/track/2Mr5R7A9KR1b5HRZIEBunZ"
-    },
-    {
       "added_at": "2026-05-29 04:17:08",
       "album": {
         "name": "Return To Bhibo",
@@ -1477,22 +1549,6 @@
       "url": "https://open.spotify.com/track/1KOKSXOF3t21CKCR3DeEkR"
     },
     {
-      "added_at": "2026-08-14 04:02:00",
-      "album": {
-        "name": "The Whole Of The Moon",
-        "url": "https://open.spotify.com/album/0ctzKCb8R7eemt8Wo8YZkI"
-      },
-      "artists": [
-        {
-          "name": "The Watergirls",
-          "url": "https://open.spotify.com/artist/0M4oTAfkCXZ9EtfIMZUVKd"
-        }
-      ],
-      "duration_ms": 302986,
-      "name": "The Whole Of The Moon - Radio Edit",
-      "url": "https://open.spotify.com/track/3619m4oJNzvYLBcnfuRA9b"
-    },
-    {
       "added_at": "2026-07-24 04:02:32",
       "album": {
         "name": "Hard Beat",
@@ -1601,22 +1657,6 @@
       "url": "https://open.spotify.com/track/12q7nog4QsQdtvjVDBWZV2"
     },
     {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
-        "name": "Molly In The Club",
-        "url": "https://open.spotify.com/album/1Z5c4jEcH46WtxXhAE7lCw"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 216138,
-      "name": "Molly In The Club",
-      "url": "https://open.spotify.com/track/1ngbCM8cVBEcE3yCFdelAU"
-    },
-    {
       "added_at": "2026-06-19 04:16:01",
       "album": {
         "name": "Round The Block",
@@ -1651,22 +1691,6 @@
       "duration_ms": 229294,
       "name": "Never Seen You Dance - DJ-Kicks Version",
       "url": "https://open.spotify.com/track/4htyuJyykfMfdlN5RujEV2"
-    },
-    {
-      "added_at": "2026-06-19 04:16:01",
-      "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/7bo3qLuwCzmWn4KIZzMkON"
-      },
-      "artists": [
-        {
-          "name": "Jaime Rosso",
-          "url": "https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ"
-        }
-      ],
-      "duration_ms": 241612,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/4YAhKZrz4S6dH4Ro4WMPdB"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1731,22 +1755,6 @@
       "duration_ms": 157058,
       "name": "It's All About The Music",
       "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Written into Changes",
-        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 233113,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
     },
     {
       "added_at": "2026-04-10 04:02:28",

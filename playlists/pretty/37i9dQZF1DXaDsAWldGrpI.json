@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO2HZzcq2PLFeEIy/JoCYtlvPbUY",
+  "snapshot_id": "AAAAAPmuM/mN4Dq/hrzDH/+PvVZT+rMO",
   "tracks": [
     {
       "added_at": "2026-11-13 05:02:20",
@@ -735,18 +735,22 @@
     {
       "added_at": "2026-11-13 05:02:20",
       "album": {
-        "name": "Willie And Family Live",
-        "url": "https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB"
+        "name": "Thomas Rhett Live From Fenway Park",
+        "url": "https://open.spotify.com/album/350LbZri3dtBkAMAFqvXlS"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 219296,
-      "name": "Whiskey River - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
-      "url": "https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa"
+      "duration_ms": 317168,
+      "name": "Somethin' 'Bout A Woman - Live From Fenway Park",
+      "url": "https://open.spotify.com/track/6pCBIdt549KZRupgHVLG02"
     },
     {
       "added_at": "2026-11-13 05:02:20",
@@ -783,22 +787,18 @@
     {
       "added_at": "2026-11-13 05:02:20",
       "album": {
-        "name": "Thomas Rhett Live From Fenway Park",
-        "url": "https://open.spotify.com/album/350LbZri3dtBkAMAFqvXlS"
+        "name": "Willie And Family Live",
+        "url": "https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 317168,
-      "name": "Somethin' 'Bout A Woman - Live From Fenway Park",
-      "url": "https://open.spotify.com/track/6pCBIdt549KZRupgHVLG02"
+      "duration_ms": 219296,
+      "name": "Whiskey River - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
+      "url": "https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa"
     },
     {
       "added_at": "2026-11-13 05:02:20",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-11-13 05:02:20",
       "album": {
-        "name": "Worth Your Wild (Live From Red Rocks)",
-        "url": "https://open.spotify.com/album/7zMTH451T4YfvecnCMNbft"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 222233,
-      "name": "Worth Your Wild - Live From Red Rocks",
-      "url": "https://open.spotify.com/track/3D45pin7QXTndFmG8wwoEu"
-    },
-    {
-      "added_at": "2026-11-13 05:02:20",
-      "album": {
         "name": "In Your Love (Live From Radio City Music Hall)",
         "url": "https://open.spotify.com/album/1I20hO7qTPRcHrjDaDaeI9"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 242573,
       "name": "In Your Love - Live From Radio City Music Hall",
       "url": "https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio"
+    },
+    {
+      "added_at": "2026-11-13 05:02:20",
+      "album": {
+        "name": "Worth Your Wild (Live From Red Rocks)",
+        "url": "https://open.spotify.com/album/7zMTH451T4YfvecnCMNbft"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 222233,
+      "name": "Worth Your Wild - Live From Red Rocks",
+      "url": "https://open.spotify.com/track/3D45pin7QXTndFmG8wwoEu"
     },
     {
       "added_at": "2026-11-13 05:02:20",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-11-13 05:02:20",
       "album": {
+        "name": "Arkansas Diamond/Copperhead Road (Live from Cain's Ballroom)",
+        "url": "https://open.spotify.com/album/5jnUVBr7vgLnuz1DssPxcx"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "duration_ms": 236132,
+      "name": "Arkansas Diamond - Live from Cain's Ballroom",
+      "url": "https://open.spotify.com/track/1K4FZAVYsgffBDUIBeVvIV"
+    },
+    {
+      "added_at": "2026-11-13 05:02:20",
+      "album": {
         "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
         "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2026-11-13 05:02:20",
       "album": {
-        "name": "Live EP 001",
-        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Dancing in the Sky - Live",
-      "url": "https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL"
-    },
-    {
-      "added_at": "2026-11-13 05:02:20",
-      "album": {
         "name": "Kenny Chesney Live",
         "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
       },
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-11-13 05:02:20",
       "album": {
-        "name": "Arkansas Diamond/Copperhead Road (Live from Cain's Ballroom)",
-        "url": "https://open.spotify.com/album/5jnUVBr7vgLnuz1DssPxcx"
+        "name": "Live EP 001",
+        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
       },
       "artists": [
         {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
         }
       ],
-      "duration_ms": 236132,
-      "name": "Arkansas Diamond - Live from Cain's Ballroom",
-      "url": "https://open.spotify.com/track/1K4FZAVYsgffBDUIBeVvIV"
+      "duration_ms": 184733,
+      "name": "Dancing in the Sky - Live",
+      "url": "https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL"
     },
     {
       "added_at": "2026-11-13 05:02:20",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-11-13 05:02:20",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "Any Man Of Mine - Live",
-      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
-    },
-    {
-      "added_at": "2026-11-13 05:02:20",
-      "album": {
         "name": "No Horse To Ride (Live From Boston)",
         "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 226523,
       "name": "No Horse To Ride - Live From Boston",
       "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
+    },
+    {
+      "added_at": "2026-11-13 05:02:20",
+      "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "Any Man Of Mine - Live",
+      "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
     },
     {
       "added_at": "2026-11-13 05:02:20",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-11-13 05:02:20",
       "album": {
-        "name": "Human (Live)",
-        "url": "https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "Human - Live",
-      "url": "https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K"
-    },
-    {
-      "added_at": "2026-11-13 05:02:20",
-      "album": {
         "name": "Waylon Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 184840,
       "name": "Good Hearted Woman - Live in Texas - September 1974",
       "url": "https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p"
+    },
+    {
+      "added_at": "2026-11-13 05:02:20",
+      "album": {
+        "name": "Human (Live)",
+        "url": "https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "Human - Live",
+      "url": "https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K"
     },
     {
       "added_at": "2026-11-13 05:02:20",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2026-11-13 05:02:20",
       "album": {
-        "name": "One Bad Habit (Live)",
-        "url": "https://open.spotify.com/album/2WHkHvzjILIUTrxNR7yq5Y"
+        "name": "Drinkin' Problem (Live From Red Rocks)",
+        "url": "https://open.spotify.com/album/0jEWne1bCq6uPwlAE8YeAl"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 196022,
-      "name": "One Bad Habit - Live",
-      "url": "https://open.spotify.com/track/459HlWTIWPXEPG5b6QXttu"
+      "duration_ms": 277493,
+      "name": "Drinkin' Problem - Live From Red Rocks",
+      "url": "https://open.spotify.com/track/4naDfPPsElr2GuaX4nxcuG"
     }
   ],
   "unique_name": "Country Live",

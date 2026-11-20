@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by: <a href="spotify:playlist:37i9dQZF1EFEAVqyX3rcdx">Chantal Kreviazuk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,836 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,848 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
 | 50 | [Excuse Me, I'm Speaking](https://open.spotify.com/track/46l6HTqqNBysg4IokCKET9) | [Kathryn Gallagher](https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD) | [All Good Men](https://open.spotify.com/album/43cC6Wx7CTKWC25ByXQJXl) | 2:18 |
 
-Snapshot ID: `AAAAAFgCziXSaQvnlD7ItP9x6+15keni`
+Snapshot ID: `AAAAAKf3Vkd865jUiFUlCGMvqtHbtRBN`

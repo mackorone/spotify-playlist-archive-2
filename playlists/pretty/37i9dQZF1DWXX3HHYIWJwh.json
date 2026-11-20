@@ -1,15 +1,15 @@
 {
   "description": "\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3080\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5973\u5b50\u4f1a\u3001\u30ac\u30fc\u30eb\u30ba\u30ca\u30a4\u30c8\u306e\u304a\u4f9b\u306b\u3002\n\n",
-  "num_followers": 105440,
+  "num_followers": 105439,
   "original_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABVSmP+LSqQcKC2QitHrtEeBgtr7",
+  "snapshot_id": "AAAAAAZWy7tT3hnY44eqHdHtKjieT+26",
   "tracks": [
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Housewife",
         "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Made My Night",
         "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
@@ -73,7 +73,23 @@
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
+      "album": {
+        "name": "You're Under Arrest (Remixes)",
+        "url": "https://open.spotify.com/album/1IZrGMJn3CEUr9N3DoewFd"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "You're Under Arrest",
+      "url": "https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG"
+    },
+    {
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "expectations (feat. Chappell Roan)",
         "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
@@ -109,7 +125,23 @@
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "ICONIC BY MISTAKE",
         "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
@@ -133,23 +165,7 @@
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
         "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
@@ -165,23 +181,7 @@
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
-      "album": {
-        "name": "Swingin\u2019 Magic",
-        "url": "https://open.spotify.com/album/2vLpnOuFPSXk7PoFPAkt4n"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 177940,
-      "name": "Swingin\u2019 Magic",
-      "url": "https://open.spotify.com/track/1hRZJgqpTb8VzSALbDSUrk"
-    },
-    {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "KISS N TELL",
         "url": "https://open.spotify.com/album/5pwhf4kv2qX10i6k2uJsFp"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/3Fse9qXqMNey4TL5mLy8IF"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "THE CORE - \u6838",
         "url": "https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -233,23 +233,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -265,7 +249,23 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/21z1fNY6xXjnVRc9H35nDb"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/38Ly5TWg9E7B7inRwrcAbs"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "GOLDEN HOUR : Part.5",
         "url": "https://open.spotify.com/album/3QU53E1zqpvOyIidg5PcZp"
@@ -313,23 +313,7 @@
       "url": "https://open.spotify.com/track/7xIX566RcjiBHRBrFzFEh3"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
-      "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
-    },
-    {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "NOT CUTE ANYMORE",
         "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
@@ -345,7 +329,23 @@
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
+      "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
+    },
+    {
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Internet Girl",
         "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Less than a Lover",
         "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
@@ -393,23 +393,7 @@
       "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "bomb",
         "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
@@ -425,7 +409,43 @@
       "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "added_at": "2026-11-19 15:00:26",
+      "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Get Weird (Expanded Edition)",
         "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "CLICK",
         "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "new trick",
         "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "DRIP",
         "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -541,23 +561,7 @@
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
-      "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 140720,
-      "name": "Hootie Frutti",
-      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
-    },
-    {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
@@ -573,7 +577,7 @@
       "url": "https://open.spotify.com/track/7hCNBVRhHzcsRAv0TQnOzq"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Let you go",
         "url": "https://open.spotify.com/album/43L1TE2SrCQqFTPo44roFp"
@@ -593,7 +597,23 @@
       "url": "https://open.spotify.com/track/3NQJrSDeyKGmUVqjQmzSVq"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
+      "album": {
+        "name": "PERFECT STORM",
+        "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Angel Bite",
+      "url": "https://open.spotify.com/track/62pmQMfcm1leFyeKRfSaDq"
+    },
+    {
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Kiss (Deluxe)",
         "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
@@ -609,7 +629,23 @@
       "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 140720,
+      "name": "Hootie Frutti",
+      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
+    },
+    {
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
@@ -625,7 +661,7 @@
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Perfect Night",
         "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
@@ -641,23 +677,7 @@
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
-      "album": {
-        "name": "Popstar",
-        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 140520,
-      "name": "Nobody Wanna Dance Anymore",
-      "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
-    },
-    {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Symphony (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
@@ -693,7 +713,7 @@
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Drama - The 4th Mini Album",
         "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
@@ -709,7 +729,7 @@
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
@@ -745,23 +765,7 @@
       "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
-      "album": {
-        "name": "Met my match",
-        "url": "https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO"
-      },
-      "artists": [
-        {
-          "name": "Say Now",
-          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
-        }
-      ],
-      "duration_ms": 165339,
-      "name": "Met my match",
-      "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
-    },
-    {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "TIT FOR TAT",
         "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
@@ -777,27 +781,7 @@
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
-      "album": {
-        "name": "Danceteria Afterhours",
-        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 230503,
-      "name": "Danceteria Afterhours",
-      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
-    },
-    {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -813,23 +797,7 @@
       "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
     },
     {
-      "added_at": "2026-10-22 15:00:20",
-      "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
-    },
-    {
-      "added_at": "2026-10-22 15:00:20",
+      "added_at": "2026-11-19 15:00:26",
       "album": {
         "name": "RUNWAY",
         "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
@@ -847,6 +815,38 @@
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
+    },
+    {
+      "added_at": "2026-11-19 15:00:26",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "added_at": "2026-11-19 15:00:26",
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     }
   ],
   "unique_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",

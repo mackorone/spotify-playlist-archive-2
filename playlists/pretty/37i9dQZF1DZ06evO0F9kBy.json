@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAnmP4+H0exHcKpi3BhYABX",
+  "snapshot_id": "avzqgAAAAAChCxpIkLqa1PbyR57Fzdmt",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Go Tell It (Gloria)",
+        "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "The Choir Room",
+          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
+        }
+      ],
+      "duration_ms": 199836,
+      "name": "Go Tell It (Gloria)",
+      "url": "https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 241215,
       "name": "High Above It All",
       "url": "https://open.spotify.com/track/2e8glkLFyqnnyzZAWtS2A4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Go Tell It (Gloria)",
-        "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "The Choir Room",
-          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
-        }
-      ],
-      "duration_ms": 199836,
-      "name": "Go Tell It (Gloria)",
-      "url": "https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The In Between (from The Chosen)",
+        "url": "https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 238431,
+      "name": "The In Between - from The Chosen",
+      "url": "https://open.spotify.com/track/3roS62frfF60JQD8jiacOK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All the Praise Belongs",
         "url": "https://open.spotify.com/album/2KdzK8glBc5DPpphB9x9wM"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 218530,
       "name": "Finished Work",
       "url": "https://open.spotify.com/track/4KOkxO6Ezvnw8q9IMTC0ir"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The In Between (from The Chosen)",
-        "url": "https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 238431,
-      "name": "The In Between - from The Chosen",
-      "url": "https://open.spotify.com/track/3roS62frfF60JQD8jiacOK"
     },
     {
       "added_at": null,
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give Thanks To God",
+        "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 214056,
+      "name": "Give Thanks To God",
+      "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saints and Sinners",
         "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
@@ -819,42 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Thanks To God",
-        "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 214056,
-      "name": "Give Thanks To God",
-      "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "The Stories I Tell Myself",
-      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sanctuary Songs",
         "url": "https://open.spotify.com/album/4kkaT37xGlszLXcJ0cVpbF"
       },
@@ -875,6 +859,58 @@
       "duration_ms": 356666,
       "name": "Christ Is Lower Still",
       "url": "https://open.spotify.com/track/3hCHePNdNzGkhYtSeU13Y6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "The Stories I Tell Myself",
+      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1or, Te Necesito",
+        "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 204167,
+      "name": "Se\u00f1or, Te Necesito",
+      "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 251680,
+      "name": "Just as I Am",
+      "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
     },
     {
       "added_at": null,
@@ -907,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1or, Te Necesito",
-        "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 204167,
-      "name": "Se\u00f1or, Te Necesito",
-      "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Found It In Jesus",
         "url": "https://open.spotify.com/album/7wJEg8eSQCa2y8Xm35eaQY"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 260987,
       "name": "Found It In Jesus",
       "url": "https://open.spotify.com/track/7kOw09xTJZQCinlD8xM5ST"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 251680,
-      "name": "Just as I Am",
-      "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
     },
     {
       "added_at": null,

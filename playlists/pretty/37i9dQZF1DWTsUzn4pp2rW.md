@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,990 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,037 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 48 | [Don't Go To Strangers](https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 5:20 |
 | 49 | [What Love Is For](https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo) | [PRD](https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ) | [What Love Is For](https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs) | 3:09 |
 | 50 | [Her House \(Single Edit\)](https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Her House \(Single Edit\) \[Star of Spring\]](https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK) | 3:47 |
-| 51 | [All About You](https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK) | [Maluku Sweden Connection](https://open.spotify.com/artist/2Luu2OnjcDQJdg5dy3lvH7), [SheemaW](https://open.spotify.com/artist/3OF6dbxYfbAT1pavl8YFtl) | [All About You](https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA) | 4:20 |
-| 52 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
+| 51 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
+| 52 | [All About You](https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK) | [Maluku Sweden Connection](https://open.spotify.com/artist/2Luu2OnjcDQJdg5dy3lvH7), [SheemaW](https://open.spotify.com/artist/3OF6dbxYfbAT1pavl8YFtl) | [All About You](https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA) | 4:20 |
 | 53 | [Break In](https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05) | [Break In](https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO) | 3:19 |
 | 54 | [At the End of the Day](https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [At the End of the Day](https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O) | 3:36 |
 | 55 | [the road is narrow](https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD) | [Jecca](https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg) | [The Road Is Narrow](https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b) | 3:14 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 58 | [Softer Than You Know](https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw) | [Softer Than You Know](https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu) | 3:28 |
 | 59 | [When The Stars Align](https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [When The Stars Align](https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash) | 3:21 |
 | 60 | [Spaceman](https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 2:33 |
-| 61 | [Chamomile Tea](https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME) | [Andrew Farstar](https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z) | [Chamomile Tea](https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr) | 4:12 |
-| 62 | [Let's Go to Bed](https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN) | [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU), [Jules Renauld](https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM) | [Collusion](https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD) | 4:27 |
+| 61 | [Let's Go to Bed](https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN) | [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU), [Jules Renauld](https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM) | [Collusion](https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD) | 4:27 |
+| 62 | [Chamomile Tea](https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME) | [Andrew Farstar](https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z) | [Chamomile Tea](https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr) | 4:12 |
 | 63 | [Hope](https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa) | [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Hope](https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb) | 4:03 |
 | 64 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
 | 65 | [Okay Far Away](https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 3:31 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 70 | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc) | [Les Crossaders](https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv), [Julie Benson](https://open.spotify.com/artist/7I0kExgxiEOZ7JuzhE6mtZ) | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC) | 3:04 |
 | 71 | [Enough to Be on Your Way](https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Enough to Be on Your Way](https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3) | 5:18 |
 | 72 | [Baby, It's Cold Outside](https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe) | [JP Maurice](https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt), [Pyper Geddes](https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ) | [Baby, It's Cold Outside](https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg) | 3:08 |
-| 73 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 |
-| 74 | [A Bridge](https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [A Bridge](https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ) | 4:03 |
+| 73 | [A Bridge](https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [A Bridge](https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ) | 4:03 |
+| 74 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 |
 | 75 | [Peace \- First Sessions Demo](https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Midnight Jones](https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg) | 3:53 |
 | 76 | [Do It Anyway](https://open.spotify.com/track/7aolyumzZqw1og9ztMmNZG) | [Keith Cuts](https://open.spotify.com/artist/0h4NIiGxZcD1K0Vu6pO0rN) | [Do It Anyway](https://open.spotify.com/album/02MwUDPORy0V7VNQsaCyZa) | 3:35 |
 | 77 | [The Light](https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N) | [A Blue Flame](https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo) | [Love Rushes Past](https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 99 | [Your Hands](https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 4:53 |
 | 100 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 |
 
-Snapshot ID: `AAAAALdTBpjNMFH36uVyJnc3h5i11PMb`
+Snapshot ID: `AAAAAGWUT8PlWIpM/qYay4wHjwyw5DS/`

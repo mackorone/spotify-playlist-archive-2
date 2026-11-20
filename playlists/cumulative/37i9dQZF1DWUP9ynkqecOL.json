@@ -2209,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "Mechero",
+        "url": "https://open.spotify.com/album/0h5R7iJB4nhn8TYVtRREGg"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Scarinci",
+          "url": "https://open.spotify.com/artist/3IzZwugTmpL10MDkaOeEAi"
+        },
+        {
+          "name": "El Jose",
+          "url": "https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169135,
+      "name": "Mechero",
+      "url": "https://open.spotify.com/track/0P0EUtIzRuu8xrbb1k4EQW"
+    },
+    {
+      "album": {
         "name": "MI CHINA",
         "url": "https://open.spotify.com/album/76KgqITGU3xYIYgJurvDWM"
       },
@@ -2580,6 +2602,28 @@
       "duration_ms": 408362,
       "name": "Perdonarte, \u00bfPara Qu\u00e9? / Como lo Hizo",
       "url": "https://open.spotify.com/track/3lLziiZtnAHy0KFZ93hFZ4"
+    },
+    {
+      "album": {
+        "name": "A Casa",
+        "url": "https://open.spotify.com/album/6vDdBdjMBYxfIOVdiSdlJF"
+      },
+      "artists": [
+        {
+          "name": "Camila Pino",
+          "url": "https://open.spotify.com/artist/5sduq9dVmsPqZrfFEuC07S"
+        },
+        {
+          "name": "Manu Estrada",
+          "url": "https://open.spotify.com/artist/3iBwX6PVa8BNVoGjCIZNm9"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161856,
+      "name": "Pienso y Declaro",
+      "url": "https://open.spotify.com/track/7DPzjkY3cS2cv6DYi23jEb"
     },
     {
       "album": {
@@ -3220,6 +3264,24 @@
       "duration_ms": 210680,
       "name": "Toca",
       "url": "https://open.spotify.com/track/07VELk4yHZ0MpGndajSrMX"
+    },
+    {
+      "album": {
+        "name": "Tristeza Criolla (Versi\u00f3n Extendida)",
+        "url": "https://open.spotify.com/album/7txyp6wbyrgbCbRHhrDyqI"
+      },
+      "artists": [
+        {
+          "name": "Pretoria",
+          "url": "https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Tristeza Criolla",
+      "url": "https://open.spotify.com/track/3ybTYYOOOcTBjeuu2ucdVu"
     },
     {
       "album": {

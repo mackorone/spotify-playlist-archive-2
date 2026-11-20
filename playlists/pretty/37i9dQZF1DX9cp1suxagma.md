@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Shonny
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,236 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,194 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [La Estrategia](https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ) | 3:39 |
 | 100 | [Besos En Guerra](https://open.spotify.com/track/1d0c62VFYauOOgxZ2eFUxx) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Besos En Guerra](https://open.spotify.com/album/4XoiA4NiNcjYPmJV8INiQE) | 3:49 |
 
-Snapshot ID: `AAAAADKJn29Um3gNwyx8fV+hZbhTCvbn`
+Snapshot ID: `AAAAAOsijSH1G0nYGDgF1cU18dq3mqd+`

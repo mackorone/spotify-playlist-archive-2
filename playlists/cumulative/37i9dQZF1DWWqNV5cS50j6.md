@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Saya Gray
 
-2,090 songs - 4 day 5 hr 17 min
+2,094 songs - 4 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Adventure \(feat\. KIRBY\)](https://open.spotify.com/track/6dOSdAbu3DW28z4cARUHLf) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:54 | 2023-03-21 | 2023-04-15 |
 | [afraid \(feat\. nate sib\)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [afraid \(feat\. nate sib\)](https://open.spotify.com/album/3wUZg9qN8bFDXHh109BaOv) | 2:58 | 2025-01-31 | 2025-03-01 |
 | [Afterglow](https://open.spotify.com/track/1HQ2HeB2U5DxCBobfVYGjJ) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Voyager](https://open.spotify.com/album/0KFTrQV0ZvnDiogu64B1MD) | 2:31 | 2021-07-17 | 2021-10-16 |
+| [Again & again & again](https://open.spotify.com/track/2GOjLejkasSISpi2YKpbVy) | [Deadin Dogyears](https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N) | [Fun ways to get to heaven](https://open.spotify.com/album/5hxnVQA8krtRxIPjzuYxPA) | 2:16 | 2026-11-20 |  |
 | [Again And Again](https://open.spotify.com/track/0jhgOpwjx6TgKmiUkuV3ba) | [Jagged Jaw](https://open.spotify.com/artist/3Es6oUz3zUC5IZDRRhcRxG), [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Again And Again](https://open.spotify.com/album/2Lqo8zwLsjI2zK1q0tbZl3) | 3:42 | 2025-02-28 | 2026-05-23 |
 | [AGAIN.](https://open.spotify.com/track/2knqxjt5zHq0So8l619O88) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [AGAIN.](https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF) | 3:01 | 2022-05-27 | 2022-08-06 |
 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 | 2023-09-22 | 2024-01-28 |
@@ -81,6 +82,7 @@
 | [Alright, alright](https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD) | [646yf4t](https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF), [Rowena Fysx](https://open.spotify.com/artist/3kaAPw6xYzlmBhp3aQYuC9) | [Alright, alright](https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo) | 2:31 | 2026-09-18 |  |
 | [Altar](https://open.spotify.com/track/3eRdNkKRi6wpkaG9XrfQpJ) | [LUCA](https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT) | [Altar](https://open.spotify.com/album/4v5fXLtIXx2kywknrAZg2o) | 2:28 | 2022-04-15 | 2022-06-04 |
 | [Always Been You](https://open.spotify.com/track/5LtmTnc12V5jSPhwG9noBK) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Always Been You](https://open.spotify.com/album/0nHDACGAzEpDQh8InBqr3I) | 2:25 | 2025-02-28 | 2026-03-07 |
+| [Amazing Grace](https://open.spotify.com/track/7wdVWU0mWfXieiORD0PNh6) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX), [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Amazing Grace](https://open.spotify.com/album/3AHsOQKjDfLmkCuudJcNhy) | 4:39 | 2026-11-20 |  |
 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 | 2026-07-31 | 2026-10-09 |
 | [AMERICAN GURL](https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 3:48 | 2022-03-28 | 2022-11-17 |
 | [american spirit](https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 3:21 | 2023-11-07 | 2024-01-10 |
@@ -998,6 +1000,7 @@
 | [KIDS](https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4) | [auston ghost](https://open.spotify.com/artist/1wCjv2RGjyuHMJw2UAvjLO), [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [KIDS](https://open.spotify.com/album/5merKL9SBjIDRuvFBavQ8z) | 2:42 | 2022-10-25 | 2022-12-01 |
 | [KIDS ON MOLLY](https://open.spotify.com/track/4CbRVZuohuxJPMqvvWb2lT) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [KIDS ON MOLLY](https://open.spotify.com/album/3VJM3dpFbMnx9C0fgwi9jv) | 2:43 | 2021-08-15 | 2021-10-16 |
 | [Kill Some](https://open.spotify.com/track/6kpoI1wSs2Evbhszqs8cUQ) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [Kill Some](https://open.spotify.com/album/6ouMXGY2TTchLqS2oPBGly) | 2:44 | 2020-10-13\* | 2020-12-22 |
+| [KILLING GOD WITH COMPUTERS](https://open.spotify.com/track/45wasIhGDIplDfMXXAaiEJ) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [爱](https://open.spotify.com/album/2Y8q8UKpgrmPGV8mFchvIj) | 3:17 | 2026-11-20 |  |
 | [Killshot](https://open.spotify.com/track/7plzB2nNi0hQXdA2MrvE69) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Killshot](https://open.spotify.com/album/3VXNWMj0G00NaK7XIyyYem) | 3:47 | 2020-10-13\* | 2021-05-29 |
 | [KILOS](https://open.spotify.com/track/5dkJEE0TecbGBVfTD9Ud0O) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [KILOS](https://open.spotify.com/album/7778WUkw4GEripfJ7R0V3y) | 3:15 | 2021-07-13 | 2022-02-05 |
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-05-10 | 2024-06-01 |
@@ -1614,6 +1617,7 @@
 | [Skin on Skin](https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av) | 3:03 | 2020-10-13\* | 2021-05-03 |
 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 | 2022-12-09 | 2023-04-22 |
 | [Skinny Ape](https://open.spotify.com/track/67BbnzIuXFd5knDLwB3mkN) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:41 | 2023-03-01 | 2023-07-22 |
+| [Sky Pie](https://open.spotify.com/track/3uGpgNim59nmmjVueA2V8v) | [646yf4t](https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF) | [Sky Pie](https://open.spotify.com/album/1P5ZdU3PSZCorhye1F74Go) | 3:00 | 2026-11-20 |  |
 | [Skywalker](https://open.spotify.com/track/21TLD85Q0waH65GxMnIJft) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Skywalker](https://open.spotify.com/album/5nDWZFeZsRXUTFvjg7jruY) | 4:02 | 2021-03-06 | 2021-10-13 |
 | [Sliders \[Feat\. Flatbush Zombies, Col3trane\]](https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl) | [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6), [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Sliders \[Feat\. Flatbush Zombies, Col3trane\]](https://open.spotify.com/album/5hDQKtvksHHw2WoISwqLp0) | 2:24 | 2022-12-16 | 2023-03-02 |
 | [Slow D's](https://open.spotify.com/track/37xEZM1nrOU20WkutEJxcw) | [Lully](https://open.spotify.com/artist/1NvmP6svMv6qjhaCM35vRQ) | [Slow D's](https://open.spotify.com/album/2BsvmkgJ8ly4e7MVQ9S0RL) | 3:33 | 2024-05-31 | 2024-08-01 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 58670,
+  "num_followers": 58681,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAACfTgMQaoUHcfYs5UJI5XLR",
+  "snapshot_id": "avzqgAAAAAAsqXgSxJBFo5ZnHBEqXyvT",
   "tracks": [
     {
       "added_at": null,
@@ -347,30 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 346038,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -395,6 +371,30 @@
       "duration_ms": 268125,
       "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
       "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 346038,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
     },
     {
       "added_at": null,
@@ -559,6 +559,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "ELPRIMODEUNAMIGO (REMIX)",
+        "url": "https://open.spotify.com/album/3F2CkbxWup43Hu8SkP5YDu"
+      },
+      "artists": [
+        {
+          "name": "D'huizar",
+          "url": "https://open.spotify.com/artist/3DCJs16lEewkE0m5Do6feJ"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "MAPACHE",
+          "url": "https://open.spotify.com/artist/6i5UJieLqXIrhN98saCMzG"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "ELPRIMODEUNAMIGO (REMIX)",
+      "url": "https://open.spotify.com/track/3AeQJlfMMqCTxhlB74ijlF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Que No Me Mata",
         "url": "https://open.spotify.com/album/56DTzOY0cyxCeFHzVtsPZY"
       },
@@ -635,6 +663,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guadalajara",
+        "url": "https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Alzada x Rich Vagos",
         "url": "https://open.spotify.com/album/31SzZE3MAZdYuGwv9gBkLt"
       },
@@ -687,50 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guadalajara",
-        "url": "https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 164597,
-      "name": "Legendarios",
-      "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alzypher Vol. 1",
         "url": "https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH"
       },
@@ -771,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 164597,
+      "name": "Legendarios",
+      "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viejo Gacho",
         "url": "https://open.spotify.com/album/4O7gMnwpJ35xn1JfVR3SlQ"
       },
@@ -791,50 +819,6 @@
       "duration_ms": 208800,
       "name": "Vida Brava",
       "url": "https://open.spotify.com/track/6mK5m9dpD7ImF27itnHvfs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ELPRIMODEUNAMIGO (REMIX)",
-        "url": "https://open.spotify.com/album/3F2CkbxWup43Hu8SkP5YDu"
-      },
-      "artists": [
-        {
-          "name": "D'huizar",
-          "url": "https://open.spotify.com/artist/3DCJs16lEewkE0m5Do6feJ"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "MAPACHE",
-          "url": "https://open.spotify.com/artist/6i5UJieLqXIrhN98saCMzG"
-        }
-      ],
-      "duration_ms": 187125,
-      "name": "ELPRIMODEUNAMIGO (REMIX)",
-      "url": "https://open.spotify.com/track/3AeQJlfMMqCTxhlB74ijlF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Lento Y Contento",
-      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
     },
     {
       "added_at": null,
@@ -899,6 +883,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Lento Y Contento",
+      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Tu Piel",
+        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Por Tu Piel",
+      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Es Que Sea Mam\u00f3n",
         "url": "https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 285000,
       "name": "No Es Que Sea Mam\u00f3n",
       "url": "https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Tu Piel",
-        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Por Tu Piel",
-      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
     },
     {
       "added_at": null,
@@ -1075,6 +1075,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/7p3rR8FcXnd12kOscVKaop"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 231950,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/7oiA1062mT4nn3l58oKXiM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
         "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
       },
@@ -1095,42 +1111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parece Que Fue Ayer",
-        "url": "https://open.spotify.com/album/7p3rR8FcXnd12kOscVKaop"
+        "name": "Alcohol Amargo",
+        "url": "https://open.spotify.com/album/2oKBetIgm4nosWANPzkO5q"
       },
       "artists": [
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 231950,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/7oiA1062mT4nn3l58oKXiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eres Ese Algo 2.0",
-        "url": "https://open.spotify.com/album/5sBF9KH0kIVomiZp0DAvMU"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         },
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Keith Nieto",
-          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 168426,
-      "name": "Eres Ese Algo 2.0",
-      "url": "https://open.spotify.com/track/3uqPmBYZNkLax6vjYXI8VL"
+      "duration_ms": 236202,
+      "name": "Alcohol Amargo",
+      "url": "https://open.spotify.com/track/3O7aFrnyTmEsLwaKtOonqd"
     },
     {
       "added_at": null,
@@ -1163,22 +1159,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alcohol Amargo",
-        "url": "https://open.spotify.com/album/2oKBetIgm4nosWANPzkO5q"
+        "name": "Eres Ese Algo 2.0",
+        "url": "https://open.spotify.com/album/5sBF9KH0kIVomiZp0DAvMU"
       },
       "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
         }
       ],
-      "duration_ms": 236202,
-      "name": "Alcohol Amargo",
-      "url": "https://open.spotify.com/track/3O7aFrnyTmEsLwaKtOonqd"
+      "duration_ms": 168426,
+      "name": "Eres Ese Algo 2.0",
+      "url": "https://open.spotify.com/track/3uqPmBYZNkLax6vjYXI8VL"
     },
     {
       "added_at": null,
@@ -1287,6 +1287,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mala Junta",
+        "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 174289,
+      "name": "Mala Junta",
+      "url": "https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -1315,30 +1339,6 @@
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mala Junta",
-        "url": "https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 174289,
-      "name": "Mala Junta",
-      "url": "https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh"
     },
     {
       "added_at": null,

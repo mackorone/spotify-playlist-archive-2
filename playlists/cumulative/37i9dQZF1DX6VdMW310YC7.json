@@ -11004,7 +11004,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "feeling something",
       "url": "https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY"
@@ -14574,7 +14574,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 227069,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
@@ -22140,7 +22140,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 209899,
       "name": "Melancholia",
       "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
@@ -29208,6 +29208,28 @@
       "duration_ms": 143414,
       "name": "Samsara",
       "url": "https://open.spotify.com/track/47IREnBazixIj7MrHJHVrQ"
+    },
+    {
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3L9lCGNvkCwtcSDPs0u00i"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226595,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/3sUeymnLUYDxqUcCQa1yxt"
     },
     {
       "album": {

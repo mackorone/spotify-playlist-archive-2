@@ -4,7 +4,7 @@
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 18 min
+73 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Gun.](https://open.spotify.com/track/1RhrPW9KMZlxqGxO9jIHzM) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Two](https://open.spotify.com/album/2WzXUz0hVD8s9FBmpIl9XM) | 3:39 | 2025-09-26 | 2026-08-27 |
 | [Headfirst for Halos](https://open.spotify.com/track/51VwpPzxUd6g94iELptagU) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:28 | 2022-10-25 | 2025-11-15 |
 | [Heaven Help Us](https://open.spotify.com/track/7D50nnDRmIkn3D9xnmhCXk) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Welcome to the Black Parade](https://open.spotify.com/album/5tGLTaU1mDDxEfXo89iFKz) | 2:54 | 2022-10-25 | 2025-08-10 |
-| [Heaven Help Us](https://open.spotify.com/track/6rlnljojqC42vtUeixpFAg) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade: The B\-Sides](https://open.spotify.com/album/3WEwomTOJHNRGZggBfCeGX) | 2:55 | 2025-08-10 |  |
+| [Heaven Help Us](https://open.spotify.com/track/1umoCo2qOM7SWnlWf5rQ98) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4M2QW8nne81nwIX7pBCk2U) | 2:55 | 2026-11-20 |  |
+| [Heaven Help Us](https://open.spotify.com/track/6rlnljojqC42vtUeixpFAg) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade: The B\-Sides](https://open.spotify.com/album/3WEwomTOJHNRGZggBfCeGX) | 2:55 | 2025-08-10 | 2026-11-20 |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2022-10-25 |  |
 | [Helena](https://open.spotify.com/track/3ZaS7Bcz9tpFIjfst63tSw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [May Death Never Stop You](https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw) | 3:25 | 2024-06-16 | 2025-05-18 |
 | [Helena \- 2025 Mix](https://open.spotify.com/track/5Oi4bcuLV8D3YJ6w4FBEUz) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge \(Deluxe Edition\)](https://open.spotify.com/album/2UyMXfEjHvT4LlrVYqXGTM) | 3:22 | 2025-06-15 | 2026-08-18 |

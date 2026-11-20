@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: ARIA VEGA\n",
+  "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: K\u00f8ddy G, Ryan Castro \n",
   "name": "Made in Colombia",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 244642,
       "name": "50 MIL PIEX",
       "url": "https://open.spotify.com/track/7gSrtsnkzmO9bbDcEN3nz0"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 177882,
       "name": "AMISTA",
       "url": "https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 248684,
       "name": "Aqu\u00ed Seguir\u00e9",
       "url": "https://open.spotify.com/track/5WD8Qs7IRj4gxXdeU0jpkR"
@@ -3325,6 +3325,28 @@
     },
     {
       "album": {
+        "name": "El AchanTAdo (Remix)",
+        "url": "https://open.spotify.com/album/2vs4QJKYrE8ZxHUDpxPY5i"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "El AchanTAdo - Remix",
+      "url": "https://open.spotify.com/track/5YKsiTtkYljrMq72j12vad"
+    },
+    {
+      "album": {
         "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
       },
@@ -4204,7 +4226,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 171428,
       "name": "Encontr\u00e9 mi Coleador",
       "url": "https://open.spotify.com/track/3A90HX3EFy6Qc2rs8ewwt7"
@@ -5166,6 +5188,32 @@
       "duration_ms": 222285,
       "name": "Guaro - Remix",
       "url": "https://open.spotify.com/track/3PmqejsYxlhII2zo7zXtQ8"
+    },
+    {
+      "album": {
+        "name": "HAGALO (Remix)",
+        "url": "https://open.spotify.com/album/12GL0ryH7GVZd10eHC7zub"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209411,
+      "name": "HAGALO - Remix",
+      "url": "https://open.spotify.com/track/5dKwSBvFI4VN4iJAp7jj4u"
     },
     {
       "album": {
@@ -7929,6 +7977,28 @@
     },
     {
       "album": {
+        "name": "M\u00edrame Bonito (La Estereof\u00f3nica)",
+        "url": "https://open.spotify.com/album/0ki2f3Z6JMTWq6BkCHFSO2"
+      },
+      "artists": [
+        {
+          "name": "Adriana Lucia",
+          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
+        },
+        {
+          "name": "Keke Minowa",
+          "url": "https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156361,
+      "name": "M\u00edrame Bonito (La Estereof\u00f3nica)",
+      "url": "https://open.spotify.com/track/7sE49MhGj082SeY7u5WlHg"
+    },
+    {
+      "album": {
         "name": "Na Na Na",
         "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
       },
@@ -8258,7 +8328,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 224630,
       "name": "No Necesito",
       "url": "https://open.spotify.com/track/2qwtFxrZTHnLdZTV1aXjfd"
@@ -10325,6 +10395,28 @@
     },
     {
       "album": {
+        "name": "Real Man",
+        "url": "https://open.spotify.com/album/6Ei7c2OVLaVg4PGZvMDpPY"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Dalmata",
+          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159127,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/7BqvOcewoGH3Grfs0L0eYj"
+    },
+    {
+      "album": {
         "name": "Rebeli\u00f3n",
         "url": "https://open.spotify.com/album/6mtwe0M6HGV6EEpIn2pkY3"
       },
@@ -10610,6 +10702,36 @@
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "album": {
+        "name": "Trinidad I",
+        "url": "https://open.spotify.com/album/3QWtYSvPggIstiLcNqEHKg"
+      },
+      "artists": [
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        },
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        },
+        {
+          "name": "Tostao",
+          "url": "https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208377,
+      "name": "Se Puede",
+      "url": "https://open.spotify.com/track/6xZ0zGYPN46Zf2EonSrBdq"
     },
     {
       "album": {

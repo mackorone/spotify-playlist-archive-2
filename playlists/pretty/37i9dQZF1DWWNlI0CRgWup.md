@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : \(D\)Juno
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,742 likes - 76 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,744 likes - 76 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 33 | [JE NE SERAI JAMAIS.](https://open.spotify.com/track/5CsTN4ciEHv5bwAIkeB6oL) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [LE CŒUR ET SA DICTATURE.](https://open.spotify.com/album/4rM6sNDT33rocB4UpauxyM) | 4:04 |
 | 34 | [Parfois](https://open.spotify.com/track/7wq2zHf22Eypu07sIPQXZw) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Parfois](https://open.spotify.com/album/7FQKSADlTPOvmYqmZFyesD) | 2:59 |
 | 35 | [LOCKED UP \(feat\. Tiakola\)](https://open.spotify.com/track/3ppZbNYEH85vpavJHgsQT9) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LOCKED UP \(feat\. Tiakola\)](https://open.spotify.com/album/0lrjEC7YUZYPP9ZN4HyrwI) | 2:55 |
-| 36 | [On my mind](https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [On my mind](https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT) | 2:43 |
+| 36 | [Mon monde](https://open.spotify.com/track/5CrXlhVamNz4Xa3KcAfZ3G) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Phazz](https://open.spotify.com/artist/0kjZvGERXMvPFSs6DB5UFF) | [Mon monde](https://open.spotify.com/album/1ufpZnehdaOPmtx4OLktAu) | 3:02 |
 | 37 | [tu me manques](https://open.spotify.com/track/05kQsZQjZ20wu3Ku791ie9) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [tu me manques](https://open.spotify.com/album/1PqeiuxMzUiRN5RRQlvkKs) | 2:36 |
 | 38 | [MINUIT D'APRÈS](https://open.spotify.com/track/0mCSbQPrsIBhArYPptUqrk) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SAVASHUIA](https://open.spotify.com/album/51ZAiFItcL1kbcz5qszUqR) | 3:03 |
 | 39 | [Maman travaille trop](https://open.spotify.com/track/0Zb5KVGsjfRkO7l9NrhEbb) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Maman travaille trop](https://open.spotify.com/album/6nDXRhzA8UopxeGIeaQePJ) | 2:52 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 75 | [Animal](https://open.spotify.com/track/37bZGx53B90Kv0ftpFDbDZ) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Animal](https://open.spotify.com/album/6w4q80Ee7fek6jc4FmOh7t) | 4:12 |
 | 76 | [Zone à risque](https://open.spotify.com/track/3Nd1BWcbtnXkL0knv1bBic) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Avant Brouillon 4](https://open.spotify.com/album/3dYmGWiIKajsdsTLBVCsgf) | 3:13 |
 
-Snapshot ID: `AAAAAKrBu4Xgo7finWFYlFCnqUVZ+Rtl`
+Snapshot ID: `AAAAAPgCbuJV7DJ1jrhUbR0LrHroZ8nG`

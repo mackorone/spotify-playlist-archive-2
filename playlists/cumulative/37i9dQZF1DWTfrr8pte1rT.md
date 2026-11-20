@@ -2,9 +2,9 @@
 
 ### [Rocktronic](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT)
 
-> Rock with a drop\. Cover: HVDES \\m/
+> Rock with a drop\. Cover: Micah Martin \\m/
 
-563 songs - 1 day 7 hr 39 min
+564 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [FIGURE IT OUT](https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [FIGURE IT OUT](https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC) | 2:15 | 2026-03-20 |  |
 | [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 | 2022-01-07 | 2026-09-02 |
 | [find u.](https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [find u.](https://open.spotify.com/album/7oyVNWpF6kzHgmDrkoWZK8) | 3:21 | 2022-01-07 | 2022-06-25 |
-| [Fireball](https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [MELLODEATH Tapes Vol\. I](https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc) | 3:15 | 2024-03-08 |  |
+| [Fireball](https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [MELLODEATH Tapes Vol\. I](https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc) | 3:15 | 2024-03-08 | 2026-11-20 |
 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 | 2021-12-10 | 2022-02-26 |
 | [First Time \(feat\. iann dior\) \- Kayzo Remix](https://open.spotify.com/track/1itZR2BxnrhSPFM0sYzvR7) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time \(feat\. iann dior\) \[Kayzo Remix\]](https://open.spotify.com/album/3a4xSxCoIcBhFPCTRtgGSo) | 2:46 | 2021-12-10 | 2022-07-29 |
 | [Flatline](https://open.spotify.com/track/3mNMRpuv9V7DtVMVPh2saF) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Flatline](https://open.spotify.com/album/2doxRabzdeSo7zM5fcZmtq) | 3:28 | 2021-12-10 | 2022-10-08 |
@@ -450,6 +450,7 @@
 | [Slaughter](https://open.spotify.com/track/3vQnA7IY2a12sXXJKuCZu2) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [Slaughter](https://open.spotify.com/album/2FwvuABjqUv9FzLkt9DhAc) | 3:08 | 2024-07-26 | 2024-12-07 |
 | [Slave to the Rithm](https://open.spotify.com/track/0goDqcyuBPHdknwxaCkjcG) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [ODYSSEY](https://open.spotify.com/album/4nPyFynQj3tGWz1xNUiL5t) | 4:29 | 2026-02-07 |  |
 | [Sleep \(with Calcium\)](https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Sleep \(with Calcium\)](https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6) | 3:34 | 2022-06-24 | 2023-12-02 |
+| [Slip Away](https://open.spotify.com/track/5uCLIb1jUkytqhFsaknNB4) | [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [All I Need](https://open.spotify.com/album/2RuTWOn0pdL5WFd9pBABio) | 2:24 | 2026-11-20 |  |
 | [Snow Globe \(Autograf vs\. Waterparks\)](https://open.spotify.com/track/7sOneFgIctEkJJd6gXV7nj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Snow Globe \(Autograf vs\. Waterparks\)](https://open.spotify.com/album/1RNw8fPG9pT28Eqjlesqcr) | 2:34 | 2021-12-10 | 2022-07-29 |
 | [SO FAR SO FAKE](https://open.spotify.com/track/4rRWDVA9kmRwbnXuon269O) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Manly](https://open.spotify.com/artist/2u1sGcaPV4lkA9eZSOtxfX), [SweetTooth](https://open.spotify.com/artist/2G3LxpQ9lxzDq9pea6hCle) | [SO FAR SO FAKE](https://open.spotify.com/album/0jWVyAzO2ZLi3GeWIPGpQf) | 4:20 | 2026-03-20 |  |
 | [Somebody Else](https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE), [PatFromLastYear](https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro), [Livingston Crain](https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn) | [Somebody Else](https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV) | 2:49 | 2022-04-29 | 2023-11-13 |

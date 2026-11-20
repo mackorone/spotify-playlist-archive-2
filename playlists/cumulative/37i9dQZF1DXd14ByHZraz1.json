@@ -525,6 +525,32 @@
     },
     {
       "album": {
+        "name": "No Return",
+        "url": "https://open.spotify.com/album/142QWlZ9y0EY6QRGW6UBRk"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Breazy Daze",
+          "url": "https://open.spotify.com/artist/1QCmoTex4q2YFHnfeCichL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Bad Dope (feat. Breazy Daze)",
+      "url": "https://open.spotify.com/track/1ecITmgTIXa2HskpijU8iI"
+    },
+    {
+      "album": {
         "name": "Baile Lotad\u00e3o",
         "url": "https://open.spotify.com/album/7LWs9wqCZIUPsZAllaKjEY"
       },
@@ -558,7 +584,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180000,
       "name": "Baile Lotad\u00e3o",
       "url": "https://open.spotify.com/track/0EBJmDpmMlHwioc5OEyNd8"
@@ -3321,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "Hey DJ EP",
+        "url": "https://open.spotify.com/album/0SshU3fe21b28iS4eRoH28"
+      },
+      "artists": [
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/136y5DU5elZFuWCfNtTtoF"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8"
       },
@@ -4074,6 +4118,24 @@
       "duration_ms": 232380,
       "name": "Kanyes",
       "url": "https://open.spotify.com/track/11ZzJ9gbawFjRqnbjtFl4q"
+    },
+    {
+      "album": {
+        "name": "Keep Cool",
+        "url": "https://open.spotify.com/album/4uWySvnt9kdErGSqoDfRGu"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Keep Cool",
+      "url": "https://open.spotify.com/track/2uZ762bCjzqyki5tdW5LqG"
     },
     {
       "album": {
@@ -6304,7 +6366,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188976,
       "name": "Saturn Storm",
       "url": "https://open.spotify.com/track/3hTphn9Yj76uUJe3mZDbq0"
@@ -7818,7 +7880,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 171875,
       "name": "Where U Go",
       "url": "https://open.spotify.com/track/7yzFmC4PBfAu50HgJbRlLg"

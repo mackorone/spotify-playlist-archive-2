@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "time to strike a couple of poses. cover: HANA",
+  "description": "time to strike a couple of poses. cover: MARQUIS",
   "name": "poses",
   "tracks": [
     {
@@ -452,7 +452,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169546,
       "name": "BURNING UP",
       "url": "https://open.spotify.com/track/0p5xMhVvw441Z10hNWsk5Q"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217696,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF"
@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Human Condition",
+        "url": "https://open.spotify.com/album/4rLeaTwFY04KhV3gPHac6b"
+      },
+      "artists": [
+        {
+          "name": "Whitten Ooi",
+          "url": "https://open.spotify.com/artist/7aRwq1gafZoh3BDVCgfYEd"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Human Condition",
+      "url": "https://open.spotify.com/track/3NGya47rj76aPQh98YDhXW"
+    },
+    {
+      "album": {
         "name": "Hysteric / Adam",
         "url": "https://open.spotify.com/album/7dvg5rUzCp9jOguoz8PmFf"
       },
@@ -1291,6 +1309,42 @@
     },
     {
       "album": {
+        "name": "Leave With Me (Featured in Always Lalisa)",
+        "url": "https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184788,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G"
+    },
+    {
+      "album": {
+        "name": "REALEYES..",
+        "url": "https://open.spotify.com/album/2YbnHnkD7BpQbqLpkkHKlo"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213252,
+      "name": "LEMONS..",
+      "url": "https://open.spotify.com/track/3B9mfxJXkjOOimmLF9JnML"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/73PIrL8rN2gr5tvVHmHXC7"
       },
@@ -1504,7 +1558,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182771,
       "name": "marshmallow kisses",
       "url": "https://open.spotify.com/track/2r7qfubJKAMyPMF6NFxp1y"
@@ -1857,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "OVERTIME",
+        "url": "https://open.spotify.com/album/4IzpNA9FVIDAQOHYWCeQdk"
+      },
+      "artists": [
+        {
+          "name": "MARQUISE",
+          "url": "https://open.spotify.com/artist/6ZiQuVFetOPP1qLrrLDOLT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160528,
+      "name": "OVERTIME",
+      "url": "https://open.spotify.com/track/6kxjFsNlJeRRPTBMZpN4Tc"
+    },
+    {
+      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/7eN3kmvuJ4oNLr0seQ5eLU"
       },
@@ -2041,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "EM: nh\u1eefng ng\u00e0y ta b\u1ecf l\u1ea1i",
+        "url": "https://open.spotify.com/album/3aQyikkXWTM87plmng747d"
+      },
+      "artists": [
+        {
+          "name": "Elise Tran Hoang",
+          "url": "https://open.spotify.com/artist/626t3Zyzw3NLzYZ3VH902n"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213578,
+      "name": "rong ch\u01a1i",
+      "url": "https://open.spotify.com/track/647dF5bapjt2nVZVlrcHzU"
+    },
+    {
+      "album": {
         "name": "RUDE!",
         "url": "https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz"
       },
@@ -2204,7 +2294,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 209300,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/13kHqgcqPWyqfWNEHDNulr"
@@ -2460,7 +2550,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180727,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
@@ -2548,7 +2638,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 151950,
       "name": "telepathy",
       "url": "https://open.spotify.com/track/3n0RcjrToafmoJGh3GEAtE"

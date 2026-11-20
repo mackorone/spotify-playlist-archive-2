@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZESE3fHLhmD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZESE3fHLhmD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZESE3fHLhmD)
 
-### [Herbstgefühle](https://open.spotify.com/playlist/37i9dQZF1DWZESE3fHLhmD)
+### [Wintergefühle](https://open.spotify.com/playlist/37i9dQZF1DWZESE3fHLhmD)
 
-> songs so golden wie der herbst
+> songs die dich im winter warmhalten
 
-483 songs - 1 day 1 hr 41 min
+484 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-03-28 | 2025-09-26 |
 | [By Your Side](https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [By Your Side](https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx) | 3:40 | 2024-07-01 | 2024-10-25 |
 | [Capri Sonne](https://open.spotify.com/track/5biCRSNDhZvHSuLosdlJm5) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Capri Sonne](https://open.spotify.com/album/6Lc47SBTfL7P471YXTyD3s) | 3:12 | 2025-07-18 | 2025-09-16 |
-| [car crash](https://open.spotify.com/track/5wQyhpDdQJWxZ3QmC8hTnQ) | [WYNGS](https://open.spotify.com/artist/70xjuAULNiA2MVAUsaBAam) | [car crash](https://open.spotify.com/album/09AK4QlgAwy016g88T82Xv) | 3:28 | 2026-11-05 |  |
+| [car crash](https://open.spotify.com/track/5wQyhpDdQJWxZ3QmC8hTnQ) | [WYNGS](https://open.spotify.com/artist/70xjuAULNiA2MVAUsaBAam) | [car crash](https://open.spotify.com/album/09AK4QlgAwy016g88T82Xv) | 3:28 | 2026-11-05 | 2026-11-20 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2023-09-15 | 2024-07-02 |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2025-09-08 | 2026-03-27 |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-09-26 | 2026-07-24 |
@@ -168,6 +168,7 @@
 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-10-13 | 2024-04-19 |
 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 | 2026-02-05 |  |
 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-09-17 |  |
+| [grief and all his friends](https://open.spotify.com/track/1brCf12togJyd7TJlDpxP3) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [grief and all his friends](https://open.spotify.com/album/7cFDR0dj9FMcqxw0HLGrzA) | 3:18 | 2026-11-19 |  |
 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 | 2024-07-26 | 2025-09-04 |
 | [Grüne Augen lügen nicht](https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Grüne Augen lügen nicht](https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf) | 2:59 | 2023-07-26 | 2025-07-18 |
 | [Gut genug](https://open.spotify.com/track/6koT19j1LIUoIYxSLQcW7Y) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Durch die Blume](https://open.spotify.com/album/5h78njoCZUu7O3ZktWVgtH) | 2:49 | 2026-03-05 | 2026-03-11 |
@@ -361,7 +362,7 @@
 | [Schön](https://open.spotify.com/track/0qcVNd4VcOqxfRisjPa6fu) | [Philipp Poisel](https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg) | [Schön](https://open.spotify.com/album/3p3CI9WVGwLGgEJUkzODow) | 2:20 | 2026-06-11 | 2026-06-26 |
 | [Schöne Dinge](https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schöne Dinge](https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl) | 2:39 | 2025-10-09 | 2026-05-09 |
 | [See Her Out \(Thats Just Life\)](https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:30 | 2024-10-18 |  |
-| [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 | 2024-02-09 | 2026-11-14 |
+| [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 | 2024-02-09 |  |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2023-07-26 | 2024-01-21 |
 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 | 2024-01-19 | 2024-04-19 |
 | [She's All Time \- feat\. Nina Nesbitt](https://open.spotify.com/track/29ZL829h4DMexvDZu1Ef1B) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Golden Wolf](https://open.spotify.com/album/5aa9sxMdhMppfnRWJQNT9C) | 3:14 | 2025-06-02 | 2025-07-06 |
@@ -422,7 +423,7 @@
 | [Tanz](https://open.spotify.com/track/5XwP6iVIosNHDJpjGCALcW) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Tanz](https://open.spotify.com/album/4KuFPRX0QIIDDkAhr2J2nr) | 2:44 | 2024-05-22 | 2024-09-24 |
 | [Tanz In Deiner Wohnung](https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tanz In Deiner Wohnung](https://open.spotify.com/album/4yzLVO788gfMjTO43aX3ws) | 3:04 | 2024-10-18 | 2024-11-10 |
 | [Tastes So Good](https://open.spotify.com/track/1zpv7um6Ukk3pkNMtfaYM7) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 3:05 | 2026-06-04 | 2026-07-31 |
-| [Tax Evasion](https://open.spotify.com/track/2UjS57k6pmikAipD9eWQH5) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Tax Evasion](https://open.spotify.com/album/5c5hjQcd73xOQt8gECNoRc) | 4:36 | 2026-11-05 |  |
+| [Tax Evasion](https://open.spotify.com/track/2UjS57k6pmikAipD9eWQH5) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Tax Evasion](https://open.spotify.com/album/5c5hjQcd73xOQt8gECNoRc) | 4:36 | 2026-11-05 | 2026-11-20 |
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2024-04-19 | 2024-10-12 |
 | [tempo](https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [tempo](https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7) | 2:44 | 2024-03-15 | 2024-11-23 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-11-11 |  |

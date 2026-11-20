@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Solana
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,196 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,228 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 79 | [Dangerous](https://open.spotify.com/track/08Bu0BYPYMgbuIOHnO8bs4) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Starrgirl](https://open.spotify.com/album/7M7enK2gI4bqBRQUIa8AgR) | 2:06 |
 | 80 | [VIP](https://open.spotify.com/track/5Nel8CnZxSZUZ3i3yLowLk) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [BLNDE FOR PRESIDENT](https://open.spotify.com/album/02dtj1MTRmvitNmTwjE4Nl) | 2:21 |
 
-Snapshot ID: `AAAAAOBLGuOtcN74a4vABjpUs8Jtq2F5`
+Snapshot ID: `AAAAABV2IrIJUMTico0yjnwKe2g7jG22`

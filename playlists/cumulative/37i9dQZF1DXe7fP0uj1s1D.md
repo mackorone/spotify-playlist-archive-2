@@ -4,7 +4,7 @@
 
 > Every Taylor Swift music video\. Watch now.
 
-59 songs - 3 hr 59 min
+60 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2026-09-16 |  |
 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/4YL1TvC9w299fD07D6881G) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/4yAhkgawLqtnQrVBjiSCS9) | 4:14 | 2026-09-16 |  |
 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-09-16 |  |
+| [I Knew It, I Knew You x Our Song \- Live From The 60th CMA Awards](https://open.spotify.com/track/0sYnWbdznUbJExknlyf03S) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You x Our Song \(Live From The 60th CMA Awards\)](https://open.spotify.com/album/7hvLc1GT15iRwqmOkw8yP9) | 3:12 | 2026-11-19 |  |
 | [I Knew You Were Trouble.](https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 3:37 | 2026-09-16 |  |
 | [I'm Only Me When I'm With You](https://open.spotify.com/track/0JIdBrXGSJXS72zjF9ss9u) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:33 | 2026-09-16 |  |
 | [Karma \(feat\. Ice Spice\)](https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:21 | 2026-09-16 |  |

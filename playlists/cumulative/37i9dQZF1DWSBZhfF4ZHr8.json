@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Marine & Danyl.\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Ad\u00e8le Castillon.\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 184356,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+    },
+    {
+      "album": {
+        "name": "Manon Lisa",
+        "url": "https://open.spotify.com/album/6bDeTzTdteTA3IvsOZhoGA"
+      },
+      "artists": [
+        {
+          "name": "Manon Lisa",
+          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173609,
+      "name": "Adieu l'anxi\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/5bCCrz3ou1Ig9Cl6yMxUk2"
     },
     {
       "album": {
@@ -774,7 +792,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 179320,
       "name": "Bella Vita",
       "url": "https://open.spotify.com/track/6bDXDC1meVMo6NyzH7VoxB"
@@ -814,6 +832,24 @@
       "duration_ms": 169411,
       "name": "Bijou",
       "url": "https://open.spotify.com/track/025HZ4WXMzptOa0SztQ8ky"
+    },
+    {
+      "album": {
+        "name": "DERNI\u00c8RE ESCALE",
+        "url": "https://open.spotify.com/album/0KbIZnpS4dbACzYpusGP96"
+      },
+      "artists": [
+        {
+          "name": "Paolo.",
+          "url": "https://open.spotify.com/artist/1UrkKlrHZfYlz4vhXeDRF4"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180013,
+      "name": "Bisou magique",
+      "url": "https://open.spotify.com/track/6BBGX70MXyvULQBYe5p5Cn"
     },
     {
       "album": {
@@ -1110,7 +1146,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 128937,
       "name": "C'\u00e9tait bien",
       "url": "https://open.spotify.com/track/71ssizm36QfrsRDihZfKUA"
@@ -2034,7 +2070,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 237923,
       "name": "Dans la lune",
       "url": "https://open.spotify.com/track/0xJgGUCcOjeTH3Gv89J9kL"
@@ -2265,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "CHAOS",
+        "url": "https://open.spotify.com/album/5gCwnZCt5IhnOWWbzULhQj"
+      },
+      "artists": [
+        {
+          "name": "Ouidad",
+          "url": "https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147222,
+      "name": "Dimanche en d\u00e9cembre",
+      "url": "https://open.spotify.com/track/45ZVxPo14m0Wzw69l37bDh"
+    },
+    {
+      "album": {
         "name": "Dis-le moi",
         "url": "https://open.spotify.com/album/6Lzv3Nl0m09P73lFQkTrEc"
       },
@@ -2312,7 +2366,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156115,
       "name": "Dis-moi",
       "url": "https://open.spotify.com/track/4Ry9aZAVgybQMu2hDxp8o6"
@@ -3248,7 +3302,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 210000,
       "name": "Gourou",
       "url": "https://open.spotify.com/track/3lzKpkbcxDLkUobJuOrdlA"
@@ -4115,6 +4169,24 @@
     },
     {
       "album": {
+        "name": "Minuit",
+        "url": "https://open.spotify.com/album/1Ug1hSuJbWRXurit1fMJWL"
+      },
+      "artists": [
+        {
+          "name": "Camille Lellouche",
+          "url": "https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210801,
+      "name": "Je me souviens",
+      "url": "https://open.spotify.com/track/4H8JzMxSvCG7PRYcnfD58U"
+    },
+    {
+      "album": {
         "name": "Je ne pense qu'\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2ZfeZxtZoDt1R6MY1LPD4Z"
       },
@@ -4706,7 +4778,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195908,
       "name": "L'Amour est une Garce (feat. Jok'air)",
       "url": "https://open.spotify.com/track/6Qoy5efUIQfxw9oF9Ea9Sq"
@@ -8243,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "(Re)belle",
+        "url": "https://open.spotify.com/album/3aAOQOzk2Iso145hyJ65Nu"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Plus la m\u00eame",
+      "url": "https://open.spotify.com/track/4LR8VSrOJryO2uOIcjxVIG"
+    },
+    {
+      "album": {
         "name": "Plus l\u00e0",
         "url": "https://open.spotify.com/album/53oK1JXp5S5qxpypgObKY0"
       },
@@ -9005,6 +9095,24 @@
     },
     {
       "album": {
+        "name": "Merci De rien 2",
+        "url": "https://open.spotify.com/album/6i3b1bg5ltV6roNN1HxL8n"
+      },
+      "artists": [
+        {
+          "name": "Antes & Madzes",
+          "url": "https://open.spotify.com/artist/7Admld0N9GuvBOpoDpje6s"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309299,
+      "name": "Reste un peu",
+      "url": "https://open.spotify.com/track/3Wzq8MH9GeHYbFMXOzwUUw"
+    },
+    {
+      "album": {
         "name": "Coeur maladroit",
         "url": "https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ"
       },
@@ -9276,7 +9384,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 177158,
       "name": "Sans nous",
       "url": "https://open.spotify.com/track/0fyytbMHk9ptjMhQdFgjvh"
@@ -10132,7 +10240,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 187254,
       "name": "Ta peau",
       "url": "https://open.spotify.com/track/1URO8RODQThxTuCjuPmwgu"
@@ -11187,6 +11295,24 @@
     },
     {
       "album": {
+        "name": "Volte-face",
+        "url": "https://open.spotify.com/album/22MXT6eNm3Z7fuEvTwI8yT"
+      },
+      "artists": [
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179349,
+      "name": "Volte-face",
+      "url": "https://open.spotify.com/track/3NTVVrc04FtcpNq94XH56J"
+    },
+    {
+      "album": {
         "name": "L'album de la promo 2024",
         "url": "https://open.spotify.com/album/1AxvcnFWz0ErVEtTvv3Mk3"
       },
@@ -11310,6 +11436,24 @@
       "duration_ms": 150133,
       "name": "Y'a moi",
       "url": "https://open.spotify.com/track/7vx0yky7eHmrvWe6d4Za77"
+    },
+    {
+      "album": {
+        "name": "F\u00eate foraine",
+        "url": "https://open.spotify.com/album/01kMh4dyMdDfU7LchEKQCH"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212827,
+      "name": "Y'a que de l'amour chez toi",
+      "url": "https://open.spotify.com/track/3teVqb0dd11dhBFnCVeuaU"
     },
     {
       "album": {

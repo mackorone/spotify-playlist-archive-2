@@ -1,12 +1,12 @@
 {
   "description": "Nosotros ponemos la m\u00fasica y t\u00fa los pasos ;)\nCan't stop, won't stop dancing!",
-  "num_followers": 1798666,
+  "num_followers": 1798609,
   "original_name": "\u00a1Baila Sin Parar!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPz0LAppyLuEuxqTAxktlT+cP4gV",
+  "snapshot_id": "AAAAAA/yu6wanlxYCLusO7Cr2Vq13TSH",
   "tracks": [
     {
       "added_at": "2026-11-06 14:32:59",
@@ -319,50 +319,6 @@
     {
       "added_at": "2026-11-06 14:32:59",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
-    },
-    {
-      "added_at": "2026-11-06 14:32:59",
-      "album": {
-        "name": "BAILAR O MORIR",
-        "url": "https://open.spotify.com/album/4666SViPubDIsqw5300oiR"
-      },
-      "artists": [
-        {
-          "name": "BOM",
-          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 154502,
-      "name": "BAILAR O MORIR",
-      "url": "https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y"
-    },
-    {
-      "added_at": "2026-11-06 14:32:59",
-      "album": {
         "name": "Sexy Magic (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg"
       },
@@ -391,6 +347,50 @@
       "duration_ms": 195840,
       "name": "Sexy Magic (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
+    },
+    {
+      "added_at": "2026-11-06 14:32:59",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/4666SViPubDIsqw5300oiR"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 154502,
+      "name": "BAILAR O MORIR",
+      "url": "https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y"
+    },
+    {
+      "added_at": "2026-11-06 14:32:59",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
       "added_at": "2026-11-06 14:32:59",
@@ -443,22 +443,22 @@
     {
       "added_at": "2026-11-06 14:32:59",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 200680,
-      "name": "PERFuMITO NUEVO",
-      "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
+      "duration_ms": 151805,
+      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
     },
     {
       "added_at": "2026-11-06 14:32:59",
@@ -491,22 +491,22 @@
     {
       "added_at": "2026-11-06 14:32:59",
       "album": {
-        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
         }
       ],
-      "duration_ms": 151805,
-      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
+      "duration_ms": 200680,
+      "name": "PERFuMITO NUEVO",
+      "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
     },
     {
       "added_at": "2026-11-06 14:32:59",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-11-06 14:32:59",
       "album": {
-        "name": "POR SI ALGUIEN NOS ESCUCHA",
-        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "D\u00d3NDE",
-      "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
-    },
-    {
-      "added_at": "2026-11-06 14:32:59",
-      "album": {
         "name": "SORDO DE UN PIE",
         "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 174426,
       "name": "VAMOS PALL\u00c1",
       "url": "https://open.spotify.com/track/4knOtGLKWSM0Nzcr0StpuK"
+    },
+    {
+      "added_at": "2026-11-06 14:32:59",
+      "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "D\u00d3NDE",
+      "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
     },
     {
       "added_at": "2026-11-06 14:32:59",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-11-06 14:32:59",
       "album": {
-        "name": "OHNANA",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "OHNANA",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2026-11-06 14:32:59",
-      "album": {
         "name": "OA",
         "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 235200,
       "name": "OA",
       "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
+    },
+    {
+      "added_at": "2026-11-06 14:32:59",
+      "album": {
+        "name": "OHNANA",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "OHNANA",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2026-11-06 14:32:59",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-11-06 14:32:59",
       "album": {
-        "name": "POR SI ALGUIEN NOS ESCUCHA",
-        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "X TI",
-      "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
-    },
-    {
-      "added_at": "2026-11-06 14:32:59",
-      "album": {
         "name": "Pa' \u00c9l",
         "url": "https://open.spotify.com/album/5BlhVCj1nOt9XxwjAV4XDo"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 175000,
       "name": "Pa' \u00c9l",
       "url": "https://open.spotify.com/track/0AT4SvaQ7yEBvPhhHBNUXf"
+    },
+    {
+      "added_at": "2026-11-06 14:32:59",
+      "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "X TI",
+      "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
     },
     {
       "added_at": "2026-11-06 14:32:59",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-11-06 14:32:59",
       "album": {
+        "name": "QUE HACES",
+        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "QUE HACES",
+      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
+    },
+    {
+      "added_at": "2026-11-06 14:32:59",
+      "album": {
         "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
         "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
-    },
-    {
-      "added_at": "2026-11-06 14:32:59",
-      "album": {
-        "name": "QUE HACES",
-        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "QUE HACES",
-      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
     },
     {
       "added_at": "2026-11-06 14:32:59",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-11-06 14:32:59",
       "album": {
-        "name": "sobelove",
-        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 131827,
-      "name": "sobelove",
-      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
-    },
-    {
-      "added_at": "2026-11-06 14:32:59",
-      "album": {
         "name": "Con otra",
         "url": "https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 231016,
       "name": "Con otra",
       "url": "https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ"
+    },
+    {
+      "added_at": "2026-11-06 14:32:59",
+      "album": {
+        "name": "sobelove",
+        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 131827,
+      "name": "sobelove",
+      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
     },
     {
       "added_at": "2026-11-06 14:32:59",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-11-06 14:32:59",
       "album": {
-        "name": "NI BORRACHO",
-        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "NI BORRACHO",
-      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
-    },
-    {
-      "added_at": "2026-11-06 14:32:59",
-      "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 227220,
       "name": "ULTRA SOLO",
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
+    },
+    {
+      "added_at": "2026-11-06 14:32:59",
+      "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
     },
     {
       "added_at": "2026-11-06 14:32:59",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2026-11-06 14:32:59",
       "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 216621,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+    },
+    {
+      "added_at": "2026-11-06 14:32:59",
+      "album": {
         "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
         "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 150944,
       "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
       "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
-    },
-    {
-      "added_at": "2026-11-06 14:32:59",
-      "album": {
-        "name": "ILY",
-        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 216621,
-      "name": "ILY",
-      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
     },
     {
       "added_at": "2026-11-06 14:32:59",

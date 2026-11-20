@@ -1,13 +1,33 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Lavern",
-  "num_followers": 117486,
+  "num_followers": 117479,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAiNPbhliQ4a0IM+YLDyl1AL+MzRieb",
+  "snapshot_id": "AAAiNZhKGbIassxxLni/IH9IHYwP5XwT",
   "tracks": [
+    {
+      "added_at": "2026-11-19 23:00:09",
+      "album": {
+        "name": "Motel Room (feat. jasper.wav)",
+        "url": "https://open.spotify.com/album/0bcaYYW8ggq54w4aHhn8sq"
+      },
+      "artists": [
+        {
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+        },
+        {
+          "name": "jasper.wav",
+          "url": "https://open.spotify.com/artist/69H3w1KragVQijsuYudCor"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "Motel Room (feat. jasper.wav)",
+      "url": "https://open.spotify.com/track/287r7qvwyB3A59EoCTPJoW"
+    },
     {
       "added_at": "2026-11-12 23:00:08",
       "album": {

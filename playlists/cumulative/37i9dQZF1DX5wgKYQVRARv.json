@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New and recent favorites of Progressive Metal. Cover: Enslaved",
+  "description": "New and recent favorites of Progressive Metal. Cover: TesseracT",
   "name": "Progressive Metal",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 264000,
       "name": "A Momentary Death",
       "url": "https://open.spotify.com/track/2DwQl02GLLsoQEYLredw9P"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 402473,
       "name": "At The Edge Of Winter",
       "url": "https://open.spotify.com/track/3iv0fr8pMGnjU9JB64Gn32"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 402473,
       "name": "At The Edge Of Winter",
       "url": "https://open.spotify.com/track/70wdYizX9TISjAcjw7DjzL"
@@ -1810,6 +1810,24 @@
       "duration_ms": 346000,
       "name": "Bloodflower",
       "url": "https://open.spotify.com/track/2TbCYiIw1sEOkfTbGfSlh6"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6BywEZXdVGerOv0qRNLbnF"
+      },
+      "artists": [
+        {
+          "name": "Infected Rain",
+          "url": "https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6sjyGLAbwiMXP0eVHanA75"
     },
     {
       "album": {
@@ -2697,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Crucible",
+        "url": "https://open.spotify.com/album/6lfPgNHpPhlu03j2AwObqM"
+      },
+      "artists": [
+        {
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Crucible",
+      "url": "https://open.spotify.com/track/7ffLlUJAIemMNaGO2uApKX"
+    },
+    {
+      "album": {
         "name": "Cubensis",
         "url": "https://open.spotify.com/album/2e3JsIrF4ZPDv4sZpErBSV"
       },
@@ -2946,6 +2982,24 @@
       "duration_ms": 300579,
       "name": "Deadly Diminuendo",
       "url": "https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD"
+    },
+    {
+      "album": {
+        "name": "Death Cloak",
+        "url": "https://open.spotify.com/album/6026GjU4cu1A7DsJZCslts"
+      },
+      "artists": [
+        {
+          "name": "Vulkan",
+          "url": "https://open.spotify.com/artist/7hUmeNCy16IbVdufW26t2H"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287459,
+      "name": "Death Cloak",
+      "url": "https://open.spotify.com/track/3QNs3J3jy6dxb5HrsZFmKn"
     },
     {
       "album": {
@@ -5138,7 +5192,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 355800,
       "name": "Forest Dweller - Alternate Version",
       "url": "https://open.spotify.com/track/2qhY2pFt7XGKOeji6VpQZb"
@@ -6340,7 +6394,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 238105,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/1vrU3ajM7wLj6xn3sU2pZ2"
@@ -8404,7 +8458,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 259064,
       "name": "Memorias",
       "url": "https://open.spotify.com/track/0HTMB3jP3v7pyv3xIVgkPP"
@@ -13105,6 +13159,24 @@
     },
     {
       "album": {
+        "name": "The Burial",
+        "url": "https://open.spotify.com/album/4o2IZfSZRelycjwiog3MQ7"
+      },
+      "artists": [
+        {
+          "name": "Freeze the Fall",
+          "url": "https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202484,
+      "name": "The Burial",
+      "url": "https://open.spotify.com/track/6dxuWgHFHlg3FkQMckQw41"
+    },
+    {
+      "album": {
         "name": "The Old Man & The Spirit",
         "url": "https://open.spotify.com/album/4dWdkOspqEfAyUDhXcLJ2r"
       },
@@ -13985,6 +14057,24 @@
     },
     {
       "album": {
+        "name": "In the Shadow of Your Shadow",
+        "url": "https://open.spotify.com/album/2jo7MOpWqcaorbFYvAhmZL"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474684,
+      "name": "The Rift",
+      "url": "https://open.spotify.com/track/5DEkr141lUpP0kor5xh7vW"
+    },
+    {
+      "album": {
         "name": "The Riven Heart",
         "url": "https://open.spotify.com/album/6JkhAVwtVIextjGF1nOjo5"
       },
@@ -14782,6 +14872,24 @@
       "duration_ms": 264287,
       "name": "Total",
       "url": "https://open.spotify.com/track/6RBwhxL28i63ZwluSirl9d"
+    },
+    {
+      "album": {
+        "name": "Trame Noire",
+        "url": "https://open.spotify.com/album/4kGXM3pTwu8EmDFn9MqnTV"
+      },
+      "artists": [
+        {
+          "name": "Hypno5e",
+          "url": "https://open.spotify.com/artist/5bPOuhK95xuq1UKdiqsysz"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595558,
+      "name": "Trame Noire",
+      "url": "https://open.spotify.com/track/47wP6GnK6IbSns0brAJW3k"
     },
     {
       "album": {
@@ -15694,7 +15802,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214995,
       "name": "Watch the World Burn with Me",
       "url": "https://open.spotify.com/track/7ycD1FXj8MsQuA25s370Ac"
@@ -16434,7 +16542,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 306145,
       "name": "\u6b6a\u6b6a\u5730\u611b yyds",
       "url": "https://open.spotify.com/track/4odk2tyUd9ffdGDofPqP93"

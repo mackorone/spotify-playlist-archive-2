@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,398 likes - 80 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,443 likes - 80 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 11 | [The Call \(Chants\)](https://open.spotify.com/track/2vDlHYooR65OAg68He20Fy) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 7:48 |
 | 12 | [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 |
 | 13 | [Dide](https://open.spotify.com/track/1ySo3tFztJvwjCjnDLRxK5) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2), [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [Dide \(Soundtracks from the movie ENOCH\)](https://open.spotify.com/album/5YaA3qQpHQMnUZjY3B8yzH) | 3:21 |
-| 14 | [Draw](https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 6:31 |
-| 15 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 |
+| 14 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 |
+| 15 | [Draw](https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 6:31 |
 | 16 | [Sound of Revival](https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 7:24 |
 | 17 | [Odogwu](https://open.spotify.com/track/07lLHICE1qfTRRIGPaXKLY) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Odogwu](https://open.spotify.com/album/2iV8lRgiv08MYvx20oYLiC) | 4:50 |
 | 18 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 79 | [FIRE](https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ) | [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [FIRE](https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4) | 9:13 |
 | 80 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 |
 
-Snapshot ID: `AAAAAJjGl2RO+2IMEo361tMAgLfoef8A`
+Snapshot ID: `AAAAAK7LJ8L++lsNQCzX2ZFtvxX7LZEO`

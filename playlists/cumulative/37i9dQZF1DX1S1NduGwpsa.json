@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Stella Cole",
+  "description": "The best jazz new releases. Cover: Joshua Redman",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 227493,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/2mc9swZTGYpPg1eJtKB5Zp"
@@ -5421,6 +5421,28 @@
     },
     {
       "album": {
+        "name": "If Ever You Would Leave Us (we play for Rollins)",
+        "url": "https://open.spotify.com/album/5PmMSDVFehJgsXszJBnwes"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243320,
+      "name": "Doxy",
+      "url": "https://open.spotify.com/track/3xoIQRVsIH9Iwon7XEPayc"
+    },
+    {
+      "album": {
         "name": "Let It Unfold",
         "url": "https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O"
       },
@@ -6656,7 +6678,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192449,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/4OyMFGeTq844ZBRtqc19V2"
@@ -10348,7 +10370,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 233250,
       "name": "Just Squeeze Me",
       "url": "https://open.spotify.com/track/6Rsb2OPZxxFPNG5u5kptMM"
@@ -10910,7 +10932,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 250181,
       "name": "Lawns",
       "url": "https://open.spotify.com/track/73oEK8YsyuFMtfeAjJmWrA"
@@ -11523,6 +11545,24 @@
     },
     {
       "album": {
+        "name": "lifesaver",
+        "url": "https://open.spotify.com/album/5DlYfsb1NoafIURaA0RNjd"
+      },
+      "artists": [
+        {
+          "name": "daoud",
+          "url": "https://open.spotify.com/artist/3e76yvk1gLZQhKZiUHkMsP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196653,
+      "name": "lifesaver",
+      "url": "https://open.spotify.com/track/59N73dcu6jwim2WWNhVn1X"
+    },
+    {
+      "album": {
         "name": "Lights Away from Home",
         "url": "https://open.spotify.com/album/3kGTTuz6VveX3AibqUxsHJ"
       },
@@ -11980,7 +12020,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 321800,
       "name": "Love Beats Hate",
       "url": "https://open.spotify.com/track/7Favb8g2OPJq3U3LtCehLG"
@@ -12719,6 +12759,24 @@
     },
     {
       "album": {
+        "name": "The Look Of Love (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1agyPrdD71MVix3PDPXHSC"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324933,
+      "name": "Maybe You'll Be There - Alternate Take",
+      "url": "https://open.spotify.com/track/6illMdSnnZcPGGjhrZpwYI"
+    },
+    {
+      "album": {
         "name": "MD Blues",
         "url": "https://open.spotify.com/album/2UzYRSbmprursaawJzafmt"
       },
@@ -13064,6 +13122,24 @@
       "duration_ms": 240496,
       "name": "Mille rivages",
       "url": "https://open.spotify.com/track/3RGbbFVz6LfyLdqTCuTffa"
+    },
+    {
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/2Hbv3WDEy7nsshBwNPVz29"
+      },
+      "artists": [
+        {
+          "name": "Dominic Miller",
+          "url": "https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/1zwejNLZzrvpsChAxOudqw"
     },
     {
       "album": {
@@ -15185,6 +15261,36 @@
     },
     {
       "album": {
+        "name": "Overtown Lights (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/16lcH1dcOj1tb33WRXoRYW"
+      },
+      "artists": [
+        {
+          "name": "Stanley Clarke",
+          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "Overtown Lights (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/2Tnvf01c6SPKWaLxTsHcFa"
+    },
+    {
+      "album": {
         "name": "Memory Bomb",
         "url": "https://open.spotify.com/album/4LyevrLzvyquVTex1GSjuB"
       },
@@ -16911,6 +17017,24 @@
     },
     {
       "album": {
+        "name": "Moments Brighter Than The Sun",
+        "url": "https://open.spotify.com/album/6iAqEY6BzdSdvxKXPy1ovY"
+      },
+      "artists": [
+        {
+          "name": "Rory Green",
+          "url": "https://open.spotify.com/artist/5L4dF56YgKfcpWBgiyvZoG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353573,
+      "name": "Sao Paulo",
+      "url": "https://open.spotify.com/track/1e3U7LIoj1rLi8X8O583UH"
+    },
+    {
+      "album": {
         "name": "1978",
         "url": "https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj"
       },
@@ -17526,7 +17650,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 157136,
       "name": "Silvershoes",
       "url": "https://open.spotify.com/track/7ep0wpZD1S5dWhPaQeMBeY"

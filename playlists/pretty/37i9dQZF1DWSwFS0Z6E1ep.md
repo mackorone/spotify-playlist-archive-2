@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,629 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,652 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 54 | [Good Golly, Miss Molly](https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Rock 'N' Roll Legends](https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA) | 2:08 |
 | 55 | [Oh! Carol](https://open.spotify.com/track/1VI29k31nGdasgJ8BBpPu8) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Collections](https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o) | 2:15 |
 | 56 | [Rebel Rouser](https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [The Best Of Duane Eddy](https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf) | 2:33 |
-| 57 | [Rama Lama Ding Dong \(Original version 1958\)](https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl) | [The Edsels](https://open.spotify.com/artist/7FQVHPRA74BTNsNHRob0F7) | [The Rama Lama Ding Dong EP](https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y) | 2:27 |
-| 58 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
+| 57 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
+| 58 | [Rama Lama Ding Dong \(Original version 1958\)](https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl) | [The Edsels](https://open.spotify.com/artist/7FQVHPRA74BTNsNHRob0F7) | [The Rama Lama Ding Dong EP](https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y) | 2:27 |
 | 59 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 |
 | 60 | [Get a Job](https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN) | [The Silhouettes](https://open.spotify.com/artist/39fE9541sKuRBOsf7UOifd) | [Get a Job](https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9) | 2:49 |
 | 61 | [Rip It Up](https://open.spotify.com/track/3nUEF90dilZHOoURbBYDEo) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:28 |
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 85 | [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 |
 | 86 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 |
 | 87 | [If You Love Me](https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [If You Love Me / Alone and Blue](https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ) | 2:30 |
-| 88 | [Right Behind You Baby](https://open.spotify.com/track/5omAt5Vn4vRZH9ulslkKZ6) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [So Young / Right Behind You Baby](https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w) | 2:25 |
-| 89 | [Bear Cat](https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Bear Cat / Walkin' in the Rain](https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X) | 2:50 |
-| 90 | [Roll Over Beethoven](https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2) | 2:24 |
+| 88 | [What'd I Say](https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles & Friends](https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv) | 6:26 |
+| 89 | [Right Behind You Baby](https://open.spotify.com/track/5omAt5Vn4vRZH9ulslkKZ6) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [So Young / Right Behind You Baby](https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w) | 2:25 |
+| 90 | [Bear Cat](https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Bear Cat / Walkin' in the Rain](https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X) | 2:50 |
 | 91 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 |
-| 92 | [Stupid Cupid](https://open.spotify.com/track/4EaVZab0VnTWwWnO3HuEAp) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Rock N' Roll Legends \(International Version\)](https://open.spotify.com/album/16HB1qo5ljAAhNB4KFcyvL) | 2:14 |
-| 93 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/5n70pi7iAmRHNdLTJebZi7) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
-| 94 | [What'd I Say](https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles & Friends](https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv) | 6:26 |
+| 92 | [Roll Over Beethoven](https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2) | 2:24 |
+| 93 | [Stupid Cupid](https://open.spotify.com/track/4EaVZab0VnTWwWnO3HuEAp) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Rock N' Roll Legends \(International Version\)](https://open.spotify.com/album/16HB1qo5ljAAhNB4KFcyvL) | 2:14 |
+| 94 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/5n70pi7iAmRHNdLTJebZi7) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
 | 95 | [Gonna Romp and Stomp](https://open.spotify.com/track/3G9gHR6XhdmWQYTRQR6Lpm) | [Slim Rhodes](https://open.spotify.com/artist/2WfvzODrK268JtCsktwxtj) | [Gonna Romp and Stomp / Bad Girl](https://open.spotify.com/album/1eJEbTTnEf2EUTQADVtt71) | 2:18 |
 | 96 | [Papa Loves Mambo](https://open.spotify.com/track/4wWsQBbp4C6wVxp5zsc55C) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Grammy's Songs \(Original Songs Remastered\)](https://open.spotify.com/album/3jzUG1VgHjxOQ2eP2tlXY3) | 2:41 |
 | 97 | [Flyin' Saucers Rock & Roll](https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Flyin' Saucers Rock & Roll / I Want You Baby](https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS) | 2:02 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 134 | [Blue Suede Shoes \- Remastered](https://open.spotify.com/track/3htVOUt4zoFthJhqtJMGTo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:01 |
 | 135 | [Keep A Knockin](https://open.spotify.com/track/5n5h1rwx8arEaRureuyNeS) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Essential Little Richard](https://open.spotify.com/album/7jstlbnGMRZ2esWVqVGfoH) | 2:17 |
 
-Snapshot ID: `AAAAAM0Msjyf1+0rgzJ2maidhZvzSYoE`
+Snapshot ID: `AAAAAH8b+wGnzCWSq8j++6zicL/Zp60+`

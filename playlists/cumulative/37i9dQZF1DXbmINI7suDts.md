@@ -2,9 +2,9 @@
 
 ### [Mutima ](https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts)
 
-> Get your spirits up and manage your mood any time of the day\. Cover: Tanerélle & MAUIMØON
+> Get your spirits up and manage your mood any time of the day\. Cover: Xpect XHAVI
 
-194 songs - 10 hr 40 min
+197 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,8 +121,10 @@
 | [Nkwagala Nyo](https://open.spotify.com/track/0abZtNfyOQ6wBbSFDjJ0vu) | [Mayanja](https://open.spotify.com/artist/4PRlBo5LzXsbvtsEoo3bHz), [Osteen Ozzie](https://open.spotify.com/artist/4wFr6scPa0f5Y6ChavxJzU) | [Nkwagala Nyo](https://open.spotify.com/album/2ufoC18kLhy5iWShnKyPMT) | 2:56 | 2025-08-21 | 2026-07-31 |
 | [Nkwatako \(Touch Me\)](https://open.spotify.com/track/6noDaGsPHFVaorhbg6U3nJ) | [Tracy Melon](https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp), [Dan Sax](https://open.spotify.com/artist/4WP9mEKWly3DKkzDKgtpnc), [Dj FKR](https://open.spotify.com/artist/21qVTlbc1Kj6FtE8cTrEbF) | [Nkwatako \(Touch Me\)](https://open.spotify.com/album/64XZmD37ghkqatARVd2oTY) | 2:49 | 2026-02-05 |  |
 | [Nkwegomba](https://open.spotify.com/track/0uwQYXMXKRp126uwA98oTA) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Ugandan](https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD) | 3:01 | 2022-06-06 | 2025-04-25 |
+| [No Life](https://open.spotify.com/track/7c0gy1uTeWpXgcsuxPxQhc) | [Sheem Mwanje](https://open.spotify.com/artist/6kAKlTejAGPE7GBPYGsTDm), [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [No Life](https://open.spotify.com/album/7tokPE1SkRgVHnWT6qUpU5) | 2:47 | 2026-11-19 |  |
 | [No More Love](https://open.spotify.com/track/3pQmNjfDQLnKW9UxfusGh8) | [Neliah](https://open.spotify.com/artist/3q7yaZhoTuqkL9Ku1aPcx5) | [No More Love](https://open.spotify.com/album/6YgVcWNIzVPbDzszPFDgW1) | 2:49 | 2026-02-05 |  |
 | [No Not to You](https://open.spotify.com/track/13bLKB2pLia1PhxoRoYBBb) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [No Not to You](https://open.spotify.com/album/1IvZwc10kWVzHysHxWnmba) | 2:28 | 2026-07-31 |  |
+| [Nsalako](https://open.spotify.com/track/1H7hmDFEcGAES2a1LzH45c) | [Klin](https://open.spotify.com/artist/2fWN44Uy1uMyXds4YutVDP), [Expect XHAVI](https://open.spotify.com/artist/2UD1QtSxiIQHdWdDIXJPwT), [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c) | [Nsalako](https://open.spotify.com/album/18edZjB3Hr7wg4XeZPRALt) | 2:13 | 2026-11-19 |  |
 | [Nyoko \(Remastered\)](https://open.spotify.com/track/6776viloLrnBTXcAEYsaQ1) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Let's Music Vol 2](https://open.spotify.com/album/2ZaMITZXW1qt20EnWbIMuf) | 3:13 | 2024-03-01 | 2025-02-08 |
 | [Nyongera](https://open.spotify.com/track/17rj3PNENF9wvqeRGKxdrF) | [Aziz Azion](https://open.spotify.com/artist/5A4WNUoNE2OHg8hbn0wzDi) | [Nyongera](https://open.spotify.com/album/3lZJbcgovnRt6qOcNwex9B) | 3:15 | 2025-12-18 |  |
 | [Nyweera](https://open.spotify.com/track/32fgnccnW2GGN0Sh5tu2cz) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nyweera](https://open.spotify.com/album/3fjpmzYRV1dh2XNXdYIxuX) | 3:28 | 2025-11-13 |  |
@@ -190,6 +192,7 @@
 | [Type of Energy](https://open.spotify.com/track/2AW3jN08vW0zVDSmByMxfW) | [Atino](https://open.spotify.com/artist/4ArO64i3c0kRuFR9ofHisD) | [Type of Energy](https://open.spotify.com/album/2gzUw0OukOocj4QAzOdOap) | 3:08 | 2023-01-12 | 2025-02-15 |
 | [Type Of Girl](https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ) | [Sanyu](https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK), [Kamanzi](https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ) | [Type Of Girl](https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb) | 3:30 | 2023-11-10 | 2025-02-22 |
 | [Uber Guy.](https://open.spotify.com/track/2tOS1uu6AWw5Z2Y3gUq2WJ) | [J.C Muyonjo](https://open.spotify.com/artist/0BtGF4dneF1Jf95UKn8ZS9) | [Kidandali](https://open.spotify.com/album/6Fj6D9GAUoPGi30S4fvLMF) | 3:23 | 2022-06-06 | 2023-10-13 |
+| [View Once](https://open.spotify.com/track/3EXmSxcFvz3Ej4CwczGxNq) | [CxJ Powell](https://open.spotify.com/artist/75k4EdcwE0vIkbH8nYTsUD), [Expect XHAVI](https://open.spotify.com/artist/2UD1QtSxiIQHdWdDIXJPwT), [Chief Xavier](https://open.spotify.com/artist/0Jyqu5DVSHOt8kofMoYGPQ), [Ledra](https://open.spotify.com/artist/1siBA2GUGaVN7S8cOo0Xgs) | [View Once](https://open.spotify.com/album/7CCcgHeQCytbKJUYCnwr5l) | 2:32 | 2026-11-19 |  |
 | [VOICES](https://open.spotify.com/track/3mf0BEmSuDJKFvsOWzz3nT) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [peeta](https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI) | [VOICES](https://open.spotify.com/album/1G9Eh0VxBpqoryB8nhCVgX) | 2:54 | 2023-06-09 | 2024-04-13 |
 | [Wampisa](https://open.spotify.com/track/6q5lNkKJfxpzLrsv0QlyMR) | [Aziz Azion](https://open.spotify.com/artist/5A4WNUoNE2OHg8hbn0wzDi) | [Wampisa](https://open.spotify.com/album/6UDMeyDezBLR1BOPm0yoM6) | 4:01 | 2024-01-19 | 2026-09-05 |
 | [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 | 2022-06-06 | 2022-09-02 |

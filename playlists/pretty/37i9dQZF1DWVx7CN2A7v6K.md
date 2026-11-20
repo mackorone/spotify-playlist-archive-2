@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 
 > A  blend of J\-pop to soundtrack your perfect matcha moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,950 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,983 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 | 99 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 100 | [そばにいるね](https://open.spotify.com/track/1Rvh5RimhF3ndpclBmIdeJ) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [SoulJa](https://open.spotify.com/artist/0wP8E9fUgYBHx1QRf3QLPT) | [そばにいるね](https://open.spotify.com/album/69vgvtuEzB2P38An5eRSqu) | 5:02 |
 
-Snapshot ID: `AAAAACbcAc8xdvHTMFPIa+7UhcFhbgXP`
+Snapshot ID: `AAAAAP1e3KBGt4qZEsLCkh73XzrWk3gj`

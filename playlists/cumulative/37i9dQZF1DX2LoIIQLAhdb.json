@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Warren Saada x JEUDI",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Sonny Rave",
   "name": "R&Bae",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 194754,
       "name": "A part moi",
       "url": "https://open.spotify.com/track/2msb4c0zY5HgAwgJdszksh"
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168311,
       "name": "BOBO (feat. Maud Elka)",
       "url": "https://open.spotify.com/track/6Jy3euwzBYBWtN0lZwYCie"
@@ -3386,6 +3386,24 @@
       "duration_ms": 285870,
       "name": "Dans La Chambre / Money",
       "url": "https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt"
+    },
+    {
+      "album": {
+        "name": "Dans les rues de Paris",
+        "url": "https://open.spotify.com/album/5PteuiSHtb6Kb0fLEj1mEz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rave",
+          "url": "https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123526,
+      "name": "Dans les rues de Paris",
+      "url": "https://open.spotify.com/track/330rWgt9m06Xo2PDLlMX1V"
     },
     {
       "album": {
@@ -7136,7 +7154,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 157312,
       "name": "KISS ME",
       "url": "https://open.spotify.com/track/1bcaEVdwPEu8EoliRy8hOa"
@@ -7406,6 +7424,24 @@
       "duration_ms": 233866,
       "name": "LA NUIT",
       "url": "https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw"
+    },
+    {
+      "album": {
+        "name": "La peine d'essayer",
+        "url": "https://open.spotify.com/album/6mmOiUQFxfTJYH5dYL6Eun"
+      },
+      "artists": [
+        {
+          "name": "Cikey",
+          "url": "https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185095,
+      "name": "La peine d'essayer",
+      "url": "https://open.spotify.com/track/0SZ4CSwolCEGUhE4jpUFnR"
     },
     {
       "album": {
@@ -8278,7 +8314,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 223768,
       "name": "Ma Woman",
       "url": "https://open.spotify.com/track/6kSTCyfjOUaLddThVzJGli"
@@ -8662,6 +8698,28 @@
       "duration_ms": 121901,
       "name": "Mauvais gar\u00e7on",
       "url": "https://open.spotify.com/track/46N4tFPQSCIjEohElQWrJC"
+    },
+    {
+      "album": {
+        "name": "Mauvais soir - Music Monday",
+        "url": "https://open.spotify.com/album/2vdYBCNWQQMVRFf8aBL8W2"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        },
+        {
+          "name": "Prototype",
+          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174379,
+      "name": "Mauvais soir",
+      "url": "https://open.spotify.com/track/6ZSU45PYa5Gag8rjPxukhi"
     },
     {
       "album": {
@@ -9522,7 +9580,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 140340,
       "name": "M\u00c9LODIE VANILLE",
       "url": "https://open.spotify.com/track/6mv1dA2JCOnKJHD2A4CPLS"
@@ -11122,6 +11180,24 @@
       "duration_ms": 198588,
       "name": "Piloti",
       "url": "https://open.spotify.com/track/7bu9pfAhSsd5uur5rUZJER"
+    },
+    {
+      "album": {
+        "name": "PINEAPPLE",
+        "url": "https://open.spotify.com/album/0cVG3YTSvjjRctqVN2yQKz"
+      },
+      "artists": [
+        {
+          "name": "0zaru",
+          "url": "https://open.spotify.com/artist/5LMCpz8qYwAGcVSyNX0gvH"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152183,
+      "name": "PINEAPPLE",
+      "url": "https://open.spotify.com/track/4NLHJIAlc0Ui6H6af4gaR4"
     },
     {
       "album": {
@@ -15392,6 +15468,28 @@
       "duration_ms": 180573,
       "name": "V\u00e9cu - Bonus Track",
       "url": "https://open.spotify.com/track/1HuefEfJ2y1o9QjmVmwPAY"
+    },
+    {
+      "album": {
+        "name": "V\u00e9nus",
+        "url": "https://open.spotify.com/album/7mmxfIMw20sohXNmQk0LhQ"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Victoria Lilyrose",
+          "url": "https://open.spotify.com/artist/08lHp3sHGLHjpBLpvnskqG"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169791,
+      "name": "V\u00e9nus",
+      "url": "https://open.spotify.com/track/78sAAAs2vgioVCWj61mEAz"
     },
     {
       "album": {

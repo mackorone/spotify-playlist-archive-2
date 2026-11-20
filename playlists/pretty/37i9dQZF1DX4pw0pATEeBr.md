@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 
 > Versos y barras de alto poder
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,596 likes - 59 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,652 likes - 59 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 53 | [Como Pacman](https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Como Pacman](https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny) | 2:28 |
 | 54 | [Préndete Un Blunt \(feat\. Zimple\) \- Remix](https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [Préndete Un Blunt \(feat\. Zimple\) \[Remix\]](https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0) | 4:48 |
 | 55 | [Aleman: Bzrp Music Sessions, Vol\. 15/66](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15/66](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 |
-| 56 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
-| 57 | [Vaya Vaya](https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vaya Vaya](https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE) | 3:05 |
+| 56 | [Vaya Vaya](https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vaya Vaya](https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE) | 3:05 |
+| 57 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
 | 58 | [Tío Rico](https://open.spotify.com/track/34tjVFScQh1ppmiAYGGq32) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Tío Rico](https://open.spotify.com/album/5tEe1EwA2IOzNrYiy2eFT6) | 3:20 |
 | 59 | [Día De Pago](https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Día De Pago](https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe) | 3:07 |
 
-Snapshot ID: `AAAAAIli7n5EdmEv5BYINVOYiSwsGiul`
+Snapshot ID: `AAAAAHiQvKMebK8d8UqU8qXz2vy/QYW+`

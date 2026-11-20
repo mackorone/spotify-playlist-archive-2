@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uK4A7lpSz8.md) - [plain]
 
 > A collection of feel\-good songs from your favorite anime\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 914 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 993 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uK4A7lpSz8.md) - [plain]
 | 49 | [Watch me!](https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Watch me!](https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc) | 3:06 |
 | 50 | [Diamond is unbreakable \- Main Theme](https://open.spotify.com/track/6GqMQUzxuTG88y5WZ0HYLr) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Diamond is unbreakable O.S.T Vol.1 \-Good Morning Morioh Cho\- Music by Yugo Kanno](https://open.spotify.com/album/047NzKZzhHtLaaedoKi0Cy) | 4:07 |
 
-Snapshot ID: `AAAAAHntayjTkgTgeMfinJ5LwTwJ3muE`
+Snapshot ID: `AAAAABqSraIMhRzcfn3ti5k6+LyDeYLz`

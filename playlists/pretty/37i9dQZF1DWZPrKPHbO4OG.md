@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,037 likes - 43 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,042 likes - 43 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 30 | [Ghotala Ghotala Zala \- From "Partu"](https://open.spotify.com/track/6OAtCKHAwyxfUK3Jw8ggNw) | [Janhavi Prabhu Arora](https://open.spotify.com/artist/0NbtAahNlx9au3aMjEoaOW), [Shashank Powar](https://open.spotify.com/artist/4mtMl6gbwQAGF9UTggGuCt), [Guru Thakur](https://open.spotify.com/artist/1NKmpPhLjRNBoFoc6TVH25) | [Ghotala Ghotala Zala \(From "Partu"\)](https://open.spotify.com/album/5hIPPeiKwlJlVx9oPVWGZK) | 4:21 |
 | 31 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 |
 | 32 | [Waju De Waju De](https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Aboli Girhe](https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM) | [Masuta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a) | 4:42 |
-| 33 | [Majhi Baay Go](https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Sanket Gurav](https://open.spotify.com/artist/6auFxXWRND1WYlRzEYY5Zr), [Nick Shinde](https://open.spotify.com/artist/2CttsFXKKCVqQsbABphTKu) | [Majhi Baay Go](https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD) | 4:28 |
-| 34 | [Attaracha Faya](https://open.spotify.com/track/7uh4DZJlZBPTYRSP3NXqre) | [Maithili Panse\-Joshi](https://open.spotify.com/artist/2hP1VuPCm078aYFBG0okxf) | [Luckdown Be Positive](https://open.spotify.com/album/6c8ho7Qu44e0OUthXsdXiJ) | 3:25 |
+| 33 | [Attaracha Faya](https://open.spotify.com/track/7uh4DZJlZBPTYRSP3NXqre) | [Maithili Panse\-Joshi](https://open.spotify.com/artist/2hP1VuPCm078aYFBG0okxf) | [Luckdown Be Positive](https://open.spotify.com/album/6c8ho7Qu44e0OUthXsdXiJ) | 3:25 |
+| 34 | [Majhi Baay Go](https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Sanket Gurav](https://open.spotify.com/artist/6auFxXWRND1WYlRzEYY5Zr), [Nick Shinde](https://open.spotify.com/artist/2CttsFXKKCVqQsbABphTKu) | [Majhi Baay Go](https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD) | 4:28 |
 | 35 | [Kajwa](https://open.spotify.com/track/7yW1U21NXBawQB8fdlE0vx) | [Vijay Bhate](https://open.spotify.com/artist/4e7fpizWnn5UzKBzZ4zl4f), [Harshavardhan Wavare](https://open.spotify.com/artist/0ltsd6EZrWlkPEnbSVhb9V), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Rahul Kale](https://open.spotify.com/artist/6EGOkczWY24UOf2EXK2obV) | [Kajwa](https://open.spotify.com/album/0agxxXxuHkbRoic1f6uYC0) | 4:09 |
 | 36 | [Kombdi Palali \- From "Jatra"](https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen) | [Anand Shinde](https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Ajay \- Atul Hits](https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl) | 5:06 |
 | 37 | [Mauli Mauli](https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lai Bhari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX) | 5:05 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [O Sheth \(DJ Remix\)](https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(DJ Remix\)](https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK) | 3:04 |
 | 43 | [Meri Madhubala](https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Meri Madhubala](https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9) | 3:58 |
 
-Snapshot ID: `AAAAAKlOgg8SAMy9yK3JZuZsDIS7oto2`
+Snapshot ID: `AAAAAKeNFcoHMe2b6H8eZasGnZv8lduw`

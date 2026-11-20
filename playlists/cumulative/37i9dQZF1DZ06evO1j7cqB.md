@@ -4,7 +4,7 @@
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-150 songs - 9 hr 16 min
+151 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,9 +126,10 @@
 | [The Fiery Cross \(feat\. Griogair Labhruidh\)](https://open.spotify.com/track/0iejrWjPMGrGNzQrGaEzrY) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Griogair](https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 9:06 | 2026-06-15 |  |
 | [The Hammer of Thor](https://open.spotify.com/track/33H8JSbgPQadjRsBxsNAc7) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 3:22 | 2022-12-08 | 2023-05-18 |
 | [The Julia and Henry Theme](https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Blood of my Blood \(Season 1 Original Series Soundtrack\)](https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6) | 3:58 | 2025-08-28 | 2026-08-05 |
-| [The Key to Lallybroch](https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 7:09 | 2023-04-11 |  |
+| [The Key to Lallybroch](https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 7:09 | 2023-04-11 | 2026-11-20 |
 | [The Last Ballad of Damrod \(feat\. Jens Kidman\)](https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Jens Kidman](https://open.spotify.com/artist/0iTaLLCMTSi9pO4TE8sZTh) | [The Last Ballad of Damrod \(feat\. Jens Kidman\)](https://open.spotify.com/album/0b2OSKTJWsVRmLcXaLo5hl) | 3:17 | 2024-08-15 | 2024-08-23 |
 | [The Last Voyage of the Demeter](https://open.spotify.com/track/0kxinHtO8XyKlXHg1XQ5HR) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Last Voyage of the Demeter](https://open.spotify.com/album/445dy9NoSdHSkEa6BYa1h1) | 3:48 | 2023-08-05 | 2023-09-03 |
+| [The Most Devoted \(feat\. Katrine Stenbekk\)](https://open.spotify.com/track/0H24OtQtfcckFyebnCzsiq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [The Lord of the Rings: The Rings of Power \(Season 3: Prime Original Series Soundtrack\)](https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea) | 4:18 | 2026-11-20 |  |
 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 | 2023-02-27 |  |
 | [The Passage of Time](https://open.spotify.com/track/4VtzaoMcaQBSae0G7JIdNe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Battlestar Galactica: Season 4 \(Original Soundtrack\) \[Remastered\]](https://open.spotify.com/album/0UtUKe502MOiS0zH6S5RHB) | 1:09 | 2023-09-21 | 2023-11-11 |
 | [The Path](https://open.spotify.com/track/1LIXGhj15OAJh8M1EstmhO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök: Valhalla \(Original Soundtrack\)](https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ) | 8:27 | 2023-12-21 | 2024-04-07 |

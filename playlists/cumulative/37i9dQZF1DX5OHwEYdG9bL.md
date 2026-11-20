@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: TOMORROW X TOGETHER\) \(Enjoy  songs that support music video features!\)
 
-299 songs - 16 hr 12 min
+300 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [I DON'T BARGAIN](https://open.spotify.com/track/0KTym6MHSmlfXYKrwtfGHQ) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/1sEhPdw88BoROmJeijHBFZ) | 2:55 | 2026-03-20 |  |
 | [I Feel Good](https://open.spotify.com/track/5AP8DwNug6FEIT1N2W6lzW) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [I Feel Good](https://open.spotify.com/album/6QhUisCryDNbiW76yx630U) | 3:13 | 2025-07-15 | 2026-09-09 |
 | [I SPY](https://open.spotify.com/track/3kcGkOmFXtaFjVdz7ge1WL) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [I SPY \- The 4th Mini Album](https://open.spotify.com/album/7DwTwunZVxnPGmpUAxcxEN) | 3:05 | 2026-10-23 |  |
+| [I Want You](https://open.spotify.com/track/2C9poZVeujCvZsZ7RmI0gZ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : PARALLEL WORLD](https://open.spotify.com/album/2Gv2qKwrKxUZ025POfeOmT) | 3:30 | 2026-11-20 |  |
 | [I'll Be There](https://open.spotify.com/track/5AWhWkXI2N124dAh5cVbLo) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [I'll Be There](https://open.spotify.com/album/4qHj1TjoaZ2ZGVKLWDFtVQ) | 3:02 | 2025-07-15 | 2025-08-20 |
 | [Ice Cream](https://open.spotify.com/track/5wxUDqvvV1S2mmQ9X04QWB) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/3CjxTjmJ0IefgzQzmVc7aG) | 3:08 | 2026-03-30 |  |
 | [Ice Cream](https://open.spotify.com/track/5De6B7Rh8ablBQMDQBB1fy) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/65Qzv9eW5oSY6ZtXsTdJsR) | 3:08 | 2026-03-30 |  |

@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Lily Fitts
+> A new shade of Country\. Cover: Ken Pomeroy
 
-919 songs - 2 day 7 hr 34 min
+922 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Broken Token](https://open.spotify.com/track/2vsfsEGV4axAfD9l7L9QpJ) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Honey Harper & The Infinite Sky](https://open.spotify.com/album/400XedHANVhPNbid6j0UQc) | 2:38 | 2022-10-28 | 2023-05-06 |
 | [Broken Token](https://open.spotify.com/track/2zYDk8l0CJApb7hUNRAFve) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 2:38 | 2022-10-28 | 2022-11-13 |
 | [Bubba Shot the Jukebox](https://open.spotify.com/track/7I2GxY2DVhw63KjUBg0WvZ) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Slappers, Bangers & Certified Twangers, Vol\. 2](https://open.spotify.com/album/6JIvjLVu35EUL1tGaxfHIJ) | 3:08 | 2021-12-17 | 2022-03-12 |
+| [Buckertoo](https://open.spotify.com/track/4OtNxzxGnR3mZ6YfBGVogh) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Buckertoo](https://open.spotify.com/album/1if6mvQ7IiVnIzbs1O2Twq) | 3:00 | 2026-11-20 |  |
 | [Burn On](https://open.spotify.com/track/2eOcSHumsqdyoLbrsOQJoJ) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Burn On](https://open.spotify.com/album/7z5hBKewAIcJZn3TICcQ9i) | 3:04 | 2025-11-21 | 2026-06-27 |
 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 | 2022-11-25 | 2025-03-01 |
 | [Bury Me in My Hometown](https://open.spotify.com/track/0MXvwOILiBUUJ2esyQ6htx) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Bury Me In My Hometown](https://open.spotify.com/album/5gyi3b9G9KTIoVlBGhkamX) | 3:35 | 2023-06-30 | 2025-10-11 |
@@ -155,7 +156,7 @@
 | [Canaries in a Coal Mine](https://open.spotify.com/track/4JFPamq2IExOgg7mZV6XRs) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Canaries in a Coal Mine](https://open.spotify.com/album/33UCr0zXoaacNfDUcznxxX) | 3:37 | 2025-08-01 | 2026-06-13 |
 | [Cannonball](https://open.spotify.com/track/4o4eBnO7HxT7aA97CX2Lc0) | [Keyland](https://open.spotify.com/artist/7d3nkwd5NnxQ7axw2FFBJB) | [Knuckle Sandwich](https://open.spotify.com/album/5JNCv7fEZx40ZRP5CFsPYs) | 3:22 | 2026-05-29 | 2026-09-26 |
 | [Cardinal Sin \(feat\. Jason Isbell\)](https://open.spotify.com/track/1wU21mCoSc3fc8VZq1WkAn) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Cardinal Sin \(feat\. Jason Isbell\)](https://open.spotify.com/album/5bqzhOiZ1j42qcD2oMCh32) | 3:34 | 2026-04-17 | 2026-11-07 |
-| [Carolina Heart](https://open.spotify.com/track/3DtHxRGefgI8U1AAMeFGjg) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [As Is](https://open.spotify.com/album/4z9DYoh5j3e6t7SKjFq2xg) | 2:27 | 2026-06-05 |  |
+| [Carolina Heart](https://open.spotify.com/track/3DtHxRGefgI8U1AAMeFGjg) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [As Is](https://open.spotify.com/album/4z9DYoh5j3e6t7SKjFq2xg) | 2:27 | 2026-06-05 | 2026-11-20 |
 | [Carolina Shakedown](https://open.spotify.com/track/3JnzeLMaTrZnL5Ms7KADIC) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Carolina Shakedown](https://open.spotify.com/album/4dVVlrOj72vq2MRLmav4rq) | 2:37 | 2026-10-02 | 2026-11-07 |
 | [Caroline](https://open.spotify.com/track/6JSKlWWqMI1zCmRhMBFT9U) | [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7), [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Caroline](https://open.spotify.com/album/6DJpZnz5JxwtbLSJPb15K8) | 5:37 | 2025-12-05 | 2026-07-25 |
 | [Carousels](https://open.spotify.com/track/1BzmmaogfwaqdIXsLGEBeI) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [And For My Next Trick...](https://open.spotify.com/album/6DvP7sAZ63ZPmxOB4SQ4yp) | 3:20 | 2026-09-25 |  |
@@ -300,6 +301,7 @@
 | [Fixin' It Up](https://open.spotify.com/track/5jsYsexnbXtOsOXFmwrIfZ) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [The Goldmine Archives](https://open.spotify.com/album/5oPGibdWXClKNbbgp8uDYz) | 3:36 | 2021-12-17 | 2022-05-07 |
 | [Flash Paper](https://open.spotify.com/track/2HwuqFCH8jDGMEV19YMWD6) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [Flash Paper](https://open.spotify.com/album/4OpE4IQsk9tqC9EeRAc3WV) | 3:41 | 2021-12-17 | 2022-02-26 |
 | [Flip a Coin](https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:38 | 2023-10-27 | 2025-10-11 |
+| [Float Above](https://open.spotify.com/track/5fpMkL0B4HVanBMwPmkzGq) | [Ava Hall](https://open.spotify.com/artist/3jbuDS17Z5ioo8IFU1sjGt), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Float Above](https://open.spotify.com/album/6WcaOAPgcg51L8cMwmuZv5) | 2:55 | 2026-11-20 |  |
 | [Folded Moon](https://open.spotify.com/track/1hxrVOqXmnrlbPzkUD9mBt) | [Presley Haile](https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH) | [Folded Moon](https://open.spotify.com/album/5LOvzbUmSKuRwNutKCI1g7) | 3:24 | 2026-09-18 |  |
 | [Foolish and Fast](https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X) | 4:12 | 2025-02-28 | 2025-10-11 |
 | [Foolish Thing To Do](https://open.spotify.com/track/0tBQedfWEJPcf6G54Xj8Im) | [Keyland](https://open.spotify.com/artist/7d3nkwd5NnxQ7axw2FFBJB) | [Foolish Thing To Do](https://open.spotify.com/album/61fDmz1kXDfdynctWA8azT) | 3:39 | 2026-02-06 | 2026-03-14 |
@@ -396,7 +398,7 @@
 | [Homewrecker](https://open.spotify.com/track/6O605cAYlcAAKWTkkXdcPa) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Southern Belle Raisin' Hell](https://open.spotify.com/album/1WYlyS9peUWJQTbUnFyqRD) | 3:15 | 2025-02-28 | 2026-01-15 |
 | [Honey on My Tongue](https://open.spotify.com/track/3gyGu4q61wFw4gSPBkkU1P) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Arm in Arm](https://open.spotify.com/album/7jEF37NiNtivZbr5Ues3QF) | 3:23 | 2021-12-17 | 2022-09-10 |
 | [Honeybee](https://open.spotify.com/track/6HzG8729XKZYHL7s30IbKb) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Honeybee](https://open.spotify.com/album/05yCO36BxR7tvTmCvSc97i) | 4:10 | 2026-08-21 |  |
-| [Honeysuckle](https://open.spotify.com/track/2SDysVSv74sRO77e4Av4ce) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Honeysuckle](https://open.spotify.com/album/7IKzNJb9R5wI1zQbgHG0o7) | 3:15 | 2026-06-05 |  |
+| [Honeysuckle](https://open.spotify.com/track/2SDysVSv74sRO77e4Av4ce) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Honeysuckle](https://open.spotify.com/album/7IKzNJb9R5wI1zQbgHG0o7) | 3:15 | 2026-06-05 | 2026-11-20 |
 | [Horses](https://open.spotify.com/track/0fX87MQuQEbN6yTsurdeJ8) | [Charlie Bishop](https://open.spotify.com/artist/1SNT1xbb94VsMFDUMTRViq) | [Horses](https://open.spotify.com/album/3lWYYXSLKRrbiqvOsRSeTH) | 4:03 | 2026-05-08 |  |
 | [Horses](https://open.spotify.com/track/3Wrbf7Ecb7wDL5nS7L9HL0) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Horses](https://open.spotify.com/album/1Eh2GN0KEBgCrMCDaTcAfQ) | 3:38 | 2023-03-24 | 2023-09-16 |
 | [How Could I Have Known](https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:48 | 2025-10-10 | 2026-04-04 |
@@ -472,7 +474,7 @@
 | [Last Call](https://open.spotify.com/track/0SKmU6qOXKUdHuZsiSqpcn) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:28 | 2022-11-25 | 2024-11-16 |
 | [Last Call](https://open.spotify.com/track/4wmBYAdQdhpMERTwop1PwW) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW) | 3:28 | 2024-04-12 | 2024-04-19 |
 | [LAST CALL](https://open.spotify.com/track/32IRGXo4s0dGQ0uQlEE3S1) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [TAHOE](https://open.spotify.com/album/1JSGB1H24evCRBKA749vpH) | 3:08 | 2026-11-06 |  |
-| [Last Chance for Dancin’](https://open.spotify.com/track/0Q7AG1SsnEZFW3JcTWDuJ1) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Cinco](https://open.spotify.com/album/6NOxCCvMWszIKAcwxthf7j) | 3:50 | 2026-08-28 |  |
+| [Last Chance for Dancin’](https://open.spotify.com/track/0Q7AG1SsnEZFW3JcTWDuJ1) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Cinco](https://open.spotify.com/album/6NOxCCvMWszIKAcwxthf7j) | 3:50 | 2026-08-28 | 2026-11-20 |
 | [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 | 2022-08-12 | 2023-01-28 |
 | [Lately](https://open.spotify.com/track/6uENx8T98jT6kVM9hyFnfz) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Nobody's Girl](https://open.spotify.com/album/6PdDBTxtE0vMWlIC6iTv9M) | 3:15 | 2025-10-10 | 2026-01-15 |
 | [Lavender](https://open.spotify.com/track/3CVZtlxfjtuVxbjrKfSVZH) | [Landon Smith](https://open.spotify.com/artist/3xYWSAnkKiD6rqoMtOod1m) | [Lavender](https://open.spotify.com/album/0sg7UqNKxctzWYPur3KBOV) | 4:29 | 2026-04-03 | 2026-06-06 |
@@ -507,6 +509,7 @@
 | [Longneck Way To Go](https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Longneck Way To Go](https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg) | 3:08 | 2022-04-29 | 2023-02-04 |
 | [Look at Miss Ohio](https://open.spotify.com/track/5T9JsWZt27Hihw3JdWsdfz) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Look at Miss Ohio](https://open.spotify.com/album/4yDLU9ats6AAljkHFjZ8jJ) | 3:44 | 2026-05-15 |  |
 | [Look At The Mess I'm In](https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:00 | 2022-03-04 | 2022-10-01 |
+| [Look At Us Now](https://open.spotify.com/track/6i64pT55wS3q4LIKuOujf8) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Look At Us Now](https://open.spotify.com/album/46NPSU1uiqHoH8RT2ySnH7) | 2:47 | 2026-11-20 |  |
 | [Looking For Love](https://open.spotify.com/track/554YpKFKPvWERNpy1Fn5iz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Looking For Love](https://open.spotify.com/album/1WOTToFizLGcxZyZkxVqgr) | 4:00 | 2026-09-25 |  |
 | [Loose Cannon](https://open.spotify.com/track/0NugEFSGIWRGcrbH7h2jDS) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Loose Cannon](https://open.spotify.com/album/789MvCDTKZzXZh6YkgO0ee) | 3:22 | 2022-01-28 | 2022-05-07 |
 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 | 2021-12-17 | 2023-01-21 |

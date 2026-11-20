@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional Christmas songs for a classic festive feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,768 likes - 66 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,963 likes - 66 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 2 | [Deck The Halls](https://open.spotify.com/track/1USBmYb9R68YXCx8vQpkDU) | [Beau Shepherd](https://open.spotify.com/artist/4dROKap2sx0B4xC1QGBoNR) | [Deck The Halls](https://open.spotify.com/album/6VLrt18bXu8cL1454Qq2is) | 2:20 |
 | 3 | [Mon Beau Sapin \- Oh Tannenbaum](https://open.spotify.com/track/2E15VoKkZSxvTRpjCBJVl6) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Mon Beau Sapin \(Oh Tannenbaum\)](https://open.spotify.com/album/362uVXR3Gm4wZqhbSpVeVH) | 2:00 |
 | 4 | [Once In Royal David's City](https://open.spotify.com/track/2kNTxjheVOeM89wpTPdUKk) | [Jerome Louis](https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ) | [Once In Royal David's City](https://open.spotify.com/album/3dybyo3bdsFTx2SHgu5uIu) | 2:05 |
-| 5 | [This Christmas](https://open.spotify.com/track/1WORXpYBA13oJi2LwYwFy0) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [This Christmas](https://open.spotify.com/album/2U2IkjxE2xsABKhkiRxVFQ) | 3:37 |
-| 6 | [Angels We Have Heard on High](https://open.spotify.com/track/0MFDDSZA2QumFI8DAj8ZHe) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Angels We Have Heard on High](https://open.spotify.com/album/1Vo65jqLBxbaxKYZZ0rpJW) | 2:53 |
+| 5 | [Angels We Have Heard on High](https://open.spotify.com/track/0MFDDSZA2QumFI8DAj8ZHe) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Angels We Have Heard on High](https://open.spotify.com/album/1Vo65jqLBxbaxKYZZ0rpJW) | 2:53 |
+| 6 | [This Christmas](https://open.spotify.com/track/1WORXpYBA13oJi2LwYwFy0) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [This Christmas](https://open.spotify.com/album/2U2IkjxE2xsABKhkiRxVFQ) | 3:37 |
 | 7 | [The First Noel](https://open.spotify.com/track/08tg93375LQTUu883QMXXq) | [Samuel Wright](https://open.spotify.com/artist/10v374WJVYK1n7uMM6FNVm) | [The First Noel](https://open.spotify.com/album/2HHiWzSdQDH58Qn0IQWTDr) | 1:34 |
 | 8 | [O Holy Night](https://open.spotify.com/track/0gkH6iIgni3ekc4abIzk0C) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [O Holy Night](https://open.spotify.com/album/62WMk6oYyZpHPtxwpi1cB5) | 2:16 |
 | 9 | [Angels of the Realm of Glory](https://open.spotify.com/track/608iWUJbqrBPmnHOm8KAjl) | [Merlin Willow](https://open.spotify.com/artist/5KjBTnxi0FvGCQYslA0T9N) | [Angels of the Realm of Glory](https://open.spotify.com/album/2juXfSADucR4whF57T6skl) | 2:49 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 65 | [Veni, veni Emmanuel \(Arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 | 66 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/3vII7JHrjJvO03qPNVCPxS) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/2V6sj7alIbQBEcUtea5dsF) | 2:43 |
 
-Snapshot ID: `AAAAAFUXxAXaaE5kWWsJ4DXC18vExHua`
+Snapshot ID: `AAAAAH+sZG5AXhzNmD/U6omcQW3JR00w`

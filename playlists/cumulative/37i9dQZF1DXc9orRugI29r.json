@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25 ",
-  "name": "HOT NOW - LATIN MAFIA",
+  "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25 PURO R5 ALV ",
+  "name": "HOT NOW - Rey Quinto ",
   "tracks": [
     {
       "album": {
@@ -1195,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "All\u00e1 En Sonora",
+        "url": "https://open.spotify.com/album/08AO5vA6G0vmLQPZ2t3O72"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "All\u00e1 En Sonora",
+      "url": "https://open.spotify.com/track/6YVjpUkK6U0pTLYNGZ44uw"
+    },
+    {
+      "album": {
         "name": "LA OBSESI\u00d3N",
         "url": "https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM"
       },
@@ -1923,6 +1945,28 @@
     },
     {
       "album": {
+        "name": "ATRAVESAO",
+        "url": "https://open.spotify.com/album/0N2N0fNmfFL9PGIL67ziRw"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ATRAVESAO",
+      "url": "https://open.spotify.com/track/6U7pLc5fR5ksO2Ljl7Bgjo"
+    },
+    {
+      "album": {
         "name": "MudaH",
         "url": "https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ"
       },
@@ -1938,7 +1982,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175909,
       "name": "Atte El Insuperable",
       "url": "https://open.spotify.com/track/0tgYhNMHWBIkJgW9xg8Vzi"
@@ -11016,7 +11060,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 123750,
       "name": "KINKY",
       "url": "https://open.spotify.com/track/5nzJwpQA2DiUfvNeWLp91b"
@@ -11928,7 +11972,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 183509,
       "name": "La Pelea De Mi Vida",
       "url": "https://open.spotify.com/track/4wFdorG5cMrkTAghmuFYH6"
@@ -13798,6 +13842,24 @@
       "duration_ms": 199148,
       "name": "Mas Rica Que Ayer",
       "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1A",
+        "url": "https://open.spotify.com/album/5wo0yYSspyQB1rmtgJczuM"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121267,
+      "name": "MA\u00d1A",
+      "url": "https://open.spotify.com/track/1Cu21QoqwsiM1l8Z8cvFVA"
     },
     {
       "album": {
@@ -16720,7 +16782,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148235,
       "name": "Ola <3",
       "url": "https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF"
@@ -17742,6 +17804,28 @@
       "duration_ms": 203357,
       "name": "Perlas Negras",
       "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
+    },
+    {
+      "album": {
+        "name": "Perreando Con La Cachi",
+        "url": "https://open.spotify.com/album/25szoZRM5uUkWIqkKsdyTi"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151093,
+      "name": "Perreando Con La Cachi",
+      "url": "https://open.spotify.com/track/3YnkAXTp66PYnc0LvVOrSx"
     },
     {
       "album": {
@@ -23008,7 +23092,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 162666,
       "name": "Todas Mienten",
       "url": "https://open.spotify.com/track/1i4YutNLLzUJ8iyWLp3Yfe"
@@ -26040,6 +26124,32 @@
       "duration_ms": 164455,
       "name": "\u00d1ero Session 23",
       "url": "https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G"
+    },
+    {
+      "album": {
+        "name": "\u00daltimamente (W Sound 11)",
+        "url": "https://open.spotify.com/album/6MZHIyPHLsTxQs0SqM3ipK"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219487,
+      "name": "\u00daltimamente - W Sound 11",
+      "url": "https://open.spotify.com/track/4JHDGUA2KSuqCNYtxQj44s"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: Patoranking ",
+  "description": "Afrobeats' hottest singles. Cover: Adekunle Gold & Blaqbonez",
   "name": "Gbedu",
   "tracks": [
     {
@@ -6470,7 +6470,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 129391,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
@@ -9523,6 +9523,28 @@
     },
     {
       "album": {
+        "name": "Money In A Wheelbarrow",
+        "url": "https://open.spotify.com/album/32m2f3GYYruC2fGBN6su7c"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151909,
+      "name": "Money In A Wheelbarrow",
+      "url": "https://open.spotify.com/track/65K31Yui1Sfn4pSub3uKJP"
+    },
+    {
+      "album": {
         "name": "Money Moves",
         "url": "https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX"
       },
@@ -11604,7 +11626,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 211304,
       "name": "Pretty Nun",
       "url": "https://open.spotify.com/track/6TX6IMV1PAlpSlrmVFurNA"
@@ -14362,7 +14384,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 183092,
       "name": "Welcome To Lagos",
       "url": "https://open.spotify.com/track/6q9AMhh5M1SiCCvrh94YVh"

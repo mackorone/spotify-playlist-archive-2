@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-351 songs - 20 hr 38 min
+352 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Cheats and Liars](https://open.spotify.com/track/3gcIVcnO6Y1DLVo8hQaPuM) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/0KvQMS4pJ9rmvBfFyKCcll) | 3:48 | 2021-08-20 | 2022-07-29 |
 | [Cheats and Liars](https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ) | 3:48 | 2021-08-20 | 2022-11-13 |
 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 | 2021-08-20 | 2023-02-14 |
+| [City Rot](https://open.spotify.com/track/285JrSexqVgyB2OadaBmnd) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [City Rot](https://open.spotify.com/album/3bOypHM2zqIBGbjULFpNHY) | 3:57 | 2026-11-20 |  |
 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 | 2021-03-05 | 2022-03-26 |
 | [Cold Blues](https://open.spotify.com/track/0sO16Fj8Mj9ztczfbxF7dy) | [DR\. Moriarity](https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Dionysus the God](https://open.spotify.com/artist/4A6RhBJpQcfZeG7VlP2uf4) | [Cold Blues](https://open.spotify.com/album/4tn5qaeFYiS56VHm49Lh3G) | 4:34 | 2024-10-25 |  |
 | [Cold Hard Truth](https://open.spotify.com/track/3qSPTt22YYuzjpM2KIzsbp) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Sidecar](https://open.spotify.com/album/64o0omYS856v58Mm7rMvDp) | 2:35 | 2023-11-10 |  |
@@ -337,7 +338,7 @@
 | [When Will The Love Rain Down](https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [When Will The Love Rain Down](https://open.spotify.com/album/4W8Z1xjbtA2UsqrSHdOZ3d) | 5:43 | 2025-05-30 |  |
 | [Wherever You Are](https://open.spotify.com/track/1Q0ANkWXGEMDpAOkR0vOTg) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Wherever You Are](https://open.spotify.com/album/6KVYtePHIPuCE6L8WmS3Fi) | 3:23 | 2024-11-22 | 2025-01-25 |
 | [Wherever You Are \- Radio Mix](https://open.spotify.com/track/7x1WL4uE97GjAdWe9IMiNE) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Wherever You Are \(Radio Mix\)](https://open.spotify.com/album/6Ml1tPseDakWkVH1C8XX9T) | 3:23 | 2025-01-24 | 2025-09-20 |
-| [WHITE PONY \- REVIVAL EDITION](https://open.spotify.com/track/5qdGrDgHYU56ujGsD6G0KN) | [N3ptune](https://open.spotify.com/artist/0Kt3k5975Iq6wW9cuutIZn), [Rusty Steve](https://open.spotify.com/artist/42P6ecU6XM2iC1hS8tuY2L) | [BLACK HORSE \(THE REVIVAL\)](https://open.spotify.com/album/4l4YPkRz6C7aZyqDgk9D9K) | 3:39 | 2023-01-13 |  |
+| [WHITE PONY \- REVIVAL EDITION](https://open.spotify.com/track/5qdGrDgHYU56ujGsD6G0KN) | [N3ptune](https://open.spotify.com/artist/0Kt3k5975Iq6wW9cuutIZn), [Rusty Steve](https://open.spotify.com/artist/42P6ecU6XM2iC1hS8tuY2L) | [BLACK HORSE \(THE REVIVAL\)](https://open.spotify.com/album/4l4YPkRz6C7aZyqDgk9D9K) | 3:39 | 2023-01-13 | 2026-11-20 |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-02-25 | 2023-02-14 |
 | [Wilder Than the West](https://open.spotify.com/track/6R68v7QdeTDEkNuBLbMy37) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Wilder Than the West](https://open.spotify.com/album/03xTki4ce3xfSLnvvtcpnO) | 2:34 | 2023-09-29 |  |
 | [Wintertime](https://open.spotify.com/track/2GuN81w2lPTNfMiKyMLnLR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Wintertime](https://open.spotify.com/album/7x0QccFsF6oUTHCeaJ3wRf) | 3:59 | 2021-11-12 | 2023-07-01 |

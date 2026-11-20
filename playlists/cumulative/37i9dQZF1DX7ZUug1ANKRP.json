@@ -4202,7 +4202,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168193,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3T4LnWo07y2jlJoe4kedly"
@@ -6682,6 +6682,40 @@
       "duration_ms": 143038,
       "name": "Faux Fur (like you like it)",
       "url": "https://open.spotify.com/track/6yVY5sNFFrpxloDUjwVOHU"
+    },
+    {
+      "album": {
+        "name": "Feel Love",
+        "url": "https://open.spotify.com/album/0tb2xEL0QyA2uJg1bZ0Jjo"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Feel Love",
+      "url": "https://open.spotify.com/track/5ZuIWk2CWo9NTh3Ijzbn3r"
     },
     {
       "album": {
@@ -17976,7 +18010,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 171400,
       "name": "Say Nothing",
       "url": "https://open.spotify.com/track/7t2s1JIVyjP0FyQ07pFmyf"
@@ -18791,6 +18825,24 @@
     },
     {
       "album": {
+        "name": "So verdammt kaputt",
+        "url": "https://open.spotify.com/album/0tvNzyBRF1XR4sZLrXwYLf"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123574,
+      "name": "So verdammt kaputt",
+      "url": "https://open.spotify.com/track/00gbdxkWIuXEBlGqXV5ouw"
+    },
+    {
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -19278,7 +19330,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 205263,
       "name": "Staub",
       "url": "https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE"
@@ -22386,6 +22438,28 @@
       "duration_ms": 164000,
       "name": "Waste Your Youth",
       "url": "https://open.spotify.com/track/3zMa1FmLbmcSNAYgXCvybp"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/6vRwDEY1SKVzvS4WkDhOYu"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184414,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/2rhmjUU57blXd38ket5gNE"
     },
     {
       "album": {

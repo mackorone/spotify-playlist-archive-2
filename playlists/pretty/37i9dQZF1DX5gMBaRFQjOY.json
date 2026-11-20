@@ -1,12 +1,12 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 658312,
+  "num_followers": 658467,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKvwfDJvQywLzh0v0elzOXB2El05",
+  "snapshot_id": "AAAAAGZwWEEtXPm9+KiMcV8rZauQFrk5",
   "tracks": [
     {
       "added_at": "2026-02-11 22:45:47",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -999,22 +983,18 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
       },
       "artists": [
         {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
         }
       ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+      "duration_ms": 174666,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1035,6 +1015,26 @@
       "duration_ms": 286066,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": "2026-02-11 22:45:47",

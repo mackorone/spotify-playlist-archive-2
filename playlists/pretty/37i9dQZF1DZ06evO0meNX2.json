@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 47511,
+  "num_followers": 47561,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADNkSy8VR8cFG9t+Jin1e7L",
+  "snapshot_id": "avzqgAAAAAB0GZ/wBiNLq4MLB+7drds/",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfPor Qu\u00e9 Terminamos?",
+        "url": "https://open.spotify.com/album/2jCrFqDrv5Cjk9ZUVTlYEF"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 187434,
+      "name": "\u00bfPor Qu\u00e9 Terminamos?",
+      "url": "https://open.spotify.com/track/6EGJOnJKbrcgwTdlBG4AUx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Ve\u00edas Mejor Conmigo",
         "url": "https://open.spotify.com/album/5WoBsZJH0PQam9KHuqySsy"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 267300,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/1iYx0oRtpqkM6yMUll6eQY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfPor Qu\u00e9 Terminamos?",
-        "url": "https://open.spotify.com/album/2jCrFqDrv5Cjk9ZUVTlYEF"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 187434,
-      "name": "\u00bfPor Qu\u00e9 Terminamos?",
-      "url": "https://open.spotify.com/track/6EGJOnJKbrcgwTdlBG4AUx"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D.M.8.",
-        "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
+        "name": "No Voy A Cambiar",
+        "url": "https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf"
       },
       "artists": [
         {
@@ -412,13 +412,13 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         },
         {
-          "name": "Miguel Comando",
-          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 271541,
-      "name": "D.M.8.",
-      "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
+      "duration_ms": 165865,
+      "name": "No Voy A Cambiar",
+      "url": "https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Voy A Cambiar",
-        "url": "https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf"
+        "name": "D.M.8.",
+        "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
       },
       "artists": [
         {
@@ -448,13 +448,29 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         },
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Miguel Comando",
+          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
         }
       ],
-      "duration_ms": 165865,
-      "name": "No Voy A Cambiar",
-      "url": "https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p"
+      "duration_ms": 271541,
+      "name": "D.M.8.",
+      "url": "https://open.spotify.com/track/5FlA2DSMSewJsrR00Q9IdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163225,
+      "name": "Hablen",
+      "url": "https://open.spotify.com/track/6g5tBAygpCM1RSF4igf5j9"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 163225,
-      "name": "Hablen",
-      "url": "https://open.spotify.com/track/6g5tBAygpCM1RSF4igf5j9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "As\u00ed Es La Vida",
         "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
       },
@@ -502,11 +502,15 @@
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         }
       ],
-      "duration_ms": 225818,
-      "name": "Cinco Celulares",
-      "url": "https://open.spotify.com/track/40KkKXHkNTgKg2zn1FINi2"
+      "duration_ms": 160484,
+      "name": "Para Qu\u00e9 Hacernos Da\u00f1o?",
+      "url": "https://open.spotify.com/track/7lPNScQscdmBQ5fLplXbre"
     },
     {
       "added_at": null,
@@ -547,42 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 210968,
-      "name": "Si Yo Me Activo",
-      "url": "https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        }
-      ],
-      "duration_ms": 160484,
-      "name": "Para Qu\u00e9 Hacernos Da\u00f1o?",
-      "url": "https://open.spotify.com/track/7lPNScQscdmBQ5fLplXbre"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -603,22 +571,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOSIS",
-        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
       },
       "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 214403,
-      "name": "Se Me Amanece",
-      "url": "https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283"
+      "duration_ms": 225818,
+      "name": "Cinco Celulares",
+      "url": "https://open.spotify.com/track/40KkKXHkNTgKg2zn1FINi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 210968,
+      "name": "Si Yo Me Activo",
+      "url": "https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf"
     },
     {
       "added_at": null,
@@ -643,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 163979,
-      "name": "SOY GRACIAS A DIOS",
-      "url": "https://open.spotify.com/track/7zgkP78Tll2hcD61KPJPF6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni\u00f1o De Oro",
         "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
       },
@@ -675,6 +639,42 @@
       "duration_ms": 177704,
       "name": "Relojito Adiamantado",
       "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163979,
+      "name": "SOY GRACIAS A DIOS",
+      "url": "https://open.spotify.com/track/7zgkP78Tll2hcD61KPJPF6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOSIS",
+        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 214403,
+      "name": "Se Me Amanece",
+      "url": "https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Hermanos",
-        "url": "https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Los Hermanos",
-      "url": "https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Despreciado",
         "url": "https://open.spotify.com/album/5ZjHn5hjOioGuelFeIL2CA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 210951,
       "name": "Despreciado",
       "url": "https://open.spotify.com/track/2pWINS7Wmp5wWyDjkKq2zo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Hermanos",
+        "url": "https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Los Hermanos",
+      "url": "https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN"
     },
     {
       "added_at": null,

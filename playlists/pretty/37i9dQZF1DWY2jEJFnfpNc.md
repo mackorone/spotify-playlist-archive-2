@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2jEJFnfpNc.md) - [plain]
 
 > The definitive tracks from a pioneering era of British Broadcasting
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,830 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,836 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2jEJFnfpNc.md) - [plain]
 | 33 | [My Generation](https://open.spotify.com/track/2EMmHEhCZSMMEM85HTFJvj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 3:20 |
 | 34 | [Gimme Some Lovin' \- Remastered 2010](https://open.spotify.com/track/2lkjghbMHabV54ZsKOAM0I) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Revolutions: The Very Best Of Steve Winwood \(Deluxe\)](https://open.spotify.com/album/15WGSWBIZeuuhHwL3jZRB1) | 2:57 |
 | 35 | [Hi Ho Silver Lining](https://open.spotify.com/track/0l6vPbNky56gut034Ye7aj) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [The Best of Jeff Beck](https://open.spotify.com/album/5HyIzVed87uFCnyMhB8vfZ) | 2:56 |
-| 36 | [She'd Rather Be With Me](https://open.spotify.com/track/7Ko8eQ58gmHF8m3drHGUZT) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:21 |
-| 37 | [Yesterday Man](https://open.spotify.com/track/5BCcTvJhJ2cEAM9IUSh7vI) | [Chris Andrews](https://open.spotify.com/artist/49czbwrhT97D0tODGwDyLs) | [Fifty Fifty – 50 Years On Stage](https://open.spotify.com/album/5eddFYfsY8fQBj8fpi6P7Q) | 2:54 |
+| 36 | [Yesterday Man](https://open.spotify.com/track/5BCcTvJhJ2cEAM9IUSh7vI) | [Chris Andrews](https://open.spotify.com/artist/49czbwrhT97D0tODGwDyLs) | [Fifty Fifty – 50 Years On Stage](https://open.spotify.com/album/5eddFYfsY8fQBj8fpi6P7Q) | 2:54 |
+| 37 | [She'd Rather Be With Me](https://open.spotify.com/track/7Ko8eQ58gmHF8m3drHGUZT) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:21 |
 | 38 | [You Don't Have To Say You Love Me](https://open.spotify.com/track/1uLwVWTOpMqNkBsjpR1WB8) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Complete A And B Sides 1963 \- 1970](https://open.spotify.com/album/1nqFVeqOlIVan8xkKX0O6j) | 2:48 |
 | 39 | [98.6](https://open.spotify.com/track/602FffJEffSJnWC8eHDIwv) | [Keith](https://open.spotify.com/artist/7hm0Ngouir56yhbzXu9yRH) | [98.6 / Ain't Gonna Lie](https://open.spotify.com/album/5Okv3Cw8L8y8ay57xjU8SS) | 3:07 |
 | 40 | [Stay with Me](https://open.spotify.com/track/0vV3IUO4fhuDeHggZqnsI0) | [Lorraine Ellison](https://open.spotify.com/artist/7h38QSSoFKgb7WgNC7cZp0) | [Heart and Soul](https://open.spotify.com/album/7p4bOcnSI5mPGmLLnkGdDz) | 3:29 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2jEJFnfpNc.md) - [plain]
 | 43 | [A Must to Avoid](https://open.spotify.com/track/73FAIyRYskQvh5YbDVSZnm) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [A's, B's & EP's](https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9) | 1:55 |
 | 44 | [Sunshine Superman](https://open.spotify.com/track/6hFoaiiDJt34GiUpXS2rGC) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Greatest Hits… and More](https://open.spotify.com/album/3XlVm9lte8s37HeSAp6kEy) | 4:34 |
 | 45 | [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 |
-| 46 | [So Long, Marianne](https://open.spotify.com/track/14CsqOaDkOkrZ49UJLtuOJ) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 5:40 |
-| 47 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU) | 4:08 |
+| 46 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU) | 4:08 |
+| 47 | [So Long, Marianne](https://open.spotify.com/track/14CsqOaDkOkrZ49UJLtuOJ) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 5:40 |
 | 48 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
 | 49 | [Silence Is Golden](https://open.spotify.com/track/0tY6WuVkmCth6YHl8xKrew) | [The Tremeloes](https://open.spotify.com/artist/2VL8sLEJ6lHEwocjc1pN9w) | [Love Songs](https://open.spotify.com/album/13AsNmNDRM8UvAp7XSXZBV) | 3:10 |
 | 50 | [You Really Got Me \- Remastered](https://open.spotify.com/track/09nZ9ZDWq1rTkmM3WjvMvF) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Anthology 1964 \- 1971](https://open.spotify.com/album/32AODg8lzwKusDg5rCq9N0) | 2:14 |
 
-Snapshot ID: `AAAAAMwHCVesKWOyfSfDhSBkrUSyaSGc`
+Snapshot ID: `AAAAABNkK3Kr7ayvle4DKf41spNnyKlC`

@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 9392292,
+  "num_followers": 9392656,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAfynkhanCF48Cp/Fcdow44iyfuG",
+  "snapshot_id": "AAAAAOUrjtvVoZlYarNzf6LzjIEK7Xu8",
   "tracks": [
     {
       "added_at": "2024-06-28 10:14:13",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 237573,
       "name": "Nuthin' But A \"G\" Thang",
       "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "ATLiens",
-      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "93 'til Infinity",
         "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 286440,
       "name": "93 'Til Infinity",
       "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "ATLiens",
+      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 324369,
-      "name": "Rosa Parks",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Nigga Please",
         "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 239546,
       "name": "Got Your Money (feat. Kelis)",
       "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 324369,
+      "name": "Rosa Parks",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
+      "added_at": "2025-07-22 17:32:08",
+      "album": {
+        "name": "Of the Heart, of the Soul and of the Cross: The Utopian Experience",
+        "url": "https://open.spotify.com/album/6xqvHfmnH7iM10Zb12v2hL"
+      },
+      "artists": [
+        {
+          "name": "P.M. Dawn",
+          "url": "https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Set Adrift On Memory Bliss",
+      "url": "https://open.spotify.com/track/7vo0ILIm1He4wo30ikYBHh"
+    },
+    {
       "added_at": "2024-06-28 10:14:13",
       "album": {
         "name": "Strictly 4 My N.I.G.G.A.Z...",
@@ -655,22 +671,6 @@
       "duration_ms": 259000,
       "name": "I Get Around",
       "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3"
-    },
-    {
-      "added_at": "2025-07-22 17:32:08",
-      "album": {
-        "name": "Of the Heart, of the Soul and of the Cross: The Utopian Experience",
-        "url": "https://open.spotify.com/album/6xqvHfmnH7iM10Zb12v2hL"
-      },
-      "artists": [
-        {
-          "name": "P.M. Dawn",
-          "url": "https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Set Adrift On Memory Bliss",
-      "url": "https://open.spotify.com/track/7vo0ILIm1He4wo30ikYBHh"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Illadelph Halflife",
-        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "What They Do",
-      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Reachin' (A New Refutation Of Time And Space)",
         "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 261265,
       "name": "Rebirth Of Slick (Cool Like Dat)",
       "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Illadelph Halflife",
+        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "What They Do",
+      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "The Coming",
-        "url": "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
+        "name": "One Day It'll All Make Sense",
+        "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         }
       ],
-      "duration_ms": 271973,
-      "name": "Woo Hah!! Got You All in Check",
-      "url": "https://open.spotify.com/track/09WxJCWFMWAxTHBLLelpDS"
+      "duration_ms": 134040,
+      "name": "Invocation",
+      "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
     }
   ],
   "unique_name": "I Love My '90s Hip-Hop",

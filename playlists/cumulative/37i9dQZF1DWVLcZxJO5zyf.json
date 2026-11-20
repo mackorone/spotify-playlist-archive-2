@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Ai, Que Ci\u00fame",
+        "url": "https://open.spotify.com/album/6UMzCWpCuNe9vVJH48ZvG4"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Ai, Que Ci\u00fame",
+      "url": "https://open.spotify.com/track/715HUkc9npkx00kT8MsbCB"
+    },
+    {
+      "album": {
         "name": "Ainda Te Amo - Spotify e J\u00e3o: Cada lembran\u00e7a nos trouxe at\u00e9 aqui (Ao Vivo)",
         "url": "https://open.spotify.com/album/45IDAO27kgg0V6q4ysOdN0"
       },
@@ -3496,7 +3514,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180343,
       "name": "escapismo",
       "url": "https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS"
@@ -6442,7 +6460,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 218280,
       "name": "Na M\u00e3o Do Acaso",
       "url": "https://open.spotify.com/track/3FuodKkKDIGEYA35q1wFcl"
@@ -11280,6 +11298,24 @@
       "duration_ms": 167502,
       "name": "Zap Zum",
       "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
+    },
+    {
+      "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/4wUsPVUyVmpw52IqkWfClM"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198175,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/4DsxUkkPv7SPXTxMuVUW1A"
     },
     {
       "album": {

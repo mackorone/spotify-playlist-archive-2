@@ -4,7 +4,7 @@
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-110 songs - 8 hr 49 min
+111 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Sonhos](https://open.spotify.com/track/1VIheUgrhc6Xe0ZRz0GulJ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Sonhos](https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC) | 5:31 | 2026-03-14 |  |
 | [Suas Digitais](https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:50 | 2023-07-09 |  |
 | [Te Amaria Outra Vez](https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 4:23 | 2023-07-09 | 2024-10-07 |
-| [Te Amo Tanto \(feat\. Fernanda Brum\)](https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 5:04 | 2023-07-09 |  |
+| [Te Amo Tanto \(feat\. Fernanda Brum\)](https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 5:04 | 2023-07-09 | 2026-11-20 |
 | [Tempo de Crescer](https://open.spotify.com/track/2BGIItsqoZ3eRVUpgNJAUk) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:11 | 2024-04-19 | 2026-01-02 |
 | [Tempo de Crescer / Cacos Pelo Chão / Ele é Por Mim / Vaso de Alabastro \- Ao Vivo](https://open.spotify.com/track/7Elm0HTj8WhCED9LZdiNT2) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [30 Anos no Brasil \(Ao Vivo\)](https://open.spotify.com/album/3jUyGPU73lq7Iu4GdKnaVh) | 3:52 | 2025-12-04 | 2026-03-24 |
 | [Toca\-me \(Ao Vivo\)](https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 3:51 | 2023-07-09 |  |
@@ -112,6 +112,7 @@
 | [Vaso de Alabastro](https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 3:25 | 2023-07-09 |  |
 | [Via Dolorosa](https://open.spotify.com/track/7FgZmixef7Zws3uiAD21sw) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum Ao Vivo em Israel](https://open.spotify.com/album/4r7gzWWm6HHeBhwXeeQ9EO) | 4:40 | 2026-04-06 | 2026-06-12 |
 | [Vinho e Pão](https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Paixão de Cristo \- O Musical](https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO) | 3:13 | 2023-07-09 |  |
+| [Você Ainda Cantará](https://open.spotify.com/track/0LiEBQeWG2rRPWeewN9a4k) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Você Ainda Cantará](https://open.spotify.com/album/4jfbAVYdPajO24TZYwJJQP) | 4:45 | 2026-11-20 |  |
 | [Vou Profetizar](https://open.spotify.com/track/451YiIYMXLpD6cTKPVM7Vu) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Milagre](https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur) | 3:55 | 2025-03-30 | 2025-04-27 |
 | [Yahweh \(Ao Vivo\)](https://open.spotify.com/track/0ky2Ef7jad2YcgqcPKMdqM) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Yahweh \(Ao Vivo\)](https://open.spotify.com/album/1LXAClsJedInbsmLFpr8rJ) | 5:21 | 2026-05-05 | 2026-09-27 |
 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:06 | 2023-07-09 |  |

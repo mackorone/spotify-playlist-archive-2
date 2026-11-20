@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,916,278 likes - 153 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,916,330 likes - 153 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 10 | [Totem](https://open.spotify.com/track/7grvfZ55ccHnQNhay3cVwK) | [Eldur Hættu](https://open.spotify.com/artist/3GsfhG02GtXyYPOoc5QRa8) | [Totem](https://open.spotify.com/album/4cqFLRiPDoThLKCYozyaQA) | 2:41 |
 | 11 | [The Northern Fields](https://open.spotify.com/track/3rqNtzfekrqoZcaK2CfGwP) | [SG Hilltwig](https://open.spotify.com/artist/756zvVCs2NGZiI0HVWfrKS) | [The Northern Fields](https://open.spotify.com/album/4B95zmZkzbJ3EFPRiWzW9y) | 2:33 |
 | 12 | [Morning Finds Us](https://open.spotify.com/track/4RaG5enBGhICIVQMaxojd9) | [Andrei Mizi](https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R) | [Morning Finds Us](https://open.spotify.com/album/2NJtQg8BSfX6eTSaiqjdg5) | 2:16 |
-| 13 | [Playthings](https://open.spotify.com/track/2OyKrptIfiqSpCHwA7ACq6) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Playthings](https://open.spotify.com/album/15kxzNNlRkyD7CXozThaLm) | 2:51 |
-| 14 | [Light](https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Light](https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP) | 2:47 |
-| 15 | [The Last Dream](https://open.spotify.com/track/0i1hx7DAJAiwA1mR8tc72O) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [The Last Dream](https://open.spotify.com/album/4zFHN0O4QZGraQfsAC9CHC) | 2:26 |
-| 16 | [Meadow](https://open.spotify.com/track/0NqpLq9EZGy9HCK6xWpGep) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Meadow](https://open.spotify.com/album/3uWS2kJJXXT37IsH6wRuDO) | 2:30 |
-| 17 | [Discovering Meaning](https://open.spotify.com/track/6BZ4nwrDdpG9xXuVNuukfq) | [R Eugene](https://open.spotify.com/artist/5INtIOjjy8zDoOraEPyhVn) | [Discovering Meaning](https://open.spotify.com/album/7fndIWOg5RsWFzkAtHZF4r) | 2:42 |
-| 18 | [Apples and Oranges](https://open.spotify.com/track/5immm1R7IE8llwGusuJJ7g) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Apples and Oranges](https://open.spotify.com/album/6JXuTi5aGr7NIVJy68hyOk) | 3:19 |
-| 19 | [Cellar](https://open.spotify.com/track/6K4uQfVY4NGXQXx9Gq8LQa) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Cellar](https://open.spotify.com/album/2dWyq4IXlTxi8u5w1khJ5J) | 2:43 |
-| 20 | [Anemon](https://open.spotify.com/track/4kSZ5gosHZpbm6bAPyuEHp) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Anemon](https://open.spotify.com/album/5jdfuhnidvtHCUleoh8gN8) | 3:06 |
+| 13 | [Anemon](https://open.spotify.com/track/4kSZ5gosHZpbm6bAPyuEHp) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Anemon](https://open.spotify.com/album/5jdfuhnidvtHCUleoh8gN8) | 3:06 |
+| 14 | [Playthings](https://open.spotify.com/track/2OyKrptIfiqSpCHwA7ACq6) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Playthings](https://open.spotify.com/album/15kxzNNlRkyD7CXozThaLm) | 2:51 |
+| 15 | [Light](https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Light](https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP) | 2:47 |
+| 16 | [The Last Dream](https://open.spotify.com/track/0i1hx7DAJAiwA1mR8tc72O) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [The Last Dream](https://open.spotify.com/album/4zFHN0O4QZGraQfsAC9CHC) | 2:26 |
+| 17 | [Meadow](https://open.spotify.com/track/0NqpLq9EZGy9HCK6xWpGep) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Meadow](https://open.spotify.com/album/3uWS2kJJXXT37IsH6wRuDO) | 2:30 |
+| 18 | [Discovering Meaning](https://open.spotify.com/track/6BZ4nwrDdpG9xXuVNuukfq) | [R Eugene](https://open.spotify.com/artist/5INtIOjjy8zDoOraEPyhVn) | [Discovering Meaning](https://open.spotify.com/album/7fndIWOg5RsWFzkAtHZF4r) | 2:42 |
+| 19 | [Apples and Oranges](https://open.spotify.com/track/5immm1R7IE8llwGusuJJ7g) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Apples and Oranges](https://open.spotify.com/album/6JXuTi5aGr7NIVJy68hyOk) | 3:19 |
+| 20 | [Cellar](https://open.spotify.com/track/6K4uQfVY4NGXQXx9Gq8LQa) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Cellar](https://open.spotify.com/album/2dWyq4IXlTxi8u5w1khJ5J) | 2:43 |
 | 21 | [Silent Bloom](https://open.spotify.com/track/2ESAE30bJPEvyvfDE5oh1T) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Silent Bloom](https://open.spotify.com/album/4zKinGSo2A4tBIunlolmbJ) | 2:10 |
 | 22 | [The Long Way Home](https://open.spotify.com/track/0as3Ar1l4C2iHxQhhy7GIS) | [Elio Esyro](https://open.spotify.com/artist/6pYzoU8lYhRzfHPGAJkVe6) | [The Long Way Home](https://open.spotify.com/album/7xPC0t2qN4l3dIrh8vfWTY) | 2:05 |
 | 23 | [At Rest](https://open.spotify.com/track/3Cyslf8Sbb2MhISVhfI9Pw) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [At Rest](https://open.spotify.com/album/2srYAaDy9XqK2Go6nUmzC4) | 2:18 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 152 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
 | 153 | [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 |
 
-Snapshot ID: `AAAAAJfL6CoTh2oT7li5DEIzRftXqoIs`
+Snapshot ID: `AAAAAMwq7GWQ7sybJ/ABrYp3zimr2CVR`

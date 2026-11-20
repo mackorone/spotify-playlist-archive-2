@@ -1,12 +1,12 @@
 {
-  "description": "The biggest hits from country artists around the globe. Cover: Owen Riegling",
-  "num_followers": 343734,
+  "description": "The biggest hits from country artists around the globe. Cover: Rick Duff, Gustavo Mioto",
+  "num_followers": 343758,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGe46NWlqemLU34GSfKp5ddFT+yH",
+  "snapshot_id": "AAAAAPkZFRMlg/CUfdlnoRXBskF1TKp3",
   "tracks": [
     {
       "added_at": "2026-11-13 05:02:03",
@@ -41,20 +41,24 @@
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
-      "added_at": "2026-11-13 05:02:03",
+      "added_at": "2026-11-20 05:03:12",
       "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1KrfmGpPI9nI0GhwdAnh6w"
       },
       "artists": [
         {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+          "name": "Rick Duff",
+          "url": "https://open.spotify.com/artist/4MNUaMf0Yl05yY6x342xBH"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         }
       ],
-      "duration_ms": 161285,
-      "name": "Quitter",
-      "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
+      "duration_ms": 171946,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/5vyKIf6vjR0KMzqfgje25d"
     },
     {
       "added_at": "2026-11-13 05:02:03",
@@ -95,18 +99,18 @@
     {
       "added_at": "2026-11-13 05:02:03",
       "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/64xwYQZN8MXVmcuubvOMsl"
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
       },
       "artists": [
         {
-          "name": "Cammy Barnes",
-          "url": "https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9"
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
         }
       ],
-      "duration_ms": 197011,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/3ni5OnXcVfLaOaO0GptY3a"
+      "duration_ms": 161285,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
     },
     {
       "added_at": "2026-11-13 05:02:03",
@@ -131,18 +135,18 @@
     {
       "added_at": "2026-11-13 05:02:03",
       "album": {
-        "name": "How It Ends",
-        "url": "https://open.spotify.com/album/21ejtIpAF27jhRps6Doi6g"
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/64xwYQZN8MXVmcuubvOMsl"
       },
       "artists": [
         {
-          "name": "Mack Geiger",
-          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+          "name": "Cammy Barnes",
+          "url": "https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9"
         }
       ],
-      "duration_ms": 221429,
-      "name": "How It Ends",
-      "url": "https://open.spotify.com/track/2mAg9WpZyXO0F6zMdL1MiC"
+      "duration_ms": 197011,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/3ni5OnXcVfLaOaO0GptY3a"
     },
     {
       "added_at": "2026-11-13 05:02:03",
@@ -163,8 +167,8 @@
     {
       "added_at": "2026-11-13 05:02:03",
       "album": {
-        "name": "String By",
-        "url": "https://open.spotify.com/album/1xyWDZIbW5NWpTGaSP6rYn"
+        "name": "How It Ends",
+        "url": "https://open.spotify.com/album/21ejtIpAF27jhRps6Doi6g"
       },
       "artists": [
         {
@@ -172,9 +176,9 @@
           "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
         }
       ],
-      "duration_ms": 195000,
-      "name": "String By",
-      "url": "https://open.spotify.com/track/4eKboSkfneEWs7JzWHbvQW"
+      "duration_ms": 221429,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/2mAg9WpZyXO0F6zMdL1MiC"
     },
     {
       "added_at": "2026-11-13 05:02:03",
@@ -615,18 +619,22 @@
     {
       "added_at": "2026-11-13 05:02:03",
       "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 171782,
-      "name": "Austin (Boots Stop Workin')",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
     },
     {
       "added_at": "2026-11-13 05:02:03",
@@ -651,26 +659,6 @@
     {
       "added_at": "2026-11-13 05:02:03",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 184517,
-      "name": "What I Want (feat. Tate McRae)",
-      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
-    },
-    {
-      "added_at": "2026-11-13 05:02:03",
-      "album": {
         "name": "True Believers",
         "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
       },
@@ -683,6 +671,22 @@
       "duration_ms": 298373,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
+    },
+    {
+      "added_at": "2026-11-13 05:02:03",
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin (Boots Stop Workin')",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
       "added_at": "2026-11-13 05:02:03",
@@ -1351,22 +1355,6 @@
     {
       "added_at": "2026-11-13 05:02:03",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
-    },
-    {
-      "added_at": "2026-11-13 05:02:03",
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -1379,6 +1367,22 @@
       "duration_ms": 212200,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
+    },
+    {
+      "added_at": "2026-11-13 05:02:03",
+      "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2026-11-13 05:02:03",

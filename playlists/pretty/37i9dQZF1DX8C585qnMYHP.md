@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. B0YG1RL on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,701 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,729 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 74 | [Tabla Trouble](https://open.spotify.com/track/27RpDOjJDvKj0hxLT8WJI7) | [Yung Singh](https://open.spotify.com/artist/47lrOrvCYsOUCEQQsj119K) | [Bloom](https://open.spotify.com/album/75j4MCwiUguw0TPsAHvhXp) | 5:53 |
 | 75 | [JV Jordan](https://open.spotify.com/track/3ZMAVbspTpxPB7LFkTiQBg) | [Donatell](https://open.spotify.com/artist/02fjEKYRLC2XhQrTKLJy3d), [Zack Sekoff](https://open.spotify.com/artist/2Jk17dvbqUDGvraV7KyLrq) | [Water, CA](https://open.spotify.com/album/2JV2XSr6HdiSJt7DIGGNvr) | 2:41 |
 
-Snapshot ID: `AAAAAFX+sNW4yUU93qXHNv+mb8Dm9mvy`
+Snapshot ID: `AAAAANwZxU7eKpPlEucu5lK/HGDF9fwl`

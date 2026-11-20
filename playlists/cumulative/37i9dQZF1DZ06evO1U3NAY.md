@@ -4,7 +4,7 @@
 
 > This is Within Temptation\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 27 min
+61 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,11 +62,12 @@
 | [The Howling](https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:33 | 2025-03-08 |  |
 | [The Purge](https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:16 | 2025-03-08 |  |
 | [The Reckoning](https://open.spotify.com/track/6XnPopwCZ6odHVVqMsllL5) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 4:11 | 2025-03-08 |  |
+| [Through Fire & Ashes](https://open.spotify.com/track/6zXOb0twqoNTKfhckpzvjj) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Through Fire & Ashes](https://open.spotify.com/album/7f1msXBK4lKC77wXUaLdg0) | 4:28 | 2026-11-20 |  |
 | [Unbroken](https://open.spotify.com/track/7p54w8swC934fosq86wnRS) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 5:08 | 2025-03-08 | 2026-01-15 |
 | [We Go To War](https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:19 | 2025-03-08 |  |
 | [What Have You Done \(feat\. Keith Caputo\)](https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Keith Caputo](https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:13 | 2025-03-08 |  |
 | [Whole World Is Watching \(feat\. Dave Pirner\)](https://open.spotify.com/track/4KfTYPo9x23c4tuuRptg1d) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Dave Pirner](https://open.spotify.com/artist/0DGexM9UeEMijhLRbKetCN) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 4:03 | 2025-03-08 |  |
 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 | 2025-03-08 |  |
-| [Worth Dying For](https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:53 | 2025-03-08 |  |
+| [Worth Dying For](https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:53 | 2025-03-08 | 2026-11-20 |
 
 \*This playlist was first scraped on 2025-03-08. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 237135,
+  "num_followers": 237146,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAD6QOJTifGDJhK8gl/B5ldG",
+  "snapshot_id": "avzqgAAAAACrz7NbADZweuPg9A+tdr7g",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 358866,
+      "name": "Practice What You Preach",
+      "url": "https://open.spotify.com/track/6sXG1eN73jcuEcBN3f5W9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 433226,
+      "name": "Playing Your Game, Baby",
+      "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back On The Block",
         "url": "https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82"
       },
@@ -299,38 +331,6 @@
       "duration_ms": 401066,
       "name": "The Secret Garden (Sweet Seduction Suite)",
       "url": "https://open.spotify.com/track/3PZW66625MiyEmZaat7tce"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 433226,
-      "name": "Playing Your Game, Baby",
-      "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 358866,
-      "name": "Practice What You Preach",
-      "url": "https://open.spotify.com/track/6sXG1eN73jcuEcBN3f5W9s"
     },
     {
       "added_at": null,
@@ -683,38 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Q's Jook Joint",
-        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        },
-        {
-          "name": "Portrait",
-          "url": "https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 450600,
-      "name": "Slow Jams",
-      "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Put Me In Your Mix",
         "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
       },
@@ -743,6 +711,38 @@
       "duration_ms": 220493,
       "name": "I've Found Someone",
       "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Portrait",
+          "url": "https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 450600,
+      "name": "Slow Jams",
+      "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
     },
     {
       "added_at": null,

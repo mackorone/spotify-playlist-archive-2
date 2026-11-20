@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 499072,
+  "num_followers": 499081,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAATSyh8Kb4a8KNH3xk8Vb+5",
+  "snapshot_id": "avzqgAAAAAATlbrYSGdxMGkWyR3UjSVd",
   "tracks": [
     {
       "added_at": null,
@@ -311,18 +311,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
+        "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
+        "url": "https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t"
       },
       "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 151011,
-      "name": "Hotel Lobby",
-      "url": "https://open.spotify.com/track/3t6D3tZXVIuy8SwT7Pcc6N"
+      "duration_ms": 296011,
+      "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
+      "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
     },
     {
       "added_at": null,
@@ -367,30 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
-        "url": "https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t"
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
       },
       "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 296011,
-      "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
-      "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
+      "duration_ms": 151011,
+      "name": "Hotel Lobby",
+      "url": "https://open.spotify.com/track/3t6D3tZXVIuy8SwT7Pcc6N"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 120827,
-      "name": "More Time",
-      "url": "https://open.spotify.com/track/5QA4kqSHJJc4oZggCB5aYS"
+      "duration_ms": 123549,
+      "name": "Coupe",
+      "url": "https://open.spotify.com/track/7AMsqVsxf8mnKbmRfXrLeu"
     },
     {
       "added_at": null,
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 123549,
-      "name": "Coupe",
-      "url": "https://open.spotify.com/track/7AMsqVsxf8mnKbmRfXrLeu"
+      "duration_ms": 120827,
+      "name": "More Time",
+      "url": "https://open.spotify.com/track/5QA4kqSHJJc4oZggCB5aYS"
     }
   ],
   "unique_name": "This Is Pop Smoke",

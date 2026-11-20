@@ -4601,6 +4601,24 @@
     },
     {
       "album": {
+        "name": "Icchai",
+        "url": "https://open.spotify.com/album/6TONR0LJrct0fMY6arqEQI"
+      },
+      "artists": [
+        {
+          "name": "Madrashe",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "Icchai",
+      "url": "https://open.spotify.com/track/5A9TU1xwPtdsMvYDnUWLHh"
+    },
+    {
+      "album": {
         "name": "Idhan da Life-u",
         "url": "https://open.spotify.com/album/4wjpUrReORkoVTriAQbRNq"
       },
@@ -6064,6 +6082,28 @@
       "duration_ms": 199663,
       "name": "Kadhal Alaiye",
       "url": "https://open.spotify.com/track/3zVaTgEzpYZnYUrYT5TGPC"
+    },
+    {
+      "album": {
+        "name": "KADHAL BABY",
+        "url": "https://open.spotify.com/album/4uu7GF8ECRjoXWQ7IizdnU"
+      },
+      "artists": [
+        {
+          "name": "Neha Venugopal",
+          "url": "https://open.spotify.com/artist/5UN71z4zK3sryzvO1aLUWz"
+        },
+        {
+          "name": "Joseph Vijay",
+          "url": "https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244067,
+      "name": "KADHAL BABY",
+      "url": "https://open.spotify.com/track/29f76u2ruvcyfP9so9dr2d"
     },
     {
       "album": {
@@ -9496,6 +9536,36 @@
       "duration_ms": 162461,
       "name": "Mudhal Murai",
       "url": "https://open.spotify.com/track/4OviPeDTY1Vpms9qSF0HK5"
+    },
+    {
+      "album": {
+        "name": "Mudhal Muraiyaai",
+        "url": "https://open.spotify.com/album/10hjG6ZgjimGtLRcy70IhF"
+      },
+      "artists": [
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        },
+        {
+          "name": "Roshi Ranjith",
+          "url": "https://open.spotify.com/artist/4KtvNPooTp3hXpzdqQufOp"
+        },
+        {
+          "name": "Kalesh Ramanand",
+          "url": "https://open.spotify.com/artist/2U2jQ8K3sEKcCaYSkt0p73"
+        },
+        {
+          "name": "Navin Kannan",
+          "url": "https://open.spotify.com/artist/3wVQcIbAURstU5Yhxc5K8C"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217813,
+      "name": "Mudhal Muraiyaai",
+      "url": "https://open.spotify.com/track/3FsqTKODp1i5Bi6EOB9ZOE"
     },
     {
       "album": {

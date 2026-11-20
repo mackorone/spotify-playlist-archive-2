@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Hammer Head Shark
 
-1,758 songs - 4 day 18 hr 22 min
+1,759 songs - 4 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1293,7 +1293,7 @@
 | [ジューシーマーマレード](https://open.spotify.com/track/5WDwzXGICt44ZaDEAuODHX) | [THE COLLECTORS](https://open.spotify.com/artist/3OV5dcuHvNPXmgPFwXLf37) | [ジューシーマーマレード](https://open.spotify.com/album/1Ag9kXkDqWOZLNHHWJG7yu) | 4:38 | 2022-11-22 | 2022-11-30 |
 | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/album/3spkvo7ENdH913rigIMaKI) | 4:34 | 2022-05-10 | 2022-07-27 |
 | [スカイブルー](https://open.spotify.com/track/76JZBSd8oq8USE4gRwdxtz) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [スカイブルー](https://open.spotify.com/album/4kvE2PgtYvZ0LY3rrKOg0S) | 3:16 | 2022-11-22 | 2022-12-21 |
-| [スキンズ \- Skins](https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [スキンズ \- Skins](https://open.spotify.com/album/763UvrUoMGjPlFkgdpLFIH) | 4:05 | 2026-04-07 |  |
+| [スキンズ \- Skins](https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [スキンズ \- Skins](https://open.spotify.com/album/763UvrUoMGjPlFkgdpLFIH) | 4:05 | 2026-04-07 | 2026-11-20 |
 | [スターダスト](https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [スターダスト](https://open.spotify.com/album/4wXR68a3kHWi9uusIZDRZ0) | 4:48 | 2026-04-14 |  |
 | [スターフィッシュ](https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Pepperoni Quattro](https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq) | 3:40 | 2023-08-22 | 2025-04-23 |
 | [スノードーム](https://open.spotify.com/track/0FYYRa6Ib0tVxw04S07dHo) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [スノードーム](https://open.spotify.com/album/3ruOCYjSB0nWFcFRvYScyS) | 5:27 | 2025-09-02 | 2025-09-24 |
@@ -1457,6 +1457,7 @@
 | [原色](https://open.spotify.com/track/2nOZce6QgOgVbcJu93HZtP) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [COLD DISC](https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ) | 3:48 | 2023-10-10 | 2023-11-01 |
 | [名も無きわたし](https://open.spotify.com/track/1v9BnTpy0TnLqLvYRDWEMH) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [異空 \-IZORA\-](https://open.spotify.com/album/1mTTX0BDszrEBqYCDWofH8) | 4:12 | 2023-04-11 | 2023-04-13 |
 | [名前を呼ぶよ](https://open.spotify.com/track/5iTyiE1jAfmjorzFLc4Frg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [名前を呼ぶよ](https://open.spotify.com/album/5UXiAgBDuYMULAVlRNF3it) | 4:37 | 2023-07-25 | 2024-02-07 |
+| [君がいるはずの駅](https://open.spotify.com/track/1sQUFM2bc6mH9zBySp5td0) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [君がいるはずの駅](https://open.spotify.com/album/5peeLIBVjtnNChCRPjLdU5) | 4:01 | 2026-11-17 |  |
 | [君が気高い孤独なら \- 2020 mix & radio edit](https://open.spotify.com/track/2FrouqWUTQxr2jhw6KdKqf) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [THE ESSENTIAL TRACKS 2005 \- 2020](https://open.spotify.com/album/0cPLqG1ogQ2AhWLTnbRIzt) | 4:38 | 2023-05-16 | 2023-05-24 |
 | [君と僕のメロディ](https://open.spotify.com/track/1spkMgFPcWxnUzrILP5FWC) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [THE SPELLBOUND](https://open.spotify.com/album/3XyMTPPidPjGUoINx4Yenc) | 6:04 | 2022-05-12 | 2022-06-05 |
 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 | 2024-04-23 |  |

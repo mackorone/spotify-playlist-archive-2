@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: The Weeknd
 
-607 songs - 1 day 10 hr 38 min
+608 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 | 2025-06-04 | 2025-10-23 |
 | [KOPI](https://open.spotify.com/track/2EWtkQdW9o8PtIbw0OqNMw) | [NAZU](https://open.spotify.com/artist/37MgONBWvDKXtHSnIo59dk), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [KOPI](https://open.spotify.com/album/5bqruzmuQMjI8YZXIv589g) | 2:54 | 2025-08-13 | 2025-10-30 |
 | [kota ini tak sama tanpamu](https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif \(laman berikutnya\)](https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC) | 4:39 | 2026-01-14 |  |
-| [Ku Yang Berjuang](https://open.spotify.com/track/5PuB13djUK6iIzaikLM8KG) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Ku Yang Berjuang](https://open.spotify.com/album/60xClKYJnGS6wEI2Kx8ebo) | 3:42 | 2026-10-01 |  |
+| [Ku Yang Berjuang](https://open.spotify.com/track/5PuB13djUK6iIzaikLM8KG) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Ku Yang Berjuang](https://open.spotify.com/album/60xClKYJnGS6wEI2Kx8ebo) | 3:42 | 2026-10-01 | 2026-11-20 |
 | [Kudeta \(From Astro Shaw's "Kahar Kapla High Council"\)](https://open.spotify.com/track/6umkauU8LpyxSBZnfsupA4) | [Eleven Tonight](https://open.spotify.com/artist/2V37vdVydcJ12vTjsTQVZe), [Amir Ahnaf](https://open.spotify.com/artist/2iJlLP7E7S7ueRA0VzgrQF), [Riko Agus](https://open.spotify.com/artist/5nj6Zfl38Dg82VdFTtoK0X) | [Kudeta \(From Astro Shaw's "Kahar Kapla High Council"\)](https://open.spotify.com/album/2TsH6MxGuBg20GOE6JXGTX) | 3:41 | 2024-12-26 | 2025-01-23 |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-06-26 | 2025-01-23 |
 | [lagu lelaki gila.](https://open.spotify.com/track/4sINZgO9lCH2eGUjSjrWP4) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO) | [ep : lelaki gila.](https://open.spotify.com/album/3RXgM47NAKjBGiAj5syiIF) | 3:45 | 2025-02-05 | 2025-05-08 |
@@ -430,6 +430,7 @@
 | [Saham Naik](https://open.spotify.com/track/7nZO67lj0rbx9RLzc9KxmG) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [The Storm](https://open.spotify.com/album/3W0brGF5pZDWpEjjmupzB6) | 2:50 | 2025-01-29 | 2025-02-13 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-21 | 2024-09-19 |
 | [Saksama](https://open.spotify.com/track/0T8Abj1Clb3VVYQouHzyiB) | [Akim And The Majistret](https://open.spotify.com/artist/7JH3Oqfoa7PwVSbxi0p69L) | [Saksama](https://open.spotify.com/album/5leCds9a6kmSUWU2c0zHbM) | 3:09 | 2025-02-26 | 2025-04-17 |
+| [Salah Apa Aku](https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Sementara, Selamanya](https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD) | 3:47 | 2026-11-20 |  |
 | [Salahkah Aku?](https://open.spotify.com/track/4yiWEkos7y6kzqWTZGLF1l) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh) | [Salahkah Aku?](https://open.spotify.com/album/1vpe9NBN0SN5c0BoEPI8wJ) | 4:04 | 2024-12-04 | 2025-01-02 |
 | [Salahkan Aku](https://open.spotify.com/track/49scMthrCIQrdoSz5mgyOn) | [Fimie Don](https://open.spotify.com/artist/1zXDRPtYIB5xIK8oH4Bht0) | [Salahkan Aku](https://open.spotify.com/album/7vLyFl8C95jJD3u9Df4lhm) | 3:15 | 2024-06-26 | 2024-10-17 |
 | [Salleh Wakeup!](https://open.spotify.com/track/2kZKQ1q2rw5mSnFg25rSkl) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 5:05 | 2024-08-14 | 2024-09-12 |

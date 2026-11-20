@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 53260,
+  "num_followers": 53280,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL7MNijQVVZ9De/bv4c4Z4JEHl4D",
+  "snapshot_id": "AAAAAHrNhYOxB4vNUlV2jVw1/aIhKkab",
   "tracks": [
     {
       "added_at": "2020-02-10 14:27:21",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "De Stilte Voorbij",
-        "url": "https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2"
-      },
-      "artists": [
-        {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Onderweg",
-      "url": "https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Stream",
         "url": "https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 226466,
       "name": "W\u00ear Bisto",
       "url": "https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "De Stilte Voorbij",
+        "url": "https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Onderweg",
+      "url": "https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6"
     },
     {
       "added_at": "2020-02-10 14:27:21",

@@ -6589,6 +6589,24 @@
     },
     {
       "album": {
+        "name": "The Secret of Christmas (Arr. Lawson)",
+        "url": "https://open.spotify.com/album/5GIs4SH4yuVvsBguie78Bz"
+      },
+      "artists": [
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187360,
+      "name": "The Secret of Christmas (Arr. Lawson)",
+      "url": "https://open.spotify.com/track/4Ai7FiGuHFuRXM56sd10IS"
+    },
+    {
+      "album": {
         "name": "Favourite Carols from King's",
         "url": "https://open.spotify.com/album/3SBTbZQLObtqqw8Zp4LjUR"
       },
@@ -7404,6 +7422,24 @@
       "duration_ms": 303040,
       "name": "Winter",
       "url": "https://open.spotify.com/track/3Sa94DNFUGovWowMqwrMHd"
+    },
+    {
+      "album": {
+        "name": "Winter Echoes",
+        "url": "https://open.spotify.com/album/0hMd02RkrouM5NE4VoQz2L"
+      },
+      "artists": [
+        {
+          "name": "Eunike Tanzil",
+          "url": "https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127878,
+      "name": "Winter Echoes",
+      "url": "https://open.spotify.com/track/5ndPnBTNgP0A5gzWKAdrL8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4P0ijJK5lUv"

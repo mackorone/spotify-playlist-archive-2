@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 245470,
+  "num_followers": 245487,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAACUYlmFJYZh5OWp6Wx2BAl0",
+  "snapshot_id": "avzqgAAAAACX9QKprllHn/HcYk8WDBGW",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "El Presente (Unplugged) (En Vivo)",
+      "url": "https://open.spotify.com/track/713yeila63kevWr0gqwTxO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 182586,
       "name": "El Ladr\u00f3n (with Julieta Venegas)",
       "url": "https://open.spotify.com/track/7oRifTMLmeNCnTGtDH7KLV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "El Presente (Unplugged) (En Vivo)",
-      "url": "https://open.spotify.com/track/713yeila63kevWr0gqwTxO"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Oleada",
-      "url": "https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 220253,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Oleada",
+      "url": "https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Mala Memoria",
-      "url": "https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Enamorada",
         "url": "https://open.spotify.com/album/2wWn3Oe1yiSru7kWwDdTdS"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 141493,
       "name": "Mis Muertos",
       "url": "https://open.spotify.com/track/68GLBxMVUCIpY7WhThAAmU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Mala Memoria",
+      "url": "https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0"
     },
     {
       "added_at": null,

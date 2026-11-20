@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Lumï
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,908 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,911 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lonely Nights](https://open.spotify.com/track/0oTEUS0vzW6jH3nFPtkyOv) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [Lonely Nights](https://open.spotify.com/album/2Ibk1XAmRaYezo52OgBm0w) | 2:48 |
 | 2 | [Silver Springs \- Spotify Singles](https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Silver Springs \(Spotify Singles\)](https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k) | 3:20 |
 | 3 | [LY](https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [LY](https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c) | 3:24 |
-| 4 | [the swirl ahead](https://open.spotify.com/track/27ZmSXesKoqMsddzfRhJon) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe) | [the swirl ahead](https://open.spotify.com/album/4NFxpzYHexFWxPsFz1u0nT) | 3:16 |
-| 5 | [FERAL CHILD ;\-0](https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY III](https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY) | 2:39 |
-| 6 | [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 |
-| 7 | [Elvis \(feat\. Brendan Yates\)](https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:11 |
-| 8 | [Lorazepam \(ESF "Bonus Round"\)](https://open.spotify.com/track/3AXWgOtbWI2iz0M8A1RViV) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far – 11th Anniversary Edition](https://open.spotify.com/album/4yfGudqYBn02zyl5OzZIOe) | 4:16 |
-| 9 | [Honeymoon](https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Honeymoon](https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l) | 3:08 |
-| 10 | [MISTLAMP/ZOEKLICHT](https://open.spotify.com/track/5a6DijkrU2CLzbJ9gxGNmQ) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [MAN, OH MAN](https://open.spotify.com/album/0rgDHNMm3nTH0f8NsE8YkG) | 2:58 |
-| 11 | [SLECHT!](https://open.spotify.com/track/10DfdNjRokrQcRVlIR3Sb8) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [NAAKT](https://open.spotify.com/album/1r86G5dzwNkGLOLSAJVJEV) | 2:44 |
-| 12 | [Love Together](https://open.spotify.com/track/77QyJKsK22FPwOEbTKVh8o) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Champain \(Deluxe\)](https://open.spotify.com/album/7q6eRfzS06vGW7b52gGkEx) | 3:42 |
-| 13 | [If I'm Dead](https://open.spotify.com/track/1loytgYTOHcGYq8sO6R2dZ) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [If I'm Dead](https://open.spotify.com/album/0cUHAnEo4NpQJTJUMQF1TW) | 3:02 |
-| 14 | [Land](https://open.spotify.com/track/7MB1tKZya7KsesEn5F1XkD) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Fly 1111](https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM) | 3:25 |
-| 15 | [Bloom](https://open.spotify.com/track/16eC6kYiQlUZRSfnARss5Q) | [uwase](https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr) | [Bloom](https://open.spotify.com/album/4GplUUKTt0yY6DDTjwGwm0) | 2:44 |
-| 16 | [PrettyGurlsCry](https://open.spotify.com/track/4qMYzzYBjEKP3cy9wagGQS) | [Sono](https://open.spotify.com/artist/1rqTdeAUueerplGZnYHR39) | [LoveQuest](https://open.spotify.com/album/5PzZOi7Qed7rMjn6p3FY65) | 3:27 |
-| 17 | [Balcony](https://open.spotify.com/track/2IB4itue6EUReMjhpTvSoh) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Hollowbody](https://open.spotify.com/album/4UelZbXLzeHu2g8WGH18Y4) | 3:15 |
-| 18 | [YES](https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [YES](https://open.spotify.com/album/0FiarOgpwaZ18ZvTy7dlXc) | 3:10 |
-| 19 | [Am I Even Real?](https://open.spotify.com/track/3Rc5SHPyUIRMB9TpnxexG4) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Am I Even Real?](https://open.spotify.com/album/1MZ3R0UZI9XpGxGrTfswJX) | 3:36 |
-| 20 | [Deep Blue](https://open.spotify.com/track/5IlF14TaFNSN7zNkRyGgas) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Deep Blue](https://open.spotify.com/album/5UBT8VuOkdqNZzt0BNMI9q) | 3:31 |
+| 4 | [Deep Blue](https://open.spotify.com/track/5IlF14TaFNSN7zNkRyGgas) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Deep Blue](https://open.spotify.com/album/5UBT8VuOkdqNZzt0BNMI9q) | 3:31 |
+| 5 | [the swirl ahead](https://open.spotify.com/track/27ZmSXesKoqMsddzfRhJon) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe) | [the swirl ahead](https://open.spotify.com/album/4NFxpzYHexFWxPsFz1u0nT) | 3:16 |
+| 6 | [FERAL CHILD ;\-0](https://open.spotify.com/track/3piymdCmCYONn6VT8mOjlW) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY III](https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY) | 2:39 |
+| 7 | [Sad Girl \(feat\. Ichika Nito & Gabba\)](https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Gabba](https://open.spotify.com/artist/6tvCQZS4d1wJ9cA9Gl0ZqP) | [Very Ancient Way of Crying](https://open.spotify.com/album/3xbauaiHd7Ah6wzGjfmoYo) | 3:22 |
+| 8 | [Elvis \(feat\. Brendan Yates\)](https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:11 |
+| 9 | [Lorazepam \(ESF "Bonus Round"\)](https://open.spotify.com/track/3AXWgOtbWI2iz0M8A1RViV) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far – 11th Anniversary Edition](https://open.spotify.com/album/4yfGudqYBn02zyl5OzZIOe) | 4:16 |
+| 10 | [Honeymoon](https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Honeymoon](https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l) | 3:08 |
+| 11 | [MISTLAMP/ZOEKLICHT](https://open.spotify.com/track/5a6DijkrU2CLzbJ9gxGNmQ) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [MAN, OH MAN](https://open.spotify.com/album/0rgDHNMm3nTH0f8NsE8YkG) | 2:58 |
+| 12 | [SLECHT!](https://open.spotify.com/track/10DfdNjRokrQcRVlIR3Sb8) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [NAAKT](https://open.spotify.com/album/1r86G5dzwNkGLOLSAJVJEV) | 2:44 |
+| 13 | [Love Together](https://open.spotify.com/track/77QyJKsK22FPwOEbTKVh8o) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn) | [Champain \(Deluxe\)](https://open.spotify.com/album/7q6eRfzS06vGW7b52gGkEx) | 3:42 |
+| 14 | [If I'm Dead](https://open.spotify.com/track/1loytgYTOHcGYq8sO6R2dZ) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [If I'm Dead](https://open.spotify.com/album/0cUHAnEo4NpQJTJUMQF1TW) | 3:02 |
+| 15 | [Land](https://open.spotify.com/track/7MB1tKZya7KsesEn5F1XkD) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Fly 1111](https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM) | 3:25 |
+| 16 | [Bloom](https://open.spotify.com/track/16eC6kYiQlUZRSfnARss5Q) | [uwase](https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr) | [Bloom](https://open.spotify.com/album/4GplUUKTt0yY6DDTjwGwm0) | 2:44 |
+| 17 | [PrettyGurlsCry](https://open.spotify.com/track/4qMYzzYBjEKP3cy9wagGQS) | [Sono](https://open.spotify.com/artist/1rqTdeAUueerplGZnYHR39) | [LoveQuest](https://open.spotify.com/album/5PzZOi7Qed7rMjn6p3FY65) | 3:27 |
+| 18 | [Balcony](https://open.spotify.com/track/2IB4itue6EUReMjhpTvSoh) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Hollowbody](https://open.spotify.com/album/4UelZbXLzeHu2g8WGH18Y4) | 3:15 |
+| 19 | [YES](https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [YES](https://open.spotify.com/album/0FiarOgpwaZ18ZvTy7dlXc) | 3:10 |
+| 20 | [Am I Even Real?](https://open.spotify.com/track/3Rc5SHPyUIRMB9TpnxexG4) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Am I Even Real?](https://open.spotify.com/album/1MZ3R0UZI9XpGxGrTfswJX) | 3:36 |
 | 21 | [Beluga In The Seine](https://open.spotify.com/track/37ccTgeR7XHUbEX8aKTSfU) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Beluga In The Seine](https://open.spotify.com/album/6oyynCuZeZvBhrZWyQ4dpO) | 3:46 |
 | 22 | [Texas in Flaming Tongues](https://open.spotify.com/track/6uE4NJuNswdm3DpVqXTCTG) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [Doom Country](https://open.spotify.com/album/5vSqwLudI1148yxdAD80uG) | 4:03 |
 | 23 | [Wry Water](https://open.spotify.com/track/6Nwpo3Uz65yYNUakzUbf3f) | [Patches](https://open.spotify.com/artist/6doDaUbbcBJCFyLEvJPmlh) | [Pickery Performance](https://open.spotify.com/album/1b46aVQdnCBPlKRIMq2yIH) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [WALLFLOWER](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [WALLFLOWER](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 |
 | 100 | [Mediocre Woman](https://open.spotify.com/track/6PRW3ShE1tmjy7c4ZWYFx4) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Mediocre Woman](https://open.spotify.com/album/6d5vo8xtAwHLiM0JXi2kP6) | 3:28 |
 
-Snapshot ID: `AAAAAG54JqSYizAukEmJo9eIixUYYlvi`
+Snapshot ID: `AAAAABjWwnUFiLg3gVsVIAw0Gt5lRjvs`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Fall Out Boy",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Thundermother",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -616,7 +616,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 238939,
       "name": "About You - Bonus Version",
       "url": "https://open.spotify.com/track/07f2UG1AH6Z1zv4LeGgUSA"
@@ -1938,6 +1938,24 @@
       "duration_ms": 221500,
       "name": "Bad Thoughts",
       "url": "https://open.spotify.com/track/4Yi6q2kLPdMxYRbICdXL02"
+    },
+    {
+      "album": {
+        "name": "Bad Vibe",
+        "url": "https://open.spotify.com/album/6pRiIH5mMRYIiFrgVeunTr"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196138,
+      "name": "Bad Vibe",
+      "url": "https://open.spotify.com/track/33kmbK1QWUhJb05rL5vV9F"
     },
     {
       "album": {
@@ -6045,6 +6063,24 @@
     },
     {
       "album": {
+        "name": "EPITAPH",
+        "url": "https://open.spotify.com/album/5OodKM4uld9oWTq1ZI28uj"
+      },
+      "artists": [
+        {
+          "name": "MUDRAT",
+          "url": "https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188226,
+      "name": "EPITAPH",
+      "url": "https://open.spotify.com/track/0PU4ouHMxR2mvPLIh3rkTD"
+    },
+    {
+      "album": {
         "name": "Escalation",
         "url": "https://open.spotify.com/album/5NaORksrNe1fa1LUGGyvx7"
       },
@@ -6276,7 +6312,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217189,
       "name": "Everything Is Fine",
       "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
@@ -7576,7 +7612,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192662,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5LdXaagxNv16sMktjnJAzp"
@@ -7808,6 +7844,28 @@
       "duration_ms": 139571,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/595wNiuyUoaBsGY4lIm7WI"
+    },
+    {
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/3aU5OUjdkdbL8q2aOSl20T"
+      },
+      "artists": [
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        },
+        {
+          "name": "Enemy Inside",
+          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253935,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/51wai5Fn2EuJ71GzbsSoXt"
     },
     {
       "album": {
@@ -9851,6 +9909,24 @@
     },
     {
       "album": {
+        "name": "IDWK",
+        "url": "https://open.spotify.com/album/0T5MYDnUD21ePzZAqogtaA"
+      },
+      "artists": [
+        {
+          "name": "FLOYA",
+          "url": "https://open.spotify.com/artist/1jGACwVpRJvsOfg29pM5L7"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217583,
+      "name": "IDWK",
+      "url": "https://open.spotify.com/track/7hMfavTn5u7UJfr0ajA1SP"
+    },
+    {
+      "album": {
         "name": "IF IT DOESN'T HURT",
         "url": "https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo"
       },
@@ -10018,7 +10094,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 273906,
       "name": "In A Life",
       "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
@@ -10856,6 +10932,32 @@
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+    },
+    {
+      "album": {
+        "name": "L.I.Y.",
+        "url": "https://open.spotify.com/album/1tgk7QT89v49FdBAjPSEZD"
+      },
+      "artists": [
+        {
+          "name": "Flash Forward",
+          "url": "https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB"
+        },
+        {
+          "name": "Lifespark.",
+          "url": "https://open.spotify.com/artist/5Hb2LAz1HTH6x92aONq729"
+        },
+        {
+          "name": "Pentastone",
+          "url": "https://open.spotify.com/artist/2Ga7dFa3QASOZpORTAUD8l"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188462,
+      "name": "L.I.Y. - Single Edit",
+      "url": "https://open.spotify.com/track/6onfuXZ5fRlmpWwJgcOu1F"
     },
     {
       "album": {
@@ -11964,7 +12066,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 193255,
       "name": "Lover / Loser",
       "url": "https://open.spotify.com/track/2aW0hN9SymWXlwzqKLjvlR"
@@ -14556,7 +14658,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 209443,
       "name": "Paradise Pit",
       "url": "https://open.spotify.com/track/3dkcdkm35tdjv9xMgyIwBv"
@@ -15212,7 +15314,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 186388,
       "name": "Prot\u00e9g\u00e9",
       "url": "https://open.spotify.com/track/23uXxwZcuhuk4V8cx8YAoG"
@@ -15418,7 +15520,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 171346,
       "name": "Rag Doll (feat. As Everything Unfolds & Lake Malice)",
       "url": "https://open.spotify.com/track/41mHLhbzPkf8HBm1fgmkgk"
@@ -15596,7 +15698,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 183096,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/2BLQtZ41tplwKFJnDSUhCD"
@@ -16425,6 +16527,24 @@
     },
     {
       "album": {
+        "name": "Room 313",
+        "url": "https://open.spotify.com/album/6e0CTOQ8CyLMX4dZ5Zyu7g"
+      },
+      "artists": [
+        {
+          "name": "The Journey Back",
+          "url": "https://open.spotify.com/artist/55CvD5dJc8ykAoramtPS71"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Searching For You",
+      "url": "https://open.spotify.com/track/4YKseHMSPwFAFXZd6jfooU"
+    },
+    {
+      "album": {
         "name": "Seasonal Depression",
         "url": "https://open.spotify.com/album/2eP2gDIgfJctylDFTcmqDc"
       },
@@ -17226,7 +17346,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 136923,
       "name": "So Fed Up",
       "url": "https://open.spotify.com/track/1cQOaDnacEZSq0czBEUAWK"
@@ -17830,6 +17950,24 @@
       "duration_ms": 234657,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn"
+    },
+    {
+      "album": {
+        "name": "Strings of Fate",
+        "url": "https://open.spotify.com/album/1JRfQITGdbUjLnrhwGnsK7"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192838,
+      "name": "Strings of Fate",
+      "url": "https://open.spotify.com/track/74lfSiAHg1z7qfjai64qHg"
     },
     {
       "album": {
@@ -19493,6 +19631,28 @@
     },
     {
       "album": {
+        "name": "Through Fire & Ashes",
+        "url": "https://open.spotify.com/album/7f1msXBK4lKC77wXUaLdg0"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268058,
+      "name": "Through Fire & Ashes",
+      "url": "https://open.spotify.com/track/6zXOb0twqoNTKfhckpzvjj"
+    },
+    {
+      "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/2CTuRe30h0BmwHtKD7e7lV"
       },
@@ -19562,6 +19722,24 @@
       "duration_ms": 179523,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/2XTj3tBFWaWMdIS4LHdxAf"
+    },
+    {
+      "album": {
+        "name": "Time Is Never Wasted (When Your're Wasted All The Time)",
+        "url": "https://open.spotify.com/album/5xkbOk2wsP1VfTiEKQeFqq"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230466,
+      "name": "Time Is Never Wasted (When You're Wasted All The Time)",
+      "url": "https://open.spotify.com/track/08ELV601CJbdE4pdV5NOVD"
     },
     {
       "album": {
@@ -19782,6 +19960,24 @@
       "duration_ms": 410840,
       "name": "Total Annihilation",
       "url": "https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3"
+    },
+    {
+      "album": {
+        "name": "Tracing Shadows",
+        "url": "https://open.spotify.com/album/487LCPexErIGpUTEdgFwjd"
+      },
+      "artists": [
+        {
+          "name": "MAVIS",
+          "url": "https://open.spotify.com/artist/6zGzRIBkAMQ2uQn3z8OEyf"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235263,
+      "name": "Tracing Shadows",
+      "url": "https://open.spotify.com/track/4QZaJUBAVHDAdLCniyVVQA"
     },
     {
       "album": {
@@ -20220,6 +20416,24 @@
       "duration_ms": 196112,
       "name": "Unshatter",
       "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
+    },
+    {
+      "album": {
+        "name": "Until The Day",
+        "url": "https://open.spotify.com/album/3jp10CgVr65lg0lR2hlRcI"
+      },
+      "artists": [
+        {
+          "name": "Swallow's Rose",
+          "url": "https://open.spotify.com/artist/6tJMwSfznqmbuudBww2qUw"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221660,
+      "name": "Until The Day",
+      "url": "https://open.spotify.com/track/24EcYXRdMO5bvAG2vqmtnM"
     },
     {
       "album": {
@@ -20998,7 +21212,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184064,
       "name": "WHAAT",
       "url": "https://open.spotify.com/track/01b5R3pLGj6n3tI54zEx9u"

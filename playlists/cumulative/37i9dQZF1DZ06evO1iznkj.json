@@ -236,6 +236,28 @@
     {
       "album": {
         "name": "CLARITY OF MIND (EXTENDED)",
+        "url": "https://open.spotify.com/album/3JCrhHb1xMqHUXoNyu0jkz"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125367,
+      "name": "BACK TO LAGOS",
+      "url": "https://open.spotify.com/track/7uxgPffrHiOF64gxIWzMDB"
+    },
+    {
+      "album": {
+        "name": "CLARITY OF MIND (EXTENDED)",
         "url": "https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud"
       },
       "artists": [
@@ -250,7 +272,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 125367,
       "name": "BACK TO LAGOS (feat. Gunna)",
       "url": "https://open.spotify.com/track/1MFulYZ17VNHqJFfPK6HO1"
@@ -2127,6 +2149,28 @@
     },
     {
       "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196437,
+      "name": "Spit Propane (feat. Gunna)",
+      "url": "https://open.spotify.com/track/0Gwfb3N7Le6CyiY5rSs4Ty"
+    },
+    {
+      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -2248,7 +2292,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184093,
       "name": "Surf (feat. Gunna)",
       "url": "https://open.spotify.com/track/6igOR5QCn09zAVF2ikZjsV"

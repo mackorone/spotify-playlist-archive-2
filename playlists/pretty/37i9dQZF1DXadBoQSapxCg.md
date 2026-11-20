@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,630 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,636 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 18 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 |
 | 19 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 |
 | 20 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 |
-| 21 | [Ser](https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [S](https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8) | 3:31 |
-| 22 | [Também Quero](https://open.spotify.com/track/3bIVh3GF7hNqPpJYxzCcxU) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm) | [Também Quero](https://open.spotify.com/album/6kW0t87Zimh1JKs91xnc2J) | 3:36 |
+| 21 | [Também Quero](https://open.spotify.com/track/3bIVh3GF7hNqPpJYxzCcxU) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm) | [Também Quero](https://open.spotify.com/album/6kW0t87Zimh1JKs91xnc2J) | 3:36 |
+| 22 | [Ser](https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [S](https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8) | 3:31 |
 | 23 | [Jogo Sujo](https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Jogo Sujo](https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY) | 3:25 |
 | 24 | [São Paulo](https://open.spotify.com/track/0UVNwFoQioR960YIHd5f2D) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [São Paulo](https://open.spotify.com/album/1zfb69TVle95DrRItAr9vq) | 3:52 |
 | 25 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 42 | [1 em 100](https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [1 em 100](https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq) | 3:09 |
 | 43 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 |
 | 44 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
-| 45 | [Fala](https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Contato](https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL) | 3:13 |
-| 46 | [INOCENTE](https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE) | [INOCENTE](https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn) | 2:19 |
+| 45 | [INOCENTE](https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE) | [INOCENTE](https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn) | 2:19 |
+| 46 | [Fala](https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Contato](https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL) | 3:13 |
 | 47 | [Faz A Posição](https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Faz A Posição](https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG) | 2:59 |
 | 48 | [Só um Cadin](https://open.spotify.com/track/1hFyY7ny82inFdS1EkZ0Yj) | [Cadiin](https://open.spotify.com/artist/1PM5aGRr6Nz8iQFTD0vd4L) | [Só um Cadin](https://open.spotify.com/album/6UvJEkU94BUZU4DqVNrNOl) | 2:55 |
 | 49 | [Cupido](https://open.spotify.com/track/5bfimwK5FYHMlaa93448w5) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Cupido](https://open.spotify.com/album/4ikm2H16e81LGmGL1VykAw) | 2:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 59 | [A Noite Toda](https://open.spotify.com/track/6rHhSqNwSOs7H9efSlRVad) | [NoyaNoBeat](https://open.spotify.com/artist/1ZglvfavmB4dk9EqUgcUXU) | [A Noite Toda](https://open.spotify.com/album/317va0OlQTikMVJeEBLLPn) | 2:38 |
 | 60 | [Me Libertar](https://open.spotify.com/track/23KTvudznf4hiOalPcvm8U) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm) | [Me Libertar](https://open.spotify.com/album/4S9bYoXNeHLFpY1DSu5oxr) | 3:25 |
 
-Snapshot ID: `AAAAAKyRnXHLjaEGyt13jo9WUw+pzNrF`
+Snapshot ID: `AAAAAD02BxBbrBxwOKTxUBXo6yMjfbyN`

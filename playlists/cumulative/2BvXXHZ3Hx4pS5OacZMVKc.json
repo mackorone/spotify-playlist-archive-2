@@ -10353,6 +10353,24 @@
     },
     {
       "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/1NvSew3LGTpMahxCZbOJWg"
+      },
+      "artists": [
+        {
+          "name": "YYVON",
+          "url": "https://open.spotify.com/artist/2XfYEstAM52prsYmk7UYTM"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136818,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/46cR5u5fILa0RIFuquFS8h"
+    },
+    {
+      "album": {
         "name": "wherever you go",
         "url": "https://open.spotify.com/album/0jsVD9LAg0oRbZuALxxlzu"
       },

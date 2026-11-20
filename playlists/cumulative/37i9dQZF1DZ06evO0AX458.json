@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(I Can't Get Out Of) My Own Way",
+        "url": "https://open.spotify.com/album/3kjhTh83RH01cJbkbUtT8s"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152196,
+      "name": "(I Can't Get Out Of) My Own Way",
+      "url": "https://open.spotify.com/track/5mx3Sm7ercSZASQBShNrpN"
+    },
+    {
+      "album": {
         "name": "Lament",
         "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
       },

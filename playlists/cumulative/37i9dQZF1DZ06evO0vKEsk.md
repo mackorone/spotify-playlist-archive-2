@@ -4,7 +4,7 @@
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-105 songs - 9 hr 6 min
+106 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Eu Creio \(Ao Vivo\)](https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Creio \(Ao Vivo\)](https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI) | 5:21 | 2026-01-29 | 2026-05-08 |
 | [Eu Creio Nos Planos de Deus \- Ao Vivo](https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv) | 4:04 | 2025-02-08 | 2026-08-12 |
 | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6) | 5:38 | 2025-09-11 |  |
+| [Eu Não Abro Mão](https://open.spotify.com/track/3vqtd4m1uW2NGDbLah3Vl4) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:09 | 2026-11-20 |  |
 | [Eu Quem Merecia](https://open.spotify.com/track/1BjZte7CvFn5GH1326EZ2D) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Eu Quem Merecia](https://open.spotify.com/album/0lRfctxyzSvhNXF9z8WSib) | 5:50 | 2025-08-07 |  |
 | [Eu Quero Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/2Nb9mgW0c83TKElErV1hur) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Quero Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/7dgfrDeBKbyU8ExzdSbtcl) | 5:24 | 2023-07-09 | 2023-07-14 |
 | [Eu Sei que Não Estou Só](https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:38 | 2023-07-09 |  |
@@ -62,7 +63,7 @@
 | [Lindo Coral](https://open.spotify.com/track/6wo5KFryLIFOpCHXVQM74w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:51 | 2025-03-10 | 2025-03-15 |
 | [Lugar Santo](https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 4:13 | 2024-01-15 |  |
 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 | 2024-05-14 | 2026-10-12 |
-| [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 5:33 | 2024-07-15 |  |
+| [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 5:33 | 2024-07-15 | 2026-11-20 |
 | [Melhor Amigo](https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Melhor Amigo](https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU) | 5:35 | 2023-07-09 | 2025-09-28 |
 | [Menina](https://open.spotify.com/track/0LZKa9LD1BGUpRF2znosFZ) | [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Menina](https://open.spotify.com/album/5vdyiT8h1KrYOSiirmjLlu) | 2:53 | 2024-03-29 | 2024-04-26 |
 | [Messias \- Ao Vivo](https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Messias \(Ao Vivo\)](https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu) | 8:09 | 2025-09-28 |  |

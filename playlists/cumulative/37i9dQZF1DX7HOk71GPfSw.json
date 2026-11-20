@@ -3642,7 +3642,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213208,
       "name": "another life",
       "url": "https://open.spotify.com/track/0GrTMiguGCFYmkI67jGvRV"
@@ -7184,7 +7184,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 120705,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5HVJP7mmAjZ5NyMpA6nSas"
@@ -13206,7 +13206,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 140076,
       "name": "DL",
       "url": "https://open.spotify.com/track/07mOfR7PUOzr4cQKDAm7aJ"
@@ -15012,6 +15012,28 @@
       "duration_ms": 174000,
       "name": "electrolove",
       "url": "https://open.spotify.com/track/3zC7QYV0nUVz6kpXG8TkDH"
+    },
+    {
+      "album": {
+        "name": "elevator music",
+        "url": "https://open.spotify.com/album/7i5czfUhuiXEREkk6oPw6g"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146092,
+      "name": "elevator music",
+      "url": "https://open.spotify.com/track/1MsLVmMAsOluMSgFrHuoqy"
     },
     {
       "album": {
@@ -21476,7 +21498,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144657,
       "name": "Hanging On A Minute",
       "url": "https://open.spotify.com/track/0jAYJeZbG2atnZA0Y609HW"
@@ -30984,7 +31006,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 106331,
       "name": "Lovesick Psycho",
       "url": "https://open.spotify.com/track/0lrn6suDeipHPwcyFIdVHw"
@@ -37833,6 +37855,28 @@
     },
     {
       "album": {
+        "name": "parade",
+        "url": "https://open.spotify.com/album/1WP9cfg1iIIr4VGtYICGOg"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        },
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198719,
+      "name": "parade",
+      "url": "https://open.spotify.com/track/4N1wUI18QETZpwd7jRZp5c"
+    },
+    {
+      "album": {
         "name": "Paradiso Nights",
         "url": "https://open.spotify.com/album/4l7gMCLBudiBhun0IGnPWu"
       },
@@ -38200,6 +38244,28 @@
       "duration_ms": 91428,
       "name": "past.years",
       "url": "https://open.spotify.com/track/3jLPx1ssDq6wfTK6VFQJkN"
+    },
+    {
+      "album": {
+        "name": "Pay Day",
+        "url": "https://open.spotify.com/album/1kmkU0pxtcFv4zjMlzEXOl"
+      },
+      "artists": [
+        {
+          "name": "dear cupid.",
+          "url": "https://open.spotify.com/artist/31nUrCOQRMlh4cg7aUpD43"
+        },
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149230,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/198mPHLJy67JzWLTMhyZtX"
     },
     {
       "album": {
@@ -43586,7 +43652,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 108560,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4yJomNT1FtF7FZHG6r57ml"
@@ -48669,6 +48735,32 @@
     },
     {
       "album": {
+        "name": "t'es qui toi?",
+        "url": "https://open.spotify.com/album/0yrx58v9mlzK8dGicGfxib"
+      },
+      "artists": [
+        {
+          "name": "Wolf Cutt",
+          "url": "https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA"
+        },
+        {
+          "name": "Ma\u00efcee",
+          "url": "https://open.spotify.com/artist/7pyfZGDbwdsRidi4yjomoA"
+        },
+        {
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "t'es qui toi?",
+      "url": "https://open.spotify.com/track/5qWYrYE36ImZSrbvd738ge"
+    },
+    {
+      "album": {
         "name": "T-Shirt",
         "url": "https://open.spotify.com/album/04G7zMgiTnEHbU7cXiDRva"
       },
@@ -50773,6 +50865,24 @@
     },
     {
       "album": {
+        "name": "I'm not dead yet",
+        "url": "https://open.spotify.com/album/2lDAHANfuKJAu1w17E9Mhn"
+      },
+      "artists": [
+        {
+          "name": "CMTEN",
+          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195567,
+      "name": "Through my teeth",
+      "url": "https://open.spotify.com/track/5A6h3AGYtwRvP0zO8G0tN6"
+    },
+    {
+      "album": {
         "name": "RX",
         "url": "https://open.spotify.com/album/3VzjCNbQzgONho2DClsF3q"
       },
@@ -51078,6 +51188,24 @@
       "duration_ms": 142784,
       "name": "Todas las Noches",
       "url": "https://open.spotify.com/track/163LYuTnKVArtI4vc98F83"
+    },
+    {
+      "album": {
+        "name": "forever",
+        "url": "https://open.spotify.com/album/1pL88HlG08LipEgku7MIGg"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58536,
+      "name": "toi et moi",
+      "url": "https://open.spotify.com/track/0sTzF7fBV9S2mtyPvT77Cg"
     },
     {
       "album": {
@@ -52116,7 +52244,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159424,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/4Ng4JMlg97GYcW7eDZ0ij0"
@@ -55828,6 +55956,24 @@
       "duration_ms": 205937,
       "name": "YOLO",
       "url": "https://open.spotify.com/track/0tTRPoaUNt8QyfEugN3K7T"
+    },
+    {
+      "album": {
+        "name": "Only Because I Want To",
+        "url": "https://open.spotify.com/album/11KXmnwtagKWedfWIv9fG2"
+      },
+      "artists": [
+        {
+          "name": "Warpstr",
+          "url": "https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "YOU (New York in A Nutshell)",
+      "url": "https://open.spotify.com/track/0vEspY0f3gBrbrKHfDpeBF"
     },
     {
       "album": {

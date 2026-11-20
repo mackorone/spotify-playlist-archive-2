@@ -1,15 +1,127 @@
 {
-  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:4oMzH6lIWPhCdx7KADXLJZ\">Senna</a> ",
-  "num_followers": 8322,
+  "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:3z2daXDBOR0uFDF3TB788X\">Justen de Wildt</a>",
+  "num_followers": 8326,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHTNveUC5OyjzwjKKXJK8WI6XeY2",
+  "snapshot_id": "AAAAAASLNNRCvA8g0ZoKL2G3jEZDZkji",
   "tracks": [
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
+      "album": {
+        "name": "Vrienden Voor Altijd",
+        "url": "https://open.spotify.com/album/6HUkKUsSc7gvuyQ4yLjbhI"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        },
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Samantha Steenwijk",
+          "url": "https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8"
+        }
+      ],
+      "duration_ms": 167898,
+      "name": "Vrienden Voor Altijd",
+      "url": "https://open.spotify.com/track/3WmyRqkjV14uKcueq03IEV"
+    },
+    {
+      "added_at": "2026-11-19 23:01:06",
+      "album": {
+        "name": "Cheerio",
+        "url": "https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "duration_ms": 148815,
+      "name": "Cheerio",
+      "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
+    },
+    {
+      "added_at": "2026-11-19 23:01:06",
+      "album": {
+        "name": "Partytent",
+        "url": "https://open.spotify.com/album/3fGwD8nd8KY9Sk7kesDSOU"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "duration_ms": 162910,
+      "name": "Partytent",
+      "url": "https://open.spotify.com/track/5HndG3ksWnTSf32DUvpyUM"
+    },
+    {
+      "added_at": "2026-11-19 23:01:06",
+      "album": {
+        "name": "Zolang Als Het Kan",
+        "url": "https://open.spotify.com/album/0mhKIkLsJZUJ60YqxHTJ8b"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Zolang Als Het Kan",
+      "url": "https://open.spotify.com/track/1j8CnoN2fMtPrAbxJEs5iW"
+    },
+    {
+      "added_at": "2026-11-19 23:01:06",
+      "album": {
+        "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
+        "url": "https://open.spotify.com/album/4hp8Ylt5gjrnn7JMrQIb4F"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "duration_ms": 185429,
+      "name": "Dat Ze Van Hem Houdt",
+      "url": "https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83"
+    },
+    {
+      "added_at": "2026-11-19 23:01:06",
+      "album": {
+        "name": "Sluit Me In Je Armen",
+        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 163976,
+      "name": "Sluit Me In Je Armen",
+      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
+    },
+    {
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Hey Poes",
         "url": "https://open.spotify.com/album/5eKGfJrhNXed8KYrsJAOkp"
@@ -29,7 +141,7 @@
       "url": "https://open.spotify.com/track/3or3wODEzHipOyhbn9GBZp"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Vuurwerk",
         "url": "https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf"
@@ -49,7 +161,7 @@
       "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Waar Blijf Je Nou",
         "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
@@ -69,7 +181,7 @@
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Silver Springs (Spotify Singles)",
         "url": "https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k"
@@ -85,7 +197,7 @@
       "url": "https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "The Fear That This Is Real",
         "url": "https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4"
@@ -101,7 +213,7 @@
       "url": "https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Wishing Stone",
         "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
@@ -117,7 +229,7 @@
       "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "LY",
         "url": "https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c"
@@ -133,7 +245,7 @@
       "url": "https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "And Then I Woke Up",
         "url": "https://open.spotify.com/album/3coDLWeDJYp3m5iyh6rEFK"
@@ -149,7 +261,7 @@
       "url": "https://open.spotify.com/track/2mrOZHjVK645tRXNUJxcTI"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Dressed Like Boys",
         "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
@@ -165,7 +277,7 @@
       "url": "https://open.spotify.com/track/7crOLVTdtuCxsPVnrZJxSZ"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Meisje Van Het Noorden",
         "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
@@ -185,7 +297,7 @@
       "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Niemand Wil Een Popster",
         "url": "https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ"
@@ -201,7 +313,7 @@
       "url": "https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Ik Haat Je",
         "url": "https://open.spotify.com/album/2KYisYmKm6X6vPqBWZzMMm"
@@ -221,7 +333,7 @@
       "url": "https://open.spotify.com/track/6585feosjoM8XJYrKDMHAi"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "OLYMPIA",
         "url": "https://open.spotify.com/album/7tjANrVYCWX3mxqL6A7q0V"
@@ -249,7 +361,7 @@
       "url": "https://open.spotify.com/track/4ssqFV5CiUDiaoN0AIVxbW"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "REAL W\u00a3T",
         "url": "https://open.spotify.com/album/35dD6e2QnVR4JEZXvdZeQs"
@@ -277,7 +389,7 @@
       "url": "https://open.spotify.com/track/1RvV0atdwwLGQYBnqlD823"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Ereronde (Deluxe)",
         "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
@@ -293,7 +405,7 @@
       "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Team",
         "url": "https://open.spotify.com/album/0fIZfL92hzRoUXA7MCS85f"
@@ -321,7 +433,7 @@
       "url": "https://open.spotify.com/track/5AAmx0PVyKogRIn9bEfO47"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Helaas",
         "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
@@ -345,7 +457,7 @@
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
-      "added_at": "2026-11-12 23:00:35",
+      "added_at": "2026-11-19 23:01:06",
       "album": {
         "name": "Bottega",
         "url": "https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q"
@@ -359,62 +471,6 @@
       "duration_ms": 152500,
       "name": "Bottega",
       "url": "https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv"
-    },
-    {
-      "added_at": "2026-11-12 23:00:35",
-      "album": {
-        "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
-        "url": "https://open.spotify.com/album/4r5YD8D2gp85QTuo6pcv26"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 183509,
-      "name": "Het Komt Door Jou",
-      "url": "https://open.spotify.com/track/5JWHSbwDQIXQP9532k3uqQ"
-    },
-    {
-      "added_at": "2026-11-12 23:00:35",
-      "album": {
-        "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
-        "url": "https://open.spotify.com/album/4hp8Ylt5gjrnn7JMrQIb4F"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 185429,
-      "name": "Dat Ze Van Hem Houdt",
-      "url": "https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83"
-    },
-    {
-      "added_at": "2026-11-12 23:00:35",
-      "album": {
-        "name": "Sluit Me In Je Armen",
-        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 163976,
-      "name": "Sluit Me In Je Armen",
-      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
     }
   ],
   "unique_name": "RADAR BNLX",

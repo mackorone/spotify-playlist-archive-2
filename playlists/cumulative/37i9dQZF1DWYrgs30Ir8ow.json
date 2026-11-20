@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd frisse hits! Cover: Flaire",
+  "description": "Altijd frisse hits! Cover: Jonna Fraser & Frenna",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 142857,
       "name": "5 STERREN",
       "url": "https://open.spotify.com/track/3IArz6vZ04ql8YH9IshIB0"
@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Alles Wat Ik Wil",
+        "url": "https://open.spotify.com/album/34n69oaIPTCbl4KjYugNC6"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200823,
+      "name": "Alles Wat Ik Wil",
+      "url": "https://open.spotify.com/track/3BhRPtVVQ4LMcpbnRZGBQi"
+    },
+    {
+      "album": {
         "name": "Alles Wordt Beter",
         "url": "https://open.spotify.com/album/7CgvY0HQwJiDPh9ENB59DB"
       },
@@ -2462,7 +2480,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 170400,
       "name": "bad taste",
       "url": "https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs"
@@ -7232,7 +7250,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 157200,
       "name": "DOE HET",
       "url": "https://open.spotify.com/track/6QVOdWVwR9pBio5aTCv7BK"
@@ -10472,6 +10490,28 @@
       "duration_ms": 134398,
       "name": "GO BESTFRIEND",
       "url": "https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo"
+    },
+    {
+      "album": {
+        "name": "Go Easy (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192301,
+      "name": "Go Easy (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
     },
     {
       "album": {
@@ -17761,6 +17801,28 @@
     },
     {
       "album": {
+        "name": "DE GIER",
+        "url": "https://open.spotify.com/album/5x9xFhWzX7RNxb9cFgnXPw"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179361,
+      "name": "Monogaam",
+      "url": "https://open.spotify.com/track/4nW4SAY2ahh7WWFFv46VjW"
+    },
+    {
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
       },
@@ -20481,6 +20543,24 @@
     },
     {
       "album": {
+        "name": "Perfect Man",
+        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213690,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
+    },
+    {
+      "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
       },
@@ -21944,7 +22024,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180000,
       "name": "RHYNO (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
@@ -22038,7 +22118,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176000,
       "name": "RMB (Ring My Bell) - Dutch Remix",
       "url": "https://open.spotify.com/track/136gKCrEqngRWnuqhITjin"
@@ -24069,6 +24149,24 @@
     },
     {
       "album": {
+        "name": "Somebody New",
+        "url": "https://open.spotify.com/album/64ot0PGuCe2LEcT8qtrG2E"
+      },
+      "artists": [
+        {
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198932,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/083IXbUGlHYi4Ia1Trrzyv"
+    },
+    {
+      "album": {
         "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
         "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
@@ -25350,7 +25448,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176941,
       "name": "Take It Slow (Bullit)",
       "url": "https://open.spotify.com/track/3WrDF5bzGviLKHizs6yj8j"
@@ -26418,7 +26516,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213133,
       "name": "The Team",
       "url": "https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU"
@@ -27232,7 +27330,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 221534,
       "name": "Trapped - Radio-Edit",
       "url": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
@@ -28438,6 +28536,32 @@
       "duration_ms": 143015,
       "name": "Voorzichtig",
       "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
+    },
+    {
+      "album": {
+        "name": "Vrienden Voor Altijd",
+        "url": "https://open.spotify.com/album/6HUkKUsSc7gvuyQ4yLjbhI"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        },
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Samantha Steenwijk",
+          "url": "https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167898,
+      "name": "Vrienden Voor Altijd",
+      "url": "https://open.spotify.com/track/3WmyRqkjV14uKcueq03IEV"
     },
     {
       "album": {
@@ -29775,6 +29899,24 @@
     },
     {
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297262,
+      "name": "Willing and Able",
+      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
+    },
+    {
+      "album": {
         "name": "Winterbanden",
         "url": "https://open.spotify.com/album/1iGu5Gm0mCfwJ1eO6chiza"
       },
@@ -30550,6 +30692,24 @@
       "duration_ms": 180778,
       "name": "Zoet, Zout, Zuur",
       "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
+    },
+    {
+      "album": {
+        "name": "Zolang Als Het Kan",
+        "url": "https://open.spotify.com/album/0mhKIkLsJZUJ60YqxHTJ8b"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Zolang Als Het Kan",
+      "url": "https://open.spotify.com/track/1j8CnoN2fMtPrAbxJEs5iW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Dave & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,376 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,381 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [Burner on Deck \(feat\. Pop Smoke & Young Adz\)](https://open.spotify.com/track/65vHYhe2AprpDBHBTpOBaE) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:07 |
 | 50 | [Dis Ain't What U Want](https://open.spotify.com/track/6qzKyme6MzOV3WJ0Qi0MMx) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Dis Ain't What U Want](https://open.spotify.com/album/4m12Cf81jS0apn8pTflRWA) | 4:05 |
 
-Snapshot ID: `AAAAAMtykP6s7ZT+NXgLSeq/tl+azEmL`
+Snapshot ID: `AAAAAGBI9CyvT+1CPvuqpyQ0kP2YwPOu`

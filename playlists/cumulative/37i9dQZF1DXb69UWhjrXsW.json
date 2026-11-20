@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "The greatest songs in the history of cinema. Celebrating Tim Curry in The Rocky Horror Picture Show.",
+  "description": "The greatest songs in the history of cinema. ",
   "name": "Hits From The Movies",
   "tracks": [
     {
@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "album": {
         "name": "Sinners (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
       },
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 314906,
       "name": "I Lied to You",
       "url": "https://open.spotify.com/track/0XfwXFXOI7oys9rsZ2sjrt"

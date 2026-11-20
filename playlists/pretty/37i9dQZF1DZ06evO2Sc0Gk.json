@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21687,
+  "num_followers": 21688,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAD+rBHhOrF7KhH3qSu90ODq",
+  "snapshot_id": "avzqgAAAAAC+upSqHuHZh8WYfCVgnqFn",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recess II",
+        "url": "https://open.spotify.com/album/4x2DysOwGpButInOfDNJdI"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "BeBe",
+      "url": "https://open.spotify.com/track/5GZTusIWd5rWT6QlQ3RVb3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Day You Will Understand",
         "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 183484,
       "name": "Falling For U",
       "url": "https://open.spotify.com/track/1RrayK8ea3tDtD1QnNMUL9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recess II",
-        "url": "https://open.spotify.com/album/4x2DysOwGpButInOfDNJdI"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "BeBe",
-      "url": "https://open.spotify.com/track/5GZTusIWd5rWT6QlQ3RVb3"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
         "url": "https://open.spotify.com/album/4lbrKowAEUP76TRU57FAJI"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 205760,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
       "url": "https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 119290,
+      "name": "Saudi Arabia",
+      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hide Your Love",
         "url": "https://open.spotify.com/album/0oBaQIRl2fk3DYsmAA6ilx"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 157959,
       "name": "Hide Your Love",
       "url": "https://open.spotify.com/track/2yOU8KSP7dVlLBK1heneR9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 119290,
-      "name": "Saudi Arabia",
-      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
     },
     {
       "added_at": null,
@@ -1043,30 +1043,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/1zwm4teG7b5ySEn1cqmPV9"
+        "name": "Marry",
+        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
       },
       "artists": [
         {
-          "name": "ChopLife SoundSystem",
-          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
         },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Les Teriba",
-          "url": "https://open.spotify.com/artist/7fwk67xtIn7vS7t6EwvkbG"
-        },
-        {
-          "name": "Jessi Selm",
-          "url": "https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq"
         }
       ],
-      "duration_ms": 214710,
-      "name": "Never Walk Alone",
-      "url": "https://open.spotify.com/track/1rUjssvd1FdBjlTGTwohaK"
+      "duration_ms": 209841,
+      "name": "Marry",
+      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
     }
   ],
   "unique_name": "This Is Mr Eazi",

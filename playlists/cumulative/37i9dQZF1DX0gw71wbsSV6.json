@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 84578,
       "name": "confession",
       "url": "https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn"
@@ -4828,6 +4828,24 @@
       "duration_ms": 328000,
       "name": "Something in Morning Rain",
       "url": "https://open.spotify.com/track/7cpqOWd3kKHcPL0IzGmNUz"
+    },
+    {
+      "album": {
+        "name": "Something Stupid",
+        "url": "https://open.spotify.com/album/67CNEX0WcDIDihhdoQJwax"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140482,
+      "name": "Something Stupid",
+      "url": "https://open.spotify.com/track/3yHFw2lWQRLUms1Ai3SBIS"
     },
     {
       "album": {

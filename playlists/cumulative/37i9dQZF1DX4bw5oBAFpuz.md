@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-696 songs - 1 day 15 hr 28 min
+697 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Changes](https://open.spotify.com/track/6VwmVpxjMhyNf8gosbY5fd) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Changes](https://open.spotify.com/album/5SJsyve81sqsW5NeGOWtyK) | 3:23 | 2026-11-05 | 2026-11-17 |
 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2023-02-23 | 2023-04-13 |
 | [Choose \(feat\. Hamo Dell\)](https://open.spotify.com/track/1OhrU4btsMvWXcRn5xB70k) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2) | [Choose \(feat\. Hamo Dell\)](https://open.spotify.com/album/4vtMm4TwL0JVCG1DzpWd0b) | 3:49 | 2023-02-23 | 2023-04-26 |
+| [Circles](https://open.spotify.com/track/6IlndvOS9bIQjfYBxYAkG3) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Airplane Mode](https://open.spotify.com/album/379McNO5sSbweTq3tZi68P) | 3:52 | 2026-11-19 |  |
 | [Close](https://open.spotify.com/track/5xdC35mf072S94yav2vRt6) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Close](https://open.spotify.com/album/70q6JczgrEpipUdkcbkd9i) | 2:50 | 2026-07-17 |  |
 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 | 2023-02-23 | 2025-08-29 |
 | [Colour Me Blue](https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:16 | 2024-03-19 | 2024-04-19 |
@@ -660,7 +661,7 @@
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2024-03-19 |  |
 | [Weak In The Knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak In The Knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 | 2025-04-24 |  |
 | [weed & videogames](https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [weed & videogames](https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr) | 3:03 | 2024-04-04 | 2026-07-02 |
-| [Weight Of It All](https://open.spotify.com/track/4f70TZP7p2NXanhp9ABOkc) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Weight Of It All](https://open.spotify.com/album/0l3sccuVJx5N0UxeWw2yzW) | 3:46 | 2026-09-10 |  |
+| [Weight Of It All](https://open.spotify.com/track/4f70TZP7p2NXanhp9ABOkc) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Weight Of It All](https://open.spotify.com/album/0l3sccuVJx5N0UxeWw2yzW) | 3:46 | 2026-09-10 | 2026-11-20 |
 | [What A Day](https://open.spotify.com/track/2w9aX8tFMSkkGxgdKg31zx) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [What A Day](https://open.spotify.com/album/17ScPzQxVtLXiCr1T1POvU) | 3:46 | 2023-08-17 | 2024-03-22 |
 | [What A Day](https://open.spotify.com/track/3GHsGDZ0wyEZyGEIK6PcgT) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [What A Day](https://open.spotify.com/album/3zQ9BOb67wGJtXjjZWGXmn) | 3:46 | 2023-02-23 |  |
 | [What A Way To Die](https://open.spotify.com/track/7lXJRZCuWUPTXasC1tQPJo) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Letters To My Habits](https://open.spotify.com/album/5tD52eQUJoBetPCi2hQdln) | 2:45 | 2026-06-25 |  |

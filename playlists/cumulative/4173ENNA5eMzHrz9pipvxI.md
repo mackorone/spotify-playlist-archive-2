@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Lavern
 
-2,104 songs - 4 day 5 hr 20 min
+2,105 songs - 4 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1244,6 +1244,7 @@
 | [Mosika](https://open.spotify.com/track/6eNUbxMJ6BiTK4dHy9mzU0) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Mosika](https://open.spotify.com/album/6XJO3ByrRT51pfXEPJ6jvR) | 2:47 | 2024-08-08 | 2024-08-24 |
 | [Mosika \(Andrew Dum Remix\)](https://open.spotify.com/track/1AUFh3aH63dFtgvhtUf09n) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [Andrew Dum](https://open.spotify.com/artist/2zM7bifXg4U3VopmsgSJVg) | [Mosika \(Andrew Dum Remix\)](https://open.spotify.com/album/0ZG1BER0Idd7zmSmtcaMKp) | 3:14 | 2024-08-23 | 2024-08-30 |
 | [Mosika \(Moonsound Remix\)](https://open.spotify.com/track/1Ygueccq5ZvLKnjAEQNkSF) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [Moonsound](https://open.spotify.com/artist/1jfhMoC88bueFbxYuwUpNN) | [Mosika \(Moonsound Remix\)](https://open.spotify.com/album/3dSjvHQRIm8oxacT30JRWD) | 3:20 | 2024-08-23 | 2024-08-30 |
+| [Motel Room \(feat\. jasper.wav\)](https://open.spotify.com/track/287r7qvwyB3A59EoCTPJoW) | [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Motel Room \(feat\. jasper.wav\)](https://open.spotify.com/album/0bcaYYW8ggq54w4aHhn8sq) | 3:19 | 2026-11-19 |  |
 | [Move Dat Thing](https://open.spotify.com/track/3CdEBV68xYbMIk4tD2jXV1) | [Adnan Veron](https://open.spotify.com/artist/0YpOe2SiYZVcWvrHiCV17W), [Arsyih Idrak](https://open.spotify.com/artist/4DEiECxSpwTaiKS3oXtcyJ), [Liquid Silva](https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG) | [Move Dat Thing](https://open.spotify.com/album/1kPLrWCh7VwDwwvgBNmRqb) | 3:09 | 2025-06-19 |  |
 | [Move It](https://open.spotify.com/track/2lfNpKFme8VsEUAddq1zOG) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/21rVLnpqNomTcw2e1gTkg2) | 2:41 | 2024-02-09 | 2024-02-23 |
 | [Move It \(with Luciana\)](https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Move It \(with Luciana\)](https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8) | 2:15 | 2023-07-13 | 2023-07-29 |

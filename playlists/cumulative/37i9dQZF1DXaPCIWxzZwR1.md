@@ -4,7 +4,7 @@
 
 > next gen pop<br/>Cover: Romy Mars
 
-2,598 songs - 5 day 7 hr 44 min
+2,601 songs - 5 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,6 +821,7 @@
 | [Friends With Benefits](https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Friends With Benefits](https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N) | 3:07 | 2023-03-03 | 2023-05-27 |
 | [Friends With Your EX](https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [Friends With Your EX](https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn) | 1:58 | 2023-09-22 | 2024-03-23 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 | 2023-10-07 |
+| [FRONT LAWN](https://open.spotify.com/track/3PuDoKjY9Xz0OtYv22E34Y) | [Lambb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [There's someone in the yard](https://open.spotify.com/album/5gt3wkqKkmJGij649DwBpF) | 3:29 | 2026-11-20 |  |
 | [Fruity](https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Fruity](https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz) | 3:13 | 2022-08-19 | 2022-10-08 |
 | [FU & UF](https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz) | 2:39 | 2025-10-24 | 2026-03-28 |
 | [FU In My Head](https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head](https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT) | 2:47 | 2022-05-25 | 2022-11-26 |
@@ -849,6 +850,7 @@
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/4V5siYO9zHpLX5qf2F0qBV) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/4yBOVyQv3IdSptKDx4wL1d) | 2:18 | 2021-06-26 | 2021-06-27 |
 | [get old](https://open.spotify.com/track/4aYpHaR6IGjTDBC8uZIwr1) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [get old](https://open.spotify.com/album/484eK2X6I1xpwAYujfN3Fc) | 3:41 | 2021-06-05 | 2021-06-26 |
 | [Get Your Attention](https://open.spotify.com/track/4MCJB2N8KBptcmd1fmo7XY) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Get Your Attention](https://open.spotify.com/album/43am42UyYn68HuCzv16WDg) | 3:17 | 2022-07-15 | 2022-08-27 |
+| [Get ‘Em Girls](https://open.spotify.com/track/0PLJ8yOxocpIiRlo20Bp0f) | [KARLEE GIRL](https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX) | [Get ‘Em Girls](https://open.spotify.com/album/2Gtzo1b2Hsv9kkh5r4CT6P) | 3:19 | 2026-11-20 |  |
 | [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 | 2024-05-17 | 2024-11-09 |
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F) | 2:52 | 2022-05-27 | 2022-07-30 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-09-14 | 2021-12-18 |
@@ -1316,7 +1318,7 @@
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-10 | 2024-02-10 |
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-09-11 | 2021-10-02 |
 | [Landslide](https://open.spotify.com/track/7qhaA7MaHAkMKaOe5I3TOY) | [Karina Savage](https://open.spotify.com/artist/1Omhe6WyATIf4ZurfsumKr), [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Landslide](https://open.spotify.com/album/4auTL8OSCOHWprwOqzlZuD) | 2:54 | 2024-09-06 | 2025-07-06 |
-| [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-22 |  |
+| [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-22 | 2026-11-20 |
 | [Last Call](https://open.spotify.com/track/4rDCLOKV7O4ijIPNVs5Xlb) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [Last Call](https://open.spotify.com/album/4pSJMW8fSwcQFZibsIx0r3) | 3:14 | 2022-04-08 | 2022-04-16 |
 | [Last Call](https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Last Call](https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD) | 2:54 | 2022-12-09 | 2023-04-01 |
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-01-14 | 2022-04-29 |
@@ -1467,6 +1469,7 @@
 | [makeout with a stranger](https://open.spotify.com/track/24rQCVVkodhxba59O2dIEa) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [makeout with a stranger](https://open.spotify.com/album/42S0dCBdR1Zpotj7sl6PRa) | 2:26 | 2023-10-06 | 2024-01-13 |
 | [Male Fantasy](https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:14 | 2021-12-08 | 2022-01-15 |
 | [Malibu \(Falling Over The Edge\)](https://open.spotify.com/track/6q2U0BAMGZxSUAwz9tf1Lr) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Malibu \(Falling Over The Edge\)](https://open.spotify.com/album/4VWw7urrq01opRtpw6jk6p) | 4:15 | 2026-07-03 |  |
+| [Mama!](https://open.spotify.com/track/6dLKFSdxcmYCl1Qeb97RGO) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Fantasize](https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD) | 2:42 | 2026-11-20 |  |
 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 | 2023-06-23 | 2023-11-18 |
 | [MAMACITA](https://open.spotify.com/track/4cQAhjxynTUlhVUJN5yhUb) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [MAMACITA](https://open.spotify.com/album/1FQHtQVQvXPA7oFsf3cPCI) | 3:22 | 2023-09-29 | 2023-11-18 |
 | [Man of the House](https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9](https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk) | 2:35 | 2026-05-29 | 2026-11-13 |
@@ -1665,7 +1668,7 @@
 | [Obsessed](https://open.spotify.com/track/1VpKOZ6nnap41hh5CbY8gJ) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Obsessed](https://open.spotify.com/album/1pNNZl0NpdpOYQulwgkV8s) | 2:14 | 2021-03-19 | 2021-05-19 |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-22 | 2024-06-01 |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2021-09-11 | 2021-11-06 |
-| [OBSESSION](https://open.spotify.com/track/4MzNxQ4gWJjRRGvbA2vaV6) | [Lambb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [OBSESSION](https://open.spotify.com/album/5Btjb9tqDyQ8vUHQgfLdM0) | 2:42 | 2026-10-30 |  |
+| [OBSESSION](https://open.spotify.com/track/4MzNxQ4gWJjRRGvbA2vaV6) | [Lambb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [OBSESSION](https://open.spotify.com/album/5Btjb9tqDyQ8vUHQgfLdM0) | 2:42 | 2026-10-30 | 2026-11-20 |
 | [Obvious](https://open.spotify.com/track/3mHiyFqlw2ERmQCiXkmaXM) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis \(Deluxe\)](https://open.spotify.com/album/71mcDUoyViKC1i3kmAvJiI) | 4:18 | 2023-11-10 | 2024-06-22 |
 | [OBVIOUS](https://open.spotify.com/track/42sqQTi2EqDPd6Iex66joE) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [OBVIOUS](https://open.spotify.com/album/7xIca8DCJWtimWJLLJeD3W) | 3:10 | 2024-08-16 | 2025-06-28 |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-14 | 2022-12-10 |
@@ -2001,7 +2004,7 @@
 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 | 2021-11-06 | 2021-11-20 |
 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 | 2021-03-06 | 2021-04-08 |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-25 | 2024-03-09 |
-| [SINK](https://open.spotify.com/track/4GPMidIfGlJNwbbaUbQFE2) | [Sophie Truax](https://open.spotify.com/artist/5yM4OHXlRyyq28o76xejrk) | [SINK](https://open.spotify.com/album/29qxMUytJSm4tkD0OxiVih) | 2:17 | 2026-05-22 |  |
+| [SINK](https://open.spotify.com/track/4GPMidIfGlJNwbbaUbQFE2) | [Sophie Truax](https://open.spotify.com/artist/5yM4OHXlRyyq28o76xejrk) | [SINK](https://open.spotify.com/album/29qxMUytJSm4tkD0OxiVih) | 2:17 | 2026-05-22 | 2026-11-20 |
 | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/track/0VOyLRYrUBufrXQibWBipR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Thomas LaRosa](https://open.spotify.com/artist/1ZyUaNx0nDAzkGlAIXqXZR) | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/album/2g9hsnkWRbKARuVIiRwjBl) | 3:33 | 2022-09-09 | 2022-10-15 |
 | [Siren](https://open.spotify.com/track/5psxNqlcbQhHuMLY7NT5Hr) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [I AM](https://open.spotify.com/album/386kgx8oUr4TFpLXuEMzBh) | 2:36 | 2023-11-17 | 2024-02-24 |
 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 | 2022-04-22 | 2022-05-20 |

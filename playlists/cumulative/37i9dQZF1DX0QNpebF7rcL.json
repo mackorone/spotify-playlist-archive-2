@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 189346,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0VDUH9ExYWe5XGRmqu3VHk"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216653,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/4uJlaPIHej7EJPg4QwewhI"
@@ -5897,6 +5897,28 @@
     },
     {
       "album": {
+        "name": "Lean On The Blues",
+        "url": "https://open.spotify.com/album/7xjxDSeh7jCTL5cFpsBWAi"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        },
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221364,
+      "name": "Lean On The Blues",
+      "url": "https://open.spotify.com/track/4cLQdYz0XmqLg0YCvY6p4O"
+    },
+    {
+      "album": {
         "name": "Leave Me Alone",
         "url": "https://open.spotify.com/album/2sqbgimLbrq5LXYGktcECB"
       },
@@ -9627,6 +9649,24 @@
     },
     {
       "album": {
+        "name": "The Normal One",
+        "url": "https://open.spotify.com/album/79Wrd39u35z4enRgrLvsRw"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235066,
+      "name": "The Normal One",
+      "url": "https://open.spotify.com/track/2YbkQLB1NLFtF9iAujj3Z2"
+    },
+    {
+      "album": {
         "name": "The Pleasure's All Mine",
         "url": "https://open.spotify.com/album/2eU1uCapVBdvZ2OHIFKgqu"
       },
@@ -10609,6 +10649,24 @@
     },
     {
       "album": {
+        "name": "Use It",
+        "url": "https://open.spotify.com/album/5YVw8LQmJnm9FdzcVitVrl"
+      },
+      "artists": [
+        {
+          "name": "MudKings",
+          "url": "https://open.spotify.com/artist/19CSupGlgbkAXTNNuEbuqU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231068,
+      "name": "Use It",
+      "url": "https://open.spotify.com/track/6eIM8a7UruYaoii9HMvVsr"
+    },
+    {
+      "album": {
         "name": "White Jesus Black Problems",
         "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
       },
@@ -11296,7 +11354,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185068,
       "name": "Woke Up And Smelled The Coffee",
       "url": "https://open.spotify.com/track/5PYR64ezPkh2ihfXrKnSlz"

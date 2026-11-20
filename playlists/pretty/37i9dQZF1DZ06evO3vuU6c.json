@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1435650,
+  "num_followers": 1435677,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAAmtEKThk7ZoIDjYGpsWEN",
+  "snapshot_id": "avzqgAAAAADsFKVX5iDWnRzYVspJGX2k",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Elastic Heart - Piano Version",
+      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Marshall Mathers LP2 (Deluxe)",
         "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 265025,
       "name": "Beautiful Pain",
       "url": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Elastic Heart - Piano Version",
-      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel By The Wings",
+        "url": "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 319200,
+      "name": "Angel By The Wings",
+      "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ranjha",
         "url": "https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 184058,
       "name": "Ranjha",
       "url": "https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel By The Wings",
-        "url": "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 319200,
-      "name": "Angel By The Wings",
-      "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nu Zamrock",
-        "url": "https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Supernova [Feat. Sia]",
-      "url": "https://open.spotify.com/track/6GD7j3bdk0VNsIlNrhUY7p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Still Here",
         "url": "https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or"
       },
@@ -751,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nu Zamrock",
+        "url": "https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Supernova [Feat. Sia]",
+      "url": "https://open.spotify.com/track/6GD7j3bdk0VNsIlNrhUY7p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mon coeur avait raison",
         "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimme Love (Reasonable Woman Version)",
-        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214074,
-      "name": "Gimme Love (Reasonable Woman Version)",
-      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1000 Forms Of Fear",
         "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gimme Love (Reasonable Woman Version)",
+        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214074,
+      "name": "Gimme Love (Reasonable Woman Version)",
+      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Some People Have REAL Problems",
         "url": "https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt"
       },
@@ -815,26 +815,6 @@
       "duration_ms": 260120,
       "name": "Soon We'll Be Found",
       "url": "https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scorcha",
-        "url": "https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 212668,
-      "name": "Dynamite (feat. Sia)",
-      "url": "https://open.spotify.com/track/0LcLOyu9n5qRTeax5IdewO"
     },
     {
       "added_at": null,
@@ -867,6 +847,26 @@
       "duration_ms": 210613,
       "name": "Big Girls Cry",
       "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scorcha",
+        "url": "https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 212668,
+      "name": "Dynamite (feat. Sia)",
+      "url": "https://open.spotify.com/track/0LcLOyu9n5qRTeax5IdewO"
     },
     {
       "added_at": null,

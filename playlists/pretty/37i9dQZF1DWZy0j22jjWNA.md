@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,514 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,528 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 60 | [All Eyes On You](https://open.spotify.com/track/4EYPGsRXQHnItdVT2jrNqP) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [All Eyes On You](https://open.spotify.com/album/1mVMcsbi2aYFXH9AWm7O95) | 4:49 |
 | 61 | [Good Morning \- Capital Kings Remix](https://open.spotify.com/track/6UzMzphhijZY0MnrCqx1PC) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Get Up: The Remixes](https://open.spotify.com/album/2B5gNl8mQt6LpqXTcBGsoe) | 4:13 |
 | 62 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 |
-| 63 | [05 \(Morning\)](https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [05 \(Morning\)](https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5) | 3:48 |
-| 64 | [GOOD THING](https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [GOOD THING](https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7) | 2:33 |
-| 65 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
+| 63 | [GOOD THING](https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [GOOD THING](https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7) | 2:33 |
+| 64 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
+| 65 | [05 \(Morning\)](https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [05 \(Morning\)](https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5) | 3:48 |
 | 66 | [Morning Psalm \(feat\. Ben Cruse\)](https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [Ben Cruse](https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf) | [First Light / Last Word](https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII) | 5:33 |
 | 67 | [Sunday Morning](https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Sunday Morning](https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6) | 2:19 |
 | 68 | [THIS IS THE DAY](https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd) | [Vintage Worship](https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp), [Joshua Seller](https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli) | [THIS IS THE DAY](https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7) | 3:44 |
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 74 | [Makes My Day](https://open.spotify.com/track/3bqhH2SWF53d9TfQ8B6JcA) | [Cory Montell Scott](https://open.spotify.com/artist/4yXA1CoD2NZa6wechuaepF), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Makes My Day](https://open.spotify.com/album/6I2CtfYURnq4OXtpEXgEu8) | 4:55 |
 | 75 | [Good Morning](https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [Good Morning](https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB) | 2:25 |
 | 76 | [So Good](https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [So Good](https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB) | 2:51 |
-| 77 | [Joy Comes](https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Joy Comes](https://open.spotify.com/album/6zZi74NcUwGK0uX7lvnACy) | 3:51 |
-| 78 | [Surrounded](https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Surrounded](https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs) | 3:03 |
+| 77 | [Surrounded](https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Surrounded](https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs) | 3:03 |
+| 78 | [Joy Comes](https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Joy Comes](https://open.spotify.com/album/6zZi74NcUwGK0uX7lvnACy) | 3:51 |
 | 79 | [Encompassed](https://open.spotify.com/track/4VoMZnltCPuFtkRWgubFq0) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Take Heart](https://open.spotify.com/album/3PB6qqj5LdwcmRTMzbPxcH) | 3:49 |
 | 80 | [WAKE UP](https://open.spotify.com/track/2xrEND8nyYh9TQjkJoonVQ) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [RaJan Monroe](https://open.spotify.com/artist/0oF0QUoqa0NGRgXTNtFtkT) | [WAKE UP](https://open.spotify.com/album/6GSCGstsgnXEGlCauEB9Xi) | 2:30 |
 | 81 | [Don't Run Away](https://open.spotify.com/track/260GZLqtxDDQGAJ4EpQCyZ) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Don't Run Away](https://open.spotify.com/album/3Xi4X6KM4PsNmc6c9Cshau) | 3:08 |
 | 82 | [Wake Up \- Remix](https://open.spotify.com/track/4ioFDwWM3lSGDsWr4mFsVp) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [Wake Up \(Remix\)](https://open.spotify.com/album/2eagZIie0DPIZqDuGiAVOY) | 2:37 |
 | 83 | [Happy Again](https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Happy Again](https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS) | 3:52 |
-| 84 | [So Blessed](https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Chris Cleveland](https://open.spotify.com/artist/5Z6gnOe0q5LWQ6jWaIhyne) | [So Blessed](https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt) | 3:16 |
-| 85 | [high water](https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [high water](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) | 2:48 |
-| 86 | [Seeking](https://open.spotify.com/track/1Od2rkHMK2AfGyZ0LgqGB8) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Emely Williams](https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H) | [Seeking](https://open.spotify.com/album/4CR9mh2tbBq6OqCRPokdBf) | 3:34 |
+| 84 | [Seeking](https://open.spotify.com/track/1Od2rkHMK2AfGyZ0LgqGB8) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Emely Williams](https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H) | [Seeking](https://open.spotify.com/album/4CR9mh2tbBq6OqCRPokdBf) | 3:34 |
+| 85 | [So Blessed](https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Chris Cleveland](https://open.spotify.com/artist/5Z6gnOe0q5LWQ6jWaIhyne) | [So Blessed](https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt) | 3:16 |
+| 86 | [high water](https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [high water](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) | 2:48 |
 | 87 | [honeydew \(praise the Lord\)](https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [honeydew \(praise the Lord\)](https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz) | 3:44 |
 | 88 | [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 |
 | 89 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 99 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 | 100 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 |
 
-Snapshot ID: `AAAAAH5w3AqXcXS/5ya14tl4dOBtDYpu`
+Snapshot ID: `AAAAAPGmsQXXtWSEg8/wzQ/XWRELd1GF`

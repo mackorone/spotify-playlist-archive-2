@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: salute",
+  "description": "The home for alternative electronic music. Cover: MPH",
   "name": "Altar",
   "tracks": [
     {
@@ -7447,6 +7447,24 @@
     },
     {
       "album": {
+        "name": "Dream Until",
+        "url": "https://open.spotify.com/album/69ApP9eSmTsgQCKruZmTkN"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231716,
+      "name": "Dream Until",
+      "url": "https://open.spotify.com/track/6LpjlqXTXDFJIzLI8sksCz"
+    },
+    {
+      "album": {
         "name": "Dreamcast",
         "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
       },
@@ -9624,7 +9642,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 197000,
       "name": "Feels Like Heaven",
       "url": "https://open.spotify.com/track/0UupmTsDkL9cdm8GGLzvYq"
@@ -14196,7 +14214,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 319398,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/7zdkHd3pJ1Fo7N3FSiF0gN"
@@ -17794,7 +17812,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 294350,
       "name": "Mabe",
       "url": "https://open.spotify.com/track/6cEX8cGCDhORY2dGLpd1jx"
@@ -25955,6 +25973,28 @@
     },
     {
       "album": {
+        "name": "Snake Charmer",
+        "url": "https://open.spotify.com/album/6empZRahK2kPmXgPC8t9EA"
+      },
+      "artists": [
+        {
+          "name": "Yung Singh",
+          "url": "https://open.spotify.com/artist/47lrOrvCYsOUCEQQsj119K"
+        },
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169726,
+      "name": "Snake Charmer",
+      "url": "https://open.spotify.com/track/6amcEluOuv6ZccUYfxM4AU"
+    },
+    {
+      "album": {
         "name": "Faux Poly: Remixed 001",
         "url": "https://open.spotify.com/album/2CcTG5fRtdzqdDHUUUyImz"
       },
@@ -31244,6 +31284,28 @@
       "duration_ms": 316410,
       "name": "volc4",
       "url": "https://open.spotify.com/track/3IExaQvA4xa2Fv61xCVuip"
+    },
+    {
+      "album": {
+        "name": "volc5",
+        "url": "https://open.spotify.com/album/2yqPRWnIDJJnOyhmDaEvTx"
+      },
+      "artists": [
+        {
+          "name": "George Daniel",
+          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
+        },
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250299,
+      "name": "volc5",
+      "url": "https://open.spotify.com/track/1DfZAGuuHvsBTSQ85jKRiE"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 234983,
+  "num_followers": 235024,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAByduJrKNrBd9QYYqeLHcfCqI0q0",
+  "snapshot_id": "AAAAAGQ10I9KcEWLUxyhs9ZKAZKekcqG",
   "tracks": [
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
+        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Little Drummer Girl",
+      "url": "https://open.spotify.com/track/6UkM1RIxrnkEIIvyjmyD2Q"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Christmas in Baltimore",
         "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
       },
@@ -1076,13 +1092,33 @@
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
         }
       ],
-      "duration_ms": 272333,
-      "name": "Little Drummer Girl",
-      "url": "https://open.spotify.com/track/6UkM1RIxrnkEIIvyjmyD2Q"
+      "duration_ms": 237666,
+      "name": "In Love at Christmas",
+      "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
+    },
+    {
+      "added_at": "2025-12-09 03:51:54",
+      "album": {
+        "name": "christmas.wav",
+        "url": "https://open.spotify.com/album/5lbkOntAn2fe657duD0s6b"
+      },
+      "artists": [
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "duration_ms": 156624,
+      "name": "deck the halls.wav",
+      "url": "https://open.spotify.com/track/3ZufhwNN7uZfVrjKID7gOS"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1109,58 +1145,6 @@
       "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
     },
     {
-      "added_at": "2025-12-09 03:51:54",
-      "album": {
-        "name": "christmas.wav",
-        "url": "https://open.spotify.com/album/5lbkOntAn2fe657duD0s6b"
-      },
-      "artists": [
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
-        },
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        }
-      ],
-      "duration_ms": 156624,
-      "name": "deck the halls.wav",
-      "url": "https://open.spotify.com/track/3ZufhwNN7uZfVrjKID7gOS"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
-        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "In Love at Christmas",
-      "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Somebody's Waiting",
-      "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
-    },
-    {
       "added_at": "2025-10-24 15:07:41",
       "album": {
         "name": "Motown Christmas",
@@ -1179,6 +1163,22 @@
       "duration_ms": 267666,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Somebody's Waiting",
+      "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 190799,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "A Mary Mary Christmas",
         "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 215586,
       "name": "Hark the Herald Angels Sing",
       "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 190799,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Red & Green",
         "url": "https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 235049,
       "name": "Forever Mistletoe",
       "url": "https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 212755,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1367,8 +1367,8 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "\u00c4 Suburban Christmas",
-        "url": "https://open.spotify.com/album/1aOk2jDIXsJMryg15qG5dC"
+        "name": "Christmas All Year",
+        "url": "https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl"
       },
       "artists": [
         {
@@ -1376,9 +1376,9 @@
           "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
         }
       ],
-      "duration_ms": 144250,
-      "name": "December 24",
-      "url": "https://open.spotify.com/track/2yVB8QNwygb2kTpTclxneT"
+      "duration_ms": 173207,
+      "name": "Christmas All Year",
+      "url": "https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1455,8 +1455,8 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Christmas All Year",
-        "url": "https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl"
+        "name": "\u00c4 Suburban Christmas",
+        "url": "https://open.spotify.com/album/1aOk2jDIXsJMryg15qG5dC"
       },
       "artists": [
         {
@@ -1464,25 +1464,9 @@
           "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
         }
       ],
-      "duration_ms": 173207,
-      "name": "Christmas All Year",
-      "url": "https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Mrs Clause",
-        "url": "https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL"
-      },
-      "artists": [
-        {
-          "name": "NYA",
-          "url": "https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs"
-        }
-      ],
-      "duration_ms": 223071,
-      "name": "Mrs Clause",
-      "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
+      "duration_ms": 144250,
+      "name": "December 24",
+      "url": "https://open.spotify.com/track/2yVB8QNwygb2kTpTclxneT"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Mrs Clause",
+        "url": "https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL"
+      },
+      "artists": [
+        {
+          "name": "NYA",
+          "url": "https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs"
+        }
+      ],
+      "duration_ms": 223071,
+      "name": "Mrs Clause",
+      "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Secret Santa",
-        "url": "https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 179277,
-      "name": "Secret Santa",
-      "url": "https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "In December",
         "url": "https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Christmas, Love And You",
-        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
+        "name": "Secret Santa",
+        "url": "https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk"
       },
       "artists": [
         {
-          "name": "Will Downing",
-          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 261213,
-      "name": "Christmas, Love, and You",
-      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
+      "duration_ms": 179277,
+      "name": "Secret Santa",
+      "url": "https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Your Favorite Christmas Songs",
-        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+        "name": "Christmas, Love And You",
+        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
       },
       "artists": [
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
         }
       ],
-      "duration_ms": 160083,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
+      "duration_ms": 261213,
+      "name": "Christmas, Love, and You",
+      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1663,6 +1647,22 @@
       "duration_ms": 176786,
       "name": "This Holiday",
       "url": "https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Your Favorite Christmas Songs",
+        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 160083,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Eazy Christmas",
-        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
       },
       "artists": [
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 179435,
-      "name": "Kisses On Christmas",
-      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
+      "duration_ms": 283560,
+      "name": "This Christmas (Could Be The One)",
+      "url": "https://open.spotify.com/track/02fFV8eUDKAyLayxw77RCQ"
     }
   ],
   "unique_name": "R&B Christmas",

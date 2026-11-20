@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Offset",
+  "description": "Your shortcut to the best new Hip Hop. Cover: Playboi Carti",
   "name": "A1",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 151578,
       "name": "2008",
       "url": "https://open.spotify.com/track/6HwHgmchyR1p2BdwKxqTBY"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155860,
       "name": "4AM",
       "url": "https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI"
@@ -924,6 +924,24 @@
       "duration_ms": 175866,
       "name": "AH HA",
       "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120865,
+      "name": "AHH YEA",
+      "url": "https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI"
     },
     {
       "album": {
@@ -4184,6 +4202,24 @@
       "duration_ms": 161495,
       "name": "Cops & Robbers",
       "url": "https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181372,
+      "name": "COUNT UP",
+      "url": "https://open.spotify.com/track/77er9Mx3nLca8RcfpGrgvv"
     },
     {
       "album": {
@@ -7911,6 +7947,32 @@
     },
     {
       "album": {
+        "name": "Hell Nah",
+        "url": "https://open.spotify.com/album/2G6yaIv1IteUQCgQk4gZPC"
+      },
+      "artists": [
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272292,
+      "name": "Hell Nah",
+      "url": "https://open.spotify.com/track/1sXTN7bM5vhe4u0noDS0ib"
+    },
+    {
+      "album": {
         "name": "MEET THE 6IXERS",
         "url": "https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5"
       },
@@ -9950,10 +10012,32 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173974,
       "name": "Lambo pass by (feat. OJ da Juiceman)",
       "url": "https://open.spotify.com/track/5Bl2UDbq6lOT2U2YXbJ7Dq"
+    },
+    {
+      "album": {
+        "name": "LOCKED IN (EUROLUXE)",
+        "url": "https://open.spotify.com/album/2H2FFVVPzAYw3Qhw3IAxbb"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133437,
+      "name": "LAMINE YAMAL (feat. La Pantera)",
+      "url": "https://open.spotify.com/track/4iUjotWvNyG99ldTZTRysc"
     },
     {
       "album": {
@@ -15144,7 +15228,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180000,
       "name": "RHYNO (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"

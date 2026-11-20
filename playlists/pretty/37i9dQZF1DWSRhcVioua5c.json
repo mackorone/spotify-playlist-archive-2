@@ -1,12 +1,12 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 94293,
+  "num_followers": 94315,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIWrdvOYI+QPgJoXDsLGGUkaJbhc",
+  "snapshot_id": "AAAAAARU3mFrGSShRXn3y0fiCeEtki1p",
   "tracks": [
     {
       "added_at": "2026-11-05 21:32:02",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "A Escondidas",
-        "url": "https://open.spotify.com/album/6VUieUgmlyiJ13NYI81Fn2"
-      },
-      "artists": [
-        {
-          "name": "Angelo Aranda",
-          "url": "https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz"
-        }
-      ],
-      "duration_ms": 170762,
-      "name": "A Escondidas",
-      "url": "https://open.spotify.com/track/3hf7Fhg3kMO3teI1xt9fWB"
-    },
-    {
-      "added_at": "2026-11-05 21:32:02",
-      "album": {
         "name": "Cosa Peligrosa",
         "url": "https://open.spotify.com/album/5eui9pdwONxGwCCO8djIV5"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 201701,
       "name": "Cosa Peligrosa",
       "url": "https://open.spotify.com/track/73P9ywsIA24QwWvL6E1gjT"
+    },
+    {
+      "added_at": "2026-11-05 21:32:02",
+      "album": {
+        "name": "A Escondidas",
+        "url": "https://open.spotify.com/album/6VUieUgmlyiJ13NYI81Fn2"
+      },
+      "artists": [
+        {
+          "name": "Angelo Aranda",
+          "url": "https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz"
+        }
+      ],
+      "duration_ms": 170762,
+      "name": "A Escondidas",
+      "url": "https://open.spotify.com/track/3hf7Fhg3kMO3teI1xt9fWB"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "Repechando la Senda",
-        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
-      },
-      "artists": [
-        {
-          "name": "Los Puesteros",
-          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
-        }
-      ],
-      "duration_ms": 249627,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f"
-    },
-    {
-      "added_at": "2026-11-05 21:32:02",
-      "album": {
         "name": "Ven Por Mi",
         "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 301800,
       "name": "Mucho M\u00e1s Que Piel",
       "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"
+    },
+    {
+      "added_at": "2026-11-05 21:32:02",
+      "album": {
+        "name": "Repechando la Senda",
+        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
+      },
+      "artists": [
+        {
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
+        }
+      ],
+      "duration_ms": 249627,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "Uno Mismo",
-        "url": "https://open.spotify.com/album/6rlHWYEZC5HSV4abSUIzL5"
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
       },
       "artists": [
         {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "Francisco Benitez",
+          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
         }
       ],
-      "duration_ms": 272613,
-      "name": "El Secreto de Tu Vida",
-      "url": "https://open.spotify.com/track/5X0kbQBjuNmFttGWB7FDW0"
+      "duration_ms": 190113,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
+        "name": "Uno Mismo",
+        "url": "https://open.spotify.com/album/6rlHWYEZC5HSV4abSUIzL5"
       },
       "artists": [
         {
-          "name": "Francisco Benitez",
-          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 190113,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
+      "duration_ms": 272613,
+      "name": "El Secreto de Tu Vida",
+      "url": "https://open.spotify.com/track/5X0kbQBjuNmFttGWB7FDW0"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "Mi Cantar",
-        "url": "https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 259566,
-      "name": "Olvida Que Te He Amado",
-      "url": "https://open.spotify.com/track/0addwQw947UzHhby2thnGg"
-    },
-    {
-      "added_at": "2026-11-05 21:32:02",
-      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 190608,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
+    },
+    {
+      "added_at": "2026-11-05 21:32:02",
+      "album": {
+        "name": "Mi Cantar",
+        "url": "https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 259566,
+      "name": "Olvida Que Te He Amado",
+      "url": "https://open.spotify.com/track/0addwQw947UzHhby2thnGg"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "Aut\u00f3ctona",
-        "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
-      },
-      "artists": [
-        {
-          "name": "Roxana Carabajal",
-          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 319116,
-      "name": "Gotas de Amor",
-      "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
-    },
-    {
-      "added_at": "2026-11-05 21:32:02",
-      "album": {
         "name": "Tonada del viejo amor",
         "url": "https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 278733,
       "name": "Tonada del viejo amor",
       "url": "https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif"
+    },
+    {
+      "added_at": "2026-11-05 21:32:02",
+      "album": {
+        "name": "Aut\u00f3ctona",
+        "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
+      },
+      "artists": [
+        {
+          "name": "Roxana Carabajal",
+          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 319116,
+      "name": "Gotas de Amor",
+      "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
+        "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
+        "url": "https://open.spotify.com/album/1Dbq7br5fPpceiVaoNnBEH"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "duration_ms": 446264,
+      "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
+      "url": "https://open.spotify.com/track/6vGgOdL3ouVHmuw8U7oA2v"
+    },
+    {
+      "added_at": "2026-11-05 21:32:02",
+      "album": {
         "name": "Mi Loco Amor",
         "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 213705,
       "name": "Mi Loco Amor",
       "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
-    },
-    {
-      "added_at": "2026-11-05 21:32:02",
-      "album": {
-        "name": "Codigo de Barro",
-        "url": "https://open.spotify.com/album/3IPQXVfpqayAQqDAFLpklU"
-      },
-      "artists": [
-        {
-          "name": "Los Huayra",
-          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
-        }
-      ],
-      "duration_ms": 313080,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/3RwDtnK03C9b7aAMlSVpgj"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
-        "url": "https://open.spotify.com/album/1Dbq7br5fPpceiVaoNnBEH"
+        "name": "Codigo de Barro",
+        "url": "https://open.spotify.com/album/3IPQXVfpqayAQqDAFLpklU"
       },
       "artists": [
         {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
         }
       ],
-      "duration_ms": 446264,
-      "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
-      "url": "https://open.spotify.com/track/6vGgOdL3ouVHmuw8U7oA2v"
+      "duration_ms": 313080,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/3RwDtnK03C9b7aAMlSVpgj"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "Ya te olvid\u00e9",
-        "url": "https://open.spotify.com/album/6gnArPx4Dq1UoKdvSNWp3r"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 147310,
-      "name": "Ya te olvid\u00e9",
-      "url": "https://open.spotify.com/track/5O1bcqKBlyEkYDFKXe8p7c"
-    },
-    {
-      "added_at": "2026-11-05 21:32:02",
-      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 236854,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
+    },
+    {
+      "added_at": "2026-11-05 21:32:02",
+      "album": {
+        "name": "Ya te olvid\u00e9",
+        "url": "https://open.spotify.com/album/6gnArPx4Dq1UoKdvSNWp3r"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 147310,
+      "name": "Ya te olvid\u00e9",
+      "url": "https://open.spotify.com/track/5O1bcqKBlyEkYDFKXe8p7c"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "Por amarte as\u00ed",
-        "url": "https://open.spotify.com/album/25iwGF0cFchT4BsOVZiCm7"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 212828,
-      "name": "Por amarte as\u00ed",
-      "url": "https://open.spotify.com/track/0kQl4zjpWRbwYVygVDQ5Wr"
-    },
-    {
-      "added_at": "2026-11-05 21:32:02",
-      "album": {
         "name": "El Principio del Final",
         "url": "https://open.spotify.com/album/0jZXoejsjx2oS5vEHXmWzt"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 272240,
       "name": "Zamba y Acuarela",
       "url": "https://open.spotify.com/track/1X2Z8Js9G8YmXIbrwSIptK"
+    },
+    {
+      "added_at": "2026-11-05 21:32:02",
+      "album": {
+        "name": "Por amarte as\u00ed",
+        "url": "https://open.spotify.com/album/25iwGF0cFchT4BsOVZiCm7"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 212828,
+      "name": "Por amarte as\u00ed",
+      "url": "https://open.spotify.com/track/0kQl4zjpWRbwYVygVDQ5Wr"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 226629,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
-    },
-    {
-      "added_at": "2026-11-05 21:32:02",
-      "album": {
         "name": "Volver A Verte",
         "url": "https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 136639,
       "name": "Volver A Verte",
       "url": "https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK"
+    },
+    {
+      "added_at": "2026-11-05 21:32:02",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 226629,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
     },
     {
       "added_at": "2026-11-05 21:32:02",
@@ -1523,18 +1523,26 @@
     {
       "added_at": "2026-11-05 21:32:02",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
+        "name": "La \u00daltima Estrella",
+        "url": "https://open.spotify.com/album/3ZRhNcfRj7QzjK9iDNPQDc"
       },
       "artists": [
         {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Los Changos",
+          "url": "https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71"
+        },
+        {
+          "name": "Franco Barrionuevo",
+          "url": "https://open.spotify.com/artist/1Lw75bAtvyN31qYzmjgMMb"
+        },
+        {
+          "name": "Luis Paredes",
+          "url": "https://open.spotify.com/artist/62b29phHmw4APV3xe26cco"
         }
       ],
-      "duration_ms": 130576,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
+      "duration_ms": 228388,
+      "name": "No Me Quiero Olvidar",
+      "url": "https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ"
     }
   ],
   "unique_name": "Folklore Rom\u00e1ntico ",

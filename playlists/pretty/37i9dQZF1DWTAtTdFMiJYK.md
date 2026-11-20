@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Niyam
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,869 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,947 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 18 | [The Last Letter](https://open.spotify.com/track/0TsyaaM73GAKIxv38yzHV4) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Mazaak](https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz) | [The Last Letter](https://open.spotify.com/album/713AvxcNnVOUQnp4LRcc5G) | 2:49 |
 | 19 | [Maname](https://open.spotify.com/track/1dhe3PICallkMWr9098yzp) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Maname](https://open.spotify.com/album/7ekJRzvF4WcSUNddETbXjm) | 2:26 |
 | 20 | [Gira Gira](https://open.spotify.com/track/7vwrPdFX2FNF6imTRXO4Pw) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Gira Gira](https://open.spotify.com/album/62iSk44yQVg8v2wpSiCIK4) | 3:30 |
-| 21 | [Ratiyaan](https://open.spotify.com/track/5Wf61wso1rDW8lvhX6Ccry) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW) | [Ratiyaan](https://open.spotify.com/album/228bM7MDfeoocgddt5o8bl) | 2:55 |
-| 22 | [Aankhein](https://open.spotify.com/track/0Y0qi12uVrC1aTvZ0edihf) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Aankhein](https://open.spotify.com/album/2fKe65b6B7Bb0sFRY0A39s) | 5:15 |
+| 21 | [Aankhein](https://open.spotify.com/track/0Y0qi12uVrC1aTvZ0edihf) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Aankhein](https://open.spotify.com/album/2fKe65b6B7Bb0sFRY0A39s) | 5:15 |
+| 22 | [Ratiyaan](https://open.spotify.com/track/5Wf61wso1rDW8lvhX6Ccry) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW) | [Ratiyaan](https://open.spotify.com/album/228bM7MDfeoocgddt5o8bl) | 2:55 |
 | 23 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 |
 | 24 | [HISAAB](https://open.spotify.com/track/0R9xT7EWcutJxpCu5PKRUq) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [HISAAB](https://open.spotify.com/album/6N8K0OL3KMROwl2EwewZ26) | 2:23 |
 | 25 | [Kho Sa Gaya Hoon](https://open.spotify.com/track/6f4j8tJbdca1JAjbxCpH3G) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [Kho Sa Gaya Hoon](https://open.spotify.com/album/3QGif7T782Wl9lRA4Zx76N) | 2:07 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 37 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
 | 38 | [Pyaar Ka Jua](https://open.spotify.com/track/2ifXihxjjouUg9bUAL0sxR) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB) | [Pyaar Ka Jua](https://open.spotify.com/album/4CZDD94XvINvDDDipRji4p) | 2:18 |
 | 39 | [Amsham \- അംശം](https://open.spotify.com/track/1E0acRF3Nnf38iLIKqfj0p) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Bhumi](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Circle Tone](https://open.spotify.com/artist/5FLdl3TGJp0xXgUSimW2yQ) | [Amsham \- അംശം](https://open.spotify.com/album/0edE5xT1gEo2H0nB6iYz5E) | 4:41 |
-| 40 | [Saawariya](https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Saawariya](https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY) | 2:02 |
-| 41 | [Bolo Bolo](https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Bolo Bolo](https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD) | 3:57 |
+| 40 | [Bolo Bolo](https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Bolo Bolo](https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD) | 3:57 |
+| 41 | [Saawariya](https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Saawariya](https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY) | 2:02 |
 | 42 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 |
 | 43 | [Paatha Edathila](https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ) | [808Krshna](https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Adesh Krishna](https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK) | [Paatha Edathila](https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya) | 3:12 |
 | 44 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Thirinjin](https://open.spotify.com/track/7xks8vdAWuKzoh8xHJLntX) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Vaakkath](https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW) | 3:03 |
 | 75 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
 
-Snapshot ID: `AAAAAGGJV6ZswChWshzjRPnt+G2SVH+9`
+Snapshot ID: `AAAAAJQTDtQX50husOcWvHSqO9rxDHuL`

@@ -1485,6 +1485,28 @@
     },
     {
       "album": {
+        "name": "Ama De Mi Sol (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/1t6evUqVoIly6lCPLGvFqv"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176934,
+      "name": "Ama De Mi Sol - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3N790TxLxT3A9h1sLOVIia"
+    },
+    {
+      "album": {
         "name": "Amanecemos",
         "url": "https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg"
       },
@@ -5196,7 +5218,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168138,
       "name": "COMO FUERA",
       "url": "https://open.spotify.com/track/6WRtH6rqypQWqfFjsiIkPp"
@@ -11582,7 +11604,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 315780,
       "name": "Jangadero - La Jangada",
       "url": "https://open.spotify.com/track/7s7RSoKV2DcNxpu1OhSFBB"
@@ -11734,6 +11756,28 @@
       "duration_ms": 130876,
       "name": "JOJO",
       "url": "https://open.spotify.com/track/4Ldo3ZQCK6KpTHm1wsbWOg"
+    },
+    {
+      "album": {
+        "name": "JUANO DSKT | DJ TAO Sessions #33",
+        "url": "https://open.spotify.com/album/1ohGDiotByBf0TtgROxe0b"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "JUANO DSKT",
+          "url": "https://open.spotify.com/artist/5Oid3U6vpAXrJCHhfzJG5W"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122025,
+      "name": "JUANO DSKT | DJ TAO Sessions #33",
+      "url": "https://open.spotify.com/track/1Duh9NgioM4719EMtrgReJ"
     },
     {
       "album": {
@@ -12156,7 +12200,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155586,
       "name": "La Falda",
       "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
@@ -15183,6 +15227,24 @@
     },
     {
       "album": {
+        "name": "Me Odia, Me Ama",
+        "url": "https://open.spotify.com/album/0QM950ogwidurlT6tbCuFk"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156404,
+      "name": "Me Odia, Me Ama",
+      "url": "https://open.spotify.com/track/2BwOoVnf7GYeYFcTNks4mS"
+    },
+    {
+      "album": {
         "name": "Portales (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
       },
@@ -16086,7 +16148,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164615,
       "name": "Modo Oculto",
       "url": "https://open.spotify.com/track/6Ao1OyTNFLE6czKtTsYFju"
@@ -18365,6 +18427,24 @@
     },
     {
       "album": {
+        "name": "OWA",
+        "url": "https://open.spotify.com/album/66l5AkzI0KXG12dbb6YVDo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155088,
+      "name": "OWA",
+      "url": "https://open.spotify.com/track/1iRyyVcMKJ5n7Dkw5bP7wq"
+    },
+    {
+      "album": {
         "name": "Desconfiguraci\u00f3n, Vol. 4",
         "url": "https://open.spotify.com/album/5LGIrNz5TLDoV228z8oLeO"
       },
@@ -19330,7 +19410,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 207123,
       "name": "Perd\u00f3name - Versi\u00f3n Cumbia (En Vivo)",
       "url": "https://open.spotify.com/track/41pwn701sT9rPRGjR7BrYz"
@@ -21547,6 +21627,24 @@
     },
     {
       "album": {
+        "name": "no caigas en las trampas",
+        "url": "https://open.spotify.com/album/5FwNajrA8Mf5m7vAqpTPja"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154030,
+      "name": "Rayo de Sol ::Represi\u00f3n::",
+      "url": "https://open.spotify.com/track/1jrN22ZAZld1LN19cnRHDW"
+    },
+    {
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -22598,7 +22696,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 253653,
       "name": "Sentimiento De Un Gangster",
       "url": "https://open.spotify.com/track/2DaQtwU1gZAic4QspM0Teq"
@@ -23196,7 +23294,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 147272,
       "name": "Si sale el sol",
       "url": "https://open.spotify.com/track/1dEqXqc9uvGkih44NNh9nW"
@@ -25334,7 +25432,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 129071,
       "name": "TKM",
       "url": "https://open.spotify.com/track/6jT6IeSZeSYAl5edo7SpM6"
@@ -25890,6 +25988,28 @@
       "duration_ms": 184773,
       "name": "TRAPIMELO",
       "url": "https://open.spotify.com/track/3XTBcMOjLHxKaiMYI0UoS3"
+    },
+    {
+      "album": {
+        "name": "Tremendo Desastre",
+        "url": "https://open.spotify.com/album/6SO08tJ1GFnMqzXLzA9E3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Tremendo Desastre",
+      "url": "https://open.spotify.com/track/55iSVA6k6fDtFMK98XKy7w"
     },
     {
       "album": {
@@ -27439,6 +27559,24 @@
     },
     {
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/4NiZ1mlAfCvJxyWRIGX1vj"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211914,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/5qHY2RgmTO9pBgRiZWMg60"
+    },
+    {
+      "album": {
         "name": "Universidad",
         "url": "https://open.spotify.com/album/3hqIUFKHSl6tnlKIY8tRF9"
       },
@@ -28398,6 +28536,28 @@
       "duration_ms": 152285,
       "name": "WORLDWIDE",
       "url": "https://open.spotify.com/track/63mKsLehn8oPlThU69d9qf"
+    },
+    {
+      "album": {
+        "name": "X (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2bMNPo1pGG43aimtlU3ckC"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191314,
+      "name": "X (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/1fvVpm1MdyRV0CSZ42UgNf"
     },
     {
       "album": {

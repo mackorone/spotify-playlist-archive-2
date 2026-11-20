@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "Adonai (Live)",
+        "url": "https://open.spotify.com/album/3BXk9P6kin2aBqy8XdYNkE"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 723026,
+      "name": "Adonai - Live",
+      "url": "https://open.spotify.com/track/56fIx7nmkAljyxHGRvGtLa"
+    },
+    {
+      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/4cL97GKu8RwETLtFQ1n4tk"
       },
@@ -236,7 +258,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 465365,
       "name": "all about Jesus - Live at De Stanley Brothers Campus Tour",
       "url": "https://open.spotify.com/track/70svxuF3BxKmC3H4tam3Bk"
@@ -2828,7 +2850,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 468542,
       "name": "God Brought Us This Far !",
       "url": "https://open.spotify.com/track/4Mud8gQ3gI7CYHcNn3NaBW"
@@ -5802,7 +5824,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160571,
       "name": "My Love to You",
       "url": "https://open.spotify.com/track/3QgHXgRfZRDi4aH1PzHb4z"
@@ -6352,6 +6374,24 @@
       "duration_ms": 262242,
       "name": "Odogwu (feat. Prospa Ochimana)",
       "url": "https://open.spotify.com/track/5uVme5GQDbipGSnuz5kweE"
+    },
+    {
+      "album": {
+        "name": "Oga Jesus",
+        "url": "https://open.spotify.com/album/6tqye7M4Q3QrxAUPI8jcem"
+      },
+      "artists": [
+        {
+          "name": "Eljoe Onoja",
+          "url": "https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Oga Jesus",
+      "url": "https://open.spotify.com/track/35jFa6v2rsLiwtp1qu5JxC"
     },
     {
       "album": {
@@ -7097,6 +7137,24 @@
     },
     {
       "album": {
+        "name": "Remember Mercy",
+        "url": "https://open.spotify.com/album/5WxSDv19DNkjriL9eEbjQw"
+      },
+      "artists": [
+        {
+          "name": "Da Voice",
+          "url": "https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402000,
+      "name": "Remember Mercy",
+      "url": "https://open.spotify.com/track/2OHs7Fj2HUAKXmtv6hesZA"
+    },
+    {
+      "album": {
         "name": "Rescue The Perishing",
         "url": "https://open.spotify.com/album/3SdyZkiUe9YG86xFsIXQYC"
       },
@@ -7266,6 +7324,36 @@
       "duration_ms": 174734,
       "name": "Santo",
       "url": "https://open.spotify.com/track/54DFtp6XLPw3uD3Nd43pKz"
+    },
+    {
+      "album": {
+        "name": "Saviour",
+        "url": "https://open.spotify.com/album/4HJJfC09GVO1UyROGEzK1Y"
+      },
+      "artists": [
+        {
+          "name": "Taiwo Bolodeoku",
+          "url": "https://open.spotify.com/artist/0eLziWxSyjfiC3B1UdKckn"
+        },
+        {
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
+        },
+        {
+          "name": "Tobi Walker",
+          "url": "https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW"
+        },
+        {
+          "name": "Sounds of Heaven",
+          "url": "https://open.spotify.com/artist/1OfCVG3YGOuR6nqwtHPzuD"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573888,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/5lbkKMRrVGSnlbuv73vsbj"
     },
     {
       "album": {
@@ -8464,7 +8552,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 552048,
       "name": "We Pour - Live",
       "url": "https://open.spotify.com/track/5KijVP9G03TiDJcxBgFAiw"

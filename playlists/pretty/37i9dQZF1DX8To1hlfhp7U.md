@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,740 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,749 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 14 | [Check It Out](https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Check It Out](https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV) | 3:15 |
 | 15 | [Teeje Week](https://open.spotify.com/track/000RDCYioLteXcutOjeweY) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Teeje Week](https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM) | 3:10 |
 | 16 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 |
-| 17 | [Morni](https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [The Call of Panjab](https://open.spotify.com/album/58nSQhJ6jxFam34jgoZyul) | 3:25 |
-| 18 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 |
+| 17 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 |
+| 18 | [Morni](https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [The Call of Panjab](https://open.spotify.com/album/58nSQhJ6jxFam34jgoZyul) | 3:25 |
 | 19 | [Vancouver](https://open.spotify.com/track/1QKIZctspbifzxSJr6i7JX) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:43 |
 | 20 | [Mummy Nu Pasand \(From "Jai Mummy Di"\)](https://open.spotify.com/track/74qF0JeFMVilMEeFDiQZ48) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Mummy Nu Pasand \(From "Jai Mummy Di"\)](https://open.spotify.com/album/6CBvOAJkYbQbehRvq4nrcE) | 3:04 |
 | 21 | [Putt Jam Te Lau](https://open.spotify.com/track/5Cri5X3u4On71cGDGeNNiD) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd) | [Majhaestic](https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 49 | [Redbone](https://open.spotify.com/track/0CQeqWJO1OSand5O3LGWA3) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 |
 | 50 | [Left Behind](https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Left Behind](https://open.spotify.com/album/3Z3kGbW5yyIlKeu6zpEFzQ) | 3:42 |
 
-Snapshot ID: `AAAAAChEohgdIp0FqltfiWFApHpMYJL4`
+Snapshot ID: `AAAAAJG2l7DA9mqqFQVCpe7MQ2KV830+`

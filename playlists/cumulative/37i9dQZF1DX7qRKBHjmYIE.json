@@ -4311,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Selva Oscura",
+        "url": "https://open.spotify.com/album/1gppQNLvgPH1wfrA9yLw9X"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "cuando no puedes ver nada",
+      "url": "https://open.spotify.com/track/6Xtd6zuzNPEkYtfVBhlogp"
+    },
+    {
+      "album": {
         "name": "Cuenta Lo",
         "url": "https://open.spotify.com/album/3iieIKdHUhtM7xNO1zLJ9X"
       },
@@ -4998,6 +5016,24 @@
       "duration_ms": 148790,
       "name": "DEMONIO",
       "url": "https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ"
+    },
+    {
+      "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/540pquD3B2fmai9xx25RII"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284533,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/7bFKJ91RTq6wcZJMK1LQRa"
     },
     {
       "album": {
@@ -5987,6 +6023,24 @@
     },
     {
       "album": {
+        "name": "El Hueso",
+        "url": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143301,
+      "name": "El Hueso",
+      "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
+    },
+    {
+      "album": {
         "name": "RIO HOTEL",
         "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
       },
@@ -6016,7 +6070,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172840,
       "name": "EL OTRO T\u00da",
       "url": "https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT"
@@ -6624,7 +6678,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168330,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/4FJx8ZznIjK1ZZSBaK7aVF"
@@ -17754,7 +17808,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 140342,
       "name": "Suiza",
       "url": "https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça BUDAH e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">BUDAH</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,156 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,150 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Me Tem](https://open.spotify.com/track/2LOJz7RtrxujgbDrOF5FeO) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Me Tem](https://open.spotify.com/album/5wgLpUq2DWBHj1HFbLSoKP) | 2:55 |
 | 50 | [Bonde do esculacho](https://open.spotify.com/track/7cTN37m9Lhl1p6QAH5d0V6) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4) | [Bonde do esculacho](https://open.spotify.com/album/1gHE3XGsJxsqHFdUZKk6xZ) | 2:08 |
 
-Snapshot ID: `AAAAAHybW8h/CLwQ5mxsAv7wwpc4Y8zW`
+Snapshot ID: `AAAAAC61mTJvL2XIFkk/42y8FshwYShf`

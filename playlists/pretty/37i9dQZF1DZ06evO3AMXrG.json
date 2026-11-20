@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 255404,
+  "num_followers": 255418,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAACSCO936eWdH6Ref6h6Kvqi",
+  "snapshot_id": "avzqgAAAAADCM9yC/VFQS4mzugAKOCMY",
   "tracks": [
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/5SZ8sLaUl2FwK5raOdzHGO"
+        "name": "Musica Sin Tiempo",
+        "url": "https://open.spotify.com/album/13pukodIQcLgPOSeekqsJj"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 287160,
-      "name": "Inspiraci\u00f3n",
-      "url": "https://open.spotify.com/track/3kLUBZfh0FhC1FhNhbnY7y"
+      "duration_ms": 284020,
+      "name": "Musica Sin Tiempo",
+      "url": "https://open.spotify.com/track/6YfZ7Mw1yjo97Ae7ZU5v3Z"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica Sin Tiempo",
-        "url": "https://open.spotify.com/album/13pukodIQcLgPOSeekqsJj"
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/5SZ8sLaUl2FwK5raOdzHGO"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 284020,
-      "name": "Musica Sin Tiempo",
-      "url": "https://open.spotify.com/track/6YfZ7Mw1yjo97Ae7ZU5v3Z"
+      "duration_ms": 287160,
+      "name": "Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/3kLUBZfh0FhC1FhNhbnY7y"
     },
     {
       "added_at": null,

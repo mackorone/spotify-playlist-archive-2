@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "No Fue Suerte",
+        "url": "https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143577,
+      "name": "5.0",
+      "url": "https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi"
+    },
+    {
+      "album": {
         "name": "7 DIAS",
         "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
       },
@@ -1308,6 +1326,32 @@
       "duration_ms": 179026,
       "name": "Aqu\u00ed Hay Para Llevar",
       "url": "https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf"
+    },
+    {
+      "album": {
+        "name": "Asi Es Mi Cartel",
+        "url": "https://open.spotify.com/album/3FbI0p9Ayg8ViGg3PpgMl9"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160368,
+      "name": "Asi Es Mi Cartel",
+      "url": "https://open.spotify.com/track/73nI8NK2OA3J2c0NmwXlwP"
     },
     {
       "album": {
@@ -2370,7 +2414,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 209482,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/5KxYKV8FBqdGwtxGV3Pdkv"
@@ -2847,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "Clean Hats",
+        "url": "https://open.spotify.com/album/45Ihc8tGNzdazvUf95Op2X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exclusivo",
+          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257927,
+      "name": "Clean Hats",
+      "url": "https://open.spotify.com/track/3M0TfiQwppgfdWxMZtSR96"
+    },
+    {
+      "album": {
         "name": "Cobijas Ajenas",
         "url": "https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M"
       },
@@ -3080,7 +3142,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144726,
       "name": "Con Toda La Fe",
       "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
@@ -4262,7 +4324,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163909,
       "name": "DR. STRANGE",
       "url": "https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8"
@@ -4872,7 +4934,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 166850,
       "name": "El Ceviche",
       "url": "https://open.spotify.com/track/1Iqaw43wwpxLqZCb06YK18"
@@ -9860,7 +9922,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 186450,
       "name": "LA NETA",
       "url": "https://open.spotify.com/track/2HXCXjTJZbjxr8IvfDSeNC"
@@ -10032,7 +10094,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 123706,
       "name": "La Silverado",
       "url": "https://open.spotify.com/track/2FqsYzZfvWgm9UJZeFEWtv"
@@ -10054,6 +10116,24 @@
       "duration_ms": 150665,
       "name": "La Soluci\u00f3n",
       "url": "https://open.spotify.com/track/0j8OGRGBjBMb286wJxt1o8"
+    },
+    {
+      "album": {
+        "name": "La Sonrisa No Se Borra",
+        "url": "https://open.spotify.com/album/1yOquZ4pGf5ZgYJZtNdQML"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159984,
+      "name": "La Sonrisa No Se Borra",
+      "url": "https://open.spotify.com/track/3S8tpQirmBXYhd7HS5Df15"
     },
     {
       "album": {
@@ -10651,6 +10731,28 @@
     },
     {
       "album": {
+        "name": "ATRAVESAO",
+        "url": "https://open.spotify.com/album/0N2N0fNmfFL9PGIL67ziRw"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "LOS AZULES",
+      "url": "https://open.spotify.com/track/4ihun1sKkNn0VWl8aUIbQ1"
+    },
+    {
+      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -11122,7 +11224,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175982,
       "name": "MALAVENTURADO",
       "url": "https://open.spotify.com/track/5D7RSyiNLzaXomCorqUiVJ"
@@ -11335,6 +11437,24 @@
     },
     {
       "album": {
+        "name": "MA\u00d1A",
+        "url": "https://open.spotify.com/album/5wo0yYSspyQB1rmtgJczuM"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121267,
+      "name": "MA\u00d1A",
+      "url": "https://open.spotify.com/track/1Cu21QoqwsiM1l8Z8cvFVA"
+    },
+    {
+      "album": {
         "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
         "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
       },
@@ -11386,7 +11506,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175034,
       "name": "Me Consulto El Padrino",
       "url": "https://open.spotify.com/track/0iKoe405X8gV7p2dht5s9D"
@@ -12531,6 +12651,28 @@
     },
     {
       "album": {
+        "name": "No Di Una",
+        "url": "https://open.spotify.com/album/4uedxiVh2KXCitFdNq65jk"
+      },
+      "artists": [
+        {
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        },
+        {
+          "name": "Iv\u00e1n G\u00e1mez",
+          "url": "https://open.spotify.com/artist/3mBXdvv1aIdzguRPwaekv6"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203554,
+      "name": "No Di Una",
+      "url": "https://open.spotify.com/track/1VXPyGwvrmr6taa00WK1st"
+    },
+    {
+      "album": {
         "name": "No Es Pa Presumir",
         "url": "https://open.spotify.com/album/44yO6XmYiE1CdOHYqjRyYu"
       },
@@ -13022,6 +13164,28 @@
       "duration_ms": 182061,
       "name": "OTRO DESMADRE",
       "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
+    },
+    {
+      "album": {
+        "name": "Oveja Negra",
+        "url": "https://open.spotify.com/album/1v4zFBshC4YmJv1snxbxWC"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143506,
+      "name": "Oveja Negra",
+      "url": "https://open.spotify.com/track/7LcDqOSX8tVQSAbDAdFUuk"
     },
     {
       "album": {
@@ -14406,6 +14570,24 @@
       "duration_ms": 185933,
       "name": "Regalo De Dios",
       "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
+    },
+    {
+      "album": {
+        "name": "Parece Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0Re3fo7qmcnoCp5vGuqiy1"
+      },
+      "artists": [
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Rey Salmon",
+      "url": "https://open.spotify.com/track/4aYHnE7rBSpNVMhtpMQPdr"
     },
     {
       "album": {
@@ -15878,7 +16060,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 124732,
       "name": "Supersnake",
       "url": "https://open.spotify.com/track/5lqUcqnZ6hXUnXTo5jVuH0"

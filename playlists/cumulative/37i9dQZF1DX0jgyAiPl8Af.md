@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-968 songs - 1 day 17 hr 43 min
+969 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -940,6 +940,7 @@
 | [Wellspring for thought](https://open.spotify.com/track/4ZfA8pzOEHovwGTg5wq32Q) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Wellspring for thought](https://open.spotify.com/album/7KuVAWo78nXDxG4LS9rXvD) | 2:14 | 2023-08-10 | 2024-05-25 |
 | [Wermut](https://open.spotify.com/track/1pCBWUpiBi3q8fcyervGfj) | [Di Bosco](https://open.spotify.com/artist/1j7HrpUlI55EmAx4PVtFgf) | [Wermut](https://open.spotify.com/album/5a07c9OPZMMUqN6rKifaWu) | 1:54 | 2023-05-12 | 2023-08-19 |
 | [What Are Words](https://open.spotify.com/track/2dSfoV55JuQAMDZOFs1i9j) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [What Are Words](https://open.spotify.com/album/3j6grxFMfbuanNqs8EpjL6) | 2:42 | 2022-09-16 | 2023-05-26 |
+| [When I Fall](https://open.spotify.com/track/7xhavfJzCX9sUhXgtecOjT) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [When I Fall](https://open.spotify.com/album/5S1tW0PBvUv2OPnzkCbnWm) | 3:06 | 2026-11-20 |  |
 | [When she walks away](https://open.spotify.com/track/3EjF8vULmYdIQtrEIKoEA7) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [When she walks away](https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk) | 2:19 | 2023-03-24 | 2025-05-14 |
 | [when the stars align](https://open.spotify.com/track/4JWkY1lHA5tTUCqyk0JFE1) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [when the stars align](https://open.spotify.com/album/7dd2msGOs5dEYWMjYAvcJq) | 3:06 | 2021-12-08 | 2022-04-22 |
 | [When we're together](https://open.spotify.com/track/46CteNPTOkjXz52CIldTjZ) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [When we're together](https://open.spotify.com/album/2o2rYNRj9oQHzORAdeQ6ya) | 2:28 | 2024-10-01 | 2025-11-11 |

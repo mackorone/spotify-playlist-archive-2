@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Adriaan Persons",
+  "description": "Frisse Nederlandse pop. Cover: Zo\u00eb Livay (Spotify <a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">RADAR</a>-artiest)",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -5401,6 +5401,28 @@
     },
     {
       "album": {
+        "name": "Dat Ik Je Zie",
+        "url": "https://open.spotify.com/album/7E6x182kA3x2OYMWYQ6KZS"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "Jennifer",
+          "url": "https://open.spotify.com/artist/3LdfkUJyJmYBCtY7RQ8lKa"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160236,
+      "name": "Dat Ik Je Zie",
+      "url": "https://open.spotify.com/track/64vwRYnUDKYLFMyeioYbgc"
+    },
+    {
+      "album": {
         "name": "Dat Is Het Leven",
         "url": "https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW"
       },
@@ -6186,7 +6208,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144387,
       "name": "Designertas",
       "url": "https://open.spotify.com/track/0fbTnbITwXNU5zpWre4xv8"
@@ -8346,7 +8368,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 183693,
       "name": "Geen Rem",
       "url": "https://open.spotify.com/track/1EZTLVCni1vFwydultwvoX"
@@ -8770,7 +8792,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 136368,
       "name": "Glow-Up Era",
       "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
@@ -10438,6 +10460,28 @@
       "duration_ms": 163925,
       "name": "Hoe Je Naar Me Keek",
       "url": "https://open.spotify.com/track/64QB4SM5uV6FvUTQXoqTdE"
+    },
+    {
+      "album": {
+        "name": "Hoe Kan Het Zo Zijn",
+        "url": "https://open.spotify.com/album/6f2gYhc6uuCPkXYzIEuLNG"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168076,
+      "name": "Hoe Kan Het Zo Zijn",
+      "url": "https://open.spotify.com/track/0UrWdYX7B7E2pFjLrRpnm3"
     },
     {
       "album": {
@@ -13024,7 +13068,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180322,
       "name": "Jij",
       "url": "https://open.spotify.com/track/5eNFNNZwywwe1jOoUxjYo2"
@@ -22944,7 +22988,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 236663,
       "name": "Streng",
       "url": "https://open.spotify.com/track/7wh79PKQkDZwyoK2Q3DkML"
@@ -26207,6 +26251,24 @@
     },
     {
       "album": {
+        "name": "Teveel Is Niet Genoeg",
+        "url": "https://open.spotify.com/album/7gRDr3BmTd9R0XnlOgjJE7"
+      },
+      "artists": [
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199134,
+      "name": "Waar Heb Je Op Gewacht",
+      "url": "https://open.spotify.com/track/0ZPXDZWfZCFECzPS39PZYj"
+    },
+    {
+      "album": {
         "name": "Waar Ik Ben",
         "url": "https://open.spotify.com/album/6LLdzMTrHM0sez2nUM8rqo"
       },
@@ -26906,6 +26968,24 @@
       "duration_ms": 209555,
       "name": "Wat ze wil",
       "url": "https://open.spotify.com/track/5YmsjL8WdTiObmZxfzdy6a"
+    },
+    {
+      "album": {
+        "name": "Beetje Arrogant",
+        "url": "https://open.spotify.com/album/4z3p7pMwP0eYfK3f5YSN8L"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143211,
+      "name": "Wat Zijn We Aan Het Doen",
+      "url": "https://open.spotify.com/track/1af2LKMNUIaTh2HOr8FcHF"
     },
     {
       "album": {
@@ -28458,6 +28538,24 @@
       "duration_ms": 155576,
       "name": "Zogenaamd",
       "url": "https://open.spotify.com/track/7mOFEGZPvIMqn66W7F9xAC"
+    },
+    {
+      "album": {
+        "name": "Zolang Als Het Kan",
+        "url": "https://open.spotify.com/album/0mhKIkLsJZUJ60YqxHTJ8b"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Zolang Als Het Kan",
+      "url": "https://open.spotify.com/track/1j8CnoN2fMtPrAbxJEs5iW"
     },
     {
       "album": {

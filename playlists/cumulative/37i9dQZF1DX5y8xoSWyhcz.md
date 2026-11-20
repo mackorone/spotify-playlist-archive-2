@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,799 songs - 3 day 21 hr 42 min
+1,804 songs - 3 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [By The Water](https://open.spotify.com/track/15XOcVmHvcpRCJs2QD6SWg) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [By The Water](https://open.spotify.com/album/3mPUPdGf4vhMH9lDfuQZAN) | 2:49 | 2023-10-27 | 2025-05-24 |
 | [By The Way](https://open.spotify.com/track/72JBBvgjw8Tj1O9lEaAnwA) | [Lyle Kam](https://open.spotify.com/artist/3tpxZOPwm3IFQo00wq6hNd) | [By The Way](https://open.spotify.com/album/31MEXRK8wPM0tFt5ORQtxT) | 2:47 | 2021-06-12 | 2021-07-31 |
 | [BYE](https://open.spotify.com/track/3OUyyDN7EZrL7i0Sbi5SVd) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [BYE](https://open.spotify.com/album/4TVz7u3xhjsYYI2Ir8ZUbW) | 4:56 | 2021-06-27 | 2021-10-09 |
+| [C'mon Baby](https://open.spotify.com/track/0CEMxZm2972n5sGj7QbJzA) | [The Hits](https://open.spotify.com/artist/12TfM4DemKyddwLnNYBWUk) | [C'mon Baby](https://open.spotify.com/album/2cI5LYC3TN858YsLWrFNg7) | 2:53 | 2026-11-20 |  |
 | [C'mon Be Cool](https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [C'mon Be Cool](https://open.spotify.com/album/4EimlD1OXtXp0GGHFQ1yGv) | 3:15 | 2021-04-10 | 2021-04-17 |
 | [Caffeine](https://open.spotify.com/track/3UVBkOTod3wOadZL6y32zE) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Caffeine](https://open.spotify.com/album/7E8Enrh5avrFvW3FS5j0da) | 2:23 | 2022-06-03 | 2023-08-26 |
 | [Caged Birds Don't Sing](https://open.spotify.com/track/59yTchIo69gcv6QK4lGcdJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [LET ME OUT I'M FREE!](https://open.spotify.com/album/4osFZQaMRxkx5DsfYVBhOG) | 3:29 | 2022-05-20 | 2023-04-01 |
@@ -461,6 +462,7 @@
 | [East Coast](https://open.spotify.com/track/6ySFsPVeFww769nr3aQy5E) | [Bella Galasso](https://open.spotify.com/artist/0xOHwnESa9ODHYNWMLgZCI) | [East Coast](https://open.spotify.com/album/4BjompXYH7JfAAli0EGGGC) | 2:37 | 2026-07-31 |  |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-06-28 | 2025-10-03 |
 | [Easy](https://open.spotify.com/track/4VHd2JFgcpgYOvJWP2D1aX) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Easy](https://open.spotify.com/album/2NjGLwVlQxVHSHNGSJMTMh) | 3:23 | 2020-10-29\* | 2021-02-19 |
+| [Easy](https://open.spotify.com/track/6E6UfOJ9CrRzIMMJXFmNNI) | [Bain Marie](https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J) | [Easy](https://open.spotify.com/album/1jpnRWPxndzn7xSsaT0S21) | 3:38 | 2026-11-20 |  |
 | [Easy](https://open.spotify.com/track/1h3PA5NTZ1fKHxfMVSK4QX) | [Cal in Red](https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1) | [Easy](https://open.spotify.com/album/0A6T5v4VleEM7gICMUYJLl) | 3:08 | 2026-11-13 |  |
 | [easy tiger](https://open.spotify.com/track/3ulNNb7ox9CcwPPi3AqmAc) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [easy tiger](https://open.spotify.com/album/6IovnQ5usg4qD2AHCgO6dN) | 2:48 | 2026-05-29 | 2026-10-09 |
 | [Eckhaus Latta](https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Eckhaus Latta](https://open.spotify.com/album/581K715k3W1jz1LqgmOKKz) | 2:49 | 2024-03-29 | 2024-06-22 |
@@ -622,6 +624,7 @@
 | [Good Call](https://open.spotify.com/track/0JOLwH0Gk7ZydWzAVo2gjU) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Good Call](https://open.spotify.com/album/5xJOjW6bjyAZ0NxHX6thdV) | 4:01 | 2025-11-14 | 2026-03-21 |
 | [Good Morning Pt\. I](https://open.spotify.com/track/4xIKOevLPFqy1fNd6Q2P5z) | [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [I Love You](https://open.spotify.com/album/7jUUZkuKbh6dNGDJRbybdg) | 4:19 | 2024-03-15 | 2025-09-12 |
 | [Good, but not together](https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Good, but not together](https://open.spotify.com/album/7IJq7iIJ0JztktxLcoa0Sn) | 3:03 | 2023-03-03 | 2023-06-03 |
+| [Goodbye August Horses](https://open.spotify.com/track/2Yrxbk100CHbiy6k5RZe2K) | [Jeremy Parkin](https://open.spotify.com/artist/5m4xrkVmJeWV97JpTXkra8) | [Goodbye August Horses](https://open.spotify.com/album/0tIsztIzjIjiRlPaMAeIsg) | 3:16 | 2026-11-20 |  |
 | [Goosebumps](https://open.spotify.com/track/6rQETb8NqBgY6Fqxpz1Qbr) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Goosebumps](https://open.spotify.com/album/1Hfpxs1Vgk0ynXBivdSFkg) | 4:21 | 2020-10-29\* | 2020-11-11 |
 | [Grace](https://open.spotify.com/track/0HUizC6vRNIYcVj7o1YaNP) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf) | [Sunshine State of a Happy Camper](https://open.spotify.com/album/3SG8xXhl9MWRWrspCW7adq) | 3:29 | 2023-12-16 | 2024-04-19 |
 | [Grace](https://open.spotify.com/track/0PkULtfgErOmg562Jkoj7q) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf) | [Sunshine State of a Happy Camper](https://open.spotify.com/album/0CDDoR9TpkCc2rGVhGB71B) | 3:29 | 2023-06-23 | 2025-01-11 |
@@ -961,6 +964,7 @@
 | [losing sleep](https://open.spotify.com/track/0vg7uI1FHYTbMG1ZCYev5T) | [priyana](https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ) | [losing sleep](https://open.spotify.com/album/4AaWjuHmKpYUDEiKITANBb) | 4:02 | 2026-07-10 | 2026-10-24 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-01-21 | 2022-07-02 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-07-31 |
+| [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 | 2026-11-20 |  |
 | [Lost In Texas](https://open.spotify.com/track/7DbLT5HzDpQFo6ReMTkPzj) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot) | [Lost In Texas](https://open.spotify.com/album/3pzqxRkvfleYENLjiongiV) | 3:28 | 2021-02-13 | 2021-04-10 |
 | [love is a mystery](https://open.spotify.com/track/1b17fnqmzjFDNjpv8ucBXw) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [love is a mystery](https://open.spotify.com/album/1oB1q2z430pRoZUxnVf9zj) | 3:39 | 2026-04-10 | 2026-07-04 |
 | [Love Is Blind \- Spotify Singles](https://open.spotify.com/track/4f22oWm76LYThaa1FpDuUw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 2:44 | 2024-05-31 | 2024-08-10 |
@@ -1662,6 +1666,7 @@
 | [Uncall It](https://open.spotify.com/track/6dJC1unKk2kWnaA5goiXly) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4) | 2:36 | 2022-06-03 | 2022-10-15 |
 | [Unclear](https://open.spotify.com/track/2g0QPG3B8VCRl2qNuR40Hy) | [Sea of Lettuce](https://open.spotify.com/artist/1uPcEitVTkNP5QpUtTbxqq) | [Unclear](https://open.spotify.com/album/1Plf5y8Gj77ETEBTg0HgaG) | 3:10 | 2026-03-20 | 2026-05-23 |
 | [under the sofa](https://open.spotify.com/track/7ixdafOgj1QY1KM6t18RRU) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [waiting room](https://open.spotify.com/album/43x88JZCCwG3IfXHlyXc6A) | 1:39 | 2023-03-31 | 2023-07-29 |
+| [underneath](https://open.spotify.com/track/17fYcNeZOig9908CA4paoO) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [underneath](https://open.spotify.com/album/3Ef5QxE08ZcBYp7ruQDAhU) | 3:29 | 2026-11-20 |  |
 | [Undershare \(feat\. ELIO\)](https://open.spotify.com/track/7Mdvvkp2wAHUnFwdZ6nrr1) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Undershare \(feat\. ELIO\)](https://open.spotify.com/album/6kQpLd2JF29RNgBjJ8fFfv) | 3:39 | 2022-09-16 | 2023-11-11 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-28 | 2025-07-26 |
 | [UNKNOWN](https://open.spotify.com/track/0Z8h8JgHnvyYXY0VLT0YXH) | [prettyboys](https://open.spotify.com/artist/2gEcnCymek6QgS9DfQF3UZ) | [UNKNOWN](https://open.spotify.com/album/3indV6cCInris0c4k2cWpy) | 3:32 | 2021-10-30 | 2022-02-15 |

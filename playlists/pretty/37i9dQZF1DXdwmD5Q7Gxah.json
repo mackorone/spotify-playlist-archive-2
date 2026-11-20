@@ -1,13 +1,29 @@
 {
-  "description": "Emma Ogier season <a href=\"https://loremandfriends.substack.com/p/sincerely-and-always-forever\"> plus ~new substack ft Heathers & Sammie Pearson here~</a>   ",
-  "num_followers": 1183894,
+  "description": "aLex vs aLex its barking season <a href=\"https://loremandfriends.substack.com/p/sincerely-and-always-forever\"> plus ~new substack ft Heathers & Sammie Pearson here~</a>   ",
+  "num_followers": 1183908,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOWtSaOMnjaApsOp6dfCJ6XHJqX4",
+  "snapshot_id": "AAAAADnVRZZT6iIdTBVuxz1Avjokk2B6",
   "tracks": [
+    {
+      "added_at": "2026-11-13 05:01:41",
+      "album": {
+        "name": "bark bark bark",
+        "url": "https://open.spotify.com/album/0PindUKbZh2ZFkgILpvTH6"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 146114,
+      "name": "bark bark bark",
+      "url": "https://open.spotify.com/track/6Ik4yw27YQfVhhTt1tOtmV"
+    },
     {
       "added_at": "2026-11-13 05:01:41",
       "album": {
@@ -25,20 +41,84 @@
       "url": "https://open.spotify.com/track/2DKudvFN7v0ppq0nFPZb8i"
     },
     {
-      "added_at": "2026-11-13 05:01:41",
+      "added_at": "2026-11-19 16:49:13",
       "album": {
-        "name": "bark bark bark",
-        "url": "https://open.spotify.com/album/0PindUKbZh2ZFkgILpvTH6"
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW"
       },
       "artists": [
         {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 146114,
-      "name": "bark bark bark",
-      "url": "https://open.spotify.com/track/6Ik4yw27YQfVhhTt1tOtmV"
+      "duration_ms": 215427,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/3htz0sRGLYHbbAS9QeEqpy"
+    },
+    {
+      "added_at": "2026-11-20 05:01:45",
+      "album": {
+        "name": "Bad Throw, Good Catch",
+        "url": "https://open.spotify.com/album/70fJvZsO9wMxqcHzhgzVBX"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "duration_ms": 215639,
+      "name": "River Of Dust",
+      "url": "https://open.spotify.com/track/6XkDXZgP5X44aTnlqpZc7h"
+    },
+    {
+      "added_at": "2026-11-13 17:04:59",
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 188229,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi"
+    },
+    {
+      "added_at": "2026-11-20 05:01:45",
+      "album": {
+        "name": "You Are Mistaken",
+        "url": "https://open.spotify.com/album/7sZdxP9xS6qCM56DvNu6Go"
+      },
+      "artists": [
+        {
+          "name": "Loch Raven",
+          "url": "https://open.spotify.com/artist/71SCoEHvwvLluq5KSyl5ia"
+        }
+      ],
+      "duration_ms": 250953,
+      "name": "You Are Mistaken",
+      "url": "https://open.spotify.com/track/5FO51sTJlUfUmx5BTT4uG2"
+    },
+    {
+      "added_at": "2026-11-11 17:22:22",
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/6UiXsffeceFbIvVcxaAK5V"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "duration_ms": 163772,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/16QLv8xt9nPNBZCBDm3Gkv"
     },
     {
       "added_at": "2026-11-11 17:22:22",
@@ -59,6 +139,22 @@
     {
       "added_at": "2026-11-11 17:22:22",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2iIbQxBJG9cX0HCtfVDXQt"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "duration_ms": 245993,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/37GUzBOW6gbF68KIAFnjh6"
+    },
+    {
+      "added_at": "2026-11-11 17:22:22",
+      "album": {
         "name": "Fly 1111",
         "url": "https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM"
       },
@@ -71,22 +167,6 @@
       "duration_ms": 205704,
       "name": "Land",
       "url": "https://open.spotify.com/track/7MB1tKZya7KsesEn5F1XkD"
-    },
-    {
-      "added_at": "2026-11-13 17:04:59",
-      "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l"
-      },
-      "artists": [
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 188229,
-      "name": "Honeymoon",
-      "url": "https://open.spotify.com/track/160wVfS6OgXxhyPkDYOhLi"
     },
     {
       "added_at": "2026-11-13 05:01:41",
@@ -105,20 +185,20 @@
       "url": "https://open.spotify.com/track/2vgeAlfyqNyikQfVYa6BS4"
     },
     {
-      "added_at": "2026-11-11 17:22:22",
+      "added_at": "2026-11-20 05:01:45",
       "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/6UiXsffeceFbIvVcxaAK5V"
+        "name": "Pardon My French",
+        "url": "https://open.spotify.com/album/0GrLPSKR93bDtQcU1dgeJV"
       },
       "artists": [
         {
-          "name": "SOFY",
-          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 163772,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/16QLv8xt9nPNBZCBDm3Gkv"
+      "duration_ms": 191754,
+      "name": "Pardon My French",
+      "url": "https://open.spotify.com/track/2MCb6Q5SJMt5eeIlwjOZd1"
     },
     {
       "added_at": "2026-11-13 05:01:41",
@@ -135,6 +215,38 @@
       "duration_ms": 153834,
       "name": "How Did I Get It So Wrong",
       "url": "https://open.spotify.com/track/17SqEPGKzwJdd6mTib8lBo"
+    },
+    {
+      "added_at": "2026-11-13 05:01:41",
+      "album": {
+        "name": "id treat u better",
+        "url": "https://open.spotify.com/album/3AkQKaXhktYtUugvyr2gi1"
+      },
+      "artists": [
+        {
+          "name": "Junior Mesa",
+          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "id treat u better",
+      "url": "https://open.spotify.com/track/3Gc9pv0qFEZ7HSFPzfsxJe"
+    },
+    {
+      "added_at": "2026-11-19 18:56:26",
+      "album": {
+        "name": "Hound",
+        "url": "https://open.spotify.com/album/3IMaSJPDmxhDDNWPPSh0Il"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 281786,
+      "name": "Hound",
+      "url": "https://open.spotify.com/track/5iBrFAs9no7GJJmKtIUrUr"
     },
     {
       "added_at": "2026-10-30 04:01:28",
@@ -173,6 +285,54 @@
       "url": "https://open.spotify.com/track/0lrBCZmdM04OKgpp7xY84b"
     },
     {
+      "added_at": "2026-11-20 05:01:45",
+      "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/1RGmyFUGEd0razyJzFmKPc"
+      },
+      "artists": [
+        {
+          "name": "Soraya Cinema",
+          "url": "https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9"
+        }
+      ],
+      "duration_ms": 180115,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/6FmZZsRbAxA9Hy6ovUSokr"
+    },
+    {
+      "added_at": "2026-11-06 03:58:08",
+      "album": {
+        "name": "leech",
+        "url": "https://open.spotify.com/album/3Vkg0wMWXwK0R7bR8t5ds1"
+      },
+      "artists": [
+        {
+          "name": "campthehills",
+          "url": "https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs"
+        }
+      ],
+      "duration_ms": 227547,
+      "name": "leech",
+      "url": "https://open.spotify.com/track/5rRQX87a0AQJjEoVfYXO5U"
+    },
+    {
+      "added_at": "2026-11-20 05:01:45",
+      "album": {
+        "name": "i want 2",
+        "url": "https://open.spotify.com/album/45fp1rYGmyf9VLFewyUCp4"
+      },
+      "artists": [
+        {
+          "name": "Babe Dylan",
+          "url": "https://open.spotify.com/artist/0xd16ai4mtpBCnoaAHCw1a"
+        }
+      ],
+      "duration_ms": 171074,
+      "name": "i want 2",
+      "url": "https://open.spotify.com/track/7kzhuIArFYBZqHv2yy5aHA"
+    },
+    {
       "added_at": "2026-11-09 22:59:22",
       "album": {
         "name": "Highway to Hell",
@@ -203,22 +363,6 @@
       "duration_ms": 260146,
       "name": "I Won\u2019t Cry",
       "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
-    },
-    {
-      "added_at": "2026-11-11 17:22:22",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2iIbQxBJG9cX0HCtfVDXQt"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 245993,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/37GUzBOW6gbF68KIAFnjh6"
     },
     {
       "added_at": "2026-11-13 05:01:41",
@@ -275,54 +419,6 @@
     {
       "added_at": "2026-11-13 05:01:41",
       "album": {
-        "name": "id treat u better",
-        "url": "https://open.spotify.com/album/3AkQKaXhktYtUugvyr2gi1"
-      },
-      "artists": [
-        {
-          "name": "Junior Mesa",
-          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "id treat u better",
-      "url": "https://open.spotify.com/track/3Gc9pv0qFEZ7HSFPzfsxJe"
-    },
-    {
-      "added_at": "2026-11-11 17:22:22",
-      "album": {
-        "name": "wotless",
-        "url": "https://open.spotify.com/album/4IDXbFID1H7ol56BdzbUqI"
-      },
-      "artists": [
-        {
-          "name": "Dean Blunt",
-          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
-        }
-      ],
-      "duration_ms": 88046,
-      "name": "wotless",
-      "url": "https://open.spotify.com/track/49wa3CofaXUTuhaNGkoYQf"
-    },
-    {
-      "added_at": "2026-11-06 03:58:08",
-      "album": {
-        "name": "leech",
-        "url": "https://open.spotify.com/album/3Vkg0wMWXwK0R7bR8t5ds1"
-      },
-      "artists": [
-        {
-          "name": "campthehills",
-          "url": "https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs"
-        }
-      ],
-      "duration_ms": 227547,
-      "name": "leech",
-      "url": "https://open.spotify.com/track/5rRQX87a0AQJjEoVfYXO5U"
-    },
-    {
-      "added_at": "2026-11-13 05:01:41",
-      "album": {
         "name": "Most Likely",
         "url": "https://open.spotify.com/album/1OQizYD8KIkRSmD1U3m9Vg"
       },
@@ -351,6 +447,22 @@
       "duration_ms": 203946,
       "name": "Curse",
       "url": "https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH"
+    },
+    {
+      "added_at": "2026-11-06 03:58:08",
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/4CYOeeob1ECLSdMJGRYK02"
+      },
+      "artists": [
+        {
+          "name": "Saam Sultan",
+          "url": "https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93"
+        }
+      ],
+      "duration_ms": 187709,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/1TL63QISHYXzqPPBESPzQf"
     },
     {
       "added_at": "2026-11-06 03:58:08",
@@ -385,6 +497,22 @@
       "url": "https://open.spotify.com/track/6ZCXoaFvPtLoufP2tDJu5N"
     },
     {
+      "added_at": "2026-11-11 17:22:22",
+      "album": {
+        "name": "wotless",
+        "url": "https://open.spotify.com/album/4IDXbFID1H7ol56BdzbUqI"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        }
+      ],
+      "duration_ms": 88046,
+      "name": "wotless",
+      "url": "https://open.spotify.com/track/49wa3CofaXUTuhaNGkoYQf"
+    },
+    {
       "added_at": "2026-10-30 04:01:28",
       "album": {
         "name": "2",
@@ -415,22 +543,6 @@
       "duration_ms": 183857,
       "name": "I Am God",
       "url": "https://open.spotify.com/track/1I0bdA0ZAyDYDriO2aLZ34"
-    },
-    {
-      "added_at": "2026-11-06 03:58:08",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/4CYOeeob1ECLSdMJGRYK02"
-      },
-      "artists": [
-        {
-          "name": "Saam Sultan",
-          "url": "https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93"
-        }
-      ],
-      "duration_ms": 187709,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/1TL63QISHYXzqPPBESPzQf"
     },
     {
       "added_at": "2026-10-30 04:01:28",

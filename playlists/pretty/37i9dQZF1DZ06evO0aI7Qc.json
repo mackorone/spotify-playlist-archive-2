@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 399806,
+  "num_followers": 399862,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAB0znL4bg/B2tefZHFMAbIy",
+  "snapshot_id": "avzqgAAAAADI8KG9tfBGcfDFsRzhK5gM",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "NO SON DORITOS",
+      "url": "https://open.spotify.com/track/4Y5oppVVHqsoEXTXWZm5DE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PRESIDENTE",
         "url": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
       },
@@ -215,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MIJA NO TE ASUSTES",
-        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "NO SON DORITOS",
-      "url": "https://open.spotify.com/track/4Y5oppVVHqsoEXTXWZm5DE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muchacho Alegre",
         "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
       },
@@ -247,6 +247,26 @@
       "duration_ms": 188121,
       "name": "Muchacho Alegre",
       "url": "https://open.spotify.com/track/4L4VjsSWBHQYAr4mNjW92F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Filoso",
+        "url": "https://open.spotify.com/album/1OCQPMCZ5BcZXYBsxB0bLi"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 163983,
+      "name": "Filoso",
+      "url": "https://open.spotify.com/track/6h3IkDgzW9livzwgH9dKeX"
     },
     {
       "added_at": null,
@@ -271,26 +291,6 @@
       "duration_ms": 223578,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/33THfvKc6inTp3HW93k5jr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Filoso",
-        "url": "https://open.spotify.com/album/1OCQPMCZ5BcZXYBsxB0bLi"
-      },
-      "artists": [
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 163983,
-      "name": "Filoso",
-      "url": "https://open.spotify.com/track/6h3IkDgzW9livzwgH9dKeX"
     },
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DIOS TESTIGO",
-        "url": "https://open.spotify.com/album/7Gbu1Y6tV3EcBmR9RF4b6H"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "DIOS TESTIGO",
-      "url": "https://open.spotify.com/track/1TsCrwD4t8rrrGeE1pH4dz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 165026,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DIOS TESTIGO",
+        "url": "https://open.spotify.com/album/7Gbu1Y6tV3EcBmR9RF4b6H"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "DIOS TESTIGO",
+      "url": "https://open.spotify.com/track/1TsCrwD4t8rrrGeE1pH4dz"
     },
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 153566,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Locos Nunca Mueren",
         "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 144932,
       "name": "Pobre No",
       "url": "https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 153566,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 171322,
+      "name": "CDN",
+      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muchacho Alegre",
         "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 146009,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/55x1ZyGMkt2d7JPc0WK9nj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 171322,
-      "name": "CDN",
-      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
     },
     {
       "added_at": null,
@@ -799,30 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DEMBOW B\u00c9LICO",
-        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 126522,
-      "name": "DEMBOW B\u00c9LICO",
-      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MI PROPIO JEFE",
         "url": "https://open.spotify.com/album/2ATngdZDgJfsCcGZcN92Fe"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 210923,
       "name": "MI PROPIO JEFE",
       "url": "https://open.spotify.com/track/1mMMqwAlOZlADLdeool2zb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DEMBOW B\u00c9LICO",
+        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 126522,
+      "name": "DEMBOW B\u00c9LICO",
+      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 197975,
+      "name": "Al Chile Pega",
+      "url": "https://open.spotify.com/track/6fJNebtrXAVmOnd0W5VXCa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALEDUCADO",
         "url": "https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM"
       },
@@ -951,6 +967,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Cazadora",
         "url": "https://open.spotify.com/album/03jIAWMrRp5Bra8pIMdzK1"
       },
@@ -971,26 +1007,6 @@
       "duration_ms": 191481,
       "name": "La Cazadora",
       "url": "https://open.spotify.com/track/5CJSOx4mGZk5jIoCv1QjR6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
     },
     {
       "added_at": null,
@@ -1035,22 +1051,6 @@
       "duration_ms": 157413,
       "name": "Derecho Y Chueco - Remix",
       "url": "https://open.spotify.com/track/0tLvugFLp8grM5riiBRsPf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 197975,
-      "name": "Al Chile Pega",
-      "url": "https://open.spotify.com/track/6fJNebtrXAVmOnd0W5VXCa"
     },
     {
       "added_at": null,

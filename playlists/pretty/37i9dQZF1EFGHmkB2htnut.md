@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 105 | [Lose Myself](https://open.spotify.com/track/68a0FjwEbGMrX9JUHeowTA) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/5oWHTt8yF3GuZyQbE2mbTp) | 3:27 |
 | 106 | [Cinnamon Gum](https://open.spotify.com/track/5Dqhb9TOkEBdRADNetgv2T) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Cinnamon Gum](https://open.spotify.com/album/3x5qcLgLcSZlJK4V5AjFWu) | 4:05 |
 | 107 | [Scandal](https://open.spotify.com/track/7LsPuD72lqQeydaIRQ1TJb) | [Emeryld](https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL) | [Scandal \(Piano Version\)](https://open.spotify.com/album/0BBBS0F20Nn2KvqHALL7Z6) | 3:42 |
-| 108 | [Cry In California](https://open.spotify.com/track/2NdKgUemiEomMDqM5tLlbm) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/3v9Y5lRmYMpJLKToq23mvv) | 3:19 |
-| 109 | [Stumble](https://open.spotify.com/track/14TGG1rBUUBFJTK0wK971H) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Stumble](https://open.spotify.com/album/68QKrFE3Yfi5nxPjwNoAVU) | 3:48 |
+| 108 | [Stumble](https://open.spotify.com/track/14TGG1rBUUBFJTK0wK971H) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Stumble](https://open.spotify.com/album/68QKrFE3Yfi5nxPjwNoAVU) | 3:48 |
+| 109 | [Cry In California](https://open.spotify.com/track/2NdKgUemiEomMDqM5tLlbm) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/3v9Y5lRmYMpJLKToq23mvv) | 3:19 |
 | 110 | [GO](https://open.spotify.com/track/1KAV8Xo95JU3eNwmvW2imc) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [GO](https://open.spotify.com/album/6H1P4U7vkFCorLUxgoOAlt) | 3:00 |
 | 111 | [Revenge](https://open.spotify.com/track/3RxfooaHT4gwpZrbI71BrS) | [Jez Dior](https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi) | [Handle With Care](https://open.spotify.com/album/52WqdSNr8hQioPuM1mHNIF) | 3:21 |
 | 112 | [Merry Bitchmas](https://open.spotify.com/track/4n6lKbCHF69pHW6zgjvWhj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Merry Bitchmas](https://open.spotify.com/album/2QnJSWJ0m0CDTvtaDp0NwB) | 3:24 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 146 | [Father Figures](https://open.spotify.com/track/1hWSPugygFE4ydR12fNOb0) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/5qb2qACHP6yi0GLmonfeyj) | 3:46 |
 | 147 | [To Love Someone](https://open.spotify.com/track/2WWnc0Se0UN0N8RsGBS7cK) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Benson Boone](https://open.spotify.com/album/5Hgy9M8q0lKpablA8mV9JU) | 3:28 |
 
-Snapshot ID: `AciCaAAAAAAQ23O2YWYtQm+Vn7Tfeihw`
+Snapshot ID: `AciIHAAAAACEjZIMkwm71rUXHOj300kK`

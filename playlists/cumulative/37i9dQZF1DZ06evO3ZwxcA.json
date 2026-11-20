@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 230680,
       "name": "This Goes Out To You",
       "url": "https://open.spotify.com/track/0wBNVJm6ivrFUlSucNVCkf"
@@ -1108,6 +1108,24 @@
       "duration_ms": 181626,
       "name": "Truly Amazing - from The Passion of the Christ - Songs; Original Songs Inspired by the Film",
       "url": "https://open.spotify.com/track/3MjCdCFDqQ8ly8wfCFROgh"
+    },
+    {
+      "album": {
+        "name": "VAMPIRES & PARASITES",
+        "url": "https://open.spotify.com/album/3ffX8OuSgBVmeWIGvXnB2H"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170192,
+      "name": "VAMPIRES & PARASITES",
+      "url": "https://open.spotify.com/track/5hykZgF3bg4YtCSkGCf3OP"
     },
     {
       "album": {

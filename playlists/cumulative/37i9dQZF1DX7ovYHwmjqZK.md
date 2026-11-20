@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-173 songs - 10 hr 22 min
+174 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Nada É Melhor do Que Você](https://open.spotify.com/track/2Qmk0WzTrRyBnN2y2TpdUN) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Àguas De Março / Esse Ano / Nada É Melhor Do Que Você](https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe) | 4:35 | 2022-10-14 | 2022-11-14 |
 | [Nada é Melhor Do Que Você](https://open.spotify.com/track/5av3enKGwy5cfBKX8dpQ4r) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Da Hora](https://open.spotify.com/album/7nPkLH5JVbbc1mvesc6cGi) | 4:35 | 2021-11-26 | 2024-04-19 |
 | [No Gurufim do Tio Sam](https://open.spotify.com/track/4GbVxEoS43Q8TfmvLveiuP) | [Rodrigo Lessa](https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG), [Celsinho Silva](https://open.spotify.com/artist/4JdO9dhvvCt7GeaTuta1aR), [Edu Neves](https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY), [Everson Moraes](https://open.spotify.com/artist/6HX0YIU3MInb2cWswmGXZW), [Lucas Brito](https://open.spotify.com/artist/1AMghPiVVQlIpgRAC7xqKi), [Rogério Souza](https://open.spotify.com/artist/3VMrYFbtHX3uXrdP1ZuZp1) | [No Jeito](https://open.spotify.com/album/2s9LJjJJgI3WskTqhu9wx8) | 3:41 | 2021-11-26 |  |
+| [Nos teus olhos](https://open.spotify.com/track/7GwlVmTz9AYRZ37W3cvv8w) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM) | [Nos teus olhos](https://open.spotify.com/album/1uyfUTObGvIKAM9WdXOa1V) | 3:33 | 2026-11-20 |  |
 | [Não Pergunte Demais](https://open.spotify.com/track/0cbAAu9t0i1za33fuy107Z) | [Wanda Sá](https://open.spotify.com/artist/5mZMounx8LpSyLospHT1dK) | [Não Pergunte Demais](https://open.spotify.com/album/3v19RY7Zch1YfSQFNjAzyb) | 4:14 | 2025-06-13 |  |
 | [O Barquinho](https://open.spotify.com/track/3gHziDterpyWKTHnawogcZ) | [Urca Bossa Jazz](https://open.spotify.com/artist/4rUUf62R0iykkPKJO2SsxS), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Matheus VK](https://open.spotify.com/artist/4agPByDLehnJiSLBWK1Csl) | [O Barquinho](https://open.spotify.com/album/3622VWYaBU5dTNqajJ4F5g) | 3:11 | 2025-05-30 |  |
 | [O Melhor Carinho](https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw) | [Elisa Gudin](https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I) | [O Melhor Carinho](https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o) | 3:13 | 2021-11-26 |  |
@@ -153,7 +154,7 @@
 | [Tantas Coisas](https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j) | [Seu Elias](https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v) | [Fubá Mimoso](https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0) | 2:40 | 2021-11-26 |  |
 | [Tanto Tempo](https://open.spotify.com/track/40FEe9WzIJDRurSnen9Vxc) | [Piero Bianchi](https://open.spotify.com/artist/4D5VxntFo9nJEFxiVgALVy), [Ricardo Chacon](https://open.spotify.com/artist/5mHugJovhQFoVL1PTsunXU), [Rafael Marques](https://open.spotify.com/artist/5DIydHipIaK334tZraldoK), [Coral Edgard Moraes](https://open.spotify.com/artist/6POTIoGGJfA2gokRyvQjqu) | [Terra Papagali Coffee Shop](https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb) | 4:23 | 2021-11-26 |  |
 | [Ternura Do Saber](https://open.spotify.com/track/5lBmQ842hAMBZvsEmJhIK0) | [Roberta Barce](https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr) | [Ternura Do Saber](https://open.spotify.com/album/5uiuL4MK4ORsZmRtqenP7t) | 4:25 | 2021-11-26 | 2024-04-19 |
-| [Ternura do Saber \- Acústico](https://open.spotify.com/track/2vkdSiCSkzW8ErQMozBdIq) | [Roberta Barce](https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr) | [Ternura do Saber \(Acústico\)](https://open.spotify.com/album/1cgMMSaWIL1P1ZSvctLgeo) | 4:25 | 2021-11-26 |  |
+| [Ternura do Saber \- Acústico](https://open.spotify.com/track/2vkdSiCSkzW8ErQMozBdIq) | [Roberta Barce](https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr) | [Ternura do Saber \(Acústico\)](https://open.spotify.com/album/1cgMMSaWIL1P1ZSvctLgeo) | 4:25 | 2021-11-26 | 2026-11-20 |
 | [Terra do Nunca](https://open.spotify.com/track/7ccMcBkYbGyEdXxQF85kGV) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO), [Romero Lubambo](https://open.spotify.com/artist/2tfVfgslNHoisjzLLgnRIV), [Mauro Senise](https://open.spotify.com/artist/6ZhhPmNwS3jI2DTAnlPegi) | [Quase Memória](https://open.spotify.com/album/2uOXIfvOEPPvSdCqoKAiu6) | 3:46 | 2021-11-26 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Shadow Of Your Smile](https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ) | 3:52 | 2021-11-26 | 2025-02-08 |
 | [Tin Tin Por Tin Tin](https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Tin Tin Por Tin Tin](https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK) | 2:20 | 2021-11-26 |  |

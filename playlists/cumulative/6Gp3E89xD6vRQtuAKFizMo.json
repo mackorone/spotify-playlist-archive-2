@@ -10369,6 +10369,28 @@
     },
     {
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/3loMhLa67SqnCm6XyBkArw"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Alaina Cross",
+          "url": "https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6OtLvqrFTYOeSAsRux0Dah"
+    },
+    {
+      "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/3raiGz0JFTWpnzvMgJtnC2"
       },

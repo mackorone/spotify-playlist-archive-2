@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 611944,
+  "num_followers": 612017,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOk5KexFpXZNLBnaSuq7A7ZzcAFg",
+  "snapshot_id": "AAAAAD/tjNfGp3ZnaPhhqG9kvIVEMCXA",
   "tracks": [
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Yelo",
+        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 189356,
+      "name": "Yelo",
+      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/7BgcHmgYP3sp0AAYLKyc0s"
       },
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Yelo",
-        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 189356,
-      "name": "Yelo",
-      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Dillom: Bzrp Music Sessions, Vol. 9/66",
         "url": "https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 151843,
       "name": "Dillom: Bzrp Music Sessions, Vol. 9/66",
       "url": "https://open.spotify.com/track/6Vwfjz5LsHKTYY5IzhKW2A"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Apaga el celular",
+        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 225942,
+      "name": "Apaga el Celular",
+      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1711,22 +1727,6 @@
       "duration_ms": 422211,
       "name": "La Mia - Remix",
       "url": "https://open.spotify.com/track/59GJkQNSKKA7km23fYj7dW"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Apaga el celular",
-        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 225942,
-      "name": "Apaga el Celular",
-      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -2239,30 +2239,58 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "My Blood Remix (feat. Julianno Sosa)",
-        "url": "https://open.spotify.com/album/4891w8atdNgY3DQ1Mjiahq"
+        "name": "La Ocasi\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/0bWNdvYtwewhKo0YUUgzwL"
       },
       "artists": [
         {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
         },
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
         },
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         }
       ],
-      "duration_ms": 252212,
-      "name": "My Blood Remix (feat. Julianno Sosa)",
-      "url": "https://open.spotify.com/track/0XisiywmNf0JO3HuYAHCjh"
+      "duration_ms": 451343,
+      "name": "La Ocasi\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/1M9gupJZxS3LdK8R6UZfYH"
     }
   ],
   "unique_name": "Trap viejito",

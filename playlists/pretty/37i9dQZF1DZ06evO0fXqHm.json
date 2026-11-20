@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADBCKK9GiW/Gw0noa1IZCAp",
+  "snapshot_id": "avzqgAAAAAChTvxBqkSVEu1QyTZA+o+3",
   "tracks": [
     {
       "added_at": null,
@@ -611,26 +611,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rua do Ouro (Eletrofunk)",
-        "url": "https://open.spotify.com/album/4ksbVadLWPcc6Bx6QBjsaJ"
+        "name": "O Veneno do Escorpi\u00e3o V.2",
+        "url": "https://open.spotify.com/album/6pm74umdTVp42BxkbDJbu4"
       },
       "artists": [
         {
-          "name": "Dj Apollo Oficial",
-          "url": "https://open.spotify.com/artist/4CVVlMzyW5oKy7SEmkKPSA"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "MC Rica",
-          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+          "name": "Cxsta",
+          "url": "https://open.spotify.com/artist/16ojhSXKRvpyINavnQRFT3"
         }
       ],
-      "duration_ms": 139392,
-      "name": "Rua do Ouro (Eletrofunk)",
-      "url": "https://open.spotify.com/track/4AcpXH1WQUJSKSsGjbI63a"
+      "duration_ms": 236330,
+      "name": "Maresias",
+      "url": "https://open.spotify.com/track/7ucgou5K8ab9WjMzJnvImn"
     },
     {
       "added_at": null,
@@ -659,30 +663,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Veneno do Escorpi\u00e3o V.2",
-        "url": "https://open.spotify.com/album/6pm74umdTVp42BxkbDJbu4"
+        "name": "Rua do Ouro (Eletrofunk)",
+        "url": "https://open.spotify.com/album/4ksbVadLWPcc6Bx6QBjsaJ"
       },
       "artists": [
         {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "Dj Apollo Oficial",
+          "url": "https://open.spotify.com/artist/4CVVlMzyW5oKy7SEmkKPSA"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Cxsta",
-          "url": "https://open.spotify.com/artist/16ojhSXKRvpyINavnQRFT3"
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
         }
       ],
-      "duration_ms": 236330,
-      "name": "Maresias",
-      "url": "https://open.spotify.com/track/7ucgou5K8ab9WjMzJnvImn"
+      "duration_ms": 139392,
+      "name": "Rua do Ouro (Eletrofunk)",
+      "url": "https://open.spotify.com/track/4AcpXH1WQUJSKSsGjbI63a"
     },
     {
       "added_at": null,
@@ -715,26 +715,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Safada Gostosa",
-        "url": "https://open.spotify.com/album/7H5ttQp4QcDWGxIJCEiAOt"
+        "name": "Rua do Ouro - Remix",
+        "url": "https://open.spotify.com/album/5hRqOYwH6v3t5cKMIqXy9O"
       },
       "artists": [
         {
-          "name": "DJ ABAYOMI",
-          "url": "https://open.spotify.com/artist/2Wf0Gz4zVtlWYHAUsNmXte"
+          "name": "Kelven Barbosa",
+          "url": "https://open.spotify.com/artist/26lA0rWS7TbzVL8YXnc4W0"
+        },
+        {
+          "name": "Dj Brenno Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+          "name": "SAM SAM",
+          "url": "https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU"
+        },
+        {
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
         }
       ],
-      "duration_ms": 121850,
-      "name": "Safada Gostosa",
-      "url": "https://open.spotify.com/track/30WGmP9ckeTdCBbDz1OaE0"
+      "duration_ms": 124046,
+      "name": "Rua do Ouro - Remix",
+      "url": "https://open.spotify.com/track/4uFBuUcv9r7K92IjHEXxhW"
     },
     {
       "added_at": null,
@@ -767,34 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rua do Ouro - Remix",
-        "url": "https://open.spotify.com/album/5hRqOYwH6v3t5cKMIqXy9O"
+        "name": "Safada Gostosa",
+        "url": "https://open.spotify.com/album/7H5ttQp4QcDWGxIJCEiAOt"
       },
       "artists": [
         {
-          "name": "Kelven Barbosa",
-          "url": "https://open.spotify.com/artist/26lA0rWS7TbzVL8YXnc4W0"
-        },
-        {
-          "name": "Dj Brenno Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM"
+          "name": "DJ ABAYOMI",
+          "url": "https://open.spotify.com/artist/2Wf0Gz4zVtlWYHAUsNmXte"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "SAM SAM",
-          "url": "https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU"
-        },
-        {
-          "name": "MC Rica",
-          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
         }
       ],
-      "duration_ms": 124046,
-      "name": "Rua do Ouro - Remix",
-      "url": "https://open.spotify.com/track/4uFBuUcv9r7K92IjHEXxhW"
+      "duration_ms": 121850,
+      "name": "Safada Gostosa",
+      "url": "https://open.spotify.com/track/30WGmP9ckeTdCBbDz1OaE0"
     },
     {
       "added_at": null,
@@ -968,33 +968,13 @@
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         },
         {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+          "name": "Maghaiver",
+          "url": "https://open.spotify.com/artist/3ByMfSEgvaExKRX0QlDsGC"
         }
       ],
-      "duration_ms": 159428,
-      "name": "Tropa Das On\u00e7a",
-      "url": "https://open.spotify.com/track/0HgptFHLQfgE4auvN31Gr5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMOUR BEIJA FLOR",
-        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
-      },
-      "artists": [
-        {
-          "name": "Wealstarcks",
-          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 107142,
-      "name": "BOLA LOGO",
-      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+      "duration_ms": 172661,
+      "name": "Amor De A\u00e7\u00facar",
+      "url": "https://open.spotify.com/track/7lHXSUvvfmeHBPzxvIH8ZY"
     },
     {
       "added_at": null,
@@ -1015,6 +995,26 @@
       "duration_ms": 165216,
       "name": "Minha Vida",
       "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Janeiro",
+        "url": "https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Janeiro",
+      "url": "https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s"
     },
     {
       "added_at": null,
@@ -1064,33 +1064,13 @@
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         },
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         }
       ],
-      "duration_ms": 107647,
-      "name": "Para N\u00e3o",
-      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Janeiro",
-        "url": "https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Janeiro",
-      "url": "https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s"
+      "duration_ms": 159428,
+      "name": "Tropa Das On\u00e7a",
+      "url": "https://open.spotify.com/track/0HgptFHLQfgE4auvN31Gr5"
     },
     {
       "added_at": null,
@@ -1111,6 +1091,26 @@
       "duration_ms": 142027,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOUR BEIJA FLOR",
+        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
+      },
+      "artists": [
+        {
+          "name": "Wealstarcks",
+          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 107142,
+      "name": "BOLA LOGO",
+      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
     },
     {
       "added_at": null,
@@ -1148,13 +1148,13 @@
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         },
         {
-          "name": "Maghaiver",
-          "url": "https://open.spotify.com/artist/3ByMfSEgvaExKRX0QlDsGC"
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
         }
       ],
-      "duration_ms": 172661,
-      "name": "Amor De A\u00e7\u00facar",
-      "url": "https://open.spotify.com/track/7lHXSUvvfmeHBPzxvIH8ZY"
+      "duration_ms": 107647,
+      "name": "Para N\u00e3o",
+      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
     },
     {
       "added_at": null,

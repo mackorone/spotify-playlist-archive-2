@@ -1,12 +1,12 @@
 {
   "description": "All of the Celtic punk essentials.. Cover: Dropkick Murphys",
-  "num_followers": 515578,
+  "num_followers": 515650,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA8cpkL9N9Oeg/sVW7freqatMOA7",
+  "snapshot_id": "AAAAAA7F7zs22J26BNeg79pEyT+gx93x",
   "tracks": [
     {
       "added_at": "2022-03-18 14:59:31",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-06 19:54:12",
       "album": {
-        "name": "Grace O'malley",
-        "url": "https://open.spotify.com/album/0THa8d7RB60G34bP8BfqmY"
-      },
-      "artists": [
-        {
-          "name": "The Rumpled",
-          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
-        }
-      ],
-      "duration_ms": 216736,
-      "name": "Grace O'malley",
-      "url": "https://open.spotify.com/track/1o6b2EJpJ97J3UW6EWI3y5"
-    },
-    {
-      "added_at": "2024-02-06 19:54:12",
-      "album": {
         "name": "The Emerald City",
         "url": "https://open.spotify.com/album/1fBFtQjOZbF7Zr3TiolxHZ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 216800,
       "name": "USA",
       "url": "https://open.spotify.com/track/6AXdttKPTiEaGPMrKNNsHK"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "Grace O'malley",
+        "url": "https://open.spotify.com/album/0THa8d7RB60G34bP8BfqmY"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        }
+      ],
+      "duration_ms": 216736,
+      "name": "Grace O'malley",
+      "url": "https://open.spotify.com/track/1o6b2EJpJ97J3UW6EWI3y5"
     },
     {
       "added_at": "2022-03-18 14:59:31",

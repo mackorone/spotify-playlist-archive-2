@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-199 songs - 13 hr 33 min
+200 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Esta Navidad](https://open.spotify.com/track/101Q3ixoTRBwkQqxISFzr8) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 5:17 | 2022-11-25 | 2024-04-19 |
 | [Esta Navidad](https://open.spotify.com/track/6Gau5rKadNtM3eQPN4Nyku) | [Johnny Ventura y su Combo](https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR) | [Navidad Sin Ti](https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73) | 4:13 | 2022-11-25 |  |
 | [Esta Navidad](https://open.spotify.com/track/3NvDk88G0njN98HkUg6Y7e) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [Con Tanto Cache](https://open.spotify.com/album/4VEo435ch0afkFTpXwg64Z) | 4:33 | 2022-12-18 |  |
+| [Esta Navidad Me Lo Merezco](https://open.spotify.com/track/7iy9D2HxBhr0pZ1MuEy4Hv) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Esta Navidad Me Lo Merezco](https://open.spotify.com/album/4It3wqMNltvMfxjbYsEL9d) | 3:52 | 2026-11-20 |  |
 | [Esta Parranda Te la Debía](https://open.spotify.com/track/5digKW6ClEPvvOw8dumMk8) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 3:33 | 2022-12-18 |  |
 | [Estas Navidades](https://open.spotify.com/track/5qpk1hG83n2PGTzoJQRVK3) | [Darlyn y Los Herederos](https://open.spotify.com/artist/39XswCAVtjHfOcjH5OOEi3) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 4:04 | 2024-12-13 | 2026-10-20 |
 | [Faltan 5 pa’ las 12](https://open.spotify.com/track/7kFu9DNXibWTUkgU5dSJVr) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Faltan 5 pa’ las 12](https://open.spotify.com/album/3SThMaeZTQJxxJAKhpNMgl) | 3:28 | 2023-11-24 | 2025-11-15 |
@@ -161,7 +162,7 @@
 | [Navidad en Cada Esquina \(It's Beginning To Look A Lot Like Christmas\)](https://open.spotify.com/track/58jcOMyS7lEP03aHGSFdCU) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Navidad en Cada Esquina \(It's Beginning To Look A Lot Like Christmas\)](https://open.spotify.com/album/2JTU2Rxwgbo5V4z8bZFicL) | 3:45 | 2025-11-21 |  |
 | [Navidad en Mi Barrio](https://open.spotify.com/track/2p4NQR05RqzwHsUVXRTNeB) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Navidad a Mi Estilo](https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE) | 5:18 | 2022-12-18 |  |
 | [Navidad Es Amor](https://open.spotify.com/track/58VzmExhFVXfOuqP24e8Q9) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Lourdes Robles](https://open.spotify.com/artist/1c6mqbZk70GyrR8ltrRBtm), [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 4:21 | 2022-12-18 |  |
-| [Navidad Hasta Amanecer](https://open.spotify.com/track/3TtdsOdFJ3FNFrabLeEZ6h) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Llegaron las Navidades](https://open.spotify.com/album/4hvJF5DSvgVxQ8hy1AiNPB) | 4:38 | 2025-12-05 |  |
+| [Navidad Hasta Amanecer](https://open.spotify.com/track/3TtdsOdFJ3FNFrabLeEZ6h) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Llegaron las Navidades](https://open.spotify.com/album/4hvJF5DSvgVxQ8hy1AiNPB) | 4:38 | 2025-12-05 | 2026-11-20 |
 | [Navidad para el pueblo](https://open.spotify.com/track/0NMKMatww8aQFrGTI88QOa) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Toño en America](https://open.spotify.com/album/3vBuyDnFfXcMORQsi1yMJe) | 4:19 | 2022-12-18 |  |
 | [Navidad Sin Aparato](https://open.spotify.com/track/5g13HPvgdcYvEiLvRcwkHU) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [Feliz Navidad](https://open.spotify.com/album/76WNnJhSCahBqknf9tT08w) | 4:28 | 2024-12-13 | 2025-08-26 |
 | [Navidad Sin Mi Madre](https://open.spotify.com/track/2TubL59m7DAX9X70BniG2y) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merenboom Navideño](https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2) | 4:52 | 2022-11-25 |  |

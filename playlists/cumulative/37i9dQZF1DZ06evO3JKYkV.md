@@ -4,7 +4,7 @@
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-165 songs - 12 hr 56 min
+168 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bbydhyonchord](https://open.spotify.com/track/35GYDmixAiE0d36qSPqfuO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:33 | 2022-05-29 | 2023-02-17 |
 | [Beetles](https://open.spotify.com/track/2nHLDYwX62AQX4fru2EpVb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Girl/Boy EP](https://open.spotify.com/album/3TfLuGfGoYS978gsEsyTwZ) | 1:31 | 2023-03-04 | 2024-06-06 |
 | [Blackbox Life Recorder 20 \[Ambient 760\]](https://open.spotify.com/track/1VLV3SIawyPmme1zP7a1PG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/6Roy2uPdfseTq8BWeIz2Ta) | 6:04 | 2024-11-25 | 2025-02-05 |
-| [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 | 2023-06-23 |  |
+| [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 | 2023-06-23 | 2026-11-20 |
 | [Blackbox Life Recorder 22 \[Parallax Mix\]](https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:32 | 2023-07-29 | 2024-06-03 |
 | [Blue Calx](https://open.spotify.com/track/7cx5gNKRDzMfd5o9S6e9yK) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:20 | 2024-10-09 |  |
 | [Bucephalus Bouncing Ball](https://open.spotify.com/track/0dHbniuO4zBQfE8ArIqFgV) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 5:44 | 2022-05-29 | 2022-10-13 |
@@ -98,6 +98,7 @@
 | [Girl/Boy Song](https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 4:52 | 2023-02-15 |  |
 | [Goon Gumpas](https://open.spotify.com/track/61mG2PGpS0GDSVnjMmhzC4) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 2:02 | 2023-02-15 |  |
 | [Goon Gumpas](https://open.spotify.com/track/72tmERTlZn90IJ0px2B38Q) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 2:02 | 2022-06-23 | 2023-02-16 |
+| [Gwely Mernans](https://open.spotify.com/track/4g6qsLXJvMybGoPlnDM4yU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 5:08 | 2026-11-20 |  |
 | [Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2022-05-29 |  |
 | [I](https://open.spotify.com/track/2FQviMkaoixlgWuGL4u1EO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 1:17 | 2022-05-29 |  |
 | [Icct Hedral](https://open.spotify.com/track/74i6T5ax1LB1gBVhLg6q9d) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 6:07 | 2022-05-31 | 2022-10-13 |
@@ -107,7 +108,8 @@
 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 | 2023-02-13 |  |
 | [Jynweythek](https://open.spotify.com/track/3I0rWmF86CwQpajoZjkXtG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:23 | 2023-02-16 |  |
 | [Jynweythek](https://open.spotify.com/track/7etelDpVxaPTzmeZrYo8Qy) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:23 | 2022-05-29 | 2023-02-17 |
-| [korg funk5 \[London 19.08.2023\]](https://open.spotify.com/track/6PyTpWAkOCDhcsnT5ztjTX) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 3:21 | 2025-08-01 |  |
+| [Kladfvgbung Mischk](https://open.spotify.com/track/47O5CKgLTHDAo2BPxcECYw) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 2:06 | 2026-11-20 |  |
+| [korg funk5 \[London 19.08.2023\]](https://open.spotify.com/track/6PyTpWAkOCDhcsnT5ztjTX) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 3:21 | 2025-08-01 | 2026-11-20 |
 | [Logan Rock Witch](https://open.spotify.com/track/6y8jQsfUEPZuhcxpHzk0zn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 3:33 | 2022-09-11 | 2022-09-15 |
 | [Lornaderek](https://open.spotify.com/track/5kaxW5pnSdnTvxD2SqPUuy) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 0:31 | 2024-07-31 | 2025-06-03 |
 | [Milk Man](https://open.spotify.com/track/5b1uULGkmUg8M6pFvQIUlO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Girl/Boy EP](https://open.spotify.com/album/2Y34XFg6QPoAmbM1ClS3Hk) | 4:08 | 2022-06-03 | 2022-10-13 |
@@ -124,6 +126,7 @@
 | [Nanou2](https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 3:25 | 2023-02-17 |  |
 | [Next Heap With](https://open.spotify.com/track/1KIq3HD7Ju6sHOPHDkGjRS) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 4:44 | 2023-11-10 | 2023-12-14 |
 | [no stillson 6 cirk \[Houston, TX 12.17.16\]](https://open.spotify.com/track/7EHLirYEZgOsN5aLoBvcsh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 10:49 | 2024-12-20 | 2025-01-03 |
+| [Omgyjya\-Switch7](https://open.spotify.com/track/4iy9wqRmqu3JMPKkBmJcjA) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 4:52 | 2026-11-20 |  |
 | [Omgyjya\-Switch7](https://open.spotify.com/track/5XgWTzM9N81tXJH7cFWkba) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 4:52 | 2022-08-22 | 2022-08-24 |
 | [On](https://open.spotify.com/track/4UYW3jllzFyWdaxob0UVMr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/13yMvXe4YS3m2qFyC9aqID) | 7:12 | 2022-05-29 | 2023-02-16 |
 | [On](https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/3ST4JBcwc8LDpQCYoSx8YG) | 7:12 | 2023-02-15 |  |
@@ -157,7 +160,7 @@
 | [th1 \[evnslower\]](https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [th1 \[evnslower\]](https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4) | 11:08 | 2024-09-07 | 2026-07-08 |
 | [Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 9:07 | 2022-05-29 |  |
 | [The Waxen Pith](https://open.spotify.com/track/0dZvL5TDpKiwvZtB49g6Ky) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 4:49 | 2022-05-29 | 2023-02-17 |
-| [The Waxen Pith](https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 4:49 | 2023-02-16 |  |
+| [The Waxen Pith](https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 4:49 | 2023-02-16 | 2026-11-20 |
 | [To Cure A Weakling Child](https://open.spotify.com/track/0Qe87CjGvXot5t4FADTq3Y) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 4:03 | 2022-05-29 | 2022-10-13 |
 | [To Cure A Weakling Child](https://open.spotify.com/track/1jNd1HqFj9yZlDgdkpddkm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 4:03 | 2023-08-21 | 2024-06-15 |
 | [Vordhosbn](https://open.spotify.com/track/3tWiIOPBJjgjA6PpozJqNO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 4:51 | 2022-05-29 | 2022-10-15 |

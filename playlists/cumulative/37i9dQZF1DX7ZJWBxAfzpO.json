@@ -32,9 +32,27 @@
           "url": "https://open.spotify.com/show/08WHleYpmBVjCu1sbgTaFn"
         }
       ],
-      "date_added": "2026-10-20",
+      "date_added": "2026-11-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 1617827,
+      "name": "Ang Boses Ng Radyo Sa Eloria Mall | Panaghoy | A Pinoy Horror Story",
+      "url": "https://open.spotify.com/episode/7HRfwV3NA37vyDf7iJJ8aZ"
+    },
+    {
+      "album": {
+        "name": "Panaghoy: Mga Kwentong Kababalaghang Nakaukit Sa Kasaysayan",
+        "url": "https://open.spotify.com/album/08WHleYpmBVjCu1sbgTaFn"
+      },
+      "artists": [
+        {
+          "name": "Panaghoy: Mga Kwentong Kababalaghang Nakaukit Sa Kasaysayan",
+          "url": "https://open.spotify.com/show/08WHleYpmBVjCu1sbgTaFn"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2026-11-20",
       "duration_ms": 1020052,
       "name": "Ang White Lady Sa Balete Drive | Panaghoy | A Pinoy Horror Story",
       "url": "https://open.spotify.com/episode/0QifzvnYbjbB8FFcq7AP0x"
@@ -56,6 +74,24 @@
       "duration_ms": 5826815,
       "name": "average nicole listening experience",
       "url": "https://open.spotify.com/episode/1S0q1zjaYLNP3QQRWei9kn"
+    },
+    {
+      "album": {
+        "name": "Panaghoy: Mga Kwentong Kababalaghang Nakaukit Sa Kasaysayan",
+        "url": "https://open.spotify.com/album/08WHleYpmBVjCu1sbgTaFn"
+      },
+      "artists": [
+        {
+          "name": "Panaghoy: Mga Kwentong Kababalaghang Nakaukit Sa Kasaysayan",
+          "url": "https://open.spotify.com/show/08WHleYpmBVjCu1sbgTaFn"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1542246,
+      "name": "Bakas Ng Bagyong Ondoy | Panaghoy | A Pinoy Horror Story",
+      "url": "https://open.spotify.com/episode/0StkJP3tgnBEjul8jSww4n"
     },
     {
       "album": {
@@ -106,7 +142,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 1909205,
       "name": "BORN TO WIN KA BA\u2026 O TOXIC NA?",
       "url": "https://open.spotify.com/episode/0HajGnToMjfzYGxKAck0wq"
@@ -124,7 +160,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 5008084,
       "name": "Curious Kids | S3 EP13 | KadaKwento Podcast",
       "url": "https://open.spotify.com/episode/66oWMiVBepyG5C3ageJGqn"
@@ -916,7 +952,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 4590826,
       "name": "Gabbi Garcia on Rejection, Redirection, and Trusting What's Meant for You with Kylie Verzosa",
       "url": "https://open.spotify.com/episode/3h7b8jo7qX1AmJZabyPZBT"
@@ -950,12 +986,48 @@
           "url": "https://open.spotify.com/show/3PdMbgohpIr4gP4tjZRo6u"
         }
       ],
-      "date_added": "2026-10-20",
+      "date_added": "2026-11-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 3605545,
+      "name": "Halloween Special | S3 EP23 | KadaKwento Podcast",
+      "url": "https://open.spotify.com/episode/1cxZ5cwNGnfRTUfQgK2yWE"
+    },
+    {
+      "album": {
+        "name": "KadaKwento Podcast ",
+        "url": "https://open.spotify.com/album/3PdMbgohpIr4gP4tjZRo6u"
+      },
+      "artists": [
+        {
+          "name": "KadaKwento Podcast ",
+          "url": "https://open.spotify.com/show/3PdMbgohpIr4gP4tjZRo6u"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2026-11-20",
       "duration_ms": 4122067,
       "name": "Happy Birthday Direk | S3 EP9 | KadaKwento Podcast",
       "url": "https://open.spotify.com/episode/5RqtNQLMEtzJlhD52O1uW0"
+    },
+    {
+      "album": {
+        "name": "KadaKwento Podcast ",
+        "url": "https://open.spotify.com/album/3PdMbgohpIr4gP4tjZRo6u"
+      },
+      "artists": [
+        {
+          "name": "KadaKwento Podcast ",
+          "url": "https://open.spotify.com/show/3PdMbgohpIr4gP4tjZRo6u"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4427198,
+      "name": "Happy Birthday Tiny Montana | S3 EP16 | KadaKwento Podcast",
+      "url": "https://open.spotify.com/episode/2QfMCMdkoaFlFnDRFsVLhj"
     },
     {
       "album": {
@@ -1211,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Almost Honest with Kylie Verzosa",
+        "url": "https://open.spotify.com/album/5rfh5YY0dcz5YMnm7W1aMe"
+      },
+      "artists": [
+        {
+          "name": "Almost Honest with Kylie Verzosa",
+          "url": "https://open.spotify.com/show/5rfh5YY0dcz5YMnm7W1aMe"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2176981,
+      "name": "Kylie Verzosa Gets Almost Honest About Dating, Fashion Week, and Finally Loving Her Life",
+      "url": "https://open.spotify.com/episode/2yVZD2h2lQS15QaBxhqRIx"
+    },
+    {
+      "album": {
         "name": "Panaghoy: Mga Kwentong Kababalaghang Nakaukit Sa Kasaysayan",
         "url": "https://open.spotify.com/album/08WHleYpmBVjCu1sbgTaFn"
       },
@@ -1222,7 +1312,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 1514845,
       "name": "Lapnos Na Iniwan Ng Ozone Disco | Panaghoy | A Pinoy Horror Story",
       "url": "https://open.spotify.com/episode/6ctyvSgL1AJ0swnDjfS8Cx"
@@ -1240,7 +1330,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 3306773,
       "name": "LOVE & LIFE FORECAST: \"WEATHER\" YOU LIKE IT OR NOT",
       "url": "https://open.spotify.com/episode/0x8XvkejtvYPgfJH2Aspww"
@@ -1280,6 +1370,24 @@
       "duration_ms": 4092168,
       "name": "my 2026 ins and outs!",
       "url": "https://open.spotify.com/episode/1neue0Z6O3iCqFZfGrdN4k"
+    },
+    {
+      "album": {
+        "name": "TRGGRD!",
+        "url": "https://open.spotify.com/album/68xpDC1URcU61dxl3eByZU"
+      },
+      "artists": [
+        {
+          "name": "TRGGRD!",
+          "url": "https://open.spotify.com/show/68xpDC1URcU61dxl3eByZU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2844212,
+      "name": "ONCE A CHEATER, ALWAYS A CHEATER?",
+      "url": "https://open.spotify.com/episode/7kQw4ZsVLPtGcDVVcc9uAq"
     },
     {
       "album": {
@@ -1348,7 +1456,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 5939198,
       "name": "S5 | Ep. 15 The Journey",
       "url": "https://open.spotify.com/episode/5A94eYNg53WfMnhG3bG8V8"
@@ -1366,10 +1474,46 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 3807422,
       "name": "S5 | Ep. 17 ChekaDate: Ibuto or Pabuto?",
       "url": "https://open.spotify.com/episode/2ycWUBpLo7aip15e0Jm9eZ"
+    },
+    {
+      "album": {
+        "name": "Unsa\u2019y Cheka Sa Parlor",
+        "url": "https://open.spotify.com/album/7nsEse7Qm07RMto0P1ypRP"
+      },
+      "artists": [
+        {
+          "name": "Unsa\u2019y Cheka Sa Parlor",
+          "url": "https://open.spotify.com/show/7nsEse7Qm07RMto0P1ypRP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7744830,
+      "name": "S6 Ep. 2 Halloween Special Year 3 - Part 1",
+      "url": "https://open.spotify.com/episode/0sq7EqwNFbiJNoXkQF1A7p"
+    },
+    {
+      "album": {
+        "name": "Unsa\u2019y Cheka Sa Parlor",
+        "url": "https://open.spotify.com/album/7nsEse7Qm07RMto0P1ypRP"
+      },
+      "artists": [
+        {
+          "name": "Unsa\u2019y Cheka Sa Parlor",
+          "url": "https://open.spotify.com/show/7nsEse7Qm07RMto0P1ypRP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7061118,
+      "name": "S6 | Ep. 1 The Prelude: Asking Ourselves RAUNCHY Questions",
+      "url": "https://open.spotify.com/episode/52k7R98c1hPh2JDG50KsGK"
     },
     {
       "album": {
@@ -1427,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "TRGGRD!",
+        "url": "https://open.spotify.com/album/68xpDC1URcU61dxl3eByZU"
+      },
+      "artists": [
+        {
+          "name": "TRGGRD!",
+          "url": "https://open.spotify.com/show/68xpDC1URcU61dxl3eByZU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2802538,
+      "name": "TRICK OR TRGGRD: TAROT-FYING REVELATIONS!",
+      "url": "https://open.spotify.com/episode/6UIDS0c96azWB3DEVTdMpY"
+    },
+    {
+      "album": {
         "name": "yani\u2019s room",
         "url": "https://open.spotify.com/album/4X9zEtsaAuEvicwvj2MGFD"
       },
@@ -1456,10 +1618,28 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 4546560,
       "name": "\u2060Gwen Soriano on Faith, Losing, and Winning Miss International Philippines with Kylie Verzosa",
       "url": "https://open.spotify.com/episode/52WYPgSgTSZ81Id0wopS1E"
+    },
+    {
+      "album": {
+        "name": "Almost Honest with Kylie Verzosa",
+        "url": "https://open.spotify.com/album/5rfh5YY0dcz5YMnm7W1aMe"
+      },
+      "artists": [
+        {
+          "name": "Almost Honest with Kylie Verzosa",
+          "url": "https://open.spotify.com/show/5rfh5YY0dcz5YMnm7W1aMe"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4634880,
+      "name": "\u2060\u2060Mimiyuuuh on Luck, Hard Work, and Building the Life She Once Dreamed Of with Kylie Verzosa",
+      "url": "https://open.spotify.com/episode/7zgR8WSZ4Pl5apc2SLbGt5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7ZJWBxAfzpO"

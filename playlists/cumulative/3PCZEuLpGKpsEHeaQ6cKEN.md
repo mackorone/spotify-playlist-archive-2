@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,923 songs - 4 day 6 hr 2 min
+1,924 songs - 4 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1827,6 +1827,7 @@
 | [Waste Your Love](https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Waste Your Love](https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd) | 2:47 | 2023-08-25 | 2023-09-01 |
 | [Wasted](https://open.spotify.com/track/5Q2lulGI9ZQbwf18skmtqw) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [WAV3POP](https://open.spotify.com/artist/4xdLHkMBGSEsQq2VVftnWa) | [Wasted](https://open.spotify.com/album/3dg8q2ZoNMzTXVigUqkZql) | 3:03 | 2022-07-14 | 2022-09-16 |
 | [Wasting](https://open.spotify.com/track/0TGNIvkCNfRKiwDbkcSBGS) | [Inpetto](https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM), [Nadia Gattas](https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw) | [Wasting](https://open.spotify.com/album/17etdGKRWd0PHiVYWcZvqc) | 3:00 | 2022-08-17 | 2022-10-07 |
+| [Wasting My Time](https://open.spotify.com/track/3xvxd8kLvjYkuETDOOsbLM) | [METRI](https://open.spotify.com/artist/7lTxr97GMt8de87YqV2xqE), [Cole Wild](https://open.spotify.com/artist/1WlIY1xhXS6OMIK5d1ZZDm) | [Wasting My Time](https://open.spotify.com/album/3uH3TNUo9vWbZujOHDy6Hk) | 2:20 | 2026-11-19 |  |
 | [Watching Over Me](https://open.spotify.com/track/4qopcEuWpl5asUDQ9Fan6l) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Watching Over Me](https://open.spotify.com/album/5n3A23v0indork34sZTUF3) | 3:25 | 2024-06-20 | 2024-10-19 |
 | [Watching Over Me](https://open.spotify.com/track/63Fu6cZVHFsxxeXEBvMBs6) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Watching Over Me](https://open.spotify.com/album/6VxEbABUynP9EO928oMktg) | 4:37 | 2025-03-06 | 2025-04-25 |
 | [Watching Over Me](https://open.spotify.com/track/3ENgDvA9HoqMVd70QC3xmn) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Watching Over Me](https://open.spotify.com/album/3agisE9LVoqJBtC5uV0iTy) | 3:22 | 2025-12-12 |  |

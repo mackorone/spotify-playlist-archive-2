@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-295 songs - 12 hr 57 min
+296 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 | 2022-08-03 |  |
 | [Anfractuous View](https://open.spotify.com/track/6TX02ODkwVEymt9Yzw4lUf) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Anfractuous View](https://open.spotify.com/album/71vCCA6hOqaPYZw1Q7F4yq) | 3:09 | 2022-08-03 | 2026-05-09 |
 | [Another You](https://open.spotify.com/track/0EtAKEkG6bbdMUNGD6ZaJR) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Another You](https://open.spotify.com/album/2M8u3SmPYLE9aqTKC0WI6u) | 2:46 | 2025-09-15 | 2026-04-18 |
-| [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 | 2022-08-03 |  |
+| [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 | 2022-08-03 | 2026-11-20 |
 | [antier 2](https://open.spotify.com/track/7kIkHAxkhaffbA85wU8A7e) | [Sebastián Voyage](https://open.spotify.com/artist/6W70NZ4bj5yPSfEXH99JYN) | [antier 2](https://open.spotify.com/album/4oZAywgxSYuSQFe2rqT35N) | 2:05 | 2022-08-03 | 2026-05-09 |
 | [Arctico](https://open.spotify.com/track/4wZTveNZkzoZoBKaiDsyYH) | [La Pix](https://open.spotify.com/artist/6TCo3qRn8NmB5p4xJRn9sD) | [Arctico](https://open.spotify.com/album/0GnOZh7LX9k4mRYlzgivKG) | 2:21 | 2024-12-03 |  |
 | [As i am will you be](https://open.spotify.com/track/58tFQyiBY6BHf7mHerYEfW) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [As i am will you be](https://open.spotify.com/album/3Vg1bpN6C9kBEmZyYot5u7) | 2:31 | 2022-08-03 |  |
@@ -68,7 +68,7 @@
 | [Dew](https://open.spotify.com/track/3TT2sNeYED7KBcJvJo5qJQ) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Dew](https://open.spotify.com/album/0Njp9PSRwKxCHRCUYXZyQG) | 2:15 | 2025-09-15 |  |
 | [Divide Us](https://open.spotify.com/track/0h9uZ8bs4oKsGQ2PTmWVZw) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Divide Us](https://open.spotify.com/album/04HWxSrMObA0BehN4545yu) | 2:30 | 2022-08-03 | 2023-06-21 |
 | [Dobranoc](https://open.spotify.com/track/0ymQYGkndtxeVfKkz1DRUk) | [Linda Rum](https://open.spotify.com/artist/0Bg5HlN25RTMhZd6dXdQsA) | [Dobranoc](https://open.spotify.com/album/7g6V92PRci3rWH9wc6MHrd) | 1:34 | 2023-01-26 | 2025-04-09 |
-| [Dream if I May](https://open.spotify.com/track/4BKyaEiMkhd82gOp47YvLv) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Dream if I May](https://open.spotify.com/album/7x0Jc1HcCjOcbWqpqWzM8X) | 2:29 | 2022-10-24 |  |
+| [Dream if I May](https://open.spotify.com/track/4BKyaEiMkhd82gOp47YvLv) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Dream if I May](https://open.spotify.com/album/7x0Jc1HcCjOcbWqpqWzM8X) | 2:29 | 2022-10-24 | 2026-11-20 |
 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 | 2023-09-11 | 2026-05-09 |
 | [Drifting Along](https://open.spotify.com/track/4SIUDl2ip5jEFAQeeIXC9B) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Drifting Along](https://open.spotify.com/album/3Fo02LwzmosC2HVPEFFMPu) | 2:29 | 2022-08-03 | 2026-04-18 |
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2022-08-03 |  |
@@ -266,10 +266,11 @@
 | [The Hillside](https://open.spotify.com/track/3UETTv2NYQopmXr2945XBg) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [The Hillside](https://open.spotify.com/album/70LtFFQH2E8bc8neiv7jVd) | 1:58 | 2022-08-03 | 2025-04-09 |
 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 | 2024-12-11 |  |
 | [The light is there](https://open.spotify.com/track/1aHkqLrb44WJtIxXxz93qp) | [Eve St\. Claire](https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO) | [The light is there](https://open.spotify.com/album/4sLCogCSRNefB8zbmhcEj2) | 2:03 | 2025-05-13 |  |
+| [The Ocean](https://open.spotify.com/track/4o3HZF3nJMYMGGXw4p4a0M) | [Eldur Hættu](https://open.spotify.com/artist/3GsfhG02GtXyYPOoc5QRa8) | [The Ocean](https://open.spotify.com/album/18uoIbSMlZEhC1ln89dNpG) | 2:17 | 2026-11-20 |  |
 | [The Opening](https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [The Opening](https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb) | 2:20 | 2024-12-16 |  |
 | [The Path](https://open.spotify.com/track/0VvAvohCa6vbOuhQ9KgYp3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The Path](https://open.spotify.com/album/5FHFBfF1WAw4Q1FESMFMbU) | 2:12 | 2025-02-18 |  |
 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2022-12-21 | 2026-06-11 |
-| [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 |  |
+| [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 | 2022-09-12 | 2026-11-20 |
 | [The Rain](https://open.spotify.com/track/2PWiufRrW02EtmSYIokhHr) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [The Rain](https://open.spotify.com/album/1ZNO8N4VKuOTIqUuMucY1g) | 3:07 | 2022-12-06 | 2026-06-11 |
 | [The Sound of Light](https://open.spotify.com/track/23BuLC49RZuPbIGZriYDNI) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [The Sound of Light](https://open.spotify.com/album/3IdvazfYUOel4zSdILAHcF) | 2:33 | 2025-05-13 | 2026-06-11 |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-09 | 2023-04-06 |

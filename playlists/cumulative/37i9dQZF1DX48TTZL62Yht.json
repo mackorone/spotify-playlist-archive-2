@@ -932,7 +932,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
@@ -3641,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "Dead Fresh",
+        "url": "https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157020,
+      "name": "Dead Fresh",
+      "url": "https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib"
+    },
+    {
+      "album": {
         "name": "Dead Nigga",
         "url": "https://open.spotify.com/album/05xlplYodqE6Nm8Gsj4fac"
       },
@@ -5996,6 +6014,28 @@
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
+    },
+    {
+      "album": {
+        "name": "LOCKED IN",
+        "url": "https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "GASS (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y"
     },
     {
       "album": {
@@ -19150,7 +19190,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184705,
       "name": "WTF GOIN (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT"

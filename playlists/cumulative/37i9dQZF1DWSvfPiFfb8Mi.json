@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Destiny + Desire",
+        "url": "https://open.spotify.com/album/1W8wo2XaFI3vBzUQgSNWeJ"
+      },
+      "artists": [
+        {
+          "name": "Dee Diggs",
+          "url": "https://open.spotify.com/artist/3GrNYIRzpnrh3HltUMlMeg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334959,
+      "name": "Destiny + Desire",
+      "url": "https://open.spotify.com/track/0J2rZBHzTxZDfvWmC34P9b"
+    },
+    {
+      "album": {
         "name": "Disc Me Bro",
         "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
       },
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 223856,
       "name": "Do You Like It",
       "url": "https://open.spotify.com/track/0wiY8HX6a9CVwLm1cUCmOD"
@@ -6556,7 +6574,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 225488,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4oYmnoYUQ0Q970F6pCkPbP"
@@ -7766,7 +7784,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 193706,
       "name": "Sing It Back (feat. Dana Williams)",
       "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"
@@ -8977,6 +8995,28 @@
     },
     {
       "album": {
+        "name": "Time and Space",
+        "url": "https://open.spotify.com/album/0ayfQPZWCcXXrFkpKfFnN2"
+      },
+      "artists": [
+        {
+          "name": "Conclave",
+          "url": "https://open.spotify.com/artist/4BYrR8Rv1OuqrzYox5XxZh"
+        },
+        {
+          "name": "Toribio",
+          "url": "https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Time and Space",
+      "url": "https://open.spotify.com/track/61KQfPQtQoZl4mIOy2w6a1"
+    },
+    {
+      "album": {
         "name": "Time To Move",
         "url": "https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu"
       },
@@ -9662,6 +9702,24 @@
       "duration_ms": 299467,
       "name": "Welcome To Organic",
       "url": "https://open.spotify.com/track/2RABiORxekaDV23sfNTjid"
+    },
+    {
+      "album": {
+        "name": "Wet EP",
+        "url": "https://open.spotify.com/album/0L1x5Qg0KtmgSQtMUbk9sc"
+      },
+      "artists": [
+        {
+          "name": "Arpy Brown",
+          "url": "https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245020,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4VSGqqmODMymm8lEyiFoIB"
     },
     {
       "album": {

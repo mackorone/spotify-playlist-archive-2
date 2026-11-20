@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 710169,
+  "num_followers": 710180,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHXZyMPBZniVBe5hAEJx+X3aNkCO",
+  "snapshot_id": "AAAAAJptAUTprK0elS1xlvWv/mwx9PNe",
   "tracks": [
     {
       "added_at": "2026-05-08 04:01:55",
@@ -291,18 +291,18 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 212157,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
+      "duration_ms": 211346,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -343,18 +343,18 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 211346,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
+      "duration_ms": 212157,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 346373,
-      "name": "Harvest Moon - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
+      "duration_ms": 194466,
+      "name": "Enjoy The Silence",
+      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Enjoy The Silence",
-      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
+      "duration_ms": 346373,
+      "name": "Harvest Moon - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 167125,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "Portfolio",
         "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 207240,
       "name": "What's up",
       "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 167125,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 180468,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Helplessly Hoping",
-        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 159229,
-      "name": "Helplessly Hoping",
-      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "Rocket Man",
         "url": "https://open.spotify.com/album/2ybfxBbMNc3lyY3ekDuDy4"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 174127,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/5ujvc1IFzGeBn2hsDX2n6w"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Helplessly Hoping",
+        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 159229,
+      "name": "Helplessly Hoping",
+      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
+        "name": "Won't You Be My Neighbor? (A Benefit For Refugee Aid)",
+        "url": "https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S"
+      },
+      "artists": [
+        {
+          "name": "Anthony D'Amato",
+          "url": "https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy"
+        }
+      ],
+      "duration_ms": 192927,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
         "name": "Rita Wilson Now & Forever: Duets",
         "url": "https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 293066,
       "name": "Slip Slidin' Away",
       "url": "https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
-        "name": "Won't You Be My Neighbor? (A Benefit For Refugee Aid)",
-        "url": "https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S"
-      },
-      "artists": [
-        {
-          "name": "Anthony D'Amato",
-          "url": "https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy"
-        }
-      ],
-      "duration_ms": 192927,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu"
     },
     {
       "added_at": "2026-05-08 04:01:55",

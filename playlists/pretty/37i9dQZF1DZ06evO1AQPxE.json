@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 195300,
+  "num_followers": 195316,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABGai+DIZpJc2bk8sw7xSMe",
+  "snapshot_id": "avzqgAAAAABjzgeo/k2WJg64HxXES5ip",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sweet Action II",
+        "url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 142165,
+      "name": "SHE GETS ME",
+      "url": "https://open.spotify.com/track/1JAGqnwqSOtZxo1WwliylR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweet Action II",
-        "url": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 142165,
-      "name": "SHE GETS ME",
-      "url": "https://open.spotify.com/track/1JAGqnwqSOtZxo1WwliylR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 847 likes - 139 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 848 likes - 139 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 117 | [Demons](https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Demons](https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4) | 3:09 |
 | 118 | [I Thank God,Glorious Day](https://open.spotify.com/track/0Ej3sVrFtpiB6OzEfun6Kw) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Chaquanna Iman](https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe), [Elijah Seawright](https://open.spotify.com/artist/1A90CC1zNSUWOFiHM4mBRS) | [Blind Love](https://open.spotify.com/album/2wcgUiwUMAvg8sUa3BSTqg) | 6:36 |
 | 119 | [Hero \- Live](https://open.spotify.com/track/4drKB02HQdI49FtImjXSj4) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 11:41 |
-| 120 | [Move Your Heart / Worthy](https://open.spotify.com/track/1zy5SRJL5RuM5ygzFXCWDh) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 4:33 |
-| 121 | [No One Like The Lord / King of Glory \(feat\. Eniola Abioye\) \- Live](https://open.spotify.com/track/6AcSOvYb3jeOoZ5EAj8BFL) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/0EUFBRnb0TbFkpSFRbIvHY) | 16:54 |
+| 120 | [No One Like The Lord / King of Glory \(feat\. Eniola Abioye\) \- Live](https://open.spotify.com/track/6AcSOvYb3jeOoZ5EAj8BFL) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/0EUFBRnb0TbFkpSFRbIvHY) | 16:54 |
+| 121 | [Move Your Heart / Worthy](https://open.spotify.com/track/1zy5SRJL5RuM5ygzFXCWDh) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 4:33 |
 | 122 | [Campeón](https://open.spotify.com/track/3f85ozbzhf4wq7Vl7yxid7) | [Legado Music](https://open.spotify.com/artist/6NAa9sLEguLPdExVYn9tSW) | [Selah](https://open.spotify.com/album/17BYwDcMdfSMhOk9vfsiwy) | 5:48 |
 | 123 | [Have Your Way](https://open.spotify.com/track/629PLp2o0AlVaVcxsuiBkH) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [The Encounter](https://open.spotify.com/album/5QRPjd67zomlWLMcOwz8E6) | 5:20 |
 | 124 | [Kid Again \- Live](https://open.spotify.com/track/6cXtuwdMH2aEcWgtwIfNZV) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Welcome Home \(Live\)](https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l) | 7:26 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 138 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 139 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `AciCaAAAAAAXSVrlDiRJh9Lz+7teZpIY`
+Snapshot ID: `AciIHAAAAABJlrnfRq2A61PaUD2wg+oK`

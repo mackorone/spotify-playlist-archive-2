@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Likeboss",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Roi 6/12",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -192,6 +192,28 @@
       "duration_ms": 144207,
       "name": "2018 (Kano Oti Thelo)",
       "url": "https://open.spotify.com/track/6GXIa26dQgBpyxHxJixPgL"
+    },
+    {
+      "album": {
+        "name": "2310",
+        "url": "https://open.spotify.com/album/0z9vHNH2KQtFXBEGu89VQH"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        },
+        {
+          "name": "Lived",
+          "url": "https://open.spotify.com/artist/3IoxYnpv5Bkzms6liQrCLz"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196010,
+      "name": "2310",
+      "url": "https://open.spotify.com/track/35wM6XldbiFkUEFkHh9S7U"
     },
     {
       "album": {
@@ -780,7 +802,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159600,
       "name": "Adam & Eve",
       "url": "https://open.spotify.com/track/7LayhRPJMFiJv2oiOHxlmH"
@@ -2948,7 +2970,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149518,
       "name": "BIRA BEKO",
       "url": "https://open.spotify.com/track/5ir6i1RNEN5Q0P5LX5kgOv"
@@ -4241,6 +4263,28 @@
     },
     {
       "album": {
+        "name": "SILLY IN THA TRVP",
+        "url": "https://open.spotify.com/album/4DTmaeDAEkIG6O5z7ws9b8"
+      },
+      "artists": [
+        {
+          "name": "Silly Slime",
+          "url": "https://open.spotify.com/artist/36UIThsG09bsbei5r8Lspl"
+        },
+        {
+          "name": "Marc Trillion",
+          "url": "https://open.spotify.com/artist/36JKKVGDdBv88ffLE8eqY3"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/6LL7oAi6BOKpMJ8ZCwK8JS"
+    },
+    {
+      "album": {
         "name": "CRETA",
         "url": "https://open.spotify.com/album/4T9u56ShMRuyIAfeX5j7OJ"
       },
@@ -4304,7 +4348,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 150000,
       "name": "Crime Scene",
       "url": "https://open.spotify.com/track/08RvkFmqoOWMdRiGWeLoV1"
@@ -11129,6 +11173,28 @@
     },
     {
       "album": {
+        "name": "MARANZA",
+        "url": "https://open.spotify.com/album/2VPioojsuQbgyMFMK9iY4t"
+      },
+      "artists": [
+        {
+          "name": "BAKV",
+          "url": "https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "MARANZA",
+      "url": "https://open.spotify.com/track/2D1n0e1f3Ihoxi38UliLnw"
+    },
+    {
+      "album": {
         "name": "MASERATI",
         "url": "https://open.spotify.com/album/3dAo7vfqWZB4F8apmxL2Jd"
       },
@@ -13656,7 +13722,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148980,
       "name": "OSAMA",
       "url": "https://open.spotify.com/track/639SRnDIZghe7ayN40SFt3"
@@ -14041,6 +14107,28 @@
     },
     {
       "album": {
+        "name": "PAPAGALOS",
+        "url": "https://open.spotify.com/album/1GPHGCaLQNQhgwRxFSc4pb"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "Gosei",
+          "url": "https://open.spotify.com/artist/59HgkH4dmqGMfeU3gjchR2"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "PAPAGALOS",
+      "url": "https://open.spotify.com/track/1q6B7Yav5vwU1X76FYXfgW"
+    },
+    {
+      "album": {
         "name": "PAPAPA",
         "url": "https://open.spotify.com/album/7omjUy4njk43dxAbRclFIN"
       },
@@ -14192,6 +14280,28 @@
       "duration_ms": 204688,
       "name": "PARE ME STO ONEIRO",
       "url": "https://open.spotify.com/track/6Sk2IaIh3sgh68Pck8yeJq"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/0YQNRWc1QiFrDZLdOLozjE"
+      },
+      "artists": [
+        {
+          "name": "Merko",
+          "url": "https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166168,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6ZRoikFxCekpUFknCO0HFB"
     },
     {
       "album": {
@@ -17256,7 +17366,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168896,
       "name": "SPASIBA",
       "url": "https://open.spotify.com/track/3d6S35CsRKcNdJ4mUDVN5y"
@@ -17570,7 +17680,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 210693,
       "name": "Strip For Me",
       "url": "https://open.spotify.com/track/5IxLvieYg1eXp4U7bD5aWx"
@@ -19098,7 +19208,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 102298,
       "name": "U Need People Like Me",
       "url": "https://open.spotify.com/track/0Z7DPv64Ksdvbpz0YLFGHG"
@@ -19712,6 +19822,28 @@
       "duration_ms": 176843,
       "name": "WHISKEY",
       "url": "https://open.spotify.com/track/7y6Nl7g2lPJ3zP4RaN33DE"
+    },
+    {
+      "album": {
+        "name": "WINNIE",
+        "url": "https://open.spotify.com/album/6sM7Fg2JZYuqj0lmB0SdyM"
+      },
+      "artists": [
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "MUNEYLXRD",
+          "url": "https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129233,
+      "name": "WINNIE",
+      "url": "https://open.spotify.com/track/2L2CLPZLYoaZQKYIcqgf2C"
     },
     {
       "album": {
@@ -20352,6 +20484,28 @@
       "duration_ms": 136000,
       "name": "Ziliara",
       "url": "https://open.spotify.com/track/1ElcwT6b6UEQSSERkzo7Ru"
+    },
+    {
+      "album": {
+        "name": "ZORO",
+        "url": "https://open.spotify.com/album/6t6bDv7wKWaO8bXnvZiNml"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200233,
+      "name": "ZORO",
+      "url": "https://open.spotify.com/track/3dXIOrX6ixec2EcZsGcsjw"
     },
     {
       "album": {

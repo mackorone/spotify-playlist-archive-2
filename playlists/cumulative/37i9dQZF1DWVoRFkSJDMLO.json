@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "The latest in African & Caribbean music. From the continent, to the islands with Ruger & ODUMODUBLVCK.",
+  "description": "The latest in African & Caribbean music. From the continent, to the islands with Rema.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 240017,
       "name": "All Mines",
       "url": "https://open.spotify.com/track/5V74BpZqwTrLCPUqxU1Lsp"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173118,
       "name": "Allergies",
       "url": "https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE"
@@ -4121,6 +4121,28 @@
     },
     {
       "album": {
+        "name": "Bigger (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6hkaerWZMubBWwyTDJP8J3"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169501,
+      "name": "Bigger (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4BDrbdeodpenlrORv4yqnc"
+    },
+    {
+      "album": {
         "name": "Bilingual Baddie(BB)",
         "url": "https://open.spotify.com/album/5w9mCgHkFdDDrHVzTmuToU"
       },
@@ -5534,6 +5556,32 @@
       "duration_ms": 156631,
       "name": "Bruk Out",
       "url": "https://open.spotify.com/track/2tqmebpNRL25n5lxYfgGq3"
+    },
+    {
+      "album": {
+        "name": "Bruk Out",
+        "url": "https://open.spotify.com/album/10WwNtINKl6G0AgP5LdneO"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140769,
+      "name": "Bruk Out",
+      "url": "https://open.spotify.com/track/2orzQOODmU0MrB3ABFT51g"
     },
     {
       "album": {
@@ -9263,6 +9311,32 @@
     },
     {
       "album": {
+        "name": "Down In It",
+        "url": "https://open.spotify.com/album/2QFVtE9urFnuEVp5mrghQG"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        },
+        {
+          "name": "MadLypso",
+          "url": "https://open.spotify.com/artist/6tQlBmzHQ6vZI48H7SZsBV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Down In It",
+      "url": "https://open.spotify.com/track/47OoXlqF9Sg3D99NlkUUBC"
+    },
+    {
+      "album": {
         "name": "Viking (Vybz Is King) : 10th Year Anniversary",
         "url": "https://open.spotify.com/album/3sNbgXyN0nDNinBvlowOkQ"
       },
@@ -9584,7 +9658,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 165751,
       "name": "Dweet & Done",
       "url": "https://open.spotify.com/track/3flrUNxaX5GNPvA8PQ3vXX"
@@ -10553,6 +10627,24 @@
     },
     {
       "album": {
+        "name": "FAH",
+        "url": "https://open.spotify.com/album/5IyMVmb0uocJfBvRKd1ggc"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99312,
+      "name": "FAH",
+      "url": "https://open.spotify.com/track/6O1p3AtdHMlecFxpXizgm7"
+    },
+    {
+      "album": {
         "name": "Fake Friends (Ir\u00f3 \u00d2re)",
         "url": "https://open.spotify.com/album/2YdB6Hh9Xq555Bhyy7u5Kg"
       },
@@ -10828,6 +10920,28 @@
       "duration_ms": 154512,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "album": {
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229757,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW"
     },
     {
       "album": {
@@ -11472,7 +11586,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149538,
       "name": "For Me",
       "url": "https://open.spotify.com/track/0s04M3UQY0vgUzTTvsm4u7"
@@ -15634,7 +15748,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 197288,
       "name": "IKEBE 3000",
       "url": "https://open.spotify.com/track/6MFuUHqRLqMoZ1cQf3s6bY"
@@ -16572,6 +16686,28 @@
       "duration_ms": 169824,
       "name": "Jeje",
       "url": "https://open.spotify.com/track/3J6yVWwtgHvYazpP0E8evl"
+    },
+    {
+      "album": {
+        "name": "Jeje",
+        "url": "https://open.spotify.com/album/4dQ0fjqXBMme6fHZ81hPHo"
+      },
+      "artists": [
+        {
+          "name": "Rii",
+          "url": "https://open.spotify.com/artist/7qUIE0IFXYbRganFGgTvzT"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208598,
+      "name": "Jeje",
+      "url": "https://open.spotify.com/track/6k5WKlAeuJ34iynpNSxrpG"
     },
     {
       "album": {
@@ -21153,6 +21289,28 @@
     },
     {
       "album": {
+        "name": "Money In A Wheelbarrow",
+        "url": "https://open.spotify.com/album/32m2f3GYYruC2fGBN6su7c"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151909,
+      "name": "Money In A Wheelbarrow",
+      "url": "https://open.spotify.com/track/65K31Yui1Sfn4pSub3uKJP"
+    },
+    {
+      "album": {
         "name": "Money Talk",
         "url": "https://open.spotify.com/album/2Xr1vqUhhnpvIQLjuQTl7d"
       },
@@ -24817,6 +24975,28 @@
     },
     {
       "album": {
+        "name": "Paloma",
+        "url": "https://open.spotify.com/album/5xDjxjf4sNrEtuOwV9HhjN"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Paloma",
+      "url": "https://open.spotify.com/track/7de8ycOzZhRiIzDWAV3XKV"
+    },
+    {
+      "album": {
         "name": "Pam Pam Pam",
         "url": "https://open.spotify.com/album/2M8vkoHzc8l77iWO5wgYgE"
       },
@@ -26244,7 +26424,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 171428,
       "name": "POSITION",
       "url": "https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw"
@@ -28012,7 +28192,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 153632,
       "name": "Round The World",
       "url": "https://open.spotify.com/track/2hkgZ0u6sAEE9mwzQz3ed6"
@@ -29747,6 +29927,24 @@
     },
     {
       "album": {
+        "name": "Time and Space",
+        "url": "https://open.spotify.com/album/0DHDiiApo6bKBpz1UfZuQH"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147610,
+      "name": "Skoskola",
+      "url": "https://open.spotify.com/track/7wT93fcw6XSim76fnj5PBm"
+    },
+    {
+      "album": {
         "name": "SLICK",
         "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
       },
@@ -31194,7 +31392,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156000,
       "name": "Strong Like Lion",
       "url": "https://open.spotify.com/track/16PLoogX8O3nOQh1NmKG7s"
@@ -31366,7 +31564,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156631,
       "name": "Sun Up",
       "url": "https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1"
@@ -32120,7 +32318,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192000,
       "name": "TEA",
       "url": "https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK"
@@ -34105,6 +34303,28 @@
     },
     {
       "album": {
+        "name": "Tun Up",
+        "url": "https://open.spotify.com/album/7zR3YngjWwmBFCWmKVjr0j"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186956,
+      "name": "Tun Up",
+      "url": "https://open.spotify.com/track/4nhIuKbcLgwc0XWdGVkjEb"
+    },
+    {
+      "album": {
         "name": "REAL, Vol. 1",
         "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },
@@ -35036,7 +35256,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 165625,
       "name": "WAIST",
       "url": "https://open.spotify.com/track/0nwzZML3L2XD5aL8TsiFXN"
@@ -35644,6 +35864,28 @@
       "duration_ms": 149162,
       "name": "WE JUS CHILLIN",
       "url": "https://open.spotify.com/track/3jaRYEhFhFZncOx5gjPOEa"
+    },
+    {
+      "album": {
+        "name": "We Nah Leff",
+        "url": "https://open.spotify.com/album/4OyWdg2JXlD0HGNn3dyqvl"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "YGR",
+          "url": "https://open.spotify.com/artist/3ub7MokKgtHOxM0p80nGkg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200881,
+      "name": "We Nah Leff",
+      "url": "https://open.spotify.com/track/5xyPEt6er5Rx2l5r0RrQgN"
     },
     {
       "album": {

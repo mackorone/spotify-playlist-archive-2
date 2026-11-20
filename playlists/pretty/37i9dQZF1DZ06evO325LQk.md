@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,549 likes - 42 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,551 likes - 42 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 13 | [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 |
 | 14 | [JUST LIKE WE NEVER SAID GOODBYE](https://open.spotify.com/track/2SCyDaDxOEmqgEvak5Yt0N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 3:08 |
 | 15 | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 3:52 |
-| 16 | [Blaze That Ass](https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Blaze That Ass](https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL) | 2:55 |
+| 16 | [La Chíqui](https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:47 |
 | 17 | [It's Okay To Cry](https://open.spotify.com/track/0QA1xpUuqHDHWZhi0eAbH7) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:50 |
 | 18 | [OOH](https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 2:31 |
-| 19 | [La Chíqui](https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:47 |
+| 19 | [Blaze That Ass](https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Blaze That Ass](https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL) | 2:55 |
 | 20 | [MSMSMSM](https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [MSMSMSM](https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4) | 3:35 |
 | 21 | [Infatuation](https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 4:40 |
 | 22 | [UNISIL](https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 2:06 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 41 | [Pretending I Give In \(Let Go\)](https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:02 |
 | 42 | [Cold World](https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 4:25 |
 
-Snapshot ID: `avpHgAAAAAAnpXFkmAgsHWpElPjoFnIQ`
+Snapshot ID: `avzqgAAAAABzPO5n99VvGWEfkePpZtTL`

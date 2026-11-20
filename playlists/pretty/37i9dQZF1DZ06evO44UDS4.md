@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 
 > This is Oliver Tree\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,243 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,260 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 | 40 | [Glow On](https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 2:58 |
 | 41 | [When You're Around](https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:12 |
 | 42 | [ULTRAMAN \- From The Netflix Film "Ultraman: Rising"](https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [ULTRAMAN \(From The Netflix Film "Ultraman: Rising"\)](https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH) | 3:24 |
-| 43 | [Movement](https://open.spotify.com/track/4OLI1dUkU9GFHm3IUgChaf) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Movement](https://open.spotify.com/album/4X6lXwC3CnCcbQPtoFlIrF) | 2:43 |
+| 43 | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/track/07ShpyCaAqfCseA3fWFFMY) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/album/1ucf98ip08W4dY41QZrXeq) | 3:02 |
 | 44 | [Death Ray](https://open.spotify.com/track/0YdG4zW1WUpKvWI9tVbnjO) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 3:10 |
 | 45 | [Every Type of Friend](https://open.spotify.com/track/4857wFBWpbuhm5caykSZSO) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 3:13 |
-| 46 | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/track/07ShpyCaAqfCseA3fWFFMY) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/album/1ucf98ip08W4dY41QZrXeq) | 3:02 |
+| 46 | [Movement](https://open.spotify.com/track/4OLI1dUkU9GFHm3IUgChaf) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Movement](https://open.spotify.com/album/4X6lXwC3CnCcbQPtoFlIrF) | 2:43 |
 | 47 | [All You Ever Wanted](https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [All You Ever Wanted](https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm) | 1:59 |
 | 48 | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe) | 3:08 |
 | 49 | [Out of Ordinary](https://open.spotify.com/track/7cXgeethsda8KnjsfT8kGE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 3:00 |
 | 50 | [A\-Okay](https://open.spotify.com/track/58Z6i7sihPU7vqetCvrE5I) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 3:12 |
 
-Snapshot ID: `avpHgAAAAACy4LSS7KFmsmTA2Rpquetc`
+Snapshot ID: `avzqgAAAAACZaN11zap+8T6Y87Hy30yw`

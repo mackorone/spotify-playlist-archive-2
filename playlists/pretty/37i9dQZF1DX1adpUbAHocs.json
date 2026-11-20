@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 625555,
+  "num_followers": 625493,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEiwkZRqXrL/F+jrIZPobvbYhG74",
+  "snapshot_id": "AAAAALvoU6w4LXDLwt/sjCtgZpS3Owmn",
   "tracks": [
     {
       "added_at": "2024-07-05 20:58:56",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 209621,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Northern Attitude",
-        "url": "https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Lucifer On The Sofa",
         "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 193277,
       "name": "Wild",
       "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Northern Attitude",
+        "url": "https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "KIWANUKA",
-        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Rolling",
-      "url": "https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Thrilled To Be Here",
+        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Going On A Feeling",
+      "url": "https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Window Flowers",
         "url": "https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Thrilled To Be Here",
-        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
-      },
-      "artists": [
-        {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Going On A Feeling",
-      "url": "https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT"
     },
     {
       "added_at": "2024-07-05 20:58:56",

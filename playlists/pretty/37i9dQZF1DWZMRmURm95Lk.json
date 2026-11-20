@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49231,
+  "num_followers": 49234,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO6ZWQthf0zscUtWn7nIvmuikKpX",
+  "snapshot_id": "AAAAAEaifI2D4BZIeRlTzZ831R4B5Ori",
   "tracks": [
     {
       "added_at": "2026-05-29 09:57:53",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 224526,
+      "name": "D.O.G.O. (feat. Marracash)",
+      "url": "https://open.spotify.com/track/0aSLAOVyBGxAkB4aD18xEa"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "La volta buona",
         "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 234525,
       "name": "La volta buona",
       "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 224526,
-      "name": "D.O.G.O. (feat. Marracash)",
-      "url": "https://open.spotify.com/track/0aSLAOVyBGxAkB4aD18xEa"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
         "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 132919,
       "name": "Hip Hop Snippet (feat. Dj Shocca)",
       "url": "https://open.spotify.com/track/4XvOoyOmHrE9RwwTWNBh5Y"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 391733,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Viscerale",
         "url": "https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 163000,
       "name": "Idiocracy (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391733,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "GI\u00d9 DA ME",
+        "url": "https://open.spotify.com/album/7djKPOv1ZCuFubOjudHqjr"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        }
+      ],
+      "duration_ms": 115800,
+      "name": "GI\u00d9 DA ME",
+      "url": "https://open.spotify.com/track/4OMdFWA9yLk8zHq6gwnSY6"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Milano Docet",
         "url": "https://open.spotify.com/album/0fcpty63ePPqtCKKD9CP17"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 217806,
       "name": "Sogni Diventano Incubi",
       "url": "https://open.spotify.com/track/0HLrzfagUoPKEdKpN536H9"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "GI\u00d9 DA ME",
-        "url": "https://open.spotify.com/album/7djKPOv1ZCuFubOjudHqjr"
-      },
-      "artists": [
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
-        }
-      ],
-      "duration_ms": 115800,
-      "name": "GI\u00d9 DA ME",
-      "url": "https://open.spotify.com/track/4OMdFWA9yLk8zHq6gwnSY6"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2383,34 +2383,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "4 MANI",
-        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
-      "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Il Battesimo (feat. Inoki)",
         "url": "https://open.spotify.com/album/3JblzSFeepGWBtXHyL81fs"
       },
@@ -2451,6 +2423,34 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "4 MANI",
+        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
+      "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Guns & Butter",
         "url": "https://open.spotify.com/album/3gfIZXlws7qQyfCJMD4yJE"
       },
@@ -2467,30 +2467,6 @@
       "duration_ms": 191120,
       "name": "C.L.I.C.K.",
       "url": "https://open.spotify.com/track/37GF4wrZNkyqR6ftWjktyf"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "IncrEdible Freestyle, pt. IV",
-        "url": "https://open.spotify.com/album/4mGjbNDpPafcMP0ijaqFrD"
-      },
-      "artists": [
-        {
-          "name": "W.edy Wonders",
-          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
-        },
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Beba",
-          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
-        }
-      ],
-      "duration_ms": 73846,
-      "name": "IncrEdible Freestyle, pt. IV",
-      "url": "https://open.spotify.com/track/6VrZppoTt3YJ847GZYg1Iv"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2523,6 +2499,30 @@
       "duration_ms": 246083,
       "name": "Svspiria",
       "url": "https://open.spotify.com/track/137ix4kq7j3PPK1SYXv4Gd"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "IncrEdible Freestyle, pt. IV",
+        "url": "https://open.spotify.com/album/4mGjbNDpPafcMP0ijaqFrD"
+      },
+      "artists": [
+        {
+          "name": "W.edy Wonders",
+          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Beba",
+          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
+        }
+      ],
+      "duration_ms": 73846,
+      "name": "IncrEdible Freestyle, pt. IV",
+      "url": "https://open.spotify.com/track/6VrZppoTt3YJ847GZYg1Iv"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2619,26 +2619,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Training Day",
-        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
-      },
-      "artists": [
-        {
-          "name": "Doye",
-          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
-        },
-        {
-          "name": "Giovane Platone",
-          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
-        }
-      ],
-      "duration_ms": 96741,
-      "name": "Training Day",
-      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Aspromonte a Roma",
         "url": "https://open.spotify.com/album/1xcJ0lk89vxauxOI8kpgpc"
       },
@@ -2659,6 +2639,26 @@
       "duration_ms": 205958,
       "name": "Putiferio",
       "url": "https://open.spotify.com/track/00WXXmVD40vXn9gS3CxNuG"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Training Day",
+        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
+      },
+      "artists": [
+        {
+          "name": "Doye",
+          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
+        },
+        {
+          "name": "Giovane Platone",
+          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
+        }
+      ],
+      "duration_ms": 96741,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
     },
     {
       "added_at": "2026-05-29 09:57:53",

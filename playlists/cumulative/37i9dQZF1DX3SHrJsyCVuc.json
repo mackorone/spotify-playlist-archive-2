@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: Materazi Future Club",
+  "description": "A new world of alternative noise. Cover: MUDRAT",
   "name": "Wire",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182986,
       "name": "better",
       "url": "https://open.spotify.com/track/684aK3J9TN158J2DTPJwok"
@@ -920,6 +920,24 @@
       "duration_ms": 141906,
       "name": "Cold",
       "url": "https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/0WfCH05tgUy1EPufdOjym0"
+      },
+      "artists": [
+        {
+          "name": "Big Modern",
+          "url": "https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172149,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6jfPF5iIyQKmT1Rm4pVExi"
     },
     {
       "album": {
@@ -1403,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "EPITAPH",
+        "url": "https://open.spotify.com/album/5OodKM4uld9oWTq1ZI28uj"
+      },
+      "artists": [
+        {
+          "name": "MUDRAT",
+          "url": "https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188226,
+      "name": "EPITAPH",
+      "url": "https://open.spotify.com/track/0PU4ouHMxR2mvPLIh3rkTD"
+    },
+    {
+      "album": {
         "name": "Euro Stomper",
         "url": "https://open.spotify.com/album/5zVjHk98YkzPLjq1As8wPS"
       },
@@ -1522,7 +1558,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164689,
       "name": "FARK OFF",
       "url": "https://open.spotify.com/track/5CECj9Jd8SC9Rr5MScgy14"
@@ -1952,7 +1988,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 127173,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 166167,
       "name": "i wait, i sink",
       "url": "https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN"
@@ -3111,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/3y5tcA5iWOW2EKnQVTH1dO"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193979,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/434zOIC7NUw4fBlRl8WIaD"
+    },
+    {
+      "album": {
         "name": "Remains",
         "url": "https://open.spotify.com/album/7lTUctoVU6VuJj0jvk3n7F"
       },
@@ -3744,6 +3798,24 @@
       "duration_ms": 128634,
       "name": "Pom Pom",
       "url": "https://open.spotify.com/track/50XEaacXqkRUm4a2fQpoCS"
+    },
+    {
+      "album": {
+        "name": "Ponzi",
+        "url": "https://open.spotify.com/album/0MKPkkwSioCaAOo5qaNfRw"
+      },
+      "artists": [
+        {
+          "name": "Delivery",
+          "url": "https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255367,
+      "name": "Ponzi",
+      "url": "https://open.spotify.com/track/54oTZtcIgSCA7grkVTxk1L"
     },
     {
       "album": {
@@ -5438,7 +5510,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195371,
       "name": "VERTICAL WORLDS",
       "url": "https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z"
@@ -5644,6 +5716,24 @@
       "duration_ms": 153416,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4aCbdFRL1BWBRNYHNmVtWD"
+    },
+    {
+      "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/0FiarOgpwaZ18ZvTy7dlXc"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/00AOxFmaoLC1ZCVm3GGx9z"
     },
     {
       "album": {

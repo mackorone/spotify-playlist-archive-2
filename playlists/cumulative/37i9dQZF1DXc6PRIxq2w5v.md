@@ -2,9 +2,9 @@
 
 ### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
-> Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
+> Entre os versos e beats, a palavra do Senhor\. Foto: Nesk Only
 
-530 songs - 1 day 3 hr 30 min
+531 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Coração Quebrado](https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt) | [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SCampos](https://open.spotify.com/artist/35Ec0e31nIQQ67eQqK0dhZ) | [Coração Quebrado](https://open.spotify.com/album/349KT4LJKGKSgtajbT031W) | 2:02 | 2023-07-14 | 2023-10-23 |
 | [Cordeiro](https://open.spotify.com/track/3Rvmkv36zo0y3yqLyCvVB5) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Cordeiro](https://open.spotify.com/album/5pySYiNZgW3G9hsbzHZM4i) | 2:48 | 2024-03-29 | 2024-04-26 |
 | [Cores Novas](https://open.spotify.com/track/5mumRcr5TySm83gAq490ZK) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Cores Novas](https://open.spotify.com/album/1yhKSiRIQgRJ4CV0v00Vr7) | 2:18 | 2022-04-29 | 2022-08-20 |
-| [Coroa Da Vida](https://open.spotify.com/track/41PoX50ZYi7mP4bs5TQ5wC) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [O Plano](https://open.spotify.com/album/5EKddscQOerugFYyBWvuMe) | 3:51 | 2026-05-08 |  |
+| [Coroa Da Vida](https://open.spotify.com/track/41PoX50ZYi7mP4bs5TQ5wC) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [O Plano](https://open.spotify.com/album/5EKddscQOerugFYyBWvuMe) | 3:51 | 2026-05-08 | 2026-11-20 |
 | [CQC](https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [CQC](https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC) | 3:01 | 2022-03-22 | 2023-12-09 |
 | [Crises](https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Crises](https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe) | 2:24 | 2023-10-20 |  |
 | [Cristo E Mais Nada](https://open.spotify.com/track/78LdRsvfvQ43WScLolnhD9) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Cristo E Mais Nada](https://open.spotify.com/album/1S7DxfhcxZncCq7SKqm9iQ) | 4:51 | 2025-06-02 | 2026-08-08 |
@@ -160,6 +160,7 @@
 | [Emmanuel](https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Emmanuel](https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o) | 2:45 | 2023-03-17 | 2023-04-16 |
 | [Encontrei em Você](https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI) | [Lucena](https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V), [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [O Peter](https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Encontrei em Você](https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo) | 2:52 | 2025-07-19 |  |
 | [Entre a Cruz e a Espada](https://open.spotify.com/track/1oIWb7BQVHOQooiQScZUL8) | [Kalebe Pacheco](https://open.spotify.com/artist/4O9AEp24Ozw6pNe89Cl2vZ), [Kolli](https://open.spotify.com/artist/6TdB9Tq21brBwYzP6GxlaV) | [Entre a Cruz e a Espada](https://open.spotify.com/album/0qH63y4wZrzdD1MVF1SuyN) | 2:47 | 2022-03-22 | 2022-03-26 |
+| [Então Louve](https://open.spotify.com/track/5X267jZCaqbsci8YgCj3n3) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [Eduardo Nascimento](https://open.spotify.com/artist/4waxYy55fmbH8EWpowgZRl) | [Então Louve](https://open.spotify.com/album/08oj69g2lim63HPrxBYR4w) | 2:51 | 2026-11-20 |  |
 | [Envia\-me a Mim](https://open.spotify.com/track/0yI2l2ipKCZZIgs2mJ10oU) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Envia\-me a Mim](https://open.spotify.com/album/234bj7YrLcH6llCan0IRmp) | 2:52 | 2023-06-02 | 2023-06-17 |
 | [Erros](https://open.spotify.com/track/1UdDJYLbEEcQEBEXO9qpuY) | [ALAHAC](https://open.spotify.com/artist/1oPfb394XrTFAaiXdAvJbz), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Ele Vem](https://open.spotify.com/album/4CQuYFl92BFBcAKATBnxxi) | 3:33 | 2025-09-12 | 2025-12-01 |
 | [Es o Meu Refúgio](https://open.spotify.com/track/5KATaqcejGz2LIlQskSZEZ) | [Lil Boas](https://open.spotify.com/artist/070njtH4mYTth11cYf2DFL) | [Es o Meu Refúgio](https://open.spotify.com/album/27AyPTY8JJxFSRfo2nO0G2) | 2:34 | 2023-11-03 | 2023-12-23 |

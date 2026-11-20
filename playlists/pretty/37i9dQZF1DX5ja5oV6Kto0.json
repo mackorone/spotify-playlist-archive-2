@@ -1,12 +1,12 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro fusion music: Cruel Santino",
-  "num_followers": 114812,
+  "num_followers": 114825,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEojgby6v/Ppiv9uZBJKF+NZlYLh",
+  "snapshot_id": "AAAAAF3gT9qwg37WzQPRQOFw20EXO3fA",
   "tracks": [
     {
       "added_at": "2026-11-13 00:02:04",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-11-13 00:02:04",
       "album": {
-        "name": "Hope Is A Heavy Thing",
-        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Easy Company",
-      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
-    },
-    {
-      "added_at": "2026-11-13 00:02:04",
-      "album": {
         "name": "then 1t g0t crazy",
         "url": "https://open.spotify.com/album/3HGzfz4LdYvIZd2CxKlzvs"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 102450,
       "name": "\u2060Idanski",
       "url": "https://open.spotify.com/track/3s1M2jWG68cbgQz7OUpJlA"
+    },
+    {
+      "added_at": "2026-11-13 00:02:04",
+      "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Easy Company",
+      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
     },
     {
       "added_at": "2026-11-13 00:02:04",
@@ -699,38 +699,6 @@
     {
       "added_at": "2026-11-13 00:02:04",
       "album": {
-        "name": "ALL THE SAME",
-        "url": "https://open.spotify.com/album/6DLx8JF06WFoQ0oQjFDcB3"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 220756,
-      "name": "ALL THE SAME",
-      "url": "https://open.spotify.com/track/2Jr9woS8t3WFcZXx3uEotE"
-    },
-    {
-      "added_at": "2026-11-13 00:02:04",
-      "album": {
-        "name": "Swagstar",
-        "url": "https://open.spotify.com/album/02m9kBTURJaGfvmr1Z0rEV"
-      },
-      "artists": [
-        {
-          "name": "WAVE$TAR",
-          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
-        }
-      ],
-      "duration_ms": 148002,
-      "name": "LEAN",
-      "url": "https://open.spotify.com/track/52Jqe5qtEbYvQqd1S2E0LL"
-    },
-    {
-      "added_at": "2026-11-13 00:02:04",
-      "album": {
         "name": "Massacre The Show",
         "url": "https://open.spotify.com/album/3mF34OMq5P0rGAE6bCDBFd"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 133384,
       "name": "Massacre The Show",
       "url": "https://open.spotify.com/track/49dafbmuBNj0DJEqdokKBv"
+    },
+    {
+      "added_at": "2026-11-13 00:02:04",
+      "album": {
+        "name": "Swagstar",
+        "url": "https://open.spotify.com/album/02m9kBTURJaGfvmr1Z0rEV"
+      },
+      "artists": [
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "duration_ms": 148002,
+      "name": "LEAN",
+      "url": "https://open.spotify.com/track/52Jqe5qtEbYvQqd1S2E0LL"
+    },
+    {
+      "added_at": "2026-11-13 00:02:04",
+      "album": {
+        "name": "ALL THE SAME",
+        "url": "https://open.spotify.com/album/6DLx8JF06WFoQ0oQjFDcB3"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 220756,
+      "name": "ALL THE SAME",
+      "url": "https://open.spotify.com/track/2Jr9woS8t3WFcZXx3uEotE"
     },
     {
       "added_at": "2026-11-13 00:02:04",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-11-13 00:02:04",
       "album": {
+        "name": "Girl From The West",
+        "url": "https://open.spotify.com/album/4frT3p7rhaAyLgtRSIO2U2"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "duration_ms": 157419,
+      "name": "Don't Want",
+      "url": "https://open.spotify.com/track/1a4kuAuM9rMX49yalPL3at"
+    },
+    {
+      "added_at": "2026-11-13 00:02:04",
+      "album": {
         "name": "BADDIES <3 MOLIY",
         "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 198505,
       "name": "HIGH AS HEAVEN",
       "url": "https://open.spotify.com/track/69vAH1CuRcrLCZGrslEMEr"
-    },
-    {
-      "added_at": "2026-11-13 00:02:04",
-      "album": {
-        "name": "Girl From The West",
-        "url": "https://open.spotify.com/album/4frT3p7rhaAyLgtRSIO2U2"
-      },
-      "artists": [
-        {
-          "name": "Solana",
-          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
-        }
-      ],
-      "duration_ms": 157419,
-      "name": "Don't Want",
-      "url": "https://open.spotify.com/track/1a4kuAuM9rMX49yalPL3at"
     },
     {
       "added_at": "2026-11-13 00:02:04",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-11-13 00:02:04",
       "album": {
-        "name": "Here They Come II",
-        "url": "https://open.spotify.com/album/49MuMZHqKMfILrUtUOfuFs"
-      },
-      "artists": [
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 187226,
-      "name": "Here They Come II",
-      "url": "https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT"
-    },
-    {
-      "added_at": "2026-11-13 00:02:04",
-      "album": {
         "name": "No Excuses Deluxe",
         "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 132413,
       "name": "FINE SHYT (feat. Tml Vibez)",
       "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
+    },
+    {
+      "added_at": "2026-11-13 00:02:04",
+      "album": {
+        "name": "Here They Come II",
+        "url": "https://open.spotify.com/album/49MuMZHqKMfILrUtUOfuFs"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 187226,
+      "name": "Here They Come II",
+      "url": "https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT"
     },
     {
       "added_at": "2026-11-13 00:02:04",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-11-13 00:02:04",
       "album": {
+        "name": "Love Stray",
+        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "duration_ms": 177968,
+      "name": "Deeper Than Love",
+      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
+    },
+    {
+      "added_at": "2026-11-13 00:02:04",
+      "album": {
         "name": "Little Us",
         "url": "https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 172303,
       "name": "Relations (feat. Braye)",
       "url": "https://open.spotify.com/track/017OPL77HUwYyPONagEQ2E"
-    },
-    {
-      "added_at": "2026-11-13 00:02:04",
-      "album": {
-        "name": "Love Stray",
-        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 177968,
-      "name": "Deeper Than Love",
-      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
     },
     {
       "added_at": "2026-11-13 00:02:04",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-11-13 00:02:04",
       "album": {
-        "name": "International Collector / Oz.",
-        "url": "https://open.spotify.com/album/3HEIDd1ULSIGXLySINdbaK"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 115470,
-      "name": "International Collector",
-      "url": "https://open.spotify.com/track/3loWkeEtVnG0RoJjkzm760"
-    },
-    {
-      "added_at": "2026-11-13 00:02:04",
-      "album": {
         "name": "419.mp3",
         "url": "https://open.spotify.com/album/7xNUWq5sStEei7o5iczCdZ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 176711,
       "name": "Mo\u00ebt",
       "url": "https://open.spotify.com/track/0Y4r9ZSrcImr6HcLAGY51R"
+    },
+    {
+      "added_at": "2026-11-13 00:02:04",
+      "album": {
+        "name": "International Collector / Oz.",
+        "url": "https://open.spotify.com/album/3HEIDd1ULSIGXLySINdbaK"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 115470,
+      "name": "International Collector",
+      "url": "https://open.spotify.com/track/3loWkeEtVnG0RoJjkzm760"
     },
     {
       "added_at": "2026-11-13 00:02:04",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2026-11-13 00:02:04",
       "album": {
-        "name": "Swag Up",
-        "url": "https://open.spotify.com/album/3lYTeMnf7e2QH7MCfeBMGR"
-      },
-      "artists": [
-        {
-          "name": "Tobi Nation",
-          "url": "https://open.spotify.com/artist/7pzMp7mAU2KRlAjtYuKoje"
-        },
-        {
-          "name": "Teee Dollar",
-          "url": "https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd"
-        },
-        {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
-        }
-      ],
-      "duration_ms": 116869,
-      "name": "Swag Up",
-      "url": "https://open.spotify.com/track/0ayOzJH8S7ikVxGe4FphUc"
-    },
-    {
-      "added_at": "2026-11-13 00:02:04",
-      "album": {
         "name": "impossible",
         "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
       },
@@ -1403,6 +1379,30 @@
       "duration_ms": 117410,
       "name": "ghanamu$tgo",
       "url": "https://open.spotify.com/track/0ZUHbz1wLbdOOnl0lVih23"
+    },
+    {
+      "added_at": "2026-11-13 00:02:04",
+      "album": {
+        "name": "Swag Up",
+        "url": "https://open.spotify.com/album/3lYTeMnf7e2QH7MCfeBMGR"
+      },
+      "artists": [
+        {
+          "name": "Tobi Nation",
+          "url": "https://open.spotify.com/artist/7pzMp7mAU2KRlAjtYuKoje"
+        },
+        {
+          "name": "Teee Dollar",
+          "url": "https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "duration_ms": 116869,
+      "name": "Swag Up",
+      "url": "https://open.spotify.com/track/0ayOzJH8S7ikVxGe4FphUc"
     },
     {
       "added_at": "2026-11-13 00:02:04",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-11-13 00:02:04",
       "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 165415,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
+    },
+    {
+      "added_at": "2026-11-13 00:02:04",
+      "album": {
         "name": "party animal$ interlude (with suono sai)",
         "url": "https://open.spotify.com/album/39dvgXUbrqtndPoc4TYwtq"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 128000,
       "name": "party animal$ interlude (with suono sai)",
       "url": "https://open.spotify.com/track/2Ug1ARrqDUr3lVvoF4n8Ag"
-    },
-    {
-      "added_at": "2026-11-13 00:02:04",
-      "album": {
-        "name": "Greedy",
-        "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 165415,
-      "name": "Greedy",
-      "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,833 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,835 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 49 | [忘れないで \(feat\. 田我流\)](https://open.spotify.com/track/0suhDxWCySBmnehAxiJkG7) | [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [忘れないで](https://open.spotify.com/album/0ZV4jEpUusHAAkCRnP4ljL) | 4:13 |
 | 50 | [ネオンを消して](https://open.spotify.com/track/1KnBBZEqJA2EtHuYKKBB50) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [the youth night](https://open.spotify.com/album/1ctyQFj7yDRDwU7dwcd43c) | 3:23 |
 
-Snapshot ID: `AAAAACDlug120EumbStwqOplFyo0zIQO`
+Snapshot ID: `AAAAAOARfslfCq6EGQBi5owZwBLbdL3O`

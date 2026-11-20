@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "Hotpot & HOTPOP \u6211\u5011\u90fd\u611b\uff01\u65b0\u9bae\u6efe\u71b1\u8fa3 Mando-HOTpop track ! Cover: Jess Lee \u674e\u4f73\u8587  ",
+  "description": "Hotpot & HOTPOP \u6211\u5011\u90fd\u611b\uff01\u65b0\u9bae\u6efe\u71b1\u8fa3 Mando-HOTpop track ! Cover: Tyson Yoshi ",
   "name": "HOTPOP",
   "tracks": [
     {
@@ -192,6 +192,24 @@
       "duration_ms": 217954,
       "name": "All For You - \u300a\u8718\u86db\u4eba\uff1a\u91cd\u751f\u65e5\u300b\u96fb\u5f71\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/7nDEuBtwQmqv2tQm7EREyb"
+    },
+    {
+      "album": {
+        "name": "BACKHOME",
+        "url": "https://open.spotify.com/album/1Fyqiimgvd6YXiAXmZAZFf"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "BACKHOME",
+      "url": "https://open.spotify.com/track/0gh0SRhGsavouM3pUV35sc"
     },
     {
       "album": {
@@ -1613,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "\u4efb\u5929\u5802",
+        "url": "https://open.spotify.com/album/3sua0HkoMC1ukEqhGyf1tX"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213515,
+      "name": "\u4efb\u5929\u5802",
+      "url": "https://open.spotify.com/track/3DiqkjoV007NmDvoSC4lMk"
+    },
+    {
+      "album": {
         "name": "\u4efb\u6027",
         "url": "https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI"
       },
@@ -1924,6 +1960,24 @@
       "duration_ms": 245666,
       "name": "\u503c\u5f97\u7d00\u5ff5\u7684\u5783\u573e",
       "url": "https://open.spotify.com/track/1MnYLohwiffUWfwpnMi3m1"
+    },
+    {
+      "album": {
+        "name": "No One Is Coming",
+        "url": "https://open.spotify.com/album/2JJ3i62EMTXZhhrABlnNqv"
+      },
+      "artists": [
+        {
+          "name": "\u5e0c\u6797\u5a1c\u4f9d\u2022\u9ad8",
+          "url": "https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225791,
+      "name": "\u505a\u597d\u51c6\u5907\u518d\u843d\u6cea",
+      "url": "https://open.spotify.com/track/5yW86Bg8Y180RATTJZhDb6"
     },
     {
       "album": {
@@ -2631,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u684c\u5b50",
+        "url": "https://open.spotify.com/album/4BQQJ2lcTepU2KM4FX9XZq"
+      },
+      "artists": [
+        {
+          "name": "\u9811\u7ae5Mj116",
+          "url": "https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205476,
+      "name": "\u5927\u684c\u5b50",
+      "url": "https://open.spotify.com/track/0zZSlAshdpVI71ZeeQsQUF"
+    },
+    {
+      "album": {
         "name": "\u8981\u53bb\u4ec0\u9ebc\u5730\u65b9",
         "url": "https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT"
       },
@@ -3018,6 +3090,28 @@
       "duration_ms": 150265,
       "name": "\u5c0f\u724c\u5927\u800d",
       "url": "https://open.spotify.com/track/17tQ6PZUPDDYVifimFdMwm"
+    },
+    {
+      "album": {
+        "name": "\u5c0f\u7537\u5b69",
+        "url": "https://open.spotify.com/album/4eqv2I68SceEErnBMYUGIg"
+      },
+      "artists": [
+        {
+          "name": "\u6728\u9a6c",
+          "url": "https://open.spotify.com/artist/2ePXsqBFF6jqFEZlebc3sz"
+        },
+        {
+          "name": "Mavis Fan",
+          "url": "https://open.spotify.com/artist/25rFapdPzsR0PEl8dFWL3I"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267750,
+      "name": "\u5c0f\u7537\u5b69",
+      "url": "https://open.spotify.com/track/5MCetooewW8peXz9GsOcAv"
     },
     {
       "album": {
@@ -4065,6 +4159,24 @@
     },
     {
       "album": {
+        "name": "\u591c\u904a\u6240\u5922 DREAM WALKERS",
+        "url": "https://open.spotify.com/album/0DShntrIWznwHjomN5Cj2J"
+      },
+      "artists": [
+        {
+          "name": "\u90b1\u92d2\u6fa4 Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223907,
+      "name": "\u661f\u6d77 Stardrift",
+      "url": "https://open.spotify.com/track/55sR0BYnI9fuspTxUdRcz3"
+    },
+    {
+      "album": {
         "name": "Cross Over",
         "url": "https://open.spotify.com/album/5epxfLiiZq2Q3ou0PL4Xuu"
       },
@@ -4679,6 +4791,24 @@
     },
     {
       "album": {
+        "name": "\u6df1\u6df1\u6d45\u6d45",
+        "url": "https://open.spotify.com/album/2lGuPTbkb7Pb6PPrfCFys4"
+      },
+      "artists": [
+        {
+          "name": "Jess Lee",
+          "url": "https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242076,
+      "name": "\u6df1\u6df1\u6d45\u6d45",
+      "url": "https://open.spotify.com/track/7dFOJ1Yldzynvhup8lGNGv"
+    },
+    {
+      "album": {
         "name": "\u6e1b\u50b7",
         "url": "https://open.spotify.com/album/7AVDlo3SephY6I9DBtlhcF"
       },
@@ -5231,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "\u7b49\u7121",
+        "url": "https://open.spotify.com/album/7Kp8xa4yzQ9g8tcWrx50Ro"
+      },
+      "artists": [
+        {
+          "name": "Amazing Show",
+          "url": "https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274060,
+      "name": "\u7b49\u7121",
+      "url": "https://open.spotify.com/track/3vKCpNhQCIOwZAuvopDeEK"
+    },
+    {
+      "album": {
         "name": "Eason Chan Duo Concert 2010",
         "url": "https://open.spotify.com/album/07fbAm4G10mTHjzWk8pz62"
       },
@@ -5376,6 +5524,24 @@
       "duration_ms": 358932,
       "name": "\u8001\u5e08\u6211\u8981\u4e0a\u5395\u6240",
       "url": "https://open.spotify.com/track/0nd6mdm0teIBHMAzkzOsXa"
+    },
+    {
+      "album": {
+        "name": "\u4fca\u6d9b\u7684\u731c\u60f3",
+        "url": "https://open.spotify.com/album/1Iyfqcy7kYWy2PCDSktszh"
+      },
+      "artists": [
+        {
+          "name": "\u5ed6\u4fca\u6fe4",
+          "url": "https://open.spotify.com/artist/5adlUVCbDi96sYGUwJPoG9"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "\u8111\u6d77\u4e2d\u7684\u544a\u767d\u5899",
+      "url": "https://open.spotify.com/track/49mVs9UcplIHRnkIwNDi4U"
     },
     {
       "album": {
@@ -5636,6 +5802,24 @@
       "duration_ms": 291949,
       "name": "\u8b1d\u8b1d\u4f60",
       "url": "https://open.spotify.com/track/3jBQbImbrnyaZ6Vp6Fy3Jy"
+    },
+    {
+      "album": {
+        "name": "\u8bf7\u4e0d\u8981\u9677\u5165\u7231\u60c5",
+        "url": "https://open.spotify.com/album/0yChNjXpZEleuBEKN3I1gv"
+      },
+      "artists": [
+        {
+          "name": "A Si",
+          "url": "https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "\u8bf7\u4e0d\u8981\u9677\u5165\u7231\u60c5",
+      "url": "https://open.spotify.com/track/1OKOf4oboNylx1a77WP30a"
     },
     {
       "album": {

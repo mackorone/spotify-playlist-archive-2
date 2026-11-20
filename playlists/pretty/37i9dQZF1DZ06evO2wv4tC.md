@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wv4tC.md) - [plain]
 
 > This is DESTIN CONRAD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,659 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,661 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wv4tC.md) - [plain]
 | 36 | [CAUTIOUS](https://open.spotify.com/track/3Duhj1XaVNS3EtEnkhuvAL) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [CAUTIOUS](https://open.spotify.com/album/0ZZUcHxOSxK1g75vEA0Yqf) | 2:20 |
 | 37 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 |
 | 38 | [LIFE BEEN LIFIN'](https://open.spotify.com/track/1EYxckkllpkiJTDOLVR1FU) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 1:58 |
-| 39 | [OUTTA CONTROL](https://open.spotify.com/track/6pZmOVPbimu4qiEXCnleAT) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 3:25 |
-| 40 | [Form of You \(feat\. DESTIN CONRAD & CHILDOFNINES\)](https://open.spotify.com/track/3ygPOFRb3mc8xNfFRMdrfx) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Childofnines](https://open.spotify.com/artist/6UuZZqzEfbhWEmHyPEizdH) | [While We Wait 2](https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa) | 4:22 |
-| 41 | [COLORWAY](https://open.spotify.com/track/5G79sWJahVQQJWqOqtxJuW) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 1:30 |
-| 42 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 |
+| 39 | [Form of You \(feat\. DESTIN CONRAD & CHILDOFNINES\)](https://open.spotify.com/track/3ygPOFRb3mc8xNfFRMdrfx) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Childofnines](https://open.spotify.com/artist/6UuZZqzEfbhWEmHyPEizdH) | [While We Wait 2](https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa) | 4:22 |
+| 40 | [OUTTA CONTROL](https://open.spotify.com/track/6pZmOVPbimu4qiEXCnleAT) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 3:25 |
+| 41 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 |
+| 42 | [COLORWAY](https://open.spotify.com/track/5G79sWJahVQQJWqOqtxJuW) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 1:30 |
 | 43 | [IT'S ONLY YOU](https://open.spotify.com/track/1LWfSjRW9AS4mWnO67bdYp) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:28 |
-| 44 | [Destin’s Interlude \(feat\. Destin Conrad\)](https://open.spotify.com/track/2RAEXZ8zJn42egs3BonDTY) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 2:19 |
+| 44 | [NOSEBLEED](https://open.spotify.com/track/32BdPuMcOzowmFjRR8Rb84) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [NOSEBLEED](https://open.spotify.com/album/2q8tx7JjxwCuHklk2yVb5F) | 2:21 |
 | 45 | [MARIPOSA](https://open.spotify.com/track/6mpANPTNlj2LpLIbTItVnQ) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:12 |
 | 46 | [THE LAST TIME](https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [THE LAST TIME](https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy) | 3:14 |
-| 47 | [NOSEBLEED](https://open.spotify.com/track/32BdPuMcOzowmFjRR8Rb84) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [NOSEBLEED](https://open.spotify.com/album/2q8tx7JjxwCuHklk2yVb5F) | 2:21 |
+| 47 | [Destin’s Interlude \(feat\. Destin Conrad\)](https://open.spotify.com/track/2RAEXZ8zJn42egs3BonDTY) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 2:19 |
 | 48 | [It’s Not Me, It’s You \(feat\. Destin Conrad\)](https://open.spotify.com/track/2N6s3852GdbqhV29or63En) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:45 |
 | 49 | [DAY PARTY](https://open.spotify.com/track/0ila3e0oFa7dVYmnICN4fR) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:06 |
 | 50 | [WANT YOU](https://open.spotify.com/track/6RVPor9kA8QUfBiwmY1jCl) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ÈKÓ GROOVE](https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z) | 3:19 |
 
-Snapshot ID: `avpHgAAAAADB/hnBARpi1ARSCD5/rCvR`
+Snapshot ID: `avzqgAAAAAARoIuE+8stwcYLygeH6KBs`

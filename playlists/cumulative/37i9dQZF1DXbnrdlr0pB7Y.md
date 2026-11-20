@@ -4,7 +4,7 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-126 songs - 6 hr 20 min
+127 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [El Carretero](https://open.spotify.com/track/3GAFugCvoutIwEAAzbeB74) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [El Carretero](https://open.spotify.com/album/1VP2nwTHbf6K98NnAGtkjW) | 3:28 | 2023-12-15 |  |
 | [El Cañaveral \- Guajira](https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Recital Flamenco\. 12 de Sus Toques Originales](https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh) | 4:39 | 2023-12-15 | 2025-07-23 |
 | [El Pedro](https://open.spotify.com/track/5iskfQEmsSMqsXaSqaHFZM) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Pedro](https://open.spotify.com/album/0G8DZq836R0rIisEZtxlrj) | 4:36 | 2023-12-15 | 2026-03-31 |
+| [El Sur De La Playa](https://open.spotify.com/track/10OirwvrDIp2KymmwGQ5Rw) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [El Sur De La Playa](https://open.spotify.com/album/7mP4vGXJ8CfMcHLb2ZPdUw) | 2:10 | 2026-11-20 |  |
 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 | 2023-12-15 | 2026-03-31 |
 | [Estanys de Baiau](https://open.spotify.com/track/6JbPD7lazbivEBZbBiI9U0) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Abendrot](https://open.spotify.com/album/45UIG5yVX62bS76ybHXrG5) | 2:28 | 2023-12-15 |  |
 | [Fading Lines](https://open.spotify.com/track/75N2Huk7utLJmehDAcLJIK) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Fading Lines](https://open.spotify.com/album/1OZzE0cb6ysnQqY0vPfFd3) | 2:04 | 2025-03-05 |  |
@@ -78,14 +79,14 @@
 | [Lisboa Antigua](https://open.spotify.com/track/2YAVQk1lzcWoNfhgSeAbcy) | [Joaquim da Silva](https://open.spotify.com/artist/1ssOJMbsSC24dNCIzuof7r) | [Lisboa Antigua](https://open.spotify.com/album/4VegrkVCRH26FZlHPXN9oL) | 2:37 | 2023-12-15 |  |
 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 | 2023-12-15 |  |
 | [Mar de Tranquilidad](https://open.spotify.com/track/3Lhf4N97pNKaTEQ1NKfNLC) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Mar de Tranquilidad](https://open.spotify.com/album/60O3cCUBGvE55yK767eyPw) | 3:02 | 2026-05-29 |  |
-| [Maré Suave](https://open.spotify.com/track/6GDKt7pRMFopM771SvTKWc) | [Tania Ramone](https://open.spotify.com/artist/37txy9qJzWczhliucVJQFZ) | [Maré Suave](https://open.spotify.com/album/2vjyoykyeXdpcXmR8Cimmc) | 2:27 | 2025-10-01 |  |
+| [Maré Suave](https://open.spotify.com/track/6GDKt7pRMFopM771SvTKWc) | [Tania Ramone](https://open.spotify.com/artist/37txy9qJzWczhliucVJQFZ) | [Maré Suave](https://open.spotify.com/album/2vjyoykyeXdpcXmR8Cimmc) | 2:27 | 2025-10-01 | 2026-11-20 |
 | [Mate Dulce y Amargo](https://open.spotify.com/track/0u6r9d3mjMfIJ3FF4RW4k9) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Mate Dulce y Amargo](https://open.spotify.com/album/3U0ywmyP4MKnpv6BSaBAjv) | 2:58 | 2023-12-15 |  |
 | [Me Dijeron Que Estas Bien](https://open.spotify.com/track/4giwucadmCriq0zubRnUNg) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Me Dijeron Que Estas Bien](https://open.spotify.com/album/1szujtJwnISWuBBCSqSR53) | 2:27 | 2023-12-15 | 2026-03-31 |
 | [Merula](https://open.spotify.com/track/28rRAAV0wy18FNxLgH46WQ) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Merula](https://open.spotify.com/album/3L05XKpAW8M2i9j7z1BbeN) | 4:09 | 2023-12-15 |  |
 | [MIA \(Acoustic Cover\)](https://open.spotify.com/track/5J42gkKWho5iHm8JTOO0uE) | [Bruno Elisabetsky](https://open.spotify.com/artist/4eMHMibKPrazzDOFNMTJTQ) | [MIA \(Acoustic Cover\)](https://open.spotify.com/album/013OQf5I0OmgLdzZcjhR0k) | 3:20 | 2023-12-15 | 2025-05-29 |
 | [No Te Mentí](https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:04 | 2023-12-15 |  |
 | [No Te Vayas](https://open.spotify.com/track/6J7JikIQ1IqUKeGCnYaK8w) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:45 | 2023-12-15 |  |
-| [Noites na Lapa](https://open.spotify.com/track/2VPARXiSDZVf3FvQzr3csd) | [Márcia e a Galera](https://open.spotify.com/artist/2LKq7PNAkYMWnDNhg23XNP) | [Noites na Lapa](https://open.spotify.com/album/4KQiYHsiJsZv4LrNq2afKq) | 2:33 | 2025-10-01 |  |
+| [Noites na Lapa](https://open.spotify.com/track/2VPARXiSDZVf3FvQzr3csd) | [Márcia e a Galera](https://open.spotify.com/artist/2LKq7PNAkYMWnDNhg23XNP) | [Noites na Lapa](https://open.spotify.com/album/4KQiYHsiJsZv4LrNq2afKq) | 2:33 | 2025-10-01 | 2026-11-20 |
 | [Nostalgia](https://open.spotify.com/track/0qHJd9jqgclHWGouSXRcOz) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Nostalgia](https://open.spotify.com/album/38o8v1HxQz6vrJd0yPn1Ep) | 3:15 | 2023-12-15 |  |
 | [Nostalgias De Buenos Aires](https://open.spotify.com/track/0VYl6MeDfICsBCiopYfv0a) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Nostalgias De Buenos Aires](https://open.spotify.com/album/6FacXnHauYiGZk85L6R0LU) | 3:17 | 2023-12-15 |  |
 | [Nueve Meses](https://open.spotify.com/track/4zBSRp31EokfMNXqzjTQCs) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Tierra Nordica](https://open.spotify.com/album/3beGa7ny7BngU8gyFdwsty) | 3:03 | 2023-12-15 | 2025-02-25 |

@@ -2345,6 +2345,28 @@
     },
     {
       "album": {
+        "name": "La Novedad",
+        "url": "https://open.spotify.com/album/655zzucpnGOJfBgO8bxU57"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209157,
+      "name": "La Novedad",
+      "url": "https://open.spotify.com/track/7eYwzBlQ9vAiboYVg7fk5Q"
+    },
+    {
+      "album": {
         "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
       },
@@ -3428,7 +3450,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149952,
       "name": "Ya No Puedo Con Esto",
       "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"

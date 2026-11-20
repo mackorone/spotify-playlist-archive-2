@@ -3572,7 +3572,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 264312,
       "name": "A\u015fk\u0131n Beni Ba\u015ftan Yazar - A.B.B.Y.",
       "url": "https://open.spotify.com/track/7FlPrQB6Bd8ioCGQDFQBJg"
@@ -4134,7 +4134,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137512,
       "name": "Bana Ne Bu Sevdalardan",
       "url": "https://open.spotify.com/track/5j7ypeN8HkyGKRNjRagPrR"
@@ -11640,7 +11640,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 194253,
       "name": "Garson",
       "url": "https://open.spotify.com/track/2rWiGPqi1ECjYummm6o6hs"
@@ -12028,7 +12028,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169411,
       "name": "Geri Ver",
       "url": "https://open.spotify.com/track/0XZx9qu1r2sUXeoHCqsRiP"
@@ -13490,7 +13490,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216397,
       "name": "Ha Leylim",
       "url": "https://open.spotify.com/track/75WVsYxlIGjuTiCl2roWlQ"
@@ -15874,7 +15874,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 264829,
       "name": "I\u015f\u0131kl\u0131 Yol",
       "url": "https://open.spotify.com/track/2ZM3RY8gGKVMbfXMhx0wCJ"
@@ -26342,7 +26342,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Senden Adam Olmaz",
       "url": "https://open.spotify.com/track/4X9NLFpBdwWWruSSMjkzia"
@@ -26852,6 +26852,24 @@
       "duration_ms": 181019,
       "name": "Sessizim",
       "url": "https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr"
+    },
+    {
+      "album": {
+        "name": "Sevdik Sevdaland\u0131k",
+        "url": "https://open.spotify.com/album/55vdRP9WfBKkwYNE6J3pKh"
+      },
+      "artists": [
+        {
+          "name": "Reyhan Karaca",
+          "url": "https://open.spotify.com/artist/6wNvXCOkxIzJm2Y2kBuuBG"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258906,
+      "name": "Sevdik Sevdaland\u0131k",
+      "url": "https://open.spotify.com/track/5sf3QtTTvilIFH5L7K6Bzl"
     },
     {
       "album": {

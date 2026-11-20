@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,573 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,555 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 16 | [Forever Held](https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Forever Held](https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58) | 2:38 |
 | 17 | [Home Station \(DJ\-Kicks Version\)](https://open.spotify.com/track/77795B8ZW6IwEFX3tlFWEQ) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [DJ\-Kicks: Sofia Kourtesis](https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj) | 2:29 |
 | 18 | [Built Upon a Path](https://open.spotify.com/track/2aZfAQZ6h2NATlmygYEfEh) | [Fionnlagh](https://open.spotify.com/artist/5EG6Uwsagvsrl6ukTGuqeh) | [To Understand The Why](https://open.spotify.com/album/6x2lvuSvHLtdYOxjBxg9Q7) | 2:12 |
-| 19 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
-| 20 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 |
+| 19 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 |
+| 20 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
 | 21 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
 | 22 | [Always](https://open.spotify.com/track/4iqiJmtxOhvPKVo6cEPdVQ) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Always](https://open.spotify.com/album/0g7cGfIUANYS5YNFUfoQei) | 3:36 |
 | 23 | [Chaos in Calm](https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Chaos in Calm](https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam) | 4:44 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 44 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 45 | [Sorrow Stutter](https://open.spotify.com/track/0HL6bNzpulo1DRLmPGG6uV) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Sorrow Stutter](https://open.spotify.com/album/39RPb0ePvso317NSsRmoNX) | 2:50 |
 | 46 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 |
-| 47 | [Shame](https://open.spotify.com/track/1Ctb0GZJFcbwGXbv6ePfs0) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Shame](https://open.spotify.com/album/5SUIciAcALfKhj6ip5Kg73) | 4:37 |
-| 48 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
+| 47 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
+| 48 | [Shame](https://open.spotify.com/track/1Ctb0GZJFcbwGXbv6ePfs0) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Shame](https://open.spotify.com/album/5SUIciAcALfKhj6ip5Kg73) | 4:37 |
 | 49 | [Cloud Nine](https://open.spotify.com/track/4YUYErWWA2fRJOFwYUThBX) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Cloud Nine](https://open.spotify.com/album/4ZEj9V2IDWZUyESpDlraBg) | 3:12 |
 | 50 | [One Last Time](https://open.spotify.com/track/4Oz7IIaDnrNXpzNWWSNt6W) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [One Last Time](https://open.spotify.com/album/55A6vOF7lOl0RghquUwmh2) | 3:51 |
 
-Snapshot ID: `AAAAANtf25K7fV/+K4pJRLVX7jeBPCKN`
+Snapshot ID: `AAAAALwMiGpxwjszlZkUlmG/1pv1jnJe`

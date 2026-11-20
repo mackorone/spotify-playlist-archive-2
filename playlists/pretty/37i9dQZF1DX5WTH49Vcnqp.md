@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define, but easy to love\. Cover: Middle Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,283 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,223 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Roses](https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Roses](https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF) | 3:28 |
 | 75 | [Product of Profit \(P.O.P\)](https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Product of Profit \(P.O.P\)](https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C) | 3:29 |
 
-Snapshot ID: `AAAAANzDFFCfWGnkO3tnuu8awMHy4sFF`
+Snapshot ID: `AAAAAPn5dez/XiQhMGts2gtyeSUxZ6nS`

@@ -4,7 +4,7 @@
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-317 songs - 20 hr 1 min
+318 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Bye Bye \(Feat\. LEE MU JIN\)](https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bye Bye](https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn) | 4:28 | 2025-10-14 |  |
 | [Can't Get Over You](https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Queen of Tears \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd) | 4:05 | 2024-05-09 |  |
 | [Change](https://open.spotify.com/track/1xVUu2AbjTJTEvQI2rpEpp) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Change](https://open.spotify.com/album/01SstNr2NESSMRU11yvCpQ) | 4:24 | 2025-10-20 | 2025-11-11 |
-| [Close your eyes](https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Close your eyes](https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr) | 5:38 | 2025-09-08 |  |
+| [Close your eyes](https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Close your eyes](https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr) | 5:38 | 2025-09-08 | 2026-11-20 |
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2024-02-21 | 2026-03-14 |
 | [Countdown to Three like a Habit](https://open.spotify.com/track/6EbVa7DkMT0Uy7zs3Hj9lQ) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Countdown to Three like a Habit : Wish+ Ep\. 02](https://open.spotify.com/album/1b0vlTAlYnDzKYDPPKxyt5) | 5:48 | 2026-02-05 | 2026-02-14 |
 | [Couple](https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Couple \- Special Single](https://open.spotify.com/album/5w9TtiYrHhiJsfVDrE5vWx) | 3:36 | 2025-04-03 | 2025-04-17 |
@@ -240,6 +240,7 @@
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2023-11-03 | 2025-09-30 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-11-03 |  |
 | [Snow Flower](https://open.spotify.com/track/300rehwJvy60882jzmAOXZ) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Snow Flower \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/4g4ICsj6Xa7FnE5KNx2bUU) | 4:55 | 2025-08-19 | 2025-09-09 |
+| [So you](https://open.spotify.com/track/3keXyvu1hnN63Lw8bUN3lh) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [So you \(DK\(DECEMBER\) X Busking Traveler\)](https://open.spotify.com/album/1gVTjwHau79QdOgEjp1z8M) | 4:26 | 2026-09-22 |  |
 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 | 2023-11-03 |  |
 | [Someday, The Man](https://open.spotify.com/track/2ebbekzBESFE6wWBA96Gbw) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Someday, The Man](https://open.spotify.com/album/6NUSyUkZIVMJUql3xBowqD) | 3:55 | 2025-07-03 | 2025-07-17 |
 | [Spring Breeze, Again](https://open.spotify.com/track/5Kbuqu5de3JY22BLNJBLco) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [Spring Breeze, Again \(Original Soundtrack from WANNA ONE GO : Back to Base\)](https://open.spotify.com/album/0K5oVVrkQKMOm5NhM8fwNg) | 3:38 | 2026-05-21 |  |

@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Wheel",
+        "url": "https://open.spotify.com/album/1C6Aj4KUtw0DjICsm4bVpr"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254346,
+      "name": "Wheel",
+      "url": "https://open.spotify.com/track/27acAqEh3ELyZzJSh0RWd3"
+    },
+    {
+      "album": {
         "name": "12th House Rock",
         "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
       },

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/1jL4wE4yo5VEGKprQoxU1T"
+      },
+      "artists": [
+        {
+          "name": "Cellmate",
+          "url": "https://open.spotify.com/artist/22c8EdbIEKIBTAcZzoaTOK"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "1988",
+      "url": "https://open.spotify.com/track/53pPNgSBI8cZdTOvUWJtCK"
+    },
+    {
+      "album": {
         "name": "2. Acuario (V.3)",
         "url": "https://open.spotify.com/album/6FrSTnXqr6b8jqr5lSeZMH"
       },
@@ -290,6 +308,24 @@
       "duration_ms": 229973,
       "name": "27",
       "url": "https://open.spotify.com/track/6B8KXfNXvHHjFIIWMkOx0c"
+    },
+    {
+      "album": {
+        "name": "RESPIRI",
+        "url": "https://open.spotify.com/album/3s7JweLNtfInszqQMX6oym"
+      },
+      "artists": [
+        {
+          "name": "(FLAME)",
+          "url": "https://open.spotify.com/artist/2rl6QLXne8YdYw2tUZTksS"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219635,
+      "name": "27 Luglio",
+      "url": "https://open.spotify.com/track/7K0FoVVI3y0rlyL0OL9YfZ"
     },
     {
       "album": {
@@ -434,6 +470,24 @@
       "duration_ms": 169217,
       "name": "6 speed",
       "url": "https://open.spotify.com/track/2CpBDi31Xtn8grUQM6a8WX"
+    },
+    {
+      "album": {
+        "name": "7 Deep",
+        "url": "https://open.spotify.com/album/0KvMt6mHgphm5ctboPW0Kv"
+      },
+      "artists": [
+        {
+          "name": "[SALT]",
+          "url": "https://open.spotify.com/artist/5NlUjgQJXhtrOspV4Nurgk"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182458,
+      "name": "7 Deep",
+      "url": "https://open.spotify.com/track/6S9cfWVNtjxiI3uzOJkSm7"
     },
     {
       "album": {
@@ -816,6 +870,24 @@
       "duration_ms": 259307,
       "name": "About the stories",
       "url": "https://open.spotify.com/track/6odSngLSbKSSjqaMqcBqLJ"
+    },
+    {
+      "album": {
+        "name": "Absence Of Ligth",
+        "url": "https://open.spotify.com/album/4WvG9o8m5nNFxeINLZ9Ijo"
+      },
+      "artists": [
+        {
+          "name": "RULE OF TWO",
+          "url": "https://open.spotify.com/artist/3AwfRAzk2JeC9w5xyTGawX"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242993,
+      "name": "Absence Of Ligth",
+      "url": "https://open.spotify.com/track/59y49qm2IHGDhTYyQrOrLq"
     },
     {
       "album": {
@@ -3237,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "THE B EP",
+        "url": "https://open.spotify.com/album/42jBBOtMEX0X6RC9I9rjqU"
+      },
+      "artists": [
+        {
+          "name": "Sigh Die",
+          "url": "https://open.spotify.com/artist/30rLq1ECmrvJqHT8YA86EO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230672,
+      "name": "Bad Memory",
+      "url": "https://open.spotify.com/track/1YmbHX3XirSkhRG1LcV40N"
+    },
+    {
+      "album": {
         "name": "Bad Moon Rising (Suburban Sessions)",
         "url": "https://open.spotify.com/album/0VVeJeNzRfABK9I842dej4"
       },
@@ -5518,7 +5608,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 256321,
       "name": "Boogeyman",
       "url": "https://open.spotify.com/track/0JuL10tjoBIUJrpzqQZOdp"
@@ -6214,6 +6304,24 @@
       "duration_ms": 158186,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5WrqcmXgwMUFipbbAEnoV6"
+    },
+    {
+      "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/4IdEQQjjitFnheSYdKfsuC"
+      },
+      "artists": [
+        {
+          "name": "Wolves&Wolves&Wolves&Wolves",
+          "url": "https://open.spotify.com/artist/4WwJ1QzAD067QnhLJdBrHU"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231022,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/1TgECOpDv2qTVt0x5pobIa"
     },
     {
       "album": {
@@ -9123,6 +9231,24 @@
     },
     {
       "album": {
+        "name": "Songs nobody asked for",
+        "url": "https://open.spotify.com/album/2q5ggBkB7GlKf6CzmsdrPO"
+      },
+      "artists": [
+        {
+          "name": "KISSING CONCRETE",
+          "url": "https://open.spotify.com/artist/3p8IvizUfUh1kPWLNeiec0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180968,
+      "name": "Content",
+      "url": "https://open.spotify.com/track/12Q4p5rIXKB896e1xxf9PR"
+    },
+    {
+      "album": {
         "name": "Burning The Horizon",
         "url": "https://open.spotify.com/album/2I1Eks5EGGvz6MRcQVWC6P"
       },
@@ -10098,6 +10224,24 @@
       "duration_ms": 222119,
       "name": "Dad Was Right",
       "url": "https://open.spotify.com/track/5l0sDmT6mdbofraPiYVaX6"
+    },
+    {
+      "album": {
+        "name": "Damned If She Breathes",
+        "url": "https://open.spotify.com/album/1df8rqXMozOoJ3gvkXxRQe"
+      },
+      "artists": [
+        {
+          "name": "Wolves&Wolves&Wolves&Wolves",
+          "url": "https://open.spotify.com/artist/4WwJ1QzAD067QnhLJdBrHU"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171462,
+      "name": "Damned If She Breathes",
+      "url": "https://open.spotify.com/track/0tjKD2jhHOUh5Ddvk6OQbb"
     },
     {
       "album": {
@@ -12628,7 +12772,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 187888,
       "name": "Downhill Slide",
       "url": "https://open.spotify.com/track/52ectNlcsqX9cdnrJlVNkh"
@@ -16180,6 +16324,24 @@
       "duration_ms": 210674,
       "name": "Fracture",
       "url": "https://open.spotify.com/track/4CxFMimE4iwPRUEQ7ztfJg"
+    },
+    {
+      "album": {
+        "name": "FRACTURE",
+        "url": "https://open.spotify.com/album/7JDFCuoGZg0NDNSdlR5UL7"
+      },
+      "artists": [
+        {
+          "name": "UMATT",
+          "url": "https://open.spotify.com/artist/0ancplgxUSWaU53qF4kbFU"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189140,
+      "name": "FRACTURE",
+      "url": "https://open.spotify.com/track/0DJNvMXd6ZWyH88akqiuHQ"
     },
     {
       "album": {
@@ -20083,6 +20245,24 @@
     },
     {
       "album": {
+        "name": ".intent",
+        "url": "https://open.spotify.com/album/4IDG99DYFYyedKTMDrt5LP"
+      },
+      "artists": [
+        {
+          "name": "Without Guile",
+          "url": "https://open.spotify.com/artist/7sLCHI0TrSc1yeYUYPPT9P"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244997,
+      "name": "HOLLOW CYLINDER",
+      "url": "https://open.spotify.com/track/5edwow1sFprRGpiTQveon1"
+    },
+    {
+      "album": {
         "name": "Hollow Sun",
         "url": "https://open.spotify.com/album/1LnVYOaVOONBK3Cl8wCs5n"
       },
@@ -23467,6 +23647,24 @@
     },
     {
       "album": {
+        "name": "Jolly Ass",
+        "url": "https://open.spotify.com/album/6rBlEi7cejTZveTqWlFIgg"
+      },
+      "artists": [
+        {
+          "name": "The Jailbirds",
+          "url": "https://open.spotify.com/artist/12NvxU41SCwrQ6CChINVGY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242119,
+      "name": "Jolly Ass",
+      "url": "https://open.spotify.com/track/6VXEPcZEp3FbpZeYzcjtjD"
+    },
+    {
+      "album": {
         "name": "Judas Lips",
         "url": "https://open.spotify.com/album/5oC2TeGMtyH0mLXLeYngUQ"
       },
@@ -24000,7 +24198,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192154,
       "name": "Kill the Machines",
       "url": "https://open.spotify.com/track/0b8bEkKczQ6axVUwjLlWVJ"
@@ -24976,7 +25174,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190909,
       "name": "LIAR",
       "url": "https://open.spotify.com/track/3WI8Q5gwGGvtDj1U0tok0b"
@@ -26878,7 +27076,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173590,
       "name": "MALICE",
       "url": "https://open.spotify.com/track/7tjRu3UNxp7p427qc8tnch"
@@ -27726,7 +27924,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214733,
       "name": "Metal Egg",
       "url": "https://open.spotify.com/track/7K6QNuLpHI7JQeLFFE1cko"
@@ -30659,6 +30857,24 @@
     },
     {
       "album": {
+        "name": "Not Thinking About Tomorrow",
+        "url": "https://open.spotify.com/album/7kBTPdSzYbzEInsenNoQbg"
+      },
+      "artists": [
+        {
+          "name": "Archi Deep",
+          "url": "https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178139,
+      "name": "Not Thinking About Tomorrow",
+      "url": "https://open.spotify.com/track/1XBRpBFJlMxW3FiPpoTwVK"
+    },
+    {
+      "album": {
         "name": "Loud Against The World",
         "url": "https://open.spotify.com/album/3uzL7YzJjEsSZyvFCX3HWf"
       },
@@ -30692,6 +30908,24 @@
       "duration_ms": 152418,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/1ldlVDxNRGQwL0RNqq2vx4"
+    },
+    {
+      "album": {
+        "name": "Some Folks Are Getting Way Too Comfortable",
+        "url": "https://open.spotify.com/album/618JByJRbtzF4AqVKKfOk6"
+      },
+      "artists": [
+        {
+          "name": "NOTHING WORKS",
+          "url": "https://open.spotify.com/artist/1gYycpeQDRB8gqsbMPzzvA"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Not up for Grabs",
+      "url": "https://open.spotify.com/track/6aSo76lr6l9l91oGNVGw0c"
     },
     {
       "album": {
@@ -30764,6 +30998,24 @@
       "duration_ms": 204889,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/7nsqbGkeTfXU2GqofZ5gMP"
+    },
+    {
+      "album": {
+        "name": "Nothing Hits the Same",
+        "url": "https://open.spotify.com/album/7wHH9ldHu52Ctdre2wWkg1"
+      },
+      "artists": [
+        {
+          "name": "Alexayndra",
+          "url": "https://open.spotify.com/artist/1iSDb8Io4Y7LnIiUdpmvgj"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225854,
+      "name": "Nothing Hits the Same",
+      "url": "https://open.spotify.com/track/2gXlXZ4zBc2LMcBeOBfts7"
     },
     {
       "album": {
@@ -31488,7 +31740,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156291,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/4oNdcKZFwIQ54GDHSym583"
@@ -32927,6 +33179,24 @@
     },
     {
       "album": {
+        "name": "Per restare qui",
+        "url": "https://open.spotify.com/album/3V5dw2zcIOryxrIt8pEkVm"
+      },
+      "artists": [
+        {
+          "name": "GRACE",
+          "url": "https://open.spotify.com/artist/7lVBFMMq10DJHa4rE3Wrai"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202059,
+      "name": "Per restare qui",
+      "url": "https://open.spotify.com/track/75M25E7g4ANiBevbz2FADd"
+    },
+    {
+      "album": {
         "name": "Perdu dans for\u00eat",
         "url": "https://open.spotify.com/album/2Nv9ZI0Qwq0MUbwmvfZqRf"
       },
@@ -33342,7 +33612,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 130024,
       "name": "piss-take",
       "url": "https://open.spotify.com/track/0AhLRW5YkbeQo2TBX8c7pc"
@@ -35177,6 +35447,24 @@
     },
     {
       "album": {
+        "name": "Red Flagg",
+        "url": "https://open.spotify.com/album/3xCiNGa14bZjFztGYAUhO8"
+      },
+      "artists": [
+        {
+          "name": "Hotel Satellite",
+          "url": "https://open.spotify.com/artist/0hgtjggQ2E63W9UMRm4KQl"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152661,
+      "name": "Red Flagg",
+      "url": "https://open.spotify.com/track/1KF49XM6vRZdqos43gdTp9"
+    },
+    {
+      "album": {
         "name": "Red Light, Danger!",
         "url": "https://open.spotify.com/album/29CA8Ld2mCKoeazUqbdCOO"
       },
@@ -36400,7 +36688,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 250000,
       "name": "Running After Your Own Shadow",
       "url": "https://open.spotify.com/track/3XXg2pZitSaebsPftNl1kp"
@@ -36656,7 +36944,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192750,
       "name": "Same Old Round",
       "url": "https://open.spotify.com/track/2ruov7EC34a6INxGd8neeJ"
@@ -41014,7 +41302,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 222896,
       "name": "Straitjacket Runaway",
       "url": "https://open.spotify.com/track/50ITvByrLfsjGspXWjd3mT"
@@ -43016,7 +43304,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 245647,
       "name": "The Best I Ever Had",
       "url": "https://open.spotify.com/track/4kN0Ubypez9j3PwRsigim4"
@@ -43362,6 +43650,24 @@
       "duration_ms": 346002,
       "name": "The Demise of Susan Wiley",
       "url": "https://open.spotify.com/track/1IzsNekpfYkF6IRElYcGdp"
+    },
+    {
+      "album": {
+        "name": "The Devil You Know",
+        "url": "https://open.spotify.com/album/0QDvjFafmNXp6tZtC3jYHa"
+      },
+      "artists": [
+        {
+          "name": "Suburban Yellow",
+          "url": "https://open.spotify.com/artist/5ZxdmAtGLRUFaXchPhDNqy"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "The Devil You Know",
+      "url": "https://open.spotify.com/track/3FaqpZtM6NeUE9Is7DiOk7"
     },
     {
       "album": {
@@ -44646,7 +44952,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175058,
       "name": "The Shameless Swoon",
       "url": "https://open.spotify.com/track/5Zao4kFQ53N1gOgOv1tz3v"

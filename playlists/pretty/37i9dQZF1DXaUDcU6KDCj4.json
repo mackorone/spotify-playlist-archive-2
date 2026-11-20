@@ -1,13 +1,185 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Hans Williams",
-  "num_followers": 886139,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Devon Gilfillian & Allison Russell",
+  "num_followers": 886182,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGzmcU7mYGmGBl/nmHbVybfsJu0I",
+  "snapshot_id": "AAAAALFwWeDlffoN0MZb7nt60jCN4TAd",
   "tracks": [
+    {
+      "added_at": "2026-11-20 05:01:41",
+      "album": {
+        "name": "Glad To Be Here (Feat. Allison Russell)",
+        "url": "https://open.spotify.com/album/37PYAfwRqZZyRToBahIXFn"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 302301,
+      "name": "Glad To Be Here (Feat. Allison Russell)",
+      "url": "https://open.spotify.com/track/4fJbPQoZlW04aw9r2wCP2H"
+    },
+    {
+      "added_at": "2026-11-20 05:01:41",
+      "album": {
+        "name": "Bad Throw, Good Catch",
+        "url": "https://open.spotify.com/album/70fJvZsO9wMxqcHzhgzVBX"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "duration_ms": 215639,
+      "name": "River Of Dust",
+      "url": "https://open.spotify.com/track/6XkDXZgP5X44aTnlqpZc7h"
+    },
+    {
+      "added_at": "2026-11-20 05:01:41",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/6R1HT6dVZC8FhJJzcVAecR"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 96273,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/40vSSsueyIgxyVe8tXWFIU"
+    },
+    {
+      "added_at": "2026-11-20 05:01:41",
+      "album": {
+        "name": "Buckertoo",
+        "url": "https://open.spotify.com/album/1if6mvQ7IiVnIzbs1O2Twq"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Buckertoo",
+      "url": "https://open.spotify.com/track/4OtNxzxGnR3mZ6YfBGVogh"
+    },
+    {
+      "added_at": "2026-11-20 05:01:41",
+      "album": {
+        "name": "Central Time",
+        "url": "https://open.spotify.com/album/4yPG08F6kFGuQre28RBwdr"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 217108,
+      "name": "Central Time",
+      "url": "https://open.spotify.com/track/6DQQPSnchh7uoVV4rEJ8OW"
+    },
+    {
+      "added_at": "2026-11-20 05:01:41",
+      "album": {
+        "name": "Laurel Canyon Blvd",
+        "url": "https://open.spotify.com/album/0FqntfX17Yf95YxMwuskUZ"
+      },
+      "artists": [
+        {
+          "name": "Raye Zaragoza",
+          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
+        },
+        {
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Laurel Canyon Blvd",
+      "url": "https://open.spotify.com/track/4lKW4H0UMPXJgB6T5MOtUO"
+    },
+    {
+      "added_at": "2026-11-20 05:01:41",
+      "album": {
+        "name": "Searrach",
+        "url": "https://open.spotify.com/album/3Ne9RmiFRQ8Lbnm26sFIi7"
+      },
+      "artists": [
+        {
+          "name": "Madra Salach",
+          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
+        }
+      ],
+      "duration_ms": 299785,
+      "name": "Searrach",
+      "url": "https://open.spotify.com/track/5hTTecgllzDt918G76baiq"
+    },
+    {
+      "added_at": "2026-11-20 05:01:41",
+      "album": {
+        "name": "Demoed",
+        "url": "https://open.spotify.com/album/1sNR4NnGU9qCK1rVdGk2lh"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        },
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "duration_ms": 288773,
+      "name": "The New World Wave - Lauren Auder Version",
+      "url": "https://open.spotify.com/track/3xRVinNVyTSuaL5fbNRkhT"
+    },
+    {
+      "added_at": "2026-11-20 05:01:41",
+      "album": {
+        "name": "Woodacre",
+        "url": "https://open.spotify.com/album/6aArg0ixFhnRTIuX1OlhMm"
+      },
+      "artists": [
+        {
+          "name": "Rose Paradise",
+          "url": "https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv"
+        }
+      ],
+      "duration_ms": 263750,
+      "name": "Make It Through The Day",
+      "url": "https://open.spotify.com/track/3XMwWnozAnnHIENIsR4PfW"
+    },
+    {
+      "added_at": "2026-11-20 05:01:41",
+      "album": {
+        "name": "I'm Up",
+        "url": "https://open.spotify.com/album/1UrYn9pkk9I5aswrazXvRW"
+      },
+      "artists": [
+        {
+          "name": "Awning",
+          "url": "https://open.spotify.com/artist/0ySs34NhoHIwOa0LZymJDK"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "I'm Up",
+      "url": "https://open.spotify.com/track/5LiFNuv9h3iNnQp5nRNYZZ"
+    },
     {
       "added_at": "2026-11-13 05:01:31",
       "album": {
@@ -2703,262 +2875,6 @@
       "duration_ms": 232421,
       "name": "Josefine",
       "url": "https://open.spotify.com/track/605aCrKqtIRcpsW04ULHiZ"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
-        "name": "Best Day of Your Life",
-        "url": "https://open.spotify.com/album/1l4VjTJgODdprYzKaUvsfx"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 229013,
-      "name": "Best Day of Your Life",
-      "url": "https://open.spotify.com/track/6JiStBvQzXMieACGLGanhp"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
-        "name": "Ode to Hum (I want it to rise)",
-        "url": "https://open.spotify.com/album/7lMQjGi2k4FnwIFLV7OjG8"
-      },
-      "artists": [
-        {
-          "name": "Superfan",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        }
-      ],
-      "duration_ms": 197408,
-      "name": "Ode to Hum (I want it to rise)",
-      "url": "https://open.spotify.com/track/7hpt8CHVqWOXXMDYsvdiSL"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
-        "name": "feral heart",
-        "url": "https://open.spotify.com/album/7G8UGE0tLWr96toFCvlPjo"
-      },
-      "artists": [
-        {
-          "name": "Ha Vay",
-          "url": "https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt"
-        }
-      ],
-      "duration_ms": 197660,
-      "name": "feral heart",
-      "url": "https://open.spotify.com/track/20z8yDLhoR9Q8TbeH14x6x"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
-        "name": "Slow Fire",
-        "url": "https://open.spotify.com/album/2VLdVCo0DwPH6IMrYYX3Ft"
-      },
-      "artists": [
-        {
-          "name": "Sean McConnell",
-          "url": "https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC"
-        }
-      ],
-      "duration_ms": 228948,
-      "name": "Slow Fire",
-      "url": "https://open.spotify.com/track/3o1qlbxthIlkTCrg8ynLzo"
-    },
-    {
-      "added_at": "2026-09-25 04:01:47",
-      "album": {
-        "name": "Fawn's Enemy",
-        "url": "https://open.spotify.com/album/2db9UNkxnqIRfOnSuIfLUM"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 169012,
-      "name": "\u2605\u2605\u2605",
-      "url": "https://open.spotify.com/track/6WtkJm1tr6vSoETPzTTULP"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Fools for the Fleeting",
-        "url": "https://open.spotify.com/album/6mefUGVpBqgVT5TZ40svKN"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 294488,
-      "name": "Fools for the Fleeting",
-      "url": "https://open.spotify.com/track/1QIf2cf9Nn3u2Zn1NoYTky"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "i think i had something once",
-        "url": "https://open.spotify.com/album/2DuPrN4ZNbie1EmjJErImG"
-      },
-      "artists": [
-        {
-          "name": "Aubory Bugg",
-          "url": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U"
-        }
-      ],
-      "duration_ms": 173808,
-      "name": "just embers now",
-      "url": "https://open.spotify.com/track/5odEnVcWzR91r5h0ww62GF"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Ride Lonesome",
-        "url": "https://open.spotify.com/album/6gP36h0Cv8vTiBmdbHO3qI"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 219029,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/4djHuoHnH3bEKf5tbviToI"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 305875,
-      "name": "Over country",
-      "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Normal Heights",
-        "url": "https://open.spotify.com/album/365X1dJqI1hwqdm6rqI0UY"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 248036,
-      "name": "Greatest Love",
-      "url": "https://open.spotify.com/track/0Mt98T6pBxQ5MVaLNuQVTW"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Always The Same",
-        "url": "https://open.spotify.com/album/0UQd6myReEV9LZ5NcT1lJW"
-      },
-      "artists": [
-        {
-          "name": "Ruby Plume",
-          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Always The Same",
-      "url": "https://open.spotify.com/track/5RZomQGckBcXSH8lsKBhqD"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "The Late Show",
-        "url": "https://open.spotify.com/album/5B8dcN7FeNf1050hUs28gM"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "The Late Show",
-      "url": "https://open.spotify.com/track/2lDIKBnTJJWB66Hn0aouHG"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/52zKv7RC0Kjx5NpP2gNBGN"
-      },
-      "artists": [
-        {
-          "name": "rakey",
-          "url": "https://open.spotify.com/artist/2MHVHW2D8Xzn8jQKOMFx4p"
-        }
-      ],
-      "duration_ms": 222053,
-      "name": "Seeds",
-      "url": "https://open.spotify.com/track/23iaNctslvllPw0lve3egs"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "Universe Awaiting EP",
-        "url": "https://open.spotify.com/album/6PpbsztD3IG5xV4dGyrFVt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Universe Awaiting",
-      "url": "https://open.spotify.com/track/0X8aiGfHrN5cfIg67jdgh6"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "modern age",
-        "url": "https://open.spotify.com/album/0dvmUfEi9sGQLe3IqH1qcM"
-      },
-      "artists": [
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 124928,
-      "name": "modern age",
-      "url": "https://open.spotify.com/track/3tHE9MegiMFMlkLIi5kD5B"
-    },
-    {
-      "added_at": "2026-09-18 05:00:45",
-      "album": {
-        "name": "PBJ",
-        "url": "https://open.spotify.com/album/0ZFeUkEKirJu4p0HpUEsXt"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 203136,
-      "name": "PBJ",
-      "url": "https://open.spotify.com/track/5rjtzSA5VBWg7zmuOGg5Dz"
     }
   ],
   "unique_name": "Fresh Folk",

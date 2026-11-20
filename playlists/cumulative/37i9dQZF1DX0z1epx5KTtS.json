@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Dydy Yeman",
+  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Shado Chris ",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "BOULER",
+        "url": "https://open.spotify.com/album/61YV66IXOaMUnlhoTxx15D"
+      },
+      "artists": [
+        {
+          "name": "Dydy Yeman",
+          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "BOULER",
+      "url": "https://open.spotify.com/track/5TXQdQ1GqzgVcJ9AcRwWX6"
+    },
+    {
+      "album": {
         "name": "Kedjevaratitude (Deluxe)",
         "url": "https://open.spotify.com/album/3zg7GD5ljii4Dxrde910mH"
       },
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160000,
       "name": "C'est Gnimo",
       "url": "https://open.spotify.com/track/0C4a0cnFflwKChIX9KJnDX"
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 162631,
       "name": "Ils ont peur",
       "url": "https://open.spotify.com/track/1PN42kfV8J4ZbIhccMQZFI"
@@ -4681,6 +4699,28 @@
     },
     {
       "album": {
+        "name": "OMPUP",
+        "url": "https://open.spotify.com/album/7tEDFdqTJTVI1fZi9x54rM"
+      },
+      "artists": [
+        {
+          "name": "Shado Chris",
+          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205388,
+      "name": "OMPUP",
+      "url": "https://open.spotify.com/track/4hpJebPFK6wogLTC4MzJQT"
+    },
+    {
+      "album": {
         "name": "On a pris balle",
         "url": "https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo"
       },
@@ -5476,7 +5516,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 74697,
       "name": "senvolement",
       "url": "https://open.spotify.com/track/2LL3bN6fchZxhE3axSyGjn"
@@ -5742,6 +5782,36 @@
       "duration_ms": 151973,
       "name": "Taper Dedans",
       "url": "https://open.spotify.com/track/0WAFqSYnTHOyOeIGPMK8vI"
+    },
+    {
+      "album": {
+        "name": "TAPER LES PIEDS",
+        "url": "https://open.spotify.com/album/15dg1FXD5FeDqLyrE0Bj2V"
+      },
+      "artists": [
+        {
+          "name": "LA R\u00c9ALIT\u00c9",
+          "url": "https://open.spotify.com/artist/2zdpz5AEvBe5PGTFqkLhE2"
+        },
+        {
+          "name": "Zagba Le Requin",
+          "url": "https://open.spotify.com/artist/6hR5Mj1oe4yE7JOZsTFwvn"
+        },
+        {
+          "name": "Doupi Papillon",
+          "url": "https://open.spotify.com/artist/4oBgTIQASlIZHyKNkXZWoO"
+        },
+        {
+          "name": "Bigyne wiz",
+          "url": "https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210375,
+      "name": "TAPER LES PIEDS",
+      "url": "https://open.spotify.com/track/45ZUiFLGIZdGiK9dgg4mEs"
     },
     {
       "album": {

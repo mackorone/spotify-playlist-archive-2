@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "pop that *hits different* featuring lennon stella",
+  "description": "pop that *hits different* featuring redd.",
   "name": "*hits different*",
   "tracks": [
     {
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 177201,
       "name": "Blind Lovin'",
       "url": "https://open.spotify.com/track/2VNWAAT6IXcZnKjNmOPnF9"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169777,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3PWg6GStnYKrY3cUjnuqxE"
@@ -6122,7 +6122,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 212777,
       "name": "Hunting",
       "url": "https://open.spotify.com/track/6defcp1X7hdRQWtFT9HxWP"
@@ -6212,7 +6212,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213537,
       "name": "I Do",
       "url": "https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX"
@@ -6566,7 +6566,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198062,
       "name": "I've Loved And I've Lost",
       "url": "https://open.spotify.com/track/4NHk4jvrsiaaaMHXnc6qJh"
@@ -8842,7 +8842,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 165676,
       "name": "Next Summer",
       "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
@@ -9066,7 +9066,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 190213,
       "name": "Notting Hill",
       "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
@@ -10805,6 +10805,24 @@
     },
     {
       "album": {
+        "name": "Allergy Season",
+        "url": "https://open.spotify.com/album/2TiziAGDMsWjHvWMDRFwUp"
+      },
+      "artists": [
+        {
+          "name": "Charli Lucas",
+          "url": "https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134009,
+      "name": "Skin Deep",
+      "url": "https://open.spotify.com/track/6Kuz2iYBRLZMRFzMeXtT0m"
+    },
+    {
+      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -11716,6 +11734,24 @@
       "duration_ms": 170322,
       "name": "Sue me",
       "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
+    },
+    {
+      "album": {
+        "name": "heaven's here",
+        "url": "https://open.spotify.com/album/4U2vQfXUm8FcYGDu3obM3J"
+      },
+      "artists": [
+        {
+          "name": "REDD.",
+          "url": "https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143920,
+      "name": "sugar high",
+      "url": "https://open.spotify.com/track/50umPO4k9RqiTu0w7MCoii"
     },
     {
       "album": {
@@ -13276,7 +13312,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 211007,
       "name": "Tonsil Hockey",
       "url": "https://open.spotify.com/track/3dl0Z828s3eM5IdIDQJDs1"
@@ -13540,7 +13576,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 209258,
       "name": "Twiggy",
       "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
@@ -14656,6 +14692,24 @@
       "duration_ms": 183761,
       "name": "X's",
       "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
+    },
+    {
+      "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/6lcmqmRxudAKcMLdMEg1Oj"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239072,
+      "name": "Year Of The Snake",
+      "url": "https://open.spotify.com/track/0YLdCs1jfvDhJFe9cw9eNJ"
     },
     {
       "album": {

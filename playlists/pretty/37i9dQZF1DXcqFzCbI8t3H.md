@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqFzCbI8t3H.md) - [plain]
 
 > Enter at your own risk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 690 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 689 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAABto0vP3Cz+Reihas1SN7AwY6maN`
+Snapshot ID: `AAAAAHLP/B1Tcles0uMyU0Va57lfS1Db`

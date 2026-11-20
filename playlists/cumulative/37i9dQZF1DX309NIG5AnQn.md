@@ -2,9 +2,9 @@
 
 ### [alt/rock](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo y sudamericano\. <br/>📷 No Me Toques
+> rock alternativo y sudamericano\. <br/>📷 Riel
 
-429 songs - 1 day 0 hr 19 min
+435 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 | 2025-11-21 |
 | [Apariciones](https://open.spotify.com/track/7mHRDRmmGVsiS0DXtdeqPm) | [Delfines Entrenados Para Matar](https://open.spotify.com/artist/1d9D6Kk5cwMT0J3x2jrmqa) | [Asuntos Internos](https://open.spotify.com/album/4tp2NW8BtZqT12rdQ0rXXL) | 3:21 | 2026-09-25 |  |
 | [armadura](https://open.spotify.com/track/5RYuYRuYqBPizDXiUzN9sH) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [relicario](https://open.spotify.com/album/6oBsuyf7oZZxQBmSeizStD) | 2:42 | 2025-10-10 | 2026-04-04 |
+| [Asocial](https://open.spotify.com/track/1ZJzp7hl8qUmfHJlUsuUjN) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Asocial](https://open.spotify.com/album/6VZOWP1xCNSMPiFN6Www3n) | 3:55 | 2026-11-20 |  |
 | [Astro](https://open.spotify.com/track/3QNSSw8L95xww3RAuirmIf) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get) | [Extrañamente](https://open.spotify.com/album/6I8NDFSZvbbuClrWCfzeIs) | 3:30 | 2026-04-03 |  |
 | [Ataques en mi ciudad](https://open.spotify.com/track/5bPlBlbed488nYF8lWkvvX) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Ataques en mi ciudad](https://open.spotify.com/album/5Uf4QqRyjV8sVwzCGjDAcC) | 2:39 | 2026-04-03 | 2026-09-12 |
 | [Atenta](https://open.spotify.com/track/3GZuixcRRQ7PidTtKxXOPn) | [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Sur](https://open.spotify.com/album/5PHhl2tm9iQVxkjGGOcsAe) | 2:53 | 2024-06-28 | 2024-08-24 |
@@ -130,6 +131,7 @@
 | [DOSMILUNO](https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [LOS VIEJOS CON GUITA](https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso) | 4:04 | 2024-07-12 | 2026-11-13 |
 | [DOSMILUNO](https://open.spotify.com/track/2enGfhz9AAN3i2ixcNv7ay) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [DOSMILUNO](https://open.spotify.com/album/6uoua1Avho6zNGkzBXYQHP) | 4:08 | 2024-07-12 | 2024-07-16 |
 | [Dulces Sueños, y Hasta Siempre !](https://open.spotify.com/track/2cbKcRgL0jBJ2BGIAJyOSX) | [electro reno](https://open.spotify.com/artist/3ch5YUSBJld17z6WfbKVXq), [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Un Pie en la Tumba](https://open.spotify.com/album/6IHjEeDPQX1nBU45c6DLYt) | 1:37 | 2022-03-25 | 2023-03-25 |
+| [E.H.C.](https://open.spotify.com/track/6nJCZWo4Kq1gZDYDLlK9dc) | [POSDATA](https://open.spotify.com/artist/5VkdLRau3ROZ5eb6mmlzBV) | [Lo que Hicimos en el Piso de Abajo](https://open.spotify.com/album/4qXUjxExUsX7cChxIT1PCi) | 5:11 | 2026-11-20 |  |
 | [El Astronauta](https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [El Astronauta](https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR) | 2:44 | 2022-03-25 | 2023-03-25 |
 | [El Buen Fantasma](https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Buen Fantasma](https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA) | 2:59 | 2024-07-19 | 2024-09-28 |
 | [El Canto De Las Ranas](https://open.spotify.com/track/6cGrk0pu2xrhKq10ITS8F6) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [El Canto De Las Ranas](https://open.spotify.com/album/1Dv4i4xkh9X0esjdZMyMvm) | 5:05 | 2022-03-25 | 2023-03-25 |
@@ -229,6 +231,7 @@
 | [Lamebotas](https://open.spotify.com/track/2sEhSjWmRWU0mVuVQUQU7E) | [Pizza](https://open.spotify.com/artist/5mPqQbrTKLRgUPNNVo47Cv) | [Lamebotas](https://open.spotify.com/album/6kQEeTlwXqIMcngWOV0txE) | 3:23 | 2026-08-07 |  |
 | [Las Flores Violentas](https://open.spotify.com/track/1OMzTxGLi5eYtHIe36kGC5) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj) | [Las Flores Violentas](https://open.spotify.com/album/3Pwm5izC0NugLdgi5BLzIJ) | 3:12 | 2022-03-25 | 2023-03-25 |
 | [Las Luces](https://open.spotify.com/track/2eF9ePyLBCM7PBVr71jiNf) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Las Luces](https://open.spotify.com/album/1crf2xeBOgxUp7EBZ8uUTb) | 4:29 | 2026-05-29 |  |
+| [Las Nieves](https://open.spotify.com/track/0liwnBAblIu1qtPg9MzccA) | [Rey Mapache](https://open.spotify.com/artist/1vBAqj7KPZjGGJJzk4nMkN) | [SUPERCANCIONES'26](https://open.spotify.com/album/0O6g8sBhTFl8x4mhiRtLSQ) | 3:29 | 2026-11-20 |  |
 | [LATAS](https://open.spotify.com/track/6CidWSzeGzBIz82eS4sG4m) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [LATAS](https://open.spotify.com/album/3oDPZk5VVbahXJSq0HVhat) | 2:36 | 2023-03-23 | 2024-07-13 |
 | [Le conté a mi psicólogo de vos](https://open.spotify.com/track/0peDKddtxstiRwgEJBRN7o) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [Le conté a mi psicólogo de vos](https://open.spotify.com/album/7CGx8wKrOGJ8wKIe6FF1Mc) | 3:25 | 2025-07-18 | 2026-09-25 |
 | [Liberación](https://open.spotify.com/track/0Qd0MPuE8LLAhgMyS3uJkB) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Liberación](https://open.spotify.com/album/3rWW0AXe5G6JNOOsdcJ2nN) | 3:58 | 2023-12-01 | 2024-11-16 |
@@ -335,6 +338,7 @@
 | [Promesa](https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48) | [Maria Durante](https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx) | [Promesa](https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO) | 3:28 | 2024-03-08 | 2025-05-17 |
 | [Promesas](https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Promesas](https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB) | 4:31 | 2023-10-20 | 2026-04-04 |
 | [Puedo ver el mar en tus ojos](https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Puedo ver el mar en tus ojos](https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF) | 3:01 | 2024-04-05 | 2024-10-04 |
+| [Puerta Sombra](https://open.spotify.com/track/0SDM5xKCG4oxV04dZS6Ewn) | [La Sala](https://open.spotify.com/artist/15UYFl2XERQam0mrzB6wzD), [MEIEN](https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU) | [Los Astros en la Sala](https://open.spotify.com/album/0ZqI4fUutmSHF9uOL0BeHu) | 3:19 | 2026-11-20 |  |
 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 | 2023-03-23 | 2025-10-25 |
 | [PUNKY PLAYERO](https://open.spotify.com/track/27ItPouIzWP5i4bPasTR8N) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [MIXTAPE DE VERANO](https://open.spotify.com/album/0PxeMQT4VFstgaEdpPjRqV) | 1:23 | 2022-03-25 | 2023-03-25 |
 | [Pussy Pancake](https://open.spotify.com/track/0EGe09LoBpYKRXQaoOltXM) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Pussy Pancake](https://open.spotify.com/album/22gi3ijlL33ge8zqEBV6F0) | 2:36 | 2023-08-18 | 2024-08-24 |
@@ -354,6 +358,7 @@
 | [REINADO](https://open.spotify.com/track/1lcZi2t9hCnP3kMcfArLKt) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF) | [UNA MALA IDEA](https://open.spotify.com/album/0as6ZkvROy2ol33etekB4H) | 2:41 | 2026-05-15 | 2026-09-25 |
 | [Revolución](https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132) | [La Memoria de Funes](https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF) | [Revolución](https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr) | 2:17 | 2024-07-12 | 2025-02-07 |
 | [Rompan Todo](https://open.spotify.com/track/5PZUbiba1yYXW8Y0Utb6YY) | [Viuda Federal](https://open.spotify.com/artist/0P66TdA6UAEVqjz6P9xNZl) | [Gloria Morir](https://open.spotify.com/album/3x53N8oPi0pXoq0CCJK8wA) | 3:36 | 2026-07-03 |  |
+| [Ruta](https://open.spotify.com/track/50RlAOUR8cdFy2Eosc24NB) | [Meridiana](https://open.spotify.com/artist/799QyiSVCSNbtVyELl5l4C) | [Meridiana](https://open.spotify.com/album/4hxf3WcwtBMWK15j8J5b97) | 2:58 | 2026-11-20 |  |
 | [Sacrificio](https://open.spotify.com/track/3grE06rMR9yaQyhgEQOOms) | [AFUERA CORREN](https://open.spotify.com/artist/0hF5nXYmYQGNrHpO8kMNO6) | [Afuera Corren](https://open.spotify.com/album/30T4jU0nHLR3dcTAldHmw9) | 3:30 | 2026-10-02 |  |
 | [Sal chivo](https://open.spotify.com/track/4pBjPkFU6AVk4WBdljdMm7) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Sal chivo](https://open.spotify.com/album/6n85JjMfghPhCttGoo9U6p) | 3:21 | 2024-06-06 | 2025-11-21 |
 | [Salida de Emergencia](https://open.spotify.com/track/5MZ51pn76FPDljpmpuThsq) | [Hannie Schaft](https://open.spotify.com/artist/1G29EDYLoQukmfPzWUyGQq) | [Este Es el Lugar](https://open.spotify.com/album/4QbUExGROMkYszcKBVJW1G) | 4:34 | 2026-09-25 |  |
@@ -365,6 +370,7 @@
 | [sata andagi](https://open.spotify.com/track/793Lw9R9SE67lp99dckbPW) | [kurí](https://open.spotify.com/artist/0CIfoxQYMEs4TI8ahjAZc0) | [sata andagi](https://open.spotify.com/album/0Sf38KbrpJTJK38isYhq0Q) | 2:10 | 2026-11-06 |  |
 | [Semáforos](https://open.spotify.com/track/5PygqjBQXQEzmDVKzX9zLB) | [Terrores Nocturnos](https://open.spotify.com/artist/2Wy0l4828SAzHHGK6HEhw6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Gente en la ventana](https://open.spotify.com/album/1n0QvQJB2suA5fO2fLkNTN) | 3:18 | 2026-04-03 |  |
 | [Será](https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Será](https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV) | 3:06 | 2024-03-15 | 2026-04-04 |
+| [Si tenés tiempo, tengo voluntad](https://open.spotify.com/track/7nURmG27tbj7bosWmQuCLJ) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Escenarios Posibles](https://open.spotify.com/album/6Q1x0kQaMT7hUwQNKBtWca) | 3:28 | 2026-11-20 |  |
 | [Siempre Joven](https://open.spotify.com/track/6DeA20NuT8f2HQgTnm6vde) | [El Peligro de los Vientos](https://open.spotify.com/artist/233QcEovKcNYRw1NskNj5r) | [La Sensación](https://open.spotify.com/album/0Aj2XmEa9fcoqydXr9Rrh5) | 2:40 | 2026-09-25 |  |
 | [Siempre Sueño Las Mismas Cosas \- Live](https://open.spotify.com/track/3zlqeC6BLQWBmrdAFmzljW) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC) | [Tobogán Andaluz \(En Vivo\)](https://open.spotify.com/album/4bmoekOLZVQbBignfWsjgb) | 2:57 | 2026-04-03 |  |
 | [Sierra de los Padres](https://open.spotify.com/track/3AYvtJVj9RCAYsmFnzANKr) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [Split](https://open.spotify.com/album/6U9FRsubNk9731WzZM2gLc) | 3:36 | 2023-06-30 | 2026-04-04 |

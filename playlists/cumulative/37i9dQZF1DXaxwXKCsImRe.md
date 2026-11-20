@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:4oMzH6lIWPhCdx7KADXLJZ">Senna</a>
+> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:3z2daXDBOR0uFDF3TB788X">Justen de Wildt</a>
 
-283 songs - 14 hr 59 min
+287 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Butterfly](https://open.spotify.com/track/0BUXcwQFldJNJHNGoPT2Ng) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:09 | 2024-11-07 | 2025-01-10 |
 | [Can't Let Go](https://open.spotify.com/track/3BOPpN9AKSP7bMB1C5IPI2) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [The Godfather](https://open.spotify.com/artist/4cwes8iJ00ShgVaEX7yKZb), [Tony Sherman](https://open.spotify.com/artist/5PGrx2urmHR1xmOvSMAK3l) | [Can't Let Go](https://open.spotify.com/album/7GkzL6dZQiXLuveDeOKY7h) | 3:14 | 2023-04-06 | 2023-09-15 |
 | [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 | 2022-05-20 | 2022-08-26 |
+| [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 | 2026-11-19 |  |
 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 | 2021-12-10 | 2022-10-18 |
 | [ChouChou](https://open.spotify.com/track/4CPWhSxDp6N4p8YWj43mpy) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [ChouChou](https://open.spotify.com/album/1RGI0NzcvbOEAvkuHqVXv6) | 2:03 | 2023-11-23 | 2024-05-03 |
 | [clutter](https://open.spotify.com/track/7aqLykWVESt4fuwX05tzmE) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [clutter](https://open.spotify.com/album/4YCV5lQcuCZGVaJUqm6Uk6) | 2:47 | 2023-08-14 | 2024-04-05 |
@@ -115,7 +116,7 @@
 | [Head On The Block](https://open.spotify.com/track/2pvSoA1HrhMnzFAmUvVLNN) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [red](https://open.spotify.com/album/23qrC1VsWOSP2USqSLHZ4m) | 2:26 | 2022-07-14 | 2022-07-29 |
 | [Helaas](https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Helaas](https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx) | 2:42 | 2026-03-18 |  |
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-01-27 | 2023-05-10 |
-| [Het Komt Door Jou](https://open.spotify.com/track/5JWHSbwDQIXQP9532k3uqQ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/4r5YD8D2gp85QTuo6pcv26) | 3:03 | 2026-10-29 |  |
+| [Het Komt Door Jou](https://open.spotify.com/track/5JWHSbwDQIXQP9532k3uqQ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/4r5YD8D2gp85QTuo6pcv26) | 3:03 | 2026-10-29 | 2026-11-20 |
 | [Hey Poes](https://open.spotify.com/track/3or3wODEzHipOyhbn9GBZp) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Hey Poes](https://open.spotify.com/album/5eKGfJrhNXed8KYrsJAOkp) | 2:21 | 2026-11-12 |  |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-09-14 | 2024-01-19 |
 | [Hocus Pocus](https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Hocus Pocus](https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF) | 3:18 | 2024-07-01 | 2024-10-25 |
@@ -196,6 +197,7 @@
 | [Outside](https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Outside](https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr) | 2:47 | 2023-05-17 | 2023-09-15 |
 | [Paradis](https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Paradis](https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9) | 2:21 | 2023-05-09 | 2023-09-15 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-12-10 | 2022-06-17 |
+| [Partytent](https://open.spotify.com/track/5HndG3ksWnTSf32DUvpyUM) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Partytent](https://open.spotify.com/album/3fGwD8nd8KY9Sk7kesDSOU) | 2:42 | 2026-11-19 |  |
 | [Peace, Love & Profit](https://open.spotify.com/track/7jByqm6en8id0GM0NbVth9) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [yellow](https://open.spotify.com/album/5COeDegmKD30s0oDWAY1Cb) | 2:57 | 2022-10-27 | 2023-04-07 |
 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2022-10-17 | 2023-09-15 |
 | [perreo sad](https://open.spotify.com/track/1cze6kBI1UeQL8xvjyNOwm) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [perreo sad](https://open.spotify.com/album/7EQXEMpQyRSMdWbLEOLC9j) | 3:05 | 2022-08-25 | 2023-09-15 |
@@ -266,6 +268,7 @@
 | [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-02-26 | 2026-09-17 |
 | [Vlieg Hoog](https://open.spotify.com/track/42kJZkC1MFlarkImGzLk7r) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:41 | 2023-09-14 | 2024-01-19 |
 | [Voor Altijd](https://open.spotify.com/track/1ptPxZ4Aca8AqU16BPeg9d) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/0xuafuTa0s1CLtBfYdxtPy) | 3:14 | 2026-10-08 | 2026-10-30 |
+| [Vrienden Voor Altijd](https://open.spotify.com/track/3WmyRqkjV14uKcueq03IEV) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Vrienden Voor Altijd](https://open.spotify.com/album/6HUkKUsSc7gvuyQ4yLjbhI) | 2:47 | 2026-11-19 |  |
 | [Vuurwerk](https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Vuurwerk](https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf) | 3:04 | 2026-07-10 |  |
 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 | 2026-03-26 |  |
 | [walk away](https://open.spotify.com/track/1efwGUw4z68vJLVEhR0WZi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [walk away](https://open.spotify.com/album/2HxzENWnGfFlHRWjawrf6B) | 2:55 | 2022-08-25 | 2023-09-15 |
@@ -290,6 +293,7 @@
 | [Zijkant](https://open.spotify.com/track/65bKgp0oPps8YDFaCWsMjg) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [Zijkant](https://open.spotify.com/album/1LaxxpY3iDj4NxfirjjbX2) | 2:46 | 2026-03-19 | 2026-08-21 |
 | [Zo Zijn](https://open.spotify.com/track/0WyNNLzRGqajGWCjcrVTaC) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 3:12 | 2023-09-14 | 2026-03-19 |
 | [Zo Zijn](https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Zo Zijn](https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp) | 3:12 | 2022-02-14 | 2022-08-26 |
+| [Zolang Als Het Kan](https://open.spotify.com/track/1j8CnoN2fMtPrAbxJEs5iW) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Zolang Als Het Kan](https://open.spotify.com/album/0mhKIkLsJZUJ60YqxHTJ8b) | 3:00 | 2026-11-19 |  |
 | [Zonder Gezicht](https://open.spotify.com/track/0KAqcZyd6eiKjyneZRmePT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:44 | 2022-03-17 | 2022-08-26 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

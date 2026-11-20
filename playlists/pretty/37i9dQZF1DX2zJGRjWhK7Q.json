@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 251173,
+  "num_followers": 251220,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADmkXMNsrg+vsEqJO1BwFguz1Cdx",
+  "snapshot_id": "AAAAAHkZBLp3kPpH9WnySI/tsdxe9BRm",
   "tracks": [
     {
       "added_at": "2024-09-24 20:30:16",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Vamonos Pal' Monte",
+        "url": "https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 426746,
+      "name": "Vamonos Pal Monte",
+      "url": "https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Celia y Johnny",
         "url": "https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Vamonos Pal' Monte",
-        "url": "https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 426746,
-      "name": "Vamonos Pal Monte",
-      "url": "https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld"
     },
     {
       "added_at": "2024-09-24 20:30:16",

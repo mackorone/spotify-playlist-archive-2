@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 169498,
+  "num_followers": 169524,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4+xHvPvBRfhBMUsMPBiFqGs2gh",
+  "snapshot_id": "AAAAALeRw+JsRx8PGZGRRJQv5wPOMqy1",
   "tracks": [
     {
       "added_at": "2024-03-28 01:45:52",
@@ -983,18 +983,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Marca Registrada del Binomio de Oro",
-        "url": "https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys"
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        },
+        {
+          "name": "Los Gigantes",
+          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
         }
       ],
-      "duration_ms": 270293,
-      "name": "Me Sobran las Palabras",
-      "url": "https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh"
+      "duration_ms": 246726,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1019,6 +1023,38 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Marca Registrada del Binomio de Oro",
+        "url": "https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Me Sobran las Palabras",
+      "url": "https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 305826,
+      "name": "Buscar\u00e9 Otro Amor",
+      "url": "https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Historia Musical",
         "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
       },
@@ -1039,22 +1075,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "De Primera",
         "url": "https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc"
       },
@@ -1067,22 +1087,6 @@
       "duration_ms": 307304,
       "name": "Se Me Salen las Lagrimas",
       "url": "https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Martin Elias & Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones para Amarte",
-      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

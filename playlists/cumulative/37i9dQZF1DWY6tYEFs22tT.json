@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Offset, Future, Don Toliver, Skepta, Lil Baby, and Drake.",
+  "description": "Today's Hip-Hop with Offset, Don Toliver, Future, and Drake.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -7530,7 +7530,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 157020,
       "name": "Dead Fresh",
       "url": "https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib"
@@ -10837,6 +10837,32 @@
     },
     {
       "album": {
+        "name": "FLT",
+        "url": "https://open.spotify.com/album/1LJx7szY7iMbiWC8QDJXCZ"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "FLT",
+      "url": "https://open.spotify.com/track/0eNaEnv5cskYlVUPKJvU3V"
+    },
+    {
+      "album": {
         "name": "Lil Black Jean Jacket 3",
         "url": "https://open.spotify.com/album/1mFoolgRsDNPx9aizPSYDn"
       },
@@ -11850,7 +11876,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 116571,
       "name": "GASS (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y"
@@ -13714,6 +13740,32 @@
       "duration_ms": 165288,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn"
+    },
+    {
+      "album": {
+        "name": "Hell Nah",
+        "url": "https://open.spotify.com/album/2G6yaIv1IteUQCgQk4gZPC"
+      },
+      "artists": [
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272292,
+      "name": "Hell Nah",
+      "url": "https://open.spotify.com/track/1sXTN7bM5vhe4u0noDS0ib"
     },
     {
       "album": {
@@ -17274,7 +17326,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 138208,
       "name": "LA Nights",
       "url": "https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf"
@@ -17300,6 +17352,28 @@
       "duration_ms": 173974,
       "name": "Lambo pass by (feat. OJ da Juiceman)",
       "url": "https://open.spotify.com/track/5Bl2UDbq6lOT2U2YXbJ7Dq"
+    },
+    {
+      "album": {
+        "name": "LOCKED IN (EUROLUXE)",
+        "url": "https://open.spotify.com/album/2H2FFVVPzAYw3Qhw3IAxbb"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133437,
+      "name": "LAMINE YAMAL (feat. La Pantera)",
+      "url": "https://open.spotify.com/track/4iUjotWvNyG99ldTZTRysc"
     },
     {
       "album": {
@@ -17472,6 +17546,24 @@
       "duration_ms": 189090,
       "name": "LEFT RIGHT (feat. Big Sean)",
       "url": "https://open.spotify.com/track/2pz2fuZbrWNoCxpmZrimWw"
+    },
+    {
+      "album": {
+        "name": "Left Wrist",
+        "url": "https://open.spotify.com/album/02DjnlT6v8LKebsUUO88qS"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118518,
+      "name": "Left Wrist",
+      "url": "https://open.spotify.com/track/0gcAyqZDuk9KzKHMYDibtj"
     },
     {
       "album": {
@@ -22404,7 +22496,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 158193,
       "name": "OK (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx"
@@ -25572,7 +25664,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180784,
       "name": "Rain (feat. Skilla Baby)",
       "url": "https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a"
@@ -27994,7 +28086,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195210,
       "name": "Shroom Clouds (feat. reggie & Jeremih)",
       "url": "https://open.spotify.com/track/3V1MhUIvoXig2YrrBg0gJH"
@@ -30712,6 +30804,28 @@
       "duration_ms": 230526,
       "name": "Tez & Tone 1",
       "url": "https://open.spotify.com/track/7mXhmsSwfZCcPGA0M993Rl"
+    },
+    {
+      "album": {
+        "name": "TF? (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2W6l92kY78JzbaUnreRMEp"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162742,
+      "name": "TF? (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/5W73OtEOh5QPw3GpUwZ4mI"
     },
     {
       "album": {
@@ -35343,6 +35457,28 @@
     },
     {
       "album": {
+        "name": "Wrist Remix (feat. Father)",
+        "url": "https://open.spotify.com/album/2fQtlsEw3pLSZuY3pDYtsD"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Father",
+          "url": "https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Wrist Remix (feat. Father)",
+      "url": "https://open.spotify.com/track/7oIZQABKsHYtqEMnmpWR8N"
+    },
+    {
+      "album": {
         "name": "WRK",
         "url": "https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu"
       },
@@ -35612,7 +35748,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 138773,
       "name": "Yiccen",
       "url": "https://open.spotify.com/track/3xSR1SmielI1yzhYh841wt"

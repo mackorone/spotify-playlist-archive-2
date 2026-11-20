@@ -1,13 +1,65 @@
 {
-  "description": "The home of Canadian country music. Cover: Sully Burrows",
-  "num_followers": 84602,
+  "description": "The home of Canadian country music. Cover: Rick Duff, Gustavo Mioto",
+  "num_followers": 84603,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL0Td8W3ON/39DjnZpKCWW7ZKvSh",
+  "snapshot_id": "AAAAAPDY8jWuUs7NYem3yvIKvq8Th0P8",
   "tracks": [
+    {
+      "added_at": "2026-11-20 05:03:14",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1KrfmGpPI9nI0GhwdAnh6w"
+      },
+      "artists": [
+        {
+          "name": "Rick Duff",
+          "url": "https://open.spotify.com/artist/4MNUaMf0Yl05yY6x342xBH"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/5vyKIf6vjR0KMzqfgje25d"
+    },
+    {
+      "added_at": "2026-11-20 05:03:14",
+      "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/20bzdjZZyvuHwoj9zY1xsI"
+      },
+      "artists": [
+        {
+          "name": "Steven Lee Olsen",
+          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
+        }
+      ],
+      "duration_ms": 168693,
+      "name": "Good Lord",
+      "url": "https://open.spotify.com/track/7v6GQMlq3Vejxue251OKvc"
+    },
+    {
+      "added_at": "2026-11-20 05:03:14",
+      "album": {
+        "name": "Watered Down",
+        "url": "https://open.spotify.com/album/7kk3xFRIyTPDGetfuiiLUL"
+      },
+      "artists": [
+        {
+          "name": "Parker Graye",
+          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Watered Down",
+      "url": "https://open.spotify.com/track/3sWVRhF0OPt0rKasQbAaaU"
+    },
     {
       "added_at": "2026-11-13 05:03:24",
       "album": {
@@ -23,6 +75,38 @@
       "duration_ms": 206335,
       "name": "Missing Then",
       "url": "https://open.spotify.com/track/5EZdPaQgcoKZTNPr135Gce"
+    },
+    {
+      "added_at": "2026-11-20 05:03:14",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/3uMrivfIWtEqlSOfITkOpi"
+      },
+      "artists": [
+        {
+          "name": "Brayden King",
+          "url": "https://open.spotify.com/artist/0fCguqEo1gADoSkTGI47qJ"
+        }
+      ],
+      "duration_ms": 225256,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2rpSZU3aJV4Vfk9f7vdHIk"
+    },
+    {
+      "added_at": "2026-11-20 05:03:14",
+      "album": {
+        "name": "Heart to Heart",
+        "url": "https://open.spotify.com/album/0fcPfVdPgNJELLoCFtkWAA"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 200123,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/2PiONtSTdswCM3pRIV5oLs"
     },
     {
       "added_at": "2026-11-13 05:03:24",
@@ -41,20 +125,20 @@
       "url": "https://open.spotify.com/track/1gR8iPbYTp8Gzpa7ScMALI"
     },
     {
-      "added_at": "2026-11-13 05:03:24",
+      "added_at": "2026-11-20 05:03:14",
       "album": {
-        "name": "Lucas Mason",
-        "url": "https://open.spotify.com/album/0pmgusucO04hYc5yc3BmMw"
+        "name": "Out of the Blue: Extended Forecast (Deluxe)",
+        "url": "https://open.spotify.com/album/3vmBk7M6J4H9mi3UNWhgZe"
       },
       "artists": [
         {
-          "name": "Lucas Mason",
-          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+          "name": "Kelsi Mayne",
+          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
         }
       ],
-      "duration_ms": 196944,
-      "name": "In The Pines",
-      "url": "https://open.spotify.com/track/2z9mTx96kxeplaxkkgkhSw"
+      "duration_ms": 197037,
+      "name": "Keep You Company",
+      "url": "https://open.spotify.com/track/43d02wU1sfmd3bMVHfMGHK"
     },
     {
       "added_at": "2026-11-06 05:02:36",
@@ -71,6 +155,54 @@
       "duration_ms": 262401,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx"
+    },
+    {
+      "added_at": "2026-11-20 05:03:14",
+      "album": {
+        "name": "Not Just A Song",
+        "url": "https://open.spotify.com/album/5RTnPYHdroHKTM2eNsUZmx"
+      },
+      "artists": [
+        {
+          "name": "Chase Kasner",
+          "url": "https://open.spotify.com/artist/2c6MPegUx0MAqyG94uAR3Z"
+        }
+      ],
+      "duration_ms": 218208,
+      "name": "Not Just A Song",
+      "url": "https://open.spotify.com/track/0kamHvBTElPQZJmAumV5SO"
+    },
+    {
+      "added_at": "2026-11-20 05:03:14",
+      "album": {
+        "name": "Too Sober to Drive",
+        "url": "https://open.spotify.com/album/6bysYJnZoeiUM6hiAzaaMS"
+      },
+      "artists": [
+        {
+          "name": "Josh David",
+          "url": "https://open.spotify.com/artist/6cXFSmw85OTvCKHnZnVBy8"
+        }
+      ],
+      "duration_ms": 204845,
+      "name": "Too Sober to Drive",
+      "url": "https://open.spotify.com/track/2JaTNd1QFqJqY3Iiw4DPPU"
+    },
+    {
+      "added_at": "2026-11-13 05:03:24",
+      "album": {
+        "name": "Lucas Mason",
+        "url": "https://open.spotify.com/album/0pmgusucO04hYc5yc3BmMw"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mason",
+          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+        }
+      ],
+      "duration_ms": 196944,
+      "name": "In The Pines",
+      "url": "https://open.spotify.com/track/2z9mTx96kxeplaxkkgkhSw"
     },
     {
       "added_at": "2026-11-13 05:03:24",
@@ -3203,134 +3335,6 @@
       "duration_ms": 205950,
       "name": "God Knows I Try",
       "url": "https://open.spotify.com/track/1Im9Iuc0kOw6CqZo9AItEo"
-    },
-    {
-      "added_at": "2026-07-17 04:03:05",
-      "album": {
-        "name": "\u00c0 deux",
-        "url": "https://open.spotify.com/album/0I5ismsSKnFfl9LzEuMHHZ"
-      },
-      "artists": [
-        {
-          "name": "Francis Degrandpr\u00e9",
-          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
-        }
-      ],
-      "duration_ms": 191582,
-      "name": "\u00c0 deux",
-      "url": "https://open.spotify.com/track/4Vk5DGChHThoUPzZKTuTaH"
-    },
-    {
-      "added_at": "2026-07-17 04:03:05",
-      "album": {
-        "name": "Spiraling",
-        "url": "https://open.spotify.com/album/1kQKRGY4GbruO2Ha1aIKOM"
-      },
-      "artists": [
-        {
-          "name": "Sadie Campbell",
-          "url": "https://open.spotify.com/artist/69n5uIWAAoEmNiT7Xm7Mxm"
-        }
-      ],
-      "duration_ms": 188511,
-      "name": "Spiraling",
-      "url": "https://open.spotify.com/track/7BSV22vWFpDHDWb13EXXoA"
-    },
-    {
-      "added_at": "2026-07-17 16:07:29",
-      "album": {
-        "name": "Did July",
-        "url": "https://open.spotify.com/album/3e598b6XtajzmcOqdpcQUa"
-      },
-      "artists": [
-        {
-          "name": "Ben Chase",
-          "url": "https://open.spotify.com/artist/2bMHWpoZglVsTnIvnQ1RI0"
-        }
-      ],
-      "duration_ms": 190511,
-      "name": "Did July",
-      "url": "https://open.spotify.com/track/395xnAoaoi71sujp8KilMU"
-    },
-    {
-      "added_at": "2026-07-17 04:03:05",
-      "album": {
-        "name": "Roxie",
-        "url": "https://open.spotify.com/album/7kzUd2BMEfHaVEon7FcbWZ"
-      },
-      "artists": [
-        {
-          "name": "Tyler Lorette",
-          "url": "https://open.spotify.com/artist/5AJ5mQlyss1SLspTXxo424"
-        }
-      ],
-      "duration_ms": 159274,
-      "name": "Roxie",
-      "url": "https://open.spotify.com/track/1hJspLJJHO012ZgLPEpf6M"
-    },
-    {
-      "added_at": "2026-07-17 04:03:05",
-      "album": {
-        "name": "Stop The Bleeding",
-        "url": "https://open.spotify.com/album/790pZAVns4b9VzBL51NXfy"
-      },
-      "artists": [
-        {
-          "name": "The Road Hammers",
-          "url": "https://open.spotify.com/artist/1JEhLfoNDGbqu40txdS8go"
-        }
-      ],
-      "duration_ms": 227592,
-      "name": "Stop The Bleeding",
-      "url": "https://open.spotify.com/track/4ISoN4KS2mCdZlLTToWFtH"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Being Free",
-        "url": "https://open.spotify.com/album/4QqwaUHjqb9QsoP4F2fqHe"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vanderzon",
-          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
-        }
-      ],
-      "duration_ms": 216598,
-      "name": "Being Free",
-      "url": "https://open.spotify.com/track/4BiENiXpFT8dNinYMtwxCo"
-    },
-    {
-      "added_at": "2026-07-03 04:03:19",
-      "album": {
-        "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/6kdepnqmr1hB6DUgyF8tBP"
-      },
-      "artists": [
-        {
-          "name": "Kelsi Mayne",
-          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "Out of the Blue",
-      "url": "https://open.spotify.com/track/6wPDPOfdDr3SsMsoUnI6Eu"
-    },
-    {
-      "added_at": "2026-06-12 04:03:11",
-      "album": {
-        "name": "Natural Disaster",
-        "url": "https://open.spotify.com/album/4Lp4pbYDU5p6CNBgVfgS8o"
-      },
-      "artists": [
-        {
-          "name": "Emmett Jerome",
-          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
-        }
-      ],
-      "duration_ms": 190276,
-      "name": "Natural Disaster",
-      "url": "https://open.spotify.com/track/4yZZkrYsIrHzqJHZBzhM28"
     }
   ],
   "unique_name": "North Country",

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122065,
+  "num_followers": 122050,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV7AQ9QORPSJ8KPGGQQZGWpjvlUNOW",
+  "snapshot_id": "AAAV7ejOwGVdCQbQO6Cn1Eo/f68wyepK",
   "tracks": [
+    {
+      "added_at": "2026-11-19 15:19:17",
+      "album": {
+        "name": "YOUR SPACE",
+        "url": "https://open.spotify.com/album/2u6Iboyg9POu7rTybEdUGm"
+      },
+      "artists": [
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        },
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "YOUR SPACE",
+      "url": "https://open.spotify.com/track/4qgNzZn2afVSvd2uHTeg3Q"
+    },
     {
       "added_at": "2026-11-18 15:34:46",
       "album": {

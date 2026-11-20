@@ -27221,6 +27221,28 @@
     },
     {
       "album": {
+        "name": "Motel Room (feat. jasper.wav)",
+        "url": "https://open.spotify.com/album/0bcaYYW8ggq54w4aHhn8sq"
+      },
+      "artists": [
+        {
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+        },
+        {
+          "name": "jasper.wav",
+          "url": "https://open.spotify.com/artist/69H3w1KragVQijsuYudCor"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199672,
+      "name": "Motel Room (feat. jasper.wav)",
+      "url": "https://open.spotify.com/track/287r7qvwyB3A59EoCTPJoW"
+    },
+    {
+      "album": {
         "name": "Move Dat Thing",
         "url": "https://open.spotify.com/album/1kPLrWCh7VwDwwvgBNmRqb"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "AUMEX takes over the playlist, spotlighting the music, artists and cultural energy of the 2026 Summit. Cover: Anna Makula",
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Dokta Brain",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -596,7 +596,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195239,
       "name": "Amiini",
       "url": "https://open.spotify.com/track/3wPspz4fuysKTqHhe9UZB4"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154105,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/5jmGtzQMhLv2esTvbdq2xc"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 176621,
       "name": "Bad Touch",
       "url": "https://open.spotify.com/track/69HHWBzwVG0fmKOCks142b"
@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Basajja Balaba",
+        "url": "https://open.spotify.com/album/2CgkbQj1WGZCeNxCVKiypP"
+      },
+      "artists": [
+        {
+          "name": "Dokta Brain",
+          "url": "https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Basajja Balaba",
+      "url": "https://open.spotify.com/track/50GqQZeQ2byymBFBvB0BXP"
+    },
+    {
+      "album": {
         "name": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
         "url": "https://open.spotify.com/album/2X2gEowa6OeYS9NlUP9kt3"
       },
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 171968,
       "name": "Belle",
       "url": "https://open.spotify.com/track/7cpvS5HVOgHHoW7eIAQdao"
@@ -1387,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Bi Love",
+        "url": "https://open.spotify.com/album/7JtphE0TzuA6baBWQAbem6"
+      },
+      "artists": [
+        {
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Bi Love",
+      "url": "https://open.spotify.com/track/1x6vz065gE6Md0HDnrMYiz"
+    },
+    {
+      "album": {
         "name": "Bikole",
         "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
       },
@@ -1420,7 +1456,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 210000,
       "name": "Bikyaganye",
       "url": "https://open.spotify.com/track/7KTm7YDLufOyDwJJ2RHLdg"
@@ -1568,7 +1604,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 177168,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/6KsM3u4ABY0ltvxmmGT1nl"
@@ -1626,7 +1662,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 146599,
       "name": "Body Heavy",
       "url": "https://open.spotify.com/track/3qtgrL2OOoVph2KNzYEGx9"
@@ -1648,7 +1684,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 153520,
       "name": "BODY TEA",
       "url": "https://open.spotify.com/track/3G9LVhs8mgmpHbOPLM1Q4c"
@@ -1840,7 +1876,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Buntu Butono II",
       "url": "https://open.spotify.com/track/7IeG5XoZKoF6AQO92XmFim"
@@ -1928,7 +1964,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 139000,
       "name": "Bwekiri",
       "url": "https://open.spotify.com/track/3zb1lqwZNhzPxDDO1IH2ig"
@@ -2026,7 +2062,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 156144,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/1s9FKJyTm56reQ0PNJvVfJ"
@@ -2150,7 +2186,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 191686,
       "name": "Chai Mata",
       "url": "https://open.spotify.com/track/5hyVcJuPDjXLXZTAoAr3xW"
@@ -2284,7 +2320,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 237663,
       "name": "Cherie",
       "url": "https://open.spotify.com/track/3Pitcv0by6ZQNUIUjz477f"
@@ -2540,7 +2576,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "Commando",
       "url": "https://open.spotify.com/track/1VWGibPsJzoO6MQKi17Dpf"
@@ -2558,7 +2594,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161684,
       "name": "Concentrate",
       "url": "https://open.spotify.com/track/2fINB4H4ZLESDwgFGGFvtA"
@@ -2930,7 +2966,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 204932,
       "name": "DND",
       "url": "https://open.spotify.com/track/2p8OJhqEH00bWWB2BLZA2x"
@@ -2952,7 +2988,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 150559,
       "name": "Do",
       "url": "https://open.spotify.com/track/4PuNolWbAH8yhxpFxwCC3n"
@@ -3288,7 +3324,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163756,
       "name": "Economy",
       "url": "https://open.spotify.com/track/3XcdtXfR5h1G7wzRMg4zd6"
@@ -3368,7 +3404,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 149677,
       "name": "Ekyana",
       "url": "https://open.spotify.com/track/16TvQAt6SMpiwjbIxlS5NK"
@@ -3492,7 +3528,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 182608,
       "name": "Empisa",
       "url": "https://open.spotify.com/track/548dJ3jaTVnUWLyo801mDQ"
@@ -3936,7 +3972,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 171764,
       "name": "Finally",
       "url": "https://open.spotify.com/track/1rksHIunDAbv6sm7xAsd0f"
@@ -3972,7 +4008,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 167741,
       "name": "Follow",
       "url": "https://open.spotify.com/track/1ANLZMasztR9GMUA75xGDE"
@@ -4012,7 +4048,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 183834,
       "name": "Forgotten - Live",
       "url": "https://open.spotify.com/track/77xKiiGTuxfgRNkRMaEZTm"
@@ -4280,7 +4316,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178536,
       "name": "Go Down",
       "url": "https://open.spotify.com/track/5iPM7Gd8xhf3XUZrVuxCrj"
@@ -4298,7 +4334,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169696,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/0pcVbT1kRHmxoCmZjaz3Hs"
@@ -4316,7 +4352,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 136421,
       "name": "Go Low",
       "url": "https://open.spotify.com/track/3fX2o3TiAFu6nzjDrC7osY"
@@ -4338,7 +4374,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181460,
       "name": "GONE",
       "url": "https://open.spotify.com/track/4jZol4vdGKzFJMLolcUFm8"
@@ -4360,7 +4396,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Good Idea",
       "url": "https://open.spotify.com/track/6MHDsDMdC4l2DZ9fUdmk6L"
@@ -4448,7 +4484,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 176333,
       "name": "Gusa",
       "url": "https://open.spotify.com/track/4ndSBxqqaJ9XE7wSYCHmzw"
@@ -4904,7 +4940,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 151056,
       "name": "Inimanimo",
       "url": "https://open.spotify.com/track/62XuY2s0RP9EIQ6gbTpV9k"
@@ -4926,7 +4962,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 172034,
       "name": "It All Depends",
       "url": "https://open.spotify.com/track/4ypKU7GxAWukpDQP0yyWam"
@@ -5074,7 +5110,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149333,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/6Ph0L0GQzcQFV7OuDsLKIW"
@@ -5114,7 +5150,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154666,
       "name": "Kagina",
       "url": "https://open.spotify.com/track/3Iu48faklsS1Tbs0fN4hbM"
@@ -5248,7 +5284,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 194823,
       "name": "Kavuyo",
       "url": "https://open.spotify.com/track/5dYdpCkRM59w6BwY9LqTHD"
@@ -5284,7 +5320,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216792,
       "name": "Keep Your Comment",
       "url": "https://open.spotify.com/track/0CWf2pJsG7f2gwIUR5lfdS"
@@ -5328,7 +5364,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178723,
       "name": "Kigwa Kitya",
       "url": "https://open.spotify.com/track/4UIUwPR0wKpsWprLIBsVhF"
@@ -5456,7 +5492,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161632,
       "name": "Kikutte",
       "url": "https://open.spotify.com/track/4XP9lS6HR6rbPJxgEKRokV"
@@ -5638,7 +5674,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 154468,
       "name": "Ku Munji",
       "url": "https://open.spotify.com/track/5CWwCATkNe7jrAV44cBrnR"
@@ -5682,7 +5718,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 212218,
       "name": "Kugwe Kwesiiva",
       "url": "https://open.spotify.com/track/2qJjbbxxYL3R3QuDAFEss0"
@@ -5818,7 +5854,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 128304,
       "name": "Kyazanga",
       "url": "https://open.spotify.com/track/0zHWrvYgcZYQNQ7nDPtlGe"
@@ -5836,7 +5872,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 150927,
       "name": "Kyeejo",
       "url": "https://open.spotify.com/track/39cZMJZvpFslT73U0hf7BD"
@@ -5858,6 +5894,28 @@
       "duration_ms": 175288,
       "name": "Kyekiliwo",
       "url": "https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6"
+    },
+    {
+      "album": {
+        "name": "LATE",
+        "url": "https://open.spotify.com/album/4J6EVUvzMqGOhRjgeiUqbJ"
+      },
+      "artists": [
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        },
+        {
+          "name": "Oma Afrikana",
+          "url": "https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189890,
+      "name": "LATE",
+      "url": "https://open.spotify.com/track/3E1cZHD1R4jE8x19TiLo3Q"
     },
     {
       "album": {
@@ -6268,7 +6326,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Love Me Louder",
       "url": "https://open.spotify.com/track/744ZnCPlVjykfTcKtG6CkY"
@@ -6286,7 +6344,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182850,
       "name": "Love Me Or Don't",
       "url": "https://open.spotify.com/track/0VmaLhKuGt6hd2dMSyMlyY"
@@ -6684,7 +6742,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176170,
       "name": "Masavu",
       "url": "https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG"
@@ -6902,7 +6960,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 160296,
       "name": "Mon Ami",
       "url": "https://open.spotify.com/track/2JEoAWtCsaCAhsIAZ569i8"
@@ -6994,7 +7052,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 158500,
       "name": "Morocco - Remix",
       "url": "https://open.spotify.com/track/6K0yyDL8HIakuunhcTAttS"
@@ -7012,7 +7070,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 107368,
       "name": "MOSQUITOES",
       "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
@@ -7048,7 +7106,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 187259,
       "name": "Moto",
       "url": "https://open.spotify.com/track/6h1MhPXXOtyOQcizOoo3xB"
@@ -7066,7 +7124,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 162500,
       "name": "Motor Motor",
       "url": "https://open.spotify.com/track/6hU1MbVAZVz44v8DmlZlIP"
@@ -7330,7 +7388,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 191026,
       "name": "Munange",
       "url": "https://open.spotify.com/track/0Ttm967BwZSr5rUljWg7lJ"
@@ -7366,7 +7424,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 154096,
       "name": "Muntu Wange",
       "url": "https://open.spotify.com/track/5vov2bIJyCGYY88cGPDZby"
@@ -7482,7 +7540,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 141176,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/2FzFOjE77TB65jLzoPSDVm"
@@ -7522,7 +7580,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 168921,
       "name": "My Heart Goes",
       "url": "https://open.spotify.com/track/2Q8HtsdhQpUe9LPI3Ajz7s"
@@ -7862,7 +7920,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 217939,
       "name": "Nassanga - Remix",
       "url": "https://open.spotify.com/track/15MDmh9dqvpebpzRDhYK94"
@@ -7880,7 +7938,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 153600,
       "name": "Nasuzeeyo",
       "url": "https://open.spotify.com/track/0vWYxirXpvJx9kwBS4AUW6"
@@ -7934,7 +7992,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Ndi Omu",
       "url": "https://open.spotify.com/track/6UgcbxONqCTponZo7ko0Ch"
@@ -8014,7 +8072,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180000,
       "name": "Nectar",
       "url": "https://open.spotify.com/track/2kZz6EAY5RsqPKfS4XVYzO"
@@ -8116,7 +8174,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 173572,
       "name": "Ngezaako",
       "url": "https://open.spotify.com/track/1KrbQyJttBk8aHXTmE730u"
@@ -8348,7 +8406,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 169800,
       "name": "Nkulabayo",
       "url": "https://open.spotify.com/track/2s3SDtboZexJNUcLLpvPza"
@@ -8414,7 +8472,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 169168,
       "name": "Nkwatako (Touch Me)",
       "url": "https://open.spotify.com/track/6noDaGsPHFVaorhbg6U3nJ"
@@ -8454,7 +8512,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 168071,
       "name": "NKWENDHA",
       "url": "https://open.spotify.com/track/7269V2oLe6kLEcn4tGzE7C"
@@ -8641,6 +8699,32 @@
     },
     {
       "album": {
+        "name": "Nsalako",
+        "url": "https://open.spotify.com/album/18edZjB3Hr7wg4XeZPRALt"
+      },
+      "artists": [
+        {
+          "name": "Klin",
+          "url": "https://open.spotify.com/artist/2fWN44Uy1uMyXds4YutVDP"
+        },
+        {
+          "name": "Expect XHAVI",
+          "url": "https://open.spotify.com/artist/2UD1QtSxiIQHdWdDIXJPwT"
+        },
+        {
+          "name": "Jenesis Kimera",
+          "url": "https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "Nsalako",
+      "url": "https://open.spotify.com/track/1H7hmDFEcGAES2a1LzH45c"
+    },
+    {
+      "album": {
         "name": "The Best of Benon & Vamposs",
         "url": "https://open.spotify.com/album/31AshW1AQzeDVvQicc4yjT"
       },
@@ -8710,7 +8794,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "Ntaawa",
       "url": "https://open.spotify.com/track/4ApOg9PVDBkA4nBo8mYyQG"
@@ -8976,7 +9060,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 182448,
       "name": "Nzigulawo II",
       "url": "https://open.spotify.com/track/3dbaGmJXWA6JZAOa6Xny0g"
@@ -9416,7 +9500,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 195918,
       "name": "On My OWN",
       "url": "https://open.spotify.com/track/0quSUEwzeX7SYPJhvZ2d5j"
@@ -9482,7 +9566,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 150638,
       "name": "Only One",
       "url": "https://open.spotify.com/track/7JDsL43CKalyypxm6O2Y41"
@@ -9726,7 +9810,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 188223,
       "name": "Panadol",
       "url": "https://open.spotify.com/track/1ydyKxMe6t2uqmvh3fH81P"
@@ -9998,7 +10082,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 145473,
       "name": "Pressing",
       "url": "https://open.spotify.com/track/5eDFlwaHSgg5JxbDSwT62w"
@@ -10232,7 +10316,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 120000,
       "name": "Rare Breed",
       "url": "https://open.spotify.com/track/2n3WDfUmxM25IyfJgU2u6a"
@@ -10872,7 +10956,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185217,
       "name": "Shillingi",
       "url": "https://open.spotify.com/track/2s4yIeZYQvZnjl1oZopKsM"
@@ -11006,7 +11090,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 192989,
       "name": "Sili Bulungi",
       "url": "https://open.spotify.com/track/72Z3qeSbuFx2nqXarskCjv"
@@ -11050,7 +11134,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149647,
       "name": "simmer down - John Blaq remix",
       "url": "https://open.spotify.com/track/7a2PbwYCcPKLXkVs6jpBTd"
@@ -11126,7 +11210,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 148235,
       "name": "Siwabula",
       "url": "https://open.spotify.com/track/4lMGChWfrMY8sPxdBhAI8W"
@@ -11238,7 +11322,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 307245,
       "name": "Sometimes Love",
       "url": "https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl"
@@ -11256,7 +11340,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 207216,
       "name": "Sour Grapes",
       "url": "https://open.spotify.com/track/34SPn2fr8mClUZk5VJqnqm"
@@ -11274,7 +11358,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163920,
       "name": "Spells",
       "url": "https://open.spotify.com/track/4x9uhwLV6qSwYx12uPx0MG"
@@ -11540,7 +11624,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175999,
       "name": "Supertele3000",
       "url": "https://open.spotify.com/track/1Crcfmtcw9rnIyQJjjAEPF"
@@ -11584,7 +11668,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149577,
       "name": "Suubi Baati",
       "url": "https://open.spotify.com/track/3oPAbk6qZ05NFP4KTLEulk"
@@ -11680,7 +11764,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161708,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/44ohwgdP6fywqjza4cwBU4"
@@ -11968,7 +12052,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Terms & Conditions",
       "url": "https://open.spotify.com/track/4VMxherKJ6IZbwohaiaRru"
@@ -12008,7 +12092,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 229213,
       "name": "Tewali Kibulayo",
       "url": "https://open.spotify.com/track/7e5qfZrYZQdjfUp0wDmtjm"
@@ -12052,7 +12136,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 180621,
       "name": "TEZINUMA",
       "url": "https://open.spotify.com/track/02IyK2y04F2clRzYxif0wu"
@@ -12216,7 +12300,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 219750,
       "name": "Time for You",
       "url": "https://open.spotify.com/track/54IR8l2bqqj5CLlgAZ8mRO"
@@ -12598,7 +12682,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 251294,
       "name": "Tulo",
       "url": "https://open.spotify.com/track/0z65Q6MgwpI1Klu7InFRJh"
@@ -12748,7 +12832,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 212495,
       "name": "Tutuuse",
       "url": "https://open.spotify.com/track/65Y13xdQ2XT8i5LMWCjk3L"
@@ -12876,7 +12960,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 141758,
       "name": "Ugandan Party",
       "url": "https://open.spotify.com/track/1cSA1GZrzQgmxYc7yFOKtM"
@@ -12894,7 +12978,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 133333,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/7GxGz0fU4NdeidEVjCOk9R"
@@ -12978,7 +13062,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 165047,
       "name": "Wah\u2019m",
       "url": "https://open.spotify.com/track/6DUP9sirjB7xDw28RQ2MDG"
@@ -13054,7 +13138,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172016,
       "name": "Wankyusa",
       "url": "https://open.spotify.com/track/1Gye3jbPEXMwck5dTM39bz"
@@ -13156,7 +13240,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203478,
       "name": "Wansigalamu",
       "url": "https://open.spotify.com/track/1w43kXc5uWrm6BG2ivXYIx"
@@ -13364,7 +13448,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175460,
       "name": "Wewe",
       "url": "https://open.spotify.com/track/3hoPpUYNajkxkYP5r3YCSP"
@@ -13382,7 +13466,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Wewe",
       "url": "https://open.spotify.com/track/5VnUIEsF1pSkMGKFhNDP9z"
@@ -13400,7 +13484,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 158374,
       "name": "what do i know",
       "url": "https://open.spotify.com/track/4f8n33TNaDSEl9alg3OyPF"
@@ -13528,7 +13612,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 169263,
       "name": "Yandalula",
       "url": "https://open.spotify.com/track/1mMYwp24FhtIdIjFk4zbgY"
@@ -13736,7 +13820,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 170721,
       "name": "Zabike",
       "url": "https://open.spotify.com/track/6dswDeHWQ4JBmus8dVk1wF"

@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Evening Dance",
+        "url": "https://open.spotify.com/album/1gDX8p9iU5z98a9f2adnGe"
+      },
+      "artists": [
+        {
+          "name": "Phileas Galle",
+          "url": "https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Evening Dance",
+      "url": "https://open.spotify.com/track/6JnRVEpoAXJYKwFu2eX28p"
+    },
+    {
+      "album": {
         "name": "Everlasting",
         "url": "https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd"
       },

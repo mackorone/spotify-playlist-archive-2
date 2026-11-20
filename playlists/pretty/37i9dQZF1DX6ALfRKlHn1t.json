@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1134234,
+  "num_followers": 1134183,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEfQojW4TL840D33dcVlsuVr4uVi",
+  "snapshot_id": "AAAAABB4IKDDMYroV07/ytMJXEMzt8AO",
   "tracks": [
     {
       "added_at": "2026-09-09 16:28:51",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
-    },
-    {
-      "added_at": "2026-09-09 16:28:51",
-      "album": {
         "name": "Beaches In Tennessee",
         "url": "https://open.spotify.com/album/4AB0To8YbkXhU8VHDdiEDQ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 196440,
       "name": "Beaches In Tennessee",
       "url": "https://open.spotify.com/track/20TOJbuP4XyGBEFbwB8Vbm"
+    },
+    {
+      "added_at": "2026-09-09 16:28:51",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "added_at": "2026-09-09 16:28:51",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
-        "name": "My Star (Deluxe)",
-        "url": "https://open.spotify.com/album/3jXRErosrQELn4XWbP4Ucw"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 167227,
-      "name": "Cross The Street",
-      "url": "https://open.spotify.com/track/2jsqoaZJqHF1t25vVuONHn"
-    },
-    {
-      "added_at": "2026-09-09 16:28:51",
-      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 213250,
       "name": "Tell Me (U Want It)",
       "url": "https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7"
+    },
+    {
+      "added_at": "2026-09-09 16:28:51",
+      "album": {
+        "name": "My Star (Deluxe)",
+        "url": "https://open.spotify.com/album/3jXRErosrQELn4XWbP4Ucw"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "duration_ms": 167227,
+      "name": "Cross The Street",
+      "url": "https://open.spotify.com/track/2jsqoaZJqHF1t25vVuONHn"
     },
     {
       "added_at": "2026-09-09 16:28:51",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Dancing On The Wall",
-      "url": "https://open.spotify.com/track/7G2NR2p31c87FwPAmT5HJJ"
-    },
-    {
-      "added_at": "2026-09-09 16:28:51",
-      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 234448,
       "name": "You First (Re: Remi Wolf)",
       "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"
+    },
+    {
+      "added_at": "2026-09-09 16:28:51",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/7G2NR2p31c87FwPAmT5HJJ"
     },
     {
       "added_at": "2026-09-09 16:28:51",

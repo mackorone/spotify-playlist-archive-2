@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 26018,
+  "num_followers": 26035,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAavwqP8oE8BkpWO9JOLuJ3",
+  "snapshot_id": "avzqgAAAAAAWZaG7JC4hGUQUQ8Kz6JtE",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love is the New Gangsta",
-        "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/3GKB75ijlo1b33UVr809hQ"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "AZ Chike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
         }
       ],
-      "duration_ms": 223666,
-      "name": "All That Matters (with Leon Thomas & AZ Chike)",
-      "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
+      "duration_ms": 245815,
+      "name": "Trophy",
+      "url": "https://open.spotify.com/track/1I2QdqvSz7AeMPVZJheUcj"
     },
     {
       "added_at": null,
@@ -239,6 +231,30 @@
       "duration_ms": 201567,
       "name": "VIBES DON'T LIE",
       "url": "https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "All That Matters (with Leon Thomas & AZ Chike)",
+      "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
     },
     {
       "added_at": null,
@@ -303,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/3GKB75ijlo1b33UVr809hQ"
+        "name": "YEARNALISM",
+        "url": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta"
       },
       "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 245815,
-      "name": "Trophy",
-      "url": "https://open.spotify.com/track/1I2QdqvSz7AeMPVZJheUcj"
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/10AL4TaEo02p5ddxmOP0cv"
     },
     {
       "added_at": null,
@@ -339,22 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "YEARNALISM",
-        "url": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta"
+        "name": "BROWN",
+        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 218122,
-      "name": "Friends Again",
-      "url": "https://open.spotify.com/track/10AL4TaEo02p5ddxmOP0cv"
+      "duration_ms": 266276,
+      "name": "Fallin' (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/40GjjsfvHz6hdeBbd8jSdG"
     },
     {
       "added_at": null,
@@ -383,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BROWN",
-        "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 266276,
-      "name": "Fallin' (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/40GjjsfvHz6hdeBbd8jSdG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweetness (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
       },
@@ -423,22 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 150147,
-      "name": "Tell Everybody (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
+      "duration_ms": 283313,
+      "name": "Until The End Of Time",
+      "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
     },
     {
       "added_at": null,
@@ -463,22 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y"
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 283313,
-      "name": "Until The End Of Time",
-      "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
+      "duration_ms": 150147,
+      "name": "Tell Everybody (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Elle Varner",
-          "url": "https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC"
-        }
-      ],
-      "duration_ms": 213425,
-      "name": "Beg",
-      "url": "https://open.spotify.com/track/3lRXoxtNXehoTBFinymrhE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Why Not More? (MORE!)",
         "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 216507,
       "name": "Here We Go (Uh Oh) [Remix] (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2QDNxaKybJGJaZ0ZLoZbxf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Elle Varner",
+          "url": "https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC"
+        }
+      ],
+      "duration_ms": 213425,
+      "name": "Beg",
+      "url": "https://open.spotify.com/track/3lRXoxtNXehoTBFinymrhE"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "move it along (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 195454,
+      "name": "move it along (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Victorious (Music from the TV Show \"Victorious\")",
         "url": "https://open.spotify.com/album/22s1H8POFPrbZW5uk9zuKV"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 219925,
       "name": "Song 2 You",
       "url": "https://open.spotify.com/track/75a84vtTxTdx8xhrlaV9S7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "move it along (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 195454,
-      "name": "move it along (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 183589,
-      "name": "Love Jones (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
       },
@@ -895,22 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fix Your Face",
-        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 184450,
-      "name": "QVC (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/60IXj6K1ognoIeqD4ECIRH"
+      "duration_ms": 183589,
+      "name": "Love Jones (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t"
     },
     {
       "added_at": null,
@@ -935,22 +915,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious 3.0 (Even More Music from the Hit TV Show)",
-        "url": "https://open.spotify.com/album/4riVaRlsRhombe8IBqFfsV"
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
       },
       "artists": [
         {
-          "name": "Victorious Cast",
-          "url": "https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 213298,
-      "name": "365 Days",
-      "url": "https://open.spotify.com/track/1z9nYjwFBwvrcIizmA5bDy"
+      "duration_ms": 184450,
+      "name": "QVC (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/60IXj6K1ognoIeqD4ECIRH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRANCIS",
+        "url": "https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs"
+      },
+      "artists": [
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 230936,
+      "name": "dangerous game",
+      "url": "https://open.spotify.com/track/1Qq1TDdMo7UjRP6nlSog2q"
     }
   ],
   "unique_name": "This Is Leon Thomas",

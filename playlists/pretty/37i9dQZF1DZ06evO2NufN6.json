@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 1006832,
+  "num_followers": 1006888,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAz5KPP/jCOYl7h/rhPNNey",
+  "snapshot_id": "avzqgAAAAABO8y2VTA7+H4gJA+45I5Pu",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 342040,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Day Ever (5th Anniversary Remastered Edition)",
         "url": "https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M"
       },
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watching Movies with the Sound Off",
-        "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 256423,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/3jAvvLf01asKBOSVrIFkmq"
+      "duration_ms": 342040,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
       "duration_ms": 197929,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/6AjXmTomWUWZ6Za0X6ypjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 256423,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/3jAvvLf01asKBOSVrIFkmq"
     },
     {
       "added_at": null,
@@ -611,18 +611,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Divine Feminine (10th Anniversary)",
-        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
+        "name": "That's Life (feat. Mac Miller & Sia)",
+        "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
       "artists": [
         {
+          "name": "88-Keys",
+          "url": "https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj"
+        },
+        {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 264280,
-      "name": "Channel 13",
-      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
+      "duration_ms": 202390,
+      "name": "That's Life (feat. Mac Miller & Sia)",
+      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
     },
     {
       "added_at": null,
@@ -639,22 +647,6 @@
       "duration_ms": 170360,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
     },
     {
       "added_at": null,
@@ -683,32 +675,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's Life (feat. Mac Miller & Sia)",
-        "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
+        "name": "The Divine Feminine (10th Anniversary)",
+        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
       },
       "artists": [
         {
-          "name": "88-Keys",
-          "url": "https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj"
-        },
-        {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 202390,
-      "name": "That's Life (feat. Mac Miller & Sia)",
-      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
+      "duration_ms": 264280,
+      "name": "Channel 13",
+      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "K.I.D.S. (Deluxe)",
-        "url": "https://open.spotify.com/album/70Zkfb99ladZ3q0JVg97co"
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
       },
       "artists": [
         {
@@ -716,9 +700,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 165910,
-      "name": "Ayye",
-      "url": "https://open.spotify.com/track/7mv3jtfltFR9OXzCRquSNu"
+      "duration_ms": 193965,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 188065,
       "name": "The Mourning After",
       "url": "https://open.spotify.com/track/7zQeDqDlb49AkPCoyXhZf0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/70Zkfb99ladZ3q0JVg97co"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 165910,
+      "name": "Ayye",
+      "url": "https://open.spotify.com/track/7mv3jtfltFR9OXzCRquSNu"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 159119,
-      "name": "Best Day Ever",
-      "url": "https://open.spotify.com/track/2nm4Ma3r1LrR84cFUJZLSZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Macadelic",
         "url": "https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 371870,
       "name": "The Question (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/20yacZAKo7OgX2G6t5nZZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 159119,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/2nm4Ma3r1LrR84cFUJZLSZ"
     },
     {
       "added_at": null,

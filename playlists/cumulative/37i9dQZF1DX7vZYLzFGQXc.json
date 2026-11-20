@@ -10380,7 +10380,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 132931,
       "name": "GET JIGGY!",
       "url": "https://open.spotify.com/track/2RvB8W3b4a0viQh6jMBjnQ"
@@ -15934,6 +15934,24 @@
       "duration_ms": 252490,
       "name": "Live your day",
       "url": "https://open.spotify.com/track/4la99hjrmKkpNRhV9OIDpd"
+    },
+    {
+      "album": {
+        "name": "Badoogi",
+        "url": "https://open.spotify.com/album/0L7Nf0eDji7EVk0s7eoV5A"
+      },
+      "artists": [
+        {
+          "name": "SIMILE LAND",
+          "url": "https://open.spotify.com/artist/1PVjeeja3aKjY1vI6C8W82"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Living In The Sunlight",
+      "url": "https://open.spotify.com/track/2RGccgdXIRceizYgA7X1gI"
     },
     {
       "album": {
@@ -28518,7 +28536,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 222000,
       "name": "undefined",
       "url": "https://open.spotify.com/track/6kkBsWMqkyqe3RtSYUuUGl"
@@ -30408,7 +30426,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 232006,
       "name": "Wish You Knew",
       "url": "https://open.spotify.com/track/4YaZmlnaguWNgdxAHRB9hM"

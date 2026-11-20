@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Yami Safdie",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Nicki Nicole",
   "name": "POP!",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 145384,
       "name": "25",
       "url": "https://open.spotify.com/track/4tazYxkGbqUv3lKJl2LI12"
@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Al Choque",
+        "url": "https://open.spotify.com/album/1qASJi9HwNUcZVhXwAeIWl"
+      },
+      "artists": [
+        {
+          "name": "Soffia Philo",
+          "url": "https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139903,
+      "name": "Al Choque",
+      "url": "https://open.spotify.com/track/7myNp86gso13hZ1JaDLKBS"
+    },
+    {
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -750,7 +768,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195445,
       "name": "alg\u00fan d\u00eda - Spotify Sessions",
       "url": "https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl"
@@ -3840,7 +3858,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 127048,
       "name": "facecard",
       "url": "https://open.spotify.com/track/2P4jvAbFZWh2ctfqPPjeIs"
@@ -4492,6 +4510,32 @@
       "duration_ms": 180881,
       "name": "HASTA QUE ME ENAMORO",
       "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
+    },
+    {
+      "album": {
+        "name": "HELLO ROCHO",
+        "url": "https://open.spotify.com/album/5QgNirYOOFIiFewQ2ipAmL"
+      },
+      "artists": [
+        {
+          "name": "HELLOLOLA",
+          "url": "https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7"
+        },
+        {
+          "name": "LOS MOROCHOS",
+          "url": "https://open.spotify.com/artist/34zAl1JTATeEnmJX3ZYqfs"
+        },
+        {
+          "name": "Gonzo",
+          "url": "https://open.spotify.com/artist/7oAnJj6TBKt2qWXz7g6WPS"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128321,
+      "name": "HELLO ROCHO",
+      "url": "https://open.spotify.com/track/7CXBMpbb6wXUPZ8mCEvJ7v"
     },
     {
       "album": {
@@ -6206,7 +6250,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156004,
       "name": "Mambos",
       "url": "https://open.spotify.com/track/33zMt1Q4XR5gu4vZOab06H"
@@ -7568,7 +7612,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174336,
       "name": "NO ERA PARA T4NTO",
       "url": "https://open.spotify.com/track/0Vv93EG4dPhY6GDtDMxUld"
@@ -7716,7 +7760,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154238,
       "name": "NO SOY COMO ELLAS!",
       "url": "https://open.spotify.com/track/00MyY4Pnrmr57O4eD9IJDs"
@@ -9151,6 +9195,28 @@
     },
     {
       "album": {
+        "name": "que coincidencia coincidir",
+        "url": "https://open.spotify.com/album/3Hx4HTMBSOaUPy5B4uuKiN"
+      },
+      "artists": [
+        {
+          "name": "c n d",
+          "url": "https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F"
+        },
+        {
+          "name": "Fede Guelmos",
+          "url": "https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209014,
+      "name": "que coincidencia coincidir",
+      "url": "https://open.spotify.com/track/56YysPodQ9PzSxMqpadqHn"
+    },
+    {
+      "album": {
         "name": "Que Hicimo'",
         "url": "https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ"
       },
@@ -9448,6 +9514,24 @@
       "duration_ms": 191254,
       "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
       "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
+    },
+    {
+      "album": {
+        "name": "no caigas en las trampas",
+        "url": "https://open.spotify.com/album/5FwNajrA8Mf5m7vAqpTPja"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154030,
+      "name": "Rayo de Sol ::Represi\u00f3n::",
+      "url": "https://open.spotify.com/track/1jrN22ZAZld1LN19cnRHDW"
     },
     {
       "album": {
@@ -9998,7 +10082,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 138305,
       "name": "Si te pasa lo mismo",
       "url": "https://open.spotify.com/track/5Nm9G4ZSHnVzqjKgxkBs0a"
@@ -11515,6 +11599,24 @@
     },
     {
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/4NiZ1mlAfCvJxyWRIGX1vj"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211914,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/5qHY2RgmTO9pBgRiZWMg60"
+    },
+    {
+      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
       },
@@ -11984,7 +12086,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174260,
       "name": "X AMOR",
       "url": "https://open.spotify.com/track/3VmbHemGYprg5fYFG6ZEdh"

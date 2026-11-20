@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,385 likes - 109 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,550 likes - 109 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 2 | [Jingle Bells](https://open.spotify.com/track/3rT0SXP4zzmx2t4EBdgHXP) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Jingle Bells](https://open.spotify.com/album/0OYXUOe9ZsuVsqpx6yQ5G4) | 2:11 |
 | 3 | [Baby It's Cold Outside](https://open.spotify.com/track/5GqRon54m6B3O1ZfGEjd24) | [Lioren](https://open.spotify.com/artist/1Jg11umTUvDuwHLaat07hO) | [Baby It's Cold Outside](https://open.spotify.com/album/0kZHoTmqc4WjjKGG3XSlpp) | 2:43 |
 | 4 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/31o5NueuMPDckgpIlmmJOA) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [A Time of Light](https://open.spotify.com/album/71adzYDFbhjGvm78BUDEa0) | 3:21 |
-| 5 | [The Christmas Song \(arr\. piano\)](https://open.spotify.com/track/4bcrfPo51Gy2OGF37J9ysl) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [What Child Is This? \(arr\. Piano\) / The Christmas Song \(arr\. Piano\)](https://open.spotify.com/album/3ENsfMFIOKEoW5VOMo8NCl) | 4:10 |
-| 6 | [Let It Snow](https://open.spotify.com/track/1EpPBRJZrLhSqnwiMmaoNQ) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Let It Snow](https://open.spotify.com/album/2JBtwMSiePArwqHG0Mmfrh) | 1:59 |
-| 7 | [Away In A Manger](https://open.spotify.com/track/3cEPV9YxmKzDlwDyr9hq0C) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Away In A Manger](https://open.spotify.com/album/0RDcl4gX6NawVNGV9nC6Xg) | 1:53 |
+| 5 | [Away In A Manger](https://open.spotify.com/track/3cEPV9YxmKzDlwDyr9hq0C) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Away In A Manger](https://open.spotify.com/album/0RDcl4gX6NawVNGV9nC6Xg) | 1:53 |
+| 6 | [The Christmas Song \(arr\. piano\)](https://open.spotify.com/track/4bcrfPo51Gy2OGF37J9ysl) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [What Child Is This? \(arr\. Piano\) / The Christmas Song \(arr\. Piano\)](https://open.spotify.com/album/3ENsfMFIOKEoW5VOMo8NCl) | 4:10 |
+| 7 | [Let It Snow](https://open.spotify.com/track/1EpPBRJZrLhSqnwiMmaoNQ) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Let It Snow](https://open.spotify.com/album/2JBtwMSiePArwqHG0Mmfrh) | 1:59 |
 | 8 | [Once in Royal David's City](https://open.spotify.com/track/4kaMUH8dicxfQJh9a3TVkx) | [Goldana](https://open.spotify.com/artist/5qxFrVV26X1IFNzeaDl9Cw) | [Once in Royal David's City](https://open.spotify.com/album/0fYXD2AybUXHt2bzH0E7zo) | 2:02 |
 | 9 | [O Holy Night](https://open.spotify.com/track/6QyV9asVzAKVteqXU7oKIT) | [Jacques Ferrandi](https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7) | [O Holy Night](https://open.spotify.com/album/0tUw8UHVVJ099kVd62D3dd) | 3:03 |
 | 10 | [Christmas Time Is Here](https://open.spotify.com/track/4kLxNSvxpMlKWoEcdAcBsB) | [warmest depths](https://open.spotify.com/artist/1akeT46w4la2HMfty7dh4W) | [Christmas Time Is Here](https://open.spotify.com/album/3O6WXWtHutvgo30XhrDVQv) | 3:28 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 108 | [Do You Want to Build A Snowman?](https://open.spotify.com/track/6s8M6j0NmquCYZy6NKjDGx) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Do You Want to Build A Snowman?](https://open.spotify.com/album/6vaGiLu1MD3JcsZmkQXp6Q) | 3:06 |
 | 109 | [I'll Send You a Letter](https://open.spotify.com/track/5kRFyS1djRYnDQfIf9gZBY) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [I'll Send You a Letter](https://open.spotify.com/album/7M5nfPmJ94z1NlhlNRond9) | 2:15 |
 
-Snapshot ID: `AAAAAGYmRI6x8HPttkf2BkAjPUSG04Zl`
+Snapshot ID: `AAAAAOIuaN7xSsIw0JtYemoERmsb2GA7`

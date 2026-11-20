@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Rebecca Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,176,039 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,175,662 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF) | 3:40 |
 | 50 | [i think he's got a girl](https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [i think he's got a girl](https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0) | 3:34 |
 
-Snapshot ID: `AAAAADtmRZO8AjVScaDVIjTT1AT30+iW`
+Snapshot ID: `AAAAANFedmKQYLA3JtQAOJ/8f9xbQM4E`

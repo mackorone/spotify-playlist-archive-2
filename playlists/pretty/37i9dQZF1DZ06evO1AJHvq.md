@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 
 > This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,391 likes - 38 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,402 likes - 39 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 | 33 | [Los Principios \- En Vivo](https://open.spotify.com/track/1VjQKGK78EJe98zYNHtnxy) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 3:03 |
 | 34 | [El Empanada](https://open.spotify.com/track/1QYw5mvSXRDagazPC2eaRP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 3:51 |
 | 35 | [El Rey De Corazones](https://open.spotify.com/track/6N11HRZvYMon459IGNv3gF) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 4:06 |
-| 36 | [A Cada Rato](https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 2:40 |
-| 37 | [El Toro Encartado](https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 3:02 |
-| 38 | [El Karma](https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 2:44 |
+| 36 | [Entre Pláticas y Dudas](https://open.spotify.com/track/6SioyND0oist3wmDjJc6dO) | [Los Bohemios de Sinaloa](https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Lo Más Escuchado](https://open.spotify.com/album/1unthUpAdhcpRWLBV5dpF1) | 4:06 |
+| 37 | [A Cada Rato](https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 2:40 |
+| 38 | [El Toro Encartado](https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 3:02 |
+| 39 | [El Karma](https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 2:44 |
 
-Snapshot ID: `avpHgAAAAAAwpLEZDwMTERKgxJv7b6g7`
+Snapshot ID: `avzqgAAAAACKinNA8H/lKHoEGGnOCs/4`

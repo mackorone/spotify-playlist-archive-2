@@ -6625,6 +6625,24 @@
     },
     {
       "album": {
+        "name": "DU E SJUK",
+        "url": "https://open.spotify.com/album/3otI6SipASUz0WKuLC7LN3"
+      },
+      "artists": [
+        {
+          "name": "DIREKT\u00d6REN",
+          "url": "https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144664,
+      "name": "DU E SJUK",
+      "url": "https://open.spotify.com/track/6DlQYJH6k9eqZ2VFjXLt09"
+    },
+    {
+      "album": {
         "name": "DU G\u00d6R MIG FUCKED UP",
         "url": "https://open.spotify.com/album/6WgOfMVUSG5vtUOGeycK6E"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 15402,
+  "num_followers": 15404,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFuz9j0EuoyamMYshgaErz+nNkSI",
+  "snapshot_id": "AAAAABIShATnUZ5CMEBtTUdaUf2y6cQ2",
   "tracks": [
     {
       "added_at": "2025-12-03 12:16:13",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
+        "name": "\u60f3\u7576\u4f60\u6c38\u9060\u7684\u661f\u8fb0",
+        "url": "https://open.spotify.com/album/1KGhJeIBz7c0tNzyeYEumI"
+      },
+      "artists": [
+        {
+          "name": "\u5b8f\u5152 Kuan Hong",
+          "url": "https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "\u60f3\u7576\u4f60\u6c38\u9060\u7684\u661f\u8fb0",
+      "url": "https://open.spotify.com/track/0TDzZ1IpqQ6HYvrtKa7rsi"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
         "name": "BRIGHT",
         "url": "https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 229859,
       "name": "BRIGHT",
       "url": "https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "\u60f3\u7576\u4f60\u6c38\u9060\u7684\u661f\u8fb0",
-        "url": "https://open.spotify.com/album/1KGhJeIBz7c0tNzyeYEumI"
-      },
-      "artists": [
-        {
-          "name": "\u5b8f\u5152 Kuan Hong",
-          "url": "https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "\u60f3\u7576\u4f60\u6c38\u9060\u7684\u661f\u8fb0",
-      "url": "https://open.spotify.com/track/0TDzZ1IpqQ6HYvrtKa7rsi"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "take it anymore",
-        "url": "https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz"
-      },
-      "artists": [
-        {
-          "name": "can't be blue",
-          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
-        }
-      ],
-      "duration_ms": 161071,
-      "name": "take it anymore",
-      "url": "https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Racing Mount Pleasant",
         "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
       },
@@ -627,22 +611,34 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Stars Above",
-        "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
+        "name": "take it anymore",
+        "url": "https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz"
       },
       "artists": [
         {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        },
-        {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+          "name": "can't be blue",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
         }
       ],
-      "duration_ms": 190078,
-      "name": "Stars Above",
-      "url": "https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg"
+      "duration_ms": 161071,
+      "name": "take it anymore",
+      "url": "https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA"
+      },
+      "artists": [
+        {
+          "name": "Nico Play",
+          "url": "https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl"
+        }
+      ],
+      "duration_ms": 176212,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -663,18 +659,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "You Don't Know",
-        "url": "https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA"
+        "name": "Stars Above",
+        "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
       },
       "artists": [
         {
-          "name": "Nico Play",
-          "url": "https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl"
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        },
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
         }
       ],
-      "duration_ms": 176212,
-      "name": "You Don't Know",
-      "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
+      "duration_ms": 190078,
+      "name": "Stars Above",
+      "url": "https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh"
-      },
-      "artists": [
-        {
-          "name": "Chuckyy",
-          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
-        }
-      ],
-      "duration_ms": 157979,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "O\u2019 Kay Tamis",
         "url": "https://open.spotify.com/album/5TKMkaDXaNA84CswvnKokE"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 183000,
       "name": "O\u2019 Kay Tamis",
       "url": "https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "duration_ms": 157979,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "other boys are boring",
-        "url": "https://open.spotify.com/album/64pyxehnihFcz81L645ezR"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 140518,
-      "name": "other boys are boring",
-      "url": "https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Romantica",
         "url": "https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 163000,
       "name": "Baddiez",
       "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "other boys are boring",
+        "url": "https://open.spotify.com/album/64pyxehnihFcz81L645ezR"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 140518,
+      "name": "other boys are boring",
+      "url": "https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3"
     },
     {
       "added_at": "2025-12-03 12:16:13",

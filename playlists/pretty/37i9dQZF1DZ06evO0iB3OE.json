@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 11174,
+  "num_followers": 11177,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADS+iWZU29YoMhP8OPOIjiw",
+  "snapshot_id": "avzqgAAAAAC090x9mUsze0mE/pUARrI4",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Culiacan (En Vivo Desde Culiacan)",
-        "url": "https://open.spotify.com/album/3vO5QnF68MTUPEIZAswBHF"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 186456,
-      "name": "El HR - En Vivo Desde Culiacan",
-      "url": "https://open.spotify.com/track/4prEQWESWt6hWYuBLiQG52"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Cama de Piedra (En Vivo)",
         "url": "https://open.spotify.com/album/6HA6a9Hwdh4eoOrpfP7vIf"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 200377,
       "name": "La Cama de Piedra - En Vivo",
       "url": "https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Culiacan (En Vivo Desde Culiacan)",
+        "url": "https://open.spotify.com/album/3vO5QnF68MTUPEIZAswBHF"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 186456,
+      "name": "El HR - En Vivo Desde Culiacan",
+      "url": "https://open.spotify.com/track/4prEQWESWt6hWYuBLiQG52"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 134320,
-      "name": "Con Que Me Pagas",
-      "url": "https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9jame Vac\u00edo",
         "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 228320,
       "name": "El Inicio...",
       "url": "https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 134320,
+      "name": "Con Que Me Pagas",
+      "url": "https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Enemigo P\u00fablico",
         "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 138066,
       "name": "El Enemigo P\u00fablico",
       "url": "https://open.spotify.com/track/1V6lwiuvK0ZzMmuUVJP9L5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL Maz Poderoso",
+        "url": "https://open.spotify.com/album/1rnwwEtCSZQSF0KpyZs1BW"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "El Poderoso",
+      "url": "https://open.spotify.com/track/3xRtsmxdpwBsczSE7ldylz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Las Tapias",
         "url": "https://open.spotify.com/album/6yBguv4iIwJlyhhglOcPsW"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 189160,
       "name": "Lamberto Verdugo - En Vivo Desde Las Tapias",
       "url": "https://open.spotify.com/track/7gUCp7tdGA63B6VqXvTjyE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL Maz Poderoso",
-        "url": "https://open.spotify.com/album/1rnwwEtCSZQSF0KpyZs1BW"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "El Poderoso",
-      "url": "https://open.spotify.com/track/3xRtsmxdpwBsczSE7ldylz"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Enemigo P\u00fablico",
+        "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "La Puerta Del Infierno",
+      "url": "https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde el Rancho Bella Vista",
         "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Enemigo P\u00fablico",
-        "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 168613,
-      "name": "La Puerta Del Infierno",
-      "url": "https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Rancho Bella Vista",
-        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
-      },
-      "artists": [
-        {
-          "name": "Inteligencia Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
-        },
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 189687,
-      "name": "El Plebe del Dos de Oro",
-      "url": "https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hombre de Ley",
         "url": "https://open.spotify.com/album/7ornlEGGKP9dYomBfzUggZ"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 198832,
       "name": "Hombre de Ley",
       "url": "https://open.spotify.com/track/6ktLE4mGNG2qXSwTAut8jL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde el Rancho Bella Vista",
+        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
+      },
+      "artists": [
+        {
+          "name": "Inteligencia Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 189687,
+      "name": "El Plebe del Dos de Oro",
+      "url": "https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF"
     }
   ],
   "unique_name": "This Is El Potro De Sinaloa",

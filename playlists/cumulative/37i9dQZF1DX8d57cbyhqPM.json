@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 239258,
       "name": "Belle Afrique",
       "url": "https://open.spotify.com/track/2FWWcsG2U97H78YEGCy1qo"
@@ -3664,7 +3664,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 157507,
       "name": "D2MB (SEXY RUMBA)",
       "url": "https://open.spotify.com/track/3jFCMn89zSlsFKONa2EbH4"
@@ -8703,6 +8703,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9sillusion",
+        "url": "https://open.spotify.com/album/1sorqGUjLv9pZ8nYyX3GW7"
+      },
+      "artists": [
+        {
+          "name": "Yuma Yeyo",
+          "url": "https://open.spotify.com/artist/7jssz7xJfYPfKb2tJ4i7hV"
+        },
+        {
+          "name": "H\u00e9ritier Wata",
+          "url": "https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232173,
+      "name": "Lolendo",
+      "url": "https://open.spotify.com/track/7Ag1ZIIXAMWraKHK6rdxDp"
+    },
+    {
+      "album": {
         "name": "Lolita",
         "url": "https://open.spotify.com/album/1gwnP9Kx0kf3kHnap68sry"
       },
@@ -11699,6 +11721,24 @@
     },
     {
       "album": {
+        "name": "M.I.L.S 4 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202860,
+      "name": "OC\u00c9AN DE PROBL\u00c8MES",
+      "url": "https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32"
+    },
+    {
+      "album": {
         "name": "Ofele (Remix)",
         "url": "https://open.spotify.com/album/2iciVqnrQFBEyWv4BrhIgk"
       },
@@ -12576,6 +12616,28 @@
       "duration_ms": 331327,
       "name": "Pepesou",
       "url": "https://open.spotify.com/track/76N0vIFC7O8CNukQLRkOI6"
+    },
+    {
+      "album": {
+        "name": "Pepper Soup",
+        "url": "https://open.spotify.com/album/4Asso54ovYsF67BCJjNnTp"
+      },
+      "artists": [
+        {
+          "name": "Okito 1er",
+          "url": "https://open.spotify.com/artist/6tYIJsloOAhl8DY3GenG1E"
+        },
+        {
+          "name": "Mozaar.mp3",
+          "url": "https://open.spotify.com/artist/0qU7MXUj68E7u1mle57VYQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138177,
+      "name": "Pepper Soup",
+      "url": "https://open.spotify.com/track/0GYHcoB0tr2MqPPn3Z9nvs"
     },
     {
       "album": {
@@ -16398,7 +16460,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 131578,
       "name": "\u00c0 la base",
       "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"

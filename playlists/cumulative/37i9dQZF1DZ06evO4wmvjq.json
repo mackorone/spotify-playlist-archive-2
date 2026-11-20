@@ -252,7 +252,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 270000,
       "name": "A Spark from the Infinite - part 2",
       "url": "https://open.spotify.com/track/62u8bT0zb0vnMnyF740LCG"
@@ -3954,7 +3954,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 263333,
       "name": "Return of the Dream Collector",
       "url": "https://open.spotify.com/track/6tmuAcOPeARh6Kmffi8FSf"
@@ -4008,7 +4008,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 851760,
       "name": "Salome's Excellent Extension, Part III",
       "url": "https://open.spotify.com/track/5W6n5nXDaOBeqxs6uVf5xo"
@@ -4532,7 +4532,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 1000000,
       "name": "The Harp of New Albion: III. Riding the Westerleys",
       "url": "https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4"
@@ -5020,7 +5020,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 132960,
       "name": "The New Albion Chorale - Reprise",
       "url": "https://open.spotify.com/track/6ixKgTMRTxZpuitgmhfvds"
@@ -5234,7 +5234,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 154746,
       "name": "Underworld Arising",
       "url": "https://open.spotify.com/track/6xQjvLDZyNjvoRzFDHeXnM"
@@ -5252,7 +5252,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 1207120,
       "name": "Untitled Organ",
       "url": "https://open.spotify.com/track/6MHzbrNqD3Eug0RMlHpDXq"
@@ -5330,6 +5330,40 @@
       "duration_ms": 301813,
       "name": "Y Bolanzero (1)",
       "url": "https://open.spotify.com/track/0AZs9twmL8jrfA4E6PpdRO"
+    },
+    {
+      "album": {
+        "name": "Y Bolanzero",
+        "url": "https://open.spotify.com/album/1CUpQZhBmYm0pJmNg659io"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
+        },
+        {
+          "name": "David Tanenbaum",
+          "url": "https://open.spotify.com/artist/1GtK9rOQJok6hwWNl9iiEi"
+        },
+        {
+          "name": "Helmut Oesterreich",
+          "url": "https://open.spotify.com/artist/59D2MES2O4xvumHM0Ic0wf"
+        },
+        {
+          "name": "Jugendgitarrenorchester Baden-W\u00fcrttemberg",
+          "url": "https://open.spotify.com/artist/1PTVCaqNVMohTah3XU3qmx"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301813,
+      "name": "Y Bolanzero (1)",
+      "url": "https://open.spotify.com/track/1CnG0akMFSuw6wkzcstwYC"
     },
     {
       "album": {

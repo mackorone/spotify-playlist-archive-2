@@ -2,9 +2,9 @@
 
 ### [NXT](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> The future hits of today\. Up Next: Solana
+> The future hits of today\. Up Next: Kidd Carder & BNXN
 
-961 songs - 1 day 19 hr 57 min
+962 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Bus Stop Remix \(with Young Jonn\)](https://open.spotify.com/track/7Evfsvdd1x1MEysQyEE7fK) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Okada Airlines](https://open.spotify.com/album/0tryWtXDmIsGPK53e9DBTH) | 3:01 | 2024-10-25 | 2025-03-07 |
 | [Busy & Broke](https://open.spotify.com/track/5oGQ7wWe5DxxWJDVbpwNnm) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [Busy & Broke](https://open.spotify.com/album/2beprFW3yOohVHvReH74ei) | 2:11 | 2024-06-28 | 2024-07-19 |
 | [By Me](https://open.spotify.com/track/4LR0vIINC7A1vLuNoL9w0l) | [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [By Me](https://open.spotify.com/album/71dEKqbnbyyQqx2o8aAtW9) | 2:34 | 2026-10-16 |  |
-| [By Now](https://open.spotify.com/track/4hDJudkT1bs6e7USICB6WJ) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [By Now](https://open.spotify.com/album/5Pd5gF3Icv4G5zj22bhPVT) | 3:31 | 2026-07-31 |  |
+| [By Now](https://open.spotify.com/track/4hDJudkT1bs6e7USICB6WJ) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [By Now](https://open.spotify.com/album/5Pd5gF3Icv4G5zj22bhPVT) | 3:31 | 2026-07-31 | 2026-11-20 |
 | [C'est La Vie](https://open.spotify.com/track/6HLH0AbYxbGJ5qW5zEPMX7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [C'est La Vie](https://open.spotify.com/album/2tbAwbxLXAxJPdGkPoXXCx) | 2:35 | 2025-09-19 | 2026-01-23 |
 | [Caesar](https://open.spotify.com/track/389USH7geO3gexdNf7IBSj) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Caesar](https://open.spotify.com/album/2vlJGi55cHhkuNiDvcO5Fh) | 2:49 | 2024-07-26 | 2024-10-26 |
 | [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 | 2025-07-04 | 2026-04-03 |
@@ -631,6 +631,7 @@
 | [Offline](https://open.spotify.com/track/52XWV7WV93wB9PHo7Vs2J2) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Offline](https://open.spotify.com/album/4Gu7rukCVGg6wn8gwTRE7x) | 2:13 | 2026-11-13 |  |
 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 | 2024-06-28 | 2024-08-26 |
 | [Ogologo](https://open.spotify.com/track/6qmFmnzZb0SkKoqO2p4oHg) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [BIRDS OF A FEATHER \(B.O.A.F\)](https://open.spotify.com/album/5npAPJDHjIVCoTypP4TP7G) | 2:16 | 2025-05-16 | 2025-09-05 |
+| [Oh My](https://open.spotify.com/track/4rF6m94AncOXU0XzEcRtvB) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Oh My](https://open.spotify.com/album/2t6vgL0DsIHXTpgQGiCPlT) | 2:29 | 2026-11-20 |  |
 | [Ojoro](https://open.spotify.com/track/5jmCaINZ5ByDY0sY7Mj32X) | [Kelvinnice](https://open.spotify.com/artist/6RRdob1JNi1mWlUh1L8sMw), [Amona](https://open.spotify.com/artist/3JBclSitSGy8W7svkDcBGg) | [Ojoro](https://open.spotify.com/album/7ae4YCBQr8UZMwClTGLyNz) | 2:28 | 2025-08-01 | 2025-08-09 |
 | [Oku](https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THE RETURN \(Eze Onyịkọ\)](https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH) | 3:29 | 2026-05-15 | 2026-07-31 |
 | [Okunkun](https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [Okunkun](https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe) | 2:39 | 2026-06-19 | 2026-07-31 |
@@ -953,7 +954,7 @@
 | [You](https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [You](https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b) | 2:15 | 2024-10-18 | 2025-02-22 |
 | [YOU](https://open.spotify.com/track/1scE65n7NsjGGGSIUNtXIF) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN) | [YOU](https://open.spotify.com/album/7czcBlqVpc8COL33p5Roc6) | 2:04 | 2026-09-11 | 2026-09-26 |
 | [You \(Rum & Schnapp\)](https://open.spotify.com/track/6yfTq51uOS74YlSEErCE1P) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [You \(Rum & Schnapp\)](https://open.spotify.com/album/0LMjfmmG1XQIigfU9EewmJ) | 3:36 | 2024-06-28 | 2024-09-10 |
-| [You're Mine](https://open.spotify.com/track/0S4thqfegaGQ1WeogAVBJb) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [PersWaysion](https://open.spotify.com/album/6kSqnGBntxzF3zOpZF7REn) | 2:15 | 2026-08-14 |  |
+| [You're Mine](https://open.spotify.com/track/0S4thqfegaGQ1WeogAVBJb) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [PersWaysion](https://open.spotify.com/album/6kSqnGBntxzF3zOpZF7REn) | 2:15 | 2026-08-14 | 2026-11-20 |
 | [Young Alhaji](https://open.spotify.com/track/2IE4Xnsmfv2wqsKrwqcq9h) | [Whally](https://open.spotify.com/artist/5DWtzZJL2qo8paIEjuc9tO), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Young Alhaji](https://open.spotify.com/album/5nYuqnT3ZpA8lDVDdAgW7M) | 2:41 | 2026-10-23 |  |
 | [Your Body](https://open.spotify.com/track/58aqMiOHapRaGUdHnbeE1T) | [Lil Qhuid](https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP), [BetejayMadeIt](https://open.spotify.com/artist/4pvwFJJ5bMKFB3QYZTzDdY) | [Your Body](https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7) | 2:31 | 2024-06-28 | 2024-07-12 |
 | [Your Loss](https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:47 | 2024-07-19 | 2024-11-08 |

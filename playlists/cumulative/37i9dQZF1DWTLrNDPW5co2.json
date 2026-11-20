@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of dance music culture. Featuring Pabllo Vittar. ",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of dance music culture. Featuring MJ Nebreda. ",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 208656,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/3roiUw3YFNlKE3u8qMmVmw"
@@ -3647,6 +3647,24 @@
     },
     {
       "album": {
+        "name": "goonerpop",
+        "url": "https://open.spotify.com/album/1tVlCZ4FrtefAUPgwSrOEc"
+      },
+      "artists": [
+        {
+          "name": "2charm",
+          "url": "https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126379,
+      "name": "goonerpop",
+      "url": "https://open.spotify.com/track/7podnxU3HknHkN9Bcu1jVH"
+    },
+    {
+      "album": {
         "name": "Got Me Started (Bag Raiders Remix)",
         "url": "https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX"
       },
@@ -5196,7 +5214,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182686,
       "name": "Let Luv",
       "url": "https://open.spotify.com/track/51ZNNmfiqlXdNdXCaOPUK0"
@@ -6218,6 +6236,24 @@
       "duration_ms": 230007,
       "name": "Murphy's Law - Edit",
       "url": "https://open.spotify.com/track/7FRP87A2Bft7zMhFlI7j1n"
+    },
+    {
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207296,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/6gPbjxlebqkFyCaLY4SRVm"
     },
     {
       "album": {
@@ -7467,6 +7503,24 @@
     },
     {
       "album": {
+        "name": "Pussy Pop",
+        "url": "https://open.spotify.com/album/3I2Vnbsg6OAlYgFqnLcP8m"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141951,
+      "name": "Pussy Pop",
+      "url": "https://open.spotify.com/track/6RQMTk1TFJM3ANdIuHb534"
+    },
+    {
+      "album": {
         "name": "Noches Calientes de la Soledad",
         "url": "https://open.spotify.com/album/0AwLr5rain3ZZzQOju5LpF"
       },
@@ -8082,7 +8136,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148826,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ"

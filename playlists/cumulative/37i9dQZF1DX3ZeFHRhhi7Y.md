@@ -2,9 +2,9 @@
 
 ### [WOR K  OUT](https://open.spotify.com/playlist/37i9dQZF1DX3ZeFHRhhi7Y)
 
-> Workout to K\-Pop? Count me in! \(Cover: ATEEZ\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
+> Workout to K\-Pop? Count me in! \(Cover: BIGBANG\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-733 songs - 1 day 14 hr 32 min
+735 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [ALL IN](https://open.spotify.com/track/1fd85f3bvhgJXWp6hxboo4) | [XRO](https://open.spotify.com/artist/04U9c9I2eQa3DXlpAnBtVe) | [ALL IN](https://open.spotify.com/album/3VLxyd85Iy4iZebpI3GUZF) | 2:50 | 2022-03-22 | 2022-07-27 |
 | [Alright](https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Alright](https://open.spotify.com/album/4tPe3h6ShVtDHo3TOeyqIL) | 3:18 | 2021-12-20 | 2022-07-21 |
 | [AME GA FURU \(비가내려\) \(Feat\. J;KEY\)](https://open.spotify.com/track/2CVgm1sNonfLSbW3zkgcvv) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR), [J;KEY](https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK) | [D\-IN TOKYO](https://open.spotify.com/album/1m6estbjBu6q1DqajyHkCc) | 2:56 | 2022-03-22 | 2022-04-04 |
+| [Angel Bite](https://open.spotify.com/track/62pmQMfcm1leFyeKRfSaDq) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [PERFECT STORM](https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ) | 2:33 | 2026-11-20 |  |
 | [ANIMAL](https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME: DELUXE](https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq) | 2:26 | 2026-09-29 |  |
 | [Antidote](https://open.spotify.com/track/34U33Fr2hM6wWkjvdpiwS6) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [YELLOW](https://open.spotify.com/album/4igVZxLMxQDV7D94RzW6cw) | 3:38 | 2021-12-20 | 2022-07-06 |
 | [ANTIFRAGILE](https://open.spotify.com/track/0bMoNdAnxNR0OuQbGDovrr) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 | 2025-06-02 | 2026-05-12 |
@@ -154,8 +155,8 @@
 | [CRUEL](https://open.spotify.com/track/139JUU8fJkQoeHl9nABk9C) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:31 | 2022-03-22 | 2022-04-07 |
 | [Cruise](https://open.spotify.com/track/5A8kHk10l9hGBTRieIGQvI) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [1MILLION](https://open.spotify.com/artist/7apvwam2q9L6VsIFX91Ymm), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Cruise](https://open.spotify.com/album/6RnrKYgT9BdcDCPh3uIx9m) | 2:59 | 2022-03-22 | 2022-04-16 |
 | [D\-D\-Done](https://open.spotify.com/track/0tOocKgyXjm1LiLo0uOkVn) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [II \- The 2nd Mini Album](https://open.spotify.com/album/31DduRZUEYnZHXmiDwRb9R) | 2:50 | 2026-08-06 |  |
-| [DAISY \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/track/5U6Dnu5pH4rpGcrVKNATVd) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [DAISY / gOOd! \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/album/61jh4dy9UOWZ2WuCcUZXNf) | 2:49 | 2026-08-06 |  |
-| [DANG DANG](https://open.spotify.com/track/0ZkCSH8wiHEkY7S4luv8CM) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [UNBOUND](https://open.spotify.com/album/40riOYM5nWwz5NEKeVzSMs) | 3:10 | 2026-09-18 |  |
+| [DAISY \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/track/5U6Dnu5pH4rpGcrVKNATVd) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [DAISY / gOOd! \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/album/61jh4dy9UOWZ2WuCcUZXNf) | 2:49 | 2026-08-06 | 2026-11-20 |
+| [DANG DANG](https://open.spotify.com/track/0ZkCSH8wiHEkY7S4luv8CM) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [UNBOUND](https://open.spotify.com/album/40riOYM5nWwz5NEKeVzSMs) | 3:10 | 2026-09-18 | 2026-11-20 |
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-05-01 | 2024-05-09 |
 | [Darl+ing](https://open.spotify.com/track/2j1Es5qEl4pD8GEe2WsYgP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 2:56 | 2025-04-11 | 2025-06-03 |
 | [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 | 2022-03-21 | 2022-10-08 |
@@ -251,6 +252,7 @@
 | [Get Away](https://open.spotify.com/track/5W37S0nq1XvGEyTlUkmr3f) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES ‘O’ \[ROUND 1 : HALL\]](https://open.spotify.com/album/5wQhc8SEKiiXb5b5Ou7tHE) | 3:20 | 2022-01-18 | 2022-04-15 |
 | [GET IT OUT](https://open.spotify.com/track/4OCwwHsLQ0tNzC0PzTi47I) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [GET IT OUT](https://open.spotify.com/album/7GJYlGZQBxVjgXk1TCq9xk) | 3:37 | 2021-12-20 | 2022-07-09 |
 | [GHOST](https://open.spotify.com/track/73ND9EgLxCG4abSmc4z9ww) | [DreamNote](https://open.spotify.com/artist/3ILvL0HM0cST4iR8RzQh2V) | [Dreams Alive](https://open.spotify.com/album/6y4hTtarOLzcNanux6QfNX) | 3:32 | 2022-03-22 | 2022-04-13 |
+| [GiiiRIP](https://open.spotify.com/track/4i115Ijs5MbfNBYpNsM0Sq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [GiiiRIP](https://open.spotify.com/album/4569jF2yYaWMvXuj3dDvFD) | 2:44 | 2026-11-20 |  |
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-02-23 | 2023-06-11 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-08 | 2024-06-01 |
 | [Girls Never Die](https://open.spotify.com/track/0Ol7uhYjodbXAKKarXdn6r) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/3jOqNyGf9Vq9VPOMPRVK1w) | 3:07 | 2026-08-06 |  |
@@ -298,7 +300,7 @@
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2021-12-20 | 2022-07-29 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2022-07-19 | 2024-04-19 |
 | [Human Extinction](https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Archive\. 1](https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs) | 3:26 | 2026-08-06 |  |
-| [HUNTER](https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [HUNTER \- The 3rd Album](https://open.spotify.com/album/6fPWZQDk1qrrfK0y3Pls6i) | 2:43 | 2026-08-06 |  |
+| [HUNTER](https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [HUNTER \- The 3rd Album](https://open.spotify.com/album/6fPWZQDk1qrrfK0y3Pls6i) | 2:43 | 2026-08-06 | 2026-11-20 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 | 2026-08-07 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-20 | 2026-08-07 |
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2022-07-19 | 2024-02-24 |
@@ -503,7 +505,7 @@
 | [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 | 2021-12-20 | 2023-09-16 |
 | [Punk Right Now](https://open.spotify.com/track/757UjBpT2EkYnrUK9gkDZH) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Punk Right Now](https://open.spotify.com/album/2OyL5puE6FcUdxTeBfYQOM) | 2:58 | 2022-03-22 | 2022-04-12 |
 | [PUSH BACK](https://open.spotify.com/track/2GjJ0GSfei7RnAapwC5ZUB) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [PUSH BACK](https://open.spotify.com/album/6acXfqJsV2PKpybx7MutV7) | 2:42 | 2025-11-21 | 2026-01-15 |
-| [PUSH BACK](https://open.spotify.com/track/2oXZU3GXBaz0NAeswRNZE2) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [PUSH BACK](https://open.spotify.com/album/4nXvS8bgDGnmpJ5144Tfk9) | 2:42 | 2026-08-06 | 2026-11-10 |
+| [PUSH BACK](https://open.spotify.com/track/2oXZU3GXBaz0NAeswRNZE2) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [PUSH BACK](https://open.spotify.com/album/4nXvS8bgDGnmpJ5144Tfk9) | 2:42 | 2026-08-06 |  |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-07-20 | 2025-04-22 |
 | [Queencard](https://open.spotify.com/track/68r87x3VZdAMhv8nBVuynz) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt) | 2:41 | 2024-04-05 | 2024-05-09 |
 | [Rain Again Tomorrow](https://open.spotify.com/track/5E6YIdUMaGNxfyLjmutMKn) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [sleepless in \_\_\_\_\_\_\_\_\_\_](https://open.spotify.com/album/0ku3S11VuwERVu81G7m0jv) | 2:59 | 2022-03-22 | 2022-04-13 |

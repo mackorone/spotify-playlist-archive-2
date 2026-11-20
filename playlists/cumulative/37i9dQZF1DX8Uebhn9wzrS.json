@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "airport lounge",
+        "url": "https://open.spotify.com/album/7jDK6sly8TagsDRDmvY2wf"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160705,
+      "name": "airport lounge",
+      "url": "https://open.spotify.com/track/2y225iVzB8I0koqZ7COics"
+    },
+    {
+      "album": {
         "name": "Airy Dream",
         "url": "https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3"
       },
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 142278,
       "name": "Apricot Hill",
       "url": "https://open.spotify.com/track/4zJhHR4hXtPqVPdMKaWxB2"
@@ -11985,6 +12003,24 @@
     },
     {
       "album": {
+        "name": "early dew",
+        "url": "https://open.spotify.com/album/5imrtOQAtyu3M4HBTord5M"
+      },
+      "artists": [
+        {
+          "name": "genelion",
+          "url": "https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142541,
+      "name": "early dew",
+      "url": "https://open.spotify.com/track/2lvNtNt3lbBhMmtrrvbWQd"
+    },
+    {
+      "album": {
         "name": "Early Grey",
         "url": "https://open.spotify.com/album/2mpedk23jMimsBI06nCWxi"
       },
@@ -15098,6 +15134,24 @@
       "duration_ms": 133333,
       "name": "Flying",
       "url": "https://open.spotify.com/track/6wm9hYs3yKMUmlKEQS6t7Z"
+    },
+    {
+      "album": {
+        "name": "flying high",
+        "url": "https://open.spotify.com/album/2aNHe2HhP7WhRWkacS1sRJ"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137647,
+      "name": "flying high",
+      "url": "https://open.spotify.com/track/03DyOtoL3TZaGO97LQqJTT"
     },
     {
       "album": {
@@ -23194,7 +23248,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149750,
       "name": "linger",
       "url": "https://open.spotify.com/track/3scMFS1GB4NIfUHzGh1fNQ"
@@ -34626,7 +34680,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 110270,
       "name": "roaming",
       "url": "https://open.spotify.com/track/6TMbUYF1Tuojm577wU6gV2"
@@ -36626,7 +36680,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137142,
       "name": "Shutter Speed Living",
       "url": "https://open.spotify.com/track/7MnbTa4uKQ9ii7PsI9UTqi"
@@ -39314,6 +39368,24 @@
       "duration_ms": 167690,
       "name": "Startup",
       "url": "https://open.spotify.com/track/0tiZ9oJR4dHPc0Q81hILQf"
+    },
+    {
+      "album": {
+        "name": "static pools",
+        "url": "https://open.spotify.com/album/6Gsgte1iP9u3cl2cEhIuJ0"
+      },
+      "artists": [
+        {
+          "name": "heirloom",
+          "url": "https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138085,
+      "name": "static pools",
+      "url": "https://open.spotify.com/track/7jFjiVaO2nTlEgxdvgeK4P"
     },
     {
       "album": {
@@ -44348,7 +44420,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 139374,
       "name": "Umbrella Sky",
       "url": "https://open.spotify.com/track/2Y4rRlanUi7BHYLBDTYELz"
@@ -44738,7 +44810,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 131919,
       "name": "Until the Sky Turns Blue",
       "url": "https://open.spotify.com/track/2lW1VdIBkSCRppgESsfInm"

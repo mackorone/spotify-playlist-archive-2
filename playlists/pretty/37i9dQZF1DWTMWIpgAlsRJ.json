@@ -1,12 +1,12 @@
 {
   "description": "The Ultimate EA SPORTS FC Playlist: a celebration of The World's Game, curated specially for you.",
-  "num_followers": 396652,
+  "num_followers": 396654,
   "original_name": "EA SPORTS FC Ultimate Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGUmpzUK3UTjozi/o5lQ46nuJgZq",
+  "snapshot_id": "AAAAANTWaVJiSoWnWOljlOkTnf22tzhs",
   "tracks": [
     {
       "added_at": "2026-09-22 20:34:58",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Obsessed With You",
-      "url": "https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 246786,
       "name": "Live in the Moment",
       "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 108650,
+      "name": "Obsessed With You",
+      "url": "https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Dance, No One's Watching",
-        "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-      "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4sceISkCvRuDbd74AtKeEH"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 262840,
       "name": "Mas Que Nada",
       "url": "https://open.spotify.com/track/6U7GUjtamt2P0LcFod1dBT"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+      "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 182724,
-      "name": "Apple Juice",
-      "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Kasabian",
-        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
       "artists": [
         {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 214442,
-      "name": "Club Foot",
-      "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
+      "duration_ms": 182724,
+      "name": "Apple Juice",
+      "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1327,6 +1311,22 @@
       "duration_ms": 216253,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Kasabian",
+        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 214442,
+      "name": "Club Foot",
+      "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 159791,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 175906,
       "name": "I Can Talk",
       "url": "https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 159791,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1459,30 +1459,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        },
-        {
-          "name": "Tom Breu",
-          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "QUIMERA",
         "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
       },
@@ -1507,6 +1483,30 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "anthems",
-      "url": "https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "LCD Soundsystem",
         "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 314556,
       "name": "Daft Punk Is Playing at My House",
       "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "anthems",
+      "url": "https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1575,22 +1575,6 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "NZELA",
-        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "NZELA",
-      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "NZELA",
+        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "NZELA",
+      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "Konk",
         "url": "https://open.spotify.com/album/37he52Ye10gETvnot9bC2t"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 161720,
       "name": "Always Where I Need To Be",
       "url": "https://open.spotify.com/track/6gGSSrKMiV2yec1DrqGhhy"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Black & Gold",
+        "url": "https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Sparro",
+          "url": "https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y"
+        }
+      ],
+      "duration_ms": 274426,
+      "name": "Black & Gold",
+      "url": "https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Black & Gold",
-        "url": "https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7"
-      },
-      "artists": [
-        {
-          "name": "Sam Sparro",
-          "url": "https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y"
-        }
-      ],
-      "duration_ms": 274426,
-      "name": "Black & Gold",
-      "url": "https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "(((((ultraSOUND)))))+",
         "url": "https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ"
       },
@@ -1715,22 +1715,6 @@
       "duration_ms": 191466,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/5m8QBWMfWxq9F8e8uI53hp"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1751,6 +1735,22 @@
       "duration_ms": 196817,
       "name": "Omen - Radio Edit",
       "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
     },
     {
       "added_at": "2026-09-22 20:34:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Original Koffee, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,107,330 likes - 110 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,107,104 likes - 110 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 61 | [BIG 45](https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [BIG 45](https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg) | 3:44 |
 | 62 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 |
 | 63 | [Jamaica Jamaica](https://open.spotify.com/track/1IOKIOnUJnnjZSutpirvIl) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Jamaica Jamaica](https://open.spotify.com/album/2ozJZeROKc2G2S0dCZbWdD) | 3:31 |
-| 64 | [Butterflies](https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Butterflies](https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i) | 2:34 |
-| 65 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
+| 64 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
+| 65 | [Butterflies](https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Butterflies](https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i) | 2:34 |
 | 66 | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY) | 3:42 |
 | 67 | [Sticky](https://open.spotify.com/track/4smyzd6JsDctqs5Fy104LL) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Universal Cure](https://open.spotify.com/album/2dqWoTG0zlhoy2iY4ZGaGf) | 3:29 |
 | 68 | [Above Water](https://open.spotify.com/track/4oKGdjLZitVsCCFxdkocoF) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Above Water](https://open.spotify.com/album/3RffHpKsbuS5AbWHGKYMGr) | 3:34 |
@@ -112,11 +112,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 102 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
 | 103 | [Murder She Wrote \(Original Mix\)](https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Murder She Wrote Single](https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ) | 4:07 |
 | 104 | [Dreadlock Holiday](https://open.spotify.com/track/5AW06u82yN9agtQlINqny5) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [70's Pop](https://open.spotify.com/album/24VKBqI1pzR94n26Ugpk6V) | 4:27 |
-| 105 | [Jah Jah Know](https://open.spotify.com/track/13lOjbr1RqCQ8EbzCWqUoJ) | [Groundation](https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p), [Don Carlos & The Congos](https://open.spotify.com/artist/0L266qgIHqMQKV7A76O95w) | [Hebron Gate](https://open.spotify.com/album/7G45S3yiopYRmqpmrpO7tX) | 6:03 |
-| 106 | [Could You Be Loved](https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 3:57 |
-| 107 | [Turn Your Lights Down Low](https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85) | [Bob Marley](https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/3P9TIaf3gZfBhIIUpAqbBD) | 5:46 |
-| 108 | [Beach In Hawaii](https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI) | 3:40 |
-| 109 | [Welcome To Jamrock](https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5) | 3:33 |
-| 110 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
+| 105 | [I Wish You Were Here](https://open.spotify.com/track/4AVIdds2A4E4UsZcVU0Uso) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/7CoH3Na9J73DUay9gLU4fk) | 4:27 |
+| 106 | [Jah Jah Know](https://open.spotify.com/track/13lOjbr1RqCQ8EbzCWqUoJ) | [Groundation](https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p), [Don Carlos & The Congos](https://open.spotify.com/artist/0L266qgIHqMQKV7A76O95w) | [Hebron Gate](https://open.spotify.com/album/7G45S3yiopYRmqpmrpO7tX) | 6:03 |
+| 107 | [Could You Be Loved](https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 3:57 |
+| 108 | [Turn Your Lights Down Low](https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85) | [Bob Marley](https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/3P9TIaf3gZfBhIIUpAqbBD) | 5:46 |
+| 109 | [Good Thing Going](https://open.spotify.com/track/4MM4UlT0j7MePs9bMoi34N) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Good Thing Going](https://open.spotify.com/album/0ebppSJmLI1w6eaq1SnkSR) | 3:17 |
+| 110 | [Beach In Hawaii](https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI) | 3:40 |
 
-Snapshot ID: `AAAAAFNca6O9ZGlggqoSLGH+4TdKBiBI`
+Snapshot ID: `AAAAAJMkSSw22mz3vvLy62QgyriH+Lhj`

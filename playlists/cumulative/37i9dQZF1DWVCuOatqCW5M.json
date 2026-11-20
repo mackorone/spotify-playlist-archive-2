@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Madhubanti Bagchi, Nikhita Gandhi, KhoslaRaghu and more.",
+  "description": "Latest music from Aditya Rikhari, Shreya Ghoshal, Banjaare, Faheem Abdullah and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 124436,
       "name": "21 Shots",
       "url": "https://open.spotify.com/track/0qgL6xu03iGjiBcHYosOnW"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184746,
       "name": "Aayi Teri Baat Mein",
       "url": "https://open.spotify.com/track/5QmM1gtD8wHYQuBFOUcrGy"
@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 215625,
       "name": "Assay Passay",
       "url": "https://open.spotify.com/track/3nx3FZZWOrs7fr7TnpBbik"
@@ -5804,6 +5804,28 @@
     {
       "album": {
         "name": "Bewafa",
+        "url": "https://open.spotify.com/album/2U0ueP4iJvqukyDbfvcS1W"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Bewafa",
+      "url": "https://open.spotify.com/track/7cGW8WJd0UurTXanpuAmfp"
+    },
+    {
+      "album": {
+        "name": "Bewafa",
         "url": "https://open.spotify.com/album/10I8YtodCoSNCSTaxgfKOv"
       },
       "artists": [
@@ -7198,6 +7220,32 @@
       "duration_ms": 179716,
       "name": "Chahvan Sohneya",
       "url": "https://open.spotify.com/track/4qRukdESa5cDVl0IenNcPL"
+    },
+    {
+      "album": {
+        "name": "MAAHIRR",
+        "url": "https://open.spotify.com/album/5O5XBQceTn2fxizkZYtWEM"
+      },
+      "artists": [
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        },
+        {
+          "name": "Shabeer",
+          "url": "https://open.spotify.com/artist/4SWuEFMjBl4HMF8DuGV2Xf"
+        },
+        {
+          "name": "Digvijay Singh Pariyar (digV)",
+          "url": "https://open.spotify.com/artist/5aOd9rdx74tTqSMbJbnxMG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207427,
+      "name": "Chakkee",
+      "url": "https://open.spotify.com/track/31J1UQPE1FAVGBMRebv0So"
     },
     {
       "album": {
@@ -8659,6 +8707,28 @@
     },
     {
       "album": {
+        "name": "Darbadar",
+        "url": "https://open.spotify.com/album/1sTqwYEXW9kdM1J7MYcgxc"
+      },
+      "artists": [
+        {
+          "name": "Moosa Saleem",
+          "url": "https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148250,
+      "name": "Darbadar",
+      "url": "https://open.spotify.com/track/2fuvjwjEpE73Cufa07J6RS"
+    },
+    {
+      "album": {
         "name": "Darbadar (From \"Ittu Si Baat\") - Single",
         "url": "https://open.spotify.com/album/2O48KBLWiZRB9Ouj63AfHC"
       },
@@ -9602,6 +9672,32 @@
       "duration_ms": 186098,
       "name": "Dhola",
       "url": "https://open.spotify.com/track/58vUbKQNsug6mi7v7ns0Vi"
+    },
+    {
+      "album": {
+        "name": "Dhola Ji",
+        "url": "https://open.spotify.com/album/7FM4wPIYBWyxP2AG2zfHJm"
+      },
+      "artists": [
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        },
+        {
+          "name": "Chirantan Bhatt",
+          "url": "https://open.spotify.com/artist/1Fp2NbOlCFFrrkc29QbhBC"
+        },
+        {
+          "name": "Rajesh Manthan",
+          "url": "https://open.spotify.com/artist/0Mk4IEoAa8sHz3ktemQuno"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186168,
+      "name": "Dhola Ji",
+      "url": "https://open.spotify.com/track/1tIOJeQierKK0CIiAlQIDR"
     },
     {
       "album": {
@@ -12014,7 +12110,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214500,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/4MXyA2Uh2KCUnL0mHFfe8j"
@@ -27610,7 +27706,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 243851,
       "name": "Mulaqatein",
       "url": "https://open.spotify.com/track/2zbpyEEnlgyY1lVWjt1NOM"
@@ -28898,6 +28994,28 @@
       "duration_ms": 276503,
       "name": "Nazdeekiyon Mein Bhi",
       "url": "https://open.spotify.com/track/4ok3yA4DRz7NWCDHBC4q8O"
+    },
+    {
+      "album": {
+        "name": "Nazm",
+        "url": "https://open.spotify.com/album/21R1wLWAlcaLrZeBP7YEPo"
+      },
+      "artists": [
+        {
+          "name": "Aniket Shukla",
+          "url": "https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe"
+        },
+        {
+          "name": "Shreya Basu",
+          "url": "https://open.spotify.com/artist/5Uqvr3Y38ZDZiQl2qU9OKw"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182053,
+      "name": "Nazm",
+      "url": "https://open.spotify.com/track/3ap7ZFUHQeo9cQCnTVkolA"
     },
     {
       "album": {
@@ -36680,7 +36798,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192000,
       "name": "Sochun Main",
       "url": "https://open.spotify.com/track/0N1ASYZHim2Uhj0DSqxKQO"
@@ -38286,6 +38404,28 @@
       "duration_ms": 201000,
       "name": "Tera Ho Jaunga",
       "url": "https://open.spotify.com/track/4XYPbkULFKLw2zqVbhe2Ex"
+    },
+    {
+      "album": {
+        "name": "Tera Hona Hai",
+        "url": "https://open.spotify.com/album/2BFcjWNTWvcaEppjF4FBj8"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Shahzad Ali",
+          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214615,
+      "name": "Tera Hona Hai",
+      "url": "https://open.spotify.com/track/3UfLXPhuSInJ9GToiehs1G"
     },
     {
       "album": {
@@ -43610,7 +43750,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 248031,
       "name": "Waade Saare",
       "url": "https://open.spotify.com/track/08FVpRamuYXLrh2zcU2ogi"

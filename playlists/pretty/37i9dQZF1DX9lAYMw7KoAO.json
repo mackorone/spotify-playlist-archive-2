@@ -1,12 +1,12 @@
 {
   "description": "The Hottest Christian and Gospel music from across the African continent.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a> ",
-  "num_followers": 350513,
+  "num_followers": 350641,
   "original_name": "African Gospel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGe8dzS8s34/DgVg7YXacXWLeRvT",
+  "snapshot_id": "AAAAAFXmttH8fxpKtwqFBK2lMA9Hr2X5",
   "tracks": [
     {
       "added_at": "2025-12-03 12:16:06",
@@ -75,6 +75,22 @@
     {
       "added_at": "2025-12-03 12:16:06",
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/6WRCBHNfy0szRdmgrWbsv6"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/0D9JNf7ntudlGuRUQW1bXp"
+    },
+    {
+      "added_at": "2025-12-03 12:16:06",
+      "album": {
         "name": "Oluwatosin",
         "url": "https://open.spotify.com/album/7eR2dytklllwGYcMGU191P"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 299468,
       "name": "No Turning Back II",
       "url": "https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ"
-    },
-    {
-      "added_at": "2025-12-03 12:16:06",
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/6WRCBHNfy0szRdmgrWbsv6"
-      },
-      "artists": [
-        {
-          "name": "Anendlessocean",
-          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/0D9JNf7ntudlGuRUQW1bXp"
     },
     {
       "added_at": "2025-12-03 12:16:06",
@@ -189,6 +189,22 @@
       "url": "https://open.spotify.com/track/5AhlBbGHo9QM9dq3cY9zUb"
     },
     {
+      "added_at": "2025-12-03 12:16:06",
+      "album": {
+        "name": "Rahama (Live)",
+        "url": "https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 596544,
+      "name": "Rahama (Live)",
+      "url": "https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651"
+    },
+    {
       "added_at": "2026-08-26 08:50:52",
       "album": {
         "name": "Flames Of A Wildfire",
@@ -211,18 +227,34 @@
     {
       "added_at": "2025-12-03 12:16:06",
       "album": {
-        "name": "Rahama (Live)",
-        "url": "https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI"
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
       },
       "artists": [
         {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 596544,
-      "name": "Rahama (Live)",
-      "url": "https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651"
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+    },
+    {
+      "added_at": "2025-12-03 12:16:06",
+      "album": {
+        "name": "My God",
+        "url": "https://open.spotify.com/album/3KitNkoXR2uuRTvxAhDz6c"
+      },
+      "artists": [
+        {
+          "name": "BBO",
+          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+        }
+      ],
+      "duration_ms": 319250,
+      "name": "My God",
+      "url": "https://open.spotify.com/track/0RVWYiqpXx4yl4piv0MPLM"
     },
     {
       "added_at": "2025-12-24 18:51:27",
@@ -247,22 +279,6 @@
       "duration_ms": 657912,
       "name": "Big God",
       "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
-    },
-    {
-      "added_at": "2025-12-03 12:16:06",
-      "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
       "added_at": "2025-12-03 12:16:06",
@@ -305,6 +321,26 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
+      "added_at": "2025-12-03 12:16:06",
+      "album": {
+        "name": "The Great Commission",
+        "url": "https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 808677,
+      "name": "Worthy of My Praise",
+      "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
+    },
+    {
       "added_at": "2025-12-24 18:51:27",
       "album": {
         "name": "Iba",
@@ -331,42 +367,6 @@
     {
       "added_at": "2025-12-03 12:16:06",
       "album": {
-        "name": "My God",
-        "url": "https://open.spotify.com/album/3KitNkoXR2uuRTvxAhDz6c"
-      },
-      "artists": [
-        {
-          "name": "BBO",
-          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
-        }
-      ],
-      "duration_ms": 319250,
-      "name": "My God",
-      "url": "https://open.spotify.com/track/0RVWYiqpXx4yl4piv0MPLM"
-    },
-    {
-      "added_at": "2025-12-03 12:16:06",
-      "album": {
-        "name": "The Great Commission",
-        "url": "https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 808677,
-      "name": "Worthy of My Praise",
-      "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
-    },
-    {
-      "added_at": "2025-12-03 12:16:06",
-      "album": {
         "name": "Eze Abata",
         "url": "https://open.spotify.com/album/6FzzVeo6Mz3MNTOMu5fy1a"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 496886,
       "name": "Eze Abata",
       "url": "https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M"
+    },
+    {
+      "added_at": "2026-03-01 10:43:24",
+      "album": {
+        "name": "Amin (Amen) [Live]",
+        "url": "https://open.spotify.com/album/382YTaePZFxxLrqMg0D9KO"
+      },
+      "artists": [
+        {
+          "name": "BBO",
+          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+        }
+      ],
+      "duration_ms": 551218,
+      "name": "Amin (Amen) - Live",
+      "url": "https://open.spotify.com/track/6jR6lM1TVcAYq2MnKNaadJ"
     },
     {
       "added_at": "2025-12-24 18:51:27",
@@ -395,6 +411,22 @@
       "duration_ms": 406680,
       "name": "Defe Defe",
       "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
+    },
+    {
+      "added_at": "2025-12-03 12:16:06",
+      "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/6MRFqruKFqEQlSl6P4Ge1k"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 357208,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx"
     },
     {
       "added_at": "2025-12-03 12:16:06",
@@ -433,20 +465,20 @@
       "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
     },
     {
-      "added_at": "2026-03-01 10:43:24",
+      "added_at": "2025-12-24 18:51:27",
       "album": {
-        "name": "Amin (Amen) [Live]",
-        "url": "https://open.spotify.com/album/382YTaePZFxxLrqMg0D9KO"
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
       },
       "artists": [
         {
-          "name": "BBO",
-          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
         }
       ],
-      "duration_ms": 551218,
-      "name": "Amin (Amen) - Live",
-      "url": "https://open.spotify.com/track/6jR6lM1TVcAYq2MnKNaadJ"
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2025-12-24 18:51:27",
@@ -473,58 +505,6 @@
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
     },
     {
-      "added_at": "2025-12-24 18:51:27",
-      "album": {
-        "name": "TOBECHUKWU",
-        "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "MERCY CHINWO BLESSED",
-          "url": "https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI"
-        }
-      ],
-      "duration_ms": 487711,
-      "name": "TOBECHUKWU",
-      "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
-    },
-    {
-      "added_at": "2025-12-03 12:16:06",
-      "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/6MRFqruKFqEQlSl6P4Ge1k"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 357208,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx"
-    },
-    {
-      "added_at": "2025-12-24 18:51:27",
-      "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
-    },
-    {
       "added_at": "2026-03-01 10:43:24",
       "album": {
         "name": "Amioluwa",
@@ -543,22 +523,6 @@
       "duration_ms": 607129,
       "name": "Amioluwa",
       "url": "https://open.spotify.com/track/2taXjxwpS0Mrl3PqdwWHPu"
-    },
-    {
-      "added_at": "2025-12-03 12:16:06",
-      "album": {
-        "name": "I Will Pray",
-        "url": "https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 170631,
-      "name": "I Will Pray",
-      "url": "https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0"
     },
     {
       "added_at": "2025-12-03 12:16:06",
@@ -599,6 +563,74 @@
     {
       "added_at": "2025-12-24 18:51:27",
       "album": {
+        "name": "TOBECHUKWU",
+        "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "MERCY CHINWO BLESSED",
+          "url": "https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI"
+        }
+      ],
+      "duration_ms": 487711,
+      "name": "TOBECHUKWU",
+      "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
+    },
+    {
+      "added_at": "2025-12-24 18:51:27",
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 234667,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+    },
+    {
+      "added_at": "2025-12-03 12:16:06",
+      "album": {
+        "name": "I Will Pray",
+        "url": "https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 170631,
+      "name": "I Will Pray",
+      "url": "https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0"
+    },
+    {
+      "added_at": "2025-12-24 18:51:27",
+      "album": {
+        "name": "Jesus Iye",
+        "url": "https://open.spotify.com/album/7KDurcyV9btooGNJegwVtl"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 525815,
+      "name": "Jesus Iye",
+      "url": "https://open.spotify.com/track/4jcantRx2m6O7NAVvopqSb"
+    },
+    {
+      "added_at": "2025-12-24 18:51:27",
+      "album": {
         "name": "Jireh (My Provider)",
         "url": "https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW"
       },
@@ -621,22 +653,6 @@
       "url": "https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH"
     },
     {
-      "added_at": "2025-12-24 18:51:27",
-      "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 234667,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
-    },
-    {
       "added_at": "2025-12-03 12:16:06",
       "album": {
         "name": "You Do This One",
@@ -651,6 +667,22 @@
       "duration_ms": 226649,
       "name": "You Do This One",
       "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
+    },
+    {
+      "added_at": "2025-12-03 12:16:06",
+      "album": {
+        "name": "OCTAGON",
+        "url": "https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "JUBA",
+      "url": "https://open.spotify.com/track/3y8fl4vQjkHjOaHc0nHmXU"
     },
     {
       "added_at": "2026-05-01 00:02:17",
@@ -675,22 +707,6 @@
     {
       "added_at": "2025-12-24 18:51:27",
       "album": {
-        "name": "Jesus Iye",
-        "url": "https://open.spotify.com/album/7KDurcyV9btooGNJegwVtl"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 525815,
-      "name": "Jesus Iye",
-      "url": "https://open.spotify.com/track/4jcantRx2m6O7NAVvopqSb"
-    },
-    {
-      "added_at": "2025-12-24 18:51:27",
-      "album": {
         "name": "HALLELUJAH LIVE",
         "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
       },
@@ -707,26 +723,6 @@
       "duration_ms": 511197,
       "name": "Ebenezer - Live",
       "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
-    },
-    {
-      "added_at": "2025-12-24 18:51:27",
-      "album": {
-        "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
-        "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 812625,
-      "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
-      "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
     },
     {
       "added_at": "2025-12-24 18:51:27",
@@ -783,18 +779,22 @@
     {
       "added_at": "2025-12-24 18:51:27",
       "album": {
-        "name": "Morning Devotion/Amapiano Praise (Live)",
-        "url": "https://open.spotify.com/album/4wDyN58e3WS3xuC06krqO5"
+        "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
+        "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
       },
       "artists": [
         {
-          "name": "Spirit of Prophecy",
-          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
         }
       ],
-      "duration_ms": 806000,
-      "name": "Morning Devotion/Amapiano Praise - Live",
-      "url": "https://open.spotify.com/track/1wBiGuowpm9ydzGtaCEkAV"
+      "duration_ms": 812625,
+      "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
+      "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
     },
     {
       "added_at": "2025-12-03 12:16:06",
@@ -849,6 +849,26 @@
       "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
     },
     {
+      "added_at": "2025-12-03 12:16:06",
+      "album": {
+        "name": "Jugular Jugular",
+        "url": "https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "duration_ms": 275986,
+      "name": "Jugular Jugular",
+      "url": "https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N"
+    },
+    {
       "added_at": "2025-12-24 18:51:27",
       "album": {
         "name": "Miracle No Dey Tire Jesus",
@@ -875,18 +895,38 @@
     {
       "added_at": "2025-12-03 12:16:06",
       "album": {
-        "name": "OCTAGON",
-        "url": "https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf"
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH"
       },
       "artists": [
         {
-          "name": "Anendlessocean",
-          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Praise Umali",
+          "url": "https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT"
         }
       ],
-      "duration_ms": 181000,
-      "name": "JUBA",
-      "url": "https://open.spotify.com/track/3y8fl4vQjkHjOaHc0nHmXU"
+      "duration_ms": 166000,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
+    },
+    {
+      "added_at": "2025-12-24 18:51:27",
+      "album": {
+        "name": "Morning Devotion/Amapiano Praise (Live)",
+        "url": "https://open.spotify.com/album/4wDyN58e3WS3xuC06krqO5"
+      },
+      "artists": [
+        {
+          "name": "Spirit of Prophecy",
+          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+        }
+      ],
+      "duration_ms": 806000,
+      "name": "Morning Devotion/Amapiano Praise - Live",
+      "url": "https://open.spotify.com/track/1wBiGuowpm9ydzGtaCEkAV"
     },
     {
       "added_at": "2025-12-03 12:16:06",
@@ -909,26 +949,6 @@
       "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
     },
     {
-      "added_at": "2025-12-03 12:16:06",
-      "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        },
-        {
-          "name": "Praise Umali",
-          "url": "https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
-    },
-    {
       "added_at": "2025-12-24 18:51:27",
       "album": {
         "name": "Umusirikare",
@@ -943,26 +963,6 @@
       "duration_ms": 670000,
       "name": "Nina Siri",
       "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
-    },
-    {
-      "added_at": "2025-12-03 12:16:06",
-      "album": {
-        "name": "Jugular Jugular",
-        "url": "https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 275986,
-      "name": "Jugular Jugular",
-      "url": "https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N"
     },
     {
       "added_at": "2026-09-25 00:01:27",

@@ -5135,6 +5135,32 @@
     },
     {
       "album": {
+        "name": "Highway Of Life",
+        "url": "https://open.spotify.com/album/1UZKBCytyBWlHnB9SBs6lU"
+      },
+      "artists": [
+        {
+          "name": "LIKEMINDS",
+          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266667,
+      "name": "Highway Of Life",
+      "url": "https://open.spotify.com/track/0fJ3WrUPXdhp0DGmyOftdj"
+    },
+    {
+      "album": {
         "name": "Hills",
         "url": "https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0"
       },

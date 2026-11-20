@@ -2,9 +2,9 @@
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: KEYVITUP\) 지금 가장 핫한 댄스곡들을 만나보세요.
+> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: NAYEON\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-966 songs - 2 day 2 hr 43 min
+968 songs - 2 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [ATTITUDE](https://open.spotify.com/track/6VBiGpCFThcOFlldRiCPr9) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/0YaLbDxHTeZLT3CpDunKuT) | 3:14 | 2025-12-31 | 2026-01-29 |
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-02-15 | 2024-03-28 |
 | [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2022-03-24 | 2022-04-18 |
+| [BABY ANGEL](https://open.spotify.com/track/7JXoLRWkHwObCvM7jpPcjL) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA\-sty](https://open.spotify.com/album/51rRu095tBKzJNUCZJRhTF) | 2:15 | 2026-11-20 |  |
 | [Baby Flower](https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z) | 3:08 | 2026-06-02 | 2026-06-13 |
 | [Baby Flower \(Bangkok Remix: Kurtz\)](https://open.spotify.com/track/06iROxEHvDL9MuG9b6naXG) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<Baby Flower City Remixes>](https://open.spotify.com/album/6vYX25Db1QeKGlIj9mpJ25) | 3:15 | 2026-06-12 | 2026-11-11 |
 | [Back Door](https://open.spotify.com/track/6nGDbTIv7jH4NJKpF435GD) | [JEON JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj), [IN SEONG](https://open.spotify.com/artist/0JxQHl0AkdY6GI3C5gtFeo) | [Watcha Original <DOUBLE TROUBLE> EPISODE.5 History – ‘Back Door](https://open.spotify.com/album/3EBv3HESakoTQkUWWv6qYt) | 3:42 | 2022-04-18 | 2022-04-21 |
@@ -167,7 +168,7 @@
 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2023-05-01 | 2023-05-10 |
 | [Candy Sugar Pop](https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Drive to the Starry Road](https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0) | 2:49 | 2022-05-18 | 2022-07-12 |
 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-08 | 2024-07-27 |
-| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-17 |  |
+| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-17 | 2026-11-20 |
 | [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-04-25 | 2026-10-07 |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-12-21 | 2022-07-28 |
 | [CHANDELIER](https://open.spotify.com/track/2NQKN3x5Evk8xsOEqUBUjX) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd), [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 3:16 | 2022-03-31 | 2022-04-04 |
@@ -183,7 +184,7 @@
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-03-02 | 2022-04-07 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-25 | 2025-12-23 |
 | [Choke](https://open.spotify.com/track/5fvQ0kElOryRWFaXQMORqT) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [BEAT by 82](https://open.spotify.com/album/5PNr1szmjWGuXxHAesSljM) | 3:03 | 2024-04-30 | 2024-05-10 |
-| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-08 |  |
+| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-08 | 2026-11-20 |
 | [Chronograph](https://open.spotify.com/track/1qHBk92AaOQR4w5uzBfFGb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chronograph](https://open.spotify.com/album/0BZsGRXuCwTB0FpbuWLXCV) | 3:00 | 2022-01-18 | 2022-04-15 |
 | [Cinema](https://open.spotify.com/track/45WEkgFSP5Af8Huepaj4P1) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 4th EP Album ‘HELLO’ Chapter Ø\. Hello, Strange Dream](https://open.spotify.com/album/6uQFA464X4qBT7QOEmZlBm) | 3:12 | 2022-01-14 | 2022-04-14 |
 | [CLASSY](https://open.spotify.com/track/7LEupZwTQBhbvvHmxttUeP) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LIVES ACROSS](https://open.spotify.com/album/13wsV6lqeOiPzIRwCv7Ugw) | 2:48 | 2022-07-08 | 2022-07-14 |
@@ -530,6 +531,7 @@
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-28 | 2023-06-29 |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-12-21 | 2022-07-29 |
 | [LOOK AT ME](https://open.spotify.com/track/1COvoUtzqdwASp3zHc5bPe) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/7N0xYciFgPt2Et3k5NCiUx) | 2:39 | 2025-12-08 | 2026-06-03 |
+| [Look At You](https://open.spotify.com/track/2QIBihfmajf3bhHpcyZGsQ) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Look At You](https://open.spotify.com/album/07viSDNHdSfUIXGfMk8tJb) | 2:45 | 2026-11-20 |  |
 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-05-30 | 2024-06-14 |
 | [Los Angeles \- Moksi Remix](https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes](https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb) | 2:59 | 2023-05-01 | 2023-05-10 |
 | [Lost At Sea](https://open.spotify.com/track/7httPLq34brroOJddDPyt7) | [AMBER](https://open.spotify.com/artist/6vPzAqZDXQgLTEn8pjp4jY) | [WHITE NOISE + LOST AT SEA](https://open.spotify.com/album/1aGrK54HGmEdrOeJjAAxPR) | 3:47 | 2022-04-05 | 2022-04-21 |

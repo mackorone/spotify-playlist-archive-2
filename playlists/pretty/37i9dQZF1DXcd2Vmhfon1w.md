@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Hijos de la Ruina, Morad
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,848 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,855 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 6 | [Hello Toto](https://open.spotify.com/track/0Mdt9yVAa5XBK09txclV3r) | [Poleg](https://open.spotify.com/artist/1Ccxj1i9r9vfDkgu7vxJg6), [TeykBeats](https://open.spotify.com/artist/1TzoFAtWa414QRNMZ9wL1z) | [Hello Toto](https://open.spotify.com/album/5Niwa7HW86JlKpafwR679n) | 2:15 |
 | 7 | [CAYENDO](https://open.spotify.com/track/2wG5GIDzRAhheq6ovfeHvq) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [LACOSTA II](https://open.spotify.com/album/61RiJkJfMH0nsqgLqIub3w) | 2:56 |
 | 8 | [King Kong](https://open.spotify.com/track/1k9FsBH9dmfuTmWHEOl7Ew) | [Agorazein](https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Sticky M.A.](https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm), [Jerv.AGZ](https://open.spotify.com/artist/3GDjG6fBhAAB0leAL0aESf) | [King Kong](https://open.spotify.com/album/3f9lVgaPFXNBZrcGcxjdST) | 3:28 |
-| 9 | [Sigo Siendo un Paleto](https://open.spotify.com/track/54D1xbHI0sfrsJkGUNqAsA) | [Agorazein](https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP), [Jerv.AGZ](https://open.spotify.com/artist/3GDjG6fBhAAB0leAL0aESf) | [King Kong](https://open.spotify.com/album/7qdEhA8pTwLqP1OID0q5tZ) | 3:23 |
-| 10 | [BLABLACAR](https://open.spotify.com/track/3eZ5m8voY6Rvh4XsPYoZqS) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [BLABLACAR](https://open.spotify.com/album/4Ei7OUwusHSKklhuKsFmjt) | 3:38 |
+| 9 | [BLABLACAR](https://open.spotify.com/track/3eZ5m8voY6Rvh4XsPYoZqS) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [BLABLACAR](https://open.spotify.com/album/4Ei7OUwusHSKklhuKsFmjt) | 3:38 |
+| 10 | [Sigo Siendo un Paleto](https://open.spotify.com/track/54D1xbHI0sfrsJkGUNqAsA) | [Agorazein](https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP), [Jerv.AGZ](https://open.spotify.com/artist/3GDjG6fBhAAB0leAL0aESf) | [King Kong](https://open.spotify.com/album/7qdEhA8pTwLqP1OID0q5tZ) | 3:23 |
 | 11 | [Red Bull 64 Bars \#02](https://open.spotify.com/track/4t18ol0BSKAobj3Uy0oOmj) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [DistrictBeats](https://open.spotify.com/artist/5ozh1mENQbB4whMtYBhKFe) | [Red Bull 64 Bars \#02](https://open.spotify.com/album/3i52dWBzIlpUdpOgs1Mvln) | 3:56 |
 | 12 | [Niño Maravilla](https://open.spotify.com/track/2VXK1Ra9XakI4f8QbgQGOR) | [LosNiñosDelCaminito](https://open.spotify.com/artist/6BAYblGvSz7IOAer9LvyiM), [DistrictBeats](https://open.spotify.com/artist/5ozh1mENQbB4whMtYBhKFe), [Rulo](https://open.spotify.com/artist/6JjJyHqZtjE7cCI0ufl4F4), [Guilma](https://open.spotify.com/artist/71QmhSzeFN8xjMjJV5LPYq) | [Greguerías](https://open.spotify.com/album/4H4sjY5VszLW5NnRltlXoM) | 2:28 |
 | 13 | [Krooked](https://open.spotify.com/track/68YDIgOZqa1vhD1aUhauTz) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Krooked](https://open.spotify.com/album/3VEK4HVyOqb7ARcvID8fwn) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [LO MÍO \[MARBELLA 3\]](https://open.spotify.com/track/19dcxZ9i7cPMYUR7DWRWVP) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [LO MÍO \[MARBELLA 3\]](https://open.spotify.com/album/7vt6o6LWLtoy9060l72lGs) | 2:49 |
 | 50 | [Amor De Barrio](https://open.spotify.com/track/1TstqJm8Tz1kC5vHRlrwrp) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Amor De Barrio](https://open.spotify.com/album/4TMkzRM2XroXTdUH9mT6hv) | 3:08 |
 
-Snapshot ID: `AAAAANpczcffM4tJbtI25rAKwjJ6j1v8`
+Snapshot ID: `AAAAADSCMCX+MfHtS3q7ZST5hQTxC2Xv`

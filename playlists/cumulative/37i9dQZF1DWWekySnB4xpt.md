@@ -2,9 +2,9 @@
 
 ### [Made In Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWWekySnB4xpt)
 
-> Representando la cultura con orgullo\. Representing with pride! Foto: Lasso
+> Representando la cultura con orgullo\. Representing with pride! Foto: Zulia
 
-237 songs - 13 hr 44 min
+239 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,8 +107,9 @@
 | [Ferrari](https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Ferrari](https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw) | 3:07 | 2022-09-30 | 2024-06-29 |
 | [Flor Pálida](https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:40 | 2026-07-16 | 2026-09-11 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-04-22 | 2022-10-01 |
+| [fuimos felices](https://open.spotify.com/track/22bf5wVhqgQV3SXnFOQLaW) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [fuimos felices](https://open.spotify.com/album/089brC1OhSSily0dlDlMVJ) | 3:38 | 2026-11-20 |  |
 | [gotas \- raw demo](https://open.spotify.com/track/54N459IAKDsbEgBALzGifR) | [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [King Of Big Ideas](https://open.spotify.com/album/5GyHuxECXanvEvJiwfj5l2) | 2:34 | 2026-04-10 | 2026-10-03 |
-| [guacamayas](https://open.spotify.com/track/4pjmp1boROym1Zm0esrunw) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [guacamayas](https://open.spotify.com/album/3DnyDtI7AL1i37WDlqOBPp) | 2:55 | 2026-10-16 |  |
+| [guacamayas](https://open.spotify.com/track/4pjmp1boROym1Zm0esrunw) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [guacamayas](https://open.spotify.com/album/3DnyDtI7AL1i37WDlqOBPp) | 2:55 | 2026-10-16 | 2026-11-20 |
 | [Hennessy](https://open.spotify.com/track/2Cz3yDcBoePfcJCYdpYZCC) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Apokalypsis](https://open.spotify.com/album/396w1nHvgP7SQvdPq4SZya) | 3:49 | 2021-12-17 | 2024-08-01 |
 | [Himno Nacional](https://open.spotify.com/track/3GJGNWgJgQN6xaftJQsBFd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Himno Nacional](https://open.spotify.com/album/6XIWWHP4vkWz0TFm2vekBp) | 2:24 | 2026-05-01 | 2026-10-24 |
 | [Home Alone](https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Home Alone](https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4) | 2:26 | 2024-07-31 | 2025-02-14 |
@@ -165,7 +166,7 @@
 | [Ojitos \(Remix\) \[feat\. El Potro Álvarez & Farruko\]](https://open.spotify.com/track/5EjfGgOtvmbmsgXoONmsY5) | [Sixto Rein](https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7), [El Potro Alvarez](https://open.spotify.com/artist/6P4uOSrdyHqsyLDVcBYUry), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Ojitos \(Remix\) \[feat\. El Potro Álvarez & Farruko\]](https://open.spotify.com/album/4dQ6HJnfubQmA1UgOWWgE0) | 3:56 | 2021-12-17 |  |
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-07-01 | 2026-09-11 |
 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-07-31 |  |
-| [PA'LLÁ YA YO VOY \- Spotify Sessions](https://open.spotify.com/track/3aqfORIhgV3wNxpzJx9vZe) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230) | [Motherflowers \(Spotify Sessions\)](https://open.spotify.com/album/6o2dfZqgH6jkqvZTZSKZR0) | 4:36 | 2026-09-11 |  |
+| [PA'LLÁ YA YO VOY \- Spotify Sessions](https://open.spotify.com/track/3aqfORIhgV3wNxpzJx9vZe) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230) | [Motherflowers \(Spotify Sessions\)](https://open.spotify.com/album/6o2dfZqgH6jkqvZTZSKZR0) | 4:36 | 2026-09-11 | 2026-11-20 |
 | [Pan Con Miel](https://open.spotify.com/track/76KXhl2WCGyc6B0dkhO61W) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Pan Con Miel](https://open.spotify.com/album/3550c67ffZKqFF19wbtM15) | 3:27 | 2021-12-17 | 2022-02-05 |
 | [PARTY TETEO](https://open.spotify.com/track/4vJJKzfLfLEOGHG4b1G9Y1) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [PARTY TETEO](https://open.spotify.com/album/75mKvZIBX3KpW1AQVGWxmm) | 3:41 | 2023-11-21 | 2024-06-08 |
 | [Perfectica](https://open.spotify.com/track/6ufcpz0RT8Di0Pjai02zOH) | [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [ELE A](https://open.spotify.com/artist/5Rl32SPH0DbfNeOst6rtkc), [Flow Morati](https://open.spotify.com/artist/2SHH3i2VerGwmbgivxGxd4), [Machine](https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA) | [Perfectica](https://open.spotify.com/album/7IVIsGoDfWdFyJBBRqkxZq) | 2:44 | 2026-10-16 |  |
@@ -194,6 +195,7 @@
 | [Si Tú No Estás](https://open.spotify.com/track/35hemoZQuo9lEbFSS05I9h) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [En Letra de Otro](https://open.spotify.com/album/1E3FsITcOH4apvzd9PFVtS) | 3:40 | 2026-07-16 | 2026-09-11 |
 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 | 2021-12-17 |  |
 | [So no va](https://open.spotify.com/track/2eW1rnObrBLEpsPXFYiiOZ) | [Neomai](https://open.spotify.com/artist/0EMCLd5tzoPP35uUw23Pxz) | [So no va](https://open.spotify.com/album/6H3EMFja2m53vWjuI0QegB) | 2:41 | 2026-10-09 |  |
+| [SOBREVALORADO](https://open.spotify.com/track/5d4A5YskfqBAFcIAny3zVm) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [CARISMA](https://open.spotify.com/album/0AAfjNV5Nf9ATaMKXR5fQt) | 3:03 | 2026-11-20 |  |
 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 | 2021-12-17 | 2022-04-23 |
 | [Sé Como Duele](https://open.spotify.com/track/7a8ShNCakt6bJj1GhNEdYF) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2GfGn4V16KyYJFtkKL4OHY) | 3:13 | 2021-12-17 |  |
 | [Sé Cómo Duele](https://open.spotify.com/track/1723G9MmbFUTH8yai7AaWL) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2EeG6eYEpdAovdBFioA4C3) | 3:13 | 2023-03-03 | 2024-04-19 |

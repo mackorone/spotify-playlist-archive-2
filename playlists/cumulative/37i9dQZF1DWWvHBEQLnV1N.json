@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 220426,
       "name": "2000 Miles - 2007 Remaster",
       "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215427,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/3htz0sRGLYHbbAS9QeEqpy"
+    },
+    {
+      "album": {
         "name": "Kylie Christmas (Snow Queen Edition)",
         "url": "https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI"
       },
@@ -204,6 +222,24 @@
       "duration_ms": 166146,
       "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
+    },
+    {
+      "album": {
+        "name": "Because It's Christmas",
+        "url": "https://open.spotify.com/album/2zEahpI0F6ovwZD5ipYcIn"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276415,
+      "name": "Because It's Christmas",
+      "url": "https://open.spotify.com/track/4AlRASyUMQpHCQBBiM106y"
     },
     {
       "album": {
@@ -539,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Christmas Magic",
+        "url": "https://open.spotify.com/album/4lBujj6uebRyk0rJlU7ez3"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204031,
+      "name": "Christmas Magic",
+      "url": "https://open.spotify.com/track/6jDVcVcgho5fOdA31WF1G7"
+    },
+    {
+      "album": {
         "name": "Infinite Things (Deluxe Version)",
         "url": "https://open.spotify.com/album/3g2kKcxwX4I7ttohCuZkkF"
       },
@@ -608,7 +662,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 232656,
       "name": "Christmas Tree Farm - Old Timey Version",
       "url": "https://open.spotify.com/track/7r7j12XctfJqZWXsy1Zq9L"
@@ -662,10 +716,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 327666,
       "name": "Christmas Wrapping",
       "url": "https://open.spotify.com/track/5nuDmbVFJAqUyxNr2mN0LX"
+    },
+    {
+      "album": {
+        "name": "Coal For Christmas",
+        "url": "https://open.spotify.com/album/6AoOrBjZ2seaa14pSWwnAI"
+      },
+      "artists": [
+        {
+          "name": "Knats",
+          "url": "https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Coal For Christmas",
+      "url": "https://open.spotify.com/track/3PUVGjKsbCPbrXJ8K0GAgm"
     },
     {
       "album": {
@@ -991,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "Driving Under Stars (Piano Version)",
+        "url": "https://open.spotify.com/album/04ouIP23VOYDkWHIQWb2lj"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219633,
+      "name": "Driving Under Stars - Piano Version",
+      "url": "https://open.spotify.com/track/4RqJtCHaQbwjfaGmEuQI9Q"
+    },
+    {
+      "album": {
         "name": "Every Moment Is Christmas with You",
         "url": "https://open.spotify.com/album/2p40roIIQlBS0trttMKPye"
       },
@@ -1024,6 +1114,32 @@
       "duration_ms": 167333,
       "name": "Every Moment Is Christmas with You",
       "url": "https://open.spotify.com/track/7c83JUp9KUcPFl04clDuwZ"
+    },
+    {
+      "album": {
+        "name": "Fairytale of New York",
+        "url": "https://open.spotify.com/album/1Os8YdtF2auQWkSVflfJZJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Jessie Buckley",
+          "url": "https://open.spotify.com/artist/0gvb5LJ9nR6z0UqohIojP1"
+        },
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294609,
+      "name": "Fairytale of New York",
+      "url": "https://open.spotify.com/track/7lePfle9Ylyr5wYgxfQ1wV"
     },
     {
       "album": {
@@ -1086,7 +1202,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3wV9G5BhrJ1ntlCQYko0if"
@@ -1122,7 +1238,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/5rgStA2VSw8K6jragj6yBx"
@@ -1140,7 +1256,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 205414,
       "name": "First Christmas",
       "url": "https://open.spotify.com/track/2CE1KhKOw23t0CLjfHUPN0"
@@ -1176,7 +1292,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 150209,
       "name": "Gifts For Me",
       "url": "https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B"
@@ -1470,10 +1586,28 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185250,
       "name": "Heading North for Christmas",
       "url": "https://open.spotify.com/track/49H0RxNx7Sonu3l4zEU1W4"
+    },
+    {
+      "album": {
+        "name": "Heaven Is A Place On Earth",
+        "url": "https://open.spotify.com/album/59Tyapxv4VwDqh8NBJJAJC"
+      },
+      "artists": [
+        {
+          "name": "Katherine Jenkins",
+          "url": "https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185297,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/5TVdNsYo8THVmvr8GU0m3K"
     },
     {
       "album": {
@@ -1600,7 +1734,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 206066,
       "name": "I Need You Christmas",
       "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
@@ -1690,7 +1824,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173975,
       "name": "Invisible - from the Netflix Film Klaus",
       "url": "https://open.spotify.com/track/62z2Su8BBGvR50aOvdjPzW"
@@ -1838,6 +1972,24 @@
       "duration_ms": 152570,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Beginning to Look a Lot Like Christmas",
+        "url": "https://open.spotify.com/album/1h2WJJI1GFrW6pmrYjdVLy"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183604,
+      "name": "It\u2019s Beginning to Look a Lot Like Christmas",
+      "url": "https://open.spotify.com/track/4ryiqhPWIIyPEpVRj3CLIj"
     },
     {
       "album": {
@@ -2444,7 +2596,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161933,
       "name": "Not Tonight Santa",
       "url": "https://open.spotify.com/track/55fhKXmY0UzzGT4AUwNvRe"
@@ -2824,7 +2976,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 202546,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/0cM5URUqqQTpJWonmdzF1J"
@@ -3029,6 +3181,24 @@
     },
     {
       "album": {
+        "name": "Santa, Can I Borrow Your Sleigh?",
+        "url": "https://open.spotify.com/album/1TlsoZZ9UmDTIvatxdMYDW"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hill",
+          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Santa, Can I Borrow Your Sleigh?",
+      "url": "https://open.spotify.com/track/1arqlWF4hQcH5cV68dVgAP"
+    },
+    {
+      "album": {
         "name": "When Christmas Comes Around...",
         "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
       },
@@ -3170,7 +3340,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 267133,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
@@ -3224,7 +3394,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 272333,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
@@ -3242,10 +3412,50 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 272393,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
+    },
+    {
+      "album": {
+        "name": "take me home (4 christmas)",
+        "url": "https://open.spotify.com/album/50o3Wm98DQENFLiiX3zd5B"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177685,
+      "name": "take me home (4 christmas)",
+      "url": "https://open.spotify.com/track/4UjYZS6Jbt3lee27qmiNOu"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/5KXwDpsrJqOHNwsfILXDSY"
+      },
+      "artists": [
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Rebecca Ferguson",
+          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182921,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/6QSDeBjCJpbjRdJWJ4E1xK"
     },
     {
       "album": {
@@ -3340,6 +3550,24 @@
       "duration_ms": 231173,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6"
+    },
+    {
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/4P8KlejFiY1lFJJXMg5CIf"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205453,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/3I9AWnNUUvrtdi475VSlfI"
     },
     {
       "album": {
@@ -3650,7 +3878,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 132800,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4MQOInul4Fa1ymK6ocq0jM"
@@ -3734,10 +3962,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 132800,
       "name": "Winter Wonderland - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
+    {
+      "album": {
+        "name": "You Can\u2019t Always Get What You Want",
+        "url": "https://open.spotify.com/album/31zG99gXzLghNgJLjgkurF"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209457,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/6zhR2wbiqSEZwjP28aHEDY"
     },
     {
       "album": {

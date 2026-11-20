@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Aline Barros & Daniel Calveti",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Johan y Sofi & Grupo Grace",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -5536,7 +5536,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 335000,
       "name": "Dios de Poder - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3lTKuyPcqfaB3Z1YBWVynz"
@@ -13853,6 +13853,28 @@
     },
     {
       "album": {
+        "name": "NUNCA FUE LA RELIGI\u00d3N",
+        "url": "https://open.spotify.com/album/6ZkpdQKfaSQSamnd3jWUVH"
+      },
+      "artists": [
+        {
+          "name": "Johan y Sofi",
+          "url": "https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT"
+        },
+        {
+          "name": "Grupo Grace",
+          "url": "https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471874,
+      "name": "NUNCA FUE LA RELIGI\u00d3N",
+      "url": "https://open.spotify.com/track/64mribyzDkvpDnxqM9chsK"
+    },
+    {
+      "album": {
         "name": "Ser Humano",
         "url": "https://open.spotify.com/album/7GAFM73bQdOTQ9qOas9TNt"
       },
@@ -14100,7 +14122,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 357000,
       "name": "PACTO",
       "url": "https://open.spotify.com/track/6U8gWR2cqiBCMC8bQkVL2S"
@@ -17106,6 +17128,24 @@
       "duration_ms": 355867,
       "name": "Socorro - En Vivo desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/0iVyFhkvbxVFsMzujlZ6PC"
+    },
+    {
+      "album": {
+        "name": "Sol en d\u00eda nublado / Gracias (Sesiones ac\u00fasticas)",
+        "url": "https://open.spotify.com/album/4OjJYi9H0n6G9iZvVcU8vr"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185054,
+      "name": "Sol en d\u00eda nublado / Gracias - Sesiones ac\u00fasticas",
+      "url": "https://open.spotify.com/track/3VrJKJOiJIY5g8LOy0yH8a"
     },
     {
       "album": {

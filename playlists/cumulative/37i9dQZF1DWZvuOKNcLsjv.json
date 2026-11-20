@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: The Weeknd",
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Fall Out Boy",
   "name": "Next Up",
   "tracks": [
     {
@@ -2368,6 +2368,24 @@
       "duration_ms": 229799,
       "name": "Acervation",
       "url": "https://open.spotify.com/track/1WDBTG5GxhEqETVuOlyESU"
+    },
+    {
+      "album": {
+        "name": "ACES",
+        "url": "https://open.spotify.com/album/6T9ZMACdVbFDmk22nZLpzH"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211844,
+      "name": "ACES",
+      "url": "https://open.spotify.com/track/2sCwIkIPsvrZXbHNQWkvo8"
     },
     {
       "album": {
@@ -5903,6 +5921,24 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/77i2hnrLLEg4T5GOFCXakR"
+      },
+      "artists": [
+        {
+          "name": "STARGLOW",
+          "url": "https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221033,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5ht69Xbfj12h1n6Nd12qaW"
+    },
+    {
+      "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
@@ -8324,6 +8360,24 @@
       "duration_ms": 201440,
       "name": "Best Friend Ever",
       "url": "https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu"
+    },
+    {
+      "album": {
+        "name": "bestie (Spotify BLUE? It's Okay Ver.)",
+        "url": "https://open.spotify.com/album/15QUwtZB0Z9CFBqebkGhfX"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232166,
+      "name": "bestie - Spotify BLUE? It's Okay Ver.",
+      "url": "https://open.spotify.com/track/0w1z0b7poorHv4JTpFhNfA"
     },
     {
       "album": {
@@ -16106,7 +16160,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159700,
       "name": "Cry Ugly",
       "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
@@ -16558,6 +16612,24 @@
       "duration_ms": 186689,
       "name": "DAISOUSA",
       "url": "https://open.spotify.com/track/6f7YVYvULG8tqxuHsyX1fn"
+    },
+    {
+      "album": {
+        "name": "Pirouette",
+        "url": "https://open.spotify.com/album/6TnYUZpDRbl6GiREL8Md4F"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252972,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/6Y98b7FYCZkd3JX3diPzd0"
     },
     {
       "album": {
@@ -41248,7 +41320,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184584,
       "name": "KILLA",
       "url": "https://open.spotify.com/track/62QKQ1q60ia1JdRq3z5QLe"
@@ -43124,6 +43196,24 @@
       "duration_ms": 222386,
       "name": "Leave The Club (feat. Lil Durk & GloRilla)",
       "url": "https://open.spotify.com/track/1CJ8e0zc8uvAmkqdeXrq4u"
+    },
+    {
+      "album": {
+        "name": "Leave You (Never)",
+        "url": "https://open.spotify.com/album/719K239D6kQI3oi3Bw8rbJ"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168154,
+      "name": "Leave You (Never)",
+      "url": "https://open.spotify.com/track/3e3CdVMNH7gIvjKrzO63b7"
     },
     {
       "album": {
@@ -48565,6 +48655,24 @@
     },
     {
       "album": {
+        "name": "AAO",
+        "url": "https://open.spotify.com/album/0sZcpa3BHSXlFor4YfAACL"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "MATCHA",
+      "url": "https://open.spotify.com/track/7gESiMMOwo8uFkc1mb0ZPZ"
+    },
+    {
+      "album": {
         "name": "may",
         "url": "https://open.spotify.com/album/64EZp5OE6kW7lfqujN7Cgd"
       },
@@ -52484,7 +52592,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 153346,
       "name": "NAME CARD",
       "url": "https://open.spotify.com/track/2cdViINfZeLuD8UnTZ9a6E"
@@ -53508,7 +53616,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 228000,
       "name": "New Journey",
       "url": "https://open.spotify.com/track/7dOWN2UK7jsmtnGAs8CcLr"
@@ -60302,6 +60410,32 @@
       "duration_ms": 217800,
       "name": "Pixelated World",
       "url": "https://open.spotify.com/track/3RpOIBagPbiKPbYJWrQyRo"
+    },
+    {
+      "album": {
+        "name": "PLACEBO",
+        "url": "https://open.spotify.com/album/0omkU5UvXfhpwzVR94l2pR"
+      },
+      "artists": [
+        {
+          "name": "TAXMEN",
+          "url": "https://open.spotify.com/artist/3jPLkrcUodhzpbCXABDixk"
+        },
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        },
+        {
+          "name": "OMSB",
+          "url": "https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180490,
+      "name": "PLACEBO",
+      "url": "https://open.spotify.com/track/7ICyjliwPnl5wxvfLWhagw"
     },
     {
       "album": {
@@ -72886,7 +73020,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169360,
       "name": "SUIATSU",
       "url": "https://open.spotify.com/track/4c4nLX4HDPiEuLJV52AsyI"
@@ -74832,7 +74966,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164123,
       "name": "Take What You Need",
       "url": "https://open.spotify.com/track/06Fg5OKkRBN4HxzTzT0uLt"
@@ -83316,7 +83450,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 150810,
       "name": "W1000",
       "url": "https://open.spotify.com/track/4iTB4pj1Q0IAJ0kjiOyaXU"
@@ -108001,6 +108135,24 @@
     },
     {
       "album": {
+        "name": "\u751f\u304d\u308b",
+        "url": "https://open.spotify.com/album/2sjNYJII6ihvIeF88Nlwnr"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175777,
+      "name": "\u751f\u304d\u308b",
+      "url": "https://open.spotify.com/track/6zQmv0NOvfmlLs1PnHQGr0"
+    },
+    {
+      "album": {
         "name": "\u751f\u6d3b",
         "url": "https://open.spotify.com/album/6vwrGmSQjnbV8BYBxQF6nB"
       },
@@ -109256,6 +109408,28 @@
       "duration_ms": 266366,
       "name": "\u82b1\u675f",
       "url": "https://open.spotify.com/track/2MhP1tqHPv71cqf2Tg1PtD"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u675f \u30b5\u30f3\u30dc\u30de\u30b9\u30bf\u30fc\u3068\u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/3Uzrmh2zIXrYUtcLDsLHNS"
+      },
+      "artists": [
+        {
+          "name": "Sambomaster",
+          "url": "https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB"
+        },
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335800,
+      "name": "\u82b1\u675f \u30b5\u30f3\u30dc\u30de\u30b9\u30bf\u30fc\u3068\u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/2lgnjzDcEXnvLog0f1isrx"
     },
     {
       "album": {
@@ -111808,7 +111982,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 225951,
       "name": "\u98fd\u3005",
       "url": "https://open.spotify.com/track/34Jr5X1tMIBMeW5rE0AMuG"

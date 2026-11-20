@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,808 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,835 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 36 | [KEKE](https://open.spotify.com/track/7ELPiYjcp2DjvbrKdqcAx1) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Fetty Wap](https://open.spotify.com/artist/4sUASeYbHY6bwgMMTPJwdz), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Day69: Graduation Day](https://open.spotify.com/album/5RPGNLQhSag601FMPT2VW6) | 2:31 |
 | 37 | [Wait \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Wait \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE) | 3:10 |
 | 38 | [Stretch You Out \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 |
-| 39 | [Baguettes in the Face \(feat\. NAV, Playboi Carti & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 2:54 |
-| 40 | [24 Hours \(feat\. Lil Durk\)](https://open.spotify.com/track/0YH1xT3Z7wR6dZyaCwSziK) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [24 Hours \(feat\. Lil Durk\)](https://open.spotify.com/album/3nyQMczxyW20jgN3f8Qe9N) | 3:25 |
+| 39 | [24 Hours \(feat\. Lil Durk\)](https://open.spotify.com/track/0YH1xT3Z7wR6dZyaCwSziK) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [24 Hours \(feat\. Lil Durk\)](https://open.spotify.com/album/3nyQMczxyW20jgN3f8Qe9N) | 3:25 |
+| 40 | [Baguettes in the Face \(feat\. NAV, Playboi Carti & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 2:54 |
 | 41 | [No Promises](https://open.spotify.com/track/2BJpuAoDeQ1QuPvnryfAWK) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:17 |
 | 42 | [February](https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:34 |
 | 43 | [Lovin' \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/2bwN9oZIn9XXSd8RlJ4FDM) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Catch These Vibes](https://open.spotify.com/album/2sCwWLX6DJgjCACS0iEBHD) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 49 | [Say A'](https://open.spotify.com/track/3AMnOVxEHUgVrythGgqPhI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:34 |
 | 50 | [Stack It Up \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 2:45 |
 
-Snapshot ID: `avpHgAAAAACaZnKAe47r8VN15q2krwiS`
+Snapshot ID: `avzqgAAAAAAbRPEaScwd6m5HssHmiA9P`

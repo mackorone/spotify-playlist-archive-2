@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 753288,
+  "num_followers": 753347,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtjtrt+GRKEg0MjCxfguz+SiF4N",
+  "snapshot_id": "AAAAAImHJfZXdoXSvGCd/CG/fVyw2g/X",
   "tracks": [
     {
       "added_at": "2026-07-10 04:00:56",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Fast Car",
-        "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
-        }
-      ],
-      "duration_ms": 212424,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "The Ocean (feat. Shy Martin)",
         "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 183414,
       "name": "The Ocean (feat. Shy Martin)",
       "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Fast Car",
+        "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "duration_ms": 212424,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Seve (Radio Edit)",
         "url": "https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 210853,
       "name": "Seve - Radio Edit",
       "url": "https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "The Last Dance, Pt 2",
+        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 193608,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "Stargazing - EP",
         "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "The Last Dance, Pt 2",
-        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 193608,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
         "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
       },
@@ -1247,26 +1247,6 @@
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Constance Power",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1287,6 +1267,26 @@
       "duration_ms": 199245,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Constance Power",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Love Songs (feat. Kosmo Kint)",
-        "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Love Songs (feat. Kosmo Kint)",
-      "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Goodbye (feat. Lyse) [Radio Edit]",
         "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 201938,
       "name": "Goodbye (feat. Lyse) - Radio Edit",
       "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Love Songs (feat. Kosmo Kint)",
+        "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Love Songs (feat. Kosmo Kint)",
+      "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 250000,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Help Me Lose My Mind",
-        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
-      },
-      "artists": [
-        {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
-        }
-      ],
-      "duration_ms": 172945,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Serotonin Moonbeams",
         "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 287440,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Help Me Lose My Mind",
+        "url": "https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "duration_ms": 172945,
+      "name": "Help Me Lose My Mind",
+      "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 172374,
-      "name": "Self Love",
-      "url": "https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "I Was Wrong (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/1jyWfFpqX77KFi32DtAIbT"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 220677,
       "name": "I Was Wrong - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/3TZ3MiMILR5wrQbbWiFUwI"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 172374,
+      "name": "Self Love",
+      "url": "https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -2639,6 +2639,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "The Chase (Edit)",
+        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "The Chase (Edit)",
+      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "To Love Again",
         "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
       },
@@ -2655,22 +2671,6 @@
       "duration_ms": 228125,
       "name": "To Love Again",
       "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "The Chase (Edit)",
-        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "The Chase (Edit)",
-      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
     },
     {
       "added_at": "2026-07-10 04:00:56",

@@ -4,7 +4,7 @@
 
 > from your FYP and beyond\. Cover: Drake
 
-1,722 songs - 3 day 10 hr 43 min
+1,723 songs - 3 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Could It Be \(feat\. Swae Lee\)](https://open.spotify.com/track/3Tu8IlxZhMYzWx97ljDnTR) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Pain & Love 2](https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN) | 2:53 | 2024-02-09 | 2024-02-17 |
 | [Count Money \(feat\. Bossman Dlow\)](https://open.spotify.com/track/5qOQkax7uhJmezY1dWjJj6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Count Money \(feat\. Bossman Dlow\)](https://open.spotify.com/album/4ce8dUVfxMp8FazEMMKBhK) | 2:42 | 2024-08-23 | 2024-08-31 |
 | [COUNT MY BANDZ](https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [COUNT MY BANDZ](https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW) | 2:03 | 2024-09-20 | 2024-10-12 |
+| [COUNT UP \(from GTAVI: The Album\)](https://open.spotify.com/track/2S6rUArYztXWqZrdEFnAGU) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [COUNT UP \(from GTAVI: The Album\)](https://open.spotify.com/album/0xjLEx17uTXmubtcLtbF9n) | 3:01 | 2026-11-20 |  |
 | [Counting Time](https://open.spotify.com/track/1nfKS6fgYustmjIWp36qsW) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Melodic Therapy 4 The Broken](https://open.spotify.com/album/4LUn1xpue7Y0egzBCA5hs8) | 3:46 | 2022-03-11 | 2022-07-30 |
 | [Cowboy Killer](https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 2:22 | 2024-03-22 | 2024-03-30 |
 | [CR@SH \(feat\. Travis Scott\)](https://open.spotify.com/track/1KmmViIziBGJQa728cXkzh) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ALL TIME HIGH](https://open.spotify.com/album/1eqb4sPiZO1oLXs0ADlcW2) | 2:16 | 2024-08-30 | 2024-10-12 |
@@ -805,7 +806,7 @@
 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 | 2024-08-16 | 2024-08-31 |
 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/3kH94a1MQM7YrpsZRWuXrh) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Keep It Low \(feat\. Future\)](https://open.spotify.com/album/30XjUCo4sqJqNuYuJdYAFu) | 2:22 | 2023-06-02 | 2023-06-17 |
 | [keep me going \(BIRDBRAIN\)](https://open.spotify.com/track/2julCvWIxzXfX757t5Bnsn) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [keep me going \(BIRDBRAIN\)](https://open.spotify.com/album/6OOrYEPMhJEryhQVEFYxFR) | 2:09 | 2026-08-01 | 2026-08-22 |
-| [keep steady](https://open.spotify.com/track/2VOt88FoSGjSOuzLaeqz5k) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [no service](https://open.spotify.com/album/1UKK69dkl1m29OhETYyfcv) | 1:39 | 2025-08-08 |  |
+| [keep steady](https://open.spotify.com/track/2VOt88FoSGjSOuzLaeqz5k) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [no service](https://open.spotify.com/album/1UKK69dkl1m29OhETYyfcv) | 1:39 | 2025-08-08 | 2026-11-20 |
 | [Keeper](https://open.spotify.com/track/2DxrPZi0nxaIrGciFmErTW) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Keeper](https://open.spotify.com/album/2coZBB3PhjAsm1HMRucDwm) | 3:20 | 2022-05-06 | 2022-07-16 |
 | [Keeper \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5b2CRPYt0QNA0jaCJNIIdn) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [GEEZYWORLD](https://open.spotify.com/album/0kNhJM4dXKfsKbCERz7QBg) | 2:49 | 2021-09-03 | 2022-03-18 |
 | [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 | 2024-05-31 | 2026-01-31 |
@@ -962,7 +963,7 @@
 | [Move Wrong \(feat\. VonOff1700\)](https://open.spotify.com/track/2SMF2u7O3EWWQOGOWV0saV) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Move Wrong \(feat\. VonOff1700\)](https://open.spotify.com/album/7v6gSKQkaHs78xNG9FMLFd) | 2:19 | 2025-08-15 | 2025-08-23 |
 | [Movin'](https://open.spotify.com/track/6LY60TJtxLNbsBtwUKRaxo) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Movin'](https://open.spotify.com/album/2rHcTFQ8r6dpPwPE0UTRVD) | 2:10 | 2023-03-17 | 2023-04-01 |
 | [MR RECOUP](https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:45 | 2025-12-12 |  |
-| [Mr\. Do Something](https://open.spotify.com/track/76NXZbJq6nsXOHR4iJDbZY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [FRESH](https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP) | 2:50 | 2026-11-06 |  |
+| [Mr\. Do Something](https://open.spotify.com/track/76NXZbJq6nsXOHR4iJDbZY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [FRESH](https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP) | 2:50 | 2026-11-06 | 2026-11-20 |
 | [Mr\. Jones \(feat\. Anuel AA\)](https://open.spotify.com/track/3QPZqYIzgEXbVouiHpu7wR) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 3:49 | 2021-09-03 | 2022-03-12 |
 | [Mr\. President](https://open.spotify.com/track/0Z3ds3GJ7FqoaSgn6tLKF3) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Mr\. President](https://open.spotify.com/album/4h4xBYSdDUOLwlUKa72zba) | 2:14 | 2025-08-08 | 2025-09-07 |
 | [Mr\. Skii](https://open.spotify.com/track/2PwWZ6NySkxwGBx9A2x5Ke) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 2:09 | 2024-08-23 | 2024-08-31 |

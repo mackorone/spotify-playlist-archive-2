@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,350 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,352 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 47 | [Warum nur, warum](https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Udo Jürgens \- Die Erfolgsgeschichte](https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6) | 2:58 |
 | 48 | [Era](https://open.spotify.com/track/6rOWvMzDHtOUabr8TsDVrh) | [Dori Ghezzi](https://open.spotify.com/artist/28iEG9gvRrh6taxyKFmDnB), [Wess](https://open.spotify.com/artist/1pXnYmLbedhz708gdE8zhe) | [Wess & Dori Ghezzi](https://open.spotify.com/album/13I0wj6y9uifqp1jYk8htl) | 2:53 |
 | 49 | [Tom Pillibi](https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS) | [Jacqueline Boyer](https://open.spotify.com/artist/39CXnW4H5Zc2567MY5UaeH) | [Succès et raretés \(Collection "78 tours et puis s'en vont..."\)](https://open.spotify.com/album/7sklBkyosCBaqrUisOaPRG) | 3:03 |
-| 50 | [La source](https://open.spotify.com/track/67fSydtPAw4ILzqie4tD54) | [Isabelle Aubret](https://open.spotify.com/artist/1YUyLxEVcC1mjIpFYu8vG5) | [C'est Beau La Vie](https://open.spotify.com/album/53bNaq6fM32w2tDlDY8iIA) | 3:08 |
-| 51 | [Tourada](https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV) | [Fernando Tordo](https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL), [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Duetos \- Diz\-me Com Quem Cantas](https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH) | 3:57 |
+| 50 | [Tourada](https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV) | [Fernando Tordo](https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL), [Capicua](https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ) | [Duetos \- Diz\-me Com Quem Cantas](https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH) | 3:57 |
+| 51 | [La source](https://open.spotify.com/track/67fSydtPAw4ILzqie4tD54) | [Isabelle Aubret](https://open.spotify.com/artist/1YUyLxEVcC1mjIpFYu8vG5) | [C'est Beau La Vie](https://open.spotify.com/album/53bNaq6fM32w2tDlDY8iIA) | 3:08 |
 | 52 | [Tipi\-tii](https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Marion Rung](https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL) | 2:12 |
 | 53 | [Junger Tag](https://open.spotify.com/track/1MFZ9Qn3D2Mq7CGBM20T0q) | [Gitte Hænning](https://open.spotify.com/artist/61colh5ssNlVYwuzlQyB1u) | [Mega 50 \- Die 70er Jahre](https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls) | 3:20 |
 | 54 | [Hablemos del amor](https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 2:51 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 62 | [Et Bonjour A Toi l'Artiste](https://open.spotify.com/track/5eGnVU7C3mRbXMergmSz9Q) | [Nicole Rieu](https://open.spotify.com/artist/77eP94nF4XoaYvzx5W8CVC) | [Nicole Rieu](https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl) | 3:42 |
 | 63 | [Primaballerina \- tysk Version](https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc) | [Siw Malmkvist](https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl) | [Primaballerina](https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy) | 2:42 |
 | 64 | [Telegram](https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Golden Girls](https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV) | 3:03 |
-| 65 | [Le chant de Mallory](https://open.spotify.com/track/5ATFYzJdCMISJUUVRDUHMA) | [Rachel](https://open.spotify.com/artist/6DYyXD1zYrJj8t9gzWhdii) | [Popp Songs](https://open.spotify.com/album/4wvER0DV3Av6iGOwfbeMsj) | 2:22 |
-| 66 | [Tom Tom Tom](https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Big\-5: Marion](https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U) | 2:55 |
+| 65 | [Tom Tom Tom](https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Big\-5: Marion](https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U) | 2:55 |
+| 66 | [Le chant de Mallory](https://open.spotify.com/track/5ATFYzJdCMISJUUVRDUHMA) | [Rachel](https://open.spotify.com/artist/6DYyXD1zYrJj8t9gzWhdii) | [Popp Songs](https://open.spotify.com/album/4wvER0DV3Av6iGOwfbeMsj) | 2:22 |
 | 67 | [Brez besed \- Evrovizija 1966](https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK) | [Berta Ambroz](https://open.spotify.com/artist/04mSp2LAR4PNf4nWSJTXWq) | [Brez besed](https://open.spotify.com/album/17XZ6Nn2VQ1xbnUU27d8U9) | 2:45 |
 | 68 | [That's What Friends Are For](https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp) | [The Swarbriggs](https://open.spotify.com/artist/2lDzSLqo8rRCm5koxElxRb) | [Reeling In The Decades](https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ) | 2:53 |
 | 69 | [Tsarly Tsaplin](https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD) | [Tania Tsanaklidou](https://open.spotify.com/artist/2M0MfjN3wqrrvKHXohxTfw) | [Tsarli Tsaplin](https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM) | 2:51 |
 | 70 | [Lapponia](https://open.spotify.com/track/08QQrrdpXS5KmhSMD5EWMF) | [Monica Aspelund](https://open.spotify.com/artist/7w9tPKXjGqTQrH1uPdqPfh) | [100 Kaikkien aikojen iskelmää](https://open.spotify.com/album/585cJ3uhtjvZpj8kDm0pEn) | 2:47 |
 
-Snapshot ID: `AAAAANByuilLmS7mc61NtH8k5bhtVJAb`
+Snapshot ID: `AAAAAF1TTYEZ5cxwshkcu37f4Gry9/Pd`

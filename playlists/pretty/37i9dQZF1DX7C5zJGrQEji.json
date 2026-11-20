@@ -1,12 +1,12 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 16350,
+  "num_followers": 16355,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMNkX54VaV8XLPMKZQc3DCbTYiyt",
+  "snapshot_id": "AAAAAJ+NRQeng5Jzux8dSpuFn0KnAF/B",
   "tracks": [
     {
       "added_at": "2026-09-21 12:48:30",
@@ -867,30 +867,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Dar (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3pKjNLOnBzVgxSDkgSIdRh"
-      },
-      "artists": [
-        {
-          "name": "Jason Singh",
-          "url": "https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ"
-        },
-        {
-          "name": "Liz Hanks",
-          "url": "https://open.spotify.com/artist/5B32GY0pTU39Smw5pwWeg6"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 326311,
-      "name": "Dar (feat. NATURE)",
-      "url": "https://open.spotify.com/track/6TLZz8jKRZJ6qZ00UOqt9a"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Life Goes On (feat. NATURE)",
         "url": "https://open.spotify.com/album/3vOOrWRwuomA8OIE53YRsP"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 296000,
       "name": "Life Goes On (feat. NATURE)",
       "url": "https://open.spotify.com/track/7nQXaKlRB587FSC5JftWcN"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Dar (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3pKjNLOnBzVgxSDkgSIdRh"
+      },
+      "artists": [
+        {
+          "name": "Jason Singh",
+          "url": "https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ"
+        },
+        {
+          "name": "Liz Hanks",
+          "url": "https://open.spotify.com/artist/5B32GY0pTU39Smw5pwWeg6"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 326311,
+      "name": "Dar (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6TLZz8jKRZJ6qZ00UOqt9a"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -977,30 +977,6 @@
       "url": "https://open.spotify.com/track/6b4uNZTuGEcjCDTYFE58nf"
     },
     {
-      "added_at": "2026-06-08 00:27:39",
-      "album": {
-        "name": "A Different World",
-        "url": "https://open.spotify.com/album/58SK9T5kY14CC69JpUxb81"
-      },
-      "artists": [
-        {
-          "name": "Jason Singh",
-          "url": "https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Yazz Ahmed",
-          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "A Different World",
-      "url": "https://open.spotify.com/track/2VZVYmxvW3E8pxFPULwiJd"
-    },
-    {
       "added_at": "2026-02-05 08:45:41",
       "album": {
         "name": "You & I - Sounds Right (feat. NATURE)",
@@ -1023,6 +999,30 @@
       "duration_ms": 228693,
       "name": "You & I - Sounds Right (feat. NATURE)",
       "url": "https://open.spotify.com/track/2beuW2zkLOUDUcdaoACTuA"
+    },
+    {
+      "added_at": "2026-06-08 00:27:39",
+      "album": {
+        "name": "A Different World",
+        "url": "https://open.spotify.com/album/58SK9T5kY14CC69JpUxb81"
+      },
+      "artists": [
+        {
+          "name": "Jason Singh",
+          "url": "https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "A Different World",
+      "url": "https://open.spotify.com/track/2VZVYmxvW3E8pxFPULwiJd"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "LETE AMBO - All We Need (feat. NATURE)",
-        "url": "https://open.spotify.com/album/0OOupp3cXfV1RI6PR7ZFGk"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        },
-        {
-          "name": "JJ PAULO",
-          "url": "https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "LETE AMBO - All We Need (feat. NATURE)",
-      "url": "https://open.spotify.com/track/1bizefHeXZNNsBv3ucLbQc"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Wale Nze Mbong (feat. NATURE)",
         "url": "https://open.spotify.com/album/3vBkdTiLc7K3ukaltgS4EQ"
       },
@@ -1187,30 +1163,46 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Somos R\u00edo Vivo (feat. NATURE)",
-        "url": "https://open.spotify.com/album/0sKOw24k7tLTPHewdUlo6u"
+        "name": "LETE AMBO - All We Need (feat. NATURE)",
+        "url": "https://open.spotify.com/album/0OOupp3cXfV1RI6PR7ZFGk"
       },
       "artists": [
         {
-          "name": "Mariposa Solar",
-          "url": "https://open.spotify.com/artist/1wft9KoPpO7Imb4uzXy3cw"
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
         },
         {
-          "name": "Conector",
-          "url": "https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT"
+          "name": "JJ PAULO",
+          "url": "https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
         }
       ],
-      "duration_ms": 275110,
-      "name": "Somos R\u00edo Vivo (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2X64uhBr2j5YkaVh99xsxC"
+      "duration_ms": 226285,
+      "name": "LETE AMBO - All We Need (feat. NATURE)",
+      "url": "https://open.spotify.com/track/1bizefHeXZNNsBv3ucLbQc"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Lesser Spotted (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3MN0OGSZUjsetEhOHlDdX8"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 202122,
+      "name": "Lesser Spotted (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0KP19nnFanB8K2h8bQp1Yv"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1235,6 +1227,26 @@
       "duration_ms": 291461,
       "name": "Metropolis (feat. NATURE)",
       "url": "https://open.spotify.com/track/2eisqIatF58br1F2BA6b3N"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "In Purpose (feat. NATURE)",
+        "url": "https://open.spotify.com/album/0EHyjPgDfmVplZ2oaPLEQG"
+      },
+      "artists": [
+        {
+          "name": "Madame Gandhi",
+          "url": "https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 241212,
+      "name": "In Purpose (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0fYg8DpVBD8xSY3Y2slmrR"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1279,62 +1291,30 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "In Purpose (feat. NATURE)",
-        "url": "https://open.spotify.com/album/0EHyjPgDfmVplZ2oaPLEQG"
+        "name": "Somos R\u00edo Vivo (feat. NATURE)",
+        "url": "https://open.spotify.com/album/0sKOw24k7tLTPHewdUlo6u"
       },
       "artists": [
         {
-          "name": "Madame Gandhi",
-          "url": "https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf"
+          "name": "Mariposa Solar",
+          "url": "https://open.spotify.com/artist/1wft9KoPpO7Imb4uzXy3cw"
+        },
+        {
+          "name": "Conector",
+          "url": "https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 241212,
-      "name": "In Purpose (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0fYg8DpVBD8xSY3Y2slmrR"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Lesser Spotted (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3MN0OGSZUjsetEhOHlDdX8"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
         },
         {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
         }
       ],
-      "duration_ms": 202122,
-      "name": "Lesser Spotted (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0KP19nnFanB8K2h8bQp1Yv"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "What In The World (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4TS8s49jue6a2xcmGk9ejN"
-      },
-      "artists": [
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 198911,
-      "name": "What In The World (feat. NATURE)",
-      "url": "https://open.spotify.com/track/6SQTv4pqlFzbofosQGAX69"
+      "duration_ms": 275110,
+      "name": "Somos R\u00edo Vivo (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2X64uhBr2j5YkaVh99xsxC"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1359,22 +1339,22 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Chronograph (feat. NATURE)",
-        "url": "https://open.spotify.com/album/68hUXfnVgzdoxUU2YT6MMo"
+        "name": "What In The World (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4TS8s49jue6a2xcmGk9ejN"
       },
       "artists": [
         {
-          "name": "Daniel Thorne",
-          "url": "https://open.spotify.com/artist/09FKyu3X3nWAQDfidfHPyu"
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 373514,
-      "name": "Chronograph (feat. NATURE)",
-      "url": "https://open.spotify.com/track/6JQpt3ptJvRgvTLmzIPBSV"
+      "duration_ms": 198911,
+      "name": "What In The World (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6SQTv4pqlFzbofosQGAX69"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1395,6 +1375,26 @@
       "duration_ms": 206877,
       "name": "Orange Skies - Chapter 2 (feat. NATURE)",
       "url": "https://open.spotify.com/track/4Y2ZhE91YTh1LCZfbW7LhW"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3uYcFZ6EAYLY2lXJYhpmz4"
+      },
+      "artists": [
+        {
+          "name": "Magnus M\u00fcnster",
+          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 197809,
+      "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
+      "url": "https://open.spotify.com/track/7qWReEoqggN71VzO58JnV2"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1427,22 +1427,42 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3uYcFZ6EAYLY2lXJYhpmz4"
+        "name": "Chronograph (feat. NATURE)",
+        "url": "https://open.spotify.com/album/68hUXfnVgzdoxUU2YT6MMo"
       },
       "artists": [
         {
-          "name": "Magnus M\u00fcnster",
-          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
+          "name": "Daniel Thorne",
+          "url": "https://open.spotify.com/artist/09FKyu3X3nWAQDfidfHPyu"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 197809,
-      "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
-      "url": "https://open.spotify.com/track/7qWReEoqggN71VzO58JnV2"
+      "duration_ms": 373514,
+      "name": "Chronograph (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6JQpt3ptJvRgvTLmzIPBSV"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Nightingale (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
+      },
+      "artists": [
+        {
+          "name": "Wildforms",
+          "url": "https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 163408,
+      "name": "Nightingale (feat. NATURE)",
+      "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1467,26 +1487,6 @@
       "duration_ms": 374634,
       "name": "Koth Biro (feat. NATURE)",
       "url": "https://open.spotify.com/track/0Qhrpf41orOWGIS0Fzayqs"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Nightingale (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02"
-      },
-      "artists": [
-        {
-          "name": "Wildforms",
-          "url": "https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 163408,
-      "name": "Nightingale (feat. NATURE)",
-      "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1605,6 +1605,30 @@
       "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
     },
     {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Breathe (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4gr69bVV2WxDFAqYf3q2It"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        },
+        {
+          "name": "Endel",
+          "url": "https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 180613,
+      "name": "Breathe (feat. NATURE) - Ocean Edit",
+      "url": "https://open.spotify.com/track/1SdqHTOuQsSl9I893o4iAr"
+    },
+    {
       "added_at": "2026-04-21 10:00:28",
       "album": {
         "name": "Passerine",
@@ -1643,30 +1667,6 @@
       "duration_ms": 246371,
       "name": "GO SLOW - the shoreline version",
       "url": "https://open.spotify.com/track/7BOuKswDcifPqQMMJpXfNi"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Breathe (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4gr69bVV2WxDFAqYf3q2It"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        },
-        {
-          "name": "Endel",
-          "url": "https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 180613,
-      "name": "Breathe (feat. NATURE) - Ocean Edit",
-      "url": "https://open.spotify.com/track/1SdqHTOuQsSl9I893o4iAr"
     },
     {
       "added_at": "2026-02-05 08:45:41",

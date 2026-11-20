@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: KUKO
 
-554 songs - 1 day 4 hr 4 min
+556 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 | 2022-08-25 | 2024-06-07 |
 | [Boomerang](https://open.spotify.com/track/1DilMm613lCaBlin10YfGM) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Aylo Technology](https://open.spotify.com/album/0AbFBBT1NiSS7x9IDghT2T) | 2:11 | 2021-12-16 | 2022-01-21 |
 | [Born To Be Blue](https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Born To Be Blue](https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c) | 2:51 | 2025-09-11 | 2025-09-26 |
+| [Bottle Service VIG](https://open.spotify.com/track/6kPXvN6u28Ku8xcHtpL0yV) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bottle Service VIG](https://open.spotify.com/album/70IKjzaI9Kdvd0LOPtLy2S) | 3:21 | 2026-11-19 |  |
 | [Boyfriend](https://open.spotify.com/track/19PyeLis1yiy48lDeGK4rq) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Boyfriend](https://open.spotify.com/album/6y1jmBlZVNPyT7eS39R3Ra) | 2:25 | 2024-08-29 | 2025-06-13 |
 | [Boys](https://open.spotify.com/track/0LiZn4knA2ebtAQt6ganjF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Boys](https://open.spotify.com/album/2KEZGLqtsIBhnowSjamL47) | 2:33 | 2024-11-21 | 2025-10-24 |
 | [Boys Will Be Girls](https://open.spotify.com/track/01ZPfziRi0YPBbqciOKBsv) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Boys Will Be Girls](https://open.spotify.com/album/7sSLzWKQYO44GfnqQF6PRX) | 3:16 | 2021-12-16 | 2022-04-29 |
@@ -125,7 +126,7 @@
 | [Das Schönste](https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Das Schönste](https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1) | 1:36 | 2023-02-16 | 2023-04-14 |
 | [Date You Won't Forget](https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Date You Won't Forget](https://open.spotify.com/album/5W4HnNFHtayuXHevqXdrut) | 1:47 | 2025-09-04 | 2026-04-17 |
 | [Daywalker](https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE](https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab) | 2:05 | 2022-03-24 | 2022-06-10 |
-| [dein buhmann !!!](https://open.spotify.com/track/5jJcmufdbaUJrG1UiLTKM2) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby T EP](https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC) | 2:12 | 2026-04-30 |  |
+| [dein buhmann !!!](https://open.spotify.com/track/5jJcmufdbaUJrG1UiLTKM2) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby T EP](https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC) | 2:12 | 2026-04-30 | 2026-11-20 |
 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 | 2024-04-18 | 2024-07-12 |
 | [Der neue Stil meiner Generation](https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Der neue Stil meiner Generation](https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi) | 2:24 | 2023-01-19 | 2023-02-17 |
 | [Desire](https://open.spotify.com/track/7n7glIQ3SSM1LLPCPpPceF) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Desire](https://open.spotify.com/album/4uBdcNdHLX8bxB3w0auCkQ) | 3:19 | 2024-05-16 | 2025-07-04 |
@@ -308,6 +309,7 @@
 | [Major Love](https://open.spotify.com/track/31pvTbaEbnoP9iQBdKycYq) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Major Love](https://open.spotify.com/album/70EaDCxfBUAk0WCnIbiQJ5) | 3:25 | 2024-07-18 | 2026-02-27 |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-02 | 2022-07-08 |
 | [Mandala](https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Mandala](https://open.spotify.com/album/4dnEXvpTeEzyaN9zrk5hNX) | 2:01 | 2023-03-16 | 2023-08-18 |
+| [mauerblümchen/rampensau](https://open.spotify.com/track/5uplPVp0jUJhOBA6zR83Ti) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [mauerblümchen/rampensau](https://open.spotify.com/album/5aj4oL2tAiqPetbKmGyNUY) | 2:03 | 2026-11-19 |  |
 | [MAXIMUM RIZZ](https://open.spotify.com/track/2f90oF6hNsvRd2T7pDgNht) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [MAXIMUM RIZZ](https://open.spotify.com/album/6NB2r3HWlI3qKrVk69giA9) | 2:27 | 2023-09-28 | 2023-10-25 |
 | [MAXIMUM RIZZ](https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:27 | 2023-10-12 | 2024-01-26 |
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-12-16 | 2022-12-02 |
@@ -528,7 +530,7 @@
 | [What If the Dead Dream](https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [What If the Dead Dream](https://open.spotify.com/album/4DNxWrwCw1MeHxgDLNezGT) | 3:39 | 2021-12-16 | 2022-12-02 |
 | [Whatever](https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Whatever](https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt) | 2:48 | 2026-05-07 |  |
 | [Whatever Happens](https://open.spotify.com/track/5xCDpuwEplVkm6C3eABxGy) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Whatever Happens](https://open.spotify.com/album/4iw3sdIERkAG17avt7sunu) | 3:14 | 2025-02-27 | 2026-02-27 |
-| [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 | 2026-01-29 |  |
+| [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 | 2026-01-29 | 2026-11-20 |
 | [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 | 2026-02-19 | 2026-09-05 |
 | [WHERE’S THE FUN?](https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [WHERE’S THE FUN?](https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl) | 3:25 | 2026-06-11 | 2026-11-06 |
 | [WHINE \(BADALADA\)](https://open.spotify.com/track/7fjov4E4FQSn92fqndntfa) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [WHINE \(BADALADA\)](https://open.spotify.com/album/4uCbquIf4oONYWRDq1RVuF) | 2:09 | 2025-08-21 | 2025-09-13 |

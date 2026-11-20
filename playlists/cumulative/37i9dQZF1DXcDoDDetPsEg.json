@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist. Cover: Chip",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist. Cover: Rema",
   "name": "Who We Be",
   "tracks": [
     {
@@ -1182,6 +1182,24 @@
       "duration_ms": 171764,
       "name": "Adolescence (Ft. Digga D)",
       "url": "https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf"
+    },
+    {
+      "album": {
+        "name": "African Love Story (From Children of Blood and Bone)",
+        "url": "https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "African Love Story (From Children of Blood and Bone)",
+      "url": "https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn"
     },
     {
       "album": {
@@ -9117,6 +9135,24 @@
     },
     {
       "album": {
+        "name": "Do You Understand",
+        "url": "https://open.spotify.com/album/1MrHY1vwcuZk1EsYDpbIrE"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199645,
+      "name": "Do You Understand",
+      "url": "https://open.spotify.com/track/4Rt7cSWFPq3gHcGfFaFppO"
+    },
+    {
+      "album": {
         "name": "DOG HOUSE",
         "url": "https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6"
       },
@@ -11176,6 +11212,28 @@
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "album": {
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229757,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW"
     },
     {
       "album": {
@@ -25388,7 +25446,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203910,
       "name": "Out My Face (My Baby) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/124asPU2FC370O180KQPQi"
@@ -33863,6 +33921,32 @@
     },
     {
       "album": {
+        "name": "ALWAYS MOVING",
+        "url": "https://open.spotify.com/album/3nY8bu7NOnKmYYKa6ZCekw"
+      },
+      "artists": [
+        {
+          "name": "BexBlu",
+          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
+        },
+        {
+          "name": "Paul Stephan",
+          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262285,
+      "name": "THEY KNOW",
+      "url": "https://open.spotify.com/track/00NBV5yy54hCdskHAHoS7e"
+    },
+    {
+      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK"
       },
@@ -34006,7 +34090,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 152000,
       "name": "TIGHTNESS",
       "url": "https://open.spotify.com/track/1Mc3WfY3EHlYbHAvBwWOph"
@@ -37438,7 +37522,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181333,
       "name": "Which One",
       "url": "https://open.spotify.com/track/3URpUsUUv4Kr7l1hVnWy1K"
@@ -38038,7 +38122,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 386020,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"

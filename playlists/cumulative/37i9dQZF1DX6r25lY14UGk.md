@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Ms\. Rachel & Mr\. Aron
 
-1,270 songs - 2 day 3 hr 29 min
+1,271 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Broccoli Lovers!](https://open.spotify.com/track/5b6ND6m1Dh84kmxyn7D4p9) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Broccoli Lovers!](https://open.spotify.com/album/6n2DNMexPrlFVlFXYw9fXi) | 1:32 | 2026-03-06 | 2026-06-13 |
 | [Brothers & Sisters](https://open.spotify.com/track/6wNMg5q7l9hBML29D45Yq1) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Brothers & Sisters](https://open.spotify.com/album/2yfEN46713k8LsXlXXyycS) | 2:51 | 2022-04-15 | 2024-01-05 |
 | [Brunch Munch](https://open.spotify.com/track/5nYJUHUJNSwVMfU5wyTq7M) | [Jeremy and Jazzy](https://open.spotify.com/artist/5frliimrTsYf5GyuXQ7WPQ) | [Brunch Munch](https://open.spotify.com/album/0ppcsJqllBj7XiORpYOtP0) | 2:04 | 2024-04-05 | 2024-08-24 |
+| [BRUSH](https://open.spotify.com/track/18OG16e8BOLFwP1bVQ0hVU) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [LET'S DO THIS!](https://open.spotify.com/album/7vJ9PChqG2EG1jsYJSSjTu) | 2:16 | 2026-11-20 |  |
 | [Brush Your Teeth](https://open.spotify.com/track/6AS6WpntcvexcqTbuNd5Cs) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Brush Your Teeth](https://open.spotify.com/album/5aiYd61EmlNkz607k7WUQi) | 2:46 | 2026-02-20 | 2026-06-06 |
 | [Brush Your Teeth](https://open.spotify.com/track/7yfvCVvKID415PQDqhCvYn) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f) | [GoNoodle Dance Party: What Time Is It?](https://open.spotify.com/album/6X1Y7BuCeqjZhVc2ecFheN) | 2:01 | 2025-01-10 | 2025-07-03 |
 | [Brush Your Teeth \(Caitie\)](https://open.spotify.com/track/1HgfFSz7iO1vosFVrhGDeU) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Brush Your Teeth \(Caitie\)](https://open.spotify.com/album/5Zf9R3kqErhZQ8L9KO7Bff) | 2:08 | 2025-12-05 | 2026-04-18 |
@@ -243,7 +244,7 @@
 | [Detective Hogi Song](https://open.spotify.com/track/6p8bbjRW5yQu7NmH6OHQKr) | [Hogi](https://open.spotify.com/artist/4toy7dYDw94YRovmat294n), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Detective Hogi Song](https://open.spotify.com/album/1Uh2tkY1vCMVH5IQIJBfO6) | 0:39 | 2026-06-05 | 2026-08-15 |
 | [Diamonds \(Peppa's Version\)](https://open.spotify.com/track/36PSXTGz1YtzRRCGt8tgpd) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa Pig Pop](https://open.spotify.com/album/0H0rVyCX7eCN5V4rhNbsDC) | 3:11 | 2026-01-30 | 2026-05-23 |
 | [DIG DIG DIG ALL DAY LONG](https://open.spotify.com/track/5fYuwA1cqr5DuaHoL9NjlJ) | [The Little Mouse Production](https://open.spotify.com/artist/6Kb3W2eeJN6YNriqvdLNNE) | [DIG DIG DIG ALL DAY LONG](https://open.spotify.com/album/5xrNaz8lOAN7PwpiWqIffS) | 3:18 | 2024-11-08 | 2025-03-08 |
-| [Dino Birthday Song](https://open.spotify.com/track/12hov96CdOSR5RXNidrlmy) | [Rubble & Crew](https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai), [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Dino Birthday Song](https://open.spotify.com/album/1H2WCxZraaqIWF0qFsVSBW) | 0:42 | 2026-07-17 |  |
+| [Dino Birthday Song](https://open.spotify.com/track/12hov96CdOSR5RXNidrlmy) | [Rubble & Crew](https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai), [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Dino Birthday Song](https://open.spotify.com/album/1H2WCxZraaqIWF0qFsVSBW) | 0:42 | 2026-07-17 | 2026-11-20 |
 | [Dino Dance](https://open.spotify.com/track/6HhWEKierHnVWd1aVnklr5) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Dino Dance](https://open.spotify.com/album/2YjTWYXFgdHceTaJTMBrFR) | 1:42 | 2024-01-05 | 2024-01-23 |
 | [Dino Rescue](https://open.spotify.com/track/5XG15tLOdJGtixYs124kHA) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Dino Rescue \(Skye's Music Party\)](https://open.spotify.com/album/0hzEfYo7Kv2216PWZjt0RZ) | 1:55 | 2025-08-29 | 2026-02-07 |
 | [Dino Stomp \- Jemima Grooves Remix](https://open.spotify.com/track/3GreL5FnuBUXag2ZuInP59) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Dino Stomp \(Jemima Grooves Remix\)](https://open.spotify.com/album/6xOvrQul7HlZkP4OuElIRr) | 1:50 | 2026-04-03 | 2026-07-04 |

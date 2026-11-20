@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4odPobAM8zzccoqFwAVeBW.md) - [plain]
 
 > Check out our latest Cargo digital distributed tracks! Updated weekly
 
-[Cargo Independent Distribution](https://open.spotify.com/user/cargorecords) - 646 likes - 100 songs - 8 hr 5 min
+[Cargo Independent Distribution](https://open.spotify.com/user/cargorecords) - 645 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

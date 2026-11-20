@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-28",
-  "description": "songs so golden wie der herbst ",
-  "name": "Herbstgef\u00fchle",
+  "description": "songs die dich im winter warmhalten",
+  "name": "Wintergef\u00fchle",
   "tracks": [
     {
       "album": {
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 208979,
       "name": "car crash",
       "url": "https://open.spotify.com/track/5wQyhpDdQJWxZ3QmC8hTnQ"
@@ -3038,6 +3038,24 @@
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "album": {
+        "name": "grief and all his friends",
+        "url": "https://open.spotify.com/album/7cFDR0dj9FMcqxw0HLGrzA"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198054,
+      "name": "grief and all his friends",
+      "url": "https://open.spotify.com/track/1brCf12togJyd7TJlDpxP3"
     },
     {
       "album": {
@@ -6678,7 +6696,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 229331,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
@@ -7836,7 +7854,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 276632,
       "name": "Tax Evasion",
       "url": "https://open.spotify.com/track/2UjS57k6pmikAipD9eWQH5"

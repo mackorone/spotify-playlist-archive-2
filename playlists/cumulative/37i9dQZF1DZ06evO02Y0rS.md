@@ -4,7 +4,7 @@
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-139 songs - 10 hr 22 min
+140 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Know You](https://open.spotify.com/track/7rF2bHXc5wa3hM3114pppm) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:05 | 2022-01-15 | 2026-09-28 |
 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 | 2022-01-15 |  |
 | [Kota](https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:24 | 2022-03-02 | 2025-12-05 |
-| [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 | 2022-01-15 |  |
+| [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 | 2022-01-15 | 2026-11-20 |
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2022-01-15 | 2025-11-30 |
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:46 | 2025-11-30 |  |
 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 | 2026-06-11 | 2026-09-25 |
@@ -89,7 +89,7 @@
 | [No Reason](https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:28 | 2022-01-15 |  |
 | [Noctuary](https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 5:22 | 2022-01-15 |  |
 | [Northport](https://open.spotify.com/track/7eIpUbnyzEKOdtMziuLeIk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp) | 2:56 | 2025-04-26 | 2025-08-05 |
-| [Nothing Owed](https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 6:16 | 2022-01-15 |  |
+| [Nothing Owed](https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 6:16 | 2022-01-15 | 2026-11-20 |
 | [On Your Marks](https://open.spotify.com/track/4SjvkRy0nVHd3oe7BkZ1u4) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:11 | 2022-01-15 | 2022-10-12 |
 | [Ontario](https://open.spotify.com/track/4GroumsjzAcgCwJzTGY7px) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:52 | 2023-01-25 | 2023-02-17 |
 | [Otomo](https://open.spotify.com/track/3VRemRqHZi7qiWzJfc684f) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Otomo](https://open.spotify.com/album/2zSMwsGd7r6fkJBoXkv3lQ) | 6:11 | 2022-01-15 | 2022-01-20 |
@@ -129,7 +129,7 @@
 | [Sugar Rhyme](https://open.spotify.com/track/3exminmsbdqZKm1mdFrLOp) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:47 | 2025-11-09 | 2026-01-23 |
 | [Talk to Me](https://open.spotify.com/track/0dFOv89DXKP12vQzzlOq0U) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nicole Miglis](https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2) | [Distance in Static](https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M) | 3:42 | 2026-09-23 |  |
 | [Talk to Me](https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nicole Miglis](https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2) | [Talk to Me](https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg) | 3:42 | 2026-08-26 | 2026-09-23 |
-| [Ten Tigers](https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:03 | 2022-03-24 |  |
+| [Ten Tigers](https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:03 | 2022-03-24 | 2026-11-20 |
 | [Terrapin](https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse) | 4:38 | 2026-03-06 | 2026-03-07 |
 | [Terrapin](https://open.spotify.com/track/4aOTdl3J8hcF4iwvDWI0PH) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4psgSpLnll4b6Ad0VVVqaR) | 4:39 | 2026-01-28 | 2026-03-06 |
 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 | 2022-01-15 | 2026-01-28 |
@@ -144,6 +144,7 @@
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-01-15 | 2022-08-10 |
 | [Towers](https://open.spotify.com/track/7iE9oBkH73M1K74gyjjx7c) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Szjerdene](https://open.spotify.com/artist/5WcgyMkdfILvNCPTavIINv) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 3:36 | 2024-02-06 | 2024-03-16 |
 | [Uncasually](https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Distance in Static](https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M) | 4:21 | 2026-09-13 | 2026-11-06 |
+| [Vakata](https://open.spotify.com/track/7mNRfOVCMIY3m3NH8YROi6) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Memory Signal / Vakata](https://open.spotify.com/album/5IMzfD9uFN6RUOIhnYzS4h) | 4:31 | 2026-11-20 |  |
 | [Walk In The Sky](https://open.spotify.com/track/3fsQsL36PH1G8mn68lsFRK) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Bajka](https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:34 | 2022-05-11 |  |
 | [We Could Forever](https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:19 | 2022-01-15 |  |
 | [Youth’s Fountain](https://open.spotify.com/track/57rqH0ceGjerSdSBrDqhCX) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Distance in Static](https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M) | 3:58 | 2026-09-13 |  |

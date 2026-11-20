@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107692,
+  "num_followers": 107702,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAFL2F37uxwXWCk5ULt6JkD",
+  "snapshot_id": "avzqgAAAAAAxV7w2Y8VXQ9lt8DHygW/1",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Queen Of Salsa (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g"
+        "name": "Celia Cruz Centennial",
+        "url": "https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1"
       },
       "artists": [
         {
@@ -468,13 +468,13 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         },
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 326866,
-      "name": "Bambol\u00e9o - Remastered 2025",
-      "url": "https://open.spotify.com/track/5JHRM5anrrnCnLAIrcgCrn"
+      "duration_ms": 272251,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
     },
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Queen Of Salsa (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "duration_ms": 326866,
+      "name": "Bambol\u00e9o - Remastered 2025",
+      "url": "https://open.spotify.com/track/5JHRM5anrrnCnLAIrcgCrn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 278253,
       "name": "Vasos Vacios",
       "url": "https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celia Cruz Centennial",
-        "url": "https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 272251,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"
     },
     {
       "added_at": null,
@@ -603,6 +603,34 @@
       "duration_ms": 172295,
       "name": "Plazos Traicioneros - Remastered 2024",
       "url": "https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "Besito De Coco",
+      "url": "https://open.spotify.com/track/0dk38kFCydem9YA2NP1RPO"
     },
     {
       "added_at": null,
@@ -683,34 +711,6 @@
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Justo Betancourt",
-          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Papo Lucca",
-          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "Besito De Coco",
-      "url": "https://open.spotify.com/track/0dk38kFCydem9YA2NP1RPO"
     },
     {
       "added_at": null,

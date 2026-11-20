@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Natek
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,991 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,992 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 19 | [hold me!](https://open.spotify.com/track/2ykWnVHY5hiqZiMPhv4YOY) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [hold me, don't hold back!](https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r) | 2:22 |
 | 20 | [Saisons](https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Saisons](https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk) | 3:11 |
 | 21 | [Bogus](https://open.spotify.com/track/7d0HmRRRzBFYJ2HBDVATl2) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Bogus](https://open.spotify.com/album/4f0LSP6WVbPOJ89NrASCUM) | 3:55 |
-| 22 | [Holding On](https://open.spotify.com/track/2r5qyhWmv8yEcbUrwGpNfT) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Spin / Holding On](https://open.spotify.com/album/3bQXf66U0CWg0HrRObvYum) | 3:56 |
-| 23 | [Four Seasons](https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J) | [Merna](https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK) | [For Seasons: Love in a Time of War](https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy) | 4:27 |
-| 24 | [ECSTASY SURROUNDS ME \- Deetron Remix](https://open.spotify.com/track/1KYGi1WeQubvsZyWrcDwGk) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [ECSTASY SURROUNDS ME \(Remixes\)](https://open.spotify.com/album/4OacwFQiqFB3a7ol1l5MOz) | 7:41 |
+| 22 | [Four Seasons](https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J) | [Merna](https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK) | [For Seasons: Love in a Time of War](https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy) | 4:27 |
+| 23 | [Holding On](https://open.spotify.com/track/2r5qyhWmv8yEcbUrwGpNfT) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Spin / Holding On](https://open.spotify.com/album/3bQXf66U0CWg0HrRObvYum) | 3:56 |
+| 24 | [So Cold](https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [THIS IS A BREAKUP ALBUM](https://open.spotify.com/album/5e3pF5WJ0XizD1TZUaZRY8) | 3:25 |
 | 25 | [Small Town Girls](https://open.spotify.com/track/4EvIeYaNzKCIGLGic8lEB3) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Small Town Girls](https://open.spotify.com/album/3ssYRKS8GZ3Q4yeA8UiT81) | 3:48 |
 | 26 | [Gamut](https://open.spotify.com/track/5sk7J329w6TKBZ7onE0SaB) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Gamut / Styrofoam](https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF) | 4:04 |
-| 27 | [So Cold](https://open.spotify.com/track/0AwpflMCC4eJOo3UsxzMqW) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [THIS IS A BREAKUP ALBUM](https://open.spotify.com/album/5e3pF5WJ0XizD1TZUaZRY8) | 3:25 |
+| 27 | [ECSTASY SURROUNDS ME \- Deetron Remix](https://open.spotify.com/track/1KYGi1WeQubvsZyWrcDwGk) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [ECSTASY SURROUNDS ME \(Remixes\)](https://open.spotify.com/album/4OacwFQiqFB3a7ol1l5MOz) | 7:41 |
 | 28 | [redstar](https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [redstar](https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf) | 4:16 |
 | 29 | [Black Cloud](https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Black Cloud](https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS) | 4:29 |
-| 30 | [SOVEREIGN LAND](https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [SOFTER](https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya) | 2:13 |
-| 31 | [Le mauvais temps](https://open.spotify.com/track/2kTHBL6bH995EHEjBFuh3a) | [Marianne Beaulieu](https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV) | [Le mauvais temps](https://open.spotify.com/album/5UHSXhOFwu9rDBuQ1VbkuD) | 3:43 |
+| 30 | [Le mauvais temps](https://open.spotify.com/track/2kTHBL6bH995EHEjBFuh3a) | [Marianne Beaulieu](https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV) | [Le mauvais temps](https://open.spotify.com/album/5UHSXhOFwu9rDBuQ1VbkuD) | 3:43 |
+| 31 | [SOVEREIGN LAND](https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [SOFTER](https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya) | 2:13 |
 | 32 | [Tu choisis comment tu aimes](https://open.spotify.com/track/43pLjcxmDfrNVXySUUvnFb) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Tu choisis comment tu aimes](https://open.spotify.com/album/1G7gk4EN7YcoYfsyfTUAFl) | 4:07 |
 | 33 | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/track/7kcoZ1f6a3KEvk0HLHcrr0) | [Jay Essiambre](https://open.spotify.com/artist/3EReot0tNC1QWReYq1OBy8) | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/album/219CwHX00N5Bg9xFbtu9Xq) | 3:09 |
 | 34 | [The 4](https://open.spotify.com/track/5qdJdovmMW639cxGDXs9X9) | [Rosado](https://open.spotify.com/artist/09I1DVqDIIWMfy9wGUe6gj), [who's lara?](https://open.spotify.com/artist/0coM5ZXKtWld0nP8nIifbq), [$anteria](https://open.spotify.com/artist/30KpA4NugE4H0PLXjC8AU7) | [The 4](https://open.spotify.com/album/7s9yJdZXLzJ2GcVNG1yk6s) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:49 |
 | 50 | [Playboi 3arbi](https://open.spotify.com/track/4dbTXS5XPFokCcDum11PeB) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [Playboi 3arbi](https://open.spotify.com/album/1TUo9lSxWIWZh7svWQnF7F) | 1:53 |
 
-Snapshot ID: `AAAAABKyAh00Vg0nRBeSuNh4eZFl/kff`
+Snapshot ID: `AAAAAPUue8JyodL9k/SSwjRhmqiP2yPT`

@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 50308,
+  "num_followers": 50309,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABJjLDMgMM1bDhI8ABtQV+M",
+  "snapshot_id": "avzqgAAAAAAyTfMEx2MnC5uNhKTADMd4",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "dot",
+        "url": "https://open.spotify.com/album/3cGWSm2yxbSMnrtkuO9CXq"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 278853,
+      "name": "dot",
+      "url": "https://open.spotify.com/track/4NUxm2fWxBe7bbgmhWJftm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mountain",
         "url": "https://open.spotify.com/album/7BHTkOKCrAxpQociodbtHn"
       },
@@ -235,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "dot",
-        "url": "https://open.spotify.com/album/3cGWSm2yxbSMnrtkuO9CXq"
+        "name": "BURN",
+        "url": "https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4"
       },
       "artists": [
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
         }
       ],
-      "duration_ms": 278853,
-      "name": "dot",
-      "url": "https://open.spotify.com/track/4NUxm2fWxBe7bbgmhWJftm"
+      "duration_ms": 136566,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX"
     },
     {
       "added_at": null,
@@ -283,26 +303,6 @@
       "duration_ms": 205966,
       "name": "\u61a7\u308c\u306e\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/6cRZpoOfi9kBOTFxeN8X3t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BURN",
-        "url": "https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 136566,
-      "name": "BURN",
-      "url": "https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/7kqIabAB3ihk1eXDZy11lF"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 224366,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/4OvdtlIQxHJTWsh1j5I19v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u86f9",
         "url": "https://open.spotify.com/album/6qqUwVgl227Y6CM5LxLt1F"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 234471,
       "name": "\u86f9",
       "url": "https://open.spotify.com/track/3WE8A4ZHK7CDtXtcvpJxnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/7kqIabAB3ihk1eXDZy11lF"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 224366,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/4OvdtlIQxHJTWsh1j5I19v"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6625\u3092\u544a\u3052\u308b - With ensemble",
-        "url": "https://open.spotify.com/album/2XIPTsVGWBxXB4zmVGGw2J"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 182936,
-      "name": "\u6625\u3092\u544a\u3052\u308b - With ensemble",
-      "url": "https://open.spotify.com/track/32ggYFS2AFOCvzu2940Wcg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Versus the night",
         "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
       },
@@ -531,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "End roll",
-        "url": "https://open.spotify.com/album/3uyKE7Xaxo4LCK6qiNw64R"
+        "name": "\u6625\u3092\u544a\u3052\u308b - With ensemble",
+        "url": "https://open.spotify.com/album/2XIPTsVGWBxXB4zmVGGw2J"
       },
       "artists": [
         {
@@ -540,9 +524,25 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 196933,
-      "name": "End roll",
-      "url": "https://open.spotify.com/track/0WKB31BWP8DLFCpSQxGQNb"
+      "duration_ms": 182936,
+      "name": "\u6625\u3092\u544a\u3052\u308b - With ensemble",
+      "url": "https://open.spotify.com/track/32ggYFS2AFOCvzu2940Wcg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u771f\u3063\u767d",
+        "url": "https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 287166,
+      "name": "\u771f\u3063\u767d",
+      "url": "https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u771f\u3063\u767d",
-        "url": "https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8"
+        "name": "End roll",
+        "url": "https://open.spotify.com/album/3uyKE7Xaxo4LCK6qiNw64R"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 287166,
-      "name": "\u771f\u3063\u767d",
-      "url": "https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc"
+      "duration_ms": 196933,
+      "name": "End roll",
+      "url": "https://open.spotify.com/track/0WKB31BWP8DLFCpSQxGQNb"
     },
     {
       "added_at": null,
@@ -746,27 +746,15 @@
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Film",
-      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u4e00\u5bf8\u306e\u8d64",
-        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
-      },
-      "artists": [
+        },
         {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         }
       ],
-      "duration_ms": 231673,
-      "name": "\u4e00\u5bf8\u306e\u8d64",
-      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
+      "duration_ms": 180666,
+      "name": "\u30ec\u30b3\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc"
     },
     {
       "added_at": null,
@@ -783,6 +771,22 @@
       "duration_ms": 228000,
       "name": "\u6843\u6e90\u90f7",
       "url": "https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u4e00\u5bf8\u306e\u8d64",
+        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 231673,
+      "name": "\u4e00\u5bf8\u306e\u8d64",
+      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
     },
     {
       "added_at": null,
@@ -810,15 +814,11 @@
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         }
       ],
-      "duration_ms": 180666,
-      "name": "\u30ec\u30b3\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc"
+      "duration_ms": 195133,
+      "name": "Film",
+      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
     },
     {
       "added_at": null,

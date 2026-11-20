@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 210665,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 244700,
       "name": "Cold In California (2016 Demo)",
       "url": "https://open.spotify.com/track/4A22LWVkhCKE7DvcRCfMdJ"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188281,
       "name": "CUERPO (TUMBAO) (feat. Maluma)",
       "url": "https://open.spotify.com/track/5VXKx33wTSpbq3Dm5b1qU9"
@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -3454,7 +3454,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203474,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
@@ -4182,7 +4182,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 206511,
       "name": "Get In Girl",
       "url": "https://open.spotify.com/track/39xln8inF22akX74IBkwyG"
@@ -5084,7 +5084,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 140720,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
@@ -5462,7 +5462,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 158520,
       "name": "i think i'm addicted",
       "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
@@ -6158,7 +6158,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 168387,
       "name": "KiLL iT QUEEN",
       "url": "https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU"
@@ -6314,7 +6314,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 140433,
       "name": "Leak It - DENNIS Remix",
       "url": "https://open.spotify.com/track/0NtdDxJlVrKbZqdCUK0E7V"
@@ -6610,7 +6610,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 190533,
       "name": "Look at My Life",
       "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
@@ -6668,6 +6668,24 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "album": {
+        "name": "Daughter from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175970,
+      "name": "Lost in It",
+      "url": "https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt"
     },
     {
       "album": {
@@ -7774,7 +7792,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 144300,
       "name": "Nighttime Thing (with Julia Michaels)",
       "url": "https://open.spotify.com/track/7fbI3MprRgCBEO92ZT5akR"
@@ -8330,7 +8348,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 303489,
       "name": "Oye Mi Amor (feat. Fher de Man\u00e1) [Live From Mexico]",
       "url": "https://open.spotify.com/track/6UNEcWHoSn6RGk43mGjQnO"
@@ -8914,7 +8932,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Remedied",
       "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
@@ -10209,6 +10227,24 @@
     },
     {
       "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199460,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
@@ -10416,7 +10452,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 257733,
       "name": "Sweet To Me",
       "url": "https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y"
@@ -10740,7 +10776,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 150944,
       "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
       "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
@@ -10884,7 +10920,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176876,
       "name": "THAT GIRL",
       "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
@@ -11274,6 +11310,24 @@
       "duration_ms": 255155,
       "name": "To Be Free",
       "url": "https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa"
+    },
+    {
+      "album": {
+        "name": "To My Bones",
+        "url": "https://open.spotify.com/album/7M9ccruEJ9yp57vn9fksMh"
+      },
+      "artists": [
+        {
+          "name": "Pixie Lott",
+          "url": "https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208565,
+      "name": "To My Bones",
+      "url": "https://open.spotify.com/track/6uBe8Iy2Td8KY0AqKWfdhp"
     },
     {
       "album": {
@@ -11728,7 +11782,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 176666,
       "name": "Up Out & Gone",
       "url": "https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV"

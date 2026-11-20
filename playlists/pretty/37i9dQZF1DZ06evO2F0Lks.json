@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 152526,
+  "num_followers": 152535,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAASSi6BuTqlo8lPXwUeAK1U",
+  "snapshot_id": "avzqgAAAAABLTYumUSvLzsXaKgcrqDLM",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 287306,
-      "name": "Just a Dream",
-      "url": "https://open.spotify.com/track/7g8OpS827dAYU067lZaR0L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Denim & Rhinestones (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
       },
@@ -555,22 +539,6 @@
       "duration_ms": 177400,
       "name": "Out Of That Truck",
       "url": "https://open.spotify.com/track/0NJnqzKuU2zjmd64IXcYqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Nothing But The Blood Of Jesus",
-      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
     },
     {
       "added_at": null,
@@ -591,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Nothing But The Blood Of Jesus",
+      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Denim & Rhinestones",
         "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 183573,
-      "name": "Hate My Heart",
-      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
+      "duration_ms": 225613,
+      "name": "Poor Everybody Else",
+      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
     },
     {
       "added_at": null,
@@ -623,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Blessed Assurance",
-      "url": "https://open.spotify.com/track/1b8eNyAT5BW8xOeWUsNahv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Denim & Rhinestones (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
       },
@@ -655,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/1b8eNyAT5BW8xOeWUsNahv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Denim & Rhinestones",
         "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 225613,
-      "name": "Poor Everybody Else",
-      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
+      "duration_ms": 183573,
+      "name": "Hate My Heart",
+      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
     },
     {
       "added_at": null,
@@ -811,6 +795,26 @@
       "duration_ms": 196694,
       "name": "Look at Me",
       "url": "https://open.spotify.com/track/30vfmE5gZLW1VtghknFwTn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
     },
     {
       "added_at": null,

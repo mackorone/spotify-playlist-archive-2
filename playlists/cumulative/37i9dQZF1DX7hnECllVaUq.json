@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-01",
-  "description": "The biggest hits from country artists around the globe. Cover: Owen Riegling",
+  "description": "The biggest hits from country artists around the globe. Cover: Rick Duff, Gustavo Mioto",
   "name": "Country Worldwide",
   "tracks": [
     {
@@ -2507,6 +2507,28 @@
     },
     {
       "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1KrfmGpPI9nI0GhwdAnh6w"
+      },
+      "artists": [
+        {
+          "name": "Rick Duff",
+          "url": "https://open.spotify.com/artist/4MNUaMf0Yl05yY6x342xBH"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171946,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/5vyKIf6vjR0KMzqfgje25d"
+    },
+    {
+      "album": {
         "name": "Once Upon a Time",
         "url": "https://open.spotify.com/album/48JQD5fnaSZHlIvc1xsMag"
       },
@@ -3312,7 +3334,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195000,
       "name": "String By",
       "url": "https://open.spotify.com/track/4eKboSkfneEWs7JzWHbvQW"

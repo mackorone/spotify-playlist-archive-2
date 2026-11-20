@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: justinforthis\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-863 songs - 1 day 21 hr 53 min
+864 songs - 1 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 | 2022-04-01 | 2026-03-14 |
 | [humming](https://open.spotify.com/track/5eSSmwPYI3JAfEvFXIVFRh) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [humming](https://open.spotify.com/album/6KoPHAOkfylUhEA6tPWoF9) | 3:58 | 2022-04-01 | 2022-07-28 |
 | [Hundred Reasons](https://open.spotify.com/track/2A1YVk2cVTJt2luDUnbEsW) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Angel](https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA) | 2:50 | 2025-07-15 | 2025-11-30 |
+| [Hysteria \(Feat\. Sik\-K\)](https://open.spotify.com/track/4H20xWiwwvoEqwV1cBjtfg) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [VIEWSIC](https://open.spotify.com/album/0sMxluwGB9hfWpotBwfuST) | 2:44 | 2026-11-19 |  |
 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 | 2022-04-21 | 2022-07-26 |
 | [i \(feat\. Swings\)](https://open.spotify.com/track/09bshPEQMZUnUWvuMwvXwK) | [Lean Lean](https://open.spotify.com/artist/6IprxsitojRXQLHOLyizzb), [스윙스\(Swings\)](https://open.spotify.com/artist/1FypwMT3hrRR7uxLHpgGuU) | [SUNSHINE](https://open.spotify.com/album/5MgqA59cpZMyowGSHHvatc) | 3:56 | 2022-06-18 | 2022-07-29 |
 | [I Am Yours](https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I Am Yours](https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L) | 3:31 | 2022-04-01 |  |
@@ -716,7 +717,7 @@
 | [Sunday \(feat\. HEIZE, Jay Park\)](https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYWHERE](https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7) | 3:02 | 2022-04-21 | 2026-03-14 |
 | [Sunny Spot](https://open.spotify.com/track/754yslOgtbhvKZ32yJZWZs) | [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2) | [NOMO](https://open.spotify.com/album/5wK3j0FzYQ03PKH7yqHK1O) | 2:42 | 2026-10-15 | 2026-11-16 |
 | [Super Freak](https://open.spotify.com/track/6c31ORfUpeHQF7df1AZV0X) | [200 \(Eback\)](https://open.spotify.com/artist/0fXWfP9K7O3T7z2uC1CzSc) | [Super Freak](https://open.spotify.com/album/3fHIbiwsluDRAfoebJralo) | 2:00 | 2024-11-06 | 2025-02-09 |
-| [SUPERDRY](https://open.spotify.com/track/0hflsM22PAKRNKIjw6fyUM) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [SUPERDRY](https://open.spotify.com/album/2uuomAXvY9Qz4C4QD3016j) | 2:28 | 2026-09-30 |  |
+| [SUPERDRY](https://open.spotify.com/track/0hflsM22PAKRNKIjw6fyUM) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [SUPERDRY](https://open.spotify.com/album/2uuomAXvY9Qz4C4QD3016j) | 2:28 | 2026-09-30 | 2026-11-20 |
 | [SUR:VIBE \(feat\. BRAWL STARS\)](https://open.spotify.com/track/4AOEeJbeHPYCEzxfsStEwG) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Brawl Stars](https://open.spotify.com/artist/6uqbI01HHuIVZ2LcZoDGlG) | [SUR:VIBE \(feat\. BRAWL STARS\)](https://open.spotify.com/album/0A85GFAjC2oiJu7phflbCN) | 3:13 | 2022-05-05 | 2022-05-12 |
 | [Survival Rapper](https://open.spotify.com/track/2dLQDEG4Y0EKsaXNbmQcwm) | [lil bosal](https://open.spotify.com/artist/61uB19bE5ejvku0NCSAH2t) | [Bosal Coin](https://open.spotify.com/album/3IYYz6DyYX5ihg733A5ksL) | 2:16 | 2022-05-05 | 2022-06-14 |
 | [Swear](https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Swear](https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2) | 2:57 | 2024-05-30 | 2024-08-11 |

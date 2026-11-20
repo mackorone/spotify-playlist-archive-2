@@ -1,12 +1,12 @@
 {
   "description": "Bandas legendarias y canciones que hicieron historia. Foto: Los Prisioneros.",
-  "num_followers": 129626,
+  "num_followers": 129632,
   "original_name": "Cl\u00e1sicos del Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPi91U4JiLiIsCLrkVQ9QrMTzN5f",
+  "snapshot_id": "AAAAAADtFx2ldt52UYxgCJD4ae31vBxo",
   "tracks": [
     {
       "added_at": "2025-05-09 03:00:27",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-05-09 03:00:27",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
-    },
-    {
-      "added_at": "2025-05-09 03:00:27",
-      "album": {
         "name": "El Primer Instinto",
         "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 206133,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
+    },
+    {
+      "added_at": "2025-05-09 03:00:27",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
     },
     {
       "added_at": "2025-05-09 03:00:27",

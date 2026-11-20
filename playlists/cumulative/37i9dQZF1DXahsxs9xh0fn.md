@@ -4,7 +4,7 @@
 
 > we shall sing when night’s decay ushers in a drearier day
 
-314 songs - 20 hr 24 min
+316 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2025-08-20 |  |
 | [From Eden](https://open.spotify.com/track/5aRZk9oWIYUB5alrTs8TTV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:43 | 2024-09-17 |  |
 | [Futile Devices](https://open.spotify.com/track/4Zts9erRexAxILn5XjSwUN) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Age of Adz](https://open.spotify.com/album/4kRMCapj9nEyBWnM0kc9OX) | 2:13 | 2023-10-06 |  |
+| [Get Me on the Way Out](https://open.spotify.com/track/4Jo80L9w3fXa8LUkwzCe7o) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Get Me on the Way Out](https://open.spotify.com/album/494Rzl9dB7mazA48OXdYt9) | 4:46 | 2026-11-20 |  |
 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 | 2022-09-21 | 2023-08-29 |
 | [Give Me Love](https://open.spotify.com/track/6yZE1830m5upOW8olMDrrZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/1Wh74uv1dJvlbvV4vq6O7s) | 5:23 | 2023-11-22 |  |
 | [Give Me Love](https://open.spotify.com/track/7fWXTD51PQ2W9B2lyYlZCN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The A Team](https://open.spotify.com/album/6iBvt4DAGNEJwIvM4vLPms) | 5:23 | 2022-09-21 | 2024-04-19 |
@@ -164,6 +165,7 @@
 | [Julia](https://open.spotify.com/track/0LO7f7ZJg871B8hLTRzrfB) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:10 | 2022-09-21 | 2023-08-29 |
 | [Just Because](https://open.spotify.com/track/2p26J9tpJ8kmbBd8AX7WnF) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Plateaus](https://open.spotify.com/album/15XVmpLlyeWXv5QINxWcwo) | 3:46 | 2022-09-21 | 2024-08-02 |
 | [Kamera \- 2022 Remaster](https://open.spotify.com/track/0UOxrpK8qWF9xQnYsOE6jE) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot \(Expanded Edition\)](https://open.spotify.com/album/4jVVAenBaHRF8w0MV6qKw7) | 3:30 | 2026-09-01 |  |
+| [Keep You](https://open.spotify.com/track/0ruzRyX8GOwngAcTzp35fQ) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Fly 1111](https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM) | 2:32 | 2026-11-20 |  |
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None The Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2022-09-21 |  |
 | [Ladies of the Canyon](https://open.spotify.com/track/1Q8BMaKg8czMR2Y6wLlXJf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:32 | 2026-09-01 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2022-09-21 |  |

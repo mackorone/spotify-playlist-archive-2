@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Listen to all the music from Grand Theft Auto VI, out Nov 19.",
+  "description": "Listen to all the music from Grand Theft Auto VI, out NOW!",
   "name": "Grand Theft Auto Official Playlist",
   "tracks": [
     {
@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120865,
+      "name": "AHH YEA",
+      "url": "https://open.spotify.com/track/5tLZfwzwK8KxoBsNwbNFDI"
+    },
+    {
+      "album": {
         "name": "Lo Mejor de Lo Peor",
         "url": "https://open.spotify.com/album/67W9xaaMZ7iVGVF8p9bZKn"
       },
@@ -280,6 +298,24 @@
       "duration_ms": 194285,
       "name": "Algo Como T\u00fa",
       "url": "https://open.spotify.com/track/360kiTBiy38oPyFj2QSaGq"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239568,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/4Fv459S7bhBGbDHJhICbUy"
     },
     {
       "album": {
@@ -389,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169501,
+      "name": "Bigger",
+      "url": "https://open.spotify.com/track/0wK8ZH0T9lvGiM3AaQDoah"
+    },
+    {
+      "album": {
         "name": "Bim Bam Bam (From Grand Theft Auto Online: The Cayo Perico Heist)",
         "url": "https://open.spotify.com/album/70vIB12zLNnfvIiQ9YY9hC"
       },
@@ -443,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes",
+      "url": "https://open.spotify.com/track/606u5IuPr3lDZR5LnzgxxW"
+    },
+    {
+      "album": {
         "name": "Blood In Your Eyes (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
       },
@@ -458,7 +530,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161219,
       "name": "Blood In Your Eyes (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
@@ -519,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Keith Richards",
+          "url": "https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210910,
+      "name": "Bright Lights, Big City",
+      "url": "https://open.spotify.com/track/3A9VSHhgR4XuYF60HvVWWr"
+    },
+    {
+      "album": {
         "name": "Bright Lights, Big City (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/1kpiZpM48ybu8qrh5DDa88"
       },
@@ -534,7 +624,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 210910,
       "name": "Bright Lights, Big City (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/2X67K1KTLBg9EU2dMUQC42"
@@ -885,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181372,
+      "name": "COUNT UP",
+      "url": "https://open.spotify.com/track/77er9Mx3nLca8RcfpGrgvv"
+    },
+    {
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -900,6 +1008,24 @@
       "duration_ms": 224146,
       "name": "Crack Rock",
       "url": "https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223683,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C"
     },
     {
       "album": {
@@ -958,6 +1084,28 @@
       "duration_ms": 205626,
       "name": "Dance of the Vampires",
       "url": "https://open.spotify.com/track/3y3aIscR4N87VEtlUFYxyB"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "elkan",
+          "url": "https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148246,
+      "name": "Dance With Me (feat. elkan)",
+      "url": "https://open.spotify.com/track/2gKi3NbZSf7aFjaQ3C94Yj"
     },
     {
       "album": {
@@ -1099,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164580,
+      "name": "Don\u2019t Chart",
+      "url": "https://open.spotify.com/track/5ES7lNls3ZjYuSfTIdKOvr"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Chart (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz"
       },
@@ -1114,7 +1280,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164200,
       "name": "Don\u2019t Chart (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7"
@@ -1415,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173952,
+      "name": "Fast Emotion",
+      "url": "https://open.spotify.com/track/68GADd4qLCU16tgCn2W0F5"
+    },
+    {
+      "album": {
         "name": "Move With Me",
         "url": "https://open.spotify.com/album/3TBMoRfijzhUpcO9Rt4fNf"
       },
@@ -1430,6 +1614,36 @@
       "duration_ms": 313129,
       "name": "Flash",
       "url": "https://open.spotify.com/track/2L9BBx9601VBbqTdVNtvPC"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221189,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & The Lizard Wizard)",
+      "url": "https://open.spotify.com/track/1bRWSJwUGWCsOih08iFFTV"
     },
     {
       "album": {
@@ -1460,7 +1674,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 224877,
       "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
@@ -1518,6 +1732,42 @@
       "duration_ms": 431520,
       "name": "Get Innocuous!",
       "url": "https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136037,
+      "name": "GMA",
+      "url": "https://open.spotify.com/track/0wcHjDyKbllhDc7PpvdtU9"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192301,
+      "name": "Go Easy",
+      "url": "https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ"
     },
     {
       "album": {
@@ -1736,6 +1986,24 @@
       "duration_ms": 308933,
       "name": "I Ran (So Far Away)",
       "url": "https://open.spotify.com/track/4OdhffpvG3HxDJMxYOKh97"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148438,
+      "name": "IKYFL",
+      "url": "https://open.spotify.com/track/3ZxGI5giGDjAT2CL2V9p8f"
     },
     {
       "album": {
@@ -2109,6 +2377,46 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Largate",
+      "url": "https://open.spotify.com/track/3g9MD1bGGHDCCB1CbWBhTM"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Last Thing You Need",
+      "url": "https://open.spotify.com/track/1KVvsmAWUhd3Xyex4IS3DD"
+    },
+    {
+      "album": {
         "name": "Last Thing You Need (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls"
       },
@@ -2124,7 +2432,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 196000,
       "name": "Last Thing You Need (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
@@ -2146,6 +2454,28 @@
       "duration_ms": 196826,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151446,
+      "name": "Let's Rock",
+      "url": "https://open.spotify.com/track/3MHXtz0Qu0ksVGcvlp7Mfu"
     },
     {
       "album": {
@@ -2352,6 +2682,24 @@
       "duration_ms": 191560,
       "name": "Low Rider",
       "url": "https://open.spotify.com/track/2fmMPJb5EzZCx8BcNJvVk4"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173881,
+      "name": "Macacoa 2000",
+      "url": "https://open.spotify.com/track/2oOtzWzQrHPmvtMAzoms7Q"
     },
     {
       "album": {
@@ -2569,6 +2917,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131825,
+      "name": "NO ME BUSQUES",
+      "url": "https://open.spotify.com/track/4uJTuWY1iJmyXWUtBPEKKt"
+    },
+    {
+      "album": {
         "name": "Send Them To Coventry",
         "url": "https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT"
       },
@@ -2736,6 +3102,50 @@
       "duration_ms": 233066,
       "name": "Old Love / New Love",
       "url": "https://open.spotify.com/track/7ah7ropOQbN7tRy4PiiW5a"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145380,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/2Df1qZun61Mrj4xo6ndtTy"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Stanley Clarke",
+          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "Overtown Lights",
+      "url": "https://open.spotify.com/track/2fGCjJeXtoeqEDML2RFhVf"
     },
     {
       "album": {
@@ -2930,6 +3340,24 @@
       "duration_ms": 129429,
       "name": "Pound Town",
       "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196739,
+      "name": "Power Trip",
+      "url": "https://open.spotify.com/track/66owIEhGwAjAi2yPmwa2dU"
     },
     {
       "album": {
@@ -3197,6 +3625,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "RHYNO",
+      "url": "https://open.spotify.com/track/2NliF6CtlWolNA0Jzkw4ba"
+    },
+    {
+      "album": {
         "name": "RHYNO (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
       },
@@ -3212,7 +3658,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180000,
       "name": "RHYNO (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
@@ -3483,6 +3929,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162793,
+      "name": "Sandunguea",
+      "url": "https://open.spotify.com/track/1Q8z154tjq6WMJALCOM7gE"
+    },
+    {
+      "album": {
         "name": "Se Me Nota (Agarrame)",
         "url": "https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj"
       },
@@ -3502,6 +3966,36 @@
       "duration_ms": 175999,
       "name": "Se Me Nota (Agarrame) - Prod by B-One",
       "url": "https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Etienne de Cr\u00e9cy ",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Sexy Magic",
+      "url": "https://open.spotify.com/track/5AIwo9vC79ce0A7u3DgB1N"
     },
     {
       "album": {
@@ -3532,7 +4026,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195840,
       "name": "Sexy Magic (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
@@ -3779,6 +4273,28 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189738,
+      "name": "Starting From Zero (feat. Michael McDonald)",
+      "url": "https://open.spotify.com/track/171rxWDjFvjPeFjSHF4WS5"
+    },
+    {
+      "album": {
         "name": "Night And Day",
         "url": "https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd"
       },
@@ -3816,6 +4332,28 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Jesse Johnson",
+          "url": "https://open.spotify.com/artist/31h3nKJjsutodtNKRj6Joy"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189088,
+      "name": "Stone Kold Krazy Luuv",
+      "url": "https://open.spotify.com/track/2mLHtW9nUOtZPvYcW1iqFo"
     },
     {
       "album": {
@@ -3909,6 +4447,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113561,
+      "name": "Suzuki",
+      "url": "https://open.spotify.com/track/4DuL1odbViQNnk9o1nol5J"
+    },
+    {
+      "album": {
         "name": "Suzuki (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp"
       },
@@ -3924,10 +4480,28 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 111655,
       "name": "Suzuki (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184875,
+      "name": "Sweet Like Candy",
+      "url": "https://open.spotify.com/track/1QusS0DZ2KK8ukxsAoFZPK"
     },
     {
       "album": {
@@ -3985,6 +4559,50 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162742,
+      "name": "TF?",
+      "url": "https://open.spotify.com/track/4AUAOxJflfzmblig7NrqGN"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161733,
+      "name": "That's It (feat. Future & Metro Boomin)",
+      "url": "https://open.spotify.com/track/6dUXpM7mnGr7cSpCUQewCs"
+    },
+    {
+      "album": {
         "name": "That's It (feat. Future & Metro Boomin) [from GTAVI: The Album]",
         "url": "https://open.spotify.com/album/3ESvHsZEscT58FNYE92nk6"
       },
@@ -4008,7 +4626,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161733,
       "name": "That's It (feat. Future & Metro Boomin) [from GTAVI: The Album]",
       "url": "https://open.spotify.com/track/45TB2WNxWu2X4MmqmCAJnF"
@@ -4435,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156830,
+      "name": "TRDWFE",
+      "url": "https://open.spotify.com/track/4XikHdgDDgZT0jDxJXjz9F"
+    },
+    {
+      "album": {
         "name": "Tukuntazo",
         "url": "https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ"
       },
@@ -4606,6 +5242,24 @@
       "duration_ms": 221440,
       "name": "Volando Voy - Rumba",
       "url": "https://open.spotify.com/track/0pHBZV2V9dVjwqOmkjZFJY"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116251,
+      "name": "WAKIN UP FLEX",
+      "url": "https://open.spotify.com/track/6OX2yNczMDou6xvQCBmjjl"
     },
     {
       "album": {
@@ -4786,6 +5440,24 @@
       "duration_ms": 368400,
       "name": "Windowlicker",
       "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191314,
+      "name": "X",
+      "url": "https://open.spotify.com/track/2jxAeWwgNBd4XgYPn1POoX"
     },
     {
       "album": {

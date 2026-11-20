@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43179,
+  "num_followers": 43178,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAa7tuXfQzjNaTGmcThfJjk+ako63AZ",
+  "snapshot_id": "AAAa8K6gLBRiN8R7Crn+Nr9gpv65+5ST",
   "tracks": [
+    {
+      "added_at": "2026-11-20 06:34:06",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/3loMhLa67SqnCm6XyBkArw"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Alaina Cross",
+          "url": "https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6OtLvqrFTYOeSAsRux0Dah"
+    },
     {
       "added_at": "2026-11-13 05:25:59",
       "album": {

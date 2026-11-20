@@ -2,9 +2,9 @@
 
 ### [FINO](https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA)
 
-> Fino y elegante como Koora y Conep.
+> Fino y elegante como Køddy G y Ryan Castro.
 
-508 songs - 1 day 2 hr 39 min
+509 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Guerra Perdida](https://open.spotify.com/track/0s74MxxdItfaeBS7XUgMvu) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Guerra Perdida](https://open.spotify.com/album/2c1Ey5waeDLViJs7PDQAWx) | 2:49 | 2025-02-14 | 2025-04-05 |
 | [Hace Tiempo](https://open.spotify.com/track/5PSgIaJp6mjIoO5y8kNkrK) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [Hace Tiempo](https://open.spotify.com/album/131BerXzsUmshfyUh9o2Xw) | 3:04 | 2022-09-06 | 2023-06-30 |
 | [Hagale Pues](https://open.spotify.com/track/6Tah0tpInGpXOnYvPcwrCc) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [SOG](https://open.spotify.com/artist/1qca2UDDug7QVMbKYRczd9) | [Hagale Pues](https://open.spotify.com/album/7I5F0zSVcazXWKAG0Pnr2l) | 2:28 | 2023-12-08 | 2024-08-23 |
+| [HAGALO \- Remix](https://open.spotify.com/track/5dKwSBvFI4VN4iJAp7jj4u) | [Køddy G](https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [HAGALO \(Remix\)](https://open.spotify.com/album/12GL0ryH7GVZd10eHC7zub) | 3:29 | 2026-11-20 |  |
 | [HASTA ABAJO](https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [KrING](https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x) | 3:49 | 2022-10-13 | 2025-11-01 |
 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-07-19 | 2025-06-14 |
 | [Hasta Aquí Llegué](https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:08 | 2025-06-13 | 2026-04-04 |

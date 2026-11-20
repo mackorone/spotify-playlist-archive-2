@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 120518,
+  "num_followers": 120524,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADAvQ00WYR8Nt7pL5PtlE7W",
+  "snapshot_id": "avzqgAAAAADwsJgeJzTok7qzAeDqUhaK",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something I Need",
-        "url": "https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 145754,
-      "name": "Something I Need",
-      "url": "https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 231746,
       "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
       "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something I Need",
+        "url": "https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 145754,
+      "name": "Something I Need",
+      "url": "https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8"
     },
     {
       "added_at": null,
@@ -327,6 +327,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Spit Propane (feat. Gunna)",
+      "url": "https://open.spotify.com/track/0Gwfb3N7Le6CyiY5rSs4Ty"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
@@ -383,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "R4W (feat. Quavo)",
+      "url": "https://open.spotify.com/track/0TwvrOQcOWkWE50U6lLlVl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -431,26 +471,6 @@
       "duration_ms": 268933,
       "name": "Ghostface Killers (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5u6vkDnOyaf8LsteDAj2ub"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GMFU",
-        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Spit Propane (feat. Gunna)",
-      "url": "https://open.spotify.com/track/0Gwfb3N7Le6CyiY5rSs4Ty"
     },
     {
       "added_at": null,
@@ -539,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "QR\u00d6MELIFE",
-        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 143296,
-      "name": "Away (feat. Offset)",
-      "url": "https://open.spotify.com/track/694Fxl9wFBAmQHjLKF7ri9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -575,6 +575,42 @@
       "duration_ms": 162280,
       "name": "Silk & Cologne (EI8HT & Offset) - Spider-Verse Remix",
       "url": "https://open.spotify.com/track/5Lv5L45PQmp5CTjs5PlQ6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "I Did",
+      "url": "https://open.spotify.com/track/2LEMAgY1p14F1cwKu6mqaY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QR\u00d6MELIFE",
+        "url": "https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 143296,
+      "name": "Away (feat. Offset)",
+      "url": "https://open.spotify.com/track/694Fxl9wFBAmQHjLKF7ri9"
     },
     {
       "added_at": null,
@@ -599,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GMFU",
-        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "R4W (feat. Quavo)",
-      "url": "https://open.spotify.com/track/0TwvrOQcOWkWE50U6lLlVl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -635,6 +651,26 @@
       "duration_ms": 188333,
       "name": "WORTH IT (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 148943,
+      "name": "One Way Flight (feat. Tommy Richman)",
+      "url": "https://open.spotify.com/track/3Cf5s3N0DR1WBi36auyyDa"
     },
     {
       "added_at": null,
@@ -679,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 180064,
+      "name": "Celebrate (with Offset)",
+      "url": "https://open.spotify.com/track/6hEzT3fE6ecwWvhlqiFCLF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GMFU",
         "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
       },
@@ -688,9 +744,9 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 146400,
-      "name": "I Did",
-      "url": "https://open.spotify.com/track/2LEMAgY1p14F1cwKu6mqaY"
+      "duration_ms": 105974,
+      "name": "Pop Shit",
+      "url": "https://open.spotify.com/track/0ZEKQ0qAFCnheD6QG7jnTP"
     },
     {
       "added_at": null,
@@ -723,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 180064,
-      "name": "Celebrate (with Offset)",
-      "url": "https://open.spotify.com/track/6hEzT3fE6ecwWvhlqiFCLF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE BIGGEST",
         "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
       },
@@ -759,26 +795,6 @@
       "duration_ms": 170106,
       "name": "Climate",
       "url": "https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GMFU",
-        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 148943,
-      "name": "One Way Flight (feat. Tommy Richman)",
-      "url": "https://open.spotify.com/track/3Cf5s3N0DR1WBi36auyyDa"
     },
     {
       "added_at": null,
@@ -803,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIARI:OFFSET",
+        "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "Swing My Way",
+      "url": "https://open.spotify.com/track/5wTjFs7JDLNpzmEAKmI9G2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FATHER OF 4",
         "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
@@ -823,62 +855,6 @@
       "duration_ms": 244941,
       "name": "Legacy (feat. Travis Scott & 21 Savage)",
       "url": "https://open.spotify.com/track/7pMRoGLEJuFM2wl5pt0R99"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIARI:OFFSET",
-        "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 179933,
-      "name": "Swing My Way",
-      "url": "https://open.spotify.com/track/5wTjFs7JDLNpzmEAKmI9G2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GMFU",
-        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 105974,
-      "name": "Pop Shit",
-      "url": "https://open.spotify.com/track/0ZEKQ0qAFCnheD6QG7jnTP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Want The Smoke?",
-        "url": "https://open.spotify.com/album/56jF03rEi6shj9lKH0Y2Wc"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Who Want The Smoke?",
-      "url": "https://open.spotify.com/track/3LR0t8XqZ1FUj6nj01sXN0"
     },
     {
       "added_at": null,
@@ -923,6 +899,30 @@
       "duration_ms": 157645,
       "name": "100 Racks (Offset feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Want The Smoke?",
+        "url": "https://open.spotify.com/album/56jF03rEi6shj9lKH0Y2Wc"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Who Want The Smoke?",
+      "url": "https://open.spotify.com/track/3LR0t8XqZ1FUj6nj01sXN0"
     },
     {
       "added_at": null,

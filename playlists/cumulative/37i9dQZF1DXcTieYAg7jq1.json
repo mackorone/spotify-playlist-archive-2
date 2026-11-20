@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Blu DeTiger",
+  "description": "Featuring that new vintage. Cover: Tiger Lewis",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -5260,7 +5260,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156864,
       "name": "Jennifer",
       "url": "https://open.spotify.com/track/4oF46suNctrzdFKGw4CQAv"
@@ -6991,6 +6991,24 @@
     },
     {
       "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/60uilMs840G7CvBm0vvBoe"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/7hTtSlOEx88OqsqJ1dq75f"
+    },
+    {
+      "album": {
         "name": "Somersault Queen",
         "url": "https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm"
       },
@@ -7086,7 +7104,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 220133,
       "name": "N.Y. Baby (feat. Holly Walker, Say She She & Flavor Flav)",
       "url": "https://open.spotify.com/track/5iHA1i9I8qzF0MQBPvpufe"
@@ -8407,6 +8425,24 @@
     },
     {
       "album": {
+        "name": "Dance Away Your Problems",
+        "url": "https://open.spotify.com/album/3wyplPIw5W4qU1RB7lznUa"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256284,
+      "name": "Rather Be You",
+      "url": "https://open.spotify.com/track/7jgkFZqE6Qw1F2Ru5zcZoY"
+    },
+    {
+      "album": {
         "name": "Ready",
         "url": "https://open.spotify.com/album/4HYFwsvWNfN400hyJiyjdM"
       },
@@ -8602,7 +8638,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154834,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/5HUR6Hb9R7PcnILwdZbS0T"
@@ -9226,6 +9262,24 @@
       "duration_ms": 178469,
       "name": "small talk",
       "url": "https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr"
+    },
+    {
+      "album": {
+        "name": "Smell The Roses",
+        "url": "https://open.spotify.com/album/1XK5XDddfNMOPqUWIGRoIl"
+      },
+      "artists": [
+        {
+          "name": "Jessica Doolan",
+          "url": "https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Smell The Roses",
+      "url": "https://open.spotify.com/track/3v2G6V5DXNC2vRLxcTneAR"
     },
     {
       "album": {
@@ -10230,7 +10284,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176000,
       "name": "The Balance",
       "url": "https://open.spotify.com/track/2OIWoUfeUjrlB5p4ckUFan"
@@ -11268,6 +11322,24 @@
       "duration_ms": 241057,
       "name": "Whisper My Name",
       "url": "https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE"
+    },
+    {
+      "album": {
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/0S5JVI68OlKW9mIcq0pdqp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268874,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/42Bpbeh7uDLOnDFyBWwRcI"
     },
     {
       "album": {

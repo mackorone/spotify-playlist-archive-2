@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : ברי סחרוף
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,740 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,741 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 28 | [כישוף נגדי](https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj) | [כישוף נגדי](https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu) | 4:08 |
 | 29 | [PENNY LAME](https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [PENNY LAME](https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5) | 3:00 |
 | 30 | [מראה לי את השקט](https://open.spotify.com/track/1d1BNBeoKCGJNg3rHHGcco) | [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [מראה לי את השקט](https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI) | 3:36 |
-| 31 | [בסיבוב](https://open.spotify.com/track/1u0I5pq5vchcTu2M4MlAWm) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [בסיבוב](https://open.spotify.com/album/5Rxznk6IJnfljjWTdzyk9i) | 3:06 |
+| 31 | [כותב שירי פרידה](https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [כותב שירי פרידה](https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J) | 3:07 |
 | 32 | [יומולדת](https://open.spotify.com/track/0GL9PoiDvHf1GDQuTIRg2X) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [יומולדת](https://open.spotify.com/album/5ZtFKRNP2g5xnlAc2xWaJs) | 2:51 |
-| 33 | [כותב שירי פרידה](https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [כותב שירי פרידה](https://open.spotify.com/album/13gG63NQDUIP5ip318Uq4J) | 3:07 |
+| 33 | [בסיבוב](https://open.spotify.com/track/1u0I5pq5vchcTu2M4MlAWm) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [בסיבוב](https://open.spotify.com/album/5Rxznk6IJnfljjWTdzyk9i) | 3:06 |
 | 34 | [ניצן](https://open.spotify.com/track/47OCPqYwCd6b4UNVsj64OJ) | [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4), [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [ניצן](https://open.spotify.com/album/7nSMzoR5c5WU7dPE2tTVbi) | 3:55 |
 | 35 | [טאם טאם](https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [ליעם חכמון](https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh) | [טאם טאם](https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z) | 2:56 |
 | 36 | [כמו הדובים](https://open.spotify.com/track/1q0GlKlKUZsY7q69T5L6vz) | [Mashina](https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g) | [כמו הדובים](https://open.spotify.com/album/6wHWOEHQsSGTzJnOHOjq3y) | 3:47 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 43 | [מחברת כאב](https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [אי](https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw) | 3:14 |
 | 44 | [אם נותרנו נאהב](https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG) | [Dana Berger](https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH) | [אם נותרנו נאהב](https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC) | 3:33 |
 | 45 | [Summer Rain](https://open.spotify.com/track/21hXLnC7sgCI3wO1g8lyy2) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Summer Rain](https://open.spotify.com/album/7s1oTVvZjikJiUtGVqcmY5) | 3:12 |
-| 46 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
-| 47 | [סלוניקי](https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF) | [Amir Lev](https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH) | [בסוף הם הסכימו](https://open.spotify.com/album/5t7zbIvLJ6m39REiREuTkZ) | 3:12 |
+| 46 | [סלוניקי](https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF) | [Amir Lev](https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH) | [בסוף הם הסכימו](https://open.spotify.com/album/5t7zbIvLJ6m39REiREuTkZ) | 3:12 |
+| 47 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
 | 48 | [Sun & Lemonade](https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1) | [Loren Peled](https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh), [Daniella Pick](https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp) | [Sun & Lemonade](https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ) | 2:59 |
 | 49 | [יותר מדי בבת אחת](https://open.spotify.com/track/3t2GoEUZyLUeXogiQqzg5o) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [יותר מדי בבת אחת](https://open.spotify.com/album/4NCqWhw52XSrUFUJRA02uo) | 3:11 |
 | 50 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
 
-Snapshot ID: `AAAAAPmNaNqvALHCu6vmNWdhtl9T9Dk+`
+Snapshot ID: `AAAAAJN6skao1GsVM0k9S8DN8hyN5kHP`

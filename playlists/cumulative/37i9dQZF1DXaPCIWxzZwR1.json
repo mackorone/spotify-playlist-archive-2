@@ -15035,6 +15035,24 @@
     },
     {
       "album": {
+        "name": "There's someone in the yard",
+        "url": "https://open.spotify.com/album/5gt3wkqKkmJGij649DwBpF"
+      },
+      "artists": [
+        {
+          "name": "Lambb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "FRONT LAWN",
+      "url": "https://open.spotify.com/track/3PuDoKjY9Xz0OtYv22E34Y"
+    },
+    {
+      "album": {
         "name": "Fruity",
         "url": "https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz"
       },
@@ -15556,6 +15574,24 @@
       "duration_ms": 197260,
       "name": "Get Your Attention",
       "url": "https://open.spotify.com/track/4MCJB2N8KBptcmd1fmo7XY"
+    },
+    {
+      "album": {
+        "name": "Get \u2018Em Girls",
+        "url": "https://open.spotify.com/album/2Gtzo1b2Hsv9kkh5r4CT6P"
+      },
+      "artists": [
+        {
+          "name": "KARLEE GIRL",
+          "url": "https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199270,
+      "name": "Get \u2018Em Girls",
+      "url": "https://open.spotify.com/track/0PLJ8yOxocpIiRlo20Bp0f"
     },
     {
       "album": {
@@ -24180,7 +24216,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 131440,
       "name": "lao shi",
       "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
@@ -26932,6 +26968,24 @@
       "duration_ms": 255920,
       "name": "Malibu (Falling Over The Edge)",
       "url": "https://open.spotify.com/track/6q2U0BAMGZxSUAwz9tf1Lr"
+    },
+    {
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162918,
+      "name": "Mama!",
+      "url": "https://open.spotify.com/track/6dLKFSdxcmYCl1Qeb97RGO"
     },
     {
       "album": {
@@ -30606,7 +30660,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 162061,
       "name": "OBSESSION",
       "url": "https://open.spotify.com/track/4MzNxQ4gWJjRRGvbA2vaV6"
@@ -36834,7 +36888,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137093,
       "name": "SINK",
       "url": "https://open.spotify.com/track/4GPMidIfGlJNwbbaUbQFE2"

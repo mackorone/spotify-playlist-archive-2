@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIaN9ncRVcA.md) - [plain]
 
 > Some initiations can’t be undone\. The official soundtrack and score of The Body, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,337 likes - 43 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,608 likes - 43 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIaN9ncRVcA.md) - [plain]
 | 42 | [We Sacrifice You \(Gloria\)](https://open.spotify.com/track/3Sa75RD0DkPkMSF03jWsnz) | [Christopher Stracey](https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa), [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O), [Budapest Art Choir](https://open.spotify.com/artist/6HKLlfvzJtUuwjb0nECvpz) | [The Body \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1qpshMHJL6YAz5Rsd5axY8) | 1:52 |
 | 43 | [In Paradisum](https://open.spotify.com/track/49cg4fHA9GcFkCz2XsgSnr) | [Christopher Stracey](https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa), [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O), [Budapest Art Choir](https://open.spotify.com/artist/6HKLlfvzJtUuwjb0nECvpz) | [The Body \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1qpshMHJL6YAz5Rsd5axY8) | 3:26 |
 
-Snapshot ID: `AAAAAHC2uxypVCWd8peZCKFWR99+khFX`
+Snapshot ID: `AAAAAGyugcViXDoYkYac32d18k3CO+cZ`

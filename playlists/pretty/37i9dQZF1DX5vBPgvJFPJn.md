@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 
 > The best new music videos from independent artists and labels\. Featuring Cowboy Hunters\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,378 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 | 74 | [The Spokesman](https://open.spotify.com/track/4gKr3DugzfrLMQRXeVnVRD) | [HeadHuncho Amir](https://open.spotify.com/artist/1DRED2ii095cFu6EY1YkNm) | [The Spokesman](https://open.spotify.com/album/2bHtxcCLXxjc7ChsbWaP7h) | 2:33 |
 | 75 | [cae la noche](https://open.spotify.com/track/6hQuEtWIAbzlA9VLwrXYYD) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s) | [Lado A / Lado B IV](https://open.spotify.com/album/5PVroSmmimln14hqW1sRNm) | 3:18 |
 
-Snapshot ID: `AAAAAN3UYw/2Rzu6AHARHy+BuEbzjo7X`
+Snapshot ID: `AAAAADnCm7HbaolJ6K4rJZUBOrIKeN63`

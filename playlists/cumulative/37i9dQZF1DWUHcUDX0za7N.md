@@ -2,9 +2,9 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover: 6uff
+> Hip hop and rap music from Nigeria\. Cover: Zaylevelten
 
-848 songs - 1 day 15 hr 34 min
+849 songs - 1 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj) | 3:14 | 2023-07-07 | 2023-10-09 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:14 | 2023-10-13 | 2024-03-16 |
 | [FL STUDIO II](https://open.spotify.com/track/1A2MQMzE9on8FqI2vc984w) | [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx), [R33NZO](https://open.spotify.com/artist/2w34rjWGumCU3vOiCVd3J6), [Champz](https://open.spotify.com/artist/2fZXMOwo3wPF5TcA48sKKs) | [FL STUDIO II](https://open.spotify.com/album/4sp6D3AC6VpUXNqoqZ7D7E) | 2:00 | 2026-04-17 | 2026-05-15 |
-| [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 | 2025-03-14 |  |
+| [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 | 2025-03-14 | 2026-11-20 |
 | [flavor.](https://open.spotify.com/track/3q51YwUa160xFufWZuPM78) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Xistence.](https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5) | 1:38 | 2025-02-19 | 2025-09-19 |
 | [Flimsy Excusees](https://open.spotify.com/track/2rB5XZMKGKxbhXS9B5HVTp) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Flimsy Excusees/ Bad Character](https://open.spotify.com/album/6OFSAmfK3cCLQpP0XSEo5p) | 2:36 | 2022-09-12 | 2022-10-07 |
 | [Fly](https://open.spotify.com/track/1GYbLczHk6f3O6drvghsB4) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Pawon + Fly](https://open.spotify.com/album/6twgGorVU0d808ToQ632pw) | 1:58 | 2025-09-19 | 2026-02-15 |
@@ -328,6 +328,7 @@
 | [Goyard](https://open.spotify.com/track/2Ts1hFAQq5k7sJFPiqt9Ff) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Goyard](https://open.spotify.com/album/1qREK38x9lTjIBeo2X1pNS) | 2:00 | 2026-10-23 |  |
 | [Grateful](https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 2:49 | 2024-10-07 | 2026-05-29 |
 | [Gravity](https://open.spotify.com/track/4yl8E3WBL0TdCxhwPyytgI) | [EMO Grae](https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Grae's Anatomy](https://open.spotify.com/album/52MSmRTqhXGreoS9ty2WHO) | 2:39 | 2026-06-05 | 2026-06-12 |
+| [Guap Up](https://open.spotify.com/track/7ioZ1rjKynldZlKl1vwH4p) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Guap Up](https://open.spotify.com/album/1fY6UUarOPDDZLDQiWtXXg) | 1:52 | 2026-11-20 |  |
 | [Guns&Roses \(QuestionYaHeart\)](https://open.spotify.com/track/0dbUId7P0gcHUvgroQm6Qj) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Guns&Roses \(QuestionYaHeart\)](https://open.spotify.com/album/1Peac33r475KxGeggGxKvP) | 2:30 | 2022-08-25 | 2022-10-14 |
 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 | 2023-06-16 | 2024-05-24 |
 | [Haba](https://open.spotify.com/track/7qmM8PM4DrrOGyhYlBBngW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Haba](https://open.spotify.com/album/7j7HN6piTLvxdIPcDeZMBx) | 3:18 | 2022-06-09 | 2022-10-07 |

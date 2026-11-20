@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 175760,
       "name": "cool",
       "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214329,
       "name": "El Encanto",
       "url": "https://open.spotify.com/track/5JqY4ugch3e9E4HNFmzlm3"
@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 220240,
       "name": "El Problema Del Amor",
       "url": "https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17"
@@ -3611,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Fuego Intacto",
+        "url": "https://open.spotify.com/album/4C7mUIUlR1RuUS9KYmf1Lu"
+      },
+      "artists": [
+        {
+          "name": "Bandana",
+          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Fuego Intacto",
+      "url": "https://open.spotify.com/track/2OMkPbRVxer3Oe5P2COHNR"
+    },
+    {
+      "album": {
         "name": "Fuerza lejana",
         "url": "https://open.spotify.com/album/2yh2sEJQxnwcJdSG2yBlep"
       },
@@ -3622,7 +3640,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182800,
       "name": "Fuerza lejana",
       "url": "https://open.spotify.com/track/5T16oS4Mikss10Jyp2C6Rk"
@@ -4296,7 +4314,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 158253,
       "name": "LA CANCI\u00d3N QUE ME FALTABA",
       "url": "https://open.spotify.com/track/3GImJThRiXxcMh6fsCAprN"
@@ -4654,6 +4672,24 @@
       "duration_ms": 153827,
       "name": "LAS BABYS",
       "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
+    },
+    {
+      "album": {
+        "name": "Las Cosas Cambian",
+        "url": "https://open.spotify.com/album/1DPpZho3cBWwF6Z5kC2Mue"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156170,
+      "name": "Las Cosas Cambian",
+      "url": "https://open.spotify.com/track/6r6AWwdHOzaIpHqkPM9RTD"
     },
     {
       "album": {
@@ -5608,7 +5644,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 240000,
       "name": "Me Mataste",
       "url": "https://open.spotify.com/track/0SlAyCEb0vzy0GmXvUfBgP"
@@ -5902,7 +5938,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 187830,
       "name": "Monstruo Rutinario",
       "url": "https://open.spotify.com/track/0Hy4Wjz7D7kTlKXGkNcN28"
@@ -6406,7 +6442,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 219374,
       "name": "no",
       "url": "https://open.spotify.com/track/4Kd5N2w7tiC4a9bs3ISkWs"
@@ -7270,7 +7306,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 142053,
       "name": "Persona Incorrecta",
       "url": "https://open.spotify.com/track/7kmOrwF1PuNLxtB4sihJJO"
@@ -7444,7 +7480,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137315,
       "name": "Preludio Para Ahuyentar el Dolor",
       "url": "https://open.spotify.com/track/024cqlqoyXxokLYAnLyCD4"
@@ -7574,7 +7610,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 220964,
       "name": "PUERTA DEL SOL",
       "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
@@ -8088,6 +8124,24 @@
       "duration_ms": 233693,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/0YWrwyCPj9fddTBaYaoaEE"
+    },
+    {
+      "album": {
+        "name": "Ser\u00e1 mejor",
+        "url": "https://open.spotify.com/album/7mAU339tWkDX9G6j0DcRf0"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236240,
+      "name": "Ser\u00e1 mejor",
+      "url": "https://open.spotify.com/track/3ii1yByF0OjwTx7JZAm6uN"
     },
     {
       "album": {
@@ -8842,7 +8896,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"
@@ -9488,7 +9542,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 186260,
       "name": "Tus Errores",
       "url": "https://open.spotify.com/track/57JOyleJlwAZRzB5LQQQVf"

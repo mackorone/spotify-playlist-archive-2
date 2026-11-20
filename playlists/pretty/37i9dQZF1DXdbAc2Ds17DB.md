@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbAc2Ds17DB.md) - [plain]
 
 > Enjoy JANNABI's \[Sweat & Stardust\] LIVE SET including their voices from the stage! \(잔나비의 무대 멘트와 목소리가 포함된 \[스웨트 앤 스타더스트\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,365 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,367 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbAc2Ds17DB.md) - [plain]
 | 32 | [Universe](https://open.spotify.com/track/6MwC8RFeiAsTJCeMRFy37B) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Sound of Music pt.2 : LIFE](https://open.spotify.com/album/0VlH7KKpMs4UpXsne5EBtr) | 3:48 |
 | 33 | [A thought on an autumn night](https://open.spotify.com/track/4YaKlkNVJNbrIqN82EKFsQ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [JANNABI's Small Pieces l](https://open.spotify.com/album/39YkUaoy7BMzsFvGGMwugk) | 3:07 |
 
-Snapshot ID: `AAAAAGqzStgx5jXxfRHqzkoW76M2NUJX`
+Snapshot ID: `AAAAABewYsQZ4CjCxWV5G2inT3X9Zyy2`

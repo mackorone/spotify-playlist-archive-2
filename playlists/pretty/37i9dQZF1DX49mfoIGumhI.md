@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,977 likes - 75 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,047 likes - 75 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 74 | [El Baile del Suavecito](https://open.spotify.com/track/6LIFpEqZJ9V9p8RmGgcKOv) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [2 Generaciones de Salsa](https://open.spotify.com/album/7GHCAfsYzVhEDDJIwdGV7F) | 5:10 |
 | 75 | [Compárame](https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:23 |
 
-Snapshot ID: `AAAAACoVaPUBNhb/GgxRBF/Oo2axzsNw`
+Snapshot ID: `AAAAAPAV5+V5NcskZFk370ewwvtJvaoq`

@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 52267,
+  "num_followers": 52265,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAIlBkR7sMBk9osup/BVenL",
+  "snapshot_id": "avzqgAAAAAB2JtSes4f/T5gY4PjXnEiG",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 362800,
-      "name": "92\u00b0",
-      "url": "https://open.spotify.com/track/6is813aEOH9u4BzdpzLuQu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rapture (Remastered / Expanded)",
         "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 362800,
+      "name": "92\u00b0",
+      "url": "https://open.spotify.com/track/6is813aEOH9u4BzdpzLuQu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peepshow (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 245146,
       "name": "The Killing Jar",
       "url": "https://open.spotify.com/track/1j0UWLVjMbBEQdqfI1CSQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superstition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "Little Sister",
+      "url": "https://open.spotify.com/track/03yJJ5Fv6RZ9CP0WoQ4fza"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superstition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "Little Sister",
-      "url": "https://open.spotify.com/track/03yJJ5Fv6RZ9CP0WoQ4fza"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Join Hands",
         "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Kiss In The Dreamhouse",
-        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Painted Bird",
-      "url": "https://open.spotify.com/track/7HilLn7wds2U0jUJGBBVXw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Scream",
         "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 170973,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Kiss In The Dreamhouse",
+        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Painted Bird",
+      "url": "https://open.spotify.com/track/7HilLn7wds2U0jUJGBBVXw"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 342800,
-      "name": "This Wheel's On Fire",
-      "url": "https://open.spotify.com/track/1JRDjdUYViUZPGDue1CENL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Scream",
         "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 229573,
       "name": "Carcass",
       "url": "https://open.spotify.com/track/2OwRRgr6rGkO0qYPwkUaoN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "This Wheel's On Fire",
+      "url": "https://open.spotify.com/track/1JRDjdUYViUZPGDue1CENL"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Scream",
         "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 278853,
       "name": "Jigsaw Feeling",
       "url": "https://open.spotify.com/track/6Mg9BV9tuZyBwKzxx2rHVS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Join Hands",
-        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "Placebo Effect",
-      "url": "https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Scream",
         "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 254506,
       "name": "Metal Postcard (Mittageisen)",
       "url": "https://open.spotify.com/track/58JjV3gddrK1BLNsz5Qzez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Join Hands",
+        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "Placebo Effect",
+      "url": "https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG"
     },
     {
       "added_at": null,

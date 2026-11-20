@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Nhớ Quê](https://open.spotify.com/track/0z5riOGlFSp6umUxbsH63I) | [Từ Như Tài](https://open.spotify.com/artist/4FIoUZ4oxNciUpioxvVRom) | [Nhớ Quê](https://open.spotify.com/album/2ItU4rDAiq5vrm1YGpZpkv) | 4:47 |
 | 75 | [Đi Trong Hương Tràm](https://open.spotify.com/track/7kSQKyDhD70OQ2QC3725sR) | [Ngọc Liên](https://open.spotify.com/artist/6xaXA45aKi0Up6xbS8pfqO) | [Say Cùng Lan Tím](https://open.spotify.com/album/0FwkrJwKDOh5anXfqEy1PT) | 4:44 |
 
-Snapshot ID: `AAAAACQWBE7Ne1puXTRiz4KGtbPU4esC`
+Snapshot ID: `AAAAAC90Ki6pXvxSidZdrUW+Cood7JPn`

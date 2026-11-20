@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Emblemas de nuestro rock \ud83d\udcf8 Cruzando El Charco",
+  "description": "Emblemas de nuestro rock \ud83d\udcf8 Guasones",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "V\u00ednculos",
+        "url": "https://open.spotify.com/album/5ZthIfoml89EXwgmbfSzDt"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188380,
+      "name": "Am\u00e1s no poder",
+      "url": "https://open.spotify.com/track/5VKGZj4Kh0QziVgrfDdSc1"
+    },
+    {
+      "album": {
         "name": "Anarqu\u00eda en Buenos Aires",
         "url": "https://open.spotify.com/album/6sMENok4qzf1QQW19AkNV5"
       },
@@ -528,7 +546,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 238597,
       "name": "Anarqu\u00eda en Buenos Aires",
       "url": "https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4"
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216837,
       "name": "Cirug\u00eda",
       "url": "https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT"
@@ -2188,7 +2206,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181766,
       "name": "Diamante Roto",
       "url": "https://open.spotify.com/track/2kKDMlOpLR5NsTuOdTyukm"
@@ -7455,6 +7473,24 @@
     },
     {
       "album": {
+        "name": "Exilio",
+        "url": "https://open.spotify.com/album/65aJsTVMkh87gXBhxgiYTZ"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268538,
+      "name": "Sigo",
+      "url": "https://open.spotify.com/track/3mRUbNFGSqtCI946GQpEhf"
+    },
+    {
+      "album": {
         "name": "Silencio",
         "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
       },
@@ -7836,6 +7872,24 @@
       "duration_ms": 218659,
       "name": "Tan Distintos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6VVSQJKIS8QoS3ATKYZpI8"
+    },
+    {
+      "album": {
+        "name": "Tan F\u00e1cil",
+        "url": "https://open.spotify.com/album/1fkCATtx2zPnZAhSMZsmWH"
+      },
+      "artists": [
+        {
+          "name": "La Grecia",
+          "url": "https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262565,
+      "name": "Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/4CXFb7nsXJGquaAVn5Xyhj"
     },
     {
       "album": {

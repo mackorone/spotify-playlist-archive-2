@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 386924,
+  "num_followers": 386967,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAB6EUrUbqBy1jh2fbdyXHzB",
+  "snapshot_id": "avzqgAAAAACqNHIOt3VJLie+K50apDtC",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6qKPrh8dQ6jVqR3TiyMM8J"
       },
       "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 193360,
-      "name": "JACKPOT",
-      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
+      "duration_ms": 166418,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl"
     },
     {
       "added_at": null,
@@ -427,24 +423,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6qKPrh8dQ6jVqR3TiyMM8J"
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
       },
       "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 166418,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/1jBxLoNgHtZnY3ykT9MDyl"
+      "duration_ms": 193360,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+        "name": "Tokome",
+        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 157606,
-      "name": "Botellita",
-      "url": "https://open.spotify.com/track/0HXnUYLIIzaeO2ACjuw43s"
+      "duration_ms": 157450,
+      "name": "Tokome",
+      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokome",
-        "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 157450,
-      "name": "Tokome",
-      "url": "https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6"
+      "duration_ms": 157606,
+      "name": "Botellita",
+      "url": "https://open.spotify.com/track/0HXnUYLIIzaeO2ACjuw43s"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "En 4",
+        "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "En 4",
+      "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bate",
         "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
       },
@@ -759,42 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En 4",
-        "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "En 4",
-      "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 163403,
-      "name": "Cambios",
-      "url": "https://open.spotify.com/track/6kiYwJne7PkW12I53Ey6qN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/3oQwe85XEzQydpBGyAvgPv"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 184864,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3oQwe85XEzQydpBGyAvgPv"
+      "duration_ms": 163403,
+      "name": "Cambios",
+      "url": "https://open.spotify.com/track/6kiYwJne7PkW12I53Ey6qN"
     }
   ],
   "unique_name": "This Is Kenia Os",

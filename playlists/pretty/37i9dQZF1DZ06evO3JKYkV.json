@@ -1,12 +1,12 @@
 {
   "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 85343,
+  "num_followers": 85352,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABfC5G1RuUIyxHlUeC9JyPB",
+  "snapshot_id": "avzqgAAAAADso1c7ZwR9kfsCizPgVaY4",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "4",
-      "url": "https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 447800,
-      "name": "#1",
-      "url": "https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c"
+      "duration_ms": 217133,
+      "name": "4",
+      "url": "https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd"
     },
     {
       "added_at": null,
@@ -471,6 +455,38 @@
       "duration_ms": 112000,
       "name": "em2500 M253X [London 03.06.17]",
       "url": "https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drukqs (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 126653,
+      "name": "Kladfvgbung Mischk",
+      "url": "https://open.spotify.com/track/47O5CKgLTHDAo2BPxcECYw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 447800,
+      "name": "#1",
+      "url": "https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c"
     },
     {
       "added_at": null,
@@ -507,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 531426,
-      "name": "#7",
-      "url": "https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Syro",
         "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 531426,
+      "name": "#7",
+      "url": "https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On",
         "url": "https://open.spotify.com/album/3ST4JBcwc8LDpQCYoSx8YG"
       },
@@ -551,6 +567,22 @@
       "duration_ms": 432893,
       "name": "On",
       "url": "https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drukqs (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 308106,
+      "name": "Gwely Mernans",
+      "url": "https://open.spotify.com/track/4g6qsLXJvMybGoPlnDM4yU"
     },
     {
       "added_at": null,
@@ -619,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drukqs (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 292480,
+      "name": "Omgyjya-Switch7",
+      "url": "https://open.spotify.com/track/4iy9wqRmqu3JMPKkBmJcjA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blackbox Life Recorder 21f / in a room7 F760",
         "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
       },
@@ -631,22 +679,6 @@
       "duration_ms": 233755,
       "name": "in a room7 F760",
       "url": "https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 292826,
-      "name": "Girl/Boy Song",
-      "url": "https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0"
     },
     {
       "added_at": null,
@@ -683,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 292826,
+      "name": "Girl/Boy Song",
+      "url": "https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come To Daddy",
         "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
       },
@@ -699,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
       },
       "artists": [
         {
@@ -708,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Yellow Calx",
-      "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
+      "duration_ms": 401911,
+      "name": "Rhubarb Orc. 19.53 Rev",
+      "url": "https://open.spotify.com/track/2fRIkIeA6I99RfxmcKAaUG"
     },
     {
       "added_at": null,
@@ -739,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
       "artists": [
         {
@@ -748,9 +796,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 401911,
-      "name": "Rhubarb Orc. 19.53 Rev",
-      "url": "https://open.spotify.com/track/2fRIkIeA6I99RfxmcKAaUG"
+      "duration_ms": 184906,
+      "name": "Yellow Calx",
+      "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
     },
     {
       "added_at": null,
@@ -767,54 +815,6 @@
       "duration_ms": 631240,
       "name": "XMAS_EVET10 [120][thanaton3 mix]",
       "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 289693,
-      "name": "The Waxen Pith",
-      "url": "https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music From The Merch Desk (2016 - 2023)",
-        "url": "https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "korg funk5 [London 19.08.2023]",
-      "url": "https://open.spotify.com/track/6PyTpWAkOCDhcsnT5ztjTX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blackbox Life Recorder 21f",
-        "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 266558,
-      "name": "Blackbox Life Recorder 21f",
-      "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
     }
   ],
   "unique_name": "This Is Aphex Twin",

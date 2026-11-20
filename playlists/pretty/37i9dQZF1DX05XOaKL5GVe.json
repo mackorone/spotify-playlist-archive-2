@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 1001759,
+  "num_followers": 1001814,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMno5BLUpVr2hRpFrDGhlTx4D9cW",
+  "snapshot_id": "AAAAADNbcnfP4TB2g0PvEkHuUxvH9yJQ",
   "tracks": [
     {
       "added_at": "2024-12-27 17:55:26",
@@ -619,18 +619,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+        "name": "De Piel Negra",
+        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
       },
       "artists": [
         {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 223400,
-      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
-      "url": "https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD"
+      "duration_ms": 278453,
+      "name": "Hacer El Amor Con Otro",
+      "url": "https://open.spotify.com/track/1MtVzUD3q6z3NmppCZcCDb"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -651,18 +651,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "De Piel Negra",
-        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
       },
       "artists": [
         {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
         }
       ],
-      "duration_ms": 278453,
-      "name": "Hacer El Amor Con Otro",
-      "url": "https://open.spotify.com/track/1MtVzUD3q6z3NmppCZcCDb"
+      "duration_ms": 223400,
+      "name": "Ella...Ella Ya Me Olvid\u00f3, Yo la Recuerdo Ahora",
+      "url": "https://open.spotify.com/track/2IG7Gl8zcAJiYcZBKMvdWD"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Despues De Tanto",
-      "url": "https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 174360,
       "name": "Debut Y Despedida",
       "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Despues De Tanto",
+      "url": "https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Digan lo que digan",
-      "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "S\u00f3lo para enamorados",
         "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 190840,
       "name": "Tri\u00e1ngulo",
       "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Digan lo que digan",
+      "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
     },
     {
       "added_at": "2021-04-22 14:20:49",

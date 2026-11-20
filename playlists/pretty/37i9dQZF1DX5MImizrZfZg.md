@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,106 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,122 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [Tequila Moon](https://open.spotify.com/track/6CqToVNuBYHXvlzdQmZHJA) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Tequila Moon](https://open.spotify.com/album/5m4EAIIS14jJMOQyhNo3UH) | 4:36 |
 | 50 | [Just Like The First Time](https://open.spotify.com/track/20JF2Ix0c2XwffIHQ2ROpg) | [Kevin Toney](https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0) | [110 Degrees and Rising](https://open.spotify.com/album/1XrHlJEEAvJPwB5BNmUVtm) | 4:39 |
 
-Snapshot ID: `AAAAAEOPhwZ7/W3gsFastdyE3tLFXMHI`
+Snapshot ID: `AAAAAHMG4W95XdNBvoYici4GSoFAJq2o`

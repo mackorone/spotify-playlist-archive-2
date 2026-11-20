@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-228 songs - 10 hr 46 min
+229 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Ik Ga Leven \(Goldfinger remix\)](https://open.spotify.com/track/0k1D369yKmhSiMnQBYiPE0) | [Rob Van Daal](https://open.spotify.com/artist/3TbeR2GLVYNQW7ohVIzSJ8) | [Nu Lacht Geluk Me Toe](https://open.spotify.com/album/6iD9JoFQoMCbw1y1TpC1qu) | 3:08 | 2025-07-14 | 2025-10-08 |
 | [Ik Heb De Hele Nacht Liggen Dromen](https://open.spotify.com/track/424Blek9ClYC97FV3muHqV) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Niemand Anders](https://open.spotify.com/album/5nqY3O7eAIz1RpKmFr1zRB) | 4:08 | 2025-07-14 | 2025-09-05 |
 | [Ik Hoor Niks Geks](https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ik Hoor Niks Geks](https://open.spotify.com/album/4XgUdNLifjU902gYLlIMCw) | 2:16 | 2026-08-28 |  |
-| [Ik Kan Je Niet Vergeten](https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Ik Kan Je Niet Vergeten](https://open.spotify.com/album/4dOZQ6p3hwXX7QzWLHmXFJ) | 2:47 | 2025-07-14 |  |
+| [Ik Kan Je Niet Vergeten](https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Ik Kan Je Niet Vergeten](https://open.spotify.com/album/4dOZQ6p3hwXX7QzWLHmXFJ) | 2:47 | 2025-07-14 | 2026-11-20 |
 | [Ik Kom Terug](https://open.spotify.com/track/1wiBI0OGxVOzGPAyJFr7dy) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Ik Kom Terug](https://open.spotify.com/album/1tLkY8oqGcwmTjvtdZLHMd) | 2:49 | 2026-03-23 |  |
 | [Ik Meen 'T](https://open.spotify.com/track/49EPxidDCfWYg0cIKmTxHB) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:33 | 2025-07-14 |  |
 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 | 2025-07-14 |  |
@@ -204,6 +204,7 @@
 | [Viva Cerveza](https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Viva Cerveza](https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD) | 3:26 | 2025-07-14 |  |
 | [Viva Hollandia](https://open.spotify.com/track/0VCYoWWceUxg1jRwlPMBbv) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Echt Niet Normaal!](https://open.spotify.com/album/3YiSpWbD5hdbQxn9U7WUnh) | 2:50 | 2026-06-20 | 2026-07-01 |
 | [Vloek van Barcelona](https://open.spotify.com/track/4uyFQbpIBFxWlRf3g5SDnd) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Vloek van Barcelona](https://open.spotify.com/album/2AkdWDqde887HRYN1I3kVb) | 2:25 | 2026-11-02 | 2026-11-11 |
+| [Vrienden Voor Altijd](https://open.spotify.com/track/3WmyRqkjV14uKcueq03IEV) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Vrienden Voor Altijd](https://open.spotify.com/album/6HUkKUsSc7gvuyQ4yLjbhI) | 2:47 | 2026-11-19 |  |
 | [Vuurwerk](https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Vuurwerk](https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf) | 3:04 | 2026-07-02 |  |
 | [Waar Ben Jij](https://open.spotify.com/track/3urXPhe8sZOz3yVAr3Z1H4) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Waar Ben Jij](https://open.spotify.com/album/1oaWbAqd6MMkVmYXTer7a5) | 3:00 | 2026-11-10 |  |
 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 | 2026-03-30 |  |

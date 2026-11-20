@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino, con Manuel Turizo y J Balvin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,601,349 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,601,244 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 49 | [KINKY](https://open.spotify.com/track/5nzJwpQA2DiUfvNeWLp91b) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [KINKY](https://open.spotify.com/album/2P3o7T3rBrFKd5i8wkIssO) | 2:03 |
 | 50 | [DesOrden](https://open.spotify.com/track/2Fd7PA5quhm73Aw7H3FwwN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [DesOrden](https://open.spotify.com/album/2P4DYITUx7faiFzAzXaofU) | 2:36 |
 
-Snapshot ID: `AAAAAPC8Zmh87GFwvnnOAPWuDz968xSS`
+Snapshot ID: `AAAAAHsV7ROP1gqGP8hPp3Jx6oWbdKiA`

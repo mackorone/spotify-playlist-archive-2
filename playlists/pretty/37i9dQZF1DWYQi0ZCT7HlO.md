@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 
 > Cozy Christmas piano and a crackling log fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,703 likes - 68 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,364 likes - 68 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sleigh Ride \(fireplace\)](https://open.spotify.com/track/1wwbpAxfQZhvtJN7zOVO6r) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sleigh Ride \(fireplace\)](https://open.spotify.com/album/17j9QsnZskQrWqBeHnprya) | 4:03 |
 | 2 | [The Christmas Song](https://open.spotify.com/track/4s7RK1po6cVNGfT5cI9IJo) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Deck The Halls](https://open.spotify.com/album/3UWirUx1QvnakhZ1sfnrxZ) | 3:14 |
-| 3 | [White Christmas](https://open.spotify.com/track/3pgyIgscqoLhhv2jCZQqUE) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [A Cozy Christmas Evening](https://open.spotify.com/album/38mNvJT8lj4ay5g7moUgHW) | 2:20 |
-| 4 | [Have Yourself A Merry Little Christmas \(Fireside\)](https://open.spotify.com/track/7wWzZtNENv2N2g1BbzSGBS) | [Oliver Thayne](https://open.spotify.com/artist/4vAo8Lplb3vi38EU9nhXXa) | [Have Yourself A Merry Little Christmas \(Fireside\)](https://open.spotify.com/album/0jxowI6CSf4i3LQi4y7xBX) | 2:07 |
-| 5 | [In The Bleak Midwinter](https://open.spotify.com/track/5g7h8AspE2ABa510y4HYLd) | [Herman Lundblad](https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz) | [In The Bleak Midwinter](https://open.spotify.com/album/716GaBDvG2QbrhktZBkXHE) | 2:05 |
-| 6 | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/track/6mYetg3csOzQRS63MmXdjo) | [Lara Molineux](https://open.spotify.com/artist/3bCcInCYqwOR3YGEbLO72X) | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/album/7GrAhfKqoxCZvFroYouKH5) | 3:13 |
-| 7 | [Hark! The Herald Angels Sing \(Fireside\)](https://open.spotify.com/track/0E2KpRTIaSRTAPaSGDgumI) | [Adrian Holloway](https://open.spotify.com/artist/25gb3Wu3VLDXSUkLCdoce5) | [Hark! The Herald Angels Sing \(Fireside\)](https://open.spotify.com/album/02LS96txmqvxto2OrzXubb) | 2:03 |
-| 8 | [O Come, All Ye Faithful \(Fireplace Version\)](https://open.spotify.com/track/3fNlo0Idz2QVQMGjqjYmiX) | [Noel Newman](https://open.spotify.com/artist/2DfgtFKS0D6r8nCklevapF) | [O Come, All Ye Faithful \(Fireplace Version\)](https://open.spotify.com/album/5TsmdUMNLvGxzoa0TtFJ3W) | 2:51 |
-| 9 | [See Amid the Winter’s Snow](https://open.spotify.com/track/0L25oA9UiGHWDhzcszpGwI) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [See Amid the Winter’s Snow](https://open.spotify.com/album/1ZAf79k7yBYXRJYeFpK4z9) | 1:51 |
+| 3 | [In The Bleak Midwinter](https://open.spotify.com/track/5g7h8AspE2ABa510y4HYLd) | [Herman Lundblad](https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz) | [In The Bleak Midwinter](https://open.spotify.com/album/716GaBDvG2QbrhktZBkXHE) | 2:05 |
+| 4 | [See Amid the Winter’s Snow](https://open.spotify.com/track/0L25oA9UiGHWDhzcszpGwI) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [See Amid the Winter’s Snow](https://open.spotify.com/album/1ZAf79k7yBYXRJYeFpK4z9) | 1:51 |
+| 5 | [White Christmas](https://open.spotify.com/track/3pgyIgscqoLhhv2jCZQqUE) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [A Cozy Christmas Evening](https://open.spotify.com/album/38mNvJT8lj4ay5g7moUgHW) | 2:20 |
+| 6 | [Have Yourself A Merry Little Christmas \(Fireside\)](https://open.spotify.com/track/7wWzZtNENv2N2g1BbzSGBS) | [Oliver Thayne](https://open.spotify.com/artist/4vAo8Lplb3vi38EU9nhXXa) | [Have Yourself A Merry Little Christmas \(Fireside\)](https://open.spotify.com/album/0jxowI6CSf4i3LQi4y7xBX) | 2:07 |
+| 7 | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/track/6mYetg3csOzQRS63MmXdjo) | [Lara Molineux](https://open.spotify.com/artist/3bCcInCYqwOR3YGEbLO72X) | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/album/7GrAhfKqoxCZvFroYouKH5) | 3:13 |
+| 8 | [Hark! The Herald Angels Sing \(Fireside\)](https://open.spotify.com/track/0E2KpRTIaSRTAPaSGDgumI) | [Adrian Holloway](https://open.spotify.com/artist/25gb3Wu3VLDXSUkLCdoce5) | [Hark! The Herald Angels Sing \(Fireside\)](https://open.spotify.com/album/02LS96txmqvxto2OrzXubb) | 2:03 |
+| 9 | [O Come, All Ye Faithful \(Fireplace Version\)](https://open.spotify.com/track/3fNlo0Idz2QVQMGjqjYmiX) | [Noel Newman](https://open.spotify.com/artist/2DfgtFKS0D6r8nCklevapF) | [O Come, All Ye Faithful \(Fireplace Version\)](https://open.spotify.com/album/5TsmdUMNLvGxzoa0TtFJ3W) | 2:51 |
 | 10 | [Sing We Now Of Christmas](https://open.spotify.com/track/114JfHghN61dCIDHr4HBlj) | [Frosted Dreams](https://open.spotify.com/artist/2WT8clHvt74g7QMbmYqA0u) | [Sing We Now Of Christmas](https://open.spotify.com/album/4HCKs8N4OeDX4aPDbO5DIS) | 2:45 |
 | 11 | [Christmas Time Is Here \(fireside\)](https://open.spotify.com/track/6tNrUddtY2PP7KogBTPcpL) | [Camille Laurent](https://open.spotify.com/artist/7abyHm5fBQV0OD8QJn2NOd) | [Christmas Time Is Here \(fireside\)](https://open.spotify.com/album/1kD935yfuCwNWyksbOylDy) | 2:48 |
 | 12 | [Walking in a Winter Wonderland](https://open.spotify.com/track/3n3or2ujocN20GzYqgcHLM) | [Karla Debeljak](https://open.spotify.com/artist/5WDw9Se5TtNtU0i2ltnSkN) | [Walking in a Winter Wonderland](https://open.spotify.com/album/0p8oVtr8UkvfR1kXVGIcCw) | 2:42 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 | 67 | [Lo, How A Rose E'er Blooming \- Fireplace](https://open.spotify.com/track/4F5YPfIou0dd4hG39A8hWc) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 3:44 |
 | 68 | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/track/00O8x3AiKHgWfVizSUf0Aq) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/album/6bq8e9ZJCK4r0nXYKIZZWS) | 4:05 |
 
-Snapshot ID: `AAAAAIDT4sVGH40fb/VCIDgXVhSPLMZr`
+Snapshot ID: `AAAAAB8ajFaS2NYszAtWV4cA1rF95OEi`

@@ -4,7 +4,7 @@
 
 > This is Florence + The Machine\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 47 min
+70 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Kraken](https://open.spotify.com/track/4BswiLDcr4ChDGl2NrfhC1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:50 | 2025-11-02 | 2025-11-16 |
 | [Make Up Your Mind](https://open.spotify.com/track/3AiXzUyFAFZVBGVAADPN5a) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 4:01 | 2025-10-28 |  |
 | [Mermaids](https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever \(Complete Edition\)](https://open.spotify.com/album/6a15PoOmOueHCdogzhHRbh) | 4:35 | 2025-10-28 | 2026-01-17 |
-| [Moderation](https://open.spotify.com/track/6V0PPYLaQ5fCAPftwIgpuN) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Moderation](https://open.spotify.com/album/7kytZHAdRdVINFw8W1TB50) | 3:08 | 2025-10-28 |  |
+| [Moderation](https://open.spotify.com/track/6V0PPYLaQ5fCAPftwIgpuN) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Moderation](https://open.spotify.com/album/7kytZHAdRdVINFw8W1TB50) | 3:08 | 2025-10-28 | 2026-11-20 |
 | [Music by Men](https://open.spotify.com/track/1oHxIq2EEXHzPcNo3MJQjQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:31 | 2025-11-02 | 2026-05-04 |
 | [Never Let Me Go](https://open.spotify.com/track/3HNTLCpAGnizbyJmk7466r) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:30 | 2025-10-28 |  |
 | [No Choir](https://open.spotify.com/track/47a7Hn4fFE4mHgVJF19CO1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 2:29 | 2025-11-30 | 2026-10-31 |
@@ -55,6 +55,7 @@
 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 | 2025-10-28 |  |
 | [Seven Devils](https://open.spotify.com/track/6NmEbJz0hXsoe5mogu23it) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 5:03 | 2025-10-28 |  |
 | [Shake It Out](https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:37 | 2025-10-28 |  |
+| [Shake It Out \- Live](https://open.spotify.com/track/44A17SbpYqQXvLTQ83VqZr) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream Tour Live](https://open.spotify.com/album/1f3QAJG9UzARzT26yvEdRI) | 5:17 | 2026-11-20 |  |
 | [Ship To Wreck](https://open.spotify.com/track/3dEFa9KjOLEZl980ctEEv1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:54 | 2025-10-28 |  |
 | [Sky Full Of Song](https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:46 | 2025-10-28 |  |
 | [South London Forever](https://open.spotify.com/track/3MZ7TxuXNnwYXm2KZGap5g) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 4:22 | 2025-10-28 | 2025-11-02 |

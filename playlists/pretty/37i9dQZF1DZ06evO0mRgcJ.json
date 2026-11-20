@@ -1,12 +1,12 @@
 {
   "description": "This is Los Desvelados. The essential tracks, all in one playlist.",
-  "num_followers": 794,
+  "num_followers": 798,
   "original_name": "This Is Los Desvelados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAA7sA2prvWIcf4JkooUmQ6J",
+  "snapshot_id": "avzqgAAAAAC7JT1ygwhOB+mePqAecWWJ",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr. Seal the Deal",
+        "url": "https://open.spotify.com/album/0onvZ8hmwRKN7NgwmHVuPH"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 270971,
+      "name": "Mr. Seal the Deal",
+      "url": "https://open.spotify.com/track/0HIIT1vaPTt5CuYZ74sonO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EL TRUQUITO",
         "url": "https://open.spotify.com/album/1IknBKFcTwtL5na9HAXfD5"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Seal the Deal",
-        "url": "https://open.spotify.com/album/0onvZ8hmwRKN7NgwmHVuPH"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 270971,
-      "name": "Mr. Seal the Deal",
-      "url": "https://open.spotify.com/track/0HIIT1vaPTt5CuYZ74sonO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORRIDOS UNDERGROUND (Vol. 4)",
         "url": "https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 158024,
       "name": "EL NI\u00d1O FAME",
       "url": "https://open.spotify.com/track/0qbKFZVCMIZ9LWyOEVTeeP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qui\u00e9n Ser\u00e1",
+        "url": "https://open.spotify.com/album/2wbUWdOCXxdxycsqRZId6f"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 242482,
+      "name": "Qui\u00e9n Ser\u00e1",
+      "url": "https://open.spotify.com/track/68SU3twVPfkMalr5jko3Yk"
     },
     {
       "added_at": null,
@@ -223,22 +239,6 @@
       "duration_ms": 211156,
       "name": "Me Tuve Que Pelar Pa Culiac\u00e1n",
       "url": "https://open.spotify.com/track/1Ltvt6fkT1Pq6t9r70Qe94"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qui\u00e9n Ser\u00e1",
-        "url": "https://open.spotify.com/album/2wbUWdOCXxdxycsqRZId6f"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 242482,
-      "name": "Qui\u00e9n Ser\u00e1",
-      "url": "https://open.spotify.com/track/68SU3twVPfkMalr5jko3Yk"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tronado",
-        "url": "https://open.spotify.com/album/1bLiWTtHgrH7DPAaTMwOJ9"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 162378,
-      "name": "El Tronado",
-      "url": "https://open.spotify.com/track/2s5qccvIdCCRFhKNOGSDqe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA CHAVALADA",
         "url": "https://open.spotify.com/album/2uaXaNlJkVPK4iAX2SQGy1"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 155797,
       "name": "LA CHAVALADA",
       "url": "https://open.spotify.com/track/53zndj964KOjoBW9lEXxbw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tronado",
+        "url": "https://open.spotify.com/album/1bLiWTtHgrH7DPAaTMwOJ9"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 162378,
+      "name": "El Tronado",
+      "url": "https://open.spotify.com/track/2s5qccvIdCCRFhKNOGSDqe"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camioneta Alterada",
-        "url": "https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 209898,
-      "name": "Camioneta Alterada",
-      "url": "https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Richie Rich (En Vivo)",
         "url": "https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi"
       },
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sieteh",
-        "url": "https://open.spotify.com/album/6PKSzk8tHnN7lMciM13HOM"
+        "name": "Camioneta Alterada",
+        "url": "https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t"
       },
       "artists": [
         {
@@ -452,25 +436,9 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 271565,
-      "name": "El Sieteh",
-      "url": "https://open.spotify.com/track/0KuwvVmXF1z5Bm4nNYgj0j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tengo Viendo",
-        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 234410,
-      "name": "Los Tengo Viendo",
-      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
+      "duration_ms": 209898,
+      "name": "Camioneta Alterada",
+      "url": "https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l"
     },
     {
       "added_at": null,
@@ -511,6 +479,38 @@
       "duration_ms": 169726,
       "name": "Gato Del Infierno",
       "url": "https://open.spotify.com/track/1u5qaB4m4tA5iN6qPFKpGt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sieteh",
+        "url": "https://open.spotify.com/album/6PKSzk8tHnN7lMciM13HOM"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 271565,
+      "name": "El Sieteh",
+      "url": "https://open.spotify.com/track/0KuwvVmXF1z5Bm4nNYgj0j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tengo Viendo",
+        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 234410,
+      "name": "Los Tengo Viendo",
+      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Underground 3",
-        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 145825,
-      "name": "Situaciones de la Calle",
-      "url": "https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Persecuci\u00f3n",
         "url": "https://open.spotify.com/album/6PymX3BNs2gmr23Ire8CG0"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 205414,
       "name": "La Persecuci\u00f3n",
       "url": "https://open.spotify.com/track/3PCjpBibAqNnD5dGlLBNQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Underground 3",
+        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 145825,
+      "name": "Situaciones de la Calle",
+      "url": "https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx"
     },
     {
       "added_at": null,
@@ -635,66 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Johnny Boy (feat. Los Nuevos Ilegales & La Decima Banda)",
-        "url": "https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        },
-        {
-          "name": "Los Nuevos Ilegales",
-          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
-        }
-      ],
-      "duration_ms": 157367,
-      "name": "Johnny Boy (feat. Los Nuevos Ilegales & La Decima Banda)",
-      "url": "https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cookie Plug (En Vivo)",
-        "url": "https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "The Cookie Plug (En Vivo)",
-      "url": "https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bien Pilas (En Vivo)",
-        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 118826,
-      "name": "Bien Pilas - En Vivo",
-      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quien Es Quien",
         "url": "https://open.spotify.com/album/0BkKVjZfHP0tAI4f7gHd2j"
       },
@@ -715,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Z.B.Z.A",
-        "url": "https://open.spotify.com/album/0clP6LHJO4iL43VL2C2ocN"
+        "name": "The Cookie Plug (En Vivo)",
+        "url": "https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ"
       },
       "artists": [
         {
@@ -724,9 +664,33 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 174511,
-      "name": "Z.B.Z.A",
-      "url": "https://open.spotify.com/track/2JVthiyidDwoWFRccxhfsm"
+      "duration_ms": 237000,
+      "name": "The Cookie Plug (En Vivo)",
+      "url": "https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Johnny Boy (feat. Los Nuevos Ilegales & La Decima Banda)",
+        "url": "https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        },
+        {
+          "name": "Los Nuevos Ilegales",
+          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
+        }
+      ],
+      "duration_ms": 157367,
+      "name": "Johnny Boy (feat. Los Nuevos Ilegales & La Decima Banda)",
+      "url": "https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw"
     },
     {
       "added_at": null,
@@ -771,6 +735,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bien Pilas (En Vivo)",
+        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Bien Pilas - En Vivo",
+      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Z.B.Z.A",
+        "url": "https://open.spotify.com/album/0clP6LHJO4iL43VL2C2ocN"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 174511,
+      "name": "Z.B.Z.A",
+      "url": "https://open.spotify.com/track/2JVthiyidDwoWFRccxhfsm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Underground 2",
+        "url": "https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 148528,
+      "name": "Layo Gastelum (En Vivo)",
+      "url": "https://open.spotify.com/track/3numKkxd3guCAWjwJgLjdH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Make It Happen",
         "url": "https://open.spotify.com/album/4CwKfeFdH5rzGirruzHGOv"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 186456,
       "name": "En Uno al 7 (En Vivo)",
       "url": "https://open.spotify.com/track/0MDB6Pst3BtDbp0rk7uiWs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Underground 2",
-        "url": "https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 148528,
-      "name": "Layo Gastelum (En Vivo)",
-      "url": "https://open.spotify.com/track/3numKkxd3guCAWjwJgLjdH"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo a la Sorda",
-        "url": "https://open.spotify.com/album/3ByNTbZMgtQCZF4pzUVvwa"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "Clave 602",
-          "url": "https://open.spotify.com/artist/7lpQI8bhkynzTuFUPsLPUS"
-        }
-      ],
-      "duration_ms": 197141,
-      "name": "Todo a la Sorda",
-      "url": "https://open.spotify.com/track/0owjn0WHFxKKFcUjS4Cd2L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ni\u00f1o Fame",
         "url": "https://open.spotify.com/album/0g0PfLThD4vHLK8DIZZGKF"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 161029,
       "name": "El Ni\u00f1o Fame",
       "url": "https://open.spotify.com/track/2EzRb90iPu15kFq0Ia1evR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo a la Sorda",
+        "url": "https://open.spotify.com/album/3ByNTbZMgtQCZF4pzUVvwa"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Clave 602",
+          "url": "https://open.spotify.com/artist/7lpQI8bhkynzTuFUPsLPUS"
+        }
+      ],
+      "duration_ms": 197141,
+      "name": "Todo a la Sorda",
+      "url": "https://open.spotify.com/track/0owjn0WHFxKKFcUjS4Cd2L"
     },
     {
       "added_at": null,

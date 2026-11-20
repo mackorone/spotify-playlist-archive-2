@@ -1,13 +1,65 @@
 {
   "description": "The best in blues right now. Cover: Christone \"Kingfish\" Ingram",
-  "num_followers": 161141,
+  "num_followers": 161188,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPAfEyjCxXHUuM+RMfeFD78akaEl",
+  "snapshot_id": "AAAAAEAoV1S7ZZqnS5Q4FMh2x+829ZRU",
   "tracks": [
+    {
+      "added_at": "2026-11-20 05:00:37",
+      "album": {
+        "name": "Use It",
+        "url": "https://open.spotify.com/album/5YVw8LQmJnm9FdzcVitVrl"
+      },
+      "artists": [
+        {
+          "name": "MudKings",
+          "url": "https://open.spotify.com/artist/19CSupGlgbkAXTNNuEbuqU"
+        }
+      ],
+      "duration_ms": 231068,
+      "name": "Use It",
+      "url": "https://open.spotify.com/track/6eIM8a7UruYaoii9HMvVsr"
+    },
+    {
+      "added_at": "2026-11-20 05:00:37",
+      "album": {
+        "name": "Lean On The Blues",
+        "url": "https://open.spotify.com/album/7xjxDSeh7jCTL5cFpsBWAi"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        },
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 221364,
+      "name": "Lean On The Blues",
+      "url": "https://open.spotify.com/track/4cLQdYz0XmqLg0YCvY6p4O"
+    },
+    {
+      "added_at": "2026-11-20 05:00:37",
+      "album": {
+        "name": "The Normal One",
+        "url": "https://open.spotify.com/album/79Wrd39u35z4enRgrLvsRw"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "The Normal One",
+      "url": "https://open.spotify.com/track/2YbkQLB1NLFtF9iAujj3Z2"
+    },
     {
       "added_at": "2026-10-23 04:00:28",
       "album": {
@@ -775,22 +827,6 @@
       "duration_ms": 256085,
       "name": "Who Can You Trust",
       "url": "https://open.spotify.com/track/0QBATyfMWV08KwlAaSCIfW"
-    },
-    {
-      "added_at": "2026-03-20 04:00:30",
-      "album": {
-        "name": "Bad Things",
-        "url": "https://open.spotify.com/album/372PmOaKxlMeZ8hvxc8ZpX"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 216653,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/4uJlaPIHej7EJPg4QwewhI"
     },
     {
       "added_at": "2026-02-06 05:00:24",
@@ -1801,26 +1837,6 @@
       "url": "https://open.spotify.com/track/2w9UXeDOvQ82fPs3e6amll"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Woke Up And Smelled The Coffee",
-        "url": "https://open.spotify.com/album/1ClLyZpNVhJP9G3VOZIQ7G"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        },
-        {
-          "name": "The Painkillers",
-          "url": "https://open.spotify.com/artist/0VLrBA5VA6WfgcoRGQE73V"
-        }
-      ],
-      "duration_ms": 185068,
-      "name": "Woke Up And Smelled The Coffee",
-      "url": "https://open.spotify.com/track/5PYR64ezPkh2ihfXrKnSlz"
-    },
-    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "Who Are These Men",
@@ -1855,22 +1871,6 @@
       "duration_ms": 298029,
       "name": "Son of a Broken Man",
       "url": "https://open.spotify.com/track/6sTKa8DhJcS7X53hBi3lrN"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "The Invisible Man",
-        "url": "https://open.spotify.com/album/75jZ7YB5g4bwiA5XAFSMX0"
-      },
-      "artists": [
-        {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/0VDUH9ExYWe5XGRmqu3VHk"
     },
     {
       "added_at": "2024-10-18 04:00:00",

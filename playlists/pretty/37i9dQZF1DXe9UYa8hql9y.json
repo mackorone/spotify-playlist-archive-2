@@ -1,12 +1,12 @@
 {
   "description": "Pura rolita pa' empedar con la plebada ",
-  "num_followers": 139448,
+  "num_followers": 139497,
   "original_name": "LA PEDA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKfyUN7UeXwg7iKhYVHLz1ajhBFb",
+  "snapshot_id": "AAAAAKJpkSM/qLUkuCtg69yIH1Nxxo4F",
   "tracks": [
     {
       "added_at": "2026-11-13 06:01:08",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-11-13 06:01:08",
       "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "added_at": "2026-11-13 06:01:08",
+      "album": {
         "name": "ONDEADO$",
         "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 208800,
       "name": "ULTIMAMENTE",
       "url": "https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i"
-    },
-    {
-      "added_at": "2026-11-13 06:01:08",
-      "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2026-11-13 06:01:08",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-11-13 06:01:08",
       "album": {
+        "name": "Julietota",
+        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 212151,
+      "name": "Julietota",
+      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
+    },
+    {
+      "added_at": "2026-11-13 06:01:08",
+      "album": {
         "name": "DEV, Vol. 2",
         "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 195986,
       "name": "CLASSY 101",
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
-    },
-    {
-      "added_at": "2026-11-13 06:01:08",
-      "album": {
-        "name": "Julietota",
-        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 212151,
-      "name": "Julietota",
-      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
     },
     {
       "added_at": "2026-11-13 06:01:08",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-11-13 06:01:08",
       "album": {
-        "name": "LATINA FOREVA",
-        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "LATINA FOREVA",
-      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
-    },
-    {
-      "added_at": "2026-11-13 06:01:08",
-      "album": {
         "name": "Punto",
         "url": "https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9"
       },
@@ -1795,26 +1779,38 @@
     {
       "added_at": "2026-11-13 06:01:08",
       "album": {
-        "name": "AMANECIDO Y REGA\u00d1ADO",
-        "url": "https://open.spotify.com/album/0H5gvCntscRctlcdmwMUJF"
+        "name": "LATINA FOREVA",
+        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
       },
       "artists": [
         {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 205032,
-      "name": "AMANECIDO Y REGA\u00d1ADO",
-      "url": "https://open.spotify.com/track/67BjeJkPgqHpkzlQveRoFh"
+      "duration_ms": 159452,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
+    },
+    {
+      "added_at": "2026-11-13 06:01:08",
+      "album": {
+        "name": "Brasi\u00f1ero",
+        "url": "https://open.spotify.com/album/4ORp0ienDVsqLMYYEiDhxa"
+      },
+      "artists": [
+        {
+          "name": "El More",
+          "url": "https://open.spotify.com/artist/6ZkosMYAiABvJfjHlM1gkS"
+        },
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        }
+      ],
+      "duration_ms": 142111,
+      "name": "Brasi\u00f1ero",
+      "url": "https://open.spotify.com/track/7pMA8qYpb1t3G7OXIez00a"
     },
     {
       "added_at": "2026-11-13 06:01:08",
@@ -1859,22 +1855,26 @@
     {
       "added_at": "2026-11-13 06:01:08",
       "album": {
-        "name": "Brasi\u00f1ero",
-        "url": "https://open.spotify.com/album/4ORp0ienDVsqLMYYEiDhxa"
+        "name": "AMANECIDO Y REGA\u00d1ADO",
+        "url": "https://open.spotify.com/album/0H5gvCntscRctlcdmwMUJF"
       },
       "artists": [
         {
-          "name": "El More",
-          "url": "https://open.spotify.com/artist/6ZkosMYAiABvJfjHlM1gkS"
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
         },
         {
-          "name": "Dj Drewther",
-          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 142111,
-      "name": "Brasi\u00f1ero",
-      "url": "https://open.spotify.com/track/7pMA8qYpb1t3G7OXIez00a"
+      "duration_ms": 205032,
+      "name": "AMANECIDO Y REGA\u00d1ADO",
+      "url": "https://open.spotify.com/track/67BjeJkPgqHpkzlQveRoFh"
     },
     {
       "added_at": "2026-11-13 06:01:08",

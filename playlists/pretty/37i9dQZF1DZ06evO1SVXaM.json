@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3604337,
+  "num_followers": 3604677,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAiX8icMWwHtYOCIvpodBwI",
+  "snapshot_id": "avzqgAAAAADb4T3o9DeDszMkHnDeYItO",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 384460,
-      "name": "Heal the World",
-      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
+      "duration_ms": 344826,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 344826,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0"
+      "duration_ms": 384460,
+      "name": "Heal the World",
+      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 256017,
-      "name": "Black or White",
-      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
+      "duration_ms": 245778,
+      "name": "Off the Wall",
+      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 245778,
-      "name": "Off the Wall",
-      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
+      "duration_ms": 256017,
+      "name": "Black or White",
+      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
     },
     {
       "added_at": null,
@@ -722,15 +722,11 @@
         {
           "name": "Michael Jackson",
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 277842,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC"
+      "duration_ms": 344185,
+      "name": "Stranger in Moscow",
+      "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
     },
     {
       "added_at": null,
@@ -794,11 +790,15 @@
         {
           "name": "Michael Jackson",
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 344185,
-      "name": "Stranger in Moscow",
-      "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
+      "duration_ms": 277842,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC"
     },
     {
       "added_at": null,

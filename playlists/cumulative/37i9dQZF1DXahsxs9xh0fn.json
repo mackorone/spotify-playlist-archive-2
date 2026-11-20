@@ -2101,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "Get Me on the Way Out",
+        "url": "https://open.spotify.com/album/494Rzl9dB7mazA48OXdYt9"
+      },
+      "artists": [
+        {
+          "name": "Daniel Nunnelee",
+          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286241,
+      "name": "Get Me on the Way Out",
+      "url": "https://open.spotify.com/track/4Jo80L9w3fXa8LUkwzCe7o"
+    },
+    {
+      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -2870,6 +2888,24 @@
       "duration_ms": 210026,
       "name": "Kamera - 2022 Remaster",
       "url": "https://open.spotify.com/track/0UOxrpK8qWF9xQnYsOE6jE"
+    },
+    {
+      "album": {
+        "name": "Fly 1111",
+        "url": "https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152963,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/0ruzRyX8GOwngAcTzp35fQ"
     },
     {
       "album": {

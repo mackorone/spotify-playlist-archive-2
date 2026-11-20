@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,659 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,660 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 49 | [เรื่องเดียว \(One Thing\)](https://open.spotify.com/track/7kDQyYrw2b8xYbuWotdm1Z) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:13 |
 | 50 | [How To Love \(feat\. GRAY\)](https://open.spotify.com/track/1miAQyBEMvHJ62JFuERLyr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [How To Love \(feat\. GRAY\)](https://open.spotify.com/album/2UrGn1oGOn91IGG2TdNbvn) | 3:21 |
 
-Snapshot ID: `AAAAAKgGFvi0+Q6CPwFrwKM+965uqdkk`
+Snapshot ID: `AAAAAJQfu3I5sVMuFZswMiHXAEYchuxj`

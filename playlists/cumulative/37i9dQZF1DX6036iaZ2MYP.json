@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Zlatan x Peruzzi x Shoday",
+  "description": "Tracks popping off in the Afro scene. Cover: Burna Boy",
   "name": "Afro Station",
   "tracks": [
     {
@@ -670,6 +670,24 @@
       "duration_ms": 123582,
       "name": "AFRICAN GIRLS",
       "url": "https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad"
+    },
+    {
+      "album": {
+        "name": "African Love Story (From Children of Blood and Bone)",
+        "url": "https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "African Love Story (From Children of Blood and Bone)",
+      "url": "https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn"
     },
     {
       "album": {
@@ -2585,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/16dAtPh8XVKMbfiLcgZyiq"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5uvjVYv3FKBNnGkR8mnHws"
+    },
+    {
+      "album": {
         "name": "Backa Butty",
         "url": "https://open.spotify.com/album/3Rtm2GrXrc4ddU9W7UwEFy"
       },
@@ -3864,6 +3900,28 @@
       "duration_ms": 206968,
       "name": "BIG TIME (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
+    },
+    {
+      "album": {
+        "name": "Bigger (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6hkaerWZMubBWwyTDJP8J3"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169501,
+      "name": "Bigger (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4BDrbdeodpenlrORv4yqnc"
     },
     {
       "album": {
@@ -5766,7 +5824,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144000,
       "name": "CHE",
       "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
@@ -7684,7 +7742,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 158589,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
@@ -9010,7 +9068,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 199637,
       "name": "EKO",
       "url": "https://open.spotify.com/track/30OQflh5OQoVPKHFRVHrMI"
@@ -11876,7 +11934,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176842,
       "name": "Grandir",
       "url": "https://open.spotify.com/track/6ROS8JSEEWMR05aaKcGaVU"
@@ -12822,7 +12880,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 199591,
       "name": "I'll Be Okay",
       "url": "https://open.spotify.com/track/2trqi3m70mimZsDDOaIFkW"
@@ -13084,7 +13142,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 283127,
       "name": "IMALI",
       "url": "https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO"
@@ -15206,6 +15264,24 @@
       "duration_ms": 147096,
       "name": "La Vida Loca",
       "url": "https://open.spotify.com/track/6QK5T6PdSWTTD9P1fJqfNY"
+    },
+    {
+      "album": {
+        "name": "La Vie d\u2019un Nouchi",
+        "url": "https://open.spotify.com/album/4HZKrYS359a513eiHtxxzX"
+      },
+      "artists": [
+        {
+          "name": "H Magnum",
+          "url": "https://open.spotify.com/artist/63hFhXYW3r2q8uW2Rf3LUw"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115294,
+      "name": "La Vie d\u2019un Nouchi",
+      "url": "https://open.spotify.com/track/5ZsrlKQ563rORGgiySbnnP"
     },
     {
       "album": {
@@ -18287,6 +18363,28 @@
     },
     {
       "album": {
+        "name": "Money In A Wheelbarrow",
+        "url": "https://open.spotify.com/album/32m2f3GYYruC2fGBN6su7c"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151909,
+      "name": "Money In A Wheelbarrow",
+      "url": "https://open.spotify.com/track/65K31Yui1Sfn4pSub3uKJP"
+    },
+    {
+      "album": {
         "name": "Money Lingo",
         "url": "https://open.spotify.com/album/32FoDV663F5kdRb1ct0hKM"
       },
@@ -18298,7 +18396,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159757,
       "name": "Money Lingo",
       "url": "https://open.spotify.com/track/6D8hcXxA3Eyu3JWKXwjEbh"
@@ -20415,6 +20513,28 @@
     },
     {
       "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/2t6vgL0DsIHXTpgQGiCPlT"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/4rF6m94AncOXU0XzEcRtvB"
+    },
+    {
+      "album": {
         "name": "Bridging The Gap",
         "url": "https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z"
       },
@@ -21355,6 +21475,28 @@
     },
     {
       "album": {
+        "name": "Paloma",
+        "url": "https://open.spotify.com/album/5xDjxjf4sNrEtuOwV9HhjN"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Paloma",
+      "url": "https://open.spotify.com/track/7de8ycOzZhRiIzDWAV3XKV"
+    },
+    {
+      "album": {
         "name": "PAMELA",
         "url": "https://open.spotify.com/album/3sgshiWcl1YVV4ywA1GEp2"
       },
@@ -21648,7 +21790,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 165663,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/4uyr0Cw61kDhk0JBJOfDAK"
@@ -23699,6 +23841,24 @@
     },
     {
       "album": {
+        "name": "Alusa Continua",
+        "url": "https://open.spotify.com/album/4dgvWmd6oGnshBBMiuPp5K"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242551,
+      "name": "Run Like Water",
+      "url": "https://open.spotify.com/track/7a3YmtZLB8nCxRSuEk6Vdf"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/5kdzySpTqsyQNS00JQPFff"
       },
@@ -24067,6 +24227,28 @@
     },
     {
       "album": {
+        "name": "Lavida Boy",
+        "url": "https://open.spotify.com/album/0dNVbO6bgRlqs1d6jDZ7wy"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/4ppNFofJCDaq7rpRDmyAiW"
+    },
+    {
+      "album": {
         "name": "Sant\u00e9",
         "url": "https://open.spotify.com/album/6fjYYh9hPTXD652nXseuL2"
       },
@@ -24344,7 +24526,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 139428,
       "name": "SENTIMENTS",
       "url": "https://open.spotify.com/track/69c047hFRsd6uFND548cfD"
@@ -24774,6 +24956,24 @@
       "duration_ms": 153893,
       "name": "Skeu t\u2019attends de moi",
       "url": "https://open.spotify.com/track/6ofVlkwHudUUorfUSwF1ob"
+    },
+    {
+      "album": {
+        "name": "Time and Space",
+        "url": "https://open.spotify.com/album/0DHDiiApo6bKBpz1UfZuQH"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147610,
+      "name": "Skoskola",
+      "url": "https://open.spotify.com/track/7wT93fcw6XSim76fnj5PBm"
     },
     {
       "album": {

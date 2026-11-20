@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,836 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,835 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 49 | [Le pire et le meilleur](https://open.spotify.com/track/3SrUddck55h8vSltaiRGdi) | [F.F.F.](https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL) | [F F F](https://open.spotify.com/album/3dl7Hqd2srZudubpaD8sTC) | 3:25 |
 | 50 | [100ème étage](https://open.spotify.com/track/3i6ihEM4WReGBgqWt37nC4) | [Vegastar](https://open.spotify.com/artist/6fSUhUQeYqS6VUFA3Pv8ox) | [Un nouvel orage](https://open.spotify.com/album/6o9M7uzvmnjiGiOzsDOKVE) | 3:36 |
 
-Snapshot ID: `AAAAAEA/FhHT4B104MnViL3fiuV0L/lX`
+Snapshot ID: `AAAAAHpNqv51XG5ix4DBGaEz6V640YiM`

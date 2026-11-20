@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,065 likes - 100 songs - 6 hr 10 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,068 likes - 101 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 98 | [WYWD](https://open.spotify.com/track/7zZWMR7611shuYcV6W96ou) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [WYWD](https://open.spotify.com/album/5aV211595GuQbpbEAkhWIM) | 2:51 |
 | 99 | [Rising Up](https://open.spotify.com/track/3IWZTh5IP1bcrJoTLu4hWH) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Cleo Simone](https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne) | [Telepathy](https://open.spotify.com/album/4fA6Xs32GLxwCWIksGhJIG) | 3:20 |
 | 100 | [Modern Dystopia](https://open.spotify.com/track/6IqHpduxivldFZLl346XkU) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Modern Dystopia](https://open.spotify.com/album/3rVmNlXzEkRlsXa8l4jAU1) | 3:23 |
+| 101 | [All About You](https://open.spotify.com/track/4NCWtl5MC0XUA7cG6ztTIB) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [All About You](https://open.spotify.com/album/2IJJpADlzqeKPDnCtdOHGx) | 3:13 |
 
-Snapshot ID: `AAASdXRbRLP6pMqDEstYE/AV+MQfPNN8`
+Snapshot ID: `AAASdq183kLcYtUq9CSPavFeA/Lbq7RD`

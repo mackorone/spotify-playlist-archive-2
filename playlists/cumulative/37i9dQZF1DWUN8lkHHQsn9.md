@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover:  <a href="spotify:artist:0gnNmkzfTegBSI0Y3qrTso">Baby V</a>
 
-472 songs - 1 day 1 hr 40 min
+473 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Kreski](https://open.spotify.com/track/0w3f0QDFIz8KMOfD0GtN2t) | [Rejsel](https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd), [bieran](https://open.spotify.com/artist/2vIMpjqjpFbfrAHB7ayYT3) | [Kreski](https://open.spotify.com/album/7zkNpcdsUm0490h20JpjcL) | 4:22 | 2025-05-12 | 2026-02-13 |
 | [Krzykiem](https://open.spotify.com/track/0Ca5dBpD3Ga8FUrceVDcLq) | [Caville](https://open.spotify.com/artist/3K6TVqpz0sfuRtKVo6tYBZ) | [Krzykiem](https://open.spotify.com/album/1vy7FZQzS62O06E6emhVyk) | 3:37 | 2021-06-22 | 2022-06-01 |
 | [Królowe Nocy \(feat\. Zgonia\)](https://open.spotify.com/track/3cWeSKNPjCEzU7zV2X6ejW) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [Zgonia](https://open.spotify.com/artist/5YuN4yVeTlqRa09jX4X81W) | [Królowe Nocy](https://open.spotify.com/album/1RDUVJlRoWICpaOiLOJoM8) | 4:08 | 2026-11-09 |  |
+| [KRĘCI CIĘ](https://open.spotify.com/track/4OdxzBAgiwhydKazqsM4qg) | [Baby V](https://open.spotify.com/artist/0gnNmkzfTegBSI0Y3qrTso) | [KRĘCI CIĘ](https://open.spotify.com/album/7zQQ7eBRHDMWlHqJUTo5Jf) | 2:25 | 2026-11-20 |  |
 | [Kumple <3 \- MAVOOI Remix](https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2), [MAVOOI](https://open.spotify.com/artist/5v0vw1OfT1KHdGh80XT8lS) | [Kumple <3 \(MAVOOI Remix\)](https://open.spotify.com/album/5jV78ocCcoimj6Am8rWKkU) | 2:11 | 2026-04-13 | 2026-08-11 |
 | [Kwiaty](https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Kwiaty](https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB) | 2:48 | 2026-01-12 |  |
 | [L.O.K\. Me](https://open.spotify.com/track/4hZ99dvzmC89HvF2uVWq3k) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [L.O.K\. Me](https://open.spotify.com/album/1y0hDdMurikWP3NdOjz2GD) | 2:47 | 2025-09-08 | 2026-01-17 |
@@ -398,7 +399,7 @@
 | [Słodka Woń](https://open.spotify.com/track/213dpKUmTMXJYrYYjecaXG) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [ABOUT US.](https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8) | 3:38 | 2024-06-10 | 2025-05-20 |
 | [Take my hand](https://open.spotify.com/track/3ko9dvOzKRTxfAkj5ftwzl) | [Kamil Krupicz](https://open.spotify.com/artist/3QcfQdNQHtd7pOXzRNdauj) | [Take my hand](https://open.spotify.com/album/6FHxImBU0aGrbnfTQLWE7S) | 3:03 | 2025-07-07 | 2026-01-15 |
 | [Take The Night](https://open.spotify.com/track/10qSdXFFxy6KPw2YYb3PBJ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Drew Hall](https://open.spotify.com/artist/7g719mkA8sV9Ml1SqZyh39) | [Take The Night](https://open.spotify.com/album/1ewRl9OLDGpL3aWXb1BpRy) | 3:08 | 2026-09-07 |  |
-| [Taki jak Ty](https://open.spotify.com/track/0Hpz0cBBkDtYdjOUER9TbA) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Taki jak Ty](https://open.spotify.com/album/3WSYsSYOesG13EXy9TQHaJ) | 2:40 | 2026-06-08 |  |
+| [Taki jak Ty](https://open.spotify.com/track/0Hpz0cBBkDtYdjOUER9TbA) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Taki jak Ty](https://open.spotify.com/album/3WSYsSYOesG13EXy9TQHaJ) | 2:40 | 2026-06-08 | 2026-11-20 |
 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 | 2022-06-13 | 2025-04-30 |
 | [Tam](https://open.spotify.com/track/12IjsVPfL2NR4Wbjns9Zpt) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki), [Anja Orthodox](https://open.spotify.com/artist/5gyY9Y5i9W8wKRozpyZcBQ) | [Tam](https://open.spotify.com/album/7JzR1ug48W1K2WTcZb75Ya) | 4:54 | 2024-12-04 | 2025-01-14 |
 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 | 2022-06-10 | 2024-08-21 |

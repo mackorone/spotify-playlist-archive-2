@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,512 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,511 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 48 | [Fly U Out](https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fly U Out](https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI) | 3:14 |
 | 49 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 |
 | 50 | [CAN JUICE](https://open.spotify.com/track/3Lty2YgO8rYeaZyiCrLedq) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 1:46 |
-| 51 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
-| 52 | [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 |
+| 51 | [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 |
+| 52 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
 | 53 | [Aura \(feat\. Bryson Tiller\)](https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [AMA](https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB) | 4:00 |
 | 54 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
 | 55 | [365 Days](https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [365 Days](https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH) | 3:08 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 73 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
 | 74 | [How It Feels](https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [How It Feels](https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH) | 2:36 |
 | 75 | [Narcotica](https://open.spotify.com/track/3xoZfRajtcVV9ClP8ZoGC5) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Narcotica](https://open.spotify.com/album/3BDT2NEqBmvqTPi3AFEMuU) | 3:20 |
-| 76 | [LUV MYSELF](https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 2:28 |
-| 77 | [Eden](https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love Is a Machinery](https://open.spotify.com/album/2K4Ewhj1JxNbT4WIBStAwC) | 2:43 |
+| 76 | [Eden](https://open.spotify.com/track/5SQh95sFBi36dAhTGUV5m6) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love Is a Machinery](https://open.spotify.com/album/2K4Ewhj1JxNbT4WIBStAwC) | 2:43 |
+| 77 | [LUV MYSELF](https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 2:28 |
 | 78 | [Pami](https://open.spotify.com/track/6tlmpZuFncwBniCRkVuVeQ) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Pami](https://open.spotify.com/album/647NndPt3TbMUYlTojxes9) | 3:06 |
 | 79 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:21 |
 | 80 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
 
-Snapshot ID: `AAAAABar829G57u+FE+cfCZdHy/F1ACD`
+Snapshot ID: `AAAAANG4sNDSd51avWjQpUxrBJCVw+Xt`

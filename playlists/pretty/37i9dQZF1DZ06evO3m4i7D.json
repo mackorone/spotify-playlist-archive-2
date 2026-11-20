@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2162,
+  "num_followers": 2164,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABHfpn7iu511ea6ipuCDYFu",
+  "snapshot_id": "avzqgAAAAADRrJgQvDL+WCWoR3E/1EGA",
   "tracks": [
     {
       "added_at": null,
@@ -203,34 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'l Malec\u00f3n",
-        "url": "https://open.spotify.com/album/75KV1AVpZwUeYD75fHL4yl"
-      },
-      "artists": [
-        {
-          "name": "Sahir Montoya",
-          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Aldo Arturo",
-          "url": "https://open.spotify.com/artist/6Yj5AeU4eMECxM4r64Ept7"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Pa'l Malec\u00f3n",
-      "url": "https://open.spotify.com/track/37Qp2YjAx8sAtUVBEWbDR4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bagatelle",
         "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
       },
@@ -255,6 +227,34 @@
       "duration_ms": 259777,
       "name": "Bagatelle",
       "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Malec\u00f3n",
+        "url": "https://open.spotify.com/album/75KV1AVpZwUeYD75fHL4yl"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Aldo Arturo",
+          "url": "https://open.spotify.com/artist/6Yj5AeU4eMECxM4r64Ept7"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Pa'l Malec\u00f3n",
+      "url": "https://open.spotify.com/track/37Qp2YjAx8sAtUVBEWbDR4"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo Qu\u00e9date En Silencio",
-        "url": "https://open.spotify.com/album/3rzb50l98jMMGriN7naWwJ"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 181042,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/1CufANCImsdinwKJHgROkO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scarlett\u00b4s",
         "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 170250,
       "name": "Scarlett\u00b4s",
       "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/3rzb50l98jMMGriN7naWwJ"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 181042,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/1CufANCImsdinwKJHgROkO"
     },
     {
       "added_at": null,
@@ -643,30 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Est\u00e1 Funcionando",
-        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 161332,
-      "name": "No Est\u00e1 Funcionando",
-      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pari Pari",
         "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 153984,
       "name": "Pari Pari",
       "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Est\u00e1 Funcionando",
+        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 161332,
+      "name": "No Est\u00e1 Funcionando",
+      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
     },
     {
       "added_at": null,
@@ -815,6 +815,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Covers y Recuerdos",
+        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/0ZaMvWl7iYd2kWzpqQeuq6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobra y Falta",
         "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
       },
@@ -839,30 +863,6 @@
       "duration_ms": 190161,
       "name": "Sobra y Falta",
       "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Covers y Recuerdos",
-        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/0ZaMvWl7iYd2kWzpqQeuq6"
     },
     {
       "added_at": null,
@@ -943,6 +943,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Covers y Recuerdos",
+        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 166592,
+      "name": "Decidete",
+      "url": "https://open.spotify.com/track/3A4r41uCKsFt8DKYLZuHuZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Licuado",
         "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
       },
@@ -971,30 +995,6 @@
       "duration_ms": 134583,
       "name": "Licuado",
       "url": "https://open.spotify.com/track/7pU2OxHpgRxnrf0ax4TrjT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Covers y Recuerdos",
-        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 166592,
-      "name": "Decidete",
-      "url": "https://open.spotify.com/track/3A4r41uCKsFt8DKYLZuHuZ"
     },
     {
       "added_at": null,

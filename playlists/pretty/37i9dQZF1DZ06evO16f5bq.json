@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155697,
+  "num_followers": 155692,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAACwLleMC1v5hWxmBiG+12iv",
+  "snapshot_id": "avzqgAAAAABcguAW3KSKyp96daJhsaMF",
   "tracks": [
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAL\u00c1CIO DE LONA",
-        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "BOM E NOVO",
-      "url": "https://open.spotify.com/track/549Z7ZBTRK7ptkyukqhoW8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "18K",
         "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 284117,
       "name": "Meu Mundo",
       "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAL\u00c1CIO DE LONA",
+        "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 151413,
+      "name": "BOM E NOVO",
+      "url": "https://open.spotify.com/track/549Z7ZBTRK7ptkyukqhoW8"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 183098,
-      "name": "ESCORPIANA",
-      "url": "https://open.spotify.com/track/3tRWZYAkdfqrH31vTPIXYP"
+      "duration_ms": 166150,
+      "name": "PONTAS NO CINZEIRO",
+      "url": "https://open.spotify.com/track/6p025BLmxMpNPUMlc9xqKG"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 166150,
-      "name": "PONTAS NO CINZEIRO",
-      "url": "https://open.spotify.com/track/6p025BLmxMpNPUMlc9xqKG"
+      "duration_ms": 183098,
+      "name": "ESCORPIANA",
+      "url": "https://open.spotify.com/track/3tRWZYAkdfqrH31vTPIXYP"
     },
     {
       "added_at": null,
@@ -1387,38 +1387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
-        "url": "https://open.spotify.com/album/70rgAi8ko10QS6heKNP0mR"
+        "name": "Vetin",
+        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
       },
       "artists": [
         {
-          "name": "DJ WILL TN",
-          "url": "https://open.spotify.com/artist/7uVgmtaje8DlNep6BGuVgX"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
         }
       ],
-      "duration_ms": 324843,
-      "name": "Que Se Foda o Cupido (feat. MC Cabelinho & MC Meno K)",
-      "url": "https://open.spotify.com/track/2L278dmb5oAZC5eogDCfzU"
+      "duration_ms": 202451,
+      "name": "Sem Compaix\u00e3o",
+      "url": "https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX"
     }
   ],
   "unique_name": "This Is MC Cabelinho",

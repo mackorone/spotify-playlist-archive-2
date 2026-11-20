@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 293026,
       "name": "All the light in the world",
       "url": "https://open.spotify.com/track/2SWSeh3IMDLBb4fQaKtN61"
@@ -319,6 +319,28 @@
     },
     {
       "album": {
+        "name": "rain music",
+        "url": "https://open.spotify.com/album/6gfE8grb3T3OL8sxkHapjy"
+      },
+      "artists": [
+        {
+          "name": "Duval Timothy",
+          "url": "https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y"
+        },
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372038,
+      "name": "birds, shells, rivets, keys",
+      "url": "https://open.spotify.com/track/5w7yPL7zCMqh0dhEJtjylJ"
+    },
+    {
+      "album": {
         "name": "Music Is Invisible (Pentimento Volume Three)",
         "url": "https://open.spotify.com/album/7y6nrogjpYO43Z0V1Gdlq8"
       },
@@ -366,7 +388,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 282990,
       "name": "Calico Corners",
       "url": "https://open.spotify.com/track/6P7a7yqbOpoOXWqwZY0QFr"
@@ -594,7 +616,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 220623,
       "name": "Dissolution",
       "url": "https://open.spotify.com/track/01fxXQNZNUHu0c8zkLzX20"
@@ -620,6 +642,24 @@
       "duration_ms": 119426,
       "name": "Dolphin",
       "url": "https://open.spotify.com/track/69zNrY3UliX4oLY6gIsY63"
+    },
+    {
+      "album": {
+        "name": "And So It Is",
+        "url": "https://open.spotify.com/album/3LF1ORqVIVWBd97c179uHf"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shaw",
+          "url": "https://open.spotify.com/artist/6ist8fq57aPM3WBFwafILM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Echoes of the Heart",
+      "url": "https://open.spotify.com/track/1b4akCLFJ7F1s2rC30tmEs"
     },
     {
       "album": {
@@ -766,7 +806,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 282614,
       "name": "Forest Bathing \u68ee\u6797\u6d74",
       "url": "https://open.spotify.com/track/4VphI9dm5VEwzBpl7gC5m5"
@@ -893,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Mana",
+        "url": "https://open.spotify.com/album/4to3GAU2jKZDgLyfQeJ8Wy"
+      },
+      "artists": [
+        {
+          "name": "Kalia Vandever",
+          "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127206,
+      "name": "In The Folds",
+      "url": "https://open.spotify.com/track/3snMtSECpDh3tV6lSK3eRl"
+    },
+    {
+      "album": {
         "name": "Land's End Eternal",
         "url": "https://open.spotify.com/album/2VuQg6fEdinbXjOzAAd681"
       },
@@ -926,7 +984,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 286030,
       "name": "Inner Beauty",
       "url": "https://open.spotify.com/track/765kzEgStjf1OtFnPz4FFP"
@@ -984,6 +1042,32 @@
       "duration_ms": 330490,
       "name": "It Can Be Everywhere",
       "url": "https://open.spotify.com/track/1mQPLb9lmLBgR9WtrdEIJX"
+    },
+    {
+      "album": {
+        "name": "Uhlmann Johnson Wilkes",
+        "url": "https://open.spotify.com/album/5BoARvlCqrzxSk3pURO57c"
+      },
+      "artists": [
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152764,
+      "name": "Jicama",
+      "url": "https://open.spotify.com/track/6fFuQ4DcHlLVgXLS0BM1Tb"
     },
     {
       "album": {
@@ -1156,10 +1240,28 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 328000,
       "name": "Maybe Life",
       "url": "https://open.spotify.com/track/6DX4o6iwsiJaAxOvf94cw5"
+    },
+    {
+      "album": {
+        "name": "Themes for Dreams",
+        "url": "https://open.spotify.com/album/06G06OL909oEZdjS1pGLEm"
+      },
+      "artists": [
+        {
+          "name": "Resavoir",
+          "url": "https://open.spotify.com/artist/4Sl3fpSDeo9cMb3ouKm0rV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185114,
+      "name": "Memories of Dreams",
+      "url": "https://open.spotify.com/track/7g6MGNFPkpJf4mw5b8pKJe"
     },
     {
       "album": {
@@ -1307,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Lithic",
+        "url": "https://open.spotify.com/album/7zCmvQeg6U6u31JLWKWgZU"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184374,
+      "name": "Mythic",
+      "url": "https://open.spotify.com/track/5pusa1HNaSc7dSnWKR60f1"
+    },
+    {
+      "album": {
         "name": "No Such Thing",
         "url": "https://open.spotify.com/album/2dUPQfOFrIpDMaWIdEz8L5"
       },
@@ -1405,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Preternatural",
+        "url": "https://open.spotify.com/album/6EOoF1UopaOG0fNO2ti85i"
+      },
+      "artists": [
+        {
+          "name": "Declan Sheehy-Moss",
+          "url": "https://open.spotify.com/artist/04QfqofCW6wHLlZpSFweCg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78714,
+      "name": "On A Star",
+      "url": "https://open.spotify.com/track/1UG6U5Uv6aDlVTSPvt1Tco"
+    },
+    {
+      "album": {
         "name": "Camembert",
         "url": "https://open.spotify.com/album/0XLnb3dQ4j4vXWlWZ5qffi"
       },
@@ -1420,6 +1558,32 @@
       "duration_ms": 333632,
       "name": "One for C",
       "url": "https://open.spotify.com/track/1GPKgxIbAkirtC35xh8vxo"
+    },
+    {
+      "album": {
+        "name": "Openness Trio",
+        "url": "https://open.spotify.com/album/3DCn9TV1eddK9j4EKqWo84"
+      },
+      "artists": [
+        {
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199495,
+      "name": "Openness",
+      "url": "https://open.spotify.com/track/4TwlQzplV6nlOkRewgikzJ"
     },
     {
       "album": {
@@ -1704,10 +1868,58 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 133767,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/7l4d9qUYwO1nXcMDME0WQV"
+    },
+    {
+      "album": {
+        "name": "There I See Everything",
+        "url": "https://open.spotify.com/album/0kvCkP0ZAS281Gfu3B3tCw"
+      },
+      "artists": [
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        },
+        {
+          "name": "Ben Vince",
+          "url": "https://open.spotify.com/artist/2EWVX9WDwCaDHdsoTFWSPV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550229,
+      "name": "Strong Low City Lights",
+      "url": "https://open.spotify.com/track/3bRHEDyPRUkd9RJ6lZoZj5"
+    },
+    {
+      "album": {
+        "name": "Stochastic Parrot",
+        "url": "https://open.spotify.com/album/64PtPOnXTepXeyg04si6gr"
+      },
+      "artists": [
+        {
+          "name": "Mike Cooper",
+          "url": "https://open.spotify.com/artist/3xMGQzg5JvqwOU7oaVuKwJ"
+        },
+        {
+          "name": "Pierre Bastien",
+          "url": "https://open.spotify.com/artist/5fnXjhmTrnKmXbPDnvTUkm"
+        },
+        {
+          "name": "Mark Cunningham",
+          "url": "https://open.spotify.com/artist/7Ag6BNpRycRJJ8ooXj5lXx"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159322,
+      "name": "SUONOVAC",
+      "url": "https://open.spotify.com/track/6cYnmmipTMEuN3EJZ7pdd8"
     },
     {
       "album": {
@@ -1824,7 +2036,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 277320,
       "name": "There Is a Place",
       "url": "https://open.spotify.com/track/5KbGgOi3uMOasz6W3g5Wri"
@@ -1854,7 +2066,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 237133,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/0UlgDqxOjvEvwLmoiH0skg"
@@ -1890,7 +2102,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 319200,
       "name": "Tremors in the Static",
       "url": "https://open.spotify.com/track/6fLsZVxw4hOS0DAxXi4eBq"

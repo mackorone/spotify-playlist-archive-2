@@ -1,13 +1,101 @@
 {
-  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Bilal Ali",
-  "num_followers": 37864,
+  "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Asteria",
+  "num_followers": 37865,
   "original_name": "Pakistani Indie 101",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABtlq821NOUsHSPPIQp+QADii+Ig",
+  "snapshot_id": "AAAAAFYq2UsICtIcv5BKTtS0ByH+70Ef",
   "tracks": [
+    {
+      "added_at": "2026-11-20 02:00:12",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/2Da3Q2hOMJlEzAFl8JaJ1g"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/4HVl77LX9pZNZBPH0Le6EJ"
+        }
+      ],
+      "duration_ms": 239034,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/6y93nMqqW5pz8OATAA4f2C"
+    },
+    {
+      "added_at": "2026-11-20 02:00:12",
+      "album": {
+        "name": "OCTOBER",
+        "url": "https://open.spotify.com/album/4ws91CJgChmNvA2pYFZPrQ"
+      },
+      "artists": [
+        {
+          "name": "Hassaan Shaheer",
+          "url": "https://open.spotify.com/artist/6WPtkGlueETTYhoz0FSyHi"
+        },
+        {
+          "name": "Shehryar Khan",
+          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/0hJwnwsvOnOqvx3lUhO81G"
+    },
+    {
+      "added_at": "2026-11-20 02:00:12",
+      "album": {
+        "name": "Tara Ro Dega",
+        "url": "https://open.spotify.com/album/5Y309nFS9hYKGsWWnAnQ7R"
+      },
+      "artists": [
+        {
+          "name": "Schumaila Rehmat Hussain",
+          "url": "https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Tara Ro Dega",
+      "url": "https://open.spotify.com/track/7Ikx61vuE8hObQbwE8MF3Q"
+    },
+    {
+      "added_at": "2026-11-20 02:00:12",
+      "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/4bvmihdDeJ2mw1HaBbFoPD"
+      },
+      "artists": [
+        {
+          "name": "Nirmal Roy",
+          "url": "https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/5BYBECI7ojtc5EfGFG1jjK"
+    },
+    {
+      "added_at": "2026-11-20 02:00:12",
+      "album": {
+        "name": "dream",
+        "url": "https://open.spotify.com/album/6JctirHBOzxsS1kQ4YxKZ2"
+      },
+      "artists": [
+        {
+          "name": "Maria Unera",
+          "url": "https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW"
+        },
+        {
+          "name": "Bouncy",
+          "url": "https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "dream",
+      "url": "https://open.spotify.com/track/4ScwGZLpq91ClZNI7G7Xn4"
+    },
     {
       "added_at": "2026-11-13 04:34:35",
       "album": {

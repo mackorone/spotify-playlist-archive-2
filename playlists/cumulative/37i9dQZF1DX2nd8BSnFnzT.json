@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: Zander",
+  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: Na\u00e7\u00e3o Zumbi",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -10768,6 +10768,32 @@
       "duration_ms": 184000,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/13phqE4EQ4GYAIHuCvDm5r"
+    },
+    {
+      "album": {
+        "name": "Rock de Preto",
+        "url": "https://open.spotify.com/album/3YpkO8zAwrI9tXjtPMK31I"
+      },
+      "artists": [
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        },
+        {
+          "name": "Mateus Fazeno Rock",
+          "url": "https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5"
+        },
+        {
+          "name": "Black Pantera",
+          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230270,
+      "name": "Rock de Preto",
+      "url": "https://open.spotify.com/track/3bfkJXswPgpg7mn5fmoq3V"
     },
     {
       "album": {

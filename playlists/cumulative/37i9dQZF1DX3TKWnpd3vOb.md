@@ -2,9 +2,9 @@
 
 ### [Rock Chileno](https://open.spotify.com/playlist/37i9dQZF1DX3TKWnpd3vOb)
 
-> Encuentra un mix de clásicos y nuevos talentos\. Foto: Beto Cuevas
+> Encuentra un mix de clásicos y nuevos talentos\. Foto: Fother Muckers
 
-330 songs - 20 hr 54 min
+332 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 | 2023-06-23 |  |
 | [Autodaño](https://open.spotify.com/track/5hn4Hto1X3BKt8zqNQ6Cn2) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/0vMvyrCPhbm7gYDhUYr9Nu) | 3:09 | 2022-04-08 | 2023-02-01 |
 | [Autodaño](https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR) | 3:15 | 2023-03-03 | 2024-04-19 |
-| [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 | 2023-04-28 |  |
+| [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 | 2023-04-28 | 2026-11-20 |
 | [Barbaridad](https://open.spotify.com/track/5I8icolCLnyGH6KceHWwlE) | [Chicanota](https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS) | [Barbaridad](https://open.spotify.com/album/5rmeyjO9VebVcGDei9BSwg) | 6:23 | 2022-04-08 | 2022-07-16 |
 | [Bella Vu](https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Bella Vu](https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR) | 2:35 | 2022-10-14 |  |
 | [Besos de Mentira](https://open.spotify.com/track/4Q8tPuSefGBkqA0Di28SHV) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/2OzfXW8ByllSXhVx8AFSVe) | 4:18 | 2022-07-08 | 2022-12-17 |
@@ -141,7 +141,7 @@
 | [Hollywood](https://open.spotify.com/track/7drgoOz9TjniNAP79jB7Us) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Blue Dalom](https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8) | 3:35 | 2023-10-13 | 2024-04-19 |
 | [Humedad](https://open.spotify.com/track/71JlWe6b281dzhGZVZS0Tc) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 4:13 | 2022-04-08 | 2022-12-17 |
 | [Indirectas](https://open.spotify.com/track/7FywawaL45oYAqPHBM4YDk) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3) | [Indirectas](https://open.spotify.com/album/7wQOmI6hL0HoMPExNumQAf) | 3:10 | 2022-04-08 | 2023-03-03 |
-| [Infiel](https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Infiel](https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb) | 4:13 | 2023-08-11 |  |
+| [Infiel](https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Infiel](https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb) | 4:13 | 2023-08-11 | 2026-11-20 |
 | [Invisible](https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71) | [Candy66](https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ), [Nk Profeta](https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5) | [Invisible](https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q) | 5:42 | 2022-04-08 | 2023-03-03 |
 | [Karma](https://open.spotify.com/track/2juLvR1lacT8XUDAcVACya) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Karma](https://open.spotify.com/album/2JJj4A7fDjXbSvWD3pGBvj) | 3:10 | 2022-04-08 | 2022-07-29 |
 | [Kumbagüe](https://open.spotify.com/track/4aRbL1mzAOym948InLY9cC) | [Mawiza](https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt) | [Kollong](https://open.spotify.com/album/1JMbEcPOXo8DKOMsu7Rmo1) | 4:02 | 2022-10-14 | 2022-12-17 |
@@ -202,6 +202,7 @@
 | [Me Verás Arder](https://open.spotify.com/track/4zkkLNSobRfnY0xfVZOtMc) | [Weichafe](https://open.spotify.com/artist/1V9tvIpFfMl1cFJjxJKAre) | [Me Verás Arder](https://open.spotify.com/album/1T9wtTULYIJxiOlDC2gI77) | 3:46 | 2022-04-08 | 2022-12-17 |
 | [Me Vuelves a Herir \- En Vivo](https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Me Vuelves a Herir \(En Vivo\)](https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq) | 4:42 | 2022-04-08 | 2026-09-06 |
 | [Mechón](https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o) | [VerDor](https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o) | [Punk Para Gatitos](https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn) | 2:52 | 2024-12-20 |  |
+| [Memo Rex](https://open.spotify.com/track/52D2NuqHkV27geX26tClcx) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Memo Rex](https://open.spotify.com/album/62K4KgtCwZLpHFx8bf0A1q) | 4:59 | 2026-11-20 |  |
 | [Mi Destino](https://open.spotify.com/track/01mNrMDaDseSKzrTmRfqKa) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Glup](https://open.spotify.com/album/3BLpp8f1EeWHPESunzu1F9) | 3:25 | 2022-04-08 | 2022-12-17 |
 | [Mi Memoria](https://open.spotify.com/track/7nMKQCcEXagkR8Q8aHothB) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Mi Memoria](https://open.spotify.com/album/6qRaSTGUUtO51E15TIrHKk) | 3:08 | 2026-10-23 |  |
 | [Mientras Duermes](https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Mientras Duermes](https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3) | 3:39 | 2022-04-08 | 2023-03-03 |
@@ -232,6 +233,7 @@
 | [Para Estar](https://open.spotify.com/track/2VQJKuneBaDNwjBHbWn5FK) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [A Madrugar](https://open.spotify.com/album/1Ubx3PYhvbbrXrS9SF5Cvc) | 4:32 | 2023-08-25 | 2024-08-31 |
 | [Parte 2](https://open.spotify.com/track/6jHDDFc8CPGjjo3rsubBwC) | [Azotea Bulnes](https://open.spotify.com/artist/0pQb15WbZCDXx5Ou5GxAxF), [rrropet](https://open.spotify.com/artist/6ak6X5gg1hO5QzlKEmFeUO) | [Parte 2](https://open.spotify.com/album/6SZlCR1OAOrTn2hPY0bdjj) | 3:52 | 2022-04-08 | 2022-07-25 |
 | [Partido Platanista](https://open.spotify.com/track/6PtGrEnNsQYHw74jIZDq6X) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Partido Platanista](https://open.spotify.com/album/1e7tcO1zPJdfuZsbfXHDb0) | 2:32 | 2024-08-30 |  |
+| [Peaky Flaite](https://open.spotify.com/track/5rJasdNnEFxs1LR5RGsUGG) | [Hermanos Ilabaca](https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd) | [PEAKYFLAITE](https://open.spotify.com/album/5o26NC8DWJpsNaSeX2n61S) | 5:35 | 2026-11-20 |  |
 | [Pienso en Ti](https://open.spotify.com/track/2h0cTU9fOCtf0aibqHIRWJ) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Pienso en Ti](https://open.spotify.com/album/0IUvvOWKFGYHQUzS7VC4Ow) | 4:25 | 2022-04-08 | 2022-12-17 |
 | [Policía Loca](https://open.spotify.com/track/5XiCtLCLCv9pycjDaQTug1) | [Radio Veneno](https://open.spotify.com/artist/5iZe17DQj9sY3ME8rXFrfI) | [Policía Loca](https://open.spotify.com/album/090MnaImdhok2B2OXv6gwF) | 3:12 | 2022-04-08 | 2023-01-12 |
 | [Post Mortem](https://open.spotify.com/track/55kLNgLK4Jxo5iBApjJVz8) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Post Mortem](https://open.spotify.com/album/2xP895xgdDobkJEasc3jEY) | 4:01 | 2022-04-08 | 2023-02-12 |

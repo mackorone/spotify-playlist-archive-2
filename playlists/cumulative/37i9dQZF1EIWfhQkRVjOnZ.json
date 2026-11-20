@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 205853,
       "name": "A Certain Death",
       "url": "https://open.spotify.com/track/6570Ws4MQ6eDI0EZc6TFNM"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 211146,
       "name": "A Constant Reminder",
       "url": "https://open.spotify.com/track/0TQISSEtEkxysEdjpD37Wy"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 202570,
       "name": "All My Friends Are Wild",
       "url": "https://open.spotify.com/track/4mjlddgdXsCpZLZQH6p9Wb"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 266000,
       "name": "Americans",
       "url": "https://open.spotify.com/track/01oPK5zrHIQtjYR9mRzlo9"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 218200,
       "name": "Daylight Slaving",
       "url": "https://open.spotify.com/track/577v6fjOvbwcOtT64H3t8R"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 227293,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/0iGbZvEQaiwMhvANv5lztz"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-05",
+      "date_removed": null,
       "duration_ms": 273346,
       "name": "Doomsayer (The Beginning Of The End)",
       "url": "https://open.spotify.com/track/0CFLJ4LuViyP4ascKlgKn5"
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 216457,
       "name": "End Transmission",
       "url": "https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Endseekers",
       "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
@@ -2421,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Great Faith In Fools",
+        "url": "https://open.spotify.com/album/0M4FpSgm8ZkkGMJcSPTuQR"
+      },
+      "artists": [
+        {
+          "name": "The Air I Breathe",
+          "url": "https://open.spotify.com/artist/2esri1FQ20U2rQjfC7RA9C"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245386,
+      "name": "Here's To Letting Go",
+      "url": "https://open.spotify.com/track/0IluUIUkEIFb4nBuXOFt7L"
+    },
+    {
+      "album": {
         "name": "Plagues",
         "url": "https://open.spotify.com/album/1RmeEfpexwNEmOcG8GU6O6"
       },
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 204213,
       "name": "In Regards To Myself",
       "url": "https://open.spotify.com/track/3VC4KHC7cRhuG6nYx4f1qj"
@@ -2900,7 +2918,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 268106,
       "name": "Lamnidae",
       "url": "https://open.spotify.com/track/29eeXRFIJ9xPtFTGvVkU97"
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 273813,
       "name": "Making Waves",
       "url": "https://open.spotify.com/track/5wVnuvqO9WnyssSsGUcLSx"
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 240453,
       "name": "Malevolence",
       "url": "https://open.spotify.com/track/3m5t9Z6DyQCjepVvz7sjNv"
@@ -3462,7 +3480,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 242040,
       "name": "New Medicines",
       "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
@@ -3952,7 +3970,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 229453,
       "name": "Reach The End",
       "url": "https://open.spotify.com/track/00NK8BNGrlM4mhb4rjINwv"
@@ -4060,7 +4078,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 218586,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4m7dudQWZ3Zr84WpssfcN4"
@@ -4442,7 +4460,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 182080,
       "name": "Severed Ties Yield Severed Heads",
       "url": "https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m"
@@ -4622,7 +4640,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 223880,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/1icI4F8fzvF0APPJHfyu2w"
@@ -4676,7 +4694,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 281813,
       "name": "Sorry Seacrest It's Casey's Countdown",
       "url": "https://open.spotify.com/track/0QyuVvyW2NMBQcSKZT62Ob"
@@ -5180,7 +5198,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185200,
       "name": "The Finisher",
       "url": "https://open.spotify.com/track/2IrBOsPFanKlio8U55XUxc"
@@ -5234,7 +5252,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 276226,
       "name": "The Gunslinger",
       "url": "https://open.spotify.com/track/2h3DmW0Vk6drmSy6LKs4k6"
@@ -5508,7 +5526,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 210480,
       "name": "The Road To Hell Is Paved With Good Intentions (feat. Craig Owens of Chiodos)",
       "url": "https://open.spotify.com/track/5x97GqwWM5X5JBz7Q7lyyX"
@@ -5580,7 +5598,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 290226,
       "name": "The Taste Of Regret",
       "url": "https://open.spotify.com/track/6p9iykxeTs8Zcpy6iv7D2A"
@@ -5832,7 +5850,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 261013,
       "name": "This Ship, A Coffin",
       "url": "https://open.spotify.com/track/1UabJxjcG7QquUxbFNZDqM"
@@ -6534,7 +6552,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 189146,
       "name": "Wolf's Jaw",
       "url": "https://open.spotify.com/track/6Hv3BomCozhJmgBo9TUOCQ"

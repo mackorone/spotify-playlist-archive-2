@@ -3269,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "Loving Well and Badly",
+        "url": "https://open.spotify.com/album/4kT4HzepPBPjrbVm7vIFDU"
+      },
+      "artists": [
+        {
+          "name": "Kirsten McCormick",
+          "url": "https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293514,
+      "name": "To Love And Be Loved",
+      "url": "https://open.spotify.com/track/5KJgyTaeYJ29Jj5To4gGLJ"
+    },
+    {
+      "album": {
         "name": "Too Close For Comfort",
         "url": "https://open.spotify.com/album/3Rqi8cEOHDKJMBXqKt5WvF"
       },

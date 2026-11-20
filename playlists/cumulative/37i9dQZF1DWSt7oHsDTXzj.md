@@ -2,9 +2,9 @@
 
 ### [Indie Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSt7oHsDTXzj)
 
-> The ultimate seasonal \(indie\) playlist, ft Sufjan Stevens
+> The ultimate seasonal \(indie\) playlist, ft Phoebe Bridgers
 
-293 songs - 16 hr 5 min
+296 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 | 2022-10-14 | 2024-02-04 |
 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 | 2021-11-12 | 2022-10-14 |
 | [Another Year](https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x) | 4:16 | 2023-10-16 | 2024-04-19 |
-| [Auld Lang Syne](https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:32 | 2021-11-12 |  |
+| [Anything](https://open.spotify.com/track/3htz0sRGLYHbbAS9QeEqpy) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Anything](https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW) | 3:35 | 2026-11-19 |  |
+| [Auld Lang Syne](https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:32 | 2021-11-12 | 2026-11-20 |
 | [Auld Lang Syne](https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Auld Lang Syne](https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu) | 3:12 | 2021-11-12 | 2026-11-18 |
 | [baby jesus is nobody's baby now](https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/54ech4ihgHD7emD0ucycog) | 3:35 | 2021-11-12 | 2024-11-16 |
 | [baby jesus is nobody's baby now](https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R) | 3:35 | 2021-11-12 | 2022-11-08 |
@@ -99,7 +100,7 @@
 | [Darlin' \(Christmas is Coming\)](https://open.spotify.com/track/1FOqaVsW6nRhBx2mM2ZlWT) | [Over the Rhine](https://open.spotify.com/artist/1z26dqCz3PySR4G7HWsn93) | [Snow Angels](https://open.spotify.com/album/7oSLVfLvqavTUiwiJFEvGO) | 3:35 | 2021-11-12 | 2022-07-20 |
 | [Darling I Do](https://open.spotify.com/track/4HQPftni948NDA17ajheQQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Darling I Do](https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j) | 3:01 | 2022-12-23 |  |
 | [Day After Tomorrow](https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7) | 6:05 | 2021-12-03 |  |
-| [December '04](https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [December '04](https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY) | 3:26 | 2023-12-08 |  |
+| [December '04](https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [December '04](https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY) | 3:26 | 2023-12-08 | 2026-11-20 |
 | [Deck The Halls](https://open.spotify.com/track/29Pf9AzgYQnVPKyz5bU6K3) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Deck The Halls](https://open.spotify.com/album/6roKUT3Py5CqOa47NH5nOH) | 2:04 | 2023-12-08 | 2024-04-19 |
 | [Deck The Halls](https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Deck The Halls](https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX) | 2:04 | 2023-12-08 |  |
 | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ) | 3:42 | 2022-12-23 |  |
@@ -154,6 +155,7 @@
 | [It's Christmas](https://open.spotify.com/track/3IDTHSXjwV2ngdJXGcoOuc) | [Cody](https://open.spotify.com/artist/4HGUydh9BtymmiwT62K7wT) | [It's Christmas](https://open.spotify.com/album/1spQ9drDNBcMtJBVTcxzZ8) | 3:47 | 2021-11-12 | 2022-07-20 |
 | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/track/1lXkOnvzw4o6dncgSc9kwU) | [Jessicka](https://open.spotify.com/artist/69LuZP8tLC8m268w9sHj2i) | [It's Christmas \(Snow is Falling\)](https://open.spotify.com/album/4URQ2nU0Yy86AJ17phLBap) | 3:37 | 2021-11-12 | 2022-07-08 |
 | [It’s Going To Be A Cold Winter](https://open.spotify.com/track/1G2gpOv9sgCpVKgd2watPU) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 2:16 | 2021-11-12 | 2022-07-29 |
+| [Jesus Fucking Christmas](https://open.spotify.com/track/5Xs7BSN0HvUhcrc0X3tTa7) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Jesus Fucking Christmas](https://open.spotify.com/album/2n7iqOgFGeRYJk9V5CtQVd) | 2:48 | 2026-11-20 |  |
 | [Jingle Bells](https://open.spotify.com/track/20I188Y2jFukR5DfONMhA8) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Jingle Bells](https://open.spotify.com/album/237sWX7XtxysrJ30iuwQeY) | 3:19 | 2021-11-12 | 2022-07-27 |
 | [Jingle Bells](https://open.spotify.com/track/24EVkXld5IgHzMrvRnG6En) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Jingle Bells](https://open.spotify.com/album/54v478uTYwezsdaelCPH8S) | 3:41 | 2021-12-03 | 2022-07-29 |
 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 | 2022-12-23 | 2024-04-19 |
@@ -245,6 +247,7 @@
 | [The New Year](https://open.spotify.com/track/4Y2cR1AEADE6FyNVnuaWhZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 4:06 | 2022-12-23 | 2023-04-29 |
 | [The New Year](https://open.spotify.com/track/4nPNsnv4QEiIzihzCU5zHH) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 4:06 | 2022-12-23 | 2024-04-19 |
 | [The Parting Glass](https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Parting Glass](https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO) | 4:11 | 2023-11-17 |  |
+| [The Trapeze Swinger](https://open.spotify.com/track/0EAvKXjChn1Rc3QmfYXevy) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Around the Well](https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7) | 9:31 | 2026-11-19 |  |
 | [The White Season](https://open.spotify.com/track/27KvxFbpLDLeKajJSxHBFE) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/2KTTWvdCwPakrp3AVcsUQC) | 2:51 | 2021-11-12 | 2022-07-24 |
 | [The White Season](https://open.spotify.com/track/4xyJEjyU84bFQXmrYN3hGc) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/7jD6Vz4DvhpjJ6x16oWv1y) | 2:51 | 2022-12-23 | 2024-04-19 |
 | [The White Season](https://open.spotify.com/track/00nHwKHbwy33Q8Eo3OB86u) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU) | 2:53 | 2021-11-12 | 2023-06-23 |
@@ -258,7 +261,7 @@
 | [till christmas day](https://open.spotify.com/track/07uIDRgLGpRG4ro77Chm5p) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [till christmas day](https://open.spotify.com/album/5Rs8yhcgqXAZmzWpM4e7nO) | 2:49 | 2023-10-16 | 2024-04-19 |
 | [Tinsel Dresses](https://open.spotify.com/track/7lR2IX1qlDpfGZFmW6c4WZ) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Tinsel Dresses](https://open.spotify.com/album/4wuwHm3hBokarHxJSlYk12) | 2:04 | 2022-12-23 | 2026-07-13 |
 | [Triste Navidad \- Spotify Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 | 2022-11-21 | 2022-12-22 |
-| [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-11-12 |  |
+| [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-11-12 | 2026-11-20 |
 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 | 2021-11-12 | 2024-04-19 |
 | [ugly xmas sweater party](https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [ugly xmas sweater party](https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI) | 3:28 | 2021-11-12 |  |
 | [Under the Lights](https://open.spotify.com/track/0nPlaMV86iDMDKAXueGEFV) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Under the Lights](https://open.spotify.com/album/2nZd5rmiopzDpXS435mn2T) | 2:45 | 2022-11-11 | 2022-12-18 |

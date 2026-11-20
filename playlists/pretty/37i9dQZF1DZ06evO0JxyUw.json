@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 280431,
+  "num_followers": 280437,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAACeWmmEhLYayH6crQtMtML5",
+  "snapshot_id": "avzqgAAAAACXEKwD/vwSw6BQWiC1lkqJ",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "But I Am A Good Girl - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 246146,
       "name": "Tell Me (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "But I Am A Good Girl - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Save Me from Myself",
+      "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AGUILERA",
         "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 206542,
       "name": "Cuando Me D\u00e9 la Gana",
       "url": "https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Save Me from Myself",
-      "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
     },
     {
       "added_at": null,

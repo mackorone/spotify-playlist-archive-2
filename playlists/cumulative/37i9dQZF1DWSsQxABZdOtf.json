@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "live. laugh. LeFrost",
+        "url": "https://open.spotify.com/album/3rLijuDCpDQMUs0sSltkeW"
+      },
+      "artists": [
+        {
+          "name": "JIG LeFrost",
+          "url": "https://open.spotify.com/artist/5x7elTgh2IWVwEuTy7Nh9R"
+        },
+        {
+          "name": "Oshi",
+          "url": "https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115752,
+      "name": "#PARTY + OSHI",
+      "url": "https://open.spotify.com/track/6RslTNtDXwq5QjgntwgN9C"
+    },
+    {
+      "album": {
         "name": "'Til Tomorrow",
         "url": "https://open.spotify.com/album/6lNZirW2o0knujzrLydFEQ"
       },
@@ -85,6 +107,32 @@
     },
     {
       "album": {
+        "name": "Digi Mangal (Remixes)",
+        "url": "https://open.spotify.com/album/4OGO8zRqgL3DbR7alCPYt1"
+      },
+      "artists": [
+        {
+          "name": "Swick",
+          "url": "https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID"
+        },
+        {
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320845,
+      "name": "125cc Delivery - DJ ADHD Remix",
+      "url": "https://open.spotify.com/track/4pBQc2wwskPIRE3lxhtP03"
+    },
+    {
+      "album": {
         "name": "1Mhz*",
         "url": "https://open.spotify.com/album/00svAhsit9pvcDFPO82uHk"
       },
@@ -96,7 +144,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 139322,
       "name": "1Mhz*",
       "url": "https://open.spotify.com/track/0FDGvjQns8s2x3S3RCPq7g"
@@ -1335,6 +1383,28 @@
     },
     {
       "album": {
+        "name": "Bad Impression",
+        "url": "https://open.spotify.com/album/4nzLB2R6ZrZ0hYqwLYYGy5"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "Rush Davis",
+          "url": "https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250941,
+      "name": "Bad Impression",
+      "url": "https://open.spotify.com/track/1VuZiDU3Afyn98MkQG9GSr"
+    },
+    {
+      "album": {
         "name": "Baddie",
         "url": "https://open.spotify.com/album/0phLhHwE3dHzhbXh6PDvMM"
       },
@@ -1968,7 +2038,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 225000,
       "name": "Bikini - Dubbel Dutch Remix",
       "url": "https://open.spotify.com/track/2Z0gJOIrtlFtZv9Vtumm4m"
@@ -3903,6 +3973,28 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5sV43JXMs6AI5hk9mlQ7KU"
+      },
+      "artists": [
+        {
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
+        },
+        {
+          "name": "DJ Swisha",
+          "url": "https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262285,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6pRl3q116U4k2xv2dR03r1"
+    },
+    {
+      "album": {
         "name": "dem0n b0ii (Gold Fang Remix)",
         "url": "https://open.spotify.com/album/2nDAWWlkKYCbs7vblvipyn"
       },
@@ -4186,10 +4278,28 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216789,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5TTROeRFFCfnRDA354UBmM"
+    },
+    {
+      "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/7GrHhPua0rbubORntZiuwe"
+      },
+      "artists": [
+        {
+          "name": "Kade Young",
+          "url": "https://open.spotify.com/artist/0HuyMTJ3Nd3JQsOfDrGYVT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251720,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/6EhJnIln0wm4lzeGVN5gCa"
     },
     {
       "album": {
@@ -5690,7 +5800,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 458878,
       "name": "FRIED",
       "url": "https://open.spotify.com/track/1i527ye8rzBUSsb6o5OFpZ"
@@ -6382,7 +6492,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 209000,
       "name": "Haloumi Drums",
       "url": "https://open.spotify.com/track/54R7NBYox7qzzbvC0ReAhx"
@@ -7048,7 +7158,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 117117,
       "name": "Hum it to google",
       "url": "https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz"
@@ -7222,6 +7332,24 @@
       "duration_ms": 335524,
       "name": "I WANNA RAVE",
       "url": "https://open.spotify.com/track/0lbclnUJJXbbvsQxfLbpIO"
+    },
+    {
+      "album": {
+        "name": "I'll Be",
+        "url": "https://open.spotify.com/album/3oPKhpzSHX6v1JUclWTeF1"
+      },
+      "artists": [
+        {
+          "name": "Paleman",
+          "url": "https://open.spotify.com/artist/7frkmqyujpmo6rJnZPDNTk"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246713,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/6khESY1Thpr7mV54sZyEvU"
     },
     {
       "album": {
@@ -7690,7 +7818,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 211500,
       "name": "It's You - underscores' \"It\u2019s U\" Remix",
       "url": "https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1"
@@ -8217,6 +8345,28 @@
     },
     {
       "album": {
+        "name": "las m\u00edas son peluche",
+        "url": "https://open.spotify.com/album/5ma6KAMuV9aC2XbRFBPjwt"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        },
+        {
+          "name": "Fusil Ametrallalo",
+          "url": "https://open.spotify.com/artist/7aeWoCESeAOP5yBTOHdiRk"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99500,
+      "name": "las m\u00edas son peluche",
+      "url": "https://open.spotify.com/track/70tqNfuNBtX3hZCXQoCT0y"
+    },
+    {
+      "album": {
         "name": "Last Last",
         "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
       },
@@ -8359,6 +8509,24 @@
     },
     {
       "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156015,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
       },
@@ -8440,6 +8608,24 @@
       "duration_ms": 225520,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/4EBmRDnoPHS8CnumK8tVv8"
+    },
+    {
+      "album": {
+        "name": "Finessekid",
+        "url": "https://open.spotify.com/album/1wJkie6ci2U2wbJBUtP5Mb"
+      },
+      "artists": [
+        {
+          "name": "Finessekid",
+          "url": "https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123642,
+      "name": "Like Gwen Stefani",
+      "url": "https://open.spotify.com/track/1OiTX77uoMALxUSX8K1LNG"
     },
     {
       "album": {
@@ -9095,6 +9281,32 @@
     },
     {
       "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/2PAJ2mlSWSp2YbsUuVK4P0"
+      },
+      "artists": [
+        {
+          "name": "Erika Ever",
+          "url": "https://open.spotify.com/artist/2MMGm01jldrW4dPB71Gf3n"
+        },
+        {
+          "name": "DoloRRes",
+          "url": "https://open.spotify.com/artist/74OqG3fmuLxfa8qIzmyJVC"
+        },
+        {
+          "name": "6tt",
+          "url": "https://open.spotify.com/artist/6tzFd4YqBCoF7NvKyqM0LJ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147941,
+      "name": "Mega Fan",
+      "url": "https://open.spotify.com/track/7c2E4OTm7IBPlV6Ak6uvFC"
+    },
+    {
+      "album": {
         "name": "Melatonin",
         "url": "https://open.spotify.com/album/228ian0XYKvFtY1UchZy5d"
       },
@@ -9716,7 +9928,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 162000,
       "name": "Never Never",
       "url": "https://open.spotify.com/track/3xr1YJ98jaIPFrM4cgS0Ft"
@@ -9920,6 +10132,40 @@
       "duration_ms": 195314,
       "name": "No C No A - Burna Remix",
       "url": "https://open.spotify.com/track/7E8usI8pkeztzCofLFi5UI"
+    },
+    {
+      "album": {
+        "name": "Digi Mangal (Remixes)",
+        "url": "https://open.spotify.com/album/4OGO8zRqgL3DbR7alCPYt1"
+      },
+      "artists": [
+        {
+          "name": "Swick",
+          "url": "https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID"
+        },
+        {
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+        },
+        {
+          "name": "Carli",
+          "url": "https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT"
+        },
+        {
+          "name": "Jammz",
+          "url": "https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0"
+        },
+        {
+          "name": "Geoblu",
+          "url": "https://open.spotify.com/artist/5NVDBtxYLeLaByHCo682Kf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194497,
+      "name": "No Messin Around - Carli Remix",
+      "url": "https://open.spotify.com/track/5hHoDHMtXrE95NDxA5j0CM"
     },
     {
       "album": {
@@ -10815,6 +11061,28 @@
     },
     {
       "album": {
+        "name": "PARAR",
+        "url": "https://open.spotify.com/album/18LL8PGIWmE0VIQQuvkrk4"
+      },
+      "artists": [
+        {
+          "name": "FOURA",
+          "url": "https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4"
+        },
+        {
+          "name": "Shuga",
+          "url": "https://open.spotify.com/artist/7DyQpeiuHFiQ8vR0p9zGdE"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181174,
+      "name": "PARAR",
+      "url": "https://open.spotify.com/track/5WBNjfjcor88U1ZRMlA9Kq"
+    },
+    {
+      "album": {
         "name": "Pavement",
         "url": "https://open.spotify.com/album/2MWSw8tBvNWIXURHKT6ai0"
       },
@@ -11162,7 +11430,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 134810,
       "name": "Pick and Go",
       "url": "https://open.spotify.com/track/752fPgj9gKe17HOav3aSOB"
@@ -11456,7 +11724,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164277,
       "name": "Prettiest Girl In America",
       "url": "https://open.spotify.com/track/3GhfqidPZ0XMPThWZg6H3B"
@@ -11558,7 +11826,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 204507,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/6TnQUNziXgjkZUaO9b7jtd"
@@ -11722,6 +11990,32 @@
       "duration_ms": 218921,
       "name": "Quality High",
       "url": "https://open.spotify.com/track/4yPiuOo5BO4i9X3D8iMF85"
+    },
+    {
+      "album": {
+        "name": "Quatro Mili",
+        "url": "https://open.spotify.com/album/4tjDWq0YmRTxYUfX5885gt"
+      },
+      "artists": [
+        {
+          "name": "Mariposa",
+          "url": "https://open.spotify.com/artist/73s1DKnwRgdsXm6a3tQEsV"
+        },
+        {
+          "name": "Baby Evil",
+          "url": "https://open.spotify.com/artist/5HSX4lrCOuE7XWAKYViHjX"
+        },
+        {
+          "name": "Benedict James",
+          "url": "https://open.spotify.com/artist/0HG4sLAE3Hp4X1PDtdDQUV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264137,
+      "name": "Quatro Mili",
+      "url": "https://open.spotify.com/track/6JJac9kgxHwQb5YIYatw8x"
     },
     {
       "album": {
@@ -12483,6 +12777,28 @@
     },
     {
       "album": {
+        "name": "Sclera",
+        "url": "https://open.spotify.com/album/6LvxUcxVzDWGhkR1uScs2T"
+      },
+      "artists": [
+        {
+          "name": "Manuka Honey",
+          "url": "https://open.spotify.com/artist/3QtmYxRatv51FbpBQJ5SDJ"
+        },
+        {
+          "name": "T.NO",
+          "url": "https://open.spotify.com/artist/0QyZldTsxCVm1nndBkoQQm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282608,
+      "name": "Sclera",
+      "url": "https://open.spotify.com/track/70JEnW8VjzYs3oxGatfOCN"
+    },
+    {
+      "album": {
         "name": "Screen Cleaner",
         "url": "https://open.spotify.com/album/6knmBybayTL36FPFPge1TI"
       },
@@ -12604,10 +12920,36 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 222782,
       "name": "Severe Delays",
       "url": "https://open.spotify.com/track/6fsFfdsnDOQpXiWw0BW48O"
+    },
+    {
+      "album": {
+        "name": "Digi Mangal (Remixes)",
+        "url": "https://open.spotify.com/album/4OGO8zRqgL3DbR7alCPYt1"
+      },
+      "artists": [
+        {
+          "name": "Swick",
+          "url": "https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID"
+        },
+        {
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+        },
+        {
+          "name": "Strict Face",
+          "url": "https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332754,
+      "name": "Severe Delays - Strict Face's 'Rush Hour Panic' Remix",
+      "url": "https://open.spotify.com/track/2F80RcivyW4bOecR0kbgsJ"
     },
     {
       "album": {
@@ -12626,7 +12968,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 151242,
       "name": "Sex Life",
       "url": "https://open.spotify.com/track/18cS2gM9O0jkVYCBuMsBLq"
@@ -12830,7 +13172,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 196482,
       "name": "Shot Caller (Shuga's Edit)",
       "url": "https://open.spotify.com/track/7lJsZIS9Z0uekFXmEVIywH"
@@ -12926,7 +13268,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 122834,
       "name": "SING4ME",
       "url": "https://open.spotify.com/track/6XxWKbPOJGo6cwYFUvLAU3"
@@ -13242,6 +13584,24 @@
       "duration_ms": 156572,
       "name": "Spit",
       "url": "https://open.spotify.com/track/2avR02odSSywf3NTMLXrbZ"
+    },
+    {
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/2PAJ2mlSWSp2YbsUuVK4P0"
+      },
+      "artists": [
+        {
+          "name": "Erika Ever",
+          "url": "https://open.spotify.com/artist/2MMGm01jldrW4dPB71Gf3n"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/07bn7bRtlwmRjfDky1S0HL"
     },
     {
       "album": {
@@ -14442,7 +14802,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 183829,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/6YEHnHMOs9RcgfsyyKSfEm"
@@ -15334,7 +15694,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 179085,
       "name": "WEIRD MONEY",
       "url": "https://open.spotify.com/track/2VxJXQRbTDGosFhEZeA6K6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,084 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,135 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 15 | [A Different Corner](https://open.spotify.com/track/1Tb9OskLklgUMb0tUBJwRy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:03 |
 | 16 | [Kissing a Fool \- Remastered](https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:40 |
 | 17 | [Praying for Time \- Remastered](https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 |
-| 18 | [Too Funky \- Single Edit](https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 3:50 |
+| 18 | [You Know That I Want To](https://open.spotify.com/track/0uXMyGXoNgEe0w53UJNhfe) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older + Upper](https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk) | 4:36 |
 | 19 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
-| 20 | [You Know That I Want To](https://open.spotify.com/track/0uXMyGXoNgEe0w53UJNhfe) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older + Upper](https://open.spotify.com/album/0Vw6FmuN5pWZQbW5ztqOfk) | 4:36 |
+| 20 | [Too Funky \- Single Edit](https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 3:50 |
 | 21 | [Waiting for That Day \- Remastered](https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:49 |
 | 22 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/0muc9Lvuvz3V0XQjbrfNzz) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits III](https://open.spotify.com/album/5VeFHJvFbfmrigIKFqGa1e) | 5:07 |
 | 23 | [Killer / Papa Was a Rollin' Stone](https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 49 | [Love's In Need Of Love Today \- Live in Paris, 1988](https://open.spotify.com/track/0iCfcjiGQMYpIofZWLJqHs) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Faith Tour](https://open.spotify.com/album/5mg5BcbOiMuIWdMGp9TsUu) | 4:57 |
 | 50 | [John and Elvis Are Dead](https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:23 |
 
-Snapshot ID: `avpHgAAAAACe5H4hznLDWFGzIZMCAqxa`
+Snapshot ID: `avzqgAAAAAAWsGKNSMrrMtQEw+P3vFsH`

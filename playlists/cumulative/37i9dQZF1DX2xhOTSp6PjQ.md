@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Noxolo Ngema
+> Khuphuka lapho… seku\-late! Cover: IZINGANE ZOMA
 
-337 songs - 1 day 2 hr 19 min
+338 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Isingqazu Sami](https://open.spotify.com/track/0wg9dKX6zfOVy3A53osxIS) | [Inxakanxaka](https://open.spotify.com/artist/43DNa0M6aCPjeWTVIL7x80) | [Isingqazu Sami](https://open.spotify.com/album/4pGIADaXRBnuRRWBs7QAdG) | 5:09 | 2019-11-18 | 2023-02-24 |
 | [ISIQHELELENE](https://open.spotify.com/track/1rpOcdiVBhAvkBVsSLZoLI) | [Foliswa](https://open.spotify.com/artist/3PdaMAje7z6LQdCfSnKdpp), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Airic](https://open.spotify.com/artist/0S2ETsPPHUZzY2dR742NuO) | [ISIQHELELENE](https://open.spotify.com/album/63I3pTNlzgixtqCUgf2x8z) | 4:23 | 2026-04-09 |  |
 | [Isithembu Simnandi](https://open.spotify.com/track/5VRvB38xJm4N1MZbpxqLAn) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Aliboli Icala](https://open.spotify.com/album/1abs0KR9WTKPBC7jpUKML8) | 4:56 | 2023-12-01 | 2024-06-07 |
+| [Isitofu Sami](https://open.spotify.com/track/4ptAX1y8HXcAGCuNuLwF5E) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Isitofu Sami](https://open.spotify.com/album/4WlqCb0zS99DhUOfKbBQbE) | 4:59 | 2026-11-19 |  |
 | [Iso Ngeso](https://open.spotify.com/track/5cbFUY0lSPDaGxuDbEUEBa) | [Zulu Queens](https://open.spotify.com/artist/5csAaiFcC1qKkVPgUJfXID), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Isithembu](https://open.spotify.com/album/0SpkbEmC1ZDLoEHGXn8kOl) | 3:26 | 2026-08-28 | 2026-09-05 |
 | [Isoka \(feat\. Nkosazana Daughter & Murumba Pitch\)](https://open.spotify.com/track/39sSsu4g7vjVOax8DU98NX) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [KOA II Part 1](https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q) | 7:30 | 2023-01-30 | 2023-02-03 |
 | [Ithathe \- Shenge Version](https://open.spotify.com/track/3NwDK579thyRXH36kNcXSN) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Shenge Wasehlalankosi](https://open.spotify.com/artist/5LtC3sE9p9buuA3v1YpFfs) | [Ithathe \(Shenge Version\)](https://open.spotify.com/album/7qKFaRqZ6IlbxF9b5KxLSI) | 4:23 | 2025-08-29 |  |
@@ -203,7 +204,7 @@
 | [Ngewala](https://open.spotify.com/track/1VyiNL81AtyBvf7EVycnip) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Healing](https://open.spotify.com/album/60sN6VCrfd9JS3oGRL8b9e) | 4:53 | 2025-04-24 |  |
 | [Ngibeke ngaphezulu](https://open.spotify.com/track/3bRxzFF8pq8RpVQTUpM5Bo) | [Luve Dubazane](https://open.spotify.com/artist/0B6FEFiymNPCKJB34TBsFi), [Siphesihle Zulu\-Dludla](https://open.spotify.com/artist/4WLxtg19BodfropUsRZ4Id) | [Ngibeke ngaphezulu](https://open.spotify.com/album/18iAcED7ZigdxyT1M9FIrA) | 2:55 | 2023-09-22 | 2025-04-25 |
 | [Ngicel Uhambe](https://open.spotify.com/track/7kCvZYf9IEtJLlGctDBUAw) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Zothando](https://open.spotify.com/artist/1OGokItW3Aj91vLK5oyv3g) | [Intombi Ayinikwa'imali](https://open.spotify.com/album/6chhFI9kCmwG7wBSoZmIWk) | 3:18 | 2023-08-31 |  |
-| [Ngihlanya Ngempela](https://open.spotify.com/track/3Omsswpz3xz1gYZ7iegmmy) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Take Your Time](https://open.spotify.com/album/0whjCAjxrHgpDBdngBhv1U) | 4:31 | 2025-04-24 |  |
+| [Ngihlanya Ngempela](https://open.spotify.com/track/3Omsswpz3xz1gYZ7iegmmy) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Take Your Time](https://open.spotify.com/album/0whjCAjxrHgpDBdngBhv1U) | 4:31 | 2025-04-24 | 2026-11-20 |
 | [NGIJOLA NEBHINCA](https://open.spotify.com/track/5jPckUbvd78IYYd1bEJSwJ) | [Khuthuza](https://open.spotify.com/artist/0OPeZ6oxm2MldHasnoBTpM), [MAFIKIZOLO](https://open.spotify.com/artist/4CGkafZ4aKS4BusYAgwS6q) | [NGIJOLA NEBHINCA](https://open.spotify.com/album/4MhctQYDrwFPnsv8Kg0P7k) | 4:28 | 2023-11-23 |  |
 | [Ngikheth' utshwala](https://open.spotify.com/track/0g4THZww7f6sb8Z8guw9I5) | [Mahostela 97](https://open.spotify.com/artist/1MSTGFMPxpZD05uY1EnD5w), [Shenge Wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz) | [Ngikheth' utshwala](https://open.spotify.com/album/5H9aaVHL8lBoioS596TGin) | 4:34 | 2025-08-29 |  |
 | [Ngilimele Kakhulu](https://open.spotify.com/track/6HxcilFI5SZnZYbXWVnMSE) | [Umlabalaba](https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY), [Mashimane](https://open.spotify.com/artist/2bTZRgvnTjx6rjwcHSctuu) | [Izethembiso](https://open.spotify.com/album/2I7wr8XqNpmfMFPRzLL5eT) | 4:13 | 2026-07-23 |  |

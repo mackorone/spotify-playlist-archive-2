@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 13030,
+  "num_followers": 13029,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABPXh+Hc6tdKu7L+ldhfupf",
+  "snapshot_id": "avzqgAAAAAAygEORopfhoC7A6emJqzne",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 199198,
-      "name": "Abule",
-      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 221603,
       "name": "No Kissing Baby",
       "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 199198,
+      "name": "Abule",
+      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
     },
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/5KJYpO15Cv5uDPE4OZDJbP"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/2HNqGqMFyUjyjGyi6K58xm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yagi",
         "url": "https://open.spotify.com/album/6AggMrJjq5i8HftaQMpnJt"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 234226,
       "name": "Is It Because I Love You",
       "url": "https://open.spotify.com/track/1qfNnRKkN2tvAdFch4fOi7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/5KJYpO15Cv5uDPE4OZDJbP"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/2HNqGqMFyUjyjGyi6K58xm"
     },
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Woman, My Everything (feat. Wandecoal) - Single",
-        "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 233717,
-      "name": "My Woman, My Everything (feat. Wandecoal)",
-      "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome To Lagos",
         "url": "https://open.spotify.com/album/65SHs9gGDOyXxFs4vHAcCZ"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 183092,
       "name": "Welcome To Lagos",
       "url": "https://open.spotify.com/track/6q9AMhh5M1SiCCvrh94YVh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Woman, My Everything (feat. Wandecoal) - Single",
+        "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 233717,
+      "name": "My Woman, My Everything (feat. Wandecoal)",
+      "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
     },
     {
       "added_at": null,
@@ -359,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 203464,
+      "name": "Kolo Kolo",
+      "url": "https://open.spotify.com/track/4105eJHPqLaEDmdCo6qUUq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jah Eli Jah",
         "url": "https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 233764,
       "name": "Jah Eli Jah",
       "url": "https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 203464,
-      "name": "Kolo Kolo",
-      "url": "https://open.spotify.com/track/4105eJHPqLaEDmdCo6qUUq"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abobi",
-        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 201048,
-      "name": "Abobi",
-      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Make Am (feat. Ebonyi State Band)",
         "url": "https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS"
       },
@@ -595,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+        "name": "Abobi",
+        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
       },
       "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 186782,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
+      "duration_ms": 201048,
+      "name": "Abobi",
+      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
     },
     {
       "added_at": null,
@@ -635,6 +615,26 @@
       "duration_ms": 191400,
       "name": "Prayer Request II",
       "url": "https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 186782,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living In Bondage: Breaking Free (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4wgSQ9eLiaPRTcChkR3FTj"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/6YCDK0YJDwH0yAbY6dCAKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Golden Boy",
         "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
@@ -727,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Living In Bondage: Breaking Free (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wgSQ9eLiaPRTcChkR3FTj"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/6YCDK0YJDwH0yAbY6dCAKc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rudi (feat. Patoranking)",
         "url": "https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 219820,
       "name": "Rudi (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 189598,
-      "name": "Yo Body",
-      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 189598,
+      "name": "Yo Body",
+      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Something Nice",
         "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
       },
@@ -803,42 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alagbe",
-        "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
-      },
-      "artists": [
-        {
-          "name": "Qdot",
-          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "Magbe (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daniella Whine - single",
-        "url": "https://open.spotify.com/album/2KPrCbHxw6FjOnX9N7bFyR"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "Daniella Whine",
-      "url": "https://open.spotify.com/track/70iRqEVEdQsvP3mzHdJSbG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD"
       },
@@ -855,42 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MA GIRL",
-        "url": "https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h"
-      },
-      "artists": [
-        {
-          "name": "Toofan",
-          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 208042,
-      "name": "MA GIRL",
-      "url": "https://open.spotify.com/track/3TVbIYJN2QGLOAdveevG2g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "African Soldier",
-        "url": "https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan"
+        "name": "Daniella Whine - single",
+        "url": "https://open.spotify.com/album/2KPrCbHxw6FjOnX9N7bFyR"
       },
       "artists": [
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
         }
       ],
-      "duration_ms": 166000,
-      "name": "African Soldier",
-      "url": "https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77"
+      "duration_ms": 244840,
+      "name": "Daniella Whine",
+      "url": "https://open.spotify.com/track/70iRqEVEdQsvP3mzHdJSbG"
     },
     {
       "added_at": null,
@@ -915,22 +855,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Credit Alert",
-        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
+        "name": "African Soldier",
+        "url": "https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan"
       },
       "artists": [
         {
-          "name": "Kocee",
-          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "African Soldier",
+      "url": "https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alagbe",
+        "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
+      },
+      "artists": [
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 193718,
-      "name": "Credit Alert",
-      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
+      "duration_ms": 173293,
+      "name": "Magbe (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
     },
     {
       "added_at": null,
@@ -951,6 +911,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "MA GIRL",
+        "url": "https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 208042,
+      "name": "MA GIRL",
+      "url": "https://open.spotify.com/track/3TVbIYJN2QGLOAdveevG2g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Credit Alert",
+        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
+      },
+      "artists": [
+        {
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 193718,
+      "name": "Credit Alert",
+      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patoranking",
         "url": "https://open.spotify.com/album/4AQnC9nJPONOcveexfbjYm"
       },
@@ -967,22 +967,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing My Name",
-        "url": "https://open.spotify.com/album/0JtTgpfgwkasZFn6FM1dng"
+        "name": "One Love (in support of UNICEF)",
+        "url": "https://open.spotify.com/album/0GYG8mzT02965RRFiBxfxX"
       },
       "artists": [
         {
-          "name": "MzVee",
-          "url": "https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9"
+          "name": "The Amplified Project",
+          "url": "https://open.spotify.com/artist/0O84UJcaMyncTUcA49HEch"
+        },
+        {
+          "name": "Bob Marley",
+          "url": "https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj"
+        },
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Cedella Marley",
+          "url": "https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Ghetto Youths Foundation",
+          "url": "https://open.spotify.com/artist/1EunaVmcxPZ3W0OEWd4enl"
+        },
+        {
+          "name": "Kim Nain",
+          "url": "https://open.spotify.com/artist/1sUh9PuHuNHe1ElLUHVLOC"
+        },
+        {
+          "name": "Manifesto Ja",
+          "url": "https://open.spotify.com/artist/5VNiqJUBfbraWrVFJEHjM6"
+        },
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        },
+        {
+          "name": "Natty",
+          "url": "https://open.spotify.com/artist/2bYR6To8Z49UmceWctNMIb"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "249TooDope",
+          "url": "https://open.spotify.com/artist/4ASAIQZCLWzcBvCmEVLOkm"
+        },
+        {
+          "name": "Mermans Mosengo",
+          "url": "https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc"
+        },
+        {
+          "name": "Jason Tamba",
+          "url": "https://open.spotify.com/artist/7gfuxIgr15DM6ZgZyFCd1N"
+        },
+        {
+          "name": "Dawtas of Aya",
+          "url": "https://open.spotify.com/artist/13pgjqyXBaaIbsAkdRChFg"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Amrit Kaur",
+          "url": "https://open.spotify.com/artist/7G4R492mjIIVQbQPH2q6JS"
+        },
+        {
+          "name": "Babsy",
+          "url": "https://open.spotify.com/artist/6lZtR7OsMOiWt7r59r217Z"
         }
       ],
-      "duration_ms": 214804,
-      "name": "Sing My Name",
-      "url": "https://open.spotify.com/track/1lG0c2RSqPajNO9vgBpPEP"
+      "duration_ms": 207341,
+      "name": "One Love (in support of UNICEF)",
+      "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
     },
     {
       "added_at": null,

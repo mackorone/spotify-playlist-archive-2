@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest dance hits! Cover: Becky Hill",
+  "description": "Today's biggest dance hits! Cover: Joel Corry",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137700,
       "name": "Change",
       "url": "https://open.spotify.com/track/3mptnmnBcxx5M1psyLAZDY"
@@ -5230,6 +5230,28 @@
       "duration_ms": 180150,
       "name": "DANGER DANGER (feat. Skepta)",
       "url": "https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG"
+    },
+    {
+      "album": {
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/0DThZwYbgYiqrnw9Er0GLo"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188837,
+      "name": "Danza",
+      "url": "https://open.spotify.com/track/7wcpHpNG2hs0CHNigp1xUE"
     },
     {
       "album": {
@@ -10218,6 +10240,28 @@
       "duration_ms": 198750,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
+    },
+    {
+      "album": {
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Loaded Honey",
+          "url": "https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97693,
+      "name": "I Give Everything I Have 2 U (feat. Loaded Honey)",
+      "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
     },
     {
       "album": {
@@ -15954,7 +15998,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 201331,
       "name": "Party",
       "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
@@ -18594,6 +18638,28 @@
       "duration_ms": 226773,
       "name": "She\u2019s Gone, Dance On",
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/6KQQcnlkw5iTwUdaupt3zD"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "ESSE",
+          "url": "https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164885,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5XjlelkkyKiuBMX0m8SzK5"
     },
     {
       "album": {
@@ -22085,6 +22151,24 @@
     },
     {
       "album": {
+        "name": "Trippin",
+        "url": "https://open.spotify.com/album/5JHDX5z4UqWW4Tqf2dyydV"
+      },
+      "artists": [
+        {
+          "name": "Valentina Soto",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191818,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/2yRkOH3pZCCRucPaDrOrBc"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz"
       },
@@ -22718,7 +22802,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 193777,
       "name": "Warlord",
       "url": "https://open.spotify.com/track/4WOvLGtZgRTQX3aCx9btnJ"
@@ -23730,7 +23814,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 200500,
       "name": "Wo, man - Edit",
       "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"

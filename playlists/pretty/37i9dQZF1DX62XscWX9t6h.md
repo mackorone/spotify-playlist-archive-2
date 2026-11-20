@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,878 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,912 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,18 +26,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 16 | [El Alma y el Cuerpo](https://open.spotify.com/track/5a8xzrQxVNRrQbgkzYCkTb) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Elegancia Tropical](https://open.spotify.com/album/3hmKL47fvTuB0pDQP45aY4) | 5:01 |
 | 17 | [Parev' Ajere](https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:33 |
 | 18 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 |
-| 19 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
-| 20 | [The Wild Rover](https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 10:14 |
+| 19 | [The Wild Rover](https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 10:14 |
+| 20 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
 | 21 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 |
 | 22 | [On te l'avait dit](https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 6:24 |
 | 23 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
-| 24 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 |
-| 25 | [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 |
+| 24 | [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 |
+| 25 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 |
 | 26 | [Kek Alghalm](https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Wes Corbett](https://open.spotify.com/artist/2OkbDT2Do2fc1sRAUFedD8) | [Amatssou](https://open.spotify.com/album/6midUauH9WLxQllqEAvqhM) | 3:31 |
 | 27 | [Atomic Bomb](https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 7:59 |
 | 28 | [Шо з\-под дуба](https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Yahudky](https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm) | 3:48 |
-| 29 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
-| 30 | [Go Dig My Grave](https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 8:38 |
+| 29 | [Go Dig My Grave](https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 8:38 |
+| 30 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
 | 31 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 |
 | 32 | [Garawek khaos](https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn) | [Cemento Atlantico](https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT) | [Dromomania](https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx) | 4:53 |
 | 33 | [Home \(anaiis Remix\)](https://open.spotify.com/track/2baU4gZ7YltWBxO5kveHCK) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Could We Be More Remixes](https://open.spotify.com/album/1lLEKH0KEbDDW6Wgw4EEDA) | 3:09 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 47 | [CHIENA 'E SCIPPE](https://open.spotify.com/track/29z4FTyuYn0Hflj9jwIl3c) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [FURÈSTA](https://open.spotify.com/album/17LP7L6YElIuVYK1gg7S37) | 3:18 |
 | 48 | [Agrim Agadez](https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL) | [Etran de L'AÏr](https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg) | [No\. 1](https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC) | 5:51 |
 | 49 | [Tala Tannam](https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 5:38 |
-| 50 | [Dempuèi auriac](https://open.spotify.com/track/0qNkaZahHUYumhxlAMgp33) | [Cocanha](https://open.spotify.com/artist/1MYfw8oJJ5lQisSkMKPGHl) | [I ès ?](https://open.spotify.com/album/0e0D3S0kz3y9QWXvu7AR5g) | 2:16 |
-| 51 | [Eléctrico](https://open.spotify.com/track/2Y6qcH0XUxAohCNdefCa0J) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Conquistador](https://open.spotify.com/album/2gkJw21X6L6nGdej4VAc6O) | 3:37 |
+| 50 | [Eléctrico](https://open.spotify.com/track/2Y6qcH0XUxAohCNdefCa0J) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Conquistador](https://open.spotify.com/album/2gkJw21X6L6nGdej4VAc6O) | 3:37 |
+| 51 | [Dempuèi auriac](https://open.spotify.com/track/0qNkaZahHUYumhxlAMgp33) | [Cocanha](https://open.spotify.com/artist/1MYfw8oJJ5lQisSkMKPGHl) | [I ès ?](https://open.spotify.com/album/0e0D3S0kz3y9QWXvu7AR5g) | 2:16 |
 | 52 | [Canton Mambo](https://open.spotify.com/track/3zkCkUZRwV3L3lqiTQ9koC) | [Gia Fu](https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi) | [Canton Mambo](https://open.spotify.com/album/08WUAfWBJF0b4XffDOiQOe) | 4:29 |
 | 53 | [Feira De Mangaio](https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Feira De Mangaio](https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH) | 2:36 |
 | 54 | [El Diablo Y El Ñau Ñau \(feat\. Chico Mann\)](https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Coconut Rock](https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK) | 3:57 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 71 | [La Ruée](https://open.spotify.com/track/31WNmOPMuCiQG3dbRF1SKp) | [Tony Njoku](https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK) | [Last Bloom](https://open.spotify.com/album/02Ry9p7negWeW2eowLlnDA) | 3:03 |
 | 72 | [Udhero Na feat\. Anoushka Shankar](https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Udhero Na](https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe) | 5:03 |
 | 73 | [Tassi](https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Tassi](https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS) | 4:43 |
-| 74 | [La Bomba](https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [La Bomba](https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn) | 2:14 |
-| 75 | [Komorebi](https://open.spotify.com/track/05C1jOzbVwgBk7QIblRtIS) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Komorebi](https://open.spotify.com/album/4mc84YGqjBp90AnPB1XfkA) | 3:33 |
+| 74 | [Komorebi](https://open.spotify.com/track/05C1jOzbVwgBk7QIblRtIS) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Komorebi](https://open.spotify.com/album/4mc84YGqjBp90AnPB1XfkA) | 3:33 |
+| 75 | [La Bomba](https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [La Bomba](https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn) | 2:14 |
 | 76 | [Ordunun Dereleri](https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Ordunun Dereleri](https://open.spotify.com/album/4mfZiG69wQPi8f4iJdv2xm) | 4:45 |
 | 77 | [Wakangenei](https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH) | [Ankobo + Kaboo](https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6) | [Wakangenei](https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2) | 3:52 |
 | 78 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 99 | [Yere Faga \- Natureboy Flako Version](https://open.spotify.com/track/4NsD2JP8rYaEL1SMhDivVm) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Tony Allen](https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [Mogoya Remixed](https://open.spotify.com/album/6TJC6eLskTBntkr9uP8O0x) | 5:00 |
 | 100 | [Ya Watan](https://open.spotify.com/track/3ArBO06WybP4GQCtwCwTgw) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Manara](https://open.spotify.com/album/39bOQIKF8BRXuf8zSh1yeG) | 2:50 |
 
-Snapshot ID: `AAAAAKxCi3v7ZRVdzKU74QiFOi3HcVx+`
+Snapshot ID: `AAAAAKXcfEdA3wPeKAFFRr715eTd4eAP`

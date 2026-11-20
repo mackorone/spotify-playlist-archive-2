@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > Explore the current wave of VOCALOID culture\. Cover: TAK
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,398 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,400 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 47 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
 | 48 | [可愛いあの子が気にゐらない](https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5) | [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3) | [可愛いあの子が気にゐらない](https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui) | 3:18 |
 | 49 | [童話になったらいいのに](https://open.spotify.com/track/0ZWQbOQpHp9UzpduRGfISw) | [電ǂ鯨](https://open.spotify.com/artist/6xcEdIK4pJTFHXLyvuUaXm) | [くらしアソート](https://open.spotify.com/album/15bUakbuDdhL0sHTLsli39) | 3:15 |
-| 50 | [いますぐ輪廻](https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [いますぐ輪廻](https://open.spotify.com/album/7INI4kXA59Vti239hZ9gwe) | 2:02 |
+| 50 | [ロウワー](https://open.spotify.com/track/3eIGW5DUVP5zkGFXZSZQ6o) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ロウワー](https://open.spotify.com/album/47wjnpsptGxku8RY0i8Gup) | 3:50 |
 
-Snapshot ID: `AAAAAAtCO7M6YiaYwqto1o5oHYiPzfFT`
+Snapshot ID: `AAAAAJ0PIcpMR4c5XMRraOMSNIhBU+lq`

@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,729 songs - 2 day 23 hr 40 min
+1,730 songs - 2 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Drugs N Love](https://open.spotify.com/track/5bpNC61pnAqXWJg8CLoxhP) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Drugs N Love](https://open.spotify.com/album/7BA0yBsgnoyTmGQXRZJVgU) | 2:18 | 2025-05-22 | 2026-02-17 |
 | [DRÄNG & DALATJEJ](https://open.spotify.com/track/7MbKcLFNbItMf9CwQo1mzN) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Drängarna](https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DRÄNG & DALATJEJ](https://open.spotify.com/album/0ZmFUnH0eKgMuqXVgc484a) | 2:09 | 2024-06-13 | 2024-09-13 |
 | [DRÄNK DEN](https://open.spotify.com/track/73XyQNqhhxNuGS8pYlMRJO) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DRÄNK DEN](https://open.spotify.com/album/18WGEvBmphNmp9ncQ08S5M) | 3:14 | 2024-09-26 | 2025-04-18 |
+| [DU E SJUK](https://open.spotify.com/track/6DlQYJH6k9eqZ2VFjXLt09) | [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY) | [DU E SJUK](https://open.spotify.com/album/3otI6SipASUz0WKuLC7LN3) | 2:24 | 2026-11-19 |  |
 | [DU GÖR MIG FUCKED UP](https://open.spotify.com/track/6teKMrSx3Tw5pF2An2tRN9) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [DU GÖR MIG FUCKED UP](https://open.spotify.com/album/6WgOfMVUSG5vtUOGeycK6E) | 2:33 | 2023-05-11 | 2023-09-08 |
 | [DU HAR INTE VARIT FULL](https://open.spotify.com/track/33SQc3HPtptIYccuiF6kqA) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [DU HAR INTE VARIT FULL](https://open.spotify.com/album/2XNM2XHLGyHHvGCUl8Wetq) | 2:12 | 2023-05-18 | 2023-06-23 |
 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/5QhqVrbqXPUJzI8nY0ft7M) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 | 2022-08-25 | 2022-10-28 |

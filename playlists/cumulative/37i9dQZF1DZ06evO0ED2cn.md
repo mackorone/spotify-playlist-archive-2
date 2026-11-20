@@ -4,7 +4,7 @@
 
 > This is Ho \- Kago Tea Time\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 22 min
+52 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [GO! GO! MANIAC](https://open.spotify.com/track/1wstHd1OmAsH1Sy9qcPhrk) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [GO! GO! MANIAC](https://open.spotify.com/album/0t5SvO8PbUct9yZLE38Fbl) | 4:11 | 2025-05-30 |  |
 | [Gohan Wa Okazu](https://open.spotify.com/track/1i8sVUbbbSaFqRDDb7GRSN) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 3:11 | 2025-05-30 |  |
 | [Honey Sweet Tea Time](https://open.spotify.com/track/3QorgDH1Ki58nQi2Y5trem) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:12 | 2026-01-24 | 2026-02-03 |
+| [Ichiban Ippai](https://open.spotify.com/track/10Uf2SzhDSvGqrlZXAFV9s) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Unmei wa Endless ! \(Standard Edition\)](https://open.spotify.com/album/03p8Ie6s6YpabTablotOS5) | 4:10 | 2026-11-20 |  |
 | [Ichiban Ippai](https://open.spotify.com/track/2DaJnL4Ft02CKChufZ0Zlt) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Unmei♪wa♪Endless! \(Standard Edition\)](https://open.spotify.com/album/4eBODZZwujpwz63E3L1D5W) | 4:10 | 2025-05-30 | 2026-11-09 |
 | [Kirakira Days](https://open.spotify.com/track/3FbAbMs3dRcRnNuu73jqhN) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Utauyo!! Miracle \(From "K\-On!!\)](https://open.spotify.com/album/40G9iBvRwyHRUQUBdLpjoA) | 3:40 | 2025-05-30 | 2026-11-14 |
 | [Kirakira Days](https://open.spotify.com/track/3jllASDq4mXisdrQsLdVo3) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Utauyo!! Miracle \(From "K\-ON!!\) \[Standard Edition\]](https://open.spotify.com/album/1OqjoBtQ5Zm0lMkMoOrMAT) | 3:40 | 2026-11-14 |  |
@@ -48,7 +49,7 @@
 | [U&I](https://open.spotify.com/track/5A0d3GnBCF8x4WJgvJhhgO) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:35 | 2025-05-30 |  |
 | [Unmei♪wa♪Endless!](https://open.spotify.com/track/0LoGJrS5kTRw9w1lQUiVPz) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Unmei♪wa♪Endless!\(通常盤\)](https://open.spotify.com/album/6Pfm579mk6dFBnhzLq64xd) | 3:52 | 2025-05-30 |  |
 | [Utauyo!!MIRACLE](https://open.spotify.com/track/2JmZ0T4edkqdthYVlDuGxg) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Utauyo!!MIRACLE](https://open.spotify.com/album/67IFBceF1jRdBYhNLPhUng) | 4:02 | 2025-05-30 |  |
-| [いちばんいっぱい](https://open.spotify.com/track/6Ffx9tsy2pT4RsCmKhrKYN) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Unmei♪wa♪Endless!\(通常盤\)](https://open.spotify.com/album/6Pfm579mk6dFBnhzLq64xd) | 4:10 | 2026-11-09 |  |
+| [いちばんいっぱい](https://open.spotify.com/track/6Ffx9tsy2pT4RsCmKhrKYN) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Unmei♪wa♪Endless!\(通常盤\)](https://open.spotify.com/album/6Pfm579mk6dFBnhzLq64xd) | 4:10 | 2026-11-09 | 2026-11-20 |
 | [おはよう、またあした](https://open.spotify.com/track/7muCHjqFypRcRiZhtZziV3) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Singing!\(通常盤\)](https://open.spotify.com/album/7vKfQj5ruSo8YXWx3Lhu8F) | 4:55 | 2026-11-14 | 2026-11-15 |
 | [ごはんはおかず\(映画「けいおん!」Mix\)](https://open.spotify.com/track/7I09aPsWkBK4ncYG33iR4D) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム in MOVIE](https://open.spotify.com/album/695pi7Np9dqibVEKaM9HOM) | 3:55 | 2025-05-30 |  |
 | [ぴゅあぴゅあはーと \(Instrumental\)](https://open.spotify.com/track/6zrbFzkDaOecue1ESzFm9R) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [ぴゅあぴゅあはーと](https://open.spotify.com/album/2LzFCGMIey8z63tAahxbhO) | 4:34 | 2025-05-30 | 2025-10-16 |

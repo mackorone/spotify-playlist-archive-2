@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-3,284 songs - 7 day 4 hr 36 min
+3,288 songs - 7 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1047,6 +1047,7 @@
 | [Generations](https://open.spotify.com/track/00a5E2sYetpRBryvkmGb8U) | [Almost Alive](https://open.spotify.com/artist/20nwmuhP0VHSPkdpvnuJ87) | [Undercurrent](https://open.spotify.com/album/7F1YbJbJY5jDf6yzuUhCRt) | 3:43 | 2026-06-23 | 2026-07-25 |
 | [Geometric Violence](https://open.spotify.com/track/1jUlyWh4zMMacD3buM6NhE) | [REZQ](https://open.spotify.com/artist/30joQL2OVrl8QCJEobpCw8) | [Sentient Artifacts](https://open.spotify.com/album/2ZHT1l6Sizv0Wa1mEGtSIC) | 2:33 | 2026-01-20 | 2026-02-24 |
 | [George III](https://open.spotify.com/track/5JOqeG8Qzp4WFEdeQpL1Pp) | [James Witham](https://open.spotify.com/artist/605ybKUppkju7z2MwMO5TW) | [George III](https://open.spotify.com/album/1arpkoi2EBEkU8vBKxa5G6) | 3:59 | 2026-06-19 | 2026-07-20 |
+| [Get Back Up](https://open.spotify.com/track/0GFDkQVmvmgFQnTAooIOLP) | [LeRoy Stoltzfus](https://open.spotify.com/artist/5Q7K5GJiNLRz7L056UpwYf) | [Get Back Up](https://open.spotify.com/album/1aR00e35yfsIZ3DIQDIWbv) | 2:33 | 2026-11-19 |  |
 | [get u down](https://open.spotify.com/track/74r3nHL2SY8um7fPseDRar) | [iammilan](https://open.spotify.com/artist/1yAtIbYS3PqfhdSmpXhpEr), [Fred Skitty](https://open.spotify.com/artist/5icgurqndlJVHs13yf2zIG) | [get u down](https://open.spotify.com/album/5tMajROkhZ7LmzN20YJHmS) | 3:12 | 2025-11-02 | 2025-12-07 |
 | [Get U Off \(My Mind\)](https://open.spotify.com/track/5an45YlzEsBOoVipPDBnnS) | [Souvenir](https://open.spotify.com/artist/0WTsZJ9LfDdLYo04IlkBsv) | [Get U Off \(My Mind\)](https://open.spotify.com/album/5pKzsbASGPV7x19IbbFOVZ) | 3:17 | 2026-10-16 |  |
 | [Get up on Your Feet](https://open.spotify.com/track/4VLGjzt1wVmO9EUGzEODcC) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Get up on Your Feet](https://open.spotify.com/album/6Ns9h4hxtV23HcBtga3uFP) | 2:52 | 2026-11-16 |  |
@@ -1829,6 +1830,7 @@
 | [Missing U](https://open.spotify.com/track/3skMraeZiks0k1CNG7Q6kN) | [Moto Tembo](https://open.spotify.com/artist/5gRz5fsWyQHteEN8kFi6eC) | [Missing U](https://open.spotify.com/album/4nZrO2GtMDTzyVqdua95nD) | 4:48 | 2025-11-20 | 2025-12-21 |
 | [Missing You](https://open.spotify.com/track/68HFPgvK8PV2n3SEF2O2Nn) | [JOLAND](https://open.spotify.com/artist/4P31qgsqNpBw31JzfhMOnF) | [Missing You](https://open.spotify.com/album/6uNN9c1OFejLRFBbScrU8u) | 2:17 | 2025-11-21 | 2025-12-23 |
 | [Missing You](https://open.spotify.com/track/4QlbPBnTPhyZDi0vlDGIuN) | [Who's Molly?](https://open.spotify.com/artist/5cdF3kdHKfTkPS9t9778wp) | [Missing You](https://open.spotify.com/album/2N5M8052YhgdZtrO3vUuny) | 2:56 | 2026-10-06 | 2026-11-08 |
+| [MIXED SIGNALS](https://open.spotify.com/track/4MFOJbMWY7MEvs0JyEtwFH) | [glitzykiss](https://open.spotify.com/artist/3w3Y9oBut9JJnnIJ1r7sjL) | [MIXED SIGNALS](https://open.spotify.com/album/3xF524o5GhIG0TX7xlPy7e) | 1:03 | 2026-11-19 |  |
 | [Moments](https://open.spotify.com/track/2LslhpxPisBrXpnrlv6Hsx) | [Max Brent](https://open.spotify.com/artist/28HcPK3qm9fkG1ub39P2fG) | [Moments](https://open.spotify.com/album/5aHmLGvujOU79bvFez2FCe) | 4:03 | 2026-09-07 | 2026-10-11 |
 | [Monster](https://open.spotify.com/track/5qaDhl2WI8PZ4E8uRavh4o) | [Sam Edwards](https://open.spotify.com/artist/3SWbBPEKFKWXhms9t1S6VZ) | [Monster](https://open.spotify.com/album/0vW0OgHfbaXl2tJTSE7S65) | 2:51 | 2025-10-24 | 2025-11-26 |
 | [Monsters](https://open.spotify.com/track/2gk5jND6WrtdLEfaYonmYx) | [Frida and The Mann](https://open.spotify.com/artist/5rhfONpeaUub9YJlqnCpgN) | [Monsters](https://open.spotify.com/album/39pG2bKnMefz5m1PUSuF9G) | 3:19 | 2026-02-02 | 2026-03-06 |
@@ -2623,6 +2625,7 @@
 | [Summer Heat \(Tropical Mix\)](https://open.spotify.com/track/25qYt2k14eZkeWACgbEaT7) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Seasons of the Heart](https://open.spotify.com/album/5odgStwg57XKUhSFhiJtxS) | 3:23 | 2026-10-07 | 2026-11-08 |
 | [Summer Love](https://open.spotify.com/track/1fJV5Nh5U34PLpNtJEiPro) | [Harmonic Molecules](https://open.spotify.com/artist/4mIy6xV2sBGlHWKWpHJ07I) | [Summer Love](https://open.spotify.com/album/2NjPQdbsiPFL8SHVE6G6VM) | 2:29 | 2026-04-10 | 2026-05-12 |
 | [Summer never Ends](https://open.spotify.com/track/5FExWIyCbTNMQH20wxCfgG) | [Luma Rica](https://open.spotify.com/artist/1KBJX2NaEvwvrwGHrEe7Zg) | [Summer never Ends](https://open.spotify.com/album/4udzIKDxe95iYkyIsYlinU) | 3:04 | 2026-08-14 | 2026-09-15 |
+| [Summer night](https://open.spotify.com/track/3LWnEWuPQFMXbHlMZRE2PJ) | [Røseland](https://open.spotify.com/artist/7z3OOIintlXfIHZg410343), [Filénè](https://open.spotify.com/artist/3NrgYFGqTFzEQIalil2xtk) | [Summer night](https://open.spotify.com/album/7wNVNT0qFah27s2Wt28Yyq) | 2:25 | 2026-11-19 |  |
 | [SUMMR](https://open.spotify.com/track/1530Jw4HeV0lbmCzJdwhDt) | [THE WILL](https://open.spotify.com/artist/7etmXBxkOJrs3IrSYc4y7r) | [SUMMR](https://open.spotify.com/album/1st0mbHQLv9Ag1jPTTRj48) | 3:19 | 2026-08-28 | 2026-09-29 |
 | [Sun and the Silver Moon](https://open.spotify.com/track/6d0vpvZL2xxvdqCmOz7kvU) | [Cam Pierce](https://open.spotify.com/artist/6YLHrUVXpMquZetlXebWWR) | [Sun and the Silver Moon](https://open.spotify.com/album/00zHOvVcT219EEcIGA43Kv) | 3:26 | 2025-11-29 | 2025-12-31 |
 | [Sun Goes Down](https://open.spotify.com/track/4zzX2oAPZ038kIB7Baxe9h) | [IDLE COAST](https://open.spotify.com/artist/0G71MmiKVuY8TuZIaZp5uz) | [Sun Goes Down](https://open.spotify.com/album/1FuzmGxdVKLzulWJLwcE1S) | 3:18 | 2026-10-09 | 2026-11-10 |
@@ -2933,6 +2936,7 @@
 | [Try](https://open.spotify.com/track/5cYA17uhwfFZhW32gPYhMm) | [Salasnich](https://open.spotify.com/artist/3AGYevFLXCIrY67MwyAjW2), [NICH \(T\)](https://open.spotify.com/artist/0ba1U7Kn9lLmGN3kR7aCKi) | [Rugiada EP](https://open.spotify.com/album/0PbKBUySxq2hXJTDUnZgZB) | 3:09 | 2025-12-03 | 2026-01-04 |
 | [Try Again](https://open.spotify.com/track/7zZH4I44iimTISzvkvZHmQ) | [CR0WN](https://open.spotify.com/artist/4t4Eu8jCaR3osTxu4hIGjV) | [Try Again](https://open.spotify.com/album/2qZpY5vs73qZj1HkHfU6kf) | 3:28 | 2026-05-11 | 2026-06-12 |
 | [Tug Of War](https://open.spotify.com/track/5izCZPLNC6AdNC9WvPTzEY) | [New Key](https://open.spotify.com/artist/76zQOCJIBpYDvKZwZFGAs7) | [See the Light](https://open.spotify.com/album/6X6qw20FGcjAWkDvMN2Rgq) | 3:16 | 2026-01-10 | 2026-02-11 |
+| [Tumhari Yaad](https://open.spotify.com/track/35I9j85Fjb8lnPwnru7Ida) | [iCreateMusic](https://open.spotify.com/artist/06mjRSd7RV9Trqf2JxlCIF) | [Tumhari Yaad](https://open.spotify.com/album/2OSDjyXWrrzcWq4mtbjFF6) | 2:57 | 2026-11-19 |  |
 | [TURN IT AROUND](https://open.spotify.com/track/29qtiRFATpIAnKUddcfDxO) | [ZAYN REX](https://open.spotify.com/artist/6XYUi1Vy6fTFtpbFPMJ5ud) | [TURN IT AROUND](https://open.spotify.com/album/0kzGum3YLzms4rA7adu5nZ) | 2:22 | 2026-09-04 | 2026-10-07 |
 | [Turn the Heat Up](https://open.spotify.com/track/0Tnr7ldW9IbCL1wARczRly) | [DJ Dr Vitos](https://open.spotify.com/artist/5xUsRxsaQPOceB727DkzU4) | [Power Pulse \(Cardio Zumba with Dr Vitos\)](https://open.spotify.com/album/1WGQJoHLbR7gUQMKmqjIMK) | 2:01 | 2026-07-20 | 2026-08-25 |
 | [Turn the music up](https://open.spotify.com/track/2jCtHdFD8rKdG3vKhxa0Rm) | [Fiat DeluXXe](https://open.spotify.com/artist/38M0dEg9LFd78ATuRgF0cw) | [Turn the music up](https://open.spotify.com/album/0GbM5AHwvh4i7j0ZFkv71q) | 3:07 | 2026-10-19 |  |

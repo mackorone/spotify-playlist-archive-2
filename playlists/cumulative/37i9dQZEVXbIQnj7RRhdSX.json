@@ -11362,7 +11362,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188000,
       "name": "CASINI",
       "url": "https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd"
@@ -18110,7 +18110,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178993,
       "name": "DISOBBEDIRE! (feat. 18K)",
       "url": "https://open.spotify.com/track/7gOPPSiPMAzVV395MZMicg"
@@ -22627,6 +22627,40 @@
     },
     {
       "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -23286,7 +23320,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184444,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/643MFa7QJyJw8muzkfnZOP"
@@ -24672,7 +24706,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 168342,
       "name": "Giovani Re",
       "url": "https://open.spotify.com/track/7aNsNTpMq7D4fffUiYKXNR"
@@ -24974,6 +25008,24 @@
       "duration_ms": 92130,
       "name": "Gli Anni",
       "url": "https://open.spotify.com/track/61x2LTkdo6FUoOdtmYTHjX"
+    },
+    {
+      "album": {
+        "name": "Gli anni (Remix)",
+        "url": "https://open.spotify.com/album/7DtAAXgCPrS5aBz7k2Rvqt"
+      },
+      "artists": [
+        {
+          "name": "883",
+          "url": "https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274173,
+      "name": "Gli anni (96)",
+      "url": "https://open.spotify.com/track/1jCsyZouqhSvnIeSTbvZL2"
     },
     {
       "album": {
@@ -29778,7 +29830,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 217213,
       "name": "Islanda",
       "url": "https://open.spotify.com/track/0JiJbbKU6RTYJXMBI34UzM"
@@ -48502,7 +48554,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214934,
       "name": "PER TE",
       "url": "https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU"
@@ -50100,7 +50152,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Pookie (feat. Capo Plaza) - Remix",
       "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
@@ -50122,7 +50174,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188400,
       "name": "Pookie (feat. Capo Plaza) - Remix",
       "url": "https://open.spotify.com/track/6h5nbfvIJHRNH3oGrNWJwn"
@@ -57314,7 +57366,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "SOGNO AMERICANO",
       "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"
@@ -62690,7 +62742,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217593,
       "name": "Tristano e Isotta",
       "url": "https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt"

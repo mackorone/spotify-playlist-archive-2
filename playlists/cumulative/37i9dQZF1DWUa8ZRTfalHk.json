@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Who's now and next in pop. Cover: Jamie Miller",
+  "description": "Who's now and next in pop. Cover: Remi Wolf",
   "name": "Pop Rising",
   "tracks": [
     {
@@ -6805,6 +6805,28 @@
     },
     {
       "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "album": {
         "name": "Bloodline (with Jelly Roll)",
         "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
       },
@@ -6838,7 +6860,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG"
@@ -11362,7 +11384,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175304,
       "name": "Crawling Back To You",
       "url": "https://open.spotify.com/track/2E55dUwvxdSkrqhgLgL6SC"
@@ -17480,7 +17502,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 199166,
       "name": "FALLEN ANGEL",
       "url": "https://open.spotify.com/track/75QkBCdRc5DGgcyPiVSg4b"
@@ -17742,6 +17764,28 @@
       "duration_ms": 170653,
       "name": "Fast (Motion)",
       "url": "https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m"
+    },
+    {
+      "album": {
+        "name": "Fast Emotion (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6NL0OEV68wSPHAxQiGsuO5"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173952,
+      "name": "Fast Emotion (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/5ywRLhRi5JhoOoRurIyk5f"
     },
     {
       "album": {
@@ -20400,7 +20444,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 170383,
       "name": "Glown Up",
       "url": "https://open.spotify.com/track/6sWfrBBy9OtTyradfCy1Cp"
@@ -20510,6 +20554,28 @@
       "duration_ms": 227234,
       "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
       "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
+    },
+    {
+      "album": {
+        "name": "Go Easy (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192301,
+      "name": "Go Easy (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
     },
     {
       "album": {
@@ -26742,6 +26808,24 @@
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "album": {
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
       "album": {
@@ -33001,6 +33085,24 @@
     },
     {
       "album": {
+        "name": "Daughter from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175970,
+      "name": "Lost in It",
+      "url": "https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt"
+    },
+    {
+      "album": {
         "name": "Give Or Take",
         "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
@@ -35808,7 +35910,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 120340,
       "name": "Minibar",
       "url": "https://open.spotify.com/track/4bDlONk2X1TMBHKaf8tjCn"
@@ -39528,7 +39630,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190213,
       "name": "Notting Hill",
       "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
@@ -42885,6 +42987,28 @@
     },
     {
       "album": {
+        "name": "Power Trip (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/56em9EU6nYZAnEkmKda2xc"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196739,
+      "name": "Power Trip (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/1cyE4XiRueT0ANCp3CuJOK"
+    },
+    {
+      "album": {
         "name": "BLAME IT ON BABY (DELUXE)",
         "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
       },
@@ -43374,7 +43498,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192100,
       "name": "Promise?",
       "url": "https://open.spotify.com/track/1A1rVBUWzL4wOM6gSR30lg"
@@ -48784,7 +48908,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 212633,
       "name": "Someone to Hold (from the Netflix Film \"Steps\")",
       "url": "https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz"
@@ -61486,6 +61610,24 @@
       "duration_ms": 179086,
       "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
+    },
+    {
+      "album": {
+        "name": "young & dumb",
+        "url": "https://open.spotify.com/album/4NYe4gTTihWZ0jBTKJkg37"
+      },
+      "artists": [
+        {
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170212,
+      "name": "young & dumb",
+      "url": "https://open.spotify.com/track/3LAsfRkeWzKUmVQT1wElPr"
     },
     {
       "album": {

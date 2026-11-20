@@ -1,13 +1,29 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98981,
+  "num_followers": 98982,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABAGcXobkvYb4eFhopGsTtF",
+  "snapshot_id": "avzqgAAAAAA9LLkI1QOYLQar95hokvxi",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Navidad",
+        "url": "https://open.spotify.com/album/0ZGPG2KPQR7lFWIl4TSLrA"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 202864,
+      "name": "Es Navidad",
+      "url": "https://open.spotify.com/track/13xDTd1nvrPpDFgVcg1bgO"
+    },
     {
       "added_at": null,
       "album": {
@@ -607,26 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
+        "name": "Venci\u00f3",
+        "url": "https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw"
       },
       "artists": [
         {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        },
-        {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         }
       ],
-      "duration_ms": 265381,
-      "name": "Sublime Gracia",
-      "url": "https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO"
+      "duration_ms": 248893,
+      "name": "Al que es Digno",
+      "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
     },
     {
       "added_at": null,
@@ -651,34 +659,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volver\u00e1 (En Vivo)",
-        "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 329377,
-      "name": "\u00bfA qui\u00e9n ir\u00e9?",
-      "url": "https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Venci\u00f3",
-        "url": "https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw"
-      },
-      "artists": [
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         }
       ],
-      "duration_ms": 248893,
-      "name": "Al que es Digno",
-      "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
+      "duration_ms": 265381,
+      "name": "Sublime Gracia",
+      "url": "https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Volver\u00e1 (En Vivo)",
+        "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 329377,
+      "name": "\u00bfA qui\u00e9n ir\u00e9?",
+      "url": "https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 234000,
       "name": "Tu Mirada / Hermoso Eres",
       "url": "https://open.spotify.com/track/6Eual2Gt7vi9H0WcXdCLfA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 227291,
-      "name": "Ll\u00e9name Se\u00f1or",
-      "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
       "duration_ms": 284383,
       "name": "Cuan Grande Es el",
       "url": "https://open.spotify.com/track/41TDqLRP26inAFhyC1AIva"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 227291,
+      "name": "Ll\u00e9name Se\u00f1or",
+      "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
     },
     {
       "added_at": null,
@@ -939,22 +955,6 @@
       "duration_ms": 118244,
       "name": "Hoy es tiempo",
       "url": "https://open.spotify.com/track/2v5eRrE5BRncsLxChJMUyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
     }
   ],
   "unique_name": "This Is Marcos Witt",

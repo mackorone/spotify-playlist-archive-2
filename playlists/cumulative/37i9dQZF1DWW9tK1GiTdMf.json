@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 143491,
       "name": "AMO LA MIA GOTIKA",
       "url": "https://open.spotify.com/track/6Jtvt6jyrWIRKWEHFQ5xgm"
@@ -9646,7 +9646,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178941,
       "name": "DOTTORE (feat. Nitro)",
       "url": "https://open.spotify.com/track/7dNtRfuEySZ3l4riCC1Z88"
@@ -11724,7 +11724,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192000,
       "name": "FIORI",
       "url": "https://open.spotify.com/track/1p4WK2UpEiyqzUINqFZeKE"
@@ -13551,6 +13551,24 @@
     },
     {
       "album": {
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/5hubvbgPlz20j4sOSJDLlf"
+      },
+      "artists": [
+        {
+          "name": "Camilla PNK",
+          "url": "https://open.spotify.com/artist/27Uqdev5esWGfrnqmUuPdd"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/0FGuBvIqcYBLFMVhQdOMQK"
+    },
+    {
+      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1aVsfI84q3OHuC0gpcFTij"
       },
@@ -15013,6 +15031,24 @@
     },
     {
       "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/1LE5roin33obaW2KzeBtvT"
+      },
+      "artists": [
+        {
+          "name": "opi",
+          "url": "https://open.spotify.com/artist/2dApd5nlMJKpHGNUqWT1L2"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Il mio lato peggiore",
+      "url": "https://open.spotify.com/track/3I4kyMwFw9XeipoJtyX7iN"
+    },
+    {
+      "album": {
         "name": "DEEP SURFACE",
         "url": "https://open.spotify.com/album/7xnNJwdhRx7tatK0eFvHZs"
       },
@@ -15600,7 +15636,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155511,
       "name": "Invisibile",
       "url": "https://open.spotify.com/track/5G5CZZuZzHTJEYgTwdk63E"
@@ -15712,7 +15748,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216428,
       "name": "Io non sento niente",
       "url": "https://open.spotify.com/track/5Iust9wFkcYrCJuFagdFpn"
@@ -19495,6 +19531,24 @@
     },
     {
       "album": {
+        "name": "microplastiche",
+        "url": "https://open.spotify.com/album/21QhUDplOZGl80HYMKtliA"
+      },
+      "artists": [
+        {
+          "name": "Holy Francisco",
+          "url": "https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120774,
+      "name": "microplastiche",
+      "url": "https://open.spotify.com/track/51yeFlHZP0S5KQeOWrsWKk"
+    },
+    {
+      "album": {
         "name": "Milano",
         "url": "https://open.spotify.com/album/4aUkFfFxRJxakxSsvuWtdO"
       },
@@ -21850,7 +21904,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 187698,
       "name": "Non \u00e8 mica te",
       "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
@@ -27286,7 +27340,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159408,
       "name": "Scarabocchi",
       "url": "https://open.spotify.com/track/25j4hRn8HFOsRUaPUVbJk2"
@@ -29208,7 +29262,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184241,
       "name": "SOLO (con i mostri)",
       "url": "https://open.spotify.com/track/7EZHWTB0SzNqVPMdwW1WxA"

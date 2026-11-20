@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sayf nelle \ud83c\udfa7 di tutti, e in cover della playlist urban pi\u00f9 \ud83d\udd25  ",
+  "description": "Sfera nelle \ud83c\udfa7 di tutti, e in cover della playlist urban pi\u00f9 \ud83d\udd25  ",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200994,
+      "name": "800 cv",
+      "url": "https://open.spotify.com/track/5enru95abMUdvoZGqaWqjL"
+    },
+    {
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb"
       },
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 123814,
       "name": "A MEZZ'ORA DA MILANO (con Khodi)",
       "url": "https://open.spotify.com/track/1NpOO6wCxCQ89V24scIeXj"
@@ -1888,6 +1906,28 @@
       "duration_ms": 122627,
       "name": "ANCELOTTI",
       "url": "https://open.spotify.com/track/4UFP9J6zLvb6rnkXByjYtH"
+    },
+    {
+      "album": {
+        "name": "Anche se",
+        "url": "https://open.spotify.com/album/3kGnn31uihfpfDT8hcFHfs"
+      },
+      "artists": [
+        {
+          "name": "SaintPaul",
+          "url": "https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT"
+        },
+        {
+          "name": "VTR",
+          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184888,
+      "name": "Anche se",
+      "url": "https://open.spotify.com/track/6fvFnpCAxqt0Jp9QFAH08S"
     },
     {
       "album": {
@@ -2836,6 +2876,24 @@
       "duration_ms": 177934,
       "name": "Babyface",
       "url": "https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3"
+    },
+    {
+      "album": {
+        "name": "La Locandiera",
+        "url": "https://open.spotify.com/album/3anOgOQwYREg6cFqQ5lm7f"
+      },
+      "artists": [
+        {
+          "name": "IDRA Rxx",
+          "url": "https://open.spotify.com/artist/21FDbAp2h7kwmaQ8yr4D1s"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158267,
+      "name": "BABYMILANO",
+      "url": "https://open.spotify.com/track/0iwsAo3Ftd7teFrP8Dv0K1"
     },
     {
       "album": {
@@ -5536,13 +5594,13 @@
       },
       "artists": [
         {
-          "name": "thasup",
+          "name": "tha Supreme",
           "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
         }
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 183762,
       "name": "ch1 5ei te",
       "url": "https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk"
@@ -6326,7 +6384,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 209962,
       "name": "COME SE NON FOSSI NEI GUAI",
       "url": "https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM"
@@ -10334,7 +10392,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168342,
       "name": "Giovani Re",
       "url": "https://open.spotify.com/track/1YxG9XcjtJgxTN6OenRh1V"
@@ -10748,7 +10806,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185253,
       "name": "Guerra 2",
       "url": "https://open.spotify.com/track/41Am9Wf5VPGbKZwzq0mxrT"
@@ -13404,7 +13462,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174891,
       "name": "LEGGENDA",
       "url": "https://open.spotify.com/track/5E67xter2YEAFW0PHzoarV"
@@ -15729,6 +15787,24 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS"
+    },
+    {
+      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/2m342Y3hqZ6UiF8jH57rnM"
       },
@@ -17492,7 +17568,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 197200,
       "name": "OCCHI STANCHI (feat. LILCR)",
       "url": "https://open.spotify.com/track/1QmNjkllOVaXulGT8DXGyr"
@@ -20870,6 +20946,28 @@
       "duration_ms": 159465,
       "name": "RASOI",
       "url": "https://open.spotify.com/track/3zXE6GFKQeXt5DG1BYncDw"
+    },
+    {
+      "album": {
+        "name": "IT'S ENNY P",
+        "url": "https://open.spotify.com/album/1SZrdYIsQmzUzLYn1carhd"
+      },
+      "artists": [
+        {
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Ratchet O'Clock (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/1AIcBmq48VdyRlt4xi3Q9y"
     },
     {
       "album": {
@@ -25438,7 +25536,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 286528,
       "name": "Una bara per due",
       "url": "https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW"
@@ -26114,6 +26212,24 @@
       "duration_ms": 194222,
       "name": "victoria's secret (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/5V23eJS0UViOQ3vZcACHsv"
+    },
+    {
+      "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4"
     },
     {
       "album": {

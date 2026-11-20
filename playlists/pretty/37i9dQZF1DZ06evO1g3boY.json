@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 175392,
+  "num_followers": 175396,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAACcCWgXJgJACbOvj8BqKoQs",
+  "snapshot_id": "avzqgAAAAAAGtZPQ4Yo/6QNd68ukMGVZ",
   "tracks": [
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
-      "url": "https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
         "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 126672,
       "name": "Mesmas Cores & Mesmos Valores",
       "url": "https://open.spotify.com/track/6r9YsN2G3BjljAKop4ZriS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
+      "url": "https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
-        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 120410,
-      "name": "A coisa mais esperan\u00e7osa e mais dilacerante s\u00e3o a mesma",
-      "url": "https://open.spotify.com/track/5WuVX5GiUShm29LMxzRE2j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Contribui\u00e7\u00e3o Milion\u00e1ria de Todos os Erros",
         "url": "https://open.spotify.com/album/0L2OUS0v0XhkWCh3ee0WRg"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 224571,
       "name": "7 mil caminhos",
       "url": "https://open.spotify.com/track/6NgzBc8hIelJKYB5KIfItr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
+        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 120410,
+      "name": "A coisa mais esperan\u00e7osa e mais dilacerante s\u00e3o a mesma",
+      "url": "https://open.spotify.com/track/5WuVX5GiUShm29LMxzRE2j"
     },
     {
       "added_at": null,
@@ -1047,6 +1047,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trevo, Figuinha e Suor na Camisa",
+        "url": "https://open.spotify.com/album/2642lz4wM8Li5L6eXiuZv8"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Trevo, Figuinha e Suor na Camisa",
+      "url": "https://open.spotify.com/track/5884mCtM3DdbiNIeJzxsQ8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
         "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
       },
@@ -1063,34 +1083,6 @@
       "duration_ms": 162350,
       "name": "Finado Neguim memo?",
       "url": "https://open.spotify.com/track/7JyTfeqT0jXjRMmuPh09vZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RPB/Para Tio",
-        "url": "https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "LR Beats",
-          "url": "https://open.spotify.com/artist/76QB68tHPxjNOhncwYE0J7"
-        },
-        {
-          "name": "Damien Seth",
-          "url": "https://open.spotify.com/artist/2CvIpYTTcWpSSINyjUNLvM"
-        },
-        {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Para Tio",
-      "url": "https://open.spotify.com/track/6MQ6LsPGDdCuQyTjPG0RcS"
     },
     {
       "added_at": null,
@@ -1119,8 +1111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trevo, Figuinha e Suor na Camisa",
-        "url": "https://open.spotify.com/album/2642lz4wM8Li5L6eXiuZv8"
+        "name": "RPB/Para Tio",
+        "url": "https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw"
       },
       "artists": [
         {
@@ -1128,13 +1120,21 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "LR Beats",
+          "url": "https://open.spotify.com/artist/76QB68tHPxjNOhncwYE0J7"
+        },
+        {
+          "name": "Damien Seth",
+          "url": "https://open.spotify.com/artist/2CvIpYTTcWpSSINyjUNLvM"
+        },
+        {
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
         }
       ],
-      "duration_ms": 170453,
-      "name": "Trevo, Figuinha e Suor na Camisa",
-      "url": "https://open.spotify.com/track/5884mCtM3DdbiNIeJzxsQ8"
+      "duration_ms": 226285,
+      "name": "Para Tio",
+      "url": "https://open.spotify.com/track/6MQ6LsPGDdCuQyTjPG0RcS"
     }
   ],
   "unique_name": "This Is Emicida",

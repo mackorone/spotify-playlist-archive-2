@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADKgWSOgtyDtGz4JIXzTAit",
+  "snapshot_id": "avzqgAAAAACNLt1F20/HMiGvvPEVGeXk",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno (Remixed)",
-        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
+        "name": "Disc 3",
+        "url": "https://open.spotify.com/album/6laYPSz0GiIiPcjX7KjCVt"
       },
       "artists": [
         {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         },
         {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 205475,
-      "name": "Phases - bad tuner Remix",
-      "url": "https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn"
+      "duration_ms": 236733,
+      "name": "The Boy - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/0WXqcuo8IUsuS8ILuFovpA"
     },
     {
       "added_at": null,
@@ -123,6 +123,26 @@
       "duration_ms": 199205,
       "name": "On Sum",
       "url": "https://open.spotify.com/track/5dRenHlQbhdfjNQxtJuzge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno (Remixed)",
+        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "duration_ms": 205475,
+      "name": "Phases - bad tuner Remix",
+      "url": "https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn"
     },
     {
       "added_at": null,
@@ -187,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desiderium",
-        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 260617,
-      "name": "Steal My Attention",
-      "url": "https://open.spotify.com/track/0tbrfWifXRO0HVwfjUBYvF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eternal Reverie",
         "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
@@ -215,6 +219,22 @@
       "duration_ms": 274838,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/76jIZHzRboYpVSqbVCYf5c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 260617,
+      "name": "Steal My Attention",
+      "url": "https://open.spotify.com/track/0tbrfWifXRO0HVwfjUBYvF"
     },
     {
       "added_at": null,
@@ -395,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boy (TOKiMONSTA Remix)",
-        "url": "https://open.spotify.com/album/5aSqni49YrVFjkq9leIfux"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "The Boy - TOKiMONSTA Remix",
-      "url": "https://open.spotify.com/track/38A81IdOrrnEloxySASkUr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Coraz\u00f3n / Death by Disco, Pt. 2",
+      "url": "https://open.spotify.com/track/2rfFzqB70eKclvzNxqxW3F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lune Rouge",
         "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 217537,
       "name": "Don't Call Me (feat. Yuna)",
       "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Coraz\u00f3n / Death by Disco, Pt. 2",
-      "url": "https://open.spotify.com/track/2rfFzqB70eKclvzNxqxW3F"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 266643,
-      "name": "I Wish I Could (feat. Selah Sue)",
-      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 241753,
       "name": "Little Pleasures",
       "url": "https://open.spotify.com/track/0rX9TS7ru452E29D7uekAY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 266643,
+      "name": "I Wish I Could (feat. Selah Sue)",
+      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Art Sound II",
-        "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 153297,
-      "name": "Strange Froot",
-      "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Half Shadows",
         "url": "https://open.spotify.com/album/1jvY3JDZfN7n1mEJqkkApU"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 263586,
       "name": "Go With It (feat. MNDR)",
       "url": "https://open.spotify.com/track/1PxeVXU16vI9Mf09ntfaPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Young Art Sound II",
+        "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 153297,
+      "name": "Strange Froot",
+      "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "Lovely Soul",
-      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno (Remixed)",
         "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
@@ -715,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Every Woman (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
-        "url": "https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3"
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
       "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 219348,
-      "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
-      "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
+      "duration_ms": 220032,
+      "name": "Lovely Soul",
+      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
     },
     {
       "added_at": null,
@@ -759,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Every Woman (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
+        "url": "https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 219348,
+      "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
+      "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Floating (feat. Candy Crush Saga)",
         "url": "https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 173096,
       "name": "Floating - feat. Candy Crush Saga",
       "url": "https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 202965,
+      "name": "Bibimbap",
+      "url": "https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV"
     },
     {
       "added_at": null,
@@ -791,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
       "artists": [
         {
@@ -800,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 202965,
-      "name": "Bibimbap",
-      "url": "https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV"
+      "duration_ms": 237357,
+      "name": "Death by Disco",
+      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
     },
     {
       "added_at": null,
@@ -827,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 237357,
-      "name": "Death by Disco",
-      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Chorus",
         "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
       },
@@ -855,6 +855,38 @@
       "duration_ms": 139426,
       "name": "Dream Chorus",
       "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/1jvY3JDZfN7n1mEJqkkApU"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Soul to Seoul",
+      "url": "https://open.spotify.com/track/2ky2TxpMH6PSoQmwGxeK2N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 216726,
+      "name": "Sweet Day",
+      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
     },
     {
       "added_at": null,
@@ -887,38 +919,6 @@
       "duration_ms": 196799,
       "name": "Sakamoto's Spring",
       "url": "https://open.spotify.com/track/38Rny0AdKS82PbV6lNHQAr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 216726,
-      "name": "Sweet Day",
-      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Half Shadows",
-        "url": "https://open.spotify.com/album/1jvY3JDZfN7n1mEJqkkApU"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Soul to Seoul",
-      "url": "https://open.spotify.com/track/2ky2TxpMH6PSoQmwGxeK2N"
     },
     {
       "added_at": null,

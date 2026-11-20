@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 246987,
       "name": "El Liston de Tu Pelo",
       "url": "https://open.spotify.com/track/0URKAkRgFg97sZj6lOG2Zr"
@@ -4787,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "Me Odia, Me Ama",
+        "url": "https://open.spotify.com/album/0QM950ogwidurlT6tbCuFk"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156404,
+      "name": "Me Odia, Me Ama",
+      "url": "https://open.spotify.com/track/2BwOoVnf7GYeYFcTNks4mS"
+    },
+    {
+      "album": {
         "name": "Me Vas a Extra\u00f1ar (En Vivo)",
         "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
       },
@@ -5082,6 +5100,28 @@
       "duration_ms": 237446,
       "name": "Minuto",
       "url": "https://open.spotify.com/track/4z2sR3WdQ8e1a6zHNFKSnw"
+    },
+    {
+      "album": {
+        "name": "Mix: Veneno Para Olvidar / Inolvidable",
+        "url": "https://open.spotify.com/album/594Ez5oEeoqAnaiddZvJ9a"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293873,
+      "name": "Mix: Veneno Para Olvidar / Inolvidable",
+      "url": "https://open.spotify.com/track/4Ueboj3J6kOQ5xOhpWf0kV"
     },
     {
       "album": {
@@ -5806,7 +5846,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 199120,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 
 > This is Angela Torres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,011 likes - 39 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,019 likes - 39 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 | 6 | [Las Leyes de La Vida](https://open.spotify.com/track/1E9mUWox7ZaSnfGS4P3fBp) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Mejor Que Ayer](https://open.spotify.com/album/4V8VrdZELSBwlvKaEr4jNC) | 3:19 |
 | 7 | [torpe](https://open.spotify.com/track/3zyaRbV2qnkJG8oIBv3P3I) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [torpe / 21 de agosto](https://open.spotify.com/album/123uMR7FtCe5TyLAVOz6AS) | 3:52 |
 | 8 | [VERTIGO](https://open.spotify.com/track/70BCmegyMAdPzFadlYGXfv) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:58 |
-| 9 | [La vida rosa](https://open.spotify.com/track/6S7CT8xrkOpDOXC4xjdhXt) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [La vida rosa](https://open.spotify.com/album/1QNNw4vdlcNW6oRBGVT9h0) | 3:48 |
-| 10 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 |
+| 9 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 |
+| 10 | [La vida rosa](https://open.spotify.com/track/6S7CT8xrkOpDOXC4xjdhXt) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [La vida rosa](https://open.spotify.com/album/1QNNw4vdlcNW6oRBGVT9h0) | 3:48 |
 | 11 | [FRIKI](https://open.spotify.com/track/53HqSdI5pWQAnFebegmzZO) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:32 |
 | 12 | [OMG](https://open.spotify.com/track/4KiFB9oEd9X0Qfz2Cpe1Cn) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [OMG](https://open.spotify.com/album/0YFyx7kctlxIc6EQcKUp2d) | 2:52 |
 | 13 | [FINGIA](https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FINGIA](https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0) | 2:20 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 | 38 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 |
 | 39 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:27 |
 
-Snapshot ID: `avpHgAAAAAAJAVegMzAaYb48SC9WCvoP`
+Snapshot ID: `avzqgAAAAABpY2/2H3nFioCuAv9VDZJO`

@@ -4,7 +4,7 @@
 
 > This is Bluey\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 4 min
+52 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Curry Quest](https://open.spotify.com/track/0Mv6OYvk9l6xzeDXRA428u) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 3:03 | 2026-03-30 |  |
 | [Dance Mode](https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 1:58 | 2025-07-20 |  |
 | [Escape](https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 2:42 | 2025-07-20 | 2026-08-29 |
+| [Fairytale](https://open.spotify.com/track/6qVApBG9MdQT7Z0sO8fPB9) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 2:56 | 2026-11-20 |  |
 | [Flat Pack](https://open.spotify.com/track/7q18RAxFkjWQZs5HhdlafS) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 3:38 | 2026-03-31 | 2026-11-14 |
 | [Fruit Bat](https://open.spotify.com/track/0LlgXONyO3DotVbK38T6oe) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Pluto Jonze](https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF) | [Bluey the Album \(Music from the Original TV Series\)](https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s) | 1:36 | 2025-11-18 | 2026-06-24 |
 | [Hotel](https://open.spotify.com/track/7dugKt6t0REqsPlRmkV0uv) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 1:19 | 2026-03-30 | 2026-09-10 |
@@ -45,7 +46,7 @@
 | [Relax](https://open.spotify.com/track/3LsLh22du7Mq5IAnXOec1r) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Daniel O’Brien](https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 2:22 | 2026-06-11 |  |
 | [Rug Island \- Full Version](https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island \(Full Version\)](https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc) | 4:04 | 2025-07-20 |  |
 | [Rug Island, Pt\. 1](https://open.spotify.com/track/3EAPxpZ0i4WOtQHvCGx3hX) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 1:28 | 2025-07-20 |  |
-| [Rug Island, Pt\. 2](https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 1:16 | 2025-07-20 |  |
+| [Rug Island, Pt\. 2](https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 1:16 | 2025-07-20 | 2026-11-20 |
 | [Rug Island, Pt\. 3](https://open.spotify.com/track/2kmZBAGzmvnw6vaizoZONh) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 1:38 | 2025-10-29 |  |
 | [Seesaw](https://open.spotify.com/track/4PqKOgIkMnvAJmlGZJWwdB) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 2:09 | 2026-03-29 | 2026-06-20 |
 | [Sleepytime](https://open.spotify.com/track/0h6M0zKFd1toRFAiLXKIre) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Up Here \(The Orchestral Album\)](https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq) | 5:01 | 2026-04-24 |  |

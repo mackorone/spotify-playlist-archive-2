@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=8592444554804216"> Khaligraph Jones</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/6w4t3pnu0u5aDfnkDzN4vA?si=21ca3d6a3b2d4ee9"> Calvo Mistari</a> and <a href="https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6?si=60a217ce15f949e3"> Naiboi</a>
 
-548 songs - 1 day 5 hr 19 min
+549 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Caliweed](https://open.spotify.com/track/36xONjijeZ6ye4ARFwQADT) | [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Caliweed](https://open.spotify.com/album/5ZkTRYiGpsEuBCZQoIT1hO) | 2:00 | 2023-04-13 | 2024-04-26 |
 | [Can't Explain](https://open.spotify.com/track/54JJgbC9WjqEEQukBlCJzh) | [Daney B](https://open.spotify.com/artist/6epD1176qeIbTNiB4Tx3dG) | [Can't Explain](https://open.spotify.com/album/3q3wWQdqqEycnfOowIkiej) | 2:48 | 2023-01-26 | 2023-08-26 |
 | [Can't Stop, Won't Stop](https://open.spotify.com/track/4XHwTlzlBacs3hHVMvlPGH) | [Clue Ashaivisha Track](https://open.spotify.com/artist/7uSiyol0SgxNKHJFzXFI2P), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [Can't Stop, Won't Stop](https://open.spotify.com/album/4eDBCnVb4QPOjy0JtQTwSR) | 1:40 | 2023-04-06 | 2024-01-12 |
-| [Case Mbaya](https://open.spotify.com/track/4P5cGSIGkw2m71SRbdPPkv) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Johnny Vigeti](https://open.spotify.com/artist/1OVwRfZjHk4l57JyQkSQ43) | [Case Mbaya](https://open.spotify.com/album/5mBNz6NR5btKi6sv3FFdpd) | 2:47 | 2026-03-12 |  |
+| [Case Mbaya](https://open.spotify.com/track/4P5cGSIGkw2m71SRbdPPkv) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Johnny Vigeti](https://open.spotify.com/artist/1OVwRfZjHk4l57JyQkSQ43) | [Case Mbaya](https://open.spotify.com/album/5mBNz6NR5btKi6sv3FFdpd) | 2:47 | 2026-03-12 | 2026-11-20 |
 | [CATALYST](https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:44 | 2022-05-19 | 2023-02-04 |
 | [Catalyst](https://open.spotify.com/track/0eYtxjlZfYQEsqCWzzptuO) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 2:47 | 2022-05-19 | 2022-12-09 |
 | [Catch 22](https://open.spotify.com/track/5eX5ijChtp6M9e5VZ6cZkR) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Catch 22](https://open.spotify.com/album/77bI1OU7pJRRdS828EgGVh) | 1:52 | 2025-12-18 | 2026-02-19 |
@@ -134,6 +134,7 @@
 | [Effects Of Hard Drugz](https://open.spotify.com/track/1oSFdllPihYn6EkKyj8ZDv) | [Bountty Blockah](https://open.spotify.com/artist/4eV7TwtZDTYI8wB5wyOPDN), [Mbogi Genje](https://open.spotify.com/artist/4vGP504C4n2tHcSPbXmbt3), [, Mableh](https://open.spotify.com/artist/2qUHKed63B8deg91gv48N5), [Aleba](https://open.spotify.com/artist/191CfyOXsX1ByHtKdG5gkT) | [Effects Of Hard Drugz](https://open.spotify.com/album/5mfg438TMWCpc7DX0x11oX) | 5:13 | 2025-07-25 | 2025-12-12 |
 | [Euphoria](https://open.spotify.com/track/1XNworIWOEdh27aI8mSpDp) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Euphoria](https://open.spotify.com/album/4LpF3xAqErYDmbiOiYSmFv) | 2:08 | 2025-10-09 | 2026-02-06 |
 | [Expensive Tears](https://open.spotify.com/track/6Z7waaGZ4vlQmQsKkj14ED) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [LilSccrt](https://open.spotify.com/artist/48hL35FnwaSzrOwxeAXHhZ) | [MIXTAPE V1](https://open.spotify.com/album/2A4OTvqtkdJoiGXILlfw2m) | 3:25 | 2025-10-30 | 2026-03-06 |
+| [Eye2Eye](https://open.spotify.com/track/6qSlZB8CIYXRUIS9m0pjPY) | [Calvo Mistari](https://open.spotify.com/artist/6w4t3pnu0u5aDfnkDzN4vA), [NaiBoi](https://open.spotify.com/artist/7qFynwPcwananLHwR8BYkc), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7) | [Eye2Eye](https://open.spotify.com/album/5Dp4tuRu8Ry1Pr2e9zLGpj) | 5:02 | 2026-11-19 |  |
 | [F Tz Rappers 1](https://open.spotify.com/track/3mQcfTWi1Y19wLLgYnW5EU) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [F Tz Rappers 1](https://open.spotify.com/album/6iX9AgvygO9yt0WzQMBbUF) | 2:55 | 2023-09-07 | 2024-03-16 |
 | [Feelin' It](https://open.spotify.com/track/1KqtoMNOZbvsiB0K7ZWiHp) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Feelin' It](https://open.spotify.com/album/1tYGnwCO1uFu49hkYKK2nc) | 2:54 | 2022-06-16 | 2023-05-06 |
 | [fellate me](https://open.spotify.com/track/0IA8LoK2pGy8I5XdFgDDWy) | [BoiBlacc](https://open.spotify.com/artist/4tXuaGk0P2Z0K0urKXI7vy) | [fellate me](https://open.spotify.com/album/4BL1Q56hoifHMFb9IvAZkg) | 2:17 | 2026-09-24 |  |

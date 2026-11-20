@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137 likes - 298 songs - 16 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 137 likes - 299 songs - 17 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 53 | [See Me](https://open.spotify.com/track/2Tv7pZ9R4gJH0yW1VztyTB) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 4:32 |
 | 54 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
 | 55 | [How Far](https://open.spotify.com/track/1NLjz5EHlw7CP2hJIXuZbm) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:55 |
-| 56 | [For Violet](https://open.spotify.com/track/2T8OC0ciyqQWxvrHShD6iT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:32 |
-| 57 | [Satellite](https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 4:45 |
+| 56 | [Satellite](https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 4:45 |
+| 57 | [For Violet](https://open.spotify.com/track/2T8OC0ciyqQWxvrHShD6iT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:32 |
 | 58 | [BULLET MAN](https://open.spotify.com/track/31b2vyO3VXHwfGWZIr3JDw) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:58 |
 | 59 | [The Fool](https://open.spotify.com/track/5QFAetd8rpzNuHuTGK0Rde) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:09 |
 | 60 | [It's Alright](https://open.spotify.com/track/4iCZIqJRspJ2N3N9c6ZuLN) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:51 |
@@ -292,19 +292,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 282 | [You Messed up](https://open.spotify.com/track/71Fd6U35FeS9eZnPXZWz2c) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:25 |
 | 283 | [Jerks](https://open.spotify.com/track/2mRqulmiK3UKOMZcEHWX2v) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:10 |
 | 284 | [Turquoise Eyes](https://open.spotify.com/track/2dTZHlfHdzh7mWiZhSGVBh) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 5:49 |
-| 285 | [There You Go](https://open.spotify.com/track/0ZFiNVbt5LtEQLNmB4tow8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:51 |
-| 286 | [Drives Me Wild](https://open.spotify.com/track/4pzGUTJEWL4JjuJyZBZjCA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:24 |
-| 287 | [When I Come Back](https://open.spotify.com/track/0GCHW7uIaVh4WBUI2QIkSO) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:44 |
-| 288 | [Alright Baby](https://open.spotify.com/track/1c2KKxEs9EP8xudOpiVwZi) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:28 |
-| 289 | [Marshmallow Skies](https://open.spotify.com/track/3zhKMXmlvaqw7BNZbsIwEt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:10 |
-| 290 | [Stop at Nothing](https://open.spotify.com/track/5R3wv0N46GmsivDglesuHn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:30 |
-| 291 | [What'll I Do](https://open.spotify.com/track/0pnZEpLAkS86u7CM7I6GQS) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 1:12 |
-| 292 | [L35af](https://open.spotify.com/track/7uMHUtc2byarVewjq6bpYm) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:07 |
-| 293 | [Don't Let Go](https://open.spotify.com/track/42dNBoiZK9THVIE0XAykUI) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:50 |
-| 294 | [Untie](https://open.spotify.com/track/6kHf7BrUO1RfxfvJ53D6Zq) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:35 |
-| 295 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
-| 296 | [Laurente Rebeque](https://open.spotify.com/track/68SfDTp9yitF2D8qwLgmcv) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:57 |
-| 297 | [Shame](https://open.spotify.com/track/7CtHfnRGEwcbN0aGr8WIJn) | [Rén with the Mane](https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD) | [Shame](https://open.spotify.com/album/4q7m1vMzZ3vzjXUm13R6gf) | 4:23 |
-| 298 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
+| 285 | [Space Disco](https://open.spotify.com/track/2wjiN77n441LYFb3w8YS67) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Space Disco](https://open.spotify.com/album/1MaHrCK7vxVCCWJtScEDRz) | 2:44 |
+| 286 | [There You Go](https://open.spotify.com/track/0ZFiNVbt5LtEQLNmB4tow8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:51 |
+| 287 | [Drives Me Wild](https://open.spotify.com/track/4pzGUTJEWL4JjuJyZBZjCA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:24 |
+| 288 | [When I Come Back](https://open.spotify.com/track/0GCHW7uIaVh4WBUI2QIkSO) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:44 |
+| 289 | [Alright Baby](https://open.spotify.com/track/1c2KKxEs9EP8xudOpiVwZi) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:28 |
+| 290 | [Marshmallow Skies](https://open.spotify.com/track/3zhKMXmlvaqw7BNZbsIwEt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:10 |
+| 291 | [Stop at Nothing](https://open.spotify.com/track/5R3wv0N46GmsivDglesuHn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:30 |
+| 292 | [What'll I Do](https://open.spotify.com/track/0pnZEpLAkS86u7CM7I6GQS) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 1:12 |
+| 293 | [L35af](https://open.spotify.com/track/7uMHUtc2byarVewjq6bpYm) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:07 |
+| 294 | [Don't Let Go](https://open.spotify.com/track/42dNBoiZK9THVIE0XAykUI) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:50 |
+| 295 | [Untie](https://open.spotify.com/track/6kHf7BrUO1RfxfvJ53D6Zq) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:35 |
+| 296 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
+| 297 | [Laurente Rebeque](https://open.spotify.com/track/68SfDTp9yitF2D8qwLgmcv) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:57 |
+| 298 | [Shame](https://open.spotify.com/track/7CtHfnRGEwcbN0aGr8WIJn) | [Rén with the Mane](https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD) | [Shame](https://open.spotify.com/album/4q7m1vMzZ3vzjXUm13R6gf) | 4:23 |
+| 299 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AciCaAAAAAA3R4xLjnhHjhqedc5sHn3z`
+Snapshot ID: `AciIHAAAAAAFuaLtsntFL5oMHzn49DSW`

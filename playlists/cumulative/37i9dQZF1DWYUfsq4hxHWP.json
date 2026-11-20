@@ -5816,7 +5816,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169578,
       "name": "Better in the Dark",
       "url": "https://open.spotify.com/track/6tlhTL5NaRFAAKICBPyvK7"
@@ -7760,7 +7760,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 194759,
       "name": "Break It Fast",
       "url": "https://open.spotify.com/track/5abpE3rXcvuxS8bUByujXg"
@@ -9640,7 +9640,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175499,
       "name": "Came With a Warning",
       "url": "https://open.spotify.com/track/6bLtHS1H56BJU7TtUFtbt1"
@@ -10192,7 +10192,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 206313,
       "name": "Carolina Blue",
       "url": "https://open.spotify.com/track/5fnl4UANFeEyJellk7jbde"
@@ -11924,7 +11924,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 179033,
       "name": "Common Decency",
       "url": "https://open.spotify.com/track/56mUPWcrw6j12FwpwBhW6C"
@@ -16474,7 +16474,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174466,
       "name": "Drag It Back",
       "url": "https://open.spotify.com/track/2DV2xdUhjkaisgzSg0KEXO"
@@ -17198,6 +17198,24 @@
       "duration_ms": 176987,
       "name": "Drunk At Work",
       "url": "https://open.spotify.com/track/6RDq6JgyDYhNAGCdbxinQy"
+    },
+    {
+      "album": {
+        "name": "Drunk Enough",
+        "url": "https://open.spotify.com/album/7wFUaYuzKfvbvqiIEgVdoA"
+      },
+      "artists": [
+        {
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240173,
+      "name": "Drunk Enough",
+      "url": "https://open.spotify.com/track/1D22HReu8hO87Au5Z1mfCl"
     },
     {
       "album": {
@@ -24050,6 +24068,24 @@
       "duration_ms": 199028,
       "name": "Growin' Up",
       "url": "https://open.spotify.com/track/6evgWQRCDxn1vwFqIp7duO"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/6UUumjyRjN3G5MPEI6M01V"
+      },
+      "artists": [
+        {
+          "name": "Colin Lynch",
+          "url": "https://open.spotify.com/artist/05SVbHynbrctQGdx22K45Z"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220572,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/7iUdoRvkBC2Le5mNeON8HE"
     },
     {
       "album": {
@@ -31872,7 +31908,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203409,
       "name": "In Due Time",
       "url": "https://open.spotify.com/track/1AHe66XorLzh7ljvOZdcT4"
@@ -34480,7 +34516,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 207636,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/3tNeMydlCpIrKN9kG2veEV"
@@ -35370,6 +35406,24 @@
       "duration_ms": 179851,
       "name": "Let it Ride",
       "url": "https://open.spotify.com/track/2L5HXgrkbYd0DC9WfUeqJa"
+    },
+    {
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/77Ghvc7aJDHQBbfEcw39k7"
+      },
+      "artists": [
+        {
+          "name": "Tristan Trincado",
+          "url": "https://open.spotify.com/artist/4Mr2gPzomdZA8WkFARwK7w"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177657,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/6U3Tr6U3Foi4gKAKVsWAES"
     },
     {
       "album": {
@@ -37891,6 +37945,24 @@
     },
     {
       "album": {
+        "name": "Love Left Over",
+        "url": "https://open.spotify.com/album/4e2Ek0SMt9or7Hj3sr8Qb8"
+      },
+      "artists": [
+        {
+          "name": "Brooks Hoffman",
+          "url": "https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174132,
+      "name": "Love Left Over",
+      "url": "https://open.spotify.com/track/0rvRLiNhVLnAq6StwBKOiN"
+    },
+    {
+      "album": {
         "name": "Top of the Hill",
         "url": "https://open.spotify.com/album/03z6iskctCBwXPy2Jr5kmk"
       },
@@ -38886,6 +38958,24 @@
       "duration_ms": 179515,
       "name": "Made Good",
       "url": "https://open.spotify.com/track/3DIqodH3pjoOkBst0rkLSM"
+    },
+    {
+      "album": {
+        "name": "Made In Tennessee",
+        "url": "https://open.spotify.com/album/3L81AKCpLvY7aVTnYGr4r7"
+      },
+      "artists": [
+        {
+          "name": "Josh Mirenda",
+          "url": "https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179761,
+      "name": "Made In Tennessee",
+      "url": "https://open.spotify.com/track/1LcYrbamTlCHpmok7tx4vL"
     },
     {
       "album": {
@@ -40302,7 +40392,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 193488,
       "name": "Message in a Bottle",
       "url": "https://open.spotify.com/track/08sU1mciQgFg8YOvGq9e1N"
@@ -40867,6 +40957,24 @@
     },
     {
       "album": {
+        "name": "Leave You Lonely",
+        "url": "https://open.spotify.com/album/27E44sJ5lwE1HhY9EYjmBS"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206335,
+      "name": "Missing Then",
+      "url": "https://open.spotify.com/track/5EZdPaQgcoKZTNPr135Gce"
+    },
+    {
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/1C8u1rMfwvyI0hbICI3ozM"
       },
@@ -41224,7 +41332,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 143440,
       "name": "More or Less",
       "url": "https://open.spotify.com/track/6aDotKYmoqzr7IPkLhVec9"
@@ -42622,7 +42730,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 197646,
       "name": "never really over",
       "url": "https://open.spotify.com/track/5g533qut2xbw8UuROieFHr"
@@ -43642,6 +43750,24 @@
       "duration_ms": 184000,
       "name": "Nothing At All",
       "url": "https://open.spotify.com/track/5oG7gbYzpdZ60x68WNBd4Q"
+    },
+    {
+      "album": {
+        "name": "Nothing At All",
+        "url": "https://open.spotify.com/album/3oOnCrO1WWrzyvk50zs3D5"
+      },
+      "artists": [
+        {
+          "name": "Hampton Hall",
+          "url": "https://open.spotify.com/artist/7xjTw13OLHb0aLqqha5nfl"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201372,
+      "name": "Nothing At All",
+      "url": "https://open.spotify.com/track/1vYkakrMlDF5shlquMWGSZ"
     },
     {
       "album": {
@@ -46111,6 +46237,24 @@
     },
     {
       "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/2LVti6w5Sua56xUHToGhGm"
+      },
+      "artists": [
+        {
+          "name": "Faith Hopkins",
+          "url": "https://open.spotify.com/artist/326PYQYslGD5zlF1gJVx2W"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203676,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/0kY796l0T1XgXaBU3uqPWC"
+    },
+    {
+      "album": {
         "name": "Part Of Your World",
         "url": "https://open.spotify.com/album/6rDlUApirith0ge6BuBiSN"
       },
@@ -47282,6 +47426,24 @@
       "duration_ms": 175542,
       "name": "Pretty Good Living",
       "url": "https://open.spotify.com/track/4jabHHJGjA0EbUbPXANyoa"
+    },
+    {
+      "album": {
+        "name": "Pretty in the Dark",
+        "url": "https://open.spotify.com/album/2EreVotf3jwXhOdhyL9NGE"
+      },
+      "artists": [
+        {
+          "name": "Jaid Joice",
+          "url": "https://open.spotify.com/artist/3FjSkNVrN7T7nrTzuBxrIM"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251442,
+      "name": "Pretty in the Dark",
+      "url": "https://open.spotify.com/track/3c39aZd9nBYddqmp56Qefc"
     },
     {
       "album": {
@@ -50922,6 +51084,24 @@
       "duration_ms": 265992,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/1tJX1vfHOta2ELcJHrceyZ"
+    },
+    {
+      "album": {
+        "name": "Scary Movie",
+        "url": "https://open.spotify.com/album/1awhXFc7x582vxd7rFHEfE"
+      },
+      "artists": [
+        {
+          "name": "Dakota Caden",
+          "url": "https://open.spotify.com/artist/1iwD0WzHpsrQ32M8ycL5Mt"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174383,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/0vk8Bda2h7MdYPB8zQxaD7"
     },
     {
       "album": {
@@ -57560,7 +57740,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 187878,
       "name": "Take You Up On That",
       "url": "https://open.spotify.com/track/4eRigmWBobSI9J9MXUoFlj"
@@ -59134,6 +59314,24 @@
       "duration_ms": 191573,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/7B8Yfy0Tc9EeSQz2nGts05"
+    },
+    {
+      "album": {
+        "name": "STAGES",
+        "url": "https://open.spotify.com/album/4f0rdUscZMfHZvIvQiBZMa"
+      },
+      "artists": [
+        {
+          "name": "Haley Mae Campbell",
+          "url": "https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221428,
+      "name": "The Bull",
+      "url": "https://open.spotify.com/track/2rYWnHN9sBAalEJTmACx78"
     },
     {
       "album": {
@@ -62302,6 +62500,24 @@
       "duration_ms": 216585,
       "name": "Took the Fall",
       "url": "https://open.spotify.com/track/2tyvDKEqNzMGztpRJBbazY"
+    },
+    {
+      "album": {
+        "name": "Tornadoes",
+        "url": "https://open.spotify.com/album/5mmI98FJ88pE3WtgM1UU6n"
+      },
+      "artists": [
+        {
+          "name": "Blake Tyler",
+          "url": "https://open.spotify.com/artist/51u8UtHI6ws0n4gCdqblFS"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212160,
+      "name": "Tornadoes",
+      "url": "https://open.spotify.com/track/3eiVPM6VdOsBAhkOw9sdJi"
     },
     {
       "album": {

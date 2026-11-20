@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104665,
+  "num_followers": 104674,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABFSFddrsBTIRaLZq2fsmH7",
+  "snapshot_id": "avzqgAAAAAD8WRs5kKIkTpq6F2Z/RlsE",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+        "name": "HONEYMOON Remix (with Craig David)",
+        "url": "https://open.spotify.com/album/737OIezy5ApYIKSsl9zlpA"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Parisalexa",
+          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
         },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 228146,
-      "name": "GOT IT GOOD",
-      "url": "https://open.spotify.com/track/7pttGrC2YJYQ997ZryXGCG"
+      "duration_ms": 171333,
+      "name": "HONEYMOON Remix (with Craig David)",
+      "url": "https://open.spotify.com/track/5GpN4aH67xZ28HvpvmD1LI"
     },
     {
       "added_at": null,
@@ -151,22 +151,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HONEYMOON Remix (with Craig David)",
-        "url": "https://open.spotify.com/album/737OIezy5ApYIKSsl9zlpA"
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
       "artists": [
         {
-          "name": "Parisalexa",
-          "url": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 171333,
-      "name": "HONEYMOON Remix (with Craig David)",
-      "url": "https://open.spotify.com/track/5GpN4aH67xZ28HvpvmD1LI"
+      "duration_ms": 228146,
+      "name": "GOT IT GOOD",
+      "url": "https://open.spotify.com/track/7pttGrC2YJYQ997ZryXGCG"
     },
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Commitment",
-      "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Over The Place (Platinum VIP Edition)",
         "url": "https://open.spotify.com/album/4MGvFyMua1aBO0hDNafkp5"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 177280,
       "name": "Really Love - feat. Craig David & Digital Farm Animals",
       "url": "https://open.spotify.com/track/6SMrCFJ0zMxDwoqOHG8Sme"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Commitment",
+      "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Time Is Now (Expanded Edition)",
-        "url": "https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ"
+        "name": "In It With You",
+        "url": "https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO"
       },
       "artists": [
         {
@@ -412,13 +412,13 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         },
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
         }
       ],
-      "duration_ms": 214960,
-      "name": "I Know You (feat. Bastille)",
-      "url": "https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2"
+      "duration_ms": 192202,
+      "name": "In It With You",
+      "url": "https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In It With You",
-        "url": "https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO"
+        "name": "The Time Is Now (Expanded Edition)",
+        "url": "https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ"
       },
       "artists": [
         {
@@ -452,13 +452,13 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         },
         {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 192202,
-      "name": "In It With You",
-      "url": "https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ"
+      "duration_ms": 214960,
+      "name": "I Know You (feat. Bastille)",
+      "url": "https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What Is Love? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 209133,
       "name": "We Were Just Kids (feat. Craig David & Kirsten Joy)",
       "url": "https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 242173,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abracadabra (feat. Craig David)",
         "url": "https://open.spotify.com/album/3ZhVhgmMYyPalwUSX6D42l"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 155076,
       "name": "Abracadabra (feat. Craig David)",
       "url": "https://open.spotify.com/track/4XIIjW8c8pPaB3tZ712yH9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0"
     },
     {
       "added_at": null,

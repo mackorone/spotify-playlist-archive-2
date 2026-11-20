@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: The Weeknd
 
-727 songs - 1 day 15 hr 39 min
+728 songs - 1 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 | 2024-11-27 | 2025-01-09 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-09 | 2024-05-02 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-02-12 | 2025-03-20 |
+| [DEPENDS](https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [DEPENDS](https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8) | 3:05 | 2026-11-20 |  |
 | [DESERVE](https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DESERVE](https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0) | 3:09 | 2026-10-29 |  |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-07-10 | 2024-08-08 |
 | [Die For You](https://open.spotify.com/track/6bGkjhsJLQsza4lCCqG3pj) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Die For You](https://open.spotify.com/album/49Mjx7DPJbwq4HB6fbdiqI) | 2:58 | 2024-02-28 | 2024-03-21 |
@@ -724,7 +725,7 @@
 | [自己一個人](https://open.spotify.com/track/7vRvzhbkXkviVczo1UNBKc) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [自己一個人](https://open.spotify.com/album/4msKtvuvLM2xtpeGSfsLLc) | 4:06 | 2025-07-16 | 2025-08-15 |
 | [花期不同](https://open.spotify.com/track/4hiZAk9b9j0WWFoYr9pyz0) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [劉哲宇](https://open.spotify.com/artist/7cV5hNg13Bs5rLemIOMDi9), [吳維榮](https://open.spotify.com/artist/7AFolkU9lKXmyhzr09MXlz), [鄭雪琪](https://open.spotify.com/artist/1dw3TMG4Wb2Rspq6mPVcbp), [朱芷薇](https://open.spotify.com/artist/10TJ9srdH9jXPCIjf07E6W), [賴詠薇](https://open.spotify.com/artist/2A4nxDB5Ryl02YTDKHReeP) | [花期不同](https://open.spotify.com/album/6d8sTzopF0s4xeknRrFGZV) | 4:09 | 2024-10-16 | 2024-11-13 |
 | [落花如雨 \(新传媒戏剧《小娘惹之翡翠山》主题曲\)](https://open.spotify.com/track/0yej2N8lQ1HQMgzSzkRilc) | [Kit Chan](https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L) | [落花如雨 \(新传媒戏剧《小娘惹之翡翠山》主题曲\)](https://open.spotify.com/album/6st8aeddyDxftxA8tWXZhc) | 4:28 | 2025-04-30 | 2025-06-18 |
-| [要去什麼地方](https://open.spotify.com/track/4azVNx8uhpnKezwrNhcvYz) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:47 | 2026-10-01 |  |
+| [要去什麼地方](https://open.spotify.com/track/4azVNx8uhpnKezwrNhcvYz) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [要去什麼地方](https://open.spotify.com/album/60uSEwHQoMciAVreJ6bwjT) | 3:47 | 2026-10-01 | 2026-11-20 |
 | [跟悲傷結了帳](https://open.spotify.com/track/2asybJtO3YT7zg22tsIJBD) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [跟悲傷結了帳](https://open.spotify.com/album/20mUgXnBxw1q6UkgikTTuo) | 3:03 | 2025-11-05 | 2026-01-22 |
 | [跳楼机](https://open.spotify.com/track/2BHXQNTVx1WWEk3WyCo4VO) | [en](https://open.spotify.com/artist/3A4OPuuXAaKWD8mlrUKXUQ) | [跳楼机](https://open.spotify.com/album/4ReDcHoNHmEX6WtgsEyo1H) | 3:29 | 2025-03-19 | 2025-04-04 |
 | [这是你期盼的长大吗](https://open.spotify.com/track/3AKYofM0vFekNthGbpjMpN) | [ZQS](https://open.spotify.com/artist/6CvqU8itTtfpm1E8Pvez33) | [这是你期盼的长大吗](https://open.spotify.com/album/4kVcOlVQGpR5ci478Y86Zv) | 3:58 | 2024-06-12 | 2024-07-11 |

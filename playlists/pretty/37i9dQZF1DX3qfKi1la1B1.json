@@ -1,12 +1,12 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 126958,
+  "num_followers": 126963,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOwoA0pRTOM1q4E4uSNrwVquUSro",
+  "snapshot_id": "AAAAAJf9HmSJDJftFcNP/6zq0A0C+OmE",
   "tracks": [
     {
       "added_at": "2026-11-06 09:54:19",
@@ -253,26 +253,6 @@
       "url": "https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM"
     },
     {
-      "added_at": "2026-11-06 09:54:19",
-      "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "LIGHT DESIGN: BLOOD ORANGE VERSION",
-      "url": "https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM"
-    },
-    {
       "added_at": "2026-06-12 13:48:34",
       "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
@@ -291,6 +271,26 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "added_at": "2026-11-06 09:54:19",
+      "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "LIGHT DESIGN: BLOOD ORANGE VERSION",
+      "url": "https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM"
     },
     {
       "added_at": "2026-06-25 15:33:31",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
-      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/6z9vD1SjXdYOsteoGQhC6S"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 218273,
       "name": "June",
       "url": "https://open.spotify.com/track/038GKUaUj8NzPOy29kwPCq"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
+      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
     },
     {
       "added_at": "2026-06-12 13:48:34",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/4uXMT0xoObBj422bkwOnXv"
     },
     {
-      "added_at": "2026-11-06 09:54:19",
-      "album": {
-        "name": "Porcelain",
-        "url": "https://open.spotify.com/album/0zjxKP1Twv357I1SEpQDvC"
-      },
-      "artists": [
-        {
-          "name": "Slauson Malone 1",
-          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/52ju45KU6tOpb0Nk8vRKN5"
-    },
-    {
       "added_at": "2026-06-12 13:48:34",
       "album": {
         "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
@@ -1339,6 +1323,22 @@
       "duration_ms": 181714,
       "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
       "url": "https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl"
+    },
+    {
+      "added_at": "2026-11-06 09:54:19",
+      "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/0zjxKP1Twv357I1SEpQDvC"
+      },
+      "artists": [
+        {
+          "name": "Slauson Malone 1",
+          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/52ju45KU6tOpb0Nk8vRKN5"
     }
   ],
   "unique_name": "Midnight Chill",

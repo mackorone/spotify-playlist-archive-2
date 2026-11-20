@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,608 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,570 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [光の側で](https://open.spotify.com/track/5WqjpNNnTARcmU7vh1KwxL) | [Nanashi no Taro](https://open.spotify.com/artist/32xxJA5U8ot0QZPDllZ1po) | [光の側で](https://open.spotify.com/album/1G1sPezB8ltiOEdGr8DkxH) | 3:13 |
 | 100 | [遥かへ、永遠へ](https://open.spotify.com/track/420JROPIjbR9mQXdgLAI6G) | [Junko Yagami](https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr) | [遥かへ、永遠へ](https://open.spotify.com/album/3lU9WXQEKW9FV74Rrk5yGj) | 4:22 |
 
-Snapshot ID: `AAAAAEytqAQTpWWoBCqpz3g+DYs+qwAj`
+Snapshot ID: `AAAAADvQwymX8TCFGyt+vyDqF7yuVQIy`

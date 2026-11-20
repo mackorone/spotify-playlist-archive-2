@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/7nLhXb7zvJ7qLljOcA9kJr"
+      },
+      "artists": [
+        {
+          "name": "Arthur Bellac",
+          "url": "https://open.spotify.com/artist/2PVDez19VkHcvKAQ8FafA2"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114428,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/1lqRQwXdyAtlQDWPUIwckw"
+    },
+    {
+      "album": {
         "name": "Do You Want to Build A Snowman?",
         "url": "https://open.spotify.com/album/6vaGiLu1MD3JcsZmkQXp6Q"
       },
@@ -510,7 +528,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 110137,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/4E4q1ISp6Q416ozStCAZoK"
@@ -676,6 +694,24 @@
       "duration_ms": 205195,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/1Du3glA0jYeBg2G1WJSQ7a"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/1mea96notD50bMXLVDiNlB"
+      },
+      "artists": [
+        {
+          "name": "Julian Avelot",
+          "url": "https://open.spotify.com/artist/5S9Vsjx0EhNzAULFmmDlEv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150428,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3rY98z7nbxrvAqjkUcUc0X"
     },
     {
       "album": {
@@ -1012,6 +1048,24 @@
     {
       "album": {
         "name": "I Saw Mommy Kissing Santa Claus",
+        "url": "https://open.spotify.com/album/3wLnXpZyzGjF0NPoX2QL53"
+      },
+      "artists": [
+        {
+          "name": "George Francis",
+          "url": "https://open.spotify.com/artist/4tC14ATts7321xQ99JagaP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85000,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/3ssxtf4Fl9HfkHVTvApAmc"
+    },
+    {
+      "album": {
+        "name": "I Saw Mommy Kissing Santa Claus",
         "url": "https://open.spotify.com/album/2eaychKI038gk5D6zdYHCO"
       },
       "artists": [
@@ -1156,6 +1210,24 @@
     {
       "album": {
         "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/3MJxwzG0HGVDI28baUyqs8"
+      },
+      "artists": [
+        {
+          "name": "Lullow",
+          "url": "https://open.spotify.com/artist/4U4B0kFp7gDNgV6ff7Katx"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189194,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/0mQv9mGGDzPbAdhfWsFseK"
+    },
+    {
+      "album": {
+        "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/52Bg9Trlc6ruhgaJ0I65AS"
       },
       "artists": [
@@ -1166,7 +1238,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168800,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/14gnIb4UfQhrhnU7Wht94p"
@@ -1451,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "O Tannenbaum",
+        "url": "https://open.spotify.com/album/5zCDMtR6bEIhlwODLUY8Hb"
+      },
+      "artists": [
+        {
+          "name": "Alban Whitmore",
+          "url": "https://open.spotify.com/artist/1eMYMwJbwG5EF1w8WQ2dm4"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145071,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/3bIlHICRya6GGbH9m4zAQH"
+    },
+    {
+      "album": {
         "name": "Christmas Spa",
         "url": "https://open.spotify.com/album/6i7aQrxUd1jpAR6Ni95uib"
       },
@@ -1462,10 +1552,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 305619,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/7h63D3GIj99OkdMILmrCZf"
+    },
+    {
+      "album": {
+        "name": "Oh Christmas Tree Lullaby",
+        "url": "https://open.spotify.com/album/6KaOcViLCEstBL4qkG6RnT"
+      },
+      "artists": [
+        {
+          "name": "Sierra Loves the Moon",
+          "url": "https://open.spotify.com/artist/4yDeKWRVpzrrzuqxX5bxgV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172625,
+      "name": "Oh Christmas Tree Lullaby",
+      "url": "https://open.spotify.com/track/2fU5wXvAB2hwRXMrHvdSvr"
     },
     {
       "album": {
@@ -1631,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/6alMCpvCQaI2HxyMZQZ5Ho"
+      },
+      "artists": [
+        {
+          "name": "Lenox Martin",
+          "url": "https://open.spotify.com/artist/472Cau4ZzDrfQR8Xwm4arw"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102167,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/6sDDBEYHX4xyJMcNMOeBbf"
+    },
+    {
+      "album": {
         "name": "A Joyful Christmas",
         "url": "https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm"
       },
@@ -1660,7 +1786,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 117448,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/1CyiwCEiHfkMTSpDQKmc5n"
@@ -1973,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "The Littlest Elf's Goodnight",
+        "url": "https://open.spotify.com/album/26RHRti4bb0wJtsdb35y7H"
+      },
+      "artists": [
+        {
+          "name": "Cassius Ember",
+          "url": "https://open.spotify.com/artist/7vvfs3GQVOOOiZE5WsNgWj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "The Littlest Elf's Goodnight",
+      "url": "https://open.spotify.com/track/06wWLuA2Rw7QUtnodxY68b"
+    },
+    {
+      "album": {
         "name": "Up on the House Top (Ho Ho Ho)",
         "url": "https://open.spotify.com/album/4y7XBlXIovOYeExwW1Bfmc"
       },
@@ -2027,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "We Wish You A Merry Christmas",
+        "url": "https://open.spotify.com/album/3UVIFKjlYzu5JgmiRkiAiD"
+      },
+      "artists": [
+        {
+          "name": "Edwin Laroque",
+          "url": "https://open.spotify.com/artist/2bs5XUTJORAcys5G3PJwRz"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "We Wish You A Merry Christmas",
+      "url": "https://open.spotify.com/track/5MpOglFpCJN57yke8Nzrjf"
+    },
+    {
+      "album": {
         "name": "A Joyful Christmas",
         "url": "https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm"
       },
@@ -2056,7 +2218,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 151507,
       "name": "We Wish You a Merry Christmas - Piano",
       "url": "https://open.spotify.com/track/3szNR5TwMJxBC4PAc4SIYl"

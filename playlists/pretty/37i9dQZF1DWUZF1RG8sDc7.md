@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,498 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,524 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 52 | [Sólo Pienso en Ti \(Canción de Primavera\)](https://open.spotify.com/track/4eYiApzZDbIphtY5pKp15y) | [Los Chiches Vallenatos, Osmar Perez](https://open.spotify.com/artist/2LBpR8wVcXvZeGm9soEfWk) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 5:06 |
 | 53 | [Perdóname la Vida](https://open.spotify.com/track/2Z4mhXRWi1ef8eqW8i4hjH) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/4yKNXDW1ZOpkFIapNpfyHR) | 4:52 |
 | 54 | [Como duele el frio](https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:57 |
-| 55 | [Me Sobran las Palabras](https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys) | 4:30 |
+| 55 | [Infiel](https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [Alto Voltaje](https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB) | 4:06 |
 | 56 | [El Amor Es Perdón y Algo Más](https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Volando Alto](https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303) | 5:15 |
-| 57 | [Muero por Verla](https://open.spotify.com/track/030oP5zYYT57rlsvLQbQFp) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [Historia Musical](https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o) | 4:39 |
-| 58 | [Quiero Saber de Ti](https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk) | 4:57 |
-| 59 | [Se Me Salen las Lagrimas](https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [De Primera](https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc) | 5:07 |
-| 60 | [10 Razones para Amarte](https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS) | [El Gran Martin Elias & Juancho De La Espriella](https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o) | [La Historia Continua](https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE) | 5:15 |
+| 57 | [Me Sobran las Palabras](https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys) | 4:30 |
+| 58 | [Buscaré Otro Amor](https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B) | 5:05 |
+| 59 | [Muero por Verla](https://open.spotify.com/track/030oP5zYYT57rlsvLQbQFp) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [Historia Musical](https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o) | 4:39 |
+| 60 | [Se Me Salen las Lagrimas](https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [De Primera](https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc) | 5:07 |
 
-Snapshot ID: `AAAAAB4+xHvPvBRfhBMUsMPBiFqGs2gh`
+Snapshot ID: `AAAAALeRw+JsRx8PGZGRRJQv5wPOMqy1`

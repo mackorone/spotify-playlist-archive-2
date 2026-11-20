@@ -16185,6 +16185,24 @@
     },
     {
       "album": {
+        "name": "Seniyazenzela",
+        "url": "https://open.spotify.com/album/05XawxLj7ti9h1zSAbd9kO"
+      },
+      "artists": [
+        {
+          "name": "uNgena",
+          "url": "https://open.spotify.com/artist/0HNS3vqacj1hvznZEPxqcv"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267206,
+      "name": "Emabaleni",
+      "url": "https://open.spotify.com/track/1e9nyQowsvHl8hgCSAkLGm"
+    },
+    {
+      "album": {
         "name": "eMachobeni",
         "url": "https://open.spotify.com/album/2HVQN77l6PDCfZqmpdsR1D"
       },
@@ -24492,7 +24510,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 238545,
       "name": "i1000",
       "url": "https://open.spotify.com/track/4CWuFwJSPjPbwNDkoGQfmJ"
@@ -27000,7 +27018,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 304213,
       "name": "ISAZOCHOMELANA (feat. Boohle)",
       "url": "https://open.spotify.com/track/4Psri1pSsv7OiH4B6hZUa2"
@@ -32884,7 +32902,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -34808,7 +34826,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 266666,
       "name": "Macheleni",
       "url": "https://open.spotify.com/track/1OxylTR62SMRiHI3zsWRD8"
@@ -41197,6 +41215,24 @@
     },
     {
       "album": {
+        "name": "Umuthi Omubi",
+        "url": "https://open.spotify.com/album/2wB8uizzfBO6cIOB9PGiLA"
+      },
+      "artists": [
+        {
+          "name": "Mzamo Mtambo",
+          "url": "https://open.spotify.com/artist/1W339SQkWof6kARyoBWBpK"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277760,
+      "name": "Ngivumeleni",
+      "url": "https://open.spotify.com/track/6kB8zXYQtU0cFwG4JOz0uh"
+    },
+    {
+      "album": {
         "name": "Umsebenzi Wethu, Vol. 2",
         "url": "https://open.spotify.com/album/3pA1oYHkNliSJVD7JxIIoV"
       },
@@ -41792,7 +41828,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 228179,
       "name": "Ngzomthatha",
       "url": "https://open.spotify.com/track/1fU3m1fWGQsKzm7tfDCjDs"
@@ -45454,7 +45490,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 463611,
       "name": "Phumelela",
       "url": "https://open.spotify.com/track/3JP8KIKHcuCsngfWtq1ok0"
@@ -49366,7 +49402,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 60081,
       "name": "Sample",
       "url": "https://open.spotify.com/track/2qa3X1zH5beq8hx6mVairO"
@@ -49570,7 +49606,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 248717,
       "name": "SASEZOLA",
       "url": "https://open.spotify.com/track/1NNIWalTKTHhn3hLkgJXQ1"

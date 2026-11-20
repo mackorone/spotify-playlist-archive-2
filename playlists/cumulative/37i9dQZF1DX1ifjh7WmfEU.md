@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-333 songs - 14 hr 37 min
+334 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Episode](https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 2:30 | 2022-05-27 | 2024-03-26 |
 | [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 | 2024-02-02 | 2026-07-18 |
 | [Evangeline](https://open.spotify.com/track/3rfsel8gqoDpNVx7DgTyOf) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Evangeline](https://open.spotify.com/album/2GxIEfBPiuGksXQwRQO1Lm) | 2:01 | 2022-05-27 | 2022-07-28 |
+| [Evening Dance](https://open.spotify.com/track/6JnRVEpoAXJYKwFu2eX28p) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Evening Dance](https://open.spotify.com/album/1gDX8p9iU5z98a9f2adnGe) | 2:41 | 2026-11-20 |  |
 | [Everlasting](https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Everlasting](https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd) | 2:34 | 2022-05-27 | 2025-01-23 |
 | [Everlasting Glow](https://open.spotify.com/track/35eNrTAGVEwyxr2g4sjLqv) | [Zoé de Vera](https://open.spotify.com/artist/0ojIbBfm8uH68CpwcwoxGJ) | [Everlasting Glow](https://open.spotify.com/album/3mEBexZNw2FiVuKwNDCLCz) | 2:17 | 2022-05-27 | 2024-03-26 |
 | [Evermore](https://open.spotify.com/track/0H7xrDoYtdxiWGlghRw7Ai) | [Roman Nadler](https://open.spotify.com/artist/6PJNmKUT1INuhRkWesPjLK) | [Evermore](https://open.spotify.com/album/65jiZXLY6ewxF0Xw7jpL94) | 2:06 | 2022-05-27 | 2025-03-27 |

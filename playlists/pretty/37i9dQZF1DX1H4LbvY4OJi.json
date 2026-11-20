@@ -1,12 +1,12 @@
 {
   "description": "Embrace those happy vibes with these feel-good hits!",
-  "num_followers": 399143,
+  "num_followers": 399136,
   "original_name": "Happy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALEEfQWJ0iYAjilvBI7XrNB5WInr",
+  "snapshot_id": "AAAAAKEPRMg2zkSoiKQ7RRoQR5sNIK0S",
   "tracks": [
     {
       "added_at": "2026-01-20 13:00:04",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Harleys In Hawaii",
-        "url": "https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 185815,
-      "name": "Harleys In Hawaii",
-      "url": "https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 208917,
       "name": "Golden",
       "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "Harleys In Hawaii",
+        "url": "https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185815,
+      "name": "Harleys In Hawaii",
+      "url": "https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
+        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
+        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 207904,
+      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
+      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
         "name": "World Clique",
         "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 171266,
       "name": "Hit Me With Your Best Shot",
       "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
-        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
-        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 207904,
-      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
-      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Take You Dancing",
-        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Take You Dancing",
-      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "Take You Dancing",
+        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Take You Dancing",
+      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
     },
     {
       "added_at": "2026-01-20 13:00:04",

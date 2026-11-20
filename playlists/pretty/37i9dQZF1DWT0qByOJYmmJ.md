@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón\. Pehuenche, Renee Mooi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,979 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,943 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 37 | [Solo La Noche](https://open.spotify.com/track/7Han9waq7SuDjoRqUGut0F) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Solo La Noche](https://open.spotify.com/album/3JZRclTqpAQaqsX1NWhSw8) | 2:26 |
 | 38 | [Quédate Un Ratito Más](https://open.spotify.com/track/54UWlGEHoE0LYvpPCTNuJy) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [In Bloom](https://open.spotify.com/album/1RQPYudY9t7nbM6P1dg5kd) | 2:36 |
 | 39 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 |
-| 40 | [Se Marchitan Las Flores \- RADAR México](https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Se Marchitan Las Flores \- RADAR México](https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK) | 2:21 |
-| 41 | [Cruel](https://open.spotify.com/track/1i2m41I4XACAvzTKdWbGMe) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Cruel](https://open.spotify.com/album/7As2uajQWSH8qFF2ap478f) | 1:53 |
+| 40 | [Cruel](https://open.spotify.com/track/1i2m41I4XACAvzTKdWbGMe) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Cruel](https://open.spotify.com/album/7As2uajQWSH8qFF2ap478f) | 1:53 |
+| 41 | [Se Marchitan Las Flores \- RADAR México](https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Se Marchitan Las Flores \- RADAR México](https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK) | 2:21 |
 | 42 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
 | 43 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 |
 | 44 | [Mamá](https://open.spotify.com/track/34yQeTktePdLm0b95RffPw) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [Mamá](https://open.spotify.com/album/5rjblafbv954vxZYqnNvhR) | 2:55 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 46 | [Nunca Te Olvido](https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:51 |
 | 47 | [Duerme En Paz](https://open.spotify.com/track/7cWBIjCBlHSC8q6OND9GUz) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Duerme En Paz](https://open.spotify.com/album/63RkToY6nto4dKQDxqgMrG) | 3:04 |
 | 48 | [Exoplanetas](https://open.spotify.com/track/4EWQrvtnn6a5GfqHTF6rnU) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Exoplanetas](https://open.spotify.com/album/3kNJ7FXRkaqXI6xuwmLQBx) | 4:06 |
-| 49 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
-| 50 | [Un poema duerme en mi cama](https://open.spotify.com/track/4gP1fhi83i8ZITpokd9vqj) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Parada Obligatoria \(1ra Parada\)](https://open.spotify.com/album/2egjoQlWOOcvoUu0YwDfJt) | 3:30 |
+| 49 | [Un poema duerme en mi cama](https://open.spotify.com/track/4gP1fhi83i8ZITpokd9vqj) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Parada Obligatoria \(1ra Parada\)](https://open.spotify.com/album/2egjoQlWOOcvoUu0YwDfJt) | 3:30 |
+| 50 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
 | 51 | [Nunca Sabrás](https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Nunca Sabrás](https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX) | 3:36 |
 | 52 | [La Despedida](https://open.spotify.com/track/47yunkbH5ZSaT7zcRX2UZX) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [La Despedida](https://open.spotify.com/album/7kIG2qcC1fEiIi4bOjF3qE) | 3:46 |
 | 53 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 |
 | 80 | [Vete a la Chingada](https://open.spotify.com/track/4RYxRVqc2vaKvRjwAX4FQK) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más > :\-\(](https://open.spotify.com/album/1xOsz3xD4Wszm6eysQcZkY) | 3:07 |
 
-Snapshot ID: `AAAAAPDbRx1sKAI807hzlHzXZ4f0qegN`
+Snapshot ID: `AAAAALl4yL4Y87Qz6sdDXlMZdLBk/07Z`

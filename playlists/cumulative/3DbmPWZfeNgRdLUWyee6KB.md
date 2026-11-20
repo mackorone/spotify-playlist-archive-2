@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,723 songs - 4 day 4 hr 43 min
+1,724 songs - 4 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Manos](https://open.spotify.com/track/6qVIWv7LNzCVqMhpy5DeDo) | [Dafne Usorach](https://open.spotify.com/artist/2mUE0CMwA9P56QO5lIaRUE), [Diana Ramundey](https://open.spotify.com/artist/1yS8uDIozrGruSrU0SE52v), [Ximena Bouso](https://open.spotify.com/artist/4b3VSxn3ln8FHYCIngKCsx) | [Manos](https://open.spotify.com/album/2Cpf6W5UFQs7rYDAUViGrb) | 3:30 | 2026-02-16 | 2026-03-15 |
 | [Mantle of the Night \(Take 2\)](https://open.spotify.com/track/6X5Ek3q0IAXhZJZFgJCKJv) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Mantle of the Night \(Take 2\)](https://open.spotify.com/album/0qjlJLnQZWuoJ59SLrRrwd) | 4:27 | 2023-06-08 | 2025-11-29 |
 | [Maranata](https://open.spotify.com/track/1PYV6Z2WluxUAy28Ie3uvA) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Desenho](https://open.spotify.com/album/3qEy3AmKfVVN6FNk2aZxiN) | 4:14 | 2026-07-15 | 2026-08-10 |
+| [Marasma](https://open.spotify.com/track/7CnaE1l3dfIPMam9dcXUN8) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Marasma](https://open.spotify.com/album/1ZFtstJ9coZI7JfePRCTlI) | 2:32 | 2026-11-19 |  |
 | [marble shoes](https://open.spotify.com/track/66zv7ZK5PG5eInCqvQEkdg) | [Gramcavë](https://open.spotify.com/artist/41TTKZTHkulLFW5MKJh4uV) | [marble shoes](https://open.spotify.com/album/0RJiDVWDcsFD1VKbAVQBAk) | 4:36 | 2026-02-01 | 2026-02-28 |
 | [MAREA ROSSA](https://open.spotify.com/track/4VPmYNWoTf4rGaSYubJWSs) | [Bad Grazio](https://open.spotify.com/artist/3O58OxU6Tk18worTUgYOVE) | [MAREA ROSSA](https://open.spotify.com/album/1kTJ6J5YNI23Ezkq7Um40z) | 3:00 | 2025-12-30 | 2026-02-03 |
 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 | 2025-11-04 | 2025-12-21 |

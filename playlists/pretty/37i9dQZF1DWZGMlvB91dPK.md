@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,149 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,147 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 49 | [Twisted Mind](https://open.spotify.com/track/1sWVocPjaolPmAa4fsOrWz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Twisted Mind](https://open.spotify.com/album/4ko8JEKBxITNZcDg8Wg3s9) | 2:52 |
 | 50 | [eye 2 eye](https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [eye 2 eye](https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ) | 2:30 |
 
-Snapshot ID: `AAAAAG8Kdb/zbEzF5WaRrtPp94pJPqDt`
+Snapshot ID: `AAAAANniSgjJBPkedzx8CAwlGPRkY/AR`

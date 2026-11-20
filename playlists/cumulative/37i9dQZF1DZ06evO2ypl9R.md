@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-97 songs - 8 hr 51 min
+98 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Inspiration](https://open.spotify.com/track/2OKbU1ofzSDBOtt22p136u) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aquarian Moon](https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy) | 3:19 | 2025-07-11 | 2026-04-09 |
 | [Intro \(Solemait\)](https://open.spotify.com/track/0yUIO5AhRDop02PKzsMn4P) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 2:49 | 2025-06-28 | 2026-03-17 |
 | [Joyous \- Yoruba Soul Instrumental Remix](https://open.spotify.com/track/5tDwtcf571yb7LAVVih9Jv) | [Reel People](https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:00 | 2025-06-28 | 2025-09-20 |
+| [Jus' Anuda Groove](https://open.spotify.com/track/2PpyimrDmV1niU5Eyo2E7M) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [What Pho](https://open.spotify.com/album/6N2F4tAdJvEpi5FtjLWfFI) | 2:10 | 2026-11-20 |  |
 | [Let's Invade the Amazon \- Yoruba Soul Mix](https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc) | [Casbah 73](https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Let's Invade the Amazon \(Yoruba Soul Mix\)](https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL) | 6:22 | 2025-06-28 |  |
 | [Lollies & Weed](https://open.spotify.com/track/4larL9D7YZUdvPWdEdk5Nf) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:15 | 2026-02-12 | 2026-02-13 |
 | [Los Tambores Te Llaman \- Original Mix](https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Carlos Mena](https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl) | [Los Tambores Te Llaman](https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq) | 6:19 | 2025-06-28 |  |
@@ -93,7 +94,7 @@
 | [Tailor Made \(feat\. Ziyon\) \- Yoruba Soul Mix](https://open.spotify.com/track/7LHRfkAwPA03d3szjedeIj) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy), [Oupa Joseph Makwela](https://open.spotify.com/artist/7woR57CQwbHK44u90T6Cfv), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Tailor Made \(feat\. Ziyon\) \[Yoruba Soul Mix\]](https://open.spotify.com/album/39lvxaQs2ThEN927h7Xars) | 5:14 | 2025-07-08 | 2026-11-01 |
 | [Tbt3 \- Osunlade Remix](https://open.spotify.com/track/1F30llzy5fYkhFo28fDfDb) | [Rocco Rodamaal](https://open.spotify.com/artist/3NwffipFBRlnHBV9iQoB5l), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Tbt3 \(Osunlade Remix\)](https://open.spotify.com/album/0SqpD1eHDWweAg6Y7vrF79) | 6:13 | 2026-10-23 | 2026-11-10 |
 | [Tech This Out Pt.1 \- Yoruba Soul Mix](https://open.spotify.com/track/2Kbdo2TT9vQ0lUAu8RC27E) | [Karizma](https://open.spotify.com/artist/7bccAT6TPXO9MPsj6Ky1oe), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 10:34 | 2025-06-28 | 2025-07-02 |
-| [The Roads Of Kenya](https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:51 | 2025-06-28 |  |
+| [The Roads Of Kenya](https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:51 | 2025-06-28 | 2026-11-20 |
 | [The Sickness](https://open.spotify.com/track/53jWOPMHXJqQ0BBeHZgW0j) | [Rich Medina](https://open.spotify.com/artist/79s8bIiHdwNsqLNHpwvqBF), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade presents Racially Charged](https://open.spotify.com/album/5kB8MxUqLacpzOeQo9PqpX) | 4:03 | 2025-06-28 |  |
 | [Tom's Bar](https://open.spotify.com/track/6etoe7269ZeOzKzVrVeJkL) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 4:10 | 2025-06-28 |  |
 | [Unity In Diversity \- Yoruba Soul remix](https://open.spotify.com/track/57P7hxlQURGja8UM0Ev7zh) | [Han Litz Group](https://open.spotify.com/artist/6MSkUkujTUMZW8MhL4kcIX), [Han Litz](https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Yoruba Soul](https://open.spotify.com/artist/1KoS8cnCKnhjqR4Smd2ZJC) | [Unity In Diversity \(Yoruba Soul remix\)](https://open.spotify.com/album/0nqcNC7FT5QR7eNXgbu09v) | 5:03 | 2025-07-06 | 2025-10-05 |

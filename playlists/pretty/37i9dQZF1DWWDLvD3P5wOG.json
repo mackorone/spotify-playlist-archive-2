@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks you can catch a whine to.",
-  "num_followers": 801503,
+  "num_followers": 801600,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwvtZ1ItEG9pYsAVqQbKldqHbJs",
+  "snapshot_id": "AAAAAJLhpc3BjPnkSZ14Pq9HcVmgG2M4",
   "tracks": [
     {
       "added_at": "2026-08-26 16:00:14",
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 232506,
-      "name": "Like Glue",
-      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
+      "duration_ms": 228000,
+      "name": "Gimme the Light",
+      "url": "https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u"
     },
     {
       "added_at": "2026-08-26 16:00:14",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-08-26 16:00:14",
       "album": {
+        "name": "Vybz Kartel - Colouring Book EP",
+        "url": "https://open.spotify.com/album/6inQiTYFGDcPcprh0syxXh"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 164350,
+      "name": "Summer Time",
+      "url": "https://open.spotify.com/track/3bpOaamnFP5260EVqP9GhR"
+    },
+    {
+      "added_at": "2026-08-26 16:00:14",
+      "album": {
         "name": "Dye Dye - Single",
         "url": "https://open.spotify.com/album/0lUWYHS9g6DDGtwg7fXsTR"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2026-08-26 16:00:14",
       "album": {
-        "name": "Phantom 2",
-        "url": "https://open.spotify.com/album/6Wi7jtuBGit2o5D1SpZWNI"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 230391,
-      "name": "Party Shot",
-      "url": "https://open.spotify.com/track/4NYzZeQsY0wA2Z1Q0gKCj7"
-    },
-    {
-      "added_at": "2026-08-26 16:00:14",
-      "album": {
         "name": "Dutty Rock",
         "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
       },
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Gimme the Light",
-      "url": "https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u"
+      "duration_ms": 232506,
+      "name": "Like Glue",
+      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
     },
     {
       "added_at": "2026-08-26 16:00:14",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-08-26 16:00:14",
       "album": {
+        "name": "Phantom 2",
+        "url": "https://open.spotify.com/album/6Wi7jtuBGit2o5D1SpZWNI"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 230391,
+      "name": "Party Shot",
+      "url": "https://open.spotify.com/track/4NYzZeQsY0wA2Z1Q0gKCj7"
+    },
+    {
+      "added_at": "2026-08-26 16:00:14",
+      "album": {
         "name": "On Fleek (Love You Everything) - Single",
         "url": "https://open.spotify.com/album/0yReupj5PtIMxd8RpwORv8"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 165016,
       "name": "On Fleek (Love You Everything)",
       "url": "https://open.spotify.com/track/5tGLXqxNmzeXcK050Lw5Ou"
-    },
-    {
-      "added_at": "2026-08-26 16:00:14",
-      "album": {
-        "name": "Vybz Kartel - Colouring Book EP",
-        "url": "https://open.spotify.com/album/6inQiTYFGDcPcprh0syxXh"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 164350,
-      "name": "Summer Time",
-      "url": "https://open.spotify.com/track/3bpOaamnFP5260EVqP9GhR"
     },
     {
       "added_at": "2026-08-26 16:00:14",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-08-26 16:00:14",
       "album": {
+        "name": "Kotch - Single",
+        "url": "https://open.spotify.com/album/32sdKebjCUVWU89Vz1E0VO"
+      },
+      "artists": [
+        {
+          "name": "RDX",
+          "url": "https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws"
+        }
+      ],
+      "duration_ms": 195317,
+      "name": "Kotch",
+      "url": "https://open.spotify.com/track/3iUVSvuZ5LDJNztVjsOKiV"
+    },
+    {
+      "added_at": "2026-08-26 16:00:14",
+      "album": {
         "name": "Unconditional Love",
         "url": "https://open.spotify.com/album/4FcuMuFa8cnScLyb5n9DyX"
       },
@@ -1375,26 +1391,6 @@
       "duration_ms": 161041,
       "name": "Gyal Bruk Out",
       "url": "https://open.spotify.com/track/3oeicU1vhOHoySeNBhSUFv"
-    },
-    {
-      "added_at": "2026-08-26 16:00:14",
-      "album": {
-        "name": "Pull Up to Mi Bumper - Single",
-        "url": "https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "J Capri",
-          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
-        }
-      ],
-      "duration_ms": 150279,
-      "name": "Pull Up to Mi Bumper",
-      "url": "https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J"
     }
   ],
   "unique_name": "Dancehall Throwback",

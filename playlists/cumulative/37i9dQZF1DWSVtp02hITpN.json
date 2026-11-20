@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop you need to hear! Cover: Say Now",
+  "description": "Pop you need to hear! Cover: Joesef",
   "name": "The Pop List",
   "tracks": [
     {
@@ -4936,7 +4936,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156856,
       "name": "EMERALD EYES",
       "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
@@ -6534,6 +6534,28 @@
       "duration_ms": 195402,
       "name": "GO",
       "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
+    },
+    {
+      "album": {
+        "name": "Go Easy (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192301,
+      "name": "Go Easy (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
     },
     {
       "album": {
@@ -8590,7 +8612,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -9020,7 +9042,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
@@ -10507,6 +10529,24 @@
     },
     {
       "album": {
+        "name": "Daughter from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175970,
+      "name": "Lost in It",
+      "url": "https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt"
+    },
+    {
+      "album": {
         "name": "A Little Louder, Please (Deluxe)",
         "url": "https://open.spotify.com/album/03wOikJOtHMA55JRvBsx0g"
       },
@@ -11023,6 +11063,24 @@
     },
     {
       "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162918,
+      "name": "Mama!",
+      "url": "https://open.spotify.com/track/6dLKFSdxcmYCl1Qeb97RGO"
+    },
+    {
+      "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
@@ -11424,7 +11482,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 120340,
       "name": "Minibar",
       "url": "https://open.spotify.com/track/4bDlONk2X1TMBHKaf8tjCn"
@@ -13216,6 +13274,24 @@
       "duration_ms": 158785,
       "name": "Overglow",
       "url": "https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy"
+    },
+    {
+      "album": {
+        "name": "Pacify",
+        "url": "https://open.spotify.com/album/2I1Ox7f2gBZSZM0P6rF4oJ"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239452,
+      "name": "Pacify",
+      "url": "https://open.spotify.com/track/41jzlZUkgEC9tWQDZ5miJm"
     },
     {
       "album": {
@@ -16340,7 +16416,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 170320,
       "name": "Sue me",
       "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
@@ -18460,6 +18536,28 @@
       "duration_ms": 195869,
       "name": "TRALALA",
       "url": "https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg"
+    },
+    {
+      "album": {
+        "name": "TRDWFE (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2zNiwxpt15iD9uXomdz8pv"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156830,
+      "name": "TRDWFE (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4EYS7wMKi6m0eqnWsbmJWD"
     },
     {
       "album": {

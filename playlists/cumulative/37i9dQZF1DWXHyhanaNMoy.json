@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Jonna Fraser & Frenna",
+  "description": "Motion & good vibes! Cover: Kybba, Blaiz Fayah & Kalibwoy",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -2550,7 +2550,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 151384,
       "name": "Baby show me your dance",
       "url": "https://open.spotify.com/track/2PpfAO09pGLqqKl3Ze9nBW"
@@ -3354,6 +3354,24 @@
       "duration_ms": 141250,
       "name": "Badman Stories",
       "url": "https://open.spotify.com/track/2N4tITKqBDP1Mh5dw2hGTM"
+    },
+    {
+      "album": {
+        "name": "Baile",
+        "url": "https://open.spotify.com/album/2FFRLgZMAvAsMI4SsaIPhh"
+      },
+      "artists": [
+        {
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86956,
+      "name": "Baile",
+      "url": "https://open.spotify.com/track/6UV7q9r1wg63S9RSm4Xbfa"
     },
     {
       "album": {
@@ -5514,7 +5532,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178153,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5HXeCwmw49PWb9ufQyTWB9"
@@ -6710,7 +6728,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 143157,
       "name": "Brassen",
       "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
@@ -6886,6 +6904,32 @@
       "duration_ms": 141333,
       "name": "Brown Skin",
       "url": "https://open.spotify.com/track/2leJelsg9uYs8qjrVaf1Fq"
+    },
+    {
+      "album": {
+        "name": "Bruk Out",
+        "url": "https://open.spotify.com/album/10WwNtINKl6G0AgP5LdneO"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140769,
+      "name": "Bruk Out",
+      "url": "https://open.spotify.com/track/2orzQOODmU0MrB3ABFT51g"
     },
     {
       "album": {
@@ -7882,7 +7926,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 120000,
       "name": "CC",
       "url": "https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q"
@@ -8774,6 +8818,28 @@
       "duration_ms": 153055,
       "name": "COCA BODY",
       "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
+    },
+    {
+      "album": {
+        "name": "Coco Chanel",
+        "url": "https://open.spotify.com/album/31uvW58WJDa4Vr2LUZQhhi"
+      },
+      "artists": [
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        },
+        {
+          "name": "Oykie",
+          "url": "https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156695,
+      "name": "Coco Chanel",
+      "url": "https://open.spotify.com/track/03Dugqx7PX53fgN0KCh9CX"
     },
     {
       "album": {
@@ -10032,6 +10098,32 @@
       "duration_ms": 121889,
       "name": "Dansen",
       "url": "https://open.spotify.com/track/4EfzNlys5JDvvBctmjxGwU"
+    },
+    {
+      "album": {
+        "name": "Dansen Klootzak",
+        "url": "https://open.spotify.com/album/7ouBLRnb1RuW13AuDTpkDj"
+      },
+      "artists": [
+        {
+          "name": "Freddy Moreira",
+          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
+        },
+        {
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        },
+        {
+          "name": "Nino",
+          "url": "https://open.spotify.com/artist/33qeczxHwDRybWmW1vI2Nu"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112781,
+      "name": "Dansen Klootzak",
+      "url": "https://open.spotify.com/track/4rpGtk9wFUJpHH7CY9Y0Ub"
     },
     {
       "album": {
@@ -20634,7 +20726,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 166159,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL"
@@ -23346,6 +23438,28 @@
       "duration_ms": 123822,
       "name": "Ma Cherie",
       "url": "https://open.spotify.com/track/7z1jj5ssf9jNpbQoK6XX4R"
+    },
+    {
+      "album": {
+        "name": "Ma pr\u00e9f\u00e9r\u00e9e",
+        "url": "https://open.spotify.com/album/3aWz9wbzzF4LTtPC1XkO9r"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123253,
+      "name": "Ma pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/3AwCviyAGjYBjeCYz5vWep"
     },
     {
       "album": {
@@ -34513,6 +34627,36 @@
     },
     {
       "album": {
+        "name": "Sneaky Link (feat. Kinoh, Lange Frans & Sleazy Stereo)",
+        "url": "https://open.spotify.com/album/1WT5ZUoNyLYHwuXIZY9MbC"
+      },
+      "artists": [
+        {
+          "name": "Mercedes NoMerZ",
+          "url": "https://open.spotify.com/artist/6pdwSpHoSnaDK6hYUsHv1z"
+        },
+        {
+          "name": "Sleazy Stereo",
+          "url": "https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i"
+        },
+        {
+          "name": "Kinoh",
+          "url": "https://open.spotify.com/artist/2DL90GeChXppBBui74CXlp"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "Sneaky Link (feat. Kinoh, Lange Frans & Sleazy Stereo)",
+      "url": "https://open.spotify.com/track/74n19s48d9Il8vQQR0YZQo"
+    },
+    {
+      "album": {
         "name": "So Amazing",
         "url": "https://open.spotify.com/album/4lpKhHcpX7Cq2Z70z9rhFt"
       },
@@ -37264,7 +37408,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 143255,
       "name": "TIKI TAKA",
       "url": "https://open.spotify.com/track/35n8gJt7HNARNtiV5glpW9"

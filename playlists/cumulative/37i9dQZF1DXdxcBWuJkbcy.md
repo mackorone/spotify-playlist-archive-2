@@ -4,7 +4,7 @@
 
 > Pumping tracks for pumping iron!
 
-1,056 songs - 2 day 4 hr 21 min
+1,057 songs - 2 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-08-29 |  |
 | [Fire Blazing](https://open.spotify.com/track/2R81XYNFqkLyemIxYb9aF7) | [Dropgun](https://open.spotify.com/artist/3nAdmhth5AczU6YwCJOlYh) | [Fire Blazing](https://open.spotify.com/album/1OjpBGht6p8FgiitecLkOc) | 2:20 | 2021-03-08 | 2021-03-23 |
 | [Fire In My Soul](https://open.spotify.com/track/0M0FvSNRZmDz0Z769rewlI) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Fire In My Soul](https://open.spotify.com/album/06TsYXlEgyZa8Z8DkguJy5) | 2:55 | 2021-03-06 | 2021-10-14 |
-| [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 | 2026-07-24 |  |
+| [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 | 2026-07-24 | 2026-11-20 |
 | [First Class Jazz](https://open.spotify.com/track/5IrbesAJuMbOooeJZXI6qs) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh) | [First Class Jazz](https://open.spotify.com/album/40R6GPBNyIOiVlZGQTFr9u) | 4:37 | 2020-08-14\* | 2021-10-12 |
 | [Flashback](https://open.spotify.com/track/3m7ujh5Wws7bTCbesg7GQK) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Flashback](https://open.spotify.com/album/70fRnyz6NqVivoOngE85R6) | 2:29 | 2026-02-12 | 2026-03-06 |
 | [Flex](https://open.spotify.com/track/43p1IlKF0PBgwkqzS2EdCk) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Funk Machine](https://open.spotify.com/artist/6U9Xz6BOxbkbQpkSHvquzz), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Flex](https://open.spotify.com/album/7pYGbijbUxA3i2bS6v9aQL) | 2:35 | 2021-03-10 | 2021-03-22 |
@@ -370,6 +370,7 @@
 | [Grapevine](https://open.spotify.com/track/6EXl6ZF6rXm6qCsKeizJ1b) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Grapevine](https://open.spotify.com/album/4gAPiXbAyicBwaTBFKVrJu) | 2:30 | 2021-03-11 | 2021-03-19 |
 | [greedy \- cassö remix](https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn) | [greedy \(remixes\)](https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC) | 2:36 | 2023-12-08 | 2024-03-09 |
 | [Groovin](https://open.spotify.com/track/3ktUAf5M4HiCt6n7Zb323H) | [Sir Roy](https://open.spotify.com/artist/0ZK2XTg54GbyRQi9joSvRF) | [Groovin](https://open.spotify.com/album/21hpfR9YzexhabTxmPuhhI) | 4:27 | 2021-03-06 | 2021-03-23 |
+| [GTA](https://open.spotify.com/track/75pfCXlXZ3KXJwSPaJdtQB) | [Axel Johansson](https://open.spotify.com/artist/2xW3pBjCngD69hC1wIUgjA) | [GTA](https://open.spotify.com/album/2m7NmXkW3HIf73DsjgzVe6) | 2:19 | 2026-11-19 |  |
 | [GUMMI](https://open.spotify.com/track/4CE1DeTAXDCdbUBhlPtt03) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [GUMMI](https://open.spotify.com/album/7o1afJdvf4oDB98Pkw7JrF) | 3:29 | 2025-03-06 | 2025-05-16 |
 | [Halfway There \(feat\. Lena Leon\)](https://open.spotify.com/track/3EKKIR8be1kfAAwaz1fzyS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Halfway There \(feat\. Lena Leon\)](https://open.spotify.com/album/1o7RMlwMagNna98i4e8VpN) | 3:15 | 2021-03-19 | 2021-03-20 |
 | [Hallucinate \- Paul Woolford Remix](https://open.spotify.com/track/3v7hMuewavfpJx8sytJ4AO) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Hallucinate \(Paul Woolford Remix\)](https://open.spotify.com/album/6u8iiQQwRvqig5X4ILVNje) | 3:58 | 2020-08-14\* | 2022-04-21 |

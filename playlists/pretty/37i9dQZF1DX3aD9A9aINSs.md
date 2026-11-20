@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Elif Buse Doğan
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,668 likes - 77 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,660 likes - 77 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 76 | [Cadılar, Tanrıçalar](https://open.spotify.com/track/6yTfdlTzURqiQz2eQlbMQA) | [Di'Lara](https://open.spotify.com/artist/3gy2KYatNJwwGNQ29h20CI) | [Cadılar, Tanrıçalar](https://open.spotify.com/album/4F2mPLF1vOqaHw6k9YFTdm) | 2:46 |
 | 77 | [Uçup Gitti Aşk](https://open.spotify.com/track/38Xve4IJadsIxdBUouxDRT) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB) | [Uçup Gitti Aşk](https://open.spotify.com/album/6t8NvyeOCvRNEaHUKyj2rx) | 2:34 |
 
-Snapshot ID: `AAAAALge8Y+/8zWAtxvIoutRCKm3p2QG`
+Snapshot ID: `AAAAAEnABB3Uw2Z7okWmiv33BIi+VZxK`

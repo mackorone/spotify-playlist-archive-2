@@ -4,7 +4,7 @@
 
 > Hand\-picked releases from the new wave in soul\. Cover: IFULKI
 
-711 songs - 1 day 16 hr 50 min
+712 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [High & Dry](https://open.spotify.com/track/3euV86x39viux87PuKhgMq) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [High & Dry](https://open.spotify.com/album/4NZ8TvWas89czIE5aGxUGw) | 2:38 | 2021-12-16 | 2022-01-26 |
 | [Higher Levels](https://open.spotify.com/track/2dBZk3EXFu4uUJidPzoT1H) | [Blanka](https://open.spotify.com/artist/5ApOEJzMyQ05McnLtwoTRi), [Sara Lugo](https://open.spotify.com/artist/3DQQA7JVJvdcdcKArfwitT) | [Higher Levels](https://open.spotify.com/album/5vxQJCFU3sXmObdLB2o1uA) | 3:29 | 2024-04-11 | 2025-01-18 |
 | [Higher Self](https://open.spotify.com/track/2KcaOSZlR03H41Nhmg2QyH) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Higher Self](https://open.spotify.com/album/1MQEYp0fugw64pyAodgnxe) | 4:01 | 2023-12-08 | 2024-11-14 |
+| [Highway Of Life](https://open.spotify.com/track/0fJ3WrUPXdhp0DGmyOftdj) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Highway Of Life](https://open.spotify.com/album/1UZKBCytyBWlHnB9SBs6lU) | 4:26 | 2026-11-19 |  |
 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 | 2021-12-16 | 2023-02-18 |
 | [Hold Me Down](https://open.spotify.com/track/0Nzpn5aTMzBfTsNxp7kANn) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [TOS](https://open.spotify.com/artist/3o7iDFUagDPxmiEL8FEqMX) | [Hold Me Down](https://open.spotify.com/album/2ajcHV3SsmPVbw3UTl8z6b) | 2:58 | 2026-08-28 |  |
 | [Hold of Me](https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Hold of Me](https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN) | 3:33 | 2026-04-20 |  |

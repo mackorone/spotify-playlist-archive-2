@@ -188,10 +188,40 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 692746,
       "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
+    },
+    {
+      "album": {
+        "name": "Kind Of Blue",
+        "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 692896,
+      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/0TUa7gBg7LJH6B8dkNVioU"
     },
     {
       "album": {
@@ -912,10 +942,28 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 206360,
       "name": "I'll Wait and Pray",
       "url": "https://open.spotify.com/track/1Rph9i0FWKDa9Aq9H4iiMx"
+    },
+    {
+      "album": {
+        "name": "The Atlantic Studio Album Collection",
+        "url": "https://open.spotify.com/album/0BSousVS9bndHhwKl4Eu0r"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206360,
+      "name": "I'll Wait and Pray",
+      "url": "https://open.spotify.com/track/4z6d79RAbC5q0VAqPQas8W"
     },
     {
       "album": {

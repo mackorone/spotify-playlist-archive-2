@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 147860,
+  "num_followers": 147877,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO/QnUvXj5drlAf7KTk4qkNR8w6a",
+  "snapshot_id": "AAAAACswC92lxlMEPuqe2Jlb5BIjy+Qe",
   "tracks": [
     {
       "added_at": "2024-07-09 16:44:07",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Feargal Sharkey",
-        "url": "https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N"
-      },
-      "artists": [
-        {
-          "name": "Feargal Sharkey",
-          "url": "https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "A Good Heart",
-      "url": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 379266,
       "name": "1999",
       "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Feargal Sharkey",
+        "url": "https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N"
+      },
+      "artists": [
+        {
+          "name": "Feargal Sharkey",
+          "url": "https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "A Good Heart",
+      "url": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
     },
     {
       "added_at": "2024-07-09 16:44:07",

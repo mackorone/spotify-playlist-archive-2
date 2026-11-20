@@ -8931,6 +8931,24 @@
     },
     {
       "album": {
+        "name": "Fast Car",
+        "url": "https://open.spotify.com/album/2yql4yRoQGe8CbG1GrOkq8"
+      },
+      "artists": [
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145090,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/4zgC4z2gPsZHFbNnsfwhgY"
+    },
+    {
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/0yrJOqsM4UtGS1OOYh4Tu5"
       },

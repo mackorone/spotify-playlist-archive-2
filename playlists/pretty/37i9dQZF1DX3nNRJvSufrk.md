@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,703 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,707 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 49 | [fucK iT uP](https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 2:42 |
 | 50 | [ICE CREAM](https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:14 |
 | 51 | [Animosty](https://open.spotify.com/track/2uO6V4OOr08LfU5DSQDchL) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 3:28 |
-| 52 | [Baaaaaa \- Taken from Bass + Funk & Soul](https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Baaaaaa \(Taken from Bass + Funk & Soul\)](https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO) | 2:30 |
-| 53 | [Narcissus](https://open.spotify.com/track/3MEYgmIqsjW4qlW1SoflGQ) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH) | 3:41 |
-| 54 | [Pop Drop](https://open.spotify.com/track/1IrZcCsY92EhaqCA2QVSsH) | [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Computers Smarter Than People](https://open.spotify.com/album/3Hj551CuSFPhth9J6ffqcG) | 2:37 |
-| 55 | [Battle](https://open.spotify.com/track/78Mwf97KESI1Ls0FPD5Wil) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Some Pulp \- EP](https://open.spotify.com/album/5JychXyvRnufCvGYLKid6s) | 3:52 |
+| 52 | [Narcissus](https://open.spotify.com/track/3MEYgmIqsjW4qlW1SoflGQ) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH) | 3:41 |
+| 53 | [Pop Drop](https://open.spotify.com/track/1IrZcCsY92EhaqCA2QVSsH) | [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Computers Smarter Than People](https://open.spotify.com/album/3Hj551CuSFPhth9J6ffqcG) | 2:37 |
+| 54 | [Battle](https://open.spotify.com/track/78Mwf97KESI1Ls0FPD5Wil) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Some Pulp \- EP](https://open.spotify.com/album/5JychXyvRnufCvGYLKid6s) | 3:52 |
+| 55 | [Baaaaaa \- Taken from Bass + Funk & Soul](https://open.spotify.com/track/0ltuVwIisCsCSbdro4pdUb) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Baaaaaa \(Taken from Bass + Funk & Soul\)](https://open.spotify.com/album/4TY7Zqenlhjmsb7ZHyqnfO) | 2:30 |
 | 56 | [Bangs & Works](https://open.spotify.com/track/32QRnB5xxdfYnrtc0e3tYK) | [DJ Trouble](https://open.spotify.com/artist/33KsPfISa6inRnrPvWutSy) | [Bangs & Works, Vol.1: A Chicago Footwork Compilation](https://open.spotify.com/album/7jm8RDfHY8ezdu5zEn4I2y) | 3:00 |
 | 57 | [Get the Money \- SBF14](https://open.spotify.com/track/5nvE83ieA4Qd74wU6cYtE0) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Get the Money \(SBF14\)](https://open.spotify.com/album/6CjXD6nyCZCEP867ZiqwJg) | 3:13 |
 | 58 | [Trippin'](https://open.spotify.com/track/0mmde5walUcEMrhlCWKsrq) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Still Trippin'](https://open.spotify.com/album/7xDFC6tA0ADGOv3NmIM7rE) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 79 | [Turn Up](https://open.spotify.com/track/5Qdcx5xvBBckTVyYiHdQuN) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High on Clouds](https://open.spotify.com/album/7daVVI2wd8FIhzWyWtpq8N) | 3:14 |
 | 80 | [Burnin Ya Boa \(feat\. DJ Manny\)](https://open.spotify.com/track/3CJhotfLdzJbbjAWlK7YFZ) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Move Out EP](https://open.spotify.com/album/4NgpWCSva4J1jkTUz2gn7v) | 3:30 |
 
-Snapshot ID: `AAAAACrUDdPomMqHUOfqzJkU2fxPBzuz`
+Snapshot ID: `AAAAACC633enYBkYU+VsI/BcnEu7ey97`

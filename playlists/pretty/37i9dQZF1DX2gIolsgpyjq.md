@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Serafina
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,184 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,202 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [Pipe Dream](https://open.spotify.com/track/5C3OWPfMnUxeJUdnuz9u1a) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Herzsprung](https://open.spotify.com/album/0bOMbuBlJbKyajSoFMJxf1) | 3:01 |
 | 50 | [satisfied](https://open.spotify.com/track/0ThWbCApewgq1IHBxbh8XI) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [satisfied](https://open.spotify.com/album/39J0FWAD3mgg0Qz3CqH8sN) | 3:59 |
 
-Snapshot ID: `AAAAAF3h6j+GmWofTrltKKtZ5C2hR1jK`
+Snapshot ID: `AAAAAFFj3vBEzn0blBYd3RwInxdKRC+5`

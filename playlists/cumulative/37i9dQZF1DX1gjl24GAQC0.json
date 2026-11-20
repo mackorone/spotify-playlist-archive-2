@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: LNGSHOT) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: ENHYPEN) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -694,6 +694,24 @@
       "duration_ms": 178080,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/6tIIC3K58Sk6Et8KYmynez"
+    },
+    {
+      "album": {
+        "name": "PERFECT STORM",
+        "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Angel Bite",
+      "url": "https://open.spotify.com/track/62pmQMfcm1leFyeKRfSaDq"
     },
     {
       "album": {
@@ -4908,7 +4926,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172106,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
@@ -6105,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "Happiest",
+        "url": "https://open.spotify.com/album/6JkVyIx9aU3naTZtLmrYNT"
+      },
+      "artists": [
+        {
+          "name": "Mark Lee",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171069,
+      "name": "Happiest",
+      "url": "https://open.spotify.com/track/6PhiK9i3MgfOCqbAsYMmaE"
+    },
+    {
+      "album": {
         "name": "n.SSign 2nd MINI ALBUM 'Happy &'",
         "url": "https://open.spotify.com/album/0zeyYNgBaggs3d0AT8lGO4"
       },
@@ -7010,6 +7046,24 @@
       "duration_ms": 193095,
       "name": "i want u",
       "url": "https://open.spotify.com/track/306q1mGvWns84iBUnBx0v7"
+    },
+    {
+      "album": {
+        "name": "THE SIN : PARALLEL WORLD",
+        "url": "https://open.spotify.com/album/2Gv2qKwrKxUZ025POfeOmT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/2C9poZVeujCvZsZ7RmI0gZ"
     },
     {
       "album": {
@@ -13484,7 +13538,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 186570,
       "name": "Sugar Rush Ride",
       "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
@@ -14900,7 +14954,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192092,
       "name": "VERY NICE",
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"

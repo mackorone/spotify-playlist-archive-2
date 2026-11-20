@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hottest Latin hits in the US! Cover: LOS DOS DE TAMAULIPAS",
+  "description": "The hottest Latin hits in the US! Cover: Clave Especial",
   "name": "\u00c9xitos USA",
   "tracks": [
     {
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 127740,
       "name": "CHULA",
       "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
@@ -4634,7 +4634,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "De Lejitos - Remix",
       "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
@@ -4804,6 +4804,24 @@
       "duration_ms": 221663,
       "name": "DEMENCIA",
       "url": "https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng"
+    },
+    {
+      "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/540pquD3B2fmai9xx25RII"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284533,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/7bFKJ91RTq6wcZJMK1LQRa"
     },
     {
       "album": {
@@ -6904,6 +6922,24 @@
       "duration_ms": 203265,
       "name": "Forni",
       "url": "https://open.spotify.com/track/5gQETwG8CDF63RZx91nO2Z"
+    },
+    {
+      "album": {
+        "name": "FRANCIA",
+        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206817,
+      "name": "FRANCIA",
+      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
     },
     {
       "album": {
@@ -9186,7 +9222,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -10654,7 +10690,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 221082,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/16x23W9udcF7iPcNfU4k28"
@@ -10774,7 +10810,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144650,
       "name": "MATADORA",
       "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
@@ -10804,6 +10840,24 @@
       "duration_ms": 233519,
       "name": "Mayor Que Usted",
       "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1A",
+        "url": "https://open.spotify.com/album/5wo0yYSspyQB1rmtgJczuM"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121267,
+      "name": "MA\u00d1A",
+      "url": "https://open.spotify.com/track/1Cu21QoqwsiM1l8Z8cvFVA"
     },
     {
       "album": {
@@ -14071,6 +14125,28 @@
     },
     {
       "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "POKITO",
+      "url": "https://open.spotify.com/track/0mOmaf2ZmkCyE5D8HBq52S"
+    },
+    {
+      "album": {
         "name": "Porque La Demora",
         "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
       },
@@ -14390,7 +14466,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 264946,
       "name": "POR SI MA\u00d1ANA NO ESTOY",
       "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
@@ -14976,6 +15052,24 @@
       "duration_ms": 155624,
       "name": "Que Se Cuide",
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
+    },
+    {
+      "album": {
+        "name": "Next Time, Believe Me",
+        "url": "https://open.spotify.com/album/0G5y7kWpfY0PiAkajU6rqP"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142995,
+      "name": "QUE TE DUELA",
+      "url": "https://open.spotify.com/track/20JAeubvSh4HCKBGKl8ULT"
     },
     {
       "album": {
@@ -15934,7 +16028,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160000,
       "name": "SE VA",
       "url": "https://open.spotify.com/track/3xoHVt0FLR05c0QIWHB7lC"
@@ -16610,7 +16704,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 117136,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/4LPNlYouyfk0R2kvIiVWgB"
@@ -17976,6 +18070,28 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
+    },
+    {
+      "album": {
+        "name": "Tremendo Desastre",
+        "url": "https://open.spotify.com/album/6SO08tJ1GFnMqzXLzA9E3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Tremendo Desastre",
+      "url": "https://open.spotify.com/track/55iSVA6k6fDtFMK98XKy7w"
     },
     {
       "album": {
@@ -19558,7 +19674,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
@@ -19870,7 +19986,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 242840,
       "name": "ZIZI",
       "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"

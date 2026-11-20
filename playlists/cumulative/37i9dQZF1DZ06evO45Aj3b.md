@@ -4,7 +4,7 @@
 
 > This is Dominic Fike\. The essential tracks, all in one playlist.
 
-79 songs - 3 hr 15 min
+80 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-12-18 | 2024-08-10 |
 | [One Glass](https://open.spotify.com/track/5cm8sMvF8qskWFUrDdDIhr) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:29 | 2025-08-24 |  |
 | [PANGEA](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [PANGEA](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 | 2026-10-23 | 2026-11-17 |
+| [PANGEA](https://open.spotify.com/track/4aAoJzg1L7TRWPNsuPzZD4) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 2:25 | 2026-11-20 |  |
 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2023-12-18 |  |
 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 3:29 | 2023-12-18 |  |
 | [Politics & Violence](https://open.spotify.com/track/4keHa1UN3c9OWHVv3BE5ra) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 3:17 | 2025-01-16 |  |
@@ -82,7 +83,7 @@
 | [Upset & Aggressive](https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:31 | 2025-08-24 | 2025-09-16 |
 | [Vampire](https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 3:06 | 2023-12-18 |  |
 | [WALLFLOWER](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [WALLFLOWER](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 | 2026-08-30 | 2026-11-17 |
-| [WALLFLOWER](https://open.spotify.com/track/20cre5t6pqsZPCF794uJpT) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 2:58 | 2026-11-18 |  |
+| [WALLFLOWER](https://open.spotify.com/track/20cre5t6pqsZPCF794uJpT) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 2:58 | 2026-11-18 | 2026-11-20 |
 | [Westcoast Collective](https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:47 | 2023-12-18 |  |
 | [WHITE KEYS](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [WHITE KEYS](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2025-11-16 |  |
 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 | 2023-12-18 |  |

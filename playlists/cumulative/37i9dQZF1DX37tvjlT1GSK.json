@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Cover: Los Terricolas, Tony Garcia",
+  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Cover: Marca MP",
   "name": "Sierre\u00f1o 2026",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 195334,
       "name": "0 Sentimientos",
       "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
+    },
+    {
+      "album": {
+        "name": "Ochola",
+        "url": "https://open.spotify.com/album/4w8lALVeveddVtSAy1zjFu"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "1 a 3 Shots",
+      "url": "https://open.spotify.com/track/0sAQB0gNu9fWYQmA5XbvF4"
     },
     {
       "album": {
@@ -96,6 +114,28 @@
       "duration_ms": 217791,
       "name": "14 De Febrero",
       "url": "https://open.spotify.com/track/0jVdLoESHFTqlLIrIOdSjk"
+    },
+    {
+      "album": {
+        "name": "20 TRAGOS",
+        "url": "https://open.spotify.com/album/0AwuuqWVn2YFcA921DzsuN"
+      },
+      "artists": [
+        {
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        },
+        {
+          "name": "''El Obama'' Carlos Anderson",
+          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "20 TRAGOS",
+      "url": "https://open.spotify.com/track/4Ethcb3ySNFEtpdaMSDYtv"
     },
     {
       "album": {
@@ -386,7 +426,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176538,
       "name": "Agua Y Aceite",
       "url": "https://open.spotify.com/track/4Pc3MZc2ozA54Yqo8Zf1c7"
@@ -1388,10 +1428,32 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "album": {
+        "name": "Cabez\u00f3n",
+        "url": "https://open.spotify.com/album/0Nyco4fXjYeSGecS7eC4QB"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        },
+        {
+          "name": "Clemente y su Elexion Privada",
+          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176504,
+      "name": "Cabez\u00f3n",
+      "url": "https://open.spotify.com/track/6y7YORyjqzue1YZUzc1fLn"
     },
     {
       "album": {
@@ -1446,7 +1508,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 223125,
       "name": "CADA D\u00cdA TE QUIERO M\u00c1S",
       "url": "https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L"
@@ -1882,7 +1944,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 205141,
       "name": "CLEOPATRA",
       "url": "https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py"
@@ -2632,6 +2694,24 @@
       "duration_ms": 165200,
       "name": "De Compas",
       "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
+    },
+    {
+      "album": {
+        "name": "De Noche",
+        "url": "https://open.spotify.com/album/7sLQTppsIYifDJRzquogjx"
+      },
+      "artists": [
+        {
+          "name": "La Gavilla",
+          "url": "https://open.spotify.com/artist/3DtemVNgP2pwgHLLUbkbST"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179776,
+      "name": "De Noche",
+      "url": "https://open.spotify.com/track/3pVziHe6G5ttk7Qt7SlIoO"
     },
     {
       "album": {
@@ -3866,7 +3946,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 146711,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27WAFtmd11GuUN6jJdr6Je"
@@ -6819,6 +6899,24 @@
     },
     {
       "album": {
+        "name": "Me Vale Todo",
+        "url": "https://open.spotify.com/album/2FSsPhJK2wN6hBZzNL1bzb"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197928,
+      "name": "Me Vale Todo",
+      "url": "https://open.spotify.com/track/7kVJ6HDARWtUimBHTnut6v"
+    },
+    {
+      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -7186,7 +7284,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174137,
       "name": "MIAMI PENTHOUSE",
       "url": "https://open.spotify.com/track/1idSm0NlutOIBoedkPrKXe"
@@ -7302,6 +7400,24 @@
       "duration_ms": 167522,
       "name": "Mirada",
       "url": "https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI"
+    },
+    {
+      "album": {
+        "name": "Mirar La Luna",
+        "url": "https://open.spotify.com/album/5LyIL8ZVFNfJMReUfVgCNS"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186744,
+      "name": "Mirar La Luna",
+      "url": "https://open.spotify.com/track/09fQPypTWpF3lsNj6zp74o"
     },
     {
       "album": {
@@ -7662,7 +7778,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160185,
       "name": "Ni Con Patrulla",
       "url": "https://open.spotify.com/track/5KsUOwCSFIKKBsBxyCfgnS"
@@ -8758,6 +8874,24 @@
       "duration_ms": 203606,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
+    },
+    {
+      "album": {
+        "name": "Poligamia",
+        "url": "https://open.spotify.com/album/1QWdgyDjAN9p0Oh8aGaE0z"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168224,
+      "name": "Poligamia",
+      "url": "https://open.spotify.com/track/72DzJlTE05EiB6U7rYvDrr"
     },
     {
       "album": {
@@ -9956,7 +10090,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 245632,
       "name": "Si Estuviera el G\u00fcero",
       "url": "https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb"
@@ -10978,6 +11112,24 @@
       "duration_ms": 158964,
       "name": "TQM",
       "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "album": {
+        "name": "Tranquil\u00f3n",
+        "url": "https://open.spotify.com/album/0TFwU4587Cr2EOO2a0uJc5"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156353,
+      "name": "Tranquil\u00f3n",
+      "url": "https://open.spotify.com/track/2zCPW0xOjr6gMPxFQZa1hj"
     },
     {
       "album": {

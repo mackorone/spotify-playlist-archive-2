@@ -1,12 +1,12 @@
 {
   "description": "Luke Combs and Country hits that will have you singing every word.",
-  "num_followers": 449293,
+  "num_followers": 449270,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO+xxbNbRkUeV4MPLScfq5mTjOOl",
+  "snapshot_id": "AAAAAI+Grt3bC23E85//S07yzUqtHOlq",
   "tracks": [
     {
       "added_at": "2025-12-12 19:32:52",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Poets & Old Souls",
-        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
-      },
-      "artists": [
-        {
-          "name": "Bryan Martin",
-          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
-        }
-      ],
-      "duration_ms": 188482,
-      "name": "We Ride",
-      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "NATE SMITH (DELUXE)",
         "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 189986,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Poets & Old Souls",
+        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "duration_ms": 188482,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -311,22 +311,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 179294,
-      "name": "Where It Ends",
-      "url": "https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Blacktop",
         "url": "https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 200200,
       "name": "Wild as Her",
       "url": "https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 179294,
+      "name": "Where It Ends",
+      "url": "https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 228144,
       "name": "23",
       "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -915,6 +915,26 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Mamaw's House",
+        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 187269,
+      "name": "Mamaw's House",
+      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Holy Smokes",
         "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 173064,
       "name": "Bar None",
       "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Mamaw's House",
-        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 187269,
-      "name": "Mamaw's House",
-      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Fix What You Didn't Break",
+        "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 201555,
+      "name": "Fix What You Didn't Break",
+      "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Blink Twice",
         "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 174060,
       "name": "I Ain't Sayin'",
       "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Fix What You Didn't Break",
-        "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 201555,
-      "name": "Fix What You Didn't Break",
-      "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Dallas Smith",
-        "url": "https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B"
-      },
-      "artists": [
-        {
-          "name": "Dallas Smith",
-          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
-        }
-      ],
-      "duration_ms": 226936,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/2Y6U2OC9N1brRnTvhaoQdq"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Last Rodeo",
         "url": "https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 195488,
       "name": "Last Rodeo",
       "url": "https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Dallas Smith",
+        "url": "https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B"
+      },
+      "artists": [
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "duration_ms": 226936,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/2Y6U2OC9N1brRnTvhaoQdq"
     },
     {
       "added_at": "2026-01-23 05:01:12",

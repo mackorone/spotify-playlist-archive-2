@@ -14103,6 +14103,24 @@
     },
     {
       "album": {
+        "name": "My Leader",
+        "url": "https://open.spotify.com/album/72UBlqAYtTeBMISpVBfUDv"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202434,
+      "name": "My Leader",
+      "url": "https://open.spotify.com/track/0zxPaJV4V1NXRlhz33D0NK"
+    },
+    {
+      "album": {
         "name": "My Lord Is Good",
         "url": "https://open.spotify.com/album/6FWH09Kwodt4ReIiCRIUi5"
       },
@@ -16878,7 +16896,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 278901,
       "name": "Oruko Jesu",
       "url": "https://open.spotify.com/track/5Owmuotyotnf2ZLTzB7GIZ"
@@ -22966,7 +22984,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 146000,
       "name": "Who Run Am",
       "url": "https://open.spotify.com/track/5ypsnyrwnq5LfaQqnFHJFe"
@@ -23390,6 +23408,24 @@
       "duration_ms": 293333,
       "name": "Worthy Of It All - Kompa Remix",
       "url": "https://open.spotify.com/track/4gj4EkIf2N3oie9R3pADqB"
+    },
+    {
+      "album": {
+        "name": "Wusa",
+        "url": "https://open.spotify.com/album/4wUXZIOgodMOGRDObU7p9c"
+      },
+      "artists": [
+        {
+          "name": "Kelar Thrillz",
+          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230526,
+      "name": "Wusa",
+      "url": "https://open.spotify.com/track/5lOELIDU8F3rKQ0ZmoQ89i"
     },
     {
       "album": {

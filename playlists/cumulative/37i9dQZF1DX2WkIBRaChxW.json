@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Naomi Sharon.",
+  "description": "What's happening in r&b, right now \u2013 featuring GIV\u0112ON.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -5338,7 +5338,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 166573,
       "name": "Coast To Coast",
       "url": "https://open.spotify.com/track/0exlSI3rubhiUsqJW8zn5S"
@@ -6126,7 +6126,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 120521,
       "name": "Cry On You",
       "url": "https://open.spotify.com/track/1uWVTMGWVh54nHeUxJ3osr"
@@ -7236,6 +7236,24 @@
       "duration_ms": 140568,
       "name": "Do You Mind",
       "url": "https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E"
+    },
+    {
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/4YkeLdX8Bh4XCXz7AksGt6"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/0xJErtvPm1ThhucOMyuaBt"
     },
     {
       "album": {
@@ -8530,6 +8548,24 @@
       "duration_ms": 222000,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/2t59BDeppXjzPUDQtbzoqc"
+    },
+    {
+      "album": {
+        "name": "Fast Asleep",
+        "url": "https://open.spotify.com/album/3W4zbFnTRn0dUvkzm8HjLd"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Fast Asleep",
+      "url": "https://open.spotify.com/track/4EMW9BdGJ8avDfuab1ostA"
     },
     {
       "album": {
@@ -10947,6 +10983,24 @@
     },
     {
       "album": {
+        "name": "Haki",
+        "url": "https://open.spotify.com/album/2hJolRAFMxkaKmSqgNo2If"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Haki",
+      "url": "https://open.spotify.com/track/4clk0xL1fbDwflLJkLvru3"
+    },
+    {
+      "album": {
         "name": "Half Empty",
         "url": "https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH"
       },
@@ -12038,7 +12092,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 208780,
       "name": "HOUSTON (feat. TEEZO TOUCHDOWN)",
       "url": "https://open.spotify.com/track/1gdWMROp3Jb8mK71KqWdYK"
@@ -18221,6 +18275,28 @@
     },
     {
       "album": {
+        "name": "Narcissist (feat. Viuta)",
+        "url": "https://open.spotify.com/album/5ZnqAF9r8DK25AXQk5Zy7g"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        },
+        {
+          "name": "Viuta",
+          "url": "https://open.spotify.com/artist/2qnb90128C5mziYwX3uMu2"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178714,
+      "name": "Narcissist (feat. Viuta)",
+      "url": "https://open.spotify.com/track/08GAalYGOPBEG8CkXKhvxv"
+    },
+    {
+      "album": {
         "name": "FOR THE BOY IN ME",
         "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
       },
@@ -18542,7 +18618,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 162603,
       "name": "NEW COUPE",
       "url": "https://open.spotify.com/track/0keWOf6Xx44p5CrbnlfxBY"
@@ -22632,7 +22708,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184737,
       "name": "Red Eye",
       "url": "https://open.spotify.com/track/3tv3nu2BNrKEbD6JaDDECz"
@@ -31284,6 +31360,24 @@
       "duration_ms": 158844,
       "name": "Woman Now",
       "url": "https://open.spotify.com/track/1ge9hmkt5PVOxnmIECJLYJ"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/6DKG6czDnRl5oGlEkHipN6"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/463taoEXHSh3RLkW0FnCw0"
     },
     {
       "album": {

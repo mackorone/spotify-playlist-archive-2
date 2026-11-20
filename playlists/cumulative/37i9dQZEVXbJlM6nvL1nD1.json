@@ -4128,7 +4128,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 207626,
       "name": "Candy",
       "url": "https://open.spotify.com/track/5MYPciceOHMd7Vl7ntELEq"
@@ -6088,7 +6088,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
@@ -7280,7 +7280,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -7810,7 +7810,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/6XXQA6e8qXPJ1sZtRxvbws"
@@ -8174,7 +8174,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -8196,7 +8196,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -9848,6 +9848,32 @@
       "duration_ms": 219574,
       "name": "Flow Cali",
       "url": "https://open.spotify.com/track/3F8vudBbfHSi4FhVxgi0Ns"
+    },
+    {
+      "album": {
+        "name": "Top Of The Line",
+        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Deevani",
+          "url": "https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "Flow Natural",
+      "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
     },
     {
       "album": {
@@ -12796,7 +12822,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 238706,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo"
@@ -13890,7 +13916,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 159840,
       "name": "Las mas bonitas son p#tas",
       "url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe"
@@ -16586,7 +16612,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
@@ -18976,7 +19002,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214120,
       "name": "Pa' Que La Pases Bien",
       "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
@@ -19192,7 +19218,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 260268,
       "name": "PARADIXE - REMIX",
       "url": "https://open.spotify.com/track/18YYddH2JVaiAGJ3y5BFh0"
@@ -23146,7 +23172,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 315293,
       "name": "Sali\u00f3 El Sol",
       "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
@@ -26558,7 +26584,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
@@ -26928,7 +26954,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 302253,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
@@ -29790,7 +29816,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 216506,
       "name": "\u2060LUCES DE COLORES",
       "url": "https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe"

@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdDDmz3bMBA.md) - [plain]
 | 7 | [I Wouldn’t Feel the Need to Hold Your Hand with David Kushner](https://open.spotify.com/episode/7fFPnc3bHjIJJ9Z5l2ClbH) | [My Favorite Lyrics with Devon Walker](https://open.spotify.com/show/27nqdtzqOw0WYcFz0bYey3) | [My Favorite Lyrics with Devon Walker](https://open.spotify.com/album/27nqdtzqOw0WYcFz0bYey3) | 57:55 |
 | 8 | [Group Trip Dynamics with D'Arcy Carden](https://open.spotify.com/episode/6fAWGAKq4iNtQ5WTqaRSAk) | [Lemme Say This ](https://open.spotify.com/show/5ozx5mI0aMTfpRIyngXauK) | [Lemme Say This ](https://open.spotify.com/album/5ozx5mI0aMTfpRIyngXauK) | 53:04 |
 
-Snapshot ID: `AAAAAC1klgBsf5NJwemFK174+2Yhjxr4`
+Snapshot ID: `AAAAADTxQny7IxHEVm+8DLV9JHum1jdx`

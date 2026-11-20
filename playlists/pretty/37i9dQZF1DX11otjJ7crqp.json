@@ -1,13 +1,329 @@
 {
-  "description": "All this week's best new pop releases. Cover: Ruby Rose Turner",
-  "num_followers": 357011,
+  "description": "All this week's best new pop releases. Cover: Gracie Abrams",
+  "num_followers": 357276,
   "original_name": "All New Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKpvWoVAW3lRQ18aX2AGwjgknhvf",
+  "snapshot_id": "AAAAADYUMv6KwqdeC1k1Vvxvh1ri5AW+",
   "tracks": [
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Daughter from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "Lost in It",
+      "url": "https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 223683,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 162918,
+      "name": "Mama!",
+      "url": "https://open.spotify.com/track/6dLKFSdxcmYCl1Qeb97RGO"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/60ohkB52oyMIZNKtPNAp2S"
+      },
+      "artists": [
+        {
+          "name": "Ian Harrison",
+          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
+        }
+      ],
+      "duration_ms": 142590,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/7JmAPZJMAf7VBq8rrCwduu"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Leave With Me (Featured in Always Lalisa)",
+        "url": "https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 184788,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 184875,
+      "name": "Sweet Like Candy",
+      "url": "https://open.spotify.com/track/1QusS0DZ2KK8ukxsAoFZPK"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "A PLACE TO GO",
+        "url": "https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "A PLACE TO GO",
+      "url": "https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "There's someone in the yard",
+        "url": "https://open.spotify.com/album/5gt3wkqKkmJGij649DwBpF"
+      },
+      "artists": [
+        {
+          "name": "Lambb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "FRONT LAWN",
+      "url": "https://open.spotify.com/track/3PuDoKjY9Xz0OtYv22E34Y"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "...And The Band Plays On",
+        "url": "https://open.spotify.com/album/4RktlIKIyrUydoDUNSxawh"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "...And The Band Plays On",
+      "url": "https://open.spotify.com/track/71iKv8tOzcyVSRbeYAeepM"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 173952,
+      "name": "Fast Emotion",
+      "url": "https://open.spotify.com/track/68GADd4qLCU16tgCn2W0F5"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Goth Rave",
+        "url": "https://open.spotify.com/album/2vrQ3X57McmWG6AzjO4HZX"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 196321,
+      "name": "Goth Rave",
+      "url": "https://open.spotify.com/track/42NrToIoZCMQ7GjSsx3cKD"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Wishing In Reverse",
+        "url": "https://open.spotify.com/album/2uvbVlvIRKK5sljHcWDD2h"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 188996,
+      "name": "Belle Of The Ball",
+      "url": "https://open.spotify.com/track/4BMSTla2bxnKi2GV3DnWSg"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Get \u2018Em Girls",
+        "url": "https://open.spotify.com/album/2Gtzo1b2Hsv9kkh5r4CT6P"
+      },
+      "artists": [
+        {
+          "name": "KARLEE GIRL",
+          "url": "https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX"
+        }
+      ],
+      "duration_ms": 199270,
+      "name": "Get \u2018Em Girls",
+      "url": "https://open.spotify.com/track/0PLJ8yOxocpIiRlo20Bp0f"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "TRDWFE (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2zNiwxpt15iD9uXomdz8pv"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 156830,
+      "name": "TRDWFE (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4EYS7wMKi6m0eqnWsbmJWD"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Something to Believe In",
+        "url": "https://open.spotify.com/album/2cAfIORKjjn2sn6JJyOSId"
+      },
+      "artists": [
+        {
+          "name": "dearest",
+          "url": "https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT"
+        }
+      ],
+      "duration_ms": 211205,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/1YX2MrQDltSt319snb1Elh"
+    },
+    {
+      "added_at": "2026-11-20 05:33:48",
+      "album": {
+        "name": "Pacify",
+        "url": "https://open.spotify.com/album/2I1Ox7f2gBZSZM0P6rF4oJ"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 239452,
+      "name": "Pacify",
+      "url": "https://open.spotify.com/track/41jzlZUkgEC9tWQDZ5miJm"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "Power Trip (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/56em9EU6nYZAnEkmKda2xc"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 196739,
+      "name": "Power Trip (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/1cyE4XiRueT0ANCp3CuJOK"
+    },
+    {
+      "added_at": "2026-11-20 05:33:48",
+      "album": {
+        "name": "Everybody's Leaving",
+        "url": "https://open.spotify.com/album/2V6eJLWNrqr0VVhZeWJSaq"
+      },
+      "artists": [
+        {
+          "name": "December 10",
+          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Everybody's Leaving",
+      "url": "https://open.spotify.com/track/5ijSQwNVtyHAOZmaZuypAI"
+    },
+    {
+      "added_at": "2026-11-20 05:08:31",
+      "album": {
+        "name": "All Again (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3q8qpmIjeXy52MQfP6gykk"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 239568,
+      "name": "All Again (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4RW3DE58FUD2dTyRfy7YkQ"
+    },
     {
       "added_at": "2026-11-13 05:02:17",
       "album": {
@@ -2151,302 +2467,6 @@
       "duration_ms": 250319,
       "name": "Don\u2019t Stop Trying To Love Me",
       "url": "https://open.spotify.com/track/7rnIrXzCRFNUnJtwCyPRsn"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "Tom and Jerry",
-        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 231554,
-      "name": "Tom and Jerry",
-      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "Me and The Locals",
-        "url": "https://open.spotify.com/album/0vNAKhhGoXGmiFF0SY9K3c"
-      },
-      "artists": [
-        {
-          "name": "Raffaella",
-          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Me and The Locals",
-      "url": "https://open.spotify.com/track/2HyE9oC7CYoo0yefqtDGjo"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/38cOo1Kpp2Jduc1hOEYHC3"
-      },
-      "artists": [
-        {
-          "name": "Ella Red",
-          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
-        },
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "Muse",
-      "url": "https://open.spotify.com/track/7E5S9WN0WCewbPLoDMBdn1"
-    },
-    {
-      "added_at": "2026-10-23 04:03:01",
-      "album": {
-        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
-      },
-      "artists": [
-        {
-          "name": "Elle Coves",
-          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "ILOVEYOU",
-      "url": "https://open.spotify.com/track/7e2I9fP4d80xDYOpMjb3Av"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "Waiting for love",
-        "url": "https://open.spotify.com/album/5uXan79uluUOJ3PmTfnuqr"
-      },
-      "artists": [
-        {
-          "name": "My Marianne",
-          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Waiting for love",
-      "url": "https://open.spotify.com/track/7Bd9L0NkPH6nJwhnNvq07X"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "Leave Me There",
-        "url": "https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 256538,
-      "name": "Leave Me There",
-      "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "The Cost Of Loving",
-        "url": "https://open.spotify.com/album/1HE3nq1Qwyan1ZHIdHCBPH"
-      },
-      "artists": [
-        {
-          "name": "Bradley Marshall",
-          "url": "https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "The Cost Of Loving",
-      "url": "https://open.spotify.com/track/7h3jvBrNLSEXvPpqFWXvi9"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "Are You Up Yet?",
-        "url": "https://open.spotify.com/album/0S7B7dn81lfZQKCduaEKC8"
-      },
-      "artists": [
-        {
-          "name": "Kathryn Gallagher",
-          "url": "https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD"
-        }
-      ],
-      "duration_ms": 193408,
-      "name": "Are You Up Yet?",
-      "url": "https://open.spotify.com/track/3G7OZskk8yC1tw4vO5ces7"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "Wrapped in Gold",
-        "url": "https://open.spotify.com/album/4Bxx9stsFbZRLfj9BgkOXC"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 199363,
-      "name": "Wrapped in Gold",
-      "url": "https://open.spotify.com/track/7aiJMqO8u6PipXYLi7MewD"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "God Forbid a Girl Gets Used To This",
-        "url": "https://open.spotify.com/album/0i44xpup3y135PLPN32jSL"
-      },
-      "artists": [
-        {
-          "name": "Emily Bear",
-          "url": "https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk"
-        }
-      ],
-      "duration_ms": 244381,
-      "name": "God Forbid a Girl Gets Used To This",
-      "url": "https://open.spotify.com/track/3T2het8iwxr3jwK2JpAyfX"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "1.3",
-        "url": "https://open.spotify.com/album/5OkDMU2CQyUs2T26CkkDMy"
-      },
-      "artists": [
-        {
-          "name": "Whitney Whitney",
-          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Haven\u2019t Said Many I Love You\u2019s Yet",
-      "url": "https://open.spotify.com/track/0xcHxDudApcS1z74ZYy3Gx"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "little black dress",
-        "url": "https://open.spotify.com/album/0g7eewUCAkmkOeMjBCBmrN"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 153306,
-      "name": "little black dress",
-      "url": "https://open.spotify.com/track/05UGMVbH06OGSgq3tExW9C"
-    },
-    {
-      "added_at": "2026-10-23 04:28:32",
-      "album": {
-        "name": "Peter Pan Syndrome",
-        "url": "https://open.spotify.com/album/6demjC0kDFAp07LWgXou0O"
-      },
-      "artists": [
-        {
-          "name": "Bea",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 186316,
-      "name": "Peter Pan Syndrome",
-      "url": "https://open.spotify.com/track/4xVC1UohDxY5NrvAWyClZr"
-    },
-    {
-      "added_at": "2026-10-16 04:01:45",
-      "album": {
-        "name": "Hot & talking",
-        "url": "https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW"
-      },
-      "artists": [
-        {
-          "name": "Say Now",
-          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "Hot & talking",
-      "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
-    },
-    {
-      "added_at": "2026-10-16 04:01:45",
-      "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 222478,
-      "name": "Lasso The Moon",
-      "url": "https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47"
-    },
-    {
-      "added_at": "2026-10-16 09:45:59",
-      "album": {
-        "name": "expectations (feat. Chappell Roan)",
-        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 223935,
-      "name": "expectations (feat. Chappell Roan)",
-      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
-    },
-    {
-      "added_at": "2026-10-16 04:01:45",
-      "album": {
-        "name": "Unloveu",
-        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 232527,
-      "name": "Unloveu",
-      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
-    },
-    {
-      "added_at": "2026-10-16 09:45:59",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     }
   ],
   "unique_name": "All New Pop",

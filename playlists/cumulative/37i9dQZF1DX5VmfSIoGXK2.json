@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-02-26",
-  "description": "the glorious sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond \ud83c\udf1e featuring B\u00e5rd Berg",
+  "description": "the glorious sounds of Jazz House, from Norway, Nigeria, Argentina & beyond \ud83c\udf1e featuring B\u00e5rd Berg",
   "name": "Jazz House",
   "tracks": [
     {
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 311014,
       "name": "Deep Sea Marina",
       "url": "https://open.spotify.com/track/1Z3Kb5EQ7uMIL8gRzq5SjM"
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 179495,
       "name": "How Am I Supposed to Feel?",
       "url": "https://open.spotify.com/track/2e9sOEUOPBg7rDyv4OjiF5"
@@ -4331,6 +4331,28 @@
     },
     {
       "album": {
+        "name": "reasons",
+        "url": "https://open.spotify.com/album/2UGrFKtWhUIOHJfVg2q4yW"
+      },
+      "artists": [
+        {
+          "name": "ssimo",
+          "url": "https://open.spotify.com/artist/4dvyzd69RNQBcalUM0BVnB"
+        },
+        {
+          "name": "morisan",
+          "url": "https://open.spotify.com/artist/6kdxzZCn5NEZPWv1F6O2wa"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "reasons",
+      "url": "https://open.spotify.com/track/1QHFVgozmME9x044hAyOiV"
+    },
+    {
+      "album": {
         "name": "Recess Echoes",
         "url": "https://open.spotify.com/album/7jGA8TlOYbFp09V1c83ehZ"
       },
@@ -5420,6 +5442,24 @@
       "duration_ms": 193453,
       "name": "under the jazz tree",
       "url": "https://open.spotify.com/track/2az9x3n3OdY5D2N5K6x0zY"
+    },
+    {
+      "album": {
+        "name": "Unfolding In Motion",
+        "url": "https://open.spotify.com/album/3bXbX4i8mPjQ09JIe18QIb"
+      },
+      "artists": [
+        {
+          "name": "J. Koen",
+          "url": "https://open.spotify.com/artist/0J6pS88bfD9OL3FYOA6WA3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Unfolding In Motion",
+      "url": "https://open.spotify.com/track/5TKtBXysc0Uz2whdezuHie"
     },
     {
       "album": {

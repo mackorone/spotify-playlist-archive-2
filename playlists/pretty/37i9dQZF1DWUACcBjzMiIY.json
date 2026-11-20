@@ -1,12 +1,12 @@
 {
   "description": "Easy listening for a comfortable drive.",
-  "num_followers": 304637,
+  "num_followers": 304670,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEhROZE8QbPS+nQebQD+QPF2mRij",
+  "snapshot_id": "AAAAAIEp8T3eUwy88mDny3/zNj8F/3ZX",
   "tracks": [
     {
       "added_at": "2024-07-05 23:01:26",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 177933,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 225635,
       "name": "Like I'm Gonna Lose You (feat. John Legend)",
       "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Some Mad Hope",
+        "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
+      },
+      "artists": [
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Come On Get Higher",
+      "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "La La Land (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 149706,
       "name": "City Of Stars - From \"La La Land\" Soundtrack",
       "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Some Mad Hope",
-        "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
-      },
-      "artists": [
-        {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Come On Get Higher",
-      "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Train",
-        "url": "https://open.spotify.com/album/01aoYWjhjshlHf5vJNYb03"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "Meet Virginia",
-      "url": "https://open.spotify.com/track/4ocbH5ZJqajZIpUrqRUoue"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Train",
+        "url": "https://open.spotify.com/album/01aoYWjhjshlHf5vJNYb03"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "Meet Virginia",
+      "url": "https://open.spotify.com/track/4ocbH5ZJqajZIpUrqRUoue"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Please Don't Go",
         "url": "https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 210580,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Our Version Of Events",
-        "url": "https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Next To Me",
-      "url": "https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Gossip In The Grain",
         "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 280226,
       "name": "Let It Be Me",
       "url": "https://open.spotify.com/track/56AecW9Anb0CY6HpgWvcg9"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Our Version Of Events",
+        "url": "https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 254058,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 208000,
       "name": "Honest",
       "url": "https://open.spotify.com/track/6KjbNLbRjuoa8rEq5yNA6H"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 254058,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Pour It Out Into The Night",
-        "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 262066,
-      "name": "Good Old Days",
-      "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Sheezus",
         "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 208504,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Pour It Out Into The Night",
+        "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 262066,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Regret Me",
-        "url": "https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA"
-      },
-      "artists": [
-        {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
-        }
-      ],
-      "duration_ms": 196085,
-      "name": "Regret Me",
-      "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Love Someone",
         "url": "https://open.spotify.com/album/6qus6fQ4szOs1A2c1d16hP"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 256972,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/5HgYrY0MHqt5Iwd2aRR0xh"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Regret Me",
+        "url": "https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 196085,
+      "name": "Regret Me",
+      "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Smoke and Mirrors",
-        "url": "https://open.spotify.com/album/2pAIXVAEZ6J4t2LdKrhlJY"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Only Want You",
-      "url": "https://open.spotify.com/track/2zYFfLULhSgZWCCRVZ5csm"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Smoke and Mirrors",
+        "url": "https://open.spotify.com/album/2pAIXVAEZ6J4t2LdKrhlJY"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Only Want You",
+      "url": "https://open.spotify.com/track/2zYFfLULhSgZWCCRVZ5csm"
     },
     {
       "added_at": "2024-07-05 23:01:26",

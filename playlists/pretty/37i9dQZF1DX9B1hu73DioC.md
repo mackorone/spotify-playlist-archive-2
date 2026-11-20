@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > put it on and let it play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,296 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,240 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 83 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
 | 84 | [Magic Number \(魔法数字\)](https://open.spotify.com/track/6pB4kJ4eRa0sJMUtplqekk) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Wah!!!](https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv) | 3:51 |
 | 85 | [I.L.T.S.](https://open.spotify.com/track/12TB5WLNviUpqLglb8yTXX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:29 |
-| 86 | [tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 |
-| 87 | [be mine](https://open.spotify.com/track/7ng3kxT3YNzlR7qRUbkc66) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [be mine](https://open.spotify.com/album/6GbvnJQ9ipiiTp8Nc229HL) | 4:41 |
-| 88 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
-| 89 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
+| 86 | [be mine](https://open.spotify.com/track/7ng3kxT3YNzlR7qRUbkc66) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [be mine](https://open.spotify.com/album/6GbvnJQ9ipiiTp8Nc229HL) | 4:41 |
+| 87 | [tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 |
+| 88 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
+| 89 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
 | 90 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
 | 91 | [wasted time](https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI), [melodybloom](https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk) | [wasted time](https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ) | 2:13 |
 | 92 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
 | 93 | [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 |
-| 94 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 |
-| 95 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
-| 96 | [Kids Go Down \(孩子们的时光\)](https://open.spotify.com/track/4tSnOJt0gQai61lN8wo5b9) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Wah!!!](https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv) | 5:00 |
+| 94 | [Kids Go Down \(孩子们的时光\)](https://open.spotify.com/track/4tSnOJt0gQai61lN8wo5b9) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Wah!!!](https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv) | 5:00 |
+| 95 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 |
+| 96 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
 | 97 | [Yellow Eyes](https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 2:42 |
-| 98 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
-| 99 | [Afterlife](https://open.spotify.com/track/53NgnwT6xCOxEuVmIBDFpy) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:30 |
+| 98 | [Afterlife](https://open.spotify.com/track/53NgnwT6xCOxEuVmIBDFpy) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:30 |
+| 99 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
 | 100 | [蓋なしの彼](https://open.spotify.com/track/7MzKmI0Ep4dFRfTeQ9RtpZ) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Sway](https://open.spotify.com/album/1JNUJFzL4rVRcCD9EhezeH) | 3:50 |
 
-Snapshot ID: `AAAAAAwfd2qVxKdAdp3OK9Z4P6LSVBut`
+Snapshot ID: `AAAAAL9z6SYsfsmzSFh1WcUvdnFgRZb8`

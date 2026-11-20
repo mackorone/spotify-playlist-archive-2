@@ -188,6 +188,24 @@
     {
       "album": {
         "name": "Amefanya",
+        "url": "https://open.spotify.com/album/0qmce5jINyMvbH9SsxqBjN"
+      },
+      "artists": [
+        {
+          "name": "Janet Otieno",
+          "url": "https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232857,
+      "name": "Amefanya",
+      "url": "https://open.spotify.com/track/5R6noBPC1QKofGTDUWqQ1i"
+    },
+    {
+      "album": {
+        "name": "Amefanya",
         "url": "https://open.spotify.com/album/0Egz4Ybt0WcPFgzT9lKcNs"
       },
       "artists": [
@@ -790,7 +808,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 650642,
       "name": "Bisha Bisha",
       "url": "https://open.spotify.com/track/3Ouvs2vyO7MevcNwdaFKj7"
@@ -2332,7 +2350,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 253451,
       "name": "Maisha Yangu (B'Ola) - Live",
       "url": "https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2"
@@ -3058,6 +3076,24 @@
       "duration_ms": 308000,
       "name": "Mshindi",
       "url": "https://open.spotify.com/track/45Y60HEPBdrKCb47nPBmLK"
+    },
+    {
+      "album": {
+        "name": "Mshindi (Radio Edit)",
+        "url": "https://open.spotify.com/album/3Q8M7dKPadaPSCKYFGWw6H"
+      },
+      "artists": [
+        {
+          "name": "Jay General",
+          "url": "https://open.spotify.com/artist/7dNS5Gtohaw7dCBdeX5oud"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Mshindi - Radio Edit",
+      "url": "https://open.spotify.com/track/7HcKvNYTbGcIpDJyrOmyCi"
     },
     {
       "album": {

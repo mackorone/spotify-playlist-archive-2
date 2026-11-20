@@ -6938,7 +6938,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 263767,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
@@ -8330,6 +8330,24 @@
       "duration_ms": 267152,
       "name": "Groovin",
       "url": "https://open.spotify.com/track/3ktUAf5M4HiCt6n7Zb323H"
+    },
+    {
+      "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/2m7NmXkW3HIf73DsjgzVe6"
+      },
+      "artists": [
+        {
+          "name": "Axel Johansson",
+          "url": "https://open.spotify.com/artist/2xW3pBjCngD69hC1wIUgjA"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139180,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/75pfCXlXZ3KXJwSPaJdtQB"
     },
     {
       "album": {

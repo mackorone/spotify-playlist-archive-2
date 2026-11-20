@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 56 | [Broke](https://open.spotify.com/track/7nn5HRBngi7LTst0dDxVTt) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [3](https://open.spotify.com/album/2Esif7qCtdu8GaxVeLbMqN) | 3:16 |
 | 57 | [Where Do We Go from Here](https://open.spotify.com/track/0BH0lfTcEUUlTf9GjuS2MF) | [Malte Castro](https://open.spotify.com/artist/2lPlzhzb48iN2IMxmjMPZ8) | [Where Do We Go from Here](https://open.spotify.com/album/6D8nN0cdKR6Ds9tyKHdNVw) | 3:42 |
 | 58 | [Not Over You](https://open.spotify.com/track/4iLQ5KX7IYsqlaDNWL8xqf) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Not Over You](https://open.spotify.com/album/1cJSPEAABSatHfV2pwXBPG) | 3:04 |
-| 59 | [Ocean](https://open.spotify.com/track/7LKsAuk6QUbh92y2bX6Nel) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/0g2AIhkbIqZez1FE5xSUGh) | 3:00 |
-| 60 | [Memories](https://open.spotify.com/track/410nVRhyCAa4acMVB031iC) | [Dr\. Arnd Stein](https://open.spotify.com/artist/1ImmZaVk1stF4WEhz4CzaS) | [Top Hits Zum Entspannen, Vol\. 2](https://open.spotify.com/album/1lXRiGoCxvwxHjxokKDYW7) | 6:13 |
-| 61 | [Out Of Control](https://open.spotify.com/track/4sB48VYROXFtKbuRTreGma) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l) | [Out Of Control](https://open.spotify.com/album/7MTldAIUcnpLhNjFZpCHDb) | 3:13 |
+| 59 | [Out Of Control](https://open.spotify.com/track/4sB48VYROXFtKbuRTreGma) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [JustHooks](https://open.spotify.com/artist/6QC9azwBR7Yqujod4hNV2l) | [Out Of Control](https://open.spotify.com/album/7MTldAIUcnpLhNjFZpCHDb) | 3:13 |
+| 60 | [Ocean](https://open.spotify.com/track/7LKsAuk6QUbh92y2bX6Nel) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/0g2AIhkbIqZez1FE5xSUGh) | 3:00 |
+| 61 | [Memories](https://open.spotify.com/track/410nVRhyCAa4acMVB031iC) | [Dr\. Arnd Stein](https://open.spotify.com/artist/1ImmZaVk1stF4WEhz4CzaS) | [Top Hits Zum Entspannen, Vol\. 2](https://open.spotify.com/album/1lXRiGoCxvwxHjxokKDYW7) | 6:13 |
 | 62 | [Time to Talk](https://open.spotify.com/track/3DnDAM5WZoGSiRgWfRbuAh) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Time to Talk](https://open.spotify.com/album/3rKYywObSNQIhq4nulJld4) | 3:24 |
 | 63 | [I Belong With You](https://open.spotify.com/track/4ZuLCd1A2WRgzNj51thB0M) | [Dada](https://open.spotify.com/artist/03FagtGSQn7UpUflscKmsX), [LIV](https://open.spotify.com/artist/7teUw80MXDDZlELFKbJsuz) | [I Belong With You](https://open.spotify.com/album/3fB22NjWfNboC9rGEbBrmG) | 2:48 |
 | 64 | [Girls](https://open.spotify.com/track/3p8sr6dPBa86KDMcup7q5P) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girls](https://open.spotify.com/album/6pwVv0Pf79ITNQaiAz796u) | 3:20 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 77 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [dreamhouse](https://open.spotify.com/artist/4RfivXSc4tPlg4avnBN5PJ) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 | 78 | [Yours](https://open.spotify.com/track/2z7duIciqreJ2TgxgA4Hr6) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Yours](https://open.spotify.com/album/3Biv04oSSRa7hpjqGSOhmP) | 2:50 |
 
-Snapshot ID: `AciCaAAAAACq0PB0nGyvm1jlwbHBKHW9`
+Snapshot ID: `AciIHAAAAADyfceU7CuQaywRc9QMYDVG`

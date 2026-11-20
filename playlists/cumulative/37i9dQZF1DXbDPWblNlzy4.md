@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Lasso
 
-622 songs - 1 day 8 hr 18 min
+623 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [EN ITALIA](https://open.spotify.com/track/6GLo8QFCRc0cJZdRwYSfrp) | [BOM](https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [BAILAR O MORIR](https://open.spotify.com/album/1frExSoHTSVKR2Cke2ihIP) | 2:25 | 2026-11-06 |  |
 | [En La Misma Cama](https://open.spotify.com/track/4mknaB6EEmN3noSR71073a) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 2:51 | 2026-05-08 | 2026-07-25 |
 | [En Qué Planeta](https://open.spotify.com/track/4oEfPKL5ccBOR0wQhhpNX0) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [En Qué Planeta](https://open.spotify.com/album/5aCkxf8INZurAEDGBDk6Ur) | 2:52 | 2023-03-17 | 2023-04-29 |
+| [en tu apartamento](https://open.spotify.com/track/28JSVuCdzS2SNbbgDKFGgf) | [dvd](https://open.spotify.com/artist/2zLbu1txxbXVkqql76GCGR) | [en tu apartamento](https://open.spotify.com/album/4XC9DXkKjyAGXWVeRnp1cD) | 2:26 | 2026-11-20 |  |
 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 | 2025-07-11 | 2026-01-31 |
 | [Enemigos](https://open.spotify.com/track/0sbfZT6Wl6nTpxdomThgD7) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Enemigos](https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv) | 2:37 | 2023-11-10 | 2024-02-08 |
 | [ENERO](https://open.spotify.com/track/6bhGPHYdiNKUTSl7ASxJ67) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [ENERO](https://open.spotify.com/album/65VDilXxBlKu1DZE94rYsx) | 3:09 | 2023-03-17 | 2023-04-22 |

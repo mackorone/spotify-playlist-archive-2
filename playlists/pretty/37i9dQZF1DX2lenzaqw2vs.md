@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 ### [BRILLO](https://open.spotify.com/playlist/37i9dQZF1DX2lenzaqw2vs)
 
-> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: MEIEN
+> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Lichi
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,318 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,315 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Decilo](https://open.spotify.com/track/1VwdEHTP3qy6bNlEtmqaJq) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [MEIEN](https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [MEIEN](https://open.spotify.com/album/4bczaWboiY4MjOWuou1zFS) | 3:13 |
-| 2 | [Rarísimo](https://open.spotify.com/track/6sSL9IrF5Uq5XPEqt24Ftj) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Escuchen los Sonidos](https://open.spotify.com/album/3hTyWhIkVfhnzG3aanP0uQ) | 3:30 |
+| 1 | [Rarísimo](https://open.spotify.com/track/6sSL9IrF5Uq5XPEqt24Ftj) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Escuchen los Sonidos](https://open.spotify.com/album/3hTyWhIkVfhnzG3aanP0uQ) | 3:30 |
+| 2 | [Decilo](https://open.spotify.com/track/1VwdEHTP3qy6bNlEtmqaJq) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [MEIEN](https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [MEIEN](https://open.spotify.com/album/4bczaWboiY4MjOWuou1zFS) | 3:13 |
 | 3 | [Mojarse en invierno \- Manu Calmet REMIX](https://open.spotify.com/track/5IEHfwqayMyb8VI3DUKqUe) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Manu Calmet](https://open.spotify.com/artist/0B9JhFd1gL8bpf6FnaggJU) | [Mojarse en invierno \(Manu Calmet REMIX\)](https://open.spotify.com/album/2QjtTCV8xvYIKjYyYK92f2) | 4:00 |
 | 4 | [Buenos Aires \- Franzizca Remix](https://open.spotify.com/track/1R8C9e5oMZLrNstZNac3Zz) | [MissLupe](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j), [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [Buenos Aires \(Franzizca Remix\)](https://open.spotify.com/album/2UdEcXzMJdRcdgNmZM8c7o) | 3:34 |
 | 5 | [So Happy I Could Die](https://open.spotify.com/track/4w06YQMHkAkRKwmr5Y9pVp) | [GABA](https://open.spotify.com/artist/7eVUrPX8mEC1iz0SZvSnZN), [yull](https://open.spotify.com/artist/1mqfsaLYjpQ5butZZBDaN4), [kur0](https://open.spotify.com/artist/58BVm2XFVhOzdKoWNNtkcn) | [So Happy I Could Die](https://open.spotify.com/album/7hVgRPY7dTpt2iOQBZHVsq) | 3:38 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 58 | [La Respuesta](https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Respuesta](https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF) | 2:48 |
 | 59 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 |
 | 60 | [Crimen](https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Crimen](https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo) | 3:07 |
-| 61 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 |
-| 62 | [POR SIEMPRE ES UN LUGAR](https://open.spotify.com/track/3Etdzaqcd6pm1OpbgLKK3b) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 1:51 |
+| 61 | [POR SIEMPRE ES UN LUGAR](https://open.spotify.com/track/3Etdzaqcd6pm1OpbgLKK3b) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 1:51 |
+| 62 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 |
 | 63 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 |
 | 64 | [CAMINO](https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL), [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE) | [CAMINO](https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw) | 3:04 |
 | 65 | [no cambies tu andar](https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [no cambies tu andar](https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1) | 3:16 |
@@ -84,15 +84,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 74 | [Una Noche Más](https://open.spotify.com/track/7dAZanaXWRfcKxcumPacay) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Una Noche Más](https://open.spotify.com/album/4VMpgMcMBco980EcsHGkks) | 2:48 |
 | 75 | [Madrugadas de nada](https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN) | [Isleña Antumalen](https://open.spotify.com/artist/6bY5kjK9c1MdVgC9CAtnM4), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Madrugadas de nada](https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5) | 3:37 |
 | 76 | [Si es contigo si](https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Si es contigo si](https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480) | 2:26 |
-| 77 | [Helao](https://open.spotify.com/track/3aHhwk1a6w7E1l4c8Tz5sB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Helao](https://open.spotify.com/album/3yQKVXmx2LrlzhZx3tR8mt) | 3:50 |
+| 77 | [Clonazepamela](https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Clonazepamela](https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4) | 2:10 |
 | 78 | [Multicolor](https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Multicolor](https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF) | 3:40 |
-| 79 | [Clonazepamela](https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Clonazepamela](https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4) | 2:10 |
+| 79 | [Helao](https://open.spotify.com/track/3aHhwk1a6w7E1l4c8Tz5sB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Helao](https://open.spotify.com/album/3yQKVXmx2LrlzhZx3tR8mt) | 3:50 |
 | 80 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
-| 81 | [He Venido al Mar \- short mix](https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [He Venido al Mar](https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4) | 5:40 |
-| 82 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 |
+| 81 | [Nada seguro \- MABEL Remix](https://open.spotify.com/track/4wLNiwolLjjo46QqAVkKPb) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [MABEL](https://open.spotify.com/artist/5dZr4nEoc25hEzyh21nhBT) | [Nada seguro \(MABEL Remix\)](https://open.spotify.com/album/5goGkrBBw3YKUciikwOJxY) | 3:52 |
+| 82 | [He Venido al Mar \- short mix](https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [He Venido al Mar](https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4) | 5:40 |
 | 83 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 |
-| 84 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
-| 85 | [Nada seguro \- MABEL Remix](https://open.spotify.com/track/4wLNiwolLjjo46QqAVkKPb) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [MABEL](https://open.spotify.com/artist/5dZr4nEoc25hEzyh21nhBT) | [Nada seguro \(MABEL Remix\)](https://open.spotify.com/album/5goGkrBBw3YKUciikwOJxY) | 3:52 |
+| 84 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 |
+| 85 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
 | 86 | [Brillo](https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:50 |
 | 87 | [Soy Asi](https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ) | [Kevin Fret](https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM) | [Soy Asi](https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl) | 3:52 |
 | 88 | [Sentirme Amante](https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Drama Pop](https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 99 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 |
 | 100 | [KONFESSION](https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [KONFESSION](https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe) | 2:58 |
 
-Snapshot ID: `AAAAAHKH6b23mGFjJbjtUXuP2CNWjXRT`
+Snapshot ID: `AAAAABm7XoW7wfv9KXHro3FX3t5Vubiz`

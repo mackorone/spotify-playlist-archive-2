@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 
 > D vitaminin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,208 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,209 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 | 59 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 |
 | 60 | [All Day And Night](https://open.spotify.com/track/33CfD8UkDEcSdAP9j4QpUY) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [All Day And Night \(Jax Jones & Martin Solveig Present Europa\)](https://open.spotify.com/album/1VQjtx21AAQnQe442bJssW) | 2:49 |
 | 61 | [Heart to Break](https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Heart to Break](https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD) | 3:45 |
-| 62 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 |
-| 63 | [Swing \- Mahmut Orhan Remix](https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Swing \(Mahmut Orhan Remix\)](https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL) | 4:29 |
+| 62 | [Swing \- Mahmut Orhan Remix](https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Swing \(Mahmut Orhan Remix\)](https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL) | 4:29 |
+| 63 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 |
 | 64 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 |
 | 65 | [Hello Hello Hello](https://open.spotify.com/track/1xNknVNOolLB4oQeEtNBX2) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 2:52 |
 | 66 | [Love Me Less \(feat\. Quinn XCII\)](https://open.spotify.com/track/2tOOcDDYkh0PSjr6GwPEAJ) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Love Me Less \(feat\. Quinn XCII\)](https://open.spotify.com/album/0BHgyJ3dblyBOmxV8pRmGg) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 | 99 | [SICKO](https://open.spotify.com/track/2vDxrqUKTkgSxn7x3JYms9) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [SICKO](https://open.spotify.com/album/3kolpERtzYSxUzWpyxE7uE) | 2:37 |
 | 100 | [In Your Eyes](https://open.spotify.com/track/2jo3etFarByI6akx5cyPDg) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/03NCvBIGqzLPhLoi4pDb3L) | 3:57 |
 
-Snapshot ID: `AAAAAOsVBSX/Kl1+a9YSzwUdX36a8yfk`
+Snapshot ID: `AAAAAEFFDNBlTs0sYj7IpuRB7lqpovr6`

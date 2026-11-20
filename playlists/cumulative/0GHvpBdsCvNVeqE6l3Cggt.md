@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-153 songs - 8 hr 51 min
+154 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Memoria](https://open.spotify.com/track/7lHiBXwoCvOY1ZJUBWicse) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 3:00 | 2025-10-13 |  |
 | [Minority](https://open.spotify.com/track/7EahJBzq7oNuxktGieAJa4) | [Catii](https://open.spotify.com/artist/5VWLPyWRDkbnaiV5LYSnXv) | [Minority](https://open.spotify.com/album/1T9q32c5d8PPBg72mbu12Q) | 4:14 | 2026-04-07 | 2026-05-21 |
 | [Motorcycle Emptiness](https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Forever Delayed](https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv) | 5:05 | 2021-03-29 |  |
+| [Narcisos](https://open.spotify.com/track/3LSJOhY0BCCfPvwLBbKy3H) | [Kamy](https://open.spotify.com/artist/2i03xVEyzsYwm84ifehJUS) | [Narcisos](https://open.spotify.com/album/2FnbIvZBheqlp9hrrjeYcK) | 2:47 | 2026-11-19 |  |
 | [No Hard Feelings](https://open.spotify.com/track/7vV9QDHk4grxd2VGG7eq3R) | [Pascal Brochu](https://open.spotify.com/artist/7pO322Zg9e1EZ0RVB64F1o) | [No Hard Feelings](https://open.spotify.com/album/0GF23WOvjJjLqNjtWDnbAW) | 3:18 | 2026-10-16 |  |
 | [Noir](https://open.spotify.com/track/3Z8OSx0kJcitYmfFqNszDy) | [LehtMoJoe](https://open.spotify.com/artist/5lgsUNLe65iEVXFzvreh0J) | [Noir](https://open.spotify.com/album/0ZW75tnVFB8wWRvzOSqdM4) | 3:08 | 2025-12-30 | 2026-01-29 |
 | [Not There](https://open.spotify.com/track/5qu1ZbZglE1eEpketsdNCL) | [blanket season](https://open.spotify.com/artist/6MkM0uop587AXtnDFsQJMC) | [Not There](https://open.spotify.com/album/2OpqAFx1fBVA2Ap2SBoXkR) | 3:04 | 2026-04-02 | 2026-04-23 |

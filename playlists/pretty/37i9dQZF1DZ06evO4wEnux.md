@@ -8,11 +8,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Always](https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:11 |
+| 1 | [Just Past the Point of Breaking](https://open.spotify.com/track/43AD5Zw1Nc4ksgbR9vLGUl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:02 |
 | 2 | [Charm School](https://open.spotify.com/track/5J1RjqttTtHcMimE4C1RZn) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:30 |
 | 3 | [I Like Not Knowing](https://open.spotify.com/track/4fX5Tn7EGAuyYIk2VUaQER) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:21 |
 | 4 | [Do It for Yourself](https://open.spotify.com/track/4nqvfPLOhsKuKOWLlpWpHO) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 |
-| 5 | [Just Past the Point of Breaking](https://open.spotify.com/track/43AD5Zw1Nc4ksgbR9vLGUl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:02 |
+| 5 | [Always](https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:11 |
 | 6 | [The Rain](https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:58 |
 | 7 | [Hometown](https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:23 |
 | 8 | [Normal People](https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 2:58 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 26 | [Afterwords](https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Afterwords](https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R) | 4:28 |
 | 27 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 |
 
-Snapshot ID: `avpHgAAAAADt9XOHCZofsoyfelfey9KU`
+Snapshot ID: `avzqgAAAAABBd7XkNDbhPRJ4pGBt8vAy`

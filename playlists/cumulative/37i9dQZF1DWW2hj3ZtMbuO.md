@@ -4,7 +4,7 @@
 
 > Sapphic songs that defined your music taste as "yearning."
 
-427 songs - 1 day 1 hr 52 min
+428 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-01-17 | 2026-02-10 |
 | [Anna](https://open.spotify.com/track/4DzfD0gswlyVhgYGrgzS0T) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Anna](https://open.spotify.com/album/30TrmO3DCBGjXHoR4zUtUw) | 2:50 | 2022-06-01 | 2022-07-23 |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2022-08-26 |  |
+| [Anything](https://open.spotify.com/track/3htz0sRGLYHbbAS9QeEqpy) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Anything](https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW) | 3:35 | 2026-11-19 |  |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-06-10 |  |
 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 | 2023-06-23 | 2024-04-19 |
 | [April Come She Will](https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 1:49 | 2022-07-20 | 2023-06-24 |
@@ -59,7 +60,7 @@
 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2023-10-13 | 2024-05-29 |
 | [Blossom \(Wasting All My Time\)](https://open.spotify.com/track/4yhAcg6xUHtZgt731WsFl1) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:12 | 2021-12-15 | 2022-07-06 |
 | [Blue Hippo](https://open.spotify.com/track/1kKHlRNEXpIkYARjFXGmnm) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Blue Hippo](https://open.spotify.com/album/1zo8HozcWbmjMfcn9T3LYH) | 3:19 | 2021-12-15 | 2022-07-29 |
-| [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 | 2024-08-06 |  |
+| [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 | 2024-08-06 | 2026-11-20 |
 | [Built To Spill](https://open.spotify.com/track/4waleULtpyAttZiusnOuKG) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Built To Spill](https://open.spotify.com/album/6TLLO4Oh4ndwKlnkXNoCUV) | 3:44 | 2022-04-14 | 2022-04-18 |
 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 | 2023-06-23 | 2024-06-03 |
 | [Butterfly's Repose](https://open.spotify.com/track/36c2NifUp0GDnoOQT5unhR) | [Zabawa](https://open.spotify.com/artist/4n9AMW1w0pXszeQcKFo13r) | [Butterfly's Repose](https://open.spotify.com/album/4TwVv7Kou1ehIMonPLZBAR) | 5:09 | 2022-01-08 | 2024-08-31 |

@@ -4537,6 +4537,28 @@
     },
     {
       "album": {
+        "name": "GIVE ME",
+        "url": "https://open.spotify.com/album/3paOK3wNEQk0sUceaOsDTZ"
+      },
+      "artists": [
+        {
+          "name": "Dj Fetty",
+          "url": "https://open.spotify.com/artist/2ZluNFnnyxXaXTJZKxxq04"
+        },
+        {
+          "name": "Nicole Muwanguzi",
+          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215555,
+      "name": "GIVE ME",
+      "url": "https://open.spotify.com/track/5TuvI3D3vRXYYeucdaIRxt"
+    },
+    {
+      "album": {
         "name": "Give Me Chance",
         "url": "https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q"
       },
@@ -5894,7 +5916,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 284536,
       "name": "House Of The Lord",
       "url": "https://open.spotify.com/track/7HHBbeQoCaiqnKdnbNk9gi"
@@ -9237,6 +9259,28 @@
     },
     {
       "album": {
+        "name": "Miracles (Live)",
+        "url": "https://open.spotify.com/album/5ot55zEgaTcXoVGF5Rn7Tc"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Yanga",
+          "url": "https://open.spotify.com/artist/6hYAMcoLpV4o9xxjXrPfsr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 655207,
+      "name": "Miracles - Live",
+      "url": "https://open.spotify.com/track/3Q5qMXzeGQLF8yBYORBBEC"
+    },
+    {
+      "album": {
         "name": "Mon Dieu",
         "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
       },
@@ -12205,6 +12249,24 @@
     },
     {
       "album": {
+        "name": "potter",
+        "url": "https://open.spotify.com/album/2mKzrtfpDRxNTYiPu0w0R0"
+      },
+      "artists": [
+        {
+          "name": "Armand Mukenge",
+          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "potter",
+      "url": "https://open.spotify.com/track/1AZZVhQfi1QT8cNkJLEVzB"
+    },
+    {
+      "album": {
         "name": "POUR MON BIEN",
         "url": "https://open.spotify.com/album/3S60p3ZfGc4YGG0hwtRzgO"
       },
@@ -13378,7 +13440,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 130485,
       "name": "Sofri Sofri",
       "url": "https://open.spotify.com/track/5NcrAC3Wf8XdSwRGwSFzrd"
@@ -14400,7 +14462,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155089,
       "name": "THE DAY",
       "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"

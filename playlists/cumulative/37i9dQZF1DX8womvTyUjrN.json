@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Lasso",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Alleh",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -6365,6 +6365,24 @@
     },
     {
       "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/540pquD3B2fmai9xx25RII"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284533,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/7bFKJ91RTq6wcZJMK1LQRa"
+    },
+    {
+      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
@@ -7730,7 +7748,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 211712,
       "name": "El Poema",
       "url": "https://open.spotify.com/track/1RtgoLpHnN8BoVZsucrXYw"
@@ -8387,6 +8405,24 @@
     },
     {
       "album": {
+        "name": "Equilibrar la Balanza | Daltonismo",
+        "url": "https://open.spotify.com/album/2VPxqkYjl8gPhQsheutnRI"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207368,
+      "name": "Equilibrar la Balanza (Oops I did It)",
+      "url": "https://open.spotify.com/track/42TyvbFEvrA4HLqSe170tS"
+    },
+    {
+      "album": {
         "name": "Era Tan Real?",
         "url": "https://open.spotify.com/album/7xyt1AtIQf5qO0k5kXu869"
       },
@@ -8980,6 +9016,28 @@
       "duration_ms": 166160,
       "name": "FA-TAL!",
       "url": "https://open.spotify.com/track/6nd4ow9awpeLLY1m7mlTVu"
+    },
+    {
+      "album": {
+        "name": "FALL ASLEEP",
+        "url": "https://open.spotify.com/album/2ysJSWzpdORGjo0xJ0pTTh"
+      },
+      "artists": [
+        {
+          "name": "LOCKWARD",
+          "url": "https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174782,
+      "name": "FALL ASLEEP",
+      "url": "https://open.spotify.com/track/03mTFUWbS2darb7sePx06J"
     },
     {
       "album": {
@@ -9668,6 +9726,24 @@
       "duration_ms": 168750,
       "name": "fuimos amigos",
       "url": "https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo"
+    },
+    {
+      "album": {
+        "name": "fuimos felices",
+        "url": "https://open.spotify.com/album/089brC1OhSSily0dlDlMVJ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218699,
+      "name": "fuimos felices",
+      "url": "https://open.spotify.com/track/22bf5wVhqgQV3SXnFOQLaW"
     },
     {
       "album": {
@@ -10406,7 +10482,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 171000,
       "name": "Hist\u00e9rica",
       "url": "https://open.spotify.com/track/7zVljuJTZHvl0RHi0LEDYG"
@@ -10646,7 +10722,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 136446,
       "name": "IBUPROFENO",
       "url": "https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ"
@@ -11132,7 +11208,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195886,
       "name": "JEEP",
       "url": "https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t"
@@ -12406,7 +12482,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 138839,
       "name": "Las Cosas Que Solo Se Hacen En La Noche (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/0z59N9OGE9pCeN9c0yMZHq"
@@ -17009,6 +17085,24 @@
     },
     {
       "album": {
+        "name": "NOVELA (chica q guapa)",
+        "url": "https://open.spotify.com/album/7y7R94bDFRBKAZh8gEFXPD"
+      },
+      "artists": [
+        {
+          "name": "Annasofia",
+          "url": "https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176404,
+      "name": "NOVELA (chica q guapa)",
+      "url": "https://open.spotify.com/track/5Z63bP7bF6Vx7oyaicMyts"
+    },
+    {
+      "album": {
         "name": "NOW",
         "url": "https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC"
       },
@@ -17614,6 +17708,28 @@
       "duration_ms": 241290,
       "name": "Only A Dream",
       "url": "https://open.spotify.com/track/28Z2OxIisSLEPQqpPwOXRU"
+    },
+    {
+      "album": {
+        "name": "ORIGAMI",
+        "url": "https://open.spotify.com/album/797dBz2qHdt8W3tDV2a8l1"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        },
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "ORIGAMI - &TEAM",
+      "url": "https://open.spotify.com/track/7ryS70o9gUeHXAwsEAQIQv"
     },
     {
       "album": {
@@ -21857,6 +21973,24 @@
     },
     {
       "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/0AAfjNV5Nf9ATaMKXR5fQt"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "SOBREVALORADO",
+      "url": "https://open.spotify.com/track/5d4A5YskfqBAFcIAny3zVm"
+    },
+    {
+      "album": {
         "name": "SOLA",
         "url": "https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N"
       },
@@ -24787,6 +24921,24 @@
     },
     {
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/4NiZ1mlAfCvJxyWRIGX1vj"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211914,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/5qHY2RgmTO9pBgRiZWMg60"
+    },
+    {
+      "album": {
         "name": "Una Vez Y Ya",
         "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
       },
@@ -25746,7 +25898,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178874,
       "name": "ya no estoy",
       "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
@@ -26104,7 +26256,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 194053,
       "name": "\u00bfC\u00f3mo huir?",
       "url": "https://open.spotify.com/track/1qutwPbEKgHAciZFStAPHS"
@@ -26400,7 +26552,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217278,
       "name": "\u00faltima vez!",
       "url": "https://open.spotify.com/track/2Y6SsgcBR0Kze3efXG54Zu"

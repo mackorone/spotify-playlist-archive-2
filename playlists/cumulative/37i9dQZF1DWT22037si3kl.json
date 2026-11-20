@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "pral\u00e9m de outfit. AURA. Foto: Klisman",
+  "description": "pral\u00e9m de outfit. AURA. Foto: Bruno Kroz",
   "name": "O Drip",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 200757,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 145812,
       "name": "CONFISS\u00d5ES PT2",
       "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
@@ -4615,6 +4615,28 @@
     },
     {
       "album": {
+        "name": "Black Roma Sangue",
+        "url": "https://open.spotify.com/album/4qMiJiSzIghKkPg3LaRgSa"
+      },
+      "artists": [
+        {
+          "name": "Bruno Kroz",
+          "url": "https://open.spotify.com/artist/7LczxvGNBpgewPG6qMSr7K"
+        },
+        {
+          "name": "ANTCONSTANTINO",
+          "url": "https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Freestyle 23",
+      "url": "https://open.spotify.com/track/4K6a6oe5Yuwvop0FuS3L4p"
+    },
+    {
+      "album": {
         "name": "Frenesi",
         "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
       },
@@ -5935,6 +5957,32 @@
     },
     {
       "album": {
+        "name": "JOYSTICK",
+        "url": "https://open.spotify.com/album/6Ew1gAQb5w56O5BiZWbWyQ"
+      },
+      "artists": [
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "bwhatudoin",
+          "url": "https://open.spotify.com/artist/4efJOhkoi4uqW0vULYPEUR"
+        },
+        {
+          "name": "Yoko",
+          "url": "https://open.spotify.com/artist/0UenuJp55lQTf168bwDCcH"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140282,
+      "name": "JOYSTICK",
+      "url": "https://open.spotify.com/track/1vQrVAc9sHU6jlSqTB8CFV"
+    },
+    {
+      "album": {
         "name": "J\u00f3ias do Bairro",
         "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
@@ -5958,7 +6006,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 171285,
       "name": "J\u00f3ias do Bairro",
       "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
@@ -6140,7 +6188,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173114,
       "name": "Lado Negro",
       "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
@@ -7126,7 +7174,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 202282,
       "name": "Mente Al\u00e9m",
       "url": "https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7"
@@ -8362,6 +8410,32 @@
       "duration_ms": 212728,
       "name": "Nova Fase",
       "url": "https://open.spotify.com/track/2V4uzJ0zujKhwlhVQ0NAQH"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o importa o carro",
+        "url": "https://open.spotify.com/album/1VhVMWlajqYNqwmZkV4Oln"
+      },
+      "artists": [
+        {
+          "name": "Soh Lopez",
+          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "VTnoBeat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104025,
+      "name": "N\u00e3o importa o carro",
+      "url": "https://open.spotify.com/track/6xzlwM9Zc4aMqWOlcYeEbL"
     },
     {
       "album": {
@@ -11043,6 +11117,40 @@
     },
     {
       "album": {
+        "name": "Sexy",
+        "url": "https://open.spotify.com/album/6kINa9GXErL9yEvjDIMv6D"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Lp067",
+          "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166354,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/1W3CW7nSiKfTXRgF5CxSYF"
+    },
+    {
+      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -11204,6 +11312,28 @@
       "duration_ms": 155624,
       "name": "SP",
       "url": "https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf"
+    },
+    {
+      "album": {
+        "name": "Black Roma Sangue",
+        "url": "https://open.spotify.com/album/4qMiJiSzIghKkPg3LaRgSa"
+      },
+      "artists": [
+        {
+          "name": "Bruno Kroz",
+          "url": "https://open.spotify.com/artist/7LczxvGNBpgewPG6qMSr7K"
+        },
+        {
+          "name": "Balahype",
+          "url": "https://open.spotify.com/artist/6wLiQy9P5AQCRGd85NWqKc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128580,
+      "name": "Spike Lee",
+      "url": "https://open.spotify.com/track/234ow6ziH0C9iOLzFNPNt7"
     },
     {
       "album": {
@@ -11890,6 +12020,36 @@
       "duration_ms": 288000,
       "name": "TRAP DE MALOKA",
       "url": "https://open.spotify.com/track/7t0GcNEgTvKsBHP2EzWb4G"
+    },
+    {
+      "album": {
+        "name": "SWAGBOY",
+        "url": "https://open.spotify.com/album/2loXXlyHN8FryF7CB5Vo4N"
+      },
+      "artists": [
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "C4rlinhxs",
+          "url": "https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp"
+        },
+        {
+          "name": "vvallace",
+          "url": "https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201529,
+      "name": "Traumas de um Negro do Bairro",
+      "url": "https://open.spotify.com/track/36M8gvRU5RxJQhClG2g0pD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,183 likes - 47 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,198 likes - 47 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 30 | [Floods of Triton](https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Floods of Triton](https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp) | 4:29 |
 | 31 | [Children of the Grave](https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Children of the Grave](https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau) | 4:47 |
 | 32 | [Vigil](https://open.spotify.com/track/2kGdo6DcwxnQ2WF3oS6ksx) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3d4wfa7dIdOJktclcAcNDy) | 4:43 |
-| 33 | [Broken Hands](https://open.spotify.com/track/6NiSeUWwcyWVN6F55fCTZS) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Deluxe Edition\)](https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp) | 3:53 |
+| 33 | [Set To Fail](https://open.spotify.com/track/2YjQjUJjwKLxsi9RUG2n73) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Deluxe Edition\)](https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp) | 3:46 |
 | 34 | [New Colossal Hate](https://open.spotify.com/track/1ILi61AsfqMfUvxWpoJiuc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 |
 | 35 | [Omens](https://open.spotify.com/track/2calJdlU1JseiOf7c5jXwP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:47 |
 | 36 | [Black Label](https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:52 |
-| 37 | [Set To Fail](https://open.spotify.com/track/2YjQjUJjwKLxsi9RUG2n73) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Deluxe Edition\)](https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp) | 3:46 |
+| 37 | [Broken Hands](https://open.spotify.com/track/6NiSeUWwcyWVN6F55fCTZS) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Deluxe Edition\)](https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp) | 3:53 |
 | 38 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
 | 39 | [Vanishing](https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 4:48 |
 | 40 | [Still Echoes](https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:22 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 46 | [Nevermore](https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 4:35 |
 | 47 | [Contractor](https://open.spotify.com/track/3AYvw5XXAiUbdCVUDXPalt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Deluxe Edition\)](https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp) | 3:22 |
 
-Snapshot ID: `avpHgAAAAACmFah+i0FPepKFW9PlxuUC`
+Snapshot ID: `avzqgAAAAABl/b11pZ+pFzked6KHeEmI`

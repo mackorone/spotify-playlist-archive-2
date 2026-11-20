@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Victony",
-  "num_followers": 123673,
+  "num_followers": 123718,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHEKOmRrRH5bBDFqYPyLwWzBWc3d",
+  "snapshot_id": "AAAAAH4nZM/rqRsO8Z+BMtnzgUkY1iaz",
   "tracks": [
     {
       "added_at": "2026-10-27 04:00:01",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "i think he's got a girl",
-        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 214559,
-      "name": "i think he's got a girl",
-      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "La Falda",
         "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 155586,
       "name": "La Falda",
       "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "i think he's got a girl",
+        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 214559,
+      "name": "i think he's got a girl",
+      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 185330,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "the greatest album of all time",
         "url": "https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 310596,
       "name": "Now I've Got A Lot You Know",
       "url": "https://open.spotify.com/track/2Ike8PM0QWeAMeBxM8b7pY"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 185330,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "We'll Never Be This Young Again",
-        "url": "https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl"
-      },
-      "artists": [
-        {
-          "name": "Laila!",
-          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
-        }
-      ],
-      "duration_ms": 141622,
-      "name": "We'll Never Be This Young Again",
-      "url": "https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 151146,
       "name": "Knife",
       "url": "https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 141622,
+      "name": "We'll Never Be This Young Again",
+      "url": "https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn"
     },
     {
       "added_at": "2026-10-27 04:00:01",

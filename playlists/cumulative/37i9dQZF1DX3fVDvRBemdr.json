@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop. Cover: Senna & Monique Smit",
+  "description": "De nieuwste Hollands & Volkspop. Cover: Rene Karst \ud83e\udd0d",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -2645,6 +2645,28 @@
     },
     {
       "album": {
+        "name": "Dat Ik Je Zie",
+        "url": "https://open.spotify.com/album/7E6x182kA3x2OYMWYQ6KZS"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "Jennifer",
+          "url": "https://open.spotify.com/artist/3LdfkUJyJmYBCtY7RQ8lKa"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160236,
+      "name": "Dat Ik Je Zie",
+      "url": "https://open.spotify.com/track/64vwRYnUDKYLFMyeioYbgc"
+    },
+    {
+      "album": {
         "name": "Dat Interesseert Me Echt Geen Ene Reet",
         "url": "https://open.spotify.com/album/3OhugkmPHPppqXSjBIIU54"
       },
@@ -2986,7 +3008,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172218,
       "name": "De Liefde Die blijft",
       "url": "https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh"
@@ -3232,7 +3254,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160264,
       "name": "De Wasserette",
       "url": "https://open.spotify.com/track/4xmWQPFSQRrZZzpooW4hHN"
@@ -4101,6 +4123,24 @@
     },
     {
       "album": {
+        "name": "Een Nacht In Napoli",
+        "url": "https://open.spotify.com/album/1wA9f1cLuZQksu5HIUt76x"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Een Nacht In Napoli",
+      "url": "https://open.spotify.com/track/3pWeWUvsXKVvdJ2cRTQvoY"
+    },
+    {
+      "album": {
         "name": "Een Zomernacht Met Jou",
         "url": "https://open.spotify.com/album/3rGNR1Auh07J49KyJV8oYB"
       },
@@ -4332,7 +4372,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172550,
       "name": "E\u00e9n Blik Is Genoeg",
       "url": "https://open.spotify.com/track/3wQjSUkmpuNp8ML9ZUFJ7W"
@@ -5324,7 +5364,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203437,
       "name": "Griekse nacht",
       "url": "https://open.spotify.com/track/6SA5rOg6OhuHThoonvTyrz"
@@ -5819,6 +5859,24 @@
     },
     {
       "album": {
+        "name": "Roots (Live in Carr\u00e9)",
+        "url": "https://open.spotify.com/album/6YatVRjJ4rxpbneaNrU9D0"
+      },
+      "artists": [
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170433,
+      "name": "Het Is Weer Weekend - Live in Carr\u00e9",
+      "url": "https://open.spotify.com/track/3uSQZrLZHI86cRqhM098Jt"
+    },
+    {
+      "album": {
         "name": "Het Liefst De Hele Nacht",
         "url": "https://open.spotify.com/album/2t32yAjYditlXTYt1npcZQ"
       },
@@ -6026,6 +6084,24 @@
       "duration_ms": 190304,
       "name": "Heya Heya",
       "url": "https://open.spotify.com/track/2ae8lMy1uqJlIesBYef1ZP"
+    },
+    {
+      "album": {
+        "name": "Hier Heb Ik Geen Tijd Meer Voor",
+        "url": "https://open.spotify.com/album/4YrVk8426Rnbt5pyHuhIxL"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207658,
+      "name": "Hier Heb Ik Geen Tijd Meer Voor",
+      "url": "https://open.spotify.com/track/0UH9tn3DjHthal2jDGRiUY"
     },
     {
       "album": {
@@ -7248,7 +7324,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 167600,
       "name": "Ik Rot Op Naar Spanje",
       "url": "https://open.spotify.com/track/68ApfWwxzGgqBDKjOwjLuE"
@@ -8195,6 +8271,24 @@
     },
     {
       "album": {
+        "name": "Je Leeft Maar Ene Keer",
+        "url": "https://open.spotify.com/album/02LlsDMwvj1bsTsUdNmgdN"
+      },
+      "artists": [
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184518,
+      "name": "Je Leeft Maar Ene Keer",
+      "url": "https://open.spotify.com/track/2Kk1MCZRA7o5lQJ3Vwj8RH"
+    },
+    {
+      "album": {
         "name": "Je Weet Niet Wat Je Mist",
         "url": "https://open.spotify.com/album/6ibwU9gWM7PpCvrnJRozhp"
       },
@@ -8646,6 +8740,24 @@
       "duration_ms": 168000,
       "name": "Kan Jij Wel Kiezen",
       "url": "https://open.spotify.com/track/4J57KNDROyNm7RN8sEEB2H"
+    },
+    {
+      "album": {
+        "name": "Kapot Van Jou",
+        "url": "https://open.spotify.com/album/6X9Far7k1lUkJdeID5Ne7J"
+      },
+      "artists": [
+        {
+          "name": "Zanger Alex",
+          "url": "https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175386,
+      "name": "Kapot Van Jou",
+      "url": "https://open.spotify.com/track/3PLgTcVnBsWvJWRS0k7vgk"
     },
     {
       "album": {
@@ -9214,7 +9326,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164151,
       "name": "Laat Dit Niet Lopen",
       "url": "https://open.spotify.com/track/2fVdIcivrugKTCe9pmuE3z"
@@ -9446,6 +9558,24 @@
       "duration_ms": 147692,
       "name": "Laat Ze Maar Praten",
       "url": "https://open.spotify.com/track/2YKa8tyRrpSsO0vnWyopqU"
+    },
+    {
+      "album": {
+        "name": "Laatste Zomernacht",
+        "url": "https://open.spotify.com/album/3zf7LSK0lSUsjfJfvfWirf"
+      },
+      "artists": [
+        {
+          "name": "Gerrit Schneider",
+          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Laatste Zomernacht",
+      "url": "https://open.spotify.com/track/3uCJLWmbMYExNHQIIaKUpA"
     },
     {
       "album": {
@@ -12158,7 +12288,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154042,
       "name": "Perfecto",
       "url": "https://open.spotify.com/track/3EmoZpRUBvhpSVbBQIO016"
@@ -13587,6 +13717,24 @@
     },
     {
       "album": {
+        "name": "Tranen in 't zand",
+        "url": "https://open.spotify.com/album/7HVKekpzn0Dj1yZr9d5ZED"
+      },
+      "artists": [
+        {
+          "name": "Martijn Douma",
+          "url": "https://open.spotify.com/artist/1qgYOq5w9QMjU2xxyYCAl8"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Tranen in 't zand",
+      "url": "https://open.spotify.com/track/3tr9OVrMatOa0t3FQNKRcz"
+    },
+    {
+      "album": {
         "name": "Tranen van verdriet",
         "url": "https://open.spotify.com/album/4vnWiavaa1s7dfSfpjlCDq"
       },
@@ -14379,6 +14527,24 @@
     },
     {
       "album": {
+        "name": "Vlinders",
+        "url": "https://open.spotify.com/album/71is3fQG4sfVH8pbOLCssp"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152693,
+      "name": "Vlinders",
+      "url": "https://open.spotify.com/track/1kYo0gziAjD4oe9iHWQLr3"
+    },
+    {
+      "album": {
         "name": "Vloek van Barcelona",
         "url": "https://open.spotify.com/album/2AkdWDqde887HRYN1I3kVb"
       },
@@ -14628,6 +14794,32 @@
       "duration_ms": 148954,
       "name": "Vreemde uit de kroeg",
       "url": "https://open.spotify.com/track/4WjLLhdrqjaCGgZ380aWlY"
+    },
+    {
+      "album": {
+        "name": "Vrienden Voor Altijd",
+        "url": "https://open.spotify.com/album/6HUkKUsSc7gvuyQ4yLjbhI"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        },
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Samantha Steenwijk",
+          "url": "https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167898,
+      "name": "Vrienden Voor Altijd",
+      "url": "https://open.spotify.com/track/3WmyRqkjV14uKcueq03IEV"
     },
     {
       "album": {
@@ -15772,7 +15964,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 162559,
       "name": "Wilde Rodeo",
       "url": "https://open.spotify.com/track/22PeNKVzgb9yZGN6T78H5r"

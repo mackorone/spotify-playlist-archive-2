@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,636 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,641 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 59 | [La Luna](https://open.spotify.com/track/0J4eAUX6z4fMmQl0DNGbEv) | [Defame](https://open.spotify.com/artist/7uYhekWGqh5EvQAaKC2WxS), [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [The NORF Tape](https://open.spotify.com/album/6FHC8uKiR12QlB4JpVgcMk) | 3:30 |
 | 60 | [THANNA](https://open.spotify.com/track/6ByC9ct1jz0yUnqWa4SRdz) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:58 |
 
-Snapshot ID: `AAAAAA6ugqOxti0Rv2mEd2LvrYeQyQ0b`
+Snapshot ID: `AAAAAJepUnQKrZyGa6r7UNsgGAFsqc2W`

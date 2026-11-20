@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 267876,
+  "num_followers": 267890,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABnCejfdjwwdTxjeI1CJW7T",
+  "snapshot_id": "avzqgAAAAABJ3PIk6sI5kU/qdKxr1XSb",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 166735,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Thing Right",
         "url": "https://open.spotify.com/album/1zZyFySIvpfT6Vl9reroCL"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 181823,
       "name": "One Thing Right",
       "url": "https://open.spotify.com/track/7gZXCjAy6nxKCQWLEeX4LZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 166735,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
     },
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "The one (Pero no como yo)",
-      "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The High Road",
         "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 264800,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "The one (Pero no como yo)",
+      "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "Bury Me in Georgia",
-      "url": "https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My City (FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/1aLqbEIzAVcrTLgx92YW1h"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 149263,
       "name": "My City",
       "url": "https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "Bury Me in Georgia",
+      "url": "https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "What's Mine Is Yours",
+      "url": "https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Next To You (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "What's Mine Is Yours",
-      "url": "https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/5OYu7glZ8Ks8N1fPEmrtOX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 147866,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/5OYu7glZ8Ks8N1fPEmrtOX"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Fiddle in the Band",
-      "url": "https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "17 Problems",
         "url": "https://open.spotify.com/album/02epJ6msSRbMcoCbZGLV1h"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 173215,
       "name": "Song For My Son (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/2wUT327Dd5zPsUpE7lMqly"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "Fiddle in the Band",
+      "url": "https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO"
     },
     {
       "added_at": null,
@@ -899,22 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+        "name": "Nothing Compares To You (Feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 182506,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida"
+      "duration_ms": 207800,
+      "name": "Nothing Compares To You (Feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
     }
   ],
   "unique_name": "This Is Kane Brown",

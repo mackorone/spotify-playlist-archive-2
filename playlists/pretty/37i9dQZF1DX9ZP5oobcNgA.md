@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,761 likes - 61 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,787 likes - 61 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 | 60 | [Ode for St\. Cecilia's Day, HWV 76: Overture](https://open.spotify.com/track/0mloLmeqwsy2l54NuGVOks) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Dorothee Mields](https://open.spotify.com/artist/1gIjaA2XzQwFRHIvVuKwJW), [Mark Wilde](https://open.spotify.com/artist/4t6daUBglCyJx1nkfd9Ujg), [Alsfelder Vocal Ensemble](https://open.spotify.com/artist/2lrvc8UMdJ2BhGovPvtvUU), [Concerto Polacco](https://open.spotify.com/artist/0bkbqZQcQ6YuF9n5VqP2RS), [Wolfgang Helbich](https://open.spotify.com/artist/2SO4aqT8yXQjufs0DhVS61) | [Handel: Ode for St\. Cecilia's Day](https://open.spotify.com/album/5U0Py9YY5AwiH2BiH5nrI8) | 3:33 |
 | 61 | [Rinaldo, HWV 7, Act I Scene 7: Aria\. Cara sposa, amante cara, dove sei? \(Rinaldo\)](https://open.spotify.com/track/4m9AaW06KPOUrite3eja5l) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Marion Newman](https://open.spotify.com/artist/75vVcn9hLeYBBg0huooqUT), [Melinda Delorme](https://open.spotify.com/artist/1haKY9W8yelYsNlhY89ufS), [Lenard Whiting](https://open.spotify.com/artist/0cUqY7VI9p5M6gSyeLHiY6), [Opera in Concert](https://open.spotify.com/artist/5vSieuKQcFT2byBKVk7xS6), [Aradia Ensemble](https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk), [Kevin Mallon](https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s), [Laura Whalen](https://open.spotify.com/artist/6CPV8Gp7FgNODTXGiLbIPk), [Kimberley Barber](https://open.spotify.com/artist/6nkeyUzgUIV3Rixm7FFJ1X), [Jennifer Ens Modolo](https://open.spotify.com/artist/5xYPtzEIWBCvHEUbKmuql6), [Sean Watson](https://open.spotify.com/artist/3wTSCuKXDYYjNHnBO8415A), [Barbara Hannigan](https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq), [Giles Tomkins](https://open.spotify.com/artist/6HvEGmJfZwQp5muiZMHO7A), [Nicole Bower](https://open.spotify.com/artist/7okUWPLNp8hYl0qUunJt79), [Catherine Affleck](https://open.spotify.com/artist/7siOn03bL8FpZ1roVqpflv) | [Handel: Rinaldo](https://open.spotify.com/album/73sgulPZjDhSvSogFTiRhP) | 10:30 |
 
-Snapshot ID: `AAAAACGXjEBHeoUgrCph5EmfnlVc4HpT`
+Snapshot ID: `AAAAAOiho1lzdP0FAT0keqOVKENCoPGy`

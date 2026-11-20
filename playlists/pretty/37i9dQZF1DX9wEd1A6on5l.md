@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 
 > Get the party started with these Naija bangers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,374 likes - 78 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,416 likes - 78 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 28 | [fine ting \(fine $hit\)](https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [fine ting \(fine $hit\)](https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa) | 3:15 |
 | 29 | [CA$H OUT](https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [NOMADINHO: 4TH PRIME](https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3) | 2:36 |
 | 30 | [Dantata](https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Dantata](https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn) | 2:51 |
-| 31 | [Amen](https://open.spotify.com/track/5xFnqGLySijRJ2q6som381) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 3:25 |
-| 32 | [MOVE](https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [MOVE](https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K) | 1:56 |
+| 31 | [MOVE](https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [MOVE](https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K) | 1:56 |
+| 32 | [Amen](https://open.spotify.com/track/5xFnqGLySijRJ2q6som381) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 3:25 |
 | 33 | [GODDESS](https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 2:51 |
 | 34 | [Mofe](https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Mofe](https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB) | 3:05 |
 | 35 | [Lalala](https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:58 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 50 | [LAPOPIANO](https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [LAPOPIANO](https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim) | 2:19 |
 | 51 | [CnF \(Gbewa\)](https://open.spotify.com/track/3xPcMAHga74TZWXbH7kGa8) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:44 |
 | 52 | [Beautiful](https://open.spotify.com/track/1HOQQpVwY6erTTCnQfvt7t) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Beautiful](https://open.spotify.com/album/6qACH9R67mlG2RfEejcQzl) | 3:33 |
-| 53 | [ITALAWA](https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [ITALAWA](https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W) | 2:53 |
+| 53 | [Orindowo](https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Orindowo](https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE) | 2:47 |
 | 54 | [Ijoba](https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Ijoba](https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj) | 2:19 |
-| 55 | [Orindowo](https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Orindowo](https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE) | 2:47 |
+| 55 | [ITALAWA](https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [ITALAWA](https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W) | 2:53 |
 | 56 | [Gimme Dat Ting \(with NO11\)](https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [Gimme Dat Ting](https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc) | 4:03 |
 | 57 | [Bere Mole](https://open.spotify.com/track/2M4YN74KUMwp9ZwsmG940X) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Bere Mole](https://open.spotify.com/album/6b0PDljmr8tfN7ziTGgECf) | 1:53 |
-| 58 | [Realize](https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Realize](https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH) | 2:10 |
-| 59 | [SPEND SPEND](https://open.spotify.com/track/7i1weP95VcDDoYvUSvRuzd) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [SPEND SPEND](https://open.spotify.com/album/219vDdqxGAxrmzxc8z6rjJ) | 2:36 |
+| 58 | [SPEND SPEND](https://open.spotify.com/track/7i1weP95VcDDoYvUSvRuzd) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [SPEND SPEND](https://open.spotify.com/album/219vDdqxGAxrmzxc8z6rjJ) | 2:36 |
+| 59 | [Realize](https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Realize](https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH) | 2:10 |
 | 60 | [disco](https://open.spotify.com/track/6jcyiJ9pS1gkPvZvgl9ZO5) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:13 |
 | 61 | [Attack](https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Attack](https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM) | 2:33 |
 | 62 | [Love Egbugomo](https://open.spotify.com/track/1pi9XMrwEocfCRlDiEDrHM) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Love Egbugomo](https://open.spotify.com/album/7wQM76tkNQjgyK1NBEs2nt) | 2:31 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 77 | [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 |
 | 78 | [Romeo and juliet](https://open.spotify.com/track/5qtqBs37uoil2KurOjGGni) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Romeo and juliet](https://open.spotify.com/album/0wMbgIjbepQQTZelXX9v2S) | 2:31 |
 
-Snapshot ID: `AAAAAKzjhPs+mek5bzSc7tRRKTUf74Hh`
+Snapshot ID: `AAAAAFLI1vJ4VrckL+gb4jEAHc60eg4u`

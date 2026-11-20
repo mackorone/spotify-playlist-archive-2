@@ -626,7 +626,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 123378,
       "name": "Airen",
       "url": "https://open.spotify.com/track/4Ekma2XsSu0szIvicDUtTw"
@@ -4388,7 +4388,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 118578,
       "name": "did you call me?",
       "url": "https://open.spotify.com/track/12Vgtv9Ojfv8eN6DY3s6dQ"
@@ -13037,6 +13037,24 @@
     },
     {
       "album": {
+        "name": "Nightingale",
+        "url": "https://open.spotify.com/album/22PgMwXVEzaSwxUljijrE9"
+      },
+      "artists": [
+        {
+          "name": "burdee",
+          "url": "https://open.spotify.com/artist/1JTy0YhsNLQmQZlvWSHsCg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135833,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/3QcL5t2oQMlQwPAc79FHD5"
+    },
+    {
+      "album": {
         "name": "Nightlie",
         "url": "https://open.spotify.com/album/0GC1DNI4n7wFxDEEGSpuqC"
       },
@@ -13370,7 +13388,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 133170,
       "name": "Off We Go",
       "url": "https://open.spotify.com/track/7eQLmNuILoeE8i9IOh75F6"
@@ -18721,6 +18739,24 @@
     },
     {
       "album": {
+        "name": "static pools",
+        "url": "https://open.spotify.com/album/6Gsgte1iP9u3cl2cEhIuJ0"
+      },
+      "artists": [
+        {
+          "name": "heirloom",
+          "url": "https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138085,
+      "name": "static pools",
+      "url": "https://open.spotify.com/track/7jFjiVaO2nTlEgxdvgeK4P"
+    },
+    {
+      "album": {
         "name": "stay closer",
         "url": "https://open.spotify.com/album/5pSHFnyIyAM9LWI2CtGXhJ"
       },
@@ -19260,7 +19296,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164545,
       "name": "Summerbreak",
       "url": "https://open.spotify.com/track/61BZYQebepBYfcVBuHgsV2"
@@ -20522,7 +20558,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 133378,
       "name": "The Other Trail",
       "url": "https://open.spotify.com/track/1x5olsNXOr8oPYjUJXZToz"
@@ -22886,6 +22922,24 @@
       "duration_ms": 147000,
       "name": "Wine To The Plants",
       "url": "https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR"
+    },
+    {
+      "album": {
+        "name": "Winter Postcards",
+        "url": "https://open.spotify.com/album/0Xw7bhI8q582y8dgMkZI9p"
+      },
+      "artists": [
+        {
+          "name": "minoumi",
+          "url": "https://open.spotify.com/artist/4ZgI4V653zyvBVnIv20F0K"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130660,
+      "name": "Winter Postcards",
+      "url": "https://open.spotify.com/track/3iQWv46fN8B5R9vwckT6SA"
     },
     {
       "album": {

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Fried Banana Shop
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,346 likes - 133 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,350 likes - 133 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Imitation](https://open.spotify.com/track/401JOzWwvhKGessUlI1CDD) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Imitation](https://open.spotify.com/album/5GDUjGBWVbLhudm9ApjrQG) | 2:19 |
-| 2 | [COG](https://open.spotify.com/track/5LQdqreNUvMFGzJwdixP7W) | [HIMIZ](https://open.spotify.com/artist/2mESmN0OF6exC4Sj5qySOD), [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx) | [Temple Days](https://open.spotify.com/album/54Ncmv0VI2pWugNWYZFRcB) | 4:43 |
+| 2 | [COG](https://open.spotify.com/track/5LQdqreNUvMFGzJwdixP7W) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy), [HIMIZ](https://open.spotify.com/artist/2mESmN0OF6exC4Sj5qySOD), [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx) | [Temple Days](https://open.spotify.com/album/54Ncmv0VI2pWugNWYZFRcB) | 4:43 |
 | 3 | [Green Willow](https://open.spotify.com/track/7CFmnDU3MAk4KHOtggpb3R) | [Sup](https://open.spotify.com/artist/56p5ak4D7Ltq49E5yTRRm7), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N) | [Green Willow](https://open.spotify.com/album/4QOGmuRg1SroFT2JbRB0OQ) | 5:05 |
 | 4 | [doodle spring](https://open.spotify.com/track/0iMhH8x6MM9jCscW4QTsvx) | [Misaki Umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO) | [doodle spring](https://open.spotify.com/album/33cHBy8VpEfEmWThsH21vZ) | 3:41 |
 | 5 | [Howl](https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Howl](https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs) | 3:03 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 132 | [Lifetones \- Vocal Version feat\. Asheber](https://open.spotify.com/track/25w5gn0TiUNWxvkBFyBV3P) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Asheber](https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw) | [Lifetones \(Vocal Version feat\. Asheber\)](https://open.spotify.com/album/74PcPypFj9k4vXFClPYUuH) | 7:19 |
 | 133 | [Set Free](https://open.spotify.com/track/3cP5ydT8hYdFmWzJKv6OLX) | [RINA](https://open.spotify.com/artist/3ABOdJFarjLxw2UgIowVyl) | [JOKER](https://open.spotify.com/album/4QSZHGfXMGNnvNyw0HuzE6) | 4:23 |
 
-Snapshot ID: `AAAAAH1wUBgUdSS85ah84+/wS5LBiTNE`
+Snapshot ID: `AAAAAEL1VxG+JkRprnwTAoHdjFo7PhNe`

@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs sons du mois d'Octobre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Snoh Aalegra",
-  "num_followers": 401031,
+  "num_followers": 401020,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Octobre 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLMs6ehaFwf7WuUYLQ9Pyorlp/9",
+  "snapshot_id": "AAAAAIE9BIOBwXVcWkV6rLd2HbMWjXn4",
   "tracks": [
     {
       "added_at": "2026-10-31 23:00:12",
@@ -83,22 +83,6 @@
     {
       "added_at": "2026-10-31 23:00:12",
       "album": {
-        "name": "i think he's got a girl",
-        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 214559,
-      "name": "i think he's got a girl",
-      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
-    },
-    {
-      "added_at": "2026-10-31 23:00:12",
-      "album": {
         "name": "La Falda",
         "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 155586,
       "name": "La Falda",
       "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
+    },
+    {
+      "added_at": "2026-10-31 23:00:12",
+      "album": {
+        "name": "i think he's got a girl",
+        "url": "https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 214559,
+      "name": "i think he's got a girl",
+      "url": "https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y"
     },
     {
       "added_at": "2026-10-31 23:00:12",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-10-31 23:00:12",
       "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/73agEe7EOBj973yHVERdiX"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf"
-    },
-    {
-      "added_at": "2026-10-31 23:00:12",
-      "album": {
         "name": "Try A Hundred Times",
         "url": "https://open.spotify.com/album/6wAVQX0HJbLdyIHlRkBmVE"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 219648,
       "name": "Try A Hundred Times",
       "url": "https://open.spotify.com/track/161RBd1KoPgrzPUGSgcIIB"
+    },
+    {
+      "added_at": "2026-10-31 23:00:12",
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/73agEe7EOBj973yHVERdiX"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf"
     },
     {
       "added_at": "2026-10-31 23:00:12",

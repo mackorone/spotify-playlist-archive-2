@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Fat Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,330 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,343 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Call It What You Want](https://open.spotify.com/track/7M3KXts1VYicFwyjNcdWRs) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/74vQ5qdsnCnKnTS9Xmv8il) | 2:50 |
-| 2 | [Soon](https://open.spotify.com/track/36ioiLlMmxKqysi3frCnBZ) | [Honey I'm Home](https://open.spotify.com/artist/4nOBSMvnstrNNr5Bl7z2OA) | [Soon](https://open.spotify.com/album/65BPUIIClNLabGsuwyO4xm) | 4:01 |
-| 3 | [Lost In Motion](https://open.spotify.com/track/7gl1TEeJaXnR9MWNRTvAgm) | [Moss](https://open.spotify.com/artist/2b5IpGsb4QnU46rf1jpZQ0) | [Lost In Motion](https://open.spotify.com/album/1BZ0bBcdVj2R9qW3feZlT5) | 3:22 |
-| 4 | [If I'm Dead](https://open.spotify.com/track/1loytgYTOHcGYq8sO6R2dZ) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [If I'm Dead](https://open.spotify.com/album/0cUHAnEo4NpQJTJUMQF1TW) | 3:02 |
-| 5 | [sometimes, I only talk shit](https://open.spotify.com/track/33B24YM15pDylna8UPYZSH) | [FIEP](https://open.spotify.com/artist/4NicMfR6iYKLcfXs1ydcAE) | [sometimes, I only talk shit](https://open.spotify.com/album/7DqT3y3EeKb4yjPu7ZSYjY) | 3:01 |
-| 6 | [Black Stars \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/6qHi1FLsfgru61mcjxwDjm) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Black Stars](https://open.spotify.com/album/5tAdiRvTELKbO0vj1vcH5f) | 3:26 |
-| 7 | [Make It Easy](https://open.spotify.com/track/1sTGDnMOSEFYMW3zDPYF7M) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Make It Easy](https://open.spotify.com/album/7zfkgL9UrW9KkVupjbHQJk) | 3:17 |
-| 8 | [Winner](https://open.spotify.com/track/21GMGZQQ0MhG5mTe7cvs2Y) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Winner](https://open.spotify.com/album/52JHUm1Y7NIxLdKu0qGwjt) | 3:52 |
-| 9 | [Mimesis](https://open.spotify.com/track/0nLkVbVlIYIPsCTUYYiOuu) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:51 |
+| 2 | [Mimesis](https://open.spotify.com/track/0nLkVbVlIYIPsCTUYYiOuu) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:51 |
+| 3 | [Soon](https://open.spotify.com/track/36ioiLlMmxKqysi3frCnBZ) | [Honey I'm Home](https://open.spotify.com/artist/4nOBSMvnstrNNr5Bl7z2OA) | [Soon](https://open.spotify.com/album/65BPUIIClNLabGsuwyO4xm) | 4:01 |
+| 4 | [Lost In Motion](https://open.spotify.com/track/7gl1TEeJaXnR9MWNRTvAgm) | [Moss](https://open.spotify.com/artist/2b5IpGsb4QnU46rf1jpZQ0) | [Lost In Motion](https://open.spotify.com/album/1BZ0bBcdVj2R9qW3feZlT5) | 3:22 |
+| 5 | [If I'm Dead](https://open.spotify.com/track/1loytgYTOHcGYq8sO6R2dZ) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [If I'm Dead](https://open.spotify.com/album/0cUHAnEo4NpQJTJUMQF1TW) | 3:02 |
+| 6 | [sometimes, I only talk shit](https://open.spotify.com/track/33B24YM15pDylna8UPYZSH) | [FIEP](https://open.spotify.com/artist/4NicMfR6iYKLcfXs1ydcAE) | [sometimes, I only talk shit](https://open.spotify.com/album/7DqT3y3EeKb4yjPu7ZSYjY) | 3:01 |
+| 7 | [Black Stars \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/6qHi1FLsfgru61mcjxwDjm) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Black Stars](https://open.spotify.com/album/5tAdiRvTELKbO0vj1vcH5f) | 3:26 |
+| 8 | [Make It Easy](https://open.spotify.com/track/1sTGDnMOSEFYMW3zDPYF7M) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Make It Easy](https://open.spotify.com/album/7zfkgL9UrW9KkVupjbHQJk) | 3:17 |
+| 9 | [Winner](https://open.spotify.com/track/21GMGZQQ0MhG5mTe7cvs2Y) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Winner](https://open.spotify.com/album/52JHUm1Y7NIxLdKu0qGwjt) | 3:52 |
 | 10 | [VISION](https://open.spotify.com/track/6x8MDxMoqVhnSXWy07s6xX) | [Quarters](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [VISION](https://open.spotify.com/album/1k8iox8vL0cWGsrsTiIGA0) | 4:03 |
 | 11 | [Backseat](https://open.spotify.com/track/31KsU3qjA8eQ5Kh9YQ9Cqt) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [It all feels the same from afar](https://open.spotify.com/album/0Wj5EYtvHmqW0OC8gKtoVC) | 2:14 |
 | 12 | [Much Love](https://open.spotify.com/track/4NQt1ZiyEhZtVV2MWXi7BL) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Surface, Echo & Sound](https://open.spotify.com/album/1kFTis4C1qmlRNK9jph1qC) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [7ebra](https://open.spotify.com/track/1k9f1Pe3ZLI0Y0NSnOZkZU) | [FIEP](https://open.spotify.com/artist/4NicMfR6iYKLcfXs1ydcAE) | [7ebra](https://open.spotify.com/album/3VNKeo1h9Bpk1BgGx2tsNJ) | 2:50 |
 | 100 | [A Scent](https://open.spotify.com/track/4wuFbKAAfBfpUTuqFC2d8F) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [A Scent](https://open.spotify.com/album/0FR3YdkK23ujPE7aepjJbM) | 2:59 |
 
-Snapshot ID: `AAAAAAxPuAkZz7Mqo4Aa6/SmfuG8+Rl4`
+Snapshot ID: `AAAAAAoTNTXiUJx6BRuc2FJx6r+4t/R5`

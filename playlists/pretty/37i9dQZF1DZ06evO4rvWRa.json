@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1635628,
+  "num_followers": 1635603,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADVIQHsOIlDbl9Q10XMta9X",
+  "snapshot_id": "avzqgAAAAABdEnu7C3tbm1b41RvEqy4A",
   "tracks": [
     {
       "added_at": null,
@@ -103,8 +103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm"
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
       "artists": [
         {
@@ -112,17 +112,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 193797,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq"
+      "duration_ms": 179052,
+      "name": "Alone, Pt. II",
+      "url": "https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem"
     },
     {
       "added_at": null,
@@ -143,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm"
       },
       "artists": [
         {
@@ -152,13 +148,17 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 179052,
-      "name": "Alone, Pt. II",
-      "url": "https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem"
+      "duration_ms": 193797,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/4ZPFShjjY5bGsyvn9aiqrd"
       },
       "artists": [
         {
@@ -376,13 +376,17 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "Isabella Melkman",
+          "url": "https://open.spotify.com/artist/6LUMKP6qSEprH1SlOvV8dx"
+        },
+        {
+          "name": "Katherine O'Ryan",
+          "url": "https://open.spotify.com/artist/00moSdFEmIK0ngjw332EyW"
         }
       ],
-      "duration_ms": 202719,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
+      "duration_ms": 148055,
+      "name": "Broken Strings",
+      "url": "https://open.spotify.com/track/4wepPpHACjMo8cd1TjK14j"
     },
     {
       "added_at": null,
@@ -415,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Walker, Season One: Rise of the Drones",
-        "url": "https://open.spotify.com/album/4ZPFShjjY5bGsyvn9aiqrd"
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
       },
       "artists": [
         {
@@ -424,17 +428,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Isabella Melkman",
-          "url": "https://open.spotify.com/artist/6LUMKP6qSEprH1SlOvV8dx"
-        },
-        {
-          "name": "Katherine O'Ryan",
-          "url": "https://open.spotify.com/artist/00moSdFEmIK0ngjw332EyW"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 148055,
-      "name": "Broken Strings",
-      "url": "https://open.spotify.com/track/4wepPpHACjMo8cd1TjK14j"
+      "duration_ms": 202719,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATE",
-        "url": "https://open.spotify.com/album/5uDffHt21NhV6YavkmAp9p"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 188873,
-      "name": "FATE",
-      "url": "https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld 2.0",
         "url": "https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 193776,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/0v8YZMnPRYQrPgBOBRayg3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FATE",
+        "url": "https://open.spotify.com/album/5uDffHt21NhV6YavkmAp9p"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 188873,
+      "name": "FATE",
+      "url": "https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slowed",
+        "url": "https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Faded - Slowed Remix",
+      "url": "https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 192111,
       "name": "Tired",
       "url": "https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slowed",
-        "url": "https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Faded - Slowed Remix",
-      "url": "https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05"
+        "name": "Heartbreak Melody",
+        "url": "https://open.spotify.com/album/0SD3WgKtWtXSFmJyVaEsDX"
       },
       "artists": [
         {
@@ -800,13 +800,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+          "name": "FAANGS",
+          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
         }
       ],
-      "duration_ms": 170576,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw"
+      "duration_ms": 191830,
+      "name": "Heartbreak Melody",
+      "url": "https://open.spotify.com/track/1E9Gah4TTcvIyfvOkQC0ds"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreak Melody",
-        "url": "https://open.spotify.com/album/0SD3WgKtWtXSFmJyVaEsDX"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05"
       },
       "artists": [
         {
@@ -864,13 +864,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "FAANGS",
-          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
         }
       ],
-      "duration_ms": 191830,
-      "name": "Heartbreak Melody",
-      "url": "https://open.spotify.com/track/1E9Gah4TTcvIyfvOkQC0ds"
+      "duration_ms": 170576,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw"
     },
     {
       "added_at": null,
@@ -955,6 +955,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Old Habits (Remixes)",
+        "url": "https://open.spotify.com/album/6HM3NKjshARdysYvwVCwxX"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Delta Force",
+          "url": "https://open.spotify.com/artist/1MIBr4T0vz2f6XWybFMzOU"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 190926,
+      "name": "Old Habits (From Delta Force Game)",
+      "url": "https://open.spotify.com/track/3jY6QX2VfE7ovrmtrHCgXR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Walkerworld 2.0",
         "url": "https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R"
       },
@@ -991,34 +1019,6 @@
       "duration_ms": 173000,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/1TEWG0GEdHI97khSkcj7rX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Habits (Remixes)",
-        "url": "https://open.spotify.com/album/6HM3NKjshARdysYvwVCwxX"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Delta Force",
-          "url": "https://open.spotify.com/artist/1MIBr4T0vz2f6XWybFMzOU"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 190926,
-      "name": "Old Habits (From Delta Force Game)",
-      "url": "https://open.spotify.com/track/3jY6QX2VfE7ovrmtrHCgXR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Really lovely songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,958 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,947 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 69 | [Victoria Falls](https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 3:34 |
 | 70 | [How Beautiful Life Can Be \- Single Version](https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z) | 2:30 |
 | 71 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |
-| 72 | [If I Could](https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [If I Could](https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb) | 3:51 |
-| 73 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
+| 72 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
+| 73 | [If I Could](https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [If I Could](https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb) | 3:51 |
 | 74 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 |
 | 75 | [Guts](https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Guts](https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1) | 3:26 |
 | 76 | [Sabbath Deep Cuts](https://open.spotify.com/track/0ytgwF282jWaH1rtTsJMgc) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Sabbath Deep Cuts](https://open.spotify.com/album/0XrxPkmUNib3Fmcko01Joi) | 3:34 |
@@ -88,25 +88,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 78 | [2much2soon](https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y), [AJSF](https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1) | [2much2soon](https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo) | 3:01 |
 | 79 | [Ignorant Boy, Beautiful Girl \(Namanama\)](https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig) | [Loney dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Citadel Band](https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH) | 3:58 |
 | 80 | [So Unimportant](https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [So Unimportant](https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq) | 4:23 |
-| 81 | [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 |
-| 82 | [Cinnamon](https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Cinnamon](https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY) | 3:10 |
+| 81 | [Cinnamon](https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Cinnamon](https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY) | 3:10 |
+| 82 | [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 |
 | 83 | [Everything At Once](https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 4:42 |
 | 84 | [Crash Landing](https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Crash Landing](https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y) | 5:34 |
-| 85 | [energizer](https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [energizer](https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs) | 2:31 |
-| 86 | [welcome to the sidelines](https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [is that all there is?](https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK) | 2:57 |
+| 85 | [welcome to the sidelines](https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [is that all there is?](https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK) | 2:57 |
+| 86 | [energizer](https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [energizer](https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs) | 2:31 |
 | 87 | [Minnie](https://open.spotify.com/track/37ZUVt5gLoiywE6Uzpwyf1) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:54 |
 | 88 | [Nosebleed](https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Nosebleed](https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn) | 3:26 |
 | 89 | [I Can't Get My Head Around You](https://open.spotify.com/track/6SYqfDeq72Y5KJLO3MLbEz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can’t Get My Head Around You](https://open.spotify.com/album/1fSKT3XWJwbOMXxBznEyKZ) | 3:26 |
 | 90 | [I Don't Think of Kissing You](https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [I Don't Think of Kissing You](https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae) | 2:49 |
 | 91 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
 | 92 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 |
-| 93 | [Water Under The Bridge](https://open.spotify.com/track/33xcJRnmibqubn8C9pklSN) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Water Under The Bridge](https://open.spotify.com/album/3tQj0CwWvbhF36Abxebtua) | 3:54 |
-| 94 | [Reach Out](https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Reach Out / Olympus](https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL) | 3:43 |
+| 93 | [Reach Out](https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Reach Out / Olympus](https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL) | 3:43 |
+| 94 | [Water Under The Bridge](https://open.spotify.com/track/33xcJRnmibqubn8C9pklSN) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Water Under The Bridge](https://open.spotify.com/album/3tQj0CwWvbhF36Abxebtua) | 3:54 |
 | 95 | [Why](https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 3:29 |
 | 96 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
 | 97 | [Mac’s Omelette](https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Mac's Omelette](https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU) | 3:58 |
 | 98 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
-| 99 | [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 |
-| 100 | [it's a landslide](https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [it's a landslide](https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER) | 2:39 |
+| 99 | [it's a landslide](https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [it's a landslide](https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER) | 2:39 |
+| 100 | [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 |
 
-Snapshot ID: `AAAAAJ35uJ2/WnqS+0iVkthyzXgQkk/v`
+Snapshot ID: `AAAAAKVk6bZiFqm97ep9K3iNDJHL0IL9`

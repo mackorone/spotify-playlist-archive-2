@@ -5947,6 +5947,24 @@
     },
     {
       "album": {
+        "name": "Money Pit",
+        "url": "https://open.spotify.com/album/2rGEMwal6B7v4SsxLd6j2k"
+      },
+      "artists": [
+        {
+          "name": "Lotsy",
+          "url": "https://open.spotify.com/artist/37RGp4a1NSlLj7fg1VdD3C"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Money Pit",
+      "url": "https://open.spotify.com/track/2y0w0OTbEWVDbkVCMWHUDp"
+    },
+    {
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/0vW0OgHfbaXl2tJTSE7S65"
       },

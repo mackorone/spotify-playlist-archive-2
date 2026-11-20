@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,299,986 likes - 275 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,016 likes - 275 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 274 | [Far Frontier](https://open.spotify.com/track/5Rdk9CWB3c3XVBdEZktopc) | [Mauri Zeen](https://open.spotify.com/artist/0IdqEgcgtiEMJ04P3PAAhL) | [Far Frontier](https://open.spotify.com/album/0jLstyeIJUeHbFNfH85j18) | 3:10 |
 | 275 | [Beyond the hills](https://open.spotify.com/track/7nKnBZXVZEJpmYSCaO0r2b) | [Hazel Day](https://open.spotify.com/artist/4UwrBrYrSp2qXLwXWGc57Q) | [Beyond the hills](https://open.spotify.com/album/0BQHoqCn6ds35hpYmlDKpS) | 2:32 |
 
-Snapshot ID: `AAAAABixBaBSTo78TvACzqvr/K6KdksD`
+Snapshot ID: `AAAAABAVM552r/coeWpQQol56RotgWH0`

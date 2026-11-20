@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 
 > Explore the surreal world of Satie, from serene Gymnopédies, to gothic dances and poetic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,845 likes - 64 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,857 likes - 64 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 | 43 | [Croquis et agaceries d'un gros bonhomme en bois](https://open.spotify.com/track/03Kc4lixwfdWUu6BGHAdg4) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Pascal Rogé](https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs) | [Satie: Piano Works](https://open.spotify.com/album/5bEZoqdNVQNpfwV02AaeLs) | 5:12 |
 | 44 | [Embarquement pour Cythère](https://open.spotify.com/track/6xmub49uWPyK3QFETREMUH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG), [Isabelle Faust](https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco) | [Paris 1900: The Old and the New: Debussy, Ravel, Saint\-Saëns, Satie](https://open.spotify.com/album/4Bbug6BwMPKQSgCmKoa397) | 3:27 |
 | 45 | [Descriptions automatiques](https://open.spotify.com/track/38dDgAjMzrCZ7V6f3Ut66t) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Pascal Rogé](https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs) | [Satie: Piano Works](https://open.spotify.com/album/5bEZoqdNVQNpfwV02AaeLs) | 4:19 |
-| 46 | [Satie: Socrate: No\. 1, Portrait de Socrate](https://open.spotify.com/track/6oFMSqsYO3n8XNRnnGhqzy) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Bernard Desgraupes/Ensemble Erwartung/Jean\-Paul Fouchécourt](https://open.spotify.com/artist/4qwRz1e29vFgMOGM7y0xlj), [Ensemble Erwartung](https://open.spotify.com/artist/3ZrP3ppP3KEkswTudIe7dm), [Bernard Desgraupes](https://open.spotify.com/artist/03Bxsq5apEqL51V07nNouf) | [Tanguy : Sénèque, dernier jour \- Satie : Socrate](https://open.spotify.com/album/3x0GcwoTvdnyG61wsBojYX) | 5:59 |
+| 46 | [Satie: Socrate: No\. 1, Portrait de Socrate](https://open.spotify.com/track/6oFMSqsYO3n8XNRnnGhqzy) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Bernard Desgraupes/Ensemble Erwartung/Jean\-Paul Fouchécourt](https://open.spotify.com/artist/0z8h4Q8FILWvjUaIOks1RR), [Ensemble Erwartung](https://open.spotify.com/artist/3ZrP3ppP3KEkswTudIe7dm), [Bernard Desgraupes](https://open.spotify.com/artist/03Bxsq5apEqL51V07nNouf) | [Tanguy : Sénèque, dernier jour \- Satie : Socrate](https://open.spotify.com/album/3x0GcwoTvdnyG61wsBojYX) | 5:59 |
 | 47 | [Le grand Singe \(1909\)](https://open.spotify.com/track/4V2ZA8Bae5Q4rilV2iifpi) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Complete solo piano music](https://open.spotify.com/album/5HwlyJmJZgGjTaM1a8YENX) | 0:28 |
 | 48 | [Satie: 6 Gnossiennes: V\. No\. 5](https://open.spotify.com/track/4sumTWCJZMdnD8MkfobGNW) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Debussy: Préludes, Book 1 \- Satie: 3 Gymnopédies & 6 Gnossiennes](https://open.spotify.com/album/1llL7D4K2EuSUHJ5CXj17r) | 3:04 |
 | 49 | [Prélude de la porte héroïque du ciel](https://open.spotify.com/track/4nE7mRHW0BOSmFyyoEljpv) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Pascal Rogé](https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs) | [Satie: Piano Works](https://open.spotify.com/album/5bEZoqdNVQNpfwV02AaeLs) | 4:29 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 | 63 | [3 Valses distinguées du précieux dégoûté](https://open.spotify.com/track/4YMUklVznPcAqNs8tfAboG) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Klara Kormendi](https://open.spotify.com/artist/5V2ay7vEghiqgb7NFFiPEZ) | [Satie: Piano Works, Vol\. 3](https://open.spotify.com/album/5ZWdAIzu9ZqSqssmHZweDX) | 3:55 |
 | 64 | [Gnossienne No\. 6](https://open.spotify.com/track/48uQVaVJbUnvKNE0dPQtIB) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Complete solo piano music](https://open.spotify.com/album/5HwlyJmJZgGjTaM1a8YENX) | 1:45 |
 
-Snapshot ID: `AAAAAHJeHDToGQfiSQnORXLEQwBQntO2`
+Snapshot ID: `AAAAADElTmwb5NFRW5Ocrl2QBHm+wyic`

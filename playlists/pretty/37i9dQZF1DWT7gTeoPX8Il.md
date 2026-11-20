@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,608 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,638 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 49 | [Seni Berdamai Dengan Takdir](https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Seni Berdamai Dengan Takdir](https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y) | 3:55 |
 | 50 | [Tak Ada Restu](https://open.spotify.com/track/3iA28Y6cjgin0CxnPszLmG) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Tak Ada Restu](https://open.spotify.com/album/5TAlWpHFbOl280myoaBR8h) | 3:44 |
 
-Snapshot ID: `AAAAAFd7TPR25NFF5NPark4FBAs2je9n`
+Snapshot ID: `AAAAAB5a6ZuIQykLfMGaX9cSbjoxKTKO`

@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Munan\) \(Meet the emerging talents of Korea!\)
 
-1,722 songs - 4 day 0 hr 28 min
+1,723 songs - 4 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,7 +546,7 @@
 | [Gazing into Indigo](https://open.spotify.com/track/1deOh4hYz3EbS7jIXGgKUp) | [Conut](https://open.spotify.com/artist/6TkT01hX9OeitLFMVUnS0H) | [Gazing into Indigo](https://open.spotify.com/album/4dSFQEyHSlglOSD51UNw8u) | 3:58 | 2025-05-14 | 2025-09-02 |
 | [General well\-being](https://open.spotify.com/track/3hBDkqm2rBjofjELCzWyQU) | [Dohyuck Lim](https://open.spotify.com/artist/5kfY175biLFO0H74FXYqzX) | [General well\-being](https://open.spotify.com/album/0uf2hXXsUTqicPPIE5Mp0F) | 3:29 | 2021-12-02 | 2022-01-11 |
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2021-12-02 | 2022-01-11 |
-| [GET JIGGY!](https://open.spotify.com/track/2RvB8W3b4a0viQh6jMBjnQ) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S), [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1) | [GET JIGGY!](https://open.spotify.com/album/4a6kufyKKzmTo9kkMihJBW) | 2:12 | 2026-04-24 |  |
+| [GET JIGGY!](https://open.spotify.com/track/2RvB8W3b4a0viQh6jMBjnQ) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S), [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1) | [GET JIGGY!](https://open.spotify.com/album/4a6kufyKKzmTo9kkMihJBW) | 2:12 | 2026-04-24 | 2026-11-20 |
 | [GET LUCKY!](https://open.spotify.com/track/6dkx7yryrVpYxP75lNsy6j) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [GET LUCKY!](https://open.spotify.com/album/52sUuTeemfkKHHqwfMMzcm) | 3:40 | 2025-05-19 | 2025-09-13 |
 | [Get My Money Back](https://open.spotify.com/track/0d9yXZVK8L4mGEdL47vGZX) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Get My Money Back](https://open.spotify.com/album/1PCF99yRCBu4PYEoBRZks1) | 3:38 | 2024-06-04 | 2024-09-03 |
 | [Get out](https://open.spotify.com/track/1U8DdJN99oJmTSpKqEquhi) | [sonjunghoon](https://open.spotify.com/artist/0ldiQeJsD12Kh8B7dC4rHv) | [Get out](https://open.spotify.com/album/4JmlzWi6C9oi0BKtQWhgDG) | 4:26 | 2023-01-30 | 2023-04-01 |
@@ -840,6 +840,7 @@
 | [Lines For Today](https://open.spotify.com/track/51JY7adOGiJuEYuydofe12) | [Wavemeans](https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r) | [Lines For Today](https://open.spotify.com/album/6ft7pqkX2AsA17DSCb75XB) | 2:45 | 2026-02-01 | 2026-09-23 |
 | [Little Star](https://open.spotify.com/track/1buWeRRCx5QBOrCEvnPtgv) | [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Little Star](https://open.spotify.com/album/0YOo4g8SBSVyq7BTKMtiVO) | 2:26 | 2024-08-02 | 2024-11-12 |
 | [Live your day](https://open.spotify.com/track/4la99hjrmKkpNRhV9OIDpd) | [OYEON](https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9) | [Live your day](https://open.spotify.com/album/0WXp98T5hi6PDmxgUtL6wf) | 4:12 | 2022-05-02 | 2022-06-10 |
+| [Living In The Sunlight](https://open.spotify.com/track/2RGccgdXIRceizYgA7X1gI) | [SIMILE LAND](https://open.spotify.com/artist/1PVjeeja3aKjY1vI6C8W82) | [Badoogi](https://open.spotify.com/album/0L7Nf0eDji7EVk0s7eoV5A) | 3:53 | 2026-11-20 |  |
 | [LOL \(Love On Lie\)](https://open.spotify.com/track/7F3bZRROWYKUIm2JXO8nst) | [HEEO](https://open.spotify.com/artist/5Tdm5krWn9djlFgQmidwm3) | [LOL \(Love On Lie\)](https://open.spotify.com/album/4Xa6I5hwhwHzWdSdTq31fk) | 3:17 | 2022-07-04 | 2022-08-13 |
 | [Lonely Flower](https://open.spotify.com/track/1TtiJUMGRTMLIFzaMirRKS) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Lonely Flower](https://open.spotify.com/album/7lzCUvbjySqmXmbZFAnuq0) | 3:09 | 2021-12-02 | 2022-01-11 |
 | [Lonely Night](https://open.spotify.com/track/64qhZEwEwoVRHUkznP1jKr) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [Lonely Night](https://open.spotify.com/album/4eNguUtBbTnsVG7gL7OZu1) | 3:42 | 2022-11-07 | 2023-02-01 |
@@ -1503,7 +1504,7 @@
 | [Umbrella \(feat\. See U\)](https://open.spotify.com/track/098BVFxw24NggK4hRTAiGx) | [Seibin](https://open.spotify.com/artist/74Xl4AiGLucUvFwjqneSvx), [SeeU](https://open.spotify.com/artist/0zWP6cQlTAmGJC4zlP2GAQ) | [Umbrella](https://open.spotify.com/album/6maJ5MmNqsGDC9UBQ7oTKI) | 4:07 | 2022-07-04 | 2022-09-06 |
 | [Unbelievable \(feat\. Dante\)](https://open.spotify.com/track/7m5bzfiQ0agl0KS5HpxC9F) | [P!nup](https://open.spotify.com/artist/3ntaxEUCW3SKwS1KIROFNw), [Dante](https://open.spotify.com/artist/2FIGQreWkwSF4QOH2ESBlx) | [Unbelievable](https://open.spotify.com/album/5J37LjxdnWrXTtCTR8aQMp) | 2:42 | 2022-01-10 | 2022-01-25 |
 | [Unconditional love](https://open.spotify.com/track/0KXSnbjfcF3MLOK1RNWNgJ) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [Unconditional love](https://open.spotify.com/album/6v2Sga9KGrbiYUwbbkVE1n) | 3:50 | 2025-05-19 | 2026-01-15 |
-| [undefined](https://open.spotify.com/track/6kkBsWMqkyqe3RtSYUuUGl) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [undefined](https://open.spotify.com/album/4b8VZ8cCzAXecskgIwyTE4) | 3:42 | 2026-04-02 |  |
+| [undefined](https://open.spotify.com/track/6kkBsWMqkyqe3RtSYUuUGl) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [undefined](https://open.spotify.com/album/4b8VZ8cCzAXecskgIwyTE4) | 3:42 | 2026-04-02 | 2026-11-20 |
 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-11 | 2023-01-12 |
 | [Unforgettable](https://open.spotify.com/track/44YVBW6cpHJ9gRD93FIk8R) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Unforgettable](https://open.spotify.com/album/7JNkxkkZ1TAYdtnVxNd0qM) | 3:11 | 2022-03-29 | 2022-05-12 |
 | [Ungodly Hour](https://open.spotify.com/track/3mB2Avm1nBMtxpZumvmdVy) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Ungodly Hour](https://open.spotify.com/album/1HEcdNKpssVwc7L25PTiul) | 2:59 | 2022-07-04 | 2022-08-19 |
@@ -1604,7 +1605,7 @@
 | [Wish](https://open.spotify.com/track/1RJmEwV43f5u6Q1Js8lX5m) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Wish](https://open.spotify.com/album/0yHV0gL9YT0rtRGFvKMzsQ) | 3:32 | 2025-04-21 | 2025-07-08 |
 | [Wish](https://open.spotify.com/track/6H9l0RfXdUh5yCmVS0DKp9) | [KYSB](https://open.spotify.com/artist/55LpuSDAoOdp4kESDapt3i) | [Wish](https://open.spotify.com/album/7dusuXy4RDf3KLm0M43Tax) | 3:57 | 2025-04-28 | 2026-01-15 |
 | [Wish Rain \(Feat\. Jayd, siso\)](https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Jayd](https://open.spotify.com/artist/6it2PshzHXaqI8NWNi9apN), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Wish Rain](https://open.spotify.com/album/56RNIfYFkjjpkUfwJd7Xqc) | 3:16 | 2022-06-20 | 2022-08-13 |
-| [Wish You Knew](https://open.spotify.com/track/4YaZmlnaguWNgdxAHRB9hM) | [Hong Taeyeon](https://open.spotify.com/artist/4EMsihpNXYdhVAm3oCNbVp) | [Wish You Knew](https://open.spotify.com/album/1OWEK5LX0SjM8k2tFbUKL4) | 3:52 | 2026-04-02 |  |
+| [Wish You Knew](https://open.spotify.com/track/4YaZmlnaguWNgdxAHRB9hM) | [Hong Taeyeon](https://open.spotify.com/artist/4EMsihpNXYdhVAm3oCNbVp) | [Wish You Knew](https://open.spotify.com/album/1OWEK5LX0SjM8k2tFbUKL4) | 3:52 | 2026-04-02 | 2026-11-20 |
 | [Wish!](https://open.spotify.com/track/6rqf1XFZjBGesjZ850msAm) | [LEVENUE](https://open.spotify.com/artist/1C9OICkvpyG9oHKaZvRreX) | [Wish!](https://open.spotify.com/album/7pqKbTAFYlCtlcJILZ0g3F) | 2:24 | 2023-05-01 | 2023-07-27 |
 | [with the eyes of the moon](https://open.spotify.com/track/7qglpdOQtClVfNDper6YaH) | [Clean cotton](https://open.spotify.com/artist/4zMXJUvne9BlGw8kDi07wb) | [with the eyes of the moon](https://open.spotify.com/album/6OiLARt2DB1ptef8I6kNWs) | 3:46 | 2022-07-04 | 2022-09-06 |
 | [with you](https://open.spotify.com/track/2aPyJyUGGLj33QiXRfLG05) | [Hee brothers](https://open.spotify.com/artist/7qXJEle1HRJwOW1wuTEgwz) | [with you](https://open.spotify.com/album/78zpI0u5fJDfbjFvqpwKxi) | 3:27 | 2022-07-04 | 2022-08-19 |

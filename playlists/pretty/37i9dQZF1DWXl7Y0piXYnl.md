@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,991 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,000 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 21 | [Don't Hold Back](https://open.spotify.com/track/0LbPeoFdFYKWzbML5bWyhc) | [11:68PM](https://open.spotify.com/artist/6hTwkHyKWaVxWYnf9rNDZv) | [Craft Services 002](https://open.spotify.com/album/1DsSZp0VDi8UkIx95fFQMN) | 4:59 |
 | 22 | [Miscount](https://open.spotify.com/track/6lpqFOkUJ5CiF582qeWx7j) | [The Duty Freedom](https://open.spotify.com/artist/2rQ6v50viQGeVJW6qjJPy8) | [In Cognito](https://open.spotify.com/album/2ZyjHtohkrX5xbohK1m5Ba) | 3:53 |
 | 23 | [Frontiers](https://open.spotify.com/track/5wDeR4q2dm5UAOFSWDEiaR) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Frontiers](https://open.spotify.com/album/0LLsacEXZ39HCzTcXzg81C) | 2:36 |
-| 24 | [Aorta](https://open.spotify.com/track/1u2WDPiNzPJfL15PvBTAj2) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Aorta](https://open.spotify.com/album/6VuLnAhZAGKihUDSpFOvCu) | 3:39 |
+| 24 | [AORTA](https://open.spotify.com/track/1u2WDPiNzPJfL15PvBTAj2) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [AORTA](https://open.spotify.com/album/6VuLnAhZAGKihUDSpFOvCu) | 3:39 |
 | 25 | [Read My Mind](https://open.spotify.com/track/6et4XZEJ19NpB5j6WQ4i13) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [PRVNA](https://open.spotify.com/artist/5m9D9YoCJuyLjJL9jjlQj4), [Razor](https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi) | [Read My Mind](https://open.spotify.com/album/7F4q7aOHyf3DOcsCsS0OMO) | 3:24 |
 | 26 | [No More](https://open.spotify.com/track/63p8zpPPAfp2d59F436NFS) | [Josi Devil](https://open.spotify.com/artist/0AEPFNNzTWrT1826ryDtEz) | [No More](https://open.spotify.com/album/6TGi1QTbMiJSHwkPF7vAVm) | 6:01 |
 | 27 | [Itchy](https://open.spotify.com/track/5jq7WS29DZKVj5HHcWs0lN) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Enthusiast](https://open.spotify.com/album/2akd3XFn4sumeosvQ4z2ND) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 59 | [Fatherless](https://open.spotify.com/track/5Bs93ZX1NAjAT5tPyPLJRA) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Fatherless](https://open.spotify.com/album/4FhBOsnkUXVVSnRkG7ikcr) | 6:20 |
 | 60 | [Levo](https://open.spotify.com/track/1Xgg0bhjK57PJ6WLYOi3oY) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Iffy](https://open.spotify.com/album/7JoFdHAOCBzjT6lzWOfcGR) | 4:42 |
 
-Snapshot ID: `AAAAAOIxLdjpNhik2LEY0fwilyQGSodU`
+Snapshot ID: `AAAAADvTxw/KYuldjPw2BJ/zlAmglHpO`

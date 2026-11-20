@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Jorge & Mateus
+> O melhor do sertanejo em uma só playlist! Foto: Felipe e Rodrigo
 
-435 songs - 20 hr 24 min
+436 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Oi Balde \- Ao Vivo](https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:39 | 2023-03-03 | 2023-09-09 |
 | [Oi Vida \- Ao Vivo](https://open.spotify.com/track/4lL0M9HzNFspnIwj2WfU6c) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Oi Vida \(Ao Vivo\)](https://open.spotify.com/album/7lxRjlrkKb1dn5kgtAY09M) | 2:12 | 2023-08-04 | 2023-11-18 |
 | [Oi, Tudo Bem? \- Ao Vivo](https://open.spotify.com/track/1Otolzb8QH4OnBc0zlbjjF) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Vocês & Deus, Vol\. 1 \(Ao Vivo no Rio de Janeiro\)](https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB) | 3:07 | 2026-08-06 |  |
+| [OLHA A MORAL \- Ao Vivo](https://open.spotify.com/track/5pf1m4jd25Z23seuTewHv3) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ALÉM DO REGISTRO \(Ao Vivo\)](https://open.spotify.com/album/2ASWQHJFKO2fRk1mwHurwr) | 2:39 | 2026-11-20 |  |
 | [Olha Onde Eu Tô](https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 3:01 | 2025-06-06 | 2025-10-18 |
 | [OLHO MARROM \- Ao Vivo em Lisboa](https://open.spotify.com/track/1I6TdHxz61Kf9EFje0dQvg) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [OLHO MARROM \- Ao Vivo em Lisboa](https://open.spotify.com/album/4fa3lwn2vSLUTz3HNqcJzM) | 2:25 | 2025-10-04 | 2026-11-18 |
 | [Opa Cadê Eu \- Ao Vivo](https://open.spotify.com/track/3R8dmcSyROSR73XsdeSd7g) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo em Brasília \(Vol.2\)](https://open.spotify.com/album/0kVr8PFSSxtjM4AxdY0WFV) | 2:34 | 2025-02-14 | 2026-02-20 |
@@ -323,7 +324,7 @@
 | [Poder de Mentir \- Ao Vivo](https://open.spotify.com/track/5qMyN3dzXKb5P1MiKyqupZ) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8), [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju) | [Poder de Mentir \(Ao Vivo\)](https://open.spotify.com/album/3MAVXfXLm0xCp3crn02FnY) | 2:47 | 2024-07-12 | 2025-06-21 |
 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/4U8jlVWLJ4DZ2MpvV81hIb) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo \(Ao Vivo\)](https://open.spotify.com/album/5cvRAkiIj3vlPZRXvRvHxk) | 2:42 | 2024-02-09 | 2024-04-19 |
 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/5ZkwwBa9DlwuUFbXwrLeXF) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7B0EpsE17BgPH8zVUjjpNx) | 2:42 | 2023-11-10 | 2024-09-20 |
-| [Ponto Fraco \- Ao Vivo](https://open.spotify.com/track/5Q6vcrKZZxLQnNjfDTDWFY) | [Duda Bertelli](https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ponto Fraco \(Ao Vivo\)](https://open.spotify.com/album/4VPuTh6TsFFhqtbJPJgl5L) | 2:05 | 2026-09-08 |  |
+| [Ponto Fraco \- Ao Vivo](https://open.spotify.com/track/5Q6vcrKZZxLQnNjfDTDWFY) | [Duda Bertelli](https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ponto Fraco \(Ao Vivo\)](https://open.spotify.com/album/4VPuTh6TsFFhqtbJPJgl5L) | 2:05 | 2026-09-08 | 2026-11-20 |
 | [Ponto G](https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Ponto G](https://open.spotify.com/album/7g5uhYNHJ07ZHuXTX3bu3R) | 2:43 | 2026-05-13 | 2026-07-09 |
 | [Postinho de Gasolina](https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Postinho de Gasolina](https://open.spotify.com/album/5LEVnXg3usIhjeS7HAadfs) | 2:23 | 2026-08-28 |  |
 | [Pra Sempre](https://open.spotify.com/track/6i1gSXWqwps6kqtDWefV7e) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão 3 \- Vol\. 2](https://open.spotify.com/album/0TnCwnWqlHtB1jbE3QLqRy) | 3:26 | 2025-02-26 | 2025-05-03 |

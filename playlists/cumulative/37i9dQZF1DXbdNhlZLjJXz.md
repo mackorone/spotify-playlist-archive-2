@@ -4,7 +4,7 @@
 
 > tate mcrae, a REAL LIFE angel 🪽
 
-362 songs - 19 hr 31 min
+363 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-09-06 | 2024-10-16 |
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2023-02-02 |  |
 | [BIRTHDAY BEHAVIOR](https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIRTHDAY BEHAVIOR](https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW) | 2:24 | 2025-08-15 |  |
+| [Blood In Your Eyes \(from GTAVI: The Album\)](https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Blood In Your Eyes \(from GTAVI: The Album\)](https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO) | 2:41 | 2026-11-20 |  |
 | [Blow Your Mind \(Mwah\)](https://open.spotify.com/track/7kJlTKjNZVT26iwiDUVhRm) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Blow Your Mind \(Mwah\)](https://open.spotify.com/album/7fb7W4noziWjuzWsdr3DzT) | 2:58 | 2022-01-12 | 2023-02-03 |
 | [body](https://open.spotify.com/track/6NGbhbDCVG8KSJLlJrzLrd) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [body](https://open.spotify.com/album/4DL4s44whuK0jdFRonfrOn) | 3:24 | 2025-02-26 |  |
 | [Body](https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:51 | 2022-01-12 | 2023-07-07 |
@@ -341,7 +342,7 @@
 | [UCLA](https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:12 | 2022-01-12 | 2023-02-03 |
 | [Ugly Heart](https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [G.R.L.](https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF) | 3:18 | 2022-01-12 | 2023-02-03 |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-03-01 | 2024-07-14 |
-| [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2024-09-06 |  |
+| [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2024-09-06 | 2026-11-20 |
 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 | 2024-03-15 | 2024-05-15 |
 | [Walk Like This](https://open.spotify.com/track/59uB0hD8JtxgdEuV3CNgrD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:17 | 2025-03-30 | 2026-04-25 |
 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 | 2022-01-12 | 2023-02-03 |

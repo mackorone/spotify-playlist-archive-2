@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 270523,
+  "num_followers": 270550,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADp3l4GM+kF93zI2923K9Ib",
+  "snapshot_id": "avzqgAAAAADPYO8UhEoIQV+gWvi5ErOf",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paz Mental",
+        "url": "https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Paz Mental",
+      "url": "https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EAVEMAR\u00cdA",
         "url": "https://open.spotify.com/album/4HihmUvifnIJeOcJVnxeBq"
       },
@@ -287,30 +311,6 @@
       "duration_ms": 135998,
       "name": "Estuve Ah\u00ed",
       "url": "https://open.spotify.com/track/7lkoSBTAVsOAZFko4ONiCo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paz Mental",
-        "url": "https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze"
-      },
-      "artists": [
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Paz Mental",
-      "url": "https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Ti Estoy Bien",
-        "url": "https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 221696,
-      "name": "Sin Ti Estoy Bien",
-      "url": "https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Tin y Que Tan",
         "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 198957,
       "name": "En Tu Boca El Humo Me Sabe Mejor",
       "url": "https://open.spotify.com/track/4aP7c3XvK1QPX5ru1Xcnyv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Ti Estoy Bien",
+        "url": "https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 221696,
+      "name": "Sin Ti Estoy Bien",
+      "url": "https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Loca Como T\u00fa",
-        "url": "https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 235008,
-      "name": "Una Loca Como T\u00fa",
-      "url": "https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La \u00daltima",
         "url": "https://open.spotify.com/album/0RJJF71dyzRRzP795uNh0W"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 187733,
       "name": "La \u00daltima",
       "url": "https://open.spotify.com/track/3Zuh5YCdc1DnQz3UeB8VnG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Loca Como T\u00fa",
+        "url": "https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 235008,
+      "name": "Una Loca Como T\u00fa",
+      "url": "https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 155198,
-      "name": "Parece un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1+1=1",
         "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 163404,
       "name": "1+1=1",
       "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 155198,
+      "name": "Parece un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contra Todo Pron\u00f3stico",
         "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 189098,
       "name": "Volvernos a Amar",
       "url": "https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
     },
     {
       "added_at": null,
@@ -899,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRAGO #1 LOLOLO",
         "url": "https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 185084,
       "name": "TRAGO #1 LOLOLO",
       "url": "https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
     },
     {
       "added_at": null,

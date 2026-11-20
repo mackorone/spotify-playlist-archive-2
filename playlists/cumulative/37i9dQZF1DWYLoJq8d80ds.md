@@ -2,9 +2,9 @@
 
 ### [Baile Campero](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
+> El campo suena fuerte\. Sumate a la fiesta\. Foto: Santhyago Rios
 
-237 songs - 13 hr 13 min
+239 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [La Leyenda de la Brasita de Fuego](https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:12 | 2021-12-31 | 2026-07-21 |
 | [La Llama Que Baila](https://open.spotify.com/track/2m6x7oUG9zUtdPpqcwhHRW) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [La Llama Que Baila](https://open.spotify.com/album/2L9HQCa7QjweXkoolZdY6u) | 2:51 | 2021-12-31 | 2026-07-21 |
 | [La Llama Que Baila](https://open.spotify.com/track/2bE2o6uuAZd8CucKx76EPi) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [La Llama Que Baila](https://open.spotify.com/album/3Zj3OUifY3N2Tg26aQpMcK) | 2:54 | 2022-08-19 | 2024-04-19 |
+| [La Lluvia en el Fuego](https://open.spotify.com/track/4DZ2GSwqrJiH8zd7VKyIrb) | [Yoel Hernández](https://open.spotify.com/artist/71qS8a5DwnQL3b8LtqhgR7) | [La Lluvia en el Fuego](https://open.spotify.com/album/28KhPcRixjDl0Tx88fXfUk) | 3:29 | 2026-11-20 |  |
 | [La Luna](https://open.spotify.com/track/4kB424UGrgh2zLd2N9QNhs) | [Orellana Lucca](https://open.spotify.com/artist/1Sbn533a3TmseHmdYtGElm) | [Hermanos](https://open.spotify.com/album/6ekkixuu37TIHvhbhBgE2W) | 2:32 | 2021-12-31 | 2026-07-21 |
 | [La Mejor de Todas](https://open.spotify.com/track/5LurA4lreJTIZSonSwhEtq) | [Pal Estribo](https://open.spotify.com/artist/1pPKjKwUDepKome2myqvWt) | [Fiesta Chaqueña](https://open.spotify.com/album/6aAhkNUxhrNQnwoIXXagmU) | 4:16 | 2026-07-20 |  |
 | [La Mocha Ahorcada](https://open.spotify.com/track/2Ov0AKm6FwX3fustanLEht) | [Piko Frank](https://open.spotify.com/artist/3mI58DYVnkz2fYOtmogyOi) | [Alegrando Pagos](https://open.spotify.com/album/1GMI1VtY4Me1UNdCmJulrj) | 2:28 | 2026-07-20 |  |
@@ -235,6 +236,7 @@
 | [Vuelve La Llama](https://open.spotify.com/track/5ji0BDOEcT5ITZHsrWfMGX) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Vuelve La Llama](https://open.spotify.com/album/79mwd2rHekN02U2DuS4tJ0) | 1:59 | 2022-10-07 | 2023-09-02 |
 | [Waca Waca](https://open.spotify.com/track/39jaSfAwgYFh33HXPAZNyn) | [María Juana](https://open.spotify.com/artist/3rdPIEXGRnnlMvnZtzoQyp), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Waca Waca](https://open.spotify.com/album/1udzxWnpoeWN7mYHLnd6EE) | 2:34 | 2026-02-20 | 2026-07-21 |
 | [Y Esto es Amor](https://open.spotify.com/track/4B0XjiCfFLIbM2HtdnK3y4) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Todos Nos Vamos a Morir Igual](https://open.spotify.com/album/0oNze3jhUZgjvG35fDoCLg) | 3:05 | 2023-11-10 | 2024-02-10 |
+| [Y no te salvaras](https://open.spotify.com/track/26tKP6eX7oFpgY3Cprvu89) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Y no te salvaras](https://open.spotify.com/album/0No8w83o9Ggwpn8SDU2sP7) | 3:11 | 2026-11-20 |  |
 | [Y Se Ha Perdido](https://open.spotify.com/track/0ofyerWCBNnE5BII7nT0uu) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Cantores del Monte](https://open.spotify.com/artist/2bsUgT4yRno4ieeZdDs0ol), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3), [Christian Herrera y Matacos](https://open.spotify.com/artist/2TcOOjVN4yyZhYxdSlL2WD), [Lázaro Caballero](https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc) | [Y Se Ha Perdido](https://open.spotify.com/album/2quBmfr36G3FvWHFVGSv4i) | 3:23 | 2023-09-08 | 2026-07-21 |
 | [Ya Te Olvidé](https://open.spotify.com/track/1OJbMLKxU3EItYBSHQtvsf) | [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3), [Lázaro Caballero](https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc) | [Ya Te Olvidé](https://open.spotify.com/album/0ONCIXPInCcfuBaCsC360Y) | 3:30 | 2024-11-15 |  |
 | [Ya te olvidé](https://open.spotify.com/track/5O1bcqKBlyEkYDFKXe8p7c) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Ya te olvidé](https://open.spotify.com/album/6gnArPx4Dq1UoKdvSNWp3r) | 2:27 | 2024-08-16 |  |

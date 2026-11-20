@@ -15305,6 +15305,24 @@
     },
     {
       "album": {
+        "name": "Vy",
+        "url": "https://open.spotify.com/album/59ErMAvHeDcEtrvaC0Gw3T"
+      },
+      "artists": [
+        {
+          "name": "Andreas Bj\u00f6rkstrand",
+          "url": "https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Vy",
+      "url": "https://open.spotify.com/track/3Zx0Tl2eWcJbQGH5bAxZjP"
+    },
+    {
+      "album": {
         "name": "Wait For Me",
         "url": "https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8"
       },

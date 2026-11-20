@@ -2,9 +2,9 @@
 
 ### [RAPública de Colombia](https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM)
 
-> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Granuja & DeeJohend
+> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Alcolirykoz
 
-161 songs - 8 hr 54 min
+162 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [El Camión de la Basura](https://open.spotify.com/track/7rAeQfVOdfAIWqHgk28x0A) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [N\-Wise Allah](https://open.spotify.com/artist/4NGPHzbZNLMQkjtrJ2a2Sx) | [El Camión de la Basura](https://open.spotify.com/album/5aAhr5816Tn3pkLSHZwefN) | 3:59 | 2022-02-25 |  |
 | [El Milagro](https://open.spotify.com/track/2Ix36EiqHb6ZeLevZpZTAz) | [Sison Beats/Nemesis](https://open.spotify.com/artist/1WtgnQniTZnkC1ep4OqIQy), [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB) | [El Milagro](https://open.spotify.com/album/0rvW8L8qsRBO3oiBIIijw3) | 3:09 | 2023-12-08 | 2024-07-13 |
 | [El Mismo de Siempre](https://open.spotify.com/track/10AjYRkbsAdhnLXrGjGoAg) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [El Mismo de Siempre](https://open.spotify.com/album/5nQ70m6yy4Cc6stPUXSsc9) | 3:23 | 2022-02-25 | 2022-12-24 |
-| [El Remate](https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [El Remate](https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5) | 4:04 | 2022-12-16 |  |
+| [El Remate](https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [El Remate](https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5) | 4:04 | 2022-12-16 | 2026-11-20 |
 | [Emancipación](https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5) | 3:54 | 2023-02-17 | 2024-04-19 |
 | [Emancipación](https://open.spotify.com/track/5fjn3TvnD6LLcpaoeWyXVK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/063QkpNBYOnOfjVOxmKGsb) | 3:54 | 2022-02-25 | 2024-12-13 |
 | [En los Brazos de Morfeo](https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [En los Brazos de Morfeo](https://open.spotify.com/album/2RuUUiMsKy0lHkRTrW3fHd) | 3:26 | 2024-08-30 |  |
@@ -155,6 +155,7 @@
 | [Todo El Tiempo](https://open.spotify.com/track/3dZRc9MeHmcj7CAHtDL4oP) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo El Tiempo](https://open.spotify.com/album/7m4shGjRscqyAN8SiOmfBv) | 2:33 | 2023-02-17 | 2024-04-19 |
 | [Todo el Tiempo](https://open.spotify.com/track/4ltvep768r5VSEJYISG1YE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo el Tiempo](https://open.spotify.com/album/06PiZBxNVFgkm1DKv634wb) | 2:43 | 2022-02-25 |  |
 | [Todo en Juego](https://open.spotify.com/track/1ZIuXvgwn67yvzfOubDITd) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [Todo en Juego](https://open.spotify.com/album/6pRmD5WdctwIcv3qJJRgsO) | 2:38 | 2023-08-25 | 2026-09-12 |
+| [Todo en su Lugar](https://open.spotify.com/track/0aYmvDevxsjX82mUitCa4F) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Todo en su Lugar](https://open.spotify.com/album/5uuT8gFg6dnyXyxPqbBUAM) | 2:52 | 2026-11-20 |  |
 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 | 2022-02-25 |  |
 | [Trampa](https://open.spotify.com/track/2WzGc3rGEXcu7TkDn4b9kh) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Trampa](https://open.spotify.com/album/3MhfOgqJ1ivusF4YDSjXeM) | 3:30 | 2022-02-25 | 2025-03-15 |
 | [Tú Lo Vales](https://open.spotify.com/track/5agos0Wcgkg8w7EnUcfdTm) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Tú Lo Vales](https://open.spotify.com/album/7EJWvQDJnrfmeHwfCK6Sc3) | 3:15 | 2022-07-15 | 2022-11-26 |

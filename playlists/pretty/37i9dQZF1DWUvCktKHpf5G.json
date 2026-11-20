@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 273646,
+  "num_followers": 273680,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMyoLxb53rUwLeOq6JFjM0MTlEE3",
+  "snapshot_id": "AAAAAEQZHkCu61Q3Drqt5Bx/G1VaerO5",
   "tracks": [
     {
       "added_at": "2026-10-02 06:00:13",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
         "name": "Cuando No Era Cantante (Remix)",
         "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -679,6 +663,22 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruzzi, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -867,6 +867,30 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
+        "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
+        "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 209905,
+      "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
+      "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
       },
@@ -899,30 +923,6 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
-        "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 209905,
-      "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
-      "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 188268,
       "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
-        "name": "Tak Tiki Tak",
-        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        }
-      ],
-      "duration_ms": 212406,
-      "name": "Tak Tiki Tak",
-      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -995,6 +979,22 @@
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "Tak Tiki Tak",
+        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 212406,
+      "name": "Tak Tiki Tak",
+      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
         "name": "Ram Pam Pam",
         "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 200785,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
         "name": "Ponle",
         "url": "https://open.spotify.com/album/55Wnt6L8wZHQKQLC6qQe8k"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 164764,
       "name": "Ponle",
       "url": "https://open.spotify.com/track/28O1p0bQXH2F6Qn8jBZZR4"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 170713,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 226010,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
-        "name": "Bugatti",
-        "url": "https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 170713,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
+        "name": "Salimo de Noche",
+        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Salimo de Noche",
+      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
         "name": "Belladonna",
         "url": "https://open.spotify.com/album/279QwBqCJMO7irKwrB7024"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 242823,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/2cu9stofbXbOFmaIFJzItd"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
-        "name": "Salimo de Noche",
-        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Salimo de Noche",
-      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
     },
     {
       "added_at": "2026-10-02 06:00:13",
@@ -1915,6 +1915,26 @@
     {
       "added_at": "2026-10-02 06:00:13",
       "album": {
+        "name": "DUBAI",
+        "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "DUBAI",
+      "url": "https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6"
+    },
+    {
+      "added_at": "2026-10-02 06:00:13",
+      "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
-    },
-    {
-      "added_at": "2026-10-02 06:00:13",
-      "album": {
-        "name": "DUBAI",
-        "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "DUBAI",
-      "url": "https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6"
     },
     {
       "added_at": "2026-10-02 06:00:13",

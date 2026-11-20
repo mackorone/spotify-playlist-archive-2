@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 89448,
+  "num_followers": 89459,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJJVGZeK74iN9ZOfe1t2G4uE5olQ",
+  "snapshot_id": "AAAAANpuKBMTnSSd7amrrjvzbs+2AYiY",
   "tracks": [
     {
       "added_at": "2024-08-28 14:05:36",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
-        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 266906,
-      "name": "Stay Alive - From \"The Secret Life of Walter Mitty\" Soundtrack",
-      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
+      "duration_ms": 217480,
+      "name": "Almost (Sweet Music)",
+      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 217480,
-      "name": "Almost (Sweet Music)",
-      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
+      "duration_ms": 266906,
+      "name": "Stay Alive - From \"The Secret Life of Walter Mitty\" Soundtrack",
+      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 240147,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Hey, Ma",
-      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Mi Negrita",
-      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Mi Negrita",
+      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Apocalypse",
         "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 365746,
       "name": "Riding For The Feeling",
       "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
-      },
-      "artists": [
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 236834,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Small Town Heroes",
         "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 153546,
       "name": "Blue Ridge Mountain",
       "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 236834,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Carpenter",
-        "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "Live And Die",
-      "url": "https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "No Witch",
         "url": "https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 191266,
       "name": "Distant Sures",
       "url": "https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Carpenter",
+        "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "Live And Die",
+      "url": "https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml"
     },
     {
       "added_at": "2024-08-28 14:05:36",

@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "IN FREE FALL",
+        "url": "https://open.spotify.com/album/2VsJxuAPHaNTLwX8pwuDv1"
+      },
+      "artists": [
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "99",
+      "url": "https://open.spotify.com/track/2Jt04EAYInXJMzYKWmrxZ2"
+    },
+    {
+      "album": {
         "name": "99",
         "url": "https://open.spotify.com/album/7gRsXItkVqNZeGPEnGAjX2"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 189500,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/7bwCOdX9v8TtRYudfTbd9y"
@@ -1810,6 +1828,28 @@
       "duration_ms": 201142,
       "name": "Always",
       "url": "https://open.spotify.com/track/0plxrbRcqrB8keTOROLuZG"
+    },
+    {
+      "album": {
+        "name": "ALWAYS ON TIME",
+        "url": "https://open.spotify.com/album/2hyuK62HiNVjUzueaDogjM"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Oludemi",
+          "url": "https://open.spotify.com/artist/25ZyjnErx4Eb84RLxQg7WS"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136923,
+      "name": "ALWAYS ON TIME",
+      "url": "https://open.spotify.com/track/7vTHV5fcLIk60c8OmTePmE"
     },
     {
       "album": {
@@ -4862,7 +4902,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 210576,
       "name": "Blow My Mind Pro Max",
       "url": "https://open.spotify.com/track/5QjjIdM4FokCzT7tnIJTDq"
@@ -5724,7 +5764,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190945,
       "name": "Calling Me",
       "url": "https://open.spotify.com/track/5Y9cG6hrxIMkTGni30CIhg"
@@ -6608,7 +6648,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185416,
       "name": "CHOSEN",
       "url": "https://open.spotify.com/track/0Tuk824xGjy1KU6yjHvT9r"
@@ -7206,6 +7246,24 @@
       "duration_ms": 162638,
       "name": "Comforter",
       "url": "https://open.spotify.com/track/5Ammc0BznxFdYJ9VXioZUz"
+    },
+    {
+      "album": {
+        "name": "COMFORTING COMPANY",
+        "url": "https://open.spotify.com/album/3LRqkJSAT312cJl2OWZrBK"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "Comforting Company",
+      "url": "https://open.spotify.com/track/3NBXQbJUiJKKzTMS3rI3Cs"
     },
     {
       "album": {
@@ -8114,7 +8172,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180036,
       "name": "Daddy Daddy",
       "url": "https://open.spotify.com/track/4DPK7ei1j8yglj2trKZKRt"
@@ -9933,6 +9991,28 @@
     },
     {
       "album": {
+        "name": "New Breed",
+        "url": "https://open.spotify.com/album/1CLu2Di0uBRp6T4ZBj4eeg"
+      },
+      "artists": [
+        {
+          "name": "Israel the creator",
+          "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
+        },
+        {
+          "name": "KDream",
+          "url": "https://open.spotify.com/artist/4ybwPL8FCyGPpmjx5Hc9Bb"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179081,
+      "name": "Ebenezer",
+      "url": "https://open.spotify.com/track/49JDBxTYkF8O1B5VLE2xSW"
+    },
+    {
+      "album": {
         "name": "Ebenezer",
         "url": "https://open.spotify.com/album/6ySTCDY2ReTPrG5e4vV7qk"
       },
@@ -10054,7 +10134,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 254867,
       "name": "Ekele",
       "url": "https://open.spotify.com/track/2FMTfkIPXzgyk5ZZVBRnOK"
@@ -13474,7 +13554,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 221116,
       "name": "freefall",
       "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
@@ -13925,6 +14005,28 @@
     },
     {
       "album": {
+        "name": "GIVE ME",
+        "url": "https://open.spotify.com/album/3paOK3wNEQk0sUceaOsDTZ"
+      },
+      "artists": [
+        {
+          "name": "Dj Fetty",
+          "url": "https://open.spotify.com/artist/2ZluNFnnyxXaXTJZKxxq04"
+        },
+        {
+          "name": "Nicole Muwanguzi",
+          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215555,
+      "name": "GIVE ME",
+      "url": "https://open.spotify.com/track/5TuvI3D3vRXYYeucdaIRxt"
+    },
+    {
+      "album": {
         "name": "Give Me Time (Gimme)",
         "url": "https://open.spotify.com/album/21ICHmCBp2my574mRH2otm"
       },
@@ -14282,7 +14384,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180000,
       "name": "God Alone",
       "url": "https://open.spotify.com/track/6a8NzydorMVCGuPtpYHu2x"
@@ -14450,7 +14552,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 359096,
       "name": "God Is for Me",
       "url": "https://open.spotify.com/track/0ARQW1x7VJE3OyqckAOtD9"
@@ -16024,6 +16126,28 @@
     {
       "album": {
         "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/6qCqDR5jSWZNQjSNZAXnJt"
+      },
+      "artists": [
+        {
+          "name": "Bodilezz",
+          "url": "https://open.spotify.com/artist/6GpwVFciDuQrHF7lXOHdQb"
+        },
+        {
+          "name": "K DEGART",
+          "url": "https://open.spotify.com/artist/1FkHvEsL6oj0SEWnOXMdCG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225899,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6GBQjj5mO31w5sxeLl0QRI"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0YcTd7fh0DnRJK1WjKJEvz"
       },
       "artists": [
@@ -16782,7 +16906,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 166720,
       "name": "Heavenly Father",
       "url": "https://open.spotify.com/track/3RnF0R3Wj6G0djVaX4FiXV"
@@ -17942,7 +18066,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 207400,
       "name": "Hope In You (with Davido)",
       "url": "https://open.spotify.com/track/1jVbr4dzmLdS5jWzxz0BqL"
@@ -20536,7 +20660,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 135967,
       "name": "IWOLOBA DRILL",
       "url": "https://open.spotify.com/track/4rN9DeyUY0ARcolUMH24P6"
@@ -22332,7 +22456,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 123711,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/4oacaORBXYl2wecW0fFYsn"
@@ -23740,7 +23864,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 122307,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6BK2U3UXKhGz2TbfAqxzCh"
@@ -25511,6 +25635,24 @@
     },
     {
       "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/3NUF2Nbce9cSYttGmZ7UaO"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166025,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/6AutdOVNs1kz9YcRS8xXQI"
+    },
+    {
+      "album": {
         "name": "MIND BLEEDING",
         "url": "https://open.spotify.com/album/3eaW2R7LAAPQncdfYXJ0FQ"
       },
@@ -26503,6 +26645,24 @@
     },
     {
       "album": {
+        "name": "My Leader",
+        "url": "https://open.spotify.com/album/72UBlqAYtTeBMISpVBfUDv"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202434,
+      "name": "My Leader",
+      "url": "https://open.spotify.com/track/0zxPaJV4V1NXRlhz33D0NK"
+    },
+    {
+      "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/5A9SC4bt3KbzOIa0qjC9AI"
       },
@@ -26850,7 +27010,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 183673,
       "name": "MY TIME",
       "url": "https://open.spotify.com/track/6WWAm7CghPd9tUVrGrZNt3"
@@ -26999,6 +27159,24 @@
     },
     {
       "album": {
+        "name": "name God",
+        "url": "https://open.spotify.com/album/60gwNX8Mj3Gv50wbr4Wk7A"
+      },
+      "artists": [
+        {
+          "name": "GERALD ADUGBO",
+          "url": "https://open.spotify.com/artist/06y01hToOeibM9lqYOApKl"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119999,
+      "name": "name God",
+      "url": "https://open.spotify.com/track/5cIFjM90Ix6K5pHmeTeWoN"
+    },
+    {
+      "album": {
         "name": "Name So Sweet",
         "url": "https://open.spotify.com/album/5Kp5luRmycbkqnZVDdtNXS"
       },
@@ -27010,7 +27188,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214800,
       "name": "Name So Sweet",
       "url": "https://open.spotify.com/track/5fQKGaZKnu4NMtuoUKh2PD"
@@ -27142,7 +27320,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155477,
       "name": "Need You",
       "url": "https://open.spotify.com/track/0e2dqpRD77jYuSi7lUqMdH"
@@ -27980,7 +28158,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 153165,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/3lqejrVJWUP3B8B2Udu69i"
@@ -28382,6 +28560,24 @@
       "duration_ms": 161591,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/3OjNHsBXP8V1ABRru6tsoZ"
+    },
+    {
+      "album": {
+        "name": "The Jesus Anthem",
+        "url": "https://open.spotify.com/album/4QKhkYIbsFwGgcAf2YooK7"
+      },
+      "artists": [
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180532,
+      "name": "Nobody Be Like You",
+      "url": "https://open.spotify.com/track/1fw2po67qTZxKMORvvRacD"
     },
     {
       "album": {
@@ -29804,7 +30000,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156008,
       "name": "On A Daily",
       "url": "https://open.spotify.com/track/4WWOSJZqmUw0ERQdA61KFO"
@@ -29822,7 +30018,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188181,
       "name": "On Gad",
       "url": "https://open.spotify.com/track/588jYeINa42axbFPogcak0"
@@ -30790,10 +30986,28 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 183345,
       "name": "Onward",
       "url": "https://open.spotify.com/track/4XbrVgJnmGlAcEE8tExWgj"
+    },
+    {
+      "album": {
+        "name": "ONYEKA",
+        "url": "https://open.spotify.com/album/45tqoY2wwgILxRlO24sdhq"
+      },
+      "artists": [
+        {
+          "name": "The Good Wine",
+          "url": "https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115865,
+      "name": "ONYEKA",
+      "url": "https://open.spotify.com/track/2PMxj5texqcLMi1fCEnTjS"
     },
     {
       "album": {
@@ -30928,7 +31142,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 179408,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/4CNe6cdSc2dJLczB9UQDAd"
@@ -30964,7 +31178,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149340,
       "name": "Opoor",
       "url": "https://open.spotify.com/track/4x8FvaKlTNG3xqH2FFIEMh"
@@ -31332,7 +31546,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176000,
       "name": "OVER ME",
       "url": "https://open.spotify.com/track/0jKcIawFIGx0ZaB8Ulo1sJ"
@@ -34180,7 +34394,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 150091,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY"
@@ -34388,6 +34602,24 @@
       "duration_ms": 210077,
       "name": "ROGIC",
       "url": "https://open.spotify.com/track/75HuzOo5GXHKPic7Gt16Ci"
+    },
+    {
+      "album": {
+        "name": "Row Your Boat",
+        "url": "https://open.spotify.com/album/5CrfiwJhe6qfudgWGixQfX"
+      },
+      "artists": [
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163199,
+      "name": "Row Your Boat",
+      "url": "https://open.spotify.com/track/6ULjTZzbxGknBjxTWP7RMy"
     },
     {
       "album": {
@@ -35524,7 +35756,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176100,
       "name": "Shut the devil up",
       "url": "https://open.spotify.com/track/38Dpx3fwXmU1MGd9vFOIXZ"
@@ -35952,7 +36184,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 141818,
       "name": "Soji",
       "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
@@ -36712,7 +36944,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 211370,
       "name": "Stay Focus",
       "url": "https://open.spotify.com/track/7x8MtYeLcquH4lgMNCDGK5"
@@ -37594,7 +37826,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168960,
       "name": "Surrounded",
       "url": "https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm"
@@ -38318,6 +38550,36 @@
       "duration_ms": 134489,
       "name": "Tender Love",
       "url": "https://open.spotify.com/track/5V2JjuDMDPSensCHBTNXZr"
+    },
+    {
+      "album": {
+        "name": "TENKI (Remix)",
+        "url": "https://open.spotify.com/album/3CyoT7afZvbi9wMkRN2wuw"
+      },
+      "artists": [
+        {
+          "name": "ICXN",
+          "url": "https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj"
+        },
+        {
+          "name": "Drizilik",
+          "url": "https://open.spotify.com/artist/0MzwQf5ScWuVeFGZhLIc2P"
+        },
+        {
+          "name": "Shadow Boxxer",
+          "url": "https://open.spotify.com/artist/1V6ZXpsxkb3B5pyilT9kJn"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287438,
+      "name": "TENKI - Remix",
+      "url": "https://open.spotify.com/track/1WMk0lkidxPEoKGTzUhFaM"
     },
     {
       "album": {
@@ -39664,7 +39926,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190865,
       "name": "Tinotenda",
       "url": "https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM"
@@ -39920,7 +40182,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 166110,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/5zbFzMSjsPAjp9UYumhr0u"
@@ -39994,6 +40256,32 @@
       "duration_ms": 180062,
       "name": "Triumphant Entry",
       "url": "https://open.spotify.com/track/1Y0QKC3D9d4b7MvPhIlxls"
+    },
+    {
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/33BN4O4GVR6okySG5gZFHT"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Johay",
+          "url": "https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e"
+        },
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/6Kufm6wELIBnNqCdWdTAr7"
     },
     {
       "album": {
@@ -40478,7 +40766,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149740,
       "name": "UNYIELDED",
       "url": "https://open.spotify.com/track/5QeO1X840dR7hAIXuVyGNn"
@@ -42554,7 +42842,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154105,
       "name": "Workforce",
       "url": "https://open.spotify.com/track/1O1PStHBFiEwsEOQMDzf9d"
@@ -43253,6 +43541,24 @@
     },
     {
       "album": {
+        "name": "YHWH",
+        "url": "https://open.spotify.com/album/7lPgdISMz22IDE3EDacj7V"
+      },
+      "artists": [
+        {
+          "name": "Tamar\u00e1",
+          "url": "https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151222,
+      "name": "YHWH",
+      "url": "https://open.spotify.com/track/1iPBX4EER9PhHR1Ct3w9W7"
+    },
+    {
+      "album": {
         "name": "YHWH (Yahweh)",
         "url": "https://open.spotify.com/album/1zyNau9ajBHupq144myNG7"
       },
@@ -43294,6 +43600,24 @@
       "duration_ms": 172682,
       "name": "Yield",
       "url": "https://open.spotify.com/track/7od8yfgeek0bgg349QrybQ"
+    },
+    {
+      "album": {
+        "name": "Milestones - Rising Above",
+        "url": "https://open.spotify.com/album/5lkrTaVGQ346Xi6RKG6gWU"
+      },
+      "artists": [
+        {
+          "name": "Acer Chap",
+          "url": "https://open.spotify.com/artist/5YNkYzr55ZiVnViUEWE4uR"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193274,
+      "name": "You",
+      "url": "https://open.spotify.com/track/7lBhvIEarAPyJQJ8FvQUba"
     },
     {
       "album": {
@@ -43618,7 +43942,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149309,
       "name": "You God",
       "url": "https://open.spotify.com/track/3ZLL2PTBvwbyaWgcotVZip"

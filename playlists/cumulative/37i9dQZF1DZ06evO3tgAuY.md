@@ -4,7 +4,7 @@
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-96 songs - 4 hr 19 min
+97 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Ivan Archivaldo, Gonzalo Y El R, El Rápido \- En Vivo](https://open.spotify.com/track/61lb9K8iuqHrhpuhvgEhmr) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Agrado](https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh) | [El Maserati \(En Vivo\)](https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk) | 5:37 | 2024-08-08 | 2024-11-15 |
 | [Jaimito El De California](https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Jaimito El De California](https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G) | 2:31 | 2024-08-08 | 2025-10-29 |
 | [KIWI](https://open.spotify.com/track/2biSmSAEVtRFVLZbnz5VB8) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [KIWI](https://open.spotify.com/album/74X6Gq3JljtI8hyRpdxDLU) | 2:27 | 2025-11-22 | 2025-11-23 |
-| [KIWI](https://open.spotify.com/track/5DrnnArGDULw7cL2UGYS0a) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:27 | 2025-11-23 |  |
+| [KIWI](https://open.spotify.com/track/5DrnnArGDULw7cL2UGYS0a) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:27 | 2025-11-23 | 2026-11-20 |
 | [La Corona](https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Corona](https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN) | 1:59 | 2024-08-08 |  |
 | [Levemente Cotorreando \- En Vivo](https://open.spotify.com/track/2SafJyuG87XZ0ox5CdrCaz) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:52 | 2024-08-18 | 2025-04-27 |
 | [Lujos Y Damitas](https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jr Heguertty](https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU) | [Lujos Y Damitas](https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU) | 2:34 | 2024-08-08 |  |
@@ -85,6 +85,7 @@
 | [Richie Rich \- En Vivo](https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Richie Rich \(En Vivo\)](https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi) | 2:52 | 2024-08-08 |  |
 | [Romeo y Julieta](https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Romeo y Julieta](https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS) | 2:32 | 2024-08-08 |  |
 | [ROOKIE](https://open.spotify.com/track/3ocaYGBjzq91UVMD7KSvQF) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [ROOKIE](https://open.spotify.com/album/2mhU7skEyc9vn60DZE72M1) | 2:18 | 2026-02-07 |  |
+| [Rudo y Cursi](https://open.spotify.com/track/2KQg1akTMIuvcyk6KPWZ4O) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Rudos & Cursis](https://open.spotify.com/album/6tzucWhG8CsFCOO4PdvSJ7) | 3:08 | 2026-11-20 |  |
 | [RUMBA](https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [RUMBA](https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm) | 3:01 | 2024-10-19 |  |
 | [RZR Rojo](https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [RZR Rojo](https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I) | 1:52 | 2024-08-08 |  |
 | [RZR Rojo \- En Vivo](https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:50 | 2024-08-08 | 2025-12-22 |

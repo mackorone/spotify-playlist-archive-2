@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 
 > The IDs that got us here\. \#Spotify20
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,602 likes - 95 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,606 likes - 95 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 11 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
 | 12 | [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 |
 | 13 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
-| 14 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
-| 15 | [Serotonin Moonbeams](https://open.spotify.com/track/5W9KXaUHasNgdram95MDLN) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 4:47 |
+| 14 | [Serotonin Moonbeams](https://open.spotify.com/track/5W9KXaUHasNgdram95MDLN) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 4:47 |
+| 15 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 16 | [Fake ID](https://open.spotify.com/track/1UgZXifaKYZCHtcXp9653a) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z) | 4:06 |
 | 17 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
 | 18 | [Imithandazo \(feat\. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush\)](https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [Umthakathi Kush](https://open.spotify.com/artist/4DFFwNev2bjj7QGVTxzuwM) | [Isimo](https://open.spotify.com/album/4fHsKSIC0nL0cJimyaDT21) | 5:51 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 94 | [When A Fire Starts To Burn](https://open.spotify.com/track/7cyUppcNj7ojpzPlB0CPW9) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle](https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1) | 4:43 |
 | 95 | [Beg \- Hot Since 82 Future Mix](https://open.spotify.com/track/4RjnbnZ6xGHDYFbywiiQ3I) | [Yousef](https://open.spotify.com/artist/6qIx4vKCCV9aW1CvTR3GES), [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Beg](https://open.spotify.com/album/00Pe7GWhQLFpqv6Ir1zW86) | 6:50 |
 
-Snapshot ID: `AAAAAEUq8x9sAwRjmE/XC/AL7XpotihT`
+Snapshot ID: `AAAAACxBZoagOtZCnKa2SHoY1vU4nYmE`

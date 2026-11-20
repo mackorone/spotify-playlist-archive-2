@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 228591,
+  "num_followers": 228603,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABELpSpTh3jmDgmid41Gl7bh5ro/",
+  "snapshot_id": "AAAAAKAkAH2MuhVhvkDLMZGF/B7Qqgxa",
   "tracks": [
     {
       "added_at": "2024-07-05 23:46:34",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -891,8 +891,8 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Oh My My",
-        "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
+        "name": "Native",
+        "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 238386,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE"
+      "duration_ms": 257386,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/1QzFhzIOW7CyRJLpmq5CM0"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -971,8 +971,8 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
+        "name": "Oh My My",
+        "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 257386,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/1QzFhzIOW7CyRJLpmq5CM0"
+      "duration_ms": 238386,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "Ten Add Ten: The Very Best of Scouting For Girls",
+        "url": "https://open.spotify.com/album/62j2ag19WoiNtbSxhAk9r7"
+      },
+      "artists": [
+        {
+          "name": "Scouting For Girls",
+          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "This Ain't a Love Song",
+      "url": "https://open.spotify.com/track/2tNE4DP5nL85XUJv1glO0a"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 204986,
       "name": "Lethargy",
       "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "Ten Add Ten: The Very Best of Scouting For Girls",
-        "url": "https://open.spotify.com/album/62j2ag19WoiNtbSxhAk9r7"
-      },
-      "artists": [
-        {
-          "name": "Scouting For Girls",
-          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "This Ain't a Love Song",
-      "url": "https://open.spotify.com/track/2tNE4DP5nL85XUJv1glO0a"
     },
     {
       "added_at": "2024-07-05 23:46:34",

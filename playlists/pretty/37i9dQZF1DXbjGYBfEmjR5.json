@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 368439,
+  "num_followers": 368449,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFSrXyllTMXEIQS0fn2/14VuLsqx",
+  "snapshot_id": "AAAAAMhhjonfd437MJvPaqA9Kpuk+x5N",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 128032,
-      "name": "Dancefloor Sneakers",
-      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "SAILORWAVE III",
         "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 164000,
       "name": "Sailor Saturn",
       "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 128032,
+      "name": "Dancefloor Sneakers",
+      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Tropical Feeling",
-        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 292939,
-      "name": "Tropical Feeling",
-      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "CHEESECAKE+",
         "url": "https://open.spotify.com/album/2W1BtAraV5SGikigCgD8qO"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 259673,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/1tr1iSUzaqoxf8GjnG3XtH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Tropical Feeling",
+        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 292939,
+      "name": "Tropical Feeling",
+      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Untold",
-        "url": "https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 221687,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "At the End of the Day",
         "url": "https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 221217,
       "name": "Electroptysis",
       "url": "https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Untold",
+        "url": "https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 221687,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "\u9055\u3046",
-        "url": "https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S"
-      },
-      "artists": [
-        {
-          "name": "Flammy",
-          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "\u9055\u3046",
-      "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Sua Noite",
         "url": "https://open.spotify.com/album/6YXNb4NfVrdQn0aKnW7sEx"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 142612,
       "name": "Sua Noite",
       "url": "https://open.spotify.com/track/1F2LUInQ9RwsTShO88HFYH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "\u9055\u3046",
+        "url": "https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S"
+      },
+      "artists": [
+        {
+          "name": "Flammy",
+          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "\u9055\u3046",
+      "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 202783,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "DRENCH3D",
         "url": "https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 141873,
       "name": "DRENCH3D",
       "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+        }
+      ],
+      "duration_ms": 202783,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "I Must Be Dreamin'",
+        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
+      },
+      "artists": [
+        {
+          "name": "Luanmer",
+          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
+        },
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+        }
+      ],
+      "duration_ms": 223129,
+      "name": "I Must Be Dreamin'",
+      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "ICE CREAM",
         "url": "https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF"
       },
@@ -1631,26 +1651,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Must Be Dreamin'",
-        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
-      },
-      "artists": [
-        {
-          "name": "Luanmer",
-          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
-        },
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
-        }
-      ],
-      "duration_ms": 223129,
-      "name": "I Must Be Dreamin'",
-      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Get Up, Get Out",
         "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "TIMERIDER 1983",
-        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
-      },
-      "artists": [
-        {
-          "name": "Adrianwave",
-          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
-        }
-      ],
-      "duration_ms": 260625,
-      "name": "\u541bKimi (You Came Along)",
-      "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Future Funk 2022",
         "url": "https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL"
       },
@@ -1703,18 +1687,34 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+        "name": "TIMERIDER 1983",
+        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "Adrianwave",
+          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
         }
       ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
+      "duration_ms": 260625,
+      "name": "\u541bKimi (You Came Along)",
+      "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/6LLsv8PdNByTCPNy5tv352"
+      },
+      "artists": [
+        {
+          "name": "Uni Deluxe",
+          "url": "https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV"
+        }
+      ],
+      "duration_ms": 212469,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/7MCJ9kHMs9PrV2P3PC0rcy"
     }
   ],
   "unique_name": "Future Funk",

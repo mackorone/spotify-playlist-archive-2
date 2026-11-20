@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-768 songs - 1 day 22 hr 31 min
+769 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Like A Star](https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:03 | 2024-03-24 | 2025-09-06 |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-06-02 | 2026-11-07 |
 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 | 2022-12-08 | 2023-01-11 |
-| [LLL](https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [LLL](https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj) | 3:33 | 2026-11-06 |  |
+| [LLL](https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [LLL](https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj) | 3:33 | 2026-11-06 | 2026-11-20 |
 | [Lonely Town](https://open.spotify.com/track/5HpFHYtvhEvHuHs6W9ehWA) | [Galen & Paul](https://open.spotify.com/artist/3odcbVRgKE0GhIqHh7miu4), [Galen Ayers](https://open.spotify.com/artist/7DjUShIwwYG9UeXsnl14NN), [Paul Simonon](https://open.spotify.com/artist/62bYKAZ5EdmG5Aca9dtVan) | [Lonely Town](https://open.spotify.com/album/0dTjA5EgfqRAAWqX5CORVk) | 2:15 | 2023-02-21 | 2023-03-01 |
 | [Long Long Long \- Acoustic](https://open.spotify.com/track/13ukC82r00OfvNbu7z6A2a) | [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Long Long Long \(Acoustic\)](https://open.spotify.com/album/29OKnedaN7Zt91PRiM12lV) | 3:46 | 2023-08-01 | 2023-09-22 |
 | [Love & Money](https://open.spotify.com/track/69puCjWb1rrocZBah5s3GR) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Love & Money](https://open.spotify.com/album/2JfNxUZXLBPzTYWZ0x4BPb) | 3:20 | 2023-03-23 | 2023-04-21 |
@@ -690,6 +690,7 @@
 | [ばらばら](https://open.spotify.com/track/0RFt3nrc40G6eJHgnvvDxv) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [ばかのうた](https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX) | 3:22 | 2025-09-05 | 2026-11-07 |
 | [まばら \- feat\. missa](https://open.spotify.com/track/4IWJMJDFmwh0GyEGSIwcFG) | [ioni](https://open.spotify.com/artist/3QpmyEcdhAM9Y0ZAyN5q6z), [missa](https://open.spotify.com/artist/6B4tdctJogbdK6Kr5hRRFs) | [Autumn ep](https://open.spotify.com/album/0NyNMvyyD4gRkXLmYX7p5W) | 4:21 | 2022-10-20 | 2022-10-28 |
 | [みそしる](https://open.spotify.com/track/6cEJHeZgJs1EfRzmL4RWcS) | [7g classic’s](https://open.spotify.com/artist/09snWBv8zdH6mRDWoLGSWr) | [プチみそしる](https://open.spotify.com/album/2etsMLQKjSwgfoYGgJhgBR) | 5:19 | 2023-09-05 | 2023-09-22 |
+| [みつけて](https://open.spotify.com/track/0EyZLrDtxRQ9ffAfxlvBVq) | [KUCHIRORO](https://open.spotify.com/artist/13ABeGOEjgDMOp8rAAg1lA) | [みつけて](https://open.spotify.com/album/5kGAoOVloG8h5ehmahSmfY) | 5:02 | 2026-11-06 |  |
 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 | 2023-04-04 | 2026-03-27 |
 | [やさしいままで](https://open.spotify.com/track/12ILanij3qGao68KxZtwR9) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [やさしいままで](https://open.spotify.com/album/6JEsb8Gr0a1RyY4zSTMApM) | 3:44 | 2025-09-05 | 2026-11-07 |
 | [アイウタ](https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [アイウタ](https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52) | 4:52 | 2025-09-05 | 2026-11-07 |

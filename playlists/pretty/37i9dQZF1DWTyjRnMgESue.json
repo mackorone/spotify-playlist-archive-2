@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Medium Build",
-  "num_followers": 91167,
+  "num_followers": 91168,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACJ+ZeHOhTqJ6hPK7lCpXnEwuTSf",
+  "snapshot_id": "AAAAAMETf9VK8st/tW9L4kDykBCfNJ0P",
   "tracks": [
     {
       "added_at": "2026-09-04 04:02:01",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
-      },
-      "artists": [
-        {
-          "name": "Bebe Stockwell",
-          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
-        }
-      ],
-      "duration_ms": 213419,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Where's My Love (with Carla)",
         "url": "https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 213419,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "My Regards",
         "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Burn Me",
         "url": "https://open.spotify.com/album/0100hgq4IwkxrCmldWPgYj"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 214617,
       "name": "Burn Me",
       "url": "https://open.spotify.com/track/3diMgXk3RxGChNwsAVqyIL"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Made You Look",
-        "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 225628,
-      "name": "Math of Us",
-      "url": "https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Hen's Teeth",
         "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 225231,
       "name": "Wait Up (feat. I'm With Her)",
       "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Made You Look",
+        "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 225628,
+      "name": "Math of Us",
+      "url": "https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "For The First Time, Again",
-        "url": "https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ballgame",
-          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
-        }
-      ],
-      "duration_ms": 213902,
-      "name": "For The First Time, Again",
-      "url": "https://open.spotify.com/track/3U6hRsB4wRDjsg2pEsJWhA"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Nothing I Need",
         "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 213283,
       "name": "Nothing I Need",
       "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "For The First Time, Again",
+        "url": "https://open.spotify.com/album/4vS7m3LfEKnQgcIAjvHVqy"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "For The First Time, Again",
+      "url": "https://open.spotify.com/track/3U6hRsB4wRDjsg2pEsJWhA"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "I Don't Know How But They Found Me!",
-        "url": "https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Let Me Be Wrong",
-      "url": "https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Sad Country Songs",
         "url": "https://open.spotify.com/album/2BoWkDdkGWerjoBRbbTgHZ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 184322,
       "name": "Sad Country Songs",
       "url": "https://open.spotify.com/track/2XHG1TCwtXyGo3Wwrr5WIo"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "I Don't Know How But They Found Me!",
+        "url": "https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Let Me Be Wrong",
+      "url": "https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "If I Had Never Lost My Mind...",
+        "url": "https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 190998,
+      "name": "If I Had Never Lost My Mind...",
+      "url": "https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "I Don't Know How But They Found Me...Again!",
         "url": "https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 229911,
       "name": "God Has A Hitman",
       "url": "https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "If I Had Never Lost My Mind...",
-        "url": "https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 190998,
-      "name": "If I Had Never Lost My Mind...",
-      "url": "https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Nothing Comes Easy",
+        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 174087,
+      "name": "Nothing Comes Easy",
+      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Poison In My Well",
         "url": "https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 188936,
       "name": "Poison In My Well",
       "url": "https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Nothing Comes Easy",
-        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 174087,
-      "name": "Nothing Comes Easy",
-      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "One More Cowboy",
-        "url": "https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "One More Cowboy",
-      "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Somebody Nobody Gets Over",
         "url": "https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 142489,
       "name": "Wild One",
       "url": "https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "One More Cowboy",
+        "url": "https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "One More Cowboy",
+      "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

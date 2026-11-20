@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 
 > 最新K\-POP楽曲で彩られたミュージックロマンスドラマ『サウンドトラック \#1』<a href="https://disneyplus.disney.co.jp/program/soundtrack\-1">Disney+で全話独占配信中</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 24 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 322 likes - 24 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We'll shine brighter than any other stars](https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [We'll shine brighter than any other stars \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv) | 3:49 |
 | 2 | [A little more](https://open.spotify.com/track/5JXZEz2nO23mXsYY4nNREW) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [A little more \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd) | 3:32 |
-| 3 | [Love beyond words](https://open.spotify.com/track/40c4m7jV3UFTaqCxdm6AFB) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/7e1IQJXFhJ8WgMt2t22oJ9) | 3:53 |
-| 4 | [My Love](https://open.spotify.com/track/3HxEHyCJPT9o9nsGn5pJkl) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [My Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO) | 3:28 |
+| 3 | [My Love](https://open.spotify.com/track/3HxEHyCJPT9o9nsGn5pJkl) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [My Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO) | 3:28 |
+| 4 | [Love beyond words](https://open.spotify.com/track/40c4m7jV3UFTaqCxdm6AFB) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/7e1IQJXFhJ8WgMt2t22oJ9) | 3:53 |
 | 5 | [Talk to me](https://open.spotify.com/track/1VkrFMnRcfMqIESAa4amv2) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Talk to me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1Z1HFrzzOTeoeYma55otPC) | 4:17 |
 | 6 | [miss you more, I'm sorry](https://open.spotify.com/track/6cOpgvr2opxH5Asrnluxri) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [miss you more, I'm sorry \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/56mPDuOqtTtU8d4SUQQhOQ) | 3:20 |
 | 7 | [Your tender heart hurts me](https://open.spotify.com/track/6ShXmyHOzhNANXSquXe5UQ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Your tender heart hurts me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5) | 3:40 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 | 23 | [miss you more, I'm sorry \- Instrumental](https://open.spotify.com/track/0GWGxi8mr6tNXKvwCQVq22) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [miss you more, I'm sorry \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/56mPDuOqtTtU8d4SUQQhOQ) | 3:20 |
 | 24 | [Love beyond words \- Instrumental](https://open.spotify.com/track/0inBLZZp4n4hd3JnJfNd1M) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/38kBeYr1NaLzclPCJGipMM) | 3:53 |
 
-Snapshot ID: `AAAAACg95KDePIlp+tHTnk/0rCKOGa7M`
+Snapshot ID: `AAAAABwkhJDOEy33v18Lkl5nIQdEdJQk`

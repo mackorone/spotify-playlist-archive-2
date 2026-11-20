@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:6EuekoOKebcHJWIqHuBK0H">Wiktoria Kida</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,052 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,050 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 69 | [MOLLY](https://open.spotify.com/track/6O6SWp9yEpPjF6h26sK0zN) | [Zuza Baum](https://open.spotify.com/artist/5rE76NUNypiHO6zb9pU6C8), [bART](https://open.spotify.com/artist/7oOGDupYKqBVv4AT5Zdj8G) | [MOLLY](https://open.spotify.com/album/2zuW7lolMXZolN6GOrAuSM) | 1:33 |
 | 70 | [8 Miles Away](https://open.spotify.com/track/57PKa4ic8MHfEo4Krb6YRk) | [agatheanneg](https://open.spotify.com/artist/2uJ59FpkNK76iqMlZSUtkM) | [8 Miles Away](https://open.spotify.com/album/5tvQRkuHbSbUHEZNcBAngr) | 2:45 |
 
-Snapshot ID: `AAAAAJI584PQMUVJlmP5tMeOQCPysQHp`
+Snapshot ID: `AAAAAC3w6v5nB2iUWPLLE3+vlSGAeFMY`

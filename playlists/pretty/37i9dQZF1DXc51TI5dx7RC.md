@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 > ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: SERIOUS BACON, PURPEECH
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,953 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,998 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 50 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 |
 
-Snapshot ID: `AAAAAFqz/sQ6AAZG54LKY3HSpvpOqUIs`
+Snapshot ID: `AAAAAKWl/1VaX/GUE9f/uAHQo3eKWfEr`

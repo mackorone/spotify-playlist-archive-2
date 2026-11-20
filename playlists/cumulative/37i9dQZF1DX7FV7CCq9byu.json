@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "A PLACE TO GO",
+        "url": "https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "A PLACE TO GO",
+      "url": "https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb"
+    },
+    {
+      "album": {
         "name": "A Stitch For Grand Affairs",
         "url": "https://open.spotify.com/album/6qrW5ybZ8vKvJdHaA1UpEx"
       },
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 193792,
       "name": "are we on a break",
       "url": "https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s"
@@ -6309,6 +6327,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223683,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C"
+    },
+    {
+      "album": {
         "name": "Crazy Young And Wild",
         "url": "https://open.spotify.com/album/6ZBNfa0TacppWCfwT0Vwn8"
       },
@@ -6576,7 +6612,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160245,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/1xg5ku2x0XxEdTcVLmqHl0"
@@ -9469,6 +9505,24 @@
     },
     {
       "album": {
+        "name": "Ett knapptryck ifr\u00e5n",
+        "url": "https://open.spotify.com/album/5qCEK3MPEB6xc3otauAuW7"
+      },
+      "artists": [
+        {
+          "name": "Tuva R\u00e5wall",
+          "url": "https://open.spotify.com/artist/1Oadq2wgT9FXUCDrHsscYR"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Ett knapptryck ifr\u00e5n",
+      "url": "https://open.spotify.com/track/2haNwOWjbb9G3CvwmZJy3w"
+    },
+    {
+      "album": {
         "name": "ett minne i taget",
         "url": "https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX"
       },
@@ -10114,6 +10168,28 @@
       "duration_ms": 181586,
       "name": "Fast",
       "url": "https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot"
+    },
+    {
+      "album": {
+        "name": "Fast Emotion (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6NL0OEV68wSPHAxQiGsuO5"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173952,
+      "name": "Fast Emotion (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/5ywRLhRi5JhoOoRurIyk5f"
     },
     {
       "album": {
@@ -12181,6 +12257,28 @@
     },
     {
       "album": {
+        "name": "Go Easy (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192301,
+      "name": "Go Easy (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
+    },
+    {
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
@@ -12908,7 +13006,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 233417,
       "name": "Gul & Bl\u00e5",
       "url": "https://open.spotify.com/track/7LvWt2SYsaj6p3e1ebSZzV"
@@ -14574,7 +14672,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 186375,
       "name": "Highway to Heaven",
       "url": "https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm"
@@ -17944,7 +18042,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174062,
       "name": "Jag beh\u00f6ver att du beh\u00f6ver mig",
       "url": "https://open.spotify.com/track/2RiAxZWgy8dq5gB87VpAbB"
@@ -18554,6 +18652,24 @@
       "duration_ms": 213593,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/1CFghfU1Gomjb70HUoVlSp"
+    },
+    {
+      "album": {
+        "name": "King Street",
+        "url": "https://open.spotify.com/album/2eibZ6DViTSTSnyYPwDfiu"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226932,
+      "name": "King Street",
+      "url": "https://open.spotify.com/track/2Oxy6BOQ67zYz2LXqnAjfx"
     },
     {
       "album": {
@@ -19453,6 +19569,24 @@
     },
     {
       "album": {
+        "name": "Leave With Me (Featured in Always Lalisa)",
+        "url": "https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184788,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G"
+    },
+    {
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/5qbWcmomWqrrCRxdXydX9g"
       },
@@ -19921,6 +20055,24 @@
     },
     {
       "album": {
+        "name": "LIVE FR\u00c5N HELL",
+        "url": "https://open.spotify.com/album/1HxG25yRFHE7SwmofPtVX4"
+      },
+      "artists": [
+        {
+          "name": "Little Jinder",
+          "url": "https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155113,
+      "name": "LIVE FR\u00c5N HELL",
+      "url": "https://open.spotify.com/track/6b1FGCydyQ8WUv5B0AuScc"
+    },
+    {
+      "album": {
         "name": "Living My Best Life",
         "url": "https://open.spotify.com/album/6ZLHC89iebjZDtcMIXgRPn"
       },
@@ -20333,6 +20485,24 @@
     },
     {
       "album": {
+        "name": "Daughter from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175970,
+      "name": "Lost in It",
+      "url": "https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt"
+    },
+    {
+      "album": {
         "name": "Lost Your Faith",
         "url": "https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd"
       },
@@ -20474,7 +20644,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 199507,
       "name": "Love = Art",
       "url": "https://open.spotify.com/track/1tWIQ6HgVTfQFD1f5WiiIc"
@@ -24140,7 +24310,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182582,
       "name": "new trick",
       "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
@@ -24220,7 +24390,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 191699,
       "name": "Next Mistake",
       "url": "https://open.spotify.com/track/3I9KhjtlajuSoCbeERJhBk"
@@ -26194,7 +26364,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 201331,
       "name": "Party",
       "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
@@ -32077,6 +32247,24 @@
     },
     {
       "album": {
+        "name": "St\u00e5r under stj\u00e4rnor",
+        "url": "https://open.spotify.com/album/3o8pj1P2qZzDWYD4NviSTX"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267216,
+      "name": "St\u00e5r under stj\u00e4rnor",
+      "url": "https://open.spotify.com/track/5CsNSBL241fXvkibiuu9nq"
+    },
+    {
+      "album": {
         "name": "St\u00f6rd",
         "url": "https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV"
       },
@@ -33236,7 +33424,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 196006,
       "name": "Ta din tid",
       "url": "https://open.spotify.com/track/7I9SdEiOGYA43CkD3GMdW0"
@@ -34665,6 +34853,24 @@
     },
     {
       "album": {
+        "name": "The Vacation Song",
+        "url": "https://open.spotify.com/album/5hitACdfYcvfAKu1uZqiCK"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207442,
+      "name": "The Vacation Song",
+      "url": "https://open.spotify.com/track/65m7niEXFiqqUB7spmOPGX"
+    },
+    {
+      "album": {
         "name": "The Visitor",
         "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
       },
@@ -35254,7 +35460,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181246,
       "name": "to love and to lose",
       "url": "https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5"

@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 351059,
       "name": "Alby Teeb",
       "url": "https://open.spotify.com/track/41EIDQXP9biCVH44TuvQfl"
@@ -8520,7 +8520,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203600,
       "name": "Duvet",
       "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
@@ -10518,6 +10518,40 @@
       "duration_ms": 173134,
       "name": "FLOWER",
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
+    },
+    {
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "album": {
@@ -13436,7 +13470,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 208810,
       "name": "Housewife",
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
@@ -13960,7 +13994,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -15066,7 +15100,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216773,
       "name": "Join Me - Razorblade Mix",
       "url": "https://open.spotify.com/track/0d510tdfPL5wEdjUDe9CjH"
@@ -15396,7 +15430,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 373812,
       "name": "Kabl Yomen",
       "url": "https://open.spotify.com/track/3v0d50lcF262Mj08I77LBR"
@@ -18752,7 +18786,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 179178,
       "name": "Mannek Meshta2a",
       "url": "https://open.spotify.com/track/03IMg1qC7iJPjDmSoZ7paf"
@@ -19200,7 +19234,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217222,
       "name": "Men Gheir Kalam",
       "url": "https://open.spotify.com/track/55edd3SDyaoCC8pZ9xhwFz"
@@ -22926,7 +22960,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
@@ -22944,7 +22978,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
@@ -28762,7 +28796,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -28780,7 +28814,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -29116,7 +29150,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 278760,
       "name": "Tala'et Abeh - \u0637\u0644\u0639\u062a \u0627\u0628\u064a\u0647",
       "url": "https://open.spotify.com/track/1UGaliIKCl7MOWzvzh5chs"
@@ -29246,7 +29280,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 229040,
       "name": "Tayeh Fel Amaken",
       "url": "https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d"
@@ -32014,7 +32048,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184354,
       "name": "Wala Ash Wala Kan",
       "url": "https://open.spotify.com/track/0Bcrb7ZOOxkVgcZEtPWxXy"
@@ -32050,7 +32084,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 273475,
       "name": "Walla Haram",
       "url": "https://open.spotify.com/track/2FP3VlH0UT5cXxqlFiAGu4"
@@ -34950,7 +34984,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-02",
+      "date_removed": null,
       "duration_ms": 271441,
       "name": "\u0627\u0644\u0639\u0645\u0631 \u0631\u0627\u062d - \u0627\u0644\u0646\u0633\u062e\u0629 \u0627\u0644\u0623\u0635\u0644\u064a\u0629",
       "url": "https://open.spotify.com/track/1rwhsMQoNtMn2PGJsUJ0aZ"
@@ -35514,7 +35548,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 321689,
       "name": "\u0628\u0627\u0639\u0646\u064a \u0648\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/6Yyou08EWcxFXJVL7gnGeD"
@@ -38184,6 +38218,24 @@
       "duration_ms": 201386,
       "name": "\u0644\u0648 \u0643\u0627\u0646 \u0627\u0644\u062d\u064a\u0637 \u0633\u0627\u0645\u0639 \u0647\u0645 \u0627\u0644\u0645\u0648\u062c\u0648\u0639",
       "url": "https://open.spotify.com/track/68AEbU98B3rIS4hyhnc6lX"
+    },
+    {
+      "album": {
+        "name": "\u0644\u064a \u063a\u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/54NzRSzHF1u9mizyOIVuO5"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u0644\u0639\u0644\u064a\u0627 \u0645\u064a\u062f\u064a\u0627",
+          "url": "https://open.spotify.com/artist/5RlqqzoG9PV8gLpQAtJWui"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285264,
+      "name": "\u0644\u064a \u063a\u0627\u0644\u064a",
+      "url": "https://open.spotify.com/track/7Lz5q3jQyqIzedc6JpIHmi"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Didi B",
-  "num_followers": 104229,
+  "num_followers": 104284,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKwu3bdOlYedlYbfFdWUddIyvgdc",
+  "snapshot_id": "AAAAAP3GhlUg4OcLpw98UJ1R+IXaDvKQ",
   "tracks": [
     {
       "added_at": "2026-11-13 00:02:06",
@@ -151,46 +151,6 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/6VE4Gpm0ZQbsF9OILfScC2"
-      },
-      "artists": [
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/5L4G8DPHn5kMpCg7zrZ82f"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
-        "name": "Breaking",
-        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Aura Salad",
-      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
       },
@@ -223,6 +183,46 @@
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/6VE4Gpm0ZQbsF9OILfScC2"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/5L4G8DPHn5kMpCg7zrZ82f"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 205674,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
         "name": "MOVE",
         "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 116410,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 205674,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "I Can't Look Away",
-        "url": "https://open.spotify.com/album/2HEGk0UAA3nUK0SEOoj53T"
-      },
-      "artists": [
-        {
-          "name": "Mr. P",
-          "url": "https://open.spotify.com/artist/4JiEictrOAo2rWNEiPwruJ"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "I Can't Look Away",
-      "url": "https://open.spotify.com/track/3MOyzHlWaBeOj1PmA2mI9k"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "Round One (Elle Mummy)",
-        "url": "https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX"
+        "name": "I Can't Look Away",
+        "url": "https://open.spotify.com/album/2HEGk0UAA3nUK0SEOoj53T"
       },
       "artists": [
         {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+          "name": "Mr. P",
+          "url": "https://open.spotify.com/artist/4JiEictrOAo2rWNEiPwruJ"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Round One (Elle Mummy)",
-      "url": "https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB"
+      "duration_ms": 186428,
+      "name": "I Can't Look Away",
+      "url": "https://open.spotify.com/track/3MOyzHlWaBeOj1PmA2mI9k"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -551,6 +535,22 @@
       "duration_ms": 127565,
       "name": "Guide",
       "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "Round One (Elle Mummy)",
+        "url": "https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Round One (Elle Mummy)",
+      "url": "https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -631,8 +631,8 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "Gbewa",
-        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
+        "name": "LAPOPIANO",
+        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
         }
       ],
-      "duration_ms": 169655,
-      "name": "Gbewa",
-      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
+      "duration_ms": 139285,
+      "name": "LAPOPIANO",
+      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -735,8 +735,8 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "LAPOPIANO",
-        "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
+        "name": "Gbewa",
+        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
         }
       ],
-      "duration_ms": 139285,
-      "name": "LAPOPIANO",
-      "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+      "duration_ms": 169655,
+      "name": "Gbewa",
+      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
         "name": "Fi Kan We Kan",
         "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
       },
@@ -931,18 +911,22 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
         }
       ],
-      "duration_ms": 119954,
-      "name": "HAPPY SONG",
-      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -959,6 +943,22 @@
       "duration_ms": 118801,
       "name": "Opium Amapiano",
       "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 119954,
+      "name": "HAPPY SONG",
+      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "EVERLASTING",
-        "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 139487,
-      "name": "EVERLASTING",
-      "url": "https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
         "name": "Dantata",
         "url": "https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 149243,
       "name": "If You Leave",
       "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "EVERLASTING",
+        "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 139487,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G"
     },
     {
       "added_at": "2026-11-13 00:02:06",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2026-11-13 00:02:06",
       "album": {
-        "name": "Involve Me",
-        "url": "https://open.spotify.com/album/5CsPRYCuSIEBn72XeOkBCV"
-      },
-      "artists": [
-        {
-          "name": "G4 Boyz",
-          "url": "https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 155044,
-      "name": "Involve Me",
-      "url": "https://open.spotify.com/track/4n8tbxIMKNtDiAEskx5n0E"
-    },
-    {
-      "added_at": "2026-11-13 00:02:06",
-      "album": {
         "name": "Root Of All Evil",
         "url": "https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 214441,
       "name": "Na So",
       "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
+    },
+    {
+      "added_at": "2026-11-13 00:02:06",
+      "album": {
+        "name": "Involve Me",
+        "url": "https://open.spotify.com/album/5CsPRYCuSIEBn72XeOkBCV"
+      },
+      "artists": [
+        {
+          "name": "G4 Boyz",
+          "url": "https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 155044,
+      "name": "Involve Me",
+      "url": "https://open.spotify.com/track/4n8tbxIMKNtDiAEskx5n0E"
     },
     {
       "added_at": "2026-11-13 00:02:06",

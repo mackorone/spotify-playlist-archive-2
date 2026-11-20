@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: The F16s
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,335 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,342 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 5 | [Rocknrollisdead](https://open.spotify.com/track/4NzChW1oJX0Eh5ce7MuxqK) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [All Dogs Go To Heaven](https://open.spotify.com/album/2z4R4CZUKwpfpP0T2FgY2W) | 3:02 |
 | 6 | [I’ve Found My Dream](https://open.spotify.com/track/51yljhTTXyrINXyHhwm1b6) | [Abdon Mech](https://open.spotify.com/artist/7GY6RgfJdJDs2euNW5Scv4), [Keneisenuo Sorhie](https://open.spotify.com/artist/1doOhXEzDcQ4s1oSpYHC1S) | [I’ve Found My Dream](https://open.spotify.com/album/5O0dauJDdN7vYqhw8MgSOT) | 3:12 |
 | 7 | [Pink Blue](https://open.spotify.com/track/3dBnKADF2MmLXM9IopV9Bt) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [Pink Blue](https://open.spotify.com/album/0qYhqBhpicb2Kl8oB6YziF) | 3:25 |
-| 8 | [Every Little Thing](https://open.spotify.com/track/7F7watrHszNmjnPYL7VOcD) | [hrehaan](https://open.spotify.com/artist/1QoCvyLHnCVl3d7Pe9athQ) | [Every Little Thing](https://open.spotify.com/album/43MDW6y9dKvRhPMcctZRx6) | 3:35 |
+| 8 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
 | 9 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
-| 10 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
+| 10 | [Every Little Thing](https://open.spotify.com/track/7F7watrHszNmjnPYL7VOcD) | [hrehaan](https://open.spotify.com/artist/1QoCvyLHnCVl3d7Pe9athQ) | [Every Little Thing](https://open.spotify.com/album/43MDW6y9dKvRhPMcctZRx6) | 3:35 |
 | 11 | [Sunbeam](https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G) | [ASHWYN](https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd), [Gurl](https://open.spotify.com/artist/6pvE17zpH50Jwgyl8FfeuO) | [Sunbeam](https://open.spotify.com/album/1cl634ubs2v0l1gSPO6gGk) | 2:51 |
 | 12 | [I Love You Baby, I Love You Doll](https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Ocean](https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO) | 2:49 |
-| 13 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
+| 13 | [I'm Coming Home](https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [I'm Coming Home](https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA) | 2:45 |
 | 14 | [Blush](https://open.spotify.com/track/56Rdvp163gJ4Bn9v1UqMC2) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Blush](https://open.spotify.com/album/6BlYYjKLjE1FzoJFaftbXh) | 3:06 |
-| 15 | [I'm Coming Home](https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [I'm Coming Home](https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA) | 2:45 |
+| 15 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
 | 16 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 |
 | 17 | [Too Much?](https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Love or a Lesson](https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH) | 2:45 |
 | 18 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 33 | [Champagne Roses](https://open.spotify.com/track/0jk7q9bU2L9c5We9qsosGD) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Sundari](https://open.spotify.com/album/6qvcpPDHrLbSdIHavSCcst) | 2:15 |
 | 34 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 | 35 | [Better Than It All](https://open.spotify.com/track/4CZLWB9teKNiyIN94aovSo) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Songs From a Matchbox](https://open.spotify.com/album/3fHUM1ZwOd4kP120mHbLxd) | 3:01 |
-| 36 | [Snakes and Ladders](https://open.spotify.com/track/3qiekOQecW0IyPaSJ1YcYt) | [Noush!](https://open.spotify.com/artist/4RM2bD4EiGi9DidZYYEsd0) | [Snakes and Ladders](https://open.spotify.com/album/4l2NWVCZJWhtXnwvHQnfFa) | 3:53 |
-| 37 | [Don't Wanna Be](https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Don't Wanna Be](https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv) | 3:20 |
+| 36 | [Don't Wanna Be](https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Don't Wanna Be](https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv) | 3:20 |
+| 37 | [Snakes and Ladders](https://open.spotify.com/track/3qiekOQecW0IyPaSJ1YcYt) | [Noush!](https://open.spotify.com/artist/4RM2bD4EiGi9DidZYYEsd0) | [Snakes and Ladders](https://open.spotify.com/album/4l2NWVCZJWhtXnwvHQnfFa) | 3:53 |
 | 38 | [again...](https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [again...](https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V) | 2:57 |
 | 39 | [Symmetries](https://open.spotify.com/track/33mzjdQtc2y0So7dVMcKMd) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Symmetries](https://open.spotify.com/album/2qVKoJDlyCSpPh90SB5HEK) | 3:35 |
 | 40 | [Waiting On](https://open.spotify.com/track/2m17uAqJyX5bGorHtA6NF0) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Waiting On](https://open.spotify.com/album/3W5FsrJWiH3k2pymn0AK4O) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 49 | [No One's Baby](https://open.spotify.com/track/7jBaw5iWZmvbga7nIbp7Y4) | [Kiara Chettri](https://open.spotify.com/artist/6bO1Y6AkZ6jtWqmktvmmJ5) | [No One's Baby](https://open.spotify.com/album/6nMYUfTcGxnYyfjUxj0RJI) | 3:26 |
 | 50 | [Kindergarten Juliet](https://open.spotify.com/track/5hpvF3zigqgwOicVeeyMoX) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Timothy Thampy](https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK) | [Kindergarten Juliet](https://open.spotify.com/album/71UxutgcpGPi7IvNc4d8sk) | 2:54 |
 
-Snapshot ID: `AAAAAPnl7DwWZvL77jkZfsoa9Z0eB6Hk`
+Snapshot ID: `AAAAACGrgIiz+g8L/nuMC2VJ5Eigp6w0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 桑田 佳祐 \*👉 <a href="https://spice.eplus.jp/articles/350433">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,009 likes - 74 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,016 likes - 74 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 53 | [地獄に手を振って](https://open.spotify.com/track/5hbENPPyEZXU522bLkLx91) | [Akasick](https://open.spotify.com/artist/2P2L4d4iTJgApjJrawjPVT) | [DOPA](https://open.spotify.com/album/2fH17q5acCBXcear5nTsk3) | 4:28 |
 | 54 | [Be Alright](https://open.spotify.com/track/1o3IzvMWTYHmJcr4QpORNs) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [Be Alright](https://open.spotify.com/album/7lIPngGkpxjppl1x4oM0Gu) | 3:27 |
 | 55 | [イケメン](https://open.spotify.com/track/5p3jhk43IPaeNJFqukz4tn) | [TAKEKO420](https://open.spotify.com/artist/2FtjPnppfeem0hu0wteHr0), [Filix王](https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC) | [イケメン](https://open.spotify.com/album/1nxEU4hVfjYLwq0zwOMQnb) | 3:11 |
-| 56 | [COG](https://open.spotify.com/track/5LQdqreNUvMFGzJwdixP7W) | [HIMIZ](https://open.spotify.com/artist/2mESmN0OF6exC4Sj5qySOD), [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx) | [Temple Days](https://open.spotify.com/album/54Ncmv0VI2pWugNWYZFRcB) | 4:43 |
+| 56 | [COG](https://open.spotify.com/track/5LQdqreNUvMFGzJwdixP7W) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy), [HIMIZ](https://open.spotify.com/artist/2mESmN0OF6exC4Sj5qySOD), [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx) | [Temple Days](https://open.spotify.com/album/54Ncmv0VI2pWugNWYZFRcB) | 4:43 |
 | 57 | [賽](https://open.spotify.com/track/2ZzN1oocqTeqzwIdio9N3Z) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [賽](https://open.spotify.com/album/0iG6PBaek9i1CqzENiA8K2) | 3:37 |
 | 58 | [You're my path](https://open.spotify.com/track/71PMpYGCGIXkoQuWgL1i4p) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [5mile](https://open.spotify.com/album/1OKkJvj6iQPfgS1KwFBFfb) | 5:13 |
 | 59 | [Drip Drop](https://open.spotify.com/track/6stEg9AiJWVQtfhFneoxKq) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Drip Drop](https://open.spotify.com/album/1SpLkHjJHRwyoCZ5UTV22r) | 2:52 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 73 | [すきになる](https://open.spotify.com/track/0eDvi7H4cgkYldH6Kvg1tX) | [さらば帝国](https://open.spotify.com/artist/5T2tJY3Aot8SKA5K9SYwW7) | [すきになる](https://open.spotify.com/album/3xqFO82nn6BXgBhDZIBRJD) | 2:13 |
 | 74 | [カカシ](https://open.spotify.com/track/7nx4FU8cEMOrKb8g0HA1bR) | [THE RAPTOLS](https://open.spotify.com/artist/0PfC73YU6spbJ76k2CRb3O) | [カカシ](https://open.spotify.com/album/4yD4PaTC7kF6AOM2jiQRo6) | 3:36 |
 
-Snapshot ID: `AAAAAJRR/RvVqgbqJAQj1Ey49wHXH3yv`
+Snapshot ID: `AAAAAHnlPzA+9GC+ykDoZfejIISrNTP2`

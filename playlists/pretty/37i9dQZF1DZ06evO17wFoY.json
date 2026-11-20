@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 30330,
+  "num_followers": 30334,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAI/ovyqUNGR8+wSJFQJ0fx",
+  "snapshot_id": "avzqgAAAAABgeMXpRgfkuN2ONds4wonm",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiersen: 6 Pieces for Piano, Vol. 2: No. 4, La valse d'Am\u00e9lie",
-        "url": "https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "6 Pieces for Piano, Vol. 2: No. 4, La Valse d'Am\u00e9lie",
-      "url": "https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bach: Goldberg Variations (Extended Edt.)",
         "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 140040,
       "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
       "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiersen: 6 Pieces for Piano, Vol. 2: No. 4, La valse d'Am\u00e9lie",
+        "url": "https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "6 Pieces for Piano, Vol. 2: No. 4, La Valse d'Am\u00e9lie",
+      "url": "https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6"
     },
     {
       "added_at": null,
@@ -427,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 321066,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Painted Veil",
         "url": "https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz"
       },
@@ -451,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
-        "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 81080,
-      "name": "Waltz in A Minor \u201cFound in New York\u201d - 2024 World Premiere Recording",
-      "url": "https://open.spotify.com/track/3Pmd3LaITgStVLitSsRAer"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },
@@ -491,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
+        "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 81080,
+      "name": "Waltz in A Minor \u201cFound in New York\u201d - 2024 World Premiere Recording",
+      "url": "https://open.spotify.com/track/3Pmd3LaITgStVLitSsRAer"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liszt: Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
         "url": "https://open.spotify.com/album/3lhDAw7jJXezveOqSvhf2A"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 207066,
       "name": "Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
       "url": "https://open.spotify.com/track/4sknlExcYjhwvoFjKfZ7vb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 321066,
-      "name": "Goldberg Variations, BWV 988: Aria",
-      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Tekla B\u0105darzewska-Baranowska",
-          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "The Maiden's Prayer, Op. 4",
-      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bach: Goldberg Variations (Extended Edt.)",
         "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 290613,
       "name": "Hunting Cantata, BWV 208: No. 9. Sheep May Safely Graze (Transc. Duck for 4 Hands)",
       "url": "https://open.spotify.com/track/6XMIUEpp8McfEetWKMuuyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Tekla B\u0105darzewska-Baranowska",
+          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "The Maiden's Prayer, Op. 4",
+      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Part of Your World (Arr. Hamilton for Piano & Flute) [From \"The Little Mermaid\" (Feat. Cocomi)]",
-        "url": "https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        },
-        {
-          "name": "Cocomi",
-          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
-        }
-      ],
-      "duration_ms": 344466,
-      "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
-      "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 93253,
       "name": "The Merry Shepherd Boy",
       "url": "https://open.spotify.com/track/04WtM8HBVMGUY3r5LEX4Dr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Part of Your World (Arr. Hamilton for Piano & Flute) [From \"The Little Mermaid\" (Feat. Cocomi)]",
+        "url": "https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+        }
+      ],
+      "duration_ms": 344466,
+      "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
+      "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chopin Gold",
-        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 373173,
-      "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - Live",
-      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },
@@ -991,30 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book 2 \u2013 Modern Encores",
-        "url": "https://open.spotify.com/album/6WO1Aerb7wb4krg5Sni4YM"
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
       },
       "artists": [
         {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Ryan Rubin",
-          "url": "https://open.spotify.com/artist/2xgUcpuB20pn890Aojm0E1"
-        },
-        {
-          "name": "Alex Gibson",
-          "url": "https://open.spotify.com/artist/2lru5lgDquPtJlwRLs3e6Z"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 129266,
-      "name": "Cornfield Chase (from \"Interstellar\")",
-      "url": "https://open.spotify.com/track/0qO9jB10KLyxHlhdUp6e6l"
+      "duration_ms": 373173,
+      "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - Live",
+      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
     },
     {
       "added_at": null,
@@ -1043,6 +1015,34 @@
       "duration_ms": 592266,
       "name": "Piano Concerto No. 24 in C Minor, K. 491: III. Allegretto",
       "url": "https://open.spotify.com/track/7ymm83FDIZE8zVXffT9qa2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book 2 \u2013 Modern Encores",
+        "url": "https://open.spotify.com/album/6WO1Aerb7wb4krg5Sni4YM"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Ryan Rubin",
+          "url": "https://open.spotify.com/artist/2xgUcpuB20pn890Aojm0E1"
+        },
+        {
+          "name": "Alex Gibson",
+          "url": "https://open.spotify.com/artist/2lru5lgDquPtJlwRLs3e6Z"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 129266,
+      "name": "Cornfield Chase (from \"Interstellar\")",
+      "url": "https://open.spotify.com/track/0qO9jB10KLyxHlhdUp6e6l"
     }
   ],
   "unique_name": "This Is Lang Lang",

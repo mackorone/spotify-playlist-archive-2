@@ -3648,7 +3648,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 229760,
       "name": "Friendly Pressure - Into The Sunshine Edit",
       "url": "https://open.spotify.com/track/7vfIghWey3FItmcZXZy2fE"
@@ -8120,6 +8120,28 @@
       "duration_ms": 154731,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
+    },
+    {
+      "album": {
+        "name": "Telepathy",
+        "url": "https://open.spotify.com/album/4fA6Xs32GLxwCWIksGhJIG"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Cleo Simone",
+          "url": "https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Rising Up",
+      "url": "https://open.spotify.com/track/3IWZTh5IP1bcrJoTLu4hWH"
     },
     {
       "album": {

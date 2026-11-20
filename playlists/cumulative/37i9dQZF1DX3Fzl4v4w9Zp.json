@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217669,
       "name": "Annabelle",
       "url": "https://open.spotify.com/track/31BnFQFi0VQ0prkeEYZ3Lp"
@@ -3448,7 +3448,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 240600,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/7tjogpYf166xdw7ECdf2QO"
@@ -6267,6 +6267,28 @@
     },
     {
       "album": {
+        "name": "Glad To Be Here (Feat. Allison Russell)",
+        "url": "https://open.spotify.com/album/37PYAfwRqZZyRToBahIXFn"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302301,
+      "name": "Glad To Be Here (Feat. Allison Russell)",
+      "url": "https://open.spotify.com/track/4fJbPQoZlW04aw9r2wCP2H"
+    },
+    {
+      "album": {
         "name": "Total Freedom",
         "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
       },
@@ -8108,7 +8130,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 260065,
       "name": "Human",
       "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
@@ -9489,6 +9511,24 @@
     },
     {
       "album": {
+        "name": "Canyon Falls Trailer Band",
+        "url": "https://open.spotify.com/album/2wNTTzDAtWoD2gRxLAqGHC"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214826,
+      "name": "Kentucky Hurricane",
+      "url": "https://open.spotify.com/track/29d9vAbuSsYsJpp3931wSC"
+    },
+    {
+      "album": {
         "name": "Kentucky Too Long",
         "url": "https://open.spotify.com/album/4Z8FQO3TmpkD6COopQTTxE"
       },
@@ -10233,6 +10273,24 @@
     },
     {
       "album": {
+        "name": "Look At Us Now",
+        "url": "https://open.spotify.com/album/46NPSU1uiqHoH8RT2ySnH7"
+      },
+      "artists": [
+        {
+          "name": "C. James",
+          "url": "https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167606,
+      "name": "Look At Us Now",
+      "url": "https://open.spotify.com/track/6i64pT55wS3q4LIKuOujf8"
+    },
+    {
+      "album": {
         "name": "Look Up",
         "url": "https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt"
       },
@@ -10512,6 +10570,24 @@
       "duration_ms": 262401,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/1RNQC5wa8N94Go2DUcOzvx"
+    },
+    {
+      "album": {
+        "name": "Get It Honest (Nashville Session)",
+        "url": "https://open.spotify.com/album/2mW2kR0nuUWgumqI5DFBeg"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244831,
+      "name": "Love\u2019s The Only Thing - Nashville Session",
+      "url": "https://open.spotify.com/track/7x0Dj1QzOM9DVCyE2vzM6j"
     },
     {
       "album": {
@@ -14636,7 +14712,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 309000,
       "name": "See It While You Can (National Parks Song)",
       "url": "https://open.spotify.com/track/15d7oy5OgyfIHYdVZlU7yv"

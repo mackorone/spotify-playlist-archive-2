@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Zwolnij tempo i daj się otulić jesiennym brzmieniom\. 🍂🎃☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,373 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,371 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 5 | [Tapeta w róże](https://open.spotify.com/track/0ygre4MAF3Zwo1DFYjsP7v) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Tapeta w róże](https://open.spotify.com/album/0di7u04wHZjDYf1OhX8vV1) | 4:20 |
 | 6 | [Zdjęcie](https://open.spotify.com/track/3TbhyHXTD5QccQZYCJtTI6) | [Evelina Ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Zdjęcie](https://open.spotify.com/album/0PXk9uaNawVkvMVvtJzeXN) | 2:58 |
 | 7 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
-| 8 | [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 |
+| 8 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
 | 9 | [Serce z wosku](https://open.spotify.com/track/6rgF0ql0Gg200aoW0vp5X6) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Serce z wosku](https://open.spotify.com/album/2Boo6XvXersbCc8Cgry0aX) | 2:32 |
-| 10 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
+| 10 | [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 |
 | 11 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 |
 | 12 | [SZUBIENICAPESTYCYDYBROŃ](https://open.spotify.com/track/3phaYOIBQFYr4cwAxSYNKW) | [Albo Inaczej](https://open.spotify.com/artist/0F1DvSOKRaSA6XKSwDNs40), [Wojciech Baranowski](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [SZUBIENICAPESTYCYDYBROŃ](https://open.spotify.com/album/0pf24VsFnAfBdCPS4JUgn0) | 4:36 |
 | 13 | [Raport](https://open.spotify.com/track/35mN0UFFpdbPwCmNJlkZl7) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl) | [Raport](https://open.spotify.com/album/5RtPXJJqxxhH6IZTF5H9fn) | 3:05 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 35 | [Favor \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/4ZlBJ0KOEOz2WbaO3BN50C) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Favor](https://open.spotify.com/album/0BoKFQz38FyG4DyrGbALRr) | 5:35 |
 | 36 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
 | 37 | [Nareszcie](https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Nareszcie](https://open.spotify.com/album/70G6XGkSM2CWedDGAS22Dm) | 3:02 |
-| 38 | [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 |
-| 39 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
+| 38 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
+| 39 | [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 |
 | 40 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
 | 41 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
 | 42 | [Elvis \(feat\. Brendan Yates\)](https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 59 | [Chłopaki](https://open.spotify.com/track/2nI04xLBi0oRFsGmTJYeUU) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Chłopaki](https://open.spotify.com/album/5b9FqCGkBCvoALEdOGC0De) | 2:50 |
 | 60 | [Girls Girl](https://open.spotify.com/track/3b2OEzF5rlmxyMiwU3d7lz) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 3:24 |
 
-Snapshot ID: `AAAAAJNoexexAJLWPkFs/kwyHqnviRq6`
+Snapshot ID: `AAAAAMHCLu5ijsuLZGp8XYzJW3zGMEBE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Don Toliver on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,291 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,402 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Ascension](https://open.spotify.com/track/2gubKNHaXGoyIMNC7X3dBI) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0) | [Still Blameless](https://open.spotify.com/album/6C8AJpmnVUfCsgYfeox0VJ) | 2:56 |
 | 100 | [Tulips](https://open.spotify.com/track/4DBuOW3dsfxnky8KqLKdRm) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [Tulips](https://open.spotify.com/album/3YMgvKKKeyS17ZYRWmu0u8) | 3:13 |
 
-Snapshot ID: `AAAAAG8NnFHylUxFym+9GDOXgaSZ+LKQ`
+Snapshot ID: `AAAAAARE5lH54f1PyyOw7UMxqY1EWSUT`

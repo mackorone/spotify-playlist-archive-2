@@ -4,7 +4,7 @@
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-247 songs - 14 hr 48 min
+248 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bad Dream](https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Bad Dream](https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw) | 3:30 | 2024-06-28 | 2024-08-01 |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2024-06-28 | 2025-05-02 |
 | [Bathroom](https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:28 | 2023-11-30 | 2025-05-02 |
-| [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 | 2026-08-27 |  |
+| [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 | 2026-08-27 | 2026-11-20 |
 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 | 2023-11-30 |  |
 | [better](https://open.spotify.com/track/684aK3J9TN158J2DTPJwok) | [REDD.](https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9) | [better](https://open.spotify.com/album/4dBRpAjGdaspvQ6w2EIW3T) | 3:02 | 2026-08-27 | 2026-09-18 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-28 |  |
@@ -130,6 +130,7 @@
 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 | 2023-11-30 | 2026-03-03 |
 | [Learn To Let You Go](https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew) | 3:11 | 2025-05-01 | 2025-10-01 |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-11-21 | 2025-10-23 |
+| [Left Coast](https://open.spotify.com/track/4pWEuIHAFCOlHlrY6paouV) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Left Coast](https://open.spotify.com/album/77x248O2bBptx7uUp9ad2Z) | 3:03 | 2026-11-19 |  |
 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 | 2023-11-30 | 2024-04-19 |
 | [Left Hand Free \- Extended Version](https://open.spotify.com/track/4DhAIX3t4yC5O7QmBMAL14) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/1xTtRRvxdf226r9IGfL1Hq) | 2:53 | 2024-03-14 |  |
 | [Left Of The Dealer](https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Left Of The Dealer](https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi) | 4:14 | 2025-02-13 | 2025-05-02 |
@@ -170,7 +171,7 @@
 | [Overshare](https://open.spotify.com/track/6FTKVNwnul5ErRl7rPe1uA) | [Charlie Gradon](https://open.spotify.com/artist/7vMRuONPsONKjwXBbbw2aU) | [Pain Game](https://open.spotify.com/album/7qxanlBWu5rXzsPx64zALX) | 3:31 | 2026-10-01 | 2026-10-09 |
 | [Oyster Cuts](https://open.spotify.com/track/5FGdJ7NebnagkGLRjsY2ja) | [Quivers](https://open.spotify.com/artist/0YUqHKQEwFgGaDVSaHTS55) | [Oyster Cuts](https://open.spotify.com/album/53U20PunzeKXI8EmanVRE9) | 4:20 | 2024-08-01 | 2025-05-02 |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2023-11-30 | 2024-04-19 |
-| [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-03 | 2026-08-21 |
+| [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-03 |  |
 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2024-12-12 |  |
 | [pick me up](https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [pick me up](https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS) | 2:40 | 2026-07-23 | 2026-08-28 |
 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 | 2024-03-14 |  |
@@ -231,7 +232,7 @@
 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-11 |  |
 | [The Love](https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 2:38 | 2023-11-30 | 2025-12-25 |
 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 | 2023-11-30 | 2026-03-27 |
-| [Threads](https://open.spotify.com/track/2ef3FqqLb4MVMrj79r1CUY) | [Bite My Tongue](https://open.spotify.com/artist/7CbAVTK8CqlzZVUpFtNo0k) | [This Is Never Gonna Last](https://open.spotify.com/album/1qE8Aj22yErpHlvS4f1GZS) | 3:59 | 2026-11-05 |  |
+| [Threads](https://open.spotify.com/track/2ef3FqqLb4MVMrj79r1CUY) | [Bite My Tongue](https://open.spotify.com/artist/7CbAVTK8CqlzZVUpFtNo0k) | [This Is Never Gonna Last](https://open.spotify.com/album/1qE8Aj22yErpHlvS4f1GZS) | 3:59 | 2026-11-05 | 2026-11-20 |
 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 | 2024-03-14 | 2024-06-28 |
 | [Through My Teeth](https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Through My Teeth](https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ) | 3:25 | 2025-05-01 | 2025-05-18 |
 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:05 | 2023-11-30 |  |

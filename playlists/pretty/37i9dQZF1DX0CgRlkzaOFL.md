@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,373 likes - 72 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,407 likes - 72 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 71 | [L'isle joyeuse, CD 109](https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 6:15 |
 | 72 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK２](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
 
-Snapshot ID: `AAAAAKTdi7lEXknqR3sEPA6u3JlDdK4l`
+Snapshot ID: `AAAAABmrGk5U7Gmz+8IQHgSEXyK3flz4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[Nuvora](https://open.spotify.com/user/11141650175) - 551 likes - 78 songs - 4 hr 16 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 551 likes - 92 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,19 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 76 | [Frenemy \- Remastered](https://open.spotify.com/track/3fWUBDVnpUx1Y5HBmbDhtj) | [K.king k.o.g](https://open.spotify.com/artist/2WYVc5e1ujeNvAbr47o91E) | [Frenemy](https://open.spotify.com/album/2lmI2odd7Esh92NsGs9zis) | 2:55 |
 | 77 | [N.S.T.F](https://open.spotify.com/track/1yC3svjr3WcPrmg9wtfDlJ) | [Pipe Silva](https://open.spotify.com/artist/3mrFWmteqD5ZFXeOB69ErT) | [N.S.T.F](https://open.spotify.com/album/6YWQdlhITRUsQ49fDsrKSH) | 2:41 |
 | 78 | [Mimi](https://open.spotify.com/track/5RGioDWuF0Jehyj4ixLJkg) | [Kan Did](https://open.spotify.com/artist/3RFy6N380sMiCNg3WIbwXL) | [Color of Feeling](https://open.spotify.com/album/2FoRbwEnZY3dq8ERQWgC56) | 2:48 |
+| 79 | [Samantha](https://open.spotify.com/track/2jrTh2j4W5ttmiKFPMekfU) | [Teishgram](https://open.spotify.com/artist/6ZfbhkKtXrzXklld74clvw) | [Samantha](https://open.spotify.com/album/0Le9QxSzMowprPlRg4uapl) | 2:50 |
+| 80 | [Wor$e Ca$e \(Highs and Lows\)](https://open.spotify.com/track/5tbGR6UYNpcxbv1703Xxwm) | [Headkrack](https://open.spotify.com/artist/0IB0hCCHwwj5vbLcYk8WbQ), [LOREN RICHÉ](https://open.spotify.com/artist/6Jcd6z5c1Bz7EyVq9fq2MV) | [MiKroDose+](https://open.spotify.com/album/6BuSbrj6rEinuMEgc11WDE) | 2:42 |
+| 81 | [DUDUK](https://open.spotify.com/track/4IrOjsBWZmxMaoyk8Ye02U) | [7AS](https://open.spotify.com/artist/0vTGzVEJta2UrPnHCFm1n4) | [DUDUK](https://open.spotify.com/album/0XghgNfD6Vsjjom4IWoLid) | 3:54 |
+| 82 | [Million](https://open.spotify.com/track/07iJK8nWv2MW1MBkN8SP1T) | [MoneyMoneySignz](https://open.spotify.com/artist/1q59Cv56z11lB059OwXxca) | [Million](https://open.spotify.com/album/7LrhWzVjRwTF0J20aVsYaQ) | 1:23 |
+| 83 | [Who is That Girl? \- Streaming Edit](https://open.spotify.com/track/7xxsiaF0MgC56QgjItQFQ1) | [Tio Chelito](https://open.spotify.com/artist/69llUb1k6JS5DRbWE0vreB) | [Who is That Girl? \(Streaming Edit\)](https://open.spotify.com/album/14TTkSxmcc9gpqzaJrQXDM) | 2:33 |
+| 84 | [Hold You](https://open.spotify.com/track/4FQpvxOgipD2JMUoH7g9Lw) | [Fabrizio Parisi](https://open.spotify.com/artist/00GXkaPbbJKbTadAf9pEbT), [Timas](https://open.spotify.com/artist/06QNy5m5CU3SOq4uVozhqd) | [Hold You](https://open.spotify.com/album/2EOJQyJful4ZJcrrrffKTN) | 3:43 |
+| 85 | [Yo quiero ser rico](https://open.spotify.com/track/30PpjvLUzJHpovp9Na4Z5H) | [draco boss](https://open.spotify.com/artist/08GHLzYQVYYf0ayA4u3cGp) | [Yo quiero ser rico](https://open.spotify.com/album/3IG1jsGSSYanpypTwngNod) | 3:07 |
+| 86 | [U.S.A.](https://open.spotify.com/track/04d1bU02mBYOqkxKjFZ3Yw) | [Artide](https://open.spotify.com/artist/7JDUHZiaiEls9VVH7hmnNF) | [U.S.A.](https://open.spotify.com/album/3Z072vrFQJcw5OVApWTMAF) | 3:16 |
+| 87 | [Sube la temperatura](https://open.spotify.com/track/12wnCAdzPyDdjmuqVfXukw) | [Yampier](https://open.spotify.com/artist/1BlANtf2RxAqprpaFecoB1) | [Sube la temperatura](https://open.spotify.com/album/1DHdDK9d3vOJD8bVkxONkh) | 3:05 |
+| 88 | [Nlwm](https://open.spotify.com/track/6uQyY82mSbwmA19zaOd8J6) | [Rubyy boy](https://open.spotify.com/artist/1jvyCeOKu7JHfnHpi7wbbX) | [Love & Reckless](https://open.spotify.com/album/2aVsFbe6CfFjgNOWPbxj0f) | 2:30 |
+| 89 | [Hereditary](https://open.spotify.com/track/1YiZ3gqCEYtekfKcJfvXmD) | [Jp Hollywood](https://open.spotify.com/artist/7EvfNfk5qgC4exYq4r9p1u) | [Hereditary](https://open.spotify.com/album/5g4SSPDDfsRnHXa01sr1dL) | 3:10 |
+| 90 | [Outro](https://open.spotify.com/track/3H2sUTSEqzUSpPmOpP5KdW) | [Tabonimous](https://open.spotify.com/artist/3VZBSUtpXk87yOL232rhfi), [HLMNSRA](https://open.spotify.com/artist/5LOQ7tMPOSQr1F9c6KR1d3) | [La Teoria di Michelangelo](https://open.spotify.com/album/4gl2DoFXnQX1K93BjSmsUJ) | 1:58 |
+| 91 | [7VEN](https://open.spotify.com/track/1rAwLXgo3sIYAS9ApbC6uo) | [Maffy Miller](https://open.spotify.com/artist/5KJRm0D0rqtorpRX137abW) | [Emotions & Pain](https://open.spotify.com/album/0px3LsRHDYyklAZNKGwqGb) | 3:27 |
+| 92 | [Aye](https://open.spotify.com/track/2tcAh1XzO2hXSC3ZP0Qoxr) | [Femskid](https://open.spotify.com/artist/5vRpl4QeYpmgOeUDqVDAla) | [Aye](https://open.spotify.com/album/3ySwm1p34Fe8x25dsy0g89) | 3:45 |
 
-Snapshot ID: `AAACsTF+bp5/hClKh2JmfBAh2ss22z/r`
+Snapshot ID: `AAACvw/VKX4zUjw3jQ62dmZsoKVtxFD1`

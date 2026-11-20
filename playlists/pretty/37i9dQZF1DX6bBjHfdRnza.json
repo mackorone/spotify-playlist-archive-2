@@ -1,13 +1,29 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring Soldier Boy. Curated with love by human Spotify editors. \n",
-  "num_followers": 220308,
+  "description": "The best new dance tracks from independent artists & labels. Featuring TOM LECHEF. Curated with love by human Spotify editors. \n",
+  "num_followers": 220340,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJIMUnErSzCjvay16usrvuSvXUjD",
+  "snapshot_id": "AAAAANc+EV/OZXF7ASZz7U57gtcvpdEr",
   "tracks": [
+    {
+      "added_at": "2026-11-20 05:01:17",
+      "album": {
+        "name": "OG011",
+        "url": "https://open.spotify.com/album/1BqTmSmFAJWBynHPp3tLr2"
+      },
+      "artists": [
+        {
+          "name": "TOM LECHEF",
+          "url": "https://open.spotify.com/artist/0saQAX63InOdwPBfJhj5wd"
+        }
+      ],
+      "duration_ms": 201411,
+      "name": "Push Up",
+      "url": "https://open.spotify.com/track/2gP5IEV7gEvFxEwvfhl9jo"
+    },
     {
       "added_at": "2026-11-13 05:01:46",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/6t2Z6ZjynEP2hxuhzM2WxF"
     },
     {
-      "added_at": "2026-11-06 05:01:34",
+      "added_at": "2026-11-20 05:01:17",
       "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/3MRa4WJuwYOPdUEwPunFI2"
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/4dbY2oxsz6mDQw9AbuYqsZ"
       },
       "artists": [
         {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+          "name": "Nat Kara",
+          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
         }
       ],
-      "duration_ms": 210692,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/3eCZVp9RZChgSLzC5aYiJL"
+      "duration_ms": 238000,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/5yVG8NJrD2XurcDcoxuK26"
     },
     {
       "added_at": "2026-10-16 04:02:02",
@@ -73,22 +89,6 @@
       "url": "https://open.spotify.com/track/4Ld9itujTC7hLw1eFg1UdW"
     },
     {
-      "added_at": "2026-11-13 05:01:46",
-      "album": {
-        "name": "GET DOWN",
-        "url": "https://open.spotify.com/album/0E9rnXSE8N8wqErbAhDBmQ"
-      },
-      "artists": [
-        {
-          "name": "fromclay",
-          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
-        }
-      ],
-      "duration_ms": 198919,
-      "name": "GET DOWN",
-      "url": "https://open.spotify.com/track/1VQU6X6o1fOXD2NZ98igNR"
-    },
-    {
       "added_at": "2026-10-09 04:02:02",
       "album": {
         "name": "Baile de Paris",
@@ -109,20 +109,84 @@
       "url": "https://open.spotify.com/track/6G4zuZa5dn4WhWWz735B16"
     },
     {
-      "added_at": "2026-11-13 05:01:46",
+      "added_at": "2026-11-20 05:01:17",
       "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/45REnsXPSrYDlUqcsbzER3"
+        "name": "Senai",
+        "url": "https://open.spotify.com/album/51lTnErt49lBmIctERZm2X"
       },
       "artists": [
         {
-          "name": "VUHRI",
-          "url": "https://open.spotify.com/artist/3IHQiz8x2kw8Fm1hkpQGk8"
+          "name": "Ken Ate My Homework",
+          "url": "https://open.spotify.com/artist/1oITLncXquwfF8U2Gavgj0"
         }
       ],
-      "duration_ms": 300956,
-      "name": "Number One",
-      "url": "https://open.spotify.com/track/7Kg8l4uSiqQ1nOmjSVMZOT"
+      "duration_ms": 219837,
+      "name": "Senai",
+      "url": "https://open.spotify.com/track/6R4bnXewaUcQcJDQ0PeR09"
+    },
+    {
+      "added_at": "2026-11-20 05:01:17",
+      "album": {
+        "name": "all night long",
+        "url": "https://open.spotify.com/album/5s1d9CsfCUqpv4EUoFwOdy"
+      },
+      "artists": [
+        {
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
+        }
+      ],
+      "duration_ms": 178935,
+      "name": "all night long",
+      "url": "https://open.spotify.com/track/7dGSSiW77aMXCXLpNvzqTI"
+    },
+    {
+      "added_at": "2026-11-13 05:01:46",
+      "album": {
+        "name": "GET DOWN",
+        "url": "https://open.spotify.com/album/0E9rnXSE8N8wqErbAhDBmQ"
+      },
+      "artists": [
+        {
+          "name": "fromclay",
+          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+        }
+      ],
+      "duration_ms": 198919,
+      "name": "GET DOWN",
+      "url": "https://open.spotify.com/track/1VQU6X6o1fOXD2NZ98igNR"
+    },
+    {
+      "added_at": "2026-11-20 05:01:17",
+      "album": {
+        "name": "Lets Get this",
+        "url": "https://open.spotify.com/album/4ypbX7GbPzqavlVOQnrNNr"
+      },
+      "artists": [
+        {
+          "name": "Emma 2000",
+          "url": "https://open.spotify.com/artist/40Y8rX9W6aSuSmRQ27hxQK"
+        }
+      ],
+      "duration_ms": 369200,
+      "name": "Let's Get This",
+      "url": "https://open.spotify.com/track/5wuLkUCi9SyJPHPGA37KFH"
+    },
+    {
+      "added_at": "2026-11-06 05:01:34",
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/3MRa4WJuwYOPdUEwPunFI2"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 210692,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/3eCZVp9RZChgSLzC5aYiJL"
     },
     {
       "added_at": "2026-11-13 05:01:46",
@@ -145,20 +209,20 @@
       "url": "https://open.spotify.com/track/1ChJoX2SoQp4RiyN4NbQnq"
     },
     {
-      "added_at": "2026-10-30 04:01:17",
+      "added_at": "2026-11-20 05:01:17",
       "album": {
-        "name": "Inner Layers",
-        "url": "https://open.spotify.com/album/23E8BLT6UClPaYNVvTwww7"
+        "name": "u+me",
+        "url": "https://open.spotify.com/album/6QuAbzGiRSChjfCQ8X2xHv"
       },
       "artists": [
         {
-          "name": "SKYTOPIA",
-          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
+          "name": "monica.com",
+          "url": "https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe"
         }
       ],
-      "duration_ms": 182571,
-      "name": "Denim Skies",
-      "url": "https://open.spotify.com/track/3pxCawkhftUcRcNuiP427d"
+      "duration_ms": 141000,
+      "name": "u+me",
+      "url": "https://open.spotify.com/track/56Q8ZGzpFWjoO0XMSPxfe9"
     },
     {
       "added_at": "2026-11-13 05:01:46",
@@ -193,6 +257,54 @@
       "url": "https://open.spotify.com/track/4kbWRzXoQMGXtLgFaOC31D"
     },
     {
+      "added_at": "2026-11-20 05:01:17",
+      "album": {
+        "name": "Destiny + Desire",
+        "url": "https://open.spotify.com/album/1W8wo2XaFI3vBzUQgSNWeJ"
+      },
+      "artists": [
+        {
+          "name": "Dee Diggs",
+          "url": "https://open.spotify.com/artist/3GrNYIRzpnrh3HltUMlMeg"
+        }
+      ],
+      "duration_ms": 334959,
+      "name": "Destiny + Desire",
+      "url": "https://open.spotify.com/track/0J2rZBHzTxZDfvWmC34P9b"
+    },
+    {
+      "added_at": "2026-11-13 05:01:46",
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/45REnsXPSrYDlUqcsbzER3"
+      },
+      "artists": [
+        {
+          "name": "VUHRI",
+          "url": "https://open.spotify.com/artist/3IHQiz8x2kw8Fm1hkpQGk8"
+        }
+      ],
+      "duration_ms": 300956,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/7Kg8l4uSiqQ1nOmjSVMZOT"
+    },
+    {
+      "added_at": "2026-10-30 04:01:17",
+      "album": {
+        "name": "Inner Layers",
+        "url": "https://open.spotify.com/album/23E8BLT6UClPaYNVvTwww7"
+      },
+      "artists": [
+        {
+          "name": "SKYTOPIA",
+          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
+        }
+      ],
+      "duration_ms": 182571,
+      "name": "Denim Skies",
+      "url": "https://open.spotify.com/track/3pxCawkhftUcRcNuiP427d"
+    },
+    {
       "added_at": "2026-09-18 04:02:35",
       "album": {
         "name": "ROCK THE DISCO",
@@ -207,6 +319,22 @@
       "duration_ms": 181818,
       "name": "ROCK THE DISCO",
       "url": "https://open.spotify.com/track/5DkQxWX81nR4TtMOzW3o24"
+    },
+    {
+      "added_at": "2026-11-20 05:01:17",
+      "album": {
+        "name": "In The Music",
+        "url": "https://open.spotify.com/album/2yL70kqBWLTYuA4eHi7h9C"
+      },
+      "artists": [
+        {
+          "name": "THELMA",
+          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
+        }
+      ],
+      "duration_ms": 324507,
+      "name": "In The Music",
+      "url": "https://open.spotify.com/track/63IR4TdF2ZQ37KmsQfmmOU"
     },
     {
       "added_at": "2026-11-13 05:01:46",
@@ -421,22 +549,6 @@
       "url": "https://open.spotify.com/track/2GldOS8ieY71YHIB1g4CwH"
     },
     {
-      "added_at": "2026-10-16 04:02:02",
-      "album": {
-        "name": "beer dreams / hype93",
-        "url": "https://open.spotify.com/album/3UJ8R2fDnBICs5dwDjZ7Y7"
-      },
-      "artists": [
-        {
-          "name": "axxa*",
-          "url": "https://open.spotify.com/artist/4MuTo1P8rBfII96fchcoF5"
-        }
-      ],
-      "duration_ms": 246461,
-      "name": "beer dreams",
-      "url": "https://open.spotify.com/track/5ORoLyuMyupa7DROTjmhd7"
-    },
-    {
       "added_at": "2026-10-30 04:01:17",
       "album": {
         "name": "Weapon X",
@@ -451,22 +563,6 @@
       "duration_ms": 221183,
       "name": "Weapon X",
       "url": "https://open.spotify.com/track/5vShG2bZbMpYWJ7EA4e3pp"
-    },
-    {
-      "added_at": "2026-10-15 14:53:00",
-      "album": {
-        "name": "the wash",
-        "url": "https://open.spotify.com/album/0WyGlLwRg0dNZ6IpX25GJv"
-      },
-      "artists": [
-        {
-          "name": "SUUNCAAT",
-          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
-        }
-      ],
-      "duration_ms": 171821,
-      "name": "the wash",
-      "url": "https://open.spotify.com/track/2uaK3EiYXxt3ovJvjBfVBL"
     },
     {
       "added_at": "2026-09-17 01:08:14",
@@ -721,46 +817,6 @@
       "url": "https://open.spotify.com/track/1PzVU7KDC1KOckf0ussSUs"
     },
     {
-      "added_at": "2026-10-07 04:00:12",
-      "album": {
-        "name": "All The People",
-        "url": "https://open.spotify.com/album/5xzfbBtV2iiQBBCcZwCU6w"
-      },
-      "artists": [
-        {
-          "name": "rom&BAAWLA",
-          "url": "https://open.spotify.com/artist/7dZtqcWfXuGDTyi1WLModI"
-        },
-        {
-          "name": "rom",
-          "url": "https://open.spotify.com/artist/75ybiVnYYHgBNx08VrIyLM"
-        },
-        {
-          "name": "BAAWLA",
-          "url": "https://open.spotify.com/artist/0jaVYitpvZqkDSpDXScIu2"
-        }
-      ],
-      "duration_ms": 259411,
-      "name": "PEOPLE (Stomping)",
-      "url": "https://open.spotify.com/track/7HbGe9tgbqhe6ZqrnAUY1P"
-    },
-    {
-      "added_at": "2026-10-02 04:02:43",
-      "album": {
-        "name": "I JUST WANT TO LOVE YOU",
-        "url": "https://open.spotify.com/album/3a8ePmluyQ97mOfCDvEM6r"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/1iIbF9CDPDhOXepmwAxQBi"
-        }
-      ],
-      "duration_ms": 164423,
-      "name": "I JUST WANT TO LOVE YOU",
-      "url": "https://open.spotify.com/track/03pv8bM9YTbme1TZc7rAzd"
-    },
-    {
       "added_at": "2026-10-01 04:34:51",
       "album": {
         "name": "I Got A Story From...",
@@ -857,22 +913,6 @@
       "url": "https://open.spotify.com/track/6Q1C6HrhOndE1uVzgTjUmC"
     },
     {
-      "added_at": "2026-09-25 17:24:48",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2kKNSLMbIQ3InaKKRkGmIj"
-      },
-      "artists": [
-        {
-          "name": "OBLQ",
-          "url": "https://open.spotify.com/artist/6M8AKWzvTH1HvTSdvAFsF8"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/7D8yRzQXkDdDr3CQ7UX6An"
-    },
-    {
       "added_at": "2026-10-01 04:34:51",
       "album": {
         "name": "HOOCHIE PALACE",
@@ -925,22 +965,6 @@
       "url": "https://open.spotify.com/track/4gfZSdldsUYlnJ4a3I2osa"
     },
     {
-      "added_at": "2026-10-01 04:34:51",
-      "album": {
-        "name": "My Love (and I Love Her)",
-        "url": "https://open.spotify.com/album/3eKN2if7bDZIne3yiUKQg2"
-      },
-      "artists": [
-        {
-          "name": "Jean-Marc",
-          "url": "https://open.spotify.com/artist/0T9LcWl0PwyFjnPhE2aeuO"
-        }
-      ],
-      "duration_ms": 251701,
-      "name": "My Love (and I Love Her)",
-      "url": "https://open.spotify.com/track/2PWFwz6znNKhWHKjSNfXEd"
-    },
-    {
       "added_at": "2026-07-17 17:46:34",
       "album": {
         "name": "Ruffneck",
@@ -989,22 +1013,6 @@
       "url": "https://open.spotify.com/track/2g8ld6HN07H8ylTJVbeazz"
     },
     {
-      "added_at": "2026-09-11 14:23:52",
-      "album": {
-        "name": "SHE DOESN'T KNOW",
-        "url": "https://open.spotify.com/album/0D6Lp8GJRc25AUjPCjRWVk"
-      },
-      "artists": [
-        {
-          "name": "ANK",
-          "url": "https://open.spotify.com/artist/1s2AuO0OPGUh7ze9XM3BTW"
-        }
-      ],
-      "duration_ms": 197169,
-      "name": "SHE DOESN'T KNOW",
-      "url": "https://open.spotify.com/track/2m608yh1RjLy7N72mSX02T"
-    },
-    {
       "added_at": "2026-08-19 21:18:18",
       "album": {
         "name": "Vortex",
@@ -1035,26 +1043,6 @@
       "duration_ms": 202500,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/3rS6SHqa68dDfbZiWFijtz"
-      },
-      "artists": [
-        {
-          "name": "Paqu\u00e9",
-          "url": "https://open.spotify.com/artist/55q6RLf1bNVnBKE9qC1MC3"
-        },
-        {
-          "name": "Sebastian Wibe",
-          "url": "https://open.spotify.com/artist/2isGeJMHIqJZuuQ8MPh5sO"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/5QmbZ6OnYXw3eJygZUek5Z"
     },
     {
       "added_at": "2026-07-31 04:02:23",

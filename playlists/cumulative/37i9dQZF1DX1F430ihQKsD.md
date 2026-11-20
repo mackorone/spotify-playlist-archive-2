@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal w/ Jimmy Hunt
 
-1,031 songs - 2 day 10 hr 4 min
+1,033 songs - 2 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Je pense à toi](https://open.spotify.com/track/7v3PIiiX4shJwvsXVQH3XM) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Je pense à toi](https://open.spotify.com/album/0lYT8x7PdiY7aPGLP30PVO) | 4:35 | 2026-08-28 |  |
 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 | 2022-06-03 | 2023-05-20 |
 | [Je sais pas \(One Shop Cowboy\)](https://open.spotify.com/track/5yBiclBC1AYPyEVkWWlUok) | [Mort Rose](https://open.spotify.com/artist/1JmY8VAvHw5VxpjXQATbiu) | [Je sais pas \(One Shop Cowboy\)](https://open.spotify.com/album/65gSgyTSpVGw43FTIsNu6R) | 2:38 | 2025-11-14 | 2025-12-04 |
+| [Je serai là](https://open.spotify.com/track/0Heg2azWjg7y0wJU2fq4QF) | [Bonne nuit, chérie](https://open.spotify.com/artist/7ug7YjtHvqyA1QY2tRfjC9), [Van Carton](https://open.spotify.com/artist/5jXef6fvFEv3lpdZNbMsSc) | [Je serai là](https://open.spotify.com/album/43xgxG7Gw9QJXh1PJKWciF) | 3:41 | 2026-11-20 |  |
 | [Je suis entré](https://open.spotify.com/track/1ZoQwSE1hr3JdzXxvcgGgm) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Je suis entré](https://open.spotify.com/album/4aYwIxO2q1kubup7rs3hlX) | 3:04 | 2024-06-07 | 2024-11-09 |
 | [Je veux rester](https://open.spotify.com/track/6b0pbcyXV9BcpbFgZoiLIL) | [HAWA B](https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Je veux rester](https://open.spotify.com/album/7LWBib0FdDFDrEsf1nJcZE) | 3:14 | 2025-07-11 | 2025-11-01 |
 | [Jean Leloup](https://open.spotify.com/track/3aRWjiMW0DciMKc2BJJWpM) | [Bandit Voyage](https://open.spotify.com/artist/5U7JwReTzAJ9gVXkhlNBsW) | [Québec Core](https://open.spotify.com/album/1aAa3iAeAIOaR9gBggufJc) | 2:59 | 2025-10-17 | 2025-12-04 |
@@ -765,7 +766,7 @@
 | [Quand je veux je dors](https://open.spotify.com/track/2KXPeTD74nhijWrY9Qy539) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Silicone Villeray](https://open.spotify.com/album/4oSRtnpRl3vQ7N2fEn8dUZ) | 2:32 | 2022-03-25 | 2022-09-17 |
 | [quand tu veux](https://open.spotify.com/track/3mhCBp2WRYj7c08o3wDfbO) | [gabno](https://open.spotify.com/artist/7ARDCeWQmzV4krCOTXSNVp) | [quand tu veux](https://open.spotify.com/album/25ofKRy2V4UmiDKLBV2ISq) | 4:22 | 2026-08-28 | 2026-09-26 |
 | [Quiet Drumming](https://open.spotify.com/track/6cQFcJKmUqUaUbzrUUbZt9) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Quiet Drumming](https://open.spotify.com/album/7ugDyWHsB733De841rzlfp) | 3:05 | 2024-06-28 | 2025-10-18 |
-| [Radio](https://open.spotify.com/track/1PS45iWkOspjpeXQjzDhPl) | [Planet Chloé](https://open.spotify.com/artist/6nvLTll83bPbaAvemxQ13S) | [Radio](https://open.spotify.com/album/1uxkF2SgNcdeOYfLwh9OQc) | 2:58 | 2026-11-13 |  |
+| [Radio](https://open.spotify.com/track/1PS45iWkOspjpeXQjzDhPl) | [Planet Chloé](https://open.spotify.com/artist/6nvLTll83bPbaAvemxQ13S) | [Radio](https://open.spotify.com/album/1uxkF2SgNcdeOYfLwh9OQc) | 2:58 | 2026-11-13 | 2026-11-20 |
 | [Rafale](https://open.spotify.com/track/4sRQRhQkdwp15Lp95m1pHQ) | [Émilie Bédard](https://open.spotify.com/artist/46KKzbry01f5ByMO4An0lK) | [Rafale](https://open.spotify.com/album/0rp7vyCcQhG5wPfy0GFV0h) | 4:12 | 2026-02-13 | 2026-06-06 |
 | [Rails](https://open.spotify.com/track/6xuHolNYGcbB7L20L7mOfW) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Rails](https://open.spotify.com/album/0TuEEF4rhHkFw8ujHtD8Jf) | 3:28 | 2024-03-29 | 2024-05-04 |
 | [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2023-09-15 | 2023-11-11 |
@@ -1018,6 +1019,7 @@
 | [Y o Y](https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Y o Y](https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU) | 2:23 | 2022-09-30 | 2023-11-18 |
 | [Ya sé ya sé](https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Ya sé ya sé](https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe) | 3:43 | 2025-11-14 | 2026-07-04 |
 | [Yeah](https://open.spotify.com/track/5jfmtxwUUWi4nlmnWis5sK) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Yeah](https://open.spotify.com/album/1QAemtWzccuM7pEWn1fd04) | 1:58 | 2024-11-15 | 2025-02-01 |
+| [You & me](https://open.spotify.com/track/44grXRk5oZvAKHYZwEeJ7g) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h), [Océanne](https://open.spotify.com/artist/7fE0922QYrhvyxc9A8nB4W) | [You & me](https://open.spotify.com/album/6hrzRie3rd0aIpshJOn1Kp) | 2:53 | 2026-11-20 |  |
 | [You Can Dance](https://open.spotify.com/track/7o4y45DUrpxJTYdAuTCVfg) | [Charlie Flood](https://open.spotify.com/artist/3F7GIoG742wl7pyfVz6BSx) | [You Can Dance](https://open.spotify.com/album/0Sql9y5uBkPpVQYzWJDptM) | 4:07 | 2026-01-16 | 2026-04-25 |
 | [You Can Dance](https://open.spotify.com/track/7qJEpe7TlhgdRSnj0uSbNZ) | [Charlie Flood](https://open.spotify.com/artist/3F7GIoG742wl7pyfVz6BSx) | [You Can Dance](https://open.spotify.com/album/6aYaK2B0XlQmOPoTbIikYG) | 4:07 | 2025-11-07 | 2025-12-04 |
 | [You can have it all](https://open.spotify.com/track/62ciFxmwDZB4O3ZHu9rTrq) | [Or Bleu](https://open.spotify.com/artist/1UZOfkZHdPNjus7591XY2G), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Beaucoup](https://open.spotify.com/album/5Lpgfnms4qU0uwtTDGBetH) | 2:37 | 2023-09-08 | 2025-01-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: KEYVITUP) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: NAYEON) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "K-Pop Dance Party",
   "tracks": [
     {
@@ -1142,6 +1142,24 @@
       "duration_ms": 211280,
       "name": "AYA",
       "url": "https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV"
+    },
+    {
+      "album": {
+        "name": "NA-sty",
+        "url": "https://open.spotify.com/album/51rRu095tBKzJNUCZJRhTF"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "BABY ANGEL",
+      "url": "https://open.spotify.com/track/7JXoLRWkHwObCvM7jpPcjL"
     },
     {
       "album": {
@@ -3006,7 +3024,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -3302,7 +3320,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178880,
       "name": "CHOOM",
       "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
@@ -9838,6 +9856,24 @@
       "duration_ms": 159686,
       "name": "LOOK AT ME",
       "url": "https://open.spotify.com/track/1COvoUtzqdwASp3zHc5bPe"
+    },
+    {
+      "album": {
+        "name": "Look At You",
+        "url": "https://open.spotify.com/album/07viSDNHdSfUIXGfMk8tJb"
+      },
+      "artists": [
+        {
+          "name": "WONHO",
+          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165100,
+      "name": "Look At You",
+      "url": "https://open.spotify.com/track/2QIBihfmajf3bhHpcyZGsQ"
     },
     {
       "album": {

@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Chega de saudade by Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/0qiXOkJRFqDLFppLNobKPG"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107560,
+      "name": "Saudade F\u00eaz Um Samba",
+      "url": "https://open.spotify.com/track/2HB65gfPOVg8Nh2xD4hpIV"
+    },
+    {
+      "album": {
         "name": "Chega de Saudade (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
       },
@@ -1908,7 +1926,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 397453,
       "name": "Undi\u00fa",
       "url": "https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl"

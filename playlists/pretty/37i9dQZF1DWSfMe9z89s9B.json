@@ -1,12 +1,12 @@
 {
   "description": "The new school - Alternative R&B. Cover: Q",
-  "num_followers": 1303799,
+  "num_followers": 1303723,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMThNUSeGnDoz3ehyorQfVnzVmBM",
+  "snapshot_id": "AAAAADMfP6m1hS8VvYY3yguPorHuf7ZE",
   "tracks": [
     {
       "added_at": "2026-10-16 20:15:49",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
     },
     {
-      "added_at": "2026-07-17 05:33:57",
-      "album": {
-        "name": "Sunshine / P4P",
-        "url": "https://open.spotify.com/album/4eg0VWHDfihjCNunMqW1PT"
-      },
-      "artists": [
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 220044,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa"
-    },
-    {
       "added_at": "2025-08-01 08:16:45",
       "album": {
         "name": "True Believer",
@@ -1475,6 +1459,22 @@
       "duration_ms": 229009,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3"
+    },
+    {
+      "added_at": "2026-07-17 05:33:57",
+      "album": {
+        "name": "Sunshine / P4P",
+        "url": "https://open.spotify.com/album/4eg0VWHDfihjCNunMqW1PT"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "duration_ms": 220044,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa"
     },
     {
       "added_at": "2026-07-31 07:26:27",
@@ -1673,22 +1673,6 @@
       "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
     },
     {
-      "added_at": "2026-10-16 20:15:49",
-      "album": {
-        "name": "Honor Me",
-        "url": "https://open.spotify.com/album/3DAUoWg6TLR8PyylebWT8o"
-      },
-      "artists": [
-        {
-          "name": "Zeke Bleu",
-          "url": "https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0"
-        }
-      ],
-      "duration_ms": 95745,
-      "name": "Honor Me",
-      "url": "https://open.spotify.com/track/2lAQ52YFBLH9vQonwFOecw"
-    },
-    {
       "added_at": "2024-10-26 03:32:36",
       "album": {
         "name": "The Drive Home",
@@ -1703,6 +1687,22 @@
       "duration_ms": 143102,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
+    },
+    {
+      "added_at": "2026-10-16 20:15:49",
+      "album": {
+        "name": "Honor Me",
+        "url": "https://open.spotify.com/album/3DAUoWg6TLR8PyylebWT8o"
+      },
+      "artists": [
+        {
+          "name": "Zeke Bleu",
+          "url": "https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0"
+        }
+      ],
+      "duration_ms": 95745,
+      "name": "Honor Me",
+      "url": "https://open.spotify.com/track/2lAQ52YFBLH9vQonwFOecw"
     },
     {
       "added_at": "2025-02-14 07:50:47",
@@ -1753,22 +1753,6 @@
       "url": "https://open.spotify.com/track/0s2C8FeHf0OBmphIk8jXsE"
     },
     {
-      "added_at": "2024-06-21 07:44:39",
-      "album": {
-        "name": "Petra",
-        "url": "https://open.spotify.com/album/1bO7MgtALIhHvzpYveTenM"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Petra",
-      "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
-    },
-    {
       "added_at": "2026-04-03 07:16:37",
       "album": {
         "name": "Detour",
@@ -1783,6 +1767,22 @@
       "duration_ms": 156935,
       "name": "Good Is A LIE",
       "url": "https://open.spotify.com/track/0nD4peo8xBWxCkiL21ymlO"
+    },
+    {
+      "added_at": "2024-06-21 07:44:39",
+      "album": {
+        "name": "Petra",
+        "url": "https://open.spotify.com/album/1bO7MgtALIhHvzpYveTenM"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Petra",
+      "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -1937,38 +1937,6 @@
       "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
     },
     {
-      "added_at": "2024-06-28 18:42:06",
-      "album": {
-        "name": "ACCELERATOR",
-        "url": "https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 228003,
-      "name": "STRANGER",
-      "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
-    },
-    {
-      "added_at": "2025-03-28 04:00:52",
-      "album": {
-        "name": "10 songs",
-        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
-      },
-      "artists": [
-        {
-          "name": "Q Marsden",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 178902,
-      "name": "be with ya",
-      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
-    },
-    {
       "added_at": "2025-05-09 04:12:41",
       "album": {
         "name": "I Like It I Like It",
@@ -1987,6 +1955,38 @@
       "duration_ms": 250400,
       "name": "I Like It I Like It",
       "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
+    },
+    {
+      "added_at": "2025-03-28 04:00:52",
+      "album": {
+        "name": "10 songs",
+        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
+      },
+      "artists": [
+        {
+          "name": "Q Marsden",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 178902,
+      "name": "be with ya",
+      "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
+    },
+    {
+      "added_at": "2024-06-28 18:42:06",
+      "album": {
+        "name": "ACCELERATOR",
+        "url": "https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 228003,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
     },
     {
       "added_at": "2025-09-07 01:24:20",
@@ -2157,6 +2157,26 @@
       "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
+      "added_at": "2025-04-04 04:43:43",
+      "album": {
+        "name": "THE LAST TIME",
+        "url": "https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "THE LAST TIME",
+      "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
+    },
+    {
       "added_at": "2025-05-23 04:00:52",
       "album": {
         "name": "pilot.",
@@ -2193,26 +2213,6 @@
       "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
     },
     {
-      "added_at": "2025-04-04 04:43:43",
-      "album": {
-        "name": "THE LAST TIME",
-        "url": "https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "THE LAST TIME",
-      "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
-    },
-    {
       "added_at": "2026-06-21 21:45:09",
       "album": {
         "name": "MY FEET",
@@ -2227,22 +2227,6 @@
       "duration_ms": 291500,
       "name": "MY FEET",
       "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
-    },
-    {
-      "added_at": "2025-09-07 01:24:20",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
     },
     {
       "added_at": "2026-06-21 21:45:09",
@@ -2305,20 +2289,20 @@
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
-      "added_at": "2026-05-15 07:04:17",
+      "added_at": "2025-09-07 01:24:20",
       "album": {
-        "name": "Real Here Now / Water",
-        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
       },
       "artists": [
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 300764,
-      "name": "Real Here Now",
-      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
+      "duration_ms": 183293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -2335,6 +2319,22 @@
       "duration_ms": 118813,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
+    },
+    {
+      "added_at": "2026-05-15 07:04:17",
+      "album": {
+        "name": "Real Here Now / Water",
+        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 300764,
+      "name": "Real Here Now",
+      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
     },
     {
       "added_at": "2024-10-20 00:14:41",
@@ -2389,22 +2389,6 @@
       "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Y PREE",
-        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
-      },
-      "artists": [
-        {
-          "name": "H.LLS",
-          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
-        }
-      ],
-      "duration_ms": 140870,
-      "name": "Y PREE",
-      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
-    },
-    {
       "added_at": "2024-10-20 00:14:41",
       "album": {
         "name": "Glimmer of God",
@@ -2419,6 +2403,22 @@
       "duration_ms": 140933,
       "name": "The Boy and The Swan",
       "url": "https://open.spotify.com/track/6N6SeSFTRdnu7ogCDnysby"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Y PREE",
+        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
+      },
+      "artists": [
+        {
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
+        }
+      ],
+      "duration_ms": 140870,
+      "name": "Y PREE",
+      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2573,20 +2573,24 @@
       "url": "https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv"
     },
     {
-      "added_at": "2026-07-31 07:26:27",
+      "added_at": "2024-06-14 07:30:32",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX"
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
       },
       "artists": [
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 252144,
-      "name": "Barii",
-      "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
+      "duration_ms": 190412,
+      "name": "Tantrums (feat. James Blake)",
+      "url": "https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi"
     }
   ],
   "unique_name": "Vanguard",

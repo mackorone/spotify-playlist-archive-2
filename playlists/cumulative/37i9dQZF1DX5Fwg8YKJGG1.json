@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Away in a Manger",
+        "url": "https://open.spotify.com/album/6kupQG0JUH3Es1Y5l10m3F"
+      },
+      "artists": [
+        {
+          "name": "Milo Ryd\u00e9n",
+          "url": "https://open.spotify.com/artist/4sqx7aUPjUOj4nG9W1O0qp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112241,
+      "name": "Away in a Manger",
+      "url": "https://open.spotify.com/track/0zbe9IzT0BtyZRXmIkUdpA"
+    },
+    {
+      "album": {
         "name": "Away In A Manger (Bells Lullaby Cover)",
         "url": "https://open.spotify.com/album/2DMPLRZcGsQ5ePYSAidglq"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213621,
       "name": "Away In A Manger (Bells Lullaby Cover)",
       "url": "https://open.spotify.com/track/11RLczo5NwXVkH98tqNa9V"
@@ -218,6 +236,24 @@
       "duration_ms": 101000,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/6QGzdaZSc9PanRN6aAuIcH"
+    },
+    {
+      "album": {
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/1Yg0Ynl5FazOtgdY7Adduf"
+      },
+      "artists": [
+        {
+          "name": "Planet of Dreams",
+          "url": "https://open.spotify.com/artist/5dlacbkU1ZwH07oo3nBHAE"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159234,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/6EiE4MvZZeaciwpOkVbT9T"
     },
     {
       "album": {

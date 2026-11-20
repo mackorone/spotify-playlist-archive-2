@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-386 songs - 23 hr 1 min
+386 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Jab Talak \(Teaser\) \- From “Cocktail 2”](https://open.spotify.com/track/4iVBj5uRWR4vjO9o1EXTCT) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Jab Talak \(Teaser\) \[From “Cocktail 2”\]](https://open.spotify.com/album/6Z1qiaaZEyQd8gToNV4P8T) | 1:38 | 2026-04-10 | 2026-04-17 |
 | [Jab Talak \- From “Cocktail 2”](https://open.spotify.com/track/3KZSwka3VHbj4edxiaqxfa) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Jab Talak \(From “Cocktail 2”\)](https://open.spotify.com/album/13TFS2PsukoC4xLHULBClg) | 3:12 | 2026-04-16 | 2026-10-17 |
 | [Jachdi](https://open.spotify.com/track/63Pq2D8qRj3wTIZX5GavO6) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Jachdi](https://open.spotify.com/album/4VweEzgYbbH7g43IRLz597) | 1:59 | 2024-10-01 | 2024-10-26 |
-| [Jagmaga \(From "Meethe Mein Kya Hai"\)](https://open.spotify.com/track/77iRngGnrJB8XqP8dzar1r) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Jagmaga \(From "Meethe Mein Kya Hai"\)](https://open.spotify.com/album/6cymyHiuW740FNY167iqBU) | 2:58 | 2026-10-16 |  |
+| [Jagmaga \(From "Meethe Mein Kya Hai"\)](https://open.spotify.com/track/77iRngGnrJB8XqP8dzar1r) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Jagmaga \(From "Meethe Mein Kya Hai"\)](https://open.spotify.com/album/6cymyHiuW740FNY167iqBU) | 3:44 | 2026-10-16 |  |
 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 | 2023-07-20 |  |
 | [Jeeja](https://open.spotify.com/track/31DFOzgOdnouxpEMkGxqLj) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Jeeja](https://open.spotify.com/album/67f7Y1eC1AJkYAO4rBiJlz) | 3:01 | 2024-07-18 | 2024-10-02 |
 | [Jeet](https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:04 | 2022-07-17 | 2023-02-11 |

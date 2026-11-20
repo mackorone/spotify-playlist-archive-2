@@ -1,13 +1,85 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Josh Baker",
-  "num_followers": 94595,
+  "num_followers": 94637,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMq1tWo6A9IWsRgjL8IlnQ1xr3WD",
+  "snapshot_id": "AAAAAIkWn2KDKbpVk3GDLvTvk4o2sgPf",
   "tracks": [
+    {
+      "added_at": "2026-11-13 05:00:46",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/4xM6LyAQYiLa73XcJuD0kU"
+      },
+      "artists": [
+        {
+          "name": "CHRIS STASSY",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 286462,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/15tGq1xOOer8QZ268uBNxG"
+    },
+    {
+      "added_at": "2026-11-20 05:00:51",
+      "album": {
+        "name": "Feel The Power",
+        "url": "https://open.spotify.com/album/4K7tlWAzJ5HlwwJ6ytoXkU"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "Feel The Power",
+      "url": "https://open.spotify.com/track/15H4AkVcMFNG5CFTjxwIB2"
+    },
+    {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "Breaking Point EP",
+        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "duration_ms": 185423,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6"
+    },
     {
       "added_at": "2026-11-06 05:00:58",
       "album": {
@@ -53,60 +125,76 @@
       "url": "https://open.spotify.com/track/4guJccRQ3OYLW9MU88h434"
     },
     {
+      "added_at": "2026-11-20 05:00:51",
+      "album": {
+        "name": "After Midnight EP",
+        "url": "https://open.spotify.com/album/2Xt3CVmOBoX7SR0xSBfw8y"
+      },
+      "artists": [
+        {
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/3rw9001mkVSn7TlGEwiYYn"
+    },
+    {
+      "added_at": "2026-10-02 04:01:31",
+      "album": {
+        "name": "Marido Dansa EP",
+        "url": "https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 154153,
+      "name": "Marido Dansa",
+      "url": "https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE"
+    },
+    {
       "added_at": "2026-11-13 05:00:46",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/4xM6LyAQYiLa73XcJuD0kU"
+        "name": "Blow Ya Mind (Beave & TYGE Remix)",
+        "url": "https://open.spotify.com/album/3ZRP40WLZWSV1GHI0Bphuk"
       },
       "artists": [
         {
-          "name": "CHRIS STASSY",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+          "name": "Lock 'N Load",
+          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
         },
         {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 286462,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/15tGq1xOOer8QZ268uBNxG"
-    },
-    {
-      "added_at": "2026-10-23 04:03:24",
-      "album": {
-        "name": "Bad Love",
-        "url": "https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2"
-    },
-    {
-      "added_at": "2026-08-28 04:01:45",
-      "album": {
-        "name": "Breaking Point EP",
-        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
         },
         {
-          "name": "LEILAH",
-          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+          "name": "TYGE",
+          "url": "https://open.spotify.com/artist/2q49VHBhoxux4sAZbsn1hG"
         }
       ],
-      "duration_ms": 185423,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6"
+      "duration_ms": 164874,
+      "name": "Blow Ya Mind - Beave & TYGE Remix",
+      "url": "https://open.spotify.com/track/6LcXweEte89SKhfleC7gN2"
+    },
+    {
+      "added_at": "2026-11-20 05:00:51",
+      "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/6TgJyl1PdQ5EqxkqZgBf9F"
+      },
+      "artists": [
+        {
+          "name": "Louden",
+          "url": "https://open.spotify.com/artist/0dh6ekhgvAz7Kr8ayRuYlr"
+        }
+      ],
+      "duration_ms": 200044,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/54AprjCZfZlrOOVYVGFjdO"
     },
     {
       "added_at": "2026-11-06 05:00:58",
@@ -135,58 +223,34 @@
     {
       "added_at": "2026-11-13 05:00:46",
       "album": {
-        "name": "Blow Ya Mind (Beave & TYGE Remix)",
-        "url": "https://open.spotify.com/album/3ZRP40WLZWSV1GHI0Bphuk"
+        "name": "When U Were Mine",
+        "url": "https://open.spotify.com/album/2xj7wSfHJyw8RttZ7Pev4O"
       },
       "artists": [
         {
-          "name": "Lock 'N Load",
-          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
-        },
-        {
-          "name": "Beave",
-          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
-        },
-        {
-          "name": "TYGE",
-          "url": "https://open.spotify.com/artist/2q49VHBhoxux4sAZbsn1hG"
+          "name": "Soldier Boy",
+          "url": "https://open.spotify.com/artist/4peDh0mBKPwTUFZUj7UCe9"
         }
       ],
-      "duration_ms": 164874,
-      "name": "Blow Ya Mind - Beave & TYGE Remix",
-      "url": "https://open.spotify.com/track/6LcXweEte89SKhfleC7gN2"
+      "duration_ms": 176000,
+      "name": "When U Were Mine",
+      "url": "https://open.spotify.com/track/6t2Z6ZjynEP2hxuhzM2WxF"
     },
     {
-      "added_at": "2026-10-02 04:01:31",
+      "added_at": "2026-11-20 05:00:51",
       "album": {
-        "name": "Marido Dansa EP",
-        "url": "https://open.spotify.com/album/02sORmDFuuqhc9JLzUJT6p"
+        "name": "SHAKIN",
+        "url": "https://open.spotify.com/album/6cfNutfi7WpnxRV7sr6xdl"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
         }
       ],
-      "duration_ms": 154153,
-      "name": "Marido Dansa",
-      "url": "https://open.spotify.com/track/1wceODcNiRPq4kwo9vh3oE"
-    },
-    {
-      "added_at": "2026-11-13 05:00:46",
-      "album": {
-        "name": "Kick The Flow EP",
-        "url": "https://open.spotify.com/album/5FaTxYFxb3xCzUphNn70KA"
-      },
-      "artists": [
-        {
-          "name": "Nu Zau",
-          "url": "https://open.spotify.com/artist/0rH7JCvyIaUGAqfX38BGD6"
-        }
-      ],
-      "duration_ms": 212670,
-      "name": "Kick The Flow",
-      "url": "https://open.spotify.com/track/0UeletFex04PB8vDnVd37m"
+      "duration_ms": 224887,
+      "name": "You Want Me",
+      "url": "https://open.spotify.com/track/2C9nxyC6JnvQeTUtpHjtnV"
     },
     {
       "added_at": "2026-11-06 05:00:58",
@@ -205,6 +269,22 @@
       "url": "https://open.spotify.com/track/5IjxSVuw5fsajmTlBd99ME"
     },
     {
+      "added_at": "2026-11-20 05:00:51",
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/4dbY2oxsz6mDQw9AbuYqsZ"
+      },
+      "artists": [
+        {
+          "name": "Nat Kara",
+          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/5yVG8NJrD2XurcDcoxuK26"
+    },
+    {
       "added_at": "2026-11-06 05:00:58",
       "album": {
         "name": "IN2U",
@@ -221,20 +301,36 @@
       "url": "https://open.spotify.com/track/7ud3HNsw8PRO1YWuniYJLW"
     },
     {
-      "added_at": "2026-11-13 05:00:46",
+      "added_at": "2026-10-09 04:01:48",
       "album": {
-        "name": "When U Were Mine",
-        "url": "https://open.spotify.com/album/2xj7wSfHJyw8RttZ7Pev4O"
+        "name": "Let's Get This",
+        "url": "https://open.spotify.com/album/2XhzW3VGsoQtv0cTR5Xucu"
       },
       "artists": [
         {
-          "name": "Soldier Boy",
-          "url": "https://open.spotify.com/artist/4peDh0mBKPwTUFZUj7UCe9"
+          "name": "Flex (UK)",
+          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
         }
       ],
-      "duration_ms": 176000,
-      "name": "When U Were Mine",
-      "url": "https://open.spotify.com/track/6t2Z6ZjynEP2hxuhzM2WxF"
+      "duration_ms": 190534,
+      "name": "Let's Get This",
+      "url": "https://open.spotify.com/track/5FCtVeCG1dsTqfDHkyALR2"
+    },
+    {
+      "added_at": "2026-11-20 05:00:51",
+      "album": {
+        "name": "Microphone Killa",
+        "url": "https://open.spotify.com/album/7edbiRfSVaHnbYpzYid5kW"
+      },
+      "artists": [
+        {
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Microphone Killa",
+      "url": "https://open.spotify.com/track/2CBpc2Fy5ms7ZrsqT8rEGr"
     },
     {
       "added_at": "2026-10-09 04:01:48",
@@ -273,20 +369,20 @@
       "url": "https://open.spotify.com/track/0r9uFqP5srMqWEkrBfWyjD"
     },
     {
-      "added_at": "2026-10-09 04:01:48",
+      "added_at": "2026-11-20 05:00:51",
       "album": {
-        "name": "Let's Get This",
-        "url": "https://open.spotify.com/album/2XhzW3VGsoQtv0cTR5Xucu"
+        "name": "Receptor",
+        "url": "https://open.spotify.com/album/0zS1wscHXz4fd3AdcGP5Ph"
       },
       "artists": [
         {
-          "name": "Flex (UK)",
-          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
+          "name": "Jackyboom",
+          "url": "https://open.spotify.com/artist/4CN3qy1m5QklCe8Sh2HnId"
         }
       ],
-      "duration_ms": 190534,
-      "name": "Let's Get This",
-      "url": "https://open.spotify.com/track/5FCtVeCG1dsTqfDHkyALR2"
+      "duration_ms": 176363,
+      "name": "Receptor",
+      "url": "https://open.spotify.com/track/5CIiIMs8lcrZplzCM6ydjB"
     },
     {
       "added_at": "2026-10-23 04:03:24",
@@ -311,6 +407,22 @@
       "duration_ms": 203105,
       "name": "PEOPLE IN THE PLACE",
       "url": "https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu"
+    },
+    {
+      "added_at": "2026-11-13 05:00:46",
+      "album": {
+        "name": "Kick The Flow EP",
+        "url": "https://open.spotify.com/album/5FaTxYFxb3xCzUphNn70KA"
+      },
+      "artists": [
+        {
+          "name": "Nu Zau",
+          "url": "https://open.spotify.com/artist/0rH7JCvyIaUGAqfX38BGD6"
+        }
+      ],
+      "duration_ms": 212670,
+      "name": "Kick The Flow",
+      "url": "https://open.spotify.com/track/0UeletFex04PB8vDnVd37m"
     },
     {
       "added_at": "2026-11-06 05:00:58",
@@ -657,22 +769,6 @@
       "url": "https://open.spotify.com/track/7wOyANRdnt02Yd6x8iFiRw"
     },
     {
-      "added_at": "2026-10-23 04:03:24",
-      "album": {
-        "name": "Ecstasy EP",
-        "url": "https://open.spotify.com/album/4bvWMPQNVTXPuZVNdiTB3e"
-      },
-      "artists": [
-        {
-          "name": "Funk Cartel",
-          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
-        }
-      ],
-      "duration_ms": 157734,
-      "name": "Ecstasy - Radio Edit",
-      "url": "https://open.spotify.com/track/4ya5V39vRqpudxsTA7yCcZ"
-    },
-    {
       "added_at": "2026-10-09 04:01:48",
       "album": {
         "name": "Haha",
@@ -857,22 +953,6 @@
       "url": "https://open.spotify.com/track/1uMMwH5mayzOcKaPb32fJ0"
     },
     {
-      "added_at": "2026-10-09 04:01:48",
-      "album": {
-        "name": "That's Right / I Don't Care",
-        "url": "https://open.spotify.com/album/42UheUT6no5YgKF154dYlj"
-      },
-      "artists": [
-        {
-          "name": "Marco Faraone",
-          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
-        }
-      ],
-      "duration_ms": 179534,
-      "name": "That's Right",
-      "url": "https://open.spotify.com/track/1YkMeZ2CAljGt1xfwXtcOj"
-    },
-    {
       "added_at": "2026-09-18 04:02:15",
       "album": {
         "name": "Witty",
@@ -1033,22 +1113,6 @@
       "url": "https://open.spotify.com/track/3qk3Sf3hnnSBIfWTjpB9Kv"
     },
     {
-      "added_at": "2026-09-11 04:01:32",
-      "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 195572,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
-    },
-    {
       "added_at": "2026-09-23 21:03:48",
       "album": {
         "name": "ecstasy",
@@ -1137,22 +1201,6 @@
       "url": "https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX"
     },
     {
-      "added_at": "2026-09-18 04:02:15",
-      "album": {
-        "name": "Dancing Through EP",
-        "url": "https://open.spotify.com/album/0iYuvzdLNPjXgKaxADw9GL"
-      },
-      "artists": [
-        {
-          "name": "DAETOR",
-          "url": "https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt"
-        }
-      ],
-      "duration_ms": 247272,
-      "name": "Dancing Through",
-      "url": "https://open.spotify.com/track/73tiEGpvcvWxs8G0kPmIw4"
-    },
-    {
       "added_at": "2026-09-11 04:01:32",
       "album": {
         "name": "In My House EP",
@@ -1183,22 +1231,6 @@
       "duration_ms": 168334,
       "name": "Breaking Point",
       "url": "https://open.spotify.com/track/79a1xMhXdnCPpTY8MmnEre"
-    },
-    {
-      "added_at": "2026-09-18 04:02:15",
-      "album": {
-        "name": "Don't Stop EP",
-        "url": "https://open.spotify.com/album/5NZH0aHaP61wlbXk3cBR8Q"
-      },
-      "artists": [
-        {
-          "name": "aMo (um)",
-          "url": "https://open.spotify.com/artist/4XVAZbKq64Z3Q0LPpCmoo0"
-        }
-      ],
-      "duration_ms": 242851,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/4I0O2T4Mi4pR4hx6ZZ2M6o"
     },
     {
       "added_at": "2026-08-21 16:29:30",
@@ -1513,26 +1545,6 @@
       "url": "https://open.spotify.com/track/7Jakum4jAT9jvM1DiNPYFH"
     },
     {
-      "added_at": "2026-08-14 04:01:21",
-      "album": {
-        "name": "Fantasy (Baby if u know me) (feat. Kosmo Kint)",
-        "url": "https://open.spotify.com/album/0QPCBavysOWUEif1OZZDRl"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 189231,
-      "name": "Fantasy (Baby if u know me) (feat. Kosmo Kint)",
-      "url": "https://open.spotify.com/track/5vBOE85x2iJsbtBmDg34Hi"
-    },
-    {
       "added_at": "2026-08-28 04:01:45",
       "album": {
         "name": "Echoes From The 90s",
@@ -1647,26 +1659,6 @@
       "duration_ms": 199000,
       "name": "What We Got",
       "url": "https://open.spotify.com/track/31pjp1EzkwhmLmdKzYAbFa"
-    },
-    {
-      "added_at": "2026-07-31 04:01:09",
-      "album": {
-        "name": "Casa Ponte EP",
-        "url": "https://open.spotify.com/album/38WQeX8oo5Z9NkdKlXLH1w"
-      },
-      "artists": [
-        {
-          "name": "LIGHTLEAK",
-          "url": "https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC"
-        },
-        {
-          "name": "A.D.O.R.",
-          "url": "https://open.spotify.com/artist/5dniQPRxD0LDjCqMI4rvrM"
-        }
-      ],
-      "duration_ms": 196751,
-      "name": "Casa Ponte",
-      "url": "https://open.spotify.com/track/7rKSCsqyh4YsJtGBpZVMSg"
     },
     {
       "added_at": "2026-08-07 04:01:14",

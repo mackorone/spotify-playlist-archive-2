@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6195,
+  "num_followers": 6196,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADD/qDdU6lmmHdEZcqaP7dT",
+  "snapshot_id": "avzqgAAAAAAJMcCRDp68dEhhii8Vn2rG",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 256872,
-      "name": "2Cor 5:7",
-      "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
+      "duration_ms": 247719,
+      "name": "Yahweh Will Manifest Himself",
+      "url": "https://open.spotify.com/track/6bM1l2umRdewjcskt8HnE8"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 247719,
-      "name": "Yahweh Will Manifest Himself",
-      "url": "https://open.spotify.com/track/6bM1l2umRdewjcskt8HnE8"
+      "duration_ms": 256872,
+      "name": "2Cor 5:7",
+      "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
     },
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "According To Brother Nwachukwu",
+        "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 193207,
+      "name": "Onyeoma",
+      "url": "https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "According To Brother Nwachukwu",
-        "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 193207,
-      "name": "Onyeoma",
-      "url": "https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Your Name be Glorified Worship Medley",
+        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 1046673,
+      "name": "Let Your Name be Glorified Worship Medley",
+      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fall in Love",
         "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
       },
@@ -655,26 +671,6 @@
       "duration_ms": 198400,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take It All (Live)",
-        "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 621706,
-      "name": "Take it All - Live",
-      "url": "https://open.spotify.com/track/3d2aoEEBIKBChppdlXRexU"
     },
     {
       "added_at": null,
@@ -695,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Your Name be Glorified Worship Medley",
-        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 1046673,
-      "name": "Let Your Name be Glorified Worship Medley",
-      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 190500,
       "name": "Water",
       "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take It All (Live)",
+        "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 621706,
+      "name": "Take it All - Live",
+      "url": "https://open.spotify.com/track/3d2aoEEBIKBChppdlXRexU"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 164155,
+      "name": "Na You",
+      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TSIDKENU (Live)",
         "url": "https://open.spotify.com/album/3Cga2bS84fMZpXNtqAYQCk"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 714893,
       "name": "TSIDKENU - Live",
       "url": "https://open.spotify.com/track/2PH30h7yJ55mP3SjbKTJhs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 164155,
-      "name": "Na You",
-      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
     },
     {
       "added_at": null,

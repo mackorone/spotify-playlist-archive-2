@@ -6037,6 +6037,28 @@
     },
     {
       "album": {
+        "name": "CLUBSTAR WU (Normal Pleasure Remix)",
+        "url": "https://open.spotify.com/album/2pLxdQrZBoeRsmWqgqGfA1"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        },
+        {
+          "name": "Normal Pleasure",
+          "url": "https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303567,
+      "name": "STAMPEDE - Normal Pleasure Remix",
+      "url": "https://open.spotify.com/track/0LMN8Y2z3CkBMq6OiIwFKh"
+    },
+    {
+      "album": {
         "name": "Stay Blessed",
         "url": "https://open.spotify.com/album/1xMdQvYKJovlIwMroBAYkE"
       },
@@ -6716,7 +6738,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168659,
       "name": "Time In The Sun",
       "url": "https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw"

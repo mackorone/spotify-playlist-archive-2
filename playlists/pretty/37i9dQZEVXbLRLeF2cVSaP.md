@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,102 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,105 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Все хотят меня поцеловать](https://open.spotify.com/track/6yMFLAVzfpHZdN98V99Zsb) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Грустная девчонка с глазами как у собаки](https://open.spotify.com/album/0JNzGHQhkEu2q3wk5knLRA) | 2:24 |
 | 50 | [red weather](https://open.spotify.com/track/5pSC8KhubUzhy7039HDUOX) | [ONDA ANDAR](https://open.spotify.com/artist/2gGvBjb55mnnbQO2gNQSLo) | [red weather](https://open.spotify.com/album/2pkIle7FBzNvswhstCBztf) | 1:44 |
 
-Snapshot ID: `MpFDgAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MpKSqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

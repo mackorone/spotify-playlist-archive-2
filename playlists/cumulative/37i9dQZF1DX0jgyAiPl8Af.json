@@ -16813,6 +16813,24 @@
     },
     {
       "album": {
+        "name": "When I Fall",
+        "url": "https://open.spotify.com/album/5S1tW0PBvUv2OPnzkCbnWm"
+      },
+      "artists": [
+        {
+          "name": "Faelt",
+          "url": "https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186469,
+      "name": "When I Fall",
+      "url": "https://open.spotify.com/track/7xhavfJzCX9sUhXgtecOjT"
+    },
+    {
+      "album": {
         "name": "When she walks away",
         "url": "https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk"
       },

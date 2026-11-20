@@ -1,12 +1,12 @@
 {
   "description": "From the decade that brought us Britney, Spice Girls, Coolio and so many more!",
-  "num_followers": 630904,
+  "num_followers": 631298,
   "original_name": "90s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACLMcAWfQ7GMkUXuMLGBW2YGXECN",
+  "snapshot_id": "AAAAAO2KnJsOUO4aHou2detsDfQrGRzY",
   "tracks": [
     {
       "added_at": "2024-07-12 19:27:29",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Now in a Minute",
-        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
-      },
-      "artists": [
-        {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Love You Always Forever",
-      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 270333,
       "name": "Un-Break My Heart",
       "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 256026,
       "name": "Bills, Bills, Bills",
       "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 281066,
       "name": "One Sweet Day",
       "url": "https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "L.P.",
-        "url": "https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N"
-      },
-      "artists": [
-        {
-          "name": "The Rembrandts",
-          "url": "https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4"
-        }
-      ],
-      "duration_ms": 188359,
-      "name": "I'll Be There for You - Theme From \"Friends\"",
-      "url": "https://open.spotify.com/track/15tHagkk8z306XkyOHqiip"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Keep the Faith",
         "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 275706,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "L.P.",
+        "url": "https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N"
+      },
+      "artists": [
+        {
+          "name": "The Rembrandts",
+          "url": "https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4"
+        }
+      ],
+      "duration_ms": 188359,
+      "name": "I'll Be There for You - Theme From \"Friends\"",
+      "url": "https://open.spotify.com/track/15tHagkk8z306XkyOHqiip"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 204753,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "duration_ms": 268533,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
+      "duration_ms": 204753,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1367,6 +1351,22 @@
       "duration_ms": 291880,
       "name": "Don't Let Go (Love)",
       "url": "https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Desireless",
-        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
-      },
-      "artists": [
-        {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "All Saints",
         "url": "https://open.spotify.com/album/73aw7T2ZpoDvcPe2uSlWxF"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+        "name": "Desireless",
+        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
         }
       ],
-      "duration_ms": 212693,
-      "name": "Bailamos - From \"Wild Wild West\"",
-      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
+      "duration_ms": 239226,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1499,6 +1483,22 @@
       "duration_ms": 248012,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Bailamos - From \"Wild Wild West\"",
+      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
-      },
-      "artists": [
-        {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
-        }
-      ],
-      "duration_ms": 292933,
-      "name": "Rush Rush",
-      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 170000,
       "name": "The Shoop Shoop Song (It's In His Kiss)",
       "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 292933,
+      "name": "Rush Rush",
+      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
     },
     {
       "added_at": "2024-07-12 19:27:29",

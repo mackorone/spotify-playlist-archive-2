@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-394 songs - 22 hr 49 min
+395 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [cómo cuándo y dónde](https://open.spotify.com/track/7JHGipL0wFFuyl54Zknic0) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [cómo cuándo y dónde](https://open.spotify.com/album/0Lb3RdzKgGPaOpFiqrGUxG) | 2:43 | 2022-09-06 |  |
 | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/track/0cGbeeDa9ptxOZcTwSRuUw) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/album/77oDZjx7G3mhHleDEaweW0) | 3:21 | 2021-12-09 | 2025-10-11 |
 | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/track/5uqvZpriEEMKleWljJdckw) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 3:23 | 2022-05-14 | 2024-04-19 |
+| [De Cero](https://open.spotify.com/track/3nr0sRIoRugpqeF1PUYt6k) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [De Cero](https://open.spotify.com/album/0hskREe3oBksLnJHnawkk6) | 2:50 | 2026-11-19 |  |
 | [De Vez en Cuando](https://open.spotify.com/track/1QZk1of3DuIrqCklUPfy4W) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:24 | 2022-05-14 | 2024-04-19 |
 | [De Vez En Cuando](https://open.spotify.com/track/2VNExLz5Y7zubCNuVbSUJP) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [De Vez En Cuando](https://open.spotify.com/album/06YJEqZe1fmb07iO3bLHYc) | 3:24 | 2021-12-09 | 2025-04-13 |
 | [DELÍRIO](https://open.spotify.com/track/21X0KPbq6zvI2I8iMIJgEw) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [2 MANOS 1 MUNDO](https://open.spotify.com/album/4hMqeZaxdYC4GxMl5vzylA) | 2:56 | 2025-04-11 |  |
@@ -200,7 +201,7 @@
 | [La Fortuna \(feat\. Tommy Torres\)](https://open.spotify.com/track/6TKdsVl3GeAJrcuTGbvUzq) | [Diana Fuentes](https://open.spotify.com/artist/14FqcgpNCmfedRsAZTgMIG), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Libre](https://open.spotify.com/album/6j0sCAm0cmrq0sPpcjttjn) | 3:28 | 2022-08-05 | 2024-04-19 |
 | [La Peninsula](https://open.spotify.com/track/5OtvhDI7MTXUNJD4bd4RhZ) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz](https://open.spotify.com/album/6UJu3BPFmTGvzclsV8k4bI) | 3:00 | 2022-12-30 | 2026-07-18 |
 | [La Sanadora](https://open.spotify.com/track/0GxzmQ5sE5Uq50LkQB3DO4) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [La Sanadora](https://open.spotify.com/album/4OvtUIqRsuqKFKRWABUTCy) | 4:27 | 2022-04-07 | 2022-04-19 |
-| [La Sonrisa Más Grande](https://open.spotify.com/track/1lgmuYOs0U9kHXqPgJ61Fb) | [Alex Solio](https://open.spotify.com/artist/2CONUUVGLQfkk6TdDEH3Ce) | [La Sonrisa Más Grande](https://open.spotify.com/album/20xIzkBvQb8Y3BQNKG4Zc3) | 3:32 | 2026-04-30 |  |
+| [La Sonrisa Más Grande](https://open.spotify.com/track/1lgmuYOs0U9kHXqPgJ61Fb) | [Alex Solio](https://open.spotify.com/artist/2CONUUVGLQfkk6TdDEH3Ce) | [La Sonrisa Más Grande](https://open.spotify.com/album/20xIzkBvQb8Y3BQNKG4Zc3) | 3:32 | 2026-04-30 | 2026-11-20 |
 | [La Vaca Mariposa](https://open.spotify.com/track/0qxGNoCPsxPFudABEtEmwk) | [Criollas](https://open.spotify.com/artist/5Bcy0y4rVtSr1EAzd9f5aV), [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [Criollas](https://open.spotify.com/album/3jwD6OLJSduWXUljAw1Zr0) | 3:46 | 2024-07-04 |  |
 | [Las Mujeres](https://open.spotify.com/track/4ptFkLzF301C97kaA3xizH) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 3:30 | 2021-12-09 |  |
 | [Libre](https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [Libre](https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd) | 4:39 | 2023-03-15 |  |
@@ -350,7 +351,7 @@
 | [Te quiero muchísimo](https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV) | 4:00 | 2022-05-14 | 2024-04-19 |
 | [Te quiero muchísimo](https://open.spotify.com/track/2cImsnqZsLYhTVDKfWWINr) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/475RvHwQ9OvQWtl3gEl280) | 4:00 | 2021-12-09 | 2022-07-29 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:22 | 2023-12-01 | 2024-04-19 |
-| [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2021-12-09 | 2026-11-10 |
+| [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2021-12-09 |  |
 | [Te Quiero y Nada Más](https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Te Quiero y Nada Más](https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA) | 3:12 | 2021-12-09 | 2022-10-28 |
 | [Te Soñaba](https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Salvando las Distancias](https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt) | 3:55 | 2024-07-26 |  |
 | [Te Tengo Que Meter En Mi Vida \(Versión Acústica\)](https://open.spotify.com/track/4SIo06ibYgeT2BYcgld91I) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Canapecito](https://open.spotify.com/album/75TluJ3aGAelm57vQ3Hdo6) | 3:40 | 2022-05-14 | 2022-10-28 |
@@ -386,7 +387,7 @@
 | [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2021-12-09 | 2026-10-20 |
 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 | 2022-09-08 | 2024-04-19 |
 | [Vernos Crecer](https://open.spotify.com/track/5c6LLhzVwoLCbb0HqYlsX7) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Vernos Crecer](https://open.spotify.com/album/7MwSQE8GJj5snfBoZf6vLY) | 2:55 | 2021-12-09 |  |
-| [vidas](https://open.spotify.com/track/1feOGbkJwLkkv6Y2FUO7CK) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [vidas](https://open.spotify.com/album/0tqR3K0g8GtOFE1rCkIg8U) | 4:13 | 2024-03-14 |  |
+| [vidas](https://open.spotify.com/track/1feOGbkJwLkkv6Y2FUO7CK) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [vidas](https://open.spotify.com/album/0tqR3K0g8GtOFE1rCkIg8U) | 4:13 | 2024-03-14 | 2026-11-20 |
 | [Viejos Amores](https://open.spotify.com/track/2ZNchdc0bWU2BB8HMu1661) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja De Música \(Edición Especial\)](https://open.spotify.com/album/0c3JGBp60aExJSYIQ0Hbej) | 2:50 | 2022-04-07 | 2022-04-21 |
 | [Viejos Amores](https://open.spotify.com/track/2pyvcQecZGRnQoUczTxkwH) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 2:50 | 2022-05-14 | 2022-10-28 |
 | [Viento y Tiempo \- Radio Edit](https://open.spotify.com/track/7mW99NJgskU2TChTgTVVrW) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Viento y Tiempo \(Radio Edit\)](https://open.spotify.com/album/3kZCDidGwgqvDvkzKkoSt1) | 3:57 | 2022-04-07 | 2022-04-21 |

@@ -132,7 +132,7 @@
       ],
       "date_added": "2020-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 83693,
       "name": "Bear's Song",
       "url": "https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq"
@@ -268,12 +268,12 @@
       },
       "artists": [
         {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
-        },
-        {
           "name": "Duo Tiempo de Sol",
           "url": "https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA"
+        },
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
         }
       ],
       "date_added": "2020-04-23",
@@ -1414,6 +1414,28 @@
       "duration_ms": 187306,
       "name": "The Piranha Song",
       "url": "https://open.spotify.com/track/7Dsbo5Csnzyn47M9DtHc7i"
+    },
+    {
+      "album": {
+        "name": "Canciones del Zoo Vol. 3",
+        "url": "https://open.spotify.com/album/3COabJotsgeogBvNsNpcok"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        },
+        {
+          "name": "Duo Tiempo de Sol",
+          "url": "https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA"
+        }
+      ],
+      "date_added": "2020-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72818,
+      "name": "Un Pato",
+      "url": "https://open.spotify.com/track/7EiRdtCZr1Z1VgGa8OUXzv"
     },
     {
       "album": {

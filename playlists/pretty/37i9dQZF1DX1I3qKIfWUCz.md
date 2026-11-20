@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 
 > Our editors’ picks for this year's best\-kept pop secrets\. Cover: Mia Wray
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,433 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,438 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 35 | [don't let me go](https://open.spotify.com/track/2ji2z7jiPIfcdBr4C8dCYN) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [don't let me go](https://open.spotify.com/album/7sM9CTDFIHVd8kOtV5YsTh) | 2:35 |
 | 36 | [Earth \(Dradada\)](https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Earth \(Dradada\)](https://open.spotify.com/album/5xXILGfkz9CDVg2cV0V4me) | 3:29 |
 | 37 | [808 HYMN](https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [808 HYMN](https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD) | 4:13 |
-| 38 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
-| 39 | [Super Love Me](https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Super Love Me](https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa) | 4:26 |
+| 38 | [Super Love Me](https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Super Love Me](https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa) | 4:26 |
+| 39 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
 | 40 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 |
 | 41 | [you're such a good girl?](https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [you're such a good girl?](https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND) | 2:47 |
 | 42 | [But, I loved](https://open.spotify.com/track/0luLCDgB1Z6ItnWREs0cWF) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 49 | [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 |
 | 50 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 |
 
-Snapshot ID: `AAAAAEV8l1B6XGs6WUOO9DBVBzav23Eb`
+Snapshot ID: `AAAAADbpqPWiSB/E3xXdwSEyoa2H4Owm`

@@ -1,12 +1,12 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 65685,
+  "num_followers": 65691,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKgTs6KjlkK5b49m6aixn8teAHpZ",
+  "snapshot_id": "AAAAAJKK2p+WkEKVsFBVswlkc9MYP6dF",
   "tracks": [
     {
       "added_at": "2026-10-15 14:15:17",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "In Yeonhui-dong",
-        "url": "https://open.spotify.com/album/3TGBSAaRm5UTWy455TzwTC"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 221153,
-      "name": "In Yeonhui-dong",
-      "url": "https://open.spotify.com/track/22BHkwaBUJpx0Ks5MVa2Hu"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "APRIL 6th Mini Album 'the Ruby'",
         "url": "https://open.spotify.com/album/6UOBloGQtXOHiAMjJm2LD5"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 205332,
       "name": "Oh! my mistake",
       "url": "https://open.spotify.com/track/396Dkg9z5Q1hXxKryeP9T8"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "In Yeonhui-dong",
+        "url": "https://open.spotify.com/album/3TGBSAaRm5UTWy455TzwTC"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 221153,
+      "name": "In Yeonhui-dong",
+      "url": "https://open.spotify.com/track/22BHkwaBUJpx0Ks5MVa2Hu"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "<Dall>",
-        "url": "https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS"
-      },
-      "artists": [
-        {
-          "name": "ARTMS",
-          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Candy Crush",
-      "url": "https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "EVE: ROMANCE",
         "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 164936,
       "name": "Midnight Cruise",
       "url": "https://open.spotify.com/track/5V07BlPJAYdvu7oF1SkN64"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "<Dall>",
+        "url": "https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Candy Crush",
+      "url": "https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "5min to heartbreak",
-        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "5min to heartbreak",
-      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "I Just Wanna Dance - The 1st Mini Album",
         "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "5min to heartbreak",
+        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "5min to heartbreak",
+      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Onstage Digging Club Seoul Part.05",
-        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
-      },
-      "artists": [
-        {
-          "name": "DAYBREAK",
-          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
-        }
-      ],
-      "duration_ms": 294308,
-      "name": "You always - Digging Club Seoul Ver.",
-      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "A song from the past",
         "url": "https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 235293,
       "name": "A song from the past",
       "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Onstage Digging Club Seoul Part.05",
+        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
+      },
+      "artists": [
+        {
+          "name": "DAYBREAK",
+          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
+        }
+      ],
+      "duration_ms": 294308,
+      "name": "You always - Digging Club Seoul Ver.",
+      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
-        "url": "https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jong Shin",
-          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
-      "url": "https://open.spotify.com/track/4b4hrrDEP5ZrF5n1mePurX"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "The Story Of The Year (feat. Wonwoo)",
         "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
       },
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
+        "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
+        "url": "https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
+      "url": "https://open.spotify.com/track/4b4hrrDEP5ZrF5n1mePurX"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 234856,
       "name": "Line",
       "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
-        "name": "Good Luck",
-        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Good Luck",
-      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1387,6 +1371,22 @@
       "duration_ms": 256493,
       "name": "Missing Call (Feat. SURAN)",
       "url": "https://open.spotify.com/track/57uO71CRdz5Nt9wCtdsHEf"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Law and The City, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "I want to know",
-      "url": "https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "Rainbow note",
         "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 219666,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/1nwQsE8hXTrrjjnTviT2qn"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Law and The City, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "I want to know",
+      "url": "https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq"
     },
     {
       "added_at": "2026-10-15 14:15:17",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2026-10-15 14:15:17",
       "album": {
-        "name": "Afterlife (Feat. OOHYO)",
-        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
-      },
-      "artists": [
-        {
-          "name": "Space Cowboy",
-          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 270713,
-      "name": "Afterlife (Feat. OOHYO)",
-      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
-    },
-    {
-      "added_at": "2026-10-15 14:15:17",
-      "album": {
         "name": "AQUA CITY",
         "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 299500,
       "name": "Aqua (feat. Muzie)",
       "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
+    },
+    {
+      "added_at": "2026-10-15 14:15:17",
+      "album": {
+        "name": "Afterlife (Feat. OOHYO)",
+        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
+      },
+      "artists": [
+        {
+          "name": "Space Cowboy",
+          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 270713,
+      "name": "Afterlife (Feat. OOHYO)",
+      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
     },
     {
       "added_at": "2026-10-15 14:15:17",

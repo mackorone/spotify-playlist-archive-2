@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Clave Especial en portada.",
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Karol G en portada.",
   "name": "\u00c9xitos M\u00e9xico",
   "tracks": [
     {
@@ -2057,6 +2057,28 @@
     },
     {
       "album": {
+        "name": "ATRAVESAO",
+        "url": "https://open.spotify.com/album/0N2N0fNmfFL9PGIL67ziRw"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ATRAVESAO",
+      "url": "https://open.spotify.com/track/6U7pLc5fR5ksO2Ljl7Bgjo"
+    },
+    {
+      "album": {
         "name": "MudaH",
         "url": "https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ"
       },
@@ -2500,7 +2522,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 197000,
       "name": "Baj\u00f3n Emocional",
       "url": "https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC"
@@ -6198,7 +6220,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 222580,
       "name": "Dientes De Fierro",
       "url": "https://open.spotify.com/track/4dAjV0Fmr0NfBjR09KpiFj"
@@ -8310,6 +8332,24 @@
       "duration_ms": 185179,
       "name": "Formula One",
       "url": "https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t"
+    },
+    {
+      "album": {
+        "name": "FRANCIA",
+        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206817,
+      "name": "FRANCIA",
+      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
     },
     {
       "album": {
@@ -11789,6 +11829,24 @@
     },
     {
       "album": {
+        "name": "LOBA",
+        "url": "https://open.spotify.com/album/340iAQjYY21afl6rnZNIfC"
+      },
+      "artists": [
+        {
+          "name": "Emi Blue",
+          "url": "https://open.spotify.com/artist/5PqJ1FTbrF7vML9bDQjZ6U"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "LOBA",
+      "url": "https://open.spotify.com/track/1JIjxDenfJH0faBe1PgVQS"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -13030,6 +13088,24 @@
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
+    },
+    {
+      "album": {
+        "name": "Morphys",
+        "url": "https://open.spotify.com/album/332GInMMj66YvdPUXfdvlW"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121998,
+      "name": "me sub\u00ed a un avi\u00f3M",
+      "url": "https://open.spotify.com/track/5yM1o2EGgCdklZ1dzgApju"
     },
     {
       "album": {
@@ -14472,7 +14548,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 166704,
       "name": "neo roneo",
       "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
@@ -20566,7 +20642,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164937,
       "name": "So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/33HYZlzEZwp9KOMt9DY7xF"

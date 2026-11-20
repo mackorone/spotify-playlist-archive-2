@@ -2,9 +2,9 @@
 
 ### [Club R&B](https://open.spotify.com/playlist/37i9dQZF1DX1aTyQ3Z9nTc)
 
-> Welcome to where R&B meets the dance floor.
+> Welcome to where R&B meets the dance floor\. Cover: Rochelle Jordan
 
-513 songs - 1 day 4 hr 54 min
+515 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [1080p](https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 2:33 | 2022-05-02 | 2024-04-19 |
 | [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 | 2021-07-26 | 2022-07-14 |
 | [222 \(feat\. Seddy Hendrinx & UnoTheActivist\) \- Remix](https://open.spotify.com/track/69quZ5cQUUKHgJ7tACJlka) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [222 \(feat\. Seddy Hendrinx & UnoTheActivist\) \[Remix\]](https://open.spotify.com/album/2UNIG5yAWawggCkTIZrobt) | 3:26 | 2024-02-09 | 2024-03-31 |
+| [24h \(Joyride\) \- DJ Pirna Remix](https://open.spotify.com/track/16STG273tIQgixgywBfRoS) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp), [DJ Pirna](https://open.spotify.com/artist/5WSqjmEDEd0zrR5N2nmCUZ) | [24h \(Joyride\) \(DJ Pirna Remix\)](https://open.spotify.com/album/2JMy9C5z6lVZFbtPLSzY6J) | 4:05 | 2026-11-20 |  |
 | [24k](https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD) | 3:53 | 2022-05-02 | 2023-08-26 |
 | [24k](https://open.spotify.com/track/0lmzmht19LRBtsy8BusjHH) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol.2](https://open.spotify.com/album/7DoQVFuq50UZLWVTVzHGHq) | 3:53 | 2021-07-26 | 2022-07-29 |
 | [2MANYTHINGS](https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 3:13 | 2022-07-29 | 2024-06-11 |
@@ -340,7 +341,7 @@
 | [Passion](https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:18 | 2022-07-30 | 2024-06-11 |
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-03-25 | 2023-10-07 |
 | [Picture in My Mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-08-12 | 2023-10-07 |
-| [Pillow Fight](https://open.spotify.com/track/01G4VBeAzLxtnQrWdIk1GE) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:21 | 2026-11-13 |  |
+| [Pillow Fight](https://open.spotify.com/track/01G4VBeAzLxtnQrWdIk1GE) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:21 | 2026-11-13 | 2026-11-20 |
 | [PLAY](https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [PLAY](https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13) | 2:22 | 2023-05-26 | 2024-06-11 |
 | [Play](https://open.spotify.com/track/6t542uAqikGaV2ivLGPtKR) | [ZULA](https://open.spotify.com/artist/6tWqBIxAeRmld2npkzFZf3) | [PLAY](https://open.spotify.com/album/6fwGrUGDBjL04UOue5fU3m) | 3:08 | 2021-07-26 | 2022-07-15 |
 | [point blank](https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [point blank](https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr) | 4:26 | 2026-11-13 |  |
@@ -437,7 +438,7 @@
 | [Terry Crews](https://open.spotify.com/track/3tlAYWP5DA3COpwLTKNHDq) | [Lo Village](https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi) | [Terry Crews](https://open.spotify.com/album/4dv9Y45gQY1E88bmu1rUrD) | 3:13 | 2021-07-26 | 2022-07-29 |
 | [That's Alright!](https://open.spotify.com/track/6SiNsA6vgGUbefwWckQrkn) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Girls Give Me Anxiety](https://open.spotify.com/album/6nI5BghOfciMGDHj7uY8ye) | 3:18 | 2021-07-26 | 2022-07-29 |
 | [That's Your Problem \(STANK HOEZ\)](https://open.spotify.com/track/4VY4yhB6w8bPAjLvYbE4BX) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [That's Your Problem \(STANK HOEZ\)](https://open.spotify.com/album/3GGOTvsEcjfZFBoHLLuL6H) | 2:33 | 2022-08-12 | 2022-09-03 |
-| [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 | 2026-11-13 |  |
+| [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 | 2026-11-13 | 2026-11-20 |
 | [The Boy \- Byron the Aquarius Remix](https://open.spotify.com/track/0RLhGQU9Fi9O3K5ubi74d2) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Disc 4](https://open.spotify.com/album/2MmRjWvuZs45I6pbHFfHYI) | 4:07 | 2026-11-13 |  |
 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 | 2026-11-13 |  |
 | [THE HIDE](https://open.spotify.com/track/5vmdxAlYMaMfKQRibZL5iu) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 4:02 | 2024-06-10 | 2026-11-14 |
@@ -447,6 +448,7 @@
 | [The Worst In Me](https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:46 | 2021-07-26 | 2023-04-01 |
 | [therapy](https://open.spotify.com/track/7CfTiy1cPOOhVqWB31Dg4k) | [Divine Lightbody](https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ) | [therapy](https://open.spotify.com/album/0d9BGpaYTSic0qZFgE1YPK) | 2:06 | 2026-11-13 |  |
 | [There Is A Light](https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [There Is A Light](https://open.spotify.com/album/0auzANiBBPA11WMLoLbl81) | 3:01 | 2023-12-01 | 2024-06-11 |
+| [There's No Way](https://open.spotify.com/track/7r59sMFifjPf9aOiRZA74S) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Javonntte](https://open.spotify.com/artist/2qBuzbYgrjGhnf79c60kxi) | [There's No Way](https://open.spotify.com/album/365hpqXj44R3MzqAsqxAVc) | 5:47 | 2026-11-20 |  |
 | [THINKING](https://open.spotify.com/track/6kChUQ3dve0oRH3a6wrxHM) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [THINKING](https://open.spotify.com/album/3qZHlcmOavLTKddnup8qdf) | 2:00 | 2021-07-26 | 2022-07-29 |
 | [Throw That Back](https://open.spotify.com/track/7MiE0I58L6n6L7lmPKwe73) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Throw That Back](https://open.spotify.com/album/4C5xbCzBOcg4gWofG7dmBE) | 3:07 | 2021-07-26 | 2022-07-29 |
 | [Tighten It Up \- Barney Bones \- DRAMA Edit](https://open.spotify.com/track/5suNUnahl3rSictF1dBPei) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Tighten It Up \(Barney Bones \- DRAMA Edit\)](https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply) | 2:52 | 2023-04-28 | 2024-06-11 |

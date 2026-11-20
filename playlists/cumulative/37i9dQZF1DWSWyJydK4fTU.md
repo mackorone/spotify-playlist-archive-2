@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-422 songs - 21 hr 26 min
+424 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [American Cars](https://open.spotify.com/track/3WRgRy12YW4I9mjodKXWwy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:32 | 2026-04-23 |  |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-12 |  |
 | [angel](https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [in the light and shadows](https://open.spotify.com/album/4ovbdT33akJwJUqKCzDK2l) | 2:54 | 2024-07-10 | 2024-11-14 |
+| [arm um mich](https://open.spotify.com/track/5jRvFqocteQ2pgwdbST4AN) | [CEDDO](https://open.spotify.com/artist/42trS2y9sQiZ14tTr2ghvG) | [arm um mich](https://open.spotify.com/album/7GnsoCfRL0XLIe1HcdzpQr) | 2:30 | 2026-11-19 |  |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-14 | 2025-09-25 |
 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 | 2026-03-26 |  |
 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-08-30 | 2024-10-12 |
@@ -88,7 +89,7 @@
 | [cosmic wink](https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [Cosmic Wink](https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE) | 2:52 | 2026-02-26 | 2026-03-18 |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-07-10 | 2025-07-11 |
 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-09-13 | 2025-04-15 |
-| [Cry Baby](https://open.spotify.com/track/33lxj47LkkTn3hVHN0wgwZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Cry Baby](https://open.spotify.com/album/1faiHpRU4FKgWT3nFSc25D) | 3:23 | 2026-09-24 |  |
+| [Cry Baby](https://open.spotify.com/track/33lxj47LkkTn3hVHN0wgwZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Cry Baby](https://open.spotify.com/album/1faiHpRU4FKgWT3nFSc25D) | 3:23 | 2026-09-24 | 2026-11-20 |
 | [Crybaby](https://open.spotify.com/track/1Fedx4qXnX0tpUC5hS7wbJ) | [Max Allais](https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn) | [Crybaby](https://open.spotify.com/album/2Yr0FA0EijQQmir7vSoiq0) | 2:16 | 2026-07-30 | 2026-08-28 |
 | [Crème Brulée](https://open.spotify.com/track/7uO4TMLRGBPbTaMFwckSoC) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Crème Brulée](https://open.spotify.com/album/7Lf4jeuo8xle3BaJUueHyt) | 2:59 | 2025-04-02 | 2025-08-02 |
 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 | 2026-04-02 |  |
@@ -356,6 +357,7 @@
 | [Surprise Surprise](https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Surprise Surprise](https://open.spotify.com/album/7jyW62gM9VNH5NVd3XkfZA) | 2:55 | 2026-05-14 | 2026-06-28 |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-07-10 | 2025-09-25 |
 | [Taboo](https://open.spotify.com/track/5r6asxdvB5xJtNiSMjWTjB) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Taboo](https://open.spotify.com/album/1g3VI1UlJcKDPP4bDihhdB) | 3:38 | 2026-06-04 | 2026-06-10 |
+| [Take Me Back](https://open.spotify.com/track/4oDUnRSQj6zK69SkuHtQfK) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Take Me Back](https://open.spotify.com/album/0I9EuDhOFZQC9ZMCcPMue8) | 3:08 | 2026-11-19 |  |
 | [tanz aus der reihe.](https://open.spotify.com/track/01p61G93AOoD9Msb9pdBfP) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tanz aus der reihe.](https://open.spotify.com/album/2dwI089I2sUSZt8T1qUuK2) | 2:03 | 2026-05-14 | 2026-06-19 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-30 | 2024-10-12 |
 | [Tears Like Rain](https://open.spotify.com/track/4jJyldGnhcl0DWckyPUdtY) | [Bodine Monet](https://open.spotify.com/artist/3yYjWBj7KIlhTtr8LPeKVz) | [Tears Like Rain](https://open.spotify.com/album/1mFt8cO5LBFJs3z91Lp9RW) | 2:39 | 2024-06-20 | 2024-08-20 |
@@ -392,7 +394,7 @@
 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 | 2026-01-09 | 2026-02-13 |
 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 | 2026-05-14 |  |
 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 | 2026-06-25 | 2026-08-28 |
-| [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 | 2025-05-22 |  |
+| [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 | 2025-05-22 | 2026-11-20 |
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-30 | 2024-10-12 |
 | [Walk Alone](https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Walk Alone](https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz) | 2:49 | 2025-09-24 | 2026-05-15 |
 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 | 2026-05-19 | 2026-11-07 |

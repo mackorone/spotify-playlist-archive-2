@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 429440,
       "name": "The Key to Lallybroch",
       "url": "https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl"
@@ -2440,6 +2440,28 @@
       "duration_ms": 228973,
       "name": "The Last Voyage of the Demeter",
       "url": "https://open.spotify.com/track/0kxinHtO8XyKlXHg1XQ5HR"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Katrine Stenbekk",
+          "url": "https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258353,
+      "name": "The Most Devoted (feat. Katrine Stenbekk)",
+      "url": "https://open.spotify.com/track/0H24OtQtfcckFyebnCzsiq"
     },
     {
       "album": {

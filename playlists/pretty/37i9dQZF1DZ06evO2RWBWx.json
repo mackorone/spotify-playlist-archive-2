@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAACycqgJ2vbjLyCKiYC/5IAO",
+  "snapshot_id": "avzqgAAAAADLwXariYKY14cutCZRZOB4",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dried Flower",
-        "url": "https://open.spotify.com/album/11P1D8fWEK5MRmnHEFY34g"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 185286,
-      "name": "Dried Flower",
-      "url": "https://open.spotify.com/track/1YQ6EL4sCdTrlUiBbCSwne"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nagisa",
         "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 227575,
       "name": "\u30e1\u30ed\u30c9\u30e9\u30de",
       "url": "https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dried Flower",
+        "url": "https://open.spotify.com/album/11P1D8fWEK5MRmnHEFY34g"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 185286,
+      "name": "Dried Flower",
+      "url": "https://open.spotify.com/track/1YQ6EL4sCdTrlUiBbCSwne"
     },
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+        "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/1eYYfunGohknNjEJxwBsej"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
+      "duration_ms": 239800,
+      "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/1rrI0xYaXYTyWtgf5ZtGPg"
     },
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u306f\u3066\u306a",
         "url": "https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 190275,
       "name": "It's a Beautiful Life",
       "url": "https://open.spotify.com/track/6MDybif93uNBUDPlcSFl2E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/1eYYfunGohknNjEJxwBsej"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/1rrI0xYaXYTyWtgf5ZtGPg"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u51e1\u624d",
+        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 168120,
+      "name": "Rainy Driver",
+      "url": "https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 233530,
       "name": "\u9752\u8449",
       "url": "https://open.spotify.com/track/2rwzAVfRMQc4SfWElchjUP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u51e1\u624d",
-        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 168120,
-      "name": "Rainy Driver",
-      "url": "https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u50d5\u3089\u3060",
+        "url": "https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "\u50d5\u3089\u3060",
+      "url": "https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u306f\u3066\u306a",
         "url": "https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u50d5\u3089\u3060",
-        "url": "https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "\u50d5\u3089\u3060",
-      "url": "https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u51e1\u624d",
         "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u306f\u3066\u306a",
-        "url": "https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 249747,
-      "name": "\u4ed5\u8349",
-      "url": "https://open.spotify.com/track/3051x0qI9TSndFLGMEL5qe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 202373,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u306f\u3066\u306a",
+        "url": "https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 249747,
+      "name": "\u4ed5\u8349",
+      "url": "https://open.spotify.com/track/3051x0qI9TSndFLGMEL5qe"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "POP CUBE",
-        "url": "https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "\u3042\u3079\u3053\u3079",
-      "url": "https://open.spotify.com/track/0q45T1ketsZRdCSwGOqgyW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
         "url": "https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 196000,
       "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
       "url": "https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POP CUBE",
+        "url": "https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "\u3042\u3079\u3053\u3079",
+      "url": "https://open.spotify.com/track/0q45T1ketsZRdCSwGOqgyW"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d4\u30ea\u30aa\u30c9",
-        "url": "https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "\u30d4\u30ea\u30aa\u30c9",
-      "url": "https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pale Rain",
         "url": "https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm"
       },
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shine Out",
-        "url": "https://open.spotify.com/album/2rO5QkM3BmZw0NLbQe7LJB"
+        "name": "\u30d4\u30ea\u30aa\u30c9",
+        "url": "https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP"
       },
       "artists": [
         {
@@ -768,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 210537,
-      "name": "Shine Out",
-      "url": "https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA"
+      "duration_ms": 214000,
+      "name": "\u30d4\u30ea\u30aa\u30c9",
+      "url": "https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 286200,
       "name": "\u4e00\u65e5\u82b1 feat.imase & \u7fd2\u5fd7\u91ce\u9ad8\u6821\u5439\u594f\u697d\u90e8",
       "url": "https://open.spotify.com/track/1iclTsAT16fR9MkzBn59PZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shine Out",
+        "url": "https://open.spotify.com/album/2rO5QkM3BmZw0NLbQe7LJB"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 210537,
+      "name": "Shine Out",
+      "url": "https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d7\u30ea\u30ba\u30e0",
-        "url": "https://open.spotify.com/album/2w0tnpsFPf0Ynq88etjSga"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "\u30d7\u30ea\u30ba\u30e0",
-      "url": "https://open.spotify.com/track/3GIu1zfZLJVCLgSMSDnb7r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30c4\u30ca\u30ac\u30eb\u30a6\u30c1\u30e5\u30a6\uff01",
         "url": "https://open.spotify.com/album/39TMwItqzO5ze6rmqGKPuz"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 160000,
       "name": "\u30c4\u30ca\u30ac\u30eb\u30a6\u30c1\u30e5\u30a6\uff01",
       "url": "https://open.spotify.com/track/2ZM2H6KsI5pFJaa9O6PT9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30d7\u30ea\u30ba\u30e0",
+        "url": "https://open.spotify.com/album/2w0tnpsFPf0Ynq88etjSga"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "\u30d7\u30ea\u30ba\u30e0",
+      "url": "https://open.spotify.com/track/3GIu1zfZLJVCLgSMSDnb7r"
     }
   ],
   "unique_name": "This Is imase",

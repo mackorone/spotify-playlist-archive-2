@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 197981,
+  "num_followers": 198133,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAD8b8T8IQuuo2IoMhnBEPdD",
+  "snapshot_id": "avzqgAAAAADFFux3tNxRlQoemHcGAh/T",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natalie Don\u2019t",
+        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Natalie Don't",
+      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Love Somebody",
         "url": "https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 241574,
       "name": "Perfect Day - featuring RAYE",
       "url": "https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natalie Don\u2019t",
-        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Natalie Don't",
-      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Walk On By",
+      "url": "https://open.spotify.com/track/0YACnkfd4NWuiPgjXVJwOD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Golden Boy",
         "url": "https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 215573,
       "name": "Check (with RAYE)",
       "url": "https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Walk On By",
-      "url": "https://open.spotify.com/track/0YACnkfd4NWuiPgjXVJwOD"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
       "duration_ms": 240800,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make It To Heaven (with Raye)",
-        "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "Make It to Heaven (with Raye)",
-      "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
     },
     {
       "added_at": null,

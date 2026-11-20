@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,909 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,927 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 83 | [Perdoname](https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Perdoname](https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M) | 2:24 |
 | 84 | [Flor Sin Retoño](https://open.spotify.com/track/20E3A5HYWkcbFSLSMFxPCR) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Bodas De Plata](https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27) | 2:58 |
 | 85 | [Mi Negra Linda](https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
-| 86 | [Tus Promesas de Amor](https://open.spotify.com/track/1TRdUF2oyYENzeX30yQtwM) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Los Grandes Exitos De Virginia Lopez \- A Peticion Del Publici](https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe) | 2:39 |
-| 87 | [Desesperadamente](https://open.spotify.com/track/2L1q1K3eLEG3sysm8iLtwl) | [Yolanda Y Su Trio Perla Negra](https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG) | [15 Creaciones De Yolanda Y Su Trio Perla Negra \- Versiones Originales](https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe) | 2:16 |
+| 86 | [Desesperadamente](https://open.spotify.com/track/2L1q1K3eLEG3sysm8iLtwl) | [Yolanda Y Su Trio Perla Negra](https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG) | [15 Creaciones De Yolanda Y Su Trio Perla Negra \- Versiones Originales](https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe) | 2:16 |
+| 87 | [Tus Promesas de Amor](https://open.spotify.com/track/1TRdUF2oyYENzeX30yQtwM) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Los Grandes Exitos De Virginia Lopez \- A Peticion Del Publici](https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe) | 2:39 |
 | 88 | [Ya Te Olvide](https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Ya Te Olvide](https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ) | 2:28 |
 | 89 | [Despierta](https://open.spotify.com/track/6ipKZL678L6S4L93oBmqtz) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:45 |
 | 90 | [Conozco La Verdad](https://open.spotify.com/track/08Bc5JzkGuMS53ZkDSgHsg) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL), [Johnny Rodriguez Y Su Trio](https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka) | [Grandes Éxitos De Carmen Delia Dipiní](https://open.spotify.com/album/4sOd7sSRarWnDiDLmeOlm7) | 2:50 |
-| 91 | [Ansiedad](https://open.spotify.com/track/1LRMRPhC8ZEniqe16Rzlkm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:52 |
-| 92 | [Espumas](https://open.spotify.com/track/3nSV1I5ZVv4vI8nU7Kl6zW) | [Yolanda Y Su Trio Perla Negra](https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG) | [15 Creaciones De Yolanda Y Su Trio Perla Negra \- Versiones Originales](https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe) | 2:33 |
+| 91 | [Espumas](https://open.spotify.com/track/3nSV1I5ZVv4vI8nU7Kl6zW) | [Yolanda Y Su Trio Perla Negra](https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG) | [15 Creaciones De Yolanda Y Su Trio Perla Negra \- Versiones Originales](https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe) | 2:33 |
+| 92 | [Ansiedad](https://open.spotify.com/track/1LRMRPhC8ZEniqe16Rzlkm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:52 |
 | 93 | [La Copa Rota](https://open.spotify.com/track/5Q4qhAdlqwuQcvDXDHG6lo) | [Trio Vegabajeño](https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB) | [50 Exitos del Fonógrafo y Sus Recuerdos](https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs) | 3:07 |
 | 94 | [Europa \- Mariachi Bolero Cover](https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ) | [Mi Corazón](https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI) | 2:57 |
 | 95 | [Esta Melodia](https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [En Nosotros](https://open.spotify.com/track/3v6tJYI8YRNmA0j8HLixAE) | [Los Indianos](https://open.spotify.com/artist/3U6c3u6spc6mNHcykQM0vI) | [A La Orilla De Un Palmar](https://open.spotify.com/album/4tGCXobAsI1du2f02NafgP) | 2:38 |
 | 100 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 |
 
-Snapshot ID: `AAAAAK5YxdSd47I7FKpuxy9TcCp68+w9`
+Snapshot ID: `AAAAALZqPbFp51F8WLT18CspruIfBNL2`

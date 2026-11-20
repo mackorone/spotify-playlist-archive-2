@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,384 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,389 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 60 | [I'll Come When You Call](https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Ruby Murray \- Greatest Hits](https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO) | 2:36 |
 | 61 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 |
 | 62 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Pure..\. '50s](https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb) | 2:37 |
-| 63 | [Only You \(and You Alone\)](https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1) | [The Hilltoppers](https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw) | [Trying](https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij) | 2:45 |
-| 64 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
+| 63 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
+| 64 | [Only You \(and You Alone\)](https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1) | [The Hilltoppers](https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw) | [Trying](https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij) | 2:45 |
 | 65 | [Rock and Roll Waltz \- Remastered](https://open.spotify.com/track/1BM4CPEcrkIENsOj8Mp9vd) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/42EkqVk8JTuxWuX1Olhs6h) | 2:58 |
 | 66 | [Tom Dooley](https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP) | [Lonnie Donegan](https://open.spotify.com/artist/6dIOTeSQDBSR6gwsL0WB2n) | [The EP Collection](https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu) | 3:20 |
 | 67 | [My Prayer](https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt) | 2:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/1P3ZqCqZVd2MTTTpM6GljU) | [Laurie London](https://open.spotify.com/artist/0oqCI59nwfnmdeofg0TApe) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:21 |
 | 80 | [Around the World](https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Greatest Hits: 50s](https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t) | 2:42 |
 
-Snapshot ID: `AAAAACp/btbfMSTZMbokiS3c7dGB8XDo`
+Snapshot ID: `AAAAAK+hdQ181KgSdsSsIDxLT9dm/hGY`

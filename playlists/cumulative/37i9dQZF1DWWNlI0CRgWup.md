@@ -4,7 +4,7 @@
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : \(D\)Juno
 
-383 songs - 19 hr 14 min
+384 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [MINUIT D'APRÈS](https://open.spotify.com/track/0mCSbQPrsIBhArYPptUqrk) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SAVASHUIA](https://open.spotify.com/album/51ZAiFItcL1kbcz5qszUqR) | 3:03 | 2026-09-17 |  |
 | [MOLLY DOLLY](https://open.spotify.com/track/1EyW8EbDOr0YXJOaV3hpkK) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [S/O DIEU](https://open.spotify.com/album/5h1HPR6Bu9tEOQEQD3mDRi) | 3:22 | 2024-04-10 | 2025-06-20 |
 | [Mon idole](https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 4:41 | 2021-12-02 | 2026-09-18 |
+| [Mon monde](https://open.spotify.com/track/5CrXlhVamNz4Xa3KcAfZ3G) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Phazz](https://open.spotify.com/artist/0kjZvGERXMvPFSs6DB5UFF) | [Mon monde](https://open.spotify.com/album/1ufpZnehdaOPmtx4OLktAu) | 3:02 | 2026-11-19 |  |
 | [Monde Nouveau](https://open.spotify.com/track/5lseYlJDl4Rx88sdZxsIFI) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Activists](https://open.spotify.com/album/3cUkFqJjXV8QL4Hm0118EM) | 2:37 | 2025-06-19 | 2026-09-18 |
 | [Monsters](https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Monsters](https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9) | 3:11 | 2022-06-10 | 2024-01-19 |
 | [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 | 2022-11-24 | 2023-04-12 |
@@ -263,7 +264,7 @@
 | [NY1504](https://open.spotify.com/track/1ZQ4VjqMG7v24ynzQoA6Fc) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [NY1504](https://open.spotify.com/album/3NigFUiM9FTxwVdbdY7rIl) | 2:29 | 2025-06-19 | 2026-09-18 |
 | [On m'a dit](https://open.spotify.com/track/0vg9919pYOV7mkiEZZDCHo) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [On m'a dit](https://open.spotify.com/album/0BP73xAURu61RwUrQvPyMu) | 3:28 | 2022-06-10 | 2022-09-30 |
 | [On m'a dit](https://open.spotify.com/track/6Dpj5zpd4nKpvervwskEBH) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ce qu'il restera de nous](https://open.spotify.com/album/5O9PH4OPR3rxtpjXhMjElr) | 3:28 | 2023-04-11 | 2023-09-09 |
-| [On my mind](https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [On my mind](https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT) | 2:43 | 2026-09-17 |  |
+| [On my mind](https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [On my mind](https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT) | 2:43 | 2026-09-17 | 2026-11-20 |
 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 | 2022-09-29 | 2025-06-20 |
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-02 | 2022-06-11 |
 | [Original](https://open.spotify.com/track/109zXHAHalUdn5mNwVQEWR) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Original](https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1) | 2:24 | 2026-09-17 | 2026-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12750,
+  "num_followers": 12749,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADfpoXHVnWYMn8fbA2nF/ov",
+  "snapshot_id": "avzqgAAAAAChLjnmLLG768tIa3eqr9CM",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+        "name": "Problemas Mentales",
+        "url": "https://open.spotify.com/album/73valBVZ9LP5UFwoLLonU1"
       },
       "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 229004,
-      "name": "Los Recuerdos",
-      "url": "https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8"
+      "duration_ms": 127778,
+      "name": "Problemas Mentales",
+      "url": "https://open.spotify.com/track/6i7WdefaXpXnnxaPl7XnvQ"
     },
     {
       "added_at": null,
@@ -259,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Problemas Mentales",
-        "url": "https://open.spotify.com/album/73valBVZ9LP5UFwoLLonU1"
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
       "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 127778,
-      "name": "Problemas Mentales",
-      "url": "https://open.spotify.com/track/6i7WdefaXpXnnxaPl7XnvQ"
+      "duration_ms": 229004,
+      "name": "Los Recuerdos",
+      "url": "https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crimen Organizado",
-        "url": "https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1"
+        "name": "Sacando El Polvo",
+        "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
       },
       "artists": [
         {
@@ -448,13 +448,13 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         },
         {
-          "name": "Compa Nava",
-          "url": "https://open.spotify.com/artist/4XJ36g1SNkMd94pZKdizLF"
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
         }
       ],
-      "duration_ms": 186455,
-      "name": "Crimen Organizado",
-      "url": "https://open.spotify.com/track/7rQc9Enutk9xbjP7WRUgUi"
+      "duration_ms": 241727,
+      "name": "Sacando El Polvo",
+      "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacando El Polvo",
-        "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
+        "name": "Crimen Organizado",
+        "url": "https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1"
       },
       "artists": [
         {
@@ -492,13 +492,13 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         },
         {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+          "name": "Compa Nava",
+          "url": "https://open.spotify.com/artist/4XJ36g1SNkMd94pZKdizLF"
         }
       ],
-      "duration_ms": 241727,
-      "name": "Sacando El Polvo",
-      "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
+      "duration_ms": 186455,
+      "name": "Crimen Organizado",
+      "url": "https://open.spotify.com/track/7rQc9Enutk9xbjP7WRUgUi"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 238116,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DDM Anthem",
         "url": "https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 258726,
       "name": "DDM Anthem",
       "url": "https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 238116,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
     },
     {
       "added_at": null,

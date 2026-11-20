@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,340 songs - 3 day 2 hr 15 min
+1,341 songs - 3 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1344,6 +1344,7 @@
 | [You Want Me](https://open.spotify.com/track/2S8T1CAHwuCZlYwYz5F7is) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [You Want Me \(VIP\)](https://open.spotify.com/album/5glwfPngAFp4aKDExPk9J8) | 4:45 | 2024-11-18 | 2025-02-25 |
 | [You Want Me](https://open.spotify.com/track/3lOsvOCeClwEFv0Ezo1if7) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [You Want Me](https://open.spotify.com/album/6MJap9B5ypAfH5UCb65A4V) | 4:45 | 2024-03-13 | 2024-06-01 |
 | [Your Heart](https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Your Heart](https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9) | 2:35 | 2022-06-03 | 2022-08-17 |
+| [YOUR SPACE](https://open.spotify.com/track/4qgNzZn2afVSvd2uHTeg3Q) | [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [YOUR SPACE](https://open.spotify.com/album/2u6Iboyg9POu7rTybEdUGm) | 3:08 | 2026-11-19 |  |
 | [Your Way](https://open.spotify.com/track/3kSm5HaznTY7Lkhl5fFpS6) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Your Way](https://open.spotify.com/album/75EEPbee9YaPfkY8oHEpAT) | 2:57 | 2022-06-24 | 2022-09-07 |
 | [Zazim Beyhad \(We Move Together\)](https://open.spotify.com/track/2CAejyWEtCiscWvgvCYSDK) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [IM25](https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp) | 3:22 | 2022-09-16 | 2022-11-15 |
 | [ZENITH](https://open.spotify.com/track/3OPRTlKOHH2OkSOn8gM9xQ) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [ZENITH](https://open.spotify.com/album/4XTcOpYVIfpHKVoHwMSF9w) | 3:50 | 2023-11-08 | 2024-02-21 |

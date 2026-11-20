@@ -113,6 +113,28 @@
     },
     {
       "album": {
+        "name": "CONEXIONES",
+        "url": "https://open.spotify.com/album/4AkbZVrb8du3FF5sr9Tjjd"
+      },
+      "artists": [
+        {
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        },
+        {
+          "name": "''El Obama'' Carlos Anderson",
+          "url": "https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "20 TRAGOS",
+      "url": "https://open.spotify.com/track/7w7z0SkLvngqlxYpDq3Nb5"
+    },
+    {
+      "album": {
         "name": "Vibras de Noche",
         "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
@@ -388,7 +410,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163126,
       "name": "Amor De Cuentos",
       "url": "https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr"
@@ -532,7 +554,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195311,
       "name": "Aqui Nadie Va Llorar",
       "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
@@ -1471,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "DE EUROPA A JAP\u00d3N",
+        "url": "https://open.spotify.com/album/1p0VbOLs2H9dFZZOxQmbGu"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170168,
+      "name": "DE EUROPA A JAP\u00d3N",
+      "url": "https://open.spotify.com/track/4JesElQ9Btxf3UpzMu7ffR"
+    },
+    {
+      "album": {
         "name": "Seguimos Avanzando",
         "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
       },
@@ -1486,6 +1526,24 @@
       "duration_ms": 192576,
       "name": "De Mi Para Ti",
       "url": "https://open.spotify.com/track/1IrdLJmBmhIrzl52VwyAZQ"
+    },
+    {
+      "album": {
+        "name": "De Noche",
+        "url": "https://open.spotify.com/album/7sLQTppsIYifDJRzquogjx"
+      },
+      "artists": [
+        {
+          "name": "La Gavilla",
+          "url": "https://open.spotify.com/artist/3DtemVNgP2pwgHLLUbkbST"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179776,
+      "name": "De Noche",
+      "url": "https://open.spotify.com/track/3pVziHe6G5ttk7Qt7SlIoO"
     },
     {
       "album": {
@@ -1742,6 +1800,24 @@
       "duration_ms": 231818,
       "name": "Dior",
       "url": "https://open.spotify.com/track/7J1lMdQTGubGItxCkdyyMi"
+    },
+    {
+      "album": {
+        "name": "Mi Casi Todo",
+        "url": "https://open.spotify.com/album/3RiDHLmz1pij7udfvyTiSc"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155086,
+      "name": "Dios No Lo Quiso",
+      "url": "https://open.spotify.com/track/37st2fUiY3Uqj2Py0iWGIu"
     },
     {
       "album": {
@@ -2592,6 +2668,24 @@
       "duration_ms": 256941,
       "name": "Febrero Sin Ti",
       "url": "https://open.spotify.com/track/4ZcwcQ9jHpazdnEcXRQhwZ"
+    },
+    {
+      "album": {
+        "name": "FRANCIA",
+        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206817,
+      "name": "FRANCIA",
+      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
     },
     {
       "album": {
@@ -4479,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "Mirar La Luna",
+        "url": "https://open.spotify.com/album/5LyIL8ZVFNfJMReUfVgCNS"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186744,
+      "name": "Mirar La Luna",
+      "url": "https://open.spotify.com/track/09fQPypTWpF3lsNj6zp74o"
+    },
+    {
+      "album": {
         "name": "Enamorarme De Nuevo",
         "url": "https://open.spotify.com/album/2zvc2GVZiUxK7N986UyP13"
       },
@@ -4928,7 +5040,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 187702,
       "name": "No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/3UJcSJ2ZanRUfTGmKWxO0d"
@@ -5184,7 +5296,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214297,
       "name": "Ojeras",
       "url": "https://open.spotify.com/track/3AYhOngBjabqryZvx0wDqC"
@@ -5346,7 +5458,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 258303,
       "name": "Otra Mentira",
       "url": "https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q"
@@ -5740,6 +5852,42 @@
       "duration_ms": 175872,
       "name": "Platicame De Ti",
       "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
+    },
+    {
+      "album": {
+        "name": "Poligamia",
+        "url": "https://open.spotify.com/album/1QWdgyDjAN9p0Oh8aGaE0z"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168224,
+      "name": "Poligamia",
+      "url": "https://open.spotify.com/track/72DzJlTE05EiB6U7rYvDrr"
+    },
+    {
+      "album": {
+        "name": "Por antig\u00fcedad",
+        "url": "https://open.spotify.com/album/4oWGlvnBUJ0SDlmMC2t5tn"
+      },
+      "artists": [
+        {
+          "name": "Angel Trino",
+          "url": "https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149971,
+      "name": "Por antig\u00fcedad",
+      "url": "https://open.spotify.com/track/29R9iMsijuHJMhrwyS42Ho"
     },
     {
       "album": {
@@ -6768,7 +6916,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 215303,
       "name": "Sigues Siendo Tu - En vivo",
       "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
@@ -8026,7 +8174,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175560,
       "name": "Tu Nueva Etapa",
       "url": "https://open.spotify.com/track/4qesrlnBKu1ZTSiJImSHzS"
@@ -8612,7 +8760,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178638,
       "name": "Y Que Voy Hacer",
       "url": "https://open.spotify.com/track/5VuCkeLxzPmjMfdRsHhox8"

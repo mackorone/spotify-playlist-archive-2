@@ -4,10 +4,11 @@
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-89 songs - 3 hr 39 min
+90 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(I Can't Get Out Of\) My Own Way](https://open.spotify.com/track/5mx3Sm7ercSZASQBShNrpN) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [\(I Can't Get Out Of\) My Own Way](https://open.spotify.com/album/3kjhTh83RH01cJbkbUtT8s) | 2:32 | 2026-11-20 |  |
 | [A Broadcast](https://open.spotify.com/track/0XKPSoioAF6jB3nFFNwWMs) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:01 | 2022-09-24 | 2022-09-26 |
 | [A Forecast](https://open.spotify.com/track/3YJjOAN5gE1CW03WjHROpQ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:38 | 2022-09-22 | 2022-09-25 |
 | [Adieux](https://open.spotify.com/track/5w1kK7BBfB9BPL0kM4MiGu) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:25 | 2022-09-21 | 2024-03-30 |

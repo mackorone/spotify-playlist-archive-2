@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-345 songs - 19 hr 50 min
+346 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Someone Like You](https://open.spotify.com/track/05PmT424Y1oCwMaDMbEGOv) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 4:04 | 2024-05-01 | 2024-12-12 |
 | [Someone Like You](https://open.spotify.com/track/78A1ZV1xMBgTs0I8fV00Rn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 4:04 | 2024-12-11 |  |
 | [Sophie](https://open.spotify.com/track/6gufQS7szZfDuY0zS1bEhH) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Sophie](https://open.spotify.com/album/2eWiegJqcDd0988o8lwVBm) | 3:35 | 2024-05-01 |  |
+| [Space Disco](https://open.spotify.com/track/2wjiN77n441LYFb3w8YS67) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Space Disco](https://open.spotify.com/album/1MaHrCK7vxVCCWJtScEDRz) | 2:44 | 2026-11-19 |  |
 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 | 2024-05-01 |  |
 | [Spinning Around](https://open.spotify.com/track/351gVsgUdQGkWk1RdlvB9S) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:22 | 2025-06-29 |  |
 | [Spinning Around](https://open.spotify.com/track/6hPXdgRVXu1X04HenogfCN) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Spinning Around](https://open.spotify.com/album/7BYtZl0G55gqnZwFWVrzzh) | 3:22 | 2025-06-26 | 2025-06-30 |

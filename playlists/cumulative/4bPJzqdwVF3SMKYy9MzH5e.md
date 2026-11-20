@@ -4,7 +4,7 @@
 
 > 
 
-2,466 songs - 5 day 12 hr 31 min
+2,468 songs - 5 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [GATÚBELA](https://open.spotify.com/track/6Vn1vje8yMw2OY6IOk9dkH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:28 | 2025-01-15 |  |
 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 | 2021-08-05 |  |
 | [Gavotte in D Major "Rosine" \(Arr\. for Violin & Piano\)](https://open.spotify.com/track/2fO2ZY4Ohi3Uq1m4GYikvL) | [Francois\-Joseph Gossec](https://open.spotify.com/artist/1KBWt9hc5YE25x6Bcr1zps), [Takako Nishizaki](https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj), [Terence Dennis](https://open.spotify.com/artist/2bbCfH8cgOhmLwMVSzEhXm) | [Takako Nishizaki Plays Suzuki Evergreens, Vol\. 1](https://open.spotify.com/album/7Df8y0VuRQFjakK7V95akg) | 2:39 | 2021-08-05 |  |
+| [GBLFT1740065](https://open.spotify.com/track/55ZEwVKzdrMiR7Md5G2qwN) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Paradox](https://open.spotify.com/album/3QjcrzNPLkjfkzAQenjvL5) | 5:08 | 2026-11-19 |  |
 | [gec 2 Ü](https://open.spotify.com/track/6oEpHl3cdz5s3gr2JVjok5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 3:17 | 2021-11-14 |  |
 | [gec 2 Ü \(Remix\) \[feat\. Dorian Electra\]](https://open.spotify.com/track/4FeBA1bxkUae1aDsplsmrv) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [1000 gecs and The Tree of Clues](https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS) | 2:46 | 2022-10-03 |  |
 | [gecgecgec](https://open.spotify.com/track/29XGg8g4O7x8nUWPUfodM0) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 | 2021-11-14 |  |
@@ -1435,6 +1436,7 @@
 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 | 2025-03-26 |  |
 | [MSMSMSM](https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [MSMSMSM](https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4) | 3:35 | 2022-04-08 |  |
 | [Muerte Guarachosa](https://open.spotify.com/track/0MmpXLLJUOWrn6GZUCRYqX) | [Aleroj](https://open.spotify.com/artist/54m3plxbB6d8a0oIADRAgh) | [\*lo soba\*](https://open.spotify.com/album/0bSawKUm8QkOjAYdkQ3A1I) | 3:30 | 2026-08-05 |  |
+| [Multipass](https://open.spotify.com/track/3sk4Bi20KEGP87ZA2O1HFP) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Multipass](https://open.spotify.com/album/7m65wEvkCWtwiMbzzvKqsj) | 5:14 | 2026-11-19 |  |
 | [Mum, im an artist](https://open.spotify.com/track/4Qrm3I8WuIua3J2EK2kOeK) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/73neMdanvqkjdVrR2hzzfQ) | 2:03 | 2026-08-01 |  |
 | [MURDER DEATH KILL](https://open.spotify.com/track/5uktdc4mnFoe0C4fk1BiAg) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Ada Rook](https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 2:01 | 2022-11-10 |  |
 | [Murder on My Mind](https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [I AM YOU](https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW) | 4:28 | 2021-08-05 |  |

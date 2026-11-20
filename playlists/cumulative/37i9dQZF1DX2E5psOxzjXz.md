@@ -2,9 +2,9 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene 🔥 Cover: Bilal Ali
+> Explore Pakistan's thriving independent scene 🔥 Cover: Asteria
 
-495 songs - 1 day 3 hr 20 min
+500 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Dou Pal](https://open.spotify.com/track/59hkyI30Y03Zei8ITME2mz) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Dou Pal](https://open.spotify.com/album/5RpDf2hdASOFcyz88kVUZS) | 2:53 | 2021-12-06 | 2025-09-10 |
 | [Double Game](https://open.spotify.com/track/1bike5aQ7ZndnBodizi1oi) | [Mooroo](https://open.spotify.com/artist/2RfI4XISnS6FG3xXryReUh), [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Qirdaar](https://open.spotify.com/album/1jqTs5oGoHXrcr9M3EWyho) | 3:46 | 2023-12-30 | 2024-02-17 |
 | [Down](https://open.spotify.com/track/1IJ5jZq2Qge2ZjBvw9ewiS) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [Down](https://open.spotify.com/album/60BgpEaXzIBL91LhxeMgud) | 2:06 | 2021-12-06 | 2023-04-09 |
+| [dream](https://open.spotify.com/track/4ScwGZLpq91ClZNI7G7Xn4) | [Maria Unera](https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW), [Bouncy](https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ) | [dream](https://open.spotify.com/album/6JctirHBOzxsS1kQ4YxKZ2) | 2:52 | 2026-11-20 |  |
 | [Dream Girl](https://open.spotify.com/track/5HauOf3Whq4F7IZruk9Kbn) | [Neha Karim Ullah](https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA) | [Dream Girl](https://open.spotify.com/album/1rGiWcWgzUGgyUsuogKISa) | 2:27 | 2026-01-30 | 2026-03-28 |
 | [Dukh](https://open.spotify.com/track/1pHGtZjWcMQjzNHlu0mTJA) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq) | [Dukh](https://open.spotify.com/album/5Q8NbEwRpK5YXQdza31MfD) | 3:41 | 2023-03-12 | 2023-04-09 |
 | [Dunya](https://open.spotify.com/track/3WGDOi0xw7qyPrPnjBg2iu) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [blal bloch](https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Dunya](https://open.spotify.com/album/6EeQNbbIzoVQqQcrg7Tuyq) | 2:39 | 2024-06-07 | 2024-06-15 |
@@ -320,6 +321,7 @@
 | [Naraaz \- ft\. Fatima Khan, E.t Lone & Zahra Paracha](https://open.spotify.com/track/4GutOo3yby1CgYARF8WkVK) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq), [Fatima Khan](https://open.spotify.com/artist/1by9q5I9gcwqYHX93a9WlD), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K), [E.t Lone](https://open.spotify.com/artist/3yLnzeXNaquKBMLBe4oSnK) | [Woh Hai Kahaan](https://open.spotify.com/album/02T1FufJa9tsuQy8MAxpKB) | 4:25 | 2021-12-06 | 2023-04-09 |
 | [Nashe Me Hun](https://open.spotify.com/track/0mWYexF10TClNnseYf009u) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 3:27 | 2025-10-10 | 2026-09-12 |
 | [Nazaaray](https://open.spotify.com/track/4jP0DfL4IVjBRK7gUHgfF1) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Rithmetic](https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a) | [Nazaaray](https://open.spotify.com/album/6pjXTRX6j7AjHPv9NW610L) | 2:25 | 2025-05-01 | 2025-06-07 |
+| [Need You](https://open.spotify.com/track/0hJwnwsvOnOqvx3lUhO81G) | [Hassaan Shaheer](https://open.spotify.com/artist/6WPtkGlueETTYhoz0FSyHi), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [OCTOBER](https://open.spotify.com/album/4ws91CJgChmNvA2pYFZPrQ) | 3:28 | 2026-11-20 |  |
 | [Nishaan](https://open.spotify.com/track/4iZUPyKiwvPwqmWPnPCA8n) | [Ahmad Sohail](https://open.spotify.com/artist/7J8OrVC7fcmcjPnsZEh1pP) | [Kya Tum Wapis Aogi?](https://open.spotify.com/album/6bPBq9UPHr80YLBLHQy4A5) | 2:38 | 2026-11-13 |  |
 | [Niyat\-e\-Shauq](https://open.spotify.com/track/0LqbNetpERqAwILDNpyuT9) | [Rehan Hashmi](https://open.spotify.com/artist/0a0uJilGKuNgp0gonbPDJS) | [Niyat\-e\-Shauq](https://open.spotify.com/album/0QhRcKn4DOqPavhyCHPYf9) | 4:25 | 2025-05-26 | 2025-06-30 |
 | [No Roses](https://open.spotify.com/track/5IGUQ0DfmXTp3kVJJxST5I) | [Big Mood](https://open.spotify.com/artist/49gX0zm1ncUuXsCz1Ug8u1), [Maria Unera](https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW) | [No Roses](https://open.spotify.com/album/2rjTrNWnpYGVchCRKmoMF5) | 3:23 | 2021-12-06 | 2022-03-05 |
@@ -442,6 +444,8 @@
 | [Talking To My Heart](https://open.spotify.com/track/7pj46Hvk3pZPG3mzEWJ7Nq) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Kabeer Khan](https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt) | [Talking To My Heart](https://open.spotify.com/album/1O0ve8bN9wyIsJFVUKsNF2) | 2:34 | 2024-06-21 |  |
 | [Tamasha](https://open.spotify.com/track/4nX0hE5O7O5ssZ0RBnBRUf) | [The Tamaashbeens](https://open.spotify.com/artist/6dArdZ3NhrB1sbyo2s5poV) | [Tamasha](https://open.spotify.com/album/70R43DKN4pKOHBE7guBU6m) | 3:48 | 2024-10-04 | 2024-12-13 |
 | [tanha sahi](https://open.spotify.com/track/6w47A15XIxRHnBiljATzUa) | [Maliha J\. Khan](https://open.spotify.com/artist/63RTNEI59osbMZHgd9FUTl), [Daniyal Abid](https://open.spotify.com/artist/05YR7CqRwC120pSVQxkwtc) | [tanha sahi](https://open.spotify.com/album/7f0Wx9dQPe6D3wctYlGWIi) | 2:33 | 2026-02-06 | 2026-04-04 |
+| [Tara](https://open.spotify.com/track/5BYBECI7ojtc5EfGFG1jjK) | [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Tara](https://open.spotify.com/album/4bvmihdDeJ2mw1HaBbFoPD) | 3:13 | 2026-11-20 |  |
+| [Tara Ro Dega](https://open.spotify.com/track/7Ikx61vuE8hObQbwE8MF3Q) | [Schumaila Rehmat Hussain](https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8) | [Tara Ro Dega](https://open.spotify.com/album/5Y309nFS9hYKGsWWnAnQ7R) | 3:25 | 2026-11-20 |  |
 | [Taranay](https://open.spotify.com/track/2cKCPVpbbgAUGI0Tm0HRVr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Taranay](https://open.spotify.com/album/6PuDQxcgpBiErIu05qgR6V) | 3:49 | 2025-02-26 | 2025-05-19 |
 | [Taras](https://open.spotify.com/track/41Yk3zyCwtsQbaeRPVccgU) | [Emira Mir](https://open.spotify.com/artist/21LZ9LvFeqYYoZKGGt6VRv) | [Taras](https://open.spotify.com/album/6JHcBSeikADiPIYNnmKnGo) | 3:30 | 2024-09-13 | 2025-01-17 |
 | [Taray](https://open.spotify.com/track/7gO3kiAPcAf2HphgKcfxkb) | [Saad Hassan](https://open.spotify.com/artist/3mHp9Ih5L1ramMAddBND3T) | [Taray](https://open.spotify.com/album/15lRPoY6UJwWBdWase9Nyn) | 4:34 | 2025-10-20 | 2026-01-15 |
@@ -456,6 +460,7 @@
 | [Teri Tasveer](https://open.spotify.com/track/4iBIFGEGJ0I5ezZZ6VXYp7) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Suno](https://open.spotify.com/album/3pHRNlVpIx4PBBXxBkoUTZ) | 4:58 | 2022-11-30 | 2024-12-13 |
 | [Thandi](https://open.spotify.com/track/7tEzOjkyhaY9LSWCsV455b) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [RONAQ](https://open.spotify.com/album/0uwwWuB9MjGUF3R60CMnjr) | 2:40 | 2023-11-02 | 2024-04-13 |
 | [The River](https://open.spotify.com/track/1bUp7N1YaBxIcZAk1VmQ0N) | [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD) | [Tar](https://open.spotify.com/album/4HEA1y0YM2G74eNsF780sT) | 3:54 | 2021-12-06 | 2022-01-29 |
+| [The Sun](https://open.spotify.com/track/6y93nMqqW5pz8OATAA4f2C) | [Asteria](https://open.spotify.com/artist/4HVl77LX9pZNZBPH0Le6EJ) | [The Sun](https://open.spotify.com/album/2Da3Q2hOMJlEzAFl8JaJ1g) | 3:59 | 2026-11-20 |  |
 | [Theek Hai](https://open.spotify.com/track/1Eo6rcjB5ktjM9n24mwudc) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Theek Hai](https://open.spotify.com/album/1ODNQyAJumdOCreKdrC183) | 2:22 | 2022-01-18 | 2023-04-09 |
 | [Tittar Bittar](https://open.spotify.com/track/1IEqKWSF7CIPAOG8fsBdi7) | [Enarsii](https://open.spotify.com/artist/1uMjEOhLtHOlPOcFsSrl70) | [Tittar Bittar](https://open.spotify.com/album/7Ch7CBPwb3pKALwumKVnhw) | 2:49 | 2025-02-26 | 2025-05-19 |
 | [Toko Mujhay](https://open.spotify.com/track/5QkFoOGV3aX2O5gj1Ypwvq) | [Saad Mazher](https://open.spotify.com/artist/090ZjnRapPoPKa9gA2etv3) | [Toko Mujhay](https://open.spotify.com/album/5Axxnlrt5hWx3TdZyGJMfQ) | 2:53 | 2026-08-07 |  |

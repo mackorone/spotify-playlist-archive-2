@@ -1663,6 +1663,28 @@
     },
     {
       "album": {
+        "name": "TheTreeGirl sessions, Vol. 5",
+        "url": "https://open.spotify.com/album/4vzhFprR7Erq9XHuPRdux7"
+      },
+      "artists": [
+        {
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/1LeAwT4Eu1E6ySD3htFnh9"
+        },
+        {
+          "name": "David Cultura",
+          "url": "https://open.spotify.com/artist/2tzCDQPgHTbSFgwSMmfb07"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231413,
+      "name": "Chuva",
+      "url": "https://open.spotify.com/track/0EZGplKCOyj24N7kPw4A92"
+    },
+    {
+      "album": {
         "name": "Del\u00edrio Coletivo, Vol. 1",
         "url": "https://open.spotify.com/album/2qbJQpwa2qJWnR24FNHXgk"
       },
@@ -1786,6 +1808,32 @@
       "duration_ms": 206410,
       "name": "Contas no Estrangeiro",
       "url": "https://open.spotify.com/track/50ozv38puu8OnvVZ3XLXc4"
+    },
+    {
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/6ylV7GsWXQUvPRa8rbYfic"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202477,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/04gUXiclg2dWKTWI2cUb71"
     },
     {
       "album": {
@@ -2747,6 +2795,32 @@
     },
     {
       "album": {
+        "name": "Eleger",
+        "url": "https://open.spotify.com/album/4aHFmIN483Bc3FpHjN1WB7"
+      },
+      "artists": [
+        {
+          "name": "Kaike",
+          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189692,
+      "name": "Eleger",
+      "url": "https://open.spotify.com/track/1dcLtOzeqLtkFPZy3ZudHE"
+    },
+    {
+      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -3588,7 +3662,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 295771,
       "name": "Leve",
       "url": "https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif"
@@ -5332,7 +5406,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172580,
       "name": "Quem dir\u00e1?",
       "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
@@ -5582,7 +5656,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178426,
       "name": "Se Todos Fossem Iguais a Voc\u00ea",
       "url": "https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG"

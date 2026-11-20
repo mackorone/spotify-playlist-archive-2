@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> just trying our best 📸 Holly Humberstone
+> just trying our best 📸 Liang Lawrence
 
-2,941 songs - 6 day 4 hr 21 min
+2,945 songs - 6 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Beautiful](https://open.spotify.com/track/0UOtMNhi7gTH2r9xnskmjc) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Beautiful](https://open.spotify.com/album/0sWa77uRQc6jRi2OHbNOxf) | 3:09 | 2019-06-27 | 2020-06-24 |
 | [Before The Kiss](https://open.spotify.com/track/1Ul1vJdGk9gJPJMtZCZBgh) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Before The Kiss](https://open.spotify.com/album/0MvMidNkXZRLAEtoFbIXTE) | 2:17 | 2024-10-18 | 2025-05-03 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-28 | 2022-07-16 |
+| [Belle Of The Ball](https://open.spotify.com/track/4BMSTla2bxnKi2GV3DnWSg) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Wishing In Reverse](https://open.spotify.com/album/2uvbVlvIRKK5sljHcWDD2h) | 3:08 | 2026-11-20 |  |
 | [Besarnos de cero](https://open.spotify.com/track/20DSrtKmlJcC7kDruBl4Vr) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Besarnos de cero](https://open.spotify.com/album/0Bcyz6EwYgBaU8AXx2yJWb) | 2:28 | 2021-10-10 | 2021-10-11 |
 | [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 | 2023-02-10 | 2023-03-03 |
 | [Best Friend Breakup](https://open.spotify.com/track/5rKMN0bKdqcGWo1iLvv30Y) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej) | 2:21 | 2023-03-03 | 2023-07-01 |
@@ -444,7 +445,7 @@
 | [Cellophane](https://open.spotify.com/track/1LlpkuY6GTy6vBoh50ZbMs) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Cellophane](https://open.spotify.com/album/1Te4KAgshBCIik3JbxVHsu) | 2:39 | 2022-07-15 | 2022-07-29 |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-01-14 | 2022-02-06 |
 | [Chameleon](https://open.spotify.com/track/4DuwypY8jTcKOT88WDYX3P) | [INViDA](https://open.spotify.com/artist/23ShYrOhu7gvdxz5NcIQx5), [Muza](https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo), [Juliette Reilly](https://open.spotify.com/artist/2HR1xMXsvA2zBfiiADeZo7) | [Chameleon](https://open.spotify.com/album/2E9wcd2LJ5mOWdsSmOrmiN) | 3:36 | 2019-06-27 | 2020-03-23 |
-| [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 | 2026-10-09 |  |
+| [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 | 2026-10-09 | 2026-11-20 |
 | [Chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:20 | 2021-06-20 | 2021-11-20 |
 | [Chandelier](https://open.spotify.com/track/3REELyDyt5SPKX2387Zubv) | [Paquin](https://open.spotify.com/artist/2UGaFqTFNMtYGTrVznQksD), [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Vol\. 1](https://open.spotify.com/album/4FV4yInzGNhC6iSh1kX1qF) | 2:07 | 2021-11-25 | 2022-04-21 |
 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 | 2022-08-12 | 2022-09-24 |
@@ -778,7 +779,7 @@
 | [End Of The World](https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5UjAwy0lrko9kLqpej1RDy) | 2:38 | 2023-08-25 | 2023-09-26 |
 | [End Of The World](https://open.spotify.com/track/25JnZYGNwdJg9MB9eaQ8TU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5s2IqfqzXdVUrI1YcZ8XBN) | 2:38 | 2023-08-18 | 2023-08-31 |
 | [Endless](https://open.spotify.com/track/39TniRr67zsLesnyrwrkLK) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Endless](https://open.spotify.com/album/27COR8Xifi0nEuSEKRAKRt) | 3:26 | 2021-01-25 | 2022-01-08 |
-| [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 | 2026-07-05 |  |
+| [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 | 2026-07-05 | 2026-11-20 |
 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 | 2022-08-19 | 2023-04-23 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-07-08 | 2022-08-27 |
 | [Enjoy The Weather](https://open.spotify.com/track/2txs7OQeD9qOOhlmhcCO6J) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Enjoy The Weather](https://open.spotify.com/album/2y82EbzL8FRX92BUT3Ehq1) | 2:30 | 2022-02-25 | 2022-03-26 |
@@ -1047,6 +1048,7 @@
 | [GORGEOUS](https://open.spotify.com/track/4vowH3BCuj5NHsdU4YHeLh) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Smoke Signal](https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs) | 2:53 | 2022-12-16 | 2024-04-19 |
 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-22 | 2023-10-13 |
 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-09-22 | 2024-01-05 |
+| [Goth Rave](https://open.spotify.com/track/42NrToIoZCMQ7GjSsx3cKD) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Goth Rave](https://open.spotify.com/album/2vrQ3X57McmWG6AzjO4HZX) | 3:16 | 2026-11-20 |  |
 | [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 | 2023-08-04 | 2023-11-11 |
 | [grass is greener](https://open.spotify.com/track/6RwIjOIh9JoTbDiKmgL7fv) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [grass is greener](https://open.spotify.com/album/1pLUbffRD0y1FUKZwC1CGR) | 3:19 | 2023-04-22 | 2023-05-25 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-15 | 2024-01-05 |
@@ -1294,6 +1296,7 @@
 | [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 | 2022-03-04 | 2022-03-26 |
 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East of the Sun...](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 | 2025-09-12 | 2026-02-14 |
 | [I Won’t Cry](https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I Won't Cry](https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo) | 4:20 | 2026-09-25 | 2026-10-09 |
+| [I Won’t Cry](https://open.spotify.com/track/6JtquM5z5dHAasE2FneWgP) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 4:20 | 2026-11-20 |  |
 | [I Would Probably Hate You](https://open.spotify.com/track/6cZRlGzpks6vcWAidMAb88) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [I Would Probably Hate You](https://open.spotify.com/album/7iM4xNI1QxQP3MuCLGQDCA) | 3:00 | 2022-06-06 | 2022-07-29 |
 | [I Wouldn't Love Me](https://open.spotify.com/track/6UaXAuHztXaCePnBNZdUPS) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [I Wouldn't Love Me](https://open.spotify.com/album/7l2SSvHuReN5yS6gdf8FFZ) | 2:16 | 2023-06-23 | 2023-09-16 |
 | [I WRITE SONGS ABOUT YOU](https://open.spotify.com/track/0qYeqpxqxQB7VSegLNRBRc) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CATALYST\- EP](https://open.spotify.com/album/6gyeFXC2dYLrU3O0tovWqC) | 2:14 | 2023-12-08 | 2024-01-05 |
@@ -2141,6 +2144,7 @@
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-03 | 2024-10-05 |
 | [Rocket](https://open.spotify.com/track/5MR4yF90kILGAksLchUtuH) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Rocket](https://open.spotify.com/album/4EIVhy9IO28A79FIsVGcEd) | 2:43 | 2026-07-24 | 2026-08-22 |
 | [Rockstar](https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Rockstar](https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf) | 3:13 | 2023-02-10 | 2023-03-25 |
+| [Rockstar](https://open.spotify.com/track/3KAupxPNje3nKAA5kSvovD) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Rockstar](https://open.spotify.com/album/1MA32hbzAwq74luWckcPDs) | 3:24 | 2026-11-20 |  |
 | [RODEO](https://open.spotify.com/track/0bfVAtGxRGmqtaLxjezNJG) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [EAVESDROPPING](https://open.spotify.com/album/7cUIDKRSyezrS3oZtywQwh) | 3:02 | 2026-06-26 | 2026-09-12 |
 | [RODEO CLOWN](https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [RODEO CLOWN](https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N) | 2:33 | 2026-04-24 | 2026-08-28 |
 | [roll the dice](https://open.spotify.com/track/2TX7IPBBgfq4zL4TSZTp0D) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [roll the dice](https://open.spotify.com/album/54S0bDLXUsFIzxBssBkrul) | 2:14 | 2021-03-28 | 2021-10-20 |

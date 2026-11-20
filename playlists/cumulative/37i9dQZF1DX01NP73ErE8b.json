@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "le canzoni di cui siamo ossessionati \ud83d\udc9a Pinguini Tattici Nucleari in cover ",
+  "description": "le canzoni di cui siamo ossessionati \ud83d\udc9b Angelina Mango in cover ",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 196846,
       "name": "Bossa Nostra",
       "url": "https://open.spotify.com/track/7EFFg3umzGzCnOIHG6Fr6V"
@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 211111,
       "name": "Businessman",
       "url": "https://open.spotify.com/track/3cDXvyqP0weh4a666mQNtu"
@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 206400,
       "name": "detto tra noi",
       "url": "https://open.spotify.com/track/0VniDFp03BXAxrfVDrNivj"
@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 210866,
       "name": "Direzione la vita",
       "url": "https://open.spotify.com/track/7wlMl0dTO6mdKYVt2xcr5w"
@@ -5843,6 +5843,24 @@
     },
     {
       "album": {
+        "name": "Il rumore delle cose nuove",
+        "url": "https://open.spotify.com/album/1ruCGzaJz9pO0UlCvGyLVQ"
+      },
+      "artists": [
+        {
+          "name": "Brunori Sas",
+          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229607,
+      "name": "Il rumore delle cose nuove",
+      "url": "https://open.spotify.com/track/1kFoKxdr21e0v6DBC4Osuw"
+    },
+    {
+      "album": {
         "name": "Il tuo profumo",
         "url": "https://open.spotify.com/album/1tXFS7jpYe9viDdM0BUlQR"
       },
@@ -6036,7 +6054,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184250,
       "name": "Inverno Nucleare",
       "url": "https://open.spotify.com/track/5nzlnFOCatMay9EiKMf0z2"
@@ -6950,6 +6968,24 @@
       "duration_ms": 156407,
       "name": "Le Cose",
       "url": "https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj"
+    },
+    {
+      "album": {
+        "name": "Le cose che non dico",
+        "url": "https://open.spotify.com/album/0U2sxdDf38JHGdGKUqs9m0"
+      },
+      "artists": [
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174782,
+      "name": "Le cose che non dico",
+      "url": "https://open.spotify.com/track/4TuXgkr8vhkGwRoTwMlV4r"
     },
     {
       "album": {
@@ -8553,6 +8589,24 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS"
+    },
+    {
+      "album": {
         "name": "Morire x te",
         "url": "https://open.spotify.com/album/2MbK8XNBh27XNXeI8qNZUJ"
       },
@@ -9656,7 +9710,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 136262,
       "name": "OMBRE (feat. Carl Brave, Sarah Toscano & Giuse The Lizia)",
       "url": "https://open.spotify.com/track/0RanD45tjNfmAZ516XHIIF"
@@ -12014,10 +12068,28 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 256000,
       "name": "Sciall\u00e0",
       "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
+    },
+    {
+      "album": {
+        "name": "Un Tripudio di Pelle e di Baci",
+        "url": "https://open.spotify.com/album/5bmNdavPOuxZBlSZfornkP"
+      },
+      "artists": [
+        {
+          "name": "Margherita Vicario",
+          "url": "https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214306,
+      "name": "Se C'\u00e8 Un Amico",
+      "url": "https://open.spotify.com/track/1SBqY0nwx0ngS4JzArZ2Iu"
     },
     {
       "album": {
@@ -13157,6 +13229,24 @@
     },
     {
       "album": {
+        "name": "Stracci",
+        "url": "https://open.spotify.com/album/76HPBXB7lRzoyocvjVJDJJ"
+      },
+      "artists": [
+        {
+          "name": "Angelica Bove",
+          "url": "https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209347,
+      "name": "Stracci",
+      "url": "https://open.spotify.com/track/7e2XK5iHWrS4ZKtxApQwtj"
+    },
+    {
+      "album": {
         "name": "STRADE",
         "url": "https://open.spotify.com/album/6uNABMxgUVUdyvSuJ4qyq1"
       },
@@ -13718,6 +13808,24 @@
       "duration_ms": 199000,
       "name": "ti prego non piangere",
       "url": "https://open.spotify.com/track/02Gl9tZhIu0BguKv3GTYgB"
+    },
+    {
+      "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179613,
+      "name": "Ti ricordi",
+      "url": "https://open.spotify.com/track/3CK6Hf2IXtwKVbr7ZdnLjF"
     },
     {
       "album": {

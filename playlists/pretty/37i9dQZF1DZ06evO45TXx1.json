@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 16368,
+  "num_followers": 16376,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAMvcCLfpunxH0LnCBRtItf",
+  "snapshot_id": "avzqgAAAAABef4binEPJlwmUiT7Z+8Yp",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Trabalhosa",
+      "url": "https://open.spotify.com/track/36NzzUckVlKlfpvM1UQEor"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -179,30 +203,6 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fra\u00e7\u00e3o 3/4",
-        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Trabalhosa",
-      "url": "https://open.spotify.com/track/36NzzUckVlKlfpvM1UQEor"
     },
     {
       "added_at": null,
@@ -575,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
-        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "winx",
-          "url": "https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY"
-        },
-        {
-          "name": "VentuRadio",
-          "url": "https://open.spotify.com/artist/28NBKuqiMEd4BCgOwpwp7K"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Eu N\u00e3o Posso Ser",
-      "url": "https://open.spotify.com/track/26n0MQpZu53g1u2Xlzfu0K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 205000,
       "name": "N\u00e3o Adianta Me Ligar",
       "url": "https://open.spotify.com/track/0E65iBKawwwGbV3He8N5kE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
+        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "winx",
+          "url": "https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY"
+        },
+        {
+          "name": "VentuRadio",
+          "url": "https://open.spotify.com/artist/28NBKuqiMEd4BCgOwpwp7K"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Eu N\u00e3o Posso Ser",
+      "url": "https://open.spotify.com/track/26n0MQpZu53g1u2Xlzfu0K"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
-        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Maunatrack",
-          "url": "https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Desiste ou Supere",
-      "url": "https://open.spotify.com/track/5XmcYP1ytjONztXQxXjG0G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4 Horas",
         "url": "https://open.spotify.com/album/18JMz1hQNJExLwDkvscb3T"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 164000,
       "name": "4 Horas",
       "url": "https://open.spotify.com/track/7GKndeTEsy5aXL042JxM6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
+        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Maunatrack",
+          "url": "https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Desiste ou Supere",
+      "url": "https://open.spotify.com/track/5XmcYP1ytjONztXQxXjG0G"
     },
     {
       "added_at": null,
@@ -755,6 +755,30 @@
       "duration_ms": 135600,
       "name": "Mulher Adulta Faz Assim",
       "url": "https://open.spotify.com/track/0LlMMbD5ma9XJMyJcUZnZo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 176098,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
     },
     {
       "added_at": null,
@@ -807,30 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piranha",
-        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 176098,
-      "name": "Piranha",
-      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IRREFRE\u00c1VEL",
         "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
       },
@@ -847,26 +847,6 @@
       "duration_ms": 141355,
       "name": "N\u00e3o Sou Do Pouco",
       "url": "https://open.spotify.com/track/7MNu9CM2FEaTlKroQ4CAX0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
-        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 129850,
-      "name": "O Que Ce Tem Pra Nois",
-      "url": "https://open.spotify.com/track/21olh61tUqiwlUqGdExgoh"
     },
     {
       "added_at": null,
@@ -895,6 +875,26 @@
       "duration_ms": 164500,
       "name": "Surtada",
       "url": "https://open.spotify.com/track/6cQFVZockgtcQRzwp2vWlt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
+        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 129850,
+      "name": "O Que Ce Tem Pra Nois",
+      "url": "https://open.spotify.com/track/21olh61tUqiwlUqGdExgoh"
     },
     {
       "added_at": null,
@@ -947,34 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
-        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "\u00cdndio",
-          "url": "https://open.spotify.com/artist/0ugd51XpRpHmc8bgfF9Fdr"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 151888,
-      "name": "N\u00e3o Saio de Casa",
-      "url": "https://open.spotify.com/track/2dJOFLmcklO5NoaDafjFdd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Queridinho de Deus",
         "url": "https://open.spotify.com/album/12FBYClyofbdrOns5C79yq"
       },
@@ -1003,6 +975,30 @@
       "duration_ms": 261463,
       "name": "A Paz Que Eu Busco",
       "url": "https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
+        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Tipo de Mulher",
+      "url": "https://open.spotify.com/track/6PkgAOe7vrRpklLoi4sMQZ"
     },
     {
       "added_at": null,
@@ -1055,30 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
-        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Tipo de Mulher",
-      "url": "https://open.spotify.com/track/6PkgAOe7vrRpklLoi4sMQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -1103,6 +1075,34 @@
       "duration_ms": 172941,
       "name": "Ainda Sinto Muito",
       "url": "https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IRREFRE\u00c1VEL (EP\u00cdLOGO)",
+        "url": "https://open.spotify.com/album/5n6TkcQDHprWUoPPiZE5Y0"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "\u00cdndio",
+          "url": "https://open.spotify.com/artist/0ugd51XpRpHmc8bgfF9Fdr"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 151888,
+      "name": "N\u00e3o Saio de Casa",
+      "url": "https://open.spotify.com/track/2dJOFLmcklO5NoaDafjFdd"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: ONZY",
+  "description": "Cover: 7ari",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 177000,
       "name": "Capitaine",
       "url": "https://open.spotify.com/track/4a45XN9EpVDakADKfAW5iz"
@@ -2154,6 +2154,24 @@
       "duration_ms": 226627,
       "name": "Charchabil",
       "url": "https://open.spotify.com/track/6HZA0fBNDUYJRsgZ0te54C"
+    },
+    {
+      "album": {
+        "name": "Paranormal",
+        "url": "https://open.spotify.com/album/3w6eeGeDIxMGrTGqwpLtxU"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175051,
+      "name": "Chemkara",
+      "url": "https://open.spotify.com/track/6ogFiUOgCO5Td1WiYDPTNs"
     },
     {
       "album": {
@@ -7788,10 +7806,32 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163720,
       "name": "Parano",
       "url": "https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR"
+    },
+    {
+      "album": {
+        "name": "PARANO\u00cfAQUE",
+        "url": "https://open.spotify.com/album/3xfSHo9LFtLKJDqT2XWDtq"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        },
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199767,
+      "name": "PARANO\u00cfAQUE",
+      "url": "https://open.spotify.com/track/1UIxNpRP57J00xb8IQ6RyY"
     },
     {
       "album": {
@@ -8999,6 +9039,24 @@
     },
     {
       "album": {
+        "name": "hated gummo",
+        "url": "https://open.spotify.com/album/4ygfhl1detXw7Qsrcssh6Q"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "shetana",
+      "url": "https://open.spotify.com/track/0kW1NmONG0dtHGHxrkPHgo"
+    },
+    {
+      "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR"
       },
@@ -9238,7 +9296,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 166153,
       "name": "Solo",
       "url": "https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL"

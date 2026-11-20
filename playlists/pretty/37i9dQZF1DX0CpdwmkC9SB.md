@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 
 > The biggest festival of the year is back\. The official playlist for Glastonbury 2027.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,144 likes - 66 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,801 likes - 66 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 | 30 | [Kick Stones \(The Boys\)](https://open.spotify.com/track/6l5shPEg84qzJcojS0zMrV) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [It Goes On](https://open.spotify.com/album/3dWKCKeiWtxjDNPTbGCQTO) | 3:56 |
 | 31 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
 | 32 | [Islands](https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:40 |
-| 33 | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/track/32oEEIjEsjx4oB2bMnNYYs) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [No Bad Memories](https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX) | 2:49 |
-| 34 | [Fit but You Know It](https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:14 |
+| 33 | [Fit but You Know It](https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:14 |
+| 34 | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/track/32oEEIjEsjx4oB2bMnNYYs) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [No Bad Memories](https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX) | 2:49 |
 | 35 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 |
 | 36 | [If I Let You](https://open.spotify.com/track/2VR0LfCTo1wydVWvhseMSM) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [The Womack Sisters](https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh) | 3:58 |
 | 37 | [Feel the Pain](https://open.spotify.com/track/6xUMt58RCX98m7g0KcMwAS) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Without a Sound](https://open.spotify.com/album/07m9cMgG70Pznj6M02qvGN) | 4:18 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 | 49 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/04KHyqdGs5sVEWX6UnukF2) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 3:37 |
 | 50 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 |
 | 51 | [Bad Blood](https://open.spotify.com/track/4Iam3vZMJCMltFkK9mNruw) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:00 |
-| 52 | [Ernie](https://open.spotify.com/track/3vq4rG9kAtCk1QHfUM1fvR) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/2X3zMA6ukFES6FKCcKHwQP) | 7:17 |
-| 53 | [Eye Know](https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [3 Feet High and Rising \(35th Anniversary\)](https://open.spotify.com/album/2VKV04dOyLIEkBz9iaccP7) | 4:12 |
+| 52 | [Eye Know](https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [3 Feet High and Rising \(35th Anniversary\)](https://open.spotify.com/album/2VKV04dOyLIEkBz9iaccP7) | 4:12 |
+| 53 | [Ernie](https://open.spotify.com/track/3vq4rG9kAtCk1QHfUM1fvR) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/2X3zMA6ukFES6FKCcKHwQP) | 7:17 |
 | 54 | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/track/7lmh1ByCWe26Vtkz2w21lC) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Here Because of Hope](https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j) | 3:22 |
 | 55 | [Talk To Me](https://open.spotify.com/track/2U4Yi7LH63EiAf6094S087) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential](https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL) | 3:19 |
 | 56 | [People, I've been sad](https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ) | 4:20 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 | 65 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 |
 | 66 | [Scrambled Eggs](https://open.spotify.com/track/3BpU2XEMvN0XicImzJxLD7) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Full Moon](https://open.spotify.com/album/2cf1s864nimHstLscbjV8C) | 3:46 |
 
-Snapshot ID: `AAAAADLAR2kTWRSj/wjTllukHiX3UOor`
+Snapshot ID: `AAAAAL4oSmElwDiHn6o0mx9Sn1SWS8Tb`

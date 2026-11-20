@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 7805,
+  "num_followers": 7807,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALgVqY9gDoyPmt5AryIurBI671PJ",
+  "snapshot_id": "AAAAANGjTtcW7q6u1DHIDpj4PMm0XUBp",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Roll Deep",
-        "url": "https://open.spotify.com/album/24HPQqwhRn31huvNRg8War"
+        "name": "Champ - Single",
+        "url": "https://open.spotify.com/album/5QBtVmIGkMdb6F5PORTLSr"
       },
       "artists": [
         {
-          "name": "10Tik",
-          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
         }
       ],
-      "duration_ms": 207856,
-      "name": "Roll Deep",
-      "url": "https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk"
+      "duration_ms": 205714,
+      "name": "Champ",
+      "url": "https://open.spotify.com/track/0EoNuIITOben2tT4QbUEzi"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Champ - Single",
-        "url": "https://open.spotify.com/album/5QBtVmIGkMdb6F5PORTLSr"
+        "name": "Roll Deep",
+        "url": "https://open.spotify.com/album/24HPQqwhRn31huvNRg8War"
       },
       "artists": [
         {
-          "name": "Govana",
-          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+          "name": "10Tik",
+          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Champ",
-      "url": "https://open.spotify.com/track/0EoNuIITOben2tT4QbUEzi"
+      "duration_ms": 207856,
+      "name": "Roll Deep",
+      "url": "https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk"
     }
   ],
   "unique_name": "Usain Bolt's Taste",

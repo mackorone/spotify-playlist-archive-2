@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 
 > The biggest songs of the 1950s\. Cover: Elvis Presley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,886,906 likes - 150 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,886,935 likes - 150 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 | 42 | [Rockin' Robin](https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt) | [Bobby Day](https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj) | [Rockin' With Robin](https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y) | 2:40 |
 | 43 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
 | 44 | [Teach Me Tonight](https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:47 |
-| 45 | [Blueberry Hill](https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:27 |
+| 45 | [Pennies From Heaven](https://open.spotify.com/track/4tmy6FB76bR5eLmx0zO1mn) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [The Call Of The Wildest \(Expanded Edition\)](https://open.spotify.com/album/5RDBugAE4cU2vbLZj0dvmf) | 2:21 |
 | 46 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
 | 47 | [Diana](https://open.spotify.com/track/2k6qpHJsrKCCyvsHv2cPqR) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Sings His Favorites](https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ) | 2:20 |
-| 48 | [Pennies From Heaven](https://open.spotify.com/track/4tmy6FB76bR5eLmx0zO1mn) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [The Call Of The Wildest \(Expanded Edition\)](https://open.spotify.com/album/5RDBugAE4cU2vbLZj0dvmf) | 2:21 |
+| 48 | [Blueberry Hill](https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:27 |
 | 49 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 |
 | 50 | [Dream Lover](https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:30 |
 | 51 | [Dream a Little Dream of Me \(with Paul Weston & His Music From Hollywood\)](https://open.spotify.com/track/2HyPrPSANTIPkR6CfiytwY) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Day By Night \(with Paul Weston & His Music From Hollywood\)](https://open.spotify.com/album/3Q4k7vP53iNv1MMoEqro7x) | 3:43 |
-| 52 | [Ain't That A Shame](https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:32 |
-| 53 | [Sixteen Tons](https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Vintage Collections](https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD) | 2:38 |
+| 52 | [Sixteen Tons](https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Vintage Collections](https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD) | 2:38 |
+| 53 | [Ain't That A Shame](https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:32 |
 | 54 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 |
 | 55 | [Misty](https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:02 |
 | 56 | [I Wonder Why](https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [Presenting Dion And The Belmonts](https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el) | 2:21 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 | 103 | [Rebel Rouser](https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [The Best Of Duane Eddy](https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf) | 2:33 |
 | 104 | [When Lights Are Low](https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:56 |
 | 105 | [Good Golly, Miss Molly](https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Rock 'N' Roll Legends](https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA) | 2:08 |
-| 106 | [Rama Lama Ding Dong \(Original version 1958\)](https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl) | [The Edsels](https://open.spotify.com/artist/7FQVHPRA74BTNsNHRob0F7) | [The Rama Lama Ding Dong EP](https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y) | 2:27 |
-| 107 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
+| 106 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
+| 107 | [Rama Lama Ding Dong \(Original version 1958\)](https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl) | [The Edsels](https://open.spotify.com/artist/7FQVHPRA74BTNsNHRob0F7) | [The Rama Lama Ding Dong EP](https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y) | 2:27 |
 | 108 | [Lonely Boy](https://open.spotify.com/track/4kh2S9hRpPvoF9JkwZcYGN) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:31 |
 | 109 | [I Don't Know](https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [The Essentials: Ruth Brown](https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7) | 2:53 |
 | 110 | [Get a Job](https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN) | [The Silhouettes](https://open.spotify.com/artist/39fE9541sKuRBOsf7UOifd) | [Get a Job](https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9) | 2:49 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 | 149 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 |
 | 150 | [Blue Suede Shoes](https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:14 |
 
-Snapshot ID: `AAAAAHKC8NkaheE7/fB1MiiB3FUX2/Az`
+Snapshot ID: `AAAAABw65qcZ0sq7rl4sq8PxECg/Z6XS`

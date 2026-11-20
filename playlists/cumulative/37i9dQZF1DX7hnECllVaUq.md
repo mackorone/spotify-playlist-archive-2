@@ -2,9 +2,9 @@
 
 ### [Country Worldwide](https://open.spotify.com/playlist/37i9dQZF1DX7hnECllVaUq)
 
-> The biggest hits from country artists around the globe\. Cover: Owen Riegling
+> The biggest hits from country artists around the globe\. Cover: Rick Duff, Gustavo Mioto
 
-239 songs - 13 hr 17 min
+240 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 | 2023-03-31 | 2024-09-14 |
 | [On My Own Again](https://open.spotify.com/track/3S75Qwx2CglNQclN4ygDsL) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [On My Own Again](https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va) | 2:58 | 2023-03-31 | 2023-07-08 |
 | [On My Own Again](https://open.spotify.com/track/7I5wXK9J0legvm0z3YUMMS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 2:58 | 2023-08-03 | 2023-09-30 |
+| [Once Again](https://open.spotify.com/track/5vyKIf6vjR0KMzqfgje25d) | [Rick Duff](https://open.spotify.com/artist/4MNUaMf0Yl05yY6x342xBH), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Once Again](https://open.spotify.com/album/1KrfmGpPI9nI0GhwdAnh6w) | 2:51 | 2026-11-20 |  |
 | [Once Upon a Time](https://open.spotify.com/track/3KhEa6SCUPX0Fkma6j6qis) | [Chanel Yates](https://open.spotify.com/artist/5YABtAJlBJAzqxfIJA4nQd) | [Once Upon a Time](https://open.spotify.com/album/48JQD5fnaSZHlIvc1xsMag) | 2:51 | 2026-05-22 |  |
 | [One Beer Away](https://open.spotify.com/track/509iAaGTjgOuCnmYfSr9jk) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [One Beer Away](https://open.spotify.com/album/4PrVEVTs11WAhVm1k4Q7pd) | 3:38 | 2024-06-28 | 2025-10-25 |
 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 | 2024-09-13 |  |
@@ -184,7 +185,7 @@
 | [Starting Over](https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:00 | 2023-03-31 | 2024-09-14 |
 | [Stay in Your Lane](https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid) | [Bronson Diamond](https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Stay in Your Lane](https://open.spotify.com/album/7KiVfQ7GVB6kHS4xP1162z) | 3:29 | 2024-02-13 | 2024-05-23 |
 | [Steel Town](https://open.spotify.com/track/6jRRqFZkAYYuRXyLmoW0f1) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Steel Town](https://open.spotify.com/album/4GwGToAN52feKmW0VdRrZt) | 3:19 | 2026-02-17 | 2026-04-18 |
-| [String By](https://open.spotify.com/track/4eKboSkfneEWs7JzWHbvQW) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [String By](https://open.spotify.com/album/1xyWDZIbW5NWpTGaSP6rYn) | 3:15 | 2026-02-06 |  |
+| [String By](https://open.spotify.com/track/4eKboSkfneEWs7JzWHbvQW) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [String By](https://open.spotify.com/album/1xyWDZIbW5NWpTGaSP6rYn) | 3:15 | 2026-02-06 | 2026-11-20 |
 | [Summer Nights](https://open.spotify.com/track/4JirGOs4LxL71MMiZ2VCba) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Summer Nights](https://open.spotify.com/album/2CYk6UftZW4oIig98jYMI0) | 2:51 | 2023-03-31 |  |
 | [Sunny](https://open.spotify.com/track/0nVi3Xh7D2Qi0Z7vVIYvOe) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Sunny](https://open.spotify.com/album/4CgsIX4xvceiT9COkrXEt0) | 4:02 | 2023-05-04 |  |
 | [Sweet Spot](https://open.spotify.com/track/1HlR2cBtUy2euEdltt7Cdz) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Sweet Spot](https://open.spotify.com/album/0jGTPi4YLdLW42KjT9IDKY) | 2:54 | 2023-03-31 | 2023-07-28 |

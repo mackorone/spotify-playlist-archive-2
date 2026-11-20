@@ -4,7 +4,7 @@
 
 > 50 nejžhavějších hitů v České republice\. Cover: P T K
 
-277 songs - 13 hr 26 min
+278 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Až po uši](https://open.spotify.com/track/4xWFJWVX31eO9I2p2eVdS8) | [Slavíček](https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l) | [HOMEMADE](https://open.spotify.com/album/1zwCitjPyOowYEBkuhgEHc) | 3:17 | 2025-05-12 | 2026-11-17 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-03-23 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-24 |  |
+| [BACKSEAT](https://open.spotify.com/track/01w3dcqYpyB6wibYEjUjhE) | [Lboy Bsc](https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2), [Dorian](https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY) | [CHECKPOINT](https://open.spotify.com/album/24RbQ5JPQ8BBVjuFArJrTw) | 2:51 | 2026-11-19 |  |
 | [Baila](https://open.spotify.com/track/4USCgD3COcDf6KX1LNX3ga) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Baila](https://open.spotify.com/album/5ftQSOaSwf5KPnCzXGteJ6) | 2:38 | 2024-07-01 | 2025-02-18 |
 | [Balkan Paradise \(feat\. CA$HANOVA BULHAR\)](https://open.spotify.com/track/4Jzkzpf018hwnwNEpd0HU4) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [Balkan Paradise \(feat\. CA$HANOVA BULHAR\)](https://open.spotify.com/album/1lQIjnHBgf4OTAKRkuIZZX) | 2:50 | 2026-09-07 |  |
 | [Bandolero](https://open.spotify.com/track/4Mxxo5gQcfVHY88DZU4Hpl) | [RICO](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Focus](https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz) | 2:48 | 2026-07-01 |  |
@@ -135,7 +136,7 @@
 | [KURVY V POZORU](https://open.spotify.com/track/5sNrjyTnypj1YrPiDos8wr) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Eclipse](https://open.spotify.com/artist/2to5J7dbaGiiSCeRGoEHLb) | [KURVY V POZORU](https://open.spotify.com/album/51vUnAOdbs7CAokbiSqYQ2) | 1:43 | 2026-09-07 |  |
 | [Letná](https://open.spotify.com/track/7JLiGPvaKNNrYJHfzfANe5) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Letná](https://open.spotify.com/album/71pgnbzr7VB04NEUGQsU6F) | 2:16 | 2024-07-01 | 2025-09-11 |
 | [lhát sám sobě](https://open.spotify.com/track/0G9WvgEvNCjn3xHVoBNn70) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [čím víc toho mám tím dál od domova jsem](https://open.spotify.com/album/4ZIl7dQcPnPu5z4QrWoSQD) | 2:38 | 2026-11-16 |  |
-| [Limbo](https://open.spotify.com/track/4CHL6WxMFkQ8gPHx7a0Bsm) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Dusan Vlk](https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Rockstar Lifestyle \(EUP SUMMER SEASON \- 1st DROP\)](https://open.spotify.com/album/43GAiC3c1qUXMnQfzS3mIE) | 3:18 | 2026-08-05 |  |
+| [Limbo](https://open.spotify.com/track/4CHL6WxMFkQ8gPHx7a0Bsm) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Dusan Vlk](https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Rockstar Lifestyle \(EUP SUMMER SEASON \- 1st DROP\)](https://open.spotify.com/album/43GAiC3c1qUXMnQfzS3mIE) | 3:18 | 2026-08-05 | 2026-11-20 |
 | [Long Story](https://open.spotify.com/track/7hELM1h9VnjQ263YcXD4x3) | [13Many](https://open.spotify.com/artist/3j3xobDzxD2HDTvHpkZLKi) | [Long Story](https://open.spotify.com/album/1uTlp0HIm3TnSECQmFeteV) | 2:10 | 2026-11-09 |  |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-07-01 | 2025-04-01 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-09-01 | 2025-12-02 |

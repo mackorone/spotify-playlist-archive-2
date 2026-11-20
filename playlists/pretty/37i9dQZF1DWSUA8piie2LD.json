@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 176012,
+  "num_followers": 176049,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGSfgSaW0OcQSv9hhc+Mo86/Bz4e",
+  "snapshot_id": "AAAAAGuIOfAr4aguJk1qVR/zCB+yC1mU",
   "tracks": [
     {
       "added_at": "2026-02-09 08:21:39",
@@ -427,18 +427,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Someone To Love You",
-        "url": "https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B"
+        "name": "Nice & Slow",
+        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
       },
       "artists": [
         {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
-      "duration_ms": 290453,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH"
+      "duration_ms": 288800,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -459,34 +459,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Nice & Slow",
-        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
+        "name": "Someone To Love You",
+        "url": "https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
         }
       ],
-      "duration_ms": 288800,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "Work to Do",
-        "url": "https://open.spotify.com/album/6THuvzMAocj3aImePgicNH"
-      },
-      "artists": [
-        {
-          "name": "Fattburger",
-          "url": "https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi"
-        }
-      ],
-      "duration_ms": 293133,
-      "name": "100 Ways",
-      "url": "https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc"
+      "duration_ms": 290453,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -503,6 +487,22 @@
       "duration_ms": 305680,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Work to Do",
+        "url": "https://open.spotify.com/album/6THuvzMAocj3aImePgicNH"
+      },
+      "artists": [
+        {
+          "name": "Fattburger",
+          "url": "https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi"
+        }
+      ],
+      "duration_ms": 293133,
+      "name": "100 Ways",
+      "url": "https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Last Look",
-        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
-      },
-      "artists": [
-        {
-          "name": "Torcuato Mariano",
-          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
-        }
-      ],
-      "duration_ms": 276106,
-      "name": "Last Look",
-      "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 265893,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Last Look",
+        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
+      },
+      "artists": [
+        {
+          "name": "Torcuato Mariano",
+          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
+        }
+      ],
+      "duration_ms": 276106,
+      "name": "Last Look",
+      "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Soul Express",
-        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 278666,
-      "name": "Soul Express",
-      "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 285666,
       "name": "Anywhere Near You",
       "url": "https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Soul Express",
+        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 278666,
+      "name": "Soul Express",
+      "url": "https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
         "name": "Kisses In The Rain",
         "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Brazil Chill",
         "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
+        "name": "Excusez-Moi",
+        "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 356040,
+      "name": "Dreamwalk",
+      "url": "https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
         "name": "Jazzmasters 4",
         "url": "https://open.spotify.com/album/59EZIGuewk99mkPphgvBRS"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 226159,
       "name": "Puerto Banus",
       "url": "https://open.spotify.com/track/5aWFVn8VxQcoV5QtjFrZ28"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "Excusez-Moi",
-        "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 356040,
-      "name": "Dreamwalk",
-      "url": "https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni"
     },
     {
       "added_at": "2026-02-09 08:21:39",

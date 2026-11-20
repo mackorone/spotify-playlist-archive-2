@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,503 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,524 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 3 | [A Casa](https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Gretter Records](https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP) | [A Casa](https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9) | 4:53 |
 | 4 | [Quem Era Eu](https://open.spotify.com/track/3YSTY0yjV7ShECDHRZAF6G) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Quem Era Eu](https://open.spotify.com/album/7JBQKYned5Tt40QkhLoDf6) | 3:06 |
 | 5 | [Deus É Fiel \- Ao Vivo](https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Deus É Fiel \(Ao Vivo\)](https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48) | 4:29 |
-| 6 | [Minha Raiz \(Ao Vivo\)](https://open.spotify.com/track/1t8nIeKS6NlRLIVmiOhSXE) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Minha Raiz \(Ao Vivo\)](https://open.spotify.com/album/3MJn59Q4FvSQjkZKV8ISe2) | 4:30 |
-| 7 | [Trajetória](https://open.spotify.com/track/64mFWof8nKdLgHpFSSDbEf) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Trajetória](https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi) | 3:53 |
+| 6 | [Trajetória](https://open.spotify.com/track/64mFWof8nKdLgHpFSSDbEf) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Trajetória](https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi) | 3:53 |
+| 7 | [Minha Raiz \(Ao Vivo\)](https://open.spotify.com/track/1t8nIeKS6NlRLIVmiOhSXE) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Minha Raiz \(Ao Vivo\)](https://open.spotify.com/album/3MJn59Q4FvSQjkZKV8ISe2) | 4:30 |
 | 8 | [Contigo Até o Fim](https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R) | [Elida Rodrigues](https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ), [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb) | [Contigo Até o Fim](https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye) | 4:03 |
 | 9 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção e Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 |
-| 10 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
-| 11 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
+| 10 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
+| 11 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
 | 12 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT), [É Gospel Music](https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |
 | 13 | [Tempo de Vitória](https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Tempo de Vitória](https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9) | 3:49 |
 | 14 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Estou Aqui](https://open.spotify.com/track/7ckx72lvaOeEkxoga7jMBT) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Estou Aqui](https://open.spotify.com/album/1xaEvaLiIUDdCIdsHqUE5Z) | 3:29 |
 | 60 | [Refém do Caminhão](https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Refém do Caminhão](https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy) | 4:36 |
 
-Snapshot ID: `AAAAAIY5LqwoXLHAHYRJ2bzcKNCbbYjr`
+Snapshot ID: `AAAAAJbVH27otmlFF1frOJ69TkxNH2ge`

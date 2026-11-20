@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,471 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,480 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,18 +34,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 24 | [Mi Banda el Mexicano \- Remastered 2025](https://open.spotify.com/track/2lzVPQxM5bAfrCvp28c0mv) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie \(Remastered 2025\)](https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK) | 3:38 |
 | 25 | [El Borrachito](https://open.spotify.com/track/7cFYfUfLJelPF6rSoeRaTI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:44 |
 | 26 | [La Flaca](https://open.spotify.com/track/1ch4u7n3GCyUYuLfRi8NAd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 2:51 |
-| 27 | [Sombrero Vaquero](https://open.spotify.com/track/4qB4EeLblKJS97nNrhVqDx) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Sombrero Vaquero](https://open.spotify.com/album/3bb6JJOYua8dBvKeX5qFQt) | 3:29 |
-| 28 | [Jessica \- En Vivo](https://open.spotify.com/track/0HNpgMBlBmBRuKdeT0xHE7) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [En Vivo \(En Vivo at Centro de Espectaculos Rio Nilo / Guadalajara, MX\)](https://open.spotify.com/album/6WzJ8umxBq6Q1OA2Nw5Jyj) | 2:01 |
-| 29 | [Paloma Blanca](https://open.spotify.com/track/6Kmb4Ev2Zf2xBKvNW9KzWk) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:43 |
+| 27 | [Jessica \- En Vivo](https://open.spotify.com/track/0HNpgMBlBmBRuKdeT0xHE7) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [En Vivo \(En Vivo at Centro de Espectaculos Rio Nilo / Guadalajara, MX\)](https://open.spotify.com/album/6WzJ8umxBq6Q1OA2Nw5Jyj) | 2:01 |
+| 28 | [Sombrero Vaquero](https://open.spotify.com/track/4qB4EeLblKJS97nNrhVqDx) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Sombrero Vaquero](https://open.spotify.com/album/3bb6JJOYua8dBvKeX5qFQt) | 3:29 |
+| 29 | [Pachuco Bailarín](https://open.spotify.com/track/4Oqo3cgcbpvuEPnci1wnYp) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 3:31 |
 | 30 | [La Cuca](https://open.spotify.com/track/6f5rIK5usr8AueDudM81y7) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 3:40 |
-| 31 | [Pachuco Bailarín](https://open.spotify.com/track/4Oqo3cgcbpvuEPnci1wnYp) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 3:31 |
+| 31 | [Paloma Blanca](https://open.spotify.com/track/6Kmb4Ev2Zf2xBKvNW9KzWk) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:43 |
 | 32 | [Presentación \- En Vivo](https://open.spotify.com/track/2DsMc0M1oyDdRX5zGj9NB7) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [En Vivo](https://open.spotify.com/album/4ah8hW8051zINZLlMnH7Eu) | 1:39 |
-| 33 | [Que Güera \- Remastered 2025](https://open.spotify.com/track/7KuEJrkfPEkae82i9jw6UJ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie \(Remastered 2025\)](https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK) | 3:23 |
-| 34 | [Mambo No\. 8](https://open.spotify.com/track/3oksN9Ro962hykmA6Fm7LJ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [¡Todos a Bailar! Mambos al Estilo de El Mexicano](https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM) | 3:36 |
-| 35 | [Burbujas De Amor](https://open.spotify.com/track/5B3DTCOYLv4zgEnAsGpT7d) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 4:53 |
+| 33 | [Burbujas De Amor](https://open.spotify.com/track/5B3DTCOYLv4zgEnAsGpT7d) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 4:53 |
+| 34 | [Que Güera \- Remastered 2025](https://open.spotify.com/track/7KuEJrkfPEkae82i9jw6UJ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie \(Remastered 2025\)](https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK) | 3:23 |
+| 35 | [Mambo No\. 8](https://open.spotify.com/track/3oksN9Ro962hykmA6Fm7LJ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [¡Todos a Bailar! Mambos al Estilo de El Mexicano](https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM) | 3:36 |
 | 36 | [Fue Su Voz](https://open.spotify.com/track/2gmplUqmPHJ1jPvznz5zyM) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:27 |
-| 37 | [El Zapato Mocho \- Remastered 2025](https://open.spotify.com/track/3z7p50wtIOKopgIBiXeiCi) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie \(Remastered 2025\)](https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK) | 3:43 |
-| 38 | [E, O, E.](https://open.spotify.com/track/1Ac2ySphUSkoVXlBH7JYNd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:20 |
+| 37 | [E, O, E.](https://open.spotify.com/track/1Ac2ySphUSkoVXlBH7JYNd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:20 |
+| 38 | [El Zapato Mocho \- Remastered 2025](https://open.spotify.com/track/3z7p50wtIOKopgIBiXeiCi) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Fuera de Serie \(Remastered 2025\)](https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK) | 3:43 |
 | 39 | [Mambo Del Ruletero](https://open.spotify.com/track/6fpkov2nvKnloFZTB1UhXj) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [¡Todos a Bailar! Mambos al Estilo de El Mexicano](https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM) | 4:16 |
 | 40 | [El Niño Travieso](https://open.spotify.com/track/0tzfM9kn40qyAYKmufLwOV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:24 |
 | 41 | [El Último Beso](https://open.spotify.com/track/41jgSR0JuToMNSF41Wi7uJ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 49 | [Comprate Un Perro](https://open.spotify.com/track/4GzPGUX07cLRKp25GZQNC3) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [15 Éxitos](https://open.spotify.com/album/5scHTQG7vYBjhl4pC8GU89) | 4:06 |
 | 50 | [La Parabólica \- Remastered 2025](https://open.spotify.com/track/1yq9tpJXnl7Oi44D52KeGc) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Cumbias Ya Llegó..\. \(Remastered 2025\)](https://open.spotify.com/album/3eoxXKcNCOco45P0fqoakR) | 3:19 |
 
-Snapshot ID: `avpHgAAAAABWl4v5ks39TAp57tsEYeCx`
+Snapshot ID: `avzqgAAAAAChZrema1XuX24F6Ek2D18e`

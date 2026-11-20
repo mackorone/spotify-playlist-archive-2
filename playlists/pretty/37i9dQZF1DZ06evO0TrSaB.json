@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAD10jjvuvXGM/gG+aHFVEhl",
+  "snapshot_id": "avzqgAAAAACMZRZ9U33MRbvgT/GzUZ/H",
   "tracks": [
     {
       "added_at": null,
@@ -199,54 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illustrations",
-        "url": "https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 174700,
-      "name": "When We Jump",
-      "url": "https://open.spotify.com/track/5YNYX1iBbTXfbFDZLrPXEU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serial Romantic",
-        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 217428,
-      "name": "Out Of My Body",
-      "url": "https://open.spotify.com/track/5nayW8BHKzHEOvNBqrzw5b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Southern Delicacy",
-        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 160843,
-      "name": "Willie's Interlude",
-      "url": "https://open.spotify.com/track/3DsCXUEP6VLzzMUEZ1SbBA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anniversary (A Cappella)",
         "url": "https://open.spotify.com/album/2caHF1IoGDMIvLkkDvCPKM"
       },
@@ -283,6 +235,54 @@
       "duration_ms": 147375,
       "name": "Anniversary - A Cappella",
       "url": "https://open.spotify.com/track/4x2V5wl5swFlqyxOWDLIWv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serial Romantic",
+        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 217428,
+      "name": "Out Of My Body",
+      "url": "https://open.spotify.com/track/5nayW8BHKzHEOvNBqrzw5b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Southern Delicacy",
+        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 160843,
+      "name": "Willie's Interlude",
+      "url": "https://open.spotify.com/track/3DsCXUEP6VLzzMUEZ1SbBA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illustrations",
+        "url": "https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 174700,
+      "name": "When We Jump",
+      "url": "https://open.spotify.com/track/5YNYX1iBbTXfbFDZLrPXEU"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 123810,
-      "name": "Man In Your Bed",
-      "url": "https://open.spotify.com/track/2NNJpaJ8DRYJy5IY35MQWE"
+      "duration_ms": 230635,
+      "name": "Pay For My Drink",
+      "url": "https://open.spotify.com/track/50AACYCHYrN9v3r2NmZ1Am"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 230635,
-      "name": "Pay For My Drink",
-      "url": "https://open.spotify.com/track/50AACYCHYrN9v3r2NmZ1Am"
+      "duration_ms": 123810,
+      "name": "Man In Your Bed",
+      "url": "https://open.spotify.com/track/2NNJpaJ8DRYJy5IY35MQWE"
     },
     {
       "added_at": null,
@@ -435,22 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Few Things",
-        "url": "https://open.spotify.com/album/0byh8hdr3vZyWZ8mfeu8fN"
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj"
       },
       "artists": [
         {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
         },
         {
           "name": "Jai'Len Josey",
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 201600,
-      "name": "A Few Things",
-      "url": "https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE"
+      "duration_ms": 224266,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/4HsA9X8NaDP3G1NkEL8xOQ"
     },
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj"
+        "name": "A Few Things",
+        "url": "https://open.spotify.com/album/0byh8hdr3vZyWZ8mfeu8fN"
       },
       "artists": [
         {
-          "name": "MC Lyte",
-          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
         },
         {
           "name": "Jai'Len Josey",
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 224266,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/4HsA9X8NaDP3G1NkEL8xOQ"
+      "duration_ms": 201600,
+      "name": "A Few Things",
+      "url": "https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE"
     },
     {
       "added_at": null,

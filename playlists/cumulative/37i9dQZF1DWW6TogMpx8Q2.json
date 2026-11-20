@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-31",
-  "description": "Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers.  Cover: Vincy \u8607\u8a60\u6df3",
+  "description": "Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers.  Cover: MC\u5f35\u5929\u8ce6 ",
   "name": "CantoVision",
   "tracks": [
     {
@@ -3150,6 +3150,24 @@
       "duration_ms": 216632,
       "name": "\u7279\u52d9\u5360\u58eb\u5321 Mad World",
       "url": "https://open.spotify.com/track/10Aoi1ETfryNh5JuwslwDG"
+    },
+    {
+      "album": {
+        "name": "\u7528\u6b66\u4e4b\u5730",
+        "url": "https://open.spotify.com/album/6lggdYW766WprkQrhNkV00"
+      },
+      "artists": [
+        {
+          "name": "FYP",
+          "url": "https://open.spotify.com/artist/4p0rkZqkBevR2hDsNmOLRM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241203,
+      "name": "\u7528\u6b66\u4e4b\u5730",
+      "url": "https://open.spotify.com/track/0Cmjwr3UJ6yJnsQ1Df5fhk"
     },
     {
       "album": {

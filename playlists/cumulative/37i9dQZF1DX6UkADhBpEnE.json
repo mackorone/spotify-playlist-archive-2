@@ -310,7 +310,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 151072,
       "name": "A Good Day",
       "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 191107,
       "name": "AGUA",
       "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 152319,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 170400,
       "name": "bad taste",
       "url": "https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs"
@@ -2001,6 +2001,28 @@
     },
     {
       "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
       },
@@ -2332,7 +2354,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 217492,
       "name": "Bunny Girl",
       "url": "https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h"
@@ -3640,7 +3662,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 230503,
       "name": "Danceteria Afterhours",
       "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
@@ -3872,6 +3894,24 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "album": {
+        "name": "Destiny Journeys",
+        "url": "https://open.spotify.com/album/44KgY0Lw4LwXwK0xpU7TZD"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238271,
+      "name": "Destiny Journeys",
+      "url": "https://open.spotify.com/track/0KW4FOvRBxXSsRBOwHWL42"
     },
     {
       "album": {
@@ -7408,7 +7448,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 211330,
       "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
@@ -7806,7 +7846,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 170625,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi"
@@ -8735,6 +8775,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m Good (From The Movie \u201cGOAT\u201d)",
+        "url": "https://open.spotify.com/album/45mBhso0bpjGCjrHoQ9Tpa"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "I\u2019m Good - From The Movie \u201cGOAT\u201d",
+      "url": "https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28"
+    },
+    {
+      "album": {
         "name": "I\u2019m your girl right?",
         "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
       },
@@ -9478,7 +9536,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 196000,
       "name": "Last Thing You Need (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
@@ -10786,7 +10844,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 165339,
       "name": "Met my match",
       "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
@@ -11754,7 +11812,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 140520,
       "name": "Nobody Wanna Dance Anymore",
       "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
@@ -12508,7 +12566,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 201331,
       "name": "Party",
       "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
@@ -13830,7 +13888,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-07",
+      "date_removed": null,
       "duration_ms": 237836,
       "name": "Same Blue",
       "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
@@ -14266,7 +14324,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195840,
       "name": "Sexy Magic (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
@@ -14744,7 +14802,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178469,
       "name": "small talk",
       "url": "https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr"
@@ -14770,7 +14828,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169981,
       "name": "SMALL TOWN",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
@@ -14850,7 +14908,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 249613,
       "name": "Snakeskin Boots",
       "url": "https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729"
@@ -15194,7 +15252,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
@@ -15442,7 +15500,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185999,
       "name": "Stay (If You Wanna Dance)",
       "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
@@ -16418,7 +16476,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 171104,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
@@ -17392,7 +17450,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 231554,
       "name": "Tom and Jerry",
       "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
@@ -17494,7 +17552,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 196509,
       "name": "Too Cute To Be Lonely",
       "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
@@ -19242,7 +19300,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 230104,
       "name": "World's Greatest!",
       "url": "https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT"
@@ -19296,7 +19354,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 194103,
       "name": "Write Me A Letter",
       "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
@@ -19426,7 +19484,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 181693,
       "name": "You!Joy!Parade!",
       "url": "https://open.spotify.com/track/74ThDjhS3BXmghci7Qbhv9"
@@ -19850,6 +19908,24 @@
       "duration_ms": 206200,
       "name": "\u3055\u3059\u3089\u3044",
       "url": "https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm"
+    },
+    {
+      "album": {
+        "name": "\u3055\u306a\u304c\u3089\u30ed\u30f3\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/250LpstRy6HPHxPaABRjUm"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183850,
+      "name": "\u3055\u306a\u304c\u3089\u30ed\u30f3\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/4fksLHcbww26MwMJ2FdLqr"
     },
     {
       "album": {
@@ -20442,7 +20518,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 201293,
       "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
       "url": "https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg"
@@ -20460,7 +20536,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 272965,
       "name": "\u30b1\u30bb\u30e9\u30bb\u30e9",
       "url": "https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4"
@@ -20640,7 +20716,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 226557,
       "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
@@ -21240,7 +21316,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 189854,
       "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
       "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
@@ -21460,7 +21536,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 235777,
       "name": "\u30eb\u30df\u30ca\u30b9 - Luminous",
       "url": "https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"
@@ -21814,7 +21890,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 194164,
       "name": "\u52c7\u8005",
       "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
@@ -22590,7 +22666,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 238720,
       "name": "\u71c8",
       "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
@@ -22980,7 +23056,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 246699,
       "name": "\u82b1",
       "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
@@ -23308,6 +23384,24 @@
       "duration_ms": 206107,
       "name": "\u98df\u5353",
       "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+    },
+    {
+      "album": {
+        "name": "\u9b3c\u4e8b",
+        "url": "https://open.spotify.com/album/7IxbIYQOOQKgoQZzpFTArJ"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180097,
+      "name": "\u9b3c\u4e8b",
+      "url": "https://open.spotify.com/track/4P0BIgJzLRQXooTDJFakwU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6UkADhBpEnE"

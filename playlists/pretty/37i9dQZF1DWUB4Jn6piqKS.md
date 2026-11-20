@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,911 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,928 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 50 | [Nothing But A Heartache](https://open.spotify.com/track/0QeeVcFYQPpqO4KHeOrzPK) | [The Flirtations](https://open.spotify.com/artist/3Hra0KQr00Pe9oqmQdVtvp) | [The Northern Soul Scene](https://open.spotify.com/album/67UoZsODIDU1g4gN1uJmSk) | 2:41 |
 | 51 | [You Didn't Say A Word](https://open.spotify.com/track/5nmNOKN0PUHoxpuGbkO5Jl) | [Yvonne Baker](https://open.spotify.com/artist/0WaDGCDKeOn5C9UKNec3MD) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:38 |
 | 52 | [I Walked Away](https://open.spotify.com/track/6pbrgU3wtMWM4FkyOtZnnb) | [Bobby Paris](https://open.spotify.com/artist/5AEzIXzU4LV8Q3MKTKUXv9) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 3:10 |
-| 53 | [You Don't Love Me](https://open.spotify.com/track/68uVSzhYCHlQK59uhOe1wm) | [The Epitome Of Sound](https://open.spotify.com/artist/6sizzJIZoe7uwMw110WH0Z) | [You Don't Love Me](https://open.spotify.com/album/7zvspDmbM2UD3vAgTAkD7I) | 2:44 |
-| 54 | [The Who Who Song \(Nobody But My Sweet Baby\)](https://open.spotify.com/track/1C4sO5BITSyC3q8zsgsxBd) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 2:51 |
+| 53 | [The Who Who Song \(Nobody But My Sweet Baby\)](https://open.spotify.com/track/1C4sO5BITSyC3q8zsgsxBd) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 2:51 |
+| 54 | [You Don't Love Me](https://open.spotify.com/track/68uVSzhYCHlQK59uhOe1wm) | [The Epitome Of Sound](https://open.spotify.com/artist/6sizzJIZoe7uwMw110WH0Z) | [You Don't Love Me](https://open.spotify.com/album/7zvspDmbM2UD3vAgTAkD7I) | 2:44 |
 | 55 | [It'll Never Be Over For Me](https://open.spotify.com/track/27FZzhVCtPLwtYrnVp0npA) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [Something Bad On My Mind](https://open.spotify.com/album/0xpALbNypvcqlsNVaprqtc) | 2:55 |
 | 56 | [In Orbit](https://open.spotify.com/track/1EiF7TFtceLo52Ds13eBhX) | [Joy Lovejoy](https://open.spotify.com/artist/4XJFw8T6JwLYIjCGWR6VUk) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:23 |
 | 57 | [Better Use Your Head](https://open.spotify.com/track/1XGHVTHZ5JwPSIkyA4naB3) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:53 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 61 | [I Can't Hold On](https://open.spotify.com/track/6iHL1iozNGVexinzZwacyj) | [Lorraine Chandler](https://open.spotify.com/artist/0tNm55o29GmXLI4J5QptKh) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 2:24 |
 | 62 | [Live It Up](https://open.spotify.com/track/19Wks5GfADcWu3DbumZVdO) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 2:24 |
 | 63 | [Walkin' up a One Way Street](https://open.spotify.com/track/4PBUEbH92briGYuDbnHZuw) | [Willie Tee](https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab) | [Walking up a One Way Street](https://open.spotify.com/album/4eNiXrq0bdXDcZd892i54P) | 2:41 |
-| 64 | [Love Factory](https://open.spotify.com/track/6FDcVkmQ1buSvITzLG3Vec) | [Eloise Laws](https://open.spotify.com/artist/4RJjnfYCmudnzG5AyMVnte) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 3:27 |
-| 65 | [Looking For You](https://open.spotify.com/track/0EFrOXwsP6U6HKDKisN6Y7) | [Garnet Mimms](https://open.spotify.com/artist/4ZCIgBrYKaZyj4j1H0Lr4E) | [Warm And Soulful](https://open.spotify.com/album/5tU3m1c7UMAN6mCWQJTbyZ) | 2:25 |
+| 64 | [Looking For You](https://open.spotify.com/track/0EFrOXwsP6U6HKDKisN6Y7) | [Garnet Mimms](https://open.spotify.com/artist/4ZCIgBrYKaZyj4j1H0Lr4E) | [Warm And Soulful](https://open.spotify.com/album/5tU3m1c7UMAN6mCWQJTbyZ) | 2:25 |
+| 65 | [Love Factory](https://open.spotify.com/track/6FDcVkmQ1buSvITzLG3Vec) | [Eloise Laws](https://open.spotify.com/artist/4RJjnfYCmudnzG5AyMVnte) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 3:27 |
 | 66 | [Suspicion](https://open.spotify.com/track/7neHlDOzLf0qFgEzeK8L8t) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 3:04 |
 | 67 | [Gotta Have Your Love](https://open.spotify.com/track/4BkHHw26fIlHEdcUqeCkgv) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:16 |
 | 68 | [You Don't Know Where Your Interest Lies \- Single Version](https://open.spotify.com/track/7aTc1LlMPysvBW3XOotQEt) | [Dana Valery](https://open.spotify.com/artist/3yck88MVltjEcA4CAO4dra) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 99 | [Afternoon of the Rhino](https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW) | [The Mike Post Coalition](https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:19 |
 | 100 | [This Heart of Mine](https://open.spotify.com/track/1RGWRD9vqwgu7APmedrpJs) | [The Artistics](https://open.spotify.com/artist/2iy394hZHUSLDMIxAnrz8x) | [Northern Soul: Keep the Faith!](https://open.spotify.com/album/4syXcIzY2okMdzgktYYVkJ) | 2:29 |
 
-Snapshot ID: `AAAAAO560sFuDdRTivR34IiDbByZDXsC`
+Snapshot ID: `AAAAAIBwL/EoER+RSp/6Gq+WDoKipqv7`

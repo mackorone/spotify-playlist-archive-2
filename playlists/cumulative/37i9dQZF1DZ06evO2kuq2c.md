@@ -4,13 +4,14 @@
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 26 min
+89 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Match Made in Heaven](https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:48 | 2022-05-30 |  |
+| [a new moral low ground](https://open.spotify.com/track/12wfWxVOLJSDBOSYecB7Fh) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/50H17CcYxdWF0jwNYrVPvl) | 3:31 | 2026-11-20 |  |
 | [a new moral low ground](https://open.spotify.com/track/2LqlhqFm6R4b455OGfsU81) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [a new moral low ground](https://open.spotify.com/album/3MIWFjKy0AuyJP2Z6PfNGy) | 3:31 | 2022-10-13 | 2022-11-06 |
-| [a new moral low ground](https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:31 | 2022-11-05 |  |
+| [a new moral low ground](https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:31 | 2022-11-05 | 2026-11-20 |
 | [A Wasted Hymn](https://open.spotify.com/track/7HxPeiu2gKZbGXWJA0bzHn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:34 | 2022-09-10 | 2022-09-12 |
 | [All Love is Lost](https://open.spotify.com/track/7mVy5TK92iX36crfo0hSWH) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 4:20 | 2022-06-01 | 2022-10-09 |
 | [all the love in the world](https://open.spotify.com/track/6m1mPWWQTiOp2Daf024oCW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:01 | 2022-10-22 | 2022-10-28 |
@@ -49,7 +50,8 @@
 | [Dethroned](https://open.spotify.com/track/2XvLhlHXJID2ORTL4EBlsW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 3:06 | 2022-06-25 | 2022-06-27 |
 | [Devil's Island](https://open.spotify.com/track/7E72zJebtIL3QHjXZOBk3d) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:06 | 2022-05-30 | 2022-12-08 |
 | [Discourse Is Dead](https://open.spotify.com/track/3XFqW9PbzMBy6wV06egJQ2) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:46 | 2022-05-30 | 2022-10-05 |
-| [doomscrolling](https://open.spotify.com/track/12lkUbhW7B4dZ46xHoT9Sj) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:21 | 2022-10-22 |  |
+| [doomscrolling](https://open.spotify.com/track/12lkUbhW7B4dZ46xHoT9Sj) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:21 | 2022-10-22 | 2026-11-20 |
+| [doomscrolling](https://open.spotify.com/track/7rlzstow91FQCA9EQX0d61) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/50H17CcYxdWF0jwNYrVPvl) | 4:21 | 2026-11-20 |  |
 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:07 | 2022-05-30 |  |
 | [Downfall](https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 4:04 | 2022-05-30 |  |
 | [Early Grave](https://open.spotify.com/track/4soE6F9djLRl3OwQyKd3p2) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 3:32 | 2022-05-30 |  |

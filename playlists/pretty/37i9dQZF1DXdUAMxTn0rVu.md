@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, 2000s underground hip\-hop scene\. Cover: J Dilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,551 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,609 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 28 | [Your Fuckin’ Head Split](https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9) | [Necro](https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7) | [I Need Drugs](https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f) | 3:02 |
 | 29 | [So Far to Go](https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 5:36 |
 | 30 | [Mastermind](https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz) | [Deltron 3030](https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Dan The Automator](https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01), [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Deltron 3030](https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye) | 3:34 |
-| 31 | [Just Begun \(feat\. Jay Electronica, J\. Cole and Mos Def\)](https://open.spotify.com/track/4lHN90buToyId0wJsdl7ij) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Hi\-Tek](https://open.spotify.com/artist/7cG9Sjg2u3gbJBnWM8XgKS) | [Revolutions Per Minute](https://open.spotify.com/album/3uwRp5ehO2wWRBKcpjjQdR) | 3:47 |
-| 32 | [Scary Movies](https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Game Tight](https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M) | 3:45 |
+| 31 | [Scary Movies](https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Game Tight](https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M) | 3:45 |
+| 32 | [Just Begun \(feat\. Jay Electronica, J\. Cole and Mos Def\)](https://open.spotify.com/track/4lHN90buToyId0wJsdl7ij) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Hi\-Tek](https://open.spotify.com/artist/7cG9Sjg2u3gbJBnWM8XgKS) | [Revolutions Per Minute](https://open.spotify.com/album/3uwRp5ehO2wWRBKcpjjQdR) | 3:47 |
 | 33 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 |
 | 34 | [Peruvian Cocaine](https://open.spotify.com/track/3UFQM2oW4KXP3ZZ3jtBx2P) | [Immortal Technique](https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa), [Tonedeff](https://open.spotify.com/artist/6tJRz44hifa2rNseM7RoTt), [Pumpkinhead](https://open.spotify.com/artist/6DlRKPBLhSYo0KbxVPljBk), [Poison Pen](https://open.spotify.com/artist/5Pm1ivc6SEmNCl6Z8oXVGi), [Loucipher](https://open.spotify.com/artist/54rUhWtGTfR3GMKNyGXyRW), [Diabolic](https://open.spotify.com/artist/32syImTOvzksQre9uRT2L8), [C\-Rayz Walz](https://open.spotify.com/artist/1l4hfWLBSaYjCO8E0lzASA) | [Revolutionary Vol\. 2](https://open.spotify.com/album/5xtkb5z9PgR0dmIf8WkNT0) | 4:48 |
 | 35 | [Won't Do](https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [Take a Walk](https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Apocalypse](https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 5:07 |
 | 50 | [Blue Flowers](https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt) | [Dr\. Octagon](https://open.spotify.com/artist/7dr3cSEOIZ6tBrm4y1wsnr) | [Dr\. Octagonecologyst](https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW) | 3:17 |
 
-Snapshot ID: `AAAAAMVIA9yRO1YIITRUHbih+dZ7tKyx`
+Snapshot ID: `AAAAAJqSgAMjFVwyh7BekbP86CgLSG4z`

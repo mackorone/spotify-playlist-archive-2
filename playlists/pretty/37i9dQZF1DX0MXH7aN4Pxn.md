@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,168 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,112 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 51 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 |
 | 52 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 |
 | 53 | [Take U](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Take U](https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u) | 2:42 |
-| 54 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
-| 55 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 54 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 55 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
 | 56 | [Blind Faith](https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:53 |
 | 57 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 |
 | 58 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 80 | [Look Good](https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk) | [Ethan Walsh](https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT) | [Look Good](https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf) | 2:14 |
 | 81 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
 | 82 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 |
-| 83 | [Divine](https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Divine](https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI) | 2:43 |
-| 84 | [Running Around](https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc) | 2:04 |
+| 83 | [Running Around](https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc) | 2:04 |
+| 84 | [Divine](https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Divine](https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI) | 2:43 |
 | 85 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
 | 86 | [Beat Is Jumping](https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Beat Is Jumping](https://open.spotify.com/album/3W210elro9LvnY46RJBNAn) | 2:19 |
 | 87 | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Lovers In A Past Life \(with Rag'n'Bone Man\)](https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B) | 2:40 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 96 | [They Don't Know \- Radio Edit](https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [They Don't Know \(Radio Edit\)](https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV) | 2:41 |
 | 97 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 |
 | 98 | [Over You](https://open.spotify.com/track/0GWpFejiwi53OSfiyXyIDJ) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Over You](https://open.spotify.com/album/5HajT51f4NCbAIANcVrlIe) | 2:42 |
-| 99 | [Don’t Forget My Love](https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don’t Forget My Love](https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8) | 3:19 |
-| 100 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 |
+| 99 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 |
+| 100 | [Don’t Forget My Love](https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don’t Forget My Love](https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8) | 3:19 |
 
-Snapshot ID: `AAAAAMM/cz98dbxDmx7xDyPNaemxmzsf`
+Snapshot ID: `AAAAAJKf1vKz2Uwd80ygalD87KaREggK`

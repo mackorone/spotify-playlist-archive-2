@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 150227,
+  "num_followers": 150239,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN1qlbHB4pkipfHeMmy1d5DAbUNY",
+  "snapshot_id": "AAAAAH2df/m1jDNivGNtIoCIdBF6TdI+",
   "tracks": [
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "L3tra",
+        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 199700,
+      "name": "Side Bitch",
+      "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Gan-Ga (Remix)",
         "url": "https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK"
       },
@@ -1851,18 +1867,22 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "L3tra",
-        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
+        "name": "Si Tu Novio Te Deja Sola",
+        "url": "https://open.spotify.com/album/4gKs7N7J13JBxm7GYBLFEU"
       },
       "artists": [
         {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 199700,
-      "name": "Side Bitch",
-      "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
+      "duration_ms": 243560,
+      "name": "Si Tu Novio Te Deja Sola",
+      "url": "https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1899,26 +1919,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Si Tu Novio Te Deja Sola",
-        "url": "https://open.spotify.com/album/4gKs7N7J13JBxm7GYBLFEU"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Si Tu Novio Te Deja Sola",
-      "url": "https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Flow Cabron",
         "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
       },
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "LowKey",
-        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "LowKey",
-      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Kobe En LA",
         "url": "https://open.spotify.com/album/31op15nAweoWywt7aBkY4z"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 225786,
       "name": "Kobe En LA",
       "url": "https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "LowKey",
+        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "LowKey",
+      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2211,22 +2211,18 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/0AAxqrygloVXEathVtYauj"
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/1058NK2KNeZKPLS7k4riGS"
       },
       "artists": [
         {
           "name": "Bryant Myers",
           "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/5MNS5FF4LrTX0jIaI0gory"
+      "duration_ms": 217130,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/56aKqvLJGEsJgCXvczNv0i"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2303,18 +2299,22 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "WOW",
-        "url": "https://open.spotify.com/album/1058NK2KNeZKPLS7k4riGS"
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0AAxqrygloVXEathVtYauj"
       },
       "artists": [
         {
           "name": "Bryant Myers",
           "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 217130,
-      "name": "WOW",
-      "url": "https://open.spotify.com/track/56aKqvLJGEsJgCXvczNv0i"
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/5MNS5FF4LrTX0jIaI0gory"
     },
     {
       "added_at": "2024-08-19 19:01:43",

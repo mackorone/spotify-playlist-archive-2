@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "airport lounge",
+        "url": "https://open.spotify.com/album/7jDK6sly8TagsDRDmvY2wf"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160705,
+      "name": "airport lounge",
+      "url": "https://open.spotify.com/track/2y225iVzB8I0koqZ7COics"
+    },
+    {
+      "album": {
         "name": "Airy Dream",
         "url": "https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3"
       },
@@ -1231,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "jam",
+        "url": "https://open.spotify.com/album/1IGSfmKKdBkR8CtmEZSAna"
+      },
+      "artists": [
+        {
+          "name": "agot-w",
+          "url": "https://open.spotify.com/artist/7kDzFaRe9l7To45Hqo6Kdh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144181,
+      "name": "jam",
+      "url": "https://open.spotify.com/track/0DXQWJ9zqvNVEcoqxsHlku"
+    },
+    {
+      "album": {
         "name": "keeping up appearances",
         "url": "https://open.spotify.com/album/6UMpw0PMtV73MOhsU5ohJ6"
       },
@@ -1352,6 +1388,24 @@
       "duration_ms": 150453,
       "name": "Leaves let go",
       "url": "https://open.spotify.com/track/69gKaqjIlVM49885vXqWLm"
+    },
+    {
+      "album": {
+        "name": "Light Dust",
+        "url": "https://open.spotify.com/album/0dD9cBb3tFDD21YwcnedpG"
+      },
+      "artists": [
+        {
+          "name": "Vague Memoir",
+          "url": "https://open.spotify.com/artist/6GEIDtnyP7xMniyDMGGDGk"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Light Dust",
+      "url": "https://open.spotify.com/track/5wcuJn25mToJixzPN1FPwt"
     },
     {
       "album": {

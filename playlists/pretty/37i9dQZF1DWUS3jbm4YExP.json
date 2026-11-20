@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 891591,
+  "num_followers": 891643,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALKyDbfA8cHCpYe2kfplTqCl2ZyX",
+  "snapshot_id": "AAAAAOjXuhbolDN2gtPbnQEer/h4DhQC",
   "tracks": [
     {
       "added_at": "2026-11-13 08:55:45",
@@ -491,18 +491,18 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
+        "name": "Tutankhamun",
+        "url": "https://open.spotify.com/album/1SKlV7QlKQLdCRX4RNJ7WS"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Tutankhamun",
+          "url": "https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH"
         }
       ],
-      "duration_ms": 278471,
-      "name": "Black Sand",
-      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+      "duration_ms": 214661,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/3m2nRBf1Z1Ef3vCBeR2npM"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Tutankhamun",
-        "url": "https://open.spotify.com/album/1SKlV7QlKQLdCRX4RNJ7WS"
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
       },
       "artists": [
         {
-          "name": "Tutankhamun",
-          "url": "https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 214661,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/3m2nRBf1Z1Ef3vCBeR2npM"
+      "duration_ms": 278471,
+      "name": "Black Sand",
+      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -919,18 +919,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
+        "name": "McCartney III Imagined",
+        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
       },
       "artists": [
         {
-          "name": "kujipy",
-          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 448947,
-      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
+      "duration_ms": 348859,
+      "name": "Pretty Boys (feat. Khruangbin)",
+      "url": "https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -951,22 +955,18 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "McCartney III Imagined",
-        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
+        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
         }
       ],
-      "duration_ms": 348859,
-      "name": "Pretty Boys (feat. Khruangbin)",
-      "url": "https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6"
+      "duration_ms": 448947,
+      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Weirdo",
-        "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 291932,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "Charanga",
         "url": "https://open.spotify.com/album/0GRIwTPZZAH3iibc3Yb7oe"
       },
@@ -1443,34 +1427,18 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+        "name": "Weirdo",
+        "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
       },
       "artists": [
         {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
         }
       ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
-        "name": "Caosmosi",
-        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
-      },
-      "artists": [
-        {
-          "name": "Addict Ameba",
-          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
-        }
-      ],
-      "duration_ms": 303733,
-      "name": "Caosmosi",
-      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
+      "duration_ms": 291932,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1491,6 +1459,38 @@
       "duration_ms": 206895,
       "name": "Azul Oro",
       "url": "https://open.spotify.com/track/3KgLKqA9FGDXXhhxHHgZvX"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Caosmosi",
+        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
+      },
+      "artists": [
+        {
+          "name": "Addict Ameba",
+          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
+        }
+      ],
+      "duration_ms": 303733,
+      "name": "Caosmosi",
+      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "you loved me like a fool",
-        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
+        "name": "Miniatures de auto rhythm",
+        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
       },
       "artists": [
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        },
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
         }
       ],
-      "duration_ms": 214638,
-      "name": "you loved me like a fool",
-      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
+      "duration_ms": 143617,
+      "name": "Faux savage",
+      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1663,18 +1659,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Miniatures de auto rhythm",
-        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
+        "name": "you loved me like a fool",
+        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
       },
       "artists": [
         {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
         }
       ],
-      "duration_ms": 143617,
-      "name": "Faux savage",
-      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
+      "duration_ms": 214638,
+      "name": "you loved me like a fool",
+      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Calima",
-        "url": "https://open.spotify.com/album/09ZgnKiHJX0Eo7OVRNyHwR"
-      },
-      "artists": [
-        {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-        }
-      ],
-      "duration_ms": 186251,
-      "name": "Calima",
-      "url": "https://open.spotify.com/track/59fqP4UTf9yP7xLJLyBn1I"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "Space Echo (Analog Africa No. 20)",
         "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 188200,
       "name": "Corre Riba, Corre Baixo",
       "url": "https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Calima",
+        "url": "https://open.spotify.com/album/09ZgnKiHJX0Eo7OVRNyHwR"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 186251,
+      "name": "Calima",
+      "url": "https://open.spotify.com/track/59fqP4UTf9yP7xLJLyBn1I"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
+        "name": "The Return of\u2026",
+        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 224882,
+      "name": "Sunset Sound",
+      "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
         "name": "Thonga Lami (Gaudi Remix)",
         "url": "https://open.spotify.com/album/2rQLjfLvGU79IAD4eRBNhL"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 351124,
       "name": "Thonga Lami - Gaudi Remix",
       "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
-        "name": "The Return of\u2026",
-        "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 224882,
-      "name": "Sunset Sound",
-      "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Consider It Done",
-        "url": "https://open.spotify.com/album/4eRgGGaoaIFT4x9JymYsH3"
-      },
-      "artists": [
-        {
-          "name": "Cocobolo",
-          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
-        }
-      ],
-      "duration_ms": 195993,
-      "name": "Cocobolo",
-      "url": "https://open.spotify.com/track/7vtxV54DvYQDTSpAcFcjzZ"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "I Wanna Sleep In Your Arms / What's a Girl To Do",
         "url": "https://open.spotify.com/album/3KgSMLE6uMBDuNTjOwjDoA"
       },
@@ -2275,6 +2259,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
+        "name": "Consider It Done",
+        "url": "https://open.spotify.com/album/4eRgGGaoaIFT4x9JymYsH3"
+      },
+      "artists": [
+        {
+          "name": "Cocobolo",
+          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
+        }
+      ],
+      "duration_ms": 195993,
+      "name": "Cocobolo",
+      "url": "https://open.spotify.com/track/7vtxV54DvYQDTSpAcFcjzZ"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
         "name": "La N\u00famero Uno",
         "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
       },
@@ -2287,26 +2287,6 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
-        "name": "Ombak, Ombak",
-        "url": "https://open.spotify.com/album/4BuWyOgJi2Yooy0JrE0HUP"
-      },
-      "artists": [
-        {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
-        },
-        {
-          "name": "Ali",
-          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Ombak, Ombak",
-      "url": "https://open.spotify.com/track/3QXXfiedawWWQQUljBwh75"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2355,18 +2335,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Bassa Bassa",
-        "url": "https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj"
+        "name": "Ombak, Ombak",
+        "url": "https://open.spotify.com/album/4BuWyOgJi2Yooy0JrE0HUP"
       },
       "artists": [
         {
-          "name": "Jembaa Groove",
-          "url": "https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs"
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        },
+        {
+          "name": "Ali",
+          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
         }
       ],
-      "duration_ms": 301647,
-      "name": "Bassa Bassa",
-      "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
+      "duration_ms": 199250,
+      "name": "Ombak, Ombak",
+      "url": "https://open.spotify.com/track/3QXXfiedawWWQQUljBwh75"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2383,6 +2367,22 @@
       "duration_ms": 224564,
       "name": "Napoletana - Dance Rituals",
       "url": "https://open.spotify.com/track/6bEQ6Sr51Ij3p3NwlV8UwC"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Bassa Bassa",
+        "url": "https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj"
+      },
+      "artists": [
+        {
+          "name": "Jembaa Groove",
+          "url": "https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs"
+        }
+      ],
+      "duration_ms": 301647,
+      "name": "Bassa Bassa",
+      "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Various Bilongo",
-        "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
-      },
-      "artists": [
-        {
-          "name": "Kelenkye Band",
-          "url": "https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq"
-        }
-      ],
-      "duration_ms": 336133,
-      "name": "Jungle Music",
-      "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
       },
@@ -2451,18 +2435,18 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Mentallogenic",
-        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+        "name": "Various Bilongo",
+        "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
       },
       "artists": [
         {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+          "name": "Kelenkye Band",
+          "url": "https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq"
         }
       ],
-      "duration_ms": 259933,
-      "name": "Silky",
-      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
+      "duration_ms": 336133,
+      "name": "Jungle Music",
+      "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2487,18 +2471,18 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Ancients / It's Starting",
-        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
       },
       "artists": [
         {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
         }
       ],
-      "duration_ms": 309857,
-      "name": "It's Starting",
-      "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2515,6 +2499,22 @@
       "duration_ms": 326986,
       "name": "Entardecer",
       "url": "https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Ancients / It's Starting",
+        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "duration_ms": 309857,
+      "name": "It's Starting",
+      "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2607,6 +2607,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198767,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
         "name": "Magnolia Tree",
         "url": "https://open.spotify.com/album/0s8skAYOKtD2M7r6X9LptB"
       },
@@ -2623,22 +2639,6 @@
       "duration_ms": 168837,
       "name": "Magnolia Tree",
       "url": "https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
-        "name": "Los Santos y Pecadores",
-        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
-      },
-      "artists": [
-        {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
-        }
-      ],
-      "duration_ms": 198767,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
     }
   ],
   "unique_name": "Global Groove",

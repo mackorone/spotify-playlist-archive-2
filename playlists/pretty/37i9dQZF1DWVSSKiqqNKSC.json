@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 537248,
+  "num_followers": 537285,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBUW4pVXxk5FmwgU+n5BCoK4WDd",
+  "snapshot_id": "AAAAAIsyRWVOwkv4UjHdilHMuyt/dg+V",
   "tracks": [
     {
       "added_at": "2025-03-07 06:00:25",
@@ -111,22 +111,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "GUACHINEO",
-        "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
       },
       "artists": [
         {
-          "name": "Chocolate Mc",
-          "url": "https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb"
-        },
-        {
-          "name": "DJ Unic",
-          "url": "https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe"
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
         }
       ],
-      "duration_ms": 221538,
-      "name": "GuaChiNeo \u2013 Con La Punta del Pie - Reparto / Repaton Edit",
-      "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
+      "duration_ms": 258933,
+      "name": "Los Campeones De La Salsa",
+      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -163,18 +159,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
+        "name": "GUACHINEO",
+        "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
       },
       "artists": [
         {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+          "name": "Chocolate Mc",
+          "url": "https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb"
+        },
+        {
+          "name": "DJ Unic",
+          "url": "https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Los Campeones De La Salsa",
-      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
+      "duration_ms": 221538,
+      "name": "GuaChiNeo \u2013 Con La Punta del Pie - Reparto / Repaton Edit",
+      "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
     },
     {
       "added_at": "2025-03-07 06:00:25",

@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174683,
       "name": "AMANECIENDO",
       "url": "https://open.spotify.com/track/6UTEJY0rd0eXYcw1y9JwF1"
@@ -16250,7 +16250,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 124751,
       "name": "M\u00e1s k amigos",
       "url": "https://open.spotify.com/track/6UvuW0XIWJAJPCgNrzG7XG"
@@ -16386,6 +16386,36 @@
       "duration_ms": 176452,
       "name": "NA' CON NADIE",
       "url": "https://open.spotify.com/track/5SEMf0G4EgCoBCeeIoCMVo"
+    },
+    {
+      "album": {
+        "name": "NADA NUEVO",
+        "url": "https://open.spotify.com/album/6qhmOqYtH7T9AOsQ4lw5A3"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "QueHicisteBella",
+          "url": "https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193035,
+      "name": "NADA NUEVO",
+      "url": "https://open.spotify.com/track/3q0PcyldThxV6YfJsSAiEy"
     },
     {
       "album": {

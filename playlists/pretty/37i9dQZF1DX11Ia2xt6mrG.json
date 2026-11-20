@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair, BELCAST y Vela Beats en portada.",
-  "num_followers": 75326,
+  "num_followers": 75337,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALNWUEjMAVAQO/uHHbxRkUeWmJIe",
+  "snapshot_id": "AAAAAH4ulIUi+7vYbvekDiUblZHR3F6P",
   "tracks": [
     {
       "added_at": "2026-10-23 06:00:41",
@@ -515,22 +515,18 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "SUSTANCIAS EN MI CORAZON",
-        "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
       },
       "artists": [
-        {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
-        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 196875,
-      "name": "SUSTANCIAS EN MI CORAZON",
-      "url": "https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak"
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -555,18 +551,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+        "name": "SUSTANCIAS EN MI CORAZON",
+        "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
       },
       "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+      "duration_ms": 196875,
+      "name": "SUSTANCIAS EN MI CORAZON",
+      "url": "https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -907,6 +907,26 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "MOPUS",
+        "url": "https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+        },
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        }
+      ],
+      "duration_ms": 133124,
+      "name": "MOPUS",
+      "url": "https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "MOPUS",
-        "url": "https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Coronel",
-          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
-        },
-        {
-          "name": "Marcos Villalobos",
-          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
-        }
-      ],
-      "duration_ms": 133124,
-      "name": "MOPUS",
-      "url": "https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        }
+      ],
+      "duration_ms": 146976,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Space Girl",
         "url": "https://open.spotify.com/album/1XsU1vapTBjNZrgHn6lELd"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 228923,
       "name": "Space Girl",
       "url": "https://open.spotify.com/track/6lfv2xniDB0l6gCut41R4h"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "CAJETA",
-        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
-      },
-      "artists": [
-        {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
-        }
-      ],
-      "duration_ms": 146976,
-      "name": "CAJETA",
-      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Into Fire",
-        "url": "https://open.spotify.com/album/5f05Xy9yOtjjnOWTRlFatH"
-      },
-      "artists": [
-        {
-          "name": "Junkie Kid",
-          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
-        }
-      ],
-      "duration_ms": 190593,
-      "name": "Into Fire",
-      "url": "https://open.spotify.com/track/7y3Hx2O8sLmyenbQKv8VVv"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "Media Noche",
         "url": "https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 180545,
       "name": "Media Noche",
       "url": "https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "Into Fire",
+        "url": "https://open.spotify.com/album/5f05Xy9yOtjjnOWTRlFatH"
+      },
+      "artists": [
+        {
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        }
+      ],
+      "duration_ms": 190593,
+      "name": "Into Fire",
+      "url": "https://open.spotify.com/track/7y3Hx2O8sLmyenbQKv8VVv"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/7JxN0bScHWwFHijs5W9ISO"
+      },
+      "artists": [
+        {
+          "name": "Jordy Medina",
+          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4bksJo9DYSiXhq3fCCvEWd"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Living on Video (The Wookies Remix)",
         "url": "https://open.spotify.com/album/2z3kKzncLPsYHOTk2QhXzt"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 338181,
       "name": "Living on Video - The Wookies Remix",
       "url": "https://open.spotify.com/track/2JGthAWXjnTVQK8cwhvftv"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/7JxN0bScHWwFHijs5W9ISO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Medina",
-          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/4bksJo9DYSiXhq3fCCvEWd"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1647,30 +1647,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 169761,
-      "name": "Porque La Demora",
-      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "ESTAMOS READY",
         "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
       },
@@ -1691,6 +1667,30 @@
       "duration_ms": 214846,
       "name": "ESTAMOS READY",
       "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 169761,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
     },
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA"
+      },
+      "artists": [
+        {
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 195271,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Bandidas",
         "url": "https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 142714,
       "name": "Bandidas",
       "url": "https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA"
-      },
-      "artists": [
-        {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 195271,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5"
     },
     {
       "added_at": "2026-10-23 06:00:41",

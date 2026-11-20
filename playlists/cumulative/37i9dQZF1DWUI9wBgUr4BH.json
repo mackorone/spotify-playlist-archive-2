@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  SIENNA SPIRO",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  Eddy de Pretto",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -6648,7 +6648,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
@@ -10524,6 +10524,24 @@
       "duration_ms": 155409,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7M9zFplzAQzufH2AlJHCe8"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184685,
+      "name": "Memories (Souvenirs)",
+      "url": "https://open.spotify.com/track/1oiid8PZMSK5qVRuyEjYhE"
     },
     {
       "album": {
@@ -15569,6 +15587,24 @@
     },
     {
       "album": {
+        "name": "sous influence",
+        "url": "https://open.spotify.com/album/0AZn8rDfgVMki7b14gtJzP"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186908,
+      "name": "sous influence",
+      "url": "https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO"
+    },
+    {
+      "album": {
         "name": "SPA",
         "url": "https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd"
       },
@@ -15882,7 +15918,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198840,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"

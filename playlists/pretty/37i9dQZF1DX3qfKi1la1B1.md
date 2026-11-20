@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,958 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,963 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 12 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
 | 13 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 |
 | 14 | [The Meaning of Flowers](https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [The Meaning of Flowers](https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB) | 3:54 |
-| 15 | [LIGHT DESIGN: BLOOD ORANGE VERSION](https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 2:48 |
-| 16 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
+| 15 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
+| 16 | [LIGHT DESIGN: BLOOD ORANGE VERSION](https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 2:48 |
 | 17 | [My Guy](https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [My Guy](https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t) | 3:50 |
 | 18 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
 | 19 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 58 | [A Million More](https://open.spotify.com/track/70PorMN2mwLfWi3jKZ1jS3) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW) | 3:02 |
 | 59 | [Été à Montréal](https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Été à Montréal](https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4) | 5:27 |
 | 60 | [More Than Friends \(with HONNE\)](https://open.spotify.com/track/6Bxon4eYGOOwxXtSX9lhQo) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [More Than Friends \(with HONNE\)](https://open.spotify.com/album/6wfpyPte01RTckVpV3W1eq) | 4:09 |
-| 61 | [はだかのゆめ](https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 3:45 |
-| 62 | [June](https://open.spotify.com/track/038GKUaUj8NzPOy29kwPCq) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [June](https://open.spotify.com/album/6z9vD1SjXdYOsteoGQhC6S) | 3:38 |
+| 61 | [June](https://open.spotify.com/track/038GKUaUj8NzPOy29kwPCq) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [June](https://open.spotify.com/album/6z9vD1SjXdYOsteoGQhC6S) | 3:38 |
+| 62 | [はだかのゆめ](https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 3:45 |
 | 63 | [泡と文學](https://open.spotify.com/track/5bnFfYJoLdQjS44T1UVOK6) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT!](https://open.spotify.com/album/1VfpN0zgdLujwepllGpJVo) | 3:55 |
 | 64 | [Juri](https://open.spotify.com/track/62Tjv63LVohMHUeRBlRHny) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juri](https://open.spotify.com/album/71uxnuSOmEX77aEKhbIi2b) | 6:01 |
 | 65 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 71 | [Womb Glow](https://open.spotify.com/track/38SLp8yyu7783yCmeRI3bd) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Womb Glow](https://open.spotify.com/album/7u69VcuKFgZJwFcAagHUj1) | 3:27 |
 | 72 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/2gwPSato3oB35bIgtqmlz4) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/3pGrDkS6o6zIxCLDROBBpC) | 3:22 |
 | 73 | [Dim Stars](https://open.spotify.com/track/4uXMT0xoObBj422bkwOnXv) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Dim Stars / For Residue \(Extended\)](https://open.spotify.com/album/1apaH4pqZbqx7ETQ5BBdTw) | 3:54 |
-| 74 | [Porcelain](https://open.spotify.com/track/52ju45KU6tOpb0Nk8vRKN5) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [Porcelain](https://open.spotify.com/album/0zjxKP1Twv357I1SEpQDvC) | 2:17 |
-| 75 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 74 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 |
+| 75 | [Porcelain](https://open.spotify.com/track/52ju45KU6tOpb0Nk8vRKN5) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [Porcelain](https://open.spotify.com/album/0zjxKP1Twv357I1SEpQDvC) | 2:17 |
 
-Snapshot ID: `AAAAAOwoA0pRTOM1q4E4uSNrwVquUSro`
+Snapshot ID: `AAAAAJf9HmSJDJftFcNP/6zq0A0C+OmE`

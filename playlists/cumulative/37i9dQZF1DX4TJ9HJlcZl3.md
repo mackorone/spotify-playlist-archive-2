@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: TOAST CLUB
 
-134 songs - 8 hr 20 min
+135 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Diamond Eyes](https://open.spotify.com/track/69LWzGUpt3oe1URUCvjVbt) | [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Diamond Eyes](https://open.spotify.com/album/1TJiqXwjAVzyGtTjxXq6WM) | 6:42 | 2024-11-08 |  |
 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 | 2022-10-21 |  |
 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2023-01-27 | 2025-09-13 |
+| [Easy To](https://open.spotify.com/track/5kb2ypZiUv9DFfk9OqZMUe) | [Greg Shilling](https://open.spotify.com/artist/57B4Js3GmlGBgNJKeAdyba) | [Easy To](https://open.spotify.com/album/1bmNPIXkQ9Ew9HbcN2NMfg) | 3:17 | 2026-11-20 |  |
 | [Emily](https://open.spotify.com/track/0gAvRZbaMrnUsH8bmo8eg8) | [State Cows](https://open.spotify.com/artist/5O1GkdCKBSYzioJb4Jysiv), [Fredrik Lundgren](https://open.spotify.com/artist/5yRJ7bDOd8MvTsM8kaaWNz) | [High and Dry](https://open.spotify.com/album/6msgsUb3ZihJbdWcaSc7fd) | 3:54 | 2022-10-21 | 2023-08-12 |
 | [Everything To Everyone](https://open.spotify.com/track/50EIC4ElPCZgtyzwlmdNxj) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:45 | 2022-10-21 | 2023-04-29 |
 | [Fool](https://open.spotify.com/track/3I0zW3z9PalncwV0q0EoKS) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1KegDWdxHi7jT1gXURY6BO) | 3:49 | 2023-05-26 | 2023-08-19 |
@@ -46,7 +47,7 @@
 | [Hold On \(I Was Wrong\)](https://open.spotify.com/track/1lh13cQN0IwZDtjyXxrXFH) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Pop Therapy](https://open.spotify.com/album/4VvY6HIl5iFIAGhiFGamNR) | 3:43 | 2022-10-21 | 2023-09-09 |
 | [Hottie & the Yachty](https://open.spotify.com/track/1RXRgsZKh7arq9vB7Dt1Es) | [superGOODthings](https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp) | [Yachty Rock Feelings, Vol\. 2](https://open.spotify.com/album/1TKNnr6wdF5OVEnVMAlDwf) | 3:18 | 2022-10-21 |  |
 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/5fGWdNGGnvKrrHL6U7c1Vp) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Humility \(feat\. George Benson\)](https://open.spotify.com/album/3S41zT1PsTvoqHHEUv7xCc) | 3:17 | 2022-10-21 | 2024-03-02 |
-| [Hypnosis](https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 3:51 | 2022-10-21 |  |
+| [Hypnosis](https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 3:51 | 2022-10-21 | 2026-11-20 |
 | [I Could Use A Miracle](https://open.spotify.com/track/1GQjRQXL6YcxLhlNAuOkiJ) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Late Checkout](https://open.spotify.com/album/4Fj3lyL3PAxuYfCg7KQRS8) | 4:08 | 2022-10-21 | 2023-05-01 |
 | [I Could Use A Miracle](https://open.spotify.com/track/4ZOLpF93H8Rhl1eI8gFELd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Late Checkout](https://open.spotify.com/album/4OGaMVoEehxXtlBJ94bChD) | 4:08 | 2022-10-21 | 2023-08-19 |
 | [I Don't Think We Should Wait](https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 5:00 | 2022-10-21 | 2024-04-19 |

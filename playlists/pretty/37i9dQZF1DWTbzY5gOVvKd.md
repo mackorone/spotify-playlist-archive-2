@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,463 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,480 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 43 | [I Could Have Danced All Night](https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Stella Cole \(Extended Version\)](https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w) | 2:40 |
 | 44 | [Long Ago And Far Away](https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of..\. The Great American Songbook](https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg) | 3:12 |
 | 45 | [Mind If I Make Love To You](https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [True Love: A Celebration Of Cole Porter](https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR) | 3:29 |
-| 46 | [Sweet Pumpkin](https://open.spotify.com/track/5WQoFUcnsT6eulTlFkBpSN) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg), [Dave Baron](https://open.spotify.com/artist/37Wh12iAcmGIAWZv0rQyMB) | [Sweet Pumpkin](https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP) | 4:12 |
-| 47 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
-| 48 | [under a blanket of blue \(feat\. Jacob Chung\)](https://open.spotify.com/track/2kXMVlBLppsMe5u8QNkEmK) | [Richard Cortez](https://open.spotify.com/artist/1a2UhBSkoQW9aWceDP6RF4), [Jacob Chung](https://open.spotify.com/artist/0HMaTCDiKbVx1x6kzzAywv) | [under a blanket of blue](https://open.spotify.com/album/1PJlNK88NJuMHq4X6M73bG) | 4:21 |
+| 46 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
+| 47 | [under a blanket of blue \(feat\. Jacob Chung\)](https://open.spotify.com/track/2kXMVlBLppsMe5u8QNkEmK) | [Richard Cortez](https://open.spotify.com/artist/1a2UhBSkoQW9aWceDP6RF4), [Jacob Chung](https://open.spotify.com/artist/0HMaTCDiKbVx1x6kzzAywv) | [under a blanket of blue](https://open.spotify.com/album/1PJlNK88NJuMHq4X6M73bG) | 4:21 |
+| 48 | [Sweet Pumpkin](https://open.spotify.com/track/5WQoFUcnsT6eulTlFkBpSN) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg), [Dave Baron](https://open.spotify.com/artist/37Wh12iAcmGIAWZv0rQyMB) | [Sweet Pumpkin](https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP) | 4:12 |
 | 49 | [The Man I Love](https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W) | [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [On Holiday](https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4) | 4:45 |
-| 50 | [Someday My Prince Will Come](https://open.spotify.com/track/3OPwwBvSp8enPUTQwkCD5b) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm), [Yonatan Riklis](https://open.spotify.com/artist/29C71kGz0F3vD8SaosHlDs) | [Someday My Prince Will Come](https://open.spotify.com/album/5kQiYlpc7FF4zUKCsVUNpG) | 2:33 |
-| 51 | [A Song For You](https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Here's To You \- Songs For Shirley Horn](https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3) | 5:01 |
-| 52 | [There Is No Greater Love](https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 5:29 |
-| 53 | [Our Love Is Here to Stay](https://open.spotify.com/track/3WhovG1qE9Vi60bbm6ot9r) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD), [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Our Love Is Here to Stay](https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK) | 6:21 |
+| 50 | [A Song For You](https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Here's To You \- Songs For Shirley Horn](https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3) | 5:01 |
+| 51 | [Someday My Prince Will Come](https://open.spotify.com/track/3OPwwBvSp8enPUTQwkCD5b) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm), [Yonatan Riklis](https://open.spotify.com/artist/29C71kGz0F3vD8SaosHlDs) | [Someday My Prince Will Come](https://open.spotify.com/album/5kQiYlpc7FF4zUKCsVUNpG) | 2:33 |
+| 52 | [Our Love Is Here to Stay](https://open.spotify.com/track/3WhovG1qE9Vi60bbm6ot9r) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD), [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Our Love Is Here to Stay](https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK) | 6:21 |
+| 53 | [There Is No Greater Love](https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 5:29 |
 | 54 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 |
 | 55 | [I'll Love You Just The Same](https://open.spotify.com/track/55UPUHJa2r4j1ePS071Hik) | [Kieran Brown](https://open.spotify.com/artist/08MDssyQv84tafDVq5QmWJ) | [Loving You](https://open.spotify.com/album/3XSf8Unnnx22syZW9ILEtR) | 3:20 |
 | 56 | [From This Moment On](https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm), [Stefon Harris](https://open.spotify.com/artist/4FDlrSZ3mEv5Jvn482sCbZ), [Aaron Diehl](https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4), [Ali Jackson](https://open.spotify.com/artist/5tFHD1Y400oLuqNwWYICkD) | [Bria](https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N) | 5:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [A Sunday Kind Of Love](https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1GHLXZszNeMFgHiolSg50f) | 4:52 |
 | 100 | [But Beautiful](https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:55 |
 
-Snapshot ID: `AAAAAH2ddIQQvcLGAwaFna2RpfArulne`
+Snapshot ID: `AAAAAMjT8G+eMTzOPEEVjZJrmi7ZMGn+`

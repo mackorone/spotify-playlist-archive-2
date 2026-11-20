@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: Baby Daiz & Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,480 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,500 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 25 | [Pyramide](https://open.spotify.com/track/4PWc65kJf7tKzgINh7rQmK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Pyramide](https://open.spotify.com/album/2vlx06Uuwpy5gOIkgcdu6Y) | 3:28 |
 | 26 | [Yaya \(feat\. Aya Nakamura\)](https://open.spotify.com/track/7epR1NCOGkOtJBZtp5Vicl) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:28 |
 | 27 | [Bouwéy](https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr) | [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we), [Theomaa](https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6) | [CHORD](https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc) | 2:37 |
-| 28 | [JURU](https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [JURU](https://open.spotify.com/album/3W720O23MZOYE6UCI45HGE) | 3:08 |
+| 28 | [WAWA](https://open.spotify.com/track/462ovsCRTaqwyt2o35h8aM) | [Kodes](https://open.spotify.com/artist/3fnfvu19t4JYyEkRldXsO5), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [WAWA](https://open.spotify.com/album/2HS79kHfpCK7PG1scD5agg) | 2:40 |
 | 29 | [T.I.A \- A COLORS SHOW](https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [T.I.A \- A COLORS SHOW](https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B) | 3:41 |
-| 30 | [WAWA](https://open.spotify.com/track/462ovsCRTaqwyt2o35h8aM) | [Kodes](https://open.spotify.com/artist/3fnfvu19t4JYyEkRldXsO5), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [WAWA](https://open.spotify.com/album/2HS79kHfpCK7PG1scD5agg) | 2:40 |
+| 30 | [JURU](https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [JURU](https://open.spotify.com/album/3W720O23MZOYE6UCI45HGE) | 3:08 |
 | 31 | [Trop parler](https://open.spotify.com/track/3S1BOUUpxzHoSddKKsrg5z) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [MOOD3 \(Glish\)](https://open.spotify.com/album/1WnYvTAoJM8BfXj4DpLCYR) | 3:03 |
 | 32 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 |
 | 33 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 79 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
 | 80 | [Effrayés](https://open.spotify.com/track/4ocjzDW1Ub8o6qCt39UFmU) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX) | [Effrayés](https://open.spotify.com/album/0YxCQx9d9h4nvxLmX6BCjU) | 1:45 |
 
-Snapshot ID: `AAAAAMWQtCLkZsSHw8wjTHzpUUQVrOzk`
+Snapshot ID: `AAAAAIcEBcm7VwI7fhJrGYCCGs2ChgjJ`

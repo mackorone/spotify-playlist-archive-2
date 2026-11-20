@@ -5826,7 +5826,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 480745,
       "name": "He's Not Finished",
       "url": "https://open.spotify.com/track/5RIugJwYvISARrxEr2cVtH"
@@ -7132,6 +7132,28 @@
       "duration_ms": 284506,
       "name": "I Just Wanna Praise You",
       "url": "https://open.spotify.com/track/47Twm6RDa3kFdckvBDtNeR"
+    },
+    {
+      "album": {
+        "name": "I just wanna praise you (Live in DMV)",
+        "url": "https://open.spotify.com/album/0mat1gpnz9fBaHhsIAq3cS"
+      },
+      "artists": [
+        {
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
+        },
+        {
+          "name": "Charles Butler & Trinity",
+          "url": "https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325246,
+      "name": "I just wanna praise you - Live in DMV",
+      "url": "https://open.spotify.com/track/7poEQoXsafFCU7XPRWuuVO"
     },
     {
       "album": {
@@ -10894,6 +10916,24 @@
       "duration_ms": 249322,
       "name": "Never Let Me Down - Radio Edit",
       "url": "https://open.spotify.com/track/0vlEquyZ5kmN7BRAEd1prT"
+    },
+    {
+      "album": {
+        "name": "Restoration",
+        "url": "https://open.spotify.com/album/3SPTZMQB99UUAd75sCjSrR"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455893,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1EqJNsgG4cKCn2OleIFwrw"
     },
     {
       "album": {
@@ -17662,7 +17702,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 521360,
       "name": "You Know My Name",
       "url": "https://open.spotify.com/track/6RhbpIePM17MPqCqDAtOrS"

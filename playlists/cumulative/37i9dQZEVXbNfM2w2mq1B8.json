@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 190434,
       "name": "Amore",
       "url": "https://open.spotify.com/track/52wihuqtqPo45YtCLt3RUc"
@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 161428,
       "name": "BATUT",
       "url": "https://open.spotify.com/track/0cGSVOwXOlDrPpjV2lJthP"
@@ -17348,7 +17348,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 191666,
       "name": "Huligan",
       "url": "https://open.spotify.com/track/7DmFY1omu3EuBPYA31Rz3a"
@@ -18982,7 +18982,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174829,
       "name": "Iskam ot teb",
       "url": "https://open.spotify.com/track/2duH4aHmawCOPCayHzlLae"
@@ -19626,7 +19626,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 237209,
       "name": "JOHN CENA",
       "url": "https://open.spotify.com/track/3XMcyRsCLVAWdIqKrSvS8Z"
@@ -20738,7 +20738,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 200283,
       "name": "Koya",
       "url": "https://open.spotify.com/track/7AG1ltHqHdUl9BEaq6QniG"
@@ -20844,6 +20844,28 @@
       "duration_ms": 220800,
       "name": "Kupih ti sartse",
       "url": "https://open.spotify.com/track/1TIQ8BrPa6qiL7l3k4El2e"
+    },
+    {
+      "album": {
+        "name": "Notarialno zaveren",
+        "url": "https://open.spotify.com/album/6JOJoBWkGdgf1sCgtGyXjv"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        },
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220865,
+      "name": "Kupih ti sartse",
+      "url": "https://open.spotify.com/track/62SMKlwzBlmw3v79xsglNr"
     },
     {
       "album": {
@@ -26540,7 +26562,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 213913,
       "name": "Ne me zasluzhavash",
       "url": "https://open.spotify.com/track/4apCbBmGlsVy3VM2EeN2t6"
@@ -26598,7 +26620,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 246099,
       "name": "Ne se iztrivash",
       "url": "https://open.spotify.com/track/0eFXnAmevM77kRInrvf3G1"
@@ -31850,7 +31872,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 244013,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
@@ -32186,7 +32208,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169246,
       "name": "RIKOSHET",
       "url": "https://open.spotify.com/track/02zX0wgHupX29Nhq8RAEoy"
@@ -41372,7 +41394,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Vij Kakvo",
       "url": "https://open.spotify.com/track/1BWqkdZhZbKsWg6qzFsqbp"
@@ -41690,7 +41712,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203708,
       "name": "Vreme e",
       "url": "https://open.spotify.com/track/3JOJCNsWThMKEeWBXWDgxI"
@@ -41774,7 +41796,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 232500,
       "name": "Vsichko s teb",
       "url": "https://open.spotify.com/track/1MdKhH1ddozZ6h4rAUesKi"
@@ -45772,7 +45794,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217333,
       "name": "\u0414\u0430 \u0441\u0438 \u0442\u0443\u043a",
       "url": "https://open.spotify.com/track/5GeUnhnpp7NyhmBDlkvncd"
@@ -46008,7 +46030,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 153442,
       "name": "\u0414\u043e\u0431\u0440\u043e \u043d\u0435 \u0442\u0438 \u0436\u0435\u043b\u0430\u044f",
       "url": "https://open.spotify.com/track/0sDDJhectbYIl7OkvJ6es8"
@@ -46836,7 +46858,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 171219,
       "name": "\u0417\u0430\u0432\u044a\u0440\u0442\u0438 \u0413\u043e",
       "url": "https://open.spotify.com/track/3gW5D8UaWWLOb5E3YjI4YO"
@@ -48718,7 +48740,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 203624,
       "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp"
@@ -51346,7 +51368,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 230275,
       "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/4SAkhbT3gRgT0vMhxQnwtT"
@@ -53094,6 +53116,24 @@
       "duration_ms": 215855,
       "name": "\u0429\u0435 \u043e\u0441\u0442\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/0pXJh3HetGEwhbl0tJYbFW"
+    },
+    {
+      "album": {
+        "name": "\u0429\u0435 \u043e\u0442\u043a\u0430\u0447\u0430",
+        "url": "https://open.spotify.com/album/2TbWuTZeRlOMN3a8eu0TuE"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "\u0429\u0435 \u043e\u0442\u043a\u0430\u0447\u0430",
+      "url": "https://open.spotify.com/track/1EuOuNdDk5VZs9bh4Z49p7"
     },
     {
       "album": {

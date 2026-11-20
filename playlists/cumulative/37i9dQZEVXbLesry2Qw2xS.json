@@ -6695,6 +6695,28 @@
     },
     {
       "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
@@ -20702,7 +20724,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 269840,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"
@@ -26648,7 +26670,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155000,
       "name": "k e l m i k a s",
       "url": "https://open.spotify.com/track/2VZA7s7U6bGNk2aGI3AjL2"
@@ -28170,7 +28192,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 267000,
       "name": "Kolmest soovist viimane",
       "url": "https://open.spotify.com/track/1L5mFtFhrOae6PCBoEOQUz"
@@ -28712,7 +28734,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 175764,
       "name": "K\u00e4tu",
       "url": "https://open.spotify.com/track/5rfdCGDxFyDoGiJVzGW16z"
@@ -29028,7 +29050,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175522,
       "name": "l \u00f5 p u n i",
       "url": "https://open.spotify.com/track/7wNlxNoWGIgjrNAYdyJBDV"
@@ -32380,7 +32402,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 236307,
       "name": "Luukered",
       "url": "https://open.spotify.com/track/5egnjZzhZLuNXluoMmEC6t"
@@ -43228,7 +43250,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182419,
       "name": "pilvepiir",
       "url": "https://open.spotify.com/track/6OUOGlB4eeC6rW0QuRfGjv"
@@ -52922,7 +52944,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -52940,7 +52962,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -55048,7 +55070,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -56560,7 +56582,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 168461,
       "name": "TIPUS ULUB TUUL",
       "url": "https://open.spotify.com/track/1uVBbFLDRLGv0LV9sxiw4J"
@@ -60248,7 +60270,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 153703,
       "name": "WAIKUSE VALGE UDU",
       "url": "https://open.spotify.com/track/7LZFlYFtCNLAUlfHGhBZ26"
@@ -63750,7 +63772,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 207991,
       "name": "\u00fcks jook veel",
       "url": "https://open.spotify.com/track/4ViNY5spnBFthlYzifPFlq"

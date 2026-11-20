@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Ywaya Tajiri
+> What is your love language? Say it in Swahili\.  Cover: Maua Sama & Rayvanny
 
-399 songs - 22 hr 16 min
+402 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Calm Down](https://open.spotify.com/track/0y1v9W7ngxhLqQBcsWL7pN) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Calm Down](https://open.spotify.com/album/6LrYNVo234UYbCjg99juWU) | 3:08 | 2023-11-30 | 2024-02-16 |
 | [Cham Thum \(Atoti\)](https://open.spotify.com/track/1BmwbhNlcgVsv8eSp4E0sJ) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Double Treble](https://open.spotify.com/album/2JheMlR0zti0sznMydH2rJ) | 4:13 | 2024-04-18 | 2026-02-27 |
 | [Chapati](https://open.spotify.com/track/1HILIVRnXkORHqLYzRbRaG) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Chapati](https://open.spotify.com/album/4pcHseb6o0Gv6ZUVmGW33d) | 3:20 | 2024-03-14 | 2024-03-22 |
-| [Cheche](https://open.spotify.com/track/0yyIHWneWKoatoZIvMaGu2) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Cheche](https://open.spotify.com/album/5z6iqqk3TdYuDWDm5ZMJ0E) | 3:01 | 2026-09-10 |  |
+| [Cheche](https://open.spotify.com/track/0yyIHWneWKoatoZIvMaGu2) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Cheche](https://open.spotify.com/album/5z6iqqk3TdYuDWDm5ZMJ0E) | 3:01 | 2026-09-10 | 2026-11-20 |
 | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/07oL9PG3HyIpMEtKTEI8Fp) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/5esLD4g5piSeeAalViPWkG) | 3:08 | 2022-05-26 | 2022-11-08 |
 | [Cherie](https://open.spotify.com/track/50M6m7esnITXSDDZWP1M9f) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Cherie](https://open.spotify.com/album/54PSZbN5VAD9a6nA7KxJyY) | 3:33 | 2024-09-20 | 2025-01-17 |
 | [Chi Baby](https://open.spotify.com/track/6UsnEVoABSeJJcXM0KiFYt) | [Kelechi Africana](https://open.spotify.com/artist/0O4K5MK5VYnGoMT3MZpr7k) | [I Am the President](https://open.spotify.com/album/47HdTlyOykb4gzsXQlqEor) | 2:09 | 2024-04-18 | 2024-12-14 |
@@ -100,6 +100,7 @@
 | [Hayanogi](https://open.spotify.com/track/3CsK7zOiSlT58HlRHKASOh) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Hayanogi](https://open.spotify.com/album/1OeqcTOml3iCr45fZhZFoS) | 3:24 | 2026-01-29 |  |
 | [Hello](https://open.spotify.com/track/4csQCFGpamickIt2YqTV8f) | [Malha](https://open.spotify.com/artist/7tJ5WcaS5OyCmruqwhhDNO), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Hello](https://open.spotify.com/album/4fBmAGox8cAnx2OGAIOpum) | 3:19 | 2024-05-23 | 2024-08-30 |
 | [Hello](https://open.spotify.com/track/7umhIhajaZPJumJCR6u5Nt) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Hello](https://open.spotify.com/album/6gOMG3WCRF3mZIum5TwMft) | 3:21 | 2024-02-01 | 2024-06-28 |
+| [Hello](https://open.spotify.com/track/2s0IFprZwV6pX2N98DJqT2) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [The Problem Child](https://open.spotify.com/album/1vyZQKBl8Nxh02VXpPVNV4) | 3:47 | 2026-11-19 |  |
 | [Hello](https://open.spotify.com/track/2OCyd1dnuOexd1A1cxLZjq) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Beyond Gifted](https://open.spotify.com/album/68JaW0nh8cz1yd6X2Uv55b) | 2:54 | 2024-05-02 | 2024-06-21 |
 | [Hoi](https://open.spotify.com/track/5zhCjE9KiUCqZeKBwnsgIv) | [Hussein Machozi](https://open.spotify.com/artist/20okzd1cjkWwWOq4KvBszc), [Mr Blue](https://open.spotify.com/artist/1JPiOesbMiBVxVwjDYzOu2) | [Hoi](https://open.spotify.com/album/2bzN3eovanDiVHhnW9afer) | 3:06 | 2023-01-19 | 2023-06-16 |
 | [Hold Me](https://open.spotify.com/track/3DoeIKVIwZfspIP4IzOlj6) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Hold Me](https://open.spotify.com/album/0zXPV9KCvHrXRrxvUPVLWB) | 3:00 | 2025-06-05 | 2026-04-24 |
@@ -116,6 +117,7 @@
 | [I Need You](https://open.spotify.com/track/65r5JlLLlCPfpAAQH1Nsv8) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [I Need You](https://open.spotify.com/album/3uRFdty1rcadmo53p0ydVZ) | 3:06 | 2022-08-04 | 2023-03-11 |
 | [I Wish](https://open.spotify.com/track/5SRVeuiI9GkdtDmpi43APu) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL) | [I Wish](https://open.spotify.com/album/0SuFal0Q6lCaiN2StecdhB) | 3:02 | 2023-10-06 | 2024-01-19 |
 | [I Wish](https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [I Wish](https://open.spotify.com/album/3PHJ72Y8qHslPZ6gPIkj8V) | 3:43 | 2022-06-23 | 2023-07-21 |
+| [I'll Be Okay](https://open.spotify.com/track/3iEeNYIyBFyyEm4VziydNz) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Continua](https://open.spotify.com/album/4dgvWmd6oGnshBBMiuPp5K) | 3:19 | 2026-11-19 |  |
 | [I'm Waiting](https://open.spotify.com/track/4cSOro07DTpEJ6yFsgiBBq) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [I'm Waiting](https://open.spotify.com/album/4KvMdAYIuRPAzfyEb2osOh) | 3:42 | 2026-02-05 | 2026-07-31 |
 | [In Case You Don't Know](https://open.spotify.com/track/6gGmfPBMuAYZsm78uaW9Cg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [The Love Album](https://open.spotify.com/album/6oGApINTocokzfDCkgVfkT) | 3:30 | 2022-05-26 | 2024-03-08 |
 | [Inama \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/7radUp1KfnvR1vucxys2ge) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Inama \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/2xWUqQKKTSePnXoMuarKqE) | 2:48 | 2025-09-12 | 2026-05-29 |
@@ -187,7 +189,7 @@
 | [Miti](https://open.spotify.com/track/693Nupdv9SutEUk1R7IhcL) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Miti](https://open.spotify.com/album/6pWI3mM97WmJrWhtFjIK7A) | 3:11 | 2026-11-06 |  |
 | [Morning Call](https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Morning Call](https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro) | 3:13 | 2023-06-15 | 2024-03-01 |
 | [Moyo](https://open.spotify.com/track/1YArqyMSdTD0Mimmk75MDq) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Moyo](https://open.spotify.com/album/5aK1AgHlTRh8yBEzubHXLB) | 2:55 | 2025-02-13 | 2025-10-17 |
-| [Moyo](https://open.spotify.com/track/4d6BHR0B4oyD7EeJ3L7qCs) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ) | [Seven](https://open.spotify.com/album/3YnzIAt9m9SJt039NYW7Gs) | 2:35 | 2026-03-27 |  |
+| [Moyo](https://open.spotify.com/track/4d6BHR0B4oyD7EeJ3L7qCs) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ) | [Seven](https://open.spotify.com/album/3YnzIAt9m9SJt039NYW7Gs) | 2:35 | 2026-03-27 | 2026-11-20 |
 | [Moyo](https://open.spotify.com/track/75A2GOq6uxZsdkJGPRU5FH) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 3:55 | 2022-11-07 | 2023-03-18 |
 | [MOYO](https://open.spotify.com/track/2xxoFcwteaps8BFBabgIRB) | [Stans](https://open.spotify.com/artist/1rOZ12AaA5RqBYuFpJWJpR), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [MOYO](https://open.spotify.com/album/2FmE4N63p2D4niFQwqMB9G) | 3:32 | 2026-07-23 |  |
 | [Moyo](https://open.spotify.com/track/0YsbBzLZiOXFwTQ0mFYSX5) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Moyo](https://open.spotify.com/album/4OEjsxaYkOs9T5rR5uqSMu) | 3:33 | 2026-04-23 |  |
@@ -224,6 +226,7 @@
 | [Nakupenda](https://open.spotify.com/track/4nqbJTJRxLQQnh5TxqFiaM) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Nakupenda](https://open.spotify.com/album/1qQYwu5T9b3Vpfb9vwCnnf) | 3:39 | 2024-02-01 | 2024-05-24 |
 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 | 2022-10-27 | 2024-08-16 |
 | [Nakupenda](https://open.spotify.com/track/1zTsIGDezfknAm2vkoSqcz) | [Matonya](https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI) | [Nakupenda](https://open.spotify.com/album/14LRbN8KHBjZgA7gaKYAY0) | 2:58 | 2026-07-30 |  |
+| [Nakupenda](https://open.spotify.com/track/2f8p5z0EA3oNDG7FVtwLYc) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Nakupenda](https://open.spotify.com/album/3x1IVD7R3l6pHTwnAiq2jW) | 2:25 | 2026-11-19 |  |
 | [Nalego](https://open.spotify.com/track/6F50sh6SmKzIapv4TkAUmn) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Nalego](https://open.spotify.com/album/4LioOosWof1zHLi0B63C6g) | 3:29 | 2023-07-06 | 2023-10-27 |
 | [Nampenda](https://open.spotify.com/track/6bY6Rrr3enYLfJK7djbgZQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Nampenda](https://open.spotify.com/album/0xhgXtc2IbEFcG7K12Olkb) | 3:37 | 2023-03-24 | 2024-02-23 |
 | [Nampenda](https://open.spotify.com/track/5wy5RI8sYhPohJ2cOtPtvW) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Nampenda](https://open.spotify.com/album/4RrzSWqeoSnU24CDzLIPJA) | 2:32 | 2026-10-16 |  |
@@ -310,7 +313,7 @@
 | [Searching for Love](https://open.spotify.com/track/0nkrOVuEuIXmTeM20SfPeA) | [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI) | [Searching for Love](https://open.spotify.com/album/7EgruAjgY7cV4YEbn4zZbK) | 2:50 | 2026-04-23 |  |
 | [Sele \(feat\. Chley\)](https://open.spotify.com/track/4fFAGCynCqGDdZg9kdQjX7) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Sele \(feat\. Chley\)](https://open.spotify.com/album/4KJZg1xvNwfRkbJYDuz4Wc) | 4:12 | 2024-03-14 | 2024-03-22 |
 | [Sella](https://open.spotify.com/track/7LOTcIQ7yuQHxTPEdIvP9g) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Sella](https://open.spotify.com/album/7pz3hUlORG75E9FupX5iJJ) | 3:09 | 2025-10-16 |  |
-| [She's Mine](https://open.spotify.com/track/3DHNsoNifh1fBu5Xl13OC8) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [My Way](https://open.spotify.com/album/2TL6YiX8L6m1lXoLdvUoj3) | 3:42 | 2026-05-28 |  |
+| [She's Mine](https://open.spotify.com/track/3DHNsoNifh1fBu5Xl13OC8) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [My Way](https://open.spotify.com/album/2TL6YiX8L6m1lXoLdvUoj3) | 3:42 | 2026-05-28 | 2026-11-20 |
 | [Shika](https://open.spotify.com/track/6XxqdIiwZNUwJkXZVEmXJD) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Shika](https://open.spotify.com/album/0Z1NRlQAq2ZJKYpqibIBMB) | 3:11 | 2024-03-14 | 2024-03-22 |
 | [Show Off](https://open.spotify.com/track/4U65tGpFAoyaXecy00yACB) | [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Show Off](https://open.spotify.com/album/6wOvhJKWIxM7jDFmCbWaDZ) | 3:11 | 2023-08-31 | 2024-04-19 |
 | [Shu! \(feat\. Chley\)](https://open.spotify.com/track/442DDArcRLNRxEeF75jRVk) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Shu! \(feat\. Chley\)](https://open.spotify.com/album/7sjv3DhaAGAO0Iu9cDgRSn) | 4:23 | 2024-03-14 | 2024-03-22 |

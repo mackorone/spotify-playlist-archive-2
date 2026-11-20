@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Tame Impala on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,528 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,557 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 44 | [We Were We Still Are](https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [We Were We Still Are](https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9) | 2:57 |
 | 45 | [In Good Time](https://open.spotify.com/track/7xddztgdnNHCQCNz0QA8k6) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [In Good Time](https://open.spotify.com/album/6LAM6rSY9hy2gTpEJrH3rS) | 2:25 |
 | 46 | [It's You](https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Fase Luna](https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd) | 4:45 |
-| 47 | [Vendetta](https://open.spotify.com/track/2iaqhM34CBBgoyHLxOg5Ba) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Vendetta](https://open.spotify.com/album/3cGO3FBxbnkyB7gWIWYmwS) | 4:28 |
-| 48 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
+| 47 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
+| 48 | [Vendetta](https://open.spotify.com/track/2iaqhM34CBBgoyHLxOg5Ba) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Vendetta](https://open.spotify.com/album/3cGO3FBxbnkyB7gWIWYmwS) | 4:28 |
 | 49 | [I'm Not Ready for the Change](https://open.spotify.com/track/5ORQX1wOPqCP031V1CxjUq) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [I'm Not Ready for the Change](https://open.spotify.com/album/1UNlSzZJmtRbmnYUjDOjGA) | 4:47 |
 | 50 | [Ilion](https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 11:08 |
 | 51 | [Camina](https://open.spotify.com/track/4HT8vpwMPNpgZq6TcxColK) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Camina](https://open.spotify.com/album/3IrD7IpDBy3psoDWWpIubo) | 3:24 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 62 | [Another Quiet Sunday \(Keep Moving On\)](https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Another Quiet Sunday](https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z) | 4:27 |
 | 63 | [Casino](https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Django's High](https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq) | 3:03 |
 | 64 | [Red Sun](https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:52 |
-| 65 | [Solar \(Alchemized\)](https://open.spotify.com/track/1brrFg5NPT8i7pvccAbxsN) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Transmutations: Encore](https://open.spotify.com/album/23SMXQIkiQyceJr1cAcR3D) | 2:24 |
-| 66 | [Hey Boy Hey Girl \- Cover Version](https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Bud Spencer Blues Explosion](https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL) | 3:15 |
+| 65 | [Hey Boy Hey Girl \- Cover Version](https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Bud Spencer Blues Explosion](https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL) | 3:15 |
+| 66 | [Solar \(Alchemized\)](https://open.spotify.com/track/1brrFg5NPT8i7pvccAbxsN) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Transmutations: Encore](https://open.spotify.com/album/23SMXQIkiQyceJr1cAcR3D) | 2:24 |
 | 67 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 |
 | 68 | [Hit It and Quit It](https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Fudge Sandwich](https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw) | 4:00 |
 | 69 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 78 | [Mother Seletta](https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Non Ex Orbis](https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq) | 8:06 |
 | 79 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
 | 80 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 |
-| 81 | [Season Finale](https://open.spotify.com/track/3LSAVMvco9SOlZgOePCwYz) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Season Finale](https://open.spotify.com/album/1vnozWw44b4fNNhV4sSNQP) | 3:20 |
-| 82 | [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK) | 5:52 |
+| 81 | [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK) | 5:52 |
+| 82 | [Season Finale](https://open.spotify.com/track/3LSAVMvco9SOlZgOePCwYz) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Season Finale](https://open.spotify.com/album/1vnozWw44b4fNNhV4sSNQP) | 3:20 |
 | 83 | [Cardboard Pile](https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Cardboard Pile](https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x) | 4:06 |
 | 84 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 |
 | 85 | [Yours Truly](https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [Panoramas](https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW) | 5:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 99 | [Alquimista](https://open.spotify.com/track/188iyS5xe99axE3wX2pPAD) | [COSMO](https://open.spotify.com/artist/0niuvQnEaBaBVc7nSfyaaT), [Jesse Harris](https://open.spotify.com/artist/1SE144wEx5NYxXBKH5mOqy), [CARM](https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ), [Will Graefe](https://open.spotify.com/artist/0rivjTqOUngqWm9w5tf5YH), [Jeremy Gustin](https://open.spotify.com/artist/0x3OlNZcrhjvU1nmANdMe5), [Mike Boschen](https://open.spotify.com/artist/0JT6KxolPEsNwijARLjb01), [Benjamin Lazar Davis](https://open.spotify.com/artist/120AN9sqwd6UTkZbnjDPKE) | [Alquimista](https://open.spotify.com/album/1UBCy7CCPsiZQ63hHETUNo) | 3:09 |
 | 100 | [Goatfuzz](https://open.spotify.com/track/2LITu4fhbVMfjTg3mn8Vl5) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Requiem](https://open.spotify.com/album/1YNpikcqLN0DiQ2WX9SYFF) | 6:56 |
 
-Snapshot ID: `AAAAAHMFOvItffAdDiwzxAqyZIyVsyaR`
+Snapshot ID: `AAAAAPpLMNqu0CpqfT9yaUX7eK3JDIHK`

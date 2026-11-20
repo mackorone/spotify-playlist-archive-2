@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Perel",
+  "description": "New music off the beaten track. Cover: Hot Chip, Beth Ditto",
   "name": "OFF POP",
   "tracks": [
     {
@@ -9139,6 +9139,24 @@
     },
     {
       "album": {
+        "name": "Fight It",
+        "url": "https://open.spotify.com/album/6DEpX1OK5A4WKrX1lBU4V5"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298053,
+      "name": "Fight It",
+      "url": "https://open.spotify.com/track/4Mm0lBqjxHpecypk9ayAWx"
+    },
+    {
+      "album": {
         "name": "Final Credits",
         "url": "https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE"
       },
@@ -15328,7 +15346,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 158502,
       "name": "Kate S.O.S. (feat. The Stylist)",
       "url": "https://open.spotify.com/track/2AxYuhKTLc5DkcANhLzFup"
@@ -18406,6 +18424,28 @@
       "duration_ms": 267540,
       "name": "Maybe Late",
       "url": "https://open.spotify.com/track/0ltoUzrfEkfemkt5rYDleN"
+    },
+    {
+      "album": {
+        "name": "Me In Your Head",
+        "url": "https://open.spotify.com/album/6PiuWrTrN4NEA59gln8x3S"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Beth Ditto",
+          "url": "https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222186,
+      "name": "Me In Your Head",
+      "url": "https://open.spotify.com/track/7vQXPJFTVl9co8Fxqeb4yq"
     },
     {
       "album": {
@@ -31342,7 +31382,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 202773,
       "name": "What You Want - Fcukers Remix",
       "url": "https://open.spotify.com/track/0vDEDfoMO57db8lb60xE2s"

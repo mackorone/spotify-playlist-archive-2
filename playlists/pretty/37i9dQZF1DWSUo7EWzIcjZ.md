@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,734 likes - 150 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,732 likes - 150 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 41 | [Si Tu Me Dices](https://open.spotify.com/track/23ZMJ8wr0bd8O98JGn70Pn) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O), [Jossie Esteban y La Patrulla 15](https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH) | [Con Fuerza!](https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67) | 4:43 |
 | 42 | [El Silencio, Tu Y Yo](https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 3:57 |
 | 43 | [Hipocresía](https://open.spotify.com/track/0k8nK5uk57o3gYEjy8KDEv) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 5:15 |
-| 44 | [Oye](https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE) | [Rasputin](https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY) | [Juan and Nelson Records \- 20 Exitos](https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw) | 4:23 |
-| 45 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
+| 44 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
+| 45 | [Oye](https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE) | [Rasputin](https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY) | [Juan and Nelson Records \- 20 Exitos](https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw) | 4:23 |
 | 46 | [Medley](https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:38 |
 | 47 | [El Lapiz](https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:41 |
 | 48 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [Todo Es Para Ti](https://open.spotify.com/track/6lrWqDn3NKNnmhVn9ifjoX) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:13 |
 | 150 | [La Quiero A Morir.](https://open.spotify.com/track/49PNURIk7SExp5h7YN3t94) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [La Quiero A Morir](https://open.spotify.com/album/5N1sSgWCGXuvxr29dSOyba) | 5:05 |
 
-Snapshot ID: `AAAAAH5sv0CALHT4+a90xowUp70dSqyR`
+Snapshot ID: `AAAAAGH202XsN28iT7LbrzaU/Sm0/KG+`

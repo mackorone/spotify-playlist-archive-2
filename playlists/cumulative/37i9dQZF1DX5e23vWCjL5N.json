@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Fibra e Neffa in cover.",
+  "description": "Punchline, storytelling, rap italiano. FreshMula in cover.",
   "name": "Liricisti",
   "tracks": [
+    {
+      "album": {
+        "name": "'O CAVALLO 'E RITORNO",
+        "url": "https://open.spotify.com/album/1fqpPjMNan0Sd1dcWGuUtb"
+      },
+      "artists": [
+        {
+          "name": "BATTISTA",
+          "url": "https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260967,
+      "name": "'O CAVALLO 'E RITORNO",
+      "url": "https://open.spotify.com/track/5JbtzpMcZrOzSHLfGbWFFz"
+    },
     {
       "album": {
         "name": "+high (dammi)",
@@ -82,7 +100,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 209802,
       "name": "10 AD",
       "url": "https://open.spotify.com/track/1r6AV5MMjO8xAkBB9g8Cde"
@@ -122,7 +140,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 249613,
       "name": "1984",
       "url": "https://open.spotify.com/track/0OU4v07h5oT26f4zmxzddH"
@@ -968,7 +986,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 205307,
       "name": "Armato (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/6fgLw0VwPmQtjSmvfCVC6u"
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 170986,
       "name": "Baggy",
       "url": "https://open.spotify.com/track/0xeJ32ajq1qEqHPqfv5InP"
@@ -1158,6 +1176,28 @@
       "duration_ms": 222302,
       "name": "Basta!",
       "url": "https://open.spotify.com/track/4RZVU3ZTz7nOI4WRfB3He6"
+    },
+    {
+      "album": {
+        "name": "A MILANO",
+        "url": "https://open.spotify.com/album/4VQ0ykItmYbSy9TPOYIfAt"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157079,
+      "name": "BASTARDI DI MILANO (con Jake La Furia)",
+      "url": "https://open.spotify.com/track/2OAkvYpw6FwqvolUEyi0gz"
     },
     {
       "album": {
@@ -1436,6 +1476,32 @@
       "duration_ms": 158834,
       "name": "Bojack Freestyle",
       "url": "https://open.spotify.com/track/5xmAeLsO0Ah232buU9UiCI"
+    },
+    {
+      "album": {
+        "name": "Miracolo Italiano",
+        "url": "https://open.spotify.com/album/4z7LNJ5zq3uuhSnoa5pCoN"
+      },
+      "artists": [
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "St Luca Spenish",
+          "url": "https://open.spotify.com/artist/3uPB5v8cgvDpoFySvjyMAx"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Bottega Veneta (feat. Nitro)",
+      "url": "https://open.spotify.com/track/5xDguCtarADeHxTeWlQK29"
     },
     {
       "album": {
@@ -2496,7 +2562,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 157084,
       "name": "CRACKERS",
       "url": "https://open.spotify.com/track/0WXmK981bcJwiV7XhL2mP4"
@@ -2954,6 +3020,28 @@
       "duration_ms": 171370,
       "name": "Dio Non C'\u00e8 (feat. Alessandra Amoroso)",
       "url": "https://open.spotify.com/track/6zWGONZ4N03Yknef4scWZa"
+    },
+    {
+      "album": {
+        "name": "Anche gli Eroi Muoiono Post Mortem",
+        "url": "https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178993,
+      "name": "DISOBBEDIRE! (feat. 18K)",
+      "url": "https://open.spotify.com/track/7gOPPSiPMAzVV395MZMicg"
     },
     {
       "album": {
@@ -3578,7 +3666,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 108923,
       "name": "fomo :/",
       "url": "https://open.spotify.com/track/1Ir0BU9fRhlESmLJnkkedC"
@@ -3965,6 +4053,32 @@
     },
     {
       "album": {
+        "name": "Gorc (feat. Altea)",
+        "url": "https://open.spotify.com/album/7rOBpw5U70LmetWU41naBs"
+      },
+      "artists": [
+        {
+          "name": "Pufuleti",
+          "url": "https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A"
+        },
+        {
+          "name": "Fed Nance",
+          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
+        },
+        {
+          "name": "Altea",
+          "url": "https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130531,
+      "name": "Gorc (feat. Altea)",
+      "url": "https://open.spotify.com/track/0gGnR9fretljifsGRdK4bk"
+    },
+    {
+      "album": {
         "name": "METAMORFOSI",
         "url": "https://open.spotify.com/album/1SPhCDB44Mgx1lEbdMnIKm"
       },
@@ -4223,6 +4337,32 @@
     },
     {
       "album": {
+        "name": "Truce Legacy",
+        "url": "https://open.spotify.com/album/5RvdN6aeGet98QiyyBFYY6"
+      },
+      "artists": [
+        {
+          "name": "Metal Carter",
+          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
+        },
+        {
+          "name": "Promo L'inverso",
+          "url": "https://open.spotify.com/artist/5OmsU0hnwhVFFkr4cVoz2M"
+        },
+        {
+          "name": "Gel",
+          "url": "https://open.spotify.com/artist/1zuJhiod70T3Kev0XIsfko"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "I pi\u00f9 corrotti, pt. 2",
+      "url": "https://open.spotify.com/track/7vHnDMK0DaOtZsvXTqbnIE"
+    },
+    {
+      "album": {
         "name": "GLORIA",
         "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
       },
@@ -4354,7 +4494,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 146333,
       "name": "Il Filmografo",
       "url": "https://open.spotify.com/track/5nqOdSrqurNq8ejE7Ujc9l"
@@ -4380,6 +4520,28 @@
       "duration_ms": 239446,
       "name": "Il mio lato peggiore (con Lele Adani)",
       "url": "https://open.spotify.com/track/3h0KCI7mO215UtLUmTZxKl"
+    },
+    {
+      "album": {
+        "name": "Anche gli Eroi Muoiono Post Mortem",
+        "url": "https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152516,
+      "name": "Il mio posto nel Mondo (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2lFKJrz2JhquBuLcZsbvOu"
     },
     {
       "album": {
@@ -4809,6 +4971,28 @@
     },
     {
       "album": {
+        "name": "KLAN",
+        "url": "https://open.spotify.com/album/08lSTqTguHVQVBr6BySH1t"
+      },
+      "artists": [
+        {
+          "name": "Beba",
+          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156929,
+      "name": "KLAN",
+      "url": "https://open.spotify.com/track/0R3DwtaGSGikJyccB2H4JF"
+    },
+    {
+      "album": {
         "name": "JUNKIE MUSIK",
         "url": "https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l"
       },
@@ -5125,6 +5309,24 @@
     },
     {
       "album": {
+        "name": "LA RANA NELL'ACQUA",
+        "url": "https://open.spotify.com/album/0SDJzlo1Eu6KJZZQx6l8VP"
+      },
+      "artists": [
+        {
+          "name": "Drimer",
+          "url": "https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372150,
+      "name": "LA RANA NELL'ACQUA",
+      "url": "https://open.spotify.com/track/1S1NAZhjMveNLdQcIXOVPz"
+    },
+    {
+      "album": {
         "name": "Lacrima (feat. Vegas Jones)",
         "url": "https://open.spotify.com/album/2rSguzZWAyhp3aRkpkuvT0"
       },
@@ -5162,7 +5364,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 170226,
       "name": "LACRIME E SORRISI",
       "url": "https://open.spotify.com/track/0FwI9kFFZuMYqN1jbnc4G1"
@@ -5567,6 +5769,24 @@
     },
     {
       "album": {
+        "name": "LIBERI O SCHIAVI ?",
+        "url": "https://open.spotify.com/album/5bTAcFkDUbmgCWFctwcq8r"
+      },
+      "artists": [
+        {
+          "name": "FreshMula",
+          "url": "https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "LIBERI O SCHIAVI ?",
+      "url": "https://open.spotify.com/track/1QDR41836derMYCdviaJvD"
+    },
+    {
+      "album": {
         "name": "Fastlife 4",
         "url": "https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6"
       },
@@ -5796,7 +6016,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 147954,
       "name": "M.E.R.D.A.",
       "url": "https://open.spotify.com/track/5bqfhwlwu2RKiTUa2lkasJ"
@@ -5916,6 +6136,28 @@
       "duration_ms": 147241,
       "name": "Mare Calmo",
       "url": "https://open.spotify.com/track/4fFgeSZzTn58kUawHfW532"
+    },
+    {
+      "album": {
+        "name": "Mario Draghi",
+        "url": "https://open.spotify.com/album/3AbQxxKKRAAE630WRthzHL"
+      },
+      "artists": [
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "St Luca Spenish",
+          "url": "https://open.spotify.com/artist/3uPB5v8cgvDpoFySvjyMAx"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "Mario Draghi",
+      "url": "https://open.spotify.com/track/6exso5NzFFONvJDVkH7uU5"
     },
     {
       "album": {
@@ -7044,7 +7286,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172862,
       "name": "OUV3RTURE",
       "url": "https://open.spotify.com/track/6Zm34v95snSUecBXqHeu8t"
@@ -7269,6 +7511,24 @@
     },
     {
       "album": {
+        "name": "TUTTO \u00c8 POSSIBILE - ATTO II",
+        "url": "https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200476,
+      "name": "PER EMANUELE",
+      "url": "https://open.spotify.com/track/5HW9lWvAt1vqJiTsPIXQCP"
+    },
+    {
+      "album": {
         "name": "Anche gli Eroi Muoiono",
         "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
       },
@@ -7298,7 +7558,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190344,
       "name": "PER SOLDI E PER AMORE",
       "url": "https://open.spotify.com/track/3iO7515tvrsXpNtTGTEUUt"
@@ -8120,7 +8380,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148653,
       "name": "Re Mida",
       "url": "https://open.spotify.com/track/7fnHSgIITveyrYBAA1sxKR"
@@ -8421,6 +8681,44 @@
     },
     {
       "album": {
+        "name": "Satellite \u25d1 (con Gemitaiz, Venerus, Promessa, iako, Izi)",
+        "url": "https://open.spotify.com/album/1ZTV6hGxydabmQptyFWLU1"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Venerus",
+          "url": "https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "iako",
+          "url": "https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285232,
+      "name": "Satellite \u25d1 (con Gemitaiz, Venerus, Promessa, iako, Izi)",
+      "url": "https://open.spotify.com/track/7e6KoJch30XS9peskmndI9"
+    },
+    {
+      "album": {
         "name": "Mentre Los Angeles Brucia",
         "url": "https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1"
       },
@@ -8580,6 +8878,24 @@
       "duration_ms": 184715,
       "name": "Self control",
       "url": "https://open.spotify.com/track/1JW2QapVwiEqwX71N0Ztcv"
+    },
+    {
+      "album": {
+        "name": "Anche gli Eroi Muoiono Post Mortem",
+        "url": "https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206210,
+      "name": "Sentire La Musica",
+      "url": "https://open.spotify.com/track/70m2SuBHRCkxVpgqpXZPDk"
     },
     {
       "album": {
@@ -9089,6 +9405,24 @@
     },
     {
       "album": {
+        "name": "Anche gli Eroi Muoiono Post Mortem",
+        "url": "https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168669,
+      "name": "Stratos",
+      "url": "https://open.spotify.com/track/3OWSRPRku9fkcrJbPoTcSv"
+    },
+    {
+      "album": {
         "name": "Studiami",
         "url": "https://open.spotify.com/album/6t77lHYHboixVNrdEhx888"
       },
@@ -9122,7 +9456,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213125,
       "name": "Superstite",
       "url": "https://open.spotify.com/track/5WfBKsWx0hxCEsviZ5QVqk"
@@ -9282,7 +9616,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163601,
       "name": "The World Iz Yours (feat. Joshua)",
       "url": "https://open.spotify.com/track/2pf8hbyhNKDFSnLtAYJHTt"
@@ -9626,7 +9960,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 201804,
       "name": "TXT",
       "url": "https://open.spotify.com/track/7GHXHYge4hcLsUGwxHwygw"
@@ -9688,7 +10022,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 165750,
       "name": "UNA PROMESSA (feat. FreshMula)",
       "url": "https://open.spotify.com/track/1BcCVujbFWDXqyo7apQj7P"
@@ -9808,7 +10142,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 211000,
       "name": "Valzer (feat. nayt)",
       "url": "https://open.spotify.com/track/4EeRcdj7sbwxaNsJlSWS3q"
@@ -10127,6 +10461,32 @@
     },
     {
       "album": {
+        "name": "Wake N Bake",
+        "url": "https://open.spotify.com/album/2xBlwXURqGQIrco8oEnOxn"
+      },
+      "artists": [
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        },
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227475,
+      "name": "Wake N Bake",
+      "url": "https://open.spotify.com/track/6ArI0TI9OUg0C9oUHAVxdX"
+    },
+    {
+      "album": {
         "name": "MM Vol. 5",
         "url": "https://open.spotify.com/album/5kAMXKeMJpYzMKl7zziGkY"
       },
@@ -10328,6 +10688,28 @@
       "duration_ms": 146222,
       "name": "Workout",
       "url": "https://open.spotify.com/track/3kBlfl2W2NjFTOBNLCe6TC"
+    },
+    {
+      "album": {
+        "name": "Hermelin",
+        "url": "https://open.spotify.com/album/7b9AJTp9zvXjE4HIitc5gJ"
+      },
+      "artists": [
+        {
+          "name": "Pufuleti",
+          "url": "https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A"
+        },
+        {
+          "name": "Fed Nance",
+          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Yovis",
+      "url": "https://open.spotify.com/track/0PTXX01AQHyWzuzWIYWr7y"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Let these country songs get your tailgate going!",
-  "num_followers": 197148,
+  "num_followers": 197143,
   "original_name": "Country Tailgate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMMiGCTft4LAJYJDhCJIbJMJwMQN",
+  "snapshot_id": "AAAAADD/0nngsmlJTxBoL5ZcM+0f5vNc",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:42",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-09-11 04:01:42",
       "album": {
-        "name": "Red Dirt Road",
-        "url": "https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf"
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 260360,
-      "name": "Red Dirt Road",
-      "url": "https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt"
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
       "added_at": "2026-09-11 04:01:42",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-09-11 04:01:42",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+        "name": "Red Dirt Road",
+        "url": "https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+      "duration_ms": 260360,
+      "name": "Red Dirt Road",
+      "url": "https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt"
     },
     {
       "added_at": "2026-09-11 04:01:42",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-09-11 04:01:42",
       "album": {
-        "name": "Let 'Em Know",
-        "url": "https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 180236,
-      "name": "Let 'Em Know",
-      "url": "https://open.spotify.com/track/3oxVbPoTwXbN2Pl4HWLINy"
-    },
-    {
-      "added_at": "2026-09-11 04:01:42",
-      "album": {
         "name": "Body Like A Back Road",
         "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 165386,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+    },
+    {
+      "added_at": "2026-09-11 04:01:42",
+      "album": {
+        "name": "Let 'Em Know",
+        "url": "https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 180236,
+      "name": "Let 'Em Know",
+      "url": "https://open.spotify.com/track/3oxVbPoTwXbN2Pl4HWLINy"
     },
     {
       "added_at": "2026-09-11 04:01:42",

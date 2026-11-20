@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,021 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,122 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 71 | [Flor Pálida](https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Mensajes del Corazon](https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW) | 4:22 |
 | 72 | [Conversemos](https://open.spotify.com/track/78bITNyNWSjv5FIMEWRIKN) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ), [Diana Rios](https://open.spotify.com/artist/6V7Cx9UlMce4CLLoZ5Sndi) | [Conversemos](https://open.spotify.com/album/4sMiUgRzHLcY5MgQkfGJvz) | 2:27 |
 | 73 | [Después De Ti](https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:19 |
-| 74 | [Te Sorprenderás](https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Sorprenderás](https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8) | 3:08 |
+| 74 | [Sobreviviendo](https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Los Más Grandes Éxitos](https://open.spotify.com/album/4Eh3Fgofkkc7xpMyKFZYQA) | 3:05 |
 | 75 | [Antes](https://open.spotify.com/track/2WkYydyAY8QsFhy16KgsCY) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Cumbia Viva Sesion \#13 Walter Encina](https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd) | 1:52 |
-| 76 | [Mojada Por Dentro \- En Vivo](https://open.spotify.com/track/1NdkMO63A4XFTzLlvRQ36K) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Uriel Lozano: Sin Miedo Session \#44 \(Lado S\) \[En Vivo\]](https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7) | 1:20 |
-| 77 | [Voy a Olvidarme de Mí](https://open.spotify.com/track/2YCQpCXM0ebgdFLql30VDh) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo](https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n) | 3:16 |
+| 76 | [Te Sorprenderás](https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Sorprenderás](https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8) | 3:08 |
+| 77 | [Mojada Por Dentro \- En Vivo](https://open.spotify.com/track/1NdkMO63A4XFTzLlvRQ36K) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Uriel Lozano: Sin Miedo Session \#44 \(Lado S\) \[En Vivo\]](https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7) | 1:20 |
 | 78 | [Conmigo Te Gustó](https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ) | 1:37 |
-| 79 | [Ojalá Que No Puedas](https://open.spotify.com/track/2VoXXbqULk6GZf0lhEi2bl) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk) | [La Gorda Me Quiere](https://open.spotify.com/album/3i1Lfo5HXErBC2AIq9RN63) | 3:12 |
+| 79 | [Voy a Olvidarme de Mí](https://open.spotify.com/track/2YCQpCXM0ebgdFLql30VDh) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo](https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n) | 3:16 |
 | 80 | [No me di cuenta](https://open.spotify.com/track/3fvwqDyUm3A4mDQ1Q2SoZn) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Cumbia Viva Sesion \#13 Walter Encina](https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd) | 1:27 |
 
-Snapshot ID: `AAAAAOy5bHo1VcPBPCtMLihBGW9F937/`
+Snapshot ID: `AAAAANDeciXUQ2D9n7HrVJQ4qkuRcN7U`

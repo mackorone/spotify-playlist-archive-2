@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 1421,
+  "num_followers": 1420,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABFcA3MYdggCl8mnGwnHAxD",
+  "snapshot_id": "avzqgAAAAADTZgkAk3cXyepb8R+KFP3b",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUCES ROJAS",
+        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 174089,
+      "name": "LUCES ROJAS",
+      "url": "https://open.spotify.com/track/32VUH1c2xPjccfAEM8VwtP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL GATITO NEGRO",
+        "url": "https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        }
+      ],
+      "duration_ms": 145728,
+      "name": "OFFICE",
+      "url": "https://open.spotify.com/track/7qj6I5UlwhSVtrqBviCy8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariachi Tumbado",
         "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
       },
@@ -211,42 +247,6 @@
       "duration_ms": 174946,
       "name": "\u00bfCon Qui\u00e9n?",
       "url": "https://open.spotify.com/track/6XiGIzAJDMML0qV0Ho4bPw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL GATITO NEGRO",
-        "url": "https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 126661,
-      "name": "AMOR DE PAPEL",
-      "url": "https://open.spotify.com/track/7Iv7M6BTPNY41t9KgRvC45"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUCES ROJAS",
-        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 174089,
-      "name": "LUCES ROJAS",
-      "url": "https://open.spotify.com/track/32VUH1c2xPjccfAEM8VwtP"
     },
     {
       "added_at": null,
@@ -300,13 +300,13 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
-          "name": "Christian Ortega",
-          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         }
       ],
-      "duration_ms": 145728,
-      "name": "OFFICE",
-      "url": "https://open.spotify.com/track/7qj6I5UlwhSVtrqBviCy8Q"
+      "duration_ms": 126661,
+      "name": "AMOR DE PAPEL",
+      "url": "https://open.spotify.com/track/7Iv7M6BTPNY41t9KgRvC45"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Sepan De Una Vez",
-        "url": "https://open.spotify.com/album/5lFgevGf7iLk3WOe7Uhz3G"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Los Del Monte Sinai",
-          "url": "https://open.spotify.com/artist/3bNAwmmGrAz6YTioxIBmXc"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 177470,
-      "name": "Pa Que Sepan De Una Vez",
-      "url": "https://open.spotify.com/track/2xS2oBq0mCa7O4RbdxBtxL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ma\u00f1ana Dios Dir\u00e1",
         "url": "https://open.spotify.com/album/14N6OcoSlMHWsSI8Txg12H"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 129692,
       "name": "Ma\u00f1ana Dios Dir\u00e1",
       "url": "https://open.spotify.com/track/3qhRSwff1wlO9Ihd95tYP9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Sepan De Una Vez",
+        "url": "https://open.spotify.com/album/5lFgevGf7iLk3WOe7Uhz3G"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Los Del Monte Sinai",
+          "url": "https://open.spotify.com/artist/3bNAwmmGrAz6YTioxIBmXc"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 177470,
+      "name": "Pa Que Sepan De Una Vez",
+      "url": "https://open.spotify.com/track/2xS2oBq0mCa7O4RbdxBtxL"
     },
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFLEIS",
-        "url": "https://open.spotify.com/album/7aS2h4Jbdpn6vVTafxRuu6"
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Sahir Montoya",
-          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
         }
       ],
-      "duration_ms": 186795,
-      "name": "CONFLEIS",
-      "url": "https://open.spotify.com/track/3D4pTiY8LcdB5WWnTdKwhC"
+      "duration_ms": 286032,
+      "name": "El Caballero (Live)",
+      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
     },
     {
       "added_at": null,
@@ -771,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+        "name": "CONFLEIS",
+        "url": "https://open.spotify.com/album/7aS2h4Jbdpn6vVTafxRuu6"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
         }
       ],
-      "duration_ms": 286032,
-      "name": "El Caballero (Live)",
-      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
+      "duration_ms": 186795,
+      "name": "CONFLEIS",
+      "url": "https://open.spotify.com/track/3D4pTiY8LcdB5WWnTdKwhC"
     },
     {
       "added_at": null,
@@ -815,42 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Lilo Bermudez",
-          "url": "https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa"
-        }
-      ],
-      "duration_ms": 218623,
-      "name": "VENGO A VER UNOS OJOS - En Vivo",
-      "url": "https://open.spotify.com/track/6IoSW6YT3ZUuO1H9ofvoVU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CON LA COCHI [VOL II (EN VIVO)]",
-        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 304553,
-      "name": "Fiesta En La Sierra - En Vivo",
-      "url": "https://open.spotify.com/track/0c3DUDq57IkEAx39hxbzul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Ranchito (En Vivo)",
         "url": "https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf"
       },
@@ -875,26 +839,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "LVR",
-        "url": "https://open.spotify.com/album/55eQK3OCkiOuEWyKczz1xQ"
+        "name": "CON LA COCHI [VOL II (EN VIVO)]",
+        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
       },
       "artists": [
-        {
-          "name": "Tyan G",
-          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
-        },
-        {
-          "name": "Chris Hermosillo",
-          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
-        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 172319,
-      "name": "LVR",
-      "url": "https://open.spotify.com/track/1OLoQ9k8WRYc6zQ4mBWEqP"
+      "duration_ms": 304553,
+      "name": "Fiesta En La Sierra - En Vivo",
+      "url": "https://open.spotify.com/track/0c3DUDq57IkEAx39hxbzul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Lilo Bermudez",
+          "url": "https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa"
+        }
+      ],
+      "duration_ms": 218623,
+      "name": "VENGO A VER UNOS OJOS - En Vivo",
+      "url": "https://open.spotify.com/track/6IoSW6YT3ZUuO1H9ofvoVU"
     },
     {
       "added_at": null,
@@ -935,6 +911,30 @@
       "duration_ms": 127481,
       "name": "CATALOGADO",
       "url": "https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LVR",
+        "url": "https://open.spotify.com/album/55eQK3OCkiOuEWyKczz1xQ"
+      },
+      "artists": [
+        {
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+        },
+        {
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "LVR",
+      "url": "https://open.spotify.com/track/1OLoQ9k8WRYc6zQ4mBWEqP"
     },
     {
       "added_at": null,

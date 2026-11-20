@@ -4,7 +4,7 @@
 
 > Christmas favourites played on music box and glockenspiel.
 
-77 songs - 2 hr 31 min
+79 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,10 +16,12 @@
 | [Angels we have heard on high](https://open.spotify.com/track/67tWBJdZAR62VXPCTFAAb4) | [Dana Daoud](https://open.spotify.com/artist/4vMPvxFb0j16yjLxCQKNR8) | [A Child is born](https://open.spotify.com/album/4ecdLPCCBHNDSsrpDK4RnR) | 2:09 | 2023-11-23 |  |
 | [Auld Lange Syne](https://open.spotify.com/track/1uFpqYYeaiZW1QTf4KfuqX) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Deck The Halls](https://open.spotify.com/album/6TYarbDFQ5yeMnbHeKhdP7) | 1:15 | 2023-11-23 |  |
 | [Away in a manger](https://open.spotify.com/track/5HcNeNy6DyTC9bi26qz3dk) | [Anna Moen](https://open.spotify.com/artist/0hVrDDe8JyOHhFLvO3iPuI) | [Away in a manger](https://open.spotify.com/album/5aFmhlXTKN7ARK8phPkfom) | 1:43 | 2023-11-23 | 2025-09-05 |
-| [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/track/11RLczo5NwXVkH98tqNa9V) | [Jolly Starlings](https://open.spotify.com/artist/34fFFb8Tq5nqhqa03Qjg2h) | [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/album/2DMPLRZcGsQ5ePYSAidglq) | 3:33 | 2025-12-18 |  |
+| [Away in a Manger](https://open.spotify.com/track/0zbe9IzT0BtyZRXmIkUdpA) | [Milo Rydén](https://open.spotify.com/artist/4sqx7aUPjUOj4nG9W1O0qp) | [Away in a Manger](https://open.spotify.com/album/6kupQG0JUH3Es1Y5l10m3F) | 1:52 | 2026-11-20 |  |
+| [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/track/11RLczo5NwXVkH98tqNa9V) | [Jolly Starlings](https://open.spotify.com/artist/34fFFb8Tq5nqhqa03Qjg2h) | [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/album/2DMPLRZcGsQ5ePYSAidglq) | 3:33 | 2025-12-18 | 2026-11-20 |
 | [Baby It´s Cold outside](https://open.spotify.com/track/4h1fmBiCJG8VHHChAk8u7o) | [Fiona Kwinn](https://open.spotify.com/artist/6XbGfIFgEv0UY8G7PMpqTH) | [Baby It´s Cold outside](https://open.spotify.com/album/7ak6wtFConKfemEAXBYmeU) | 1:52 | 2023-11-23 | 2025-09-05 |
 | [Before the Morning](https://open.spotify.com/track/2HZ7HhpDLP5wMPE87hU8SU) | [Nicolai Petrov](https://open.spotify.com/artist/6HMX92wBEHp2HKo0x3KahZ) | [Jingle Bells](https://open.spotify.com/album/22HNDMbPPHggOXJgFTq4YC) | 2:15 | 2023-11-23 |  |
 | [Blue Christmas](https://open.spotify.com/track/6QGzdaZSc9PanRN6aAuIcH) | [Dinky Donkey](https://open.spotify.com/artist/4574eyNS2pgBzhBc11Js7O) | [Sleigh Ride](https://open.spotify.com/album/7APkTdj46yR84I4EORhS1v) | 1:41 | 2023-11-23 |  |
+| [Christmas Lights](https://open.spotify.com/track/6EiE4MvZZeaciwpOkVbT9T) | [Planet of Dreams](https://open.spotify.com/artist/5dlacbkU1ZwH07oo3nBHAE) | [Christmas Lights](https://open.spotify.com/album/1Yg0Ynl5FazOtgdY7Adduf) | 2:39 | 2026-11-20 |  |
 | [Christmas Magic](https://open.spotify.com/track/72EQONt6qC7qBDCqFZ6U1F) | [Henry Moore](https://open.spotify.com/artist/2WvmYVLVIsquWGGtlc2iKm) | [My Favorite Christmas Songs](https://open.spotify.com/album/56qRlDlIg0yiqhIo95PwN5) | 2:28 | 2023-11-23 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/75xFqTnnt6CHlA7uepdaq7) | [Anne Smiles](https://open.spotify.com/artist/5xaqXD0Vd23LiE0p2JuOAk) | [Christmas For Babies](https://open.spotify.com/album/72qYhU9LQKZ706uq6n32bO) | 1:19 | 2023-11-23 | 2024-12-06 |
 | [Christmas Without You](https://open.spotify.com/track/2VTLco8szRFo2yolyk6Gy6) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [Christmas Without You](https://open.spotify.com/album/2CT9S9oGnq4GJ2e4yadCOl) | 3:01 | 2023-11-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4012276,
+  "num_followers": 4012152,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIxfB8Q/aIuvQiGOkVMx4xEezthI",
+  "snapshot_id": "AAAAAGWC3rFO+DF3Tv35rXPQBw3fIl/S",
   "tracks": [
     {
       "added_at": "2026-11-13 05:01:01",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "ORIGIN //",
         "url": "https://open.spotify.com/album/5WefrvxluoqwDRSHC0UUav"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 274090,
       "name": "Stay For Love",
       "url": "https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 204039,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "EVERYTHING IN ITS RIGHT PLACE",
         "url": "https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 302044,
       "name": "EVERYTHING IN ITS RIGHT PLACE",
       "url": "https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 204039,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -863,6 +863,26 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/24jwW4VYmuqawdcBOG6qY4"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 252574,
+      "name": "Everything Started Changing (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/4ZRvdi2lE8YHtkOuIL9doO"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -963,26 +983,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/24jwW4VYmuqawdcBOG6qY4"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 252574,
-      "name": "Everything Started Changing (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/4ZRvdi2lE8YHtkOuIL9doO"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
       },
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Spirit Bird",
-        "url": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Spirit Bird",
-      "url": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
       },
@@ -1063,22 +1043,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "NAKED",
-        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
+        "name": "Spirit Bird",
+        "url": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         },
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
         }
       ],
-      "duration_ms": 185714,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
+      "duration_ms": 248571,
+      "name": "Spirit Bird",
+      "url": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1103,18 +1083,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
+        "name": "NAKED",
+        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 228880,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
+      "duration_ms": 185714,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1135,6 +1119,22 @@
       "duration_ms": 239523,
       "name": "Flow Free",
       "url": "https://open.spotify.com/track/1AK271I7M3ZQmSulRg5EQ4"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "How Will I Know?",
         "url": "https://open.spotify.com/album/5EXB5oYUClbbNjqWbMb3N0"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 252693,
       "name": "How Will I Know?",
       "url": "https://open.spotify.com/track/0jgvWGiQSdnjsK74KyIAEa"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1543,22 +1543,34 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Burning Up",
-        "url": "https://open.spotify.com/album/6wGU0EkcUsdGDTmh9Sri86"
+        "name": "All Is Right",
+        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        },
-        {
-          "name": "Orem",
-          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
+          "name": "Thysma",
+          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
         }
       ],
-      "duration_ms": 237172,
-      "name": "Burning Up",
-      "url": "https://open.spotify.com/track/4LJ0y24EWNaEgAfAOLXCHM"
+      "duration_ms": 210500,
+      "name": "All Is Right",
+      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Electric Soul",
+      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1583,34 +1595,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Somewhere In Between",
-        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
+        "name": "Burning Up",
+        "url": "https://open.spotify.com/album/6wGU0EkcUsdGDTmh9Sri86"
       },
       "artists": [
         {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Electric Soul",
-      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "All Is Right",
-        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
-      },
-      "artists": [
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
         {
-          "name": "Thysma",
-          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
+          "name": "Orem",
+          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
         }
       ],
-      "duration_ms": 210500,
-      "name": "All Is Right",
-      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+      "duration_ms": 237172,
+      "name": "Burning Up",
+      "url": "https://open.spotify.com/track/4LJ0y24EWNaEgAfAOLXCHM"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1863,8 +1863,8 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Here Again / Wild Again",
-        "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
+        "name": "feeling something",
+        "url": "https://open.spotify.com/album/34j9PJGs4V9LPRDdOGSk92"
       },
       "artists": [
         {
@@ -1872,13 +1872,17 @@
           "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
         },
         {
-          "name": "Kazmyn",
-          "url": "https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu"
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
         }
       ],
-      "duration_ms": 227069,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
+      "duration_ms": 256000,
+      "name": "feeling something",
+      "url": "https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1923,18 +1927,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3L9lCGNvkCwtcSDPs0u00i"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
         }
       ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
+      "duration_ms": 226595,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/3sUeymnLUYDxqUcCQa1yxt"
     }
   ],
   "unique_name": "Chill Tracks",

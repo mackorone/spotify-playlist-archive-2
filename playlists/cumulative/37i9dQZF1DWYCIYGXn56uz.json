@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "solo le tracce con l'aura migliore \ud83d\udc7e ANTONIA in cover",
+  "description": "solo le tracce con l'aura migliore \ud83d\udc7e Will in cover",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137539,
       "name": "10chiamate",
       "url": "https://open.spotify.com/track/6HY3yyM2xXo9BKZ6suKSCm"
@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 146373,
       "name": "BENE (anche se)",
       "url": "https://open.spotify.com/track/0btjESwEd4F9muk2jaS4sj"
@@ -2676,7 +2676,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154871,
       "name": "Benissimo",
       "url": "https://open.spotify.com/track/2Z6rMR5qItKLBcsH04T135"
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 117421,
       "name": "Canzoni Tristi",
       "url": "https://open.spotify.com/track/41EoXeCtlOVMF5nq4jS4oG"
@@ -4742,7 +4742,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 132857,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/42CJJ9w3XPYmM45DfklssT"
@@ -5148,6 +5148,24 @@
       "duration_ms": 144158,
       "name": "Come stai Come va",
       "url": "https://open.spotify.com/track/1r1WWs9VDcUgFRdjxkE4E7"
+    },
+    {
+      "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220167,
+      "name": "Comethe",
+      "url": "https://open.spotify.com/track/5bvSqGqxO5IfvJ08nosESC"
     },
     {
       "album": {
@@ -8215,6 +8233,24 @@
     },
     {
       "album": {
+        "name": "fiori </3",
+        "url": "https://open.spotify.com/album/083v6NI5SYpXqmVI2IPlTM"
+      },
+      "artists": [
+        {
+          "name": "Vins",
+          "url": "https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160001,
+      "name": "fiori </3",
+      "url": "https://open.spotify.com/track/7aa5Zkz2DqIF9QXDJr2B4i"
+    },
+    {
+      "album": {
         "name": "FIORITI MALE",
         "url": "https://open.spotify.com/album/1ACkx2Afdll3pDL5ESuR2G"
       },
@@ -9605,6 +9641,24 @@
     },
     {
       "album": {
+        "name": "HO VISTO UN UOMO (il male)",
+        "url": "https://open.spotify.com/album/6uqTFpX49er3aX4s8AdaSy"
+      },
+      "artists": [
+        {
+          "name": "Tancredi",
+          "url": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157617,
+      "name": "HO VISTO UN UOMO (il male)",
+      "url": "https://open.spotify.com/track/0gjJlZbheBk89KeDqjGzxZ"
+    },
+    {
+      "album": {
         "name": "HO VOGLIA DI TE",
         "url": "https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj"
       },
@@ -10044,6 +10098,24 @@
       "duration_ms": 210726,
       "name": "Il Mio Compleanno",
       "url": "https://open.spotify.com/track/6Oxcj7hhbHyK0k1DPMOWV5"
+    },
+    {
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/1LE5roin33obaW2KzeBtvT"
+      },
+      "artists": [
+        {
+          "name": "opi",
+          "url": "https://open.spotify.com/artist/2dApd5nlMJKpHGNUqWT1L2"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Il mio lato peggiore",
+      "url": "https://open.spotify.com/track/3I4kyMwFw9XeipoJtyX7iN"
     },
     {
       "album": {
@@ -10942,6 +11014,24 @@
       "duration_ms": 170810,
       "name": "La canzone pi\u00f9 bella",
       "url": "https://open.spotify.com/track/5h6tNjVR2ZEP5QkEi3wSxK"
+    },
+    {
+      "album": {
+        "name": "La Cattiva Notizia",
+        "url": "https://open.spotify.com/album/3LXb2Bu4aaCp0V0uN403Uv"
+      },
+      "artists": [
+        {
+          "name": "Trigno",
+          "url": "https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188863,
+      "name": "La Cattiva Notizia",
+      "url": "https://open.spotify.com/track/0GV60HPkVtZZpIcpwOUiZE"
     },
     {
       "album": {
@@ -13707,6 +13797,24 @@
     },
     {
       "album": {
+        "name": "microplastiche",
+        "url": "https://open.spotify.com/album/21QhUDplOZGl80HYMKtliA"
+      },
+      "artists": [
+        {
+          "name": "Holy Francisco",
+          "url": "https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120774,
+      "name": "microplastiche",
+      "url": "https://open.spotify.com/track/51yeFlHZP0S5KQeOWrsWKk"
+    },
+    {
+      "album": {
         "name": "MIGLIAIA DI PROBLEMI",
         "url": "https://open.spotify.com/album/4O6bLYvHWxJecTT95NQGeY"
       },
@@ -14132,6 +14240,24 @@
       "duration_ms": 194989,
       "name": "Monete e bottoni",
       "url": "https://open.spotify.com/track/3MVod6kqB2E2VU1xrK9Hyj"
+    },
+    {
+      "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3QiRgLsRUWrErKPrWiD3NS"
     },
     {
       "album": {
@@ -16070,7 +16196,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 131729,
       "name": "OH MY GOD",
       "url": "https://open.spotify.com/track/0jnKSzZi9h8ZQGdjADpJ59"
@@ -19836,7 +19962,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 167102,
       "name": "SCHEGGE (le foglie)",
       "url": "https://open.spotify.com/track/2Je9pmfsMDcGBsqFoyrabq"
@@ -22093,6 +22219,24 @@
     },
     {
       "album": {
+        "name": "supermalinconica",
+        "url": "https://open.spotify.com/album/3w8fCEf6E00orxYRtjFHua"
+      },
+      "artists": [
+        {
+          "name": "traparentesi",
+          "url": "https://open.spotify.com/artist/1NBMY4ez12zXYBIHApfrcX"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145856,
+      "name": "supermalinconica",
+      "url": "https://open.spotify.com/track/2Y3tvbKOOrYxzLzZZf40it"
+    },
+    {
+      "album": {
         "name": "SUPERSTAR",
         "url": "https://open.spotify.com/album/6AUIAQ6gyoSZoAuU2dlK5L"
       },
@@ -22697,6 +22841,24 @@
     },
     {
       "album": {
+        "name": "PUROSANGUE",
+        "url": "https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172946,
+      "name": "Ti soffro",
+      "url": "https://open.spotify.com/track/0ALE0y4tBQCkgRIw9GRUmd"
+    },
+    {
+      "album": {
         "name": "Tipo strano",
         "url": "https://open.spotify.com/album/7qyU6NI5P4GtiuPUF6Ae6t"
       },
@@ -22712,6 +22874,24 @@
       "duration_ms": 184615,
       "name": "Tipo strano",
       "url": "https://open.spotify.com/track/69A6bIBWsOhSNkR3STnZgS"
+    },
+    {
+      "album": {
+        "name": "TLRHBDA (amami)",
+        "url": "https://open.spotify.com/album/009ZdFUk8W2z6OftjHlEQP"
+      },
+      "artists": [
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155385,
+      "name": "TLRHBDA (amami)",
+      "url": "https://open.spotify.com/track/43hLJ052uhwZ6wZNhFxlcq"
     },
     {
       "album": {
@@ -25462,7 +25642,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 134687,
       "name": "\u00c8 asciuto 'o sole",
       "url": "https://open.spotify.com/track/4MjZvYctdbXIAXksyPzm7P"

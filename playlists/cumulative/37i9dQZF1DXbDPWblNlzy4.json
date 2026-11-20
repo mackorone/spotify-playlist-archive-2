@@ -4221,6 +4221,24 @@
     },
     {
       "album": {
+        "name": "en tu apartamento",
+        "url": "https://open.spotify.com/album/4XC9DXkKjyAGXWVeRnp1cD"
+      },
+      "artists": [
+        {
+          "name": "dvd",
+          "url": "https://open.spotify.com/artist/2zLbu1txxbXVkqql76GCGR"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146925,
+      "name": "en tu apartamento",
+      "url": "https://open.spotify.com/track/28JSVuCdzS2SNbbgDKFGgf"
+    },
+    {
+      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
       },

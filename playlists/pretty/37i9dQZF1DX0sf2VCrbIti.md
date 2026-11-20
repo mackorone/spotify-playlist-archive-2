@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,926 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,931 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 56 | [Quizas Si Quizas No](https://open.spotify.com/track/6CLf04XX1tCTCatUuy62kg) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [20 Exitos](https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w) | 4:34 |
 | 57 | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \- De Navidad](https://open.spotify.com/track/60VHGVgXcbFleSAxUeNMLq) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \(De Navidad\)](https://open.spotify.com/album/1NF6nTsGudRHJLxRd9V3pW) | 4:41 |
 | 58 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tradición Urbana](https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA) | 3:03 |
-| 59 | [Pasito Tun, Tun](https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [La Orquesta de Siempre: Volume 1](https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB) | 3:46 |
-| 60 | [Blanca Navidad](https://open.spotify.com/track/5wGw97pjNm9kdtv9DbpvYF) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:18 |
+| 59 | [Blanca Navidad](https://open.spotify.com/track/5wGw97pjNm9kdtv9DbpvYF) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:18 |
+| 60 | [Pasito Tun, Tun](https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [La Orquesta de Siempre: Volume 1](https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB) | 3:46 |
 | 61 | [Tú Con El](https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:01 |
 | 62 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
 | 63 | [Rebelión](https://open.spotify.com/track/0b4VE6epbojSyLeyyuEJga) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 6:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 74 | [Plastico](https://open.spotify.com/track/0iHzbGak1CdbDBCu8VDwNU) | [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Greatest Hits](https://open.spotify.com/album/2eDs8NuigDls3kImG3u2yM) | 6:41 |
 | 75 | [En Estas Navidades](https://open.spotify.com/track/710cHHvEWf2gBkCzXnjnww) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Merengue Navideño](https://open.spotify.com/album/723wthgUpMymoNyzovCz5e) | 4:35 |
 
-Snapshot ID: `AAAAAONHwrONdBWZMDEtoGSYvWCh8Xv7`
+Snapshot ID: `AAAAABN22SSODNiyU6TQyaayyur8Ru9/`

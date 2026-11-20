@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-27",
-  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Brat Star, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Chiara Savasta, Artwork: Isu Kim",
   "name": "Fresh Finds Canada",
   "tracks": [
     {
@@ -778,7 +778,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 285405,
       "name": "405",
       "url": "https://open.spotify.com/track/2vIPNCjH3Mr9GYSj3Hq5kE"
@@ -4764,7 +4764,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 194347,
       "name": "bee's in a garden",
       "url": "https://open.spotify.com/track/6bz0X7dOGL9bctl3HqSh01"
@@ -6018,6 +6018,24 @@
       "duration_ms": 107333,
       "name": "Bleeding Heart",
       "url": "https://open.spotify.com/track/7I8kK44P2wL8oIUdM3v8Pd"
+    },
+    {
+      "album": {
+        "name": "Bless This Mess",
+        "url": "https://open.spotify.com/album/4jIF02ptkDT6WLT9OSxSXT"
+      },
+      "artists": [
+        {
+          "name": "Jennarie",
+          "url": "https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198733,
+      "name": "Bless This Mess",
+      "url": "https://open.spotify.com/track/16TQQ3Ng5YUdtfCv5Cy1ti"
     },
     {
       "album": {
@@ -13941,6 +13959,24 @@
     },
     {
       "album": {
+        "name": "donleave(agian)",
+        "url": "https://open.spotify.com/album/6WVIXXWjhopQLWDlokY27S"
+      },
+      "artists": [
+        {
+          "name": "Mostafa Nist",
+          "url": "https://open.spotify.com/artist/396XNL8Cau7V25v7YRHdAq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "donleave(agian)",
+      "url": "https://open.spotify.com/track/4wrRnDtqQSPkUFYLpdyBoM"
+    },
+    {
+      "album": {
         "name": "Doom",
         "url": "https://open.spotify.com/album/3sv1TJXiwvpuJNHrMDZeEF"
       },
@@ -20239,6 +20275,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6WVVBJpuRnqhdlmaZnzSSS"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401184,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/06jcH83GRNu41j0jpF9y94"
+    },
+    {
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/5LEX8i5Z2Pudmg9XWsHpn6"
       },
@@ -21748,7 +21802,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156426,
       "name": "Hi, hello",
       "url": "https://open.spotify.com/track/5iliAc75L4vJ3gyUD1EwvK"
@@ -29552,7 +29606,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182543,
       "name": "Livin Lovin",
       "url": "https://open.spotify.com/track/0zIpVqi04UFHxUaszlC8ey"
@@ -29686,6 +29740,28 @@
       "duration_ms": 196986,
       "name": "Lonely Day",
       "url": "https://open.spotify.com/track/7IPryyheWqJujH7vIomO0h"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy Diaries",
+        "url": "https://open.spotify.com/album/7oSfntxRQYjy54WuXfXuLS"
+      },
+      "artists": [
+        {
+          "name": "noiir",
+          "url": "https://open.spotify.com/artist/4fajmnCbACvqKxvd2jXyxz"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127227,
+      "name": "Long Distance",
+      "url": "https://open.spotify.com/track/3UryituGLPMoSwgujJrSvI"
     },
     {
       "album": {
@@ -39591,6 +39667,24 @@
     },
     {
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/355hrVSmpRBMP0PJRso5u6"
+      },
+      "artists": [
+        {
+          "name": "Yuki B",
+          "url": "https://open.spotify.com/artist/1Ag1DdfWNtnGdm83G5iYXr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193573,
+      "name": "Peine perdue",
+      "url": "https://open.spotify.com/track/0OgKRspSf8K1racNGfY7hu"
+    },
+    {
+      "album": {
         "name": "PELiGROSA",
         "url": "https://open.spotify.com/album/2np4vqZ3aP4WMfVOJDlApA"
       },
@@ -41474,6 +41568,24 @@
       "duration_ms": 161600,
       "name": "pressure",
       "url": "https://open.spotify.com/track/78hFkccKL1SPd80u54FUuW"
+    },
+    {
+      "album": {
+        "name": "Pressure & Pain",
+        "url": "https://open.spotify.com/album/66xsl63eLYvHmk0tne2JUI"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9e",
+          "url": "https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155633,
+      "name": "Pressure & Pain",
+      "url": "https://open.spotify.com/track/4CfTBnpsFXvTtwOdmmwIAp"
     },
     {
       "album": {
@@ -44598,7 +44710,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 204878,
       "name": "R\u00eaverie Tropicale",
       "url": "https://open.spotify.com/track/5Ix7s4pbHK4nqiRjt1tsyL"
@@ -45028,7 +45140,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 109859,
       "name": "Savage",
       "url": "https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE"
@@ -53085,6 +53197,24 @@
     },
     {
       "album": {
+        "name": "The Rapture",
+        "url": "https://open.spotify.com/album/0oyfP68wJW8HkMD4tvOFW1"
+      },
+      "artists": [
+        {
+          "name": "Chiara Savasta",
+          "url": "https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173973,
+      "name": "The Rapture",
+      "url": "https://open.spotify.com/track/6oUYmJJWw0xYsC8hos1jBC"
+    },
+    {
+      "album": {
         "name": "The Rest Of My Life",
         "url": "https://open.spotify.com/album/79hdummquVWlr6WvUBJg9S"
       },
@@ -56930,7 +57060,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156750,
       "name": "Visions",
       "url": "https://open.spotify.com/track/4iMEZjaZd6QrBXbGXwK0z4"

@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1735034,
+  "num_followers": 1734773,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJP4b7Cv2lKfn9yqRviRQsJZaV/1",
+  "snapshot_id": "AAAAAGfpi//OmaIgOcbbZx7RBMsnG+hs",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:24",
@@ -23,38 +23,6 @@
       "duration_ms": 288066,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
-        "name": "La Hora Azul",
-        "url": "https://open.spotify.com/album/2bauK6v6DEY6vBod3r1anN"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 163615,
-      "name": "ANGEL DE LA CIUDAD",
-      "url": "https://open.spotify.com/track/0gLGumt8IUIwbcdUgnRuqx"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -79,6 +47,38 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "La Hora Azul",
+        "url": "https://open.spotify.com/album/2bauK6v6DEY6vBod3r1anN"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 163615,
+      "name": "ANGEL DE LA CIUDAD",
+      "url": "https://open.spotify.com/track/0gLGumt8IUIwbcdUgnRuqx"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Afuera Del Planeta (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 261376,
-      "name": "Afuera Del Planeta - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Canciones para escuchar en el r\u00edo",
         "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 185806,
       "name": "Amapolas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Afuera Del Planeta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 261376,
+      "name": "Afuera Del Planeta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
+        "name": "Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/3VfF9AzOdrtJrN4yvwWV1H"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/3thXiXy8Y9Db1GwoHmxbnp"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
         "name": "Si Preguntan Por Mi (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/676KkvTEOxZB5CZPT9DFiQ"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 234763,
       "name": "Si Preguntan Por Mi - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7mINjDm0p2jkxuFhcM5CYZ"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
-        "name": "Decisi\u00f3n",
-        "url": "https://open.spotify.com/album/3VfF9AzOdrtJrN4yvwWV1H"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Decisi\u00f3n",
-      "url": "https://open.spotify.com/track/3thXiXy8Y9Db1GwoHmxbnp"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
+        "name": "Viernes 13 V (Me repito a diario)",
+        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Viernes 13 V - Me repito a diario",
+      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
         "name": "No Puedo Extra\u00f1arte",
         "url": "https://open.spotify.com/album/2zzaRImwYVaNSEd8MASRoE"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 192656,
       "name": "No Puedo Extra\u00f1arte",
       "url": "https://open.spotify.com/track/6cEY4wW5INlDK75bT7xQf0"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
-        "name": "Viernes 13 V (Me repito a diario)",
-        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "Viernes 13 V - Me repito a diario",
-      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 255650,
-      "name": "La Carretera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "ACOUSTIC SESSION",
         "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 161000,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 255650,
+      "name": "La Carretera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
         "name": "pa' que sue\u00f1es",
         "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 170795,
       "name": "pa' que sue\u00f1es",
       "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "No Valgo Pa' Ciudad",
         "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 186440,
       "name": "No Valgo Pa' Ciudad",
       "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     },
     {
       "added_at": "2026-09-11 04:01:24",

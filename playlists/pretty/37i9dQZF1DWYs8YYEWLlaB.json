@@ -1,12 +1,12 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Y\u0131ld\u0131zlardan D\u00fc\u015ft\u00fck",
-  "num_followers": 588663,
+  "num_followers": 588682,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQ2e+1RK+GTARxTp+L0rOKiHfiU",
+  "snapshot_id": "AAAAAHaBz8YAjrFCTSuSx+ADVJfyGrUO",
   "tracks": [
     {
       "added_at": "2026-11-17 05:40:28",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-11-17 05:40:28",
       "album": {
+        "name": "Ayaza Serdim",
+        "url": "https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF"
+      },
+      "artists": [
+        {
+          "name": "Kubilay Kar\u00e7a",
+          "url": "https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Ayaza Serdim",
+      "url": "https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej"
+    },
+    {
+      "added_at": "2026-11-17 05:40:28",
+      "album": {
         "name": "GEL GEL GEL",
         "url": "https://open.spotify.com/album/6POXXtou8ETiuvDKpCc5HK"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 160087,
       "name": "GEL GEL GEL",
       "url": "https://open.spotify.com/track/2tni0FShSW5lPlCGyhy6xR"
-    },
-    {
-      "added_at": "2026-11-17 05:40:28",
-      "album": {
-        "name": "Ayaza Serdim",
-        "url": "https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF"
-      },
-      "artists": [
-        {
-          "name": "Kubilay Kar\u00e7a",
-          "url": "https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "Ayaza Serdim",
-      "url": "https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej"
     },
     {
       "added_at": "2026-11-17 05:40:28",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-11-17 05:40:28",
       "album": {
-        "name": "ROMANESA",
-        "url": "https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny"
-      },
-      "artists": [
-        {
-          "name": "Tekir",
-          "url": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
-        },
-        {
-          "name": "G\u00f6khan Naml\u0131",
-          "url": "https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc"
-        }
-      ],
-      "duration_ms": 157291,
-      "name": "Vursunlar - Roman Version",
-      "url": "https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N"
-    },
-    {
-      "added_at": "2026-11-17 05:40:28",
-      "album": {
         "name": "Yanar (Dedub Sessions II)",
         "url": "https://open.spotify.com/album/1DmcdJDrMN6kqAUFTY3sZc"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 160045,
       "name": "Yanar - Dedub Sessions II",
       "url": "https://open.spotify.com/track/6TXH41wtFj3o1dMOp7lKHM"
+    },
+    {
+      "added_at": "2026-11-17 05:40:28",
+      "album": {
+        "name": "ROMANESA",
+        "url": "https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny"
+      },
+      "artists": [
+        {
+          "name": "Tekir",
+          "url": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
+        },
+        {
+          "name": "G\u00f6khan Naml\u0131",
+          "url": "https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc"
+        }
+      ],
+      "duration_ms": 157291,
+      "name": "Vursunlar - Roman Version",
+      "url": "https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N"
     },
     {
       "added_at": "2026-11-17 05:40:28",

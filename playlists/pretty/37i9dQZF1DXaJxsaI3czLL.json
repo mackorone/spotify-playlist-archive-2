@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 135910,
+  "num_followers": 135919,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANUjODXhjnLWDo7D6ei5AD2MEJyh",
+  "snapshot_id": "AAAAAEUIxB9p3nCmQp34UhZJy7SY5Qz2",
   "tracks": [
     {
       "added_at": "2026-04-17 03:28:41",
@@ -793,20 +793,20 @@
       "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
-      "added_at": "2026-11-06 08:34:47",
+      "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u30ab\u30d5\u30a7\u30fb\u30aa\u30fb\u30ec",
-        "url": "https://open.spotify.com/album/6j3BaOFrDRs71DECOMsMxe"
+        "name": "475",
+        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
       },
       "artists": [
         {
-          "name": "\u68ee\u4e03\u83dc",
-          "url": "https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy"
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
         }
       ],
-      "duration_ms": 260812,
-      "name": "\u60b2\u3057\u307f\u306e\u30e9\u30c3\u30ad\u30fc\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/1udmdRs9QhmcuxToqty9sk"
+      "duration_ms": 238858,
+      "name": "cuz",
+      "url": "https://open.spotify.com/track/4s3kcmPWMIxf7LmWF4F80m"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
     },
     {
-      "added_at": "2026-04-17 03:28:41",
+      "added_at": "2026-11-06 08:34:47",
       "album": {
-        "name": "475",
-        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
+        "name": "\u30ab\u30d5\u30a7\u30fb\u30aa\u30fb\u30ec",
+        "url": "https://open.spotify.com/album/6j3BaOFrDRs71DECOMsMxe"
       },
       "artists": [
         {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+          "name": "\u68ee\u4e03\u83dc",
+          "url": "https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy"
         }
       ],
-      "duration_ms": 238858,
-      "name": "cuz",
-      "url": "https://open.spotify.com/track/4s3kcmPWMIxf7LmWF4F80m"
+      "duration_ms": 260812,
+      "name": "\u60b2\u3057\u307f\u306e\u30e9\u30c3\u30ad\u30fc\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/1udmdRs9QhmcuxToqty9sk"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
+        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
+      },
+      "artists": [
+        {
+          "name": "Takehara Pistol",
+          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
+        }
+      ],
+      "duration_ms": 331984,
+      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
+      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "Double Rift",
         "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
-        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
-      },
-      "artists": [
-        {
-          "name": "Takehara Pistol",
-          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
-        }
-      ],
-      "duration_ms": 331984,
-      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
-      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
         "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 259713,
       "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
       "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "texte",
+        "url": "https://open.spotify.com/album/7gAi50SKJ9bL2TXWgCUlaq"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
+      "url": "https://open.spotify.com/track/2nxeYMpGeXEGgebf3JJLBV"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1131,22 +1147,6 @@
       "duration_ms": 392173,
       "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
       "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "texte",
-        "url": "https://open.spotify.com/album/7gAi50SKJ9bL2TXWgCUlaq"
-      },
-      "artists": [
-        {
-          "name": "Mone Kamishiraishi",
-          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
-      "url": "https://open.spotify.com/track/2nxeYMpGeXEGgebf3JJLBV"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 287827,
+      "name": "\u7a93",
+      "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "The Story of Us",
         "url": "https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+        "name": "\u3081\u3050\u308b",
+        "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
       },
       "artists": [
         {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
         }
       ],
-      "duration_ms": 287827,
-      "name": "\u7a93",
-      "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
+      "duration_ms": 265026,
+      "name": "\u3081\u3050\u308b",
+      "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u3081\u3050\u308b",
-        "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
       },
       "artists": [
         {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
         }
       ],
-      "duration_ms": 265026,
-      "name": "\u3081\u3050\u308b",
-      "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
+      "duration_ms": 240323,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1299,22 +1315,6 @@
       "duration_ms": 241810,
       "name": "Slow time lover",
       "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 240323,
-      "name": "Mellow",
-      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "Unknown",
-        "url": "https://open.spotify.com/album/1I5acP1fmbJh7F0g9GwsyA"
+        "name": "Long Voyage",
+        "url": "https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi"
       },
       "artists": [
         {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+          "name": "Tavito Nanao",
+          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
         }
       ],
-      "duration_ms": 244748,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/3ymmhmikPwzb3ZdDZ8GBgl"
+      "duration_ms": 371667,
+      "name": "if you just smile\uff08\u3082\u3057\u541b\u304c\u5fae\u7b11\u3093\u3060\u3089\uff09",
+      "url": "https://open.spotify.com/track/0T68jDr8wpTUtpWoxjX1ue"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "Long Voyage",
-        "url": "https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi"
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/1I5acP1fmbJh7F0g9GwsyA"
       },
       "artists": [
         {
-          "name": "Tavito Nanao",
-          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 371667,
-      "name": "if you just smile\uff08\u3082\u3057\u541b\u304c\u5fae\u7b11\u3093\u3060\u3089\uff09",
-      "url": "https://open.spotify.com/track/0T68jDr8wpTUtpWoxjX1ue"
+      "duration_ms": 244748,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/3ymmhmikPwzb3ZdDZ8GBgl"
     },
     {
       "added_at": "2026-04-17 03:28:41",

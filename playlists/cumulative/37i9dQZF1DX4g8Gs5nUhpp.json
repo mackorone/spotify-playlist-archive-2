@@ -458,7 +458,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 257013,
       "name": "Anh L\u00e0 Ai",
       "url": "https://open.spotify.com/track/3gLRyMbg5nWLcuKD46Uz72"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 300221,
       "name": "EM \u0110AU",
       "url": "https://open.spotify.com/track/317Lh6QCAz9JpWbV3oxrCf"
@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 217731,
       "name": "Kh\u00f4ng Th\u1eddi Gian",
       "url": "https://open.spotify.com/track/6GUKRhIsWxA7VuZW8MKQLG"
@@ -4597,6 +4597,28 @@
     },
     {
       "album": {
+        "name": "L\u1ee1 Th\u01b0\u01a1ng Nhau (B\u00f2 S\u1eefa Bay Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6SvgvCWPAH5iIPwuwQaFfJ"
+      },
+      "artists": [
+        {
+          "name": "Nguy\u1ec5n H\u00f9ng",
+          "url": "https://open.spotify.com/artist/7oxw8G3qB7DwjCs18JWJt5"
+        },
+        {
+          "name": "Mounter",
+          "url": "https://open.spotify.com/artist/1Lrp0KS97OAy2QUgJiDaik"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233500,
+      "name": "L\u1ee1 Th\u01b0\u01a1ng Nhau - B\u00f2 S\u1eefa Bay Original Soundtrack",
+      "url": "https://open.spotify.com/track/4AgVaW4inG7jygPv2rQ210"
+    },
+    {
+      "album": {
         "name": "MAKING MY WAY",
         "url": "https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal"
       },
@@ -4982,7 +5004,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 235315,
       "name": "m\u1ed9t b\u00e0i h\u00e1t kh\u00f4ng vui m\u1ea5y - Extended Version",
       "url": "https://open.spotify.com/track/36fgG6NiEuQXznNgf5y2Ck"
@@ -5398,7 +5420,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 256000,
       "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
       "url": "https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo"
@@ -6206,7 +6228,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 266666,
       "name": "Ph\u00e9p M\u00e0u - \u0110\u00e0n C\u00e1 G\u1ed7 Original Soundtrack",
       "url": "https://open.spotify.com/track/1DVYafsLmcQySKkJnY4RCs"
@@ -6330,6 +6352,24 @@
       "duration_ms": 310769,
       "name": "Qu\u00e1 Kh\u1ee9 \u0110\u00f4i, Hi\u1ec7n T\u1ea1i \u0110\u01a1n",
       "url": "https://open.spotify.com/track/5Fmtix3LkYpcXI7nVFpEyC"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e1 \u0110\u1ee7 R\u1ed3i",
+        "url": "https://open.spotify.com/album/2z2Q1RVaUccZoETSpFRUBj"
+      },
+      "artists": [
+        {
+          "name": "CoolKid",
+          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242142,
+      "name": "Qu\u00e1 \u0110\u1ee7 R\u1ed3i",
+      "url": "https://open.spotify.com/track/5KlOG7dWMeX9behheWgtrl"
     },
     {
       "album": {
@@ -6870,7 +6910,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 420000,
       "name": "SSD",
       "url": "https://open.spotify.com/track/2JZH5Rwp2WCAWzm3hXYzQf"
@@ -6968,7 +7008,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 220893,
       "name": "S\u1edbm Nh\u01b0 V\u1eady",
       "url": "https://open.spotify.com/track/0GXZXSDFSbJjqdGifjSaig"
@@ -7415,6 +7455,24 @@
     },
     {
       "album": {
+        "name": "TH\u1ebe N\u00c0O L\u00c0 \u0110\u00daNG? (\"CH\u1eca CH\u1eca EM EM 3\" ORIGINAL SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/5NS1o3MBKkwpTESMl4I491"
+      },
+      "artists": [
+        {
+          "name": "B\u1ea3o Anh",
+          "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233739,
+      "name": "TH\u1ebe N\u00c0O L\u00c0 \u0110\u00daNG? (\"CH\u1eca CH\u1eca EM EM 3\" ORIGINAL SOUNDTRACK)",
+      "url": "https://open.spotify.com/track/3zLYevIPZQMpSPF5TOaWtt"
+    },
+    {
+      "album": {
         "name": "Ch\u00fac T\u1ebft 2025",
         "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
       },
@@ -7662,7 +7720,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172500,
       "name": "Tr\u00e0n B\u1ed9 Nh\u1edb",
       "url": "https://open.spotify.com/track/0669gFIK8dYK9GGQ0K0QNF"

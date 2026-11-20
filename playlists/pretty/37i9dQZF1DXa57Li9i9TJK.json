@@ -1,12 +1,12 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Julieta Venegas en portada ",
-  "num_followers": 37957,
+  "num_followers": 37972,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPdp+sqqfb9H2MEaZCk0wrbcCjY5",
+  "snapshot_id": "AAAAAJUo9YNVnLkEBKxq0IzgBpyWyuPl",
   "tracks": [
     {
       "added_at": "2026-05-18 21:58:22",
@@ -367,6 +367,26 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
         "name": "ONDEADO$",
         "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 208800,
       "name": "ULTIMAMENTE",
       "url": "https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Atento Aviso ... Rey Sin Reina",
-        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 150523,
-      "name": "Rey Sin Reina",
-      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Te Atrapar\u00e9 Bandido",
         "url": "https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 179773,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 150523,
+      "name": "Rey Sin Reina",
+      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Es Para Ti",
         "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 202266,
       "name": "Ens\u00e9\u00f1ame A Olvidarte",
       "url": "https://open.spotify.com/track/2Ku6P1U8QkOQcLEXTRxygX"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
+        "name": "Locos De Amor",
+        "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
         "name": "MU\u00d1EQUITA",
         "url": "https://open.spotify.com/album/6oTN8LafyB7RkdzRKiLvgm"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 166132,
       "name": "MU\u00d1EQUITA",
       "url": "https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
-        "name": "Locos De Amor",
-        "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
     },
     {
       "added_at": "2026-05-18 21:58:22",

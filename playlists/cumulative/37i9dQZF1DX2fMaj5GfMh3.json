@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: Dove Cameron",
+  "description": "De nieuwste pop songs. Cover: Dua Lipa",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185031,
       "name": "A Higher Love",
       "url": "https://open.spotify.com/track/1H7rWyKOKEWlF7C6QP4RKs"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178822,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
@@ -7969,6 +7969,24 @@
     },
     {
       "album": {
+        "name": "Everybody's Leaving",
+        "url": "https://open.spotify.com/album/2V6eJLWNrqr0VVhZeWJSaq"
+      },
+      "artists": [
+        {
+          "name": "December 10",
+          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180466,
+      "name": "Everybody's Leaving",
+      "url": "https://open.spotify.com/track/5ijSQwNVtyHAOZmaZuypAI"
+    },
+    {
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
       },
@@ -8534,7 +8552,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159380,
       "name": "Far from Great",
       "url": "https://open.spotify.com/track/1vHOmltnmayJaFIndCznVp"
@@ -9046,7 +9064,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 215850,
       "name": "Floating",
       "url": "https://open.spotify.com/track/2yG3hop5awya35QyeiBf3w"
@@ -9709,6 +9727,24 @@
     },
     {
       "album": {
+        "name": "Get \u2018Em Girls",
+        "url": "https://open.spotify.com/album/2Gtzo1b2Hsv9kkh5r4CT6P"
+      },
+      "artists": [
+        {
+          "name": "KARLEE GIRL",
+          "url": "https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199270,
+      "name": "Get \u2018Em Girls",
+      "url": "https://open.spotify.com/track/0PLJ8yOxocpIiRlo20Bp0f"
+    },
+    {
+      "album": {
         "name": "Diamonds & Dancefloors",
         "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
       },
@@ -10092,6 +10128,28 @@
       "duration_ms": 195402,
       "name": "GO",
       "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
+    },
+    {
+      "album": {
+        "name": "Go Easy (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192301,
+      "name": "Go Easy (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
     },
     {
       "album": {
@@ -15597,6 +15655,24 @@
     },
     {
       "album": {
+        "name": "Leave With Me (Featured in Always Lalisa)",
+        "url": "https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184788,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G"
+    },
+    {
+      "album": {
         "name": "Leave You (Never)",
         "url": "https://open.spotify.com/album/719K239D6kQI3oi3Bw8rbJ"
       },
@@ -15716,7 +15792,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216104,
       "name": "Let\u2019s Get Married",
       "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
@@ -16078,7 +16154,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 228221,
       "name": "Listen When Sad",
       "url": "https://open.spotify.com/track/3mhqgCtsv3BkWXWHBKR3b0"
@@ -16355,6 +16431,24 @@
     },
     {
       "album": {
+        "name": "Daughter from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175970,
+      "name": "Lost in It",
+      "url": "https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt"
+    },
+    {
+      "album": {
         "name": "Lost Your Faith",
         "url": "https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd"
       },
@@ -16464,6 +16558,24 @@
       "duration_ms": 174911,
       "name": "Love Is Like (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
+    },
+    {
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/1X6BLPFIeELLwBVwxYz2yD"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213248,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/2F2VcPy01p1rRUdvwnXMpc"
     },
     {
       "album": {
@@ -17082,7 +17194,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 126000,
       "name": "Made My Night",
       "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
@@ -21738,7 +21850,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 151003,
       "name": "Question Of The Day",
       "url": "https://open.spotify.com/track/3Yw8Agaovn9g02SPGZOK48"
@@ -22309,6 +22421,24 @@
     },
     {
       "album": {
+        "name": "Bad Throw, Good Catch",
+        "url": "https://open.spotify.com/album/70fJvZsO9wMxqcHzhgzVBX"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215639,
+      "name": "River Of Dust",
+      "url": "https://open.spotify.com/track/6XkDXZgP5X44aTnlqpZc7h"
+    },
+    {
+      "album": {
         "name": "Perrie",
         "url": "https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC"
       },
@@ -22608,7 +22738,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 209881,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/2L1hG8qv7LPuyIzsNCyfeT"
@@ -24497,6 +24627,24 @@
     },
     {
       "album": {
+        "name": "Someone That I Never Knew",
+        "url": "https://open.spotify.com/album/5NskQpl3UrmlhQgz50LDKD"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243427,
+      "name": "Someone That I Never Knew",
+      "url": "https://open.spotify.com/track/3adaPZzZp7kgQMsZuQrMJB"
+    },
+    {
+      "album": {
         "name": "Someone to Hold (from the Netflix Film \"Steps\")",
         "url": "https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX"
       },
@@ -24526,7 +24674,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184665,
       "name": "Someone You Love",
       "url": "https://open.spotify.com/track/3di9IAQXncZ2JJXRAJU1Jy"
@@ -25292,7 +25440,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 344295,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P"
@@ -27038,6 +27186,24 @@
       "duration_ms": 241766,
       "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
+    },
+    {
+      "album": {
+        "name": "The One That Never Went Away",
+        "url": "https://open.spotify.com/album/7mIVNSqxhcCnL4qV73helG"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206010,
+      "name": "The One That Never Went Away",
+      "url": "https://open.spotify.com/track/74eFDFBaO8nf8zH9zi778x"
     },
     {
       "album": {
@@ -28849,6 +29015,24 @@
     },
     {
       "album": {
+        "name": "Beetje Arrogant",
+        "url": "https://open.spotify.com/album/4z3p7pMwP0eYfK3f5YSN8L"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143211,
+      "name": "Wat Zijn We Aan Het Doen",
+      "url": "https://open.spotify.com/track/1af2LKMNUIaTh2HOr8FcHF"
+    },
+    {
+      "album": {
         "name": "Watch It Burn",
         "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
       },
@@ -30558,6 +30742,28 @@
       "duration_ms": 179517,
       "name": "You're Hired (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI"
+    },
+    {
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/3Gd7c4ZN1H9xcbbgbfjhO7"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        },
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165520,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/3uxVysH3jx2aTOlzub9IxV"
     },
     {
       "album": {

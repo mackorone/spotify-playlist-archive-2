@@ -40315,6 +40315,28 @@
     },
     {
       "album": {
+        "name": "Wasting My Time",
+        "url": "https://open.spotify.com/album/3uH3TNUo9vWbZujOHDy6Hk"
+      },
+      "artists": [
+        {
+          "name": "METRI",
+          "url": "https://open.spotify.com/artist/7lTxr97GMt8de87YqV2xqE"
+        },
+        {
+          "name": "Cole Wild",
+          "url": "https://open.spotify.com/artist/1WlIY1xhXS6OMIK5d1ZZDm"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140563,
+      "name": "Wasting My Time",
+      "url": "https://open.spotify.com/track/3xvxd8kLvjYkuETDOOsbLM"
+    },
+    {
+      "album": {
         "name": "Watching Over Me",
         "url": "https://open.spotify.com/album/5n3A23v0indork34sZTUF3"
       },

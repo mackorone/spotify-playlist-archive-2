@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 69 | [Don't Say Goodnight](https://open.spotify.com/track/77Z79JhMPYNlHZaap9mm5W) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Don't Say Goodnight](https://open.spotify.com/album/6X1TomjwJtCv8uWMMKixRD) | 3:23 |
 | 70 | [Granted](https://open.spotify.com/track/3SoRJ8T5ttium7FSUfrBF8) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Granted](https://open.spotify.com/album/0aqiLiJHhzqbLZispCNATc) | 3:09 |
 | 71 | [Don't Know Myself](https://open.spotify.com/track/55rRGt3xJzmYMYbQMQ4Roo) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Country With Heart \(Part One\)](https://open.spotify.com/album/5JMJALe7t4VoWpnXL4FdUY) | 2:57 |
-| 72 | [Shovel](https://open.spotify.com/track/5ao3rMEaYM0I6GjhNe7ZX5) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Shovel](https://open.spotify.com/album/2KbjBBp1XuxhY5UZUke66S) | 2:47 |
-| 73 | [Broken Hearts Break](https://open.spotify.com/track/4Zxz5nRPkPDzTfau5WG3g6) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Broken Hearts](https://open.spotify.com/album/3nhHTXUL4eEFE6LRD8Fo0n) | 3:33 |
-| 74 | [Here Lately](https://open.spotify.com/track/3epRWaayV25eHLA2wo9JYJ) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1F0mesEH5vtp1x0AVobXH0) | 2:39 |
+| 72 | [Here Lately](https://open.spotify.com/track/3epRWaayV25eHLA2wo9JYJ) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1F0mesEH5vtp1x0AVobXH0) | 2:39 |
+| 73 | [Shovel](https://open.spotify.com/track/5ao3rMEaYM0I6GjhNe7ZX5) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Shovel](https://open.spotify.com/album/2KbjBBp1XuxhY5UZUke66S) | 2:47 |
+| 74 | [Broken Hearts Break](https://open.spotify.com/track/4Zxz5nRPkPDzTfau5WG3g6) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Broken Hearts](https://open.spotify.com/album/3nhHTXUL4eEFE6LRD8Fo0n) | 3:33 |
 | 75 | [God and a Good Man](https://open.spotify.com/track/5FdyZx9yvHUWLeCjy7zgXc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Golden Child](https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct) | 4:56 |
 | 76 | [More Of You](https://open.spotify.com/track/06kYozo6Am3njAuYXy7XJw) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [More Of You](https://open.spotify.com/album/6BPN1ae8Yj3YBjA4smeT6p) | 3:33 |
 | 77 | [Easy for You to Say](https://open.spotify.com/track/6l6AwR3Vp9tGt97OE1bdPs) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3cZg2kg86yLwTyMoBv5bBC) | 3:19 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 130 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 131 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AciCaAAAAADxUjfLMHPpFtCn+lGqNgNV`
+Snapshot ID: `AciIHAAAAADYkme1wjWapywMZL2AffPW`

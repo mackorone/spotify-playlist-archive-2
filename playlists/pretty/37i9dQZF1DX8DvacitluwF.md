@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: Lloyiso
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,582 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,587 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 21 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
 | 22 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 |
 | 23 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
-| 24 | [To The Moon \(Plan C\) \- feat\. Steve Lacy](https://open.spotify.com/track/19u9Ms6Z8Ilo0JOITN2mFV) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Before The World Blows](https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI) | 4:16 |
-| 25 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
+| 24 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
+| 25 | [To The Moon \(Plan C\) \- feat\. Steve Lacy](https://open.spotify.com/track/19u9Ms6Z8Ilo0JOITN2mFV) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Before The World Blows](https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI) | 4:16 |
 | 26 | [have to.](https://open.spotify.com/track/7GApeoo08HHJ70980XyPZz) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:27 |
 | 27 | [FOOL ME ONCE \(feat\. Leon Thomas\)](https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:18 |
 | 28 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU) | 2:42 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 35 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 |
 | 36 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
 | 37 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
-| 38 | [SPEECHLESS](https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G) | 2:42 |
-| 39 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |
+| 38 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |
+| 39 | [SPEECHLESS](https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G) | 2:42 |
 | 40 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
 | 41 | [Closure](https://open.spotify.com/track/3jXEQ0Q1KUp8qDNpqxEixT) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eric Bellinger](https://open.spotify.com/album/3uzbUHpvDp6O2bfpOLE1Yf) | 3:03 |
 | 42 | [Eugene](https://open.spotify.com/track/7qmkXF08ElAFoN7Wrn3FW1) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Eugene / Save The World](https://open.spotify.com/album/6Dusr0zMg57KbTwHFapiQj) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 49 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
 | 50 | [Circles](https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf) | [sunandmoon](https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Anoop](https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy) | [Circles](https://open.spotify.com/album/0cYnmsIOUzTu8ooIHdjQwg) | 3:40 |
 
-Snapshot ID: `AAAAAF4bt4G+Y+BSLPJM3XDC5UfLkZbc`
+Snapshot ID: `AAAAABOZPjsFEQHupnk6+JP637mzIGc6`

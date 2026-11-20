@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 509807,
+  "num_followers": 509853,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABE6gVqI0mfv8GeNQ2Xlt5oJHa3s",
+  "snapshot_id": "AAAAACbr3fLdMpRpLIciIF7a3wuwaYBs",
   "tracks": [
     {
       "added_at": "2026-09-25 15:56:07",
@@ -703,30 +703,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "It's Your Life",
-        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
-      },
-      "artists": [
-        {
-          "name": "Isadora",
-          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
-        },
-        {
-          "name": "Marina Diniz",
-          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "It's Your Life",
-      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
+      },
+      "artists": [
+        {
+          "name": "Isadora",
+          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
+        },
+        {
+          "name": "Marina Diniz",
+          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
         "name": "Quem N\u00e3o Quer Sou Eu",
         "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 178205,
       "name": "Quem N\u00e3o Quer Sou Eu",
       "url": "https://open.spotify.com/track/2kVbOlICxuNwFU8pFEx12q"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
-        "name": "Alok Presents Brazilian Bass: Pt. 1",
-        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 216126,
       "name": "Light",
       "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2026-09-25 15:56:07",

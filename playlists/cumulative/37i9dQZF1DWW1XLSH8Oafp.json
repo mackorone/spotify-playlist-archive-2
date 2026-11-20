@@ -3850,7 +3850,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 271580,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/1PWAw51Sy0IKpdBDW8RxP7"
@@ -7261,6 +7261,28 @@
     },
     {
       "album": {
+        "name": "elevator music",
+        "url": "https://open.spotify.com/album/7i5czfUhuiXEREkk6oPw6g"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146092,
+      "name": "elevator music",
+      "url": "https://open.spotify.com/track/1MsLVmMAsOluMSgFrHuoqy"
+    },
+    {
+      "album": {
         "name": "EMBER",
         "url": "https://open.spotify.com/album/1XQazD0TE1GaJvHhq0R3ky"
       },
@@ -10472,6 +10494,24 @@
       "duration_ms": 248571,
       "name": "Heart",
       "url": "https://open.spotify.com/track/0p7xa6EfNLHiwcf130aQRT"
+    },
+    {
+      "album": {
+        "name": "Heart 2 Heart",
+        "url": "https://open.spotify.com/album/29LfSahFswVPCZVLZotubX"
+      },
+      "artists": [
+        {
+          "name": "Clouds",
+          "url": "https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Heart 2 Heart",
+      "url": "https://open.spotify.com/track/3SIaj3J9e76FTEtB2ULhsC"
     },
     {
       "album": {
@@ -15478,7 +15518,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137493,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI"
@@ -17212,6 +17252,24 @@
       "duration_ms": 126926,
       "name": "Nobody (Like You)",
       "url": "https://open.spotify.com/track/2ua4P7zVjvyDp54hhGEALs"
+    },
+    {
+      "album": {
+        "name": "Nobody Can Know Me Like You Do",
+        "url": "https://open.spotify.com/album/2yEwVF5gabrSZFZ473Syr6"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Nobody Can Know Me Like You Do",
+      "url": "https://open.spotify.com/track/0drT8Zlv5uzrQMAKNzDq2u"
     },
     {
       "album": {
@@ -27084,7 +27142,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 269352,
       "name": "Yearning (Faster Horses Remix)",
       "url": "https://open.spotify.com/track/2W0e6UkOWvn6Cbgmknuv5l"

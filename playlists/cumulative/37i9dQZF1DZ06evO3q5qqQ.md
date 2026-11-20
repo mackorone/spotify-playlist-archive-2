@@ -4,7 +4,7 @@
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-177 songs - 8 hr 34 min
+178 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [La Muchacha Del Salado "La Nicholette" \- En vivo](https://open.spotify.com/track/2L3jQPodSgtQFcBB4A5FoQ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM) | 2:44 | 2026-05-19 |  |
 | [La Novedad](https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS) | 3:29 | 2024-04-22 | 2026-11-03 |
 | [La Novedad](https://open.spotify.com/track/5TKTn0Fqrq5A3nEPQM7hqx) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/5kELlrPsgle78arB2Nfz8I) | 3:29 | 2026-11-03 | 2026-11-13 |
+| [La Novedad](https://open.spotify.com/track/7eYwzBlQ9vAiboYVg7fk5Q) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/655zzucpnGOJfBgO8bxU57) | 3:29 | 2026-11-20 |  |
 | [La Pasadita \(En vivo\)](https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:29 | 2024-02-25 | 2026-04-24 |
 | [La Pasadita \- En Vivo](https://open.spotify.com/track/0TWZuDxWncmYDJjGiHQ8qW) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI) | 2:29 | 2026-04-24 | 2026-05-19 |
 | [La Pasadita \- En vivo](https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD) | 2:29 | 2026-05-19 |  |
@@ -182,7 +183,7 @@
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 | 2024-01-29 | 2024-04-19 |
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 | 2024-04-19 |  |
 | [Ya No Puedo Con Esto](https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX) | 2:29 | 2024-03-28 | 2026-03-27 |
-| [Ya No Puedo Con Esto](https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs) | 2:29 | 2026-05-10 |  |
+| [Ya No Puedo Con Esto](https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs) | 2:29 | 2026-05-10 | 2026-11-20 |
 | [¿Cómo Te Olvido?](https://open.spotify.com/track/2DzLUxQ1QB30GSQBYa1zIT) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [¿Cómo Te Olvido?](https://open.spotify.com/album/2RMo1JLJ9Kr1twPWbqzfBJ) | 3:28 | 2026-09-20 |  |
 | [¿En Dónde Te Habías Metido?](https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Color Del Amor](https://open.spotify.com/album/1TCg2YDwIjA36bRYTQgg9C) | 4:22 | 2025-10-14 | 2026-01-05 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música que representa a Cuba! Cover: Wampi
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,249 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,258 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 38 | [Vibras](https://open.spotify.com/track/6KCvGJbPW4stj6p2PFt5aj) | [Akoy](https://open.spotify.com/artist/4Q2X9b6vlgRq04Lp3Leykw), [Dale Pututi & Nesty](https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [Vibras](https://open.spotify.com/album/1BWYew8QB2zdGHXdCt7bXu) | 3:14 |
 | 39 | [UN TIEMPO](https://open.spotify.com/track/6RhoTSeKVDKan32JCh80fV) | [Yorshi & Yosan](https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO), [Charaway](https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy) | [UN TIEMPO](https://open.spotify.com/album/629OQNREnZdJKsPtbvp0CI) | 2:58 |
 | 40 | [POQUITICO](https://open.spotify.com/track/1WOwgd7rhOlidOhkn2rcp7) | [Zurdo Mc](https://open.spotify.com/artist/2WPnRprqCgkxTrErb9xuqN), [Payaso x Ley](https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS), [Wildey](https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS) | [POQUITICO](https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT) | 3:18 |
-| 41 | [TODO SE SUPERA](https://open.spotify.com/track/7yclBy0HutOePT34WzbAxi) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk), [Velito el Bufón](https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB) | [TODO SE SUPERA](https://open.spotify.com/album/1dwGmtihvoExwvQ29jP3tw) | 2:45 |
-| 42 | [Las Prosti](https://open.spotify.com/track/2in2xA986JvLRTVc5JJbby) | [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Las Prosti](https://open.spotify.com/album/1GEmOvo29J0EKZZ8hpQT0I) | 2:55 |
+| 41 | [Las Prosti](https://open.spotify.com/track/2in2xA986JvLRTVc5JJbby) | [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Las Prosti](https://open.spotify.com/album/1GEmOvo29J0EKZZ8hpQT0I) | 2:55 |
+| 42 | [TODO SE SUPERA](https://open.spotify.com/track/7yclBy0HutOePT34WzbAxi) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk), [Velito el Bufón](https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB) | [TODO SE SUPERA](https://open.spotify.com/album/1dwGmtihvoExwvQ29jP3tw) | 2:45 |
 | 43 | [El Millonario](https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R) | [Ronkalunga](https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC) | [La Chiva](https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct) | 4:10 |
 | 44 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
 | 45 | [De Ping4](https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [Charaway](https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy) | [De Ping4](https://open.spotify.com/album/75LHeZMkEZP1Nkwbum0kKg) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 49 | [Te Amo \(Versos Gastados\) \- Prod\. by Cuban Deejay$](https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 3:39 |
 | 50 | [El Men2 Remix](https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY) | [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8), [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [El Men2 Remix](https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg) | 3:38 |
 
-Snapshot ID: `AAAAAPPikvbjwggcJBorTFSns86zeuSq`
+Snapshot ID: `AAAAANYjK5mlbUUyLrS/IURT6aa+yKdM`

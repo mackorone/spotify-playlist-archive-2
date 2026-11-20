@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
@@ -2287,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "FULL EN SERIO",
+        "url": "https://open.spotify.com/album/0WISPSF75HSULwBCZMT4Nt"
+      },
+      "artists": [
+        {
+          "name": "SANTANDER",
+          "url": "https://open.spotify.com/artist/2kZALmgpdHQQH5bNUiw26K"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172352,
+      "name": "FULL EN SERIO",
+      "url": "https://open.spotify.com/track/29oVtYOoidpG66xA0leYGs"
+    },
+    {
+      "album": {
         "name": "Gana el Amor",
         "url": "https://open.spotify.com/album/3nhfHjTT2p7Djo0qlAB996"
       },
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217906,
       "name": "La Mujer Perfecta",
       "url": "https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR"
@@ -4284,6 +4302,24 @@
       "duration_ms": 227773,
       "name": "Que Me Alcance la Vida",
       "url": "https://open.spotify.com/track/43adPQExeccDm4xZboyQcN"
+    },
+    {
+      "album": {
+        "name": "que seas t\u00fa -- & amor herido . . .",
+        "url": "https://open.spotify.com/album/0QgnpGyTgCGrGmTFODU4l1"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "que seas t\u00fa --",
+      "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
     },
     {
       "album": {

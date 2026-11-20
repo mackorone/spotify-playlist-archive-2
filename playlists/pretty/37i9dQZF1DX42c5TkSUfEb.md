@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,481 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,429 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 62 | [Sunflower](https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p) | 4:23 |
 | 63 | [Only Gets Better](https://open.spotify.com/track/7ndD9CZzLSAyVWHGH1LytA) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Only Gets Better](https://open.spotify.com/album/1ZECACbWsbjf0MzKsZO0jC) | 3:54 |
 | 64 | [paradox](https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [paradox](https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24) | 5:09 |
-| 65 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 |
-| 66 | [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 |
+| 65 | [Silver Springs \- Spotify Singles](https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Silver Springs \(Spotify Singles\)](https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k) | 3:20 |
+| 66 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 |
 | 67 | [the swirl ahead](https://open.spotify.com/track/0eBskPYrLquDh9TlLVVBgN) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe) | [the swirl ahead](https://open.spotify.com/album/4i2fObVc3bdNkfXSRye4DY) | 3:16 |
-| 68 | [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 |
-| 69 | [Silver Springs \- Spotify Singles](https://open.spotify.com/track/171L1i9B8JSR234FJbKDPi) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Silver Springs \(Spotify Singles\)](https://open.spotify.com/album/0fW7syaAcr6p7MpMnyq49k) | 3:20 |
+| 68 | [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 |
+| 69 | [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 |
 | 70 | [H24](https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [H24](https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz) | 3:36 |
 | 71 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 |
 | 72 | [Sonatine](https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Sonatine](https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb) | 3:53 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 93 | [If Only](https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR) | [Aiden](https://open.spotify.com/artist/4hQe9URLHobODCosOur1Ma) | [If Only](https://open.spotify.com/album/7d05HveiLG4742vBLElcSE) | 3:06 |
 | 94 | [Mindjeris De Panu Pretu](https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 4:31 |
 | 95 | [Horizons Into Battlegrounds](https://open.spotify.com/track/1SSoLdnoptUGfs5kwgVQms) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Horizons Into Battlegrounds](https://open.spotify.com/album/72f1jbx4WSwyGxM9o5b28w) | 3:41 |
-| 96 | [City Walls](https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [City Walls](https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8) | 5:11 |
-| 97 | [On dansera encore](https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [On dansera encore](https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo) | 3:02 |
+| 96 | [On dansera encore](https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [On dansera encore](https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo) | 3:02 |
+| 97 | [City Walls](https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [City Walls](https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8) | 5:11 |
 | 98 | [autumn](https://open.spotify.com/track/5nQUv2ikT1ZomcjTOt4DzB) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [autumn](https://open.spotify.com/album/5UiNbnAfVXknFHgzaW3fTo) | 3:28 |
 | 99 | [only human](https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [only human](https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm) | 3:34 |
 | 100 | [tired](https://open.spotify.com/track/6Su2NSVqxgb8MPn9nj7YBg) | [Felix Antonio](https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ) | [tired](https://open.spotify.com/album/6gcpcA8kop087FU6dtUqPE) | 3:13 |
 
-Snapshot ID: `AAAAAFV9+V+2vwkd+O7kE2DvCj1JKQ0j`
+Snapshot ID: `AAAAAAPX9ZRUmS1Ibeovn5h4HTV5PJus`

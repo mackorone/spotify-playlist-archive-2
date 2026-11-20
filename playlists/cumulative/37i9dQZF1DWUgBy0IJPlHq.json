@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Lily Fitts\n",
+  "description": "A new shade of Country. Cover: Ken Pomeroy\n",
   "name": "Indigo",
   "tracks": [
     {
@@ -2397,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Buckertoo",
+        "url": "https://open.spotify.com/album/1if6mvQ7IiVnIzbs1O2Twq"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Buckertoo",
+      "url": "https://open.spotify.com/track/4OtNxzxGnR3mZ6YfBGVogh"
+    },
+    {
+      "album": {
         "name": "Burn On",
         "url": "https://open.spotify.com/album/7z5hBKewAIcJZn3TICcQ9i"
       },
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 147588,
       "name": "Carolina Heart",
       "url": "https://open.spotify.com/track/3DtHxRGefgI8U1AAMeFGjg"
@@ -5501,6 +5519,28 @@
     },
     {
       "album": {
+        "name": "Float Above",
+        "url": "https://open.spotify.com/album/6WcaOAPgcg51L8cMwmuZv5"
+      },
+      "artists": [
+        {
+          "name": "Ava Hall",
+          "url": "https://open.spotify.com/artist/3jbuDS17Z5ioo8IFU1sjGt"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175669,
+      "name": "Float Above",
+      "url": "https://open.spotify.com/track/5fpMkL0B4HVanBMwPmkzGq"
+    },
+    {
+      "album": {
         "name": "Folded Moon",
         "url": "https://open.spotify.com/album/5LOvzbUmSKuRwNutKCI1g7"
       },
@@ -7320,7 +7360,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195060,
       "name": "Honeysuckle",
       "url": "https://open.spotify.com/track/2SDysVSv74sRO77e4Av4ce"
@@ -8768,7 +8808,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 230108,
       "name": "Last Chance for Dancin\u2019",
       "url": "https://open.spotify.com/track/0Q7AG1SsnEZFW3JcTWDuJ1"
@@ -9400,6 +9440,24 @@
       "duration_ms": 180833,
       "name": "Look At The Mess I'm In",
       "url": "https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD"
+    },
+    {
+      "album": {
+        "name": "Look At Us Now",
+        "url": "https://open.spotify.com/album/46NPSU1uiqHoH8RT2ySnH7"
+      },
+      "artists": [
+        {
+          "name": "C. James",
+          "url": "https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167606,
+      "name": "Look At Us Now",
+      "url": "https://open.spotify.com/track/6i64pT55wS3q4LIKuOujf8"
     },
     {
       "album": {

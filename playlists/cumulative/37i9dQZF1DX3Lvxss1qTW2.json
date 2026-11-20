@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. Up Next: Solana",
+  "description": "The future hits of today. Up Next: Kidd Carder & BNXN",
   "name": "NXT",
   "tracks": [
     {
@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 211862,
       "name": "By Now",
       "url": "https://open.spotify.com/track/4hDJudkT1bs6e7USICB6WJ"
@@ -12931,6 +12931,28 @@
     },
     {
       "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/2t6vgL0DsIHXTpgQGiCPlT"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/4rF6m94AncOXU0XzEcRtvB"
+    },
+    {
+      "album": {
         "name": "Ojoro",
         "url": "https://open.spotify.com/album/7ae4YCBQr8UZMwClTGLyNz"
       },
@@ -19610,7 +19632,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 135861,
       "name": "You're Mine",
       "url": "https://open.spotify.com/track/0S4thqfegaGQ1WeogAVBJb"

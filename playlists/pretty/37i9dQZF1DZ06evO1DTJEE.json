@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 89193,
+  "num_followers": 89252,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABzauPXs6kEzjS53GzINArF",
+  "snapshot_id": "avzqgAAAAABeUp+EvEhpGAoLaDnJgEx5",
   "tracks": [
     {
       "added_at": null,
@@ -303,18 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Think As You Drunk",
-        "url": "https://open.spotify.com/album/10I3RS2Ijy9GCVZZAVG7Al"
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
       },
       "artists": [
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
         }
       ],
-      "duration_ms": 228837,
-      "name": "Think As You Drunk",
-      "url": "https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx"
+      "duration_ms": 243033,
+      "name": "I Just Need You",
+      "url": "https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H"
     },
     {
       "added_at": null,
@@ -351,22 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do (Deluxe)",
-        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+        "name": "Think As You Drunk",
+        "url": "https://open.spotify.com/album/10I3RS2Ijy9GCVZZAVG7Al"
       },
       "artists": [
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Hannah McFarland",
-          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
         }
       ],
-      "duration_ms": 243033,
-      "name": "I Just Need You",
-      "url": "https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H"
+      "duration_ms": 228837,
+      "name": "Think As You Drunk",
+      "url": "https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Damn Good Day To Leave",
+      "url": "https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 183026,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Damn Good Day To Leave",
-      "url": "https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 216466,
-      "name": "Workin' On Me",
-      "url": "https://open.spotify.com/track/5yW4e8NG9a14JctdIlXAFt"
+      "duration_ms": 195228,
+      "name": "They Don\u2019t Make 'Em Like That No More",
+      "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 195228,
-      "name": "They Don\u2019t Make 'Em Like That No More",
-      "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
+      "duration_ms": 216466,
+      "name": "Workin' On Me",
+      "url": "https://open.spotify.com/track/5yW4e8NG9a14JctdIlXAFt"
     },
     {
       "added_at": null,

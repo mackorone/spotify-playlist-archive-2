@@ -1,12 +1,12 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26208,
+  "num_followers": 26209,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOsVBSX/Kl1+a9YSzwUdX36a8yfk",
+  "snapshot_id": "AAAAAEFFDNBlTs0sYj7IpuRB7lqpovr6",
   "tracks": [
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Late Night Feelings (feat. Lykke Li)",
-        "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 251028,
-      "name": "Late Night Feelings (feat. Lykke Li)",
-      "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Swing (Mahmut Orhan Remix)",
         "url": "https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 269431,
       "name": "Swing - Mahmut Orhan Remix",
       "url": "https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Late Night Feelings (feat. Lykke Li)",
+        "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 251028,
+      "name": "Late Night Feelings (feat. Lykke Li)",
+      "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
     },
     {
       "added_at": "2024-07-03 14:32:39",

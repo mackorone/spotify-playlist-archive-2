@@ -1,12 +1,12 @@
 {
   "description": "Music that means it. Cover: Jamie T",
-  "num_followers": 132543,
+  "num_followers": 132551,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOgoS6DMG/vatdR3fuIq/yikLLu2",
+  "snapshot_id": "AAAAAK9U2JHMFPxhfPwlaZRn+BxshvJi",
   "tracks": [
     {
       "added_at": "2026-10-23 12:49:56",
@@ -239,18 +239,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Me, a God",
-        "url": "https://open.spotify.com/album/7FOOP8923ntObbfD29u4t5"
+        "name": "Dog Dribble",
+        "url": "https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23"
       },
       "artists": [
         {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
         }
       ],
-      "duration_ms": 165449,
-      "name": "Me, a God",
-      "url": "https://open.spotify.com/track/45oUklxUW0xwrdNM56yj14"
+      "duration_ms": 255000,
+      "name": "Dog Dribble",
+      "url": "https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Dog Dribble",
-        "url": "https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23"
+        "name": "Me, a God",
+        "url": "https://open.spotify.com/album/7FOOP8923ntObbfD29u4t5"
       },
       "artists": [
         {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Dog Dribble",
-      "url": "https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B"
+      "duration_ms": 165449,
+      "name": "Me, a God",
+      "url": "https://open.spotify.com/track/45oUklxUW0xwrdNM56yj14"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "The Rope",
-        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 190574,
-      "name": "The Rope",
-      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Man On The Moon",
         "url": "https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 159000,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "The Rope",
+        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 190574,
+      "name": "The Rope",
+      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Thorn",
-        "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
-      },
-      "artists": [
-        {
-          "name": "Keo",
-          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "Thorn - EP Version",
-      "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 231394,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Thorn",
+        "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "Thorn - EP Version",
+      "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Moving Target",
-        "url": "https://open.spotify.com/album/4CBGWqdfWqIKs8WvfjWn8z"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 195811,
-      "name": "Moving Target",
-      "url": "https://open.spotify.com/track/4AE2XU5eDmnXzQGhO3IZDt"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "COOL",
         "url": "https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 189534,
       "name": "COOL",
       "url": "https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Moving Target",
+        "url": "https://open.spotify.com/album/4CBGWqdfWqIKs8WvfjWn8z"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 195811,
+      "name": "Moving Target",
+      "url": "https://open.spotify.com/track/4AE2XU5eDmnXzQGhO3IZDt"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Something To Be Said",
-        "url": "https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o"
-      },
-      "artists": [
-        {
-          "name": "Saint Clair",
-          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Something To Be Said",
-      "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Dirty White Lies",
         "url": "https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 179093,
       "name": "Dirty White",
       "url": "https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Something To Be Said",
+        "url": "https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Something To Be Said",
+      "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Hurracane",
-        "url": "https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 185572,
-      "name": "Hurracane",
-      "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Heaven Knows You're Lonely",
         "url": "https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Kick in the Shins",
-        "url": "https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA"
+        "name": "Hurracane",
+        "url": "https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4"
       },
       "artists": [
         {
-          "name": "Radio Free Alice",
-          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
         }
       ],
-      "duration_ms": 179187,
-      "name": "Kick in the Shins",
-      "url": "https://open.spotify.com/track/49HPE6994YbBkPBZ2p88HJ"
+      "duration_ms": 185572,
+      "name": "Hurracane",
+      "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
+        "name": "Kick in the Shins",
+        "url": "https://open.spotify.com/album/2uKLlmvupV6Kx6BheOIZcA"
       },
       "artists": [
         {
-          "name": "Saint Clair",
-          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
         }
       ],
-      "duration_ms": 191786,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
+      "duration_ms": 179187,
+      "name": "Kick in the Shins",
+      "url": "https://open.spotify.com/track/49HPE6994YbBkPBZ2p88HJ"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1151,6 +1135,22 @@
       "duration_ms": 173069,
       "name": "Spin The Block",
       "url": "https://open.spotify.com/track/1f3LYv9fIs3o9pS8V3dwUP"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
+      },
+      "artists": [
+        {
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+        }
+      ],
+      "duration_ms": 191786,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Pistol",
-        "url": "https://open.spotify.com/album/50WXvQbKZkvUa93FRj5FCo"
-      },
-      "artists": [
-        {
-          "name": "Keo",
-          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
-        }
-      ],
-      "duration_ms": 205365,
-      "name": "Pistol",
-      "url": "https://open.spotify.com/track/0tp0xw8Pd0IeJa2jz7qCWT"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Back To Belle Vue",
         "url": "https://open.spotify.com/album/5Cgt08t9NHyDqtVkBCH6Pp"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 198109,
       "name": "Vivian",
       "url": "https://open.spotify.com/track/4nOZyZqzpEJmryrYWM0NoC"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Pistol",
+        "url": "https://open.spotify.com/album/50WXvQbKZkvUa93FRj5FCo"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "duration_ms": 205365,
+      "name": "Pistol",
+      "url": "https://open.spotify.com/track/0tp0xw8Pd0IeJa2jz7qCWT"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Got You On My Mind",
-        "url": "https://open.spotify.com/album/4yGedLZjTca9Tke2G364gH"
-      },
-      "artists": [
-        {
-          "name": "Dylan John Thomas",
-          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
-        }
-      ],
-      "duration_ms": 173503,
-      "name": "Got You On My Mind",
-      "url": "https://open.spotify.com/track/5JaoItHBF9bSVFfzjSRymp"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Yay! Saturday",
         "url": "https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 195363,
       "name": "Yay! Saturday",
       "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Got You On My Mind",
+        "url": "https://open.spotify.com/album/4yGedLZjTca9Tke2G364gH"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+        }
+      ],
+      "duration_ms": 173503,
+      "name": "Got You On My Mind",
+      "url": "https://open.spotify.com/track/5JaoItHBF9bSVFfzjSRymp"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Standing On A Pane Of Glass",
-        "url": "https://open.spotify.com/album/254x00BfO4GX5R3Tao3Dbq"
-      },
-      "artists": [
-        {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
-        }
-      ],
-      "duration_ms": 175631,
-      "name": "Standing On A Pane Of Glass",
-      "url": "https://open.spotify.com/track/6JTbg1SEfLYcboPiGIY11Z"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "I Blow Out Big Candles",
         "url": "https://open.spotify.com/album/0zd0dbI6jBG4lVYatitkCT"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Waste Your Time On Me",
-        "url": "https://open.spotify.com/album/6U1VjOb3CAF9ROW20CvVf2"
+        "name": "Standing On A Pane Of Glass",
+        "url": "https://open.spotify.com/album/254x00BfO4GX5R3Tao3Dbq"
       },
       "artists": [
         {
-          "name": "Raynor",
-          "url": "https://open.spotify.com/artist/6tPWER6b155VUhE7eIJdtb"
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
         }
       ],
-      "duration_ms": 130100,
-      "name": "Waste Your Time On Me",
-      "url": "https://open.spotify.com/track/6fxa77Av1RxYmGPlC7uYEM"
+      "duration_ms": 175631,
+      "name": "Standing On A Pane Of Glass",
+      "url": "https://open.spotify.com/track/6JTbg1SEfLYcboPiGIY11Z"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1535,6 +1519,22 @@
       "duration_ms": 264481,
       "name": "Restless in Bloom",
       "url": "https://open.spotify.com/track/4mS6vO5MKQnrv2iObSlU6y"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Waste Your Time On Me",
+        "url": "https://open.spotify.com/album/6U1VjOb3CAF9ROW20CvVf2"
+      },
+      "artists": [
+        {
+          "name": "Raynor",
+          "url": "https://open.spotify.com/artist/6tPWER6b155VUhE7eIJdtb"
+        }
+      ],
+      "duration_ms": 130100,
+      "name": "Waste Your Time On Me",
+      "url": "https://open.spotify.com/track/6fxa77Av1RxYmGPlC7uYEM"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Big Swimmer",
-        "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
       },
       "artists": [
         {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
         }
       ],
-      "duration_ms": 202048,
-      "name": "New York, Let's Do Nothing",
-      "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
+      "duration_ms": 180694,
+      "name": "Millionaires",
+      "url": "https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq"
     }
   ],
   "unique_name": "Proper Belters",

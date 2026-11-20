@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Manuel Turizo",
+  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Fuerza Regida",
   "name": "Viva Latino",
   "tracks": [
     {
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144489,
       "name": "ALFOMBRA VOLADORA",
       "url": "https://open.spotify.com/track/7nbFHnFTfWYQICBBtKmrLf"
@@ -1815,6 +1815,28 @@
     },
     {
       "album": {
+        "name": "ATRAVESAO",
+        "url": "https://open.spotify.com/album/0N2N0fNmfFL9PGIL67ziRw"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ATRAVESAO",
+      "url": "https://open.spotify.com/track/6U7pLc5fR5ksO2Ljl7Bgjo"
+    },
+    {
+      "album": {
         "name": "LO MISMO DE SIEMPRE",
         "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
       },
@@ -2054,7 +2076,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154502,
       "name": "BAILAR O MORIR",
       "url": "https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y"
@@ -3580,7 +3602,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk"
@@ -4606,6 +4628,24 @@
       "duration_ms": 231016,
       "name": "Con otra",
       "url": "https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181502,
+      "name": "Con qui\u00e9n andar\u00e1?",
+      "url": "https://open.spotify.com/track/3xbhYZfPldyCNrVMX2wxJC"
     },
     {
       "album": {
@@ -5651,6 +5691,24 @@
     },
     {
       "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/540pquD3B2fmai9xx25RII"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284533,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/7bFKJ91RTq6wcZJMK1LQRa"
+    },
+    {
+      "album": {
         "name": "DEPORTIVO",
         "url": "https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs"
       },
@@ -6540,7 +6598,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159130,
       "name": "D\u00f3nde est\u00e1s",
       "url": "https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh"
@@ -8199,6 +8257,28 @@
     },
     {
       "album": {
+        "name": "No Hay \u00c1ngeles Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183125,
+      "name": "FES",
+      "url": "https://open.spotify.com/track/6mj3eOn5r61kiRRdu4atAO"
+    },
+    {
+      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -8346,6 +8426,24 @@
       "duration_ms": 226533,
       "name": "FOREVER TU GANTEL",
       "url": "https://open.spotify.com/track/5XE2dc5tz7tbufWCPFUo5c"
+    },
+    {
+      "album": {
+        "name": "FRANCIA",
+        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206817,
+      "name": "FRANCIA",
+      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
     },
     {
       "album": {
@@ -9266,6 +9364,32 @@
       "duration_ms": 146000,
       "name": "HACE CALOR",
       "url": "https://open.spotify.com/track/4tabsd3NLLwuT90wkuNh7C"
+    },
+    {
+      "album": {
+        "name": "Happy Monday (W Sound 10)",
+        "url": "https://open.spotify.com/album/23vSxJtcZIyDJ9h0bLCPcx"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Happy Monday - W Sound 10",
+      "url": "https://open.spotify.com/track/3IOUSbYmye1CFqdUjXYLFF"
     },
     {
       "album": {
@@ -13282,7 +13406,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 221082,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
@@ -13462,7 +13586,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144650,
       "name": "MATADORA",
       "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
@@ -13532,6 +13656,24 @@
       "duration_ms": 233519,
       "name": "Mayor Que Usted",
       "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1A",
+        "url": "https://open.spotify.com/album/5wo0yYSspyQB1rmtgJczuM"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121267,
+      "name": "MA\u00d1A",
+      "url": "https://open.spotify.com/track/1Cu21QoqwsiM1l8Z8cvFVA"
     },
     {
       "album": {
@@ -15402,7 +15544,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 219620,
       "name": "Ni\u00f1a Mafia",
       "url": "https://open.spotify.com/track/1Hbh9u1DbUm2RpcTqy3ELJ"
@@ -17938,6 +18080,28 @@
       "duration_ms": 211707,
       "name": "Podemos Repetirlo",
       "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
+    },
+    {
+      "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "POKITO",
+      "url": "https://open.spotify.com/track/0mOmaf2ZmkCyE5D8HBq52S"
     },
     {
       "album": {
@@ -20492,7 +20656,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160000,
       "name": "SE VA",
       "url": "https://open.spotify.com/track/3xoHVt0FLR05c0QIWHB7lC"
@@ -22686,6 +22850,28 @@
       "duration_ms": 162289,
       "name": "TRANKAITO",
       "url": "https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN"
+    },
+    {
+      "album": {
+        "name": "Tremendo Desastre",
+        "url": "https://open.spotify.com/album/6SO08tJ1GFnMqzXLzA9E3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Tremendo Desastre",
+      "url": "https://open.spotify.com/track/55iSVA6k6fDtFMK98XKy7w"
     },
     {
       "album": {
@@ -25492,7 +25678,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 219487,
       "name": "\u00daltimamente - W Sound 11",
       "url": "https://open.spotify.com/track/4JHDGUA2KSuqCNYtxQj44s"

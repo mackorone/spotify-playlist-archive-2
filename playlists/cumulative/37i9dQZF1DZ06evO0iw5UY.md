@@ -4,7 +4,7 @@
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 34 min
+96 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,9 @@
 | [Surrender The Throne](https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:15 | 2023-05-02 |  |
 | [Team](https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Team](https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R) | 3:06 | 2023-05-02 |  |
 | [TH2C](https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:11 | 2023-05-02 |  |
+| [the blueprint](https://open.spotify.com/track/1JUSlVBaCTCnFXSMoNjohi) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [PEAK](https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM) | 3:10 | 2026-11-20 |  |
 | [the blueprint](https://open.spotify.com/track/5CpV2AyTNHN0HLb9tzLktS) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [the blueprint](https://open.spotify.com/album/2NET7sWOvYpiFKtrQwpWLc) | 3:10 | 2026-08-09 | 2026-11-15 |
-| [TILL IT HITS!](https://open.spotify.com/track/026QEX8MQKzD09OHn85HFO) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [PEAK](https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM) | 3:07 | 2026-09-07 |  |
+| [TILL IT HITS!](https://open.spotify.com/track/026QEX8MQKzD09OHn85HFO) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [PEAK](https://open.spotify.com/album/5OmsoAP1jXbXfDDKlMv1PM) | 3:07 | 2026-09-07 | 2026-11-20 |
 | [Traces](https://open.spotify.com/track/7kOpxtjJU6cwm88LYpyHUY) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 3:46 | 2024-12-09 | 2025-06-29 |
 | [United Kids of the World \(feat\. Krewella\)](https://open.spotify.com/track/61Cx5cbYUgDTA2m4SuKJ37) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [United Kids of the World \(feat\. Krewella\)](https://open.spotify.com/album/2kMgZuBJTzKxOr4pJdyHk0) | 4:16 | 2023-07-12 |  |
 | [War Forever](https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:37 | 2023-05-02 | 2026-07-26 |

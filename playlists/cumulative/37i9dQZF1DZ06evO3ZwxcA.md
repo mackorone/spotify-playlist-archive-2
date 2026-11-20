@@ -4,7 +4,7 @@
 
 > This is P.O.D.\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 51 min
+65 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [Strength of My Life](https://open.spotify.com/track/331cE2eoGXUJpnlSlJqGg3) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Testify](https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo) | 3:37 | 2025-05-28 |  |
 | [The Messenjah](https://open.spotify.com/track/6xdif5FfdXn6SM0XmzHvVe) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:17 | 2024-10-23 |  |
 | [They Don't Like It](https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [American Sun](https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7) | 3:06 | 2024-10-23 | 2026-10-02 |
-| [This Goes Out To You](https://open.spotify.com/track/0wBNVJm6ivrFUlSucNVCkf) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Awakening](https://open.spotify.com/album/3ileNPLE1vlimaNhDXtEzs) | 3:50 | 2024-10-23 |  |
+| [This Goes Out To You](https://open.spotify.com/track/0wBNVJm6ivrFUlSucNVCkf) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Awakening](https://open.spotify.com/album/3ileNPLE1vlimaNhDXtEzs) | 3:50 | 2024-10-23 | 2026-11-20 |
 | [Truly Amazing \- from The Passion of the Christ \- Songs; Original Songs Inspired by the Film](https://open.spotify.com/track/3MjCdCFDqQ8ly8wfCFROgh) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Greatest Hits \(The Atlantic Years\)](https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU) | 3:01 | 2025-09-04 |  |
+| [VAMPIRES & PARASITES](https://open.spotify.com/track/5hykZgF3bg4YtCSkGCf3OP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VAMPIRES & PARASITES](https://open.spotify.com/album/3ffX8OuSgBVmeWIGvXnB2H) | 2:50 | 2026-11-20 |  |
 | [West Coast Rock Steady](https://open.spotify.com/track/7IHQvpdwkG4jHzG5u4ty4v) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:05 | 2024-10-23 |  |
 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:14 | 2024-10-23 |  |
 | [Wildfire](https://open.spotify.com/track/4DbzeXy81F5mgGWcFI7zoF) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 3:15 | 2026-08-26 | 2026-08-27 |

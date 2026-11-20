@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Hugo & Guilherme, Z\u00e9 Vaqueiro e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "TOKIODK e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "A Mais Amada Do Brasil",
+        "url": "https://open.spotify.com/album/5QRsFSBXTxPSIINOpzuSdY"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170858,
+      "name": "A Mais Amada Do Brasil",
+      "url": "https://open.spotify.com/track/4wCKcA0EqDPHRvWJUGLk22"
+    },
+    {
+      "album": {
         "name": "Embaixador Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0peEFoGUwh1BglwPnlnAJy"
       },
@@ -1010,10 +1032,32 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 747625,
       "name": "AH, JESUS / CORA\u00c7\u00c3O IGUAL AO TEU",
       "url": "https://open.spotify.com/track/2wwEjucN8zj8MuZ7ZYoxiH"
+    },
+    {
+      "album": {
+        "name": "Ai Beb\u00ea",
+        "url": "https://open.spotify.com/album/4tnhEIKhyCE2rsVXsjSp7i"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133913,
+      "name": "Ai Beb\u00ea",
+      "url": "https://open.spotify.com/track/1tBccUSs900N2FRmoYXchz"
     },
     {
       "album": {
@@ -1854,7 +1898,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 220376,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6PPB5jKQ257UqzP7tgmozP"
@@ -3146,7 +3190,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216000,
       "name": "Carn\u00edvoro",
       "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
@@ -4575,6 +4619,28 @@
     },
     {
       "album": {
+        "name": "ESTILHA\u00c7OS DE UM ANJO REBELDE (COMPLETO)",
+        "url": "https://open.spotify.com/album/2EJVefQBNHegDF9PPK76CZ"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Pietro Zucaratto",
+          "url": "https://open.spotify.com/artist/1NYy1PKT7lckH0Uph0xsD6"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192022,
+      "name": "DESFILE B\u00c9LICO",
+      "url": "https://open.spotify.com/track/5zghRet0cSO1q8HW5KOrr5"
+    },
+    {
+      "album": {
         "name": "EQUILIBRIVM",
         "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5"
       },
@@ -5837,6 +5903,24 @@
     },
     {
       "album": {
+        "name": "No Sentimento em Bras\u00edlia Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2MFNkulSNsrtxRWwBBvFdj"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168485,
+      "name": "Eu Me Rendo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hxXNu9FBZwcGQ6FnECOVH"
+    },
+    {
+      "album": {
         "name": "Eu N\u00e3o Dou Conta (Ao Vivo)",
         "url": "https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G"
       },
@@ -6192,6 +6276,32 @@
       "duration_ms": 230625,
       "name": "EXAGERADO",
       "url": "https://open.spotify.com/track/4rfkoY5a4JzRmQSOQHAVsr"
+    },
+    {
+      "album": {
+        "name": "Exigente",
+        "url": "https://open.spotify.com/album/1uzvtWnZJsDV9gcUhQdRwx"
+      },
+      "artists": [
+        {
+          "name": "Deu B\u00e3o",
+          "url": "https://open.spotify.com/artist/0Mw7JpTAlJPiMHeUAYu8w8"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Bison e Comassetto",
+          "url": "https://open.spotify.com/artist/0VgVhZxYnmTGqqj7WkAATA"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158176,
+      "name": "Exigente",
+      "url": "https://open.spotify.com/track/3y1DTmkETpAhDePWF7Uiis"
     },
     {
       "album": {
@@ -10025,6 +10135,28 @@
     },
     {
       "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/7CGVeBieYqzryYS7HIUwQB"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269600,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/69lnNVsVKJs3yrfv06UZtI"
+    },
+    {
+      "album": {
         "name": "A.Mago - Playlist do Mago",
         "url": "https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So"
       },
@@ -10292,7 +10424,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 141692,
       "name": "MTG Pra Ficar Legal",
       "url": "https://open.spotify.com/track/3crEG7LMmze2X3JVAuVRE9"
@@ -13266,7 +13398,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195692,
       "name": "POR A\u00cd",
       "url": "https://open.spotify.com/track/1ocTWahzsZ73RWU0fSyAYs"
@@ -14208,7 +14340,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 306000,
       "name": "Reliquia do 2T",
       "url": "https://open.spotify.com/track/6n9JMoXkXu4lDOu1k6MRpy"

@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-483 songs - 1 day 3 hr 36 min
+484 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 | 2024-03-15 | 2024-10-12 |
 | [Dirt Road Anthem](https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 3:49 | 2019-06-24 | 2023-11-17 |
 | [Dirt Road Anthem](https://open.spotify.com/track/5ZVGvay4xwgXMnQWffNYeU) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv) | 3:49 | 2023-11-10 | 2024-04-19 |
-| [Do I Make You Wanna](https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:54 | 2019-10-26 |  |
+| [Do I Make You Wanna](https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:54 | 2019-10-26 | 2026-11-20 |
 | [Doin' Fine](https://open.spotify.com/track/6nqvInlnaMzEzaw4s0zbee) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:19 | 2019-06-23 | 2022-04-21 |
 | [Don't Get Better Than That](https://open.spotify.com/track/2ruYYd5CAlXujmzomLpweJ) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Don't Get Better Than That](https://open.spotify.com/album/1sexOatccy4u2OfSYiTDRb) | 3:17 | 2019-06-25 | 2022-04-17 |
 | [Don't It](https://open.spotify.com/track/4iLPK8QnOvqm0Azbsk2GDn) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:09 | 2020-06-12 | 2022-04-21 |
@@ -313,6 +313,7 @@
 | [Painted You Pretty](https://open.spotify.com/track/1b7M6dFwKxbnHs4PB8TgSH) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Texas Forever](https://open.spotify.com/album/2Ob2sg38jCEu6s25riXlPe) | 3:11 | 2026-07-24 |  |
 | [Parachute](https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:13 | 2019-06-22 |  |
 | [Peter Pan](https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:20 | 2021-06-12 | 2026-05-01 |
+| [Phone, Keys, Wallet](https://open.spotify.com/track/4JiYE3QxSX59KSx9Q4pHWa) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Phone, Keys, Wallet](https://open.spotify.com/album/4XB9IlDBDCdp4AcSGYMkFY) | 2:52 | 2026-11-20 |  |
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2023-03-10 |  |
 | [Pickin' Wildflowers](https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj) | [Keith Anderson](https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz) | [Three Chord Country and American Rock & Roll](https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y) | 3:05 | 2019-06-22 | 2022-04-10 |
 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 | 2019-06-24 |  |

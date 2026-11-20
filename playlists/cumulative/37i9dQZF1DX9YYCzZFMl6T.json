@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 232840,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 189360,
       "name": "I Heard The Bells on Christmas Day",
       "url": "https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 189118,
       "name": "Lonely on Christmas",
       "url": "https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH"
@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Morning Bells",
+        "url": "https://open.spotify.com/album/0I1sWsRWi7zkHpWB6nQwr5"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236560,
+      "name": "Morning Bells",
+      "url": "https://open.spotify.com/track/3wphWIQ4h1TekkE1fQMSDP"
+    },
+    {
+      "album": {
         "name": "Sing: Christmas Songs",
         "url": "https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW"
       },
@@ -1119,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "The Holiday Fuss",
+        "url": "https://open.spotify.com/album/26l0Xk6xumWHRibkVHesfI"
+      },
+      "artists": [
+        {
+          "name": "Liz Longley",
+          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230425,
+      "name": "One Silent Night",
+      "url": "https://open.spotify.com/track/1wAWT0D2BsepBQsVfRqwFn"
+    },
+    {
+      "album": {
         "name": "Pretty Paper",
         "url": "https://open.spotify.com/album/32QtuDgjI7DyC2Qml2XdOS"
       },
@@ -1174,6 +1210,24 @@
       "duration_ms": 245922,
       "name": "River",
       "url": "https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73"
+    },
+    {
+      "album": {
+        "name": "River (Live From Salt Lick Sessions)",
+        "url": "https://open.spotify.com/album/1n5ORFxnRbdzrp903DVCfz"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198442,
+      "name": "River - Live From Salt Lick Sessions",
+      "url": "https://open.spotify.com/track/0YunOYvwaMmMfWW29lcNK8"
     },
     {
       "album": {
@@ -1500,10 +1554,28 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168565,
       "name": "The Sweetest Season",
       "url": "https://open.spotify.com/track/1PdXxmrUn3iOl399I12cku"
+    },
+    {
+      "album": {
+        "name": "A Very Bebe Christmas",
+        "url": "https://open.spotify.com/album/0FJzVTXYYMFhax2TyY9Ksq"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237487,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7mJx3vNqYNcxpuvV7PGTWM"
     },
     {
       "album": {

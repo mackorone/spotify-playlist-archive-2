@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,484 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,119 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 20 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
 | 21 | [Proximus \- Radio Edit](https://open.spotify.com/track/4Evb0y5ZghAbBUKf4PuGc2) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:31 |
 | 22 | [Walk on Water \- H2O Radio Mix](https://open.spotify.com/track/6Phug5Bw0QShaFvRMeBVzZ) | [Milk Inc.](https://open.spotify.com/artist/2sgikskblKZFbDpsYO9anB) | [Land Of The Living](https://open.spotify.com/album/4IJCl7EEMVTn9YzqlYtfP7) | 3:12 |
-| 23 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
-| 24 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/72lRA680a5ZWu0l14phseH) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:30 |
+| 23 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/72lRA680a5ZWu0l14phseH) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:30 |
+| 24 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
 | 25 | [Désenchantée \- Radio Edit](https://open.spotify.com/track/0eAvGqc9t4Wuc6gDcSi5Aa) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:40 |
 | 26 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 |
 | 27 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 62 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
 | 63 | [Out of the Blue \- Radio Edit](https://open.spotify.com/track/0t8fgj3EHfChyTeCT2th22) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue Remastered](https://open.spotify.com/album/6Opf5LVPBWGOhCSYY5yTQZ) | 3:54 |
 | 64 | [Believe \- Radio Version](https://open.spotify.com/track/5YoPqsi7hkinkyrdQSgrkK) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [At The Rebels Room](https://open.spotify.com/album/10kMItbeNNucdGw3RiKgci) | 3:26 |
-| 65 | [Greece 2000 \- Original Radio Edit](https://open.spotify.com/track/6ZgjpDZrm6uvD1aLtfsMRv) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 3:54 |
-| 66 | [You](https://open.spotify.com/track/2x7eD4StqS1n9XTBJDOn7A) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:07 |
-| 67 | [Will I Ever](https://open.spotify.com/track/42vplZSyKjmELGTcD44miF) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Will I Ever](https://open.spotify.com/album/1hc7cfd7WdYtx2WVYiz78E) | 3:14 |
-| 68 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/2wT7K2yIR1Tlf116qUc02C) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/69hzCLwyNDH2m7m2YV6FAH) | 8:42 |
-| 69 | [Carte Blanche \- Original Mix](https://open.spotify.com/track/2YmQ5jhgV7EX7yWR1IEP9c) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 7:04 |
-| 70 | [Fly Away](https://open.spotify.com/track/4Z26wEXH0XBQwxTpaC7NyR) | [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Best of Vincent de Moor](https://open.spotify.com/album/3XtzJqPBCBP5eNb32tGbBe) | 8:21 |
-| 71 | [Saltwater](https://open.spotify.com/track/4cI6ONQUJyGtLXzOYaM2P0) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Best Of Chicane](https://open.spotify.com/album/3t2sS4OnOQDLZ1oqYBlTen) | 3:22 |
-| 72 | [Cream \- Radio Edit](https://open.spotify.com/track/5BkCd2617ac7yWP5WGCiO7) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Cream \(All Mixes\)](https://open.spotify.com/album/5MEGBwEwILYEroHl0tMMRK) | 3:18 |
+| 65 | [Carte Blanche \- Original Mix](https://open.spotify.com/track/2YmQ5jhgV7EX7yWR1IEP9c) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 7:04 |
+| 66 | [Greece 2000 \- Original Radio Edit](https://open.spotify.com/track/6ZgjpDZrm6uvD1aLtfsMRv) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 3:54 |
+| 67 | [Cream \- Radio Edit](https://open.spotify.com/track/5BkCd2617ac7yWP5WGCiO7) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Cream \(All Mixes\)](https://open.spotify.com/album/5MEGBwEwILYEroHl0tMMRK) | 3:18 |
+| 68 | [You](https://open.spotify.com/track/2x7eD4StqS1n9XTBJDOn7A) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:07 |
+| 69 | [Will I Ever](https://open.spotify.com/track/42vplZSyKjmELGTcD44miF) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Will I Ever](https://open.spotify.com/album/1hc7cfd7WdYtx2WVYiz78E) | 3:14 |
+| 70 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/2wT7K2yIR1Tlf116qUc02C) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/69hzCLwyNDH2m7m2YV6FAH) | 8:42 |
+| 71 | [Fly Away](https://open.spotify.com/track/4Z26wEXH0XBQwxTpaC7NyR) | [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Best of Vincent de Moor](https://open.spotify.com/album/3XtzJqPBCBP5eNb32tGbBe) | 8:21 |
+| 72 | [Saltwater](https://open.spotify.com/track/4cI6ONQUJyGtLXzOYaM2P0) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Best Of Chicane](https://open.spotify.com/album/3t2sS4OnOQDLZ1oqYBlTen) | 3:22 |
 | 73 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/2BrQKigNLErWheTt6nXYXZ) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2IHaZr494ZaU2M4mYmIqaq) | 3:39 |
 | 74 | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/track/3GNluLmWNf2QaK1KWTSBsp) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [The Remix Edition \- Episode ll](https://open.spotify.com/album/1nrbP2ZpwFZjiOzU4LCh8c) | 6:45 |
 | 75 | [Seven Days And One Week \(Radio Edit\)](https://open.spotify.com/track/1VgynfAg0hHDxmH2d9cUlt) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Games](https://open.spotify.com/album/4tx2jtvzEaqjpIPjdDVOLc) | 4:29 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 81 | [The Sound Of Goodbye \- Armin van Buuren presents Rising Star Remix](https://open.spotify.com/track/2q32sAEVRdTAMctpi9IvJh) | [Perpetuous Dreamer](https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy), [Rising Star](https://open.spotify.com/artist/3HYUBCT2pYtoo0JHztEsRJ), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [50 Best Trance Hits Ever, Vol\. 2 \(Extended Versions\)](https://open.spotify.com/album/0VofAfRcGXemmsqo0aPav9) | 10:49 |
 | 82 | [4 Elements](https://open.spotify.com/track/0mObS8dydpv9z6xcrizbHV) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 7:02 |
 
-Snapshot ID: `AAAAAD1zg5r/gasW5gKhYAydhVl6nS9+`
+Snapshot ID: `AAAAALFEjFvfbNe9gqMlD4T/CGJMudzB`

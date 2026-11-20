@@ -1,12 +1,12 @@
 {
   "description": "New soul-infused music! Cover: Bruno Mars",
-  "num_followers": 824454,
+  "num_followers": 824493,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH3OKJ2y3ssoX/n50fVpW7Adk5f/",
+  "snapshot_id": "AAAAAFi3V02rrG6leSYVJrhnGcyyBVmt",
   "tracks": [
     {
       "added_at": "2026-11-16 12:07:58",
@@ -63,6 +63,22 @@
       "duration_ms": 225419,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/3X1a4hcEb7Tfek7dkoCtCU"
+    },
+    {
+      "added_at": "2026-11-16 12:07:58",
+      "album": {
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR"
     },
     {
       "added_at": "2026-11-16 12:07:58",
@@ -279,22 +295,6 @@
       "duration_ms": 187095,
       "name": "Back To Your Love",
       "url": "https://open.spotify.com/track/1z6gWUCWSgpHdyTg6UGQqf"
-    },
-    {
-      "added_at": "2026-11-16 12:07:58",
-      "album": {
-        "name": "Legendary Love",
-        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR"
     },
     {
       "added_at": "2026-11-16 12:07:58",

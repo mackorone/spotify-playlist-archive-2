@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: ARDN",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Smiley, Roy Woods, Baka Not Nice",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -15219,6 +15219,32 @@
     },
     {
       "album": {
+        "name": "FLT",
+        "url": "https://open.spotify.com/album/1LJx7szY7iMbiWC8QDJXCZ"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "FLT",
+      "url": "https://open.spotify.com/track/0eNaEnv5cskYlVUPKJvU3V"
+    },
+    {
+      "album": {
         "name": "LONERWRLD, vol 1",
         "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
       },
@@ -17426,7 +17452,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154285,
       "name": "Good Call",
       "url": "https://open.spotify.com/track/0gPQHK0aACRv5JAhIWdpjB"
@@ -21084,7 +21110,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 129088,
       "name": "Invisible Boy",
       "url": "https://open.spotify.com/track/1MlmQnYeIrI2BfjdTm57c6"
@@ -22466,6 +22492,24 @@
       "duration_ms": 160000,
       "name": "KILL $HIT (WIN LIST)",
       "url": "https://open.spotify.com/track/1h4inuu58Q56Mt22htirO1"
+    },
+    {
+      "album": {
+        "name": "Kill Switch",
+        "url": "https://open.spotify.com/album/6cL6zAe9l2cZ8NgcIzPIym"
+      },
+      "artists": [
+        {
+          "name": "ShaqIsDope",
+          "url": "https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Kill Switch",
+      "url": "https://open.spotify.com/track/5XDBMXfi2iNrokMO4Skahj"
     },
     {
       "album": {
@@ -32349,6 +32393,32 @@
     },
     {
       "album": {
+        "name": "Phenomenal",
+        "url": "https://open.spotify.com/album/2yF2ioZYFUxv9FXFThT34H"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "Paperboys",
+          "url": "https://open.spotify.com/artist/74FBtqFO0SZn7nWzwql2VP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122695,
+      "name": "Phenomenal",
+      "url": "https://open.spotify.com/track/4DT1xj1f2NAoZaHZvYPSBa"
+    },
+    {
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7LyH1QSSk3ougLo55qXcGK"
       },
@@ -33218,7 +33288,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 177877,
       "name": "Practice",
       "url": "https://open.spotify.com/track/3TTHPnTiLxVxuIlLfu9niJ"
@@ -37555,6 +37625,24 @@
     },
     {
       "album": {
+        "name": "SIMON SAYS",
+        "url": "https://open.spotify.com/album/2foroeWzjDQNdvc4oykpeL"
+      },
+      "artists": [
+        {
+          "name": "BAMT",
+          "url": "https://open.spotify.com/artist/02HtrDQJDSV1umYHzqzWdv"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141744,
+      "name": "SIMON SAYS",
+      "url": "https://open.spotify.com/track/24KjLIyqr75HMZX1UUPM8s"
+    },
+    {
+      "album": {
         "name": "Simple Days",
         "url": "https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8"
       },
@@ -40702,7 +40790,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 199568,
       "name": "TALK2MUCH",
       "url": "https://open.spotify.com/track/06q6d5TWaqK6pIvE20VjE8"
@@ -47435,6 +47523,28 @@
     },
     {
       "album": {
+        "name": "Wrist Remix (feat. Father)",
+        "url": "https://open.spotify.com/album/2fQtlsEw3pLSZuY3pDYtsD"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Father",
+          "url": "https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Wrist Remix (feat. Father)",
+      "url": "https://open.spotify.com/track/7oIZQABKsHYtqEMnmpWR8N"
+    },
+    {
+      "album": {
         "name": "Wrong Decisions",
         "url": "https://open.spotify.com/album/77P2YNeTVk6kXjgEsz6dCD"
       },
@@ -48292,7 +48402,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 147143,
       "name": "Zero to Hero",
       "url": "https://open.spotify.com/track/1qYfabX2JEze4cIUuYuXGX"

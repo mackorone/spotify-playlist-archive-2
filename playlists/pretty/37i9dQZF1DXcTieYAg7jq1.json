@@ -1,28 +1,60 @@
 {
-  "description": "Featuring that new vintage. Cover: Blu DeTiger",
-  "num_followers": 448742,
+  "description": "Featuring that new vintage. Cover: Tiger Lewis",
+  "num_followers": 448749,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAzlZ75q+6m+dYzlPFJMXtFSACJu",
+  "snapshot_id": "AAAAACoFzTlFGxuEGn9Ym+FgW1dwsEGb",
   "tracks": [
     {
       "added_at": "2026-11-06 05:01:48",
       "album": {
-        "name": "N.Y. Baby",
-        "url": "https://open.spotify.com/album/4qpUSOUwi7KxObwEaBbwnc"
+        "name": "Lonely Guy",
+        "url": "https://open.spotify.com/album/0RuMs1QX1Koe3oAGxmMLrT"
       },
       "artists": [
         {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+          "name": "Tiger Lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
         }
       ],
-      "duration_ms": 208720,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/2krwqv3wpmSFSTsTXKtNMN"
+      "duration_ms": 169040,
+      "name": "Lonely Guy",
+      "url": "https://open.spotify.com/track/1sd7RBCgu3CbV8QiiB7jn0"
+    },
+    {
+      "added_at": "2026-11-20 05:00:22",
+      "album": {
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/0S5JVI68OlKW9mIcq0pdqp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 268874,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/42Bpbeh7uDLOnDFyBWwRcI"
+    },
+    {
+      "added_at": "2026-11-20 05:00:22",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/60uilMs840G7CvBm0vvBoe"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/7hTtSlOEx88OqsqJ1dq75f"
     },
     {
       "added_at": "2026-11-13 05:02:13",
@@ -43,6 +75,38 @@
     {
       "added_at": "2026-11-06 05:01:48",
       "album": {
+        "name": "N.Y. Baby",
+        "url": "https://open.spotify.com/album/4qpUSOUwi7KxObwEaBbwnc"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 208720,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/2krwqv3wpmSFSTsTXKtNMN"
+    },
+    {
+      "added_at": "2026-11-20 05:38:17",
+      "album": {
+        "name": "Dance Away Your Problems",
+        "url": "https://open.spotify.com/album/3wyplPIw5W4qU1RB7lznUa"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 256284,
+      "name": "Rather Be You",
+      "url": "https://open.spotify.com/track/7jgkFZqE6Qw1F2Ru5zcZoY"
+    },
+    {
+      "added_at": "2026-11-06 05:01:48",
+      "album": {
         "name": "Mine! Mine! Mine!",
         "url": "https://open.spotify.com/album/53uCkkYON7O6tJsvvSfmfD"
       },
@@ -55,22 +119,6 @@
       "duration_ms": 185991,
       "name": "Mine! Mine! Mine!",
       "url": "https://open.spotify.com/track/2iYDREZOOuXBrFkRimaRZ0"
-    },
-    {
-      "added_at": "2026-11-06 05:01:48",
-      "album": {
-        "name": "Lonely Guy",
-        "url": "https://open.spotify.com/album/0RuMs1QX1Koe3oAGxmMLrT"
-      },
-      "artists": [
-        {
-          "name": "Tiger Lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 169040,
-      "name": "Lonely Guy",
-      "url": "https://open.spotify.com/track/1sd7RBCgu3CbV8QiiB7jn0"
     },
     {
       "added_at": "2026-11-09 20:19:56",
@@ -119,6 +167,22 @@
       "duration_ms": 219034,
       "name": "Unearth",
       "url": "https://open.spotify.com/track/0ctmCRc8SmNQoMSLUv3tzC"
+    },
+    {
+      "added_at": "2026-11-20 05:00:22",
+      "album": {
+        "name": "Smell The Roses",
+        "url": "https://open.spotify.com/album/1XK5XDddfNMOPqUWIGRoIl"
+      },
+      "artists": [
+        {
+          "name": "Jessica Doolan",
+          "url": "https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Smell The Roses",
+      "url": "https://open.spotify.com/track/3v2G6V5DXNC2vRLxcTneAR"
     },
     {
       "added_at": "2026-10-30 04:01:35",
@@ -385,50 +449,6 @@
       "url": "https://open.spotify.com/track/3NiKbi4pbAq7BIv5SGTC5d"
     },
     {
-      "added_at": "2026-09-25 04:21:58",
-      "album": {
-        "name": "Take Away My Problems",
-        "url": "https://open.spotify.com/album/1QthikCvDI8Bt7QAODFQ7h"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 156864,
-      "name": "Jennifer",
-      "url": "https://open.spotify.com/track/4oF46suNctrzdFKGw4CQAv"
-    },
-    {
-      "added_at": "2026-09-18 04:38:34",
-      "album": {
-        "name": "N.Y. Baby (feat. Holly Walker, Say She She & Flavor Flav)",
-        "url": "https://open.spotify.com/album/6jjq0NYdzpneBQR6vzwFwN"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        },
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        },
-        {
-          "name": "Flavor Flav",
-          "url": "https://open.spotify.com/artist/7Bzd9B4YO9HFqNVM2P7MPX"
-        },
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "N.Y. Baby (feat. Holly Walker, Say She She & Flavor Flav)",
-      "url": "https://open.spotify.com/track/5iHA1i9I8qzF0MQBPvpufe"
-    },
-    {
       "added_at": "2026-09-11 04:21:06",
       "album": {
         "name": "Toy Gun",
@@ -459,22 +479,6 @@
       "duration_ms": 206333,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq"
-    },
-    {
-      "added_at": "2026-08-14 04:00:12",
-      "album": {
-        "name": "Mr. Right Now",
-        "url": "https://open.spotify.com/album/43KPeE3nXAcQHTHcqIUXFC"
-      },
-      "artists": [
-        {
-          "name": "Tiger Lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 154834,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/5HUR6Hb9R7PcnILwdZbS0T"
     },
     {
       "added_at": "2026-08-21 04:02:22",
@@ -1087,22 +1091,6 @@
       "duration_ms": 155004,
       "name": "Man of the House",
       "url": "https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z"
-    },
-    {
-      "added_at": "2026-05-29 04:01:17",
-      "album": {
-        "name": "The Balance",
-        "url": "https://open.spotify.com/album/2veN1R5PcbB0MI5zzkT69R"
-      },
-      "artists": [
-        {
-          "name": "Lenka",
-          "url": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "The Balance",
-      "url": "https://open.spotify.com/track/2OIWoUfeUjrlB5p4ckUFan"
     },
     {
       "added_at": "2026-05-01 04:02:18",

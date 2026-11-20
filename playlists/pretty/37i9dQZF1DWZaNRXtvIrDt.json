@@ -1,124 +1,144 @@
 {
-  "description": "A new world of alternative electronic music. Cover: CC:DISCO!",
-  "num_followers": 128386,
+  "description": "A new world of alternative electronic music. Cover: William Kiss",
+  "num_followers": 128377,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIxbRjJXFcVM6GaqMhYozF/ynDIP",
+  "snapshot_id": "AAAAAKUxPu8HuIsQycT51mO5yNUCguh1",
   "tracks": [
     {
-      "added_at": "2026-11-05 13:00:15",
+      "added_at": "2026-11-20 02:02:00",
       "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/5vy9xoWx6WES5lPeKodKRs"
       },
       "artists": [
         {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+          "name": "William Kiss",
+          "url": "https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/2P6ghWEBLjN7B9x1AfEdNO"
+    },
+    {
+      "added_at": "2026-11-20 02:02:00",
+      "album": {
+        "name": "Miniskrrrt",
+        "url": "https://open.spotify.com/album/3czlMLU2nETzjhjYyeT5oG"
+      },
+      "artists": [
+        {
+          "name": "Facta",
+          "url": "https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn"
         },
         {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "duration_ms": 257473,
+      "name": "Miniskrrrt",
+      "url": "https://open.spotify.com/track/2nus1r7FfuRJ3upn95Jia3"
+    },
+    {
+      "added_at": "2026-11-20 02:02:00",
+      "album": {
+        "name": "FENIAN (Kelly Lee Owens Remix)",
+        "url": "https://open.spotify.com/album/60grdchXScXK66zWuIOKZl"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
         },
         {
-          "name": "Borderland",
-          "url": "https://open.spotify.com/artist/4ttW3XIF666GUYBF2tEMz9"
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
         }
       ],
-      "duration_ms": 367500,
-      "name": "Lightyears",
-      "url": "https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5"
+      "duration_ms": 263767,
+      "name": "FENIAN - Kelly Lee Owens Remix",
+      "url": "https://open.spotify.com/track/3tluYXdw0zK3VAaXXH1jwD"
     },
     {
-      "added_at": "2026-11-05 13:00:15",
+      "added_at": "2026-11-20 02:02:00",
       "album": {
-        "name": "Prize Winning Horse EP",
-        "url": "https://open.spotify.com/album/4MbqcjfOmKQmuu47yWhYc4"
+        "name": "volc5",
+        "url": "https://open.spotify.com/album/2yqPRWnIDJJnOyhmDaEvTx"
       },
       "artists": [
         {
-          "name": "CC:DISCO!",
-          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
+          "name": "George Daniel",
+          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
         },
         {
-          "name": "Jennifer Loveless",
-          "url": "https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c"
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
         }
       ],
-      "duration_ms": 339754,
-      "name": "Just 4 You",
-      "url": "https://open.spotify.com/track/3swfdrsZzZelOWGmj7XPt7"
+      "duration_ms": 250299,
+      "name": "volc5",
+      "url": "https://open.spotify.com/track/1DfZAGuuHvsBTSQ85jKRiE"
     },
     {
-      "added_at": "2026-11-05 13:00:15",
+      "added_at": "2026-11-20 02:02:00",
       "album": {
-        "name": "The Most Complex Machine",
-        "url": "https://open.spotify.com/album/42bmD3AMT6Lp2mG1aSh3mW"
+        "name": "qu\u00e9 les pas\u00f3 a mis amigos?",
+        "url": "https://open.spotify.com/album/68gsAe1eEPk4qKeqdHXp8U"
       },
       "artists": [
         {
-          "name": "FUKHED",
-          "url": "https://open.spotify.com/artist/5BqpnSBznM8TZgqiCYRW2w"
-        }
-      ],
-      "duration_ms": 234509,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/5ESpt1NYPAmdGyaamYo32v"
-    },
-    {
-      "added_at": "2026-11-05 13:00:15",
-      "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/045jLPgVKmeU2Zj3UhHeSG"
-      },
-      "artists": [
-        {
-          "name": "Pearson Sound",
-          "url": "https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J"
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         },
         {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        },
+        {
+          "name": "Loidis",
+          "url": "https://open.spotify.com/artist/2TDYu0uxVowgHaYN6P14k2"
         }
       ],
-      "duration_ms": 304487,
-      "name": "Heat - Extended Mix",
-      "url": "https://open.spotify.com/track/4zm5Qzdu21lOOhsHuBRvkn"
+      "duration_ms": 527610,
+      "name": "qu\u00e9 les pas\u00f3 a mis amigos? - Loidis Reconfiguration",
+      "url": "https://open.spotify.com/track/74CHGhbouRpYXHMzCGUQ5t"
     },
     {
-      "added_at": "2026-11-05 13:00:15",
+      "added_at": "2026-11-20 02:02:00",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/3nwEwmA4jrGVKeMk9WWnB0"
+        "name": "La Verit\u00e0",
+        "url": "https://open.spotify.com/album/01JO46MqQMmIJaicogF4KO"
       },
       "artists": [
         {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+          "name": "GiGi FM",
+          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
         }
       ],
-      "duration_ms": 229484,
-      "name": "Dreamers",
-      "url": "https://open.spotify.com/track/0Ct9VBzh0DOFM33b1QNbsb"
+      "duration_ms": 322285,
+      "name": "La Verit\u00e0",
+      "url": "https://open.spotify.com/track/2bDpDQzvShknCkH6GxhFx3"
     },
     {
-      "added_at": "2026-11-05 13:00:15",
+      "added_at": "2026-11-20 02:02:00",
       "album": {
-        "name": "Charger",
-        "url": "https://open.spotify.com/album/23AIm3BN1msdiVuv6mQURX"
+        "name": "Hadron",
+        "url": "https://open.spotify.com/album/29NbHLN1TXrKo0JncQHvqq"
       },
       "artists": [
         {
-          "name": "Kelbin",
-          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+          "name": "Pugilist",
+          "url": "https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S"
         }
       ],
-      "duration_ms": 260851,
-      "name": "Charger",
-      "url": "https://open.spotify.com/track/32AkYmvP99jGqd5SfblUYD"
+      "duration_ms": 274702,
+      "name": "Hadron",
+      "url": "https://open.spotify.com/track/7ohztHH0Mv5UOT5CIw2Bv5"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -903,46 +923,26 @@
     {
       "added_at": "2026-11-05 13:00:15",
       "album": {
-        "name": "Mi Fai Sorridere",
-        "url": "https://open.spotify.com/album/23AcCbbce5DaZ3t7Rqsw7c"
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
       },
       "artists": [
         {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
         },
         {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        },
+        {
+          "name": "Borderland",
+          "url": "https://open.spotify.com/artist/4ttW3XIF666GUYBF2tEMz9"
         }
       ],
-      "duration_ms": 193766,
-      "name": "Mi Fai Sorridere",
-      "url": "https://open.spotify.com/track/1KJyysoVBls4pz3IBmReT4"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
-        "url": "https://open.spotify.com/album/5AqA9sP5nWY0Q4ysvpJOdo"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 229107,
-      "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
-      "url": "https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3"
+      "duration_ms": 367500,
+      "name": "Lightyears",
+      "url": "https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5"
     }
   ],
   "unique_name": "Portal",

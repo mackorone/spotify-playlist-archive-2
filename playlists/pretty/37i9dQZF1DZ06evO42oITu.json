@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 379594,
+  "num_followers": 379603,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABENGXvZb1hpbhzNAQCmjOm",
+  "snapshot_id": "avzqgAAAAABg/tu0Ccn6N6R5hw/O3CCb",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clapton",
+        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 263000,
       "name": "Riding With the King",
       "url": "https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clapton",
-        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
     },
     {
       "added_at": null,
@@ -471,42 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roll On (Bonus Track)",
-        "url": "https://open.spotify.com/album/0tyqG6ramLxMTIs5oQkHjd"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Roll On - Bonus Track",
-      "url": "https://open.spotify.com/track/3mjgkuj8wciSefuP9m0RXi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 186534,
-      "name": "They Call Me The Breeze",
-      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live from Madison Square Garden",
         "url": "https://open.spotify.com/album/438cphNkpzGKfsC0PcaDLH"
       },
@@ -527,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
       "artists": [
         {
@@ -536,9 +500,29 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 301266,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
+      "duration_ms": 186534,
+      "name": "They Call Me The Breeze",
+      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roll On (Bonus Track)",
+        "url": "https://open.spotify.com/album/0tyqG6ramLxMTIs5oQkHjd"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Roll On - Bonus Track",
+      "url": "https://open.spotify.com/track/3mjgkuj8wciSefuP9m0RXi"
     },
     {
       "added_at": null,
@@ -563,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
       },
       "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        },
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 153480,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
+      "duration_ms": 301266,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
     },
     {
       "added_at": null,
@@ -603,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
       },
       "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        },
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Alberta - Acoustic Live",
-      "url": "https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd"
+      "duration_ms": 153480,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 275520,
       "name": "Ride the River",
       "url": "https://open.spotify.com/track/3sDSFcI1b35KqEEd0bDzBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "Alberta - Acoustic Live",
+      "url": "https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 390893,
-      "name": "Running on Faith - Acoustic Live",
-      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 237266,
       "name": "Last Will and Testament",
       "url": "https://open.spotify.com/track/0gWvwq74U73oTVDmFn4TCE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 390893,
+      "name": "Running on Faith - Acoustic Live",
+      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
     },
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 332773,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Jimmie Vaughan",
         "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 381066,
       "name": "Six Strings Down",
       "url": "https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 332773,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91"
     },
     {
       "added_at": null,

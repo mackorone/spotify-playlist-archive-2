@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174471,
       "name": "Amenable",
       "url": "https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g"
@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 151124,
       "name": "Come to Peace",
       "url": "https://open.spotify.com/track/4hCGv1Y79lu6FaMeXIVRdP"
@@ -5584,7 +5584,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 140875,
       "name": "Fragile Lines",
       "url": "https://open.spotify.com/track/5gSVyUJlLESVH6Rss6Qmn6"
@@ -5948,7 +5948,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 138109,
       "name": "Growing Free",
       "url": "https://open.spotify.com/track/7Ey06jUeAOE6BiJysv5LFF"
@@ -6726,7 +6726,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 212250,
       "name": "Ignis",
       "url": "https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK"
@@ -7828,7 +7828,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 133889,
       "name": "Landscaped bodies",
       "url": "https://open.spotify.com/track/4OVImwWsGcCMCv3oN8CATY"
@@ -8152,7 +8152,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144822,
       "name": "Letter From Home",
       "url": "https://open.spotify.com/track/5xQnYE2KXAvyDqGdbNOiD5"
@@ -9869,6 +9869,24 @@
     },
     {
       "album": {
+        "name": "Near",
+        "url": "https://open.spotify.com/album/1O3Hy6aMFVZrQWPc6VvoyM"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Near",
+      "url": "https://open.spotify.com/track/5mOin0Hi8IYmTG9QnkZBXt"
+    },
+    {
+      "album": {
         "name": "Das Rosenblatt",
         "url": "https://open.spotify.com/album/3cn9ZaAr8dW2oBrBu898me"
       },
@@ -10420,7 +10438,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 146515,
       "name": "Only Illusions",
       "url": "https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj"
@@ -11302,7 +11320,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 143250,
       "name": "Primrose",
       "url": "https://open.spotify.com/track/05wL2Gp3Hi6dVOhYn6pG1g"
@@ -11392,7 +11410,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155874,
       "name": "Promise",
       "url": "https://open.spotify.com/track/5nk854M1eYe0mJKg3kaukY"
@@ -12184,7 +12202,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 131551,
       "name": "Ripples of Moonlight",
       "url": "https://open.spotify.com/track/7bpquLnlXXBPG7VsR0QKM1"
@@ -13322,7 +13340,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 129828,
       "name": "Slowly \u6162\u6162\u5730",
       "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
@@ -13376,7 +13394,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 145080,
       "name": "Soft Return",
       "url": "https://open.spotify.com/track/1Tkl43frGAm0ACGRla1TAW"
@@ -14158,7 +14176,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 123641,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/45BcuKF5ILiWrIoa4owvTg"
@@ -14414,7 +14432,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154224,
       "name": "S\u00e9r\u00e9nit\u00e9",
       "url": "https://open.spotify.com/track/3BRf8a39rGKSSBp7AmqclQ"
@@ -15016,7 +15034,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168017,
       "name": "The Hills At Home",
       "url": "https://open.spotify.com/track/0dHVSVhzz0d9MHJ8WxhEsw"
@@ -15502,7 +15520,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176054,
       "name": "Then Gone",
       "url": "https://open.spotify.com/track/0hTPpCy0wkKkrOAGOGMsFq"
@@ -16244,7 +16262,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 162925,
       "name": "Unexpected Journey",
       "url": "https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9"

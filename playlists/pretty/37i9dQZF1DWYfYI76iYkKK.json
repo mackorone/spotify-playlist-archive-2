@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130607,
+  "num_followers": 130605,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFg9dMXlisIS/84FumruR9dogObj",
+  "snapshot_id": "AAAAABg4EJxjxR3b22t6qLZAZMDkXbqJ",
   "tracks": [
     {
       "added_at": "2026-02-12 16:00:30",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
+        "name": "\u6211\u7684\u5b58\u5728\u5c31\u662f\u611b\u4f60",
+        "url": "https://open.spotify.com/album/06tHgjx8kTP2HE9S49o6YN"
+      },
+      "artists": [
+        {
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+        }
+      ],
+      "duration_ms": 202913,
+      "name": "\u6211\u7684\u5b58\u5728\u5c31\u662f\u611b\u4f60",
+      "url": "https://open.spotify.com/track/1emjanb16SqthPUn27rUCp"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
         "name": "\u8f38\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 189500,
       "name": "\u7a7a\u57ce\u8a18",
       "url": "https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
-        "name": "\u6211\u7684\u5b58\u5728\u5c31\u662f\u611b\u4f60",
-        "url": "https://open.spotify.com/album/06tHgjx8kTP2HE9S49o6YN"
-      },
-      "artists": [
-        {
-          "name": "A-Mei Chang",
-          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
-        }
-      ],
-      "duration_ms": 202913,
-      "name": "\u6211\u7684\u5b58\u5728\u5c31\u662f\u611b\u4f60",
-      "url": "https://open.spotify.com/track/1emjanb16SqthPUn27rUCp"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u5b64\u7368\u60a3\u8005",
-        "url": "https://open.spotify.com/album/1LAyTXJCnxLzOxnKVLjvl4"
+        "name": "\u9752\u7a7a\u672a\u4f86",
+        "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
       },
       "artists": [
         {
-          "name": "Andy Shieh",
-          "url": "https://open.spotify.com/artist/6VfUvCNDq7I5QZgCEBEKYq"
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
         }
       ],
-      "duration_ms": 268552,
-      "name": "\u5b64\u7368\u60a3\u8005",
-      "url": "https://open.spotify.com/track/7p1LiQch1hP16qoaI6J7Fw"
+      "duration_ms": 255438,
+      "name": "\u9752\u7a7a\u672a\u4f86",
+      "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u9752\u7a7a\u672a\u4f86",
-        "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
+        "name": "\u5b64\u7368\u60a3\u8005",
+        "url": "https://open.spotify.com/album/1LAyTXJCnxLzOxnKVLjvl4"
       },
       "artists": [
         {
-          "name": "Ashin Chen",
-          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+          "name": "Andy Shieh",
+          "url": "https://open.spotify.com/artist/6VfUvCNDq7I5QZgCEBEKYq"
         }
       ],
-      "duration_ms": 255438,
-      "name": "\u9752\u7a7a\u672a\u4f86",
-      "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
+      "duration_ms": 268552,
+      "name": "\u5b64\u7368\u60a3\u8005",
+      "url": "https://open.spotify.com/track/7p1LiQch1hP16qoaI6J7Fw"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

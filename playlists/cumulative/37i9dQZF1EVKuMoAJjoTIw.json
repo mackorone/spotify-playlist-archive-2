@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIV5Po98yTZ2l>Lana Del Rey</a>, <a href=spotify:playlist:37i9dQZF1EIZgxpYE3Nj2W>Plain White T's</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWyzNvg2djHJ>b\u00f4a</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIUZByzgp9TdY>Lewis Capaldi</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 244906,
       "name": "16 Lines",
       "url": "https://open.spotify.com/track/6akBF8JWM8lrpqejdwIfYI"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-01",
+      "date_removed": null,
       "duration_ms": 134197,
       "name": "7 Years (Remix)",
       "url": "https://open.spotify.com/track/1kFlDnWmBTvCBxxeGDpIdp"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185343,
       "name": "A Lei",
       "url": "https://open.spotify.com/track/50uGP4Bs22S1iPNn1hTo3R"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 184803,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc"
@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 170196,
       "name": "Cenere",
       "url": "https://open.spotify.com/track/45xyKCey4BM3fMeFEsF1Hp"
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 300683,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 135168,
       "name": "CRY",
       "url": "https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX"
@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 135724,
       "name": "CUORE RINCHIUSO",
       "url": "https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d"
@@ -4664,7 +4664,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 225459,
       "name": "Davide e Golia",
       "url": "https://open.spotify.com/track/0qGIqm3xGuugqoXzpnP6sX"
@@ -5643,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Duvet",
+      "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
+    },
+    {
+      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
@@ -6118,7 +6136,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 95466,
       "name": "Everybody Dies In Their Nightmares",
       "url": "https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7"
@@ -6506,7 +6524,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 196400,
       "name": "Falling Down - Bonus Track",
       "url": "https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9"
@@ -6878,7 +6896,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 108375,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2GvOVIdVAi69jpCvRTxWg6"
@@ -7580,7 +7598,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 108034,
       "name": "Guardian angel",
       "url": "https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY"
@@ -7660,7 +7678,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 134068,
       "name": "Had To Leave",
       "url": "https://open.spotify.com/track/0dwzzJ6IrJEva6r5UK7ITp"
@@ -7968,7 +7986,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154756,
       "name": "Hate Me!",
       "url": "https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu"
@@ -8080,7 +8098,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 136357,
       "name": "HEARTEATER",
       "url": "https://open.spotify.com/track/0MW5zwGXciXyVdFwQbvBq8"
@@ -8196,7 +8214,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
@@ -8214,7 +8232,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 203360,
       "name": "Hide Behind My Disguise",
       "url": "https://open.spotify.com/track/7yqCXB1u5eWVWzx0A9HNyn"
@@ -8738,7 +8756,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 223346,
       "name": "I Fall Apart",
       "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
@@ -9454,7 +9472,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 199386,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
@@ -10948,7 +10966,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 227321,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/2qf4KviAhT4cNGydUT28Qo"
@@ -13252,7 +13270,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 124865,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/2lbl6RWx8acFsyvYcasK0H"
@@ -13418,7 +13436,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 215186,
       "name": "MISTAKE",
       "url": "https://open.spotify.com/track/0rc9XLNs7KZXu2ASA3LbL8"
@@ -14008,7 +14026,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 168308,
       "name": "Never Be Alright",
       "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
@@ -14124,7 +14142,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181373,
       "name": "Niente Panico",
       "url": "https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU"
@@ -14290,7 +14308,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
@@ -14446,7 +14464,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216389,
       "name": "NON MI RICONOSCO \u2260 (con centomilacarie, Salmo)",
       "url": "https://open.spotify.com/track/49Z7NyXeCgUTPRFJaUkoVG"
@@ -14464,7 +14482,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 128333,
       "name": "Non voglio morire",
       "url": "https://open.spotify.com/track/3mX0tEvW5bJiLLEkdHmyGN"
@@ -14808,7 +14826,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 179372,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0nrQctfuJf5yEjPKHlMiBp"
@@ -15220,7 +15238,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 244062,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/69pVdg4uAzb5Zvtj1UogPH"
@@ -15292,7 +15310,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188803,
       "name": "Per te che Lotto",
       "url": "https://open.spotify.com/track/70600tukZat0m8rM0yqDoD"
@@ -15458,7 +15476,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 208212,
       "name": "PIET\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0IkOUXIMztRh6yBAPD1OzF"
@@ -16550,7 +16568,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 166285,
       "name": "SAB",
       "url": "https://open.spotify.com/track/2feRGIQMsbAiaREBKD5Jpl"
@@ -17352,7 +17370,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 100379,
       "name": "Self Talk",
       "url": "https://open.spotify.com/track/7bZ60bmf8FOzaQOXSw95pA"
@@ -18190,7 +18208,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -18686,7 +18704,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-03",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Sto Bene",
       "url": "https://open.spotify.com/track/7yDWlv3NjJLXG17O9bgr48"
@@ -18798,7 +18816,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -18820,7 +18838,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
@@ -20280,7 +20298,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 265454,
       "name": "Ti Amo",
       "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
@@ -20298,7 +20316,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172198,
       "name": "TI DIREI",
       "url": "https://open.spotify.com/track/5RlANDmPsPHSkYHFzchhIt"
@@ -20316,7 +20334,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 124437,
       "name": "TI SENTI FRAGILE",
       "url": "https://open.spotify.com/track/5JTpxCtoBfS21t2qPUt2cW"
@@ -20494,7 +20512,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
@@ -22622,7 +22640,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 198656,
       "name": "Ya Para Qu\u00e9",
       "url": "https://open.spotify.com/track/3KmPDFJeamrxeUknSDqsfk"

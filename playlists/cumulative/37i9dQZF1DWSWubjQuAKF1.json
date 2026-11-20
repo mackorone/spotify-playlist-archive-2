@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Dominika P\u0142onka",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Evelina Ross",
   "name": "up next",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175448,
       "name": "A Bodaj Tebe",
       "url": "https://open.spotify.com/track/1sxMhqsMqk3yILuJi0Kai9"
@@ -6411,6 +6411,24 @@
     },
     {
       "album": {
+        "name": "DECOUPAGE",
+        "url": "https://open.spotify.com/album/0nvI9aOunkqNbrFQP2bTrS"
+      },
+      "artists": [
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211890,
+      "name": "Ile od Ciebie mog\u0119 dosta\u0107",
+      "url": "https://open.spotify.com/track/6SvahwkQA71sUYcYHN0PnP"
+    },
+    {
+      "album": {
         "name": "Ile?",
         "url": "https://open.spotify.com/album/1VSFrjY2T84viVWqVqtJox"
       },
@@ -6520,7 +6538,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149760,
       "name": "INSOMNIA",
       "url": "https://open.spotify.com/track/0YUG4BzNIDyoTUDdKsWW5O"
@@ -6838,6 +6856,24 @@
       "duration_ms": 221590,
       "name": "jak to jest?",
       "url": "https://open.spotify.com/track/0ubUWjVsO0HcIThLXkEEff"
+    },
+    {
+      "album": {
+        "name": "Jak z gwiazd",
+        "url": "https://open.spotify.com/album/1w9O9JUJ2yUfJEV631wVB9"
+      },
+      "artists": [
+        {
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "Jak z gwiazd",
+      "url": "https://open.spotify.com/track/36t70DEVEIoJbtghud7dMI"
     },
     {
       "album": {
@@ -8363,6 +8399,24 @@
     },
     {
       "album": {
+        "name": "liminal?",
+        "url": "https://open.spotify.com/album/19sZSR3N2gmjYAvYC0i04O"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "liminal?",
+      "url": "https://open.spotify.com/track/3vmGvIxO2H1fIGyq4Q5pbR"
+    },
+    {
+      "album": {
         "name": "linia niedost\u0119pna",
         "url": "https://open.spotify.com/album/2hOyG8A7yWci6K5VBhB7gW"
       },
@@ -9792,6 +9846,24 @@
       "duration_ms": 258296,
       "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
       "url": "https://open.spotify.com/track/12UEAXlefpq8xaxOSROOZL"
+    },
+    {
+      "album": {
+        "name": "Moulin Rouge",
+        "url": "https://open.spotify.com/album/519i4BHq8cnRC8Xq78k6zT"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Moulin Rouge",
+      "url": "https://open.spotify.com/track/2gyPFCycuWJz2VBEhWsiy2"
     },
     {
       "album": {
@@ -12009,6 +12081,24 @@
     },
     {
       "album": {
+        "name": "WRACAM",
+        "url": "https://open.spotify.com/album/6TFgaFmp2zH7Fi63BwTJca"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222959,
+      "name": "Ona",
+      "url": "https://open.spotify.com/track/6RwyGj5J4WH4MQtZXOevbL"
+    },
+    {
+      "album": {
         "name": "Ona",
         "url": "https://open.spotify.com/album/02k6lkAxcaEzSpXnYgCdej"
       },
@@ -12626,7 +12716,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175376,
       "name": "Pech",
       "url": "https://open.spotify.com/track/76SidE9PbrH5B7daxXkOdI"
@@ -12648,6 +12738,24 @@
       "duration_ms": 190000,
       "name": "pelagia",
       "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
+    },
+    {
+      "album": {
+        "name": "Penelope",
+        "url": "https://open.spotify.com/album/10X4hOBNy3A7Be9greQvQG"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177214,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/5dw4iTokDEV51ub7k3FDE3"
     },
     {
       "album": {
@@ -12996,7 +13104,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 162920,
       "name": "po co mi to???",
       "url": "https://open.spotify.com/track/4gEElM8YcYFk9YLNe2cGxn"
@@ -18212,7 +18320,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 170760,
       "name": "WILD WEST",
       "url": "https://open.spotify.com/track/4cIA1xpUKGRVgM7A4sLpLk"
@@ -19330,7 +19438,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 194181,
       "name": "Zatrzymaj si\u0119",
       "url": "https://open.spotify.com/track/5gXek4hzwj136OrPEc7ZQK"

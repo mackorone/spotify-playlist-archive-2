@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Canada's best dance hits, featuring Levity",
+  "description": "Canada's best dance hits, featuring BLOND:ISH + HAYLA",
   "name": "mint Canada",
   "tracks": [
     {
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195285,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
@@ -2853,6 +2853,28 @@
     },
     {
       "album": {
+        "name": "B.O.B.",
+        "url": "https://open.spotify.com/album/6GyAj12htrIhQNoFeAUGuN"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123983,
+      "name": "B.O.B.",
+      "url": "https://open.spotify.com/track/4eu2C1zMf5wjOlbhBtua5n"
+    },
+    {
+      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -3373,6 +3395,28 @@
     },
     {
       "album": {
+        "name": "RODEO RADIO",
+        "url": "https://open.spotify.com/album/1IyTBb77zcr87nyK2oWETy"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "BAD GIRLS",
+      "url": "https://open.spotify.com/track/5Apg49WWj1oaivcuST6kFN"
+    },
+    {
+      "album": {
         "name": "Bad Match",
         "url": "https://open.spotify.com/album/3I26cKWmqMQk5uJe0VZygu"
       },
@@ -3642,6 +3686,28 @@
       "duration_ms": 172953,
       "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
       "url": "https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP"
+    },
+    {
+      "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/4ZSipudbgUelSLXxYDTpNF"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191292,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/2nffh9MtxLFN81121DFLbC"
     },
     {
       "album": {
@@ -4988,6 +5054,28 @@
       "duration_ms": 196721,
       "name": "Break The Same",
       "url": "https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ"
+    },
+    {
+      "album": {
+        "name": "Here, Forever",
+        "url": "https://open.spotify.com/album/2Ulg9K7ts7BP2nApQQrJf6"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184897,
+      "name": "Break Ya Neck",
+      "url": "https://open.spotify.com/track/65f7oyUrmKCKtb9cErD0Bp"
     },
     {
       "album": {
@@ -8062,7 +8150,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 204308,
       "name": "d e v i l",
       "url": "https://open.spotify.com/track/2iI6ZrmVzpYgEJdlDht9wB"
@@ -12848,7 +12936,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 287933,
       "name": "Feel 4 U (feat. Saint Monet)",
       "url": "https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V"
@@ -16298,6 +16386,28 @@
       "duration_ms": 192914,
       "name": "Heartbreak Fever",
       "url": "https://open.spotify.com/track/152nakhbemxARzWXu224Hc"
+    },
+    {
+      "album": {
+        "name": "HEARTS DON\u2019T LIE.",
+        "url": "https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/08HqAryJ8C5XGysjD7mYum"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "HEARTS DON\u2019T LIE.",
+      "url": "https://open.spotify.com/track/5iz7S13R8nQmXNtzRCXVb2"
     },
     {
       "album": {
@@ -23325,6 +23435,28 @@
     },
     {
       "album": {
+        "name": "OASIS (Deluxe)",
+        "url": "https://open.spotify.com/album/2O1LGwWY2U0tUFAwshIpXS"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "TW3LVE",
+          "url": "https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153692,
+      "name": "Like Stars (feat. TW3LVE)",
+      "url": "https://open.spotify.com/track/6NvSvAxSHkdxKqB5D0PU5F"
+    },
+    {
+      "album": {
         "name": "Like This, Like That (feat. Olivia Lunny)",
         "url": "https://open.spotify.com/album/30OYUmfvxdwXoeqkFX2lT9"
       },
@@ -28348,7 +28480,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -37420,7 +37552,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 222316,
       "name": "SO GOOD",
       "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
@@ -42931,6 +43063,24 @@
     },
     {
       "album": {
+        "name": "Tried",
+        "url": "https://open.spotify.com/album/6jpfnsq9EaPf0we374nolq"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "Tried",
+      "url": "https://open.spotify.com/track/36Fw8BIUPo67LAnjwLTSDL"
+    },
+    {
+      "album": {
         "name": "Trois",
         "url": "https://open.spotify.com/album/6ki02PpusdrBuSeIPnSNts"
       },
@@ -43064,7 +43214,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156066,
       "name": "TSUNAMI",
       "url": "https://open.spotify.com/track/1J6Lihuq84ZgMtxccyRG0o"
@@ -44332,7 +44482,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 236885,
       "name": "Waiting - ft S\u00f8lv",
       "url": "https://open.spotify.com/track/1dUMQ5YyJfxd7wYzmtXb0o"

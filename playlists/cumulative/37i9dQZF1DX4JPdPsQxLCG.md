@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-566 songs - 1 day 11 hr 28 min
+567 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-06-09 | 2024-08-24 |
 | [Blown Wide Open](https://open.spotify.com/track/2wDGbbr3Urw84aKqf9AmJ4) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory](https://open.spotify.com/album/0k4rjOvtXzqIP3sktiBvek) | 5:55 | 2022-05-02 | 2022-07-29 |
 | [Blown Wide Open](https://open.spotify.com/track/3KyDvRT8RdsBcRkvKmy4M2) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:55 | 2023-12-01 | 2024-01-05 |
+| [Blue Ribbon](https://open.spotify.com/track/0kGHZhpFFJvvdCSFtRDYls) | [Paesler](https://open.spotify.com/artist/0SfYT2NCfdPWJzDr9TCsDN) | [Blue Ribbon](https://open.spotify.com/album/1ib7Bl3NxnTZ6eIlTLm9ic) | 4:05 | 2026-11-20 |  |
 | [Bobcaygeon](https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power](https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz) | 4:55 | 2022-05-02 | 2024-04-19 |
 | [bodyache](https://open.spotify.com/track/4gWvy90PdAXgY39Z7S8zSe) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 2:53 | 2023-06-09 | 2023-07-15 |
 | [Bon Voyage](https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Bon Voyage](https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9) | 3:24 | 2024-10-04 | 2025-07-25 |
@@ -262,7 +263,7 @@
 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-10-27 | 2024-04-01 |
 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 | 2024-03-29 | 2024-04-19 |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2022-09-10 | 2022-09-15 |
-| [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 | 2026-08-21 |  |
+| [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 | 2026-08-21 | 2026-11-20 |
 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 | 2024-04-19 |  |
 | [Lay It on the Line](https://open.spotify.com/track/4QwcuKjGjtl5fZe7kDdULV) | [Triumph](https://open.spotify.com/artist/4YfnJEbTz8QLD5FusYFwV6) | [Greatest Hits Remixed \(Deluxe Edition\)](https://open.spotify.com/album/5XDjmthwOECD5BczWlBkzA) | 4:06 | 2022-05-02 | 2023-05-19 |
 | [Leader Of Men](https://open.spotify.com/track/2Nji7Hrl0phCNo7daUTgCy) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The State](https://open.spotify.com/album/1MiT1qcHCo7w1ZmIibwe5W) | 3:30 | 2022-05-02 | 2022-07-18 |
@@ -391,7 +392,7 @@
 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 | 2026-04-30 |  |
 | [Sandpaper \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:36 | 2024-07-05 | 2025-09-30 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2024-04-19 |  |
-| [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-07-24 | 2026-11-11 |
+| [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-07-24 |  |
 | [Seasons in the Sun](https://open.spotify.com/track/6AhUX0ObPgTnS5GGFrRidN) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:25 | 2022-09-13 | 2022-11-13 |
 | [Seasons in the Sun](https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Seasons In The Sun \(Expanded Edition\)](https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J) | 3:28 | 2022-05-02 | 2024-04-19 |
 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 | 2024-04-19 |  |
@@ -491,7 +492,7 @@
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-09-10 | 2022-09-15 |
 | [The Old Apartment](https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Born on a Pirate Ship \(Enhanced Edition\)](https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ) | 3:29 | 2023-05-18 | 2024-04-19 |
 | [The Rest of My Life](https://open.spotify.com/track/01R3c3NRdhVN4E5iZlTSGV) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Action Pact](https://open.spotify.com/album/24EuU7oPexZlKBmnlUHaND) | 2:46 | 2022-09-10 | 2022-09-15 |
-| [The Ride](https://open.spotify.com/track/5eeMCQlmXRkCETQ61AGnUh) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [The Ride](https://open.spotify.com/album/6xg8Xs4Y3fNq1uJlj7kMXu) | 3:32 | 2026-08-07 |  |
+| [The Ride](https://open.spotify.com/track/5eeMCQlmXRkCETQ61AGnUh) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [The Ride](https://open.spotify.com/album/6xg8Xs4Y3fNq1uJlj7kMXu) | 3:32 | 2026-08-07 | 2026-11-20 |
 | [The Spark](https://open.spotify.com/track/11AyynOmB7yiXr84DzEsxj) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/6sesQu02oxMGUbhYViaVTN) | 3:59 | 2022-05-02 | 2025-07-25 |
 | [The Spark](https://open.spotify.com/track/2Tw18xvENjmh7MBPCJNBcP) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/6f6IZDYwtBOGjJZxBiRUhF) | 3:59 | 2022-09-13 | 2024-04-19 |
 | [The Spirit Of Radio](https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Permanent Waves](https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i) | 4:56 | 2022-05-02 | 2023-05-19 |

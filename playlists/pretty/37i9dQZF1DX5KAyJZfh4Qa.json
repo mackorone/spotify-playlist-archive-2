@@ -1,12 +1,12 @@
 {
   "description": "it's just one of those days w/ Koyo",
-  "num_followers": 87515,
+  "num_followers": 87537,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMniKrFx3k7KkScDqGdRP3NbZ2o",
+  "snapshot_id": "AAAAAFMG/bcpVYNDvrUWGbSvzVTRuUYz",
   "tracks": [
     {
       "added_at": "2026-03-13 17:53:46",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
+        "name": "Stay Golden",
+        "url": "https://open.spotify.com/album/3eOka6weED6Atrxap8V15u"
+      },
+      "artists": [
+        {
+          "name": "Combat",
+          "url": "https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx"
+        }
+      ],
+      "duration_ms": 154221,
+      "name": "Full Speed Ahead",
+      "url": "https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
         "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
         "url": "https://open.spotify.com/album/7HU1L8d9pNdEC95LjjJUDP"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 233040,
       "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
       "url": "https://open.spotify.com/track/0tsDCPVmJHLFvai2blxIwv"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
-        "name": "Stay Golden",
-        "url": "https://open.spotify.com/album/3eOka6weED6Atrxap8V15u"
-      },
-      "artists": [
-        {
-          "name": "Combat",
-          "url": "https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx"
-        }
-      ],
-      "duration_ms": 154221,
-      "name": "Full Speed Ahead",
-      "url": "https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "I Just Kept On Forgetting",
-        "url": "https://open.spotify.com/album/0ciqBm0Emp0XdOCagR0ax6"
-      },
-      "artists": [
-        {
-          "name": "Dear Maryanne",
-          "url": "https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8"
-        }
-      ],
-      "duration_ms": 150916,
-      "name": "No One is Gonna Love You",
-      "url": "https://open.spotify.com/track/1s9gkaK7yVGhXznpDQf2Xi"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "espresso lemonade",
         "url": "https://open.spotify.com/album/0HU8Quj0rptShKDVllOWoE"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 153087,
       "name": "espresso lemonade",
       "url": "https://open.spotify.com/track/0oyIQwGA643nX5gM934FtV"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "I Just Kept On Forgetting",
+        "url": "https://open.spotify.com/album/0ciqBm0Emp0XdOCagR0ax6"
+      },
+      "artists": [
+        {
+          "name": "Dear Maryanne",
+          "url": "https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8"
+        }
+      ],
+      "duration_ms": 150916,
+      "name": "No One is Gonna Love You",
+      "url": "https://open.spotify.com/track/1s9gkaK7yVGhXznpDQf2Xi"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "Trying Not to Have a Thought",
-        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
-      },
-      "artists": [
-        {
-          "name": "Algernon Cadwallader",
-          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
-        }
-      ],
-      "duration_ms": 249304,
-      "name": "noitanitsarcorP",
-      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "Big-Box Store Heart",
         "url": "https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 215948,
       "name": "Big-Box Store Heart",
       "url": "https://open.spotify.com/track/1bsQdpUK4Br6sWYC08iRmZ"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "Trying Not to Have a Thought",
+        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
+      },
+      "artists": [
+        {
+          "name": "Algernon Cadwallader",
+          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
+        }
+      ],
+      "duration_ms": 249304,
+      "name": "noitanitsarcorP",
+      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "winning the high school talent show didnt make me more confident like i thought it would",
-        "url": "https://open.spotify.com/album/0YsUvXxQwssOCVqNS7007m"
-      },
-      "artists": [
-        {
-          "name": "empty parking lot",
-          "url": "https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB"
-        }
-      ],
-      "duration_ms": 255228,
-      "name": "winning the high school talent show didnt make me more confident like i thought it would",
-      "url": "https://open.spotify.com/track/10dYa9nzrib15HF4Z0dMu0"
-    },
-    {
-      "added_at": "2026-03-13 17:53:46",
-      "album": {
         "name": "D.R.E.A.M. (Depression Ruins Everything Around Me)",
         "url": "https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 207933,
       "name": "D.R.E.A.M. (Depression Ruins Everything Around Me)",
       "url": "https://open.spotify.com/track/4PIdO6b98egzf3nTFDWjRI"
+    },
+    {
+      "added_at": "2026-03-13 17:53:46",
+      "album": {
+        "name": "winning the high school talent show didnt make me more confident like i thought it would",
+        "url": "https://open.spotify.com/album/0YsUvXxQwssOCVqNS7007m"
+      },
+      "artists": [
+        {
+          "name": "empty parking lot",
+          "url": "https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB"
+        }
+      ],
+      "duration_ms": 255228,
+      "name": "winning the high school talent show didnt make me more confident like i thought it would",
+      "url": "https://open.spotify.com/track/10dYa9nzrib15HF4Z0dMu0"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1175,8 +1175,8 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "NUMB",
-        "url": "https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR"
+        "name": "I Can't Buy You Flowers",
+        "url": "https://open.spotify.com/album/30aNU2tE49KbrgCV0ZhpoD"
       },
       "artists": [
         {
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM"
         }
       ],
-      "duration_ms": 240953,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf"
+      "duration_ms": 204000,
+      "name": "I Can't Buy You Flowers",
+      "url": "https://open.spotify.com/track/4LgPvTelc3Ic4Rt7XKENmi"
     },
     {
       "added_at": "2026-03-13 17:53:46",
@@ -1255,8 +1255,8 @@
     {
       "added_at": "2026-03-13 17:53:46",
       "album": {
-        "name": "I Can't Buy You Flowers",
-        "url": "https://open.spotify.com/album/30aNU2tE49KbrgCV0ZhpoD"
+        "name": "NUMB",
+        "url": "https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR"
       },
       "artists": [
         {
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM"
         }
       ],
-      "duration_ms": 204000,
-      "name": "I Can't Buy You Flowers",
-      "url": "https://open.spotify.com/track/4LgPvTelc3Ic4Rt7XKENmi"
+      "duration_ms": 240953,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf"
     },
     {
       "added_at": "2026-03-13 17:53:46",

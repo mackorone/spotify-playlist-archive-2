@@ -4,7 +4,7 @@
 
 > Electronic music from AUS + NZ
 
-373 songs - 22 hr 53 min
+374 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Spaceman](https://open.spotify.com/track/79yhXYDZ8RE0AyXxDvgSwU) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Spaceman](https://open.spotify.com/album/7DxlsjOhJ1e4rAufEC7jue) | 3:17 | 2026-02-19 | 2026-03-19 |
 | [Special Attempt](https://open.spotify.com/track/1aygNf9lxUNTO0V85Jgpd3) | [X & Ivy](https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH) | [Special Attempt](https://open.spotify.com/album/1ZmOAFQBQX8FbBFy3NG94A) | 3:47 | 2026-06-30 | 2026-07-31 |
 | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ) | 3:22 | 2024-02-01 | 2026-04-24 |
+| [STAMPEDE \- Normal Pleasure Remix](https://open.spotify.com/track/0LMN8Y2z3CkBMq6OiIwFKh) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Normal Pleasure](https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI) | [CLUBSTAR WU \(Normal Pleasure Remix\)](https://open.spotify.com/album/2pLxdQrZBoeRsmWqgqGfA1) | 5:03 | 2026-11-20 |  |
 | [Stay Blessed](https://open.spotify.com/track/6I2J6iwtx4DpuFF5YX1Tav) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Stay Blessed](https://open.spotify.com/album/1xMdQvYKJovlIwMroBAYkE) | 3:23 | 2026-04-23 | 2026-05-08 |
 | [Stay Blessed](https://open.spotify.com/track/0BNV8qChVecUDgWV8xAmWl) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Stay Blessed](https://open.spotify.com/album/41RuCkxLwXxcDe04TFuiXC) | 2:44 | 2026-05-07 | 2026-10-19 |
 | [Stay With Me Through The Night](https://open.spotify.com/track/3YvdiKCgmH1N5PHLUosWBF) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Stay With Me Through The Night](https://open.spotify.com/album/28EdPIAGo5czFuqTGseouO) | 2:37 | 2026-06-30 | 2026-10-19 |
@@ -336,7 +337,7 @@
 | [Thinking About You](https://open.spotify.com/track/1E7jE0EHy7FlU8uWi5hirD) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [The Friends You Made Along The Way](https://open.spotify.com/album/1Sw2RWBcBOFIpWabO8Ftin) | 3:22 | 2023-06-22 | 2023-07-14 |
 | [Thunder](https://open.spotify.com/track/7FIqV18aiAsJpoeiE8pF7F) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Thunder EP](https://open.spotify.com/album/6CjCXLcpkqbzSgmUARdgF1) | 5:01 | 2026-07-30 |  |
 | [Tied to You](https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Tied to You](https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn) | 3:43 | 2023-04-20 | 2025-03-05 |
-| [Time In The Sun](https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Time In The Sun](https://open.spotify.com/album/5MNzxZmtQWbakpiBMMDVnJ) | 2:48 | 2025-08-01 |  |
+| [Time In The Sun](https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Time In The Sun](https://open.spotify.com/album/5MNzxZmtQWbakpiBMMDVnJ) | 2:48 | 2025-08-01 | 2026-11-20 |
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv) | 2:39 | 2023-06-01 | 2024-04-19 |
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/78CrWTmzkDNQodFtV6kJIa) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/1iiXBkAFITzUQhBiuYqWQh) | 2:39 | 2024-02-01 |  |
 | [TN's](https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [TN's](https://open.spotify.com/album/6re07313Esj1OipNfjjUdh) | 3:16 | 2025-10-09 |  |

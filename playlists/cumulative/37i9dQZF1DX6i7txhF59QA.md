@@ -4,7 +4,7 @@
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: Jang Minho \(장민호\)\)<br/>Let's party with cheerful Korean trot medley.
 
-1,126 songs - 2 day 16 hr 27 min
+1,127 songs - 2 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [It was really good](https://open.spotify.com/track/07YHzrk3bV4gfWLo3Zdqw0) | [Maria](https://open.spotify.com/artist/3zX1qzXquYYO2AbRoBgHsa) | [MISS TROT2 Death match PART1](https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT) | 3:11 | 2022-04-21 | 2022-07-27 |
 | [It's a wonderful life](https://open.spotify.com/track/7DjbVC08v2TPNzx3Klvnck) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Ryu Jikwang](https://open.spotify.com/artist/4JABjp69hYZ7KWVHI0QCiP), [Kang Taekwan](https://open.spotify.com/artist/1DtspJahFF2GdAW3NXkXHR), [Hwang Yunseong](https://open.spotify.com/artist/1FOvM67AluX3CFyuqtaaZ0) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 2:43 | 2022-04-22 | 2022-07-26 |
 | [It's been a while](https://open.spotify.com/track/3rkF4yQ6T9VFKZBBU1dxfM) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART14](https://open.spotify.com/album/3Rmq4pcai47nT6G020fGDw) | 4:49 | 2022-04-22 | 2022-07-14 |
+| [It's still love](https://open.spotify.com/track/1amEyfYN8Y9rLx7WlpZwmM) | [Hong Sung Youn](https://open.spotify.com/artist/0Zq7wKSkwD6hreXOWtmXym) | [It's still love](https://open.spotify.com/album/6pUbGx4oaxWX9wwM3dxBNh) | 3:22 | 2026-11-19 |  |
 | [It′s call](https://open.spotify.com/track/7flf9UUTgCczDhkNHsTnLG) | [SONG](https://open.spotify.com/artist/0VyVt7snmnvV0DvFNqVOmj) | [It′s CALL!](https://open.spotify.com/album/2RaXwodOLvYzvgMjErWKTW) | 3:19 | 2024-03-08 | 2026-05-14 |
 | [I′m coming to meet my love](https://open.spotify.com/track/0BtLojrw2PKirr3ViXmZ0j) | [Jung Dakyung](https://open.spotify.com/artist/2Ux1SnimCF3FN1Nh6biVvD) | [I'm coming to meet my love](https://open.spotify.com/album/1C1GGKEV6jAwVJkMrKA5dF) | 3:03 | 2026-05-13 |  |
 | [Jagalchi lady](https://open.spotify.com/track/3AaUk8OxYEImuYASFYAkUP) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:15 | 2022-05-03 | 2022-07-09 |

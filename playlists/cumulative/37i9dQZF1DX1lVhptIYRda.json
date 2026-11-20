@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Mack Geiger",
+  "description": "Today's top country hits. Cover: Ella Langley",
   "name": "Hot Country",
   "tracks": [
     {
@@ -8949,6 +8949,28 @@
     },
     {
       "album": {
+        "name": "I'm a Song",
+        "url": "https://open.spotify.com/album/1FvFf5xivch1Q13ouzmC8o"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275759,
+      "name": "I'm a Song (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0v9ZnTzTMTkl4hkJT8yVGE"
+    },
+    {
+      "album": {
         "name": "I'm Gonna Love You",
         "url": "https://open.spotify.com/album/68m4FCAFzv1iKEChNO0kJ9"
       },
@@ -9612,6 +9634,24 @@
       "duration_ms": 216518,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/56WqFKgyrRZd6CugD7Adjh"
+    },
+    {
+      "album": {
+        "name": "Just A Woman",
+        "url": "https://open.spotify.com/album/5moBYmChzPrvaS0C0TuQop"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224461,
+      "name": "Just A Woman",
+      "url": "https://open.spotify.com/track/5veFPov4yG0SbfZqXGjoP3"
     },
     {
       "album": {
@@ -13490,7 +13530,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172746,
       "name": "Phone, Keys, Wallet",
       "url": "https://open.spotify.com/track/4JiYE3QxSX59KSx9Q4pHWa"
@@ -13660,7 +13700,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214000,
       "name": "Pouring",
       "url": "https://open.spotify.com/track/6x1RfhNMyXuopmGSCPcT4q"
@@ -16205,6 +16245,24 @@
     },
     {
       "album": {
+        "name": "Tell By Now",
+        "url": "https://open.spotify.com/album/5oKOibgo73GCh3VlOjy7cw"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226693,
+      "name": "Tell By Now",
+      "url": "https://open.spotify.com/track/2w0OKrLtcYiNnlWTyclS2c"
+    },
+    {
+      "album": {
         "name": "Tell Me Tennessee",
         "url": "https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke"
       },
@@ -16544,7 +16602,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161843,
       "name": "The Day I Hang It Up",
       "url": "https://open.spotify.com/track/05LCkBsBCDEcQv9nqZab41"
@@ -16794,6 +16852,24 @@
       "duration_ms": 268186,
       "name": "The Road",
       "url": "https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX"
+    },
+    {
+      "album": {
+        "name": "The Vacation Song",
+        "url": "https://open.spotify.com/album/5hitACdfYcvfAKu1uZqiCK"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207442,
+      "name": "The Vacation Song",
+      "url": "https://open.spotify.com/track/65m7niEXFiqqUB7spmOPGX"
     },
     {
       "album": {
@@ -18184,7 +18260,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173382,
       "name": "Weekend In Texas",
       "url": "https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea"

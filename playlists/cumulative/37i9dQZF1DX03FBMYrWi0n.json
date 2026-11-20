@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Yuki B",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Lo\u00efc Lafrance",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -194,6 +194,24 @@
       "duration_ms": 160866,
       "name": "2h15",
       "url": "https://open.spotify.com/track/0JYHRy1wawAjPTox171Rt6"
+    },
+    {
+      "album": {
+        "name": "400 CROIX",
+        "url": "https://open.spotify.com/album/0F5Oj7Wh8zp1bi8YTmHDWZ"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Lafrance",
+          "url": "https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177468,
+      "name": "400 CROIX",
+      "url": "https://open.spotify.com/track/5dTzRqiv6KkOUzotsqLEhw"
     },
     {
       "album": {
@@ -486,6 +504,24 @@
       "duration_ms": 113548,
       "name": "after i left",
       "url": "https://open.spotify.com/track/60aUv5itfZGvZzG1dT8h4K"
+    },
+    {
+      "album": {
+        "name": "Fun ways to get to heaven",
+        "url": "https://open.spotify.com/album/5hxnVQA8krtRxIPjzuYxPA"
+      },
+      "artists": [
+        {
+          "name": "Deadin Dogyears",
+          "url": "https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136375,
+      "name": "Again & again & again",
+      "url": "https://open.spotify.com/track/2GOjLejkasSISpi2YKpbVy"
     },
     {
       "album": {
@@ -1302,7 +1338,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164240,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/30rmOWu5OHa9uP6nw8wRhJ"
@@ -5150,7 +5186,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 257359,
       "name": "Hook IV",
       "url": "https://open.spotify.com/track/1eiiIwFz5JyRzlCaUnbHLP"
@@ -7214,7 +7250,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 235613,
       "name": "Les vagues",
       "url": "https://open.spotify.com/track/1bahlqlm8z6G0L1fIyQ2w6"
@@ -10542,7 +10578,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176145,
       "name": "Running!",
       "url": "https://open.spotify.com/track/7FrkoihMuxUlXNvZLYYeGn"
@@ -11851,6 +11887,24 @@
     },
     {
       "album": {
+        "name": "Tante Didi",
+        "url": "https://open.spotify.com/album/45getNtwLj2SzXDtW8aiwa"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "Tante Didi",
+      "url": "https://open.spotify.com/track/4YFoRKGUpU65S72Vc429xy"
+    },
+    {
+      "album": {
         "name": "Dungeon Master",
         "url": "https://open.spotify.com/album/2WA0YbN1rdESR8aRLcl5hM"
       },
@@ -12695,6 +12749,24 @@
     },
     {
       "album": {
+        "name": "Une image en couleur",
+        "url": "https://open.spotify.com/album/4WR20IswWD8qygQoYixDTH"
+      },
+      "artists": [
+        {
+          "name": "Radiant Baby",
+          "url": "https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201573,
+      "name": "Une image en couleur",
+      "url": "https://open.spotify.com/track/2qpbwbA9gpCEQjtetypHrg"
+    },
+    {
+      "album": {
         "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
         "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
       },
@@ -13012,7 +13084,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178200,
       "name": "Washing Machine",
       "url": "https://open.spotify.com/track/061FmEAYZyUEY0hONIJ3OZ"
@@ -13182,6 +13254,24 @@
       "duration_ms": 238983,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
+    },
+    {
+      "album": {
+        "name": "Laughing at Noise",
+        "url": "https://open.spotify.com/album/4rDcTJ7vB9gddCzxPunPbY"
+      },
+      "artists": [
+        {
+          "name": "Bodywash",
+          "url": "https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208353,
+      "name": "Widow\u2019s Peak",
+      "url": "https://open.spotify.com/track/56dawAVvAkynQAuEyCtxeZ"
     },
     {
       "album": {

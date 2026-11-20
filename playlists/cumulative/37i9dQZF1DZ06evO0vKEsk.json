@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Aceito o Teu Chamado",
+        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249707,
+      "name": "Eu N\u00e3o Abro M\u00e3o",
+      "url": "https://open.spotify.com/track/3vqtd4m1uW2NGDbLah3Vl4"
+    },
+    {
+      "album": {
         "name": "Eu Quem Merecia",
         "url": "https://open.spotify.com/album/0lRfctxyzSvhNXF9z8WSib"
       },
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 333002,
       "name": "Marca da Promessa - Ao Vivo",
       "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"

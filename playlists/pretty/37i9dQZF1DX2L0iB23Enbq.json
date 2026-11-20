@@ -1,13 +1,65 @@
 {
   "description": "Viral, trending and taking off.",
-  "num_followers": 8229755,
+  "num_followers": 8229502,
   "original_name": "Viral Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI/YUP2mJ3LfPD6QGWOmRq4xTLqy",
+  "snapshot_id": "AAAAALEXjDIbblekbSwOTn+d1zFxKbJU",
   "tracks": [
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
+    },
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
+    },
     {
       "added_at": "2026-09-18 04:00:35",
       "album": {
@@ -23,6 +75,46 @@
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
+        "name": "Trap God 2",
+        "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Fly Shit (feat. Lloyd)",
+      "url": "https://open.spotify.com/track/5K400XRgf6GWybf91VyTvL"
+    },
+    {
+      "added_at": "2026-11-20 05:01:04",
+      "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
     },
     {
       "added_at": "2026-10-02 04:01:49",
@@ -557,22 +649,6 @@
       "url": "https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib"
     },
     {
-      "added_at": "2026-06-12 04:01:46",
-      "album": {
-        "name": "Spend Dat",
-        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
-      },
-      "artists": [
-        {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
-        }
-      ],
-      "duration_ms": 181391,
-      "name": "Spend Dat",
-      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
-    },
-    {
       "added_at": "2026-07-24 04:02:06",
       "album": {
         "name": "Oh yeah?",
@@ -647,22 +723,6 @@
     {
       "added_at": "2026-06-12 04:01:46",
       "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
-    },
-    {
-      "added_at": "2026-06-12 04:01:46",
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -727,38 +787,6 @@
       "duration_ms": 168533,
       "name": "WE ON GO",
       "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
-    },
-    {
-      "added_at": "2026-05-02 04:00:14",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/32Uy0GLddTw4559CWja1f1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/6GCW5Muk3u0cM5QTkS4C9a"
-    },
-    {
-      "added_at": "2026-05-27 02:05:46",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/55HAHT4BN3wHSqr4NFMRfm"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237344,
-      "name": "Janice STFU",
-      "url": "https://open.spotify.com/track/65okMHrX31lksWRLOykgoe"
     },
     {
       "added_at": "2026-06-12 04:01:46",

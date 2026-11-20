@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: SDM",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Ninho",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -850,7 +850,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 191773,
       "name": "90 JOURS...",
       "url": "https://open.spotify.com/track/7jI6DxyjLjOYZgLVc5hfDW"
@@ -1296,6 +1296,32 @@
       "duration_ms": 165186,
       "name": "APPRIVOISER",
       "url": "https://open.spotify.com/track/6USVH1ACdXS009xZA7DbzR"
+    },
+    {
+      "album": {
+        "name": "ARABE DU TURFU",
+        "url": "https://open.spotify.com/album/7lURtYZzGASUoyfdBBWyhx"
+      },
+      "artists": [
+        {
+          "name": "Aketo",
+          "url": "https://open.spotify.com/artist/500IcTDu7sWtvgvEZSIiFE"
+        },
+        {
+          "name": "GrandBazaar",
+          "url": "https://open.spotify.com/artist/5Gy06Dx6rmDAfR6gA7Kkqw"
+        },
+        {
+          "name": "Nawfal",
+          "url": "https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237033,
+      "name": "ARABE DU TURFU",
+      "url": "https://open.spotify.com/track/1Ke3SLG0iNAy2FqaJIQnA2"
     },
     {
       "album": {
@@ -1840,7 +1866,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 143173,
       "name": "Bara - Freestyle",
       "url": "https://open.spotify.com/track/2AOXJs5CMW8ojiwhg3h3Xo"
@@ -5746,7 +5772,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160320,
       "name": "FENG SHUI",
       "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
@@ -7543,6 +7569,28 @@
     },
     {
       "album": {
+        "name": "Je les vois venir",
+        "url": "https://open.spotify.com/album/29S30ATUbAX6NrnHkKg0JL"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        },
+        {
+          "name": "joysad",
+          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Je les vois venir",
+      "url": "https://open.spotify.com/track/1x6Sbk1vz7RviToirj7A5o"
+    },
+    {
+      "album": {
         "name": "Jeunesse Dor\u00e9e",
         "url": "https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3"
       },
@@ -8246,6 +8294,28 @@
       "duration_ms": 160000,
       "name": "La Ch\u00e8vre",
       "url": "https://open.spotify.com/track/0PC4NdVKfQoz0yDTJA9v1E"
+    },
+    {
+      "album": {
+        "name": "La couleur des billets",
+        "url": "https://open.spotify.com/album/6HQTDFApc9EdNunmujK294"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        },
+        {
+          "name": "Baxter Dexter",
+          "url": "https://open.spotify.com/artist/4jhEKgkaj2Q1AGJuUUtbpN"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160532,
+      "name": "La couleur des billets",
+      "url": "https://open.spotify.com/track/6dTJvvJHmFIN81nQ9rJVIC"
     },
     {
       "album": {
@@ -10038,7 +10108,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161586,
       "name": "MCM",
       "url": "https://open.spotify.com/track/2T44mRgdxoqZpRrbG2WbQZ"
@@ -11405,6 +11475,24 @@
     },
     {
       "album": {
+        "name": "M.I.L.S 4 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202860,
+      "name": "OC\u00c9AN DE PROBL\u00c8MES",
+      "url": "https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32"
+    },
+    {
+      "album": {
         "name": "LES DENTS DU BONHEUR",
         "url": "https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00"
       },
@@ -12226,7 +12314,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178203,
       "name": "PASADENA",
       "url": "https://open.spotify.com/track/0tMrzFkVagrVZ5b6zAidIy"
@@ -16992,6 +17080,32 @@
       "duration_ms": 187880,
       "name": "\u00c7A CHAUFFE",
       "url": "https://open.spotify.com/track/5zj2b4dFoGXkpsxV2BkN5x"
+    },
+    {
+      "album": {
+        "name": "\u00c7a fait mal",
+        "url": "https://open.spotify.com/album/2hn3gS94UbKonBWLPpFdMU"
+      },
+      "artists": [
+        {
+          "name": "No Limit",
+          "url": "https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e"
+        },
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159108,
+      "name": "\u00c7a fait mal",
+      "url": "https://open.spotify.com/track/2AYGusyyjwqhD1vghWgd3f"
     },
     {
       "album": {

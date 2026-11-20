@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 102103,
+  "num_followers": 102105,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADqLjwTxnSf0uu4pDLGrTPx",
+  "snapshot_id": "avzqgAAAAACg1WNjKeNva0VADwsqdMjb",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 132106,
+      "name": "People Pleaser",
+      "url": "https://open.spotify.com/track/0TqPFLnbZsMVG65ZeBBL17"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PATTERNS Commentary Album",
         "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
       },
@@ -219,6 +235,22 @@
       "duration_ms": 231066,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/7GUDV4W7RInxGvUEEBFwhM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Love Me Like You Mean It",
+      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
     },
     {
       "added_at": null,
@@ -243,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Love Me Like You Mean It",
-      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mount Pleasant",
         "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
       },
@@ -268,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 132106,
-      "name": "People Pleaser",
-      "url": "https://open.spotify.com/track/0TqPFLnbZsMVG65ZeBBL17"
+      "duration_ms": 136746,
+      "name": "Emerald City",
+      "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
     },
     {
       "added_at": null,
@@ -323,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mount Pleasant",
-        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 136746,
-      "name": "Emerald City",
-      "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made You Look",
         "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
       },
@@ -355,6 +355,26 @@
       "duration_ms": 225628,
       "name": "Math of Us",
       "url": "https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 144243,
+      "name": "if we never met (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
     },
     {
       "added_at": null,
@@ -391,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 144243,
-      "name": "if we never met (feat. Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 163531,
       "name": "LOVE IS A COWBOY",
       "url": "https://open.spotify.com/track/6RB8DdrSlYmf3JPhySyXvI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rolling Up the Welcome Mat (For Good)",
-        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "Mountain With A View",
-      "url": "https://open.spotify.com/track/3Uq2F5YXXDui1m55h7r6JF"
     },
     {
       "added_at": null,
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT I HAVE",
-        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
       },
       "artists": [
         {
@@ -468,25 +452,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 178681,
-      "name": "WHAT I HAVE",
-      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 187016,
-      "name": "HEARTFIRST",
-      "url": "https://open.spotify.com/track/5uflYpTmuK0np3jxcQC85M"
+      "duration_ms": 177920,
+      "name": "Mountain With A View",
+      "url": "https://open.spotify.com/track/3Uq2F5YXXDui1m55h7r6JF"
     },
     {
       "added_at": null,
@@ -507,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 187016,
+      "name": "HEARTFIRST",
+      "url": "https://open.spotify.com/track/5uflYpTmuK0np3jxcQC85M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "kelsea",
         "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 201343,
       "name": "the other girl (with Halsey)",
       "url": "https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT I HAVE",
+        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 178681,
+      "name": "WHAT I HAVE",
+      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS Commentary Album",
-        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "This Time Last Year",
-      "url": "https://open.spotify.com/track/4spDTrYXQbHgjwi3Wcxbzk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mount Pleasant",
         "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 169466,
       "name": "587",
       "url": "https://open.spotify.com/track/4JlZvp9phjLsVvkf5ut0ZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS Commentary Album",
+        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "This Time Last Year",
+      "url": "https://open.spotify.com/track/4spDTrYXQbHgjwi3Wcxbzk"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 187706,
+      "name": "Check On Your Friends",
+      "url": "https://open.spotify.com/track/5FyrrLxbzeMJbWPuk04IeG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mount Pleasant",
-        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 187706,
-      "name": "Check On Your Friends",
-      "url": "https://open.spotify.com/track/5FyrrLxbzeMJbWPuk04IeG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 206986,
       "name": "MARILYN",
       "url": "https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "I Hate Love Songs",
-      "url": "https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 173893,
       "name": "Better Version (feat. Kelsea Ballerini)",
       "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 191186,
+      "name": "I Hate Love Songs",
+      "url": "https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh"
     },
     {
       "added_at": null,
@@ -843,22 +843,78 @@
     {
       "added_at": null,
       "album": {
-        "name": "They Don't Know",
-        "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
+        "name": "Love Song to the Earth",
+        "url": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Jon Bon Jovi",
+          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        },
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Johnny Rzeznik",
+          "url": "https://open.spotify.com/artist/6VZlYTq8lqmm4EFmZwK2fQ"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Christina Grimmie",
+          "url": "https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku"
+        },
+        {
+          "name": "Victoria Justice",
+          "url": "https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6"
+        },
+        {
+          "name": "Q'orianka Kilcher",
+          "url": "https://open.spotify.com/artist/1tHm53NBBuFigo0RrjqDfe"
         }
       ],
-      "duration_ms": 204106,
-      "name": "First Time Again",
-      "url": "https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk"
+      "duration_ms": 231679,
+      "name": "Love Song to the Earth",
+      "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
     }
   ],
   "unique_name": "This Is Kelsea Ballerini",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4e16\u754c\u4e2d\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u3068\u65e5\u672c\u306e\u30c8\u30ec\u30f3\u30c9\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: XG",
+  "description": "\u4e16\u754c\u4e2d\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u3068\u65e5\u672c\u306e\u30c8\u30ec\u30f3\u30c9\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: ILLIT",
   "name": "Hot Hits Japan",
   "tracks": [
     {
@@ -3482,7 +3482,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 189986,
       "name": "DESERVE",
       "url": "https://open.spotify.com/track/3lNWn4ZOgHSZUWcWbIl6KQ"
@@ -4396,7 +4396,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181790,
       "name": "Drip",
       "url": "https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9"
@@ -5940,7 +5940,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 170100,
       "name": "GO GHOST",
       "url": "https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB"
@@ -6330,6 +6330,24 @@
       "duration_ms": 289541,
       "name": "grace",
       "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
+    },
+    {
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
       "album": {
@@ -6794,7 +6812,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176253,
       "name": "History",
       "url": "https://open.spotify.com/track/5biTOsZ5MV2frCieqnkZUT"
@@ -8568,6 +8586,24 @@
       "duration_ms": 175836,
       "name": "Kill Bill (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
+    },
+    {
+      "album": {
+        "name": "KILLA",
+        "url": "https://open.spotify.com/album/67kLj3jphSXfZpTkPL5UsN"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184584,
+      "name": "KILLA",
+      "url": "https://open.spotify.com/track/62QKQ1q60ia1JdRq3z5QLe"
     },
     {
       "album": {
@@ -10711,6 +10747,24 @@
     },
     {
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/4NV0xZWO9K9iDhgh07eIsG"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "NAME CARD",
+      "url": "https://open.spotify.com/track/2cdViINfZeLuD8UnTZ9a6E"
+    },
+    {
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -12798,7 +12852,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -14851,6 +14905,24 @@
     },
     {
       "album": {
+        "name": "SUIATSU",
+        "url": "https://open.spotify.com/album/6Sbe6k0GV26EDheUyoVGZ3"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "SUIATSU",
+      "url": "https://open.spotify.com/track/4c4nLX4HDPiEuLJV52AsyI"
+    },
+    {
+      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -15236,6 +15308,24 @@
       "duration_ms": 229953,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+    },
+    {
+      "album": {
+        "name": "Take What You Need",
+        "url": "https://open.spotify.com/album/6mKaexnVCCwdcaK2gGRxjX"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164123,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/06Fg5OKkRBN4HxzTzT0uLt"
     },
     {
       "album": {
@@ -16333,6 +16423,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN HOUR : Part.6",
+        "url": "https://open.spotify.com/album/5UKj0Dge5ik5jw3JVjoxof"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206320,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/2DpMn9r9LPpa5PaR4XGFBP"
+    },
+    {
+      "album": {
         "name": "Up From the Bottom",
         "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
       },
@@ -16536,6 +16644,32 @@
       "duration_ms": 155258,
       "name": "VULGAR (with Madonna)",
       "url": "https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL"
+    },
+    {
+      "album": {
+        "name": "W1000",
+        "url": "https://open.spotify.com/album/3rAIzaGkMIWpZxd1wefSm6"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150810,
+      "name": "W1000",
+      "url": "https://open.spotify.com/track/4iTB4pj1Q0IAJ0kjiOyaXU"
     },
     {
       "album": {
@@ -20008,7 +20142,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198050,
       "name": "\u591c\u9df9 - Yodaka",
       "url": "https://open.spotify.com/track/4Qa2LME2vWWPXMLnFCGgxU"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Atavists, The Datsuns, Sanguine and more",
+  "description": "With Sanguine, Bad Scullianz, 6pence and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 151000,
       "name": "Briste Eller B\u00e6re",
       "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 214966,
       "name": "Burning Bright",
       "url": "https://open.spotify.com/track/52VYoaI6Vv8QXgRuPXQ26B"
@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 367920,
       "name": "By The Great White Lights Pt. 2",
       "url": "https://open.spotify.com/track/32yPDgXB0C5geJ0ceFzUBW"
@@ -3192,7 +3192,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -3282,7 +3282,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 230912,
       "name": "Cool Ade",
       "url": "https://open.spotify.com/track/1r5Euk8Scmv9OhA6xMLr2m"
@@ -3632,7 +3632,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 227636,
       "name": "Dance Away",
       "url": "https://open.spotify.com/track/3GdKxUxQK1IhtLzuADu8j3"
@@ -3686,7 +3686,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 175169,
       "name": "Danish Rush",
       "url": "https://open.spotify.com/track/53xrVLMMQzs3aJUJK6QSQ5"
@@ -4201,6 +4201,24 @@
     },
     {
       "album": {
+        "name": "DoomsVille",
+        "url": "https://open.spotify.com/album/0QxsxWtAzonSDc3YjtaTmG"
+      },
+      "artists": [
+        {
+          "name": "Citizend",
+          "url": "https://open.spotify.com/artist/0OhqqpbbhfA0D6ESQ6M0Qy"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222853,
+      "name": "Dig Deep",
+      "url": "https://open.spotify.com/track/342Smc1Nc2pyBkKJghtcTx"
+    },
+    {
+      "album": {
         "name": "The Ho Rider Demos",
         "url": "https://open.spotify.com/album/4QDqisQteghpyw2SQpaZYa"
       },
@@ -4400,7 +4418,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-10",
+      "date_removed": null,
       "duration_ms": 198765,
       "name": "Do As I Do",
       "url": "https://open.spotify.com/track/2ZQKK2ivat6J4nK0xe6aMI"
@@ -6072,7 +6090,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -6768,7 +6786,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 287093,
       "name": "Freedom Train",
       "url": "https://open.spotify.com/track/0IVL6MQf06qVBawKCN6l39"
@@ -7288,7 +7306,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 194563,
       "name": "Got No Time",
       "url": "https://open.spotify.com/track/4ZcX78w49DEJ3wxsBFq7JS"
@@ -7858,7 +7876,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 126226,
       "name": "Hey Now Honey - 2023 Remaster",
       "url": "https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL"
@@ -8370,7 +8388,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 204999,
       "name": "Hvis jeg f\u00e5r lov",
       "url": "https://open.spotify.com/track/0442X9eSmosvLUvC2hgL8V"
@@ -9228,7 +9246,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -9354,7 +9372,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "It's All Rock 'n' Roll",
       "url": "https://open.spotify.com/track/4w7U0zcSBIZm83XkLj5QqP"
@@ -10470,7 +10488,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 239020,
       "name": "Liar",
       "url": "https://open.spotify.com/track/50CdyAHhFvgljISzTlQlSN"
@@ -11455,6 +11473,24 @@
     },
     {
       "album": {
+        "name": "Woolf Mountain",
+        "url": "https://open.spotify.com/album/23Estc9IqEA8kFtTQD9gC3"
+      },
+      "artists": [
+        {
+          "name": "Woolf Mountain",
+          "url": "https://open.spotify.com/artist/1Bg5PXF6TsBpE3oXgoZoX7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254852,
+      "name": "Master of the Universe",
+      "url": "https://open.spotify.com/track/07pRBv6aYwf4ythno8m2MD"
+    },
+    {
+      "album": {
         "name": "Matar o Morir",
         "url": "https://open.spotify.com/album/7tlWDZRYAdCgI5yiNDUPxS"
       },
@@ -11596,7 +11632,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 222624,
       "name": "Meet The Hoopla",
       "url": "https://open.spotify.com/track/3GmK5H8aPYlJ8QQ1XrGnAv"
@@ -11726,7 +11762,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Mercury (In Retrograde)",
       "url": "https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7"
@@ -12404,7 +12440,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217120,
       "name": "My Claw",
       "url": "https://open.spotify.com/track/7Bm2Ag4tk8u9U5gnWuPQfj"
@@ -12458,7 +12494,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 232000,
       "name": "My Heroin",
       "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
@@ -12790,7 +12826,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Next Call - Remaster",
       "url": "https://open.spotify.com/track/1rjwo7JDkVbsVCTLti6WJX"
@@ -13090,7 +13126,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 107000,
       "name": "Normal",
       "url": "https://open.spotify.com/track/3X9JyeZzLbsTeLDzP1WcNL"
@@ -13574,7 +13610,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214013,
       "name": "On Her Own",
       "url": "https://open.spotify.com/track/2Ka5ivvoPaZ3aGh1bWcJZw"
@@ -14436,7 +14472,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 279833,
       "name": "Pink Leather Dragon",
       "url": "https://open.spotify.com/track/6J82v5KoNP6SHIpl2L6mxG"
@@ -15002,7 +15038,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 230357,
       "name": "Red",
       "url": "https://open.spotify.com/track/3wIZA8RgVwy8MCZ8FbbmjL"
@@ -15362,7 +15398,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 270360,
       "name": "Rosa mi Rosa.",
       "url": "https://open.spotify.com/track/5d9811g7OoYF2gM5Cpp728"
@@ -16062,7 +16098,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 177562,
       "name": "She's Outside",
       "url": "https://open.spotify.com/track/5h0OQLMrwlAHKC1xlO5DG3"
@@ -16260,7 +16296,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188693,
       "name": "Skambankt!",
       "url": "https://open.spotify.com/track/6gdNnEUIyg91xTJ7Mi59Kf"
@@ -16458,7 +16494,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -17186,7 +17222,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -17312,7 +17348,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 206898,
       "name": "Sun",
       "url": "https://open.spotify.com/track/7GYh1zXCjPngZpClAeFp10"
@@ -17672,7 +17708,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 287413,
       "name": "Take Me for a While - Edition 2022",
       "url": "https://open.spotify.com/track/3nMqFVYcktz5ZVxa4clYb7"
@@ -17878,7 +17914,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 269466,
       "name": "That Kind of Love",
       "url": "https://open.spotify.com/track/3Jr3IIZLtnsnESwR9byBGC"
@@ -19094,7 +19130,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 235000,
       "name": "The Velvet Light",
       "url": "https://open.spotify.com/track/4nLNpk0PiIksd1qWSPA1us"
@@ -21632,7 +21668,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 223196,
       "name": "Wild Wild Woman",
       "url": "https://open.spotify.com/track/0rNHd0MyOfSCSQ79zF2oYQ"
@@ -22032,7 +22068,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 226000,
       "name": "You're my drug",
       "url": "https://open.spotify.com/track/1GPK8b8dYYywFYPyUHEmf0"

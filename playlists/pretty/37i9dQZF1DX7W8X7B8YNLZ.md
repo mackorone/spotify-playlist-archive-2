@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,978 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,963 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 32 | [Monday, Tuesday..\. Laissez\-moi danser](https://open.spotify.com/track/22MpysBy1FI7PJpWAZnE23) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 3:53 |
 | 33 | [L'oiseau et l'enfant](https://open.spotify.com/track/7Hy0CZtFcREucLDXB5jp6m) | [Marie Myriam](https://open.spotify.com/artist/0wii8BDuICYKZfGicr0MCa) | [Sentimentale](https://open.spotify.com/album/6yBjoyFjOb4HQVs1GVdLzQ) | 3:03 |
 | 34 | [Allô maman bobo](https://open.spotify.com/track/6feRXBskplLVuNov74Rep3) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Jamais Content](https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw) | 3:31 |
-| 35 | [Le Loir\-et\-Cher](https://open.spotify.com/track/4bqzWAxQdzwW8BGjFI02CJ) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [CD Story](https://open.spotify.com/album/3vlu5v98oGi4Qgj1XvwEgH) | 2:46 |
-| 36 | [On ira tous au paradis](https://open.spotify.com/track/58bRgUVRgeHrrGfqR7v96k) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Best Of 2003](https://open.spotify.com/album/6uoHpvJlZvaREOR1Z3Lu8i) | 4:33 |
+| 35 | [On ira tous au paradis](https://open.spotify.com/track/58bRgUVRgeHrrGfqR7v96k) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Best Of 2003](https://open.spotify.com/album/6uoHpvJlZvaREOR1Z3Lu8i) | 4:33 |
+| 36 | [Le Loir\-et\-Cher](https://open.spotify.com/track/4bqzWAxQdzwW8BGjFI02CJ) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [CD Story](https://open.spotify.com/album/3vlu5v98oGi4Qgj1XvwEgH) | 2:46 |
 | 37 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
 | 38 | [Le mal aimé](https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 2:39 |
 | 39 | [J'ai dix ans](https://open.spotify.com/track/3pWBtajUyESxMhyxWD78zR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [J'ai dix ans](https://open.spotify.com/album/61ELXLv7SrKIdL3Gf22ERQ) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 49 | [L'avventura](https://open.spotify.com/track/3E1xf2aDc3eRFt69PrXnaw) | [Stone & Charden](https://open.spotify.com/artist/4ndPdP6aVSDCvhsjOHLGjb) | [22 titres inoubliables](https://open.spotify.com/album/72euUqr3HkpoXf7I8UUGAs) | 3:36 |
 | 50 | [Une belle histoire](https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:15 |
 
-Snapshot ID: `AAAAACMcJaxfU93F97Tu6r7BjESBHyNk`
+Snapshot ID: `AAAAAHnfLcfASogONxSrPAIrg/PfqWTc`

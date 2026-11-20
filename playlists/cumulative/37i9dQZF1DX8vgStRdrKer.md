@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-905 songs - 3 day 8 hr 14 min
+906 songs - 3 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [E No Dey Finish](https://open.spotify.com/track/607RU3eLBQCeiqBCWBh4eq) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [E No Dey Finish](https://open.spotify.com/album/6i2e0TpfHMdjMXyxZmv4PM) | 2:53 | 2026-02-20 | 2026-05-22 |
 | [E No Hard \- Live](https://open.spotify.com/track/4p9XzSuRlbO6zQXralzZdZ) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [E No Hard \(Live\)](https://open.spotify.com/album/2oekmzHsUS0uHXpN8WhThx) | 8:34 | 2026-01-02 | 2026-03-08 |
 | [Eagles](https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Eagles](https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW) | 2:26 | 2024-03-15 | 2024-04-19 |
-| [Ebenezer](https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Ebenezer](https://open.spotify.com/album/37iJDRDQcjPE0SMGKtNp5y) | 5:16 | 2025-08-08 |  |
+| [Ebenezer](https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Ebenezer](https://open.spotify.com/album/37iJDRDQcjPE0SMGKtNp5y) | 5:16 | 2025-08-08 | 2026-11-20 |
 | [Ebenezer \(My Helper\)](https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Prayer](https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO) | 5:46 | 2025-09-26 |  |
 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 | 2023-09-15 | 2024-03-16 |
 | [Ebenezer \- Live](https://open.spotify.com/track/0LrmJpJOK9k3Ob0oueMxEv) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [Ebenezer \(Live\)](https://open.spotify.com/album/5Ijn49UMMcX4QETIQEQz1T) | 5:02 | 2024-02-02 | 2025-05-30 |
@@ -423,6 +423,7 @@
 | [Jabulani Sesingabantwana \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jabulani Sesingabantwana \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u) | 7:35 | 2024-02-09 | 2024-07-12 |
 | [JAGINMA](https://open.spotify.com/track/73vPpHMLDwR3t23Gzbx9Jk) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v) | [JAGINMA](https://open.spotify.com/album/60rCu6OWKbkxo2oaa0Z6p0) | 3:06 | 2025-10-17 | 2025-12-24 |
 | [Je Ki Orun Si](https://open.spotify.com/track/4rWoXTrNnYJV46WKCDjYcU) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE) | [Je Ki Orun Si](https://open.spotify.com/album/2aQrwxhOyCzgXn6OnjsQO1) | 7:25 | 2026-05-08 | 2026-05-22 |
+| [Jehovah](https://open.spotify.com/track/1HCudScZgWWLW2OIuDNpmz) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD), [Prophet Edem Julius\-Cudjoe](https://open.spotify.com/artist/6yqVk8qrbdGth93ui6JCw3) | [The River](https://open.spotify.com/album/44VbpCUgADl95Ty8hjA96f) | 14:01 | 2026-11-13 |  |
 | [Jehovah, You are the Most High / Jehovah Eh / Haachinje / Tomutenda Nei / Dancing in Your Light \- Praise Medley](https://open.spotify.com/track/5NbW6HlZHQ2feIrjUw1hSu) | [Janet Manyowa](https://open.spotify.com/artist/2V1T3MYbswPUiHMy02slMH) | [Jehovah, You are the Most High / Jehovah Eh / Haachinje / Tomutenda Nei / Dancing in Your Light \(Praise Medley\)](https://open.spotify.com/album/1O14EQo4yplyxrRYVy190w) | 13:53 | 2025-06-06 | 2025-06-27 |
 | [Jeso O Ntekane \(Reprise\) \- Live](https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s) | [Jesus To The City, Vol\. 2 \(Live\)](https://open.spotify.com/album/23pioDsK0GY8oM0lRTaFuU) | 3:06 | 2024-03-15 | 2024-05-24 |
 | [Jesu](https://open.spotify.com/track/0fAPkHRtJxBGa5rm2eaG54) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6), [Eyitayo](https://open.spotify.com/artist/6Kap9dyPjFhrJOBK0fbhx0) | [Jesu](https://open.spotify.com/album/4dRsOegj5MMdaPk3gWTlf7) | 8:44 | 2025-08-01 | 2025-10-03 |

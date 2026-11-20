@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 288389,
+  "num_followers": 288427,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMDk096VuXaYXn5HE7tf9YCp5ERD",
+  "snapshot_id": "AAAAAJDj26LeIIk8pPoBItJ/4ZeSaMfh",
   "tracks": [
     {
       "added_at": "2026-11-05 13:22:27",
@@ -607,6 +607,26 @@
     {
       "added_at": "2026-11-05 13:22:27",
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
+    },
+    {
+      "added_at": "2026-11-05 13:22:27",
+      "album": {
         "name": "If You Let Me (Denon Reed Remix)",
         "url": "https://open.spotify.com/album/1Ngm0SCK04iTjyHSRnKF00"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 160116,
       "name": "If You Let Me - Denon Reed Remix",
       "url": "https://open.spotify.com/track/5rkAi06XtpP0hCvWjhHiSU"
-    },
-    {
-      "added_at": "2026-11-05 13:22:27",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
     },
     {
       "added_at": "2026-11-05 13:22:27",
@@ -687,46 +687,6 @@
     {
       "added_at": "2026-11-05 13:22:27",
       "album": {
-        "name": "Foxtrot Oscar (Swear Down Remix)",
-        "url": "https://open.spotify.com/album/4iQPZBbDFjTNgSALgTtqWl"
-      },
-      "artists": [
-        {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
-        },
-        {
-          "name": "Swear Down",
-          "url": "https://open.spotify.com/artist/77D463HA56F4uS1h7VPFkJ"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Foxtrot Oscar (Swear Down Remix)",
-      "url": "https://open.spotify.com/track/5GMWuDENuIgBFSzMctUAIK"
-    },
-    {
-      "added_at": "2026-11-05 13:22:27",
-      "album": {
-        "name": "the_1",
-        "url": "https://open.spotify.com/album/2dBiSTOvZ6Q0r3owadT63F"
-      },
-      "artists": [
-        {
-          "name": "Nori",
-          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
-        },
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 141437,
-      "name": "the_1",
-      "url": "https://open.spotify.com/track/2kdUxRznNPG1G0PdyvA8aE"
-    },
-    {
-      "added_at": "2026-11-05 13:22:27",
-      "album": {
         "name": "What Do I Need To Do",
         "url": "https://open.spotify.com/album/4H9fT7QURnWTyNOEMJxGu5"
       },
@@ -747,6 +707,26 @@
     {
       "added_at": "2026-11-05 13:22:27",
       "album": {
+        "name": "Foxtrot Oscar (Swear Down Remix)",
+        "url": "https://open.spotify.com/album/4iQPZBbDFjTNgSALgTtqWl"
+      },
+      "artists": [
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        },
+        {
+          "name": "Swear Down",
+          "url": "https://open.spotify.com/artist/77D463HA56F4uS1h7VPFkJ"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Foxtrot Oscar (Swear Down Remix)",
+      "url": "https://open.spotify.com/track/5GMWuDENuIgBFSzMctUAIK"
+    },
+    {
+      "added_at": "2026-11-05 13:22:27",
+      "album": {
         "name": "Pretty & Plump",
         "url": "https://open.spotify.com/album/6iPArDxTfZDMtj0Ync4SD3"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 144360,
       "name": "Pretty & Plump",
       "url": "https://open.spotify.com/track/14wKQXw7pRc5nCqrqgbSJ0"
+    },
+    {
+      "added_at": "2026-11-05 13:22:27",
+      "album": {
+        "name": "the_1",
+        "url": "https://open.spotify.com/album/2dBiSTOvZ6Q0r3owadT63F"
+      },
+      "artists": [
+        {
+          "name": "Nori",
+          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
+        },
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 141437,
+      "name": "the_1",
+      "url": "https://open.spotify.com/track/2kdUxRznNPG1G0PdyvA8aE"
     },
     {
       "added_at": "2026-11-05 13:22:27",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-11-05 13:22:27",
       "album": {
+        "name": "Bassline Girl",
+        "url": "https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF"
+      },
+      "artists": [
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Bassline Girl",
+      "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
+    },
+    {
+      "added_at": "2026-11-05 13:22:27",
+      "album": {
         "name": "When You Come Back - Speed Garage",
         "url": "https://open.spotify.com/album/0JjWi5fTj8GdEQppjmIGEc"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 184402,
       "name": "When You Come Back - Speed Garage",
       "url": "https://open.spotify.com/track/4auBmpVOuYs2gqOnS4bZhF"
-    },
-    {
-      "added_at": "2026-11-05 13:22:27",
-      "album": {
-        "name": "Bassline Girl",
-        "url": "https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF"
-      },
-      "artists": [
-        {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Bassline Girl",
-      "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
     },
     {
       "added_at": "2026-11-05 13:22:27",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-11-05 13:22:27",
       "album": {
+        "name": "See Thru",
+        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
+      },
+      "artists": [
+        {
+          "name": "Megan Wroe",
+          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "See Thru",
+      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
+    },
+    {
+      "added_at": "2026-11-05 13:22:27",
+      "album": {
         "name": "Inside The Rider (DJ Q Edit)",
         "url": "https://open.spotify.com/album/179LwpIK6WQIOywG1ldVLu"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 236571,
       "name": "Inside The Rider - DJ Q Edit",
       "url": "https://open.spotify.com/track/4aYOasbeZxnf5OZmF5kUuw"
-    },
-    {
-      "added_at": "2026-11-05 13:22:27",
-      "album": {
-        "name": "See Thru",
-        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
-      },
-      "artists": [
-        {
-          "name": "Megan Wroe",
-          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See Thru",
-      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
     },
     {
       "added_at": "2026-11-05 13:22:27",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-11-05 13:22:27",
       "album": {
-        "name": "kryptonite",
-        "url": "https://open.spotify.com/album/20BRrMTjHYhM1VQqQ3naoj"
-      },
-      "artists": [
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        },
-        {
-          "name": "Star.One",
-          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
-        }
-      ],
-      "duration_ms": 155237,
-      "name": "kryptonite",
-      "url": "https://open.spotify.com/track/0UTL83j2DxlH0lHtm5JSPA"
-    },
-    {
-      "added_at": "2026-11-05 13:22:27",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5KLQOtW3tmMLCdMx16UGVv"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 154285,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/5EkR9ususo4utxW0hdYjv0"
+    },
+    {
+      "added_at": "2026-11-05 13:22:27",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6IFuF0sQmfbt7ZiCZq5KpE"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "duration_ms": 170462,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6"
     },
     {
       "added_at": "2026-11-05 13:22:27",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2026-11-05 13:22:27",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6IFuF0sQmfbt7ZiCZq5KpE"
-      },
-      "artists": [
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        },
-        {
-          "name": "Cru2",
-          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
-        }
-      ],
-      "duration_ms": 170462,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6"
-    },
-    {
-      "added_at": "2026-11-05 13:22:27",
-      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/1lSoqPq37MQyvFFJEY6EJZ"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 181714,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/4Y883x1A2Bn3TecNhVV5wp"
+    },
+    {
+      "added_at": "2026-11-05 13:22:27",
+      "album": {
+        "name": "kryptonite",
+        "url": "https://open.spotify.com/album/20BRrMTjHYhM1VQqQ3naoj"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        }
+      ],
+      "duration_ms": 155237,
+      "name": "kryptonite",
+      "url": "https://open.spotify.com/track/0UTL83j2DxlH0lHtm5JSPA"
     },
     {
       "added_at": "2026-11-05 13:22:27",

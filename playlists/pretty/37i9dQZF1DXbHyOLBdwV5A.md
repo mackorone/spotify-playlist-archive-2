@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,662 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,664 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 30 | [Tudo Vai Ficar Bem](https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Higor Rosa](https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP) | [Tudo Vai Ficar Bem](https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN) | 3:29 |
 | 31 | [Maranata / Lágrimas de fogo \(Remix\) \(feat\. VITOHRIA SOUNDS & Amanda Loyola\)](https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [VITOHRIA SOUNDS](https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN), [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Maranata / Lágrimas de fogo \(Remix\) \(feat\. VITOHRIA SOUNDS & Amanda Loyola\)](https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il) | 3:15 |
 | 32 | [Contramão](https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2) | [Contramão](https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp) | 2:13 |
-| 33 | [Controle](https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Controle](https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx) | 4:07 |
-| 34 | [Não Sou Merecedor](https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Não Sou Merecedor](https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89) | 2:27 |
+| 33 | [Não Sou Merecedor](https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Não Sou Merecedor](https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89) | 2:27 |
+| 34 | [Controle](https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Controle](https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx) | 4:07 |
 | 35 | [A Sua Chance](https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Diego Tiguez](https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP) | [A Sua Chance](https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY) | 4:01 |
 | 36 | [Tomado](https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Tomado](https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j) | 3:56 |
 | 37 | [Imparável](https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [DOOZZ](https://open.spotify.com/artist/28zlrefIEuwWj113fz0mW1) | [Imparável](https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Me Faz Viver](https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Me Faz Viver](https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS) | 2:31 |
 | 75 | [Hora de Adorar](https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [DJ Albery](https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Hora de Adorar](https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9) | 3:10 |
 
-Snapshot ID: `AAAAAD9f4N7H4vlG7s+rhVRTnjqWaHo7`
+Snapshot ID: `AAAAAFPZtC2r6Fab1lVvYDtvrxmfStvb`

@@ -6582,7 +6582,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 280320,
       "name": "Amen",
       "url": "https://open.spotify.com/track/4BbYT91rlp5nfVJsFhaTe5"
@@ -16296,7 +16296,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 139229,
       "name": "Boots On",
       "url": "https://open.spotify.com/track/0MQVEBkmB1Prh8XBCKU8qH"
@@ -25253,6 +25253,28 @@
     },
     {
       "album": {
+        "name": "COUNT UP (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/0xjLEx17uTXmubtcLtbF9n"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181372,
+      "name": "COUNT UP (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/2S6rUArYztXWqZrdEFnAGU"
+    },
+    {
+      "album": {
         "name": "Counterfeit",
         "url": "https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo"
       },
@@ -25466,7 +25488,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 152000,
       "name": "CRACCED",
       "url": "https://open.spotify.com/track/5nSaQklwqScpU3D43kiTJm"
@@ -27270,7 +27292,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 212884,
       "name": "DAM BABY",
       "url": "https://open.spotify.com/track/19PlPvG6QkwPU6r6iLSOo6"
@@ -33566,7 +33588,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 200816,
       "name": "DRTY",
       "url": "https://open.spotify.com/track/4v908d71nMHw4sRRx5YTZQ"
@@ -37525,6 +37547,24 @@
     },
     {
       "album": {
+        "name": "Fast Asleep",
+        "url": "https://open.spotify.com/album/3W4zbFnTRn0dUvkzm8HjLd"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Fast Asleep",
+      "url": "https://open.spotify.com/track/4EMW9BdGJ8avDfuab1ostA"
+    },
+    {
+      "album": {
         "name": "Fast Money",
         "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
       },
@@ -38094,6 +38134,28 @@
       "duration_ms": 196850,
       "name": "Feel A Way (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/0PgqpFFX4WxBbXhjkONk5b"
+    },
+    {
+      "album": {
+        "name": "E-Mortal Boy",
+        "url": "https://open.spotify.com/album/4r6kHpL8Ql8O6FvfvdjVwg"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229757,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/4ItksXO3Zrd6WwhzD42cjN"
     },
     {
       "album": {
@@ -44826,6 +44888,24 @@
       "duration_ms": 202651,
       "name": "girls will be girls (feat. WILLOW)",
       "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
+    },
+    {
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "GIVE IT ALL",
+      "url": "https://open.spotify.com/track/6MbhjBsn3wSrJpXow9OUSp"
     },
     {
       "album": {
@@ -52578,7 +52658,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198904,
       "name": "HONEYMOON NIGHT",
       "url": "https://open.spotify.com/track/5qlaVYDcab5jX9CXTZQW32"
@@ -54094,7 +54174,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 189473,
       "name": "hunnid PROBLEMS.",
       "url": "https://open.spotify.com/track/1dtO06rCz3mNZ8yu1ameYd"
@@ -54998,6 +55078,32 @@
       "duration_ms": 196551,
       "name": "I Just Might - Austin Millz Remix",
       "url": "https://open.spotify.com/track/3NFyvuSE0PnDoXgpjBEAyh"
+    },
+    {
+      "album": {
+        "name": "everything i said i am. / everything she said she is.",
+        "url": "https://open.spotify.com/album/49Cx6ll4BOruqwiHoPVcIj"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326137,
+      "name": "I just realized. ft. FUTURE & Rod Wave.",
+      "url": "https://open.spotify.com/track/26QAZ076d9e582io8i4OKq"
     },
     {
       "album": {
@@ -76718,7 +76824,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 202758,
       "name": "Na Money",
       "url": "https://open.spotify.com/track/1MEhHrisdcK9xuTuxvYdzh"
@@ -78030,6 +78136,24 @@
       "duration_ms": 165315,
       "name": "Never Gunna Give You Up",
       "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
+    },
+    {
+      "album": {
+        "name": "Restoration",
+        "url": "https://open.spotify.com/album/3SPTZMQB99UUAd75sCjSrR"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455893,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1EqJNsgG4cKCn2OleIFwrw"
     },
     {
       "album": {
@@ -82168,7 +82292,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195285,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
@@ -86802,7 +86926,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155492,
       "name": "Party With The Boys",
       "url": "https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu"
@@ -88564,7 +88688,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198604,
       "name": "Platinum Fubu",
       "url": "https://open.spotify.com/track/7atXUrYbedUpYlHCNm6fFJ"
@@ -89414,7 +89538,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 138866,
       "name": "pop it",
       "url": "https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM"
@@ -92601,6 +92725,28 @@
     },
     {
       "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "R4W (feat. Quavo)",
+      "url": "https://open.spotify.com/track/0TwvrOQcOWkWE50U6lLlVl"
+    },
+    {
+      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/6X0awUTrfO7Mx2s7SeGa3x"
       },
@@ -94528,6 +94674,24 @@
       "duration_ms": 165105,
       "name": "Remember (feat. Ravyn Lenae & Scrufizzer)",
       "url": "https://open.spotify.com/track/0Pr6mooJDSPrUJDwP8ZXUW"
+    },
+    {
+      "album": {
+        "name": "REMEMBER ME (A Minute)",
+        "url": "https://open.spotify.com/album/4QRPSmuQZPOHcE56ogtIkX"
+      },
+      "artists": [
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "REMEMBER ME (A Minute)",
+      "url": "https://open.spotify.com/track/4ndtY7U9KVCLiDy4VKUQqR"
     },
     {
       "album": {
@@ -97546,7 +97710,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156165,
       "name": "Sad Face (feat. Davido)",
       "url": "https://open.spotify.com/track/52i9czkU3qXyxUNGitkahr"
@@ -98230,6 +98394,28 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
+    },
+    {
+      "album": {
+        "name": "Lavida Boy",
+        "url": "https://open.spotify.com/album/0dNVbO6bgRlqs1d6jDZ7wy"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/4ppNFofJCDaq7rpRDmyAiW"
     },
     {
       "album": {
@@ -101532,7 +101718,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 195210,
       "name": "Shroom Clouds (feat. reggie & Jeremih)",
       "url": "https://open.spotify.com/track/3V1MhUIvoXig2YrrBg0gJH"
@@ -106652,7 +106838,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 224173,
       "name": "Spinnin (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/6u82jr3MnmUbG1th452h4u"
@@ -106746,7 +106932,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 152571,
       "name": "Spoil Myself",
       "url": "https://open.spotify.com/track/1Xrt390iOwVF78hcAKo8ix"
@@ -108552,6 +108738,24 @@
       "duration_ms": 150320,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3Z2ASDuTah7auTOSVmDMo5"
+    },
+    {
+      "album": {
+        "name": "Stone Cold",
+        "url": "https://open.spotify.com/album/5gqvRE1aioJFDw9u6pmR5G"
+      },
+      "artists": [
+        {
+          "name": "Stone Cold Jzzle",
+          "url": "https://open.spotify.com/artist/7neg7L2aQRvIrkuVpiclvm"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121277,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/3pk7ztyFyoFvD4Fy42K568"
     },
     {
       "album": {
@@ -115904,7 +116108,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 146392,
       "name": "Thin Ice",
       "url": "https://open.spotify.com/track/30kdhH71QYFC1WBBz89chu"
@@ -124885,6 +125089,28 @@
     },
     {
       "album": {
+        "name": "We Nah Leff",
+        "url": "https://open.spotify.com/album/4OyWdg2JXlD0HGNn3dyqvl"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "YGR",
+          "url": "https://open.spotify.com/artist/3ub7MokKgtHOxM0p80nGkg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200881,
+      "name": "We Nah Leff",
+      "url": "https://open.spotify.com/track/5xyPEt6er5Rx2l5r0RrQgN"
+    },
+    {
+      "album": {
         "name": "We Need To Talk About It",
         "url": "https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ"
       },
@@ -127900,7 +128126,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169759,
       "name": "Why Not? (feat. Quavo & Loe Shimmy)",
       "url": "https://open.spotify.com/track/3ag3REuwHRHF8kYQffQ8pn"
@@ -129054,6 +129280,32 @@
       "duration_ms": 165360,
       "name": "WORLD CLASS",
       "url": "https://open.spotify.com/track/11Aw02MJGBUKgDAjVdVsyf"
+    },
+    {
+      "album": {
+        "name": "Left Coast Musical",
+        "url": "https://open.spotify.com/album/1iOIGyzabO6I551157GqZ7"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        },
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276519,
+      "name": "WORLD IS WORLDIN",
+      "url": "https://open.spotify.com/track/0YQIi1AqyDnBbUa0Zg6RA0"
     },
     {
       "album": {

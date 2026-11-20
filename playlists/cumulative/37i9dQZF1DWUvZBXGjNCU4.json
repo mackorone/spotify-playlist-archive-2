@@ -5377,6 +5377,24 @@
     },
     {
       "album": {
+        "name": "Ribera",
+        "url": "https://open.spotify.com/album/0QKnyd3yz0UeNG9i1uFBjQ"
+      },
+      "artists": [
+        {
+          "name": "Adeben",
+          "url": "https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139110,
+      "name": "Ribera",
+      "url": "https://open.spotify.com/track/4GOZ3IkuApQ33LqMexoRXw"
+    },
+    {
+      "album": {
         "name": "River Rhythms",
         "url": "https://open.spotify.com/album/6yXITwIBbRsqDycc1ZS1aA"
       },

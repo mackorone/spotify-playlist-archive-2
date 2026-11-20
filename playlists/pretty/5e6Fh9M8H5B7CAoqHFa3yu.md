@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,898 songs - 7 day 0 hr 29 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,901 songs - 7 day 0 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2906,5 +2906,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2896 | [Edelweiss Legend](https://open.spotify.com/track/4vl2UxRVCNGOownXavZ07v) | [Daryna Kharytonova](https://open.spotify.com/artist/6K7J0MQ83GDozaOw9dRnsd) | [Edelweiss Legend](https://open.spotify.com/album/64iH5TIwtzpQdyROhjpuOy) | 2:27 |
 | 2897 | [Sa Majesté Moi](https://open.spotify.com/track/2EoeD8rrdHEnA4piNSMyu6) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [Sa Majesté Moi](https://open.spotify.com/album/5DbdhSEY7ZdEqelbOrpvwb) | 3:58 |
 | 2898 | [Rezzo](https://open.spotify.com/track/0I5stzUKl6ZeVYBp6eMQrN) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Destroying Is Easy](https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w) | 4:17 |
+| 2899 | [Amarillo](https://open.spotify.com/track/0quRZRcOMKLnaZA9HpjMTa) | [Verspa](https://open.spotify.com/artist/1w1ksZJz8ZCEsul0Ihyofh) | [Amarillo](https://open.spotify.com/album/5uAjLGI3jTfjKR4MOBDkE5) | 5:38 |
+| 2900 | [Carol of the Bells Line Dance](https://open.spotify.com/track/5DktCdbLlOKrMUrcyFTI2G) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Carol of the Bells Line Dance](https://open.spotify.com/album/5O4bqkwB9dzNu7gPHTTNzG) | 2:36 |
+| 2901 | [Con Verte Respirar](https://open.spotify.com/track/2ccBrBtatFgwNMYtWdr0lv) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Con Verte Respirar](https://open.spotify.com/album/5KgeSSnJwBTAkF2PQTnCxP) | 3:50 |
 
-Snapshot ID: `AAAMScL0laOVWC8dHDfLN2LysDqU80u1`
+Snapshot ID: `AAAMTIqixaxknG1x7S/2TE6ln73F4OqT`

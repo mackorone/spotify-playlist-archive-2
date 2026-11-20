@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover:  XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,582 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,574 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [エンバートーチ](https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [エンバートーチ](https://open.spotify.com/album/6gOb9Jv6UpHGBK5rtRRsqY) | 3:30 |
 | 50 | [BUGS LIFE](https://open.spotify.com/track/3o9jxRsczWG6Juy1KTDNuG) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [BUGS LIFE](https://open.spotify.com/album/00iL5SyEZfu0gxcnN6Py4t) | 2:59 |
 
-Snapshot ID: `AAAAAARlb0ahq9oP2+u+SHMXtoqgaxf6`
+Snapshot ID: `AAAAAEEndVi/LuSEC7wAvMhOiu8Q5m1r`

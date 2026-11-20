@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-25",
-  "description": "Enjoy fantastic gameplay with k-pop music! (Cover: K/DA)",
+  "description": "Enjoy fantastic gameplay with k-pop music! (Cover: JENNIE)",
   "name": "K-Pop Gaming",
   "tracks": [
     {
@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 166979,
       "name": "DASH",
       "url": "https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1"
@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 146880,
       "name": "Gimme Dat Love",
       "url": "https://open.spotify.com/track/1wE6dqzjRFAxAV0rCnEpa5"
@@ -5305,6 +5305,28 @@
     },
     {
       "album": {
+        "name": "Power Trip (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/56em9EU6nYZAnEkmKda2xc"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196739,
+      "name": "Power Trip (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/1cyE4XiRueT0ANCp3CuJOK"
+    },
+    {
+      "album": {
         "name": "Pretty Girl - Special Single",
         "url": "https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy"
       },
@@ -5334,7 +5356,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 204322,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO"

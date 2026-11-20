@@ -1,15 +1,15 @@
 {
-  "description": "Congratulations to all of the nominees! Watch the CMA Awards live on November 18th at 8/7c on ABC! Cover: Lainey Wilson",
-  "num_followers": 134611,
+  "description": "Congratulations to all of the nominees and winners! Cover: Miranda Lambert and Ella Langley",
+  "num_followers": 136344,
   "original_name": "CMA Awards 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZYHF9UamU0EXMUBZ6lYGu3KcKs",
+  "snapshot_id": "AAAAABluwa/Mnba777R1ntE2WkJyQ/DE",
   "tracks": [
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
@@ -25,7 +25,111 @@
       "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
+      "album": {
+        "name": "I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
+        "url": "https://open.spotify.com/album/7hvLc1GT15iRwqmOkw8yP9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 192170,
+      "name": "I Knew It, I Knew You x Our Song - Live From The 60th CMA Awards",
+      "url": "https://open.spotify.com/track/0sYnWbdznUbJExknlyf03S"
+    },
+    {
+      "added_at": "2026-11-19 14:09:59",
+      "album": {
+        "name": "Horses and Divorces",
+        "url": "https://open.spotify.com/album/2OULlUGY7piGs9WQCYrL5J"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 163689,
+      "name": "Horses and Divorces",
+      "url": "https://open.spotify.com/track/2zuY4sCGgL7Npv7u3bcb7X"
+    },
+    {
+      "added_at": "2026-11-19 14:09:59",
+      "album": {
+        "name": "Who Told You That",
+        "url": "https://open.spotify.com/album/7MHzrc64ZU0SvegIKDSFzQ"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Who Told You That",
+      "url": "https://open.spotify.com/track/2DZKhX2k3XZqQ5h5jwJyGh"
+    },
+    {
+      "added_at": "2026-11-19 14:09:59",
+      "album": {
+        "name": "Just A Woman",
+        "url": "https://open.spotify.com/album/5moBYmChzPrvaS0C0TuQop"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 224461,
+      "name": "Just A Woman",
+      "url": "https://open.spotify.com/track/5veFPov4yG0SbfZqXGjoP3"
+    },
+    {
+      "added_at": "2026-11-19 14:09:59",
+      "album": {
+        "name": "I'm a Song",
+        "url": "https://open.spotify.com/album/1FvFf5xivch1Q13ouzmC8o"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 275759,
+      "name": "I'm a Song (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0v9ZnTzTMTkl4hkJT8yVGE"
+    },
+    {
+      "added_at": "2026-11-19 14:09:59",
+      "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Don't Take The Girl",
+      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
+    },
+    {
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
@@ -41,27 +145,27 @@
       "url": "https://open.spotify.com/track/67Ar9BnEeB5FU5vQBYhbGe"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
-        "name": "Phone, Keys, Wallet",
-        "url": "https://open.spotify.com/album/4XB9IlDBDCdp4AcSGYMkFY"
+        "name": "Crisco",
+        "url": "https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         },
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 172746,
-      "name": "Phone, Keys, Wallet",
-      "url": "https://open.spotify.com/track/4JiYE3QxSX59KSx9Q4pHWa"
+      "duration_ms": 249613,
+      "name": "Snakeskin Boots",
+      "url": "https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Banks Of The Trinity",
         "url": "https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD"
@@ -77,23 +181,27 @@
       "url": "https://open.spotify.com/track/3eZcmEO0X0nsfV8E3NZelo"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 223332,
-      "name": "Mexico Honey",
-      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq"
@@ -109,7 +217,23 @@
       "url": "https://open.spotify.com/track/6nImybWzraGrI7B2xNWwSV"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/1LLHDptETZR8lRR5wkFS8n"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "duration_ms": 188120,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/3inqjrjGhwqq77Kq1wI0zf"
+    },
+    {
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "If I Don\u2019t Leave I\u2019m Gonna Stay",
         "url": "https://open.spotify.com/album/7bzWed3wHBLGowgokiv577"
@@ -129,7 +253,7 @@
       "url": "https://open.spotify.com/track/7kGlbyKxprPTXmCEX884WC"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Sunburn Mixtape",
         "url": "https://open.spotify.com/album/4sXvPhfap6905lHTMJB4gw"
@@ -145,7 +269,7 @@
       "url": "https://open.spotify.com/track/6sFlMKB6X7LM8PD6LpMxX1"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Cherry Valley Forever",
         "url": "https://open.spotify.com/album/3CSN4KvS0G5KmDXLK8swXU"
@@ -165,7 +289,7 @@
       "url": "https://open.spotify.com/track/7xEM73ffNiz4dCJQCwpKJf"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Young",
         "url": "https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX"
@@ -185,7 +309,7 @@
       "url": "https://open.spotify.com/track/1j6ad39OI8bXR6JvRkbCdy"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Parker McCollum",
         "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
@@ -201,23 +325,43 @@
       "url": "https://open.spotify.com/track/2IRSpYsVphI0rZz93eqjrL"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
-        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
-        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 178186,
-      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
-      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
+      "album": {
+        "name": "Phone, Keys, Wallet",
+        "url": "https://open.spotify.com/album/4XB9IlDBDCdp4AcSGYMkFY"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 172746,
+      "name": "Phone, Keys, Wallet",
+      "url": "https://open.spotify.com/track/4JiYE3QxSX59KSx9Q4pHWa"
+    },
+    {
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
@@ -233,7 +377,7 @@
       "url": "https://open.spotify.com/track/13HD3tYTiz8oSRxWzXEq7g"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
@@ -253,7 +397,7 @@
       "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
@@ -269,7 +413,7 @@
       "url": "https://open.spotify.com/track/0y0W8zIjxv0swTYlg450tP"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Can't Sit Still",
         "url": "https://open.spotify.com/album/4RseAUz5ufSX0SazOe9kfc"
@@ -285,7 +429,7 @@
       "url": "https://open.spotify.com/track/024avm1IHjbHmvpFQyl38J"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Hardwired",
         "url": "https://open.spotify.com/album/7fDNpo4jPuAmeSN7j8OYPB"
@@ -305,7 +449,7 @@
       "url": "https://open.spotify.com/track/6A297r5nVjE6eXGI6h00SL"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "McArthur",
         "url": "https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj"
@@ -333,7 +477,7 @@
       "url": "https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Banks Of The Trinity",
         "url": "https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD"
@@ -353,7 +497,7 @@
       "url": "https://open.spotify.com/track/6qZOIYvUcfKl9kTE2rxitF"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Good Girls & Cowgirls",
         "url": "https://open.spotify.com/album/2b7e7TUNXhvbthypUy5ZNr"
@@ -369,7 +513,7 @@
       "url": "https://open.spotify.com/track/34teaZ6EaOdPDmfbxfNVtP"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/14l4mGBY4BJYi5TNJk9kV6"
@@ -385,7 +529,23 @@
       "url": "https://open.spotify.com/track/78wX6FzQx7uz5gv9df3qKR"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 184063,
+      "name": "Miss You Here",
+      "url": "https://open.spotify.com/track/5kfhStchJYHqwypSwRwysc"
+    },
+    {
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
@@ -401,7 +561,7 @@
       "url": "https://open.spotify.com/track/1iZxQqbalIOYwcMWw4NccR"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Whipped",
         "url": "https://open.spotify.com/album/5kBO9A4p5se9r0z65vR9ZW"
@@ -417,7 +577,7 @@
       "url": "https://open.spotify.com/track/7FcGomj7SwgEaJKoP2wDjV"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Sunset Marquis",
         "url": "https://open.spotify.com/album/1Yt6FuJk4P5bR3PmqClGcb"
@@ -433,7 +593,7 @@
       "url": "https://open.spotify.com/track/5GnpkyLodTACk5uF9gCqQ3"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "forgive, forget.",
         "url": "https://open.spotify.com/album/2VdjF3nvUQCrpmxbsd9fNp"
@@ -449,7 +609,7 @@
       "url": "https://open.spotify.com/track/1ZzMmeMv0O9Unpd6Fn1uZm"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq"
@@ -465,7 +625,7 @@
       "url": "https://open.spotify.com/track/3NrAVoBHOvYcmRur0vM9x8"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "I Can't Love You Anymore",
         "url": "https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP"
@@ -485,7 +645,7 @@
       "url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/5MQn4Cknugw1VplWnBoEI6"
@@ -501,23 +661,7 @@
       "url": "https://open.spotify.com/track/3CR6r2w5HYMr6VrCdGHF2P"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
-      "album": {
-        "name": "Somewhere Over Laredo",
-        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Somewhere Over Laredo",
-      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
-    },
-    {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "R.I.P. (SELLOUT EDIT)",
         "url": "https://open.spotify.com/album/4DNV4q8gb33oXLVaeA8IJ1"
@@ -533,7 +677,7 @@
       "url": "https://open.spotify.com/track/2QvQZcAx7IDJ1N6vzrqHaS"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
@@ -549,7 +693,7 @@
       "url": "https://open.spotify.com/track/0FbHgeM1v8PpQLMZSumGL9"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Leather Deluxe Edition",
         "url": "https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0"
@@ -565,7 +709,7 @@
       "url": "https://open.spotify.com/track/4QpuZ1Qbcd11aOtY1kGMRg"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Hardwired",
         "url": "https://open.spotify.com/album/7fDNpo4jPuAmeSN7j8OYPB"
@@ -581,7 +725,7 @@
       "url": "https://open.spotify.com/track/4XKRaCfLNaNXZBa3sPxhNr"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Home In Your Broken Heart",
         "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
@@ -597,27 +741,7 @@
       "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
-      "album": {
-        "name": "Horses and Divorces",
-        "url": "https://open.spotify.com/album/2OULlUGY7piGs9WQCYrL5J"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 163689,
-      "name": "Horses and Divorces",
-      "url": "https://open.spotify.com/track/2zuY4sCGgL7Npv7u3bcb7X"
-    },
-    {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "It's A Dying Art",
         "url": "https://open.spotify.com/album/0PW84fpvyi9bfEenBtUiYA"
@@ -637,7 +761,7 @@
       "url": "https://open.spotify.com/track/5OZYgU49KASQHi6fU9e3Cm"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Stages",
         "url": "https://open.spotify.com/album/2QNByn9FQiPfOfqUQe4BzG"
@@ -653,7 +777,7 @@
       "url": "https://open.spotify.com/track/6RBIOr3xXp6cd6goGiZbtz"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Longleaf Lo-fi",
         "url": "https://open.spotify.com/album/6zPQxHCUxMJIeB13J4r3Nv"
@@ -669,7 +793,7 @@
       "url": "https://open.spotify.com/track/2YweB4h5bgXPS7eOMGfZRU"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Barbara",
         "url": "https://open.spotify.com/album/4f7dteqTiXSjQR3t0YFrDN"
@@ -685,7 +809,7 @@
       "url": "https://open.spotify.com/track/1qxFLRDXGODJeSaeGvMghl"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Ain't In It For My Health",
         "url": "https://open.spotify.com/album/5q893GwwooRNMeDHmPXYi7"
@@ -701,7 +825,7 @@
       "url": "https://open.spotify.com/track/0hc2s7sbPTomegDXpIySok"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "A Song To Sing",
         "url": "https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd"
@@ -721,7 +845,7 @@
       "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "White Horse",
         "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
@@ -737,7 +861,7 @@
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Stop Draggin' My Heart Around",
         "url": "https://open.spotify.com/album/7FdqXRWzRjtH0ZyUK6FS34"
@@ -753,7 +877,7 @@
       "url": "https://open.spotify.com/track/5XeIgn1dQwDZPhhkPIfaap"
     },
     {
-      "added_at": "2026-09-10 13:21:25",
+      "added_at": "2026-11-19 14:09:59",
       "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"

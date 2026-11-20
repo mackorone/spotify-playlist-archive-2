@@ -1689,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "RODEO RADIO",
+        "url": "https://open.spotify.com/album/1IyTBb77zcr87nyK2oWETy"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "BAD GIRLS",
+      "url": "https://open.spotify.com/track/5Apg49WWj1oaivcuST6kFN"
+    },
+    {
+      "album": {
         "name": "harry osborn",
         "url": "https://open.spotify.com/album/3ZLwhiFAxTMFWq6ExlrpJU"
       },
@@ -17324,6 +17346,28 @@
       "duration_ms": 187500,
       "name": "Rhythm Machine",
       "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
+    },
+    {
+      "album": {
+        "name": "Rico Rica",
+        "url": "https://open.spotify.com/album/6AiQK1c7QpffRw7hriRxds"
+      },
+      "artists": [
+        {
+          "name": "Memblem",
+          "url": "https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI"
+        },
+        {
+          "name": "Jelani Blackman",
+          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Rico Rica",
+      "url": "https://open.spotify.com/track/0aUyiitxXRfsccgU5uNyNY"
     },
     {
       "album": {

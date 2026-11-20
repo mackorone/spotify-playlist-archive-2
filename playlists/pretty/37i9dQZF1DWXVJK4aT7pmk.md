@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover: Cheema Y
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,090 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,197 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [Ace](https://open.spotify.com/track/33H3JkG5kAlqwgtI5rYbpP) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Chapter IV](https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7) | 2:45 |
 | 50 | [Ghostface Killah](https://open.spotify.com/track/5tEdOJbKBTR8vibjz1cHTF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Ghostface Killah](https://open.spotify.com/album/6Z4IqQFHScJGjbd4h6E0ut) | 2:17 |
 
-Snapshot ID: `AAAAAFl/fSUDVXz4AC+X7Ct4zwqxTZNh`
+Snapshot ID: `AAAAAI1jJ0KE/LjvPhPTBtn/R/8Jp5YG`

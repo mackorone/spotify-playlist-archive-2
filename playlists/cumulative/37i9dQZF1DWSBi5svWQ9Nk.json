@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 grootste hits in NL met cover: Isab\u00e8l Usher & Kraantje Pappie",
+  "description": "De 50 grootste hits in NL met cover: Tate McRae",
   "name": "Hot Hits NL",
   "tracks": [
     {
@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 223935,
       "name": "expectations (feat. Chappell Roan)",
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
@@ -4916,6 +4916,28 @@
       "duration_ms": 215585,
       "name": "Glas",
       "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
+    },
+    {
+      "album": {
+        "name": "Go Bad Girl",
+        "url": "https://open.spotify.com/album/1NO4KM0OnLT1U6sju1V0DC"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151266,
+      "name": "Go Bad Girl",
+      "url": "https://open.spotify.com/track/1dKY1wHQwfJvhjOXPlYxzD"
     },
     {
       "album": {
@@ -6638,6 +6660,32 @@
       "duration_ms": 140643,
       "name": "Industry Plant",
       "url": "https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz"
+    },
+    {
+      "album": {
+        "name": "Sing With Me (Aflevering 1)",
+        "url": "https://open.spotify.com/album/1BrpGunw8hzjbp6cRQzRSB"
+      },
+      "artists": [
+        {
+          "name": "Thijs Pot",
+          "url": "https://open.spotify.com/artist/3nxJAqo44XhsDnBZBXeuvP"
+        },
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151420,
+      "name": "Is Dit Nu Later",
+      "url": "https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX"
     },
     {
       "album": {
@@ -10492,7 +10540,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174222,
       "name": "RMB (Ring My Bell)",
       "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"

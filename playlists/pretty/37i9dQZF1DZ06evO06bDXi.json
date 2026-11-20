@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 15458,
+  "num_followers": 15459,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABG+aCTP6G4p/qljqbhunbY",
+  "snapshot_id": "avzqgAAAAABIa2EhPZK+LsiEDzLtMEcC",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Someone to Watch Over Me",
-        "url": "https://open.spotify.com/album/0M0ZSXJGbqMQKjRnQrcIBc"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 254760,
-      "name": "Someone to Watch Over Me",
-      "url": "https://open.spotify.com/track/4prCm5SggdmrG7recE4Eqo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brahms: Violin Concerto, Op. 77",
         "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
       },
@@ -415,30 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaldi: The Four Seasons",
-        "url": "https://open.spotify.com/album/4eEJooUkzenp7lZTtfbIP7"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Israel Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": III. Allegro",
-      "url": "https://open.spotify.com/track/4pWmRSsBaWlSYwCJ7oDYOC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivaldi: The Four Seasons - Violin Concertos RV 199 \"Il sospetto\", RV 356 & RV 347",
         "url": "https://open.spotify.com/album/542DjDnA3qBtx8v2GVT6sw"
       },
@@ -463,18 +419,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way We Were: My American Songbook",
-        "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
+        "name": "Vivaldi: The Four Seasons",
+        "url": "https://open.spotify.com/album/4eEJooUkzenp7lZTtfbIP7"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": III. Allegro",
+      "url": "https://open.spotify.com/track/4pWmRSsBaWlSYwCJ7oDYOC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Someone to Watch Over Me",
+        "url": "https://open.spotify.com/album/0M0ZSXJGbqMQKjRnQrcIBc"
       },
       "artists": [
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 184549,
-      "name": "The Way We Were",
-      "url": "https://open.spotify.com/track/0Pbcgjrtc3h4XzEiFz2hlN"
+      "duration_ms": 254760,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/4prCm5SggdmrG7recE4Eqo"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 231160,
       "name": "Scent of a Woman: Tango (Por Una Cabeza)",
       "url": "https://open.spotify.com/track/3mGkPsZbHEBf8ZT1ExZnww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way We Were: My American Songbook",
+        "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 184549,
+      "name": "The Way We Were",
+      "url": "https://open.spotify.com/track/0Pbcgjrtc3h4XzEiFz2hlN"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Way We Were: My American Songbook",
+        "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 194201,
+      "name": "What'll I Do",
+      "url": "https://open.spotify.com/track/0xrGgiMqZOOzsJVnsVjDT8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paganini: 24 Caprices",
         "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 147960,
       "name": "Paganini: 24 Caprices, Op. 1: No. 5 in A Minor",
       "url": "https://open.spotify.com/track/5ssmGCSyagkxJFjuFezUsY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way We Were: My American Songbook",
-        "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 163059,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/6t5jtWHZMH7OuYjzDuri2U"
     },
     {
       "added_at": null,
@@ -876,8 +876,8 @@
       },
       "artists": [
         {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+          "name": "Luis Bacalov",
+          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
         },
         {
           "name": "Itzhak Perlman",
@@ -892,9 +892,25 @@
           "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Black Orpheus: Manha de Carnaval",
-      "url": "https://open.spotify.com/track/7kWPYqfPQUZQiGOz4n9Gfu"
+      "duration_ms": 224200,
+      "name": "Il Postino: Theme",
+      "url": "https://open.spotify.com/track/7EDqH1x26SNDcdXAIBgCyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way We Were: My American Songbook",
+        "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 163059,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/6t5jtWHZMH7OuYjzDuri2U"
     },
     {
       "added_at": null,
@@ -927,38 +943,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way We Were: My American Songbook",
-        "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
+        "name": "Bruch: Violin Concerto No. 1",
+        "url": "https://open.spotify.com/album/6G9fhBrDqHLlegkym0rBEf"
       },
       "artists": [
         {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 228974,
-      "name": "Sunrise, Sunset",
-      "url": "https://open.spotify.com/track/2JkwBvd3dukLXC4ydaAzNH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0GoKIi2ahb18yecU6ualW9"
-      },
-      "artists": [
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+          "name": "Bernard Haitink",
+          "url": "https://open.spotify.com/artist/13F9LNBUeRx3FYLr96Bge1"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
         }
       ],
-      "duration_ms": 260699,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/6ZftPd2YNPVovPzDqZcIuo"
+      "duration_ms": 501293,
+      "name": "Violin Concerto No. 1 in G Minor, Op. 26: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/1DyXa68AwuLvbfcte5BKQx"
     },
     {
       "added_at": null,
@@ -968,8 +976,8 @@
       },
       "artists": [
         {
-          "name": "Luis Bacalov",
-          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
         },
         {
           "name": "Itzhak Perlman",
@@ -984,9 +992,25 @@
           "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Il Postino: Theme",
-      "url": "https://open.spotify.com/track/7EDqH1x26SNDcdXAIBgCyB"
+      "duration_ms": 253293,
+      "name": "Black Orpheus: Manha de Carnaval",
+      "url": "https://open.spotify.com/track/7kWPYqfPQUZQiGOz4n9Gfu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way We Were: My American Songbook",
+        "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 228974,
+      "name": "Sunrise, Sunset",
+      "url": "https://open.spotify.com/track/2JkwBvd3dukLXC4ydaAzNH"
     },
     {
       "added_at": null,
@@ -1023,6 +1047,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lalo: Symphony espagnole Op.21 / Saint-Saens: Concerto For Violin And Orchestra No. 3 In B Minor, Op. 61 / Berlioz: Reverie et Caprice Op. 8 For Violin And Orchestra",
+        "url": "https://open.spotify.com/album/3WaRty51Aje7wvZxP4nsLd"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Orchestre de Paris",
+          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 478426,
+      "name": "Symphonie espagnole, Op. 21: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/7ypzwDDunvlix4Q7N7Gksu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0GoKIi2ahb18yecU6ualW9"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 260699,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6ZftPd2YNPVovPzDqZcIuo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way We Were: My American Songbook",
         "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
       },
@@ -1032,37 +1104,9 @@
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 194201,
-      "name": "What'll I Do",
-      "url": "https://open.spotify.com/track/0xrGgiMqZOOzsJVnsVjDT8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruch: Violin Concerto No. 1",
-        "url": "https://open.spotify.com/album/6G9fhBrDqHLlegkym0rBEf"
-      },
-      "artists": [
-        {
-          "name": "Max Bruch",
-          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Bernard Haitink",
-          "url": "https://open.spotify.com/artist/13F9LNBUeRx3FYLr96Bge1"
-        },
-        {
-          "name": "Royal Concertgebouw Orchestra",
-          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
-        }
-      ],
-      "duration_ms": 501293,
-      "name": "Violin Concerto No. 1 in G Minor, Op. 26: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/1DyXa68AwuLvbfcte5BKQx"
+      "duration_ms": 208687,
+      "name": "People",
+      "url": "https://open.spotify.com/track/7mcpl2GA5ge150wR2Bbcik"
     },
     {
       "added_at": null,
@@ -1091,78 +1135,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Violin Concertos & Double Concerto",
-        "url": "https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR"
+        "name": "Mozart: The Violin Sonatas",
+        "url": "https://open.spotify.com/album/2BNl1Z20i7UxDwneYXhbhu"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         },
         {
           "name": "Daniel Barenboim",
           "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
         }
       ],
-      "duration_ms": 453906,
-      "name": "Bach, JS: Concerto for Two Violins in D Minor, BWV 1043: II. Largo ma non tanto",
-      "url": "https://open.spotify.com/track/1hQ6islKOavGoic51UqZez"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way We Were: My American Songbook",
-        "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 208687,
-      "name": "People",
-      "url": "https://open.spotify.com/track/7mcpl2GA5ge150wR2Bbcik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lalo: Symphony espagnole Op.21 / Saint-Saens: Concerto For Violin And Orchestra No. 3 In B Minor, Op. 61 / Berlioz: Reverie et Caprice Op. 8 For Violin And Orchestra",
-        "url": "https://open.spotify.com/album/3WaRty51Aje7wvZxP4nsLd"
-      },
-      "artists": [
-        {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Orchestre de Paris",
-          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 478426,
-      "name": "Symphonie espagnole, Op. 21: I. Allegro non troppo",
-      "url": "https://open.spotify.com/track/7ypzwDDunvlix4Q7N7Gksu"
+      "duration_ms": 356000,
+      "name": "Violin Sonata in F Major, K. 547 \"F\u00fcr Anf\u00e4nger\": I. Andantino cantabile",
+      "url": "https://open.spotify.com/track/3HHMTWhzDELaqXVK6fhib1"
     },
     {
       "added_at": null,
@@ -1199,26 +1191,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mozart: The Violin Sonatas",
-        "url": "https://open.spotify.com/album/2BNl1Z20i7UxDwneYXhbhu"
+        "name": "Virtuoso Violin",
+        "url": "https://open.spotify.com/album/7jAJuBkjNtvJRO78fslikm"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Pablo de Sarasate",
+          "url": "https://open.spotify.com/artist/3L1iFJfRzE7yzilr2yGl6t"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
         }
       ],
-      "duration_ms": 356000,
-      "name": "Violin Sonata in F Major, K. 547 \"F\u00fcr Anf\u00e4nger\": I. Andantino cantabile",
-      "url": "https://open.spotify.com/track/3HHMTWhzDELaqXVK6fhib1"
+      "duration_ms": 195973,
+      "name": "Sarasate: Spanish Dances, Op. 23: II. Zapateado (Allegro)",
+      "url": "https://open.spotify.com/track/0l0wAg37zHIadmfSc282Hu"
     }
   ],
   "unique_name": "This Is Itzhak Perlman",

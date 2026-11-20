@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 139707,
+  "num_followers": 139716,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABgfShCwus1LLiRKgLx13NJ",
+  "snapshot_id": "avzqgAAAAACfthfi0Deph+FNJ0kQPabN",
   "tracks": [
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 109413,
-      "name": "BP",
-      "url": "https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR"
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
+      "duration_ms": 109413,
+      "name": "BP",
+      "url": "https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR"
     },
     {
       "added_at": null,
@@ -783,6 +783,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GOOD DOPE SELL ITSELF",
+        "url": "https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 216011,
+      "name": "Bonnet (feat. Summer Walker & Wale)",
+      "url": "https://open.spotify.com/track/3KAeHmiuKefi0wkeTBVr3l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Finally Over It (The Afterparty)",
         "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
       },
@@ -843,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CLEAR",
-        "url": "https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 104438,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/4qQVKOnZEYWZIHUMRapsVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -879,26 +887,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOOD DOPE SELL ITSELF",
-        "url": "https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm"
+        "name": "CLEAR",
+        "url": "https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY"
       },
       "artists": [
         {
-          "name": "Belly Gang Kushington",
-          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
-        },
-        {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 216011,
-      "name": "Bonnet (feat. Summer Walker & Wale)",
-      "url": "https://open.spotify.com/track/3KAeHmiuKefi0wkeTBVr3l"
+      "duration_ms": 104438,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/4qQVKOnZEYWZIHUMRapsVO"
     },
     {
       "added_at": null,
@@ -923,6 +923,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face Card (with Chris Brown, Bryson Tiller & Summer Walker) [Remix]",
+        "url": "https://open.spotify.com/album/2VSKmSStjfMUC8kPECoqlm"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 186379,
+      "name": "Face Card (with Chris Brown, Bryson Tiller & Summer Walker) - Remix",
+      "url": "https://open.spotify.com/track/5iNMN3dgHtEwixszbq6fBC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
@@ -939,22 +967,6 @@
       "duration_ms": 144344,
       "name": "Stressed (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CLEAR",
-        "url": "https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/2L3nFptzwy0jlVKSzXHjnL"
     }
   ],
   "unique_name": "This Is Summer Walker",

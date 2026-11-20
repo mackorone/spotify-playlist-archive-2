@@ -2,7 +2,7 @@
 
 ### [BRILLO](https://open.spotify.com/playlist/37i9dQZF1DX2lenzaqw2vs)
 
-> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: MEIEN
+> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Lichi
 
 382 songs - 20 hr 55 min
 

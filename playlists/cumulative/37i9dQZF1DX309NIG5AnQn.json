@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo y sudamericano. \n\ud83d\udcf7 No Me Toques",
+  "description": "rock alternativo y sudamericano. \n\ud83d\udcf7 Riel",
   "name": "alt/rock",
   "tracks": [
     {
@@ -600,6 +600,24 @@
       "duration_ms": 162566,
       "name": "armadura",
       "url": "https://open.spotify.com/track/5RYuYRuYqBPizDXiUzN9sH"
+    },
+    {
+      "album": {
+        "name": "Asocial",
+        "url": "https://open.spotify.com/album/6VZOWP1xCNSMPiFN6Www3n"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235970,
+      "name": "Asocial",
+      "url": "https://open.spotify.com/track/1ZJzp7hl8qUmfHJlUsuUjN"
     },
     {
       "album": {
@@ -2298,6 +2316,24 @@
       "duration_ms": 97057,
       "name": "Dulces Sue\u00f1os, y Hasta Siempre !",
       "url": "https://open.spotify.com/track/2cbKcRgL0jBJ2BGIAJyOSX"
+    },
+    {
+      "album": {
+        "name": "Lo que Hicimos en el Piso de Abajo",
+        "url": "https://open.spotify.com/album/4qXUjxExUsX7cChxIT1PCi"
+      },
+      "artists": [
+        {
+          "name": "POSDATA",
+          "url": "https://open.spotify.com/artist/5VkdLRau3ROZ5eb6mmlzBV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311777,
+      "name": "E.H.C.",
+      "url": "https://open.spotify.com/track/6nJCZWo4Kq1gZDYDLlK9dc"
     },
     {
       "album": {
@@ -4148,6 +4184,24 @@
       "duration_ms": 269272,
       "name": "Las Luces",
       "url": "https://open.spotify.com/track/2eF9ePyLBCM7PBVr71jiNf"
+    },
+    {
+      "album": {
+        "name": "SUPERCANCIONES'26",
+        "url": "https://open.spotify.com/album/0O6g8sBhTFl8x4mhiRtLSQ"
+      },
+      "artists": [
+        {
+          "name": "Rey Mapache",
+          "url": "https://open.spotify.com/artist/1vBAqj7KPZjGGJJzk4nMkN"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209412,
+      "name": "Las Nieves",
+      "url": "https://open.spotify.com/track/0liwnBAblIu1qtPg9MzccA"
     },
     {
       "album": {
@@ -6159,6 +6213,28 @@
     },
     {
       "album": {
+        "name": "Los Astros en la Sala",
+        "url": "https://open.spotify.com/album/0ZqI4fUutmSHF9uOL0BeHu"
+      },
+      "artists": [
+        {
+          "name": "La Sala",
+          "url": "https://open.spotify.com/artist/15UYFl2XERQam0mrzB6wzD"
+        },
+        {
+          "name": "MEIEN",
+          "url": "https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199301,
+      "name": "Puerta Sombra",
+      "url": "https://open.spotify.com/track/0SDM5xKCG4oxV04dZS6Ewn"
+    },
+    {
+      "album": {
         "name": "Pulso",
         "url": "https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV"
       },
@@ -6505,6 +6581,24 @@
     },
     {
       "album": {
+        "name": "Meridiana",
+        "url": "https://open.spotify.com/album/4hxf3WcwtBMWK15j8J5b97"
+      },
+      "artists": [
+        {
+          "name": "Meridiana",
+          "url": "https://open.spotify.com/artist/799QyiSVCSNbtVyELl5l4C"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178192,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/50RlAOUR8cdFy2Eosc24NB"
+    },
+    {
+      "album": {
         "name": "Afuera Corren",
         "url": "https://open.spotify.com/album/30T4jU0nHLR3dcTAldHmw9"
       },
@@ -6712,6 +6806,24 @@
       "duration_ms": 186059,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY"
+    },
+    {
+      "album": {
+        "name": "Escenarios Posibles",
+        "url": "https://open.spotify.com/album/6Q1x0kQaMT7hUwQNKBtWca"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208461,
+      "name": "Si ten\u00e9s tiempo, tengo voluntad",
+      "url": "https://open.spotify.com/track/7nURmG27tbj7bosWmQuCLJ"
     },
     {
       "album": {

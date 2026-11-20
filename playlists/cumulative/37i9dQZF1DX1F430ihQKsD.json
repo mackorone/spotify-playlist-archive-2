@@ -8485,6 +8485,28 @@
     },
     {
       "album": {
+        "name": "Je serai l\u00e0",
+        "url": "https://open.spotify.com/album/43xgxG7Gw9QJXh1PJKWciF"
+      },
+      "artists": [
+        {
+          "name": "Bonne nuit, ch\u00e9rie",
+          "url": "https://open.spotify.com/artist/7ug7YjtHvqyA1QY2tRfjC9"
+        },
+        {
+          "name": "Van Carton",
+          "url": "https://open.spotify.com/artist/5jXef6fvFEv3lpdZNbMsSc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221840,
+      "name": "Je serai l\u00e0",
+      "url": "https://open.spotify.com/track/0Heg2azWjg7y0wJU2fq4QF"
+    },
+    {
+      "album": {
         "name": "Je suis entr\u00e9",
         "url": "https://open.spotify.com/album/4aYwIxO2q1kubup7rs3hlX"
       },
@@ -14294,7 +14316,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178954,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1PS45iWkOspjpeXQjzDhPl"
@@ -19086,6 +19108,32 @@
       "duration_ms": 118626,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/5jfmtxwUUWi4nlmnWis5sK"
+    },
+    {
+      "album": {
+        "name": "You & me",
+        "url": "https://open.spotify.com/album/6hrzRie3rd0aIpshJOn1Kp"
+      },
+      "artists": [
+        {
+          "name": "Racasse",
+          "url": "https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6"
+        },
+        {
+          "name": "Phil\u00e9mon Cimon",
+          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
+        },
+        {
+          "name": "Oc\u00e9anne",
+          "url": "https://open.spotify.com/artist/7fE0922QYrhvyxc9A8nB4W"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173313,
+      "name": "You & me",
+      "url": "https://open.spotify.com/track/44grXRk5oZvAKHYZwEeJ7g"
     },
     {
       "album": {

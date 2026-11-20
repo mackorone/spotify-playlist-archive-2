@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 41142,
+  "num_followers": 41140,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADRaoO+QD8yWIZ4P93Eo8CJ",
+  "snapshot_id": "avzqgAAAAACl90Gy7eAsFKj3WTAdLbOU",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria Callas",
+        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra del Teatro alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 339666,
+      "name": "Norma (1997 Digital Remaster): Casta Diva",
+      "url": "https://open.spotify.com/track/1pqGcNI8H5i3yySTNCrD7d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puccini: Tosca",
         "url": "https://open.spotify.com/album/7jJ69AFSMTAQavq64DxYll"
       },
@@ -183,30 +207,6 @@
       "duration_ms": 185346,
       "name": "Puccini: Tosca, Act 2: \"Vissi d'arte, vissi d'amore\" (Tosca)",
       "url": "https://open.spotify.com/track/4WU1XFFx74qQIEbty9Z77X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria Callas",
-        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra del Teatro alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 339666,
-      "name": "Norma (1997 Digital Remaster): Casta Diva",
-      "url": "https://open.spotify.com/track/1pqGcNI8H5i3yySTNCrD7d"
     },
     {
       "added_at": null,
@@ -743,6 +743,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "Callas sings Arias from Tristano e Isotta, Norma & I puritani - Callas Remastered",
+        "url": "https://open.spotify.com/album/4xWgA6PBxf3Jr6XXCoskgr"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Arturo Basile",
+          "url": "https://open.spotify.com/artist/1J0Clrl4D0cAbGmRKn9X5q"
+        },
+        {
+          "name": "Orchestra Sinfonica di Torino della RAI",
+          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
+        }
+      ],
+      "duration_ms": 71506,
+      "name": "Bellini: I Puritani, Act 2: \"O rendetemi la speme\" (Elvira)",
+      "url": "https://open.spotify.com/track/7jXNNXcEuobCmfHDmbsCXD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mascagni: Cavalleria Rusticana (Callas, Di Stefano, Serafin) (1953)",
+        "url": "https://open.spotify.com/album/3yJOg3FD9KibiVMa4YurHK"
+      },
+      "artists": [
+        {
+          "name": "Pietro Mascagni",
+          "url": "https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Anna Maria Canali",
+          "url": "https://open.spotify.com/artist/5QRZA4QTtraONV5UgyObV4"
+        },
+        {
+          "name": "Ebe Ticozzi",
+          "url": "https://open.spotify.com/artist/3ViPLQc2I8Y1uFxhGuUR4V"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Milan La Scala Chorus",
+          "url": "https://open.spotify.com/artist/09bshvKZIhLIvbHWWXlhKO"
+        },
+        {
+          "name": "Orchestra del Teatro alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "Cavalleria rusticana: Pt. I: Prelude",
+      "url": "https://open.spotify.com/track/04RSaKUOmYFp120VFSYctA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Her Greatest Live Recitals",
         "url": "https://open.spotify.com/album/3xt3xa0e0E5TE2iNzgfDWG"
       },
@@ -771,30 +851,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas sings Arias from Tristano e Isotta, Norma & I puritani - Callas Remastered",
-        "url": "https://open.spotify.com/album/4xWgA6PBxf3Jr6XXCoskgr"
+        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
+        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
       },
       "artists": [
         {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra del Teatro alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Victor de Sabata",
+          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Tosca, Act III: Largo, Mario Cavaradossi A voi. (Carceriere, Cavaradossi)",
+      "url": "https://open.spotify.com/track/2Q9YSfNbMR4MsNwkxLpJZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas sings Operatic Arias by Puccini - Callas Remastered",
+        "url": "https://open.spotify.com/album/7l9aRLHFrTictdjkTbtpQs"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
         },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Arturo Basile",
-          "url": "https://open.spotify.com/artist/1J0Clrl4D0cAbGmRKn9X5q"
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
         },
         {
-          "name": "Orchestra Sinfonica di Torino della RAI",
-          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         }
       ],
-      "duration_ms": 71506,
-      "name": "Bellini: I Puritani, Act 2: \"O rendetemi la speme\" (Elvira)",
-      "url": "https://open.spotify.com/track/7jXNNXcEuobCmfHDmbsCXD"
+      "duration_ms": 149413,
+      "name": "Puccini: Turandot, Act 1: \"Signore, ascolta!\" (Li\u00f9)",
+      "url": "https://open.spotify.com/track/6Xv8wvEqDlSMxMVbvRJHsx"
     },
     {
       "added_at": null,
@@ -871,110 +975,6 @@
       "duration_ms": 349666,
       "name": "La Sonnambula (1997 Digital Remaster): Compagne, temiri amici ....Come per me sereno",
       "url": "https://open.spotify.com/track/6X0pfR9SGilsf76eerqTys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Callas sings Operatic Arias by Puccini - Callas Remastered",
-        "url": "https://open.spotify.com/album/7l9aRLHFrTictdjkTbtpQs"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 149413,
-      "name": "Puccini: Turandot, Act 1: \"Signore, ascolta!\" (Li\u00f9)",
-      "url": "https://open.spotify.com/track/6Xv8wvEqDlSMxMVbvRJHsx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
-        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra del Teatro alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Victor de Sabata",
-          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Tosca, Act III: Largo, Mario Cavaradossi A voi. (Carceriere, Cavaradossi)",
-      "url": "https://open.spotify.com/track/2Q9YSfNbMR4MsNwkxLpJZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mascagni: Cavalleria Rusticana (Callas, Di Stefano, Serafin) (1953)",
-        "url": "https://open.spotify.com/album/3yJOg3FD9KibiVMa4YurHK"
-      },
-      "artists": [
-        {
-          "name": "Pietro Mascagni",
-          "url": "https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Anna Maria Canali",
-          "url": "https://open.spotify.com/artist/5QRZA4QTtraONV5UgyObV4"
-        },
-        {
-          "name": "Ebe Ticozzi",
-          "url": "https://open.spotify.com/artist/3ViPLQc2I8Y1uFxhGuUR4V"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Milan La Scala Chorus",
-          "url": "https://open.spotify.com/artist/09bshvKZIhLIvbHWWXlhKO"
-        },
-        {
-          "name": "Orchestra del Teatro alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "Cavalleria rusticana: Pt. I: Prelude",
-      "url": "https://open.spotify.com/track/04RSaKUOmYFp120VFSYctA"
     },
     {
       "added_at": null,
@@ -1171,34 +1171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Antonino Votto",
-          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
-        },
-        {
-          "name": "Orchestra del Teatro alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
-      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Verdi: La traviata (1953 - Santini) - Callas Remastered",
         "url": "https://open.spotify.com/album/0XEU6Bq6CdJTr20bLkypBL"
       },
@@ -1223,34 +1195,6 @@
       "duration_ms": 206800,
       "name": "Verdi: La traviata, Act 3: \"Addio, del passato bei sogni ridenti\" (Violetta)",
       "url": "https://open.spotify.com/track/49wSOWHdSUKEsJoVUnyDBN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Callas sings Rossini & Donizetti Arias - Callas Remastered",
-        "url": "https://open.spotify.com/album/0ct04X26YKjbPrmwQdMmp6"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicola Rescigno",
-          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
-        },
-        {
-          "name": "Orchestre de la Soci\u00e9t\u00e9 des Concerts du Conservatoire",
-          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
-        }
-      ],
-      "duration_ms": 382520,
-      "name": "Rossini: La Cenerentola, Act 2: \"Nacqui all'affanno, al pianto\" - \"Non pi\u00f9 mesta\" (Cenerentola)",
-      "url": "https://open.spotify.com/track/2KMReCxJhT1Fu8VmO1rbF1"
     },
     {
       "added_at": null,
@@ -1283,6 +1227,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Antonino Votto",
+          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
+        },
+        {
+          "name": "Orchestra del Teatro alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
+      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas sings Rossini & Donizetti Arias - Callas Remastered",
+        "url": "https://open.spotify.com/album/0ct04X26YKjbPrmwQdMmp6"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        },
+        {
+          "name": "Orchestre de la Soci\u00e9t\u00e9 des Concerts du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        }
+      ],
+      "duration_ms": 382520,
+      "name": "Rossini: La Cenerentola, Act 2: \"Nacqui all'affanno, al pianto\" - \"Non pi\u00f9 mesta\" (Cenerentola)",
+      "url": "https://open.spotify.com/track/2KMReCxJhT1Fu8VmO1rbF1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Very Best of Maria Callas",
         "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
       },
@@ -1311,6 +1311,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
+        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra del Teatro alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Victor de Sabata",
+          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
+        }
+      ],
+      "duration_ms": 264881,
+      "name": "Tosca, Act I: Dammi i colori... Recondita armonia (Sagrestano, Cavaradossi)",
+      "url": "https://open.spotify.com/track/6vOwKVZSVpjao0TVPYHONx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Traduttore... traditore?",
         "url": "https://open.spotify.com/album/4sjcSuwvOuZWrlOC0T21jJ"
       },
@@ -1335,30 +1359,6 @@
       "duration_ms": 485200,
       "name": "Delibes: Lakm\u00e9, Act 2: Aria delle campanelle. \"Dov'\u00e8 l'indiana bruna?\" (Lakm\u00e9)",
       "url": "https://open.spotify.com/track/0GZxR9KIOhRoxSuyhIP1t8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
-        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra del Teatro alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Victor de Sabata",
-          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
-        }
-      ],
-      "duration_ms": 264881,
-      "name": "Tosca, Act I: Dammi i colori... Recondita armonia (Sagrestano, Cavaradossi)",
-      "url": "https://open.spotify.com/track/6vOwKVZSVpjao0TVPYHONx"
     },
     {
       "added_at": null,

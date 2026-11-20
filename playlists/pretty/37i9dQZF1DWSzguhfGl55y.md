@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > In Gedenken an XATAR 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,915 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,929 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,18 +33,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 23 | [Cruisen](https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:55 |
 | 24 | [Mit freundlichen Grüßen](https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [4:99 \- Jubiläums\-Edition](https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl) | 3:35 |
 | 25 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
-| 26 | [Interpol.com](https://open.spotify.com/track/3ueXKzLXjLUXJDp0HBYWTx) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8) | [Nr\. 415 \(Premium Edition\)](https://open.spotify.com/album/52eyXvdfq5Lazvjg5tLaNh) | 2:31 |
-| 27 | [Poesie Album](https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Up2Date XXL](https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO) | 3:50 |
+| 26 | [Poesie Album](https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Up2Date XXL](https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO) | 3:50 |
+| 27 | [Interpol.com](https://open.spotify.com/track/3ueXKzLXjLUXJDp0HBYWTx) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8) | [Nr\. 415 \(Premium Edition\)](https://open.spotify.com/album/52eyXvdfq5Lazvjg5tLaNh) | 2:31 |
 | 28 | [Neuruppin](https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Drama Kuba](https://open.spotify.com/artist/34xCrGH0RYRHukK7lkhOLG), [Cannibal Rob](https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 5:23 |
 | 29 | [Troy](https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [Viel \- Jubiläums\-Edition](https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY) | 4:29 |
 | 30 | [Du bist Boss](https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [King](https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v) | 2:43 |
-| 31 | [Iz da](https://open.spotify.com/track/2k0cvQmGvHOuNmKo2rMYIj) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8) | [Baba aller Babas](https://open.spotify.com/album/31gn729ax0kRu9KcUr8Lg3) | 3:33 |
-| 32 | [Nie ein Rapper](https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Saad](https://open.spotify.com/artist/4EkoggilVZnddJLs4mbW1e) | [Carlo Cokxxx Nutten II \(Saad\)](https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto) | 4:02 |
+| 31 | [Nie ein Rapper](https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Saad](https://open.spotify.com/artist/4EkoggilVZnddJLs4mbW1e) | [Carlo Cokxxx Nutten II \(Saad\)](https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto) | 4:02 |
+| 32 | [Iz da](https://open.spotify.com/track/2k0cvQmGvHOuNmKo2rMYIj) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8) | [Baba aller Babas](https://open.spotify.com/album/31gn729ax0kRu9KcUr8Lg3) | 3:33 |
 | 33 | [Kimnotyze](https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF) | [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Trooper Da Don](https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu) | [Beat of Life, Vol\. 1](https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY) | 3:29 |
 | 34 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
 | 35 | [Liebes Lied](https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:14 |
-| 36 | [Traumreise](https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:51 |
-| 37 | [CLA$$IC](https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [CLA$$IC](https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL) | 3:46 |
+| 36 | [CLA$$IC](https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [CLA$$IC](https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL) | 3:46 |
+| 37 | [Traumreise](https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:51 |
 | 38 | [A\-N\-N\-A](https://open.spotify.com/track/6EWtkdeKmVtRjmydTfIR0S) | [Freundeskreis](https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk), [Max Herre](https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3), [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU), [DJ Friction](https://open.spotify.com/artist/3uLb8nsdXtUHeO1ns9HobZ) | [Quadratur des Kreises](https://open.spotify.com/album/3cm3ll1OWaYnTjAsCCvG7W) | 6:06 |
 | 39 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 |
 | 40 | [Füchse](https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Ich bin jung und brauche das Geld \(feat\. G\-Style\)](https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT) | [Eko Fresh](https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D), [G\-Style](https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs) | [Ich bin jung und brauche das Geld](https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV) | 4:26 |
 | 50 | [Gustav Gans](https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Blast Action Heroes](https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo) | 3:32 |
 
-Snapshot ID: `AAAAAGWjr+G7z00kHr8weseIXL3iRs5G`
+Snapshot ID: `AAAAAD10xOcCWkevNdRGllJv1oPR7/Dt`

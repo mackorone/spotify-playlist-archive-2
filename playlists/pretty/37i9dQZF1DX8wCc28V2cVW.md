@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,116 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,119 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 57 | [Plains of Eternity](https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:36 |
 | 58 | [New Bodhum](https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:39 |
 | 59 | [Serah's Theme \- Memories \-](https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073) | [frances maya](https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 2:47 |
-| 60 | [Band:Locus](https://open.spotify.com/track/1VsFMjYvordUV0ZG0NVr3x) | [THE PRIMALS](https://open.spotify.com/artist/2dN1u3qRvK66p9M3MHwJsZ) | [FINAL FANTASY XIV Duality ～ Arrangement Album ～](https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm) | 4:47 |
+| 60 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 |
 | 61 | [Noel's Theme](https://open.spotify.com/track/6rA3nlCwQ2IX9qoNLBX6yp) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:20 |
-| 62 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 |
+| 62 | [Band:Locus](https://open.spotify.com/track/1VsFMjYvordUV0ZG0NVr3x) | [THE PRIMALS](https://open.spotify.com/artist/2dN1u3qRvK66p9M3MHwJsZ) | [FINAL FANTASY XIV Duality ～ Arrangement Album ～](https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm) | 4:47 |
 | 63 | [Trisection](https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:37 |
 | 64 | [Village and Void](https://open.spotify.com/track/1qjq4SjCZPQLFCbpGGUCEO) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:32 |
 | 65 | [Melodies of Life \(The Layers of Harmony\)](https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 3:21 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 69 | [Starting Over](https://open.spotify.com/track/2v7T65sRJlhytPQSqrnQ6L) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:21 |
 | 70 | [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack Volume 2【1/2】](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 |
 | 71 | [The Ark](https://open.spotify.com/track/52owa26O52mjroTJTfnHGI) | [Mitsuto Suzuki](https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 4:31 |
-| 72 | [Character Creation](https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd) | [Masaharu Iwata](https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:45 |
+| 72 | [Historia Crux](https://open.spotify.com/track/3Z5a9ViXNRzMpTYB2flARR) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:28 |
 | 73 | [Antipyretic](https://open.spotify.com/track/2FmH4JO42auhArapharZt6) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 3:40 |
 | 74 | [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 |
-| 75 | [Historia Crux](https://open.spotify.com/track/3Z5a9ViXNRzMpTYB2flARR) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:28 |
+| 75 | [Character Creation](https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd) | [Masaharu Iwata](https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:45 |
 
-Snapshot ID: `AAAAAPRBHJZNnwsW0pburomueWroYBbC`
+Snapshot ID: `AAAAAEZIRwFFw6QsfIDRaY0O6U/XI5Dt`

@@ -4,7 +4,7 @@
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 47 min
+48 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Trepanation](https://open.spotify.com/track/79Sx3cIdMZNYxIpJX27O4P) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:29 | 2023-02-11 | 2024-11-13 |
 | [Uncover](https://open.spotify.com/track/0Ee742cXNq3mVu6itU590B) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:33 | 2022-09-16 | 2022-10-12 |
 | [Wallflower](https://open.spotify.com/track/45UeOTmvbzTxJXY2ldH6mm) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 2:13 | 2026-04-09 | 2026-05-01 |
+| [Wheel](https://open.spotify.com/track/27acAqEh3ELyZzJSh0RWd3) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Wheel](https://open.spotify.com/album/1C6Aj4KUtw0DjICsm4bVpr) | 4:14 | 2026-11-20 |  |
 | [Yer' Song](https://open.spotify.com/track/3ue1pNiUCSLZrND9sEEjSB) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 5:36 | 2022-09-16 | 2022-10-13 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

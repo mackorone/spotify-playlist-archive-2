@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-188 songs - 10 hr 31 min
+190 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Enquanto Houver](https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW), [Bruno Harry](https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF) | [Enquanto Houver](https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O) | 3:00 | 2023-07-03 | 2025-05-31 |
 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 | 2023-07-03 |  |
 | [Esotérico \- Regravação Take 01](https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6) | 4:28 | 2023-07-03 | 2024-04-19 |
-| [Esotérico \- Regravação Take 01](https://open.spotify.com/track/5B4daMtt3TIB14vjYNHsjl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE) | 4:28 | 2026-03-27 |  |
+| [Esotérico \- Regravação Take 01](https://open.spotify.com/track/5B4daMtt3TIB14vjYNHsjl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE) | 4:28 | 2026-03-27 | 2026-11-20 |
 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 | 2024-08-02 |  |
 | [eu não queria mais nada](https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3) | [bela](https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD), [contito](https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT) | [eu não queria mais nada](https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc) | 2:28 | 2024-09-30 | 2024-12-07 |
 | [Fica um Pouco Mais](https://open.spotify.com/track/0NnqH4MMr3sGyGeV9UuLP1) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Fica um Pouco Mais](https://open.spotify.com/album/3VyPThQg2jJKs5cLmSZPSr) | 2:43 | 2023-10-13 | 2024-04-19 |
@@ -85,7 +85,7 @@
 | [Meu Destino é o Litoral](https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Meu Destino é o Litoral](https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh) | 3:10 | 2024-05-31 |  |
 | [Meu Jeito de Ser](https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Meu Jeito de Ser](https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N) | 2:56 | 2025-05-30 |  |
 | [Minha Estrela](https://open.spotify.com/track/21W4h17bilDOuYBcv9857o) | [AôA](https://open.spotify.com/artist/1m9TbzfSHdHp25ZFwy0WLl) | [Minha Estrela](https://open.spotify.com/album/11FAjoRU8boQc3AMNlZbkP) | 2:37 | 2024-03-08 | 2024-04-27 |
-| [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 | 2023-07-03 |  |
+| [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 | 2023-07-03 | 2026-11-20 |
 | [Minha Varanda](https://open.spotify.com/track/3haGgMWMiTeKIa1Ejeb9oc) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minha Varanda](https://open.spotify.com/album/4MwXKFT82r7pVKp1ty3mCp) | 2:20 | 2025-12-19 |  |
 | [Místico](https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Místico](https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX) | 3:07 | 2025-04-05 |  |
 | [Na Calada da Tarde](https://open.spotify.com/track/7zqfsyPXgVQmaVkErptcP5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Na Calada da Tarde](https://open.spotify.com/album/7w151uzc6yuG4CnBKYkK6v) | 3:15 | 2026-08-21 |  |
@@ -194,7 +194,9 @@
 | [Volta pra Casa.](https://open.spotify.com/track/57DFFCpq1UjzTdD0yEOq4I) | [Dom Vinera](https://open.spotify.com/artist/6cbcX5qJMGAjqiQmpoKhhx), [Mariii Batista](https://open.spotify.com/artist/1hpaqFjce9vQVa4Bre9Wve) | [Volta pra Casa.](https://open.spotify.com/album/4LhRECtSYSozf5WQTYTZ8c) | 3:39 | 2023-07-03 | 2023-10-21 |
 | [Voltei Mais Forte](https://open.spotify.com/track/21UNGYB5Ir2qXiDxpYLn2m) | [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK), [Amani Kush](https://open.spotify.com/artist/0wtbQxjVIG4tJmHxKULlmF) | [Voltei Mais Forte](https://open.spotify.com/album/68KCGQSZEluGopKyDUul47) | 4:10 | 2024-08-30 | 2024-10-01 |
 | [Vou Agradecer](https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl) | [Gabriel Carmo](https://open.spotify.com/artist/5apI1VSAPnJvQWMMUpQXPc), [Manu Testa](https://open.spotify.com/artist/15xByX487ejik5EeNySqxQ) | [Vou Agradecer](https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A) | 3:39 | 2023-07-03 | 2025-03-24 |
+| [Zaza](https://open.spotify.com/track/4DsxUkkPv7SPXTxMuVUW1A) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [ZAZA](https://open.spotify.com/album/4wUsPVUyVmpw52IqkWfClM) | 3:18 | 2026-11-20 |  |
 | [Zóio De Lula](https://open.spotify.com/track/0AsfpL8bzbmEyJsfbPPYnj) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Preço Curto, Prazo Longo](https://open.spotify.com/album/2hLNxoJZ5kZoBEX0XGBRNu) | 4:12 | 2024-04-12 |  |
 | [Zóio De Lula](https://open.spotify.com/track/0qmzAFEijLDdvR2VbjFsPH) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Transpiração Contínua Prolongada \- Edição Comemorativa](https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp) | 4:12 | 2023-07-03 | 2024-04-19 |
+| [⁠⁠REGGAE BOM \- Ao Vivo no Balão, SC](https://open.spotify.com/track/4jcbSBccqJgqd2VWMmhV5a) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [LAGUM EM TODO LUGAR](https://open.spotify.com/album/08FwwaLmTrw3ZGs5I2qD9j) | 3:01 | 2026-11-20 |  |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

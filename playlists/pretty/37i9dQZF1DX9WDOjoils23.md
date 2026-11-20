@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,674 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,711 likes - 50 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 21 | [Tere Vaastey](https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Nargis Fakhri](https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS) | [Seasons of Sartaaj](https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6) | 5:10 |
 | 22 | [Uchiyaan Lambiyaan](https://open.spotify.com/track/0IafwsYaah6ee0mY9FLOiO) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Uchiyaan Lambiyaan](https://open.spotify.com/album/43MG1gcCk4wp2ULa0Fl5xd) | 8:45 |
 | 23 | [Flowers Of the Same Tree](https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d) | [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi), [Jaskirat Singh](https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6) | [Flowers Of the Same Tree](https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6) | 4:44 |
-| 24 | [Mahi Milade](https://open.spotify.com/track/1gLwDAVTqRAOn4pFarYkqF) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF), [Shehnaz Akhtar](https://open.spotify.com/artist/7azsQVtLmCegdKPs8a3bpi), [Sam Malik](https://open.spotify.com/artist/3NByI8hP6F55zxdlcHiwXD) | [Mahi Milade](https://open.spotify.com/album/7DCqKLlQpvG9GxNw1qrMDx) | 4:13 |
-| 25 | [Tu Mane Ya Na Mane \- Edit Version](https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 14:28 |
+| 24 | [Tu Mane Ya Na Mane \- Edit Version](https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 14:28 |
+| 25 | [Mahi Milade](https://open.spotify.com/track/1gLwDAVTqRAOn4pFarYkqF) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF), [Shehnaz Akhtar](https://open.spotify.com/artist/7azsQVtLmCegdKPs8a3bpi), [Sam Malik](https://open.spotify.com/artist/3NByI8hP6F55zxdlcHiwXD) | [Mahi Milade](https://open.spotify.com/album/7DCqKLlQpvG9GxNw1qrMDx) | 4:13 |
 | 26 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 |
 | 27 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
 | 28 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 47 | [Dil Nu](https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5) | [Sukhjinder Singh](https://open.spotify.com/artist/2lL1IVLbaAKFsHsbtAs6KR) | [Dil Nu](https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW) | 4:31 |
 | 48 | [Jaan Na Jaan \- Male Version](https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx) | [Harpreet](https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb), [Baba Bulleh Shah](https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt) | [Ek Anokhi Dulhan Saavi](https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4) | 5:06 |
 | 49 | [Deewani](https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX) | [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Aniket Sharma](https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx) | [Deewani](https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy) | 3:04 |
-| 50 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6M4o88XTUa3RxrB4TcN1Gt) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 6:54 |
+| 50 | [Ranjha](https://open.spotify.com/track/65ixdACjOb3qOSLnGONOSB) | [Shye Ben Tzur](https://open.spotify.com/artist/2UCzkuXiE37VD7K123J4Tf), [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU), [The Rajasthan Express](https://open.spotify.com/artist/01LHIx3tQpDdRtuGLOI9Jk) | [Ranjha](https://open.spotify.com/album/3IKEzGl5fUUO29QdbPlc9X) | 4:51 |
 
-Snapshot ID: `AAAAAKnZAjvdafQ1Lq4rlhcenCm+iEvK`
+Snapshot ID: `AAAAAOfbZKhoWwbVu8T7LF7O0kSziaa8`

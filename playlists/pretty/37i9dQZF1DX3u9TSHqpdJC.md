@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Magdalene\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,840 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,881 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 74 | [Porcelain](https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Porcelain](https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c) | 3:22 |
 | 75 | [oh, lover](https://open.spotify.com/track/7uqtB0u3EtELNUkLXsq7oZ) | [Blue](https://open.spotify.com/artist/5HYr56zZb4EGU5aySKy9Ja) | [oh, lover](https://open.spotify.com/album/25KD39kHJsWvPhQVGI7Qc9) | 2:52 |
 
-Snapshot ID: `AAAAADzbvYgen6PBPk0iJdI+MRhBdH3H`
+Snapshot ID: `AAAAACxbzsvVa7lLZwhlTFaSZ+sv6y+4`

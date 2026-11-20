@@ -15669,6 +15669,24 @@
     },
     {
       "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/3QjcrzNPLkjfkzAQenjvL5"
+      },
+      "artists": [
+        {
+          "name": "Aleksi Per\u00e4l\u00e4",
+          "url": "https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308995,
+      "name": "GBLFT1740065",
+      "url": "https://open.spotify.com/track/55ZEwVKzdrMiR7Md5G2qwN"
+    },
+    {
+      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -27156,6 +27174,24 @@
       "duration_ms": 210000,
       "name": "Muerte Guarachosa",
       "url": "https://open.spotify.com/track/0MmpXLLJUOWrn6GZUCRYqX"
+    },
+    {
+      "album": {
+        "name": "Multipass",
+        "url": "https://open.spotify.com/album/7m65wEvkCWtwiMbzzvKqsj"
+      },
+      "artists": [
+        {
+          "name": "Estella Boersma",
+          "url": "https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314504,
+      "name": "Multipass",
+      "url": "https://open.spotify.com/track/3sk4Bi20KEGP87ZA2O1HFP"
     },
     {
       "album": {

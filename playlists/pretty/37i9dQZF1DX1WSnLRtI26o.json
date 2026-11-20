@@ -1,12 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 435099,
+  "num_followers": 435098,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANkh/mUWxOXIvEDr4uA7iiFr//yO",
+  "snapshot_id": "AAAAADlj4y8DnDpTcXoWfEccHKLQCVvF",
   "tracks": [
     {
       "added_at": "2022-04-13 19:43:54",
@@ -271,6 +271,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Don't Kill the Magic",
+        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 224849,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "The Papercut Chronicles II",
         "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 210960,
       "name": "Stereo Hearts (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Don't Kill the Magic",
-        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 224849,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1245,26 +1245,6 @@
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "Leave Before You Love Me",
-        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "Leave Before You Love Me (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Chromatica",
@@ -1283,6 +1263,26 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
+    },
+    {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "Leave Before You Love Me",
+        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "Leave Before You Love Me (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Cold Water",
         "url": "https://open.spotify.com/album/3Kmo85mapQ2wTaCAHBkKsK"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 185360,
       "name": "Cold Water",
       "url": "https://open.spotify.com/track/7zsXy7vlHdItvUSH8EwQss"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Toothbrush",
+      "url": "https://open.spotify.com/track/7ciLq0Cip0yxiz6KANrOUq"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Cheap Thrills (feat. Sean Paul)",
         "url": "https://open.spotify.com/album/4BTlXiDFjyJfpHjR7jlEJo"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 224813,
       "name": "Cheap Thrills (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/6b3b7lILUJqXcp6w9wNQSm"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Toothbrush",
-      "url": "https://open.spotify.com/track/7ciLq0Cip0yxiz6KANrOUq"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Me 4 U",
-        "url": "https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY"
-      },
-      "artists": [
-        {
-          "name": "OMI",
-          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
-      "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "SUCKER",
         "url": "https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 169866,
       "name": "Boom Clap",
       "url": "https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Me 4 U",
+        "url": "https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
+      "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2065,22 +2065,6 @@
       "url": "https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Sweeter",
@@ -2095,6 +2079,22 @@
       "duration_ms": 218520,
       "name": "Not Over You",
       "url": "https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Chapter One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 213218,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4XPWKmy05Rcff6TLHNoNF8"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Remind Me to Forget",
         "url": "https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 217286,
       "name": "Remind Me to Forget",
       "url": "https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Chapter One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213218,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4XPWKmy05Rcff6TLHNoNF8"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2613,22 +2613,6 @@
       "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
     },
     {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "State of the Heart",
-        "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "When The Lights Go Out",
-      "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "I Cry When I Laugh",
@@ -2643,6 +2627,22 @@
       "duration_ms": 211460,
       "name": "Don't Be so Hard on Yourself",
       "url": "https://open.spotify.com/track/6jF1nHIMESqft9p33tQYPn"
+    },
+    {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "State of the Heart",
+        "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "When The Lights Go Out",
+      "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2955,6 +2955,42 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Lifestyle (feat. Adam Levine)",
+        "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 153865,
+      "name": "Lifestyle (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Get To Know You",
+        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
+      },
+      "artists": [
+        {
+          "name": "Samantha Harvey",
+          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Get To Know You",
+      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
@@ -3017,6 +3053,22 @@
       "url": "https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 244453,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/2meEiZKWkiN28gITzFwQo5"
+    },
+    {
       "added_at": "2021-10-29 13:50:13",
       "album": {
         "name": "Chameleon (feat. Salt Cathedral)",
@@ -3035,22 +3087,6 @@
       "duration_ms": 188253,
       "name": "Chameleon (feat. Salt Cathedral)",
       "url": "https://open.spotify.com/track/0DcmjBeZnsf97sdVsTgqIk"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 244453,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/2meEiZKWkiN28gITzFwQo5"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3087,26 +3123,6 @@
       "duration_ms": 216014,
       "name": "New Light",
       "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Lifestyle (feat. Adam Levine)",
-        "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        }
-      ],
-      "duration_ms": 153865,
-      "name": "Lifestyle (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3219,22 +3235,6 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9"
-    },
-    {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Get To Know You",
-        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
-      },
-      "artists": [
-        {
-          "name": "Samantha Harvey",
-          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Get To Know You",
-      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
     },
     {
       "added_at": "2021-08-25 20:28:57",

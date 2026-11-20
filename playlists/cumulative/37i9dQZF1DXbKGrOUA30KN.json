@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: LEA",
+  "description": "Deutschpop, der jetzt passiert. Cover: Kauta, Mucco",
   "name": "POPLAND",
   "tracks": [
     {
@@ -974,7 +974,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144596,
       "name": "anders",
       "url": "https://open.spotify.com/track/0xbfPV9lRfC5n1X7ZAZTZK"
@@ -1462,6 +1462,24 @@
       "duration_ms": 178475,
       "name": "Bacio Bacio",
       "url": "https://open.spotify.com/track/5bQEsZlo8aHiwbLrVVwzUf"
+    },
+    {
+      "album": {
+        "name": "Bad D\u00fcren",
+        "url": "https://open.spotify.com/album/7Aq2rOEqlvC9ihTG19IzwD"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107142,
+      "name": "Bad D\u00fcren",
+      "url": "https://open.spotify.com/track/1FCoGPb0tQyCxV5cSlYQLI"
     },
     {
       "album": {
@@ -2036,6 +2054,24 @@
       "duration_ms": 156063,
       "name": "Brombeeren unter Dornen",
       "url": "https://open.spotify.com/track/6sPXIAy2v5wKKIbswlkV9h"
+    },
+    {
+      "album": {
+        "name": "Buddy",
+        "url": "https://open.spotify.com/album/7kUJ8BB5HJ5AfiMdXqASKy"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178640,
+      "name": "Buddy",
+      "url": "https://open.spotify.com/track/1Xa6l7RqppgRWVialkroqx"
     },
     {
       "album": {
@@ -3235,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/1nylx5lLBsfahubuYdb9i3"
+      },
+      "artists": [
+        {
+          "name": "REEZA",
+          "url": "https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126307,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/3TAyWibO6topyFPOqlu1Ek"
+    },
+    {
+      "album": {
         "name": "Doktor Doktor",
         "url": "https://open.spotify.com/album/0tMdfQhBku9acAvBGS3Ta6"
       },
@@ -3496,6 +3550,32 @@
       "duration_ms": 169002,
       "name": "Du Fehlst Hier",
       "url": "https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7"
+    },
+    {
+      "album": {
+        "name": "JazzDP",
+        "url": "https://open.spotify.com/album/48OxLlndap85Er8IgBtYuz"
+      },
+      "artists": [
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        },
+        {
+          "name": "JazzDP",
+          "url": "https://open.spotify.com/artist/2bftZEJHkriaOKsUO4Uwqy"
+        },
+        {
+          "name": "The Capital Dance Orchestra",
+          "url": "https://open.spotify.com/artist/4NfATmRSocOFbq7WEjBAEO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259407,
+      "name": "Du hast gehofft - JazzDP",
+      "url": "https://open.spotify.com/track/5u5XxRMJiLcPFd03er2r4w"
     },
     {
       "album": {
@@ -3973,6 +4053,24 @@
     },
     {
       "album": {
+        "name": "Einmal zu weit",
+        "url": "https://open.spotify.com/album/096HCYI8v2anhy3VpQlsBM"
+      },
+      "artists": [
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199470,
+      "name": "Einmal zu weit",
+      "url": "https://open.spotify.com/track/6zKBxUUXcwJb6VED2eB67o"
+    },
+    {
+      "album": {
         "name": "Eins",
         "url": "https://open.spotify.com/album/5oeN2ixkj5aneLTZe3KVUc"
       },
@@ -4216,6 +4314,24 @@
       "duration_ms": 153037,
       "name": "es tut mir sooo leid",
       "url": "https://open.spotify.com/track/1eE5yIZfsT6gpSDURe4WEC"
+    },
+    {
+      "album": {
+        "name": "es tut nur weil's sch\u00f6n war weh",
+        "url": "https://open.spotify.com/album/6yiEYbUzTW5gcMqkitgsHj"
+      },
+      "artists": [
+        {
+          "name": "Paula Engels",
+          "url": "https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154517,
+      "name": "es tut nur weil's sch\u00f6n war weh",
+      "url": "https://open.spotify.com/track/0vZprjl93WErvZiAZA4yAz"
     },
     {
       "album": {
@@ -5588,7 +5704,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 121371,
       "name": "Gute Zeiten",
       "url": "https://open.spotify.com/track/1mcSB2wza2uisSa0ItE7my"
@@ -6359,6 +6475,24 @@
     },
     {
       "album": {
+        "name": "hier zu frieren f\u00fchlt sich warm an",
+        "url": "https://open.spotify.com/album/4u6K6DSpGDbM5jEuqZkoIw"
+      },
+      "artists": [
+        {
+          "name": "maja kemper",
+          "url": "https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246493,
+      "name": "hier zu frieren f\u00fchlt sich warm an",
+      "url": "https://open.spotify.com/track/0BRn4Knf41DBnuFeKjWRmz"
+    },
+    {
+      "album": {
         "name": "Highlightmensch",
         "url": "https://open.spotify.com/album/6iQTySWAj92CH2vWjKZoRK"
       },
@@ -6522,7 +6656,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164500,
       "name": "HURRICANE",
       "url": "https://open.spotify.com/track/2YNqIAa4SlMnn36kS1hYBU"
@@ -6990,7 +7124,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137537,
       "name": "Ich wei\u00df nicht",
       "url": "https://open.spotify.com/track/1S2gKwDs6UTQcDevPmJP0A"
@@ -8797,6 +8931,28 @@
     },
     {
       "album": {
+        "name": "LED",
+        "url": "https://open.spotify.com/album/4itWbptdFn2fKCk2Mk3KSv"
+      },
+      "artists": [
+        {
+          "name": "ENNI",
+          "url": "https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW"
+        },
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144100,
+      "name": "LED",
+      "url": "https://open.spotify.com/track/5LDDNugikbrV3qHqoXKyP7"
+    },
+    {
+      "album": {
         "name": "leicht",
         "url": "https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7"
       },
@@ -9202,7 +9358,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160453,
       "name": "lieblingsl\u00fcgen",
       "url": "https://open.spotify.com/track/6ysQLsD5ebOxO1mmnnRXTg"
@@ -9669,6 +9825,24 @@
     },
     {
       "album": {
+        "name": "mauerbl\u00fcmchen/rampensau",
+        "url": "https://open.spotify.com/album/5aj4oL2tAiqPetbKmGyNUY"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123105,
+      "name": "mauerbl\u00fcmchen/rampensau",
+      "url": "https://open.spotify.com/track/5uplPVp0jUJhOBA6zR83Ti"
+    },
+    {
+      "album": {
         "name": "Leben \u00fcberleben EP",
         "url": "https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J"
       },
@@ -9943,6 +10117,24 @@
     },
     {
       "album": {
+        "name": "nicht so deep",
+        "url": "https://open.spotify.com/album/4KYufF2fjWIfwIbbW16mzR"
+      },
+      "artists": [
+        {
+          "name": "marita",
+          "url": "https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153280,
+      "name": "meine tr\u00e4ume",
+      "url": "https://open.spotify.com/track/1gYhepbrh6zyxjLkgBdMtg"
+    },
+    {
+      "album": {
         "name": "melancholisch",
         "url": "https://open.spotify.com/album/5YFqfqBoFCxcDYxJOfoQcS"
       },
@@ -10156,7 +10348,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 122086,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2jaUjtu7TrSLsdPa4EtfJU"
@@ -10394,7 +10586,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 136000,
       "name": "nachhause",
       "url": "https://open.spotify.com/track/5ZWiWaJnWQAQOPG98Cd4oJ"
@@ -10720,6 +10912,28 @@
       "duration_ms": 185986,
       "name": "Nicht wie alle andern",
       "url": "https://open.spotify.com/track/1rnSOkxKjpq53PDaskS3kq"
+    },
+    {
+      "album": {
+        "name": "Nichts Drauf",
+        "url": "https://open.spotify.com/album/0GlmZelxoCu7sNk0Jkxdf9"
+      },
+      "artists": [
+        {
+          "name": "MIDAN",
+          "url": "https://open.spotify.com/artist/42YC0yEUykvWFP5biYW4zI"
+        },
+        {
+          "name": "MICHI",
+          "url": "https://open.spotify.com/artist/11F4ZO6fZDv8H4UAH9V4zf"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105861,
+      "name": "Nichts Drauf",
+      "url": "https://open.spotify.com/track/1zIuIyC4ZcIogjcz72iLCs"
     },
     {
       "album": {
@@ -11472,7 +11686,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161308,
       "name": "Parodie",
       "url": "https://open.spotify.com/track/08LwjYw7u8ZLJ8RIhRprKp"
@@ -12291,6 +12505,24 @@
     },
     {
       "album": {
+        "name": "Ruhe vor dem Sturm",
+        "url": "https://open.spotify.com/album/1werthvkqKZgfaeoENyTUb"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213258,
+      "name": "Ruhe vor dem Sturm",
+      "url": "https://open.spotify.com/track/46jNF7UgPJDibuUzRrkjbJ"
+    },
+    {
+      "album": {
         "name": "Ruinen",
         "url": "https://open.spotify.com/album/6TRY21yHbmqFKGbHGnTTk0"
       },
@@ -12816,6 +13048,24 @@
       "duration_ms": 235870,
       "name": "Sisyphos",
       "url": "https://open.spotify.com/track/3i7nr8LBnC3pv09yNR4KfV"
+    },
+    {
+      "album": {
+        "name": "Skyline von New York",
+        "url": "https://open.spotify.com/album/73v9uuBovooV5wo4ZlhGt6"
+      },
+      "artists": [
+        {
+          "name": "Christoph Sakwerda",
+          "url": "https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171120,
+      "name": "Skyline von New York",
+      "url": "https://open.spotify.com/track/2QkiOEuc0Gv9iyRkqFT2Il"
     },
     {
       "album": {
@@ -13791,6 +14041,28 @@
     },
     {
       "album": {
+        "name": "Tut mir leid (feat. Mucco)",
+        "url": "https://open.spotify.com/album/7aXihUybDaD030LOsS3NXD"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        },
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159049,
+      "name": "Tut mir leid (feat. Mucco)",
+      "url": "https://open.spotify.com/track/7Lk3oCxmZ6afsxkMARZcdi"
+    },
+    {
+      "album": {
         "name": "TUTTI VIBE",
         "url": "https://open.spotify.com/album/0lrJuNlMGSVoVeNiLyFUQi"
       },
@@ -13820,7 +14092,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178706,
       "name": "Ullsteinhaus",
       "url": "https://open.spotify.com/track/69Kia7OqbtvErb4OR4IeoW"
@@ -14008,7 +14280,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 146522,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/0U54r5ANynDHtGesAabAVe"
@@ -14128,7 +14400,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161663,
       "name": "verg\u00f6tter mich (mit b\u00fcrgermeisterin von wien)",
       "url": "https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg"
@@ -14316,7 +14588,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 182000,
       "name": "Viel Zu Lang",
       "url": "https://open.spotify.com/track/7gDq7SYklKJQ3QedWa5EDi"
@@ -15690,7 +15962,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185000,
       "name": "Wie lang",
       "url": "https://open.spotify.com/track/6CuknsZAq8zG0SYSf6N13c"

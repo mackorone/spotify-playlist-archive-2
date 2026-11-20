@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,456,616 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,455,849 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 19 | [I See Why](https://open.spotify.com/track/3lsOd2UXiKRZalwRVqvQsD) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I See Why](https://open.spotify.com/album/4HzdDbgWaDHLkLbhOuBb82) | 3:03 |
 | 20 | [Spend Dat \(feat\. Lil Baby & Kodak Black\) \- Remix](https://open.spotify.com/track/7rPM3CAKNy9Pf09k1Fnqhm) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Spend Dat \(Remix\)](https://open.spotify.com/album/4QFNvWaitTyvKr3yoDXjc5) | 3:14 |
 | 21 | [Too Bad](https://open.spotify.com/track/3VoUVDtqurOSmVB9W49l4Q) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Too Bad](https://open.spotify.com/album/1pViF08uTEe946q9mJKLxb) | 2:42 |
-| 22 | [EXPOSED\. ft Quavo.](https://open.spotify.com/track/58Q3J5Pq4u2rsa9MP9wrCo) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [EXPOSED\. ft Quavo.](https://open.spotify.com/album/2ZEh1rTXVI5QkF4sH6aiR1) | 3:15 |
+| 22 | [EXPOSED\. ft\. Quavo.](https://open.spotify.com/track/58Q3J5Pq4u2rsa9MP9wrCo) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [EXPOSED\. ft\. Quavo.](https://open.spotify.com/album/2ZEh1rTXVI5QkF4sH6aiR1) | 3:15 |
 | 23 | [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Don’t Chart \(from GTAVI: The Album\)](https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz) | 2:44 |
 | 24 | [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 |
 | 25 | [Lambo pass by \(feat\. OJ da Juiceman\)](https://open.spotify.com/track/2s9yhSB3VG5ajbbLN5zoDM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn) | [Against All Odds](https://open.spotify.com/album/23jiSmKXfw5t0lRXk6QPB9) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 99 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 |
 | 100 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 |
 
-Snapshot ID: `AAAAAPijMfp3Rk14LwT+dYpdgQAuGNOU`
+Snapshot ID: `AAAAAAxyxoBXc7IjylCZRHhnbTUiZ3rL`

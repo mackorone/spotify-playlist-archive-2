@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Dale Pututi & Nesty y Micro TDH
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,511 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,437 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Que Te Pires](https://open.spotify.com/track/3yI2FyzjqIajeJAfFqvWbz) | [Dale Pututi & Nesty](https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Que Te Pires](https://open.spotify.com/album/3l83sDPPYLIsPK8uLRZe2h) | 3:11 |
 | 2 | [Un Amor Así](https://open.spotify.com/track/4LzPrsIadRI2klIWVMkWJe) | [El Meke](https://open.spotify.com/artist/4efeWM0inGKd3KGCyOyXGm), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Lo Que Pasó, Pasó](https://open.spotify.com/album/1CLOzTyaWqCRtoDv4NgmKq) | 3:29 |
 | 3 | [Otra Vida](https://open.spotify.com/track/5PNNFR3RpYkIroEZS61tu4) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [El Último Del Tren](https://open.spotify.com/artist/35TK53cUM9MH1GYCOVDK0n), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Sadman: Otra Vida](https://open.spotify.com/album/3fdTs52WeSYFQtSroHDr6f) | 2:41 |
-| 4 | [Duele Perder](https://open.spotify.com/track/0PlTZJScU1GWl6o5Ifyh5K) | [Hnos Yaipén](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [Duele Perder](https://open.spotify.com/album/0sq1R17LAnQheN5ygcYdLi) | 3:52 |
+| 4 | [Duele Perder](https://open.spotify.com/track/0PlTZJScU1GWl6o5Ifyh5K) | [Hnos Yaipén](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg), [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C) | [Duele Perder](https://open.spotify.com/album/0sq1R17LAnQheN5ygcYdLi) | 3:52 |
 | 5 | [Bailando Las Penas](https://open.spotify.com/track/3bX36cAkby5fS6tzpZUtLg) | [Maria Fuell](https://open.spotify.com/artist/6bXmuG2Y5ZvquhnGyuOdic), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Bailando Las Penas](https://open.spotify.com/album/7wyn09A198iZDK5KwSIQr1) | 3:47 |
 | 6 | [Un Vagabundo Menos](https://open.spotify.com/track/60iq8md9po8qT1On2mZed3) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Un Vagabundo Menos](https://open.spotify.com/album/0uBgZnBIig0qAXEqfwZ62f) | 3:12 |
-| 7 | [Diez De Noviembre](https://open.spotify.com/track/2WQ67fqB4sJatiW8BHHNvM) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Iván David Villazón](https://open.spotify.com/artist/0NwbA7oGb72pwfx3eFVOVK), [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX), [Iván Calderón](https://open.spotify.com/artist/7nQZUpVqCQNmNKmqkzP0Li), [Víctor Nain](https://open.spotify.com/artist/3CeTQY6Om6kzQRZw2m5rWO) | [Diez De Noviembre](https://open.spotify.com/album/4HSBob9SjdPN8I7BxPVSFI) | 3:46 |
+| 7 | [Diez De Noviembre](https://open.spotify.com/track/2WQ67fqB4sJatiW8BHHNvM) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Ivan David Villazón](https://open.spotify.com/artist/1oWkr0YCK2EuH4aXxnMr0r), [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX), [Iván Calderón](https://open.spotify.com/artist/7nQZUpVqCQNmNKmqkzP0Li), [Víctor Nain](https://open.spotify.com/artist/3CeTQY6Om6kzQRZw2m5rWO) | [Diez De Noviembre](https://open.spotify.com/album/4HSBob9SjdPN8I7BxPVSFI) | 3:46 |
 | 8 | [TU CARIÑITO](https://open.spotify.com/track/1LM00tEpy4Yys2VY1ctJKx) | [Nueva Línea](https://open.spotify.com/artist/0znHeiocrsC2Bj33L7FBzM), [Edwin Rivera](https://open.spotify.com/artist/0IIr9Qt6xCRur3lAuFn3lD) | [TU CARIÑITO](https://open.spotify.com/album/2nmU5BlLY5IUzlp5VU9yWb) | 3:14 |
 | 9 | [Es Inevitable](https://open.spotify.com/track/4foVILmEIxqizCgfKolVQ2) | [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93) | [Es Inevitable](https://open.spotify.com/album/4WHbP6vW9BOyoLJGaIzgY2) | 3:43 |
 | 10 | [CON LA PUNTA DEL PIE](https://open.spotify.com/track/4Ft1I65iBruz3jyNbUUNHA) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [CON LA PUNTA DEL PIE](https://open.spotify.com/album/6QMOdwxAkKIvoZ69OAtBHl) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 59 | [Pa' Él](https://open.spotify.com/track/0AT4SvaQ7yEBvPhhHBNUXf) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Pa' Él](https://open.spotify.com/album/5BlhVCj1nOt9XxwjAV4XDo) | 2:55 |
 | 60 | [Qué Andas Haciendo](https://open.spotify.com/track/2Pv1g4OMtsdeQw3QF5v1it) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Qué Andas Haciendo](https://open.spotify.com/album/5aglfekM0ZJCRb83xKQ2Re) | 3:19 |
 
-Snapshot ID: `AAAAAI8EGJ5nEm/49ZnUNkaMFJL4JkAA`
+Snapshot ID: `AAAAALGoh58n2UcDtlVDs8tiNhG80Ll8`

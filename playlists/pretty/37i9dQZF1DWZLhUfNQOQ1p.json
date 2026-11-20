@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 251911,
+  "num_followers": 251888,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGCpK5W9Pd3YaRItseI2QKJY3FIz",
+  "snapshot_id": "AAAAAMWiflpXjRh2AwKYxlJ9p+w7xB84",
   "tracks": [
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
         "name": "Ice 2 Water",
         "url": "https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 196700,
       "name": "Ice 2 Water",
       "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1375,22 +1375,22 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Move On Up (Mark Knight Remix)",
-        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
         },
         {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
         }
       ],
-      "duration_ms": 149047,
-      "name": "Move On Up (Mark Knight Remix)",
-      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1411,22 +1411,42 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+        "name": "Move On Up (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
       },
       "artists": [
         {
-          "name": "Crazibiza",
-          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         },
         {
-          "name": "House of Prayers",
-          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 284886,
-      "name": "Fresh - House of Prayers Poolside Edit",
-      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+      "duration_ms": 149047,
+      "name": "Move On Up (Mark Knight Remix)",
+      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
+    },
+    {
+      "added_at": "2026-09-03 22:02:56",
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 345310,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1451,26 +1471,6 @@
       "duration_ms": 196363,
       "name": "Good Life (Remastered)",
       "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
-    },
-    {
-      "added_at": "2026-09-03 22:02:56",
-      "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 345310,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1691,8 +1691,8 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "Jazz Feel",
-        "url": "https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp"
+        "name": "First Light Falling",
+        "url": "https://open.spotify.com/album/2PaB13NTijH8mj8Z9U1jt9"
       },
       "artists": [
         {
@@ -1700,9 +1700,9 @@
           "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
         }
       ],
-      "duration_ms": 154576,
-      "name": "Jazz Feel",
-      "url": "https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC"
+      "duration_ms": 172250,
+      "name": "First Light Falling",
+      "url": "https://open.spotify.com/track/0ZocjCzNp403Gmy6pEkuD9"
     },
     {
       "added_at": "2026-09-03 22:02:56",
@@ -1775,8 +1775,8 @@
     {
       "added_at": "2026-09-03 22:02:56",
       "album": {
-        "name": "First Light Falling",
-        "url": "https://open.spotify.com/album/2PaB13NTijH8mj8Z9U1jt9"
+        "name": "Jazz Feel",
+        "url": "https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp"
       },
       "artists": [
         {
@@ -1784,9 +1784,9 @@
           "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
         }
       ],
-      "duration_ms": 172250,
-      "name": "First Light Falling",
-      "url": "https://open.spotify.com/track/0ZocjCzNp403Gmy6pEkuD9"
+      "duration_ms": 154576,
+      "name": "Jazz Feel",
+      "url": "https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC"
     },
     {
       "added_at": "2026-09-03 22:02:56",

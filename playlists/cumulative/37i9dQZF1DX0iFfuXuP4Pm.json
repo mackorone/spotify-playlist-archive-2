@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: Wilbert Ross",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: GEHLEE",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -718,6 +718,24 @@
       "duration_ms": 203883,
       "name": "Atin Ang Walang Hanggan",
       "url": "https://open.spotify.com/track/3wyps5olGora4qX2g02DuK"
+    },
+    {
+      "album": {
+        "name": "Ating Panahon",
+        "url": "https://open.spotify.com/album/3eLIaoG4yf8sJyUbBXVdt4"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248613,
+      "name": "Ating Panahon",
+      "url": "https://open.spotify.com/track/0drQHJ1k4Ski9KKwbY6T62"
     },
     {
       "album": {
@@ -1549,6 +1567,28 @@
     },
     {
       "album": {
+        "name": "Bodybag",
+        "url": "https://open.spotify.com/album/65jQ1Xwa19VsxBZIGmM8s1"
+      },
+      "artists": [
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "Chello",
+          "url": "https://open.spotify.com/artist/6P7ErNofbvvxHUFkA0dE3a"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141672,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/1wlIPAmudv2w1jVkKSBl8m"
+    },
+    {
+      "album": {
         "name": "Bonethugs",
         "url": "https://open.spotify.com/album/5eg5LO51rOWBkQ0EOK6EvN"
       },
@@ -2096,7 +2136,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198688,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT"
@@ -2438,6 +2478,24 @@
       "duration_ms": 171868,
       "name": "Driftstar",
       "url": "https://open.spotify.com/track/4FuM2scDnJbWn6Az9UQ6aD"
+    },
+    {
+      "album": {
+        "name": "Dumating",
+        "url": "https://open.spotify.com/album/1qKSMYPNbb7SEbZlreO5lk"
+      },
+      "artists": [
+        {
+          "name": "Yeng Constantino",
+          "url": "https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269348,
+      "name": "Dumating",
+      "url": "https://open.spotify.com/track/62Gu9IhnnUm2hCJ5VDYT7z"
     },
     {
       "album": {
@@ -3276,7 +3334,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 249772,
       "name": "habangbuhay pansamantala",
       "url": "https://open.spotify.com/track/2IEHmtpKz5NtKJpVG9lvn2"
@@ -4794,7 +4852,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 285107,
       "name": "Kalimutan Mo Na Lang",
       "url": "https://open.spotify.com/track/3eGdqfiTv3Da4OdFwj8EAP"
@@ -6698,6 +6756,28 @@
       "duration_ms": 211380,
       "name": "Ms. Pakipot",
       "url": "https://open.spotify.com/track/0JkoOMtuZZ7wFqq1fnS5v5"
+    },
+    {
+      "album": {
+        "name": "Muli",
+        "url": "https://open.spotify.com/album/3r1MhKagLgXCvuYyb4BYoc"
+      },
+      "artists": [
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "Muli",
+      "url": "https://open.spotify.com/track/6qk3GlOPZfMZ40aPv3KO23"
     },
     {
       "album": {
@@ -9839,6 +9919,28 @@
     },
     {
       "album": {
+        "name": "Sarah (feat. John Roa)",
+        "url": "https://open.spotify.com/album/3TyD8VNfjNrFE5FOR8q4VU"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Sarah (feat. John Roa)",
+      "url": "https://open.spotify.com/track/5pGakYfgEiE29pBEeUUbyB"
+    },
+    {
+      "album": {
         "name": "Saranggola",
         "url": "https://open.spotify.com/album/36gNzsCUsMd3CoD9zGyMUp"
       },
@@ -10604,7 +10706,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 194887,
       "name": "Summer Crush",
       "url": "https://open.spotify.com/track/6dz4FTaIgrPIk7lfphecQh"
@@ -10684,6 +10786,24 @@
       "duration_ms": 240400,
       "name": "surreal",
       "url": "https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz"
+    },
+    {
+      "album": {
+        "name": "Susundan",
+        "url": "https://open.spotify.com/album/7bldiRBl0ZqRO2mNMp8ZUL"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171120,
+      "name": "Susundan",
+      "url": "https://open.spotify.com/track/2FQGKVBZ58hhCG8aiFApq9"
     },
     {
       "album": {
@@ -11242,7 +11362,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 186136,
       "name": "teka lang",
       "url": "https://open.spotify.com/track/5zkqGMHs0EGafwqutNd7Gu"
@@ -11764,7 +11884,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 290249,
       "name": "ULAP",
       "url": "https://open.spotify.com/track/0eS0KVhvXkklVVzdhmOrHp"

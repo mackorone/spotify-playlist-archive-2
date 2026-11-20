@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The newest in Ambient music and the sounds it explores beyond. \nOn the cover: KatzPascale",
+  "description": "The newest in Ambient music and the sounds it explores beyond. \nOn the cover: Bnnyhunna",
   "name": "New Ambient",
   "tracks": [
     {
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 232151,
       "name": "are you satisfied now",
       "url": "https://open.spotify.com/track/63BZGesjgt6KmqbIUBoPcN"
@@ -5870,7 +5870,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 330000,
       "name": "Borrowed by Bees (Returned)",
       "url": "https://open.spotify.com/track/1y7ohGHIROUSGEURseabMq"
@@ -5950,7 +5950,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 296186,
       "name": "Breatharian",
       "url": "https://open.spotify.com/track/3ol9ZFWTWBZzK954dTC94x"
@@ -8329,6 +8329,28 @@
     },
     {
       "album": {
+        "name": "Threshold (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6ANHuDOmrIBSOde0tjofd7"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        },
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118541,
+      "name": "Cold Open",
+      "url": "https://open.spotify.com/track/4oFAZB0lbdlHpmfXrjD8w3"
+    },
+    {
+      "album": {
         "name": "cold rainy nights. / the lullaby.",
         "url": "https://open.spotify.com/album/6YHm25NzdHlmGAMeKGsG5d"
       },
@@ -10163,6 +10185,24 @@
     },
     {
       "album": {
+        "name": "Descend/After the Silence",
+        "url": "https://open.spotify.com/album/6lCmgtOmVUdldsrHrU9BGk"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181264,
+      "name": "Descend",
+      "url": "https://open.spotify.com/track/4F6P11IHEGqbutqs6a4ptY"
+    },
+    {
+      "album": {
         "name": "A Host for All Kinds of Life",
         "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
       },
@@ -10392,7 +10432,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 76363,
       "name": "dissolve",
       "url": "https://open.spotify.com/track/5ns8thyrhoWa3H5RMXQGqX"
@@ -13485,6 +13525,24 @@
     },
     {
       "album": {
+        "name": "february clear (synthcore rendition)",
+        "url": "https://open.spotify.com/album/4Zm8cQTtKBEdv3HNfAeYxB"
+      },
+      "artists": [
+        {
+          "name": "Martin Rott",
+          "url": "https://open.spotify.com/artist/2qhPgYIoY3Shygka4euB1J"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129842,
+      "name": "february clear (synthcore rendition)",
+      "url": "https://open.spotify.com/track/1W1q871abq1VqnuGT7psPm"
+    },
+    {
+      "album": {
         "name": "Feeling Everything but Lost",
         "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
       },
@@ -13854,7 +13912,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 135053,
       "name": "First Departure",
       "url": "https://open.spotify.com/track/6PthvT7olgWykKpbqTKY8i"
@@ -14882,7 +14940,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 394571,
       "name": "Friction (No 4 AM Phone Call from Tokyo)",
       "url": "https://open.spotify.com/track/33a1gj20bPUksMHDDClJBi"
@@ -18157,6 +18215,24 @@
     },
     {
       "album": {
+        "name": "I'm Writing a New Song Every Month from One Birthday til the Next: November",
+        "url": "https://open.spotify.com/album/0uPguDQOT6iey5Nz30JENx"
+      },
+      "artists": [
+        {
+          "name": "Dylan Henner",
+          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284835,
+      "name": "I'm Writing a New Song Every Month from One Birthday til the Next: November",
+      "url": "https://open.spotify.com/track/76LWSbcDyehkNy0HkT0xjt"
+    },
+    {
+      "album": {
         "name": "I'm Writing a New Song Every Month from One Birthday til the Next: September",
         "url": "https://open.spotify.com/album/1TvJvMqe4R2qT1Mch6LP0M"
       },
@@ -19586,10 +19662,28 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 330490,
       "name": "It Can Be Everywhere",
       "url": "https://open.spotify.com/track/0glBCins7Uh2Ca5NtRaj7O"
+    },
+    {
+      "album": {
+        "name": "It Comes in Waves",
+        "url": "https://open.spotify.com/album/209dnN1rsKfWzqiNucSKae"
+      },
+      "artists": [
+        {
+          "name": "Patricia",
+          "url": "https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "It Comes In Waves",
+      "url": "https://open.spotify.com/track/4Zv4dIbWo8cbANdsbE0nPY"
     },
     {
       "album": {
@@ -19644,6 +19738,24 @@
       "duration_ms": 253160,
       "name": "IV. Spoken \u2013 Trumpet, Keys, Gongs & Birds",
       "url": "https://open.spotify.com/track/6eTo4DHliFnBTC9JzkQogT"
+    },
+    {
+      "album": {
+        "name": "Izu Ambient 037",
+        "url": "https://open.spotify.com/album/0RoYj7AmBUioZ1xkMG62fJ"
+      },
+      "artists": [
+        {
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Izu Ambient 037",
+      "url": "https://open.spotify.com/track/29PFiPCBAKU9vTmbKAxHNl"
     },
     {
       "album": {
@@ -20064,6 +20176,24 @@
       "duration_ms": 391090,
       "name": "Ker al Loch - Beatrice Dillon Remix",
       "url": "https://open.spotify.com/track/4fnCsStFxp68J9ovqDxdch"
+    },
+    {
+      "album": {
+        "name": "Unusua",
+        "url": "https://open.spotify.com/album/4SRkoUbFCftbruOQHKZkVa"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232106,
+      "name": "Keynote",
+      "url": "https://open.spotify.com/track/3DkMYLj0CRFZe0hKi1tUuz"
     },
     {
       "album": {
@@ -21456,6 +21586,28 @@
       "duration_ms": 328320,
       "name": "light\u2014the lightworker\u2019s lament",
       "url": "https://open.spotify.com/track/2eIfwGaVlemywEmFrGdgpd"
+    },
+    {
+      "album": {
+        "name": "Intenser",
+        "url": "https://open.spotify.com/album/7926knC5CXsQoXMaDo1YkH"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "J.Peter Schwalm",
+          "url": "https://open.spotify.com/artist/3aBB4DpB9xCQldKQtDy63P"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517826,
+      "name": "Like Pictures #2 (Live)",
+      "url": "https://open.spotify.com/track/0LCOM2yiHtsraicnQatkKr"
     },
     {
       "album": {
@@ -22948,7 +23100,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 135000,
       "name": "Marco e Maicol (Finale)",
       "url": "https://open.spotify.com/track/6aGiu0H6Z9tm59SxOLfJMk"
@@ -25090,7 +25242,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 415274,
       "name": "My Eve My Dawn",
       "url": "https://open.spotify.com/track/5s1zHK7DS2Z702RbVMNvgq"
@@ -25709,6 +25861,24 @@
     },
     {
       "album": {
+        "name": "Nighthawks",
+        "url": "https://open.spotify.com/album/40lgN4Ok4Lgee86Zu3rv0l"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277241,
+      "name": "Nighthawks",
+      "url": "https://open.spotify.com/track/0HsMZ0iCGid0Q1jWzfrA1K"
+    },
+    {
+      "album": {
         "name": "NIGHTS LIKE THIS PT 2 (Ambient Demo Version)",
         "url": "https://open.spotify.com/album/249qxc1yGioRrnhSZJpD6v"
       },
@@ -25854,7 +26024,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 325384,
       "name": "noctide",
       "url": "https://open.spotify.com/track/1ry9LhFAiXx2Fszm3yOp6k"
@@ -27530,7 +27700,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 291812,
       "name": "Oto no Kumo",
       "url": "https://open.spotify.com/track/5GwFVuHIMhfgMZrhLeyQBy"
@@ -28276,7 +28446,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 430003,
       "name": "Party Criminal - Yu Su's Drift Away Mix",
       "url": "https://open.spotify.com/track/61Ky9VyODp3HoLvkQVBmXg"
@@ -30285,6 +30455,40 @@
     },
     {
       "album": {
+        "name": "portunes",
+        "url": "https://open.spotify.com/album/6mkAKlu10tdBj3P3QP5oLz"
+      },
+      "artists": [
+        {
+          "name": "al.so",
+          "url": "https://open.spotify.com/artist/2UzGCNmaCAKmITtDdjUBdL"
+        },
+        {
+          "name": "Moses Yoofee",
+          "url": "https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ"
+        },
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/6w4kDiIXFWEtuLHLbd9zSC"
+        },
+        {
+          "name": "Marius Max",
+          "url": "https://open.spotify.com/artist/7ygCBdW9Lv5ujtijgMhUCs"
+        },
+        {
+          "name": "Miriam Adefris",
+          "url": "https://open.spotify.com/artist/6BgP6cMSLzjiRKwT098mev"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181864,
+      "name": "radial",
+      "url": "https://open.spotify.com/track/5vYeJVDKU3tZAToWVWfK5e"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/4RWES8IWQTv4j3NoWDapfr"
       },
@@ -31853,6 +32057,24 @@
     },
     {
       "album": {
+        "name": "Astro",
+        "url": "https://open.spotify.com/album/1BlClm9jah5Vzf5OlOa47q"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184112,
+      "name": "Ryoma - Prologue",
+      "url": "https://open.spotify.com/track/0euTYCw6IB8LREKWHjbOQv"
+    },
+    {
+      "album": {
         "name": "R\u00e9gate",
         "url": "https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk"
       },
@@ -32006,7 +32228,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 78870,
       "name": "SAINT",
       "url": "https://open.spotify.com/track/7mQIXBJCjHX31prwtj9LgE"
@@ -32344,6 +32566,24 @@
       "duration_ms": 175888,
       "name": "Scatternoise",
       "url": "https://open.spotify.com/track/7EzqUW3q1VGoDefs9ZmHvW"
+    },
+    {
+      "album": {
+        "name": "Children Of The Static Orchard",
+        "url": "https://open.spotify.com/album/4j5YxQM5755oVSbEm2VFCL"
+      },
+      "artists": [
+        {
+          "name": "James Bright",
+          "url": "https://open.spotify.com/artist/7JcxJ3BRljo49dQVZ5tCFs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188360,
+      "name": "Scene Ends",
+      "url": "https://open.spotify.com/track/2CU2gdlaqvKfRafP2rolLS"
     },
     {
       "album": {
@@ -33498,7 +33738,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160955,
       "name": "Silencing",
       "url": "https://open.spotify.com/track/3zIElpKq34a6iUuetdo1VX"
@@ -34398,7 +34638,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188862,
       "name": "Soda",
       "url": "https://open.spotify.com/track/1JB2vQ6k1N8TpqAxNMGWsa"
@@ -35874,6 +36114,24 @@
       "duration_ms": 178657,
       "name": "Stunt Flier / Grasshopper",
       "url": "https://open.spotify.com/track/0MbJw514bfA6co2El9AcPa"
+    },
+    {
+      "album": {
+        "name": "Stuttering Storm Static",
+        "url": "https://open.spotify.com/album/3hNJBRO5u8Tgdt3YAjtt3E"
+      },
+      "artists": [
+        {
+          "name": "Sad Moses",
+          "url": "https://open.spotify.com/artist/1P8CXGQyUvvY7ctcSByX8i"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338777,
+      "name": "Stuttering Storm Static",
+      "url": "https://open.spotify.com/track/6YqPrY3iSh6r7bajuHfpui"
     },
     {
       "album": {
@@ -39401,6 +39659,24 @@
     },
     {
       "album": {
+        "name": "Too far",
+        "url": "https://open.spotify.com/album/6faR5BMQxwfGxF84O0fDX9"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Too far",
+      "url": "https://open.spotify.com/track/45QNTszYIm6APPuWsTDpzU"
+    },
+    {
+      "album": {
         "name": "Too Much Love",
         "url": "https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U"
       },
@@ -41189,6 +41465,24 @@
     },
     {
       "album": {
+        "name": "Vibrant Matter",
+        "url": "https://open.spotify.com/album/0FqVPSU21YsSJHPowjdUwW"
+      },
+      "artists": [
+        {
+          "name": "Soda Lite",
+          "url": "https://open.spotify.com/artist/55Y7NJGTHhz09JvukpIqch"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176709,
+      "name": "Vibrant Matter",
+      "url": "https://open.spotify.com/track/3E3krAwNCebLmYjst7BbH8"
+    },
+    {
+      "album": {
         "name": "Vicious Thoughts (from BEEF Season 2)",
         "url": "https://open.spotify.com/album/2ghc87IxInCogQmYeWSXCq"
       },
@@ -42196,7 +42490,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 251851,
       "name": "Weather Melody",
       "url": "https://open.spotify.com/track/1t0n85KzvJofpC76xnmdjM"
@@ -43368,6 +43662,24 @@
       "duration_ms": 178584,
       "name": "Works No. 8",
       "url": "https://open.spotify.com/track/7jmDuGPtLhWNVo8wgIsL1V"
+    },
+    {
+      "album": {
+        "name": "World in Peace",
+        "url": "https://open.spotify.com/album/6NtwhUjFRr0WDd75vwRpoV"
+      },
+      "artists": [
+        {
+          "name": "Massimo Vaccaro",
+          "url": "https://open.spotify.com/artist/2JQIthLFQ3C8FAViBV4GLX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478565,
+      "name": "World in Peace",
+      "url": "https://open.spotify.com/track/3VkarmQvK9P7N6Xo7Dxu2v"
     },
     {
       "album": {

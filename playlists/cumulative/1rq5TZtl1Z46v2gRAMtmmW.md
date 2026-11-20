@@ -4,7 +4,7 @@
 
 > 
 
-620 songs - 1 day 16 hr 1 min
+621 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 | 2024-06-07 | 2024-08-31 |
 | [Air Tight \- Regularfantasy Remix](https://open.spotify.com/track/7j9QRoabowW6mPfYl8xLIs) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh), [Regularfantasy](https://open.spotify.com/artist/4X8qmnrVs1wkdsccBjik8z) | [Air Tight \(Regularfantasy Remix\)](https://open.spotify.com/album/6rqllCarzyfWfaB8XIbwiD) | 5:18 | 2025-02-24 | 2025-09-18 |
 | [Akousmatikous](https://open.spotify.com/track/6asdwZnekIys3Phf8leM5G) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Soccer96](https://open.spotify.com/artist/5CPQQs8WGfYZjEyRu3mkij) | [Akousmatikous / Propaganda](https://open.spotify.com/album/5GTtlZdaIA94Zz95m1pl7w) | 5:45 | 2023-03-22 | 2023-04-13 |
+| [All About You](https://open.spotify.com/track/4NCWtl5MC0XUA7cG6ztTIB) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [All About You](https://open.spotify.com/album/2IJJpADlzqeKPDnCtdOHGx) | 3:13 | 2026-11-19 |  |
 | [All I Need](https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Things to Come](https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA) | 2:43 | 2024-07-05 | 2024-09-14 |
 | [All I Need](https://open.spotify.com/track/54DstnlyeCz0Zb2HDtBJaq) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [All I Need](https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h) | 3:35 | 2023-04-19 | 2023-05-16 |
 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 | 2025-01-14 | 2025-11-07 |

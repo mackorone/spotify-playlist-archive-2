@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 
 > La playlist à la cool pour accompagner votre dîner !
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,826 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,835 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 38 | [Real!](https://open.spotify.com/track/1yxpRDrcK5ExwNiThPa9Uh) | [Dream Boat](https://open.spotify.com/artist/6oRvLsN1PnXplBf6mLS940) | [Real!](https://open.spotify.com/album/4fD8azzRJrj1pkzk1ra0ZG) | 2:58 |
 | 39 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 40 | [Flor de canela](https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Flor de canela](https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg) | 3:49 |
-| 41 | [Dance It Out](https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Endless Summer](https://open.spotify.com/album/6YDXIYzh182auw0avklzbq) | 3:14 |
-| 42 | [Where To Start](https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [Lay Low](https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4) | 2:46 |
+| 41 | [Where To Start](https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [Lay Low](https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4) | 2:46 |
+| 42 | [Dance It Out](https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Endless Summer](https://open.spotify.com/album/6YDXIYzh182auw0avklzbq) | 3:14 |
 | 43 | [Save a Little Love for Me](https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [Forward](https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC) | 3:32 |
 | 44 | [One song away from crying](https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [One song away from crying](https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3) | 3:39 |
 | 45 | [Shala\-Lala\-La](https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [la Heidi](https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT) | [Gran Paradiso](https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM) | 3:15 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 51 | [Young And Dumb](https://open.spotify.com/track/4b3EgGk2hdOQwBHvFQUTmJ) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Young And Dumb](https://open.spotify.com/album/6hyFFdt3IJXi9bUDukRw4r) | 2:37 |
 | 52 | [Boa Sorte / Good Luck \(feat\. Ben Harper\)](https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 3:55 |
 | 53 | [Spell on You](https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0) | [Isteri](https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk) | 4:00 |
-| 54 | [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 |
-| 55 | [couleur menthe à l'eau](https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [uplifters](https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9) | 3:32 |
-| 56 | [Tell Him](https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Tell Him](https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH) | 2:37 |
+| 54 | [Tell Him](https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Tell Him](https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH) | 2:37 |
+| 55 | [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 |
+| 56 | [couleur menthe à l'eau](https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [uplifters](https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9) | 3:32 |
 | 57 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 |
 | 58 | [Cry to Me](https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Junk](https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A) | 2:43 |
 | 59 | [Yours & Mine](https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:33 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 69 | [found u/me](https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [found u/me](https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p) | 2:49 |
 | 70 | [Sua Alma](https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [D'Alma](https://open.spotify.com/artist/7u9Zt6g4twVWySeTjO72Us) | [Umoja](https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA) | 4:42 |
 | 71 | [Same Old Game](https://open.spotify.com/track/5NWGBbsGm0NmWfB8ipByzA) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Same Old Game](https://open.spotify.com/album/4veOrtelXSE4JncGgA2FKK) | 2:44 |
-| 72 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
-| 73 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 72 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
+| 73 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
 | 74 | [I try my best](https://open.spotify.com/track/5OLopWFCNIqtYuW6UYUdwj) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [I try my best](https://open.spotify.com/album/0UJDFChpZ63MFtbIuQHoCS) | 3:49 |
 | 75 | [Grizzly Bear](https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone](https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6) | 4:08 |
 | 76 | [All Night](https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [All Night](https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td) | 3:16 |
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 83 | [Beast of the Night](https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Beast of the Night](https://open.spotify.com/album/3n80cCmDjVkd9EX81YV4VU) | 3:40 |
 | 84 | [I Only Have Eyes for You](https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenades / Flamingo Favorites](https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48) | 3:18 |
 | 85 | [Yellow Brick Road](https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Yellow Brick Road](https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K) | 2:32 |
-| 86 | [Go For The Other Side](https://open.spotify.com/track/4i7ZRojYjzCNi2a3lpzfhs) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Go For The Other Side](https://open.spotify.com/album/47W7mP5qdbJuR7NAcgccgl) | 3:28 |
-| 87 | [Autour de toi](https://open.spotify.com/track/0nXBuHnmJJeFZMVkWAAU51) | [Milhan](https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2) | [Latino Triste](https://open.spotify.com/album/2QPYqGaUgs6zmNXy0a1l3F) | 3:17 |
+| 86 | [Autour de toi](https://open.spotify.com/track/0nXBuHnmJJeFZMVkWAAU51) | [Milhan](https://open.spotify.com/artist/3xm0hZjqHd4ImTJ3YLmjI2) | [Latino Triste](https://open.spotify.com/album/2QPYqGaUgs6zmNXy0a1l3F) | 3:17 |
+| 87 | [Go For The Other Side](https://open.spotify.com/track/4i7ZRojYjzCNi2a3lpzfhs) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Go For The Other Side](https://open.spotify.com/album/47W7mP5qdbJuR7NAcgccgl) | 3:28 |
 | 88 | [Superstar](https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Superstar](https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt) | 3:18 |
 | 89 | [Dark Blue](https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Christina](https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V) | 2:49 |
 | 90 | [Plume](https://open.spotify.com/track/1eWsvowSDRkghLQGvFL9nY) | [Simon Mény](https://open.spotify.com/artist/78v3xx2RmHBOjsamAW8utQ) | [Plume](https://open.spotify.com/album/3Xb4WgyJpOZiTSaSxUk3S7) | 3:17 |
-| 91 | [Polaroïds](https://open.spotify.com/track/0ZJ2ZHD0KWc5lVGqwdg0rJ) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W), [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Polaroïds](https://open.spotify.com/album/68njeIGDJzBKotnUzAXBVl) | 3:13 |
-| 92 | [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 |
+| 91 | [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 |
+| 92 | [Polaroïds](https://open.spotify.com/track/0ZJ2ZHD0KWc5lVGqwdg0rJ) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W), [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Polaroïds](https://open.spotify.com/album/68njeIGDJzBKotnUzAXBVl) | 3:13 |
 | 93 | [Goanna](https://open.spotify.com/track/1WlbrsIoyEIaEEXLRZohp7) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Goanna](https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg) | 2:59 |
 | 94 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
 | 95 | [idole](https://open.spotify.com/track/67nA20J1o1iS62jpFJFlhb) | [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [idole](https://open.spotify.com/album/4QfPMWmVaTENkTFrmA6Gzi) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 99 | [On Reste Là](https://open.spotify.com/track/3fzWpUoS1rEMJVaSfJDx9r) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [On Reste Là](https://open.spotify.com/album/2CpWLA3tGSmMzVRRYqhf7L) | 3:57 |
 | 100 | [Too High](https://open.spotify.com/track/0efZvIaR1KatgP0Eudg2sH) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Too High](https://open.spotify.com/album/2ReD4xaHjWDIsGvZoUfdgb) | 3:58 |
 
-Snapshot ID: `AAAAANIhD1QgTIX32LGJg6tXrTXlcqnb`
+Snapshot ID: `AAAAAAH7jlHW5hMaBDRvgmaPZ2gCozZP`

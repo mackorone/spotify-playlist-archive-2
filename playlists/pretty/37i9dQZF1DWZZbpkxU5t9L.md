@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: Kvi Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,896 likes - 61 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,889 likes - 61 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 60 | [透明だった世界](https://open.spotify.com/track/1UPHVPKiQ8tb66UHgYSSpa) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [透明だった世界](https://open.spotify.com/album/3F9eCmmAJiNtRRptvUfalt) | 3:32 |
 | 61 | [Walking with you](https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [SKYWALK](https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr) | 3:43 |
 
-Snapshot ID: `AAAAAGxH1l6UVnLjXQN9QLe4RZUYjRSv`
+Snapshot ID: `AAAAADh2fmwZJAOxKeyI58pgXgFrBdhh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: MADATORRICELLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,237 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,240 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 49 | [Mă sună nebunele](https://open.spotify.com/track/14WRFJcCJpyQnPAj4hv7O7) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Mă sună nebunele](https://open.spotify.com/album/4N4PLJa3NezmNCZugWYRqN) | 3:09 |
 | 50 | [CAND VINE NOAPTEA](https://open.spotify.com/track/6yCcirPq6fJkF1fUlBNvgY) | [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [CAND VINE NOAPTEA](https://open.spotify.com/album/7iKCZwND2QWSLmztc5MeJN) | 2:28 |
 
-Snapshot ID: `AAAAADoVSbNPKkXer+etraShKraBpxEc`
+Snapshot ID: `AAAAAMCqa8shn6r9NofyWn6Q2cTQW3Zt`

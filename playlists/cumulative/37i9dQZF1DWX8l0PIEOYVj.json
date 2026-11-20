@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178827,
       "name": "Beautiful & Broken",
       "url": "https://open.spotify.com/track/24jbvwyod0Go1SyLQw2NeH"
@@ -3186,6 +3186,24 @@
       "duration_ms": 213542,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/0eNZW0bb7bogNXoXwcJ0is"
+    },
+    {
+      "album": {
+        "name": "INTERNET KID - EP",
+        "url": "https://open.spotify.com/album/5TiccY8Rccu27eG9mOspV5"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Coming Up",
+      "url": "https://open.spotify.com/track/7oDgHix43Z0XYrprGVTwZz"
     },
     {
       "album": {
@@ -5384,6 +5402,28 @@
       "duration_ms": 249600,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/2IHGqEruv0zlFRTCu3qetl"
+    },
+    {
+      "album": {
+        "name": "Faded Dream",
+        "url": "https://open.spotify.com/album/0H94BYKp6gF8m1exH66MeC"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Faded Dream",
+      "url": "https://open.spotify.com/track/3rvok6YS6cCMGUKOi9EgsA"
     },
     {
       "album": {
@@ -12958,7 +12998,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192391,
       "name": "Numb",
       "url": "https://open.spotify.com/track/0kMWWZzHQwB5HaIkWhObP5"

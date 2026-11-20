@@ -4679,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "Preternatural",
+        "url": "https://open.spotify.com/album/6EOoF1UopaOG0fNO2ti85i"
+      },
+      "artists": [
+        {
+          "name": "Declan Sheehy-Moss",
+          "url": "https://open.spotify.com/artist/04QfqofCW6wHLlZpSFweCg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138225,
+      "name": "Field",
+      "url": "https://open.spotify.com/track/36rg3upLwFHm5O1HXjUkft"
+    },
+    {
+      "album": {
         "name": "Films That Start with Rain",
         "url": "https://open.spotify.com/album/0I7RaIu3FKZLZWsNoQaNN1"
       },
@@ -4998,6 +5016,28 @@
       "duration_ms": 142000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/5ktpSEIJoMmz5AtfzVeqBb"
+    },
+    {
+      "album": {
+        "name": "Preternatural",
+        "url": "https://open.spotify.com/album/6EOoF1UopaOG0fNO2ti85i"
+      },
+      "artists": [
+        {
+          "name": "Declan Sheehy-Moss",
+          "url": "https://open.spotify.com/artist/04QfqofCW6wHLlZpSFweCg"
+        },
+        {
+          "name": "Vittorio",
+          "url": "https://open.spotify.com/artist/46zIzYmWIfQcDLrwfhhzsW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148789,
+      "name": "Furthest Star",
+      "url": "https://open.spotify.com/track/5DXD2a4vnPf5zNAy3kqmeP"
     },
     {
       "album": {
@@ -6185,6 +6225,24 @@
     },
     {
       "album": {
+        "name": "Preternatural",
+        "url": "https://open.spotify.com/album/6EOoF1UopaOG0fNO2ti85i"
+      },
+      "artists": [
+        {
+          "name": "Declan Sheehy-Moss",
+          "url": "https://open.spotify.com/artist/04QfqofCW6wHLlZpSFweCg"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130073,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/5aOPq6PkXPdrb6XhoiL6mh"
+    },
+    {
+      "album": {
         "name": "sleep with a cane",
         "url": "https://open.spotify.com/album/15A8PqQpZkKhOhTVXs0XeA"
       },
@@ -6298,6 +6356,24 @@
       "duration_ms": 349568,
       "name": "Kepler-39 - 808 State Remix",
       "url": "https://open.spotify.com/track/101hdgdBfT9Kqeeo5SOesm"
+    },
+    {
+      "album": {
+        "name": "Unusua",
+        "url": "https://open.spotify.com/album/4SRkoUbFCftbruOQHKZkVa"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232106,
+      "name": "Keynote",
+      "url": "https://open.spotify.com/track/3DkMYLj0CRFZe0hKi1tUuz"
     },
     {
       "album": {
@@ -7296,7 +7372,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 94122,
       "name": "Movement #3",
       "url": "https://open.spotify.com/track/3yPNcD8g1M3QQAQkbCQaLs"
@@ -10162,7 +10238,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 201012,
       "name": "So Sweet & Willing",
       "url": "https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh"
@@ -11450,7 +11526,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 276642,
       "name": "Timelapse",
       "url": "https://open.spotify.com/track/3VfQoHA8p4aMcdHlyiTmRQ"
@@ -12490,7 +12566,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164385,
       "name": "Where In The World",
       "url": "https://open.spotify.com/track/1x2DBc1N9dXorxIhNqSjW7"

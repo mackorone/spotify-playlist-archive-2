@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 142462,
+  "num_followers": 142446,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALL807thHYvWk6J9QB3pjAJW2HbZ",
+  "snapshot_id": "AAAAAKS3gTCmCP+qiBtpyw56YAfczGIL",
   "tracks": [
     {
       "added_at": "2026-11-01 20:21:50",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "brainrot",
         "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 132111,
       "name": "brainrot",
       "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Zombie Prom (Hallowe'en At Home Edition)",
-        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Zombie Prom",
-      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/2gDCBa5P6SnAaY0cadefQS"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 307400,
       "name": "Skeleton Song",
       "url": "https://open.spotify.com/track/6r2PtKqXYf0MfAG74uLvsL"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Zombie Prom (Hallowe'en At Home Edition)",
+        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Zombie Prom",
+      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
-        "name": "Head of the Love Club",
-        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
-      },
-      "artists": [
-        {
-          "name": "Gretel",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Little Vampire",
-      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
         "name": "Screen Violence: Director's Cut",
         "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 269640,
       "name": "Final Girl",
       "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
+        "name": "Head of the Love Club",
+        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
+      },
+      "artists": [
+        {
+          "name": "Gretel",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Little Vampire",
+      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
     },
     {
       "added_at": "2026-11-01 20:21:50",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-11-01 20:21:50",
       "album": {
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
+    },
+    {
+      "added_at": "2026-11-01 20:21:50",
+      "album": {
         "name": "Skeleton Song",
         "url": "https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 152000,
       "name": "Knock Knock! (It's Halloween)",
       "url": "https://open.spotify.com/track/37K6U3mGV0JsJFcaIRGYpp"
-    },
-    {
-      "added_at": "2026-11-01 20:21:50",
-      "album": {
-        "name": "My Lover's on the Run",
-        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        }
-      ],
-      "duration_ms": 217980,
-      "name": "My Lover's on the Run",
-      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
     },
     {
       "added_at": "2026-11-01 20:21:50",

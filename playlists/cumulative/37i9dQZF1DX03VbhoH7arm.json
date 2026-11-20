@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188281,
       "name": "CUERPO (TUMBAO) (feat. Maluma)",
       "url": "https://open.spotify.com/track/5VXKx33wTSpbq3Dm5b1qU9"
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 230503,
       "name": "Danceteria Afterhours",
       "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
@@ -6427,6 +6427,28 @@
     },
     {
       "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/7CGVeBieYqzryYS7HIUwQB"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269600,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/69lnNVsVKJs3yrfv06UZtI"
+    },
+    {
+      "album": {
         "name": "Monstr\u00e3o",
         "url": "https://open.spotify.com/album/0i0UyaiLEhUGQQT65177hS"
       },
@@ -8042,6 +8064,28 @@
       "duration_ms": 149090,
       "name": "Posi\u00e7\u00e3o de Ataque",
       "url": "https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk"
+    },
+    {
+      "album": {
+        "name": "Postura",
+        "url": "https://open.spotify.com/album/4C9qZgGwD6dDDJKxtCDLqw"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Postura",
+      "url": "https://open.spotify.com/track/3zOxgmlmxbq0fL7ginvcBc"
     },
     {
       "album": {

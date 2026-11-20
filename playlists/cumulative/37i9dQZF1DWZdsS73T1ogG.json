@@ -5391,6 +5391,28 @@
     },
     {
       "album": {
+        "name": "Baddie",
+        "url": "https://open.spotify.com/album/5vCXoMgJnONO6a4cx72bFc"
+      },
+      "artists": [
+        {
+          "name": "MAX LUIZ",
+          "url": "https://open.spotify.com/artist/4GqfJJhodzXQidwWAZQ5UD"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206037,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/1m1TxyemQszgMx1sJuc7Vv"
+    },
+    {
+      "album": {
         "name": "SAKURA",
         "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
       },
@@ -9546,7 +9568,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 122315,
       "name": "CHEFFA",
       "url": "https://open.spotify.com/track/6uj0LD8QVIrTxzq40hgGoW"
@@ -16158,7 +16180,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 204387,
       "name": "Easy Money",
       "url": "https://open.spotify.com/track/4p2H22vHMCYmIIx0tRgg0Q"
@@ -17128,7 +17150,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 136293,
       "name": "EMOcional </3",
       "url": "https://open.spotify.com/track/62s4iszBpTBmeBwjzM0zun"
@@ -19496,7 +19518,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 125831,
       "name": "Firme Contigo",
       "url": "https://open.spotify.com/track/6bfQyhA4XY5sjL4zIcRe1k"
@@ -22889,6 +22911,32 @@
     },
     {
       "album": {
+        "name": "HAGALO (Remix)",
+        "url": "https://open.spotify.com/album/12GL0ryH7GVZd10eHC7zub"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209411,
+      "name": "HAGALO - Remix",
+      "url": "https://open.spotify.com/track/5dKwSBvFI4VN4iJAp7jj4u"
+    },
+    {
+      "album": {
         "name": "Hag\u00e1moslo Real",
         "url": "https://open.spotify.com/album/5MlSlHLvo9NFh8aV8H1uJT"
       },
@@ -24142,7 +24190,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168000,
       "name": "IKAKOS",
       "url": "https://open.spotify.com/track/70ER71dzYrmYrZSw1SrgYH"
@@ -35227,6 +35275,36 @@
     },
     {
       "album": {
+        "name": "NADA NUEVO",
+        "url": "https://open.spotify.com/album/6qhmOqYtH7T9AOsQ4lw5A3"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "QueHicisteBella",
+          "url": "https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193035,
+      "name": "NADA NUEVO",
+      "url": "https://open.spotify.com/track/3q0PcyldThxV6YfJsSAiEy"
+    },
+    {
+      "album": {
         "name": "Nadie La Mantiene",
         "url": "https://open.spotify.com/album/4VsBy8wJ0Tq1gbdX7gjPPK"
       },
@@ -40612,6 +40690,28 @@
       "duration_ms": 213919,
       "name": "PASI\u00d3N Y SEXO",
       "url": "https://open.spotify.com/track/4pjkZyNZnOJEPpBmzOqTC2"
+    },
+    {
+      "album": {
+        "name": "Pasos de Gigante",
+        "url": "https://open.spotify.com/album/1JOTuUeS0vPrVJXIC1V2ls"
+      },
+      "artists": [
+        {
+          "name": "NEOSKIT",
+          "url": "https://open.spotify.com/artist/7nCIla6wCm4KeW4RgGgr1H"
+        },
+        {
+          "name": "Oplus",
+          "url": "https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149906,
+      "name": "Pasos de Gigante",
+      "url": "https://open.spotify.com/track/62puINZE2nJRVs9G4eDrqE"
     },
     {
       "album": {
@@ -46722,7 +46822,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203921,
       "name": "R\u00edo De Janeiro",
       "url": "https://open.spotify.com/track/15t4fsrqnd5uL361MdnTrA"
@@ -50040,6 +50140,32 @@
       "duration_ms": 207904,
       "name": "SOXE",
       "url": "https://open.spotify.com/track/0IwaDlPryK2x8SH0ArH03T"
+    },
+    {
+      "album": {
+        "name": "SOY MEJOR 2.0",
+        "url": "https://open.spotify.com/album/0fFEVpZeqiwDXNThou56Lc"
+      },
+      "artists": [
+        {
+          "name": "Kristina",
+          "url": "https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "SOY MEJOR 2.0",
+      "url": "https://open.spotify.com/track/0rBmgEXrNfd0Qa9xEDvn6X"
     },
     {
       "album": {
@@ -53978,6 +54104,28 @@
       "duration_ms": 137506,
       "name": "Tremendo Cul\u00f3n",
       "url": "https://open.spotify.com/track/1AW667mty3vPYS8niQFCYo"
+    },
+    {
+      "album": {
+        "name": "Tremendo Desastre",
+        "url": "https://open.spotify.com/album/6SO08tJ1GFnMqzXLzA9E3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Tremendo Desastre",
+      "url": "https://open.spotify.com/track/55iSVA6k6fDtFMK98XKy7w"
     },
     {
       "album": {

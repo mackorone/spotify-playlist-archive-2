@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,042 likes - 44 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,066 likes - 44 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,33 +24,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 14 | [Dead Butterflies](https://open.spotify.com/track/2XdcUAsMCuNMaWLmXIhdjW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:02 |
 | 15 | [Broken Mirror](https://open.spotify.com/track/44TUJhvq8ZSoIO1AzpD6X7) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:10 |
 | 16 | [Nihilist](https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 2:51 |
-| 17 | [Holy Hell](https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 |
+| 17 | [burn down my house](https://open.spotify.com/track/28JmHQGrdLAkfIisdMsD1g) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/50H17CcYxdWF0jwNYrVPvl) | 4:19 |
 | 18 | [Meteor](https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:01 |
 | 19 | [Everything Ends](https://open.spotify.com/track/3yC1soClolbb2jFH7XIPqd) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:40 |
 | 20 | [A Match Made in Heaven](https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:48 |
-| 21 | [burn down my house](https://open.spotify.com/track/28JmHQGrdLAkfIisdMsD1g) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/50H17CcYxdWF0jwNYrVPvl) | 4:19 |
+| 21 | [Holy Hell](https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 |
 | 22 | [Giving Blood](https://open.spotify.com/track/5OVb8VkoO9ZYG64ngOPZpW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:32 |
 | 23 | [Whiplash](https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:46 |
 | 24 | [Gravedigger](https://open.spotify.com/track/6n5njQ1hPrRVjBtlYNQtgu) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:05 |
 | 25 | [Death Is Not Defeat](https://open.spotify.com/track/7xpfgUe2sxoBx7CFygbTPg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 3:45 |
 | 26 | [Gravity](https://open.spotify.com/track/2oawNCxcTGKXlCtO6qSbdg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:18 |
-| 27 | [doomscrolling](https://open.spotify.com/track/12lkUbhW7B4dZ46xHoT9Sj) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:21 |
+| 27 | [tear gas](https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:17 |
 | 28 | [Naysayer](https://open.spotify.com/track/7l1aujAcBQWpG1nHKOxPGe) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 3:25 |
 | 29 | [Mortal After All](https://open.spotify.com/track/1rMGbnh7zWGs8ME0mbuVai) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 3:39 |
 | 30 | [Deathwish](https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:52 |
 | 31 | [These Colours Don't Run](https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:01 |
-| 32 | [tear gas](https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:17 |
-| 33 | [Broken Cross](https://open.spotify.com/track/4b7oCl6v6kyH10igobXEuy) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 3:52 |
+| 32 | [Broken Cross](https://open.spotify.com/track/4b7oCl6v6kyH10igobXEuy) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 3:52 |
+| 33 | [doomscrolling](https://open.spotify.com/track/7rlzstow91FQCA9EQX0d61) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/50H17CcYxdWF0jwNYrVPvl) | 4:21 |
 | 34 | [Downfall](https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 4:04 |
 | 35 | [Hollow Crown](https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 4:24 |
-| 36 | [a new moral low ground](https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:31 |
-| 37 | [Red Hypergiant](https://open.spotify.com/track/6dYxCJDZtOVSaRAKFe8NRZ) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 2:13 |
+| 36 | [Red Hypergiant](https://open.spotify.com/track/6dYxCJDZtOVSaRAKFe8NRZ) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 2:13 |
+| 37 | [a new moral low ground](https://open.spotify.com/track/12wfWxVOLJSDBOSYecB7Fh) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/50H17CcYxdWF0jwNYrVPvl) | 3:31 |
 | 38 | [Alpha Omega](https://open.spotify.com/track/4Upj7Dz6tu1HBeIZfziOlE) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:55 |
 | 39 | [Early Grave](https://open.spotify.com/track/4soE6F9djLRl3OwQyKd3p2) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 3:32 |
-| 40 | [Learn to Live](https://open.spotify.com/track/65a0TZb4oPjLeeuD1BAK1L) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 4:01 |
-| 41 | [C.A.N.C.E.R](https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:19 |
+| 40 | [Dead Man Talking](https://open.spotify.com/track/0r6jN06i84ulsRkf9oSZo4) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:04 |
+| 41 | [Learn to Live](https://open.spotify.com/track/65a0TZb4oPjLeeuD1BAK1L) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 4:01 |
 | 42 | [Daybreak](https://open.spotify.com/track/1ARkHSVKsDO1RWu2vedbpm) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:32 |
-| 43 | [Dead Man Talking](https://open.spotify.com/track/0r6jN06i84ulsRkf9oSZo4) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:04 |
+| 43 | [C.A.N.C.E.R](https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:19 |
 | 44 | [Even If You Win, You're Still A Rat](https://open.spotify.com/track/1YSmJJ1RRy9pOGgZHwyvhW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:12 |
 
-Snapshot ID: `avpHgAAAAABAwD37Dh0BiwA1ZiA52ZP4`
+Snapshot ID: `avzqgAAAAAALxMkc+bqFildora3/OzPg`

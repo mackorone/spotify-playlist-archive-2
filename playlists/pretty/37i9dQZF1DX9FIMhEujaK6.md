@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,984 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,998 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 19 | [Could Have Been So Good](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Could Have Been So Good](https://open.spotify.com/album/0TSPTOLyYN00EZ74iQelK8) | 3:26 |
 | 20 | [Piece Of Me](https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Piece Of Me](https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO) | 3:09 |
 | 21 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 |
-| 22 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
-| 23 | [Neverender \- Rampa Remix](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Neverender \(Rampa Remix\)](https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa) | 6:24 |
+| 22 | [Neverender \- Rampa Remix](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Neverender \(Rampa Remix\)](https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa) | 6:24 |
+| 23 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
 | 24 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 |
 | 25 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 26 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 50 | [Imvula](https://open.spotify.com/track/3ARs1fCLhABEhNUvfKtARl) | [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Imvula](https://open.spotify.com/album/6umAcziJrSVyBsr50QqUZ9) | 4:32 |
 
-Snapshot ID: `AAAAAKddiWPyIryVYQZe5pMi64/ZBmh8`
+Snapshot ID: `AAAAANTvdDVakcDBIt/h+6PLKFC14nca`

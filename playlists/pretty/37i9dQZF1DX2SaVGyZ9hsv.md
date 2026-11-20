@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain]
 
 > Congratulations to all the artists nominated for Best New Artist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,672 likes - 16 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,814 likes - 16 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain]
 | 15 | [Chauffeur](https://open.spotify.com/track/1GosGdVsIzagjlsrvD6Ffy) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [The Womack Sisters](https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh) | 4:36 |
 | 16 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 |
 
-Snapshot ID: `AAAAAMafXllGJKX71mnPD4YhXvkZJrZ+`
+Snapshot ID: `AAAAAHhx+6Uu+XuiGu6TbvN4/LA2J3Nz`

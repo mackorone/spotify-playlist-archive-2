@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 
 > 50 stops, one continent, grab your pass
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,245 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,268 likes - 58 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 57 | [Limpopo](https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Take Over](https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU) | 4:13 |
 | 58 | [Congo](https://open.spotify.com/track/4S1FXtwJkdsw4JxNOmFaod) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6JF0zNJ7n8aCE8K9Zmgmw7) | 3:44 |
 
-Snapshot ID: `AAAAACju3Z9FH8fPyTqJ1p9xgR7r9Fk0`
+Snapshot ID: `AAAAABs3H8ZqbWGa3rQqEm/RdAQ/Y57y`

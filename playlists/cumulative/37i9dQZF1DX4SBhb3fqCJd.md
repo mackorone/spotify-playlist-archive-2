@@ -2,9 +2,9 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Snoh Aalegra
+> Where R&B lives\. Cover: Leon Thomas
 
-910 songs - 2 day 2 hr 52 min
+912 songs - 2 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [8](https://open.spotify.com/track/17fMdv2JY435A1naCGTtby) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:30 | 2024-06-21 | 2024-08-28 |
 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 | 2025-11-14 | 2026-06-05 |
 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 | 2024-11-08 | 2024-11-23 |
-| [Accuse Me](https://open.spotify.com/track/0BXnPAxnP7xytdQ4doCMqq) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Mood 2](https://open.spotify.com/album/2x4Hsr0LNdwJWXKo9Li0IY) | 3:36 | 2026-07-31 |  |
+| [Accuse Me](https://open.spotify.com/track/0BXnPAxnP7xytdQ4doCMqq) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Mood 2](https://open.spotify.com/album/2x4Hsr0LNdwJWXKo9Li0IY) | 3:36 | 2026-07-31 | 2026-11-20 |
 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 | 2025-08-22 | 2026-02-07 |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-12 | 2024-03-09 |
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-08 | 2024-06-01 |
@@ -231,11 +231,13 @@
 | [Fall Apart,](https://open.spotify.com/track/21byfhwYAw4fxV2iq7iAdN) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:06 | 2025-05-09 | 2025-05-17 |
 | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY) | 4:26 | 2026-05-01 | 2026-05-09 |
 | [Falling For You](https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Falling For You](https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm) | 3:19 | 2022-11-11 | 2023-01-21 |
+| [Fast Asleep](https://open.spotify.com/track/4EMW9BdGJ8avDfuab1ostA) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Fast Asleep](https://open.spotify.com/album/3W4zbFnTRn0dUvkzm8HjLd) | 3:00 | 2026-11-20 |  |
 | [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 | 2023-03-25 |
 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 | 2024-08-09 | 2025-01-18 |
 | [Favourite T\-Shirt](https://open.spotify.com/track/3j527NXpjd10gAnwigbdP5) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3two](https://open.spotify.com/album/4TvpmzHgr2UqniQChY2dxn) | 2:56 | 2026-11-06 |  |
 | [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 | 2024-11-01 | 2025-04-05 |
 | [Feature Me](https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:21 | 2022-12-16 | 2023-05-20 |
+| [Feel Alright](https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Feel Alright](https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF) | 3:49 | 2026-11-20 |  |
 | [FEEL SOMETHING](https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW) | 2:32 | 2025-06-27 | 2025-07-26 |
 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 | 2023-09-29 | 2024-03-23 |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-11 | 2022-05-07 |
@@ -697,7 +699,7 @@
 | [She](https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [She](https://open.spotify.com/album/2bQgSIFWTdcBZngvgSzIo0) | 2:36 | 2026-01-09 | 2026-03-07 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 | 2022-12-10 |
 | [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-09 | 2023-04-15 |
-| [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:06 | 2026-04-24 |  |
+| [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:06 | 2026-04-24 | 2026-11-20 |
 | [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 | 2024-11-15 | 2024-12-21 |
 | [Side Effects](https://open.spotify.com/track/2mSdn53xu9DuJ7RBY8efTn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:53 | 2026-08-07 | 2026-08-15 |
 | [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 | 2023-03-03 | 2023-03-18 |

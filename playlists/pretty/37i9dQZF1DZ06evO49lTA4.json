@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 954986,
+  "num_followers": 955101,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABZQK2riL6gdYYB4cxzIAjW",
+  "snapshot_id": "avzqgAAAAAD/wPjE63snS5CaqEn5bBTI",
   "tracks": [
     {
       "added_at": null,
@@ -619,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Prequel",
-        "url": "https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs"
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
       "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 221711,
-      "name": "Days Like These",
-      "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
+      "duration_ms": 126000,
+      "name": "Pray Hard (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD"
     },
     {
       "added_at": null,
@@ -655,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Commentary Version)",
-        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+        "name": "The Prequel",
+        "url": "https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs"
       },
       "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Pray Hard (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD"
+      "duration_ms": 221711,
+      "name": "Days Like These",
+      "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
     },
     {
       "added_at": null,

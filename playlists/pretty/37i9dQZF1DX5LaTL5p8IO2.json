@@ -1,12 +1,12 @@
 {
   "description": "Anime songs for a good-vibes drive. Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 936,
+  "num_followers": 1112,
   "original_name": "Anime Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMBGYnvZfVDUtLA7GSaVgHvtzqwx",
+  "snapshot_id": "AAAAAM+brvD6A6lOhsYneVhjeXhDurXn",
   "tracks": [
     {
       "added_at": "2026-11-13 07:39:42",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
+        "name": "LEO-NiNE",
+        "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "\u7d05\u84ee\u83ef",
+      "url": "https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre"
+    },
+    {
+      "added_at": "2026-11-13 07:39:42",
+      "album": {
         "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
-        "name": "LEO-NiNE",
-        "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
       },
       "artists": [
         {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 237586,
-      "name": "\u7d05\u84ee\u83ef",
-      "url": "https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre"
+      "duration_ms": 233857,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN"
     },
     {
       "added_at": "2026-11-13 07:39:42",
@@ -431,22 +447,6 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
-        "name": "THE GREATEST UNKNOWN",
-        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 233857,
-      "name": "SPECIALZ",
-      "url": "https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN"
-    },
-    {
-      "added_at": "2026-11-13 07:39:42",
-      "album": {
         "name": "Abyss (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 123293,
       "name": "Abyss - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
-    },
-    {
-      "added_at": "2026-11-13 07:39:42",
-      "album": {
-        "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
-        "url": "https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
-      "url": "https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT"
     },
     {
       "added_at": "2026-11-13 07:39:42",
@@ -495,22 +479,18 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
-        "name": "\u7d46\u30ce\u5947\u8de1",
-        "url": "https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s"
+        "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
+        "url": "https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1"
       },
       "artists": [
         {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        },
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 223320,
-      "name": "\u7d46\u30ce\u5947\u8de1",
-      "url": "https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis"
+      "duration_ms": 212546,
+      "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
+      "url": "https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT"
     },
     {
       "added_at": "2026-11-13 07:39:42",
@@ -527,6 +507,26 @@
       "duration_ms": 190606,
       "name": "\u4e00\u9014",
       "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+    },
+    {
+      "added_at": "2026-11-13 07:39:42",
+      "album": {
+        "name": "\u7d46\u30ce\u5947\u8de1",
+        "url": "https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        },
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 223320,
+      "name": "\u7d46\u30ce\u5947\u8de1",
+      "url": "https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis"
     },
     {
       "added_at": "2026-11-13 07:39:42",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
-        "name": "\u30af\u30b9\u30b7\u30ad",
-        "url": "https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 188348,
-      "name": "\u30af\u30b9\u30b7\u30ad",
-      "url": "https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O"
-    },
-    {
-      "added_at": "2026-11-13 07:39:42",
-      "album": {
         "name": "GO GHOST",
         "url": "https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 170100,
       "name": "GO GHOST",
       "url": "https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB"
+    },
+    {
+      "added_at": "2026-11-13 07:39:42",
+      "album": {
+        "name": "\u30af\u30b9\u30b7\u30ad",
+        "url": "https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 188348,
+      "name": "\u30af\u30b9\u30b7\u30ad",
+      "url": "https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O"
     },
     {
       "added_at": "2026-11-13 07:39:42",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "Wild Side",
-      "url": "https://open.spotify.com/track/2RSPQJ483jRL1KNtMuKqgh"
-    },
-    {
-      "added_at": "2026-11-13 07:39:42",
-      "album": {
         "name": "\u6d88\u3048\u306a\u3044\u7406\u7531",
         "url": "https://open.spotify.com/album/69GUXMqIsG12AEYIg5Uy7R"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 249243,
       "name": "\u6d88\u3048\u306a\u3044\u7406\u7531",
       "url": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx"
+    },
+    {
+      "added_at": "2026-11-13 07:39:42",
+      "album": {
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/2RSPQJ483jRL1KNtMuKqgh"
     },
     {
       "added_at": "2026-11-13 07:39:42",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
-        "name": "\u87ba\u65cb - RASEN",
-        "url": "https://open.spotify.com/album/0i1YOAjHzr0X8sqJ9l9vx3"
-      },
-      "artists": [
-        {
-          "name": "9Lana",
-          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
-        }
-      ],
-      "duration_ms": 190421,
-      "name": "\u87ba\u65cb - RASEN",
-      "url": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
-    },
-    {
-      "added_at": "2026-11-13 07:39:42",
-      "album": {
         "name": "Q.E.D",
         "url": "https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 224213,
       "name": "\u30dd\u30e9\u30ea\u30b9",
       "url": "https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8"
+    },
+    {
+      "added_at": "2026-11-13 07:39:42",
+      "album": {
+        "name": "\u87ba\u65cb - RASEN",
+        "url": "https://open.spotify.com/album/0i1YOAjHzr0X8sqJ9l9vx3"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "duration_ms": 190421,
+      "name": "\u87ba\u65cb - RASEN",
+      "url": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
     },
     {
       "added_at": "2026-11-13 07:39:42",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
-        "name": "10th Anniversary Best BLUE",
-        "url": "https://open.spotify.com/album/5ICk0OLUFbZxRFZKLfUF15"
-      },
-      "artists": [
-        {
-          "name": "Aqua Timez",
-          "url": "https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "ALONES",
-      "url": "https://open.spotify.com/track/59COuEJRBxGGGCo6BIQ2lL"
-    },
-    {
-      "added_at": "2026-11-13 07:39:42",
-      "album": {
         "name": "\u30b5\u30f3\u30dc\u30de\u30b9\u30bf\u30fc\u306f\u541b\u306b\u8a9e\u308a\u304b\u3051\u308b",
         "url": "https://open.spotify.com/album/7jOQKynuTihfn4eDgwhAav"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 203626,
       "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts"
+    },
+    {
+      "added_at": "2026-11-13 07:39:42",
+      "album": {
+        "name": "10th Anniversary Best BLUE",
+        "url": "https://open.spotify.com/album/5ICk0OLUFbZxRFZKLfUF15"
+      },
+      "artists": [
+        {
+          "name": "Aqua Timez",
+          "url": "https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "ALONES",
+      "url": "https://open.spotify.com/track/59COuEJRBxGGGCo6BIQ2lL"
     },
     {
       "added_at": "2026-11-13 07:39:42",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
-        "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0"
-      },
-      "artists": [
-        {
-          "name": "QUEEN BEE",
-          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
-      "url": "https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG"
-    },
-    {
-      "added_at": "2026-11-13 07:39:42",
-      "album": {
         "name": "\u30a6\u30a3\u30fc\u30a2\u30fc! (TV\u30a2\u30cb\u30e1\u300eONE PIECE\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de)",
         "url": "https://open.spotify.com/album/2vcNw2eDoavdqNTPVZ8T6u"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 241933,
       "name": "\u30a6\u30a3\u30fc\u30a2\u30fc!",
       "url": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
+    },
+    {
+      "added_at": "2026-11-13 07:39:42",
+      "album": {
+        "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0"
+      },
+      "artists": [
+        {
+          "name": "QUEEN BEE",
+          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG"
     },
     {
       "added_at": "2026-11-13 07:39:42",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
-        "name": "\u8d70\u308cSAKAMOTO",
-        "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 205984,
-      "name": "\u8d70\u308cSAKAMOTO",
-      "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
-    },
-    {
-      "added_at": "2026-11-13 07:39:42",
-      "album": {
         "name": "VIVID VICE",
         "url": "https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 185173,
       "name": "VIVID VICE",
       "url": "https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo"
+    },
+    {
+      "added_at": "2026-11-13 07:39:42",
+      "album": {
+        "name": "\u8d70\u308cSAKAMOTO",
+        "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 205984,
+      "name": "\u8d70\u308cSAKAMOTO",
+      "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
     },
     {
       "added_at": "2026-11-13 07:39:42",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
+        "name": "\uff0a\u301c\u30a2\u30b9\u30bf\u30ea\u30b9\u30af\u301c",
+        "url": "https://open.spotify.com/album/3pkS4JGRAhXDI9kc9OouPH"
+      },
+      "artists": [
+        {
+          "name": "ORANGE RANGE",
+          "url": "https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "\uff0a\u301c\u30a2\u30b9\u30bf\u30ea\u30b9\u30af\u301c",
+      "url": "https://open.spotify.com/track/6MKOd8KDFzwpu8Vz6ccZU5"
+    },
+    {
+      "added_at": "2026-11-13 07:39:42",
+      "album": {
         "name": "LEveL",
         "url": "https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL"
       },
@@ -1619,34 +1635,18 @@
     {
       "added_at": "2026-11-13 07:39:42",
       "album": {
-        "name": "\uff0a\u301c\u30a2\u30b9\u30bf\u30ea\u30b9\u30af\u301c",
-        "url": "https://open.spotify.com/album/3pkS4JGRAhXDI9kc9OouPH"
+        "name": "ROAD OF MAJOR II",
+        "url": "https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh"
       },
       "artists": [
         {
-          "name": "ORANGE RANGE",
-          "url": "https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD"
+          "name": "Road Of Major",
+          "url": "https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ"
         }
       ],
-      "duration_ms": 255906,
-      "name": "\uff0a\u301c\u30a2\u30b9\u30bf\u30ea\u30b9\u30af\u301c",
-      "url": "https://open.spotify.com/track/6MKOd8KDFzwpu8Vz6ccZU5"
-    },
-    {
-      "added_at": "2026-11-13 07:39:42",
-      "album": {
-        "name": "Honey & Darling",
-        "url": "https://open.spotify.com/album/3IuxHkC9II53tjmZCIRwsL"
-      },
-      "artists": [
-        {
-          "name": "KANA-BOON",
-          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "\u30b9\u30bf\u30fc\u30de\u30fc\u30ab\u30fc (Album Mix)",
-      "url": "https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj"
+      "duration_ms": 261833,
+      "name": "\u5fc3\u7d75",
+      "url": "https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM"
     }
   ],
   "unique_name": "Anime Drive",

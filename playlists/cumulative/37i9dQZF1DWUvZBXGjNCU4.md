@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-441 songs - 19 hr 43 min
+442 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Renascer](https://open.spotify.com/track/52G5BtKvxEZ7DdfgiOdQTz) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Renascer](https://open.spotify.com/album/7k5IGzWriBule5D6Guze1h) | 3:33 | 2024-11-06 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-05-13 | 2025-11-25 |
 | [Reunited](https://open.spotify.com/track/6eirYUJx3GarqrbDhgc51B) | [Daniel Fernando](https://open.spotify.com/artist/7KxUzzHsRoyRrtGMkYnH6y) | [Reunited](https://open.spotify.com/album/1WeMb5lu8JhRQrfNH4311X) | 3:02 | 2022-05-13 | 2023-02-25 |
+| [Ribera](https://open.spotify.com/track/4GOZ3IkuApQ33LqMexoRXw) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Ribera](https://open.spotify.com/album/0QKnyd3yz0UeNG9i1uFBjQ) | 2:19 | 2026-11-20 |  |
 | [River Rhythms](https://open.spotify.com/track/1PVI5vyuXGgwuwuVtQtQ19) | [Moon Guitar](https://open.spotify.com/artist/2nvKK4Tioprvfztd0hbEQz) | [River Rhythms](https://open.spotify.com/album/6yXITwIBbRsqDycc1ZS1aA) | 3:03 | 2024-05-24 |  |
 | [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 | 2023-09-29 |
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2022-05-13 | 2023-09-16 |

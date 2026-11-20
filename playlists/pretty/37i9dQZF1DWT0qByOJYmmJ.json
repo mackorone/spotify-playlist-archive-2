@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n. Pehuenche, Renee Mooi en portada. ",
-  "num_followers": 625979,
+  "num_followers": 625943,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPDbRx1sKAI807hzlHzXZ4f0qegN",
+  "snapshot_id": "AAAAALl4yL4Y87Qz6sdDXlMZdLBk/07Z",
   "tracks": [
     {
       "added_at": "2026-11-06 06:00:06",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/7As2uajQWSH8qFF2ap478f"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "duration_ms": 113731,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/1i2m41I4XACAvzTKdWbGMe"
+    },
+    {
+      "added_at": "2026-11-06 06:00:06",
+      "album": {
         "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
         "url": "https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 141829,
       "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
       "url": "https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4"
-    },
-    {
-      "added_at": "2026-11-06 06:00:06",
-      "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/7As2uajQWSH8qFF2ap478f"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        }
-      ],
-      "duration_ms": 113731,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/1i2m41I4XACAvzTKdWbGMe"
     },
     {
       "added_at": "2026-11-06 06:00:06",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
-        "name": "Ni Modo",
-        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 185582,
-      "name": "Ni Modo",
-      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
-    },
-    {
-      "added_at": "2026-11-06 06:00:06",
-      "album": {
         "name": "Parada Obligatoria (1ra Parada)",
         "url": "https://open.spotify.com/album/2egjoQlWOOcvoUu0YwDfJt"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 210166,
       "name": "Un poema duerme en mi cama",
       "url": "https://open.spotify.com/track/4gP1fhi83i8ZITpokd9vqj"
+    },
+    {
+      "added_at": "2026-11-06 06:00:06",
+      "album": {
+        "name": "Ni Modo",
+        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 185582,
+      "name": "Ni Modo",
+      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
     },
     {
       "added_at": "2026-11-06 06:00:06",

@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Lançamentos 100% rock brasileiro\. Foto: Zander
+> Lançamentos 100% rock brasileiro\. Foto: Nação Zumbi
 
-710 songs - 1 day 15 hr 38 min
+711 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [Rico de Felicidade](https://open.spotify.com/track/6J09bDqLKudm9fjcbzC1Z0) | [Aliados](https://open.spotify.com/artist/5SYOxHCgu3aAfGMJ2RcP3w) | [Rico de Felicidade](https://open.spotify.com/album/4ddtUV4pKaz3v9UPUl362M) | 2:23 | 2023-03-10 | 2023-05-20 |
 | [Rinoceronte](https://open.spotify.com/track/6NEOZ30uXiSutCh3ax2KE3) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Rinoceronte](https://open.spotify.com/album/0PcIqZqVzfpPfUNgw39tJe) | 2:22 | 2022-01-14 | 2022-02-19 |
 | [Riviera](https://open.spotify.com/track/13phqE4EQ4GYAIHuCvDm5r) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Riviera](https://open.spotify.com/album/2pJk47ybCzhOXMLQZyzBiN) | 3:04 | 2023-03-10 | 2023-07-15 |
+| [Rock de Preto](https://open.spotify.com/track/3bfkJXswPgpg7mn5fmoq3V) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5), [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Rock de Preto](https://open.spotify.com/album/3YpkO8zAwrI9tXjtPMK31I) | 3:50 | 2026-11-20 |  |
 | [Roda de Samba](https://open.spotify.com/track/76w8SddmizXDzaWPbjIReN) | [Machete Bomb](https://open.spotify.com/artist/0BjJ3oYFwa2SUn567mGSOQ), [Thestrow](https://open.spotify.com/artist/6g4hzSCDDvT32K7MHCAgZh), [Fred 04](https://open.spotify.com/artist/5A2086GuTCtARHKB1mvAB7), [Niko Kamada](https://open.spotify.com/artist/6cxbSvqARgOPBGsfTrrZux), [Alienação Afrofuturista](https://open.spotify.com/artist/6SDw7meBBAwiwI92SnXZ77), [Lúcio Maia](https://open.spotify.com/artist/0uu17DoK7kT8DWzO9CLA5O), [Japa System](https://open.spotify.com/artist/22wEDxjZ5uSSfU9VrU8ztS) | [Roda de Samba](https://open.spotify.com/album/33rrMRMSOpe8SeiG0ugeLN) | 3:37 | 2023-02-10 | 2023-03-03 |
 | [Roda\-Gigante](https://open.spotify.com/track/7sf5EbnQmdnquPK4QHgWBB) | [Apogeu](https://open.spotify.com/artist/3gIiQTWpVsPjN9eDH87McO) | [Roda\-Gigante](https://open.spotify.com/album/6ogZiN0RomEbtPyzdqKCHG) | 2:36 | 2022-11-11 | 2023-01-14 |
 | [Rooster](https://open.spotify.com/track/7ijmX7o4MB06LDVVcuohlI) | [M E R O S](https://open.spotify.com/artist/0R3t9mt5muhJ7qz1GYCI8V), [Mary More](https://open.spotify.com/artist/3dgU4WsBT8vFw7cXp7bJ8j), [Gui Caiaffa](https://open.spotify.com/artist/4daN2VfmiAdcN1qPH29ad3) | [ROOSTER](https://open.spotify.com/album/5G7RZtH50aoKXWrzx8TvPL) | 4:57 | 2022-11-11 | 2023-04-09 |

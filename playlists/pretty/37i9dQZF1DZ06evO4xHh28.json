@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 651558,
+  "num_followers": 651713,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAAAyqlbjApH7nSydkJcdvJ+3",
+  "snapshot_id": "avzqgAAAAABuMWeAqHmOO8y1m8FNPXYi",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 295000,
-      "name": "Disenchanted",
-      "url": "https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP"
+      "duration_ms": 142973,
+      "name": "Cancer",
+      "url": "https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 142973,
-      "name": "Cancer",
-      "url": "https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG"
+      "duration_ms": 295000,
+      "name": "Disenchanted",
+      "url": "https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Black Parade (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M2QW8nne81nwIX7pBCk2U"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 175508,
+      "name": "Heaven Help Us",
+      "url": "https://open.spotify.com/track/1umoCo2qOM7SWnlWf5rQ98"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life on the Murder Scene",
         "url": "https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Parade: The B-Sides",
-        "url": "https://open.spotify.com/album/3WEwomTOJHNRGZggBfCeGX"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "Heaven Help Us",
-      "url": "https://open.spotify.com/track/6rlnljojqC42vtUeixpFAg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Famous Last Words",
         "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 178448,
       "name": "My Way Home Is Through You",
       "url": "https://open.spotify.com/track/5HmSNijgNQ9xUmVfCyPjHJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2BwLNBvOz645zoeqSzSmZR"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 166514,
+      "name": "Zero Percent - 2026 Remaster",
+      "url": "https://open.spotify.com/track/2jUNCiNzwuX19VViTHHaZH"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 257120,
       "name": "Burn Bright",
       "url": "https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2BwLNBvOz645zoeqSzSmZR"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 166514,
-      "name": "Zero Percent - 2026 Remaster",
-      "url": "https://open.spotify.com/track/2jUNCiNzwuX19VViTHHaZH"
     },
     {
       "added_at": null,

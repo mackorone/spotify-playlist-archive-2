@@ -1,12 +1,12 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 339319,
+  "num_followers": 339310,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGFgpFZNO7KRUlrDgPkRHxu44RKH",
+  "snapshot_id": "AAAAAMyvBxrgPFqjWNykXF6ndReEsjLg",
   "tracks": [
     {
       "added_at": "2025-02-14 16:04:15",
@@ -611,6 +611,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Infinite Icon",
         "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
       },
@@ -631,22 +651,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+        "name": "It's A Hard Knock Life (Prezioso Remix)",
+        "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
       },
       "artists": [
         {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
         },
         {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
         }
       ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+      "duration_ms": 149788,
+      "name": "It's A Hard Knock Life - Prezioso Remix",
+      "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -683,26 +703,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "It's A Hard Knock Life (Prezioso Remix)",
-        "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
-      },
-      "artists": [
-        {
-          "name": "D.T.E",
-          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        }
-      ],
-      "duration_ms": 149788,
-      "name": "It's A Hard Knock Life - Prezioso Remix",
-      "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 171904,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "She Wolf (Falling to Pieces)",
-        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
-      },
-      "artists": [
-        {
-          "name": "YES YES",
-          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
-        }
-      ],
-      "duration_ms": 171028,
-      "name": "She Wolf (Falling to Pieces)",
-      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -779,6 +763,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "She Wolf (Falling to Pieces)",
+        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
+      },
+      "artists": [
+        {
+          "name": "YES YES",
+          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
+        }
+      ],
+      "duration_ms": 171028,
+      "name": "She Wolf (Falling to Pieces)",
+      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
       },
@@ -823,26 +823,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Better Place - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
       },
@@ -863,6 +843,46 @@
       "duration_ms": 172500,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Better Place - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
+      },
+      "artists": [
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        },
+        {
+          "name": "RED5",
+          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -911,26 +931,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
-      },
-      "artists": [
-        {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        },
-        {
-          "name": "RED5",
-          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Outta Love",
         "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
       },
@@ -971,26 +971,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Heaven (feat. Sofia Quinn)",
-        "url": "https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg"
+        "name": "We Ride (feat. Teddy Bee)",
+        "url": "https://open.spotify.com/album/3yKdq0HWKiF25WjWAqTUAK"
       },
       "artists": [
         {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
         },
         {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        },
-        {
-          "name": "Sofia Quinn",
-          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
+          "name": "Teddy Bee",
+          "url": "https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Heaven (feat. Sofia Quinn)",
-      "url": "https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl"
+      "duration_ms": 148571,
+      "name": "We Ride (feat. Teddy Bee)",
+      "url": "https://open.spotify.com/track/5Owz0Wkb3XgaADAm6dEr2O"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1019,22 +1015,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "We Ride (feat. Teddy Bee)",
-        "url": "https://open.spotify.com/album/3yKdq0HWKiF25WjWAqTUAK"
+        "name": "Heaven (feat. Sofia Quinn)",
+        "url": "https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg"
       },
       "artists": [
         {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
         },
         {
-          "name": "Teddy Bee",
-          "url": "https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD"
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        },
+        {
+          "name": "Sofia Quinn",
+          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
         }
       ],
-      "duration_ms": 148571,
-      "name": "We Ride (feat. Teddy Bee)",
-      "url": "https://open.spotify.com/track/5Owz0Wkb3XgaADAm6dEr2O"
+      "duration_ms": 171000,
+      "name": "Heaven (feat. Sofia Quinn)",
+      "url": "https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1195,22 +1195,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Pop Off (feat. Lost Boy)",
-        "url": "https://open.spotify.com/album/0kTaLBMa8idvVsB26NVtoV"
+        "name": "Fire To Smoke (feat. Tiffany Aris)",
+        "url": "https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW"
       },
       "artists": [
         {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
         },
         {
-          "name": "Lost Boy",
-          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
         }
       ],
-      "duration_ms": 146250,
-      "name": "Pop Off (feat. Lost Boy)",
-      "url": "https://open.spotify.com/track/1TEOk7DJAMfE3uadgJgTZ8"
+      "duration_ms": 163450,
+      "name": "Fire To Smoke (feat. Tiffany Aris)",
+      "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
     }
   ],
   "unique_name": "SLAP!",

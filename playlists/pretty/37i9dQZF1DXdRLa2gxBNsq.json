@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium con Soziedad Alkoholika.",
-  "num_followers": 117823,
+  "num_followers": 117836,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGKcItNkMWY2j/QH8LNHoSv+2LsR",
+  "snapshot_id": "AAAAAIOozndQuIi5AAtvGtAZiZzeIuP3",
   "tracks": [
     {
       "added_at": "2026-10-29 23:01:13",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-10-29 23:01:13",
       "album": {
-        "name": "Todos Amigos",
-        "url": "https://open.spotify.com/album/3PiCN0yijn6k2p1EGzhNLr"
-      },
-      "artists": [
-        {
-          "name": "Laura Dsk",
-          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
-        }
-      ],
-      "duration_ms": 207265,
-      "name": "Disp\u00e1rame",
-      "url": "https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn"
-    },
-    {
-      "added_at": "2026-10-29 23:01:13",
-      "album": {
         "name": "No Olvidamos, 3 de Marzo - Single",
         "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
@@ -839,18 +823,34 @@
     {
       "added_at": "2026-10-29 23:01:13",
       "album": {
-        "name": "Los Chicos No Est\u00e1n Bien",
-        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
+        "name": "Todos Amigos",
+        "url": "https://open.spotify.com/album/3PiCN0yijn6k2p1EGzhNLr"
       },
       "artists": [
         {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+          "name": "Laura Dsk",
+          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
         }
       ],
-      "duration_ms": 202488,
-      "name": "Los Chicos No Est\u00e1n Bien",
-      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
+      "duration_ms": 207265,
+      "name": "Disp\u00e1rame",
+      "url": "https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn"
+    },
+    {
+      "added_at": "2026-10-29 23:01:13",
+      "album": {
+        "name": "Rico deprimido (XX5)",
+        "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
+      },
+      "artists": [
+        {
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+        }
+      ],
+      "duration_ms": 205696,
+      "name": "Rico deprimido - XX5",
+      "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
     },
     {
       "added_at": "2026-10-29 23:01:13",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-10-29 23:01:13",
       "album": {
-        "name": "Rico deprimido (XX5)",
-        "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
+        "name": "Los Chicos No Est\u00e1n Bien",
+        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
       },
       "artists": [
         {
-          "name": "Kaotiko",
-          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
         }
       ],
-      "duration_ms": 205696,
-      "name": "Rico deprimido - XX5",
-      "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
+      "duration_ms": 202488,
+      "name": "Los Chicos No Est\u00e1n Bien",
+      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
     },
     {
       "added_at": "2026-10-29 23:01:13",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-10-29 23:01:13",
       "album": {
-        "name": "Tiempos Oscuros",
-        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Piedra Contra Tijera",
-      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
-    },
-    {
-      "added_at": "2026-10-29 23:01:13",
-      "album": {
         "name": "Por Volverte a Ver (Versi\u00f3n 2026)",
         "url": "https://open.spotify.com/album/0Nh6NEzcwN7dnbZ8EhC2YW"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 218804,
       "name": "Por Volverte a Ver - Versi\u00f3n 2026",
       "url": "https://open.spotify.com/track/0l7p3cd5rRhH15jo2efFNb"
+    },
+    {
+      "added_at": "2026-10-29 23:01:13",
+      "album": {
+        "name": "Tiempos Oscuros",
+        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Piedra Contra Tijera",
+      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
     },
     {
       "added_at": "2026-10-29 23:01:13",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-29 23:01:13",
       "album": {
-        "name": "Control de Masas",
-        "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 221144,
-      "name": "Control de Masas",
-      "url": "https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4"
-    },
-    {
-      "added_at": "2026-10-29 23:01:13",
-      "album": {
         "name": "Humo",
         "url": "https://open.spotify.com/album/2ruESohGqLboa07L3xpBXG"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 228000,
       "name": "Humo",
       "url": "https://open.spotify.com/track/4TgiuHbWo5fc3rJCs8Km3L"
+    },
+    {
+      "added_at": "2026-10-29 23:01:13",
+      "album": {
+        "name": "Control de Masas",
+        "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 221144,
+      "name": "Control de Masas",
+      "url": "https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4"
     },
     {
       "added_at": "2026-10-29 23:01:13",

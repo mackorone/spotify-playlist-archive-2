@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Star Moles
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,698 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,827 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 74 | [do it all again](https://open.spotify.com/track/4enHJ0j1nu3GBK27c4Lg3x) | [Lillian Faye](https://open.spotify.com/artist/6vDTCTyymWOAhtBfwbvjzR) | [do it all again](https://open.spotify.com/album/0x4Uxhe0ECVjGhVCw499M0) | 3:49 |
 | 75 | [Freeze Tag](https://open.spotify.com/track/3acCsrAEl35FXyWT7xykoQ) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [Barnstorm](https://open.spotify.com/album/6V9SZp9He4vlP0JDIYQbnm) | 4:09 |
 
-Snapshot ID: `AAAAAIDJkoeIR/+SXCB6QcLy1Nihc4H/`
+Snapshot ID: `AAAAAJVmPSF77p3U4L2QdbkIprafhqEJ`

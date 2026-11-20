@@ -2174,8 +2174,8 @@
           "url": "https://open.spotify.com/artist/0O84UJcaMyncTUcA49HEch"
         },
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Bob Marley",
+          "url": "https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj"
         },
         {
           "name": "Skip Marley",
@@ -2244,7 +2244,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 207341,
       "name": "One Love (in support of UNICEF)",
       "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214804,
       "name": "Sing My Name",
       "url": "https://open.spotify.com/track/1lG0c2RSqPajNO9vgBpPEP"

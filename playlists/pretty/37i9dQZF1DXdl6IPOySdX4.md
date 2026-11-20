@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,230,048 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,230,279 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 99 | [So Good](https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [So Good](https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU) | 2:47 |
 | 100 | [Sex with my Ex](https://open.spotify.com/track/36LKcafeByy2ybG5783w7e) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Sex with my Ex](https://open.spotify.com/album/7jP9XkCEvIOjPmCIgScNDA) | 2:59 |
 
-Snapshot ID: `AAAAAHJMzziqjXRW5dyLtk/xetCmKrxJ`
+Snapshot ID: `AAAAAOpV+2wPyrZBhgsed6Pvz7PQvygF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Parisalexa
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,623 likes - 215 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,625 likes - 215 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 214 | [gutta child](https://open.spotify.com/track/1104jrxwuzye3TWcSxzd4k) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [gutta child](https://open.spotify.com/album/5bGEq0KEtEwQfgpnimNG7c) | 1:48 |
 | 215 | [to see thru closed eyes](https://open.spotify.com/track/5zXBf7bGyDM4TnWNTjMCfi) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [to see thru closed eyes](https://open.spotify.com/album/2r1gIPuzPCvtd4sURMPYS9) | 2:15 |
 
-Snapshot ID: `AAAAAD6sZJZFOWR/Fxw/RoZwsdg8rDtG`
+Snapshot ID: `AAAAALZgHqW5ZEh9pheJxDMwpK0VIyTP`

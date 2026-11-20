@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Eddy de Pretto.",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Pomme.",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Ici No\u00e9",
+        "url": "https://open.spotify.com/album/7vdPcR5eHr8WjKcY7bgOkc"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "Debout",
+      "url": "https://open.spotify.com/track/1wk6Zve0KRioYIbDVmR3tS"
+    },
+    {
+      "album": {
         "name": "Demain",
         "url": "https://open.spotify.com/album/0v9IVyNsS3ZBPhQpLyRrMs"
       },
@@ -1864,6 +1882,24 @@
       "duration_ms": 141998,
       "name": "Flou",
       "url": "https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF"
+    },
+    {
+      "album": {
+        "name": "flou",
+        "url": "https://open.spotify.com/album/1iz6rmdBHKkLSRz8XY7j6c"
+      },
+      "artists": [
+        {
+          "name": "Nate",
+          "url": "https://open.spotify.com/artist/4LqiQFpJnZECUc0lzQU7ZH"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "flou",
+      "url": "https://open.spotify.com/track/0rOhvG8dRlXc0jwA9B0HTJ"
     },
     {
       "album": {
@@ -3339,6 +3375,24 @@
     },
     {
       "album": {
+        "name": "Le bout du monde (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/489ZXIVLgpRuns1pVJRorc"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "Le bout du monde - R\u00e9\u00e9dition",
+      "url": "https://open.spotify.com/track/0sdl8iR0JH2uBYiFCPUrb7"
+    },
+    {
+      "album": {
         "name": "Jeanne",
         "url": "https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8"
       },
@@ -4485,6 +4539,24 @@
     },
     {
       "album": {
+        "name": "la forteresse",
+        "url": "https://open.spotify.com/album/2POSTbp0bu75bHYaJXkX6f"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227760,
+      "name": "lumi\u00e8re bleue",
+      "url": "https://open.spotify.com/track/7JNYcxW2CXCInrrXaT6ABy"
+    },
+    {
+      "album": {
         "name": "Saint-Valentin",
         "url": "https://open.spotify.com/album/4K9Gdg4S0RSzy8IhfU32Cd"
       },
@@ -4903,6 +4975,28 @@
     },
     {
       "album": {
+        "name": "Mon monde",
+        "url": "https://open.spotify.com/album/1ufpZnehdaOPmtx4OLktAu"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "name": "Phazz",
+          "url": "https://open.spotify.com/artist/0kjZvGERXMvPFSs6DB5UFF"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "Mon monde",
+      "url": "https://open.spotify.com/track/5CrXlhVamNz4Xa3KcAfZ3G"
+    },
+    {
+      "album": {
         "name": "\u00c0 l'\u00e9vidence",
         "url": "https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb"
       },
@@ -5040,7 +5134,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 258040,
       "name": "Noir Jaune Rouge",
       "url": "https://open.spotify.com/track/1pl9B1jnco2ewLmDB9a2L2"
@@ -5116,6 +5210,24 @@
       "duration_ms": 146210,
       "name": "Nu",
       "url": "https://open.spotify.com/track/3OIphEv3puN6zaWG4ms5n0"
+    },
+    {
+      "album": {
+        "name": "N\u00e9on rose",
+        "url": "https://open.spotify.com/album/1cGrv6NMzHJaqSVsTXp78N"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205013,
+      "name": "N\u00e9on rose",
+      "url": "https://open.spotify.com/track/4H7QMFGU8eUhkgnMxnCrZo"
     },
     {
       "album": {
@@ -5224,7 +5336,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 164000,
       "name": "On Se Quitte",
       "url": "https://open.spotify.com/track/7sEsRkAw0AFVr6xXoWCNH5"
@@ -5552,7 +5664,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 249920,
       "name": "Ph\u00e9nom\u00e8ne",
       "url": "https://open.spotify.com/track/2sCwkZ5IRCYJDsM6EF6nx4"
@@ -5700,7 +5812,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 249480,
       "name": "Pour ce qui nous attend de mieux",
       "url": "https://open.spotify.com/track/5kcR5em23qzAuYno6IiOuX"
@@ -5722,6 +5834,24 @@
       "duration_ms": 184229,
       "name": "Pour te plaire",
       "url": "https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1"
+    },
+    {
+      "album": {
+        "name": "Pourquoi m'a-t-on faite ? (R\u00e9\u00e9criture de What Was I Made For ?)",
+        "url": "https://open.spotify.com/album/0zK5LjCexCNExurcZ6QtLm"
+      },
+      "artists": [
+        {
+          "name": "Carla De Coignac",
+          "url": "https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179805,
+      "name": "Pourquoi m'a-t-on faite ? - R\u00e9\u00e9criture de What Was I Made For ?",
+      "url": "https://open.spotify.com/track/7wN6yGEWUbvJPi5RZEhuBH"
     },
     {
       "album": {
@@ -6426,7 +6556,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 201120,
       "name": "seule dans la foule",
       "url": "https://open.spotify.com/track/3UQhUj6fiwQLRIP0vxOtkZ"
@@ -6444,7 +6574,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163000,
       "name": "Seules Ensemble (Mistral Gagnant)",
       "url": "https://open.spotify.com/track/5iCP3wPvrUwIZM0V2kzppV"
@@ -6812,7 +6942,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 249733,
       "name": "Toi",
       "url": "https://open.spotify.com/track/0Ix8alLELEPvqszzB8RBvm"

@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 147521,
+  "num_followers": 147524,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANe4vwmwOLRkXp1XKxv6nKWIaMq/",
+  "snapshot_id": "AAAAAOaFnlVqgVQj7kwPpvq+435j4hFX",
   "tracks": [
     {
       "added_at": "2026-11-15 13:06:05",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
-        "name": "The Divine Feminine (10th Anniversary)",
-        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Channel 13",
-      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
-    },
-    {
-      "added_at": "2026-11-15 13:06:05",
-      "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
@@ -543,22 +527,6 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
-        "name": "WANTCHU",
-        "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 199896,
-      "name": "WANTCHU",
-      "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
-    },
-    {
-      "added_at": "2026-11-15 13:06:05",
-      "album": {
         "name": "trees for the woods",
         "url": "https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a"
       },
@@ -571,6 +539,38 @@
       "duration_ms": 247540,
       "name": "trees for the woods",
       "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
+    },
+    {
+      "added_at": "2026-11-15 13:06:05",
+      "album": {
+        "name": "The Divine Feminine (10th Anniversary)",
+        "url": "https://open.spotify.com/album/1tH421ZieEz6IZ4WVD5OBI"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Channel 13",
+      "url": "https://open.spotify.com/track/5m7sf4hPlvHByTBbyRNrd1"
+    },
+    {
+      "added_at": "2026-11-15 13:06:05",
+      "album": {
+        "name": "WANTCHU",
+        "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 199896,
+      "name": "WANTCHU",
+      "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -763,18 +763,38 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/2REu11evStja6Sagu3Tmer"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 193965,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
+      "duration_ms": 178469,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr"
+    },
+    {
+      "added_at": "2026-11-15 13:06:05",
+      "album": {
+        "name": "Period",
+        "url": "https://open.spotify.com/album/6MOiPzaRFngumUQFF4qG1A"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Period",
+      "url": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -799,38 +819,18 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
-        "name": "Period",
-        "url": "https://open.spotify.com/album/6MOiPzaRFngumUQFF4qG1A"
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 206500,
-      "name": "Period",
-      "url": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0"
-    },
-    {
-      "added_at": "2026-11-15 13:06:05",
-      "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/2REu11evStja6Sagu3Tmer"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        },
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 178469,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr"
+      "duration_ms": 193965,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -935,22 +935,18 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
-        "name": "Bleed (feat. Omar Apollo)",
-        "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 179373,
-      "name": "Bleed (feat. Omar Apollo)",
-      "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
+      "duration_ms": 171813,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -971,6 +967,26 @@
       "duration_ms": 189469,
       "name": "Pretty Eyes (feat. FLO)",
       "url": "https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5"
+    },
+    {
+      "added_at": "2026-11-15 13:06:05",
+      "album": {
+        "name": "Bleed (feat. Omar Apollo)",
+        "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Bleed (feat. Omar Apollo)",
+      "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -1095,22 +1111,18 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
-        "name": "No Bad Memories",
-        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+        "name": "El Hueso",
+        "url": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Loaded Honey",
-          "url": "https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB"
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
         }
       ],
-      "duration_ms": 97693,
-      "name": "I Give Everything I Have 2 U (feat. Loaded Honey)",
-      "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
+      "duration_ms": 143301,
+      "name": "El Hueso",
+      "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -1151,6 +1163,26 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Loaded Honey",
+          "url": "https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB"
+        }
+      ],
+      "duration_ms": 97693,
+      "name": "I Give Everything I Have 2 U (feat. Loaded Honey)",
+      "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
+    },
+    {
+      "added_at": "2026-11-15 13:06:05",
+      "album": {
         "name": "Love is the New Gangsta",
         "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
       },
@@ -1171,38 +1203,6 @@
       "duration_ms": 223666,
       "name": "All That Matters (with Leon Thomas & AZ Chike)",
       "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
-    },
-    {
-      "added_at": "2026-11-15 13:06:05",
-      "album": {
-        "name": "Legendary Love",
-        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5UQPo4DofgIrrSZfliJYKR"
-    },
-    {
-      "added_at": "2026-11-15 13:06:05",
-      "album": {
-        "name": "Grandma Song",
-        "url": "https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Grandma Song",
-      "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -1235,6 +1235,22 @@
       "duration_ms": 161967,
       "name": "Kiss Me Right",
       "url": "https://open.spotify.com/track/4fXmBERnR3SDk053aqQqwa"
+    },
+    {
+      "added_at": "2026-11-15 13:06:05",
+      "album": {
+        "name": "Grandma Song",
+        "url": "https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Grandma Song",
+      "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -1307,22 +1323,6 @@
       "duration_ms": 186666,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
-    },
-    {
-      "added_at": "2026-11-15 13:06:05",
-      "album": {
-        "name": "El Hueso",
-        "url": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 143301,
-      "name": "El Hueso",
-      "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
-        "name": "Take My Mind",
-        "url": "https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 171199,
-      "name": "Take My Mind",
-      "url": "https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS"
-    },
-    {
-      "added_at": "2026-11-15 13:06:05",
-      "album": {
         "name": "CRYSALIS (CODA)",
         "url": "https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu"
       },
@@ -1451,18 +1431,22 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
-        "name": "Welcome to the Mood / Sundown",
-        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
+        "name": "Take My Mind",
+        "url": "https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
         }
       ],
-      "duration_ms": 184133,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
+      "duration_ms": 171199,
+      "name": "Take My Mind",
+      "url": "https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
-        "name": "Fiction",
-        "url": "https://open.spotify.com/album/4FMGDzFSshY6ROMenOhwRe"
+        "name": "Welcome to the Mood / Sundown",
+        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 202258,
-      "name": "Fiction",
-      "url": "https://open.spotify.com/track/6igN41vikzKAZJHcveb1yX"
+      "duration_ms": 184133,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -1515,6 +1499,22 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
+    {
+      "added_at": "2026-11-15 13:06:05",
+      "album": {
+        "name": "Fiction",
+        "url": "https://open.spotify.com/album/4FMGDzFSshY6ROMenOhwRe"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 202258,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/6igN41vikzKAZJHcveb1yX"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 202972,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
-    },
-    {
-      "added_at": "2026-11-15 13:06:05",
-      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
+    },
+    {
+      "added_at": "2026-11-15 13:06:05",
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
     },
     {
       "added_at": "2026-11-15 13:06:05",
@@ -1759,30 +1759,22 @@
     {
       "added_at": "2026-11-15 13:06:05",
       "album": {
-        "name": "Gut Genug (with Omah Lay, Blumengarten & 255)",
-        "url": "https://open.spotify.com/album/0gszF1GZYyI0D0qc4ez0r9"
+        "name": "golden hour (Fujii Kaze Remix)",
+        "url": "https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM"
       },
       "artists": [
         {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
         {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Gut Genug (with Omah Lay, Blumengarten & 255)",
-      "url": "https://open.spotify.com/track/6c7ao7QiLH0kT6wd0xHUCV"
+      "duration_ms": 159000,
+      "name": "golden hour - Fujii Kaze Remix",
+      "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

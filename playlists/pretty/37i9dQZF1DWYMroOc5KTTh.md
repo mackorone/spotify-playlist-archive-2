@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,751 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,804 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 37 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 38 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
 | 39 | [Mixed Emotions](https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Everything Will Be Alright](https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv) | 3:25 |
-| 40 | [Someone Like You](https://open.spotify.com/track/08T4rQxqam71tSDhl9Z318) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM) | [Somehow It Flies](https://open.spotify.com/album/7bVIDJ4DSctHgCnPvBi3Mt) | 2:41 |
-| 41 | [Music is Life](https://open.spotify.com/track/4blPk8aWh2odUS0ENW2gfr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Music is Life](https://open.spotify.com/album/2w2CJpHGsCYFPjh6Ma6YuO) | 4:48 |
+| 40 | [Music is Life](https://open.spotify.com/track/4blPk8aWh2odUS0ENW2gfr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Music is Life](https://open.spotify.com/album/2w2CJpHGsCYFPjh6Ma6YuO) | 4:48 |
+| 41 | [Someone Like You](https://open.spotify.com/track/08T4rQxqam71tSDhl9Z318) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM) | [Somehow It Flies](https://open.spotify.com/album/7bVIDJ4DSctHgCnPvBi3Mt) | 2:41 |
 | 42 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
 | 43 | [Love’s Theme](https://open.spotify.com/track/6x98PZzecLKDucRBL324qT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Love’s Theme](https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch) | 2:54 |
 | 44 | [Touch](https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Touch](https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 |
 | 50 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
 
-Snapshot ID: `AAAAAAMhG1WRlgJpkdXkhkUjl2DU4laK`
+Snapshot ID: `AAAAAMgCSI9eGBXU/wh6laMiNwird5mn`

@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: KYUHYUN\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Huh Gak \(허각\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,826 songs - 4 day 22 hr 36 min
+1,828 songs - 4 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [A little slower](https://open.spotify.com/track/4Ba3VI0Grn91gnuRE3wljj) | [Youngsang](https://open.spotify.com/artist/0hFSd0WXqSF5eXyARmKtig) | [A little slower](https://open.spotify.com/album/477KPeLAr2M0aMLEtkGQLb) | 3:34 | 2024-08-10 | 2024-10-31 |
 | [A little starlight chaser](https://open.spotify.com/track/0s7UBbW9gsikHk5YA6uXvO) | [KIM HANKYUL](https://open.spotify.com/artist/4IM7HvKcOcVtupJErX50Dl) | [A little starlight chaser](https://open.spotify.com/album/2ruTTcyujOS9SzXfw7P1eR) | 3:48 | 2023-11-02 | 2024-01-09 |
 | [A Long Night](https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG) | [CANDO](https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.13](https://open.spotify.com/album/3exZxXUMD14KCbb7Pa6XsS) | 3:09 | 2022-07-07 | 2022-10-08 |
+| [A Long Walk](https://open.spotify.com/track/51E7iHowmkvPBSJ89YG6JF) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [A Long Walk](https://open.spotify.com/album/07gI9IfiaXTCCqCjv3OT6z) | 5:00 | 2026-11-20 |  |
 | [A Memorial Day](https://open.spotify.com/track/6XF1F1BMA7TNRX1f9USAnB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [talks about memory](https://open.spotify.com/album/6yxPjDBlRVhHaUKhybIFRx) | 3:29 | 2022-09-26 | 2023-01-11 |
 | [A Memory In My Heart](https://open.spotify.com/track/2XAu8WweXyyLJ6NjfcFBcB) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/38W3UiKhrmYIYXyWKBbypt) | 3:47 | 2022-03-31 | 2022-04-16 |
 | [A message to myself](https://open.spotify.com/track/5cFbSoEo5ft3hA746YTGd4) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [A message to myself.](https://open.spotify.com/album/1OvwMJt6WKik5pD7Ip7yrP) | 4:08 | 2022-03-04 | 2022-07-03 |
@@ -134,7 +135,7 @@
 | [At That Moment](https://open.spotify.com/track/0CB3B5ir8I2KbB3dkGVtWF) | [WSG WANNBE \(Gaya\-G\)](https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:42 | 2022-07-11 | 2022-12-27 |
 | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/track/1o1VpJ8DKeVzbWT0WnSLFK) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/album/4cBY8PVf0xqqnWsAiSrIGG) | 3:28 | 2022-01-27 | 2022-01-30 |
 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2021-12-23 | 2022-06-30 |
-| [Awkward Star](https://open.spotify.com/track/2qOuSjBtfv2nUPLZTQrnhz) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [An Awkward Season](https://open.spotify.com/album/61RTjTXwMhDqOv6jnlzfmo) | 4:04 | 2026-04-21 |  |
+| [Awkward Star](https://open.spotify.com/track/2qOuSjBtfv2nUPLZTQrnhz) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [An Awkward Season](https://open.spotify.com/album/61RTjTXwMhDqOv6jnlzfmo) | 4:04 | 2026-04-21 | 2026-11-20 |
 | [Azaleas](https://open.spotify.com/track/6PMzXBoxCyQyaT6MuLKRRE) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Azaleas](https://open.spotify.com/album/2JAkCHflk8nudwOri0sd4f) | 3:55 | 2025-05-21 | 2025-09-27 |
 | [Baby it’s you](https://open.spotify.com/track/6NHnmWs8FNOdaWH3eq3mnx) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [9colors](https://open.spotify.com/album/69Xh5E4nygc7AqQyvPtf3T) | 3:40 | 2024-03-28 | 2024-07-12 |
 | [Back In The Day](https://open.spotify.com/track/7d3MyTc7PWrL8y85tOvUtW) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Back In The Day](https://open.spotify.com/album/4w0uMkhAi8n8okuwXQZzTK) | 2:54 | 2023-09-18 | 2023-12-14 |
@@ -229,6 +230,7 @@
 | [Butterfly](https://open.spotify.com/track/15jxI2XwZfYo7FGKex8IEf) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [화양연화 The Most Beautiful Moment In Life, Pt\. 2](https://open.spotify.com/album/1sBSHQEpD9pQOrJIv4qyFs) | 3:58 | 2022-01-17 | 2022-02-22 |
 | [Butterfly](https://open.spotify.com/track/6FUFNToiiQKYqhPvWKVy9u) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Wedding Impossible \(Original Soundtrack Special\)](https://open.spotify.com/album/4SjPoZdHsCXFOz1Nb6ZKSo) | 3:39 | 2024-03-05 | 2024-07-12 |
 | [By My Side](https://open.spotify.com/track/7gnX5DpYwAguO3sfF4b7fY) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [By My Side](https://open.spotify.com/album/202mC12o8Px1mbBaGdQyku) | 3:43 | 2025-04-08 | 2025-07-25 |
+| [By Tomorrow](https://open.spotify.com/track/3qxGJ96vYUruzYtuWoLKei) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [ODYSSEY](https://open.spotify.com/album/3a8Kyai6Da9yctrO3QKYcV) | 3:25 | 2026-11-20 |  |
 | [By your side](https://open.spotify.com/track/4GQMxRSsNLW4abwsEjWflv) | [415](https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh) | [By your side \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.7](https://open.spotify.com/album/35KfS2ZS6PitvgGRbatNxo) | 4:06 | 2022-07-07 | 2022-08-13 |
 | [By your side](https://open.spotify.com/track/0fJUrrGavib2kyGF7RY1Iv) | [Joo Hyung Jin](https://open.spotify.com/artist/6UvEfwKbmtK2NEUaKhhXD0) | [By your side](https://open.spotify.com/album/4PysUWj8vK3fX1K0My6XHR) | 3:37 | 2022-07-07 | 2022-07-23 |
 | [By Your Side](https://open.spotify.com/track/60OJU6XmtkFMGg3RcWmHK5) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [By Your Side](https://open.spotify.com/album/6WDrBcDBPd8XOg83Ye7KrX) | 3:32 | 2025-11-19 | 2026-03-30 |
@@ -895,7 +897,7 @@
 | [Love Contact](https://open.spotify.com/track/4hEZIBzhFQjJ99Znqwd9y8) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Love Contact](https://open.spotify.com/album/1wtXh0pRrUTdH3hgOCTuvX) | 4:11 | 2022-12-16 | 2023-01-21 |
 | [Love Fool](https://open.spotify.com/track/5gst02IN8JD3CfXM7IfVnc) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [Love Fool](https://open.spotify.com/album/1G8G3j5EIPIsIMtL71hsco) | 3:53 | 2023-09-14 | 2023-11-03 |
 | [Love Fool](https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 3:11 | 2024-03-06 | 2024-08-01 |
-| [LOVE FOUND ME](https://open.spotify.com/track/27qfIySSaLAhMCwZ5yqpOL) | [Ashatree](https://open.spotify.com/artist/1iFLqsWnASjUPBOD0sr8Up) | [LOVE FOUND ME](https://open.spotify.com/album/3GIt6ZZCE9Wqt7UyhJtoTG) | 4:23 | 2026-04-20 |  |
+| [LOVE FOUND ME](https://open.spotify.com/track/27qfIySSaLAhMCwZ5yqpOL) | [Ashatree](https://open.spotify.com/artist/1iFLqsWnASjUPBOD0sr8Up) | [LOVE FOUND ME](https://open.spotify.com/album/3GIt6ZZCE9Wqt7UyhJtoTG) | 4:23 | 2026-04-20 | 2026-11-20 |
 | [Love from a Real Heart\(2023\)](https://open.spotify.com/track/0Muf8pCSuf50DOoWs9ABVz) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/5N1C8ku1f0eBcsPPlNOvxI) | 4:20 | 2023-06-13 | 2023-10-20 |
 | [Love Has Come](https://open.spotify.com/track/2rpDaKl43i3upa2gA5U4Mj) | [박은별](https://open.spotify.com/artist/6eND6gC0dTpsXrhY0If1Gp) | [Love Has Come](https://open.spotify.com/album/7pLEQP2V4TkCTCr2n2vhzV) | 3:59 | 2023-02-14 | 2023-03-28 |
 | [Love Has Gone](https://open.spotify.com/track/1wosDePUhVsLYB3MMdyX20) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [Solar Gamsung Part.7](https://open.spotify.com/album/7yswxvToOpvR5Xgrqa9uKx) | 4:00 | 2024-01-19 | 2024-07-12 |

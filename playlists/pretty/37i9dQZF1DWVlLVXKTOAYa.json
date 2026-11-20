@@ -1,12 +1,12 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1154044,
+  "num_followers": 1154178,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI3IHWlwb7TOMcd15vIRXJZnyX/a",
+  "snapshot_id": "AAAAADSTNoh5pT9Nua5NQut4o1D879z0",
   "tracks": [
     {
       "added_at": "2026-02-12 23:00:22",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Lady Lady",
-      "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lady Lady",
+      "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
+        "name": "More Than A Feeling",
+        "url": "https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 167096,
+      "name": "More Than A Feeling",
+      "url": "https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 182008,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
-        "name": "More Than A Feeling",
-        "url": "https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 167096,
-      "name": "More Than A Feeling",
-      "url": "https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -711,8 +711,8 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "IS IT",
-        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 164206,
-      "name": "IS IT",
-      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
+      "duration_ms": 160111,
+      "name": "BLISS",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -791,8 +791,8 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+        "name": "IS IT",
+        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 160111,
-      "name": "BLISS",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+      "duration_ms": 164206,
+      "name": "IS IT",
+      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Tough Luck",
-        "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Tough Luck",
-      "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "I've Tried Everything But Therapy (Complete Edition)",
         "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 190124,
       "name": "Need You More",
       "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Tough Luck",
+        "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Tough Luck",
+      "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "i guess u never really cared about me",
         "url": "https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 191150,
       "name": "i guess u never really cared about me",
       "url": "https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
+        "name": "Almost, So Close, Maybe",
+        "url": "https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
         }
       ],
-      "duration_ms": 177118,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
+      "duration_ms": 167404,
+      "name": "Almost, So Close, Maybe",
+      "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Almost, So Close, Maybe",
-        "url": "https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
       },
       "artists": [
         {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 167404,
-      "name": "Almost, So Close, Maybe",
-      "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
+      "duration_ms": 177118,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
     },
     {
       "added_at": "2026-02-12 23:00:22",

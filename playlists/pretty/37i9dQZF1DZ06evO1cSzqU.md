@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,877 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,888 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 12 | [Big City Nights](https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:09 |
 | 13 | [The Zoo](https://open.spotify.com/track/0YpmF3aZXOIuyi8itZbpkp) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Animal Magnetism](https://open.spotify.com/album/0P074q35RL8oUOpKsHJd07) | 5:30 |
 | 14 | [You & I](https://open.spotify.com/track/659lSEpj2x1hRdpLCSO5Wk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [You & I](https://open.spotify.com/album/3C7MMV9RWemgXyu2XAil6u) | 6:15 |
-| 15 | [When You Came into My Life \- Studio Edit](https://open.spotify.com/track/66kO1Sr99392GvDZWKdCiv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 3:30 |
-| 16 | [Lorelei](https://open.spotify.com/track/6mwS9ssEVKK7dmVVXwpbv7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 4:32 |
+| 15 | [Lorelei](https://open.spotify.com/track/6mwS9ssEVKK7dmVVXwpbv7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 4:32 |
+| 16 | [When You Came into My Life \- Studio Edit](https://open.spotify.com/track/66kO1Sr99392GvDZWKdCiv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 3:30 |
 | 17 | [When You Know \(Where You Come From\)](https://open.spotify.com/track/4cXLQrYdvNNRGg6fpCxWT2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 4:22 |
 | 18 | [Humanity](https://open.spotify.com/track/5sl6n6WxvRUW4bhZ1VJdFa) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \- Hour I](https://open.spotify.com/album/1XjYFFyWcK17Pqm03PnNss) | 5:26 |
 | 19 | [Rhythm of Love](https://open.spotify.com/track/3VDfLfd7lfCU3MTIXNqfR3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:39 |
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 29 | [Love Will Keep Us Alive](https://open.spotify.com/track/6DHhHfRgL6hP7gLS4SNol1) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \- Hour I](https://open.spotify.com/album/1XjYFFyWcK17Pqm03PnNss) | 4:32 |
 | 30 | [In Trance](https://open.spotify.com/track/6xWu4B3ezd1Ad6K2cEtGfu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [In Trance](https://open.spotify.com/album/2wyFQRlRWuxOjFU9p7Qk31) | 4:42 |
 | 31 | [Eye of the Storm](https://open.spotify.com/track/073HHIdnCp8rw97LyNl73Q) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 4:27 |
-| 32 | [Dust in the Wind \- Live](https://open.spotify.com/track/2goTjpiBRV0qd2gZrAtpIZ) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 3:49 |
-| 33 | [Rock Believer](https://open.spotify.com/track/2aTfmRBiYginQLFD4e5cie) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:57 |
+| 32 | [Rock Believer](https://open.spotify.com/track/2aTfmRBiYginQLFD4e5cie) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:57 |
+| 33 | [Dust in the Wind \- Live](https://open.spotify.com/track/2goTjpiBRV0qd2gZrAtpIZ) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 3:49 |
 | 34 | [Bad Boys Running Wild \- 2015 \- Remaster](https://open.spotify.com/track/0IhHHMznSjZ52IpXIU1A9D) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/5eiWWiHKC7Elfml59PORlF) | 3:56 |
 | 35 | [Ruby Tuesday](https://open.spotify.com/track/7utyUj2Clh0t5M77IA78u0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:55 |
-| 36 | [Love of My Life \- Live](https://open.spotify.com/track/3sKBmOlFXwNlKIeheAma3r) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 2:26 |
-| 37 | [Don't Believe Her](https://open.spotify.com/track/6mPsYhcy0UIScC4YyekLr0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:55 |
+| 36 | [Don't Believe Her](https://open.spotify.com/track/6mPsYhcy0UIScC4YyekLr0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:55 |
+| 37 | [Love of My Life \- Live](https://open.spotify.com/track/3sKBmOlFXwNlKIeheAma3r) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 2:26 |
 | 38 | [Alien Nation](https://open.spotify.com/track/6fNGyaXIolVXwKH9C1Ew8k) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 5:43 |
 | 39 | [Tainted Love](https://open.spotify.com/track/1abFEUbbAk8kQNOzy301Qt) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:27 |
 | 40 | [The Future Never Dies](https://open.spotify.com/track/5bTEYXUQLLQzjIurNtP1Ib) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \- Hour I](https://open.spotify.com/album/1XjYFFyWcK17Pqm03PnNss) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [SLY](https://open.spotify.com/track/251NWV5NpXsGQJ6OR2YjVi) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 5:16 |
 | 50 | [Coming Home](https://open.spotify.com/track/00LQrrlaoPrNwOXBvu1W8W) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:59 |
 
-Snapshot ID: `avpHgAAAAAD5BMfEDHjPEN2TgqrAcSPA`
+Snapshot ID: `avzqgAAAAABWG8KlSy/F4+I5x+YbqTpk`

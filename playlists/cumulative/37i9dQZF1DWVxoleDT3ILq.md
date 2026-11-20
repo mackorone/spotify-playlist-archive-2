@@ -2,9 +2,9 @@
 
 ### [alt/chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Anttonias en portada.
+> Humboldt en portada.
 
-624 songs - 1 day 13 hr 30 min
+628 songs - 1 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Así Te Soy](https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Así Te Soy](https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH) | 3:41 | 2022-09-23 | 2023-08-05 |
 | [Atado a tu sentimiento](https://open.spotify.com/track/2oZZ6CG13yOJNZ48FTB1Uq) | [Anttonias](https://open.spotify.com/artist/3zso8kvuPiTFBXe5g6ERJW) | [Anttonias](https://open.spotify.com/album/0dzqJJsJ4hQl54HUqzjrNL) | 3:40 | 2026-07-24 |  |
 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 | 2023-09-08 | 2025-08-02 |
+| [Atraviesa el mar](https://open.spotify.com/track/0L0w17FktKMvICs88rssn8) | [Humboldt](https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6) | [Odeón](https://open.spotify.com/album/2JHo15D7xV0hfCBlESybZA) | 3:33 | 2026-11-20 |  |
 | [Aves de papel](https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep) | [Reina Luisa](https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3), [Salares](https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL) | [Aves de papel](https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB) | 3:53 | 2023-10-06 | 2025-08-19 |
 | [Bailar en la Cuerda Floja](https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra) | 3:41 | 2023-06-09 | 2026-07-25 |
 | [bailar kon la más fea](https://open.spotify.com/track/1VHpgm3ikG235vmw1raflm) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [bailar kon la más fea](https://open.spotify.com/album/2g4PTNCR0EcefKVNMNSKri) | 3:57 | 2026-10-02 |  |
@@ -154,6 +155,7 @@
 | [diamantes \(lorelei remix\)](https://open.spotify.com/track/4gaFr7Df75y4fkp0lbHOCZ) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN), [Lorelei](https://open.spotify.com/artist/3whh4zpCGGs2fAhqeJ18qI) | [arde lento \(remixes\)](https://open.spotify.com/album/6cv8EMykDbV7tMt3B4ifh8) | 6:31 | 2022-04-15 | 2023-05-27 |
 | [diamantes ✧✧](https://open.spotify.com/track/02uy9ONTBAMXMisKRUeaoD) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [arde lento](https://open.spotify.com/album/63YKlDj4D6jtajVwKwoxJ8) | 3:39 | 2022-04-15 | 2022-12-10 |
 | [DIAS LLUVIOSOS](https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi) | [Jas Marty](https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [DIAS LLUVIOSOS](https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz) | 2:40 | 2026-08-21 |  |
+| [Diferente](https://open.spotify.com/track/0SatCfjoecH19CeKlx1Qes) | [Dodo](https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq) | [Baja Latencia](https://open.spotify.com/album/28IFWnJfsDOGfEjCzschO6) | 4:02 | 2026-11-20 |  |
 | [Diferente](https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK) | [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga) | [IKARO](https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk) | 6:03 | 2024-05-17 | 2024-12-07 |
 | [Dilema](https://open.spotify.com/track/7x9zDbwDr9jHzh5RwBhViJ) | [Eli](https://open.spotify.com/artist/5cUSmEvX8UAhepFmStBXc7), [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Dilema](https://open.spotify.com/album/6wfLmxoovY4zVbuIEZBoFq) | 2:51 | 2023-08-04 | 2024-06-08 |
 | [Donde Mueren Todos](https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Donde Mueren Todos](https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM) | 3:09 | 2022-12-16 | 2024-12-07 |
@@ -218,6 +220,7 @@
 | [Extrañarte Bonito](https://open.spotify.com/track/7tkHJ1MHMlMDRnGq7Er60B) | [María Compás](https://open.spotify.com/artist/4eEVhR6Pn7VusF04jeYxXP) | [Extrañarte Bonito](https://open.spotify.com/album/2OYAuIpEgAYwopGIAtsBc2) | 3:12 | 2022-04-15 | 2022-07-29 |
 | [Fachada Continua](https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Fachada Continua](https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR) | 4:06 | 2022-07-22 | 2025-05-31 |
 | [FANTA](https://open.spotify.com/track/3sgfOzoBtvoMq92GwcfCox) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [FANTA](https://open.spotify.com/album/6Y28lIexXiz5KrPjwLLk0b) | 3:42 | 2025-07-25 | 2026-07-25 |
+| [FANTASMA](https://open.spotify.com/track/0lazlsptkeFaVRHBwnKBPZ) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [FANTASMA](https://open.spotify.com/album/1Rami8EAsWiWDs0CXLf2vw) | 3:36 | 2026-11-20 |  |
 | [Fantasma Encantador](https://open.spotify.com/track/0ZDwUoCh4BBGMo6jEVFWTy) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Fantasma Encantador](https://open.spotify.com/album/2KSnj4HOx7bzl7IjxKQbyQ) | 4:13 | 2022-04-15 | 2022-08-27 |
 | [Fargo](https://open.spotify.com/track/7m2q127NIf7fIsBo6UyYjF) | [Frucola Frappé](https://open.spotify.com/artist/4ZLUNtFI5oNh5xiEew8X2v) | [Fargo](https://open.spotify.com/album/3YunrwATPNb4lg5pXA8tPF) | 2:56 | 2022-04-15 | 2023-01-28 |
 | [Fauna](https://open.spotify.com/track/5psoojvi7byUFe64ualJqY) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Fauna](https://open.spotify.com/album/55jrTHJvi8JRdVUZlInVIq) | 3:55 | 2022-04-15 | 2022-07-27 |
@@ -545,6 +548,7 @@
 | [Temores](https://open.spotify.com/track/2qYgmcH5WIBX2RMcGIrVNb) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/4G9dNp2lUbU0jiAmDdVN3e) | 4:14 | 2022-04-15 | 2022-07-22 |
 | [Templo](https://open.spotify.com/track/6Z7OnuKzFcWI8FvHr9zjJX) | [Las Olas \(Noispop\)](https://open.spotify.com/artist/7aVl0clu05c7p3TRUfZvgX) | [Perdidxs en el Ruido](https://open.spotify.com/album/5qFNDEJahGLCfOSl3txJbw) | 4:30 | 2024-07-12 | 2026-07-25 |
 | [Tenemos que cocinar](https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:39 | 2022-11-11 | 2024-08-24 |
+| [Tenerte y Perderte](https://open.spotify.com/track/6Gp4ZuTAVHuuz7FW3dZ1RW) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Tenerte y Perderte](https://open.spotify.com/album/6aUtjYRRWMtAqhTWa5QO80) | 2:49 | 2026-11-20 |  |
 | [Tengo una Herida](https://open.spotify.com/track/24TDfDfRjOk7yIrP8JQaq5) | [El Árbol Que Contiene Todos Los Tiempos](https://open.spotify.com/artist/0pgl5ZmedAKmgrz6JgDZYG), [Acuario](https://open.spotify.com/artist/5aKV7icKkyzyLgZaWKoX7j) | [Tengo una Herida](https://open.spotify.com/album/2tI5IYvx62iHwjuXpgfJxs) | 2:40 | 2024-03-01 | 2026-07-25 |
 | [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-04-15 | 2022-10-20 |
 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-10-14 | 2024-04-19 |

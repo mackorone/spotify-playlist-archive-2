@@ -1,12 +1,12 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 88398,
+  "num_followers": 88443,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJjGl2RO+2IMEo361tMAgLfoef8A",
+  "snapshot_id": "AAAAAK7LJ8L++lsNQCzX2ZFtvxX7LZEO",
   "tracks": [
     {
       "added_at": "2024-07-26 00:01:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Return Rev. 2:4",
-        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 391036,
-      "name": "Draw",
-      "url": "https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Jesus Christ is seen",
         "url": "https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 183275,
       "name": "Jesus Christ is seen",
       "url": "https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Return Rev. 2:4",
+        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 391036,
+      "name": "Draw",
+      "url": "https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P"
     },
     {
       "added_at": "2024-07-26 00:01:00",

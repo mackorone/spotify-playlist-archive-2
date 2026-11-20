@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,616 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,696 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 10 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 |
 | 11 | [40 Days](https://open.spotify.com/track/3jQBAyQVJSl9fc6l4tsWWP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7) | 3:15 |
 | 12 | [flower](https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [ok](https://open.spotify.com/album/0rdqoGy3iMbJJDjiOKrywY) | 1:15 |
-| 13 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
-| 14 | [Kim & Jessie](https://open.spotify.com/track/6T0dHDN1lPn5jamdHlWypt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/3z77NvneHmnr1A2FPUfpLx) | 5:23 |
+| 13 | [Kim & Jessie](https://open.spotify.com/track/6T0dHDN1lPn5jamdHlWypt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/3z77NvneHmnr1A2FPUfpLx) | 5:23 |
+| 14 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
 | 15 | [Porcelain](https://open.spotify.com/track/7BzsldUSmzrW46iea9UFVn) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 5:07 |
 | 16 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 |
 | 17 | [Gauze](https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 4:57 |
-| 18 | [The Same Place](https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs) | [Centaur](https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ) | [In Streams](https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL) | 7:35 |
-| 19 | [Ballad Of Sister Sue](https://open.spotify.com/track/1nbZgajaqXmZQG24vl9u5d) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Just For A Day](https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb) | 4:31 |
+| 18 | [Ballad Of Sister Sue](https://open.spotify.com/track/1nbZgajaqXmZQG24vl9u5d) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Just For A Day](https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb) | 4:31 |
+| 19 | [The Same Place](https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs) | [Centaur](https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ) | [In Streams](https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL) | 7:35 |
 | 20 | [Wishes](https://open.spotify.com/track/5hhgmepThtS3PoPIGsA5Ui) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 3:33 |
 | 21 | [Slide Away \- Remastered 2016](https://open.spotify.com/track/0Sr9uJqXFAvqHcgwg3UjY5) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Storm In Heaven \(Remastered 2016 / Deluxe\)](https://open.spotify.com/album/02hoMMI8uT38gkU2mJN10t) | 4:03 |
 | 22 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 29 | [Rocket \- 2011 Remaster](https://open.spotify.com/track/1nbXNrayQOc9UGVEudhlaT) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:06 |
 | 30 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 |
 | 31 | [Walkabout \(W/ Noah Lennox\)](https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob) | [Atlas Sound](https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T), [Noah Lennox](https://open.spotify.com/artist/6XrrzKnazbofp8WajiHZyH) | [Logos](https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh) | 3:58 |
-| 32 | [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 |
-| 33 | [Rave Down](https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj) | [Swervedriver](https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu) | [Raise](https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw) | 5:06 |
-| 34 | [Run Into Flowers](https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP) | 4:09 |
+| 32 | [Run Into Flowers](https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP) | 4:09 |
+| 33 | [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 |
+| 34 | [Rave Down](https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj) | [Swervedriver](https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu) | [Raise](https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw) | 5:06 |
 | 35 | [in another way](https://open.spotify.com/track/06G8mgjP4x4q4ctddKbSNe) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [m b v](https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a) | 5:30 |
 | 36 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 4:09 |
 | 37 | [Drive Blind \- 2001 Remaster](https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Smile](https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs) | 4:45 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 155 | [Ordeal](https://open.spotify.com/track/6I1euZN8qsmXYJq2nDH8EN) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [In Ribbons](https://open.spotify.com/album/7KVa0JkUwjpd23K5o6BYs1) | 3:58 |
 | 156 | [La nuit marche avec moi](https://open.spotify.com/track/7o71YfM5JEiP1sC1y2l8Ls) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC) | 4:58 |
 
-Snapshot ID: `AAAAAGNHSpBMd3hBKeLedRYoqIZpad5o`
+Snapshot ID: `AAAAAMv3cdKOaZnIGNUUmYMg/5U6p/Z5`

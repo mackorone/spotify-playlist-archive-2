@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The ultimate seasonal (indie) playlist, ft Sufjan Stevens",
+  "description": "The ultimate seasonal (indie) playlist, ft Phoebe Bridgers",
   "name": "Indie Christmas",
   "tracks": [
     {
@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215427,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/3htz0sRGLYHbbAS9QeEqpy"
+    },
+    {
+      "album": {
         "name": "Holidays Rule",
         "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
@@ -570,7 +588,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 272266,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 206798,
       "name": "December '04",
       "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
@@ -2746,6 +2764,24 @@
       "duration_ms": 136846,
       "name": "It\u2019s Going To Be A Cold Winter",
       "url": "https://open.spotify.com/track/1G2gpOv9sgCpVKgd2watPU"
+    },
+    {
+      "album": {
+        "name": "Jesus Fucking Christmas",
+        "url": "https://open.spotify.com/album/2n7iqOgFGeRYJk9V5CtQVd"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168640,
+      "name": "Jesus Fucking Christmas",
+      "url": "https://open.spotify.com/track/5Xs7BSN0HvUhcrc0X3tTa7"
     },
     {
       "album": {
@@ -4451,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "Around the Well",
+        "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571080,
+      "name": "The Trapeze Swinger",
+      "url": "https://open.spotify.com/track/0EAvKXjChn1Rc3QmfYXevy"
+    },
+    {
+      "album": {
         "name": "Creatures of an Hour",
         "url": "https://open.spotify.com/album/2KTTWvdCwPakrp3AVcsUQC"
       },
@@ -4712,7 +4766,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190944,
       "name": "two queens in a king sized bed",
       "url": "https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ"

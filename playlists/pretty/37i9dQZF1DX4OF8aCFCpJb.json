@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 165,
+  "num_followers": 68,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADOD1nVsfWZOY39ZdBN+3b5tjq2G",
+  "snapshot_id": "AAAAAEd1qK7lOUgNosbhIbOmprpWr8Bj",
   "tracks": [
     {
       "added_at": "2024-06-24 11:19:01",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Irie",
-        "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
+        "name": "Teaterapan",
+        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
       },
       "artists": [
         {
-          "name": "Silly Selection",
-          "url": "https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr"
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 203065,
-      "name": "Irie",
-      "url": "https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3"
+      "duration_ms": 182378,
+      "name": "Teaterapan",
+      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Teaterapan",
-        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
+        "name": "Irie",
+        "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
       },
       "artists": [
         {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+          "name": "Silly Selection",
+          "url": "https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr"
         }
       ],
-      "duration_ms": 182378,
-      "name": "Teaterapan",
-      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
+      "duration_ms": 203065,
+      "name": "Irie",
+      "url": "https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -451,6 +451,22 @@
       "duration_ms": 176613,
       "name": "Leva",
       "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -495,22 +511,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Br\u00e5da dagar",
         "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 197453,
       "name": "Allting ordnar sig",
       "url": "https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "K\u00e4r Och Galen",
+        "url": "https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "K\u00e4r Och Galen",
+      "url": "https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -587,22 +603,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "K\u00e4r Och Galen",
-        "url": "https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "K\u00e4r Och Galen",
-      "url": "https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Min Zina",
         "url": "https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb"
       },
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "St\u00f6rst av allt \u00e4r k\u00e4rleken",
+        "url": "https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Attityd",
+      "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Pirret",
         "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 206853,
       "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
       "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "St\u00f6rst av allt \u00e4r k\u00e4rleken",
-        "url": "https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Attityd",
-      "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Baluns",
-        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
-      },
-      "artists": [
-        {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Dirty Jens",
-          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Baluns",
-      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "K\u00e4rlek & Verkan",
         "url": "https://open.spotify.com/album/2kshyxJqohs7VpPEjTHP4I"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 313346,
       "name": "I mitt hj\u00e4rta d\u00e4r bor gud",
       "url": "https://open.spotify.com/track/78br2t9sZ5MP5am2TaHDMo"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Baluns",
+        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Dirty Jens",
+          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Baluns",
+      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -815,6 +815,30 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Back on track",
+        "url": "https://open.spotify.com/album/79ja6VUuZvbr0g7POJ1Xb1"
+      },
+      "artists": [
+        {
+          "name": "Moncho",
+          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
+        },
+        {
+          "name": "MIVAS",
+          "url": "https://open.spotify.com/artist/21xJtgcxDrr0ahUS5GIjFG"
+        },
+        {
+          "name": "Partillo",
+          "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
+        }
+      ],
+      "duration_ms": 214125,
+      "name": "Back on track",
+      "url": "https://open.spotify.com/track/1yCqXDVbXDyF75VliHTJyv"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "S\u00e4g Till Mig",
         "url": "https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW"
       },
@@ -827,30 +851,6 @@
       "duration_ms": 260000,
       "name": "S\u00e4g Till Mig",
       "url": "https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Ska vi",
-        "url": "https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9"
-      },
-      "artists": [
-        {
-          "name": "Moncho",
-          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
-        },
-        {
-          "name": "Lance-a-Lot",
-          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
-        },
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Ska vi",
-      "url": "https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6"
     },
     {
       "added_at": "2024-06-24 11:19:01",

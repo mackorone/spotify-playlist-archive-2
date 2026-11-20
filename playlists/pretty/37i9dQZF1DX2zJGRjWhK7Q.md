@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,173 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,220 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 5 | [Siempre Seré Guajiro](https://open.spotify.com/track/2PQMhXmBx5h2jDsgZYHTfx) | [William Millan](https://open.spotify.com/artist/2RYP0CUL9ezyuVt13yMzVj), [Saoco](https://open.spotify.com/artist/5w8CzZs1645N7nVRmbVdF1) | [Siempre Seré Guajiro](https://open.spotify.com/album/5a7isqzKSbZ8ugfrqq8d8d) | 5:27 |
 | 6 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
 | 7 | [La Rueda](https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 6:26 |
-| 8 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 |
-| 9 | [Vamonos Pal Monte](https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vamonos Pal' Monte](https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM) | 7:06 |
+| 8 | [Vamonos Pal Monte](https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vamonos Pal' Monte](https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM) | 7:06 |
+| 9 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 |
 | 10 | [Pedro Navaja](https://open.spotify.com/track/09PGyODYYlVsL49N7TR914) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Anthology](https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU) | 7:23 |
 | 11 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
 | 12 | [El Raton](https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [A Man And His Music](https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 49 | [El Nazareno](https://open.spotify.com/track/062vOe8esScYEDw4cPvBxs) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Herencia](https://open.spotify.com/album/7C94KIrL1IS3hHQwQ9BbGr) | 5:36 |
 | 50 | [Estamos en Salsa](https://open.spotify.com/track/4WkSEWIBJGXYQvPPgFdK64) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa](https://open.spotify.com/album/3xAW3AUVOVmrWFse5Oo25G) | 4:50 |
 
-Snapshot ID: `AAAAADmkXMNsrg+vsEqJO1BwFguz1Cdx`
+Snapshot ID: `AAAAAHkZBLp3kPpH9WnySI/tsdxe9BRm`

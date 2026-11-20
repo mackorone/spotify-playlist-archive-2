@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Jolianne",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Fern.",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203000,
       "name": "Awkward (feat. Clara Benin)",
       "url": "https://open.spotify.com/track/7INbWiQ3aKYACHdVbu0yzv"
@@ -3235,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "Candlelit",
+        "url": "https://open.spotify.com/album/3vsu9KApKWgX5y5yTYrZiT"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179114,
+      "name": "Candlelit",
+      "url": "https://open.spotify.com/track/00E8ZJSI2nnRWNWXmK1mSQ"
+    },
+    {
+      "album": {
         "name": "CHANGES",
         "url": "https://open.spotify.com/album/1eGZ7rDg2zkUvXDT1boMDH"
       },
@@ -4606,6 +4624,24 @@
       "duration_ms": 214660,
       "name": "Dulo",
       "url": "https://open.spotify.com/track/3506kWSiqIx2AKaFrA9C8Y"
+    },
+    {
+      "album": {
+        "name": "Dumating",
+        "url": "https://open.spotify.com/album/1qKSMYPNbb7SEbZlreO5lk"
+      },
+      "artists": [
+        {
+          "name": "Yeng Constantino",
+          "url": "https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269348,
+      "name": "Dumating",
+      "url": "https://open.spotify.com/track/62Gu9IhnnUm2hCJ5VDYT7z"
     },
     {
       "album": {
@@ -7666,7 +7702,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 208800,
       "name": "IMPERFECT",
       "url": "https://open.spotify.com/track/27u25Xi7maxRX0likQbKif"
@@ -8096,6 +8132,28 @@
       "duration_ms": 246522,
       "name": "Kaakit-akit",
       "url": "https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G"
+    },
+    {
+      "album": {
+        "name": "KABADO",
+        "url": "https://open.spotify.com/album/6QirzdlEJWXYgPEXJk6u07"
+      },
+      "artists": [
+        {
+          "name": "Dro Perez",
+          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
+        },
+        {
+          "name": "Sol",
+          "url": "https://open.spotify.com/artist/5X0TyKrix2K8jKMDNAxGUT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "KABADO",
+      "url": "https://open.spotify.com/track/1BpZI7nnmuBDkKq0kRDtw7"
     },
     {
       "album": {
@@ -10479,6 +10537,28 @@
     },
     {
       "album": {
+        "name": "love u so.",
+        "url": "https://open.spotify.com/album/1IGN27fZUaerVu1N0hGZpl"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        },
+        {
+          "name": "DEN\u0232",
+          "url": "https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287586,
+      "name": "love u so.",
+      "url": "https://open.spotify.com/track/4mrJaQAFk6SVvYJDuVOq5Q"
+    },
+    {
+      "album": {
         "name": "Loved For Once",
         "url": "https://open.spotify.com/album/4y5pQr79iY387t8FINjwlV"
       },
@@ -12147,6 +12227,24 @@
     },
     {
       "album": {
+        "name": "Saliw Padamdam",
+        "url": "https://open.spotify.com/album/6s6FXsgGlBUwhQILpn1juS"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241153,
+      "name": "Musta?",
+      "url": "https://open.spotify.com/track/0jJNDqQkfbZBkOdYTAlESy"
+    },
+    {
+      "album": {
         "name": "my crush and i will crush the system baby",
         "url": "https://open.spotify.com/album/3V7AG5cXmnhZLiEDuIVfDZ"
       },
@@ -12468,7 +12566,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198588,
       "name": "Nahuhulog Nanaman Sa'yo",
       "url": "https://open.spotify.com/track/2NVJNM6UtvVhsz335h4Rk3"
@@ -13450,7 +13548,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 252275,
       "name": "Oo",
       "url": "https://open.spotify.com/track/7707SbyEaOHVfS85rNCUoi"
@@ -13884,7 +13982,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 226222,
       "name": "Pag-Ibig Nating Dalawa",
       "url": "https://open.spotify.com/track/3pKOGWYDPPNZzV06ofyRml"
@@ -14166,6 +14264,24 @@
       "duration_ms": 304888,
       "name": "Pakiusap",
       "url": "https://open.spotify.com/track/3lHvGgtL4OPyfTkmF8fWv7"
+    },
+    {
+      "album": {
+        "name": "Pakiusap Ko",
+        "url": "https://open.spotify.com/album/06oKG6QYFXkWNi6BnJ2SJm"
+      },
+      "artists": [
+        {
+          "name": "leanne",
+          "url": "https://open.spotify.com/artist/0V39TQSFg4VAwmwJ6JWdsU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Pakiusap Ko",
+      "url": "https://open.spotify.com/track/0xMT56sgyqLKzIKkmwOFnL"
     },
     {
       "album": {
@@ -15962,7 +16078,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185046,
       "name": "Realidad",
       "url": "https://open.spotify.com/track/2Q3TmKXe3bAw1uF5GlSv6u"

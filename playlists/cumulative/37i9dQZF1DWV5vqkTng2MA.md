@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marfa
 
-374 songs - 22 hr 14 min
+375 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [No Sugar In My Coffee](https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg) | 3:28 | 2023-09-15 | 2024-04-19 |
 | [No Tengo Valor](https://open.spotify.com/track/16Eou1I5su9dxDKCYAVkmH) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [No Tengo Valor](https://open.spotify.com/album/7JvcNuFQT1h2e2IcyQUXhL) | 3:02 | 2025-05-09 |  |
 | [Noam Chomsky Is A Soft Revolution](https://open.spotify.com/track/5Hmqw5n7eAG3AOjegIOZF8) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Noam Chomsky Is A Soft Revolution](https://open.spotify.com/album/2vlXUWE82bX5MwmANg6eIO) | 2:28 | 2021-10-01 | 2022-07-28 |
-| [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 | 2021-10-01 |  |
+| [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 | 2021-10-01 | 2026-11-20 |
 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 | 2021-10-01 |  |
 | [Numb](https://open.spotify.com/track/7DM3hMeOT4yFdzzLJZiafD) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 4:05 | 2022-08-02 | 2022-11-14 |
 | [Numb](https://open.spotify.com/track/70HTUTCkfEgNDvKCzTNnV4) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ) | 4:10 | 2022-08-02 | 2024-04-19 |
@@ -358,6 +358,7 @@
 | [Unforgivable](https://open.spotify.com/track/4YOrvi3CpPvX48symLER3H) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:43 | 2025-05-19 |  |
 | [Up and Down a Mountain](https://open.spotify.com/track/0FknOu4D8csA7MLxBE7L9K) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [True Violet](https://open.spotify.com/album/2eWgxkjH8BZR652lXDfDB5) | 3:49 | 2026-10-23 |  |
 | [Upside](https://open.spotify.com/track/5CgFOxsAX8qwj6lR8j9Ard) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Radius \(Deluxe Edition\)](https://open.spotify.com/album/2sVa8Vc8jNp6vClhgljcrj) | 4:01 | 2022-06-01 | 2022-12-03 |
+| [Use It](https://open.spotify.com/track/6eIM8a7UruYaoii9HMvVsr) | [MudKings](https://open.spotify.com/artist/19CSupGlgbkAXTNNuEbuqU) | [Use It](https://open.spotify.com/album/5YVw8LQmJnm9FdzcVitVrl) | 3:51 | 2026-11-20 |  |
 | [Used To It](https://open.spotify.com/track/1tp8uFC4YE09X3Wjpmn2gv) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Weekend Lover & Used To It](https://open.spotify.com/album/1SFDJYF9MZl8LesS75fDhs) | 3:50 | 2026-07-17 | 2026-10-03 |
 | [Waco](https://open.spotify.com/track/1UwCpT8W2wBfh3VbndlG9P) | [Marfa](https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD) | [We'll All Be Okay](https://open.spotify.com/album/2S0fxVLF8R9clrS9QQ4ikE) | 2:49 | 2026-10-23 |  |
 | [Washashore Cowgirl](https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK) | [Monica Rizzio](https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3) | [Washashore Cowgirl](https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP) | 3:05 | 2024-03-01 | 2026-02-14 |

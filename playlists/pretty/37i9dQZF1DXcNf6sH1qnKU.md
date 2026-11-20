@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,103 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,209 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 21 | [Nearer Than Heaven](https://open.spotify.com/track/1jVlXUiM48CQaQup6899a8) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:28 |
 | 22 | [Into The Ether](https://open.spotify.com/track/0MllKGT9TEHf7AH0BJhEVj) | [Secret Shine](https://open.spotify.com/artist/7ebUhQ5S6ELUODQpOX7GcV) | [Untouched](https://open.spotify.com/album/6rHa81gotpmu3XYL3aY50H) | 4:42 |
 | 23 | [Mesmerise](https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 4:12 |
-| 24 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
+| 24 | [Sure](https://open.spotify.com/track/3zdTA309WHMFZo1l6IAiPu) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sugar & Spice](https://open.spotify.com/album/6ukRsxcKxoNNi1PNUui57O) | 4:09 |
 | 25 | [Special One](https://open.spotify.com/track/3gzwXojnb6on1FlwSmKVCi) | [Ultra Vivid Scene](https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH) | [Joy 1967 \- 1990](https://open.spotify.com/album/2KzZDQ1NyBRRj1CAgUV9Ae) | 3:15 |
 | 26 | [Wanderlust](https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:58 |
-| 27 | [Sure](https://open.spotify.com/track/3zdTA309WHMFZo1l6IAiPu) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sugar & Spice](https://open.spotify.com/album/6ukRsxcKxoNNi1PNUui57O) | 4:09 |
+| 27 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
 | 28 | [Pearl \- Edit](https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:50 |
 | 29 | [Vertigo](https://open.spotify.com/track/3YU5K6BC3kD55wacVkPUOD) | [Miki Berenyi Trio](https://open.spotify.com/artist/3Scu03tOOZROXquwsaUj19) | [Vertigo](https://open.spotify.com/album/7jzWtkZr2h30wP701xYE1j) | 4:43 |
 | 30 | [Taste The Air](https://open.spotify.com/track/0lua5pt4qEWHQLE3cHu5B0) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Pearlies](https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 49 | [Swallow \(EP Version\)](https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 4:53 |
 | 50 | [Space Song](https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt) | 5:20 |
 
-Snapshot ID: `AAAAAM8l6samWZAAOiP2PnrGP8AAyRO8`
+Snapshot ID: `AAAAAG6uKlWISBZhpRHzK5gg0PJWSmJE`

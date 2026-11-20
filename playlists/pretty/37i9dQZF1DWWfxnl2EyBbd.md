@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > Unwind and relax to the soft sound of jazz piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,642 likes - 82 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,656 likes - 82 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 22 | [Two Shadows](https://open.spotify.com/track/0onz00xJtAFBVRlOUHNeVm) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Two Shadows](https://open.spotify.com/album/73vN2nvl4vs9sqEd4Ctvel) | 2:29 |
 | 23 | [Fading Skies](https://open.spotify.com/track/11tihsEnimWVpYDKKyncEv) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Fading Skies](https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0) | 2:18 |
 | 24 | [New Years Ahead](https://open.spotify.com/track/6fcSVHWjOFkftmW0Ck3mS3) | [Avery Tormichael](https://open.spotify.com/artist/6XlTCj3XJ2exhVk2rW5JbL) | [New Years Ahead](https://open.spotify.com/album/4dwpRqG7JlbdAYkXIpGdDF) | 2:16 |
-| 25 | [A Second To None](https://open.spotify.com/track/4UsTV4FO3ipzTby6LNOh1I) | [Jacob Concord](https://open.spotify.com/artist/4DK5fFescw1SzfGrThWjKi) | [A Second To None](https://open.spotify.com/album/48zRVACVygfO4YqbG0N3M8) | 2:54 |
-| 26 | [Some Other Time](https://open.spotify.com/track/3rFFpestLu0mdxj5mTQ3KQ) | [Adriel Holt](https://open.spotify.com/artist/7khUUnooMekTzkQgH047PV) | [Some Other Time](https://open.spotify.com/album/20uWc4oFHGcrvtsFp1iWIp) | 2:45 |
+| 25 | [Some Other Time](https://open.spotify.com/track/3rFFpestLu0mdxj5mTQ3KQ) | [Adriel Holt](https://open.spotify.com/artist/7khUUnooMekTzkQgH047PV) | [Some Other Time](https://open.spotify.com/album/20uWc4oFHGcrvtsFp1iWIp) | 2:45 |
+| 26 | [A Second To None](https://open.spotify.com/track/4UsTV4FO3ipzTby6LNOh1I) | [Jacob Concord](https://open.spotify.com/artist/4DK5fFescw1SzfGrThWjKi) | [A Second To None](https://open.spotify.com/album/48zRVACVygfO4YqbG0N3M8) | 2:54 |
 | 27 | [Peace is overrated](https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Peace is overrated](https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i) | 2:52 |
 | 28 | [in bloom](https://open.spotify.com/track/2HD8hrsF93st2QU00boQea) | [Hans DeGeer](https://open.spotify.com/artist/3r7uTBA2KM7UeghyK1jUye) | [in bloom](https://open.spotify.com/album/1AbaoCmTtSjSB77bQjGlRq) | 2:04 |
 | 29 | [Midnight Promises](https://open.spotify.com/track/3LOcyi3pPJ0v5dQJXbTohF) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Midnight Promises](https://open.spotify.com/album/6zGj4Fb4JqTrX37cDGLRXI) | 2:35 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 41 | [At Joe's](https://open.spotify.com/track/2mPY4uyeDlGNnaflZHejum) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [At Joe's](https://open.spotify.com/album/1ZIYs9PhTWTBD4bFfBPBma) | 2:26 |
 | 42 | [Fading Away](https://open.spotify.com/track/2Lj90XBNH1Tl3vtD6vJcUj) | [Jacques Liti](https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59) | [Fading Away](https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET) | 2:47 |
 | 43 | [Quite a dilemma](https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Quite a dilemma](https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI) | 2:55 |
-| 44 | [A Fourth Thought](https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V) | [Alur Mcrose](https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF) | [A Fourth Thought](https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE) | 2:27 |
-| 45 | [Nothing Like Home](https://open.spotify.com/track/3sDNFPDQ90gLKk9cRuPPjb) | [Degli Scalzi](https://open.spotify.com/artist/00SKXIqWJekH9XzXkpyAZp) | [Nothing Like Home](https://open.spotify.com/album/2EfUCSCnXzADrYxMfT1oy6) | 2:33 |
-| 46 | [Everyone Will Know](https://open.spotify.com/track/1ZWDi0dUOje7fcTGS14rzC) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [Everyone Will Know](https://open.spotify.com/album/1c19UtVFYbhGNPIPkAbHL9) | 2:53 |
-| 47 | [A Moment To Give](https://open.spotify.com/track/3Q7dTZa2B78SGCc1HHPieB) | [Zach Dawson](https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv) | [A Moment To Give](https://open.spotify.com/album/3SBA201Y91QNWpBhnQcl2C) | 3:11 |
-| 48 | [promenade](https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [promenade](https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb) | 2:43 |
-| 49 | [An Evening Walk](https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [An Evening Walk](https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V) | 2:13 |
+| 44 | [An Evening Walk](https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [An Evening Walk](https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V) | 2:13 |
+| 45 | [A Fourth Thought](https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V) | [Alur Mcrose](https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF) | [A Fourth Thought](https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE) | 2:27 |
+| 46 | [Nothing Like Home](https://open.spotify.com/track/3sDNFPDQ90gLKk9cRuPPjb) | [Degli Scalzi](https://open.spotify.com/artist/00SKXIqWJekH9XzXkpyAZp) | [Nothing Like Home](https://open.spotify.com/album/2EfUCSCnXzADrYxMfT1oy6) | 2:33 |
+| 47 | [Everyone Will Know](https://open.spotify.com/track/1ZWDi0dUOje7fcTGS14rzC) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [Everyone Will Know](https://open.spotify.com/album/1c19UtVFYbhGNPIPkAbHL9) | 2:53 |
+| 48 | [A Moment To Give](https://open.spotify.com/track/3Q7dTZa2B78SGCc1HHPieB) | [Zach Dawson](https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv) | [A Moment To Give](https://open.spotify.com/album/3SBA201Y91QNWpBhnQcl2C) | 3:11 |
+| 49 | [promenade](https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [promenade](https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb) | 2:43 |
 | 50 | [Midnight on 5th Avenue](https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Midnight on 5th Avenue](https://open.spotify.com/album/5e3YlISXye6cegkORKd27J) | 3:00 |
 | 51 | [A Touch of Kindness](https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF) | [Johnny Blackwood](https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe) | [A Touch of Kindness](https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3) | 2:16 |
 | 52 | [Where Dreams Go to Sleep](https://open.spotify.com/track/4KqBLedO4BQ90dLH1E2H94) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [Where Dreams Go to Sleep](https://open.spotify.com/album/2joqhs2irtfZ2kDRCCj9Ia) | 2:49 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 59 | [For One Night Only](https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [For One Night Only](https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap) | 2:45 |
 | 60 | [It's Probably True](https://open.spotify.com/track/5IyPuOrKPiLirp64hEfvG5) | [Kim Lawrence](https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4) | [It's Probably True](https://open.spotify.com/album/0Txq2OlEdEfyh8eUXpuPz7) | 2:52 |
 | 61 | [Skógafoss](https://open.spotify.com/track/0yGxX6e3dXHreh1YXjQJxs) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Skógafoss](https://open.spotify.com/album/6mYArGcIpsQxuUXvVQ03qK) | 3:21 |
-| 62 | [Says Nothing](https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Says Nothing](https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m) | 2:44 |
-| 63 | [Here with Me](https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17) | [Jakob Schröder](https://open.spotify.com/artist/2bZm8QiZFS3VRCfRqVP5kE) | [Here with Me](https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf) | 3:17 |
+| 62 | [Here with Me](https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17) | [Jakob Schröder](https://open.spotify.com/artist/2bZm8QiZFS3VRCfRqVP5kE) | [Here with Me](https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf) | 3:17 |
+| 63 | [Says Nothing](https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Says Nothing](https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m) | 2:44 |
 | 64 | [Heart And Soul](https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs) | [Randall Peterson](https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140) | [Heart And Soul](https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4) | 3:13 |
 | 65 | [The Only One](https://open.spotify.com/track/2yNAPCt1ey10ov2GZVuCf9) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [The Only One](https://open.spotify.com/album/6824Z6r0vErBVaH8Xjc3gJ) | 2:36 |
 | 66 | [A clear sky](https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [A Clear Sky](https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY) | 2:50 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 81 | [Our Last Night](https://open.spotify.com/track/1kn5wHyoMHdVWG7nGfK4uq) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [Our Last Night](https://open.spotify.com/album/0MWb0DUPUyt6bMaRWbPDSs) | 2:28 |
 | 82 | [You're glowing](https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [You're glowing](https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02) | 2:41 |
 
-Snapshot ID: `AAAAAF86hKQTNv3hI74U2PPwiH5Mrfkp`
+Snapshot ID: `AAAAAGLGQregXfwma8nXzGb+zyg/A/ef`

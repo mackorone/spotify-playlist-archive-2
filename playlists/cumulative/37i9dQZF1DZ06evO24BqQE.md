@@ -4,7 +4,7 @@
 
 > This is BNXN\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 26 min
+70 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 | 2025-07-12 |  |
 | [Frank Sinatra](https://open.spotify.com/track/0d7KdxC7iAxRKDjNdx2seP) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [The Game Needs Us](https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be) | 2:58 | 2026-05-13 |  |
 | [GBESUNMO](https://open.spotify.com/track/0Mqtzr0TDjI4LCj6x55ivM) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [GBESUNMO](https://open.spotify.com/album/3O1QBExQyfVN5BIrs0osv9) | 3:08 | 2026-06-28 | 2026-07-26 |
-| [GBESUNMO](https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 3:08 | 2026-07-26 |  |
+| [GBESUNMO](https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 3:08 | 2026-07-26 | 2026-11-20 |
 | [GWAGWALADA](https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:08 | 2025-07-12 |  |
 | [Hustle](https://open.spotify.com/track/1IcnpAY3JjK8b0dkpCZjdS) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [ATSG, Vol\. 1](https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn) | 3:09 | 2025-07-12 | 2026-08-28 |
 | [I Alone](https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:27 | 2025-07-12 |  |
@@ -55,6 +55,7 @@
 | [Never Stopped](https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sorry I'm Late](https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u) | 3:20 | 2025-07-12 |  |
 | [No Spoil My Steeze](https://open.spotify.com/track/7vT1tAmx5F8P2Fat7gqsZz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Spoil My Steeze](https://open.spotify.com/album/7keuk7sJUYxoVCDaZTeve6) | 3:31 | 2025-07-12 | 2026-01-17 |
 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 | 2025-07-12 |  |
+| [Oh My](https://open.spotify.com/track/4rF6m94AncOXU0XzEcRtvB) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Oh My](https://open.spotify.com/album/2t6vgL0DsIHXTpgQGiCPlT) | 2:29 | 2026-11-20 |  |
 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:50 | 2025-07-12 |  |
 | [Online](https://open.spotify.com/track/5ljTDsyyDKI2xbJOqwOdVU) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Online](https://open.spotify.com/album/2z7LOtUcH07Th8zzVi3765) | 2:52 | 2026-09-19 |  |
 | [Oshimiri](https://open.spotify.com/track/2i5PqDEsME85JezRrq6BJy) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:05 | 2025-07-12 |  |

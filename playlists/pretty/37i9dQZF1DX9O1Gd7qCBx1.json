@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 231437,
+  "num_followers": 231431,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEpIoG5ou1U9GURi6nLbPGhjgowN",
+  "snapshot_id": "AAAAAKu1YwrizGMU3roJH5kWpa2yp9u/",
   "tracks": [
     {
       "added_at": "2026-06-24 20:03:44",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/1UdavcEuofRFCq2Mq2278f"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 511333,
+      "name": "La llorona",
+      "url": "https://open.spotify.com/track/45rQqSqb95p5lkZy13Tl1u"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
         "name": "Timoneki",
         "url": "https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/1UdavcEuofRFCq2Mq2278f"
+        "name": "Rey Az\u00facar",
+        "url": "https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc"
       },
       "artists": [
         {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 511333,
-      "name": "La llorona",
-      "url": "https://open.spotify.com/track/45rQqSqb95p5lkZy13Tl1u"
+      "duration_ms": 258226,
+      "name": "Muerte Querida - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1059,22 +1075,6 @@
       "duration_ms": 193973,
       "name": "Para Cuando Muera",
       "url": "https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
-        "name": "Rey Az\u00facar",
-        "url": "https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 258226,
-      "name": "Muerte Querida - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi"
     },
     {
       "added_at": "2026-06-24 20:03:44",

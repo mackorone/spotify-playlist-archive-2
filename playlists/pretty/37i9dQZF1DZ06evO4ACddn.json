@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADERsvkbPHoCpr3N3zntr0M",
+  "snapshot_id": "avzqgAAAAAAYpcI6i+AlibPKg7jnqkwx",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What We Do To Feel",
-        "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/52poTRqk79PXpHF86afIJS"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 224957,
-      "name": "The Lens",
-      "url": "https://open.spotify.com/track/6Lh5FdtCCWShjxZP9hPGAw"
+      "duration_ms": 174729,
+      "name": "Things Will Matter",
+      "url": "https://open.spotify.com/track/25m9ufcln7PU84c5AO87N8"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter (Redux)",
-        "url": "https://open.spotify.com/album/52poTRqk79PXpHF86afIJS"
+        "name": "What We Do To Feel",
+        "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 174729,
-      "name": "Things Will Matter",
-      "url": "https://open.spotify.com/track/25m9ufcln7PU84c5AO87N8"
+      "duration_ms": 224957,
+      "name": "The Lens",
+      "url": "https://open.spotify.com/track/6Lh5FdtCCWShjxZP9hPGAw"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 206605,
-      "name": "Long Way",
-      "url": "https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS"
+      "duration_ms": 272094,
+      "name": "Our Sketch Out",
+      "url": "https://open.spotify.com/track/2S8q4TU6Ojb5Mp170dhPWd"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 272094,
-      "name": "Our Sketch Out",
-      "url": "https://open.spotify.com/track/2S8q4TU6Ojb5Mp170dhPWd"
+      "duration_ms": 206605,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS"
     },
     {
       "added_at": null,

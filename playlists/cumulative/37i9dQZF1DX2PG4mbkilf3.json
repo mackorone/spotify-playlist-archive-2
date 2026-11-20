@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with THEHONESTGUY from Toronto, ON.",
+  "description": "Your guide to R&B in Canada, with Maz B from Winnipeg, MB.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -12055,6 +12055,24 @@
     },
     {
       "album": {
+        "name": "Haki",
+        "url": "https://open.spotify.com/album/2hJolRAFMxkaKmSqgNo2If"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Haki",
+      "url": "https://open.spotify.com/track/4clk0xL1fbDwflLJkLvru3"
+    },
+    {
+      "album": {
         "name": "Half Empty",
         "url": "https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH"
       },
@@ -15730,7 +15748,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168046,
       "name": "Just Us In The Room",
       "url": "https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg"
@@ -17287,6 +17305,28 @@
     },
     {
       "album": {
+        "name": "Pretty Boy Diaries",
+        "url": "https://open.spotify.com/album/7oSfntxRQYjy54WuXfXuLS"
+      },
+      "artists": [
+        {
+          "name": "noiir",
+          "url": "https://open.spotify.com/artist/4fajmnCbACvqKxvd2jXyxz"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127227,
+      "name": "Long Distance",
+      "url": "https://open.spotify.com/track/3UryituGLPMoSwgujJrSvI"
+    },
+    {
+      "album": {
         "name": "Look At What I'm Doing To You",
         "url": "https://open.spotify.com/album/5tiIUsyEASKQuVHSjkWz2H"
       },
@@ -17746,7 +17786,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 126530,
       "name": "Love Like Her",
       "url": "https://open.spotify.com/track/3w7rR5UzrbJyn3sK28qYkD"
@@ -22610,7 +22650,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 196440,
       "name": "over this time",
       "url": "https://open.spotify.com/track/0Lk7CieAtT2dEmbm05dBl5"
@@ -26002,7 +26042,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 112121,
       "name": "Same Old Games",
       "url": "https://open.spotify.com/track/025PPGYXFWgJdyMYXX8jmM"
@@ -27318,6 +27358,24 @@
       "duration_ms": 176317,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/7F9K69ywGHjiuiXfkdrG2P"
+    },
+    {
+      "album": {
+        "name": "Sky Pie",
+        "url": "https://open.spotify.com/album/1P5ZdU3PSZCorhye1F74Go"
+      },
+      "artists": [
+        {
+          "name": "646yf4t",
+          "url": "https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180821,
+      "name": "Sky Pie",
+      "url": "https://open.spotify.com/track/3uGpgNim59nmmjVueA2V8v"
     },
     {
       "album": {
@@ -29423,6 +29481,24 @@
     },
     {
       "album": {
+        "name": "stuck on you",
+        "url": "https://open.spotify.com/album/75f2nccIOr4rx0ohMRTERL"
+      },
+      "artists": [
+        {
+          "name": "Haley Smalls",
+          "url": "https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "stuck on you",
+      "url": "https://open.spotify.com/track/6lXNwoh8R2mD0JqM3FxQGI"
+    },
+    {
+      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/0q3zbKFteQq0ALLU97dZeT"
       },
@@ -31072,7 +31148,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 140145,
       "name": "THE RIDE",
       "url": "https://open.spotify.com/track/5LvLrK5VjiyKLZ8QHExvh2"
@@ -34596,6 +34672,24 @@
       "duration_ms": 200958,
       "name": "won't make it",
       "url": "https://open.spotify.com/track/5fm2hA6xErpIpankZuyokX"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/6DKG6czDnRl5oGlEkHipN6"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/463taoEXHSh3RLkW0FnCw0"
     },
     {
       "album": {

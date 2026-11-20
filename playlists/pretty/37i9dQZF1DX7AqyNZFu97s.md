@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Another Country $$$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,917 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,921 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 49 | [Satisfeen](https://open.spotify.com/track/2VBcAxYv50J8JghXP5JcBs) | [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Satisfeen](https://open.spotify.com/album/0bBYXNQ9RYpJQ3LfFmSEWA) | 3:18 |
 | 50 | [Aggy Organ](https://open.spotify.com/track/1uDFHGRQTPrUmj2NQGOOeW) | [Charlie Powell](https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru) | [Aggy Organ](https://open.spotify.com/album/3cJrYg3MfdsvJuhXxBc14z) | 2:24 |
 
-Snapshot ID: `AAAAACbAB0ziTPKtUmCKDLWk400fI360`
+Snapshot ID: `AAAAAIQxFLwYbYx9g+gnmlLYc93LKjh4`

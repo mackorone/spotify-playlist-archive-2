@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 156955,
+  "num_followers": 157016,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAACYgHBN6xOC0lvIGaFO9jsI",
+  "snapshot_id": "avzqgAAAAABzHceiijdPWBpGI56PRbqQ",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196204,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 249033,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SWAG II",
         "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 165586,
       "name": "I THINK YOU'RE SPECIAL",
       "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 247578,
-      "name": "Free Mind",
-      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Damages",
+      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 192417,
       "name": "Fountains (with Tems)",
       "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Damages",
-      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 176933,
-      "name": "First",
-      "url": "https://open.spotify.com/track/6Ijr2FALEGiepGbWdPp5Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 166153,
       "name": "The Key",
       "url": "https://open.spotify.com/track/4w4EJ9EaeogHLLEYlUXFDo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 176933,
+      "name": "First",
+      "url": "https://open.spotify.com/track/6Ijr2FALEGiepGbWdPp5Qh"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Big Daddy",
-      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 310626,
       "name": "Bunce Road Blues (with Future & Tems)",
       "url": "https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Big Daddy",
+      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Lagos Love",
-      "url": "https://open.spotify.com/track/3AYQsSyM8Mi8GV0OKItsBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 247164,
       "name": "Ice T",
       "url": "https://open.spotify.com/track/4vcUf8YqLi1mDeT9c0Wo6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 190546,
+      "name": "Lagos Love",
+      "url": "https://open.spotify.com/track/3AYQsSyM8Mi8GV0OKItsBR"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 160560,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/0fKrZjwdZlwAEYi7S012mN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If Orange Was A Place",
         "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 224171,
       "name": "Avoid Things",
       "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 160560,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/0fKrZjwdZlwAEYi7S012mN"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr Rebel",
+        "url": "https://open.spotify.com/album/5j85aoLtCfduYh17a2Evlr"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 236382,
+      "name": "Mr Rebel",
+      "url": "https://open.spotify.com/track/4SYnhnD6V2sqa6Zc0SsGlq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Is A Kingdom",
         "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
       },
@@ -619,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr Rebel",
-        "url": "https://open.spotify.com/album/5j85aoLtCfduYh17a2Evlr"
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL"
       },
       "artists": [
         {
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 236382,
-      "name": "Mr Rebel",
-      "url": "https://open.spotify.com/track/4SYnhnD6V2sqa6Zc0SsGlq"
+      "duration_ms": 172000,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
       "duration_ms": 203383,
       "name": "MOVE (feat. Grace Jones & Tems)",
       "url": "https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/4tzbxDfUjflwTUB58jPlqI"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/45f0EfCC7vMYIXnoQtjP6K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palmwine Music 3",
         "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 227441,
       "name": "Looku Looku",
       "url": "https://open.spotify.com/track/3GJ4pBRc3T9aDP59S0UKHn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/4tzbxDfUjflwTUB58jPlqI"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/45f0EfCC7vMYIXnoQtjP6K"
     },
     {
       "added_at": null,

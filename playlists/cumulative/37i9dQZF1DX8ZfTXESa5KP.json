@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Congratulations to all of the nominees! Watch the CMA Awards live on November 18th at 8/7c on ABC! Cover: Lainey Wilson",
+  "description": "Congratulations to all of the nominees and winners! Cover: Miranda Lambert and Ella Langley",
   "name": "CMA Awards 2026",
   "tracks": [
     {
@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249360,
+      "name": "Don't Take The Girl",
+      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
         "url": "https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg"
       },
@@ -1863,6 +1881,28 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -2150,10 +2190,28 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178186,
       "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "album": {
+        "name": "I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
+        "url": "https://open.spotify.com/album/7hvLc1GT15iRwqmOkw8yP9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192170,
+      "name": "I Knew It, I Knew You x Our Song - Live From The 60th CMA Awards",
+      "url": "https://open.spotify.com/track/0sYnWbdznUbJExknlyf03S"
     },
     {
       "album": {
@@ -2230,6 +2288,28 @@
       "duration_ms": 178613,
       "name": "I Was On a Boat That Day",
       "url": "https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8"
+    },
+    {
+      "album": {
+        "name": "I'm a Song",
+        "url": "https://open.spotify.com/album/1FvFf5xivch1Q13ouzmC8o"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275759,
+      "name": "I'm a Song (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0v9ZnTzTMTkl4hkJT8yVGE"
     },
     {
       "album": {
@@ -2470,6 +2550,24 @@
       "duration_ms": 274520,
       "name": "Joy Of My Life",
       "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0"
+    },
+    {
+      "album": {
+        "name": "Just A Woman",
+        "url": "https://open.spotify.com/album/5moBYmChzPrvaS0C0TuQop"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224461,
+      "name": "Just A Woman",
+      "url": "https://open.spotify.com/track/5veFPov4yG0SbfZqXGjoP3"
     },
     {
       "album": {
@@ -2930,6 +3028,42 @@
       "duration_ms": 223332,
       "name": "Mexico Honey",
       "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184063,
+      "name": "Miss You Here",
+      "url": "https://open.spotify.com/track/5kfhStchJYHqwypSwRwysc"
+    },
+    {
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/1LLHDptETZR8lRR5wkFS8n"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188120,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/3inqjrjGhwqq77Kq1wI0zf"
     },
     {
       "album": {
@@ -3817,6 +3951,28 @@
     },
     {
       "album": {
+        "name": "Crisco",
+        "url": "https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Snakeskin Boots",
+      "url": "https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729"
+    },
+    {
+      "album": {
         "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe"
       },
@@ -3850,7 +4006,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 226000,
       "name": "Somewhere Over Laredo",
       "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
@@ -4894,6 +5050,24 @@
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "album": {
+        "name": "Who Told You That",
+        "url": "https://open.spotify.com/album/7MHzrc64ZU0SvegIKDSFzQ"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "Who Told You That",
+      "url": "https://open.spotify.com/track/2DZKhX2k3XZqQ5h5jwJyGh"
     },
     {
       "album": {

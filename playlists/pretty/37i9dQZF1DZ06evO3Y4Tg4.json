@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 278662,
+  "num_followers": 278703,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADiHAaIaxwV43sMAcBZBuSV",
+  "snapshot_id": "avzqgAAAAAAieR9Ngq4v4A54411OVb8z",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Trojan Horse",
-      "url": "https://open.spotify.com/track/16D8OTSQ2qq9SEMzijwZiH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAN'T RUSH GREATNESS",
         "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 182040,
       "name": "CRG (feat. Dave)",
       "url": "https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Trojan Horse",
+      "url": "https://open.spotify.com/track/16D8OTSQ2qq9SEMzijwZiH"
     },
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 182285,
+      "name": "Verdansk",
+      "url": "https://open.spotify.com/track/3AEOrh7zWjV2rVS1yOd41q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Funky Friday",
         "url": "https://open.spotify.com/album/1rsazGoWjl4zj4xyASJhJi"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 182741,
       "name": "Funky Friday",
       "url": "https://open.spotify.com/track/7qVMGBe36nf1IpbsyQf1MR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 182285,
-      "name": "Verdansk",
-      "url": "https://open.spotify.com/track/3AEOrh7zWjV2rVS1yOd41q"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Lazarus (feat. Boj)",
-      "url": "https://open.spotify.com/track/1vdP5l03rrRobswkVke5qP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OFA (Oxlade From Africa)",
         "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 212026,
       "name": "INTOXYCATED",
       "url": "https://open.spotify.com/track/1lcSY9kXL2PG8HYuDlV4KW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Lazarus (feat. Boj)",
+      "url": "https://open.spotify.com/track/1vdP5l03rrRobswkVke5qP"
     },
     {
       "added_at": null,

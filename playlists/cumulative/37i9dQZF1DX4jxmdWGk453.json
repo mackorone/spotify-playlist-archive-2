@@ -1033,6 +1033,32 @@
     },
     {
       "album": {
+        "name": "Song for Snow (A Cambridge Christmas)",
+        "url": "https://open.spotify.com/album/3Nc2EspwJqKxPTLi9F5U1v"
+      },
+      "artists": [
+        {
+          "name": "Piers Connor Kennedy",
+          "url": "https://open.spotify.com/artist/6lQTJxpcfkOs1QBJvzNs3e"
+        },
+        {
+          "name": "The Choir Of Trinity College, Cambridge",
+          "url": "https://open.spotify.com/artist/3x8rZy1i6FwWOWKwfRT1Ab"
+        },
+        {
+          "name": "Steven Grahl",
+          "url": "https://open.spotify.com/artist/2IHSEvh2fIWiw9U0UBwHqJ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Hym Worship We Now Borne so Fre",
+      "url": "https://open.spotify.com/track/0iNX8WGQg8ADAQBHYQNgBJ"
+    },
+    {
+      "album": {
         "name": "The Complete Traditional Christmas Carols Collection",
         "url": "https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2"
       },

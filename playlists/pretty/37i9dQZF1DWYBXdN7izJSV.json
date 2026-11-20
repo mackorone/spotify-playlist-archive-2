@@ -1,12 +1,12 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 117580,
+  "num_followers": 117582,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAChXGAdRam/F16I/vxsm1tfQaPvH",
+  "snapshot_id": "AAAAAGCNhMbtJ1SWDsbSR82MJrlTMkQ7",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:42",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "The Traveling Wilburys, Vol. 1",
-        "url": "https://open.spotify.com/album/4zcvamWINofMEwG74kvQl1"
-      },
-      "artists": [
-        {
-          "name": "Traveling Wilburys",
-          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Handle With Care",
-      "url": "https://open.spotify.com/track/1G0ku3TLCGwrAHj9WPudKX"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Goodbye Normal Street",
         "url": "https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 301000,
       "name": "Good Lord Lorrie",
       "url": "https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/4zcvamWINofMEwG74kvQl1"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Handle With Care",
+      "url": "https://open.spotify.com/track/1G0ku3TLCGwrAHj9WPudKX"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 278213,
-      "name": "Oneida",
-      "url": "https://open.spotify.com/track/5dUCixiCL0CcIUdlgUl1ct"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Diamonds & Gasoline",
         "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
       },
@@ -235,6 +219,38 @@
       "duration_ms": 289653,
       "name": "7 & 7",
       "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 278213,
+      "name": "Oneida",
+      "url": "https://open.spotify.com/track/5dUCixiCL0CcIUdlgUl1ct"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -255,22 +271,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/4Cd7jyOiC8S18NwUBEGRbe"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "John Prine",
-        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Angel from Montgomery",
-      "url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Diamonds & Gasoline",
         "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 252480,
       "name": "Long Hot Summer Day",
       "url": "https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Angel from Montgomery",
+      "url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Crusades Of The Restless Knights",
-        "url": "https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 294053,
-      "name": "Conversation With The Devil",
-      "url": "https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Traveling Alone",
         "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 284960,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Crusades Of The Restless Knights",
+        "url": "https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 294053,
+      "name": "Conversation With The Devil",
+      "url": "https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m"
     },
     {
       "added_at": "2026-06-19 04:01:42",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "It Had To Happen",
-        "url": "https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 439440,
-      "name": "No More Buffalo",
-      "url": "https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "The Little Willies",
         "url": "https://open.spotify.com/album/5G864T3Gd0LlUEQdw0iZiw"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 163813,
       "name": "It's Not You, It's Me",
       "url": "https://open.spotify.com/track/3bWvZ3YluJBtHgCP7c0tBv"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "It Had To Happen",
+        "url": "https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q"
+      },
+      "artists": [
+        {
+          "name": "James McMurtry",
+          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
+        }
+      ],
+      "duration_ms": 439440,
+      "name": "No More Buffalo",
+      "url": "https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro"
     },
     {
       "added_at": "2026-06-19 04:01:42",

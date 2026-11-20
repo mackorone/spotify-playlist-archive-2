@@ -4,7 +4,7 @@
 
 > Country music to accompany you on the open road\. Cover: Cody Johnson
 
-452 songs - 1 day 0 hr 57 min
+453 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Getting Over Him](https://open.spotify.com/track/0OCY4cY7ZhmFMLR8Zipb51) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Getting Over Him](https://open.spotify.com/album/5Nnd51BWrdzEI2xTkTvjQ4) | 2:47 | 2022-02-01 | 2022-07-29 |
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 | 2021-12-03 | 2024-08-25 |
 | [Giving Up On That](https://open.spotify.com/track/2Iu5OBDudGv5B0qfKKKbGm) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Giving Up On That](https://open.spotify.com/album/38V4J5JSybT2xPJ3pGtibK) | 3:31 | 2023-04-21 | 2024-05-03 |
-| [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 | 2021-12-03 |  |
+| [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 | 2021-12-03 | 2026-11-20 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-12-03 | 2024-08-03 |
 | [GOD & GUNS N’ ROSES](https://open.spotify.com/track/0ryWwDkI0VcjMYJBrN9Fir) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [GOD & GUNS N’ ROSES](https://open.spotify.com/album/5bnproodqEP0tHybDjDF72) | 3:36 | 2026-03-23 |  |
 | [God Whispered Your Name](https://open.spotify.com/track/7Ce11Oh1kConF6UlkBWnaZ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [God Whispered Your Name](https://open.spotify.com/album/6AZ3VDmcFGG0rZfJPgUCVp) | 3:52 | 2021-12-03 | 2022-07-22 |
@@ -300,6 +300,7 @@
 | [Over For You](https://open.spotify.com/track/09igKkkm150rRZIxu1gjh3) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 3:05 | 2023-08-04 | 2023-09-29 |
 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 | 2023-07-07 | 2023-07-09 |
 | [People Are Crazy](https://open.spotify.com/track/5JnLiuMgRAWoHYOhatFP3s) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Little Bit Of Everything](https://open.spotify.com/album/3H119N8NtcjSUxOhimk2FQ) | 3:51 | 2022-07-01 | 2025-05-30 |
+| [Phone, Keys, Wallet](https://open.spotify.com/track/4JiYE3QxSX59KSx9Q4pHWa) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Phone, Keys, Wallet](https://open.spotify.com/album/4XB9IlDBDCdp4AcSGYMkFY) | 2:52 | 2026-11-20 |  |
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2022-08-01 |  |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-08-02 |  |
 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 | 2024-02-09 |  |

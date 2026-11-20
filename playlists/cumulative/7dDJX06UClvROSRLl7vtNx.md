@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,551 songs - 2 day 18 hr 43 min
+1,552 songs - 2 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Far Far Away](https://open.spotify.com/track/0lUlvk3pKAUqXWl99TPero) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [TMPST](https://open.spotify.com/artist/59cVQmptpzY1hVL5jRHJoI), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Far Far Away](https://open.spotify.com/album/4ua15QFiBZCTr4h0tEaK50) | 3:13 | 2025-08-25 | 2025-11-10 |
 | [Faraway](https://open.spotify.com/track/58pi82abqVUY3jRNDvZJWC) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Faraway](https://open.spotify.com/album/7f27vQWTvfWzsUdyjUU4wm) | 2:58 | 2024-09-01 | 2024-09-30 |
 | [Fast Car](https://open.spotify.com/track/5iWfvvDDdwmjmuQuquEwgg) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu), [Dani Vidi](https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc) | [Fast Car](https://open.spotify.com/album/5GjEy1Gaki9Q3zAa6fnznm) | 2:48 | 2023-09-22 | 2026-11-17 |
+| [Fast Car](https://open.spotify.com/track/4zgC4z2gPsZHFbNnsfwhgY) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Fast Car](https://open.spotify.com/album/2yql4yRoQGe8CbG1GrOkq8) | 2:25 | 2026-11-19 |  |
 | [Feel](https://open.spotify.com/track/35w3yvIS9rMvhUg9oEcYcH) | [SUGAR RUSH](https://open.spotify.com/artist/3mkErTLZLhkuDpNSLiN9Z1), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Feel](https://open.spotify.com/album/0yrJOqsM4UtGS1OOYh4Tu5) | 2:02 | 2024-12-05 | 2025-06-16 |
 | [Feel Alive](https://open.spotify.com/track/1Fp4dZHvUZrTart176QVCD) | [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Feel Alive](https://open.spotify.com/album/7bM8F2mpmAhmFJAwIPK2Cu) | 2:19 | 2026-11-18 |  |
 | [Feel Alive](https://open.spotify.com/track/1Eiczy4ODEAEIhyzS7WIs8) | [Saimöö](https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Feel Alive](https://open.spotify.com/album/2EbaF0PmHli9HQFgrVVS8m) | 2:13 | 2024-10-10 | 2025-03-03 |

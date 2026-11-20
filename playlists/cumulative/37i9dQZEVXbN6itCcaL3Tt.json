@@ -15744,7 +15744,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 204827,
       "name": "dop\u00f3ki si\u0119 nie zn\u00fcdzisz",
       "url": "https://open.spotify.com/track/6JK4DeLPHmdpwP8uuKeu4r"
@@ -30994,7 +30994,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 169714,
       "name": "Kwadrat",
       "url": "https://open.spotify.com/track/3sQgGP1r24Jw0CRHFpxgkz"
@@ -34104,7 +34104,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188678,
       "name": "Mallorca",
       "url": "https://open.spotify.com/track/6qtep64mtHs98Hj3FwBYu9"
@@ -37706,6 +37706,24 @@
     {
       "album": {
         "name": "The Reminder",
+        "url": "https://open.spotify.com/album/68EWS0SedJwY0UUuNlQzjs"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/0iR7FMydKheTmJmFiAQpUt"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
         "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
       },
       "artists": [
@@ -37716,7 +37734,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -38632,7 +38650,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 244948,
       "name": "Na Szczycie",
       "url": "https://open.spotify.com/track/7aQViYYpIkpJwyCHPysCo4"
@@ -39118,7 +39136,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 180266,
       "name": "Napalona",
       "url": "https://open.spotify.com/track/5Eg5qL4u3j7Jfi0N0X4Nrn"
@@ -47416,7 +47434,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192134,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/0TfBoSPyJlGOGYtFXeGQnH"
@@ -48822,7 +48840,7 @@
       ],
       "date_added": "2026-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 92273,
       "name": "Powiedz To",
       "url": "https://open.spotify.com/track/6ZntLx0nPxKz94hDUyvPIY"
@@ -67542,7 +67560,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 190104,
       "name": "Zakochany kundel",
       "url": "https://open.spotify.com/track/2S0tIyYwk80XvzJzYqMiNV"

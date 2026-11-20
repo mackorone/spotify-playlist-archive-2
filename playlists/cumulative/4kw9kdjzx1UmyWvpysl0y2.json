@@ -28001,6 +28001,28 @@
     },
     {
       "album": {
+        "name": "YOUR SPACE",
+        "url": "https://open.spotify.com/album/2u6Iboyg9POu7rTybEdUGm"
+      },
+      "artists": [
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        },
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "YOUR SPACE",
+      "url": "https://open.spotify.com/track/4qgNzZn2afVSvd2uHTeg3Q"
+    },
+    {
+      "album": {
         "name": "Your Way",
         "url": "https://open.spotify.com/album/75EEPbee9YaPfkY8oHEpAT"
       },

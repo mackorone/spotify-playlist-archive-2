@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: FISHER
+> The hottest tracks with the freshest hits! Cover: Ashe
 
 532 songs - 1 day 4 hr 44 min
 

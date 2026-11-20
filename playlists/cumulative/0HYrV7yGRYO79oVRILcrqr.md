@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-884 songs - 2 day 7 hr 0 min
+889 songs - 2 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Always Buying Stuff](https://open.spotify.com/track/42IXyMstxsXe32etO6JBvQ) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Parallels](https://open.spotify.com/album/74pA4CqzQ2dRNgbGF1g5x4) | 3:43 | 2026-03-02 |  |
 | [Amandote Amandonos](https://open.spotify.com/track/6sEdBo2YhjUkQp8unWRp23) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Amandote Amandonos](https://open.spotify.com/album/2fOSgaYOPP6p9VZwbuyNkF) | 4:30 | 2026-07-30 | 2026-08-15 |
 | [Amer](https://open.spotify.com/track/3xOjr3Wu2IOqnhK3v6xIrc) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 3:20 | 2026-02-24 | 2026-03-18 |
+| [American Dream](https://open.spotify.com/track/0YoYJTs1QDakYt7jActa2g) | [Russ Steele](https://open.spotify.com/artist/1h4xvziBZeyIfnc1fBG41H) | [American Dream](https://open.spotify.com/album/4YNuzqQQKKDJnTKIAYgm3L) | 3:35 | 2026-11-19 |  |
 | [Americana Coast](https://open.spotify.com/track/6BpQBUwter4qGrZ4iYgRbf) | [Bill Filipiak](https://open.spotify.com/artist/2xdtTND1CviwJbO8j2wvpM) | [Americana Coast](https://open.spotify.com/album/4xfZpPgxxxWPxOQjeR1x5Q) | 3:03 | 2025-09-28 | 2025-12-17 |
 | [Amor à beira\-mar](https://open.spotify.com/track/4Wt6Rqu8Jignaau0U6MGth) | [Zeo Hettes](https://open.spotify.com/artist/5sgQCBSCf5KzI2AN5Iupot) | [Amor à beira\-mar](https://open.spotify.com/album/0YKJeiPBR2EzGcabyZz0U7) | 2:56 | 2026-09-06 | 2026-09-20 |
 | [Anaconda](https://open.spotify.com/track/6uF9EXY8NveGo9gvIFLxT5) | [Viva Los Villains](https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ) | [Viva Los Villains](https://open.spotify.com/album/2Dui44Gfszog7oXQwhDocC) | 4:10 | 2026-01-25 | 2026-04-21 |
@@ -500,6 +501,7 @@
 | [Musa](https://open.spotify.com/track/5SmyJGIEQq637JAr7UhHgi) | [Crux Revival](https://open.spotify.com/artist/0eYk6cHTXjqdFH2VBhPNIV) | [Musa](https://open.spotify.com/album/0ooKSwNu7s4beFsWp6S3bE) | 4:28 | 2026-09-07 | 2026-09-20 |
 | [My Addiction](https://open.spotify.com/track/0wqjkhQYagTQOLqMippB3A) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [My Addiction](https://open.spotify.com/album/0q1vkwrp4rCczBBWpVBI9E) | 2:38 | 2026-11-12 |  |
 | [My Eyes](https://open.spotify.com/track/7LraNdEYQC2epPHZVczNNB) | [Immortal Foreigner](https://open.spotify.com/artist/7JgL2uyFVHWiE0bct43ytm) | [My Eyes](https://open.spotify.com/album/4UwUmhnznZq2b0aSbNONrj) | 3:46 | 2026-06-17 | 2026-06-25 |
+| [My Heart May Slumber](https://open.spotify.com/track/1w3RJfp1wHFN6pXur5QetN) | [Krumbukten](https://open.spotify.com/artist/5KOArh0yGsMaPLGiBgcNem) | [My Heart May Slumber](https://open.spotify.com/album/5KWLtqAuvkWI3DG8u90Zcp) | 5:50 | 2026-11-19 |  |
 | [My Little House](https://open.spotify.com/track/6swSxpyjkBCXSHDIcKGwor) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [All You'll Ever Be Good For](https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4) | 4:58 | 2026-05-17 | 2026-05-26 |
 | [My Soul's on Fire](https://open.spotify.com/track/5MhRz3sZYA7I6qpWZEniLc) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [My Soul's on Fire](https://open.spotify.com/album/3fWsuaMhkFulj7cdrACaae) | 2:32 | 2026-01-19 | 2026-03-18 |
 | [Mírame](https://open.spotify.com/track/7pXkPfL52nH0EFHQQR2uXL) | [Flores & Mcewen](https://open.spotify.com/artist/1qpP1qC1284dxZNqHwoGnp) | [Lucha](https://open.spotify.com/album/6YiYSdZZMLpnjlMwM4Ljm0) | 4:12 | 2026-03-14 | 2026-04-21 |
@@ -667,6 +669,7 @@
 | [Seu Amor, Meu Paraíso](https://open.spotify.com/track/6kMQPeh5LOHJCHXysXk0zv) | [Breno Villares](https://open.spotify.com/artist/2wd82MEjOwoSa4FZkF8fdr) | [Seu Amor, Meu Paraíso](https://open.spotify.com/album/7KUk4FX7KjN3XxaQiHaYPC) | 4:30 | 2026-05-01 | 2026-05-26 |
 | [SEVEN](https://open.spotify.com/track/1dBPODOrEYRX1S6jPklG27) | [MARYLANE](https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY) | [SEVENTH SENSE](https://open.spotify.com/album/7H8md1CludPWkATxORF7Sz) | 4:01 | 2026-07-19 |  |
 | [Sexy FreakA'Licious](https://open.spotify.com/track/0F6kLRMq4OACLAxyJhYNWk) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 3:07 | 2026-03-25 | 2026-04-21 |
+| [Shackles](https://open.spotify.com/track/01LuaGp6XUWPsIbraFsR6t) | [LOOM!](https://open.spotify.com/artist/4m7b8YVJXc2RlWkuJ58BEY) | [Shackles](https://open.spotify.com/album/73PVMXyu3piQxijYuGiVjH) | 4:03 | 2026-11-19 |  |
 | [Shadows of the night](https://open.spotify.com/track/30dDQL8uqJ9qPMvSdpNPUG) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 4:00 | 2025-12-02 | 2025-12-17 |
 | [Shake That Thing](https://open.spotify.com/track/36eCRqqm1Xac8b6fockewa) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [The Blues Ain't That Bad](https://open.spotify.com/album/7Az7QkvAHEfACkzyDw1G1Y) | 3:33 | 2025-11-26 | 2025-12-17 |
 | [Shake Your Azz](https://open.spotify.com/track/10FkiRzgg9nHEpTlP6L7eC) | [Quentin Wallace](https://open.spotify.com/artist/4ZsvhCZ5uKfGDtbq0a4SGh) | [Can't Touch the Ground](https://open.spotify.com/album/4V794UIh2kDa6zswsOQeEs) | 4:12 | 2026-10-27 |  |
@@ -684,6 +687,7 @@
 | [Silk](https://open.spotify.com/track/2VqLPBZXPZRdC28oPsXWBH) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Silk](https://open.spotify.com/album/0vec6giGjk5XCpsGt8qGpB) | 5:05 | 2026-08-20 |  |
 | [Silver stream](https://open.spotify.com/track/02G5hYmq30lppq3ApFFVyQ) | [Latencia 0](https://open.spotify.com/artist/6HS2Rmxcd00zEKWt6AIn43) | [Silver stream](https://open.spotify.com/album/6Vkuv7FT3vkKcutqitEITZ) | 3:01 | 2026-05-06 | 2026-05-26 |
 | [Silver Sun](https://open.spotify.com/track/1SRg1WTKk2Uq8tw0MmgDi2) | [Fish Pond Ponies](https://open.spotify.com/artist/6JDLBZ98LILGDamFL9XE9H) | [Silver Sun](https://open.spotify.com/album/5I4IV0TfzKqZ8TH4BrNAJk) | 2:18 | 2026-04-02 | 2026-04-21 |
+| [Situations](https://open.spotify.com/track/2SL0bS7rRP7XX77Ckykyum) | [One Good Reason](https://open.spotify.com/artist/4o1P5bTNq3RldWq7BHnfWK) | [Stories from a Small Town](https://open.spotify.com/album/6G1nRP5vmm32S5OmEC4V6I) | 3:02 | 2026-11-19 |  |
 | [Smoke and Mirrors](https://open.spotify.com/track/00Oc8jsw9mzcvR2HhG1Jtm) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Smoke and Mirrors](https://open.spotify.com/album/13dteLs18ErbtnAkXlkN8D) | 2:58 | 2026-01-02 | 2026-03-18 |
 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 | 2025-11-19 | 2025-12-17 |
 | [Snap](https://open.spotify.com/track/5bpmmQWr0xW9XrAWIiXl2K) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Snap](https://open.spotify.com/album/03VNzdrX0AUpaogdpHwm7F) | 3:23 | 2025-11-22 | 2025-12-17 |
@@ -782,6 +786,7 @@
 | [They Say the Sky Is Just a Wall](https://open.spotify.com/track/0ovI74HduC4HW1ucCuKpRb) | [Tarsik](https://open.spotify.com/artist/2530s2wwvLVcrdDZHMR0vE) | [End Game](https://open.spotify.com/album/6I5vOYOMKs2ia10GV07zcm) | 3:16 | 2026-08-02 | 2026-08-15 |
 | [Three Good Motown Puns](https://open.spotify.com/track/52YlgRaJn2bzOeasVwQ1Sr) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Three Good Motown Puns](https://open.spotify.com/album/0rHNfIKgzKZPMRlg57Qfj5) | 3:16 | 2026-06-14 | 2026-06-25 |
 | [Thrift Store Girl](https://open.spotify.com/track/2jq9HoHfKXEJJR3noL0DQM) | [Idan Altman](https://open.spotify.com/artist/7MomsgGtMu3PUg3dRGleQQ) | [It all works out in the ☰nd](https://open.spotify.com/album/6j6ll53WaTvtgH4CYz4MAw) | 3:45 | 2025-12-22 | 2026-04-21 |
+| [Through the Night](https://open.spotify.com/track/4mBry47NgsmKSU37gf7Ffa) | [Hour Late](https://open.spotify.com/artist/161Hbf5DhRgfJwXCGhCtlg) | [Nostalgia](https://open.spotify.com/album/5A9BrjfJosvN2NL0p4zgQk) | 3:41 | 2026-11-19 |  |
 | [Thunder over Clarksville](https://open.spotify.com/track/2BCPbHexy2puxvTe9ubndj) | [Hundley](https://open.spotify.com/artist/0dZqYqpjMDRPVuxnrhyeDs) | [Grapevine Hill](https://open.spotify.com/album/766E2EJUaOKn5OL6N484fc) | 4:06 | 2026-10-18 |  |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-01-27 | 2026-03-18 |
 | [To blues tis monaksias](https://open.spotify.com/track/0i1sZjx82aJ1rOe6bPqWqy) | [Giorgos Martos](https://open.spotify.com/artist/3P8DI56L3cFZ7rEzoCoCVl) | [Psaks'to vathia](https://open.spotify.com/album/5fYs3dSNay0mHopgunjVXq) | 3:57 | 2026-06-21 | 2026-07-12 |

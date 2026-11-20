@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > mindful genieten 🌱\. Cover: Sarah Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,941 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,940 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 22 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 |
 | 23 | [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 |
 | 24 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 |
-| 25 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 |
-| 26 | [The Kid](https://open.spotify.com/track/6nuaqxG949UzL6pLZLVCb8) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Felice County Fair](https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL) | [The Kid](https://open.spotify.com/album/7gEfwwmCPea9IDGTGCQixd) | 3:37 |
-| 27 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
+| 25 | [The Kid](https://open.spotify.com/track/6nuaqxG949UzL6pLZLVCb8) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Felice County Fair](https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL) | [The Kid](https://open.spotify.com/album/7gEfwwmCPea9IDGTGCQixd) | 3:37 |
+| 26 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
+| 27 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 |
 | 28 | [If You Know Me \- demo](https://open.spotify.com/track/1x0Q0nvWYbJCrmsPZNHIkb) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me \(demo\)](https://open.spotify.com/album/06M6z1DB5blsjhKh8oVBbE) | 2:07 |
 | 29 | [Photograph of a Cyclone](https://open.spotify.com/track/3Xa6wbikubNAiKSIWKprId) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 3:28 |
 | 30 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 50 | [A Little Lost](https://open.spotify.com/track/1ToKOSrvlMVSPvFyvU9FvX) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Another Thought](https://open.spotify.com/album/3pYFqjWzClbyDKvACv5bVQ) | 3:18 |
 | 51 | [Figure Me Out](https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc) | [Figure Me Out](https://open.spotify.com/album/44DxmrynYCH8Q76eKyatBb) | 2:46 |
 | 52 | [Overboda](https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa), [Sofia HK](https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y) | [Overboda](https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd) | 3:11 |
-| 53 | [Wild Mountain Thyme](https://open.spotify.com/track/1uDOVXkGFMJlsTndb2h3Mk) | [Roodnoot](https://open.spotify.com/artist/3I4WW7NbmYkKG988d3OKQI) | [Wild Mountain Thyme](https://open.spotify.com/album/0TBcf52Rt7ULny9VX9QP6d) | 4:28 |
-| 54 | [You and I](https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [You and I](https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t) | 2:49 |
+| 53 | [You and I](https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [You and I](https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t) | 2:49 |
+| 54 | [Wild Mountain Thyme](https://open.spotify.com/track/1uDOVXkGFMJlsTndb2h3Mk) | [Roodnoot](https://open.spotify.com/artist/3I4WW7NbmYkKG988d3OKQI) | [Wild Mountain Thyme](https://open.spotify.com/album/0TBcf52Rt7ULny9VX9QP6d) | 4:28 |
 | 55 | [Where the mountain meets the sea](https://open.spotify.com/track/4aTHJ0yGSf2Gb6rLnMD567) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:10 |
 | 56 | [red sky at night](https://open.spotify.com/track/5PLGmfrSqRq7Q1dKvJ7S7M) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [red sky at night](https://open.spotify.com/album/6nTaOFO6qZb0YbOciCEPZu) | 2:56 |
 | 57 | [happiness \- live](https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [happiness \(live\)](https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0) | 3:28 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 60 | [God Loves Weirdos](https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [God Loves Weirdos](https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB) | 3:09 |
 | 61 | [My Heroine](https://open.spotify.com/track/0IAhw7KxiogXweSwVxW4av) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 3:21 |
 | 62 | [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 |
-| 63 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
-| 64 | [In Between Station](https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [In Between Station](https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq) | 3:26 |
+| 63 | [In Between Station](https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [In Between Station](https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq) | 3:26 |
+| 64 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 | 65 | [Peach Sky](https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Peach Sky](https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x) | 3:01 |
 | 66 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 |
 | 67 | [Prizefighter](https://open.spotify.com/track/2Wp6mnhsFbqECf90ZgfpaC) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [The Lighthouse](https://open.spotify.com/album/6yZlmaOAjcmKiGRkxaogrO) | 4:23 |
-| 68 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
-| 69 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 |
+| 68 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 |
+| 69 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
 | 70 | [The Next Time We Meet](https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS) | [Coos](https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI) | [The Next Time We Meet](https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA) | 3:03 |
 | 71 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
 | 72 | [Colour On The Wall](https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:18 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 83 | [milk song](https://open.spotify.com/track/41NkKY7XckknHuM9MznKlL) | [FEMI](https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw) | [milk song](https://open.spotify.com/album/031A1YrvCP52bjYgQR5oJD) | 3:30 |
 | 84 | [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 |
 | 85 | [It's Gotta Be Me](https://open.spotify.com/track/0Wd8KUSoSCJ7P0qaJ8Ze6H) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [It's Gotta Be Me](https://open.spotify.com/album/2HHEKBteGRBSv5VZXvKZma) | 3:45 |
-| 86 | [Missionary Bell](https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Interior Live Oak](https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2) | 4:24 |
-| 87 | [Willow](https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Willow](https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0) | 4:34 |
-| 88 | [Bloom](https://open.spotify.com/track/16eC6kYiQlUZRSfnARss5Q) | [uwase](https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr) | [Bloom](https://open.spotify.com/album/4GplUUKTt0yY6DDTjwGwm0) | 2:44 |
+| 86 | [Bloom](https://open.spotify.com/track/16eC6kYiQlUZRSfnARss5Q) | [uwase](https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr) | [Bloom](https://open.spotify.com/album/4GplUUKTt0yY6DDTjwGwm0) | 2:44 |
+| 87 | [Missionary Bell](https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Interior Live Oak](https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2) | 4:24 |
+| 88 | [Willow](https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Willow](https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0) | 4:34 |
 | 89 | [Against The Dying Of The Light](https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI) | 2:28 |
 | 90 | [green](https://open.spotify.com/track/08q9oymzN5ozNuE8q4YzrG) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [green](https://open.spotify.com/album/3wtbk8hyZN77OqkubXcAtc) | 3:06 |
 | 91 | [At The Race Tracks](https://open.spotify.com/track/5mBs521Kdcigt75B5Z3sKS) | [AWKWARD i](https://open.spotify.com/artist/7A8U1UZFpc03H6UrSaX9wh) | [At The Race Tracks](https://open.spotify.com/album/1oFCggoJerlIOx9Lr4XsXB) | 3:25 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 95 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
 | 96 | [Wasted On Myself](https://open.spotify.com/track/5FrxdzVGEPxdwmARNuInnJ) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe), [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [Wasted On Myself](https://open.spotify.com/album/48EdvnwFvbu5imYvqLsawh) | 2:51 |
 | 97 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 |
-| 98 | [Dove or the Devil](https://open.spotify.com/track/2qxYFnVKHQQf30SFa5VsWl) | [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Enchanted Sea](https://open.spotify.com/album/7vvNyJtGEh4GStEjvZYXXf) | 3:36 |
-| 99 | [Autopilot](https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:24 |
+| 98 | [Autopilot](https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:24 |
+| 99 | [Dove or the Devil](https://open.spotify.com/track/2qxYFnVKHQQf30SFa5VsWl) | [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Enchanted Sea](https://open.spotify.com/album/7vvNyJtGEh4GStEjvZYXXf) | 3:36 |
 | 100 | [The Dog](https://open.spotify.com/track/0nULVYvO6l97udJH6dlOrm) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [The Dog](https://open.spotify.com/album/5mQuWMrCe9NeiwhgFBsuad) | 5:01 |
 
-Snapshot ID: `AAAAABpXeNsjyf1gqIOq5pojZBZ1MMPi`
+Snapshot ID: `AAAAAOXE7/oAo0Y8dl26TpEQ8ELogaKH`

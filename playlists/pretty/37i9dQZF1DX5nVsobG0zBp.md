@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Richie Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,002 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,016 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 29 | [Lisabona](https://open.spotify.com/track/20BVQh0gMBhzcBpeCRi97F) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Lisabona](https://open.spotify.com/album/3xaElN6GIqBAmlNFrJGgHN) | 3:12 |
 | 30 | [0044](https://open.spotify.com/track/7cfIbKCASPe9FDhYjaQnDd) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [LONDON LP](https://open.spotify.com/album/7GbrLzZ9xJ9mhwk6MO1mWf) | 2:36 |
 | 31 | [Bênção \(feat\. Van Zee & Bispo\)](https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Bênção \(feat\. Van Zee & Bispo\)](https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0) | 3:25 |
-| 32 | [UUUUHH](https://open.spotify.com/track/1Jk03rMQGTjdkjNtCGgkPd) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:30 |
-| 33 | [Marselha](https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Marselha](https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj) | 3:08 |
-| 34 | [Papaia](https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:02 |
+| 32 | [ANTI\-ANTES](https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 3:48 |
+| 33 | [Papaia](https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:02 |
+| 34 | [Marselha](https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Marselha](https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj) | 3:08 |
 | 35 | [JAMANTAH](https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 5:12 |
 | 36 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
-| 37 | [ANTI\-ANTES](https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 3:48 |
+| 37 | [UUUUHH](https://open.spotify.com/track/1Jk03rMQGTjdkjNtCGgkPd) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:30 |
 | 38 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 |
 | 39 | [SWEET LIKE SUGAR](https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [SWEET LIKE SUGAR](https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ) | 2:50 |
 | 40 | [Europa \(feat\. Deejay Telio, Teto & Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Europa \(feat\. Deejay Telio, Teto & Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 |
-| 41 | [Lingerie](https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Lingerie](https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0) | 3:34 |
-| 42 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
+| 41 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
+| 42 | [Lingerie](https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Lingerie](https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0) | 3:34 |
 | 43 | [Senti Tanto](https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:42 |
 | 44 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
 | 45 | [Já Entendi](https://open.spotify.com/track/7FLWucanZJBBCLeWNRDTv9) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Já Entendi](https://open.spotify.com/album/0Ahs6WqVuKBfZb8cnMHAI6) | 2:36 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 59 | [Hoji N'ka ta Rola](https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Hoji N'ka ta Rola](https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR) | 3:56 |
 | 60 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 |
 | 61 | [Dado](https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Dado](https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn) | 3:27 |
-| 62 | [Adora a bunda, odeia o rosto](https://open.spotify.com/track/791WFhCnv7eZTPe5U8XbB4) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf) | [Adora a bunda, odeia o rosto](https://open.spotify.com/album/7p7iGjCfGo43LNDWPDfGXi) | 2:53 |
-| 63 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 |
+| 62 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 |
+| 63 | [Adora a bunda, odeia o rosto](https://open.spotify.com/track/791WFhCnv7eZTPe5U8XbB4) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf) | [Adora a bunda, odeia o rosto](https://open.spotify.com/album/7p7iGjCfGo43LNDWPDfGXi) | 2:53 |
 | 64 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 65 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
 | 66 | [DAKAR](https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [DAKAR](https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR) | 3:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 79 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 |
 | 80 | [Só Queria Sorrir](https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 3:42 |
 
-Snapshot ID: `AAAAAIFPNVqJjty9+SdfRXkgKRkCb9sM`
+Snapshot ID: `AAAAAC1nhwI5XhsvQA0S0oDpCpyEaQRE`

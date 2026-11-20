@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-90 songs - 6 hr 47 min
+91 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Braveheart Coaster](https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [Braveheart Coaster](https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn) | 4:26 | 2022-08-02 | 2026-10-24 |
 | [Bring the LOVE！](https://open.spotify.com/track/08jHICuBUw39Mct5JfZ3C5) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB), [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ), [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [日野下花帆 \(CV.楡井希実\)](https://open.spotify.com/artist/3K0kUxY4moTB2FF7nYLgzs), [高坂穂乃果\(CV.新田恵海\)](https://open.spotify.com/artist/4BZs8fDixaE49bgj2xMjPr) | [Bring the LOVE！](https://open.spotify.com/album/4if3euNE5b8VoUpEsLepk3) | 3:43 | 2024-09-19 |  |
 | [CHANGELESS](https://open.spotify.com/track/11L8jsLlG0Ml8BBqdZxWqh) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [Braveheart Coaster](https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn) | 5:09 | 2024-12-17 |  |
-| [Daydream Warrior](https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:35 | 2022-08-02 |  |
+| [Daydream Warrior](https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:35 | 2022-08-02 | 2026-11-20 |
 | [Dazzling White Town](https://open.spotify.com/track/211qJsL5CTxWKFaYwHQRpo) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:22 | 2022-08-02 |  |
 | [DROPOUT!?](https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 3:56 | 2022-08-02 |  |
 | [GALAXY HidE and SeeK](https://open.spotify.com/track/4hpJT2KzDvOqjaeXrVsaMP) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [GALAXY HidE and SeeK](https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq) | 4:20 | 2022-08-02 |  |
@@ -49,6 +49,7 @@
 | [Shadow gate to love](https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 4:05 | 2022-08-02 |  |
 | [Shiny Racers](https://open.spotify.com/track/4oTMK1IRb2AbMoA2HhB1Du) | [小原鞠莉 \(CV.鈴木愛奈\)](https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2) | [LoveLive! Sunshine!! Ohara Mari First Solo Concert Album ～New winding road～](https://open.spotify.com/album/07dOooBV026YI3SftNDkoM) | 3:37 | 2024-12-17 | 2026-11-13 |
 | [Shiny Racers](https://open.spotify.com/track/1j28e7BX7hmf0VSiemwKPT) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Ohara Mari First Solo Concert Album ～New winding road～](https://open.spotify.com/album/2UdasDJ8U93U0sTVD1FGSv) | 3:37 | 2022-08-02 | 2024-04-19 |
+| [smile smile ship Start!](https://open.spotify.com/track/0rfYpGSgqQLzEc2DHeWY5a) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [smile smile ship Start!](https://open.spotify.com/album/0oOZ8lcPPmAPo4iaPAnQOe) | 4:39 | 2024-12-17 |  |
 | [Strawberry Trapper](https://open.spotify.com/track/3egD1YzZpyckmVlZJV4GOj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 3:56 | 2022-08-02 |  |
 | [TSUBOMI SEASON](https://open.spotify.com/track/40JiCBJlH4iqE1wCnJu6sm) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an) | [LoveLive! Sunshine!! Third Solo Concert Album ～THE STORY OF “OVER THE RAINBOW”～ starring Kunikida Hanamaru](https://open.spotify.com/album/4ZzyUO4OvlExdt327284Ho) | 5:00 | 2023-03-08 | 2024-10-07 |
 | [Waku\-Waku\-Week!](https://open.spotify.com/track/3hdl3kBMjapC8UF5mt3lRY) | [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:16 | 2022-08-02 |  |

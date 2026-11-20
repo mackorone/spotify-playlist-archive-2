@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: The Funeral Portrait",
+  "description": "For full-volume lovers. Cover: P.O.D.",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 212720,
       "name": "(I'm a) Rock \"N\" Roller",
       "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
@@ -2149,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Assimilate",
+        "url": "https://open.spotify.com/album/6kf0Y2TYo4k1kjpoyYMbzf"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261271,
+      "name": "Assimilate",
+      "url": "https://open.spotify.com/track/0B4rNyIm6WaKBwkcXnGJKh"
+    },
+    {
+      "album": {
         "name": "ASTRAL GALLERY [feat. Michael Skaggs]",
         "url": "https://open.spotify.com/album/70ZMZowl9zVnsYrk6ftw2V"
       },
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 224642,
       "name": "BITTER",
       "url": "https://open.spotify.com/track/1iTXXWFY7oYQSsKtuxyIpy"
@@ -4630,6 +4648,28 @@
       "duration_ms": 188431,
       "name": "Burning Low",
       "url": "https://open.spotify.com/track/2CCem6plaEf5qBHNgfwnMS"
+    },
+    {
+      "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/1Pk9qYfT2x39nrwetGLw1O"
+      },
+      "artists": [
+        {
+          "name": "Claudio Sanchez",
+          "url": "https://open.spotify.com/artist/6v4S76I3x5AVAM8ql4vddY"
+        },
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237910,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/2eI9gt98pNAuPdQ96zs30n"
     },
     {
       "album": {
@@ -6216,7 +6256,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 220316,
       "name": "Crescents and the Torch",
       "url": "https://open.spotify.com/track/64XDJcykwUPjYXSvSHbhXv"
@@ -6364,7 +6404,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 222427,
       "name": "Cruella",
       "url": "https://open.spotify.com/track/6euLgwOjqK9VStkm4B4gzt"
@@ -8004,7 +8044,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Digital Hell",
       "url": "https://open.spotify.com/track/5T86WkjtNukA0HZGwg4XPq"
@@ -8184,7 +8224,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174909,
       "name": "DISPLACE",
       "url": "https://open.spotify.com/track/3t3KrvtJoLsC8KSsdaloDg"
@@ -8838,7 +8878,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 129355,
       "name": "DROP IN",
       "url": "https://open.spotify.com/track/7bymGHODTygJRIgociKouh"
@@ -13508,7 +13548,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169232,
       "name": "Happy",
       "url": "https://open.spotify.com/track/1Rssvx3YWK4LiS681JgsAq"
@@ -14222,6 +14262,24 @@
       "duration_ms": 250878,
       "name": "Here She Comes",
       "url": "https://open.spotify.com/track/32MotHClwKZeElUM66SHsW"
+    },
+    {
+      "album": {
+        "name": "HERE WE GO AGAIN",
+        "url": "https://open.spotify.com/album/2JKGgv6jnKjWdGtquL4Zvx"
+      },
+      "artists": [
+        {
+          "name": "SCATTERBRAIN",
+          "url": "https://open.spotify.com/artist/1qpatyjM6ORYIn2BuQbEuZ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207416,
+      "name": "HERE WE GO AGAIN",
+      "url": "https://open.spotify.com/track/1rO59gOnByvWyK1k3ZyIIw"
     },
     {
       "album": {
@@ -15914,7 +15972,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213624,
       "name": "If I Don't Go",
       "url": "https://open.spotify.com/track/5XXXFERLsHPaaO4TI4KC8b"
@@ -20456,7 +20514,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 183111,
       "name": "METALICIOUS (feat. Left to Suffer)",
       "url": "https://open.spotify.com/track/2IXYguJG3VV1R0Jk3v29W9"
@@ -21366,7 +21424,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 181293,
       "name": "My Forever Drug",
       "url": "https://open.spotify.com/track/2dImL4FJ7gJvILH9NXOgPL"
@@ -23420,7 +23478,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 292549,
       "name": "OUTBREAK (feat. Cory Brandan)",
       "url": "https://open.spotify.com/track/7gfd1REaf35dS1e37SqaYj"
@@ -24748,7 +24806,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 119812,
       "name": "Ppl Worried",
       "url": "https://open.spotify.com/track/2cZztBThGXvfRXB87Pr4yk"
@@ -29249,6 +29307,24 @@
     },
     {
       "album": {
+        "name": "Speaking In Tongues",
+        "url": "https://open.spotify.com/album/5aqyYHkbjqJn4YxSlqT7Am"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312264,
+      "name": "Speaking In Tongues",
+      "url": "https://open.spotify.com/track/6uj5FZMjF36UMrid8WoG6d"
+    },
+    {
+      "album": {
         "name": "Speaking of the Devil",
         "url": "https://open.spotify.com/album/2vaWy2D9cVuzWBJPNcCgOX"
       },
@@ -29542,7 +29618,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 195783,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/0N5F2m28CZHvCiMLV1yQ0t"
@@ -32969,6 +33045,28 @@
     },
     {
       "album": {
+        "name": "Through Fire & Ashes",
+        "url": "https://open.spotify.com/album/7f1msXBK4lKC77wXUaLdg0"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268058,
+      "name": "Through Fire & Ashes",
+      "url": "https://open.spotify.com/track/6zXOb0twqoNTKfhckpzvjj"
+    },
+    {
+      "album": {
         "name": "Through Hell",
         "url": "https://open.spotify.com/album/5GMwgsblxQdlA9tHT0x6WS"
       },
@@ -34677,6 +34775,24 @@
     },
     {
       "album": {
+        "name": "VAMPIRES & PARASITES",
+        "url": "https://open.spotify.com/album/3ffX8OuSgBVmeWIGvXnB2H"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170192,
+      "name": "VAMPIRES & PARASITES",
+      "url": "https://open.spotify.com/track/5hykZgF3bg4YtCSkGCf3OP"
+    },
+    {
+      "album": {
         "name": "Vanilla Latte",
         "url": "https://open.spotify.com/album/01Kui9a3rkdckJen3duPvC"
       },
@@ -34928,7 +35044,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 260251,
       "name": "Violence",
       "url": "https://open.spotify.com/track/20gEBlIblHvKx5rhtMWiPg"
@@ -36090,6 +36206,24 @@
       "duration_ms": 290301,
       "name": "What Would You Do? [Feat. Gavin Rossdale]",
       "url": "https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK"
+    },
+    {
+      "album": {
+        "name": "What's He Got",
+        "url": "https://open.spotify.com/album/6enf282tepLv9PmZ9LS90I"
+      },
+      "artists": [
+        {
+          "name": "Heavens Edge",
+          "url": "https://open.spotify.com/artist/2T03HaMa4RA484VbUGwnff"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "What's He Got",
+      "url": "https://open.spotify.com/track/1gqGyVX22EucEfNHmqJ4zj"
     },
     {
       "album": {

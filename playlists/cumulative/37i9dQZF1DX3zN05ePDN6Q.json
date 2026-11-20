@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "boom bap renasce todo dia. Foto: Puro Suco, Emicida",
+  "description": "boom bap renasce todo dia. Foto: Majis, Ci\u00e7a",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -1217,6 +1217,32 @@
     },
     {
       "album": {
+        "name": "Ainda Bem Que Eu N\u00e3o Morri",
+        "url": "https://open.spotify.com/album/5XqU2I8plXzqtnbv9PUcET"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Dukke Beats",
+          "url": "https://open.spotify.com/artist/3KNAaZbqoQXjS4omCogmjr"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "Ainda Bem Que Eu N\u00e3o Morri",
+      "url": "https://open.spotify.com/track/6GDMvFs2C3NHP1LP7qw5Fm"
+    },
+    {
+      "album": {
         "name": "Ainda \u00e9 Tempo",
         "url": "https://open.spotify.com/album/3txA8G6jeflBZjdotmiyxB"
       },
@@ -1864,7 +1890,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180000,
       "name": "Aquele ditado",
       "url": "https://open.spotify.com/track/0wld8ZbWBAgO8gVNPbcwtu"
@@ -6178,7 +6204,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169966,
       "name": "Estilo do gueto",
       "url": "https://open.spotify.com/track/13P29ym6XzQ312rxPNO7f7"
@@ -6486,6 +6512,32 @@
       "duration_ms": 184180,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/3RuxiOnq4PdK9ti61U2HgT"
+    },
+    {
+      "album": {
+        "name": "Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/1vKvK1qaSbBGlER0yB7ylm"
+      },
+      "artists": [
+        {
+          "name": "Old Dirty Bacon",
+          "url": "https://open.spotify.com/artist/47u3qUpiwYT0NFBO75umme"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "SCRW",
+          "url": "https://open.spotify.com/artist/7xTZ1NbiEpxNHiIsQnfoNn"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Fant\u00e1stico",
+      "url": "https://open.spotify.com/track/5c38ClATGInNFjSou1Y81y"
     },
     {
       "album": {
@@ -16004,7 +16056,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156000,
       "name": "SALA VERMELHA #57 - Matheus Coringa",
       "url": "https://open.spotify.com/track/40xBCZS56J1oY2gCn12Dn7"

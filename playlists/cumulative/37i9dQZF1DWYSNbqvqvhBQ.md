@@ -2,9 +2,9 @@
 
 ### [Altijd Goed](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Nieuwe tijdloze muziek\. Cover: John Mayer
+> Nieuwe tijdloze muziek\. Cover: Within Temptation & S10
 
-990 songs - 2 day 10 hr 21 min
+992 songs - 2 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,7 @@
 | [Leap Of Faith](https://open.spotify.com/track/01a7LTYpdceGcfRbOI2aN7) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Leap Of Faith](https://open.spotify.com/album/7b8MzBFxoAU3NlJcMAggJc) | 3:26 | 2023-02-23 | 2023-06-23 |
 | [Learn to Let Go](https://open.spotify.com/track/70q0mkrSJxRSWNmFRRpIZm) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Learn to Let Go](https://open.spotify.com/album/6A0H4yzf2rXgtK6RTKZPMF) | 4:18 | 2025-04-25 | 2025-07-04 |
 | [Leave It All To Fate](https://open.spotify.com/track/68nomfdEA770xqEPOIf6nh) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Leave It All To Fate](https://open.spotify.com/album/5tkhKBjpB6xywz9uBLZ3dv) | 3:17 | 2023-10-27 | 2024-04-05 |
-| [Leave Me Behind](https://open.spotify.com/track/725iRJfbDtAXjWiO3pDIpQ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Leave Me Behind](https://open.spotify.com/album/0PTnNwY4AWv7JaUJlq3IiE) | 3:48 | 2026-09-03 |  |
+| [Leave Me Behind](https://open.spotify.com/track/725iRJfbDtAXjWiO3pDIpQ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Leave Me Behind](https://open.spotify.com/album/0PTnNwY4AWv7JaUJlq3IiE) | 3:48 | 2026-09-03 | 2026-11-20 |
 | [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 | 2025-08-14 | 2025-10-31 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-23 | 2023-06-23 |
 | [Let Me Go Home](https://open.spotify.com/track/2ys5m1ZI9QkhFJlTjMc9Nw) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Let Me Go Home](https://open.spotify.com/album/5f9iou0KDX2cX3CzLzBwbl) | 2:56 | 2023-02-23 | 2023-04-14 |
@@ -761,7 +761,7 @@
 | [Step By Step](https://open.spotify.com/track/4TDGFWcs0ueT9XC56OzHZg) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Step By Step](https://open.spotify.com/album/1LOaA9FH0Sr2DOtj1D68Ui) | 2:45 | 2023-05-25 | 2023-10-28 |
 | [Stevie & Sly](https://open.spotify.com/track/3Qd2Xupp6z5UeBKbczux2h) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Stevie & Sly](https://open.spotify.com/album/6Jr0SS676UqNsVRxwpPdpM) | 4:02 | 2025-03-13 | 2025-08-08 |
 | [Stick Season](https://open.spotify.com/track/7ibpNcYxrstM16ehN7OwbK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:02 | 2023-10-19 | 2024-05-10 |
-| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-17 |  |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-17 | 2026-11-20 |
 | [Still Champagne](https://open.spotify.com/track/5O2Ut0Ka1wthWEuarwCWSJ) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Still Champagne](https://open.spotify.com/album/7zpeK7KW3wkYhwSVFsl97Y) | 3:41 | 2026-02-26 | 2026-09-04 |
 | [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 | 2023-02-23 | 2023-05-19 |
 | [Still Kids \(feat\. Benjamin Herman\)](https://open.spotify.com/track/6SABdpsm9fYDI7Hsc9hkWq) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659), [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR) | [Blank Cassette](https://open.spotify.com/album/7HFvude8TMDUuOTPZQaO0h) | 4:08 | 2023-06-26 | 2023-07-15 |
@@ -871,6 +871,7 @@
 | [Thomas Matthew Crooks](https://open.spotify.com/track/5urVD9hloZUce6NBUtid0W) | [Subterranean Street Society](https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe) | [Thomas Matthew Crooks](https://open.spotify.com/album/1jxyamRIB9vVlzqQqhwogb) | 3:20 | 2026-05-28 | 2026-06-24 |
 | [Thrill Of It All](https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Thrill Of It All](https://open.spotify.com/album/23tZRrcxog6733FrjhknAi) | 3:23 | 2023-03-17 | 2023-08-04 |
 | [Thrilled by the Lie](https://open.spotify.com/track/5dTEEWQAWBPQc7byleI3pF) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Thrilled by the Lie](https://open.spotify.com/album/3R4bgZAmVNHucy8tVlybn9) | 4:05 | 2026-01-10 | 2026-06-24 |
+| [Through Fire & Ashes](https://open.spotify.com/track/6zXOb0twqoNTKfhckpzvjj) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Through Fire & Ashes](https://open.spotify.com/album/7f1msXBK4lKC77wXUaLdg0) | 4:28 | 2026-11-19 |  |
 | [Tib Street](https://open.spotify.com/track/4zZJ8adzEFKGRa4bZVctdl) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 2\)](https://open.spotify.com/album/1PzZBoHkD3Ru61Wa83q7Jh) | 2:58 | 2026-09-24 |  |
 | [Tight Ripped Jeans](https://open.spotify.com/track/1MNqMa6iDCAXwVofQTFSO1) | [Beans & Fatback](https://open.spotify.com/artist/1TaMcPraHVa4y6mcPoYXgT) | [Tight Ripped Jeans](https://open.spotify.com/album/6dp3o0AmSHcarGB6vMQdaa) | 3:07 | 2024-10-22 | 2025-02-28 |
 | [Till the Morning](https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Wide Awake](https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81) | 3:34 | 2024-10-14 | 2025-04-05 |
@@ -996,6 +997,7 @@
 | [Youman](https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Youman](https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv) | 3:36 | 2026-02-03 | 2026-07-11 |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-02-23 | 2023-04-14 |
 | [Young, Awkward & Lonely](https://open.spotify.com/track/629SW217MA8o1wPi9akIcI) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Young, Awkward & Lonely](https://open.spotify.com/album/6doZm0DD2GBR2gVq7Xyjz3) | 3:51 | 2024-05-02 | 2024-07-30 |
+| [Younger](https://open.spotify.com/track/3uxVysH3jx2aTOlzub9IxV) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3), [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Younger](https://open.spotify.com/album/3Gd7c4ZN1H9xcbbgbfjhO7) | 2:45 | 2026-11-19 |  |
 | [Your Garden](https://open.spotify.com/track/2DxYd2MdwR9WvrU5NnXAtl) | [TP Le Green](https://open.spotify.com/artist/0jUArnj5Djqg2vZKfmFhIz) | [Your Garden](https://open.spotify.com/album/4vniBJVVoIi5CjN4AK7lwn) | 6:31 | 2026-02-13 | 2026-06-24 |
 | [Yours Eternally \(feat\. Ed Sheeran & Taras Topolia\)](https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taras Topolia](https://open.spotify.com/artist/30pQviUqhKT7G1okKEXX0B) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 4:26 | 2026-02-26 | 2026-09-25 |
 

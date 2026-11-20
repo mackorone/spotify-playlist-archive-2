@@ -1,13 +1,93 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Isabel Dumaa",
-  "num_followers": 219634,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Grace Enger",
+  "num_followers": 219628,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEOZKxw5Mm++xwkf8XTrrp4oQpBu",
+  "snapshot_id": "AAAAAOQhqzeFTYmiRV7JOcjIAa+91lES",
   "tracks": [
+    {
+      "added_at": "2026-11-20 05:14:19",
+      "album": {
+        "name": "Goth Rave",
+        "url": "https://open.spotify.com/album/2vrQ3X57McmWG6AzjO4HZX"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 196321,
+      "name": "Goth Rave",
+      "url": "https://open.spotify.com/track/42NrToIoZCMQ7GjSsx3cKD"
+    },
+    {
+      "added_at": "2026-11-20 05:14:19",
+      "album": {
+        "name": "Wishing In Reverse",
+        "url": "https://open.spotify.com/album/2uvbVlvIRKK5sljHcWDD2h"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 188996,
+      "name": "Belle Of The Ball",
+      "url": "https://open.spotify.com/track/4BMSTla2bxnKi2GV3DnWSg"
+    },
+    {
+      "added_at": "2026-11-20 05:14:19",
+      "album": {
+        "name": "Something to Believe In",
+        "url": "https://open.spotify.com/album/2cAfIORKjjn2sn6JJyOSId"
+      },
+      "artists": [
+        {
+          "name": "dearest",
+          "url": "https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT"
+        }
+      ],
+      "duration_ms": 211205,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/1YX2MrQDltSt319snb1Elh"
+    },
+    {
+      "added_at": "2026-11-20 05:25:24",
+      "album": {
+        "name": "bitter",
+        "url": "https://open.spotify.com/album/1lCOpKtP8HWhlFwtkIdVzn"
+      },
+      "artists": [
+        {
+          "name": "Anya Gupta",
+          "url": "https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "bitter",
+      "url": "https://open.spotify.com/track/2pMVvDSV8awJvWDyvikDzP"
+    },
+    {
+      "added_at": "2026-11-20 05:14:19",
+      "album": {
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/60ohkB52oyMIZNKtPNAp2S"
+      },
+      "artists": [
+        {
+          "name": "Ian Harrison",
+          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
+        }
+      ],
+      "duration_ms": 142590,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/7JmAPZJMAf7VBq8rrCwduu"
+    },
     {
       "added_at": "2026-10-23 04:02:28",
       "album": {
@@ -1121,22 +1201,6 @@
       "url": "https://open.spotify.com/track/3MKfTmgTZbA9i2hL57mzTU"
     },
     {
-      "added_at": "2026-07-06 20:49:16",
-      "album": {
-        "name": "avoid me",
-        "url": "https://open.spotify.com/album/4LQF20TUI2tPxoztReVxSd"
-      },
-      "artists": [
-        {
-          "name": "Mikal Sabella",
-          "url": "https://open.spotify.com/artist/48l3CDUNMi5cDJDzatyl8X"
-        }
-      ],
-      "duration_ms": 202880,
-      "name": "avoid me",
-      "url": "https://open.spotify.com/track/1AEeEOK6AIVFM6BtRfPOYa"
-    },
-    {
       "added_at": "2026-06-26 04:00:35",
       "album": {
         "name": "FRANKENSTEIN",
@@ -1151,70 +1215,6 @@
       "duration_ms": 187058,
       "name": "FRANKENSTEIN",
       "url": "https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk"
-    },
-    {
-      "added_at": "2026-06-26 04:00:35",
-      "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/3vvhITB6TM8jcF4bYXVXfv"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 166459,
-      "name": "Proof",
-      "url": "https://open.spotify.com/track/405gNtjLCgRcqod42hooqR"
-    },
-    {
-      "added_at": "2026-06-26 04:00:35",
-      "album": {
-        "name": "Die Next To You",
-        "url": "https://open.spotify.com/album/1KxbHOU842mZkbciseNI0i"
-      },
-      "artists": [
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 213648,
-      "name": "Die Next To You",
-      "url": "https://open.spotify.com/track/5gTLztYL2Mytq5EVPFeGxE"
-    },
-    {
-      "added_at": "2026-06-26 04:00:35",
-      "album": {
-        "name": "Super Superficial",
-        "url": "https://open.spotify.com/album/70AfF57rFFsYiPikgs5ODw"
-      },
-      "artists": [
-        {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
-        }
-      ],
-      "duration_ms": 146217,
-      "name": "Super Superficial",
-      "url": "https://open.spotify.com/track/04Dkv6Mde5HWHPiH4hdtfN"
-    },
-    {
-      "added_at": "2026-06-12 04:56:00",
-      "album": {
-        "name": "Sunny Surrender",
-        "url": "https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC"
-      },
-      "artists": [
-        {
-          "name": "Diva Smith",
-          "url": "https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC"
-        }
-      ],
-      "duration_ms": 201456,
-      "name": "Still The Kid",
-      "url": "https://open.spotify.com/track/7amqdTB1SWli7FsopSVUdd"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

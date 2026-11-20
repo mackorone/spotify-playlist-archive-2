@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Yangze",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Erika de Casier",
   "name": "Cph+",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 207115,
       "name": "alone",
       "url": "https://open.spotify.com/track/4ELOtteyrWKxkUNTdMNQ09"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 296830,
       "name": "Doom Bikini",
       "url": "https://open.spotify.com/track/740QhlNMaY3mERdoQ7B5M5"
@@ -2481,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "DS-1",
+        "url": "https://open.spotify.com/album/7mL8QsQAG202pHGQSyMUKn"
+      },
+      "artists": [
+        {
+          "name": "julip",
+          "url": "https://open.spotify.com/artist/7093KDv5fe6sYv66nUo7kK"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126060,
+      "name": "Get free",
+      "url": "https://open.spotify.com/track/3ZeOzHm3yk8oK6T6PXOsOr"
+    },
+    {
+      "album": {
         "name": "\u00d6",
         "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
       },
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 157613,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/54YvXQzjpfQee9u3YKg8Ls"
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 226000,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/35brW4KnbdTa2wdM7VoBcz"
@@ -3492,6 +3510,58 @@
       "duration_ms": 224264,
       "name": "it was then that i",
       "url": "https://open.spotify.com/track/72B17CydCsTvYGPUKas0Jb"
+    },
+    {
+      "album": {
+        "name": "Keep Driving, Son",
+        "url": "https://open.spotify.com/album/5bef1WEsUPEGmlAv4GPrwQ"
+      },
+      "artists": [
+        {
+          "name": "Jura",
+          "url": "https://open.spotify.com/artist/7o47tXCHgjbz4cGuYgg7AM"
+        },
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        },
+        {
+          "name": "Helene Norup Due",
+          "url": "https://open.spotify.com/artist/0o1fgVWvRNSPuuurEKVRWb"
+        },
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        },
+        {
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Keep Driving, Son",
+      "url": "https://open.spotify.com/track/0QYnWGcqu0ZYdaMW6f16aK"
+    },
+    {
+      "album": {
+        "name": "\u7231",
+        "url": "https://open.spotify.com/album/2Y8q8UKpgrmPGV8mFchvIj"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "KILLING GOD WITH COMPUTERS",
+      "url": "https://open.spotify.com/track/45wasIhGDIplDfMXXAaiEJ"
     },
     {
       "album": {
@@ -4100,7 +4170,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 177230,
       "name": "Molly",
       "url": "https://open.spotify.com/track/3nxbdIkJfC2OKx4EM57xGd"
@@ -4194,6 +4264,24 @@
       "duration_ms": 245342,
       "name": "moving in",
       "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
+    },
+    {
+      "album": {
+        "name": "Act 2",
+        "url": "https://open.spotify.com/album/5hrr2B5tr9asmgH3HuXgSN"
+      },
+      "artists": [
+        {
+          "name": "Mother Soki",
+          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Much Cry, Little Wool",
+      "url": "https://open.spotify.com/track/2YwVYsnmnSdiFYMBBk5sXF"
     },
     {
       "album": {
@@ -5009,6 +5097,28 @@
     },
     {
       "album": {
+        "name": "Rift",
+        "url": "https://open.spotify.com/album/2E58hrh3ylwt92LqY52icG"
+      },
+      "artists": [
+        {
+          "name": "Albert Hertz",
+          "url": "https://open.spotify.com/artist/6nTy38O80YuaVktNRoGPhK"
+        },
+        {
+          "name": "Sanna Heinstedt",
+          "url": "https://open.spotify.com/artist/2R9FqUgJC1OvK0383BasfE"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Rift",
+      "url": "https://open.spotify.com/track/5qjPdP0VmYRcMkduaPKizh"
+    },
+    {
+      "album": {
         "name": "Rivet Gun",
         "url": "https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2"
       },
@@ -5020,7 +5130,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137633,
       "name": "Rivet Gun",
       "url": "https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e"
@@ -5472,6 +5582,24 @@
       "duration_ms": 202013,
       "name": "Sleepwalker's Pendulum",
       "url": "https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4"
+    },
+    {
+      "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/07KahIfYuLMjLQAXqhQc67"
+      },
+      "artists": [
+        {
+          "name": "Late Verlane",
+          "url": "https://open.spotify.com/artist/6P4APuruGUYRvwnzboQir3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152852,
+      "name": "Slipstream",
+      "url": "https://open.spotify.com/track/5j9j54KEojDxE4DOp3Nk0f"
     },
     {
       "album": {
@@ -6557,6 +6685,24 @@
     },
     {
       "album": {
+        "name": "unfolded",
+        "url": "https://open.spotify.com/album/0I5uPQBjW366cqW5FCalvM"
+      },
+      "artists": [
+        {
+          "name": "shinyhunt",
+          "url": "https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99076,
+      "name": "unfolded",
+      "url": "https://open.spotify.com/track/7Be42TyWXpNFStuxNw8Khg"
+    },
+    {
+      "album": {
         "name": "unravelled roads less travelled",
         "url": "https://open.spotify.com/album/6k5kilfNaP6sFZEIRWq0gb"
       },
@@ -6833,6 +6979,42 @@
     },
     {
       "album": {
+        "name": "when the light is on",
+        "url": "https://open.spotify.com/album/7kxBRFqmpHCE6nc780afUg"
+      },
+      "artists": [
+        {
+          "name": "mikey",
+          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171425,
+      "name": "when the light is on",
+      "url": "https://open.spotify.com/track/5JNTDCjfLXZ8PAyW5NgrUV"
+    },
+    {
+      "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/5Mo6eSAVWITxgvIjfAeLF7"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224800,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/4JQbBJYPjnQjqmTeuNb4VK"
+    },
+    {
+      "album": {
         "name": "Who are you?",
         "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
       },
@@ -6996,7 +7178,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 322625,
       "name": "You got time and I got money - VVTZJ EDIT",
       "url": "https://open.spotify.com/track/5mLchLWTDgVPJPOjmDoeAx"
@@ -7048,7 +7230,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 533023,
       "name": "You Make a Fire, You Make a Camp",
       "url": "https://open.spotify.com/track/3G83jEKy5gwjXxHabR89h7"
@@ -7066,7 +7248,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 186446,
       "name": "You Say I Love You",
       "url": "https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w"

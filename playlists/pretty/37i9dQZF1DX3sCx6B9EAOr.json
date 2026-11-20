@@ -1,12 +1,12 @@
 {
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
-  "num_followers": 119458,
+  "num_followers": 119450,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Dance Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ1XU+hYO7XZLQRWzls6LbKASZU0",
+  "snapshot_id": "AAAAAJdk73SOFVaGTuAFpe3loNkntWxk",
   "tracks": [
     {
       "added_at": "2026-08-27 04:18:30",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "\ucda4 (CHOOM)",
-        "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "CHOOM",
-      "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "\ucda4 (CHOOM)",
+        "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "CHOOM",
+      "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "DRIP",
-        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 180845,
-      "name": "DRIP",
-      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "What You Want",
         "url": "https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Lemon Tang - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
       "artists": [
         {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Lemon Tang",
-      "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -499,6 +483,22 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
+        "name": "Lemon Tang - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Lemon Tang",
+      "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "BABYMONS7ER",
-        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 170356,
-      "name": "SHEESH",
-      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "7TH YEAR: A Moment of Stillness in the Thorns",
         "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 153954,
       "name": "Stick With You",
       "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 170356,
+      "name": "SHEESH",
+      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "SUGAR HONEY ICE TEA",
-        "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 178032,
-      "name": "SUGAR HONEY ICE TEA",
-      "url": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "STYLE",
         "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 209671,
       "name": "STYLE",
       "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "SUGAR HONEY ICE TEA",
+        "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 178032,
+      "name": "SUGAR HONEY ICE TEA",
+      "url": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "WE GO UP",
-        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "WE GO UP",
-      "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "FOCUS - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 177052,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "WE GO UP",
+      "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "BITE NOW",
-        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 195935,
-      "name": "DDI RO RI",
-      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "The Chase",
         "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 178900,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 195935,
+      "name": "DDI RO RI",
+      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "BANG BANG",
-        "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 178046,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "REBEL HEART",
-        "url": "https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 188266,
-      "name": "REBEL HEART",
-      "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "Sticky",
         "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 157120,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "REBEL HEART",
+        "url": "https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "REBEL HEART",
+      "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "HOW?",
-        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Earth, Wind & Fire",
-      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "Who is she",
         "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 159000,
       "name": "Who is she",
       "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Earth, Wind & Fire",
+      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Caligo Pt.2",
-        "url": "https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P"
+        "name": "Ode to Love - The 1st Album",
+        "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
       },
       "artists": [
         {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Born Savage",
-      "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
+      "duration_ms": 191000,
+      "name": "Ode to Love",
+      "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Ode to Love - The 1st Album",
-        "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
+        "name": "Caligo Pt.2",
+        "url": "https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P"
       },
       "artists": [
         {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Ode to Love",
-      "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
+      "duration_ms": 172000,
+      "name": "Born Savage",
+      "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "BOTH SIDES - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
-      },
-      "artists": [
-        {
-          "name": "NCT JNJM",
-          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "BOTH SIDES",
-      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "<ASSEMBLE24>",
         "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 187920,
       "name": "Girls Never Die",
       "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "BOTH SIDES - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
+      },
+      "artists": [
+        {
+          "name": "NCT JNJM",
+          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "BOTH SIDES",
+      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "POWER",
-        "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 143242,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 204973,
       "name": "INVU",
       "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 143242,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "SNAPBACK",
-        "url": "https://open.spotify.com/album/25CmZCmdlDSKjQ1CyBuysZ"
-      },
-      "artists": [
-        {
-          "name": "HOSHI",
-          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "SNAPBACK",
-      "url": "https://open.spotify.com/track/3CVdqafJ9WtmiCGkR2d9rJ"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 183853,
       "name": "I AM",
       "url": "https://open.spotify.com/track/7KavHYqoVFNB3IUXfs5gvP"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "SNAPBACK",
+        "url": "https://open.spotify.com/album/25CmZCmdlDSKjQ1CyBuysZ"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "SNAPBACK",
+      "url": "https://open.spotify.com/track/3CVdqafJ9WtmiCGkR2d9rJ"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "My First Kick",
-        "url": "https://open.spotify.com/album/6w4EhlJd0BAXvE24KuaE8j"
-      },
-      "artists": [
-        {
-          "name": "KickFlip",
-          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "\ub208\uc5d0 \uac70\uc2ac\ub9ac\uace0 \uc2f6\uc5b4 (Eye-Poppin')",
-      "url": "https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "1ST EP ALBUM [KEYVITUP]",
         "url": "https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 158000,
       "name": "KEYVITUP",
       "url": "https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "My First Kick",
+        "url": "https://open.spotify.com/album/6w4EhlJd0BAXvE24KuaE8j"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "\ub208\uc5d0 \uac70\uc2ac\ub9ac\uace0 \uc2f6\uc5b4 (Eye-Poppin')",
+      "url": "https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC"
     },
     {
       "added_at": "2026-08-27 04:18:30",

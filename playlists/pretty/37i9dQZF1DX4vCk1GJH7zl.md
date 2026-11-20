@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,367 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,369 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guardei Você Aqui](https://open.spotify.com/track/0xL0pZRHQtqCQVZX7z8ASI) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [Guardei Você Aqui](https://open.spotify.com/album/1g87BklyE0unlCz2ekmPr9) | 3:48 |
 | 2 | [Por Enquanto \- Ao Vivo](https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Multishow \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS) | 4:14 |
 | 3 | [eternamente](https://open.spotify.com/track/4e8viVM9hXPasMMxCPXCuV) | [Lua Dultra](https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU) | [eternamente](https://open.spotify.com/album/4dRv2T66HvBySs37ciShUi) | 4:32 |
-| 4 | [Não Vou Me Adaptar \- Ao Vivo](https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Não Vou Me Adaptar \(Ao Vivo\)](https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30) | 4:36 |
-| 5 | [Beijos, Blues e Poesia](https://open.spotify.com/track/4WAhdM7KNEmezzmKwWsK5J) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Beijos, Blues e Poesia](https://open.spotify.com/album/0ILIY5R8PY4BXfOxhXaM8D) | 3:04 |
+| 4 | [Beijos, Blues e Poesia](https://open.spotify.com/track/4WAhdM7KNEmezzmKwWsK5J) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Beijos, Blues e Poesia](https://open.spotify.com/album/0ILIY5R8PY4BXfOxhXaM8D) | 3:04 |
+| 5 | [Não Vou Me Adaptar \- Ao Vivo](https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Não Vou Me Adaptar \(Ao Vivo\)](https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30) | 4:36 |
 | 6 | [Farol](https://open.spotify.com/track/4xyyxpwegsww8tccaPiFrN) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Fluxo Natural](https://open.spotify.com/album/1zRauBTmrTgG4jY5dJaJql) | 3:48 |
 | 7 | [Amor Em Vão](https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Amor Em Vão](https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65) | 3:31 |
 | 8 | [Where To Look](https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Where To Look](https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc) | 4:50 |
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 18 | [Janeiro 26](https://open.spotify.com/track/5JWbcr5k7qpmM59vHzE8x2) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Janeiro 26](https://open.spotify.com/album/6vXksyfbtWY2TDeHKjfQ5K) | 3:13 |
 | 19 | [Só Hoje \- Strings Orchestra](https://open.spotify.com/track/1WMoGAaApDZWppKKSjdP9h) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Só Hoje \(Strings Orchestra\)](https://open.spotify.com/album/2bDZbub5i4W1JE4sEg6tOq) | 3:29 |
 | 20 | [MENINA VENENO](https://open.spotify.com/track/4RjyulOffxqkRxtPujLqQQ) | [HOZE](https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB) | [MENINA VENENO](https://open.spotify.com/album/1VDiXRgtgdHPfWIrEAKIft) | 2:48 |
-| 21 | [One \- Songs Of Surrender](https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [One \(Songs Of Surrender\)](https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq) | 3:36 |
-| 22 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 |
-| 23 | [Se Rimar, Rimou](https://open.spotify.com/track/6fJoFhW4vcrk0QBnlEPxQ9) | [Vitor Isensee](https://open.spotify.com/artist/5LoeEmuJwRxB69JDe6H09s) | [Pra Cima Todo Santo Ajuda](https://open.spotify.com/album/1vjpz8k7gSDHkk0xQmL059) | 2:59 |
-| 24 | [Como Eu Amo Você](https://open.spotify.com/track/4028iIAbxcMeW8PnVz208Z) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [Meu Defeito É Amar Demais](https://open.spotify.com/album/4dfqPrMPmzfKOjtsykWmEH) | 4:16 |
+| 21 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 |
+| 22 | [One \- Songs Of Surrender](https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [One \(Songs Of Surrender\)](https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq) | 3:36 |
+| 23 | [Como Eu Amo Você](https://open.spotify.com/track/4028iIAbxcMeW8PnVz208Z) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [Meu Defeito É Amar Demais](https://open.spotify.com/album/4dfqPrMPmzfKOjtsykWmEH) | 4:16 |
+| 24 | [Se Rimar, Rimou](https://open.spotify.com/track/6fJoFhW4vcrk0QBnlEPxQ9) | [Vitor Isensee](https://open.spotify.com/artist/5LoeEmuJwRxB69JDe6H09s) | [Pra Cima Todo Santo Ajuda](https://open.spotify.com/album/1vjpz8k7gSDHkk0xQmL059) | 2:59 |
 | 25 | [Causas Naturais](https://open.spotify.com/track/3B8vuwgs2jyjiBFQe2WB9X) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Causas Naturais](https://open.spotify.com/album/041plE9wBqtZyzh3pxqEal) | 2:45 |
 | 26 | [Flagra](https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Flagra](https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS) | 3:16 |
 | 27 | [Não Diga Nada](https://open.spotify.com/track/1T1xneWDmxbb9rcgB0Svz8) | [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Não Diga Nada](https://open.spotify.com/album/3kf71hYy9zqknjwKGyi2mj) | 4:10 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 54 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 |
 | 55 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |
 
-Snapshot ID: `AAAAAJrnsA3vax9LFtWb54LP+oo0TX3D`
+Snapshot ID: `AAAAAGIDLx7MmKYGMEP8kOoi/eFTkEQL`

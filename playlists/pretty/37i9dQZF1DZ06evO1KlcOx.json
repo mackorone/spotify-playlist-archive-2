@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 8352,
+  "num_followers": 8356,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADn8LvaUKICF0kRXpGXRoVL",
+  "snapshot_id": "avzqgAAAAAB6rDsNTFFcUBFj0b52weMz",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 366373,
+      "name": "STS",
+      "url": "https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inca Ore / Grouper",
         "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 201040,
       "name": "A Light Change",
       "url": "https://open.spotify.com/track/2wy9QMJdpa74PVkr1V7NmY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 362253,
-      "name": "It Feels Alright",
-      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 366373,
-      "name": "STS",
-      "url": "https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY"
+      "duration_ms": 362253,
+      "name": "It Feels Alright",
+      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 380226,
-      "name": "Dragging the Streets - First Heart Tone",
-      "url": "https://open.spotify.com/track/7xpVS1KQiRFWgZGi1bdijA"
+      "duration_ms": 480440,
+      "name": "Soul Eraser",
+      "url": "https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold / Sick - Single",
-        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 330373,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -647,22 +631,6 @@
       "duration_ms": 169750,
       "name": "Promise",
       "url": "https://open.spotify.com/track/1Kvrqt00lnQgjgHOWku4lF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 313680,
-      "name": "A Lie",
-      "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
     },
     {
       "added_at": null,
@@ -683,6 +651,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 380226,
+      "name": "Dragging the Streets - First Heart Tone",
+      "url": "https://open.spotify.com/track/7xpVS1KQiRFWgZGi1bdijA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold / Sick - Single",
+        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 330373,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Water People 7\"",
         "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
       },
@@ -695,38 +695,6 @@
       "duration_ms": 247713,
       "name": "Water People",
       "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Little Boat/Bone Dance (Audrey)",
-      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 480440,
-      "name": "Soul Eraser",
-      "url": "https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw"
     },
     {
       "added_at": null,
@@ -747,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
       },
       "artists": [
         {
@@ -756,9 +724,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 375711,
-      "name": "Kelso (Blue sky)",
-      "url": "https://open.spotify.com/track/5gJOdVKBXmyXLHQzLxNDbD"
+      "duration_ms": 295826,
+      "name": "Atone",
+      "url": "https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU"
     },
     {
       "added_at": null,
@@ -772,15 +740,15 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 119733,
-      "name": "Make Me Over",
-      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
+      "duration_ms": 186946,
+      "name": "Little Boat/Bone Dance (Audrey)",
+      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
       "artists": [
         {
@@ -788,9 +756,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 295826,
-      "name": "Atone",
-      "url": "https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU"
+      "duration_ms": 375711,
+      "name": "Kelso (Blue sky)",
+      "url": "https://open.spotify.com/track/5gJOdVKBXmyXLHQzLxNDbD"
     },
     {
       "added_at": null,
@@ -811,6 +779,38 @@
       "duration_ms": 266000,
       "name": "kisses - sky ii",
       "url": "https://open.spotify.com/track/6LSTA4Qiebgw80kglIORuI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 313680,
+      "name": "A Lie",
+      "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 119733,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
     }
   ],
   "unique_name": "This Is Grouper",

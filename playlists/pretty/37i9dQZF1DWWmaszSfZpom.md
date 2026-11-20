@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,675 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,689 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 10 | [Malandramente](https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf), [Nego Bam](https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw) | [Malandramente](https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC) | 2:51 |
 | 11 | [Deu Onda](https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl) | 2:23 |
 | 12 | [Vem Me Satisfazer](https://open.spotify.com/track/63SHcJzckFykS8faA5zojY) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ) | [Vem Me Satisfazer](https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN) | 3:08 |
-| 13 | [SENTADÃO](https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [SENTADÃO](https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ) | 2:23 |
-| 14 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
+| 13 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
+| 14 | [SENTADÃO](https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [SENTADÃO](https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ) | 2:23 |
 | 15 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
 | 16 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
 | 17 | [Namorar pra Quê?​](https://open.spotify.com/track/0UEP4zRu8nOZ9wopxJLXVO) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Namorar pra Quê?​](https://open.spotify.com/album/5ylLGXq0GGMoeVEb5ukmeN) | 2:46 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 71 | [Na Raba Toma Tapão](https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Na Raba Toma Tapão](https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP) | 2:45 |
 | 72 | [Olha A Explosão \- Remix](https://open.spotify.com/track/5RBW30fFFVav2n0IqFj0fY) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Olha A Explosão \(Remix\)](https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp) | 3:30 |
 | 73 | [Coisa Boa](https://open.spotify.com/track/4SBQSroThFQ98U29IwnJ2g) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/2WWKXqWkq4ad0kn0PmeyWJ) | 2:45 |
-| 74 | [Vai Embrazando](https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe) | [Vai Embrazando](https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0) | 2:46 |
-| 75 | [Bumbum Granada](https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16) | 3:07 |
+| 74 | [Bumbum Granada](https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16) | 3:07 |
+| 75 | [Vai Embrazando](https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe) | [Vai Embrazando](https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0) | 2:46 |
 | 76 | [Oh Juliana](https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [Two Maloka](https://open.spotify.com/artist/1v2nDgCQIAgO0tTXWcQbgh), [DJ Léo da 17](https://open.spotify.com/artist/2K709GZR5lppCr7ATLKlbz) | [Oh Juliana](https://open.spotify.com/album/4TqvKXoNxzUt3KFvb2kMOL) | 2:33 |
 | 77 | [Surtada \- Remix Brega Funk](https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r) | [Dadá Boladão](https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX), [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Surtada \(Remix Brega Funk\)](https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj) | 2:32 |
 | 78 | [Cara Bacana](https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU) | 3:52 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 92 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 | 93 | [Devagarinho \- Remix](https://open.spotify.com/track/2XWIK4pG9LNstHUAZqZCV9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Dennis Dj Apresenta: Funk Now](https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5) | 2:15 |
 
-Snapshot ID: `AAAAALG3iSymNYAmgGR/NTDcIZMWCsya`
+Snapshot ID: `AAAAAJTmF8wqprf55RprIFG96H9v/4bw`

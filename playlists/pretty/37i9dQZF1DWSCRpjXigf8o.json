@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88607,
+  "num_followers": 88608,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEicLCjcSpGAckbkTL6AQhPj6eBO",
+  "snapshot_id": "AAAAABPzYs5AHn7N6boR8XoYnpDDp5FJ",
   "tracks": [
     {
       "added_at": "2026-02-19 15:16:11",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Chuck Timely & The Hourglass",
-        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 261427,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "Dream Fatigue",
         "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 213000,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/01IGRCAMEZdlmkwly9Fqt6"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Chuck Timely & The Hourglass",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 261427,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 181112,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "Grandma Song",
         "url": "https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 183000,
       "name": "Grandma Song",
       "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7dutOE7bbKKclQKlADC76B"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 181112,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5xH2hp2X3Pi7bDGz35KNNX"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
     },
     {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "Comedy Show",
-        "url": "https://open.spotify.com/album/1fSqtjQVfqPTgxHHwWLEQl"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 180021,
-      "name": "Comedy Show",
-      "url": "https://open.spotify.com/track/48LltIDW6feAer3te5Wp7v"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "special",
@@ -247,6 +231,22 @@
       "duration_ms": 138861,
       "name": "special",
       "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Comedy Show",
+        "url": "https://open.spotify.com/album/1fSqtjQVfqPTgxHHwWLEQl"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Comedy Show",
+      "url": "https://open.spotify.com/track/48LltIDW6feAer3te5Wp7v"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/3rZ8MPU2GY4Vfv3mRnxUP9"
     },
     {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "The Hardest Thing",
-        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 201992,
-      "name": "The Hardest Thing",
-      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "grooblue",
@@ -427,6 +411,22 @@
       "duration_ms": 318213,
       "name": "\u30b5\u30e8\u30ca\u30e9COLOR",
       "url": "https://open.spotify.com/track/2A0ujima89BfVrpG0aJnIq"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "The Hardest Thing",
+        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 201992,
+      "name": "The Hardest Thing",
+      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -595,18 +595,18 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Black Cloud",
-        "url": "https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS"
+        "name": "Kelly",
+        "url": "https://open.spotify.com/album/05y25pwHlCDzV03IBfJs7c"
       },
       "artists": [
         {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+          "name": "Kelly No Brakes",
+          "url": "https://open.spotify.com/artist/0ZnVWrM636IZszLw8naK0V"
         }
       ],
-      "duration_ms": 269653,
-      "name": "Black Cloud",
-      "url": "https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v"
+      "duration_ms": 249454,
+      "name": "Kelly",
+      "url": "https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Kelly",
-        "url": "https://open.spotify.com/album/05y25pwHlCDzV03IBfJs7c"
+        "name": "Black Cloud",
+        "url": "https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS"
       },
       "artists": [
         {
-          "name": "Kelly No Brakes",
-          "url": "https://open.spotify.com/artist/0ZnVWrM636IZszLw8naK0V"
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
         }
       ],
-      "duration_ms": 249454,
-      "name": "Kelly",
-      "url": "https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4"
+      "duration_ms": 269653,
+      "name": "Black Cloud",
+      "url": "https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -655,22 +655,6 @@
       "duration_ms": 134000,
       "name": "Days of Heaven",
       "url": "https://open.spotify.com/track/55yZU5phJ00OycDoKgVRZB"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "Therapist's Daughter",
-        "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 173593,
-      "name": "Therapist's Daughter",
-      "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -691,6 +675,22 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
+        "name": "Therapist's Daughter",
+        "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 173593,
+      "name": "Therapist's Daughter",
+      "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
         "name": "I Want It Easy",
         "url": "https://open.spotify.com/album/3fZyKX3UiJOy6QtIPw0bnG"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Burgers42",
-        "url": "https://open.spotify.com/album/77XylCmFSpEZ7bI0Hm0fsi"
-      },
-      "artists": [
-        {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Burgers42",
-      "url": "https://open.spotify.com/track/5Hy3KlVoV1CYZsLEb4C8Q1"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "No One Calls",
         "url": "https://open.spotify.com/album/0FAMpkTEOBHFLspcPmCG6h"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 155771,
       "name": "No One Calls",
       "url": "https://open.spotify.com/track/5EuUiUYPMzE6Th5JFdxiNC"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Burgers42",
+        "url": "https://open.spotify.com/album/77XylCmFSpEZ7bI0Hm0fsi"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Burgers42",
+      "url": "https://open.spotify.com/track/5Hy3KlVoV1CYZsLEb4C8Q1"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Hit and Run",
-        "url": "https://open.spotify.com/album/4XYA6GKi56VFiF2PQcB4Gk"
-      },
-      "artists": [
-        {
-          "name": "Chezka",
-          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
-        }
-      ],
-      "duration_ms": 213488,
-      "name": "Hit and Run",
-      "url": "https://open.spotify.com/track/4CSPyzqhaKX3CBkPlpsIYt"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/06naMrmyoxr5FuQ4XYGgcq"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 186640,
       "name": "Run",
       "url": "https://open.spotify.com/track/5S6MnDZaOMRISuoNT1p70o"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Hit and Run",
+        "url": "https://open.spotify.com/album/4XYA6GKi56VFiF2PQcB4Gk"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "duration_ms": 213488,
+      "name": "Hit and Run",
+      "url": "https://open.spotify.com/track/4CSPyzqhaKX3CBkPlpsIYt"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1027,38 +1027,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/1JVaV7mszfevApAkTzzEAP"
-      },
-      "artists": [
-        {
-          "name": "\u00c5lborg",
-          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
-        }
-      ],
-      "duration_ms": 258122,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/2YAhGrQnWduKC9JGHR8BFj"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "ACT II: Silkworm",
-        "url": "https://open.spotify.com/album/42v7lt7rHS8PatbcLTvnXV"
-      },
-      "artists": [
-        {
-          "name": "Deb Fan",
-          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
-        }
-      ],
-      "duration_ms": 136173,
-      "name": "Woohoo",
-      "url": "https://open.spotify.com/track/4um1LI7lfwbCXDGfPmnXyC"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "Someplace Sometime Somehow",
         "url": "https://open.spotify.com/album/3dNOkKRc9HdtAfHfeVKhQ0"
       },
@@ -1087,6 +1055,38 @@
       "duration_ms": 180842,
       "name": "Six Years Of Keeping On",
       "url": "https://open.spotify.com/track/0gSIr2lOp9I2mynmYdjzyf"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/1JVaV7mszfevApAkTzzEAP"
+      },
+      "artists": [
+        {
+          "name": "\u00c5lborg",
+          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
+        }
+      ],
+      "duration_ms": 258122,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/2YAhGrQnWduKC9JGHR8BFj"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "ACT II: Silkworm",
+        "url": "https://open.spotify.com/album/42v7lt7rHS8PatbcLTvnXV"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "duration_ms": 136173,
+      "name": "Woohoo",
+      "url": "https://open.spotify.com/track/4um1LI7lfwbCXDGfPmnXyC"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
     },
     {
-      "added_at": "2026-03-26 11:46:20",
-      "album": {
-        "name": "a plumber",
-        "url": "https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN"
-      },
-      "artists": [
-        {
-          "name": "jisokuryClub",
-          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
-        }
-      ],
-      "duration_ms": 209774,
-      "name": "a plumber",
-      "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
-    },
-    {
       "added_at": "2026-11-06 10:13:47",
       "album": {
         "name": "Void,",
@@ -1347,6 +1331,22 @@
       "duration_ms": 195774,
       "name": "Void,",
       "url": "https://open.spotify.com/track/0Wbjjfu5EifuNKDO0ClcP4"
+    },
+    {
+      "added_at": "2026-03-26 11:46:20",
+      "album": {
+        "name": "a plumber",
+        "url": "https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "duration_ms": 209774,
+      "name": "a plumber",
+      "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/2TalsuBazv4JesNUWj1QTh"
     },
     {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "Nothing Less",
-        "url": "https://open.spotify.com/album/0QU7RnyQ3IJX0ep4y2Vh4P"
-      },
-      "artists": [
-        {
-          "name": "#1 Dads",
-          "url": "https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI"
-        }
-      ],
-      "duration_ms": 205668,
-      "name": "Nothing Less",
-      "url": "https://open.spotify.com/track/0fvmZ01vkAqUgz7aNmnNGt"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "Fall Into You",
@@ -1463,6 +1447,22 @@
       "duration_ms": 168658,
       "name": "Fall Into You",
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Nothing Less",
+        "url": "https://open.spotify.com/album/0QU7RnyQ3IJX0ep4y2Vh4P"
+      },
+      "artists": [
+        {
+          "name": "#1 Dads",
+          "url": "https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI"
+        }
+      ],
+      "duration_ms": 205668,
+      "name": "Nothing Less",
+      "url": "https://open.spotify.com/track/0fvmZ01vkAqUgz7aNmnNGt"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Human Trust Band",
-        "url": "https://open.spotify.com/album/3lIn6WEcTQS2Ruqa4CDxA8"
-      },
-      "artists": [
-        {
-          "name": "Keach Arimoto",
-          "url": "https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo"
-        }
-      ],
-      "duration_ms": 206322,
-      "name": "\u50d5\u306e\u30df\u30e5\u30fc\u30ba",
-      "url": "https://open.spotify.com/track/7H7RhLJhWx9vp5bnTyJQjF"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "\u3074\u304b\u3074\u304b",
         "url": "https://open.spotify.com/album/0fgbGNoJ8eIHzQoTOo6jnG"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 346750,
       "name": "\u5357\u306e\u5cf6",
       "url": "https://open.spotify.com/track/5lSvpFZXL4ExGDW8nceUKe"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Human Trust Band",
+        "url": "https://open.spotify.com/album/3lIn6WEcTQS2Ruqa4CDxA8"
+      },
+      "artists": [
+        {
+          "name": "Keach Arimoto",
+          "url": "https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo"
+        }
+      ],
+      "duration_ms": 206322,
+      "name": "\u50d5\u306e\u30df\u30e5\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/7H7RhLJhWx9vp5bnTyJQjF"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "LLL",
-        "url": "https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj"
+        "name": "\u307f\u3064\u3051\u3066",
+        "url": "https://open.spotify.com/album/5kGAoOVloG8h5ehmahSmfY"
       },
       "artists": [
         {
-          "name": "Julyan",
-          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
+          "name": "KUCHIRORO",
+          "url": "https://open.spotify.com/artist/13ABeGOEjgDMOp8rAAg1lA"
         }
       ],
-      "duration_ms": 213503,
-      "name": "LLL",
-      "url": "https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH"
+      "duration_ms": 302926,
+      "name": "\u307f\u3064\u3051\u3066",
+      "url": "https://open.spotify.com/track/0EyZLrDtxRQ9ffAfxlvBVq"
     }
   ],
   "unique_name": "Mid Tempo Magic",

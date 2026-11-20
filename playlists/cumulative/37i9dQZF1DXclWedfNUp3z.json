@@ -3677,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Imaginary Tradition",
+        "url": "https://open.spotify.com/album/3h1ISxE7636u7TQBYT4HOc"
+      },
+      "artists": [
+        {
+          "name": "Adriano Viterbini",
+          "url": "https://open.spotify.com/artist/178rHkYDuc7mufAyt7i2CI"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103200,
+      "name": "Imaginary Tradition",
+      "url": "https://open.spotify.com/track/29kxIsGOgZd4DrujdCb4qW"
+    },
+    {
+      "album": {
         "name": "Nausea",
         "url": "https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj"
       },
@@ -5176,7 +5194,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 368703,
       "name": "Music For Growing Flowers - Edit",
       "url": "https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN"

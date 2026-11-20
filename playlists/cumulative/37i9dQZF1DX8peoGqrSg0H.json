@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BILLKIN",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: VVV",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -226,7 +226,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174000,
       "name": "8/7",
       "url": "https://open.spotify.com/track/7ngZZBjacwKycSVd9PObK3"
@@ -2273,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "HEY BRO!",
+        "url": "https://open.spotify.com/album/7H9w97QyjrekCfL4FkwmvX"
+      },
+      "artists": [
+        {
+          "name": "SLAMDUCK",
+          "url": "https://open.spotify.com/artist/5brMuTgdmkWru70vFnAKq0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146700,
+      "name": "HEY BRO!",
+      "url": "https://open.spotify.com/track/15pRer5ef8psMILmBARiUT"
+    },
+    {
+      "album": {
         "name": "HI YA YA (\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d)",
         "url": "https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE"
       },
@@ -3570,6 +3588,28 @@
       "duration_ms": 274871,
       "name": "My Angel (The Original Soundtrack \u201dBoyband The Series\u201d)",
       "url": "https://open.spotify.com/track/55b97MkUuNNL0rRbgqYqR0"
+    },
+    {
+      "album": {
+        "name": "My Bambi",
+        "url": "https://open.spotify.com/album/0RLyPZumH0fLkHxAf5e9VP"
+      },
+      "artists": [
+        {
+          "name": "Golf Pichaya",
+          "url": "https://open.spotify.com/artist/3SHlcJPDT3x3TINU3xjwFL"
+        },
+        {
+          "name": "AuAu",
+          "url": "https://open.spotify.com/artist/55Oq4jpvGbHxHQ2jrpFSZs"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "My Bambi - Ver. \u0e2b\u0e21\u0e32\u0e40\u0e14\u0e47\u0e01",
+      "url": "https://open.spotify.com/track/4DeMlPD4M908RP4ogvsR0d"
     },
     {
       "album": {
@@ -5186,7 +5226,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184411,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/4y2HJ7jyd3l4SQ6Ce1I1N5"
@@ -6392,7 +6432,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184800,
       "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e23\u0e32\u0e15\u0e23\u0e35 (Aroma)",
       "url": "https://open.spotify.com/track/01r3leuypcVycEuIvTLDAT"
@@ -6808,7 +6848,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 206560,
       "name": "\u0e02\u0e32\u0e14\u0e40\u0e18\u0e2d (Losing You) - From \"\u0e40\u0e02\u0e21\u0e08\u0e34\u0e23\u0e32\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e2d\u0e14\u0e15\u0e25\u0e2d\u0e14\u0e01\u0e32\u0e25 Khemjira Forever Series\"",
       "url": "https://open.spotify.com/track/0Cnb0yIf87HUioFaGxutRm"
@@ -7960,7 +8000,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 224651,
       "name": "\u0e04\u0e39\u0e48\u0e1a\u0e38\u0e0d (Soulmate) - From \"\u0e40\u0e02\u0e21\u0e08\u0e34\u0e23\u0e32\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e2d\u0e14\u0e15\u0e25\u0e2d\u0e14\u0e01\u0e32\u0e25 Khemjira Forever Series\"",
       "url": "https://open.spotify.com/track/2B7iNb2KlRaX86cWdFzTee"
@@ -10170,6 +10210,24 @@
       "duration_ms": 241071,
       "name": "\u0e17\u0e33\u0e44\u0e21\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49 (what do i do)",
       "url": "https://open.spotify.com/track/5w7l2QyX9C6oBk3JUnlkQt"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e34\u0e49\u0e07\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49\u0e43\u0e19\u0e1b\u0e35\u0e19\u0e35\u0e49 (Last goodbye)",
+        "url": "https://open.spotify.com/album/5Yru47xnbPewUjjzrg7qb3"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "\u0e17\u0e34\u0e49\u0e07\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49\u0e43\u0e19\u0e1b\u0e35\u0e19\u0e35\u0e49 (Last goodbye)",
+      "url": "https://open.spotify.com/track/7GuyfN4RmoscvHm1V9DWTO"
     },
     {
       "album": {
@@ -12765,6 +12823,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e0a\u0e19\u0e30\u0e40\u0e25\u0e34\u0e01 (Commentator)",
+        "url": "https://open.spotify.com/album/20UGlYiITd0FOCQobOuJQI"
+      },
+      "artists": [
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171879,
+      "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e0a\u0e19\u0e30\u0e40\u0e25\u0e34\u0e01 (Commentator)",
+      "url": "https://open.spotify.com/track/4JaL3orE17LXpx0o1Aohew"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e1b\u0e25\u0e2d\u0e1a\u0e43\u0e08",
         "url": "https://open.spotify.com/album/6hATryYkkfhyMO1kXfvgp2"
       },
@@ -13423,6 +13499,24 @@
     },
     {
       "album": {
+        "name": "Vipolar",
+        "url": "https://open.spotify.com/album/6IJtdR6L3vew9NQekGVtql"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202727,
+      "name": "\u0e27\u0e31\u0e19\u0e41\u0e23\u0e01 (D-1)",
+      "url": "https://open.spotify.com/track/0Kg0WrO50EnvOVdEJVrk7J"
+    },
+    {
+      "album": {
         "name": "\u0e27\u0e32\u0e14\u0e44\u0e27\u0e49 (recall)",
         "url": "https://open.spotify.com/album/4abO31N2HMvzWtFgVhvs7Y"
       },
@@ -13832,6 +13926,24 @@
       "duration_ms": 207000,
       "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
       "url": "https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e1b\u0e35\u0e40\u0e01\u0e48\u0e32 (happy new tears)",
+        "url": "https://open.spotify.com/album/5g8jJGT9VVbM7jgz5IRD5T"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277773,
+      "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e1b\u0e35\u0e40\u0e01\u0e48\u0e32 (happy new tears)",
+      "url": "https://open.spotify.com/track/2gJI76yjDTtydqxz23tPWi"
     },
     {
       "album": {
@@ -15036,7 +15148,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 209132,
       "name": "\u0e2d\u0e34\u0e07\u0e44\u0e2b\u0e25\u0e48",
       "url": "https://open.spotify.com/track/2yVIkqqIJb00owsPDInXCV"

@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Bottle Service VIG",
+        "url": "https://open.spotify.com/album/70IKjzaI9Kdvd0LOPtLy2S"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201731,
+      "name": "Bottle Service VIG",
+      "url": "https://open.spotify.com/track/6kPXvN6u28Ku8xcHtpL0yV"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/6y1jmBlZVNPyT7eS39R3Ra"
       },
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 132800,
       "name": "dein buhmann !!!",
       "url": "https://open.spotify.com/track/5jJcmufdbaUJrG1UiLTKM2"
@@ -5614,6 +5632,24 @@
       "duration_ms": 121630,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu"
+    },
+    {
+      "album": {
+        "name": "mauerbl\u00fcmchen/rampensau",
+        "url": "https://open.spotify.com/album/5aj4oL2tAiqPetbKmGyNUY"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123105,
+      "name": "mauerbl\u00fcmchen/rampensau",
+      "url": "https://open.spotify.com/track/5uplPVp0jUJhOBA6zR83Ti"
     },
     {
       "album": {
@@ -9832,7 +9868,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168393,
       "name": "Whats Next",
       "url": "https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN"

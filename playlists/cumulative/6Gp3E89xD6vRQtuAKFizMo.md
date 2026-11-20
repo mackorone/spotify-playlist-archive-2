@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-592 songs - 1 day 4 hr 13 min
+593 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Speakers Knockin’](https://open.spotify.com/track/4sCpGl1d1jIn5oEZtsKWKN) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Speakers Knockin'](https://open.spotify.com/album/5Zt0Im2ExfX1xYom9ileGK) | 2:18 | 2025-07-25 |  |
 | [Special](https://open.spotify.com/track/3vh0XSibnAhcCvF4JR6bEl) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Special](https://open.spotify.com/album/1Kt1WTwr9aBh3MRk2xXzaV) | 2:05 | 2024-06-14 | 2025-04-27 |
 | [Stars Don't Shine \(feat\. Global Dan\)](https://open.spotify.com/track/0Bz4zF649klc9hMb9xtj16) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [Stars Don't Shine \(feat\. Global Dan\)](https://open.spotify.com/album/4su0t3XDFmCCdQaQXd51no) | 3:41 | 2022-05-06 | 2022-08-03 |
+| [Stay With Me](https://open.spotify.com/track/6OtLvqrFTYOeSAsRux0Dah) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [Stay With Me](https://open.spotify.com/album/3loMhLa67SqnCm6XyBkArw) | 2:41 | 2026-11-20 |  |
 | [Step Back](https://open.spotify.com/track/0oHEiGSJjfLROTq55TEoFl) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Step Back](https://open.spotify.com/album/3raiGz0JFTWpnzvMgJtnC2) | 3:18 | 2022-07-29 | 2023-03-03 |
 | [Step By Step](https://open.spotify.com/track/5oFGu3NMQd7kR5C2NCuuLs) | [Martron](https://open.spotify.com/artist/25Amc1hdYDyPHAeprRXCgx) | [Step By Step](https://open.spotify.com/album/3iqOqEA2xnA4tvNpJUTWSm) | 2:21 | 2024-07-08 | 2025-04-27 |
 | [Step Up](https://open.spotify.com/track/74K4Ki8ppT9o90QW2B84BK) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [Step Up](https://open.spotify.com/album/7rI8rCntoLZDxoupnN6R9H) | 1:50 | 2024-04-26 | 2025-04-27 |

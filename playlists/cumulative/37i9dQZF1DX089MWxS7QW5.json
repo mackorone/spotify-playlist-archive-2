@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: aiai)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: BAN ESTIN)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -4636,6 +4636,32 @@
       "duration_ms": 168000,
       "name": "Good Night Good Morning (GNGM)",
       "url": "https://open.spotify.com/track/48eI2GnP9gpviBG0NAtT30"
+    },
+    {
+      "album": {
+        "name": "Goodbye (Feat. Chilloop, Giwon)",
+        "url": "https://open.spotify.com/album/2dVeiC3XoopZA5kqp8AAyd"
+      },
+      "artists": [
+        {
+          "name": "BAN ESTIN",
+          "url": "https://open.spotify.com/artist/3VphqJqtfCgQT3Sc5spgUR"
+        },
+        {
+          "name": "Chilloop",
+          "url": "https://open.spotify.com/artist/7u0b8Vd18XwLszUhjYTI2M"
+        },
+        {
+          "name": "Giwon",
+          "url": "https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140363,
+      "name": "Goodbye (Feat. Chilloop, Giwon)",
+      "url": "https://open.spotify.com/track/5YCypmKsbiGOlQXESeJcbZ"
     },
     {
       "album": {
@@ -9582,7 +9608,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 189000,
       "name": "Rest Stop (feat. Gist, JUNE)",
       "url": "https://open.spotify.com/track/59zW0xXCeITloNERL3ELB4"
@@ -10880,7 +10906,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 145519,
       "name": "summer border",
       "url": "https://open.spotify.com/track/4Soxu2ZhWrQR82RRYTglfB"
@@ -10974,7 +11000,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 157000,
       "name": "Summer\u2019s Not Over",
       "url": "https://open.spotify.com/track/3GbhQ6P8bp2L5w41fH8TiB"
@@ -11298,6 +11324,24 @@
       "duration_ms": 187692,
       "name": "Tell Me What You Feel",
       "url": "https://open.spotify.com/track/1qTAsvpmYPWfM7nWHJtLDR"
+    },
+    {
+      "album": {
+        "name": "Tell you",
+        "url": "https://open.spotify.com/album/1XIO6lP4hZsKAFTbgkS9TC"
+      },
+      "artists": [
+        {
+          "name": "Meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Tell you",
+      "url": "https://open.spotify.com/track/7nk3lcsPBYyMmCGNYuvxUW"
     },
     {
       "album": {
@@ -11920,6 +11964,24 @@
       "duration_ms": 289500,
       "name": "TRUE",
       "url": "https://open.spotify.com/track/4Z48oKDFQEkx6xL1vDoluJ"
+    },
+    {
+      "album": {
+        "name": "2.0+",
+        "url": "https://open.spotify.com/album/6iZNFtJVknqqQ9HOOUQaSJ"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146983,
+      "name": "TTM (Talk To Me)",
+      "url": "https://open.spotify.com/track/1ThAHQYjggDUo3A5E6Hofb"
     },
     {
       "album": {

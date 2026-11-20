@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-607 songs - 1 day 2 hr 8 min
+609 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Caprices](https://open.spotify.com/track/4K3o0HPO3OaGKWpR5h16J7) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Caprices](https://open.spotify.com/album/7rgQ2DAqWGBUWs1fCn4ZNd) | 2:10 | 2022-08-30 | 2025-01-08 |
 | [Cara Al Cielo](https://open.spotify.com/track/28uqO9pe8CK4oEcPv9kd6v) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cara Al Cielo](https://open.spotify.com/album/0vTQlMsVMMItZFkNcniAC4) | 2:22 | 2024-07-29 | 2025-05-22 |
 | [Carry The Light](https://open.spotify.com/track/0nuvyiD9kVCXOJFVUMARUj) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [Carry The Light](https://open.spotify.com/album/4ThUnk8lDNh7VQSLcmgsPX) | 2:56 | 2026-07-17 |  |
+| [Chances](https://open.spotify.com/track/0hYTdvIOmd3UtFxkDeJYmC) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Chances](https://open.spotify.com/album/5vMFgQUxnvOuyZEpyEl5Ex) | 2:49 | 2026-11-20 |  |
 | [Chanceux](https://open.spotify.com/track/5wgH8YJwzSVVWM8a1bfcq0) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Chanceux](https://open.spotify.com/album/3VqA48JuoaMtT5OJReQ6X0) | 3:16 | 2024-02-14 |  |
 | [Change](https://open.spotify.com/track/3QPEngaGqubH9qeo3MrPv2) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Change](https://open.spotify.com/album/0Y1JlLPyUEvslc0SaI5cXL) | 5:19 | 2022-10-26 | 2024-10-02 |
 | [Changed hands](https://open.spotify.com/track/2Z1H2RAC182S3k4F1hCnt8) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Changed hands](https://open.spotify.com/album/30F0AtMEQhM2C2inOm5Ynj) | 2:56 | 2024-02-14 | 2026-05-16 |
@@ -171,6 +172,7 @@
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-04-14 | 2022-06-08 |
 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 | 2026-02-11 |
 | [Escarpment](https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Escarpment](https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ) | 2:16 | 2025-02-26 | 2026-02-11 |
+| [Ethereal Waters](https://open.spotify.com/track/3W6kIf25gex0RyALngSR0I) | [Calm Halo](https://open.spotify.com/artist/6rEgbtBAFavZcCuJPdVEZN) | [Ethereal Waters](https://open.spotify.com/album/5d0XfsfayQgBolR1vMSW6d) | 2:48 | 2026-11-20 |  |
 | [Evergreen](https://open.spotify.com/track/4NGx8Qjm9zxctOe0l9yFy9) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Evergreen](https://open.spotify.com/album/38EFAvK6CWguarCBV0DmHd) | 2:22 | 2026-05-08 |  |
 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 | 2022-08-03 | 2025-05-01 |
 | [Fading Memories](https://open.spotify.com/track/2vj3EDcN6kanqFHzTfnNWH) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Fading Memories](https://open.spotify.com/album/41HNfLXPpmsOm4UtUxi7pV) | 2:46 | 2022-10-26 | 2024-03-05 |

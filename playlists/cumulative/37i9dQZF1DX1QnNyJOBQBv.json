@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring Emilia.",
+  "description": "Pop on the rise you should know, featuring LATIN MAFIA.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -1616,6 +1616,28 @@
       "duration_ms": 183547,
       "name": "ARRANCARMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+    },
+    {
+      "album": {
+        "name": "Arroz Con Huevo",
+        "url": "https://open.spotify.com/album/6St9xkTNpy0z5je7gXGMts"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Arroz Con Huevo",
+      "url": "https://open.spotify.com/track/5GjViexqfPyAJOQlhOZoTR"
     },
     {
       "album": {
@@ -5124,7 +5146,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 205233,
       "name": "deditos cruzados",
       "url": "https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx"
@@ -5186,6 +5208,24 @@
       "duration_ms": 179123,
       "name": "Demasiado Lejos",
       "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
+    },
+    {
+      "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/540pquD3B2fmai9xx25RII"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284533,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/7bFKJ91RTq6wcZJMK1LQRa"
     },
     {
       "album": {
@@ -5672,7 +5712,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173693,
       "name": "Disc\u00falpeme Se\u00f1or",
       "url": "https://open.spotify.com/track/6c1ZfnHFuzU5Wh8PS48IWI"
@@ -7387,6 +7427,24 @@
     },
     {
       "album": {
+        "name": "fuimos felices",
+        "url": "https://open.spotify.com/album/089brC1OhSSily0dlDlMVJ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218699,
+      "name": "fuimos felices",
+      "url": "https://open.spotify.com/track/22bf5wVhqgQV3SXnFOQLaW"
+    },
+    {
+      "album": {
         "name": "FULL TIME",
         "url": "https://open.spotify.com/album/4Ruhef6h9LJpYPxAXxckx9"
       },
@@ -8024,7 +8082,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 128860,
       "name": "hIGhLIGhTS",
       "url": "https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm"
@@ -11786,7 +11844,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 220800,
       "name": "milveces",
       "url": "https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br"
@@ -11980,6 +12038,28 @@
       "duration_ms": 189936,
       "name": "Montego Bay",
       "url": "https://open.spotify.com/track/6E6HfkDjVPWz0WennU8YME"
+    },
+    {
+      "album": {
+        "name": "Moreno Fantasy rmx",
+        "url": "https://open.spotify.com/album/5LDo69kDsEUiM982sa3Z17"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Moreno Fantasy rmx",
+      "url": "https://open.spotify.com/track/3ypqyY9KRSP8Db1SzYwnUe"
     },
     {
       "album": {
@@ -13474,7 +13554,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 156493,
       "name": "Pa' Bailar",
       "url": "https://open.spotify.com/track/62EHKz3dRbYol2F0epVQ0Z"
@@ -14820,7 +14900,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 193125,
       "name": "que seas t\u00fa --",
       "url": "https://open.spotify.com/track/4u3KM7fGLsYRp6aN0bDNH3"
@@ -15102,6 +15182,24 @@
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
+    },
+    {
+      "album": {
+        "name": "no caigas en las trampas",
+        "url": "https://open.spotify.com/album/5FwNajrA8Mf5m7vAqpTPja"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154030,
+      "name": "Rayo de Sol ::Represi\u00f3n::",
+      "url": "https://open.spotify.com/track/1jrN22ZAZld1LN19cnRHDW"
     },
     {
       "album": {
@@ -16401,6 +16499,28 @@
     },
     {
       "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "Solecito Ven\u00ed",
+      "url": "https://open.spotify.com/track/6Ue84aBdSKDtyA493wcVfD"
+    },
+    {
+      "album": {
         "name": "AfroLOVA' 23",
         "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
       },
@@ -16430,7 +16550,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169873,
       "name": "Solo Fumo Cuando Bebo",
       "url": "https://open.spotify.com/track/33o9jl86HWzk8LQ5SEDdln"
@@ -16724,7 +16844,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190000,
       "name": "superpoder",
       "url": "https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL"
@@ -17008,6 +17128,24 @@
       "duration_ms": 184077,
       "name": "Te Caigo",
       "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
+    },
+    {
+      "album": {
+        "name": "Morphys",
+        "url": "https://open.spotify.com/album/332GInMMj66YvdPUXfdvlW"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240336,
+      "name": "te clavas",
+      "url": "https://open.spotify.com/track/6B1DVE9hWzAGmHkH1dq3Mu"
     },
     {
       "album": {
@@ -18240,6 +18378,24 @@
       "duration_ms": 195652,
       "name": "Una Como Tu",
       "url": "https://open.spotify.com/track/2HHoXPafKfE41eXMQDrbrX"
+    },
+    {
+      "album": {
+        "name": "una en un mill\u00f3n . . & te qued\u00f3 grande [v13 xii] . -",
+        "url": "https://open.spotify.com/album/5WV8k3KiC0QuUuR70gwESF"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180944,
+      "name": "una en un mill\u00f3n . .",
+      "url": "https://open.spotify.com/track/62R3iw59IeKbl2VbFR2mzp"
     },
     {
       "album": {

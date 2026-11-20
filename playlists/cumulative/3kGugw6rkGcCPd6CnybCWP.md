@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-557 songs - 1 day 8 hr 14 min
+558 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Moksha](https://open.spotify.com/track/0ZQppVVEX0a8TXpTy8v4nF) | [Pale State](https://open.spotify.com/artist/3BYfiLgf69sDHqTzSH93SA) | [Moksha](https://open.spotify.com/album/65GzXvSc7y2fAu2rf2oFc3) | 4:00 | 2026-11-11 |  |
 | [Mole's Hotel](https://open.spotify.com/track/6SmtJ7NWGvpyL2LjMTCnVz) | [Public Delay](https://open.spotify.com/artist/2l4DfT1GBSmKk2auKQVKRO), [Dizzy Panda](https://open.spotify.com/artist/2NpvjxVmyqxArOUBoF7oyv) | [Mole's Hotel](https://open.spotify.com/album/78cBDN5Q2b8xsoAA3zo9uP) | 2:32 | 2026-04-21 | 2026-05-07 |
 | [Moments](https://open.spotify.com/track/3XlM4poGU9OeljXr8PH2DV) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Moments EP](https://open.spotify.com/album/5hTPUaaoJX2PnTdTMZ0EVt) | 3:40 | 2026-05-05 | 2026-07-24 |
+| [Money Pit](https://open.spotify.com/track/2y0w0OTbEWVDbkVCMWHUDp) | [Lotsy](https://open.spotify.com/artist/37RGp4a1NSlLj7fg1VdD3C) | [Money Pit](https://open.spotify.com/album/2rGEMwal6B7v4SsxLd6j2k) | 2:34 | 2026-11-19 |  |
 | [Monster](https://open.spotify.com/track/5qaDhl2WI8PZ4E8uRavh4o) | [Sam Edwards](https://open.spotify.com/artist/3SWbBPEKFKWXhms9t1S6VZ) | [Monster](https://open.spotify.com/album/0vW0OgHfbaXl2tJTSE7S65) | 2:51 | 2025-10-24 | 2025-12-12 |
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-10-29 | 2025-12-12 |
 | [Moonlight](https://open.spotify.com/track/1Xnn2Fmts67hpUW085EJYF) | [Blue Scarr](https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi), [Aimée Britannia](https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7) | [Moonlight](https://open.spotify.com/album/4PPCdRFGekzGpKaTiiuGYk) | 2:53 | 2026-04-21 | 2026-07-02 |

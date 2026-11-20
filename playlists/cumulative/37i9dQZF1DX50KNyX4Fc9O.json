@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Keep your finger on the pulse of pop. Cover: Jack River",
+  "description": "Keep your finger on the pulse of pop. Cover: Gracie Abrams",
   "name": "Pop n' Fresh",
   "tracks": [
     {
@@ -270,6 +270,24 @@
       "duration_ms": 181820,
       "name": "2 hands",
       "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
+    },
+    {
+      "album": {
+        "name": "MARNI",
+        "url": "https://open.spotify.com/album/2jLbiuJwt7VfqRemAzibTN"
+      },
+      "artists": [
+        {
+          "name": "AMARNI",
+          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "2 SXC",
+      "url": "https://open.spotify.com/track/50mYrhZNcpQ07DfWsQPn5v"
     },
     {
       "album": {
@@ -688,7 +706,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 136000,
       "name": "5432ON",
       "url": "https://open.spotify.com/track/0FSYmBBitBFt6fpQXVSPpZ"
@@ -915,6 +933,24 @@
     },
     {
       "album": {
+        "name": "A PLACE TO GO",
+        "url": "https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "A PLACE TO GO",
+      "url": "https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb"
+    },
+    {
+      "album": {
         "name": "A shot in the dark",
         "url": "https://open.spotify.com/album/3OLQRSVOoLIKLPOfWynPAF"
       },
@@ -998,7 +1034,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 191204,
       "name": "A+",
       "url": "https://open.spotify.com/track/2j7ctRded9UFzuIMJSn2vw"
@@ -1038,7 +1074,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 242245,
       "name": "ACCELERANDO",
       "url": "https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O"
@@ -3488,7 +3524,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 229253,
       "name": "Baby Lamb",
       "url": "https://open.spotify.com/track/4FwurdZieC9XmCo2TtLmTV"
@@ -6587,6 +6623,24 @@
     },
     {
       "album": {
+        "name": "boy i didn't date",
+        "url": "https://open.spotify.com/album/2h2S8hkR3lnVfgcsUGyjvD"
+      },
+      "artists": [
+        {
+          "name": "RENA\u00c9",
+          "url": "https://open.spotify.com/artist/7N3wFi8QWEFeUQrtBJpmpq"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206857,
+      "name": "boy i didn't date",
+      "url": "https://open.spotify.com/track/28d6qXBrn2mBWipEFHkU4m"
+    },
+    {
+      "album": {
         "name": "Boy In Love",
         "url": "https://open.spotify.com/album/4SoPcHKJ7s4XnNZtLbpJ9Y"
       },
@@ -8016,7 +8070,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213371,
       "name": "Canada",
       "url": "https://open.spotify.com/track/5F4DoH1rEKXATnivuM3Ipt"
@@ -10381,6 +10435,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223683,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C"
+    },
+    {
+      "album": {
         "name": "I Put My Hand Inside the Mouth of a Goat",
         "url": "https://open.spotify.com/album/7KrfY39eOtHpxguUJIVSvZ"
       },
@@ -12314,6 +12386,24 @@
       "duration_ms": 141092,
       "name": "Dirty Laundry",
       "url": "https://open.spotify.com/track/3O0VDbjTaFDKQlSyE54xxf"
+    },
+    {
+      "album": {
+        "name": "dirty white tee",
+        "url": "https://open.spotify.com/album/3OAlV55JOKLQsmrlcSpeYm"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175733,
+      "name": "dirty white tee",
+      "url": "https://open.spotify.com/track/72pgOuR3pxKvFWYuJ5Tke3"
     },
     {
       "album": {
@@ -16159,6 +16249,28 @@
     },
     {
       "album": {
+        "name": "Fast Emotion (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6NL0OEV68wSPHAxQiGsuO5"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173952,
+      "name": "Fast Emotion (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/5ywRLhRi5JhoOoRurIyk5f"
+    },
+    {
+      "album": {
         "name": "Faultless",
         "url": "https://open.spotify.com/album/072YVi7peA0iwixDGMzz5g"
       },
@@ -17950,7 +18062,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213585,
       "name": "FUN",
       "url": "https://open.spotify.com/track/0CwsKDeErwN4J8RFq6wL14"
@@ -18503,6 +18615,24 @@
     },
     {
       "album": {
+        "name": "Get \u2018Em Girls",
+        "url": "https://open.spotify.com/album/2Gtzo1b2Hsv9kkh5r4CT6P"
+      },
+      "artists": [
+        {
+          "name": "KARLEE GIRL",
+          "url": "https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199270,
+      "name": "Get \u2018Em Girls",
+      "url": "https://open.spotify.com/track/0PLJ8yOxocpIiRlo20Bp0f"
+    },
+    {
+      "album": {
         "name": "GFY",
         "url": "https://open.spotify.com/album/1LY9dpY70P8Ga2jRvuxwsq"
       },
@@ -18608,7 +18738,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 139004,
       "name": "Ghost in My Walls",
       "url": "https://open.spotify.com/track/3X2H97ey1e1KkmwyBFw2IW"
@@ -18886,7 +19016,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 204845,
       "name": "Girls Girl",
       "url": "https://open.spotify.com/track/3b2OEzF5rlmxyMiwU3d7lz"
@@ -19320,6 +19450,24 @@
       "duration_ms": 188138,
       "name": "GO",
       "url": "https://open.spotify.com/track/5LuMzEBhXsbQpsy6vNKbYQ"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192301,
+      "name": "Go Easy",
+      "url": "https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ"
     },
     {
       "album": {
@@ -20289,6 +20437,24 @@
     },
     {
       "album": {
+        "name": "grief and all his friends",
+        "url": "https://open.spotify.com/album/7cFDR0dj9FMcqxw0HLGrzA"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198054,
+      "name": "grief and all his friends",
+      "url": "https://open.spotify.com/track/1brCf12togJyd7TJlDpxP3"
+    },
+    {
+      "album": {
         "name": "SENESCENCE 05 + 06",
         "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
       },
@@ -20946,7 +21112,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 217000,
       "name": "Happy",
       "url": "https://open.spotify.com/track/1SBYruzHCKFuVMPJp8R6mb"
@@ -26783,6 +26949,24 @@
     },
     {
       "album": {
+        "name": "I Know I Brought It Up, But I Don't Want To Talk About It.",
+        "url": "https://open.spotify.com/album/0Rta0QTXrIM6hYjaR1P2AG"
+      },
+      "artists": [
+        {
+          "name": "PEPTALK",
+          "url": "https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173786,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/6bZNRzINdRUABpm8bnfkZq"
+    },
+    {
+      "album": {
         "name": "In The Name Of Healing (from the Prime Original Movie \u2018Your Fault: London\u2019)",
         "url": "https://open.spotify.com/album/1T0yBHa2eKYVtAXMu7UxCn"
       },
@@ -29469,6 +29653,24 @@
     },
     {
       "album": {
+        "name": "Leave With Me (Featured in Always Lalisa)",
+        "url": "https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184788,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G"
+    },
+    {
+      "album": {
         "name": "Leave You (Never)",
         "url": "https://open.spotify.com/album/719K239D6kQI3oi3Bw8rbJ"
       },
@@ -31187,6 +31389,24 @@
     },
     {
       "album": {
+        "name": "Daughter from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175970,
+      "name": "Lost in It",
+      "url": "https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt"
+    },
+    {
+      "album": {
         "name": "Lost in LA",
         "url": "https://open.spotify.com/album/0lSD9LGgmhcLMiCqhkCEiV"
       },
@@ -31324,7 +31544,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 180686,
       "name": "Love Depressed",
       "url": "https://open.spotify.com/track/7dob6HYh8OhMqUXdklI9l5"
@@ -32806,6 +33026,24 @@
       "duration_ms": 172625,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/1XUAb3uIQCyehaPVfXOk3z"
+    },
+    {
+      "album": {
+        "name": "Marionette",
+        "url": "https://open.spotify.com/album/5Od756jmR2eCPHjYTVXNp6"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148253,
+      "name": "Marionette",
+      "url": "https://open.spotify.com/track/17sfizgMBt2ZHxyS3kk82I"
     },
     {
       "album": {
@@ -40068,7 +40306,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 215798,
       "name": "Pretty girls",
       "url": "https://open.spotify.com/track/7c0oKEgUPN6nQ5dwhzzs3m"
@@ -43932,7 +44170,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185373,
       "name": "She'll Never Be Me",
       "url": "https://open.spotify.com/track/3wgrOVBvLSjPujrxDjdWeV"
@@ -47782,6 +48020,28 @@
       "duration_ms": 220500,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/79EW8ABTuMJmbxG0VTS0D9"
+    },
+    {
+      "album": {
+        "name": "Summer Rain (feat. Signature Choir)",
+        "url": "https://open.spotify.com/album/0b6XrZwoI6VYYhJc6Gtvvt"
+      },
+      "artists": [
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        },
+        {
+          "name": "Signature Choir",
+          "url": "https://open.spotify.com/artist/5CVBpHa9V6xL4fGQiSrR5u"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231978,
+      "name": "Summer Rain (feat. Signature Choir)",
+      "url": "https://open.spotify.com/track/0N7AyJSq3ZvjoxvW7sUeUc"
     },
     {
       "album": {
@@ -52150,7 +52410,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176629,
       "name": "This man is a preacher",
       "url": "https://open.spotify.com/track/068jK4fexYZg1zAUG5Lh0u"
@@ -54033,6 +54293,24 @@
     },
     {
       "album": {
+        "name": "U KNOW IT",
+        "url": "https://open.spotify.com/album/0SS9lmK9KSRCQRgxyys8qP"
+      },
+      "artists": [
+        {
+          "name": "Thekidszn",
+          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145882,
+      "name": "U KNOW IT",
+      "url": "https://open.spotify.com/track/6fboc0pfNoQdwZuhMUge6C"
+    },
+    {
+      "album": {
         "name": "u stay on my mind",
         "url": "https://open.spotify.com/album/1PR2VPWqa5ZsukGYS4QMpE"
       },
@@ -54935,6 +55213,24 @@
     },
     {
       "album": {
+        "name": "Visit",
+        "url": "https://open.spotify.com/album/3nOplVF6bjMPXrp8fz1usV"
+      },
+      "artists": [
+        {
+          "name": "Sunday Collins",
+          "url": "https://open.spotify.com/artist/0WyRtpRZzUl4RvBzorIuQn"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Visit",
+      "url": "https://open.spotify.com/track/5YYtU5CFqmSvn0z1rH5vIU"
+    },
+    {
+      "album": {
         "name": "Visualise",
         "url": "https://open.spotify.com/album/5qfNJ0DqdlBrEVJPST6w3k"
       },
@@ -55570,7 +55866,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 174193,
       "name": "Water, Shelter, Oxygen",
       "url": "https://open.spotify.com/track/1QgbO0gGOT1zZAEuvXrhEc"
@@ -56448,7 +56744,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188571,
       "name": "What's In My Bag?",
       "url": "https://open.spotify.com/track/0T5XGpG16Qh2jaw62czaVl"
@@ -59232,7 +59528,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190376,
       "name": "Z-List Girl - Perfectworld Version",
       "url": "https://open.spotify.com/track/50QMaE7Q4AyadQkN8C5bYD"

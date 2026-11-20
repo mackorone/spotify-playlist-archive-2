@@ -4,7 +4,7 @@
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
-1,708 songs - 3 day 18 hr 23 min
+1,710 songs - 3 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1031,6 +1031,7 @@
 | [Mr\. Mountebank](https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux Deluxe](https://open.spotify.com/album/3oaSSUc7HkXIpTb4NGLKDt) | 5:11 | 2025-09-12 | 2025-10-25 |
 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/6GgwpfhXEjHkHUjwfgMLzY) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Mulholland's Dinner and Wine](https://open.spotify.com/album/1LKSGgWMCZBWm4Sd1Foixw) | 3:21 | 2024-01-19 | 2024-02-10 |
 | [Muse](https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Muse](https://open.spotify.com/album/176tuOtt0Z7IIt3QTqGzVF) | 2:24 | 2024-10-18 | 2024-11-16 |
+| [Music All Over Her Body](https://open.spotify.com/track/6oR9Lb8TWwZ60ybem3SHF8) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Music All Over Her Body](https://open.spotify.com/album/4JFxbRpXOCpwTX17AVL9qP) | 2:33 | 2026-11-19 |  |
 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 | 2025-04-25 | 2025-06-28 |
 | [My Home is You](https://open.spotify.com/track/21BVKaQL0In7HFPVW0pHkF) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [My Home is You](https://open.spotify.com/album/7i8w4AXI1n3twWDqN0TN56) | 3:23 | 2023-11-03 | 2023-11-18 |
 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 | 2026-04-10 | 2026-10-06 |
@@ -1540,6 +1541,7 @@
 | [Tie you down](https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI) | 2:56 | 2025-10-14 | 2025-12-06 |
 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where to Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 | 2025-01-31 | 2025-06-28 |
 | [TILL L4TE \(feat\. Pozer\)](https://open.spotify.com/track/3wZwJmK48mHwruBIK24oP2) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [TILL L4TE \(feat\. Pozer\)](https://open.spotify.com/album/3N7NAEQA0RxUxJSq0JOmd5) | 2:08 | 2025-05-23 | 2025-07-19 |
+| [Time](https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 7:02 | 2026-11-19 |  |
 | [Time Is A Bomb](https://open.spotify.com/track/2B2CwJ9ViewmNc6qDKTS3I) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Time Is A Bomb](https://open.spotify.com/album/6zPOrWyVY2e57qwUW1m7Si) | 4:24 | 2026-03-06 | 2026-04-18 |
 | [Time of Your Life](https://open.spotify.com/track/4ZFFS0oNoDqPUjXhaep3fw) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Time of Your Life](https://open.spotify.com/album/6b8tCdSrymOBQXDsrGVari) | 2:29 | 2025-04-11 | 2025-05-24 |
 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 | 2023-11-03 | 2023-11-18 |

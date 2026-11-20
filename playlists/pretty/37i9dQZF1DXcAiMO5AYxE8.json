@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 552815,
+  "num_followers": 552835,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKbQvbijYb5J9hmesp8ezA8CSA2",
+  "snapshot_id": "AAAAAEFt8WZsDKZ2rciANhxpRBacW/Zg",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -343,6 +343,26 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 386426,
+      "name": "Bad Luck (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Raydio",
         "url": "https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 275666,
       "name": "Jack and Jill",
       "url": "https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
-      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -431,6 +431,26 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
+      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
         "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 179533,
       "name": "What Can I Say",
       "url": "https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 386426,
-      "name": "Bad Luck (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
     },
     {
       "added_at": "2020-04-14 18:41:41",

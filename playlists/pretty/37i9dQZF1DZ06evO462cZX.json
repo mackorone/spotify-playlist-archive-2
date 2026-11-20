@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 46047,
+  "num_followers": 46049,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABsBx1xBjoOvb7kB0GrLNyV",
+  "snapshot_id": "avzqgAAAAAAIkycgCyOq4hYTxIcWd2gp",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Keep It Goin'",
+        "url": "https://open.spotify.com/album/1bwM69ypPPzjYJv1iVusi8"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Danny Avila",
+          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Keep It Goin'",
+      "url": "https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En El Audi",
         "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
       },
@@ -471,28 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/5XEkldEKEWbL0XPQWU14HS"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 187164,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/7mRF6HWHu8IHnDQ2LRi5ru"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Keep It Goin'",
-        "url": "https://open.spotify.com/album/1bwM69ypPPzjYJv1iVusi8"
+        "name": "Camaron Pelao",
+        "url": "https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF"
       },
       "artists": [
         {
@@ -500,13 +500,13 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Danny Avila",
-          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
+          "name": "Voces Del Rancho",
+          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Keep It Goin'",
-      "url": "https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD"
+      "duration_ms": 210349,
+      "name": "Camaron Pelao",
+      "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
     },
     {
       "added_at": null,
@@ -535,22 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camaron Pelao",
-        "url": "https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/5XEkldEKEWbL0XPQWU14HS"
       },
       "artists": [
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         },
         {
-          "name": "Voces Del Rancho",
-          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 210349,
-      "name": "Camaron Pelao",
-      "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
+      "duration_ms": 187164,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/7mRF6HWHu8IHnDQ2LRi5ru"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bootie in Your Face (No Rock Drop)",
-        "url": "https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 221236,
-      "name": "Bootie in Your Face - No Rock Drop",
-      "url": "https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belicosa",
         "url": "https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 178064,
       "name": "Belicosa",
       "url": "https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bootie in Your Face (No Rock Drop)",
+        "url": "https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 221236,
+      "name": "Bootie in Your Face - No Rock Drop",
+      "url": "https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Like This F\u2019n Song",
+        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+        }
+      ],
+      "duration_ms": 193821,
+      "name": "I Like This F\u2019n Song",
+      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Knockout",
         "url": "https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 143359,
       "name": "Knockout",
       "url": "https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Like This F\u2019n Song",
-        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "I Like This F\u2019n Song",
-      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elevation EP",
+        "url": "https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Cayendo",
+      "url": "https://open.spotify.com/track/0ULYaI7D58tFNVUu34Y5ty"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -939,38 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevation EP",
-        "url": "https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 240937,
-      "name": "Cayendo",
-      "url": "https://open.spotify.com/track/0ULYaI7D58tFNVUu34Y5ty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When The Funk Drops",
         "url": "https://open.spotify.com/album/6SQPmAwz5G7gXNBB0TXTLl"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 238125,
       "name": "When The Funk Drops",
       "url": "https://open.spotify.com/track/6qPCcyAHEEvPp1QDCcMpPn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,

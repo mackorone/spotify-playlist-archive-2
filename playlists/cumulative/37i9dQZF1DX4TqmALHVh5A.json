@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: Sam Sauvage.",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: Dal\u00ed.",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137600,
       "name": "BROSKI",
       "url": "https://open.spotify.com/track/0T4JU58bCGdWTc6TbuWaEx"
@@ -3167,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Enfant de star",
+        "url": "https://open.spotify.com/album/2UaHiSdoYz8VYk7LMHs4Xr"
+      },
+      "artists": [
+        {
+          "name": "Arca M",
+          "url": "https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204166,
+      "name": "Enfant de star",
+      "url": "https://open.spotify.com/track/3297XenMYECnJdBQFIp5LS"
+    },
+    {
+      "album": {
         "name": "Na\u00eff",
         "url": "https://open.spotify.com/album/5q5Z6W7IIEp4EHp34nL4Qf"
       },
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 126382,
       "name": "faire le vide",
       "url": "https://open.spotify.com/track/42knhCy45P7pKll6f70mI6"
@@ -3712,7 +3730,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168853,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/558TaD2ochs0w7JvbxMBao"
@@ -4040,7 +4058,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 138915,
       "name": "idole",
       "url": "https://open.spotify.com/track/67nA20J1o1iS62jpFJFlhb"
@@ -4344,6 +4362,24 @@
       "duration_ms": 195735,
       "name": "J'aimerais tellement",
       "url": "https://open.spotify.com/track/50iCUpHSFtwJ7SAgil8MXx"
+    },
+    {
+      "album": {
+        "name": "Horse",
+        "url": "https://open.spotify.com/album/7z1Tn4DBju4z9xnNZOQnrG"
+      },
+      "artists": [
+        {
+          "name": "Dal\u00ed",
+          "url": "https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163893,
+      "name": "J'allume",
+      "url": "https://open.spotify.com/track/0BdLSfelCwD4y6c4iQqmUx"
     },
     {
       "album": {
@@ -5012,6 +5048,24 @@
       "duration_ms": 157500,
       "name": "K!TCH",
       "url": "https://open.spotify.com/track/2Gu1mOaC5sCQ2ep4L9W0QI"
+    },
+    {
+      "album": {
+        "name": "K-DO",
+        "url": "https://open.spotify.com/album/3uJjasPcXcnUhpa96dIGUO"
+      },
+      "artists": [
+        {
+          "name": "Persephone",
+          "url": "https://open.spotify.com/artist/1pAi5uMxhnL0M1BiktUcOl"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150417,
+      "name": "K-DO",
+      "url": "https://open.spotify.com/track/2zV1YjfCcggSh7y7zf87ma"
     },
     {
       "album": {
@@ -5730,6 +5784,24 @@
       "duration_ms": 229972,
       "name": "LAISSE-MOI T'AIDER",
       "url": "https://open.spotify.com/track/68Isw7yVpfgVSSjKHbrRJR"
+    },
+    {
+      "album": {
+        "name": "adieux",
+        "url": "https://open.spotify.com/album/4LsxfNvGLLSgzyYKRCL8F3"
+      },
+      "artists": [
+        {
+          "name": "Louve",
+          "url": "https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224026,
+      "name": "laplusbelle",
+      "url": "https://open.spotify.com/track/3ug44QAFhK4BA1OpPjg6Rb"
     },
     {
       "album": {
@@ -6686,7 +6758,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 152452,
       "name": "maldini",
       "url": "https://open.spotify.com/track/4G85rZl49Q3zew6pP1XRCY"
@@ -6704,7 +6776,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154301,
       "name": "Manana",
       "url": "https://open.spotify.com/track/539QlCcRbIsbC7hFW6tfJ9"
@@ -8314,7 +8386,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155586,
       "name": "Ph\u00e9nom\u00e8ne",
       "url": "https://open.spotify.com/track/4BZIRIwAL2maJYwxKZrZgY"
@@ -8336,6 +8408,24 @@
       "duration_ms": 168813,
       "name": "PIERROT LE FOU",
       "url": "https://open.spotify.com/track/7AkXjA1YDOG4YwXoJ4ZuXh"
+    },
+    {
+      "album": {
+        "name": "Pire que \u00e7a",
+        "url": "https://open.spotify.com/album/7zSOqEekmYszbgumDjBk8G"
+      },
+      "artists": [
+        {
+          "name": "Epal",
+          "url": "https://open.spotify.com/artist/1yAAfCWSrvLmtqH2MlnQE8"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185907,
+      "name": "Pire que \u00e7a",
+      "url": "https://open.spotify.com/track/64Ambv9fsz9RRYH4Q5hd4e"
     },
     {
       "album": {
@@ -9427,6 +9517,24 @@
     },
     {
       "album": {
+        "name": "disque dur",
+        "url": "https://open.spotify.com/album/6vhC77UmydGZU2BJM7Rg5r"
+      },
+      "artists": [
+        {
+          "name": "emma bergmann",
+          "url": "https://open.spotify.com/artist/3gVhN8wuf94KtCRlmmkK2F"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190576,
+      "name": "SAGE",
+      "url": "https://open.spotify.com/track/2Y2AM1c3d3S6XzLeUG2Grh"
+    },
+    {
+      "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/36WU86fpaWvRhJSwXyOMSl"
       },
@@ -9442,6 +9550,28 @@
       "duration_ms": 151480,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/6eM39F9Uv0Ss7LUWZYJoA0"
+    },
+    {
+      "album": {
+        "name": "COL\u00c8RE B\u00c9TON",
+        "url": "https://open.spotify.com/album/4gbPXvWyiKHcwUpXqvdsbC"
+      },
+      "artists": [
+        {
+          "name": "Rok.wav",
+          "url": "https://open.spotify.com/artist/34AMiSMNdLIBS0NapVfzLz"
+        },
+        {
+          "name": "Dudu.wav",
+          "url": "https://open.spotify.com/artist/2fyTjHpxa1sFTxYYIgV7YO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145107,
+      "name": "SAISON",
+      "url": "https://open.spotify.com/track/6y4BWKRQkHYBDYHmMFzjyK"
     },
     {
       "album": {
@@ -10807,6 +10937,24 @@
     },
     {
       "album": {
+        "name": "Tout ralentir",
+        "url": "https://open.spotify.com/album/1YczmLutWmjdNjdC8BdwkU"
+      },
+      "artists": [
+        {
+          "name": "Cielbleu",
+          "url": "https://open.spotify.com/artist/6kQS6z1b7oIsR1RLxc9jNc"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Tout ralentir",
+      "url": "https://open.spotify.com/track/1l0c1grHYPscwosdnYcJN6"
+    },
+    {
+      "album": {
         "name": "POPSTAR SPEEDRUN",
         "url": "https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB"
       },
@@ -10876,7 +11024,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 158996,
       "name": "Tout va passer",
       "url": "https://open.spotify.com/track/07x7aqwqXyAwoj5NDwajHd"

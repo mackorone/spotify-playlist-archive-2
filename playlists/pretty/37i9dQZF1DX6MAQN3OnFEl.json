@@ -1,12 +1,12 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 636604,
+  "num_followers": 636705,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC7HK2ZLjOcpUIqdIJq/DwE3ICbT",
+  "snapshot_id": "AAAAAF7IFq6zhH/KPjXqTfFnZCOVCjpn",
   "tracks": [
     {
       "added_at": "2024-10-03 04:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sk8er Boi",
-      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sk8er Boi",
+      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -975,38 +975,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "This Is The End: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
-        "name": "M!ssundaztood (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Get the Party Started",
-      "url": "https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -1023,6 +991,22 @@
       "duration_ms": 223000,
       "name": "Goodies (feat. Petey Pablo)",
       "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "M!ssundaztood (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Get the Party Started",
+      "url": "https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1055,6 +1039,22 @@
       "duration_ms": 240866,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "This Is The End: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "The Madding Crowd",
-        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
-      },
-      "artists": [
-        {
-          "name": "Nine Days",
-          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Absolutely (Story of a Girl) - Radio Mix",
-      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 238760,
       "name": "1 Thing",
       "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "The Madding Crowd",
+        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
+      },
+      "artists": [
+        {
+          "name": "Nine Days",
+          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Absolutely (Story of a Girl) - Radio Mix",
+      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "The Hits",
-        "url": "https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Gotta Tell You",
         "url": "https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 200160,
       "name": "Gotta Tell You",
       "url": "https://open.spotify.com/track/1rj0XawWJNisX7SGYexowJ"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O"
     },
     {
       "added_at": "2024-07-12 21:13:59",

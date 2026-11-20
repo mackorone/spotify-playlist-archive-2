@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 832370,
+  "num_followers": 832639,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANdNuetyGWN8ucT5VkEE4NECXn5A",
+  "snapshot_id": "AAAAAI5RGLt77cTIdMsFX7ma9StT2Nwt",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -763,38 +763,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Age Of Plastic",
-        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
-      },
-      "artists": [
-        {
-          "name": "The Buggles",
-          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Video Killed The Radio Star",
-      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Bellamy Brothers",
         "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
@@ -823,6 +791,38 @@
       "duration_ms": 235440,
       "name": "Crocodile Rock",
       "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Age Of Plastic",
+        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
+      },
+      "artists": [
+        {
+          "name": "The Buggles",
+          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Video Killed The Radio Star",
+      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -857,20 +857,20 @@
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+        "name": "Caribou (Remastered 1995)",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+      "duration_ms": 224933,
+      "name": "The Bitch Is Back - Remastered 1995",
+      "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -889,20 +889,20 @@
       "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Caribou (Remastered 1995)",
-        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 224933,
-      "name": "The Bitch Is Back - Remastered 1995",
-      "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
@@ -1159,6 +1143,22 @@
       "duration_ms": 295466,
       "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
       "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 394266,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "30 Years Of Funk: 1969-1999 The Anthology",
@@ -1239,6 +1223,22 @@
       "duration_ms": 202733,
       "name": "Some Kind Of Wonderful - Remastered 1999",
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Higher Ground",
-      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "The Collection & Tracklisting",
         "url": "https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 273866,
       "name": "Yes Sir, I Can Boogie",
       "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "Please Mr. Postman",
-      "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "2 Hot!",
         "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Please Mr. Postman",
+      "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Freedom for the Stallion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
-      },
-      "artists": [
-        {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "4 Hits: Eruption",
@@ -1463,6 +1447,22 @@
       "duration_ms": 213200,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Freedom for the Stallion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
+      },
+      "artists": [
+        {
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "The Singles 1974 - 76",
-        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Whatever You Want",
@@ -1559,6 +1543,22 @@
       "duration_ms": 243546,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/2kUzt5LsTUR0ggquP7O3eN"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
+        "name": "The Singles 1974 - 76",
+        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
         }
       ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "War And Peace",
-        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
+        "name": "The Kids & Me",
+        "url": "https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s"
       },
       "artists": [
         {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+          "name": "Billy Preston",
+          "url": "https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5"
         }
       ],
-      "duration_ms": 200266,
-      "name": "War",
-      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+      "duration_ms": 156200,
+      "name": "Nothing From Nothing",
+      "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Kids & Me",
-        "url": "https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s"
+        "name": "War And Peace",
+        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
       },
       "artists": [
         {
-          "name": "Billy Preston",
-          "url": "https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5"
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
         }
       ],
-      "duration_ms": 156200,
-      "name": "Nothing From Nothing",
-      "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
+      "duration_ms": 200266,
+      "name": "War",
+      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Average White Band",
-        "url": "https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC"
-      },
-      "artists": [
-        {
-          "name": "Average White Band",
-          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Pick up the Pieces",
-      "url": "https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "I Love The Way You Love",
         "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Average White Band",
+        "url": "https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC"
+      },
+      "artists": [
+        {
+          "name": "Average White Band",
+          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Pick up the Pieces",
+      "url": "https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Young, Gifted and Black",
-        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Rock Steady",
-      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 127493,
       "name": "Travelin' Band",
       "url": "https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
     },
     {
       "added_at": "2021-09-08 13:31:49",

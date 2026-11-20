@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u7406\u60f3\u6df7\u86cb ",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: Dior \u5927\u7a4e ",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -962,7 +962,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 224342,
       "name": "Dream Light - HBO\u539f\u5275\u5f71\u96c6\u300a\u4f86\uff01\u91d1\u4f86\u865f\uff01\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/5p3ipydCyJLu1suJsODquu"
@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 179320,
       "name": "To-Do list ft. \u5442\u5141",
       "url": "https://open.spotify.com/track/5U6ZFzKLDfQc94lawVvTMY"
@@ -5460,6 +5460,24 @@
       "duration_ms": 207193,
       "name": "\u4ed6\u4e0d\u611b\u6211 - \u6efe\u77f3\u649e\u6a02\u968a2 (\u539f\u5531:\u83ab\u6587\u851a)",
       "url": "https://open.spotify.com/track/0oFAas3rJLL2evZiSGlSxm"
+    },
+    {
+      "album": {
+        "name": "\u4efb\u5929\u5802",
+        "url": "https://open.spotify.com/album/3sua0HkoMC1ukEqhGyf1tX"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213515,
+      "name": "\u4efb\u5929\u5802",
+      "url": "https://open.spotify.com/track/3DiqkjoV007NmDvoSC4lMk"
     },
     {
       "album": {
@@ -9744,6 +9762,24 @@
       "duration_ms": 293821,
       "name": "\u5927\u5c0f\u5b69",
       "url": "https://open.spotify.com/track/3KmVHZGItxsn05PMXmSf8p"
+    },
+    {
+      "album": {
+        "name": "\u5927\u684c\u5b50",
+        "url": "https://open.spotify.com/album/4BQQJ2lcTepU2KM4FX9XZq"
+      },
+      "artists": [
+        {
+          "name": "\u9811\u7ae5Mj116",
+          "url": "https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205476,
+      "name": "\u5927\u684c\u5b50",
+      "url": "https://open.spotify.com/track/0zZSlAshdpVI71ZeeQsQUF"
     },
     {
       "album": {
@@ -18462,7 +18498,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 167142,
       "name": "\u7121\u91cd\u529b\u5927\u4eba",
       "url": "https://open.spotify.com/track/75KcvTkRVoY1v4sV47h33h"
@@ -19968,6 +20004,24 @@
       "duration_ms": 215328,
       "name": "\u7b49\u70df\u706b\u7167\u4eae\u6211 - \u300a\u6709\u4e00\u5929\u300b\u4e2d\u6587\u7248",
       "url": "https://open.spotify.com/track/3Q3KPP4IDdcH9hlEtlrg5Y"
+    },
+    {
+      "album": {
+        "name": "\u7b49\u7121",
+        "url": "https://open.spotify.com/album/7Kp8xa4yzQ9g8tcWrx50Ro"
+      },
+      "artists": [
+        {
+          "name": "Amazing Show",
+          "url": "https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274060,
+      "name": "\u7b49\u7121",
+      "url": "https://open.spotify.com/track/3vKCpNhQCIOwZAuvopDeEK"
     },
     {
       "album": {

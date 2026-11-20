@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAkcnu1JkBr2cyOdqyf545W5rwja7bz",
+  "snapshot_id": "AAAkczaHvbqIRPpyzNm+6XBl8rChX/Nb",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -699,6 +699,22 @@
       "duration_ms": 211500,
       "name": "Synthimacy",
       "url": "https://open.spotify.com/track/5CPQEzZj3kYN84JDIZmphl"
+    },
+    {
+      "added_at": "2026-11-19 14:08:25",
+      "album": {
+        "name": "Narcisos",
+        "url": "https://open.spotify.com/album/2FnbIvZBheqlp9hrrjeYcK"
+      },
+      "artists": [
+        {
+          "name": "Kamy",
+          "url": "https://open.spotify.com/artist/2i03xVEyzsYwm84ifehJUS"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Narcisos",
+      "url": "https://open.spotify.com/track/3LSJOhY0BCCfPvwLBbKy3H"
     }
   ],
   "unique_name": "Alternative Pop Archive",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Ervin River en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Valgur en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -816,7 +816,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 169911,
       "name": "AMIGOS",
       "url": "https://open.spotify.com/track/2wQwWjVduDPjDoSKmmoTaS"
@@ -2506,6 +2506,24 @@
       "duration_ms": 142622,
       "name": "CORAZON PESAO",
       "url": "https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n de Cristal",
+        "url": "https://open.spotify.com/album/0ZI6WWujhYEsREybTxsqhr"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212999,
+      "name": "Coraz\u00f3n de Cristal",
+      "url": "https://open.spotify.com/track/6Qv8zAl6sGxqag35b0HQqp"
     },
     {
       "album": {
@@ -6946,7 +6964,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 197953,
       "name": "Luz",
       "url": "https://open.spotify.com/track/5gWuFVmTAtjiMxMLLB9cNp"
@@ -7704,7 +7722,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 134124,
       "name": "MK ULTRA",
       "url": "https://open.spotify.com/track/26Dm8lQH8EI2QM08lzEFYe"
@@ -10609,6 +10627,36 @@
     },
     {
       "album": {
+        "name": "ROYAL RUMBLE",
+        "url": "https://open.spotify.com/album/0e9NqlW0SUBzNwckeXBxio"
+      },
+      "artists": [
+        {
+          "name": "LA CONTRA CORRIENTE",
+          "url": "https://open.spotify.com/artist/6byoOCKsZ6FDdsfOmpnnme"
+        },
+        {
+          "name": "Maneyx",
+          "url": "https://open.spotify.com/artist/30YKmHaCzvXsPMtbI2pSVi"
+        },
+        {
+          "name": "Arizpe",
+          "url": "https://open.spotify.com/artist/5SU1Zp5WmMwNYZHbcqxbi0"
+        },
+        {
+          "name": "Refugee",
+          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145540,
+      "name": "ROYAL RUMBLE",
+      "url": "https://open.spotify.com/track/5idOsdE4JLVhJRPGPRw2i2"
+    },
+    {
+      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -11202,6 +11250,24 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+    },
+    {
+      "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/3dGxcLIcTatorU7KSYJNvK"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158601,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/42oFPXNI7Pcf9Rj31NQ61U"
     },
     {
       "album": {
@@ -12202,6 +12268,24 @@
       "duration_ms": 190200,
       "name": "Todo Lo Que Sent\u00ed",
       "url": "https://open.spotify.com/track/2FSOOoTvVj1BfOJOdajmEI"
+    },
+    {
+      "album": {
+        "name": "sempre sente",
+        "url": "https://open.spotify.com/album/1PyD4VOWRn4dsCVq8E62De"
+      },
+      "artists": [
+        {
+          "name": "Perd\u00f3n Amor",
+          "url": "https://open.spotify.com/artist/3i0LLJewOCJ5pOSE9HUjJa"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284030,
+      "name": "todo o nada",
+      "url": "https://open.spotify.com/track/7vf66ArWTB8ZATdYy6MjfH"
     },
     {
       "album": {

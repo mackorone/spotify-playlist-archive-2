@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 
 > This is Paramore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,945 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,081 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 40 | [Figure 8](https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:24 |
 | 41 | [Renegade](https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:28 |
 | 42 | [The Only Exception \- Live at Red Rocks Amphitheatre, Morrison, CO, 8/12/2014](https://open.spotify.com/track/14UFeUG8RCx1XwSuGF9Tcs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 4:39 |
-| 43 | [Burning Down the House](https://open.spotify.com/track/0JYuvYMXApbWilFJdMSHSd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/0Gtm5NFDODVHB535xusxKg) | 3:38 |
+| 43 | [Stuck On You](https://open.spotify.com/track/5kdWRrbFpKOzvwyZa6GH9F) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling \(Deluxe\)](https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo) | 4:29 |
 | 44 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
 | 45 | [Hello Cold World](https://open.spotify.com/track/1V8qfqICVnpmex8g9yn1Pc) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:23 |
-| 46 | [Stuck On You](https://open.spotify.com/track/5kdWRrbFpKOzvwyZa6GH9F) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling \(Deluxe\)](https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo) | 4:29 |
-| 47 | [C’est Comme Ça \(Re: Wet Leg\)](https://open.spotify.com/track/5PA2Q9hBo1gmB3RlA8TZa2) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 2:24 |
-| 48 | [In the Mourning](https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:05 |
-| 49 | [O Star](https://open.spotify.com/track/3lwOABYgvKcKcgbxSWRMv3) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling \(Deluxe\)](https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo) | 3:45 |
+| 46 | [Burning Down the House](https://open.spotify.com/track/0JYuvYMXApbWilFJdMSHSd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/0Gtm5NFDODVHB535xusxKg) | 3:38 |
+| 47 | [O Star](https://open.spotify.com/track/3lwOABYgvKcKcgbxSWRMv3) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling \(Deluxe\)](https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo) | 3:45 |
+| 48 | [C’est Comme Ça \(Re: Wet Leg\)](https://open.spotify.com/track/5PA2Q9hBo1gmB3RlA8TZa2) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 2:24 |
+| 49 | [In the Mourning](https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:05 |
 | 50 | [Sanity \(demo\)](https://open.spotify.com/track/2ZbHgxLSjIzqzTuZAwvbZv) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:30 |
 
-Snapshot ID: `avpHgAAAAAD2sKJ1UcUnY2tjDFY9LI5k`
+Snapshot ID: `avzqgAAAAAC9+5qFSqdrnbepytkgATzj`

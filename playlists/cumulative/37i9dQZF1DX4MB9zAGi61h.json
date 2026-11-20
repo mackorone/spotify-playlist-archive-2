@@ -34,10 +34,28 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163178,
       "name": "A Gentle Surrender",
       "url": "https://open.spotify.com/track/6gbc6FUpy6LnNlAO6TXp2A"
+    },
+    {
+      "album": {
+        "name": "A Life in Moments",
+        "url": "https://open.spotify.com/album/5cvLSZBb10hYRDSoLkzXnj"
+      },
+      "artists": [
+        {
+          "name": "Antoine Faur\u00e9",
+          "url": "https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125123,
+      "name": "A Life in Moments",
+      "url": "https://open.spotify.com/track/4zVb3G1Dx819S3iNSSEaro"
     },
     {
       "album": {
@@ -88,7 +106,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137103,
       "name": "A Slow Goodbye",
       "url": "https://open.spotify.com/track/3f3PczuKvYPitGz1iZZDQO"
@@ -304,7 +322,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148625,
       "name": "Between Seasons",
       "url": "https://open.spotify.com/track/4XPUL6dYh97Yl7mFsU7qch"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 124684,
       "name": "Distant",
       "url": "https://open.spotify.com/track/2ZJTT9wwW50fSYr8qxFQSP"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 128974,
       "name": "Indigo Skies",
       "url": "https://open.spotify.com/track/4DOBIHGhUhcm7hTJkjOEPi"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 146897,
       "name": "It Goes On",
       "url": "https://open.spotify.com/track/6nV6Uj6Mh0nWSGaVCaqcms"
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 150685,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/6z0UhDZtA0Ln2hHhgLg6Ah"
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 124230,
       "name": "Pieces of Past Times",
       "url": "https://open.spotify.com/track/3yUZpjAPOwvN6pzmRADkqo"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 145003,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/5z4yOX21OH7Y4Z5tXwHluJ"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 139198,
       "name": "Sail Away",
       "url": "https://open.spotify.com/track/44BFfYMUdKogtMSJJZAhvk"
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 106904,
       "name": "Sign Language",
       "url": "https://open.spotify.com/track/7tX5i08r7YXsHVWakYV2UB"
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148421,
       "name": "Sunside",
       "url": "https://open.spotify.com/track/1YjZyU94YBTuLgBp1Df86F"
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163406,
       "name": "The Eyes Of My Life",
       "url": "https://open.spotify.com/track/1lC0WCUtC6uQVt4mGojHUT"
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 155145,
       "name": "Wander",
       "url": "https://open.spotify.com/track/0ies7PA42O8rBca3oxSIAy"
@@ -2058,6 +2076,24 @@
       "duration_ms": 134623,
       "name": "White Sand",
       "url": "https://open.spotify.com/track/3fAXP2QcFWVRK1b98qygpP"
+    },
+    {
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/1hQ78fhZCkp1uJ6esZPYiQ"
+      },
+      "artists": [
+        {
+          "name": "The Piano Herbarium",
+          "url": "https://open.spotify.com/artist/0QiOtbuT3B1A7Xa5gaKhfW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169077,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/6fgn2T1UfMKnsfRgk6hRL6"
     },
     {
       "album": {

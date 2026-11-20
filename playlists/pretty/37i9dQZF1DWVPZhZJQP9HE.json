@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Saurav Srisan & Tanisha Gnanavel",
-  "num_followers": 87469,
+  "num_followers": 87589,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADK/wBCj7LLZ1bmIg+RF7s1W9d54",
+  "snapshot_id": "AAAAAEVNeIlAIf2W3lD378PZ5Ow+QV1/",
   "tracks": [
     {
       "added_at": "2026-09-24 14:35:09",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/2iM6Pzrx6xBVZxz14zwXpZ"
     },
     {
+      "added_at": "2026-11-20 03:33:30",
+      "album": {
+        "name": "Icchai",
+        "url": "https://open.spotify.com/album/6TONR0LJrct0fMY6arqEQI"
+      },
+      "artists": [
+        {
+          "name": "Madrashe",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "Icchai",
+      "url": "https://open.spotify.com/track/5A9TU1xwPtdsMvYDnUWLHh"
+    },
+    {
       "added_at": "2026-10-07 09:58:11",
       "album": {
         "name": "Rathinamo",
@@ -133,6 +149,26 @@
       "url": "https://open.spotify.com/track/5DYK6maqD1Gi91y2icQf7g"
     },
     {
+      "added_at": "2026-11-20 03:33:30",
+      "album": {
+        "name": "KADHAL BABY",
+        "url": "https://open.spotify.com/album/4uu7GF8ECRjoXWQ7IizdnU"
+      },
+      "artists": [
+        {
+          "name": "Neha Venugopal",
+          "url": "https://open.spotify.com/artist/5UN71z4zK3sryzvO1aLUWz"
+        },
+        {
+          "name": "Joseph Vijay",
+          "url": "https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p"
+        }
+      ],
+      "duration_ms": 244067,
+      "name": "KADHAL BABY",
+      "url": "https://open.spotify.com/track/29f76u2ruvcyfP9so9dr2d"
+    },
+    {
       "added_at": "2026-05-06 10:50:13",
       "album": {
         "name": "IMAYE",
@@ -155,6 +191,34 @@
       "duration_ms": 202000,
       "name": "IMAYE",
       "url": "https://open.spotify.com/track/5PL0PtPlaSjH6eQdA9WfFS"
+    },
+    {
+      "added_at": "2026-11-20 03:33:30",
+      "album": {
+        "name": "Mudhal Muraiyaai",
+        "url": "https://open.spotify.com/album/10hjG6ZgjimGtLRcy70IhF"
+      },
+      "artists": [
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        },
+        {
+          "name": "Roshi Ranjith",
+          "url": "https://open.spotify.com/artist/4KtvNPooTp3hXpzdqQufOp"
+        },
+        {
+          "name": "Kalesh Ramanand",
+          "url": "https://open.spotify.com/artist/2U2jQ8K3sEKcCaYSkt0p73"
+        },
+        {
+          "name": "Navin Kannan",
+          "url": "https://open.spotify.com/artist/3wVQcIbAURstU5Yhxc5K8C"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "Mudhal Muraiyaai",
+      "url": "https://open.spotify.com/track/3FsqTKODp1i5Bi6EOB9ZOE"
     },
     {
       "added_at": "2026-11-13 00:30:20",

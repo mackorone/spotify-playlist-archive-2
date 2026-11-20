@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 135022,
+  "num_followers": 135031,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKNT5/z+Zc/8+wGXnNZsbBbWHowI",
+  "snapshot_id": "AAAAALgATVTnpUJAWMs87pod666vqpsK",
   "tracks": [
     {
       "added_at": "2026-03-02 15:12:51",
@@ -83,22 +83,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Plano Melhor",
-        "url": "https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY"
-      },
-      "artists": [
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "Plano Melhor",
-      "url": "https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/5gKW8nJBHsjNVUjW5TuJWV"
       },
@@ -123,18 +107,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Redentor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3dkyvFAOlv1JUz30UPMDx6"
+        "name": "Plano Melhor",
+        "url": "https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
         }
       ],
-      "duration_ms": 349267,
-      "name": "Redentor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YffYMKpricZh02Sh5nTMK"
+      "duration_ms": 288973,
+      "name": "Plano Melhor",
+      "url": "https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -155,6 +139,22 @@
       "duration_ms": 324923,
       "name": "Aviva-nos",
       "url": "https://open.spotify.com/track/1yZBqpTaj8rUIBg0TMgEgI"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Redentor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3dkyvFAOlv1JUz30UPMDx6"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 349267,
+      "name": "Redentor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YffYMKpricZh02Sh5nTMK"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -255,26 +255,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 216131,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Esp\u00edrito, Enche a Minha Vida",
         "url": "https://open.spotify.com/album/4qhBI2wJM9qlIoMsGLAuJU"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 248623,
       "name": "Esp\u00edrito, Enche a Minha Vida",
       "url": "https://open.spotify.com/track/6R1M5uAD1qsv5T8MIZVnFy"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 216131,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Pra Que Eu Fosse Livre",
+        "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
+      },
+      "artists": [
+        {
+          "name": "Klev",
+          "url": "https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC"
+        }
+      ],
+      "duration_ms": 288857,
+      "name": "Pra Que Eu Fosse Livre",
+      "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Sou o Teu Altar",
         "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 275853,
       "name": "Sou o Teu Altar",
       "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Pra Que Eu Fosse Livre",
-        "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
-      },
-      "artists": [
-        {
-          "name": "Klev",
-          "url": "https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC"
-        }
-      ],
-      "duration_ms": 288857,
-      "name": "Pra Que Eu Fosse Livre",
-      "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
     },
     {
       "added_at": "2026-03-02 15:12:51",

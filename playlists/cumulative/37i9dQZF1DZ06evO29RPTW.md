@@ -4,7 +4,7 @@
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 16 min
+96 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,10 +36,10 @@
 | [Get Loose](https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:27 | 2025-10-31 |  |
 | [Ging Gang Gong De Do Gong De Laga Raga](https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 | 2022-05-30 |  |
 | [Girl On Fire](https://open.spotify.com/track/4d8rLkF805Bv2HlFlPHmpo) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:29 | 2026-01-06 |  |
-| [Halloween \(She's So Mean\)](https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [Halloween Hootenanny](https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t) | 2:50 | 2022-10-18 |  |
+| [Halloween \(She's So Mean\)](https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [Halloween Hootenanny](https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t) | 2:50 | 2022-10-18 | 2026-11-20 |
 | [Hands Of Death \(Burn Baby Burn\)](https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 4:12 | 2022-05-30 | 2025-11-02 |
-| [Heathen Days](https://open.spotify.com/track/1LaemmWc1Cl2McmJy8dtfb) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Heathen Days](https://open.spotify.com/album/26yuduRZqt1jG6UQ953rQP) | 2:17 | 2025-11-23 | 2026-03-05 |
-| [Heathen Days](https://open.spotify.com/track/3iH9Ab8O4AWkKK33cWiltm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 2:17 | 2026-03-05 |  |
+| [Heathen Days](https://open.spotify.com/track/1LaemmWc1Cl2McmJy8dtfb) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Heathen Days](https://open.spotify.com/album/26yuduRZqt1jG6UQ953rQP) | 2:17 | 2025-11-23 |  |
+| [Heathen Days](https://open.spotify.com/track/3iH9Ab8O4AWkKK33cWiltm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 2:17 | 2026-03-05 | 2026-11-20 |
 | [Helter Skelter](https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Helter Skelter](https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e) | 3:35 | 2022-05-30 |  |
 | [House Of 1000 Corpses](https://open.spotify.com/track/4drs4Khk9JMBtKI3Rxa2R1) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 9:26 | 2022-05-30 | 2022-10-13 |
 | [House Of 1000 Corpses \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/2mhgIn2jZSrC9G7NASBPbl) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 3:43 | 2026-08-26 | 2026-08-27 |
@@ -71,6 +71,7 @@
 | [Shake Your Ass\-Smoke Your Grass](https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:10 | 2022-07-08 |  |
 | [Sick Bubblegum](https://open.spotify.com/track/1cbNBIrRWP4PlJeyjb7ZmT) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:44 | 2022-05-30 |  |
 | [Sick Bubblegum](https://open.spotify.com/track/3Y1TE5Robqc8DX353CYkHn) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Standard Explicit\)](https://open.spotify.com/album/2A0kUx4CPy9IwsKoVA3Ora) | 3:44 | 2024-06-15 | 2025-07-27 |
+| [Sir Lord Acid Wolfman](https://open.spotify.com/track/1NYe34KCKjlnmInjFawcSd) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 3:45 | 2026-11-20 |  |
 | [Spookshow Baby](https://open.spotify.com/track/1NJbYkBhZhcsAVvabqgo08) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:38 | 2022-10-12 |  |
 | [Stuck In The Mud \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/51Ud7nqBTZncq5ev73ReBL) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 1:16 | 2022-05-30 | 2022-10-13 |
 | [Superbeast](https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:40 | 2022-05-30 |  |

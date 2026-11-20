@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México! Alberto Vázquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,123 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,134 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 31 | [El Abuelo Ye Ye](https://open.spotify.com/track/6uogSCjGO28KgyFQ4pKMOY) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:25 |
 | 32 | [Ruedas](https://open.spotify.com/track/2JyS7QHdJL7QkDJzXCcr1E) | [Fabricio](https://open.spotify.com/artist/1PUb6iCJrg0Vs5GBTw2Dkn) | [Multiplicación](https://open.spotify.com/album/30bcacyGVg5sIxPhNDWEM9) | 2:02 |
 | 33 | [Al Claro de Luna](https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY) | [Rafael Vázquez](https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd) | [Al Claro de Luna](https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl) | 1:51 |
-| 34 | [Brebaje De Amor](https://open.spotify.com/track/4BGyvgaKgPahrgRNHmBCrM) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:18 |
-| 35 | [La Niña Bu \(Ring Dang Doo\)](https://open.spotify.com/track/2ctgZALPuTO2TkF5BVm0vS) | [Los Matematicos](https://open.spotify.com/artist/0nMp0OZyUyffgjioO9a4MK) | [Go\-Go en Rojo](https://open.spotify.com/album/5j8NJSGyjLcejTwyCN9d1P) | 2:22 |
+| 34 | [La Niña Bu \(Ring Dang Doo\)](https://open.spotify.com/track/2ctgZALPuTO2TkF5BVm0vS) | [Los Matematicos](https://open.spotify.com/artist/0nMp0OZyUyffgjioO9a4MK) | [Go\-Go en Rojo](https://open.spotify.com/album/5j8NJSGyjLcejTwyCN9d1P) | 2:22 |
+| 35 | [Brebaje De Amor](https://open.spotify.com/track/4BGyvgaKgPahrgRNHmBCrM) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:18 |
 | 36 | [Fiebre](https://open.spotify.com/track/23MPu8Zp0HPhSVtNSTixMc) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:47 |
 | 37 | [Yo No Fui](https://open.spotify.com/track/6DHJHTkZ0kveYy5L41Us7Y) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Corazón Loco](https://open.spotify.com/album/08XD8IgAqvepttmUV4B1FE) | 1:53 |
 | 38 | [Twist para Mr\. Antony](https://open.spotify.com/track/4h7EghGuBHrnhWyzIFBnZj) | [Tony's Twist Team](https://open.spotify.com/artist/17iTxUwaNzaenRncjHmNPR) | [Los Originales](https://open.spotify.com/album/11NFoS5dchhn7DIYrEuZTT) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 49 | [La Perla](https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Exitos De: Los Juniors y Su Cantante Arturo](https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI) | 2:59 |
 | 50 | [Cuando Me Enamoro \(Quando Mi Inamoro\)](https://open.spotify.com/track/3qTNqW7hrlVkFHmmgwHEK8) | [Angélica María](https://open.spotify.com/artist/4gQdqkVDEvftEBlCb2C8Ly) | [Las Numero 1 De Angelica Maria](https://open.spotify.com/album/6jPn7YfPq82g8pllPp7YLW) | 3:01 |
 
-Snapshot ID: `AAAAAJm0cOT8oRpVkWDqa1OkYHzTC9ZD`
+Snapshot ID: `AAAAAK15zBzA4r78OFv6SBxmnu+yhsPy`

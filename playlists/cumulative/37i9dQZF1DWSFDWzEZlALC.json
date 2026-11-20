@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Kayla Shyx, panicbaby",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Zartmann",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -2827,6 +2827,24 @@
     },
     {
       "album": {
+        "name": "arm um mich",
+        "url": "https://open.spotify.com/album/7GnsoCfRL0XLIe1HcdzpQr"
+      },
+      "artists": [
+        {
+          "name": "CEDDO",
+          "url": "https://open.spotify.com/artist/42trS2y9sQiZ14tTr2ghvG"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150153,
+      "name": "arm um mich",
+      "url": "https://open.spotify.com/track/5jRvFqocteQ2pgwdbST4AN"
+    },
+    {
+      "album": {
         "name": "Arsch an Arsch.",
         "url": "https://open.spotify.com/album/1p5zV40t8D6uyaEQeTwf2j"
       },
@@ -3616,6 +3634,24 @@
       "duration_ms": 185277,
       "name": "backseat bromance",
       "url": "https://open.spotify.com/track/6JiYhXnhJVCTlWkUpEFWor"
+    },
+    {
+      "album": {
+        "name": "Bad D\u00fcren",
+        "url": "https://open.spotify.com/album/7Aq2rOEqlvC9ihTG19IzwD"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107142,
+      "name": "Bad D\u00fcren",
+      "url": "https://open.spotify.com/track/1FCoGPb0tQyCxV5cSlYQLI"
     },
     {
       "album": {
@@ -5192,6 +5228,24 @@
       "duration_ms": 144613,
       "name": "Blumen gekauft",
       "url": "https://open.spotify.com/track/2ur2wsbg0wZqwl9Xnqe8UL"
+    },
+    {
+      "album": {
+        "name": "Blumen geschenkt",
+        "url": "https://open.spotify.com/album/7m551qrKMvSQY8RB8Ujpfj"
+      },
+      "artists": [
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296232,
+      "name": "Blumen geschenkt",
+      "url": "https://open.spotify.com/track/4bhiE9z1G6w4NDfHOACB1u"
     },
     {
       "album": {
@@ -6989,6 +7043,24 @@
     },
     {
       "album": {
+        "name": "Neue Dekadenz",
+        "url": "https://open.spotify.com/album/3x5n1igAH1fieduoMp254n"
+      },
+      "artists": [
+        {
+          "name": "IMMER WIEDER WIRSING",
+          "url": "https://open.spotify.com/artist/3zyNlIF9YVsxpAfFPl0fj9"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Deine L\u00fcgen",
+      "url": "https://open.spotify.com/track/4cQT8KUTB9fy6457pEWyyY"
+    },
+    {
+      "album": {
         "name": "DEINE TR\u00c4UME",
         "url": "https://open.spotify.com/album/7FIFFXCFtVoyvrRHgnpkVq"
       },
@@ -8735,6 +8807,24 @@
     },
     {
       "album": {
+        "name": "Dunkelheit",
+        "url": "https://open.spotify.com/album/2msuGh4Cp3mN9iRi1CQTKt"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Dunkelheit",
+      "url": "https://open.spotify.com/track/3pK23ewCGU09RZOIktaFf8"
+    },
+    {
+      "album": {
         "name": "Dunkles Herz",
         "url": "https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u"
       },
@@ -10052,7 +10142,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 154251,
       "name": "Es Ist Sp\u00e4t",
       "url": "https://open.spotify.com/track/0udb3LrxU1MgP5F6wGxpmJ"
@@ -10190,6 +10280,24 @@
       "duration_ms": 250526,
       "name": "es tut mir leid_demo",
       "url": "https://open.spotify.com/track/3aCeFqO6LEtYXGRXQ9tohZ"
+    },
+    {
+      "album": {
+        "name": "es tut nur weil's sch\u00f6n war weh",
+        "url": "https://open.spotify.com/album/6yiEYbUzTW5gcMqkitgsHj"
+      },
+      "artists": [
+        {
+          "name": "Paula Engels",
+          "url": "https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154517,
+      "name": "es tut nur weil's sch\u00f6n war weh",
+      "url": "https://open.spotify.com/track/0vZprjl93WErvZiAZA4yAz"
     },
     {
       "album": {
@@ -12593,6 +12701,24 @@
     },
     {
       "album": {
+        "name": "garnichts mehr",
+        "url": "https://open.spotify.com/album/6vCO5cmKyseqVoNFrxSd1z"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110207,
+      "name": "garnichts mehr",
+      "url": "https://open.spotify.com/track/1ETcxn1m4SQLKyuxNQWxhd"
+    },
+    {
+      "album": {
         "name": "\u00fcber gestern reden wir morgen",
         "url": "https://open.spotify.com/album/4gnDXkEKJIEVoYmIrI7IIr"
       },
@@ -12676,7 +12802,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184011,
       "name": "Gef\u00e4hrlich",
       "url": "https://open.spotify.com/track/5DGaVKkuVslScBNxUTfbOO"
@@ -13950,7 +14076,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 144563,
       "name": "Gutmensch",
       "url": "https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK"
@@ -15279,6 +15405,32 @@
     },
     {
       "album": {
+        "name": "himmelblau",
+        "url": "https://open.spotify.com/album/0y53Zf2ofTwzuGvh76XZdx"
+      },
+      "artists": [
+        {
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
+        },
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183573,
+      "name": "himmelblau",
+      "url": "https://open.spotify.com/track/6CmtS8fJO5nezVHRdzw4j3"
+    },
+    {
+      "album": {
         "name": "hinterdenkulissen",
         "url": "https://open.spotify.com/album/2T5OBu01iECICmPfKwtc3K"
       },
@@ -15604,7 +15756,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184007,
       "name": "H\u00f6r Nie Auf",
       "url": "https://open.spotify.com/track/0VHVPcEtFR7Txe0MlpBFLe"
@@ -16742,7 +16894,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 111066,
       "name": "immer so",
       "url": "https://open.spotify.com/track/70Vrru7QKWFj21pmKMgXRS"
@@ -18274,7 +18426,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 191207,
       "name": "Kaputte Diamanten",
       "url": "https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx"
@@ -18610,6 +18762,24 @@
       "duration_ms": 189295,
       "name": "Keine Freunde",
       "url": "https://open.spotify.com/track/2ksbDxdi1P6gTL4kfX8uiN"
+    },
+    {
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3HyCyLodVfdUsL9dQyi4ru"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121386,
+      "name": "keine freunde",
+      "url": "https://open.spotify.com/track/2ANRzIoEoHfEGdovYeWzJn"
     },
     {
       "album": {
@@ -20377,6 +20547,24 @@
     },
     {
       "album": {
+        "name": "nemo punkt",
+        "url": "https://open.spotify.com/album/2w7xSKfP6fT7OGzzUJDpbq"
+      },
+      "artists": [
+        {
+          "name": "Jaq",
+          "url": "https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162368,
+      "name": "Lauf aufs Meer",
+      "url": "https://open.spotify.com/track/4FypvBLsJrRV7eCCA7N8yf"
+    },
+    {
+      "album": {
         "name": "Laufen",
         "url": "https://open.spotify.com/album/3lNTzd382GByIN1haGtVl5"
       },
@@ -21136,7 +21324,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 123853,
       "name": "Liebesbrief",
       "url": "https://open.spotify.com/track/2U2P85wvvr0XUFvZKKASuG"
@@ -21807,6 +21995,24 @@
     },
     {
       "album": {
+        "name": "Mach dir kein Kopf",
+        "url": "https://open.spotify.com/album/4SLROSY1JNRfkSYr8NC9DX"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154616,
+      "name": "Mach dir kein Kopf",
+      "url": "https://open.spotify.com/track/0o3wwst5Gzbweqw4R8QHNP"
+    },
+    {
+      "album": {
         "name": "mach nich so",
         "url": "https://open.spotify.com/album/6pGlbmvJt41qg4OnEQZiXU"
       },
@@ -22262,7 +22468,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188764,
       "name": "marie",
       "url": "https://open.spotify.com/track/5Qzigqughy9Wi40tdMATo5"
@@ -22594,7 +22800,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 124000,
       "name": "Mein Babe",
       "url": "https://open.spotify.com/track/6bv7sIDsYTAiieEVYR21d9"
@@ -23573,6 +23779,24 @@
     },
     {
       "album": {
+        "name": "Most Wanted List",
+        "url": "https://open.spotify.com/album/0KWkrEQvhv8pNWyYdQc05t"
+      },
+      "artists": [
+        {
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171645,
+      "name": "Most Wanted List",
+      "url": "https://open.spotify.com/track/4sCRehp27HB4b9UoTBIGXT"
+    },
+    {
+      "album": {
         "name": "mr. rush",
         "url": "https://open.spotify.com/album/3CSkqYcMJ0IkWbw5VGMip3"
       },
@@ -24160,7 +24384,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 138280,
       "name": "new york/berlin",
       "url": "https://open.spotify.com/track/03vj0V1FhDuKL3g1d9H7XJ"
@@ -24222,7 +24446,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 172666,
       "name": "Nichts bleibt gleich",
       "url": "https://open.spotify.com/track/3RPRjDdDn0KYaAhk1y4hr1"
@@ -26519,6 +26743,24 @@
     },
     {
       "album": {
+        "name": "Porzellan",
+        "url": "https://open.spotify.com/album/3iNGXTLSv67TOfXqEc5Hfl"
+      },
+      "artists": [
+        {
+          "name": "Akryl",
+          "url": "https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Porzellan",
+      "url": "https://open.spotify.com/track/7JaQ5mKkqxCH6TCzNPUQqU"
+    },
+    {
+      "album": {
         "name": "Positive Vibes",
         "url": "https://open.spotify.com/album/01gVO3S6Sker3QBtUvwQMs"
       },
@@ -27765,6 +28007,24 @@
     },
     {
       "album": {
+        "name": "Ruhe vor dem Sturm",
+        "url": "https://open.spotify.com/album/1werthvkqKZgfaeoENyTUb"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213258,
+      "name": "Ruhe vor dem Sturm",
+      "url": "https://open.spotify.com/track/46jNF7UgPJDibuUzRrkjbJ"
+    },
+    {
+      "album": {
         "name": "Komet",
         "url": "https://open.spotify.com/album/1TZkquO0U0wdcUDGACsOHV"
       },
@@ -28196,6 +28456,24 @@
       "duration_ms": 189293,
       "name": "Scheissegal",
       "url": "https://open.spotify.com/track/4nyRfJ4OtNlLWCtp3l9SAz"
+    },
+    {
+      "album": {
+        "name": "Wir sind so sch\u00f6n verloren (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0vDrER9fy9sQ1jNiJoJKi8"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122578,
+      "name": "Scheitern",
+      "url": "https://open.spotify.com/track/3QFNqRn1g5jSuWaE4LIm9B"
     },
     {
       "album": {
@@ -28648,7 +28926,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 200460,
       "name": "schwarz/wei\u00df",
       "url": "https://open.spotify.com/track/57yrZVbGTTiGRrdCGhXFUu"
@@ -29556,7 +29834,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 189250,
       "name": "Sie hatten recht",
       "url": "https://open.spotify.com/track/3yechhAyWwUIoXB9yMHV9K"
@@ -30074,7 +30352,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 94426,
       "name": "so perfekt wie's geht",
       "url": "https://open.spotify.com/track/0fOMvPk1n8rQRtlmIidqrd"
@@ -31536,6 +31814,24 @@
       "duration_ms": 160000,
       "name": "Stockwerke",
       "url": "https://open.spotify.com/track/23YouZCICRRkMwn3LMw0OV"
+    },
+    {
+      "album": {
+        "name": "stolpern",
+        "url": "https://open.spotify.com/album/1VNr1k60hGdrHMhs5svgzA"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "stolpern",
+      "url": "https://open.spotify.com/track/4cROOPtrwVB7y5ta9t6scX"
     },
     {
       "album": {
@@ -33294,7 +33590,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 178706,
       "name": "Ullsteinhaus",
       "url": "https://open.spotify.com/track/69Kia7OqbtvErb4OR4IeoW"
@@ -35040,7 +35336,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 148736,
       "name": "wann hast du zeit?",
       "url": "https://open.spotify.com/track/0fvAYtVN0yyfnLhXzPWWnC"
@@ -35058,7 +35354,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 143636,
       "name": "Wann h\u00f6rt das auf?",
       "url": "https://open.spotify.com/track/4zd6hJV71lwqZEtAlC54nq"
@@ -35822,6 +36118,24 @@
       "duration_ms": 164400,
       "name": "weiter",
       "url": "https://open.spotify.com/track/1wwlaWfHwaLyEGgN9OBXir"
+    },
+    {
+      "album": {
+        "name": "wei\u00dfe wand",
+        "url": "https://open.spotify.com/album/65eVOy3XyW6ECla2N6a5yZ"
+      },
+      "artists": [
+        {
+          "name": "CRS",
+          "url": "https://open.spotify.com/artist/1AIAI5HLnPGnPRRDVec6Qr"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147103,
+      "name": "wei\u00dfe wand",
+      "url": "https://open.spotify.com/track/27gtQESTxxnzgZSa5UpqGB"
     },
     {
       "album": {
@@ -37121,6 +37435,24 @@
     },
     {
       "album": {
+        "name": "WIMPERN",
+        "url": "https://open.spotify.com/album/5Qs3aFYREuukqipiDxqGlL"
+      },
+      "artists": [
+        {
+          "name": "Yasola",
+          "url": "https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144202,
+      "name": "WIMPERN",
+      "url": "https://open.spotify.com/track/6PG7Icq1H6gv6KIIO1o8Pe"
+    },
+    {
+      "album": {
         "name": "Wimpern ausrei\u00dfen (uncut)",
         "url": "https://open.spotify.com/album/25iFwHikNkeKL3iKN7ORjd"
       },
@@ -37518,7 +37850,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 256363,
       "name": "Wunderkind",
       "url": "https://open.spotify.com/track/4jpUlXn1ttb3cnMItmie3J"

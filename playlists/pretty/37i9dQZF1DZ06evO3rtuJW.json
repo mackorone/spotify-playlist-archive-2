@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 36451,
+  "num_followers": 36452,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABPheLa1RP+YZDASfr/1jBU",
+  "snapshot_id": "avzqgAAAAAB7H9cbp13SjSQjZMw0H5SE",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandson",
-        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Real Oppy (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survivor\u2019s Guilt (feat. G Herbo)",
         "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 156015,
       "name": "Clippers (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Real Oppy (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 214790,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/3WJqVMDoqLuAp7Km48hjdI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Weight On Me: The Album",
         "url": "https://open.spotify.com/album/30kfDTyLpsMgSH3XXugfZb"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 148440,
       "name": "Ventilator (feat. G Herbo)",
       "url": "https://open.spotify.com/track/1xRpXN0UEFjUj5GTAo9Mj3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 214790,
-      "name": "Traffic",
-      "url": "https://open.spotify.com/track/3WJqVMDoqLuAp7Km48hjdI"
     },
     {
       "added_at": null,
@@ -927,30 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out The Mud",
-        "url": "https://open.spotify.com/album/3MKsDAsoYP3JqLati9Jk4V"
-      },
-      "artists": [
-        {
-          "name": "MudBaby Ru",
-          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
-        },
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 229660,
-      "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
-      "url": "https://open.spotify.com/track/0jbPgBdLPWsrZxNRWTg8Mp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome to Fazoland (Anniversary Edition)",
         "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
       },
@@ -983,6 +959,30 @@
       "duration_ms": 183600,
       "name": "Play Your Part (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1e470JJ1kfkYxS5z4G1OYw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out The Mud",
+        "url": "https://open.spotify.com/album/3MKsDAsoYP3JqLati9Jk4V"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 229660,
+      "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
+      "url": "https://open.spotify.com/track/0jbPgBdLPWsrZxNRWTg8Mp"
     }
   ],
   "unique_name": "This Is G Herbo",

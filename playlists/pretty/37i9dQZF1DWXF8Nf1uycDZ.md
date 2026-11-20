@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 
 > This week: Y2K\. Cover: Destiny's Child
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,904 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,889 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 | 49 | [Killer 2000](https://open.spotify.com/track/4eTR7RuzZx4TlQaArEpfQE) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 5:35 |
 | 50 | [Shape of My Heart](https://open.spotify.com/track/235CN2O18gDmTm8fRdbhyB) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The Hits\-\-Chapter One](https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r) | 3:50 |
 
-Snapshot ID: `AAAAAE0D6JbFadnBEJwnJT+b1+W3XthX`
+Snapshot ID: `AAAAAMsjR26TsiBasl9GBy59foACmKeb`

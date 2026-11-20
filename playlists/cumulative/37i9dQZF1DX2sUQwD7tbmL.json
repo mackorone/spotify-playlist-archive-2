@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 179858,
       "name": "All the Noise",
       "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 196516,
       "name": "All Your Life",
       "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 208411,
       "name": "Back To The Start",
       "url": "https://open.spotify.com/track/3rf2zzhaqAu5Rx4n14YqiU"
@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Believe You Me",
+        "url": "https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8"
+      },
+      "artists": [
+        {
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ"
+    },
+    {
+      "album": {
         "name": "Romance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
       },
@@ -1650,6 +1668,24 @@
       "duration_ms": 194840,
       "name": "Best Life",
       "url": "https://open.spotify.com/track/28iK43ARX3yTiPtqJACq8q"
+    },
+    {
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183228,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx"
     },
     {
       "album": {
@@ -1744,6 +1780,24 @@
       "duration_ms": 218773,
       "name": "big fat mouth",
       "url": "https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o"
+    },
+    {
+      "album": {
+        "name": "Billy Came Back",
+        "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189148,
+      "name": "Billy Came Back",
+      "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
     },
     {
       "album": {
@@ -1906,6 +1960,24 @@
       "duration_ms": 227722,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/4Gy9i08hxSqDR5v2RPqXmu"
+    },
+    {
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239007,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu"
     },
     {
       "album": {
@@ -4778,7 +4850,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 152993,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
@@ -4796,7 +4868,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 176727,
       "name": "Go Boy",
       "url": "https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ"
@@ -4890,6 +4962,24 @@
       "duration_ms": 221974,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6OJMVcgJYX3rJrjN6txUOI"
+    },
+    {
+      "album": {
+        "name": "is a Folk Artist",
+        "url": "https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242007,
+      "name": "Good Faith",
+      "url": "https://open.spotify.com/track/0UZzkBF9GdsHx71iy1HzcC"
     },
     {
       "album": {
@@ -6479,6 +6569,24 @@
     },
     {
       "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194205,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
+    },
+    {
+      "album": {
         "name": "Japanese / A Whole Month Of You",
         "url": "https://open.spotify.com/album/3QvqkEYqLwoEWrAPSQulNY"
       },
@@ -6656,6 +6764,24 @@
       "duration_ms": 180000,
       "name": "Jolie",
       "url": "https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214534,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5"
     },
     {
       "album": {
@@ -6872,7 +6998,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 167841,
       "name": "lalala",
       "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
@@ -7636,7 +7762,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 245496,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF"
@@ -7838,6 +7964,24 @@
       "duration_ms": 180694,
       "name": "Millionaires",
       "url": "https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5"
+    },
+    {
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231683,
+      "name": "Mimesis",
+      "url": "https://open.spotify.com/track/0nLkVbVlIYIPsCTUYYiOuu"
     },
     {
       "album": {
@@ -8588,7 +8732,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 163264,
       "name": "New York",
       "url": "https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT"
@@ -8646,6 +8790,24 @@
       "duration_ms": 189650,
       "name": "Nights in Armor",
       "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
+    },
+    {
+      "album": {
+        "name": "My Heart Is A Room With No Cameras In It (Deluxe)",
+        "url": "https://open.spotify.com/album/1ihrc3yuJI063vqKwupVPp"
+      },
+      "artists": [
+        {
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167173,
+      "name": "No Cameras",
+      "url": "https://open.spotify.com/track/5pblfgML8U0LizKlhMxvhV"
     },
     {
       "album": {
@@ -9522,7 +9684,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 168160,
       "name": "Persuasion",
       "url": "https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo"
@@ -9951,6 +10113,24 @@
     },
     {
       "album": {
+        "name": "bitknot",
+        "url": "https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137463,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/5dO7SoTU75M2UVVmPKx1kv"
+    },
+    {
+      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -10226,6 +10406,24 @@
       "duration_ms": 247280,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
+    },
+    {
+      "album": {
+        "name": "San Francisco, 2005",
+        "url": "https://open.spotify.com/album/4xgaE609AqfGfez8IXiyiy"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247364,
+      "name": "San Francisco, 2005",
+      "url": "https://open.spotify.com/track/5Ev1zhaO6hi5eCLGYE0WKT"
     },
     {
       "album": {
@@ -10696,7 +10894,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 167271,
       "name": "Shudder",
       "url": "https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST"
@@ -11910,7 +12108,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 270937,
       "name": "Talk is Cheap",
       "url": "https://open.spotify.com/track/45DFMibGGTU5cqIi1cU1EZ"
@@ -12076,6 +12274,24 @@
       "duration_ms": 328052,
       "name": "The Catastrophe (Good Luck With That, Man)",
       "url": "https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy"
+    },
+    {
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "album": {
@@ -13414,7 +13630,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 187731,
       "name": "What's In My Head",
       "url": "https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. A lejátszási listát részben Nagy Bogi készítette 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,550 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,551 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 44 | [Vagyok A](https://open.spotify.com/track/25GvC4yB0dSyqxvDiFkNLP) | [Anna and The Barbies](https://open.spotify.com/artist/1c8vsLWY82GMwKdHwXlEBV) | [Vagyok A](https://open.spotify.com/album/0znIv35KwePo6BGcWmdVFR) | 2:50 |
 | 45 | [Csavargódal](https://open.spotify.com/track/25EDLAI9nLBrd12yDdray0) | [Korinna](https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH), [UTAZØ](https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc) | [Csavargódal](https://open.spotify.com/album/7zwaLSAstsAUqczJ4fBir4) | 3:01 |
 | 46 | [Harmincvalahány](https://open.spotify.com/track/1YcmGlWobFYsT03A4I0kmE) | [Lábas Viki](https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL) | [Harmincvalahány](https://open.spotify.com/album/48NeJ5HjTPHbp56HwP9dYW) | 3:06 |
-| 47 | [FORRÓ](https://open.spotify.com/track/3D2V6VA6EXBib9adkaIpBn) | [GAB](https://open.spotify.com/artist/6DaJdp4qyHYvopze0vQqjd), [ONE\-AB](https://open.spotify.com/artist/0oZ9vfu1t7As7kWZq6M3vl) | [FORRÓ](https://open.spotify.com/album/3h4yYeg7lRYd9mggcYKUKE) | 2:17 |
+| 47 | [Forró](https://open.spotify.com/track/3D2V6VA6EXBib9adkaIpBn) | [GAB](https://open.spotify.com/artist/6DaJdp4qyHYvopze0vQqjd), [ONE\-AB](https://open.spotify.com/artist/0oZ9vfu1t7As7kWZq6M3vl) | [Forró](https://open.spotify.com/album/3h4yYeg7lRYd9mggcYKUKE) | 2:17 |
 | 48 | [stay hydrated](https://open.spotify.com/track/46rilmO6nCKulz1IZBOclI) | [Aidaya](https://open.spotify.com/artist/7IS88x4iaDHIhzMTqmpet2) | [stay hydrated](https://open.spotify.com/album/0nD2ltRIaXFrJCAmiKghJx) | 2:38 |
 | 49 | [Vadvirág](https://open.spotify.com/track/3KH2XUm2Zybsd5Nt1l6vjW) | [Korinna](https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH), [UTAZØ](https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc) | [Vadvirág](https://open.spotify.com/album/1Gw3DCeIDdhIBPv3TtRdFV) | 3:45 |
 | 50 | [Unforgettable Affair](https://open.spotify.com/track/0JE6k5Y2Ff7RF6pz7Q5BHC) | [Anna Kornis](https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n) | [Unforgettable Affair](https://open.spotify.com/album/4b5OuruhgdgsSVrRIDVXeM) | 2:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 59 | [Éden](https://open.spotify.com/track/7mFySsjurNbnWsDi0QwKzM) | [Metzker Viktória](https://open.spotify.com/artist/2HeY093HdxKM5cb0RL1aOH), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM), [Miss Mood](https://open.spotify.com/artist/5RQvpF3WKBeSvmfAQHV5M3) | [Éden](https://open.spotify.com/album/7jgwlO3ZWC6px01AtleHh4) | 3:26 |
 | 60 | [szerelmesss](https://open.spotify.com/track/1B8cGH2epjBb1CSCn837bE) | [dorimoczi](https://open.spotify.com/artist/7dbpLolPZzCfiXtplmKuZv), [TÖRÖK PALI](https://open.spotify.com/artist/6tEesooiL9fztszYsvRbbc) | [szerelmesss](https://open.spotify.com/album/4XaFbnt6uhTWA1AOCtVfvi) | 2:57 |
 
-Snapshot ID: `AAAAAOqvB9Y4mfw5kf9ZtkUMj5CzCJVp`
+Snapshot ID: `AAAAAONBKnYyxqWUruIxKGycWIS5U7/6`

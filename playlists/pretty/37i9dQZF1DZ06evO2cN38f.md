@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,005 likes - 37 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,008 likes - 37 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 24 | [New Wave Groove](https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:32 |
 | 25 | [Never Enough](https://open.spotify.com/track/2lmBzqE0LWxlzfazwJxggj) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:00 |
 | 26 | [Losing](https://open.spotify.com/track/2nZALEvdQ3n3tIP84kneP3) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Pressure](https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB) | 3:30 |
-| 27 | [Got Em](https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:46 |
+| 27 | [Count It](https://open.spotify.com/track/0Xam5oGLrRlec9MJDQnZVz) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:28 |
 | 28 | [No Love](https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 2:36 |
 | 29 | [Private Eye](https://open.spotify.com/track/3p9hpCzQhH2oz8KO9fZyhD) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:17 |
 | 30 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 |
-| 31 | [Count It](https://open.spotify.com/track/0Xam5oGLrRlec9MJDQnZVz) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:28 |
+| 31 | [Got Em](https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:46 |
 | 32 | [Raven \- TYGAPAW Remix feat\. Rochelle Jordan](https://open.spotify.com/track/7fvqv5Ou098lxPlVGrwuAG) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 4:26 |
 | 33 | [Tour Bus](https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Project Sidiooo, Vol\. 1](https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA) | 1:59 |
 | 34 | [Make Me Wanna](https://open.spotify.com/track/3pYWxckQ013fSdj20NmBye) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Pressure](https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB) | 3:37 |
-| 35 | [Situation](https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 4:13 |
+| 35 | [Lay](https://open.spotify.com/track/0MJb98zBRnGLf7Bi2KIT51) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:31 |
 | 36 | [DREAMZ COME TRUE](https://open.spotify.com/track/3YLRi0SXcPwB6c2Dy3gmey) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [DREAMZ COME TRUE](https://open.spotify.com/album/5RNcA6ZV7lznodJcCEhfWA) | 3:44 |
 | 37 | [Slow](https://open.spotify.com/track/19F8OeoZrLMg1O2X3KwyE4) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Voices](https://open.spotify.com/album/06rUXmPBsO3uXbfYGHcmcm) | 3:42 |
 
-Snapshot ID: `avpHgAAAAACxHdPnzNfMdqJADF5dnR1D`
+Snapshot ID: `avzqgAAAAABAolTtW5PNroiRTcWfrAXW`

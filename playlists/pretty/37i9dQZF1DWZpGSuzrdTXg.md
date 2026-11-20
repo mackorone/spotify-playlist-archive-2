@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,549 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,538 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 98 | [Rosie \(acoustic\)](https://open.spotify.com/track/4EJdC4XuXu4ML8aL4kX7uy) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Chameleon \(Naked\)](https://open.spotify.com/album/0mWTcsCFRRZMgpKoiYefbw) | 2:32 |
 | 99 | [No Known Known](https://open.spotify.com/track/74miorVetcJTW2t1tXoWRY) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [No Known Known](https://open.spotify.com/album/5XQJnagOosrr8mOfctlfKP) | 2:38 |
 
-Snapshot ID: `AAAAAF6R451/suPugkAAG6rWrxjC41YG`
+Snapshot ID: `AAAAAKWLGjef+Wnfi/+wnXJJHAIkIrI+`

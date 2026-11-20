@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 
 > All the artists playing at FORM Arcosanti 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 36 | [stupid prizes](https://open.spotify.com/track/4YZXIoOJbus69PEBfP1AF0) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [hooke’s law](https://open.spotify.com/album/2sTsH9vYQhIi60IYjE3hJp) | 3:11 |
 | 37 | [Needle Guy](https://open.spotify.com/track/5EfGtVw1Hpr8kgnDBJZ3Ar) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Needle Guy](https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj) | 2:59 |
 
-Snapshot ID: `AAAAALePAcilllhPwTz+QLudgaBR2l6b`
+Snapshot ID: `AAAAANcFZSAHZcSszlRBAYdlf02RazjQ`

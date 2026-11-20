@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Sully Burrows",
+  "description": "The home of Canadian country music. Cover: Rick Duff, Gustavo Mioto",
   "name": "North Country",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 207160,
       "name": "1800 Miles",
       "url": "https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD"
+    },
+    {
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/3uMrivfIWtEqlSOfITkOpi"
+      },
+      "artists": [
+        {
+          "name": "Brayden King",
+          "url": "https://open.spotify.com/artist/0fCguqEo1gADoSkTGI47qJ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225256,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2rpSZU3aJV4Vfk9f7vdHIk"
     },
     {
       "album": {
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216598,
       "name": "Being Free",
       "url": "https://open.spotify.com/track/4BiENiXpFT8dNinYMtwxCo"
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190511,
       "name": "Did July",
       "url": "https://open.spotify.com/track/395xnAoaoi71sujp8KilMU"
@@ -5131,6 +5149,24 @@
     },
     {
       "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/20bzdjZZyvuHwoj9zY1xsI"
+      },
+      "artists": [
+        {
+          "name": "Steven Lee Olsen",
+          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Good Lord",
+      "url": "https://open.spotify.com/track/7v6GQMlq3Vejxue251OKvc"
+    },
+    {
+      "album": {
         "name": "Good Man",
         "url": "https://open.spotify.com/album/4ORx7j3z9Du4zdUNsloiSh"
       },
@@ -5706,6 +5742,24 @@
       "duration_ms": 203680,
       "name": "Heart To Forget",
       "url": "https://open.spotify.com/track/0mg3HvO7Zz8fYR45WVGMwD"
+    },
+    {
+      "album": {
+        "name": "Heart to Heart",
+        "url": "https://open.spotify.com/album/0fcPfVdPgNJELLoCFtkWAA"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200123,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/2PiONtSTdswCM3pRIV5oLs"
     },
     {
       "album": {
@@ -7775,6 +7829,24 @@
     },
     {
       "album": {
+        "name": "Out of the Blue: Extended Forecast (Deluxe)",
+        "url": "https://open.spotify.com/album/3vmBk7M6J4H9mi3UNWhgZe"
+      },
+      "artists": [
+        {
+          "name": "Kelsi Mayne",
+          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197037,
+      "name": "Keep You Company",
+      "url": "https://open.spotify.com/track/43d02wU1sfmd3bMVHfMGHK"
+    },
+    {
+      "album": {
         "name": "Kicked Out Of Bars",
         "url": "https://open.spotify.com/album/27u0UlRe5bJkz2ZUsKynsP"
       },
@@ -9756,7 +9828,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 190276,
       "name": "Natural Disaster",
       "url": "https://open.spotify.com/track/4yZZkrYsIrHzqJHZBzhM28"
@@ -10171,6 +10243,24 @@
     },
     {
       "album": {
+        "name": "Not Just A Song",
+        "url": "https://open.spotify.com/album/5RTnPYHdroHKTM2eNsUZmx"
+      },
+      "artists": [
+        {
+          "name": "Chase Kasner",
+          "url": "https://open.spotify.com/artist/2c6MPegUx0MAqyG94uAR3Z"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218208,
+      "name": "Not Just A Song",
+      "url": "https://open.spotify.com/track/0kamHvBTElPQZJmAumV5SO"
+    },
+    {
+      "album": {
         "name": "Not So Much No More",
         "url": "https://open.spotify.com/album/3yHlZnt3ibKcgWORuu9swz"
       },
@@ -10476,6 +10566,28 @@
       "duration_ms": 199453,
       "name": "On va veiller toute la nuit (feat. Francis Degrandpr\u00e9)",
       "url": "https://open.spotify.com/track/35BamCZ36Pz5wtUrF9go0g"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1KrfmGpPI9nI0GhwdAnh6w"
+      },
+      "artists": [
+        {
+          "name": "Rick Duff",
+          "url": "https://open.spotify.com/artist/4MNUaMf0Yl05yY6x342xBH"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171946,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/5vyKIf6vjR0KMzqfgje25d"
     },
     {
       "album": {
@@ -10854,7 +10966,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 171891,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/6wPDPOfdDr3SsMsoUnI6Eu"
@@ -12088,7 +12200,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159274,
       "name": "Roxie",
       "url": "https://open.spotify.com/track/1hJspLJJHO012ZgLPEpf6M"
@@ -13378,7 +13490,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188511,
       "name": "Spiraling",
       "url": "https://open.spotify.com/track/7BSV22vWFpDHDWb13EXXoA"
@@ -13544,7 +13656,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 227592,
       "name": "Stop The Bleeding",
       "url": "https://open.spotify.com/track/4ISoN4KS2mCdZlLTToWFtH"
@@ -15095,6 +15207,24 @@
     },
     {
       "album": {
+        "name": "Too Sober to Drive",
+        "url": "https://open.spotify.com/album/6bysYJnZoeiUM6hiAzaaMS"
+      },
+      "artists": [
+        {
+          "name": "Josh David",
+          "url": "https://open.spotify.com/artist/6cXFSmw85OTvCKHnZnVBy8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204845,
+      "name": "Too Sober to Drive",
+      "url": "https://open.spotify.com/track/2JaTNd1QFqJqY3Iiw4DPPU"
+    },
+    {
+      "album": {
         "name": "Train (Station Edition)",
         "url": "https://open.spotify.com/album/6qmiXJbehiIQZYQfu4qYit"
       },
@@ -15590,6 +15720,24 @@
       "duration_ms": 237186,
       "name": "Water in the fuel",
       "url": "https://open.spotify.com/track/3dMnMAkB1zzSe9yZxaYGuA"
+    },
+    {
+      "album": {
+        "name": "Watered Down",
+        "url": "https://open.spotify.com/album/7kk3xFRIyTPDGetfuiiLUL"
+      },
+      "artists": [
+        {
+          "name": "Parker Graye",
+          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Watered Down",
+      "url": "https://open.spotify.com/track/3sWVRhF0OPt0rKasQbAaaU"
     },
     {
       "album": {
@@ -17156,7 +17304,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 191582,
       "name": "\u00c0 deux",
       "url": "https://open.spotify.com/track/4Vk5DGChHThoUPzZKTuTaH"

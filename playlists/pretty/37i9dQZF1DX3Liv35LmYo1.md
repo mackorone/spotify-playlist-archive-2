@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,534 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,537 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 40 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
 | 41 | [ENCLOSURE](https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [ENCLOSURE](https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0) | 4:19 |
 | 42 | [In Response](https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [In Response](https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa) | 3:34 |
-| 43 | [I Wanted More](https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 5:33 |
-| 44 | [Desert](https://open.spotify.com/track/0a8LoorG8xRgwHltPh4iMT) | [WaTa](https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0) | [Desert](https://open.spotify.com/album/3J55fcmO15upttdki07D9U) | 4:02 |
+| 43 | [Desert](https://open.spotify.com/track/0a8LoorG8xRgwHltPh4iMT) | [WaTa](https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0) | [Desert](https://open.spotify.com/album/3J55fcmO15upttdki07D9U) | 4:02 |
+| 44 | [I Wanted More](https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 5:33 |
 | 45 | [Corundrum](https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr) | [Knopha](https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF) | [Kwong](https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB) | 5:43 |
 | 46 | [Jesper](https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Jesper](https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C) | 4:21 |
 | 47 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 49 | [Joint 2](https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz) | [Unsolicited Joints](https://open.spotify.com/artist/7p5UQv94mUY8N9MSvJshlB) | [Unsolicited Joints](https://open.spotify.com/album/4voAyhSEWcXAiNCqeYcv3r) | 6:18 |
 | 50 | [Fortune Teller](https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC) | [Polito](https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO) | [Fortune Teller](https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5) | 3:40 |
 
-Snapshot ID: `AAAAALUzxPGwDxs0ykiC8xLuxyXURgUg`
+Snapshot ID: `AAAAAO7m5Eq8cLPMFhw2T2yX672HRiQV`

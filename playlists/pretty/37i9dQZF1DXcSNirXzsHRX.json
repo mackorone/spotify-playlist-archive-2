@@ -1,12 +1,12 @@
 {
   "description": "Den bedste rock playliste i Danmark! ",
-  "num_followers": 85716,
+  "num_followers": 85712,
   "original_name": "VOLUME DENMARK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFcbK2t3OKmPg5bCbHkyvtruAyGc",
+  "snapshot_id": "AAAAAGnwmRi3HtBCTouX9s1r3QDuh58I",
   "tracks": [
     {
       "added_at": "2025-11-21 07:15:24",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-11-21 07:15:24",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Last Resort",
-      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
-    },
-    {
-      "added_at": "2025-11-21 07:15:24",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 166706,
       "name": "Break Stuff",
       "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
+    },
+    {
+      "added_at": "2025-11-21 07:15:24",
+      "album": {
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
     },
     {
       "added_at": "2025-11-21 07:15:24",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-11-21 07:15:24",
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "My Own Summer (Shove It)",
-      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
-    },
-    {
-      "added_at": "2025-11-21 07:15:24",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 213760,
       "name": "Rollin' (Air Raid Vehicle)",
       "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
+    },
+    {
+      "added_at": "2025-11-21 07:15:24",
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "My Own Summer (Shove It)",
+      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
     },
     {
       "added_at": "2025-11-21 07:15:24",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-11-21 07:15:24",
       "album": {
-        "name": "Dr. Feelgood",
-        "url": "https://open.spotify.com/album/4MDYr65P5RQb6VHt80T3o8"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 282653,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew"
-    },
-    {
-      "added_at": "2025-11-21 07:15:24",
-      "album": {
         "name": "A Beautiful Lie",
         "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 231533,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
+    },
+    {
+      "added_at": "2025-11-21 07:15:24",
+      "album": {
+        "name": "Dr. Feelgood",
+        "url": "https://open.spotify.com/album/4MDYr65P5RQb6VHt80T3o8"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew"
     },
     {
       "added_at": "2025-11-21 07:15:24",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-11-21 07:15:24",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 283733,
-      "name": "Don't Cry (Original)",
-      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
-    },
-    {
-      "added_at": "2025-11-21 07:15:24",
-      "album": {
         "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
         "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 547106,
       "name": "Free Bird",
       "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
+    },
+    {
+      "added_at": "2025-11-21 07:15:24",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 283733,
+      "name": "Don't Cry (Original)",
+      "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
     },
     {
       "added_at": "2025-11-21 07:15:24",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-11-21 07:15:24",
       "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
-    },
-    {
-      "added_at": "2025-11-21 07:15:24",
-      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 269306,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "added_at": "2025-11-21 07:15:24",
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
       "added_at": "2025-11-21 07:15:24",

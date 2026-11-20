@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: Granuja & DeeJohend",
+  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: Alcolirykoz",
   "name": "RAP\u00fablica de Colombia",
   "tracks": [
     {
@@ -918,7 +918,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 244137,
       "name": "El Remate",
       "url": "https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j"
@@ -3188,6 +3188,24 @@
       "duration_ms": 158117,
       "name": "Todo en Juego",
       "url": "https://open.spotify.com/track/1ZIuXvgwn67yvzfOubDITd"
+    },
+    {
+      "album": {
+        "name": "Todo en su Lugar",
+        "url": "https://open.spotify.com/album/5uuT8gFg6dnyXyxPqbBUAM"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172584,
+      "name": "Todo en su Lugar",
+      "url": "https://open.spotify.com/track/0aYmvDevxsjX82mUitCa4F"
     },
     {
       "album": {

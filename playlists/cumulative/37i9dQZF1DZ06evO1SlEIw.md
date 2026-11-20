@@ -4,7 +4,7 @@
 
 > This is Linked Horizon\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 43 min
+60 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Jiyuu no Tsubasa](https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:31 | 2022-12-23 | 2026-11-15 |
 | [Jiyuu no Tsubasa](https://open.spotify.com/track/66dEMjbh1l8CN5uShkxxiw) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh) | 5:31 | 2026-11-15 |  |
 | [Kakumei no Yoru ni](https://open.spotify.com/track/56eJgVP1LcvbuYecQicpYf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Rakuen Eno Shingeki](https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D) | 5:13 | 2022-12-23 | 2026-10-31 |
+| [Kakumei no Yoru ni](https://open.spotify.com/track/0J4QZEh85vKCdttYUvna0y) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/6zWhLRGx9cQ67CQqAKOXKd) | 5:17 | 2026-11-20 |  |
 | [Kami no Miwaza](https://open.spotify.com/track/5rAWqDJbLw0nVegKA8WFxI) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/1n7P2hvRS2ntEAhEUj2Peg) | 2:17 | 2024-08-19 | 2024-08-31 |
 | [Kami no Miwaza](https://open.spotify.com/track/1ZwXYsG8IA9h10Uz7gVNdU) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 2:19 | 2024-03-27 | 2024-04-23 |
 | [Kami no Miwaza](https://open.spotify.com/track/6wv7PuR3zmZOhRlXC8uVH0) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/4YsgCmHIRwFV6n0gT6vhGh) | 2:19 | 2026-11-13 |  |
@@ -64,7 +65,7 @@
 | [花が散る世界 \- Vocalized Version](https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 4:37 | 2022-12-23 |  |
 | [虚ろな月の下で \- Vocalized Version](https://open.spotify.com/track/5rpWxq3rr852eGbO0fQ2Qg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 2:35 | 2023-01-16 | 2026-03-12 |
 | [雛鳥 \- Vocalized Version](https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:15 | 2022-12-23 |  |
-| [革命の夜に](https://open.spotify.com/track/4akldRRblVjCFXPYtG3I6y) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [楽園への進撃](https://open.spotify.com/album/1qVDe3gATmfpP94qykf09F) | 5:13 | 2024-12-09 |  |
+| [革命の夜に](https://open.spotify.com/track/4akldRRblVjCFXPYtG3I6y) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [楽園への進撃](https://open.spotify.com/album/1qVDe3gATmfpP94qykf09F) | 5:13 | 2024-12-09 | 2026-11-20 |
 | [風が吹いた日 \- Piano Solo Version](https://open.spotify.com/track/6huaX3NTgDSVAYJOjOJNn5) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 2:46 | 2022-12-23 |  |
 | [風の行方 \- Vocalized Version](https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:11 | 2022-12-23 |  |
 

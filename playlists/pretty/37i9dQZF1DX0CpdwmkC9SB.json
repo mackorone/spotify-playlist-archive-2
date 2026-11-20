@@ -1,12 +1,12 @@
 {
   "description": "The biggest festival of the year is back. The official playlist for Glastonbury 2027.",
-  "num_followers": 245144,
+  "num_followers": 245801,
   "original_name": "Glastonbury 2027",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADLAR2kTWRSj/wjTllukHiX3UOor",
+  "snapshot_id": "AAAAAL4oSmElwDiHn6o0mx9Sn1SWS8Tb",
   "tracks": [
     {
       "added_at": "2026-11-18 12:07:40",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-11-18 12:07:40",
       "album": {
+        "name": "A Grand Don't Come for Free",
+        "url": "https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u"
+      },
+      "artists": [
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Fit but You Know It",
+      "url": "https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp"
+    },
+    {
+      "added_at": "2026-11-18 12:07:40",
+      "album": {
         "name": "No Bad Memories",
         "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 169600,
       "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
       "url": "https://open.spotify.com/track/32oEEIjEsjx4oB2bMnNYYs"
-    },
-    {
-      "added_at": "2026-11-18 12:07:40",
-      "album": {
-        "name": "A Grand Don't Come for Free",
-        "url": "https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u"
-      },
-      "artists": [
-        {
-          "name": "The Streets",
-          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Fit but You Know It",
-      "url": "https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp"
     },
     {
       "added_at": "2026-11-18 12:07:40",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-11-18 12:07:40",
       "album": {
-        "name": "Based on a True Story",
-        "url": "https://open.spotify.com/album/2X3zMA6ukFES6FKCcKHwQP"
-      },
-      "artists": [
-        {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
-        }
-      ],
-      "duration_ms": 437200,
-      "name": "Ernie",
-      "url": "https://open.spotify.com/track/3vq4rG9kAtCk1QHfUM1fvR"
-    },
-    {
-      "added_at": "2026-11-18 12:07:40",
-      "album": {
         "name": "3 Feet High and Rising (35th Anniversary)",
         "url": "https://open.spotify.com/album/2VKV04dOyLIEkBz9iaccP7"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 252671,
       "name": "Eye Know",
       "url": "https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki"
+    },
+    {
+      "added_at": "2026-11-18 12:07:40",
+      "album": {
+        "name": "Based on a True Story",
+        "url": "https://open.spotify.com/album/2X3zMA6ukFES6FKCcKHwQP"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        }
+      ],
+      "duration_ms": 437200,
+      "name": "Ernie",
+      "url": "https://open.spotify.com/track/3vq4rG9kAtCk1QHfUM1fvR"
     },
     {
       "added_at": "2026-11-18 12:07:40",

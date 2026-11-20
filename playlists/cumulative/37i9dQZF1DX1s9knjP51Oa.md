@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-905 songs - 1 day 14 hr 52 min
+906 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -856,6 +856,7 @@
 | [Visa från Källdal](https://open.spotify.com/track/5HFmI7ZaL4yBHsvzJP9IdF) | [Lars Meyer](https://open.spotify.com/artist/0zv0evXR10PUhTenDprOZO) | [Visa från Källdal](https://open.spotify.com/album/1Hg1X65cdWqDH6rSh8KY9i) | 2:54 | 2023-01-20 | 2024-01-03 |
 | [Vole Vers Moi](https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Vole Vers Moi](https://open.spotify.com/album/5regfEMlH6n002DCCKrN1H) | 2:38 | 2021-12-13 | 2022-08-10 |
 | [Voyage á’louest](https://open.spotify.com/track/4C7ZY0HRPVn9G5bgYAertD) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Voyage à'louest](https://open.spotify.com/album/2AgVCRWI1Qpz3S7u05VHZu) | 2:55 | 2022-01-18 | 2023-07-04 |
+| [Vy](https://open.spotify.com/track/3Zx0Tl2eWcJbQGH5bAxZjP) | [Andreas Björkstrand](https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV) | [Vy](https://open.spotify.com/album/59ErMAvHeDcEtrvaC0Gw3T) | 2:37 | 2026-11-20 |  |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2021-12-13 | 2023-05-20 |
 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 | 2021-12-13 | 2022-08-10 |
 | [Waitings](https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Waitings](https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx) | 2:19 | 2022-09-12 | 2024-04-09 |

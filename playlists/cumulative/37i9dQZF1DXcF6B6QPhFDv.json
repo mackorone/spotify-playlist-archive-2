@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Rock never dies. It's alive with Fall Out Boy.",
+  "description": "Rock never dies. It's alive with Julien Baker.",
   "name": "MARROW",
   "tracks": [
     {
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 263313,
       "name": "BLACK WAX/OUR LOVE",
       "url": "https://open.spotify.com/track/4EuYmfF0dw2blHApAN1lIB"
@@ -4209,6 +4209,24 @@
     },
     {
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2VjsIVJ5AH4NOuwLLtlcQW"
+      },
+      "artists": [
+        {
+          "name": "THEATRE",
+          "url": "https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190280,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/37s8XEmnZaCjt6KxkYGhnU"
+    },
+    {
+      "album": {
         "name": "clouds",
         "url": "https://open.spotify.com/album/6tgGRfXHgo0BWDkeHmFXcB"
       },
@@ -4317,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/44ZbMyOnCwdcFOxbLNEerb"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217906,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/09mS03HQau1w606Jmfb0b7"
+    },
+    {
+      "album": {
         "name": "Lover Of A Ghost",
         "url": "https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr"
       },
@@ -4346,7 +4382,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 226488,
       "name": "Consequence",
       "url": "https://open.spotify.com/track/07FuTFnRyAeJVgXobuL7nA"
@@ -4652,7 +4688,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 247533,
       "name": "Cup",
       "url": "https://open.spotify.com/track/5ehXIPDrMEhc4H0JDLna6l"
@@ -6228,7 +6264,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 234276,
       "name": "Dying In Reverse",
       "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
@@ -10274,6 +10310,24 @@
       "duration_ms": 267588,
       "name": "Hound",
       "url": "https://open.spotify.com/track/6ScXtqGT28VnlH9uRWvvP6"
+    },
+    {
+      "album": {
+        "name": "Hound",
+        "url": "https://open.spotify.com/album/3IMaSJPDmxhDDNWPPSh0Il"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281786,
+      "name": "Hound",
+      "url": "https://open.spotify.com/track/5iBrFAs9no7GJJmKtIUrUr"
     },
     {
       "album": {
@@ -14948,7 +15002,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 167687,
       "name": "Mouth Closed",
       "url": "https://open.spotify.com/track/5WQQYQZPtaTMagYqDHHjJK"
@@ -19015,6 +19069,24 @@
     },
     {
       "album": {
+        "name": "Ribbon Factory",
+        "url": "https://open.spotify.com/album/19xC9OCK7OdpU7e81iNsvL"
+      },
+      "artists": [
+        {
+          "name": "Madra Salach",
+          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254459,
+      "name": "Ribbon Factory",
+      "url": "https://open.spotify.com/track/5PRdIyuXDEGziNc2Raz63P"
+    },
+    {
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn"
       },
@@ -20008,7 +20080,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185838,
       "name": "serena joy",
       "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
@@ -20138,6 +20210,24 @@
       "duration_ms": 191390,
       "name": "Shadow in the Sun",
       "url": "https://open.spotify.com/track/6xaMXvpkmVow1RAinlthUT"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0OV2Oh9w52VScvy99guYWk"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3SRU8EXHgzr7ZdGTqDSqsg"
     },
     {
       "album": {
@@ -20780,7 +20870,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 228467,
       "name": "Sleepwalker",
       "url": "https://open.spotify.com/track/0qFmjpNGhjaxp789YQ7zMb"
@@ -26440,6 +26530,24 @@
       "duration_ms": 236717,
       "name": "What\u2019s the Appropriate Length of this Argument?",
       "url": "https://open.spotify.com/track/0wP5fPK6B9XBDiupJFwYq2"
+    },
+    {
+      "album": {
+        "name": "Wheel",
+        "url": "https://open.spotify.com/album/1C6Aj4KUtw0DjICsm4bVpr"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254346,
+      "name": "Wheel",
+      "url": "https://open.spotify.com/track/27acAqEh3ELyZzJSh0RWd3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > tradición, modernidad y frescura\. Sonido argentino, del futuro 📸 Trouve Feraud
 
-170 songs - 11 hr 50 min
+173 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Margarita y Margarito \- Remix](https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ) | [Las 3 Marias](https://open.spotify.com/artist/0oKNkfcAYLdVZ8zries7zx), [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Margarita y Margarito \(Remix\)](https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg) | 5:51 | 2024-03-29 | 2026-09-03 |
 | [me fui](https://open.spotify.com/track/339oAvRd5TB8dU5cv6KBDD) | [gris](https://open.spotify.com/artist/3JhPCTEWqa4OpEuhR7sZt1) | [una cosa viva](https://open.spotify.com/album/1P1vlNpr5zehOlUW7CJ7LA) | 3:46 | 2026-09-25 |  |
 | [Me Tocó Perder](https://open.spotify.com/track/0PVDEaIjTCC7NDeLfnxQi4) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 2:50 | 2026-09-02 |  |
+| [Mechero](https://open.spotify.com/track/0P0EUtIzRuu8xrbb1k4EQW) | [Julián Scarinci](https://open.spotify.com/artist/3IzZwugTmpL10MDkaOeEAi), [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP) | [Mechero](https://open.spotify.com/album/0h5R7iJB4nhn8TYVtRREGg) | 2:49 | 2026-11-20 |  |
 | [MI CHINA](https://open.spotify.com/track/357YDywBW0HNOLsA7ymDIM) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [MI CHINA](https://open.spotify.com/album/76KgqITGU3xYIYgJurvDWM) | 2:07 | 2026-09-02 |  |
 | [Mi Cultura La Copla](https://open.spotify.com/track/0llb0HHVdnALQxHQnRT7Mp) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/1v7igOTMyTvR31EdQWpcsu) | 2:33 | 2024-03-29 | 2024-04-12 |
 | [MI PAZ](https://open.spotify.com/track/5PuzeYq1WkmGfxij6uEIvT) | [Santi Sc](https://open.spotify.com/artist/2wdZMvSgQUrBKt5sTMwhr2) | [MI PAZ](https://open.spotify.com/album/3PoRQDTxwP49agL2s3jIGr) | 2:56 | 2026-09-02 |  |
@@ -131,6 +132,7 @@
 | [Peoncito de Estancia \- Kaleema Remix](https://open.spotify.com/track/3hyFE4ZFa1kljhj4EKOWjh) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Pluma \(Un Disco de Reversiones de la San Llamarada\)](https://open.spotify.com/album/2kiwiXeBYtNKbFQnzrLTLO) | 4:01 | 2024-03-29 | 2025-09-07 |
 | [Peoncito de Estancia \- Kaleema Remix](https://open.spotify.com/track/0zIiND609voPOWidaLjnYi) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Pluma \(Un Disco de Reversiones de la San Llamarada\)](https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO) | 4:01 | 2023-08-11 | 2024-04-19 |
 | [Perdonarte, ¿Para Qué? / Como lo Hizo](https://open.spotify.com/track/3lLziiZtnAHy0KFZ93hFZ4) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Perdonarte, ¿Para Qué? / Como lo Hizo](https://open.spotify.com/album/1GhKzvREoqRrG1gyEGwuy4) | 6:48 | 2026-09-02 |  |
+| [Pienso y Declaro](https://open.spotify.com/track/7DPzjkY3cS2cv6DYi23jEb) | [Camila Pino](https://open.spotify.com/artist/5sduq9dVmsPqZrfFEuC07S), [Manu Estrada](https://open.spotify.com/artist/3iBwX6PVa8BNVoGjCIZNm9) | [A Casa](https://open.spotify.com/album/6vDdBdjMBYxfIOVdiSdlJF) | 2:41 | 2026-11-20 |  |
 | [Que Bailen](https://open.spotify.com/track/1OiEdS4FTTJlMMplNKHomb) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Asimetrico](https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit) | 5:14 | 2023-08-11 | 2024-04-19 |
 | [Que Bailen](https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Que Bailen](https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP) | 5:14 | 2024-03-29 | 2026-09-03 |
 | [Quita La Pena](https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d) | [Terraplén](https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe) | [Terraplén](https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q) | 3:56 | 2024-03-29 | 2026-09-03 |
@@ -163,6 +165,7 @@
 | [Tilcara](https://open.spotify.com/track/4ByBsOC6VsOfkg2SDBQT2q) | [Apuna](https://open.spotify.com/artist/6aQnkgpCB0Zq7GjONZyd4g) | [Tilcara](https://open.spotify.com/album/5nCu0disdQEhv74qkksFIg) | 3:26 | 2024-03-29 | 2026-09-03 |
 | [Toca](https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Toca](https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs) | 3:30 | 2024-03-29 | 2025-03-24 |
 | [Toca](https://open.spotify.com/track/07VELk4yHZ0MpGndajSrMX) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:30 | 2023-08-11 | 2024-04-19 |
+| [Tristeza Criolla](https://open.spotify.com/track/3ybTYYOOOcTBjeuu2ucdVu) | [Pretoria](https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5) | [Tristeza Criolla \(Versión Extendida\)](https://open.spotify.com/album/7txyp6wbyrgbCbRHhrDyqI) | 4:44 | 2026-11-20 |  |
 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 | 2023-08-11 | 2026-09-03 |
 | [Tu Misterioso Alguien](https://open.spotify.com/track/05NIrKmFsRW2beYsVWALMy) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [Tu Misterioso Alguien](https://open.spotify.com/album/2bGGtY1wTxX54ELhGzFP91) | 3:24 | 2026-09-02 |  |
 | [Un Montón de Estrellas](https://open.spotify.com/track/3eClp96lC5b2IKQZW4XMBR) | [Santiago Cañete](https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2) | [Un Montón de Estrellas](https://open.spotify.com/album/5MHb24RCpqg5ekjMGGi2wG) | 3:24 | 2026-09-02 |  |

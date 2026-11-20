@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain]
 
 > Gentle festive piano music to keep you focused this holiday season☕️✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,190 likes - 62 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,207 likes - 62 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain]
 | 5 | [Good King Wenceslas](https://open.spotify.com/track/25vdlTYdZPJssQbXU8qUsg) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [We Three Kings](https://open.spotify.com/album/5Ppd2aIzY3YD2ug3FMI7sg) | 2:02 |
 | 6 | [The First Noel](https://open.spotify.com/track/08tg93375LQTUu883QMXXq) | [Samuel Wright](https://open.spotify.com/artist/10v374WJVYK1n7uMM6FNVm) | [The First Noel](https://open.spotify.com/album/2HHiWzSdQDH58Qn0IQWTDr) | 1:34 |
 | 7 | [White Christmas](https://open.spotify.com/track/2k4Hlixkc0dQ9bKOMSVIdr) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [White Christmas](https://open.spotify.com/album/4cix9KsE3GFgDnPs4ilWPj) | 1:49 |
-| 8 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/6InFfsRNEmoInEkViOLXhH) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Santa Claus Is Coming to Town](https://open.spotify.com/album/0aBnWUHUHQ44ZM4aJWPRLo) | 1:54 |
-| 9 | [Have Yourself A Merry Christmas](https://open.spotify.com/track/2aGVfXfUUmiuBV9F4O0S0z) | [Hayra](https://open.spotify.com/artist/6oMgepLVpTpiwfghDHRfZi) | [Have Yourself A Merry Christmas](https://open.spotify.com/album/4pCfVz5xFFnzos3Jx3KyPp) | 2:42 |
-| 10 | [Let It Snow](https://open.spotify.com/track/1EpPBRJZrLhSqnwiMmaoNQ) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Let It Snow](https://open.spotify.com/album/2JBtwMSiePArwqHG0Mmfrh) | 1:59 |
-| 11 | [Do You Hear What I Hear](https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 3:20 |
+| 8 | [Do You Hear What I Hear](https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 3:20 |
+| 9 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/6InFfsRNEmoInEkViOLXhH) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Santa Claus Is Coming to Town](https://open.spotify.com/album/0aBnWUHUHQ44ZM4aJWPRLo) | 1:54 |
+| 10 | [Have Yourself A Merry Christmas](https://open.spotify.com/track/2aGVfXfUUmiuBV9F4O0S0z) | [Hayra](https://open.spotify.com/artist/6oMgepLVpTpiwfghDHRfZi) | [Have Yourself A Merry Christmas](https://open.spotify.com/album/4pCfVz5xFFnzos3Jx3KyPp) | 2:42 |
+| 11 | [Let It Snow](https://open.spotify.com/track/1EpPBRJZrLhSqnwiMmaoNQ) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Let It Snow](https://open.spotify.com/album/2JBtwMSiePArwqHG0Mmfrh) | 1:59 |
 | 12 | [Jingle Bells](https://open.spotify.com/track/39iHvNIr3IToSb2wjsU8Ss) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [A Touch Of December](https://open.spotify.com/album/3fclWgItqyFKFTuBfxjivJ) | 2:35 |
 | 13 | [The Coventry Carol](https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:16 |
 | 14 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/4fmMD2PMG2hZMH0OXBGunH) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [A Touch Of December](https://open.spotify.com/album/0REuyYIJJ0AXLV4Q2rwwjA) | 2:09 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain]
 | 61 | [Driving Home for Christmas](https://open.spotify.com/track/5AOxcIbAt8YbNk2Y1HGPaY) | [Saint Swithun](https://open.spotify.com/artist/24skfwQl61Uz1Alg6J7A4Z) | [Driving Home for Christmas](https://open.spotify.com/album/25uhApTUFy999s8qPyFX6f) | 3:00 |
 | 62 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/4iSpJOotQU6eWlaB9Qo50F) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/59KaMF4TGpxaSnWyToTNmb) | 2:29 |
 
-Snapshot ID: `AAAAALSjJkB01iBBApuHXUzB1h184FMZ`
+Snapshot ID: `AAAAAKz0m+72egBL84uD7EOc+4DQDr0R`

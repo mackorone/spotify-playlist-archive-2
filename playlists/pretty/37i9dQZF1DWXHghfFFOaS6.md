@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,693 likes - 90 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,749 likes - 90 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 57 | [Long Cool & Bubbly](https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl) | [Corduroy](https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH) | [Dad Man Cat](https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR) | 4:25 |
 | 58 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 | 59 | [Let the Music Find You](https://open.spotify.com/track/1uUzPCn8zokwtQnZV8iapv) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [Acid Jazz Revenge](https://open.spotify.com/album/4oUno0JWm4Etl38X8v78XF) | 4:31 |
-| 60 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
-| 61 | [House of the Rising Sun](https://open.spotify.com/track/71hiblgY44Xeo11ajThYz6) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [House of the Rising Sun](https://open.spotify.com/album/6pC0QxD8NR7f1R5HzJ4q5U) | 4:42 |
+| 60 | [House of the Rising Sun](https://open.spotify.com/track/71hiblgY44Xeo11ajThYz6) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [House of the Rising Sun](https://open.spotify.com/album/6pC0QxD8NR7f1R5HzJ4q5U) | 4:42 |
+| 61 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
 | 62 | [Looking up to You](https://open.spotify.com/track/5Y6bk058Ko9aH0sRL1Z4vq) | [Blacknuss](https://open.spotify.com/artist/4Voer5XJOsnL2JA6tpSE3P) | [Made in Sweden](https://open.spotify.com/album/57l9kvkQtrJbHrBNWlL57Y) | 3:54 |
 | 63 | [Now Is Tomorrow \(Anticipation\)](https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction II](https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6) | 5:58 |
 | 64 | [Pizza Pie](https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm) | [Let Your Hair Down](https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE) | [Pizza Pie](https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF) | 3:06 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 67 | [Niassam](https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU) | [Zoe's Shanghai](https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5) | [Lava Love](https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT) | 4:58 |
 | 68 | [Web of Deception](https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture of Fear](https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263) | 4:32 |
 | 69 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/7vJTJEMC5FYSCD61O5KFvf) | 5:19 |
-| 70 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
-| 71 | [Woman Of The Ghetto \- Reimagined](https://open.spotify.com/track/0TPpaCh6kiqIJEZOGosUTg) | [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe), [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Woman Of The Ghetto \(Reimagined\)](https://open.spotify.com/album/2rjniBoJTfY4IIn8aPaR19) | 4:57 |
+| 70 | [Woman Of The Ghetto \- Reimagined](https://open.spotify.com/track/0TPpaCh6kiqIJEZOGosUTg) | [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe), [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Woman Of The Ghetto \(Reimagined\)](https://open.spotify.com/album/2rjniBoJTfY4IIn8aPaR19) | 4:57 |
+| 71 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
 | 72 | [Don't Let It Go to Your Head](https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [The Best of Acid Jazz Vol\. 2](https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f) | 3:51 |
 | 73 | [Dream Waves](https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD) | [New Jersey Kings](https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp) | [Stratosphere Breakdown](https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K) | 4:55 |
 | 74 | [Snake \(Joaquin 'Joe' Claussell's Sacred Rhythm Version Edit\)](https://open.spotify.com/track/6lo3xWdEGwYDAdalNaIeiF) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6), [Joaquin "Joe" Claussell](https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro) | [Snake \(Joaquin 'Joe' Claussell's Sacred Rhythm Version\)](https://open.spotify.com/album/16oP4Smb59wAR5Rk9OhXdl) | 4:23 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 |
 | 90 | [Alright \- Remastered](https://open.spotify.com/track/6K4BRFskK2SjF7kqltI54H) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times \- The Singles 1992 \- 2006](https://open.spotify.com/album/20m3xZ4Ro4oE4CpZo8G12m) | 3:40 |
 
-Snapshot ID: `AAAAAKN15WrkH/f46ugSrx2de5zZR02+`
+Snapshot ID: `AAAAAAaepjEuKJGUSErHaQUFeIKv1X7G`

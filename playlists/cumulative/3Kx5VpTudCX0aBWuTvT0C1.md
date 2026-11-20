@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-217 songs - 12 hr 37 min
+218 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Throw Away](https://open.spotify.com/track/5XTdP95dDp4lm16ptkd3Hw) | [Mosaik](https://open.spotify.com/artist/1MuSqoanz47Wl7MBgO4OPy) | [Throw Away](https://open.spotify.com/album/7oPIvz4AFsZQjoWo1YkrE9) | 4:08 | 2026-06-03 |  |
 | [tiny thoughts](https://open.spotify.com/track/1Egax32yGqCIA0Fcw2PDDN) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 2:37 | 2025-11-24 | 2026-06-14 |
 | [To Be Back There](https://open.spotify.com/track/2FLeUS0NZ0EmGasMPe9177) | [Mischa Plus](https://open.spotify.com/artist/7JS3DVlq1iHThu4k2OcmNh) | [Relic](https://open.spotify.com/album/1er6z2T7yalzORoHnEKW4V) | 3:18 | 2026-04-08 |  |
+| [To Love And Be Loved](https://open.spotify.com/track/5KJgyTaeYJ29Jj5To4gGLJ) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Loving Well and Badly](https://open.spotify.com/album/4kT4HzepPBPjrbVm7vIFDU) | 4:53 | 2026-11-19 |  |
 | [Too Close For Comfort](https://open.spotify.com/track/2eLNKsTamXcUGp8Q0PrfeJ) | [DIZTEN](https://open.spotify.com/artist/0hj6Y8SHrQ6ETXoh4dBi9P) | [Too Close For Comfort](https://open.spotify.com/album/3Rqi8cEOHDKJMBXqKt5WvF) | 3:23 | 2025-12-12 | 2026-06-14 |
 | [Travelodge](https://open.spotify.com/track/1X2ZccDDqnZICewb31H9Bm) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [Deep Cut EP](https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd) | 2:23 | 2026-05-29 |  |
 | [Trust](https://open.spotify.com/track/7HiWR4yqbGVU5CvMmy3HHT) | [Penny Rebels](https://open.spotify.com/artist/5kvexhqNjywDVmARMHFA7g) | [Trust](https://open.spotify.com/album/2gq88qxGS3TyrncBZYOwO1) | 1:54 | 2025-10-30 | 2025-12-09 |

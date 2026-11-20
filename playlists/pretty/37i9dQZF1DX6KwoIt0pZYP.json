@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 263193,
+  "num_followers": 263189,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEMga574HgL33ubsovECyVgpW2eI",
+  "snapshot_id": "AAAAAPkaywaQTwWuuusShaSzhc1r/mye",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:04",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 202750,
-      "name": "Would You Mind",
-      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "W.H.U.T (Wanna Hold U Tight)",
         "url": "https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 174000,
       "name": "W.H.U.T",
       "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "Would You Mind",
+      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
+        "name": "THRIFTED",
+        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "THRIFTED",
+      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 198640,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
-        "name": "THRIFTED",
-        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "THRIFTED",
-      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/08bgugAl607EFEit8Fot7c"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "life update",
         "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 245647,
       "name": "hey, i'm tired",
       "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/08bgugAl607EFEit8Fot7c"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 241458,
       "name": "grateful",
       "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "my love my love my love",
-        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
       },
       "artists": [
         {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
         }
       ],
-      "duration_ms": 158312,
-      "name": "my love my love my love",
-      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
+      "duration_ms": 188666,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
+        "name": "my love my love my love",
+        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
       },
       "artists": [
         {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+      "duration_ms": 158312,
+      "name": "my love my love my love",
+      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "PAGTATAG!",
-        "url": "https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF"
-      },
-      "artists": [
-        {
-          "name": "SB19",
-          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
-        }
-      ],
-      "duration_ms": 223339,
-      "name": "I WANT YOU",
-      "url": "https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "PAGTATAG!",
+        "url": "https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "duration_ms": 223339,
+      "name": "I WANT YOU",
+      "url": "https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+        "name": "Just Say The Words",
+        "url": "https://open.spotify.com/album/5JzD8sl65jXlVXX7oYlOZV"
       },
       "artists": [
         {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+          "name": "Matthew Ifield",
+          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
         }
       ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+      "duration_ms": 190594,
+      "name": "Just Say The Words",
+      "url": "https://open.spotify.com/track/6Ymyy2yJ5lncQg0JEnRcKJ"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1559,22 +1559,6 @@
       "duration_ms": 190432,
       "name": "would you be mine?",
       "url": "https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
-        "name": "Just Say The Words",
-        "url": "https://open.spotify.com/album/5JzD8sl65jXlVXX7oYlOZV"
-      },
-      "artists": [
-        {
-          "name": "Matthew Ifield",
-          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
-        }
-      ],
-      "duration_ms": 190594,
-      "name": "Just Say The Words",
-      "url": "https://open.spotify.com/track/6Ymyy2yJ5lncQg0JEnRcKJ"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1615,18 +1599,34 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Too Much Of A Good Thing",
-        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
         }
       ],
-      "duration_ms": 171626,
-      "name": "Too Much Of A Good Thing",
-      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "But Not For Me",
+        "url": "https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "But Not For Me",
-        "url": "https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj"
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 129600,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
+      "duration_ms": 171626,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
     },
     {
       "added_at": "2026-10-02 04:02:04",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-10-02 04:02:04",
       "album": {
-        "name": "Infatuated",
-        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 226714,
-      "name": "Infatuated",
-      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
-    },
-    {
-      "added_at": "2026-10-02 04:02:04",
-      "album": {
         "name": "Black Tie",
         "url": "https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 167202,
       "name": "Black Tie",
       "url": "https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin"
+    },
+    {
+      "added_at": "2026-10-02 04:02:04",
+      "album": {
+        "name": "Infatuated",
+        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 226714,
+      "name": "Infatuated",
+      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
     }
   ],
   "unique_name": "tapioca",

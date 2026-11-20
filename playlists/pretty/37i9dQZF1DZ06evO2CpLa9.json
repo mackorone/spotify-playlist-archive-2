@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 570042,
+  "num_followers": 570081,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAABAgW7BWnyrNWdy3LjUVGNd",
+  "snapshot_id": "avzqgAAAAAAkyykOy05k5oycfqGXNbji",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "ASI SOY",
-      "url": "https://open.spotify.com/track/7hKQ7zOwIbaWNfOozCK5hC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 193421,
       "name": "Desde Cero (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "ASI SOY",
+      "url": "https://open.spotify.com/track/7hKQ7zOwIbaWNfOozCK5hC"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Y Yo",
-        "url": "https://open.spotify.com/album/2cgLHk1dyzjE2lQYTuYY8E"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 161985,
-      "name": "Tu Y Yo",
-      "url": "https://open.spotify.com/track/5PsPtFfCkmkROnhEW9piqR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 210636,
       "name": "Me Ir\u00e9 Con Ella",
       "url": "https://open.spotify.com/track/6oDuPGoGyXacliKYM7Tq4L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Y Yo",
+        "url": "https://open.spotify.com/album/2cgLHk1dyzjE2lQYTuYY8E"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 161985,
+      "name": "Tu Y Yo",
+      "url": "https://open.spotify.com/track/5PsPtFfCkmkROnhEW9piqR"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar y Tierra",
-        "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 185870,
-      "name": "Mar y Tierra",
-      "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 257700,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/72buhyGyL6jEe9EWJLbxX3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar y Tierra",
+        "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 185870,
+      "name": "Mar y Tierra",
+      "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
     },
     {
       "added_at": null,
@@ -879,54 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO SON KLLE",
-        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "NO SON KLLE",
-      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Mexico Song",
-        "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Bear Busby",
-          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 213812,
-      "name": "De Mexico Song",
-      "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Llegar\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/1CG4wdJZhVv51VsRujmDnV"
       },
@@ -963,6 +915,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO SON KLLE",
+        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "NO SON KLLE",
+      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 268125,
       "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
       "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Mexico Song",
+        "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Bear Busby",
+          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 213812,
+      "name": "De Mexico Song",
+      "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
     },
     {
       "added_at": null,
@@ -1039,26 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tutankamon",
-        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/1VjnloX6zB43pXp7QehKvT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ"
       },
@@ -1079,22 +1059,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+        "name": "Tutankamon",
+        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         },
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Est\u00e1 Caliente",
-      "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
+      "duration_ms": 200869,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/1VjnloX6zB43pXp7QehKvT"
     },
     {
       "added_at": null,
@@ -1111,6 +1091,26 @@
       "duration_ms": 200754,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Necesidad",
+        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Est\u00e1 Caliente",
+      "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
     },
     {
       "added_at": null,

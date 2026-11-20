@@ -1209,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Ahumbo",
+        "url": "https://open.spotify.com/album/5Vd4ERVBkIF1gRiP1FxoaT"
+      },
+      "artists": [
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264979,
+      "name": "Ahumbo",
+      "url": "https://open.spotify.com/track/02b5rMIgx2UJ5Vi7YO5dB0"
+    },
+    {
+      "album": {
         "name": "Ain't On The List / Fractals",
         "url": "https://open.spotify.com/album/5YqVjXlVaYg6L6330vhLAN"
       },
@@ -6364,7 +6382,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 206294,
       "name": "can't take this",
       "url": "https://open.spotify.com/track/2Mr5R7A9KR1b5HRZIEBunZ"
@@ -8886,6 +8904,32 @@
       "duration_ms": 326211,
       "name": "Cutting You Loose",
       "url": "https://open.spotify.com/track/1ytuq7neEPJ9kwytzPxPVl"
+    },
+    {
+      "album": {
+        "name": "Da-da-Dun",
+        "url": "https://open.spotify.com/album/4ERpMTQZ114wtM9Aogn1MZ"
+      },
+      "artists": [
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        },
+        {
+          "name": "The Director",
+          "url": "https://open.spotify.com/artist/0Jfenh8LAfhfvip31apnlP"
+        },
+        {
+          "name": "Boreal",
+          "url": "https://open.spotify.com/artist/1CLZrJnNxp89DFit00r6Ir"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Da-da-Dun",
+      "url": "https://open.spotify.com/track/0s3qOPgC2WnynmRzJP7kuL"
     },
     {
       "album": {
@@ -17296,7 +17340,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 233113,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
@@ -27527,6 +27571,28 @@
     },
     {
       "album": {
+        "name": "Me In Your Head",
+        "url": "https://open.spotify.com/album/6PiuWrTrN4NEA59gln8x3S"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Beth Ditto",
+          "url": "https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222186,
+      "name": "Me In Your Head",
+      "url": "https://open.spotify.com/track/7vQXPJFTVl9co8Fxqeb4yq"
+    },
+    {
+      "album": {
         "name": "Mean It",
         "url": "https://open.spotify.com/album/10HsH0ayirx1nyFckvfoSF"
       },
@@ -28286,7 +28352,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 216138,
       "name": "Molly In The Club",
       "url": "https://open.spotify.com/track/1ngbCM8cVBEcE3yCFdelAU"
@@ -31814,6 +31880,24 @@
       "duration_ms": 211653,
       "name": "only one",
       "url": "https://open.spotify.com/track/2PpPJSn4GdB6Dzsm9CsEC0"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145380,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/2Df1qZun61Mrj4xo6ndtTy"
     },
     {
       "album": {
@@ -36587,6 +36671,28 @@
     },
     {
       "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/4T1FH6O9joSf1bSam4vCdC"
+      },
+      "artists": [
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        },
+        {
+          "name": "Gloria Maxi",
+          "url": "https://open.spotify.com/artist/3eEmoc45F5flCsdOvnhrRd"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180917,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/4AXzlMc95oiWZRWPSu9hiv"
+    },
+    {
+      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -37976,6 +38082,24 @@
       "duration_ms": 143313,
       "name": "skyskysky",
       "url": "https://open.spotify.com/track/74ndPRenu6lTSh0xWRZ0EG"
+    },
+    {
+      "album": {
+        "name": "SL670",
+        "url": "https://open.spotify.com/album/2yzb0D9oxAYPwe51LL3sgI"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188702,
+      "name": "SL670",
+      "url": "https://open.spotify.com/track/68IQrHbZiRzEXEO33IDxFm"
     },
     {
       "album": {
@@ -42878,7 +43002,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 302986,
       "name": "The Whole Of The Moon - Radio Edit",
       "url": "https://open.spotify.com/track/3619m4oJNzvYLBcnfuRA9b"
@@ -46032,7 +46156,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 236885,
       "name": "Waiting - ft S\u00f8lv",
       "url": "https://open.spotify.com/track/1dUMQ5YyJfxd7wYzmtXb0o"
@@ -46236,7 +46360,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 241612,
       "name": "Walk",
       "url": "https://open.spotify.com/track/4YAhKZrz4S6dH4Ro4WMPdB"

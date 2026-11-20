@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic indie music. Cover: FKJ",
-  "num_followers": 44315,
+  "num_followers": 44349,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAASpEYyJ2X8rk68xfwQF/pndy92m",
+  "snapshot_id": "AAAAAK8LblyLtyFcOGZsYSRKf+e3ypUU",
   "tracks": [
     {
       "added_at": "2026-11-04 09:14:06",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 182105,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Sick Of Love (Mura Masa Remix)",
         "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 289075,
       "name": "Essex_Honey.mp3",
       "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Kairos",
-        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 182105,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Seaford Sunset",
+        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 218318,
+      "name": "Seaford Sunset",
+      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Me and You",
         "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 162673,
       "name": "Round The Block",
       "url": "https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Seaford Sunset",
-        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 218318,
-      "name": "Seaford Sunset",
-      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Talk to Me",
-        "url": "https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Nicole Miglis",
-          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
-        }
-      ],
-      "duration_ms": 222768,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
         "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 160360,
       "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
       "url": "https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Nicole Miglis",
+          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
+        }
+      ],
+      "duration_ms": 222768,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Center Peace",
-        "url": "https://open.spotify.com/album/7eiuDmrXMfHJWqKyil5sEf"
-      },
-      "artists": [
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Center Peace",
-      "url": "https://open.spotify.com/track/79hDqKjcwPLqW1RTCdyvd3"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "pull u right thru",
         "url": "https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 217864,
       "name": "pull u right thru",
       "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Center Peace",
+        "url": "https://open.spotify.com/album/7eiuDmrXMfHJWqKyil5sEf"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Center Peace",
+      "url": "https://open.spotify.com/track/79hDqKjcwPLqW1RTCdyvd3"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Lose All Your Friends",
+        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Lose All Your Friends",
+      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Lose All Your Friends",
-        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Lose All Your Friends",
-      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/0VJhL9eUwtKSAiqVOYKsFV"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 225391,
       "name": "Woman",
       "url": "https://open.spotify.com/track/0nVA2gw5AKuuJjiVKwJvhB"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "duration_ms": 228977,
+      "name": "PROJECT X",
+      "url": "https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "PROJECT X",
-        "url": "https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E"
+        "name": "Elation",
+        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
       },
       "artists": [
         {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
         }
       ],
-      "duration_ms": 228977,
-      "name": "PROJECT X",
-      "url": "https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM"
+      "duration_ms": 212500,
+      "name": "Elation",
+      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Elation",
-        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Elation",
-      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "Decoding Birdsong",
         "url": "https://open.spotify.com/album/74ZHcpT543dq0nG2rupyw6"
       },
@@ -1151,26 +1151,6 @@
       "duration_ms": 205560,
       "name": "The First Five Minutes of Magnolia",
       "url": "https://open.spotify.com/track/50ndAJovuhYFpkAcktjXoU"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Blue Shadows (feat. Karen O)",
-        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Blue Shadows (feat. Karen O)",
-      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1195,18 +1175,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/1HOAbVRHClJtTRIXQcOq2Q"
+        "name": "Blue Shadows (feat. Karen O)",
+        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
       },
       "artists": [
         {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
         }
       ],
-      "duration_ms": 285882,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H"
+      "duration_ms": 160000,
+      "name": "Blue Shadows (feat. Karen O)",
+      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1223,6 +1207,22 @@
       "duration_ms": 151763,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/1HOAbVRHClJtTRIXQcOq2Q"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 285882,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/2wHUz9eFoKHvS4Fi4hIb3H"
     },
     {
       "added_at": "2026-11-04 09:14:06",

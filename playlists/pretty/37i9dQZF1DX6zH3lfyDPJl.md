@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,291 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,300 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 47 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 |
 | 48 | [Taking Off](https://open.spotify.com/track/6rH7DwITrq2MhxSSuL91r9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Ambitions](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) | 3:38 |
 | 49 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
-| 50 | [Superstar](https://open.spotify.com/track/2H28TK2PMVBeRZKelRJewg) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:13 |
+| 50 | [You Keep Me Here](https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg) | [Perfect Crown OST Part.8](https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9) | 3:44 |
 
-Snapshot ID: `AAAAABCxL9GOrl34hbJu6n0d7Ce+QXQg`
+Snapshot ID: `AAAAAMROaKg5nf4apE6Xo0egPVu8dTcH`

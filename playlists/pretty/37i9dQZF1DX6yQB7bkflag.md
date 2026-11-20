@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,408 likes - 98 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,415 likes - 98 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 97 | [With you](https://open.spotify.com/track/47YcraZdOMFbDWSyT9grId) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [With you](https://open.spotify.com/album/4Mrm3mvJxNtsQ1f41htrK2) | 2:46 |
 | 98 | [Pillow Fight](https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Pillow Fight / I’d Rather Be Alone](https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv) | 2:21 |
 
-Snapshot ID: `AAAAAIhkrl9bojFvEZlhaq/0Dh62ls8c`
+Snapshot ID: `AAAAAHfpIQqSWqu0d3tYhsuPtfpg9izA`

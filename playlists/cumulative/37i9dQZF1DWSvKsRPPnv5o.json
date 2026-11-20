@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Anderson .Paak and Cordae",
+  "description": "Holdin' it down for the westside. Cover: Mark Lux",
   "name": "Westside",
   "tracks": [
     {
@@ -5411,6 +5411,24 @@
     },
     {
       "album": {
+        "name": "BROKEN DREAMS",
+        "url": "https://open.spotify.com/album/6UfKFzCTJAb6a5Jn4YLbwG"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "BROKEN DREAMS",
+      "url": "https://open.spotify.com/track/5FeZbuJbTrv0RaZmXB7IrL"
+    },
+    {
+      "album": {
         "name": "Brokey",
         "url": "https://open.spotify.com/album/3YEmdP0E9a342MEda5yEPG"
       },
@@ -5582,6 +5600,24 @@
       "duration_ms": 154108,
       "name": "Built",
       "url": "https://open.spotify.com/track/4s6TzExJfy6OdM2WyZyaps"
+    },
+    {
+      "album": {
+        "name": "Bump Her Down",
+        "url": "https://open.spotify.com/album/2eZz7ih6YwDs8dRZI1HOiV"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187055,
+      "name": "Bump Her Down",
+      "url": "https://open.spotify.com/track/5CQDqSjtguI2k94hjYvlP2"
     },
     {
       "album": {
@@ -8190,7 +8226,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 212884,
       "name": "DAM BABY",
       "url": "https://open.spotify.com/track/19PlPvG6QkwPU6r6iLSOo6"
@@ -8524,6 +8560,24 @@
       "duration_ms": 156655,
       "name": "Dem Freaky Girls",
       "url": "https://open.spotify.com/track/0dkBKkgLSkazEP8V058rnU"
+    },
+    {
+      "album": {
+        "name": "details",
+        "url": "https://open.spotify.com/album/1YslW2Ai6kI5KFEfuttBTY"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149313,
+      "name": "details",
+      "url": "https://open.spotify.com/track/3vrfkA7oTCRxfeNf1cCqda"
     },
     {
       "album": {
@@ -10998,7 +11052,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 137658,
       "name": "Extras",
       "url": "https://open.spotify.com/track/5wXysXFFdT73TOzjaFrfp6"
@@ -12806,6 +12860,24 @@
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
+    },
+    {
+      "album": {
+        "name": "FUNDRAISER",
+        "url": "https://open.spotify.com/album/58eCfRyx53kcevacLoLYMz"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125270,
+      "name": "FUNDRAISER",
+      "url": "https://open.spotify.com/track/0xB97l2SzzkDEmXyMKbCFR"
     },
     {
       "album": {
@@ -17784,7 +17856,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203952,
       "name": "Initiation",
       "url": "https://open.spotify.com/track/57NO281tnRV8Y5ACoGYIOR"
@@ -22144,6 +22216,28 @@
       "duration_ms": 505384,
       "name": "MOESHA CYPHER",
       "url": "https://open.spotify.com/track/1t1OeHayu3lRppO2kARAog"
+    },
+    {
+      "album": {
+        "name": "Left Coast Musical",
+        "url": "https://open.spotify.com/album/1iOIGyzabO6I551157GqZ7"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187614,
+      "name": "MONDAY TO SUNDAY",
+      "url": "https://open.spotify.com/track/36YX3cTVlxZBoGBU38TvqH"
     },
     {
       "album": {
@@ -28394,7 +28488,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 221727,
       "name": "Relax (2009)",
       "url": "https://open.spotify.com/track/3283xMe0tWUXRtIJ7pydi5"
@@ -28620,6 +28714,24 @@
       "duration_ms": 158869,
       "name": "Ricky's",
       "url": "https://open.spotify.com/track/2sWQ6NVSI3QdDuIUeUbBOK"
+    },
+    {
+      "album": {
+        "name": "Left Coast Musical",
+        "url": "https://open.spotify.com/album/1iOIGyzabO6I551157GqZ7"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171089,
+      "name": "RIGHT <",
+      "url": "https://open.spotify.com/track/0xhsWxsZiBbSUWmPCR3rJb"
     },
     {
       "album": {

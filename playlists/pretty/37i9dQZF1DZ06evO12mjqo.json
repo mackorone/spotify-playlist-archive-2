@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 482916,
+  "num_followers": 482929,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "avpHgAAAAADDdfUClZXXFHTNiJ/h5t/3",
+  "snapshot_id": "avzqgAAAAABoBJMq2n/NYOvQyKjvi7BO",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 253173,
-      "name": "He Is",
-      "url": "https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX"
+      "duration_ms": 350186,
+      "name": "Year Zero",
+      "url": "https://open.spotify.com/track/3yiyZW5sYNg3VvIejh10sK"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infestissumam",
-        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 350186,
-      "name": "Year Zero",
-      "url": "https://open.spotify.com/track/3yiyZW5sYNg3VvIejh10sK"
+      "duration_ms": 253173,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
       "duration_ms": 210320,
       "name": "Witch Image",
       "url": "https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 353320,
+      "name": "Monstrance Clock",
+      "url": "https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infestissumam",
-        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 353320,
-      "name": "Monstrance Clock",
-      "url": "https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay [Feat. Patrick Wilson]",
         "url": "https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 234220,
       "name": "Stay [Feat. Patrick Wilson]",
       "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "13 Commandments",
+        "url": "https://open.spotify.com/album/1jIpMY1agd8Uvd9cc9woTH"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 364533,
+      "name": "Zenith",
+      "url": "https://open.spotify.com/track/12OqhoWuHEzQ7AJMBS0WFJ"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Commandments",
-        "url": "https://open.spotify.com/album/1jIpMY1agd8Uvd9cc9woTH"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 364533,
-      "name": "Zenith",
-      "url": "https://open.spotify.com/track/12OqhoWuHEzQ7AJMBS0WFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infestissumam",
         "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Con Clavi Con Dio",
-      "url": "https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phantomime",
         "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 250440,
       "name": "We Don\u2019t Need Another Hero",
       "url": "https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Con Clavi Con Dio",
+      "url": "https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 278106,
-      "name": "Satan Prayer",
-      "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phantomime",
         "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 249626,
       "name": "Hanging Around",
       "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 278106,
+      "name": "Satan Prayer",
+      "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
     },
     {
       "added_at": null,

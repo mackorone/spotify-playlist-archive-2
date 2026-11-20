@@ -4,7 +4,7 @@
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: Gable Price without Friends
 
-849 songs - 2 day 1 hr 2 min
+850 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [Patient & Kind](https://open.spotify.com/track/4XUHPTauQpSLCeGIzRGIR3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Patient & Kind](https://open.spotify.com/album/1ibfHJeOfj4wBtSBgy5JuG) | 4:57 | 2023-11-03 | 2024-01-27 |
 | [PAWA](https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul) | [Sam Jamz](https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [PAWA](https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW) | 2:36 | 2023-08-04 | 2024-06-08 |
 | [Peace Over Anxiety](https://open.spotify.com/track/1EiyEqsOHVi2VXtvX0Qq6D) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Peace Over Anxiety](https://open.spotify.com/album/7K4cdHFnPlcNBMkQbWCkxC) | 3:34 | 2024-05-10 | 2025-02-15 |
+| [pegasus](https://open.spotify.com/track/1zgPTcmehootTzZILn55FA) | [svn4vr](https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B) | [pegasus](https://open.spotify.com/album/0No2AaO00viWeDoeuJb0Yv) | 3:04 | 2026-11-20 |  |
 | [Perfect Peace](https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Perfect Peace](https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX) | 3:13 | 2024-06-07 | 2024-09-26 |
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2023-02-19 | 2023-08-05 |
 | [Permanent](https://open.spotify.com/track/7dvcjzfLn2cbWHDOlbboE9) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Permanent](https://open.spotify.com/album/3VxE9Fnyyk256pE25Q2z6r) | 3:50 | 2025-05-31 |  |
@@ -792,7 +793,7 @@
 | [When I'm Home](https://open.spotify.com/track/65qxhNhw2uADb4RsLnIWlP) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Future Forever](https://open.spotify.com/album/3dHdl1duPGtYXphNdxXIKZ) | 2:42 | 2023-02-19 | 2023-12-02 |
 | [When I'm With You](https://open.spotify.com/track/5l0ppnih0HggExR4gtYi1u) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [The Space In Between](https://open.spotify.com/album/0baLUVNKZ9g6aB8JtV3w2P) | 2:11 | 2026-06-19 |  |
 | [When the Well Runs Dry](https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8) | [Liv Douglas](https://open.spotify.com/artist/5BztXuE64HaCcnJc3AKb73), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [When the Well Runs Dry](https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ) | 4:00 | 2020-12-18 | 2023-02-19 |
-| [where did everybody go after the show](https://open.spotify.com/track/3TQNYcQpNk68ANvFCkodeM) | [svn4vr](https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B) | [herts on fire](https://open.spotify.com/album/04G4D5LWqd7hmTIiAUHxEs) | 1:59 | 2026-03-21 |  |
+| [where did everybody go after the show](https://open.spotify.com/track/3TQNYcQpNk68ANvFCkodeM) | [svn4vr](https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B) | [herts on fire](https://open.spotify.com/album/04G4D5LWqd7hmTIiAUHxEs) | 1:59 | 2026-03-21 | 2026-11-20 |
 | [Where Does The Time Go?](https://open.spotify.com/track/0eSITaFDrUyyjjcQ2KmqWh) | [In Paradise](https://open.spotify.com/artist/4ALawqTfUuUWNCPMoKKuxz) | [Where Does The Time Go?](https://open.spotify.com/album/14zApU2EukATvPBxueufXN) | 3:38 | 2025-03-21 | 2025-10-19 |
 | [Where Else?](https://open.spotify.com/track/77Qdxc3fmcMxkGBuj9WX1Z) | [TIDES](https://open.spotify.com/artist/0eZKxTEWH3Sb70LcJWeWQZ) | [Where Else?](https://open.spotify.com/album/1UHBi1ZpDMJxZjNzKVZfAW) | 2:37 | 2026-10-23 |  |
 | [Where the Light Is](https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw) | [CAMPBELL](https://open.spotify.com/artist/50V8MR39rjDJ9GbtqHHBgk), [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW), [Nancy Daines](https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR) | [Where the Light Is](https://open.spotify.com/album/0kGvVheAH35jEukM3elOGu) | 3:50 | 2023-02-19 | 2023-12-02 |

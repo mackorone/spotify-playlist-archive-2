@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Meet the future\. Cover: Julia Duclos
+> Meet the future\. Cover: quiet morning
 
-342 songs - 18 hr 33 min
+346 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2024-06-27 | 2025-04-16 |
 | [CASABLANCA \- Acoustic Version](https://open.spotify.com/track/2atCPHbWYO1TbwDCUvEykK) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA \(Acoustic Version\)](https://open.spotify.com/album/1L5B9a6Fz8TOe32msb4S78) | 3:36 | 2025-09-08 | 2025-11-06 |
 | [CASHRULES](https://open.spotify.com/track/62L1fSACUVj8iYDnhTVMum) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [CASHRULES](https://open.spotify.com/album/5nv3k81qSs9q56Lfvo2cim) | 2:38 | 2025-04-15 | 2026-04-07 |
+| [catacombs](https://open.spotify.com/track/1rd3vQAJSEhkVCsHfJxTrT) | [MISTER TWO FIVE](https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o) | [catacombs](https://open.spotify.com/album/18c3kYjoJ7ZyfQyP947K7s) | 3:54 | 2026-11-20 |  |
 | [Catatan Kita](https://open.spotify.com/track/7GeCsDAdyO6SZGn6BjII4n) | [Caffeine](https://open.spotify.com/artist/47PbXAwIZQ0Zb03yiv5YyG), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Catatan Kita](https://open.spotify.com/album/11kPpap9chXLlLHgDFcyEu) | 3:08 | 2026-01-23 | 2026-04-07 |
 | [Cemburu](https://open.spotify.com/track/3fbNkHTrMF0bAL9IV6z9dC) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Cemburu](https://open.spotify.com/album/1huyLizjNAl9LhQCgdGQgO) | 2:45 | 2024-06-27 | 2025-04-16 |
 | [Cham](https://open.spotify.com/track/4mp83ZaDrATKDkE3EDFFea) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Cham](https://open.spotify.com/album/1esARCRsqpmwxUIdXP8uKA) | 3:35 | 2025-12-03 | 2026-01-17 |
@@ -165,6 +166,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 | 2024-06-27 | 2025-04-16 |
 | [Kembali Beraksi](https://open.spotify.com/track/6xQTKwONIIxVeVkeI9RmUg) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Kembali Beraksi](https://open.spotify.com/album/3R5CJTjkIdD5vXVLq8behk) | 3:24 | 2025-04-15 | 2025-09-09 |
 | [Kenangan Lama](https://open.spotify.com/track/00XJNXUSrnbf3RGekd5D7G) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Cari Cinta](https://open.spotify.com/album/6m1lPXy9LW1MF9K9RGVKWY) | 2:29 | 2025-11-20 | 2026-04-07 |
+| [Kesalahan 1,2,3](https://open.spotify.com/track/2dQos2Dw8kvnLsCsybZyZz) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Kesalahan 1,2,3](https://open.spotify.com/album/6eAQBeuZRh7RNPV1yME4ON) | 2:57 | 2026-11-20 |  |
 | [KOPI](https://open.spotify.com/track/2EWtkQdW9o8PtIbw0OqNMw) | [NAZU](https://open.spotify.com/artist/37MgONBWvDKXtHSnIo59dk), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [KOPI](https://open.spotify.com/album/5bqruzmuQMjI8YZXIv589g) | 2:54 | 2025-10-24 | 2026-04-07 |
 | [Ku Ingin Tahu](https://open.spotify.com/track/5X2AqXUHVJJDMJDAfwHzJc) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Ku Ingin Tahu](https://open.spotify.com/album/6CUysXbpDxvoMhvByozznK) | 3:16 | 2024-06-27 | 2024-12-05 |
 | [Lagu Healing Kita](https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita](https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ) | 3:32 | 2026-05-08 | 2026-06-19 |
@@ -179,6 +181,7 @@
 | [leftover feelings](https://open.spotify.com/track/4WVVkyq96BDHm4MgVKYbGK) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 5:23 | 2024-12-04 | 2025-04-16 |
 | [Lepas Pegangan](https://open.spotify.com/track/6HlPJ9EhmA6CgBD4Ke5AeG) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Lepas Pegangan](https://open.spotify.com/album/5WOKeopcxaXQPkEjUJrX6q) | 3:15 | 2025-09-19 | 2026-04-07 |
 | [LESSONS](https://open.spotify.com/track/4e6BzRekPHuGyVzWsVdKUX) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [WHERE ARE YOU NOW THAT IT'S OVER?](https://open.spotify.com/album/0vZ2TnJ14bTm1KbHYUFHU0) | 4:28 | 2025-04-15 | 2026-04-07 |
+| [lifetime](https://open.spotify.com/track/7AEMNgAPFileBajAsPxEVi) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [blind eye](https://open.spotify.com/album/6Ck2I5oGQHc0I5MF6vNh8p) | 2:20 | 2026-11-20 |  |
 | [Lifetime Subscription](https://open.spotify.com/track/1CKLRj9zh6P5QHbMUDLHFV) | [Penelope](https://open.spotify.com/artist/4pmdWxcPYV8NkfuMmL7Ubu), [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Lifetime Subscription](https://open.spotify.com/album/7q6BO3xnbzYbtGqEJ9cDdt) | 3:07 | 2025-08-15 | 2026-04-07 |
 | [Like Me](https://open.spotify.com/track/49bLYLbZ20ewRBaaj5kX5Q) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:20 | 2024-10-10 | 2024-12-05 |
 | [limbo](https://open.spotify.com/track/1vvnqm42rmzp89hvTXtpPQ) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [off\-hours](https://open.spotify.com/album/5HRf8LUEbweUEdqpjOEaLM) | 2:49 | 2025-12-03 | 2026-01-17 |
@@ -230,6 +233,7 @@
 | [on &on](https://open.spotify.com/track/5UzlWqxlvPpzzuNSILt5Du) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [on &on](https://open.spotify.com/album/05aF3NLC9CqgZe8pYrP70l) | 2:34 | 2026-10-08 |  |
 | [on the floor](https://open.spotify.com/track/3jBQP4Ok9cEZ1zxok5e85k) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [wake up 18](https://open.spotify.com/album/1QW4WSaHyCEcXjuaproSyG) | 2:25 | 2026-10-15 |  |
 | [ONE DAY AT A TIME](https://open.spotify.com/track/3uGdsz2OOs5pGodQvEiPnh) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ), [Kevin Brendan](https://open.spotify.com/artist/6ugRGLIWSHusjCas08bxXr) | [ONE DAY AT A TIME](https://open.spotify.com/album/43r58mDnZjEN1v3DQEMGP5) | 3:57 | 2025-11-27 | 2026-04-07 |
+| [OPQRSTU](https://open.spotify.com/track/45kHycQJdxuFp4kVkesIXx) | [LANXY MUSIC](https://open.spotify.com/artist/5kZCbUSiBwA1ucPCEWxT0s) | [OPQRSTU](https://open.spotify.com/album/5LA8qdxAuCf6R1Y3vN8ZzY) | 3:08 | 2026-11-20 |  |
 | [OTHERNIGHT](https://open.spotify.com/track/0xHXphVyY7SwNp4aeQdO7p) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [OTHERNIGHT](https://open.spotify.com/album/2R0stQU71C8iijxgMo6Fec) | 3:04 | 2025-08-21 | 2026-04-07 |
 | [over](https://open.spotify.com/track/7y9aCH44424t5XmTHIdli8) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [over](https://open.spotify.com/album/6RrUiVZgYqU7bdt7MWMMzZ) | 2:47 | 2026-09-03 | 2026-09-18 |
 | [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 | 2025-04-15 | 2026-04-07 |

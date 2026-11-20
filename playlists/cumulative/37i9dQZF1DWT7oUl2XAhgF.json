@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Bright",
+        "url": "https://open.spotify.com/album/3VUaV3SlhB9V8nLmtSl3aO"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223342,
+      "name": "Bright",
+      "url": "https://open.spotify.com/track/6SJRoVRLo2NT5v5swEZSrO"
+    },
+    {
+      "album": {
         "name": "Bring You A Ring",
         "url": "https://open.spotify.com/album/5BsO8y5Kd9RfIRRpCY8OhZ"
       },
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 273421,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/7n2XAtVvXhn11drWv84vyQ"
@@ -3682,7 +3700,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 247400,
       "name": "Heal Me Good",
       "url": "https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U"
@@ -4456,6 +4474,24 @@
       "duration_ms": 167012,
       "name": "I'd Be Lost",
       "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
+    },
+    {
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/6BUXIfTq3qyrMxaHvAYwDf"
+      },
+      "artists": [
+        {
+          "name": "James Tutson",
+          "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224787,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/1ntAtLzZqgzCDuvkS0yzTO"
     },
     {
       "album": {
@@ -5548,6 +5584,24 @@
       "duration_ms": 210482,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/3sjgUdqEep6XgJFfVRqllt"
+    },
+    {
+      "album": {
+        "name": "Life's a Gas",
+        "url": "https://open.spotify.com/album/59Mg3BeSe0plX6X1Q6GxvD"
+      },
+      "artists": [
+        {
+          "name": "Joey Dosik",
+          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182558,
+      "name": "Life's a Gas",
+      "url": "https://open.spotify.com/track/31bR41TL7ISMtXM8lshVcK"
     },
     {
       "album": {
@@ -9754,7 +9808,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 188220,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/3XU7fEXHM6EhAmMuf81ac0"

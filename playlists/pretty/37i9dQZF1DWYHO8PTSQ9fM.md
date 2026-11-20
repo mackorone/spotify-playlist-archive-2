@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > The hottest hits right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,171 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,213 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Houwa 2](https://open.spotify.com/track/5X6apZSO77oz98QahNlVG3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa 2](https://open.spotify.com/album/427UfB1VcqxF7EaQkFRAan) | 2:10 |
 | 50 | [NGHAMER](https://open.spotify.com/track/0hPCO6nihXwnUyn14kzqQd) | [Bayadis](https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [NGHAMER](https://open.spotify.com/album/1YB96TRIXzeKObuCicLpsX) | 2:59 |
 
-Snapshot ID: `AAAAAJl0/2cmFzo1FJwczM0MJUNThQVy`
+Snapshot ID: `AAAAACKAYRPMPpj+RnauJbiXezWxrZ8L`

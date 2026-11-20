@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Banda Clave de Oro de Christian Rojas ",
+  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Gerardo Coronel ",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -651,6 +651,28 @@
     },
     {
       "album": {
+        "name": "Alta y Delgadita (En Vivo)",
+        "url": "https://open.spotify.com/album/4Jj8CT0vf4XXeiKA4sHivk"
+      },
+      "artists": [
+        {
+          "name": "Los Nietos de Mochis",
+          "url": "https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7"
+        },
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228074,
+      "name": "Alta y Delgadita - En Vivo",
+      "url": "https://open.spotify.com/track/5D9FTQSlAJlHbvlDY7sAg1"
+    },
+    {
+      "album": {
         "name": "Amarte As\u00ed / Aire Tibio [Imperfecto Tour 2026 (En Vivo)]",
         "url": "https://open.spotify.com/album/2sUgmLdDIxiDwXPyQEp48h"
       },
@@ -1126,7 +1148,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198500,
       "name": "Besos y Copas - En Vivo",
       "url": "https://open.spotify.com/track/4133rBXOv4L0RJfzzpNJSc"
@@ -1170,6 +1192,28 @@
       "duration_ms": 150200,
       "name": "Bien Belicones (En vivo)",
       "url": "https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne"
+    },
+    {
+      "album": {
+        "name": "Bien Servida (En Vivo)",
+        "url": "https://open.spotify.com/album/00wimcavOa2KMR0wQst4I6"
+      },
+      "artists": [
+        {
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152524,
+      "name": "Bien Servida - En Vivo",
+      "url": "https://open.spotify.com/track/4p2KRoDTYbIomzZtwojuA4"
     },
     {
       "album": {
@@ -1590,7 +1634,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 173053,
       "name": "Chingo A Mi Madre - En Vivo",
       "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
@@ -1670,6 +1714,24 @@
       "duration_ms": 202280,
       "name": "Cielo Nublado Aka Cielo Nevado - En Vivo",
       "url": "https://open.spotify.com/track/1y4h8u7FJdByH32PCVvXiZ"
+    },
+    {
+      "album": {
+        "name": "Un Oso en el Bosque (En Vivo)",
+        "url": "https://open.spotify.com/album/4PgSo75CzLsgZ96XHvUNul"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260706,
+      "name": "Clavado en un Bar - En Vivo",
+      "url": "https://open.spotify.com/track/7GjZqPa5HDaKnI6BLgzZ2V"
     },
     {
       "album": {
@@ -2244,6 +2306,24 @@
       "duration_ms": 315480,
       "name": "Cuando Nadie Te Quiera (En Vivo)",
       "url": "https://open.spotify.com/track/1IVxCIu5qNVtYjh1TBR27c"
+    },
+    {
+      "album": {
+        "name": "Covers De Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/7CGncuSCCZISXN9i1VfGy4"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Del Camino",
+          "url": "https://open.spotify.com/artist/0zvfEGBFjOX2F5jpEm6dv3"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211885,
+      "name": "Cuando Nadie Te Quiera - En Vivo",
+      "url": "https://open.spotify.com/track/41n81VHa3cfPSlHmnVy7lG"
     },
     {
       "album": {
@@ -3333,6 +3413,24 @@
     },
     {
       "album": {
+        "name": "La Pedototota, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6UAAeFJ51FYydeJMpw4Kyj"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186402,
+      "name": "El Caballero - En Vivo",
+      "url": "https://open.spotify.com/track/6p9B1YWevMUPzH7JHaQMl1"
+    },
+    {
+      "album": {
         "name": "El Cabez\u00f3n (El Papas Fritas)",
         "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
       },
@@ -3348,7 +3446,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 149986,
       "name": "El Cabez\u00f3n (El Papas Fritas)",
       "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
@@ -3766,7 +3864,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184874,
       "name": "El Corrido Del Piyi (LDLG)",
       "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
@@ -3988,7 +4086,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 142240,
       "name": "El Flaquito",
       "url": "https://open.spotify.com/track/5DzZO7t61t9gihMcwVfkNK"
@@ -5180,7 +5278,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 218133,
       "name": "El Vino Y La Parranda - En Vivo",
       "url": "https://open.spotify.com/track/6gwhyMEjsIk8g9bInnVL1a"
@@ -5334,7 +5432,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 158293,
       "name": "En Los Puritos Huesos",
       "url": "https://open.spotify.com/track/33w6MMIgoZ5IaGUfrkXROU"
@@ -5712,6 +5810,24 @@
       "duration_ms": 219855,
       "name": "Feliz, Feliz - Live",
       "url": "https://open.spotify.com/track/6DkjoClnR4PMMFer8XJs5n"
+    },
+    {
+      "album": {
+        "name": "Filoso (En Vivo)",
+        "url": "https://open.spotify.com/album/7miTqjBBnESsoXjCeLjqn3"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160053,
+      "name": "Filoso - En Vivo",
+      "url": "https://open.spotify.com/track/7u08achRn0BC71wAFOwuUq"
     },
     {
       "album": {
@@ -6584,6 +6700,28 @@
       "duration_ms": 135585,
       "name": "La Caguama - En Vivo",
       "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
+    },
+    {
+      "album": {
+        "name": "La Calabaza (En Vivo)",
+        "url": "https://open.spotify.com/album/0Ud5RnzqNno2zOiPzGDnDy"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        },
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198773,
+      "name": "La Calabaza - En Vivo",
+      "url": "https://open.spotify.com/track/2awTRSkyXczxpvXLHCIh4Y"
     },
     {
       "album": {
@@ -8168,7 +8306,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 192906,
       "name": "Los Ninis - En Vivo",
       "url": "https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W"
@@ -8952,7 +9090,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 259828,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/6tbPyJ4yVaSjZjHz2R99V6"
@@ -9138,7 +9276,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 193365,
       "name": "No Hay Novedad - Boleros De Siempre (En Vivo)",
       "url": "https://open.spotify.com/track/6AVnsX6L4MTDtFNXriHYIM"
@@ -9244,6 +9382,24 @@
       "duration_ms": 162500,
       "name": "No Me Falten Al Respeto (En Vivo)",
       "url": "https://open.spotify.com/track/3emzOQZynRBtP3DVFg8xJA"
+    },
+    {
+      "album": {
+        "name": "No Me Queda M\u00e1s (En Vivo Desde el Estudio)",
+        "url": "https://open.spotify.com/album/2Z1yOV5FFLJcNf1D3HYlW6"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214965,
+      "name": "No Me Queda M\u00e1s - En Vivo Desde el Estudio",
+      "url": "https://open.spotify.com/track/444JIEoF1HR1DtOdKa4bNq"
     },
     {
       "album": {
@@ -9956,7 +10112,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 214450,
       "name": "Por Tu Amor - En Vivo",
       "url": "https://open.spotify.com/track/4GRv5hfZL6FqDSKNCugqzI"
@@ -10502,6 +10658,28 @@
       "duration_ms": 176089,
       "name": "Rosones - En Vivo",
       "url": "https://open.spotify.com/track/6TVycsgDIVIEaQZORMnA4G"
+    },
+    {
+      "album": {
+        "name": "San Lunes (En Vivo)",
+        "url": "https://open.spotify.com/album/524CxunjXzjqwMlKDZ3Stn"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252617,
+      "name": "San Lunes - En Vivo",
+      "url": "https://open.spotify.com/track/0Yw6um7WOwJItDNTvU9e8Q"
     },
     {
       "album": {
@@ -11210,7 +11388,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 198493,
       "name": "Tambi\u00e9n Me Llamo Ismael - En Vivo",
       "url": "https://open.spotify.com/track/4KSaVHKlMWTruKxzUX12uY"
@@ -11955,6 +12133,24 @@
     },
     {
       "album": {
+        "name": "En vivo desde santa Maria del oro Nayarit",
+        "url": "https://open.spotify.com/album/1TQ0cTlJTrh78vetFnMGMY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178288,
+      "name": "Ven porque te necesito",
+      "url": "https://open.spotify.com/track/1qtgr7fV8K4DNwpAgIVFbX"
+    },
+    {
+      "album": {
         "name": "Vengo a Aclarar (En Vivo)",
         "url": "https://open.spotify.com/album/1OJEkIPywlcNiuCzmXE9Lj"
       },
@@ -12068,6 +12264,24 @@
       "duration_ms": 135331,
       "name": "Y Como Quieres Que Te Quiera - En Vivo",
       "url": "https://open.spotify.com/track/3xHApNq02xkFuriZi2rGVx"
+    },
+    {
+      "album": {
+        "name": "Y Como Quieres Que Te Quiera/El Solterito (En Vivo)",
+        "url": "https://open.spotify.com/album/3yxtVu974JUY0rLhwtGtdk"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Y Como Quieres Que Te Quiera/El Solterito - En Vivo",
+      "url": "https://open.spotify.com/track/2zjy36PMI7HGFmP0nqhRXx"
     },
     {
       "album": {
@@ -12250,6 +12464,24 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+    },
+    {
+      "album": {
+        "name": "Ya No Te Hago Falta (En Vivo)",
+        "url": "https://open.spotify.com/album/3Z2K0Gm2RgFSUsRwANOqCE"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197781,
+      "name": "Ya No Te Hago Falta - En Vivo",
+      "url": "https://open.spotify.com/track/3tUosAsEBAYsmSzYxun1he"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Sakis Rouvas",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Claydee, Rena Morfi",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -1204,6 +1204,32 @@
       "duration_ms": 154400,
       "name": "Ballaro Xana",
       "url": "https://open.spotify.com/track/2imtO14NPFxuiHIRXPvo3J"
+    },
+    {
+      "album": {
+        "name": "BEYONC\u00c9",
+        "url": "https://open.spotify.com/album/3JysBTsuV4EYp6pX6U4PT0"
+      },
+      "artists": [
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159849,
+      "name": "BEYONC\u00c9",
+      "url": "https://open.spotify.com/track/1Xg8TwV1fuooICDTuOA9fN"
     },
     {
       "album": {
@@ -3357,6 +3383,28 @@
     },
     {
       "album": {
+        "name": "KAKOS EAFTOS",
+        "url": "https://open.spotify.com/album/2An0UCaage6udJdy4PrBQ8"
+      },
+      "artists": [
+        {
+          "name": "FEVERTOOHIGH",
+          "url": "https://open.spotify.com/artist/14jDG1IsRNgbwp44uyJV81"
+        },
+        {
+          "name": "HIT MACHINE",
+          "url": "https://open.spotify.com/artist/5sf5nJwxeeMgsYlNsa0oX4"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275510,
+      "name": "KAKOS EAFTOS",
+      "url": "https://open.spotify.com/track/4iErn0oXVMVnIk2tqUFaUI"
+    },
+    {
+      "album": {
         "name": "Kalinixta",
         "url": "https://open.spotify.com/album/2KmVPAlqvFAUyBdXv1NlqO"
       },
@@ -3536,7 +3584,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 231130,
       "name": "Keno",
       "url": "https://open.spotify.com/track/5bIY2tipWqaLOBanuPL4sF"

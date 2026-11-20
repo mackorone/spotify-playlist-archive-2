@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,437 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,431 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 57 | [Colores](https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Flor de Biznaga](https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J) | 6:10 |
 | 58 | [Monton de Tierra](https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA) | [Regina Orozco](https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM) | [Rosa Mexicano](https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw) | 2:44 |
 | 59 | [Décimas a La Muerte](https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:58 |
-| 60 | [Mictlán](https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9) | [Timoneki](https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW) | [Timoneki](https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO) | 4:36 |
-| 61 | [Que Me Importa Morir](https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f) | [Wilbert Pere y Mariachi Tanampa](https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n) | [Día de los Muertos: El Mariachi](https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB) | 3:21 |
-| 62 | [Sus Ojos Se Cerraron](https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mano a Mano \- Tangos a la Manera de Vicente Fernández](https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC) | 3:46 |
-| 63 | [La llorona](https://open.spotify.com/track/45rQqSqb95p5lkZy13Tl1u) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [La Llorona](https://open.spotify.com/album/1UdavcEuofRFCq2Mq2278f) | 8:31 |
-| 64 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
-| 65 | [Muerte Querida \- Remasterizado 2008](https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:18 |
+| 60 | [La llorona](https://open.spotify.com/track/45rQqSqb95p5lkZy13Tl1u) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [La Llorona](https://open.spotify.com/album/1UdavcEuofRFCq2Mq2278f) | 8:31 |
+| 61 | [Mictlán](https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9) | [Timoneki](https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW) | [Timoneki](https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO) | 4:36 |
+| 62 | [Que Me Importa Morir](https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f) | [Wilbert Pere y Mariachi Tanampa](https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n) | [Día de los Muertos: El Mariachi](https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB) | 3:21 |
+| 63 | [Sus Ojos Se Cerraron](https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mano a Mano \- Tangos a la Manera de Vicente Fernández](https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC) | 3:46 |
+| 64 | [Muerte Querida \- Remasterizado 2008](https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:18 |
+| 65 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
 | 66 | [A Mi Me Mató La Vida](https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 4:04 |
 | 67 | [Se le apagó la luz \- Versión Básico](https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Basico](https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF) | 4:36 |
 | 68 | [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [Espectro \- En Vivo Desde Cuba](https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Athanai](https://open.spotify.com/artist/7MIemSpbjGiDPJP0SSyF68), [Dayron Ortiz](https://open.spotify.com/artist/2bwwrFM6oWJ4sdKHFaYhKI) | [Espectro \(En Vivo Desde Cuba\)](https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh) | 4:28 |
 | 100 | [Calaveritas](https://open.spotify.com/track/3kvZCUYzkTDGsxeH0bc1nE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Calaveritas](https://open.spotify.com/album/0rX8OoxkHuZDff1UmIhMco) | 4:20 |
 
-Snapshot ID: `AAAAAEpIoG5ou1U9GURi6nLbPGhjgowN`
+Snapshot ID: `AAAAAKu1YwrizGMU3roJH5kWpa2yp9u/`

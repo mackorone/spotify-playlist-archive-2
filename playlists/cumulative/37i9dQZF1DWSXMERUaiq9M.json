@@ -2939,6 +2939,36 @@
     },
     {
       "album": {
+        "name": "Cooked",
+        "url": "https://open.spotify.com/album/7E9T9xwBGTbhTz97R1Pac4"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        },
+        {
+          "name": "MDDLTN",
+          "url": "https://open.spotify.com/artist/4E7dMxp4SghhM5iFqEJLN5"
+        },
+        {
+          "name": "Nico La Nova",
+          "url": "https://open.spotify.com/artist/0lTU6uFgbYZ37bZDNy0pbK"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203782,
+      "name": "Cooked",
+      "url": "https://open.spotify.com/track/3yVtaxEMLQFqDJppY9Zhlk"
+    },
+    {
+      "album": {
         "name": "Cool Kids",
         "url": "https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh"
       },
@@ -3406,6 +3436,32 @@
       "duration_ms": 220645,
       "name": "Dark Places",
       "url": "https://open.spotify.com/track/4PKqgr1RUnfzhHAwLwwpEn"
+    },
+    {
+      "album": {
+        "name": "Dark Reflection",
+        "url": "https://open.spotify.com/album/7LHLGNLQHIRFmNGKzuHSrs"
+      },
+      "artists": [
+        {
+          "name": "Linds",
+          "url": "https://open.spotify.com/artist/6ZGqNbBtVrSU2EgalYQksc"
+        },
+        {
+          "name": "Tom Carroll",
+          "url": "https://open.spotify.com/artist/0HhkKgvROcEteI6vfUjvbv"
+        },
+        {
+          "name": "Astrid James",
+          "url": "https://open.spotify.com/artist/5JCfpZxK6ir2Gj4X4pBKcJ"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160641,
+      "name": "Dark Reflection",
+      "url": "https://open.spotify.com/track/3aJ6HfonVYFj6zqXkhCEJ8"
     },
     {
       "album": {
@@ -5838,7 +5894,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 158366,
       "name": "GABBER",
       "url": "https://open.spotify.com/track/5GBJ5IejaFwNyG8EkqafvH"
@@ -6208,6 +6264,24 @@
       "duration_ms": 176516,
       "name": "Girls Go Freak",
       "url": "https://open.spotify.com/track/7bczhNQjOjzPO5lgZec3LV"
+    },
+    {
+      "album": {
+        "name": "GIVE IT ALL",
+        "url": "https://open.spotify.com/album/4pVpQPuzGwnO0DMskppWwC"
+      },
+      "artists": [
+        {
+          "name": "Bruno Brero",
+          "url": "https://open.spotify.com/artist/1QhdMPjpZukcfa9gHJOlAO"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235135,
+      "name": "GIVE IT ALL",
+      "url": "https://open.spotify.com/track/3gcdHLFb1ccB8MKhuYxjbE"
     },
     {
       "album": {
@@ -7574,6 +7648,24 @@
       "duration_ms": 280010,
       "name": "Ich bin ready - DJ Gigola Version",
       "url": "https://open.spotify.com/track/2vVC5wEtP5klz59i8HO2j9"
+    },
+    {
+      "album": {
+        "name": "IDONTLIK\u20acTOTALKTOP\u20acOPL\u20ac",
+        "url": "https://open.spotify.com/album/5IUPaiavKY5JXNmNbkfKS5"
+      },
+      "artists": [
+        {
+          "name": "TEER",
+          "url": "https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165677,
+      "name": "IDONTLIK\u20acTOTALKTOP\u20acOPL\u20ac",
+      "url": "https://open.spotify.com/track/4JskhKmyPK5XLdnsMKD8x0"
     },
     {
       "album": {
@@ -9610,7 +9702,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 129290,
       "name": "Make It Bounce",
       "url": "https://open.spotify.com/track/4a11jmFi30269xDsvA8r5T"
@@ -10982,7 +11074,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 124645,
       "name": "No Baile",
       "url": "https://open.spotify.com/track/2g9jXqnE9w8PnJ8uISKCo8"
@@ -11708,7 +11800,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213040,
       "name": "Orion",
       "url": "https://open.spotify.com/track/4hzClQdHVNaaz789S9imLy"
@@ -11824,6 +11916,24 @@
       "duration_ms": 224698,
       "name": "Pain in my Heart",
       "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
+    },
+    {
+      "album": {
+        "name": "pal pari",
+        "url": "https://open.spotify.com/album/5rVlQovqbO7xyNmhUUd2W9"
+      },
+      "artists": [
+        {
+          "name": "Cleopard2000",
+          "url": "https://open.spotify.com/artist/32EPfJgEPYMc9W0qTJPGjl"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296058,
+      "name": "pal pari",
+      "url": "https://open.spotify.com/track/6B2rU1lOIbDrVYrU0j4te1"
     },
     {
       "album": {
@@ -14968,7 +15078,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 228500,
       "name": "Supersonic Pleasure",
       "url": "https://open.spotify.com/track/3Gcg88gJhOJy6xZfbcPRNd"

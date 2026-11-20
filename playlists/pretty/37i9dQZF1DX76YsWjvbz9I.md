@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,093 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,126 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 18 | [That's Amore](https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Capitol Years](https://open.spotify.com/album/31Mwr76okDPhxDxK6OaL1N) | 3:08 |
 | 19 | [All The Things You Are](https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ella Fitzgerald Sings The Jerome Kern Song Book](https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx) | 3:15 |
 | 20 | [It Had to Be You](https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 2:13 |
-| 21 | [Like Someone In Love \- Vocal Version](https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:26 |
-| 22 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
+| 21 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
+| 22 | [Like Someone In Love \- Vocal Version](https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:26 |
 | 23 | [This Is Always](https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 3:11 |
 | 24 | [They Can't Take That Away From Me](https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:40 |
 | 25 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 79 | [The Song Is You](https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:12 |
 | 80 | [Dedicated to You \- Remastered 2003](https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Sarah \- Dedicated to You](https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ) | 6:02 |
 | 81 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 3:26 |
-| 82 | [Then I'll Be Tired Of You](https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:19 |
-| 83 | [Come Rain or Come Shine](https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad) | [On the Sunny Side of the Street](https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq) | 2:22 |
+| 82 | [Come Rain or Come Shine](https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad) | [On the Sunny Side of the Street](https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq) | 2:22 |
+| 83 | [Then I'll Be Tired Of You](https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:19 |
 | 84 | [If You Were Mine](https://open.spotify.com/track/35fAfaeEMDKYWOnZGDr6NG) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Etta Jones \- A Collection](https://open.spotify.com/album/4KV996XKJaCh6Pkflm68Xh) | 2:43 |
 | 85 | [Have You Met Miss Jones](https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Can't Resist You \- My Summer Love](https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K) | 2:05 |
 | 86 | [Wait 'Til You See Her](https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM) | [Matt Dennis](https://open.spotify.com/artist/518N7qPrUx1WQJTl0IZC3I) | [Matt Dennis \- Four Complete Albums](https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [L\-O\-V\-E \- 2004 \- Remastered](https://open.spotify.com/track/5QjNF4TMjF2E72D3nAIty6) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The World Of Nat King Cole \- His Very Best \(UK Import Edition\)](https://open.spotify.com/album/0pBFpiQv2SmHShiysxDedE) | 2:34 |
 | 100 | [A Time For Love](https://open.spotify.com/track/4j6agW1zyunmyp6IYJZQyB) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz) | 5:06 |
 
-Snapshot ID: `AAAAACFWhA+gXjvnpxyOf2m5Q7BHoeIk`
+Snapshot ID: `AAAAABk4R6AcXJeVskYIp5uRghT4eCXc`

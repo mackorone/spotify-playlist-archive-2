@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment avec Charlotte Cardin
+> Voici les hits du moment avec Alicia Moffet
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,268 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,262 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sans toi](https://open.spotify.com/track/4GFVmYyDm3pkJGqFvlIloY) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Sans toi](https://open.spotify.com/album/4xZ2MjtkRJV4GBFxV6X9AE) | 3:08 |
-| 2 | [Super bien!](https://open.spotify.com/track/3t2ya5ED1KFuHVmpn0o5Az) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Super bien!](https://open.spotify.com/album/77W5QOajnFZoldYWtIqq7I) | 3:35 |
-| 3 | [Pas grand\-chose](https://open.spotify.com/track/07LkGMZyy6UvO6dmfz0p3z) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pas grand\-chose](https://open.spotify.com/album/0B8j0ykzxeakv1pgJfkWnn) | 3:26 |
+| 2 | [Pas grand\-chose](https://open.spotify.com/track/07LkGMZyy6UvO6dmfz0p3z) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pas grand\-chose](https://open.spotify.com/album/0B8j0ykzxeakv1pgJfkWnn) | 3:26 |
+| 3 | [Super bien!](https://open.spotify.com/track/3t2ya5ED1KFuHVmpn0o5Az) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Super bien!](https://open.spotify.com/album/77W5QOajnFZoldYWtIqq7I) | 3:35 |
 | 4 | [Memories \(Souvenirs\)](https://open.spotify.com/track/3aeUQy1XOaR9noelLJhZwZ) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Memories](https://open.spotify.com/album/7CheQyCUw5eah8GradRZ4q) | 3:04 |
-| 5 | [Fancy Footwork](https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR) | 3:12 |
+| 5 | [Brokie](https://open.spotify.com/track/2IuiVOploNTYCiJI30PJdw) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Brokie](https://open.spotify.com/album/4TpAHIAKmLrbn66UOmvu4c) | 2:14 |
 | 6 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
 | 7 | [Patient Zero](https://open.spotify.com/track/49JeKZqejPtqJKpK7x9Ew4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Patient Zero](https://open.spotify.com/album/3r3lR28Ybv6d5N5DPWfQ1L) | 3:45 |
 | 8 | [Rien d'plus beau](https://open.spotify.com/track/4LSoonoDaI9wC1pySjuvtg) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1) | [Rien d'plus beau](https://open.spotify.com/album/6RZKnyEwedtnSHUscjQwpf) | 3:27 |
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 15 | [Kiss My Glass \(version française\) \[feat\. Marie\-Mai\]](https://open.spotify.com/track/2KENKXHWak667JKh1ulxKn) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Kiss My Glass \(version française\) \[feat\. Marie\-Mai\]](https://open.spotify.com/album/2YazwcERQrgqYdMeOnOeCe) | 2:52 |
 | 16 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 |
 | 17 | [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 |
-| 18 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
-| 19 | [Mademoiselle](https://open.spotify.com/track/6l6bh1BetpFBtKZRhNIN2v) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mademoiselle](https://open.spotify.com/album/5OCHnxfcb5Rgi3SmDsZJEJ) | 3:17 |
-| 20 | [Take Me Back \(Leave Me There\)](https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Take Me Back \(Leave Me There\)](https://open.spotify.com/album/0RpCm1c0cVxRZ8C6wrKho3) | 2:58 |
-| 21 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
+| 18 | [Mademoiselle](https://open.spotify.com/track/6l6bh1BetpFBtKZRhNIN2v) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mademoiselle](https://open.spotify.com/album/5OCHnxfcb5Rgi3SmDsZJEJ) | 3:17 |
+| 19 | [Take Me Back \(Leave Me There\)](https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Take Me Back \(Leave Me There\)](https://open.spotify.com/album/0RpCm1c0cVxRZ8C6wrKho3) | 2:58 |
+| 20 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
+| 21 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
 | 22 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
 | 23 | [Où on dansait autrefois](https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [L'amour](https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5) | 2:55 |
 | 24 | [Emmêlé dans ses ch'veux](https://open.spotify.com/track/5jwqiVZBqEsNCup6rcx9rU) | [JF Pauzé](https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d) | [Les amours de seconde main](https://open.spotify.com/album/3Hesk7w0WcahDmMjpTybob) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 49 | [Tu seul](https://open.spotify.com/track/3YNMOtv15BakUjuZT6ADoR) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [Qu'acoustis\-je Qu'ouïs\-je Qu'entends\-je](https://open.spotify.com/album/5TLDAGC0vjuDSg1GCuRfPq) | 5:21 |
 | 50 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
 
-Snapshot ID: `AAAAAITosFzKX010j104wh2K8NgTrkEH`
+Snapshot ID: `AAAAAErfQiqJNXgpygqibIaahTxHtjAy`

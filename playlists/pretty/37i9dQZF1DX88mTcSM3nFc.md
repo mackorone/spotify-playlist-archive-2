@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,336 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,433 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 28 | [Please Come Home For Christmas](https://open.spotify.com/track/2UTO3vuKleiyHjOGX1dppL) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Sings Christmas Songs](https://open.spotify.com/album/0sYk8ncYCqrrJPKeGiBwKL) | 2:50 |
 | 29 | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL) | 3:41 |
 | 30 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
-| 31 | [River](https://open.spotify.com/track/3OHTX3Kf5qOOPwGepi5xe8) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Music From The Netflix Original Series The Politician](https://open.spotify.com/album/5Gik4usNaiTLBzBimuIEpJ) | 4:07 |
-| 32 | [Last Christmas](https://open.spotify.com/track/6KVbGwEeQU6OOFNImlaT3b) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Last Christmas](https://open.spotify.com/album/4awqPGIwUO1svryLMY43KR) | 2:28 |
+| 31 | [Last Christmas](https://open.spotify.com/track/6KVbGwEeQU6OOFNImlaT3b) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Last Christmas](https://open.spotify.com/album/4awqPGIwUO1svryLMY43KR) | 2:28 |
+| 32 | [River](https://open.spotify.com/track/3OHTX3Kf5qOOPwGepi5xe8) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Music From The Netflix Original Series The Politician](https://open.spotify.com/album/5Gik4usNaiTLBzBimuIEpJ) | 4:07 |
 | 33 | [What Child Is This? \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5pHVGMJY8zuukdIAPpT1vj) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas \(with Percy Faith & His Orchestra\)](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 3:58 |
 | 34 | [Christmas Makes Me Cry](https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 2:50 |
 | 35 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 42 | [Whatever Happened To Christmas?](https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Jimmy Joyce Singers](https://open.spotify.com/artist/1M0wdYIdPlJz4Q0ZZjqdbt) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:06 |
 | 43 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 |
 | 44 | [What Do The Lonely Do At Christmas?](https://open.spotify.com/track/4qXgtbu9ZIAhcWVKCwOL72) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Christmas In Soulsville](https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN) | 3:27 |
-| 45 | [The Bells of St\. Mary's \- 45 Version](https://open.spotify.com/track/2W7S8BIesug04Wr1AdAalQ) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [White Christmas / The Bells of St\. Mary's](https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC) | 2:40 |
-| 46 | [The Coldest Night of the Year](https://open.spotify.com/track/4G1riMW9K3O9nI49UawBIX) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 3:34 |
+| 45 | [The Coldest Night of the Year](https://open.spotify.com/track/4G1riMW9K3O9nI49UawBIX) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 3:34 |
+| 46 | [The Bells of St\. Mary's \- 45 Version](https://open.spotify.com/track/2W7S8BIesug04Wr1AdAalQ) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [White Christmas / The Bells of St\. Mary's](https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC) | 2:40 |
 | 47 | [This Time Last Year](https://open.spotify.com/track/4wUhXOfV4hqNTurbJkWOU9) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [This Time Last Year](https://open.spotify.com/album/09LBtelS62mavkNWHg325x) | 3:45 |
 | 48 | [The Ghost of New Years Past](https://open.spotify.com/track/5DwWcIrYo4GgqJjxYW47nD) | [Book On Tape Worm](https://open.spotify.com/artist/7K1NlbQTUisk7RbqVHMaVJ) | [The Ghost of New Years Past](https://open.spotify.com/album/1dOgArn4bahlWfPsZKK8C5) | 5:41 |
 | 49 | [Just A Lonely Christmas \- Bonus Track / 2015 Mix Version](https://open.spotify.com/track/1Ph3qvqLo8696FOf4W9iAS) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:29 |
 | 50 | [Another Lonely Christmas](https://open.spotify.com/track/26F1nzp6tCtXsiDcBCfZcg) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ) | 4:53 |
 
-Snapshot ID: `AAAAALFeS9btsK7ZZiJlAxpR6uOhHAF6`
+Snapshot ID: `AAAAANUtsn18f1ox0h7xE+bmJ3Dl3RMU`

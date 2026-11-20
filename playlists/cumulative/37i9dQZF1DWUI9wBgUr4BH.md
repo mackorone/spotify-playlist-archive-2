@@ -2,9 +2,9 @@
 
 ### [Futurs Hits](https://open.spotify.com/playlist/37i9dQZF1DWUI9wBgUr4BH)
 
-> Les hits de demain sont déjà ici\. Photo :  SIENNA SPIRO
+> Les hits de demain sont déjà ici\. Photo :  Eddy de Pretto
 
-923 songs - 1 day 22 hr 2 min
+925 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 | 2025-02-13 | 2025-02-28 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-04 | 2024-08-09 |
 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2024-11-22 | 2025-02-14 |
-| [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-11-05 |  |
+| [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-11-05 | 2026-11-20 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-17 | 2023-10-06 |
 | [GTB](https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ), [FLEM KGB](https://open.spotify.com/artist/2nnza2r2urV90Ykr5Sfnsi) | [Faits Divers](https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51) | 2:56 | 2023-07-27 | 2023-08-22 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-08 | 2024-10-26 |
@@ -517,6 +517,7 @@
 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 | 2025-10-09 | 2025-10-17 |
 | [Melrose Place](https://open.spotify.com/track/0TYTQ9vAJM0q4qT1mzDeFq) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Melrose Place](https://open.spotify.com/album/0FAFFUdI9WV0PypgJLMkYP) | 2:36 | 2025-04-24 | 2025-05-16 |
 | [Memories](https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Memories](https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD) | 2:35 | 2023-10-20 | 2023-12-08 |
+| [Memories \(Souvenirs\)](https://open.spotify.com/track/1oiid8PZMSK5qVRuyEjYhE) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Memories](https://open.spotify.com/album/7M9zFplzAQzufH2AlJHCe8) | 3:04 | 2026-11-19 |  |
 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 | 2023-11-23 | 2024-01-26 |
 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-12-26 | 2025-01-10 |
 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-24 | 2023-09-09 |
@@ -764,6 +765,7 @@
 | [Soon \(feat\. Gaëtan Roussel\)](https://open.spotify.com/track/4vbuk1D3adU4GjFLAjIYwQ) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Soon \(feat\. Gaëtan Roussel\)](https://open.spotify.com/album/3uZ42zrAW1vonT8olC4Dui) | 2:31 | 2026-08-13 | 2026-09-11 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-27 | 2025-04-18 |
 | [Sorry Papi](https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Sorry Papi](https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk) | 2:50 | 2026-06-25 |  |
+| [sous influence](https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [sous influence](https://open.spotify.com/album/0AZn8rDfgVMki7b14gtJzP) | 3:06 | 2026-11-19 |  |
 | [SPA](https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [SPA](https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd) | 3:03 | 2026-01-15 | 2026-01-30 |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-07-27 | 2023-08-22 |
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-16 | 2024-05-24 |
@@ -779,7 +781,7 @@
 | [Stigmate \- Radio Edit](https://open.spotify.com/track/3U4bK2tYfVTZrcXJRp3gfY) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/4AqueaxcLjHpLQJpouOGSZ) | 2:25 | 2023-12-21 | 2024-01-26 |
 | [Still Cutting Shapes](https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Still Cutting Shapes](https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1) | 2:28 | 2023-08-21 | 2023-09-18 |
 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 | 2024-11-14 | 2025-02-28 |
-| [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 | 2026-11-12 |  |
+| [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 | 2026-11-12 | 2026-11-20 |
 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 | 2026-05-28 | 2026-10-02 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-05 | 2023-09-18 |
 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-11 | 2024-04-26 |

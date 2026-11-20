@@ -4,7 +4,7 @@
 
 > DJ HEARTSTRING album is finally outtttt 💘
 
-1,403 songs - 3 day 11 hr 34 min
+1,404 songs - 3 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Azul](https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Azul](https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4) | 3:46 | 2025-07-04 |  |
 | [B2U](https://open.spotify.com/track/1WLgmt7qEvlZFjtG95FIOM) | [Luke Bond](https://open.spotify.com/artist/13jm4r5O79Vxjy3zzZ51j0), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [B2U](https://open.spotify.com/album/1Kf43ia9vaApEvqlA52tkR) | 2:51 | 2024-01-26 | 2024-10-26 |
 | [Babylon](https://open.spotify.com/track/71Pmye31kkN12PiUug7xcP) | [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Babylon](https://open.spotify.com/album/6jG20c1eFYq7vwFaBmzFhv) | 3:37 | 2023-09-22 | 2024-10-26 |
+| [Back 2 Basics](https://open.spotify.com/track/2qOAPQHnLnmdGeMzpPgdLg) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Back 2 Basics](https://open.spotify.com/album/7j8isPHDehSK7vvzX8a7cG) | 3:36 | 2026-11-20 |  |
 | [Back To Life](https://open.spotify.com/track/6DlKclVrMHUVwdJpe2HAyC) | [Audorn](https://open.spotify.com/artist/3vpObPX3081idCIxwXiXq1), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Back To Life](https://open.spotify.com/album/2MYel0e3VsNOfLSi7dHrEL) | 4:20 | 2025-03-07 | 2026-03-08 |
 | [Back To Life](https://open.spotify.com/track/49gSNB9go1HdREQ9X2tAs4) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Connect](https://open.spotify.com/album/4VI4ooW0RGfpXLCaIODcXP) | 2:49 | 2024-11-22 | 2025-03-22 |
 | [Back To My Love](https://open.spotify.com/track/0onLNYV4aYuSQb8wPxR0O0) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Back To My Love](https://open.spotify.com/album/15DIdaAn3pfC5uETbGsUSF) | 6:41 | 2022-04-29 | 2023-03-04 |
@@ -1222,7 +1223,7 @@
 | [The Noise](https://open.spotify.com/track/4QnuA5FLmiMBcEYywQBurT) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [GXD](https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [The Noise](https://open.spotify.com/album/6ockzR5NjwmHRUtdMzLVsY) | 2:59 | 2024-02-16 | 2025-03-22 |
 | [The One](https://open.spotify.com/track/2BsRHQPotgpiV00haQ6gXx) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [The One](https://open.spotify.com/album/5VquxCAeY8D1Qp1NSdprso) | 3:00 | 2025-04-04 | 2025-05-03 |
 | [The Only Way](https://open.spotify.com/track/3LiU1IMIbzPR5MpOmo8HDt) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW), [Numa](https://open.spotify.com/artist/7jCganF9yBJtcZRZjqQInS) | [The Only Way](https://open.spotify.com/album/3kZFD66EdrT0d68PRzLjNM) | 4:46 | 2022-09-23 | 2023-08-19 |
-| [The Orange Theme](https://open.spotify.com/track/3s0mUcA2Y6NitFgvixRRPT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Tai Woffinden](https://open.spotify.com/artist/7hHvec5hQk2LtFSe1pIDU3), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [The Orange Theme](https://open.spotify.com/album/3qfoTfu82HfZQjY6xijaiw) | 3:06 | 2025-07-04 |  |
+| [The Orange Theme](https://open.spotify.com/track/3s0mUcA2Y6NitFgvixRRPT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Tai Woffinden](https://open.spotify.com/artist/7hHvec5hQk2LtFSe1pIDU3), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [The Orange Theme](https://open.spotify.com/album/3qfoTfu82HfZQjY6xijaiw) | 3:06 | 2025-07-04 | 2026-11-20 |
 | [The Other Side](https://open.spotify.com/track/4sgY77B5U5XtiTuSYLGqVi) | [Chris Schweizer](https://open.spotify.com/artist/2OEfOu8gvperJc2LcqGsjc) | [The Other Side](https://open.spotify.com/album/5yaFmn36b51PCPYhxzWH26) | 3:53 | 2022-02-04 | 2023-02-25 |
 | [The Party](https://open.spotify.com/track/3KyY9JXWhuNBTCZFwcFlqN) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Shelby Merry](https://open.spotify.com/artist/4DJi6jgWrFlxw7HnRqznmd) | [The Party](https://open.spotify.com/album/54zZsR3JGhPE6fyGEiy7hB) | 3:39 | 2025-01-24 | 2025-09-20 |
 | [The Perfect Storm](https://open.spotify.com/track/6G3brJYNiN6OwHteVwsY1n) | [NoMosk](https://open.spotify.com/artist/4vxZWI0BIvfEPY4wLpWIzi) | [The Perfect Storm](https://open.spotify.com/album/4kSNwJDgOwdHuTPLdlFVW4) | 3:59 | 2022-02-18 | 2022-09-27 |

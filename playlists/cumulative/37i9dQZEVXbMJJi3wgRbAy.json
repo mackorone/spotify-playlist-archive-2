@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 156058,
       "name": "Al Golpito",
       "url": "https://open.spotify.com/track/4j1v2lP0ZFnNgAsbM36ySJ"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 184074,
       "name": "Amor Fugaz",
       "url": "https://open.spotify.com/track/5udFc94o8893fQQ6NZR1Aj"
@@ -9562,7 +9562,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 203181,
       "name": "Eleg\u00ed (Cumbia)",
       "url": "https://open.spotify.com/track/2eBFFRjfuo52CTrlgP5hp0"
@@ -13850,7 +13850,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 185000,
       "name": "La Historia | Variet\u00e9 #8",
       "url": "https://open.spotify.com/track/4wjM89LjqX8eStqmjGmUk0"
@@ -15388,7 +15388,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Loco Enamorado I Variet\u00e9 #4",
       "url": "https://open.spotify.com/track/0UaxhDrvCVcCWCqYQUeeFF"
@@ -20329,6 +20329,32 @@
     },
     {
       "album": {
+        "name": "Para La Gilada (Remix)",
+        "url": "https://open.spotify.com/album/27r4d2S6tSMdRxkou6ZCyU"
+      },
+      "artists": [
+        {
+          "name": "Meta Guacha",
+          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "Para La Gilada - Remix",
+      "url": "https://open.spotify.com/track/7oRXN6etpQGWG2yAnQFzVB"
+    },
+    {
+      "album": {
         "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
         "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
       },
@@ -22830,7 +22856,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 161071,
       "name": "Que Buena Suerte",
       "url": "https://open.spotify.com/track/1pZRvB6VB3LCTNXnKneufa"
@@ -25480,7 +25506,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 161448,
       "name": "Si Te Pillara",
       "url": "https://open.spotify.com/track/01Mw7yl7C17RpDpUDcogQ5"
@@ -26638,7 +26664,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160620,
       "name": "TAPA LA CARA",
       "url": "https://open.spotify.com/track/5RFLmBGJbcD5nFHFYA3FXo"

@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 213333,
       "name": "Am intrebat un om (Nebunu)",
       "url": "https://open.spotify.com/track/2Qvl3q2nNNDAOHuT652h5w"
@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 147477,
       "name": "Amo, Amo",
       "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
@@ -6403,6 +6403,28 @@
     },
     {
       "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "album": {
         "name": "The Best Of BTS (Korea Edition)",
         "url": "https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh"
       },
@@ -8730,7 +8752,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 218164,
       "name": "Ce Intrari Avem",
       "url": "https://open.spotify.com/track/0zrVEuNAcZFPvVw6uIQO0g"
@@ -9764,7 +9786,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 173478,
       "name": "Cine te sun\u0103?",
       "url": "https://open.spotify.com/track/2iv0HFAp8FNzH35irvm78r"
@@ -13844,7 +13866,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 234335,
       "name": "Doamna \u0219i bagabontul",
       "url": "https://open.spotify.com/track/7JIEIvRECouEaAHOQH0pPp"
@@ -16088,7 +16110,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-19",
+      "date_removed": null,
       "duration_ms": 161843,
       "name": "Eu plec cu ea",
       "url": "https://open.spotify.com/track/6Kb5cFq5B3hGj5WPNSTg1T"
@@ -16766,7 +16788,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 142000,
       "name": "FARMACISTA",
       "url": "https://open.spotify.com/track/0QGHB3naWsYs9Sz70RjkZ2"
@@ -17640,6 +17662,40 @@
       "duration_ms": 226391,
       "name": "Florin Salam",
       "url": "https://open.spotify.com/track/1nbqe9tUVAsdd4W3vBLl5q"
+    },
+    {
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "album": {
@@ -24372,7 +24428,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 184160,
       "name": "Jamaica - Live",
       "url": "https://open.spotify.com/track/4IbwrJnzm9udi46ear9lTC"
@@ -29836,7 +29892,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-17",
+      "date_removed": null,
       "duration_ms": 209957,
       "name": "Mesaje diminea\u021ba",
       "url": "https://open.spotify.com/track/1wyENx3L7pUx7guf0fXhJk"
@@ -30018,7 +30074,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 160122,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/2fpArW4gdskbBMyeNSmhJ4"
@@ -31714,7 +31770,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 189000,
       "name": "M\u0103 sun\u0103 nebunele",
       "url": "https://open.spotify.com/track/14WRFJcCJpyQnPAj4hv7O7"
@@ -36244,7 +36300,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 127187,
       "name": "PETER PARKER",
       "url": "https://open.spotify.com/track/6wkXctZWq1e1L9p9nXYq1P"
@@ -44684,7 +44740,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 214649,
       "name": "STIU CA TI-E DOR",
       "url": "https://open.spotify.com/track/2PQDJhSNFJE1YM1lxTSZk9"
@@ -45782,7 +45838,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -45902,7 +45958,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -46018,7 +46074,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 196285,
       "name": "S\u0103 nu ui\u021bi c\u00e2t te-am iubit",
       "url": "https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6"
@@ -49190,7 +49246,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"

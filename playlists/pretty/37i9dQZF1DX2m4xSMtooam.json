@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of bossa nova.",
-  "num_followers": 408301,
+  "num_followers": 408411,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ690ezaMxa3vv6/v8s6e6CoYzAC",
+  "snapshot_id": "AAAAAOrrfs2fQ6BwXomTn3NbhkVKfKTr",
   "tracks": [
     {
       "added_at": "2026-10-23 13:09:09",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Cosme Velho",
-        "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
-      },
-      "artists": [
-        {
-          "name": "El Equipo Del Norte",
-          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
-        }
-      ],
-      "duration_ms": 173943,
-      "name": "Cosme Velho",
-      "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 186000,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Cosme Velho",
+        "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
+      },
+      "artists": [
+        {
+          "name": "El Equipo Del Norte",
+          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+        }
+      ],
+      "duration_ms": 173943,
+      "name": "Cosme Velho",
+      "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -591,6 +591,26 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
+        "name": "Studio Rio Presents: The Brazil Connection",
+        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Studio Rio",
+          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "You've Changed - Studio Rio Version",
+      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
         "name": "Jazz + Bossa",
         "url": "https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 183746,
       "name": "One Note Samba",
       "url": "https://open.spotify.com/track/3P9ykpmg0veqHJ0gJ6zG1i"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
-        "name": "Studio Rio Presents: The Brazil Connection",
-        "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Studio Rio",
-          "url": "https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "You've Changed - Studio Rio Version",
-      "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "The Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
       "artists": [
         {
-          "name": "Moonlight Jazz Trio",
-          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 232261,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
+      "duration_ms": 301543,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Diavola",
-        "url": "https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU"
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
       },
       "artists": [
         {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+          "name": "Moonlight Jazz Trio",
+          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
         }
       ],
-      "duration_ms": 232866,
-      "name": "Bossy Nova",
-      "url": "https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn"
+      "duration_ms": 232261,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -807,18 +807,18 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+        "name": "Diavola",
+        "url": "https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
         }
       ],
-      "duration_ms": 301543,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
+      "duration_ms": 232866,
+      "name": "Bossy Nova",
+      "url": "https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Way Down Low",
-        "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "What Else Can I Do",
-      "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Nature Boy",
         "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
+        "name": "Way Down Low",
+        "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "What Else Can I Do",
+      "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
         "name": "Momento",
         "url": "https://open.spotify.com/album/1DLInOTT0GPK7hUhJ8uIUn"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Bossa Carioca",
-        "url": "https://open.spotify.com/album/5WfEnzMAxpWRjUOLPqS9Ig"
-      },
-      "artists": [
-        {
-          "name": "Central Park Quartet",
-          "url": "https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4"
-        }
-      ],
-      "duration_ms": 218874,
-      "name": "Bossa Carioca",
-      "url": "https://open.spotify.com/track/5xbU8R70DaX0eSXgMYiGwc"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Quarteto Jobim-Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 233499,
       "name": "S\u00f3 Tinha de Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Bossa Carioca",
+        "url": "https://open.spotify.com/album/5WfEnzMAxpWRjUOLPqS9Ig"
+      },
+      "artists": [
+        {
+          "name": "Central Park Quartet",
+          "url": "https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4"
+        }
+      ],
+      "duration_ms": 218874,
+      "name": "Bossa Carioca",
+      "url": "https://open.spotify.com/track/5xbU8R70DaX0eSXgMYiGwc"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "The Cole Porter Mix",
-        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
-      },
-      "artists": [
-        {
-          "name": "Patricia Barber",
-          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Double Rainbow",
         "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 284133,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "The Cole Porter Mix",
+        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
+      },
+      "artists": [
+        {
+          "name": "Patricia Barber",
+          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
+        "name": "Telecoteco",
+        "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
+      },
+      "artists": [
+        {
+          "name": "Paula Morelenbaum",
+          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "Teleco-Teco",
+      "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
         "name": "Lullaby for Dreaming",
         "url": "https://open.spotify.com/album/430vwTtYup6dRlSRkti1ge"
       },
@@ -1307,38 +1323,6 @@
       "duration_ms": 174561,
       "name": "Lullaby for Dreaming",
       "url": "https://open.spotify.com/track/2jh30POVfh10M3JAgNXOBL"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
-        "name": "Telecoteco",
-        "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
-      },
-      "artists": [
-        {
-          "name": "Paula Morelenbaum",
-          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
-        }
-      ],
-      "duration_ms": 218346,
-      "name": "Teleco-Teco",
-      "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
-        "name": "That\u2019s your heart",
-        "url": "https://open.spotify.com/album/5VKkml79oNScaoaXvSJRXu"
-      },
-      "artists": [
-        {
-          "name": "Leandro Amor Trio",
-          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
-        }
-      ],
-      "duration_ms": 195830,
-      "name": "That\u2019s your heart",
-      "url": "https://open.spotify.com/track/78VDXrW8p9NtJnJA6pU1op"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1371,6 +1355,22 @@
       "duration_ms": 161860,
       "name": "Lonely Desires",
       "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "That\u2019s your heart",
+        "url": "https://open.spotify.com/album/5VKkml79oNScaoaXvSJRXu"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "duration_ms": 195830,
+      "name": "That\u2019s your heart",
+      "url": "https://open.spotify.com/track/78VDXrW8p9NtJnJA6pU1op"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Cande y Paulo",
-        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 226658,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
         "name": "Black Orpheus",
         "url": "https://open.spotify.com/album/1uIZcgp7yorDXZFTY7Eh53"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 254533,
       "name": "Black Orpheus",
       "url": "https://open.spotify.com/track/2gURzEbMFhxw1ujKV3v1HY"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
+        "name": "Cande y Paulo",
+        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 226658,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR"
+      },
+      "artists": [
+        {
+          "name": "Hiro Suzuki",
+          "url": "https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth"
+        }
+      ],
+      "duration_ms": 420811,
+      "name": "Vespertine",
+      "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
+    },
+    {
+      "added_at": "2026-10-23 13:09:09",
+      "album": {
         "name": "O Pato",
         "url": "https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q"
       },
@@ -1623,18 +1639,18 @@
     {
       "added_at": "2026-10-23 13:09:09",
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR"
+        "name": "Noites de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/3EFMIRvfIXIhXbtXcmjF4P"
       },
       "artists": [
         {
-          "name": "Hiro Suzuki",
-          "url": "https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth"
+          "name": "Ballroom Jazz Collective",
+          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
         }
       ],
-      "duration_ms": 420811,
-      "name": "Vespertine",
-      "url": "https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34"
+      "duration_ms": 192984,
+      "name": "Noites de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/3J2A6l5wdDu5okpp9l4MO9"
     },
     {
       "added_at": "2026-10-23 13:09:09",
@@ -1655,22 +1671,6 @@
       "duration_ms": 262869,
       "name": "\u00c9 Preciso Perdoar",
       "url": "https://open.spotify.com/track/4wauUZpotzqJuZBULcI8vt"
-    },
-    {
-      "added_at": "2026-10-23 13:09:09",
-      "album": {
-        "name": "Noites de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/3EFMIRvfIXIhXbtXcmjF4P"
-      },
-      "artists": [
-        {
-          "name": "Ballroom Jazz Collective",
-          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
-        }
-      ],
-      "duration_ms": 192984,
-      "name": "Noites de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/3J2A6l5wdDu5okpp9l4MO9"
     },
     {
       "added_at": "2026-10-23 13:09:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,486,251 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,486,212 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 39 | [Dame Hombro](https://open.spotify.com/track/1FXksRH3lFxHPlBauolc3C) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Kevin Wai](https://open.spotify.com/artist/51juLUSUPiiS1aWyVPbd2o), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp) | [Dame Hombro](https://open.spotify.com/album/3jQsz4uZDT3oZJEzcxKUjq) | 2:04 |
 | 40 | [TONY STARK](https://open.spotify.com/track/5OcA5fUtXcUEvJ8EqwySYI) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [ALEA](https://open.spotify.com/artist/0e2PLJB0Wx0J5vvt5wzijo) | [FILIPENSES](https://open.spotify.com/album/4DMT2uifXl6SjFZNHTx3IO) | 2:38 |
 
-Snapshot ID: `AAAAAMTclIti4eg9uIabKDa68N+4m12L`
+Snapshot ID: `AAAAAK/r7ByM6dcZVD20vkGUa1iocoOC`

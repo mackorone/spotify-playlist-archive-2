@@ -2,9 +2,9 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment avec Charlotte Cardin
+> Voici les hits du moment avec Alicia Moffet
 
-764 songs - 1 day 16 hr 12 min
+765 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Break Like a Bottle](https://open.spotify.com/track/5bS0R7dEFYHvIOK1sy3i0N) | [Sorrene](https://open.spotify.com/artist/7gtvuGFtopwxP14Spa1OR6) | [Break Like a Bottle](https://open.spotify.com/album/0rkI9u24cCWE2jht32n7Kn) | 3:30 | 2025-11-07 | 2026-03-11 |
 | [Briller \- Golden \- version française](https://open.spotify.com/track/4Zg2p0S5G6dxF3xCmRBv3R) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [Alexiane Broque](https://open.spotify.com/artist/5qIdeu6LWidREML9dzL0WD), [Jeanne Jérosme](https://open.spotify.com/artist/55MG6lE79B7ClZe6nMSnrK), [Clotilde Verry](https://open.spotify.com/artist/5QrZth2MNx8LlLnzkVaqKr), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [Golden \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab) | 3:12 | 2025-10-17 | 2026-03-11 |
 | [Broken \- Radio Edit](https://open.spotify.com/track/3f5w7CK8pCKwlijBz0vann) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Ses Plus Grands Succès](https://open.spotify.com/album/2VERbKTPxuqen1yO2ISCaH) | 2:41 | 2022-07-09 | 2023-04-01 |
+| [Brokie](https://open.spotify.com/track/2IuiVOploNTYCiJI30PJdw) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Brokie](https://open.spotify.com/album/4TpAHIAKmLrbn66UOmvu4c) | 2:14 | 2026-11-20 |  |
 | [BUSINESS CLASS](https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE \(Deluxe\)](https://open.spotify.com/album/5bEAst4zPVbagufynpA9L2) | 2:47 | 2023-12-15 | 2024-03-09 |
 | [Buzzé \- Hip\-Hop](https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [Buzzé Pack](https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI) | 3:13 | 2026-05-29 | 2026-06-27 |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-12-08 | 2024-06-15 |
@@ -246,7 +247,7 @@
 | [Fabienk](https://open.spotify.com/track/4UXwfhy8RTOcH0QWJF8SMg) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Fabienk](https://open.spotify.com/album/3K7nUC1QKBJi7iB9VSX9GZ) | 6:31 | 2026-03-10 |  |
 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2022-07-30 | 2022-12-06 |
 | [Fake Friends](https://open.spotify.com/track/0fLtJ2vxAkjyRuERSu5rkx) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Billie du Page](https://open.spotify.com/album/0PyyoYubTwyIKo8m3v2hUX) | 3:00 | 2024-10-25 | 2026-01-15 |
-| [Fancy Footwork](https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR) | 3:12 | 2026-11-13 |  |
+| [Fancy Footwork](https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR) | 3:12 | 2026-11-13 | 2026-11-20 |
 | [FASHION DESIGNA](https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 3:04 | 2025-06-23 | 2025-11-29 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-03-31 | 2024-03-30 |
 | [Father Figure](https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:32 | 2025-10-31 | 2025-12-06 |

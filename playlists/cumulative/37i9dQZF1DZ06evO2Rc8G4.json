@@ -206,10 +206,28 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 351866,
       "name": "Confide in Me",
       "url": "https://open.spotify.com/track/0U0VCzqz0CvbjrYOFKQC6W"
+    },
+    {
+      "album": {
+        "name": "Step Back In Time: The Definitive Collection",
+        "url": "https://open.spotify.com/album/5LbkKNdkkCft2ckR4HXXMx"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265826,
+      "name": "Confide in Me - Radio Mix",
+      "url": "https://open.spotify.com/track/2NV8AiDpEeLEzOJtWfXfAH"
     },
     {
       "album": {

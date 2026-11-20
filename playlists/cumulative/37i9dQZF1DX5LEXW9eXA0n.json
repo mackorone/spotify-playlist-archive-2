@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: KYUHYUN) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Huh Gak (\ud5c8\uac01)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -532,6 +532,24 @@
       "duration_ms": 189200,
       "name": "A Long Night",
       "url": "https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG"
+    },
+    {
+      "album": {
+        "name": "A Long Walk",
+        "url": "https://open.spotify.com/album/07gI9IfiaXTCCqCjv3OT6z"
+      },
+      "artists": [
+        {
+          "name": "sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300379,
+      "name": "A Long Walk",
+      "url": "https://open.spotify.com/track/51E7iHowmkvPBSJ89YG6JF"
     },
     {
       "album": {
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 244000,
       "name": "Awkward Star",
       "url": "https://open.spotify.com/track/2qOuSjBtfv2nUPLZTQrnhz"
@@ -4052,6 +4070,24 @@
       "duration_ms": 223373,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/7gnX5DpYwAguO3sfF4b7fY"
+    },
+    {
+      "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/3a8Kyai6Da9yctrO3QKYcV"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "By Tomorrow",
+      "url": "https://open.spotify.com/track/3qxGJ96vYUruzYtuWoLKei"
     },
     {
       "album": {
@@ -16386,7 +16422,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-20",
       "duration_ms": 263896,
       "name": "LOVE FOUND ME",
       "url": "https://open.spotify.com/track/27qfIySSaLAhMCwZ5yqpOL"

@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/2IJJpADlzqeKPDnCtdOHGx"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193903,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/4NCWtl5MC0XUA7cG6ztTIB"
+    },
+    {
+      "album": {
         "name": "Things to Come",
         "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
       },

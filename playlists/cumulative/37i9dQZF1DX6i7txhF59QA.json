@@ -8059,6 +8059,24 @@
     },
     {
       "album": {
+        "name": "It's still love",
+        "url": "https://open.spotify.com/album/6pUbGx4oaxWX9wwM3dxBNh"
+      },
+      "artists": [
+        {
+          "name": "Hong Sung Youn",
+          "url": "https://open.spotify.com/artist/0Zq7wKSkwD6hreXOWtmXym"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202906,
+      "name": "It's still love",
+      "url": "https://open.spotify.com/track/1amEyfYN8Y9rLx7WlpZwmM"
+    },
+    {
+      "album": {
         "name": "It\u2032s CALL!",
         "url": "https://open.spotify.com/album/2RaXwodOLvYzvgMjErWKTW"
       },

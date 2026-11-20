@@ -4,7 +4,7 @@
 
 > This is Volker Bertelmann\. The essential tracks, all in one playlist.
 
-90 songs - 3 hr 16 min
+91 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Carriages Approaching](https://open.spotify.com/track/1LadRPfP4J0BFC1OWNK9Hj) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [The Uprising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6) | 1:55 | 2026-10-03 | 2026-10-10 |
 | [Clayface Theme](https://open.spotify.com/track/4vOBLXB7suBj1TfVjlJIQJ) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M) | 1:54 | 2026-10-25 |  |
 | [Clayface Theme](https://open.spotify.com/track/5rM5qO8taQbwguyBUxLxrs) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface Theme](https://open.spotify.com/album/6Lj7OEb9GcnZ9GeaFa9Wcj) | 1:54 | 2026-10-13 | 2026-10-25 |
+| [Click Alert](https://open.spotify.com/track/6NYtV32dC0MLa56UzXp6C0) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [A House Of Dynamite \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1hUQ6j8EMIi4LZ4WjZtnmm) | 1:15 | 2026-11-20 |  |
 | [Congratulations](https://open.spotify.com/track/1hj31Emj2w0Jdvw15FY1iW) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Pressure \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K) | 4:22 | 2026-11-08 |  |
 | [Data](https://open.spotify.com/track/35m6BvyDq5xz0WY42EbXdm) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Pressure \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K) | 2:35 | 2026-10-03 |  |
 | [DEFCON 2](https://open.spotify.com/track/0Bsg2HB2Wa05Y1nrzeP0AH) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [A House Of Dynamite \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1hUQ6j8EMIi4LZ4WjZtnmm) | 1:06 | 2026-10-20 | 2026-11-04 |
@@ -78,7 +79,7 @@
 | [Seal the Room](https://open.spotify.com/track/6DuQ7ojvl1RTLbsguBQaCO) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 2:02 | 2026-11-10 |  |
 | [Seeing Things](https://open.spotify.com/track/4Tbmj9ybqrhoDkOEmX7N95) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Verity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2) | 2:34 | 2026-10-20 | 2026-10-31 |
 | [Shots in the Woods](https://open.spotify.com/track/08nJshNf9whdrbe6vPZviQ) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Dead of Winter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/05N5gKavSFywtKg7vhYwfV) | 2:32 | 2026-10-03 |  |
-| [Sie denkt es auch](https://open.spotify.com/track/3KIGjTRZGEdPItZIedMrT0) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [BEN WINKLER](https://open.spotify.com/artist/0uZx4cQRvxeZU3fRMNhSrl) | [Die Falle \(Soundtrack der Netflix Serie\)](https://open.spotify.com/album/5FhnZw1yLr4FEu6oyOgKkc) | 1:51 | 2026-11-13 |  |
+| [Sie denkt es auch](https://open.spotify.com/track/3KIGjTRZGEdPItZIedMrT0) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [BEN WINKLER](https://open.spotify.com/artist/0uZx4cQRvxeZU3fRMNhSrl) | [Die Falle \(Soundtrack der Netflix Serie\)](https://open.spotify.com/album/5FhnZw1yLr4FEu6oyOgKkc) | 1:51 | 2026-11-13 | 2026-11-20 |
 | [Sisterhood Choir Ritual](https://open.spotify.com/track/5sLIOmna8EQfnHjypmhFr9) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Dune: Prophecy \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/5ewoEIF9JE6aiEYT1bTwmL) | 1:04 | 2026-10-24 | 2026-10-26 |
 | [So Be It](https://open.spotify.com/track/3ZJ81lCOZqJ8XC41YbHuMt) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Verity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2) | 1:15 | 2026-11-08 |  |
 | [Soviel zu Ihrem Versprechen](https://open.spotify.com/track/5u9T56eYXNvqLzCjkdR5kH) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [BEN WINKLER](https://open.spotify.com/artist/0uZx4cQRvxeZU3fRMNhSrl) | [Die Falle \(Soundtrack der Netflix Serie\)](https://open.spotify.com/album/5FhnZw1yLr4FEu6oyOgKkc) | 1:34 | 2026-11-08 |  |
